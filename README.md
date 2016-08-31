@@ -15,12 +15,15 @@
 ##Data sourcing:
 
 ⋅⋅*TODO: Source live data from Ironman website (leverage Coach Cox's perl script?)
+
 ⋅⋅*TODO: Source results data from USAT website
+
 ⋅⋅*TODO: Do analysis to look for more sources of results data and participant data
 
 ##Live analysis:
 
 ⋅⋅*TODO: Live predictive modelling of athletes' predicted finish time from live pacting data
+
 ⋅⋅*TODO: Model guesstimate of power and add to results? (Contact BBS to see if any synergies)
 
 ##Rolldown:
