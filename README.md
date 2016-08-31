@@ -2,15 +2,15 @@
 
 ##Functionalities:
 
-⋅⋅*TODO: Implement results and paritipants loading capability
+⋅⋅* TODO: Implement results and paritipants loading capability
 
-⋅⋅*TODO: Expose results and participants via REST
+⋅⋅* TODO: Expose results and participants via REST
 
-⋅⋅*TODO: Deploy rest service to a couple cloud vendors
+⋅⋅* TODO: Deploy rest service to a couple cloud vendors
 
-⋅⋅*TODO: Create an R-server which allows processing of data from REST service
+⋅⋅* TODO: Create an R-server which allows processing of data from REST service
 
-⋅⋅*TODO: Store all athletes info in Elastic Search and allow for easy searching
+⋅⋅* TODO: Store all athletes info in Elastic Search and allow for easy searching
 
 ##Data sourcing:
 
