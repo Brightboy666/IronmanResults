@@ -15,11 +15,16 @@ def returnAG(sex, age):
     if age < 18:
         return "Error"
     
+    if  "MALE" in sex:
+        sex = "M"
+    elif "FEMALE" in sex:
+        sex = "F"
+    
     return "{}{}-{}".format(sex, lowerAge, upperAge).strip()
 
 def outputAthlete(record):
     output = [
-        (record[1] + ' ' + record[0]).strip(),
+        (record[1].rstrip() + ' ' + record[0].rstrip()).strip().replace('\t', ''),
         returnAG(record[2], record[3]), 
         "" if len(record) == 4 else record[4].strip()
     ] #No home state
@@ -31,9 +36,9 @@ def outputAthlete(record):
 if __name__ == '__main__':
     pass
 
-file = open('lou.txt', 'r')
+file = open('hefei.txt', 'r')
 
-with open("im louisville.csv", "wb") as f:
+with open("im hefei.csv", "wt") as f:
     writer = csv.writer(f)
     
     for line in file:
