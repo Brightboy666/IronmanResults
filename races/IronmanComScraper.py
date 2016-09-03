@@ -2,6 +2,7 @@
 import csv
 from bs4 import BeautifulSoup
 import pickle
+import re
 
 from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
@@ -47,8 +48,52 @@ def outputRaceResults(url):
                         name = h.contents[0].strip()
                         break
 
-                strongTags = soup.findAll('Strong')
 
+                bib = ""
+                age = ""
+                state = ""
+                country = ""
+
+
+                genInfo = soup.find('table', id="general-info").find('tbody')
+                for tr in genInfo.findAll('tr'):
+                    value = tr.findAll('td')[0].contents[0].contents[0]                                        
+                    print(value)
+                    
+                    if "BIB" in value:
+                        bib = tr.findAll('td')[1].contents[0]
+                    elif "Age" in value:
+                        age = tr.findAll('td')[1].contents[0]
+                    elif "State" in value:
+                        state = tr.findAll('td')[1].contents[0]
+                    elif "Country" in value:
+                        country = tr.findAll('td')[1].contents[0]
+
+                swimTime=""
+                bikeTime=""
+                runTime=""
+                overallTime=""
+
+                splitsTable = soup.find('table', id="athelete-details").find('tbody')
+                for tr in splitsTable.findAll('tr'):
+                    value = tr.findAll('td')[0].contents[0].contents[0]                                        
+                    print(value)
+                    
+                    if "Swim" in value:
+                        swimTime = tr.findAll('td')[1].contents[0]
+                    elif "Bike" in value:
+                        bikeTime = tr.findAll('td')[1].contents[0]
+                    elif "Run" in value:
+                        runTime = tr.findAll('td')[1].contents[0]
+                    elif "Overall" in value:
+                        overallTime = tr.findAll('td')[1].contents[0]
+
+
+                rank = soup.find('div', id="div-rank").contents[1] #overall rank. DIV ID is poorly named
+                divRank = soup.find('div', id="rank").contents[1] #div rank. DIV ID is poorly named
+                genderRank = soup.find('div', id="gen-rank").contents[1] #overall rank. DIV ID is poorly named
+                
+                #title = soup.find('p', text = re.compile(ur"Transition Details", re.DOTALL))
                 print(name)
             
             
