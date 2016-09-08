@@ -1,117 +1,231 @@
 
-import csv
 from bs4 import BeautifulSoup
+import concurrent.futures
+import csv
+import logging
+from multiprocessing import Pool
+from multiprocessing.dummy import Pool as ThreadPool 
+import os.path
 import pickle
 import re
-
-from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
+from urllib.request import Request, urlopen
 
-headers = {'User-Agent':'Mozilla/5.0'}
+from htmlCache import UrlOpen
+
+
+logging.basicConfig(filename='warnings_errors.log',level=logging.WARNING)  
 results_folder = "results"
 
-def getTitle(soup):
-    try:
-        return soup.find('meta')['content']
-    except:
-        return ""
-    
-
 def getsoup(url):
-    req = Request(url, None, headers)
-    html = urlopen(req).read()
-    soup = BeautifulSoup(html, "lxml") # a list to hold our urls
-    return soup
+    html =  UrlOpen.UrlOpen().getHTML(url)
+    
+    if html is None:
+        print("No html found for "+ url)
+        return None
+    else:
+        soup = BeautifulSoup(html, "lxml") # a list to hold our urls
+        return soup
 
-def outputRaceResults(url):
-    soup = getsoup(url)
-    
-    race = url.split('/')[6] +'-'+ url.split('/')[7]+'-'+ url.split('/')[8].split('=')[1]+".csv"
-    
-    with open(results_folder +"/"+ race, "wt") as f:
-        writer = csv.writer(f) 
-        writer.writerow(["#"+race])
-              
-        for i in range(174,3000):
-            
-            try:
-                len(soup.find('iframe', {"id":"trackerFrame"}))> 0
-                break
-            except:
-                athlete = url +"&bidid={}&detail=1".format(i)
-                soup = getsoup(athlete)
-                
-                name = ""
-                
-                for h in soup.findAll('h1'):
-                    if h.parent.name == 'header' and h.contents[0].strip() != "":
+
+def getAthleteName(soup):
+    name = ""
+    try:
+        for h in soup.findAll('h1'):
+            if h.parent.name == 'header':
+                if h.contents[0].strip() != "":
+                    if "View Full" not in h.contents[0].strip():
                         name = h.contents[0].strip()
                         break
+    except:
+        pass
+    
+    return name
 
+def scrapeAthlete(soup, race):
+    name = getAthleteName(soup)
+    
+    if name == "":
+        return []
+    
+    bib = ""
+    age = ""
+    state = ""
+    country = ""
+    genInfoTable = soup.find('table', id="general-info")
+    
+    if genInfoTable is None:
+        return []
+    
+    genInfo = genInfoTable.find('tbody')
+    for tr in genInfo.findAll('tr'):
+        value = tr.findAll('td')[0].contents[0].contents[0]
+        if "BIB" in value:
+            bib = tr.findAll('td')[1].contents[0]
+        elif "Age" in value:
+            age = tr.findAll('td')[1].contents[0]
+        elif "State" in value:
+            state = tr.findAll('td')[1].contents[0]
+        elif "Country" in value:
+            country = tr.findAll('td')[1].contents[0]
+    
+    swimTime = ""
+    bikeTime = ""
+    runTime = ""
+    overallTime = ""
+    
+    splitsTable = soup.find('table', id="athelete-details").find('tbody')
+    for tr in splitsTable.findAll('tr'):
+        value = tr.findAll('td')[0].contents[0].contents[0]
+        if "Swim" in value:
+            swimTime = tr.findAll('td')[1].contents[0]
+        elif "Bike" in value:
+            bikeTime = tr.findAll('td')[1].contents[0]
+        elif "Run" in value:
+            runTime = tr.findAll('td')[1].contents[0]
+        elif "Overall" in value:
+            overallTime = tr.findAll('td')[1].contents[0]
+    
+    rank = soup.find('div', id="div-rank").contents[1] #overall rank. DIV ID is poorly named
+    divRank = soup.find('div', id="rank").contents[1] #div rank. DIV ID is poorly named
+    genderRank = soup.find('div', id="gen-rank").contents[1] #overall rank. DIV ID is poorly named
+    
+    t1Time = soup.find(text=re.compile("T1")).parent.parent.findAll("td")[1].text
+    t2Time = soup.find(text=re.compile("T2")).parent.parent.findAll("td")[1].text
+    
+    row = [race, bib, name, age, state, country, swimTime, bikeTime, runTime, t1Time, t2Time, overallTime]
+    return row
 
-                bib = ""
-                age = ""
-                state = ""
-                country = ""
-
-
-                genInfo = soup.find('table', id="general-info").find('tbody')
-                for tr in genInfo.findAll('tr'):
-                    value = tr.findAll('td')[0].contents[0].contents[0]                                        
-                    print(value)
-                    
-                    if "BIB" in value:
-                        bib = tr.findAll('td')[1].contents[0]
-                    elif "Age" in value:
-                        age = tr.findAll('td')[1].contents[0]
-                    elif "State" in value:
-                        state = tr.findAll('td')[1].contents[0]
-                    elif "Country" in value:
-                        country = tr.findAll('td')[1].contents[0]
-
-                swimTime=""
-                bikeTime=""
-                runTime=""
-                overallTime=""
-
-                splitsTable = soup.find('table', id="athelete-details").find('tbody')
-                for tr in splitsTable.findAll('tr'):
-                    value = tr.findAll('td')[0].contents[0].contents[0]                                        
-                    print(value)
-                    
-                    if "Swim" in value:
-                        swimTime = tr.findAll('td')[1].contents[0]
-                    elif "Bike" in value:
-                        bikeTime = tr.findAll('td')[1].contents[0]
-                    elif "Run" in value:
-                        runTime = tr.findAll('td')[1].contents[0]
-                    elif "Overall" in value:
-                        overallTime = tr.findAll('td')[1].contents[0]
-
-
-                rank = soup.find('div', id="div-rank").contents[1] #overall rank. DIV ID is poorly named
-                divRank = soup.find('div', id="rank").contents[1] #div rank. DIV ID is poorly named
-                genderRank = soup.find('div', id="gen-rank").contents[1] #overall rank. DIV ID is poorly named
-                
-                #title = soup.find('p', text = re.compile(ur"Transition Details", re.DOTALL))
-                print(name)
+#Gets the max bib for a race that we've already scraped and continues searching from that
+#If it returns isEmptyRace=True it means we've already tried scraping it and ascertained there 
+#are no results in it (for some reason Ironman has pages that exist for races that didn't.
+def getMaxBib(fileLocation):
+    maxBib = 1;
+    isEmptyRace = False
+    
+    with open(fileLocation, "rt") as f:
+        reader = csv.reader(f)
+           
+        for row in reader:
+            if len(row) > 1:
+                try:
+                    maxBib = max(int(row[1]), maxBib) #Will keep going until the last bib available in the file
+                except:
+                    pass
+            else:
+               line = row[0]
+               if "#EmptyRace" in line:
+                   isEmptyRace = True 
             
+    return maxBib, isEmptyRace
+
+#Provides the links to individual race results for previous years
+#Scrapes the file by going through every bib number
+def outputRaceResults(url):
+    try:
+        soup = getsoup(url)
+        
+        #Race distance/race location/race date!, e.g.
+        #ironman-70.3-zell-am-see-kaprun-20150829.csv
+        race = url.split('/')[6] +'-'+ url.split('/')[7]+'-'+ url.split('/')[8].split('=')[1]+".csv"
+        
+        fileLocation = results_folder + "/" + race
+        
+        startBib = 1
+        if os.path.exists(fileLocation):
+            #THIS IS USED TO RESTART SCRAPING FOR A RACE WHERE WE ALREADY HAVE RESULTS
+            #IT WILL FIND THE HIGHEST BIB NUMBER IN THE CSV AND RESTART FROM THERE.
             
+            maxBibInFile, isEmptyRace = getMaxBib(fileLocation)
+            
+            if isEmptyRace:
+                print("Empty Race found "+ fileLocation)
+                return
+            
+            startBib = max(startBib, maxBibInFile)
+            
+        
+        with open(fileLocation, "at") as f:
+            writer = csv.writer(f) 
+            
+            maxBib = 100 #We'll start looking through the first 100 in case the first few numbers aren't assigned.
+            
+            if startBib < 2: #Don't need to add headers as they'll be in there already
+                writer.writerow(["#File="+race])      
+                writer.writerow(['race', 'bib', 'name', 'age', 'state', 'country', 'swimTime', 'bikeTime', 'runTime', 't1Time', 't2time', 'overallTime'])
+            else:
+                maxBib = startBib + 100 #If we're restarting we'll look through the next 100 numbers for more people
+            
+                    
+            emptyRace = True        
+            
+            try:            
+                #WILL KEEP SEARCHING FOR ATHLETES UNTIL IT FINDS 50 NUMBERS CONSECUTIVELY WHERE THERE
+                #ARE NO RESULTS. NEED TO TEST IF THERE ARE ANY RACES WHERE THE BIBS START ABOVE 50, E.G. AN AMATEUR RACE WITH NO PROS?
+                for i in range(startBib,3500):
+                    if i > maxBib:
+                        break
+                    
+                    try:
+                        len(soup.find('iframe', {"id":"trackerFrame"}))> 0
+                        logging.debug("Ignoring "+ url) #Research shows iframes for results are only used when the results are blank
+                        break
+                    except:
+                        athlete = url +"&bidid={}&detail=1".format(i)
+                                            
+                        soup = getsoup(athlete)                
+                        row = scrapeAthlete(soup, race)
+                        
+                        if len(row) > 0:
+                            emptyRace = False
+                            writer.writerow(row)
+                            print(row)
+                            maxBib = max(maxBib, i + 50)
+            except Exception as e:
+                logging.error("Error with "+url +". "+ str(e))
+                emptyRace = False
+                #We don't know if it is fact, empty, yet.
+        
+            if emptyRace:
+                writer.writerow(['#EmptyRace'])
+                writer.writerow(['#HighestBibChecked='+str(maxBib)])
+    except Exception as e:
+            logging.exception("Unknown Error with "+url +". ")
+
+               
+#Visits the home page for each race and then traverses the
+#DOM to grab all links to previous results            
 def getResultUrls(urls):   
+    
     result_urls=[] 
     for url in urls:
         soup = getsoup(url)
         
-        url = soup.find('div', {"class": "navWrapper"}).find('a', href=True, text='Results')['href']        
-        soup = getsoup(url)        
+        try:            
+            resultsLink = soup.find('div', {"class":"navWrapper"}).find('a', href=True, text='Results')
+            
+            if resultsLink is None:
+                logging.debug("No results found for "+ url)
+                continue
+            
+            url = resultsLink['href'] 
+                 
+            soup = getsoup(url)        
         
-        #div = soup.findAll("ul"
-        links = soup.find('ul', { "id" : "raceResults" }).findAll('a', href=True)
-        
-        for link in links:
-            result_urls.append(link['href'])
-        
-    return result_urls
+            #div = soup.findAll("ul"
+            raceResultsUL = soup.find('ul', {"id":"raceResults"})
+            
+            if raceResultsUL is None:
+                logging.warning(url + ' has results in the non-standard format')
+                continue
+            
+            links = raceResultsUL.findAll('a', href=True)
+            
+            for link in links:
+                result_urls.append(link['href'])
+        except Exception as e:
+            logging.exception("Error with "+url +". ")
+    return set(result_urls)
 
 def getResultsPages():
     # parts of paginated urls
@@ -122,10 +236,10 @@ def getResultsPages():
     try:
         homepage_url = 'http://www.ironman.com/triathlon/coverage/past.aspx#axzz4J3QWfTDf'
         
+        #FINDS ALL RACES LISTED
+        #NEED TO FIGURE OUT A WAY TO MONITOR NEW RESULTS? I BELIEVE LIVE RACE RESULTS HAVE A DIFFERENT FORMAT.
         while (morePages):    
-            req = Request(homepage_url, None, headers)
-            html = urlopen(req).read()
-            soup = BeautifulSoup(html, "lxml") # a list to hold our urls
+            soup = getsoup(homepage_url)
             links = soup.findAll('a', href=True, text='Event Details')
             for link in links[1:]:
                 try:
@@ -137,18 +251,15 @@ def getResultsPages():
                 link = soup.find('a', href=True, title="Next")
                 homepage_url = link['href']
                 morePages = True
-                return urls
+                #return urls
             except:
                 morePages = False
     
             print(homepage_url)
     except Exception as e:
-        print(e)
+            logging.exception("Error with "+ homepage_url +". ")
         
-    return urls
-
-
-outputRaceResults("http://www.ironman.com/triathlon/events/americas/ironman-70.3/foz-do-iguacu/results.aspx?rd=20160827")
+    return set(urls)
 
 urls = getResultsPages()    
 print(urls)
@@ -156,6 +267,6 @@ print(urls)
 urls = getResultUrls(urls)
 print(urls)
     
-for url in urls:
-    outputRaceResults(url)
-    
+with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
+    for url in urls:
+        pool.submit(outputRaceResults, url)    

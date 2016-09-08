@@ -1,0 +1,887 @@
+#File=ironman-austria-20160626.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-austria-20160626.csv,1,Marino Vanhoenacker,40,---,BEL,00:52:38,04:19:56,02:47:13,00:02:37,00:01:54,08:04:18
+ironman-austria-20160626.csv,2,Viktor Zyemtsev,43,FL,UKR,00:52:49,04:32:36,02:39:57,00:02:37,00:01:55,08:09:54
+ironman-austria-20160626.csv,3,Bart Aernouts,32,---,BEL,00:56:48,04:28:27,02:46:42,00:02:40,00:01:55,08:16:32
+ironman-austria-20160626.csv,4,David Plese,33,Intl State,SVN,---,---,---,---,---,DQ
+ironman-austria-20160626.csv,5,Mauro Baertsch,30,---,CHE,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,6,Alessandro Degasperi,35,Italy,ITA,00:52:39,04:32:39,02:42:58,00:02:40,00:02:57,08:13:53
+ironman-austria-20160626.csv,7,Paul Reitmayr,31,AT,AUT,00:52:42,04:24:08,02:58:34,00:02:36,00:01:52,08:19:52
+ironman-austria-20160626.csv,8,Michael Weiss,35,---,AUT,00:56:16,04:21:04,02:51:57,00:02:43,00:02:45,08:14:45
+ironman-austria-20160626.csv,9,Thiago Vinhal,33,Intl State,BRA,00:52:34,04:56:36,02:59:31,00:02:43,00:02:57,08:54:21
+ironman-austria-20160626.csv,10,Alberto Casadei,30,Intl State,ITA,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,11,Christian Birngruber,33,AT,AUT,00:56:13,04:28:42,---,00:03:09,00:02:16,DNF
+ironman-austria-20160626.csv,12,Paul Ruttmann,31,---,AUT,01:01:33,04:36:48,---,00:03:04,00:02:09,DNF
+ironman-austria-20160626.csv,13,Vincent Riess,30,AT,AUT,00:55:23,04:53:16,03:23:43,00:03:16,00:03:25,09:19:03
+ironman-austria-20160626.csv,14,Andreas Fuchs,41,AT,AUT,01:04:39,04:48:52,---,00:03:43,00:02:35,DNF
+ironman-austria-20160626.csv,15,Christoph Schlagbauer,26,Intl State,AUT,01:01:19,04:47:28,03:12:03,00:02:52,00:01:58,09:05:40
+ironman-austria-20160626.csv,16,Armin Atzlinger,29,AT,AUT,---,---,---,---,---,DQ
+ironman-austria-20160626.csv,17,Markus Mlinar,36,AT,AUT,01:05:19,04:57:08,04:18:59,00:02:58,00:03:32,10:27:56
+ironman-austria-20160626.csv,18,Lluis Vila Aguilar,32,ES,ESP,01:01:24,04:50:10,03:02:00,00:02:46,00:01:58,08:58:18
+ironman-austria-20160626.csv,19,Maximilian Gruber,22,AT,AUT,01:16:24,05:16:33,03:33:18,00:03:48,00:03:19,10:13:22
+ironman-austria-20160626.csv,20,Michael Louys,30,---,BEL,01:08:23,04:40:08,03:07:12,00:03:44,00:02:35,09:02:02
+ironman-austria-20160626.csv,22,Santiago Abad De Agueda,42,ES,ESP,01:05:20,---,---,00:04:40,---,DNF
+ironman-austria-20160626.csv,23,Bart Borghs,30,Intl State,BEL,01:04:51,04:48:08,02:53:29,00:03:07,00:02:25,08:52:00
+ironman-austria-20160626.csv,24,Ludovic Le Guellec,34,---,FRA,01:02:30,05:20:18,03:23:16,00:05:21,00:03:04,09:54:29
+ironman-austria-20160626.csv,25,Joan Capdevila,41,Intl State,ESP,01:01:38,04:51:40,03:06:12,00:04:24,00:03:21,09:07:15
+ironman-austria-20160626.csv,26,Stephan Trettin,30,DE,DEU,01:05:50,04:48:37,03:32:55,00:03:04,00:01:56,09:32:22
+ironman-austria-20160626.csv,27,Xavier Torrades,33,---,ESP,00:52:44,04:37:31,03:34:42,00:02:33,00:02:11,09:09:41
+ironman-austria-20160626.csv,28,Oriol Gili,33,ES,ESP,01:01:29,05:01:35,03:19:38,00:03:24,00:02:58,09:29:04
+ironman-austria-20160626.csv,29,Gergo Molnar,30,Intl State,HUN,00:52:45,04:46:05,03:37:37,00:02:36,00:02:28,09:21:31
+ironman-austria-20160626.csv,30,Jose Luis Cano Villanueva,48,---,ESP,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,31,Ivan Jezko,38,Slovakia,SVK,01:05:02,04:52:47,---,00:03:45,00:04:03,DNF
+ironman-austria-20160626.csv,32,Freddy Lampret,37,---,ZAF,00:55:36,05:00:38,---,00:02:54,00:07:18,DNF
+ironman-austria-20160626.csv,33,Marek Nemcik,40,Intl State,SVK,01:16:12,05:46:03,04:04:33,00:04:07,00:04:17,11:15:12
+ironman-austria-20160626.csv,34,Josef Svoboda,39,Intl State,CZE,01:23:00,05:22:29,03:47:30,00:06:19,00:04:54,10:44:12
+ironman-austria-20160626.csv,35,Oliver Simon,36,---,GBR,00:56:19,---,---,00:04:04,03:48:52,DNF
+ironman-austria-20160626.csv,36,Albert Garces,36,ES,ESP,01:11:03,05:03:11,---,00:04:11,00:05:41,DNF
+ironman-austria-20160626.csv,37,Reinaldo De Oliveira,38,FL,BRA,01:03:49,05:09:41,03:43:08,00:04:43,00:03:44,10:05:05
+ironman-austria-20160626.csv,38,Felipe Manente,27,Santa Catarina,BRA,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,39,Nicholas Chase,30,FL,USA,00:55:48,04:50:35,03:21:38,00:02:55,00:02:23,09:13:19
+ironman-austria-20160626.csv,40,Harri Sokk,30,Harjumaa,EST,01:01:08,04:47:06,03:11:58,00:03:35,00:02:52,09:06:39
+ironman-austria-20160626.csv,41,Pavel Simko,34,Intl State,SVK,00:55:27,04:33:04,03:04:37,00:02:51,00:02:15,08:38:14
+ironman-austria-20160626.csv,42,Michal Jalovecky,39,Intl State,CZE,01:08:55,05:45:42,03:29:41,00:03:29,00:02:58,10:30:45
+ironman-austria-20160626.csv,43,Antony Costes,26,---,FRA,00:52:36,04:24:20,---,00:02:26,00:01:55,DNF
+ironman-austria-20160626.csv,44,Matic Modic,29,Intl State,SVN,00:56:55,04:41:32,02:46:11,00:02:50,00:02:11,08:29:39
+ironman-austria-20160626.csv,45,Nicolas Hemet,38,---,FRA,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,46,Alen Kralj,38,Intl State,SVN,01:02:11,---,---,00:03:21,10:47:18,DNF
+ironman-austria-20160626.csv,47,Harry Wiltshire,33,Intl State,GBR,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,48,Denis Sketako,27,SLOVENIA,SVN,00:56:08,04:29:29,02:54:20,00:02:30,00:01:56,08:24:23
+ironman-austria-20160626.csv,49,Juha Laitinen,34,Intl State,FIN,01:08:29,04:56:26,03:07:01,00:03:46,00:03:23,09:19:05
+ironman-austria-20160626.csv,50,David Jilek,28,Intl State,CZE,01:01:25,04:47:17,03:13:27,00:03:10,00:02:34,09:07:53
+ironman-austria-20160626.csv,51,David Krupicka,39,CZ,CZE,01:09:00,05:09:49,04:02:32,00:04:18,00:03:19,10:28:58
+ironman-austria-20160626.csv,52,Martin Kleinl,35,---,AUT,01:09:18,04:45:29,---,00:03:00,00:02:29,DNF
+ironman-austria-20160626.csv,55,Lukas Polan,27,Czech Republic,SVK,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,57,Daniel Herlbauer,28,AT,AUT,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,61,Mirinda Carfrae,35,CO,AUS,00:59:15,04:47:38,02:49:06,00:03:10,00:02:08,08:41:17
+ironman-austria-20160626.csv,63,Michaela Herlbauer,29,---,AUT,00:59:14,04:53:47,02:59:22,00:02:55,00:02:05,08:57:23
+ironman-austria-20160626.csv,64,Bianca Steurer,30,---,AUT,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,65,Elisabeth Gruber,31,---,AUT,01:06:31,05:03:23,03:01:57,00:02:49,00:02:40,09:17:20
+ironman-austria-20160626.csv,66,Michaela Rudolf,44,Intl State,AUT,01:08:41,05:05:40,03:23:43,00:03:28,00:02:27,09:43:59
+ironman-austria-20160626.csv,68,Amber Ferreira,34,NH,USA,01:01:39,04:59:05,03:26:28,00:05:02,00:02:37,09:34:51
+ironman-austria-20160626.csv,69,Jana Candrova,40,Intl State,CZE,01:12:51,05:14:52,03:34:09,00:03:34,00:03:10,10:08:36
+ironman-austria-20160626.csv,71,Francesca Sanjana,31,---,GBR,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,72,Marlies Penker,43,AT,AUT,01:27:16,05:18:21,03:34:04,00:05:51,00:04:18,10:29:50
+ironman-austria-20160626.csv,73,Karen Thibodeau,37,BC,CAN,00:57:32,05:15:58,03:25:41,00:03:04,00:02:28,09:44:43
+ironman-austria-20160626.csv,82,Daniela Kolter,34,---,AUT,01:33:38,07:02:37,05:36:16,00:08:05,00:06:37,14:27:13
+ironman-austria-20160626.csv,83,Reinhold Garnitschnig,58,AT,AUT,01:05:26,05:14:21,04:03:04,00:04:35,00:04:00,10:31:26
+ironman-austria-20160626.csv,101,Igal Zamir,50,Israel,ISR,01:14:15,05:38:10,---,00:06:55,00:08:35,DNF
+ironman-austria-20160626.csv,102,Thomas Fox,50,DE,DEU,01:19:10,05:09:41,---,00:06:03,00:03:02,DNF
+ironman-austria-20160626.csv,103,Bill Beyer,55,VA,USA,01:07:58,05:15:18,04:33:20,00:04:43,00:04:31,11:05:50
+ironman-austria-20160626.csv,104,Morten Bank,45,DK,DNK,01:04:17,05:34:40,04:07:58,00:05:57,00:03:27,10:56:19
+ironman-austria-20160626.csv,105,Sami Laine,43,uusimaa,FIN,01:16:12,06:23:54,05:33:24,00:05:14,00:05:43,13:24:27
+ironman-austria-20160626.csv,106,Holger Pollmeier,46,DE,DEU,01:03:27,---,---,00:05:06,---,DNF
+ironman-austria-20160626.csv,107,Stefano Massa,49,---,ITA,01:03:21,05:39:06,04:25:13,00:04:57,00:04:08,11:16:45
+ironman-austria-20160626.csv,108,Steven Pressman,50,CA,USA,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,109,Walter Pye,50,CT,USA,01:24:23,06:42:46,04:19:18,00:13:05,00:13:15,12:52:47
+ironman-austria-20160626.csv,110,Harry Barto,59,NC,GUM,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,111,Andrea Zweibrot,43,AT,AUT,01:37:04,08:38:36,---,00:08:11,00:05:39,DNF
+ironman-austria-20160626.csv,112,Erich Artner,42,AT,AUT,01:14:27,05:52:21,03:56:55,00:07:04,00:10:20,11:21:07
+ironman-austria-20160626.csv,113,Simon Gänger,36,DE,DEU,01:32:59,05:46:45,04:08:09,00:06:04,00:04:08,11:38:05
+ironman-austria-20160626.csv,114,Martin Arnold,51,Herts,GBR,01:10:11,06:27:27,06:21:44,00:13:06,00:11:05,14:23:33
+ironman-austria-20160626.csv,115,Antonio Massimo Marra,54,italia,ITA,01:29:11,07:48:31,06:14:57,00:09:37,00:12:26,15:54:42
+ironman-austria-20160626.csv,116,Briana Boehmer,37,CO,USA,01:05:21,05:18:09,03:35:08,00:04:22,00:04:05,10:07:05
+ironman-austria-20160626.csv,117,Karin Linnersund,35,SE,SWE,01:10:33,05:27:32,04:13:47,00:05:34,00:06:57,11:04:23
+ironman-austria-20160626.csv,118,Katrine Amtkjaer Nielsen,37,---,DNK,01:10:01,---,03:10:37,---,06:29:24,09:40:01
+ironman-austria-20160626.csv,119,Andrea Memminger,39,---,DEU,01:09:18,05:44:24,04:06:50,00:04:23,00:03:31,11:08:26
+ironman-austria-20160626.csv,120,Alicja Medak,43,---,POL,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,121,Irina Tikhonovich,47,Mos,RUS,01:31:04,05:45:45,04:12:38,00:05:05,00:04:32,11:39:04
+ironman-austria-20160626.csv,122,Jane Hansom,47,---,GBR,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,123,Cai Lesaffer,51,---,BEL,01:24:24,06:04:25,04:29:11,00:07:42,00:06:04,12:11:46
+ironman-austria-20160626.csv,124,Charlotta Nilsson,51,---,SWE,00:59:02,05:26:21,04:22:01,00:03:54,00:03:46,10:55:04
+ironman-austria-20160626.csv,125,Durdica Orepic,52,---,HRV,01:19:58,06:03:38,04:29:43,00:05:52,00:04:24,12:03:35
+ironman-austria-20160626.csv,126,Anthony Cadario,25,FR,FRA,01:01:43,04:47:27,03:09:02,00:04:45,00:02:35,09:05:32
+ironman-austria-20160626.csv,127,Hannes Schell,27,---,AUT,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,128,Miguel Largo Flores,25,---,ESP,00:59:22,04:53:55,03:14:49,00:03:17,00:02:44,09:14:07
+ironman-austria-20160626.csv,129,Lars Dyrholm Hansen,32,---,DNK,00:57:25,04:42:32,03:25:20,00:03:20,00:03:03,09:11:40
+ironman-austria-20160626.csv,130,Alessandro Buccieri,34,ITALIA,ITA,01:01:52,04:49:43,03:15:25,00:04:17,00:02:35,09:13:52
+ironman-austria-20160626.csv,131,Stefan Overmars,29,NL,NLD,00:57:03,04:47:14,03:22:08,00:03:44,00:02:26,09:12:35
+ironman-austria-20160626.csv,132,Thomas Fürnschuss,33,AT,AUT,00:59:16,04:45:03,03:14:41,00:03:36,00:02:40,09:05:16
+ironman-austria-20160626.csv,133,Andy Gesellmann,33,---,AUT,01:00:24,05:19:04,03:32:05,00:05:29,00:05:10,10:02:12
+ironman-austria-20160626.csv,134,Simon Lovelock,33,---,GBR,01:02:26,05:14:05,03:17:19,00:03:58,00:02:53,09:40:41
+ironman-austria-20160626.csv,135,Gregory Jousset,31,FR,FRA,01:01:53,05:07:48,03:32:55,00:03:56,00:03:57,09:50:29
+ironman-austria-20160626.csv,136,Olivier Boquet,31,FR,FRA,01:02:58,04:49:00,03:26:03,00:03:45,00:03:57,09:25:43
+ironman-austria-20160626.csv,137,Rico Giovanoli,34,CH,CHE,01:09:10,04:49:30,03:18:39,00:06:05,00:03:03,09:26:27
+ironman-austria-20160626.csv,138,Patrick Dekorsi,30,ACT,DEU,00:59:41,04:55:43,03:30:31,00:03:56,00:02:40,09:32:31
+ironman-austria-20160626.csv,139,Jose Maria Lopez Morales,33,---,ESP,01:13:42,05:10:37,03:14:13,00:05:31,00:03:47,09:47:50
+ironman-austria-20160626.csv,140,Michael Boehmer,36,CO,USA,00:59:23,05:03:18,04:09:48,00:03:15,00:03:00,10:18:44
+ironman-austria-20160626.csv,141,Xavier Philippe,39,---,FRA,01:08:02,04:48:01,03:22:43,00:03:41,00:06:48,09:29:15
+ironman-austria-20160626.csv,142,Ralph Castelberg,36,---,CHE,01:03:25,05:26:55,03:52:46,00:05:11,00:05:37,10:33:54
+ironman-austria-20160626.csv,143,Kia Hsu,37,---,DEU,01:03:39,05:19:55,03:21:16,00:05:40,00:05:03,09:55:33
+ironman-austria-20160626.csv,144,Matej Paradiz,37,Intl State,SVN,00:57:02,04:47:26,03:33:29,00:04:05,00:03:45,09:25:47
+ironman-austria-20160626.csv,145,Paul Burton,35,---,GBR,00:55:51,04:49:08,03:14:51,00:03:29,00:02:21,09:05:40
+ironman-austria-20160626.csv,146,Tamás Séra,36,---,HUN,01:04:29,05:46:30,03:44:41,00:05:19,00:03:40,10:44:39
+ironman-austria-20160626.csv,147,Sebastjan Gergoric,38,Slovenia,SVN,01:06:04,04:59:20,03:05:45,00:03:43,00:03:32,09:18:24
+ironman-austria-20160626.csv,148,Shaun Mcgill,36,Tyne  and wear,GBR,01:04:11,05:00:43,03:25:11,00:05:15,00:03:21,09:38:41
+ironman-austria-20160626.csv,149,Benjamin Pernet,35,FR,FRA,00:49:54,04:49:51,03:18:14,00:03:23,00:02:36,09:03:58
+ironman-austria-20160626.csv,150,Christian Schinkel,36,DE,DEU,01:02:27,05:01:52,03:06:42,00:04:49,00:03:38,09:19:28
+ironman-austria-20160626.csv,151,Jens Müller,34,DE,DEU,00:55:51,04:41:27,02:57:23,00:03:31,00:02:19,08:40:31
+ironman-austria-20160626.csv,152,Dalibor Nosek,39,Holic,SVK,01:07:53,05:10:43,03:36:24,00:04:08,00:03:46,10:02:54
+ironman-austria-20160626.csv,153,Artur Zawadzki,38,mazowieckie,POL,01:05:25,04:52:53,03:19:13,00:04:13,00:04:01,09:25:45
+ironman-austria-20160626.csv,154,Shawn Van Der Meulen,35,---,ZAF,01:03:18,05:11:43,03:20:42,00:04:38,00:03:09,09:43:30
+ironman-austria-20160626.csv,155,Tony Cullen,42,---,GBR,00:59:53,04:40:08,03:11:05,00:03:34,00:02:20,08:57:00
+ironman-austria-20160626.csv,157,Vladimir Nikolaev,40,none,UKR,00:53:47,04:55:38,03:23:23,00:03:18,00:03:09,09:19:15
+ironman-austria-20160626.csv,158,Adrian Fowler,41,England,GBR,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,159,Danny Hannover,40,---,DEU,01:02:37,04:46:39,03:09:12,00:03:21,00:02:35,09:04:24
+ironman-austria-20160626.csv,160,Sam Gyde,41,Other,BEL,01:03:43,04:34:19,02:57:36,00:04:10,00:02:28,08:42:16
+ironman-austria-20160626.csv,161,Tomas Pritasil,43,Czech republic,CZE,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,162,Antonio Jose Adell Reverter,42,ES,ESP,01:02:55,05:00:01,03:19:32,00:03:42,00:03:37,09:29:47
+ironman-austria-20160626.csv,163,Yannick Henry,42,---,FRA,01:02:59,05:16:12,05:39:58,00:05:07,00:03:42,12:07:58
+ironman-austria-20160626.csv,164,Reinhard Winter,41,DE,AUT,01:05:04,04:51:05,03:09:11,00:03:51,00:03:03,09:12:14
+ironman-austria-20160626.csv,165,Robert Dahl Andersen,43,---,DNK,01:11:56,04:46:57,03:14:05,00:04:06,00:03:21,09:20:25
+ironman-austria-20160626.csv,166,Aitor Castañeyra,44,---,ESP,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,167,Alois Innerhofer,43,---,AUT,00:56:01,04:45:37,03:25:27,00:03:57,00:02:32,09:13:34
+ironman-austria-20160626.csv,168,Christian Stoimaier,43,AT,AUT,01:09:14,04:40:55,03:23:15,00:04:14,00:02:10,09:19:48
+ironman-austria-20160626.csv,169,Jan-Peter Simons,42,NL,NLD,01:09:25,05:18:12,03:56:31,00:07:42,00:04:46,10:36:36
+ironman-austria-20160626.csv,170,Stefano Rossi,47,---,ITA,00:59:17,05:09:48,04:37:36,00:05:42,00:04:14,10:56:37
+ironman-austria-20160626.csv,171,Marco Cason,45,Milano,ITA,01:05:57,05:04:34,03:26:28,00:05:06,00:05:54,09:47:59
+ironman-austria-20160626.csv,172,Martin Gibson,44,TX,USA,01:16:59,05:55:13,04:09:45,00:09:03,00:07:17,11:38:17
+ironman-austria-20160626.csv,173,Nicola Zardini,49,bl,ITA,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,174,Carsten Zielke,48,DE,DEU,01:16:57,05:55:20,04:00:24,00:06:37,00:03:33,11:22:51
+ironman-austria-20160626.csv,175,Alex Frühwirth,47,Intl State,AUT,00:53:32,04:48:13,03:07:53,00:03:32,00:01:54,08:55:04
+ironman-austria-20160626.csv,176,David Vilanna Riera,48,ES,AND,01:09:38,05:12:59,03:38:42,00:04:03,00:03:58,10:09:20
+ironman-austria-20160626.csv,177,Giovanni Canetta,44,---,ITA,01:07:52,05:17:37,04:03:02,00:09:45,00:10:13,10:48:29
+ironman-austria-20160626.csv,178,Jon Ellis-Smith,48,Somerset,GBR,01:14:47,05:46:54,03:58:14,00:05:12,00:04:20,11:09:27
+ironman-austria-20160626.csv,179,Rafal Medak,44,---,POL,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,180,Philippe Simon,45,---,FRA,01:14:47,05:26:44,03:38:47,00:06:07,00:05:04,10:31:29
+ironman-austria-20160626.csv,181,Thomas Muhr,45,---,AUT,01:11:58,05:21:40,03:49:05,00:05:07,00:04:17,10:32:07
+ironman-austria-20160626.csv,182,Markus Nübel,46,---,DEU,01:09:16,05:08:08,03:26:01,00:04:48,00:03:13,09:51:26
+ironman-austria-20160626.csv,183,Thomas Baierl,49,---,DEU,01:01:05,04:50:50,03:27:53,00:04:12,00:03:15,09:27:15
+ironman-austria-20160626.csv,184,James Charlton,47,Herts,GBR,01:08:53,05:11:05,---,00:04:43,00:03:49,DNF
+ironman-austria-20160626.csv,185,Richard Hendy,44,---,GBR,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,186,Steve Chaid,49,AT,USA,01:06:38,04:59:16,03:18:38,00:03:24,00:02:45,09:30:41
+ironman-austria-20160626.csv,187,Philippe Gondre,53,Intl State,FRA,01:02:34,05:35:43,03:53:10,00:06:04,00:06:11,10:43:42
+ironman-austria-20160626.csv,188,Chris Pennifold,52,QLD,AUS,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,189,Peter Haidenek,51,---,AUT,00:59:22,05:04:39,03:29:24,00:04:33,00:03:31,09:41:29
+ironman-austria-20160626.csv,190,Werner Huber,53,BZ,ITA,01:11:41,04:57:55,03:16:44,00:04:27,00:04:36,09:35:23
+ironman-austria-20160626.csv,191,Mark Richardson,49,---,GBR,01:01:56,05:01:49,---,00:05:17,---,DNF
+ironman-austria-20160626.csv,192,Paolo Mussotto,51,italia,ITA,01:23:39,---,---,00:06:31,---,DNF
+ironman-austria-20160626.csv,193,Richard Newey,51,Other,GBR,01:12:26,04:58:19,03:28:50,00:06:06,00:03:32,09:49:13
+ironman-austria-20160626.csv,194,Daniel Enzler,51,CH,CHE,01:10:56,05:08:56,03:23:37,00:04:15,00:04:39,09:52:23
+ironman-austria-20160626.csv,195,Howie Nordstrom,50,MT,SWE,01:10:37,05:11:44,03:27:56,00:04:16,00:03:07,09:57:40
+ironman-austria-20160626.csv,196,Yoram Levav,54,Select State,ISR,01:02:02,05:22:44,04:15:42,00:04:59,00:04:39,10:50:06
+ironman-austria-20160626.csv,197,Anton Bernhard,51,AT,AUT,01:11:28,04:40:17,03:26:14,00:05:11,00:03:50,09:27:00
+ironman-austria-20160626.csv,199,David Frazer,56,FL,USA,00:59:23,05:29:50,04:25:37,00:03:45,00:04:07,11:02:42
+ironman-austria-20160626.csv,200,Vanni Viroli,59,Italia,ITA,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,201,Rudolf Wilfling,54,AT,AUT,01:04:23,05:15:19,03:48:16,00:04:36,00:02:34,10:15:08
+ironman-austria-20160626.csv,202,Joachim Amann,56,---,DEU,00:59:05,05:15:57,03:53:10,00:05:33,00:03:45,10:17:30
+ironman-austria-20160626.csv,203,Klaus Rohracker,55,---,DEU,01:11:42,05:12:12,03:14:10,00:03:47,00:03:11,09:45:02
+ironman-austria-20160626.csv,204,Ireneusz Szpot,55,---,POL,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,205,Gitte Jakobsen,30,---,DNK,00:59:46,05:36:22,03:27:26,00:04:16,00:02:25,10:10:15
+ironman-austria-20160626.csv,206,Elena Gonzalez Frias,30,DE,ESP,01:11:17,06:18:11,04:38:24,00:05:29,00:04:32,12:17:53
+ironman-austria-20160626.csv,207,Valeria Airaldi,32,CH,CHE,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,208,Kelly Stokes,34,---,GBR,01:03:14,05:28:44,04:11:48,00:04:33,00:03:49,10:52:08
+ironman-austria-20160626.csv,209,Tammy Chen,32,NY,USA,01:20:27,06:29:51,05:10:26,00:06:19,00:05:18,13:12:21
+ironman-austria-20160626.csv,210,Julia Leicht,33,DE,DEU,01:10:18,05:38:30,03:49:58,00:03:34,00:02:11,10:44:31
+ironman-austria-20160626.csv,211,Birgit Metzler,33,DE,DEU,01:05:13,05:22:46,04:34:52,00:03:53,00:04:10,11:10:54
+ironman-austria-20160626.csv,212,Michaela Wolf,35,---,AUT,01:19:49,05:32:17,04:06:48,00:04:24,00:04:37,11:07:55
+ironman-austria-20160626.csv,213,Nicole Pirngruber,35,AT,AUT,01:18:02,05:39:51,04:45:33,00:05:38,00:03:54,11:52:58
+ironman-austria-20160626.csv,214,Katharina Turza,36,AT,AUT,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,215,Petra Ritter,41,AT,AUT,01:18:40,05:34:23,04:46:07,00:05:58,00:04:00,11:49:08
+ironman-austria-20160626.csv,216,Annette Burrows,44,---,GBR,01:07:50,06:27:32,04:52:04,00:05:15,00:05:47,12:38:28
+ironman-austria-20160626.csv,217,Beatrix Dvorak,44,---,AUT,01:16:07,05:50:42,03:57:42,00:04:51,00:05:20,11:14:42
+ironman-austria-20160626.csv,218,Alexandra Ursula Kronenberg,41,CH,CHE,01:14:33,05:31:28,03:32:05,00:05:51,00:04:40,10:28:37
+ironman-austria-20160626.csv,219,Christiana Butter,43,AT,AUT,01:16:57,06:07:15,04:15:05,00:04:47,00:03:38,11:47:42
+ironman-austria-20160626.csv,220,Emmanuelle Salon,41,---,ZAF,01:18:56,06:50:50,04:24:51,00:08:11,00:06:21,12:49:09
+ironman-austria-20160626.csv,221,Renate Pflamitzer,44,AT,AUT,01:20:42,06:13:02,03:55:52,00:04:55,00:04:07,11:38:38
+ironman-austria-20160626.csv,222,Iza Kuczynska,46,MZ,POL,01:35:03,05:53:26,04:11:43,00:06:37,00:05:36,11:52:25
+ironman-austria-20160626.csv,223,Barbara Schweinberger,47,DE,DEU,01:10:55,05:49:20,05:22:14,00:06:49,00:08:25,12:37:43
+ironman-austria-20160626.csv,224,Niina Maisniemi,48,Uusimaa,FIN,01:13:47,06:05:54,---,00:05:57,00:07:49,DNF
+ironman-austria-20160626.csv,225,Betina Flade,52,DK,DNK,01:25:14,06:39:15,04:10:30,00:09:22,00:07:02,12:31:23
+ironman-austria-20160626.csv,226,Gabriele Pauer,52,---,AUT,01:05:18,05:39:52,03:54:13,00:05:04,00:03:39,10:48:06
+ironman-austria-20160626.csv,227,Yvonne Steinemer-Murphy,52,IL,DEU,01:33:18,06:39:35,05:25:23,00:08:33,00:07:02,13:53:51
+ironman-austria-20160626.csv,228,Caroline Krassnitzer,57,---,AUT,01:30:01,05:39:48,04:55:48,00:05:08,00:05:21,12:16:06
+ironman-austria-20160626.csv,229,Mary Torre,58,---,CHE,01:20:22,06:22:09,04:54:40,00:06:08,00:05:58,12:49:17
+ironman-austria-20160626.csv,230,Veronika Adamcik,61,AT,AUT,01:35:40,06:09:24,---,00:05:39,00:05:00,DNF
+ironman-austria-20160626.csv,231,Christoph Baumann,24,AT,AUT,01:16:43,05:19:50,03:25:55,00:04:56,00:02:44,10:10:08
+ironman-austria-20160626.csv,232,Andreas Buchinger,20,AT,AUT,01:08:12,05:57:01,05:03:45,00:07:49,00:08:08,12:24:55
+ironman-austria-20160626.csv,233,Johannes Wachter,24,AT,AUT,01:13:24,05:39:31,03:36:33,00:04:42,00:03:38,10:37:48
+ironman-austria-20160626.csv,234,Bastian Schaefer,25,DE,DEU,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,235,Alessio Spadavecchia,28,---,ITA,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,236,Andrii Kuzminskyi,26,Województwo dolnośląskie,UKR,00:58:59,05:22:09,04:21:38,00:03:23,00:04:20,10:50:29
+ironman-austria-20160626.csv,237,Dimitri Boguslavsky,29,NY,RUS,01:23:51,06:33:06,04:34:17,00:05:43,00:03:08,12:40:05
+ironman-austria-20160626.csv,238,Giacomo Camplese,27,Italia,ITA,01:11:01,05:32:59,03:45:33,00:06:23,00:03:47,10:39:43
+ironman-austria-20160626.csv,239,Jernej Sirk,26,---,SVN,00:58:51,05:16:24,03:59:53,00:05:21,00:03:04,10:23:33
+ironman-austria-20160626.csv,240,Matthias Santner,28,AT,AUT,01:07:33,05:03:37,03:20:12,00:04:36,00:03:24,09:39:22
+ironman-austria-20160626.csv,241,Stefan Paalman,26,NL,NLD,00:55:37,05:42:40,---,00:03:46,00:02:40,DNF
+ironman-austria-20160626.csv,242,Thomas Riis,26,NO,NOR,01:05:36,05:17:56,03:33:06,00:04:43,00:03:38,10:04:59
+ironman-austria-20160626.csv,243,Jose Daniel Figueroa,28,---,MEX,01:05:38,05:21:59,03:21:02,00:04:54,00:05:09,09:58:42
+ironman-austria-20160626.csv,244,Adi Stoeger,29,---,AUT,00:57:19,04:46:50,03:02:08,00:03:41,00:02:40,08:52:38
+ironman-austria-20160626.csv,245,Markus Hartinger,28,AT,AUT,01:11:58,05:12:58,03:31:57,00:04:29,00:04:06,10:05:28
+ironman-austria-20160626.csv,246,Mihai Baractaru,27,---,ROU,01:01:28,04:59:27,03:06:20,00:04:52,00:03:03,09:15:10
+ironman-austria-20160626.csv,247,Christian Skof,34,AT,AUT,01:02:11,04:59:01,03:24:51,00:03:37,00:03:36,09:33:16
+ironman-austria-20160626.csv,248,Guenther Flois,31,AT,AUT,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,249,Christian Nagele,30,AT,AUT,01:04:10,04:46:58,03:16:46,00:04:21,00:02:34,09:14:49
+ironman-austria-20160626.csv,250,Dawid Pikor,29,CH,POL,01:06:11,05:14:43,04:54:03,00:04:33,00:02:58,11:22:28
+ironman-austria-20160626.csv,251,Dale Greenwood,29,---,GBR,00:58:58,05:15:59,03:16:29,00:04:26,00:02:48,09:38:40
+ironman-austria-20160626.csv,252,Luca Prosperi,33,---,ITA,00:57:22,04:56:56,03:33:06,00:03:57,00:02:34,09:33:55
+ironman-austria-20160626.csv,253,Martin Kott,33,CR,CZE,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,254,Markus Lukacs,30,AT,AUT,00:58:40,04:45:48,03:17:15,00:02:45,00:02:09,09:06:37
+ironman-austria-20160626.csv,255,Michele Silvan,34,CH,CHE,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,256,Steve Clark,33,---,GBR,00:58:44,04:59:04,03:18:48,00:03:38,00:03:03,09:23:17
+ironman-austria-20160626.csv,257,Jesus Galera Gomez,33,---,ESP,00:57:59,05:23:00,03:31:52,00:03:29,00:02:54,09:59:14
+ironman-austria-20160626.csv,258,Javier Cano Morales,30,ES,ESP,01:10:07,05:16:16,03:21:56,00:04:02,00:04:35,09:56:56
+ironman-austria-20160626.csv,259,Olivier Ek,32,BE,BEL,01:03:48,05:01:30,03:32:41,00:03:51,00:05:21,09:47:11
+ironman-austria-20160626.csv,260,Erich Künstl,33,AT,AUT,00:59:50,04:53:21,03:20:58,00:04:35,00:02:54,09:21:38
+ironman-austria-20160626.csv,261,Peter Merz,31,AT,AUT,01:10:11,05:08:21,03:17:04,00:04:02,00:02:35,09:42:13
+ironman-austria-20160626.csv,262,Reto Wick,30,CH,CHE,01:03:51,04:57:24,03:32:25,00:04:30,00:03:09,09:41:19
+ironman-austria-20160626.csv,263,Thomas Canori,31,AT,AUT,01:11:13,05:07:29,03:28:31,00:05:02,00:04:25,09:56:40
+ironman-austria-20160626.csv,264,Carsten Fries,30,DE,DEU,01:04:53,05:11:32,03:29:42,00:04:24,00:04:05,09:54:36
+ironman-austria-20160626.csv,265,Jesse King,32,NC,USA,01:03:46,05:03:18,03:30:18,00:04:36,00:02:28,09:44:26
+ironman-austria-20160626.csv,266,Johan Persson,30,---,SWE,01:06:42,05:26:16,05:28:15,00:07:53,00:06:30,12:15:36
+ironman-austria-20160626.csv,267,Alastair Horabin,31,---,GBR,01:09:11,---,---,00:05:25,04:15:25,DNF
+ironman-austria-20160626.csv,268,Benjamin Winke,32,DE,DEU,00:57:26,04:46:12,---,00:03:56,00:02:21,DNF
+ironman-austria-20160626.csv,269,Thomas Knittel,31,---,DEU,01:09:16,05:05:27,03:19:27,00:04:32,00:04:14,09:42:56
+ironman-austria-20160626.csv,270,Kaustubh Radkar,34,PA,IND,00:54:24,06:35:33,04:37:16,00:06:34,00:05:53,12:19:40
+ironman-austria-20160626.csv,271,Fabrizio Borsato,37,---,BRA,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,272,Gernot Grillmaier,38,AT,AUT,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,273,Marcin Drgan,39,POLSKA,POL,01:07:52,05:11:37,03:31:19,00:04:22,00:05:09,10:00:19
+ironman-austria-20160626.csv,274,Bertram Fischer,39,DE,DEU,00:57:39,05:38:42,04:26:34,00:06:08,00:05:23,11:14:26
+ironman-austria-20160626.csv,275,Manuel Talakovics,35,AT,AUT,01:06:29,04:53:56,03:27:24,00:03:38,00:04:13,09:35:40
+ironman-austria-20160626.csv,276,Aimone Dal Pozzo,34,Novara,ITA,01:04:10,05:11:53,03:55:55,00:04:46,00:04:49,10:21:33
+ironman-austria-20160626.csv,277,Alessandro Dal Lago,39,Veneto,ITA,01:09:38,---,---,00:07:21,---,DNF
+ironman-austria-20160626.csv,278,Arany Máté,38,Zala,HUN,01:09:01,05:30:02,03:56:10,00:04:44,00:03:26,10:43:23
+ironman-austria-20160626.csv,279,Daniel Nagel,38,NL,NLD,00:56:48,05:06:45,04:04:03,00:03:51,00:02:59,10:14:26
+ironman-austria-20160626.csv,280,Danijel Hrvat,37,Slovenia,SVN,01:01:54,04:51:34,---,00:04:42,00:03:12,DNF
+ironman-austria-20160626.csv,281,Fabio Trudu,34,italia,ITA,01:08:05,05:01:46,03:22:30,00:04:04,00:03:57,09:40:22
+ironman-austria-20160626.csv,282,Florian Riemer,39,AT,AUT,01:07:12,05:29:02,04:03:09,00:05:36,00:04:14,10:49:13
+ironman-austria-20160626.csv,283,Martin Hanes,38,Slovakia,SVK,01:15:21,05:43:23,04:25:34,00:06:07,00:03:58,11:34:23
+ironman-austria-20160626.csv,284,Jared Walbridge,37,---,GBR,01:01:55,05:16:59,03:48:57,00:07:40,00:05:42,10:21:13
+ironman-austria-20160626.csv,285,Juri Feltrin,37,ita,ITA,01:04:17,05:04:13,03:13:32,00:04:51,00:03:06,09:29:59
+ironman-austria-20160626.csv,286,Aik Ee Ng,35,---,SGP,01:27:27,06:06:29,04:26:09,00:10:06,00:07:09,12:17:20
+ironman-austria-20160626.csv,287,Markus Peischl,36,AT,AUT,01:12:17,05:14:19,03:49:06,00:05:12,00:03:08,10:24:02
+ironman-austria-20160626.csv,288,Stefan Podhajski,37,AT,AUT,01:11:14,05:04:01,03:10:17,00:07:09,00:05:43,09:38:24
+ironman-austria-20160626.csv,289,René Naarmann,34,---,DEU,01:02:38,05:17:31,04:31:33,00:04:36,00:03:28,10:59:46
+ironman-austria-20160626.csv,290,Stefaan Veldeman,37,BE,BEL,00:57:40,04:46:58,02:57:24,00:04:03,00:02:35,08:48:40
+ironman-austria-20160626.csv,291,Stijn Veldeman,38,---,BEL,00:58:11,04:56:04,02:52:16,00:04:21,00:02:00,08:52:52
+ironman-austria-20160626.csv,292,Thomas Gugler,39,AT,AUT,01:13:45,05:18:18,03:31:15,00:03:58,00:03:03,10:10:19
+ironman-austria-20160626.csv,293,matthias weingärtner,37,AT,AUT,01:08:45,05:20:51,04:27:51,00:05:45,00:05:03,11:08:15
+ironman-austria-20160626.csv,294,Brian Nonbo,35,DK,DNK,00:56:56,04:55:17,03:20:49,00:04:10,00:07:22,09:24:34
+ironman-austria-20160626.csv,295,Franck Martin,38,FR,FRA,00:49:50,04:50:06,03:10:14,00:03:14,00:03:02,08:56:26
+ironman-austria-20160626.csv,296,Ghislain Revillard,36,FR,FRA,01:10:31,05:18:25,03:48:34,00:04:59,00:02:31,10:25:00
+ironman-austria-20160626.csv,297,Aleksandar Nedelkovski,37,---,DEU,01:07:15,05:20:09,03:36:40,00:05:36,00:05:43,10:15:23
+ironman-austria-20160626.csv,298,Daniel Treml,37,AT,AUT,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,299,Fabian Fortmann,38,CH,CHE,01:05:06,05:16:44,03:34:27,00:04:22,00:02:25,10:03:04
+ironman-austria-20160626.csv,300,Francois Chavet,35,DE,FRA,01:03:23,05:05:59,03:19:58,00:05:22,00:04:55,09:39:37
+ironman-austria-20160626.csv,301,Jürgen Stefke,38,AT,DEU,01:06:00,05:09:12,03:23:18,00:04:38,00:03:03,09:46:11
+ironman-austria-20160626.csv,302,Oliver Spurzem,39,DE,DEU,00:58:17,05:04:06,03:07:15,00:03:30,00:03:00,09:16:08
+ironman-austria-20160626.csv,303,Martin Hanisch,37,AT,AUT,00:59:47,05:19:25,03:19:28,00:03:31,00:02:32,09:44:43
+ironman-austria-20160626.csv,304,Markus Polka,36,AT,AUT,00:57:38,04:46:53,03:05:51,00:03:28,00:02:00,08:55:50
+ironman-austria-20160626.csv,305,Hans Mühlbauer,36,---,DEU,00:53:05,04:48:04,02:51:09,00:03:29,00:02:14,08:38:01
+ironman-austria-20160626.csv,306,Rafael Hallenbarter,39,CH,CHE,01:30:48,05:38:44,04:17:24,00:05:25,00:05:26,11:37:47
+ironman-austria-20160626.csv,307,Tony Edmundsson,38,SE,SWE,01:01:59,05:04:52,03:47:05,00:03:46,00:02:37,10:00:19
+ironman-austria-20160626.csv,308,Andreas Gehrer,35,AT,AUT,01:02:50,04:55:50,03:15:23,00:03:59,00:02:21,09:20:23
+ironman-austria-20160626.csv,309,Robert Wagner,38,DE,DEU,01:11:36,05:15:47,03:18:59,00:03:57,00:03:28,09:53:47
+ironman-austria-20160626.csv,310,Mischa Welter,44,Other,CHE,01:05:33,05:04:35,03:31:34,00:05:39,00:03:10,09:50:31
+ironman-austria-20160626.csv,311,Alexej Pokorny,42,AT,AUT,01:10:41,05:25:04,03:55:42,00:06:14,00:05:26,10:43:07
+ironman-austria-20160626.csv,312,Zoltán Gyenizse,42,---,HUN,01:12:14,05:17:52,03:48:36,00:04:58,00:04:19,10:27:59
+ironman-austria-20160626.csv,313,Nicolas Beyeler,41,CH,CHE,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,314,Daniele Scurti,39,CH,CHE,01:03:31,05:08:29,03:37:55,00:04:04,00:03:42,09:57:41
+ironman-austria-20160626.csv,315,Hannes Hermann,42,AT,AUT,01:08:10,05:24:06,03:24:32,00:05:19,00:05:28,10:07:35
+ironman-austria-20160626.csv,316,Stefan Marchetti,43,Italy ,ITA,01:09:32,05:09:41,03:42:33,00:03:48,00:02:41,10:08:15
+ironman-austria-20160626.csv,317,Michael Heinisch,43,---,AUT,01:08:13,05:04:36,04:03:27,00:06:10,00:04:44,10:27:10
+ironman-austria-20160626.csv,318,Alexander Eiler,40,SE,AUT,01:02:10,04:54:03,03:43:02,00:04:29,00:02:57,09:46:41
+ironman-austria-20160626.csv,319,Benjamin Skok,42,DIVACA,SVN,01:13:33,05:05:52,03:15:42,00:04:53,00:03:43,09:43:43
+ironman-austria-20160626.csv,320,Chris Mulford,39,NY,USA,01:09:55,04:57:56,03:15:34,00:04:11,00:03:02,09:30:38
+ironman-austria-20160626.csv,321,Dan Brooks,43,ENGLAND,GBR,01:11:59,05:21:43,04:04:00,00:05:12,00:05:08,10:48:02
+ironman-austria-20160626.csv,322,Colin Stone,42,---,GBR,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,323,Konrad Jaworski,39,Mazowieckie,POL,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,324,Karel Sumbal,39,SC,CZE,01:03:05,04:56:51,03:06:05,00:04:18,00:02:51,09:13:10
+ironman-austria-20160626.csv,325,Luigi Orlando,43,Trieste,ITA,01:03:15,05:29:37,04:46:04,00:06:26,00:11:06,11:36:28
+ironman-austria-20160626.csv,326,Minfu Mo,42,ON,CHN,01:15:56,05:35:49,03:49:05,00:07:11,00:05:34,10:53:35
+ironman-austria-20160626.csv,327,Remon Van Drogenbroek,41,NL,NLD,01:09:57,04:58:34,04:04:19,00:05:08,00:03:01,10:20:59
+ironman-austria-20160626.csv,328,Robert Ioan Balan,40,Arad,ROU,01:11:07,05:26:04,03:54:17,00:05:32,00:03:10,10:40:10
+ironman-austria-20160626.csv,329,Ryan Stickel,41,AE,USA,01:07:44,05:37:39,03:22:14,00:05:15,00:02:50,10:15:42
+ironman-austria-20160626.csv,330,Steve Williams,44,---,GBR,01:07:25,05:20:35,03:16:26,00:04:17,00:04:17,09:53:00
+ironman-austria-20160626.csv,331,Tobias Larsson,42,---,SWE,01:13:06,05:44:57,04:09:30,00:04:15,00:03:42,11:15:30
+ironman-austria-20160626.csv,332,Tomas Mannaert,40,BE,BEL,00:57:02,04:47:43,03:27:57,00:03:58,00:02:44,09:19:24
+ironman-austria-20160626.csv,333,Vaclav Tesar,39,Sedlcany,CZE,01:14:55,05:39:11,04:17:11,00:06:40,00:05:01,11:22:58
+ironman-austria-20160626.csv,334,Valerio Rosati,43,Terni,ITA,01:15:11,05:41:32,04:06:08,00:06:49,00:06:13,11:15:53
+ironman-austria-20160626.csv,335,Wayne Hitchcott,44,---,GBR,01:05:23,04:54:12,04:36:16,00:06:51,00:04:44,10:47:26
+ironman-austria-20160626.csv,336,Cedric Leneau,42,---,BEL,01:09:39,05:05:41,04:05:33,00:04:44,00:02:49,10:28:26
+ironman-austria-20160626.csv,337,Stephane Sauve,44,---,FRA,01:06:09,04:55:17,03:53:36,00:05:10,00:03:34,10:03:46
+ironman-austria-20160626.csv,338,Alexander Hajszan,42,AT,AUT,01:07:44,05:09:14,04:24:30,00:04:27,00:04:40,10:50:35
+ironman-austria-20160626.csv,339,Alois Rigam,44,AT,AUT,01:14:28,05:31:49,03:39:27,00:04:56,00:03:43,10:34:23
+ironman-austria-20160626.csv,340,Christian Hirner,42,---,AUT,01:01:14,04:56:59,03:07:23,00:03:39,00:02:30,09:11:45
+ironman-austria-20160626.csv,341,Demeter Dick,42,AT,AUT,01:06:21,04:52:29,03:05:55,00:03:57,00:04:15,09:12:57
+ironman-austria-20160626.csv,342,Georg Wegscheider,43,AT,AUT,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,343,Ivan Seiler,41,CH,ARG,01:02:29,05:39:18,04:11:17,00:06:55,00:03:54,11:03:53
+ironman-austria-20160626.csv,344,Patrick Papst,40,AT,AUT,01:14:22,05:05:26,03:30:02,00:04:27,00:03:36,09:57:53
+ironman-austria-20160626.csv,345,Richard Rebernig,40,AT,AUT,01:16:59,05:26:54,03:52:22,00:09:11,00:04:44,10:50:10
+ironman-austria-20160626.csv,346,Theodor Seiz,44,AT,AUT,01:05:02,05:02:57,03:47:11,00:04:28,00:03:54,10:03:32
+ironman-austria-20160626.csv,347,Werner Torau,41,AT,AUT,01:02:07,05:05:40,03:56:54,00:05:07,00:03:15,10:13:03
+ironman-austria-20160626.csv,348,Andrew Botha,40,---,ZAF,00:59:04,05:07:15,04:28:20,00:04:39,00:03:11,10:42:29
+ironman-austria-20160626.csv,349,Stefano Greco,41,Italia,ITA,01:02:37,05:17:49,03:22:55,00:04:13,00:03:43,09:51:17
+ironman-austria-20160626.csv,350,Giacomo Panizzolo,40,Italy,ITA,01:11:20,05:20:38,04:00:22,00:05:37,00:04:07,10:42:04
+ironman-austria-20160626.csv,351,Mikko Laine,43,Intl State,FIN,00:57:47,04:56:20,03:19:38,00:03:46,00:02:30,09:20:01
+ironman-austria-20160626.csv,352,Radek Pawlowski,40,Other,POL,00:58:30,04:55:45,03:32:13,00:04:09,00:03:05,09:33:42
+ironman-austria-20160626.csv,353,Johann Koch,44,CH,CHE,01:01:34,05:13:04,03:51:08,00:03:45,00:03:08,10:12:39
+ironman-austria-20160626.csv,354,Tom De Malsche,44,BE,BEL,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,355,Diego Eugenio Rosique Moya,41,---,ESP,01:10:17,05:11:16,03:24:07,00:09:54,00:09:37,10:05:11
+ironman-austria-20160626.csv,356,Alexander Wörndl-Aichriedler,40,AT,AUT,01:03:06,04:50:58,---,00:03:45,00:04:06,DNF
+ironman-austria-20160626.csv,357,Matthew Thomasson,41,Jersey,GBR,01:17:08,05:35:29,04:34:20,00:08:47,00:05:18,11:41:02
+ironman-austria-20160626.csv,358,Francesco Uberto,42,---,ITA,01:07:14,05:22:57,04:23:35,00:04:17,00:04:10,11:02:13
+ironman-austria-20160626.csv,359,Adam Skierkowski,42,---,POL,01:13:44,05:24:04,04:28:00,00:05:26,00:04:22,11:15:36
+ironman-austria-20160626.csv,360,Sebastien Guerin,41,---,FRA,01:12:06,05:53:09,05:11:03,00:08:09,00:04:42,12:29:09
+ironman-austria-20160626.csv,361,Ingo Hofmann,40,DE,DEU,01:11:43,05:17:27,04:02:52,00:05:22,00:04:56,10:42:20
+ironman-austria-20160626.csv,362,Eugenio Roldan,40,ES,ESP,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,363,Bradley Baumunk,48,TX,USA,01:14:41,05:24:21,04:34:24,00:09:37,00:06:48,11:29:51
+ironman-austria-20160626.csv,364,Luca Sarti,48,Bolzano,ITA,01:05:53,05:20:27,04:45:22,00:04:56,00:03:46,11:20:24
+ironman-austria-20160626.csv,365,Oliviero Racchelli,48,mi,FRA,01:01:56,05:21:30,03:58:34,00:04:33,00:04:49,10:31:22
+ironman-austria-20160626.csv,366,Erich Tüll,45,AT,AUT,01:14:57,05:11:49,03:29:43,00:06:36,00:04:05,10:07:10
+ironman-austria-20160626.csv,367,Thomas Köller,45,AT,AUT,01:19:06,05:01:35,03:27:39,00:06:25,00:03:41,09:58:26
+ironman-austria-20160626.csv,368,Beno Krasovec,48,slovenia,SVN,01:08:27,05:18:58,03:37:06,00:05:58,00:02:57,10:13:26
+ironman-austria-20160626.csv,369,Michael Wilkner,46,---,GBR,01:02:06,05:57:06,05:36:08,00:06:28,00:10:55,12:52:43
+ironman-austria-20160626.csv,370,Dominique Ancelin,48,FR,FRA,01:02:09,05:05:38,03:28:50,00:05:14,00:03:44,09:45:35
+ironman-austria-20160626.csv,371,Hansjuergen Egger,48,AT,AUT,01:14:10,05:56:35,04:05:29,00:09:01,00:07:03,11:32:18
+ironman-austria-20160626.csv,372,Wolfgang Haas,47,---,AUT,01:14:40,05:47:35,04:21:04,00:05:34,00:05:49,11:34:42
+ironman-austria-20160626.csv,373,Martin Sachrau,45,DE,DEU,01:09:28,05:07:46,03:35:31,00:05:36,00:04:19,10:02:40
+ironman-austria-20160626.csv,374,Rolf Alexander Gromer,47,DE,DEU,01:07:27,05:12:19,03:39:40,00:05:08,00:03:14,10:07:48
+ironman-austria-20160626.csv,375,Sergey Matveev,48,Perm,RUS,01:37:17,06:16:52,04:34:01,00:07:32,00:06:20,12:42:02
+ironman-austria-20160626.csv,376,Tony Cannon,46,NJ,USA,01:10:35,05:08:47,04:07:54,00:08:28,00:03:29,10:39:13
+ironman-austria-20160626.csv,377,Bruno Nini,45,AT,AUT,01:23:02,05:38:55,04:43:00,00:08:42,00:06:39,12:00:18
+ironman-austria-20160626.csv,378,Claudio Convilli,47,Italia,ITA,01:18:46,05:53:47,03:58:13,00:08:18,00:05:56,11:25:00
+ironman-austria-20160626.csv,379,Francesco Lombardo,47,Intl State,ITA,01:00:55,05:24:02,04:12:10,00:04:51,00:03:56,10:45:54
+ironman-austria-20160626.csv,380,Darren Hacker,46,---,GBR,01:06:34,05:31:17,03:53:20,00:04:58,00:05:29,10:41:38
+ironman-austria-20160626.csv,381,Fabio Ghirardelli,46,venezia,ITA,00:55:04,05:32:28,03:48:51,00:05:16,00:04:06,10:25:45
+ironman-austria-20160626.csv,382,Jan De Maesschalck,46,Intl State,BEL,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,383,diego lazzarin,45,IT,ITA,01:15:32,05:46:37,04:07:20,00:06:08,00:08:07,11:23:44
+ironman-austria-20160626.csv,384,Pavan Stefano,47,ITALY,ITA,01:09:29,05:11:09,03:31:58,00:04:21,00:03:49,10:00:46
+ironman-austria-20160626.csv,385,Tobias Fehlhaber,47,DE,DEU,01:24:57,06:28:48,04:56:02,00:11:02,00:09:06,13:09:55
+ironman-austria-20160626.csv,386,Jacob Schiøtt,44,DK,DNK,01:06:31,05:07:18,03:23:51,00:04:42,00:03:56,09:46:18
+ironman-austria-20160626.csv,387,David Sanglas Puntí,46,ES,ESP,01:09:07,05:51:37,03:42:29,00:05:44,00:04:52,10:53:49
+ironman-austria-20160626.csv,388,Oscar Orellana,45,ES,ESP,01:09:21,05:21:47,03:21:45,00:05:36,00:03:02,10:01:31
+ironman-austria-20160626.csv,389,Christian Vahldiek,48,DE,DEU,01:22:23,05:34:36,03:58:32,00:05:18,00:03:37,11:04:26
+ironman-austria-20160626.csv,390,Jürrgen Gamweger,45,AT,AUT,01:05:05,05:09:41,---,00:04:17,00:02:58,DNF
+ironman-austria-20160626.csv,391,Norbert Bernhofer,45,AT,AUT,01:06:16,05:08:32,03:49:36,00:04:33,00:03:01,10:11:58
+ironman-austria-20160626.csv,392,Christoph Werner,47,AT,AUT,01:10:34,07:37:33,---,00:04:00,---,DNF
+ironman-austria-20160626.csv,393,Gabor Borenich,49,---,HUN,01:13:35,05:14:52,04:15:51,00:06:37,00:05:11,10:56:06
+ironman-austria-20160626.csv,394,Jonah Popoff,46,AB,CAN,01:18:19,05:57:31,04:52:11,00:05:05,00:03:43,12:16:49
+ironman-austria-20160626.csv,395,Marek Antoniak,48,Harjumaa,EST,01:18:26,05:00:23,03:31:35,00:04:54,00:04:41,09:59:59
+ironman-austria-20160626.csv,396,Martin Kosobud,48,---,CZE,01:09:04,05:00:51,03:07:27,00:04:51,00:02:52,09:25:05
+ironman-austria-20160626.csv,397,René Ahlmann,48,---,CHE,01:11:26,05:08:44,04:37:24,00:06:11,00:06:43,11:10:28
+ironman-austria-20160626.csv,398,Gerhard Albrecht,48,AT,AUT,01:16:11,05:23:10,03:31:59,00:04:45,00:04:28,10:20:33
+ironman-austria-20160626.csv,399,Ali Gruber,48,AT,AUT,00:59:01,05:24:45,03:18:33,00:03:38,00:03:32,09:49:29
+ironman-austria-20160626.csv,400,Steve Govier,52,ON,CAN,01:37:57,05:31:29,04:56:06,00:06:06,00:08:25,12:20:03
+ironman-austria-20160626.csv,401,Louis Moschetta,51,---,USA,01:10:43,05:05:52,03:40:06,00:06:09,00:04:34,10:07:24
+ironman-austria-20160626.csv,402,Amedeo Bonfanti,50,IT,ITA,01:27:07,05:02:27,03:29:39,00:09:13,00:06:21,10:14:47
+ironman-austria-20160626.csv,403,Ulasto Krenicky,54,Slovakia,SVK,01:32:37,05:37:09,04:22:35,00:07:08,00:07:45,11:47:14
+ironman-austria-20160626.csv,404,Simon Ward,52,YORKSHIRE,GBR,01:01:16,05:39:59,06:02:09,00:06:26,00:07:07,12:56:57
+ironman-austria-20160626.csv,405,Jörg Alex,53,---,DEU,01:12:52,06:14:24,05:15:39,00:05:13,00:03:11,12:51:19
+ironman-austria-20160626.csv,406,Thomas Gröger,52,DE,DEU,01:12:04,04:59:40,04:28:37,00:03:17,00:03:24,10:47:02
+ironman-austria-20160626.csv,407,Alessandro Moretti,49,---,ITA,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,408,andrea allievi,53,ITA,ITA,01:14:03,05:47:29,04:07:20,00:06:43,00:08:06,11:23:41
+ironman-austria-20160626.csv,409,Alessandro Clivio,49,Parma,ITA,01:06:55,---,---,00:05:17,---,DNF
+ironman-austria-20160626.csv,410,Craig West,52,Gauteng,ZAF,01:13:33,05:42:00,04:36:49,00:06:31,00:06:29,11:45:22
+ironman-austria-20160626.csv,411,Sean Finn,51,Cork,IRL,01:21:11,05:36:25,04:15:30,00:05:55,00:05:27,11:24:28
+ironman-austria-20160626.csv,412,Steve Harley,52,---,GBR,01:12:41,05:39:41,04:45:37,00:08:10,00:06:30,11:52:39
+ironman-austria-20160626.csv,413,Ignacio Irurita,51,Intl State,ESP,01:22:20,07:02:37,04:59:50,00:11:32,00:06:46,13:43:05
+ironman-austria-20160626.csv,414,Nicholas Allen Richard Welch,51,Cheshire,GBR,01:21:57,06:25:01,05:13:22,00:09:33,00:04:54,13:14:47
+ironman-austria-20160626.csv,415,Clarence Chan,51,---,SGP,01:35:17,06:04:40,04:26:56,00:09:31,00:09:03,12:25:27
+ironman-austria-20160626.csv,416,Georg Schwandl,50,AT,AUT,01:05:37,05:18:35,03:54:33,00:04:10,00:04:05,10:27:00
+ironman-austria-20160626.csv,417,Gerhard Haring,52,AT,AUT,01:29:36,05:42:15,05:52:15,00:06:07,00:05:16,13:15:29
+ironman-austria-20160626.csv,418,Klaus Stornig,50,AT,AUT,01:17:56,05:22:25,03:56:42,00:04:49,00:03:27,10:45:19
+ironman-austria-20160626.csv,419,Leonardo Nocentini,49,---,ITA,01:14:38,05:03:15,03:02:47,00:04:47,00:02:24,09:27:51
+ironman-austria-20160626.csv,420,Rudy Hoskens,53,BE,BEL,01:19:53,06:08:32,03:48:49,00:06:38,00:04:23,11:28:15
+ironman-austria-20160626.csv,421,Alexander Siegmeth,49,---,AUT,01:19:51,05:34:47,04:17:39,00:05:59,00:03:49,11:22:05
+ironman-austria-20160626.csv,422,Enrique Boldu Tormo,50,ES,ESP,00:56:26,05:12:07,---,00:05:01,00:10:27,DNF
+ironman-austria-20160626.csv,423,Heinrich Travnicek,51,AT,AUT,01:01:49,05:21:42,03:41:40,00:04:25,00:03:33,10:13:09
+ironman-austria-20160626.csv,424,Harald Schrenk,50,AT,AUT,01:06:45,05:02:29,03:40:47,00:04:54,00:04:15,09:59:10
+ironman-austria-20160626.csv,425,Jean-Luc Di Maria,55,FR,FRA,01:02:08,---,---,00:04:05,---,DNF
+ironman-austria-20160626.csv,426,Dirk Maes,55,BE,BEL,01:10:29,05:33:15,04:22:32,00:05:07,00:08:01,11:19:24
+ironman-austria-20160626.csv,427,Iurie Ostashin,55,APO,MDA,01:08:07,05:13:47,03:58:15,00:04:23,00:04:03,10:28:35
+ironman-austria-20160626.csv,428,Jovan Bacovic,55,WA,AUS,01:19:34,06:35:09,06:05:52,00:08:37,00:06:39,14:15:51
+ironman-austria-20160626.csv,429,Andreas Schröder,55,DE,DEU,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,430,Claus Wiegand Larsen,55,DK,DNK,01:23:17,05:48:09,04:52:51,00:06:32,00:04:15,12:15:04
+ironman-austria-20160626.csv,431,Volker Johannes Hemberger,58,---,DEU,01:17:49,---,---,00:06:02,---,DNF
+ironman-austria-20160626.csv,432,Hans-Joachim Wierschula,63,---,DEU,01:10:54,05:56:16,05:04:59,00:06:53,00:06:51,12:25:53
+ironman-austria-20160626.csv,433,Leon Gerard Merlin,68,AT,FRA,01:24:13,07:10:12,05:45:22,00:14:10,00:10:25,14:44:22
+ironman-austria-20160626.csv,434,John Wragg,66,XX,CAN,01:23:07,06:39:40,07:21:51,00:09:18,00:09:24,15:43:20
+ironman-austria-20160626.csv,435,Christina Konlechner,23,AT,AUT,01:16:44,06:09:51,05:09:03,00:05:24,00:03:38,12:44:40
+ironman-austria-20160626.csv,436,Bibben Nordblom,24,---,SWE,01:07:38,05:43:49,04:16:36,00:03:41,00:02:20,11:14:04
+ironman-austria-20160626.csv,437,Emma Fergusson,29,---,GBR,01:04:50,06:10:23,05:35:52,00:08:08,00:09:04,13:08:17
+ironman-austria-20160626.csv,438,Isabella Windhager,28,AT,AUT,01:17:25,05:31:27,03:32:50,00:05:14,00:04:03,10:30:59
+ironman-austria-20160626.csv,439,Rebecca Sack,32,DE,DEU,01:05:08,05:35:33,03:58:10,00:04:21,00:03:10,10:46:22
+ironman-austria-20160626.csv,440,Emma Temple,33,---,GBR,01:13:46,06:53:17,04:47:23,00:08:55,00:08:22,13:11:43
+ironman-austria-20160626.csv,441,Doris Gschwandtl,30,AT,AUT,01:11:56,05:43:17,04:13:20,00:05:10,00:02:46,11:16:29
+ironman-austria-20160626.csv,442,Sonja Liebhart,33,AT,AUT,01:06:37,05:50:27,04:15:49,00:04:12,00:04:22,11:21:27
+ironman-austria-20160626.csv,443,Nathalie Puaschitz,35,NO,NOR,01:37:52,06:58:41,04:50:04,00:05:25,00:05:08,13:37:10
+ironman-austria-20160626.csv,444,Nina Steiner,39,AT,AUT,01:34:23,06:26:14,05:01:10,00:09:46,00:07:14,13:18:47
+ironman-austria-20160626.csv,445,Ines Najvirt,37,---,SVN,01:19:30,05:33:02,03:32:06,00:05:15,00:02:44,10:32:37
+ironman-austria-20160626.csv,446,Irontarsh Tremayne,39,Middlesex,AUS,01:21:14,06:28:57,05:48:51,00:06:12,00:05:56,13:51:10
+ironman-austria-20160626.csv,447,Elodie Gleizes,34,FR,FRA,01:25:22,06:40:10,04:36:40,00:09:26,00:08:16,12:59:54
+ironman-austria-20160626.csv,449,Isolde Hinterberger,39,AT,AUT,01:26:13,06:27:33,04:31:59,00:06:58,00:06:29,12:39:12
+ironman-austria-20160626.csv,450,Anifantakis Maria,---,---,UKR,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,451,Anna Pasquini,42,NY,ITA,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,452,Sabine Mulderer,44,AT,AUT,01:23:58,06:18:37,04:46:08,00:05:57,00:08:38,12:43:18
+ironman-austria-20160626.csv,453,Silke Roßkopf,39,---,DEU,01:26:30,05:46:55,03:45:38,00:03:58,00:03:24,11:06:25
+ironman-austria-20160626.csv,454,Ursula Thaller,41,AT,AUT,01:20:46,06:15:37,03:54:03,00:04:57,00:05:39,11:41:02
+ironman-austria-20160626.csv,455,Sarah Halford,43,---,GBR,01:15:30,07:03:53,05:22:20,00:07:54,00:07:52,13:57:29
+ironman-austria-20160626.csv,456,Michi Pettauer,---,---,AUT,01:15:37,06:01:57,04:34:05,00:06:27,00:05:55,12:04:01
+ironman-austria-20160626.csv,458,Birgit Minnich,46,AT,AUT,01:30:36,06:21:25,04:29:52,00:09:19,00:04:39,12:35:51
+ironman-austria-20160626.csv,459,Christina Lechner,46,AT,AUT,01:22:04,05:47:06,04:46:36,00:06:14,00:05:59,12:07:59
+ironman-austria-20160626.csv,460,Alessia Bertolino,45,ES,ITA,01:06:35,05:32:18,03:34:27,00:05:32,00:05:24,10:24:16
+ironman-austria-20160626.csv,461,Ingrid Arning,57,---,ESP,01:23:21,07:04:53,06:27:16,00:08:20,00:09:24,15:13:14
+ironman-austria-20160626.csv,462,Jillian Burns,56,AUH,GBR,01:24:13,07:12:45,06:29:25,00:10:05,00:10:42,15:27:10
+ironman-austria-20160626.csv,463,Paul Doyle,29,---,GBR,01:18:50,05:14:00,03:17:38,00:06:10,00:04:29,10:01:07
+ironman-austria-20160626.csv,464,Diogo Custódio,27,Mem Martins,PRT,00:53:46,05:14:19,03:23:49,00:05:05,00:03:34,09:40:33
+ironman-austria-20160626.csv,465,Gerald Tallafuss,28,AT,AUT,01:06:40,05:20:22,03:47:30,00:04:28,00:03:29,10:22:29
+ironman-austria-20160626.csv,466,Lukas Kaiser,24,AT,AUT,01:02:16,05:12:42,03:24:14,00:03:50,00:03:30,09:46:32
+ironman-austria-20160626.csv,467,Mario Kremon,28,---,AUT,01:06:43,05:37:17,04:15:49,00:03:19,00:03:10,11:06:18
+ironman-austria-20160626.csv,468,Wolfgang Tauscher,28,AT,AUT,01:14:03,05:34:53,04:17:25,00:07:10,00:05:54,11:19:25
+ironman-austria-20160626.csv,469,Christian Ranftl,26,---,AUT,00:57:52,04:47:22,03:35:08,00:03:34,00:02:31,09:26:27
+ironman-austria-20160626.csv,470,Florian Kandutsch,28,AT,AUT,00:59:15,05:00:58,03:16:13,00:04:26,00:03:52,09:24:44
+ironman-austria-20160626.csv,471,Thomas Strauss,25,AT,AUT,01:11:37,05:25:11,04:20:36,00:04:20,00:02:16,11:04:00
+ironman-austria-20160626.csv,472,Manuel Urschitz,30,AT,AUT,01:15:35,05:09:10,03:39:57,00:04:11,00:03:49,10:12:42
+ironman-austria-20160626.csv,473,Madoda Bambalaza,33,Eastern Cape,ZAF,01:34:12,06:03:18,04:49:49,00:07:41,00:06:03,12:41:03
+ironman-austria-20160626.csv,474,Dominic Wimmer,33,DE,DEU,01:12:16,05:26:59,03:51:48,00:03:33,00:03:59,10:38:35
+ironman-austria-20160626.csv,475,Marc Ruhrberg,30,AT,AUT,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,476,Stefano Vizzini Bisaccia,32,venezia,ITA,01:17:06,06:53:31,05:29:18,00:09:00,00:12:08,14:01:03
+ironman-austria-20160626.csv,477,Fabian Unterlass,34,AT,AUT,01:22:19,05:40:08,04:27:54,00:09:47,00:04:25,11:44:33
+ironman-austria-20160626.csv,478,Thomas Gaar,31,---,AUT,01:16:57,05:27:40,03:43:11,00:05:53,00:04:24,10:38:05
+ironman-austria-20160626.csv,479,James Curran,31,Munster,IRL,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,480,Johan Samuelsson,33,SE,SWE,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,481,Radoslav Sirota,34,Slovakia,SVK,01:09:33,05:23:26,04:06:54,00:04:55,00:04:25,10:49:13
+ironman-austria-20160626.csv,482,Radu Racovita,32,Bucuresti,ROU,01:20:18,05:41:59,03:28:31,00:07:58,00:08:21,10:47:07
+ironman-austria-20160626.csv,483,Toon Veldeman,34,Other,BEL,00:56:06,04:45:25,02:57:04,00:03:48,00:02:06,08:44:29
+ironman-austria-20160626.csv,484,Juan Antonio Lopez Monterde,33,---,ESP,01:12:08,05:51:23,04:29:51,00:04:44,00:07:53,11:45:59
+ironman-austria-20160626.csv,485,Daniel Puerta Morante,34,---,ESP,00:52:22,04:47:55,03:27:52,00:04:01,00:01:58,09:14:08
+ironman-austria-20160626.csv,486,Jimmy Dernoncourt,31,---,BEL,01:14:22,05:25:47,03:43:49,00:06:25,00:03:55,10:34:18
+ironman-austria-20160626.csv,487,Daniel Thebaud,29,---,DEU,01:24:40,05:31:23,03:48:14,00:04:34,00:03:58,10:52:49
+ironman-austria-20160626.csv,488,Karl-Martin Kaiser,33,AT,AUT,01:11:55,05:23:17,04:16:32,00:06:29,00:03:49,11:02:02
+ironman-austria-20160626.csv,489,Mario Erath,30,Österreich,AUT,00:58:18,04:55:11,03:25:01,00:03:13,00:03:50,09:25:33
+ironman-austria-20160626.csv,490,Marco Pammer,30,AT,AUT,01:08:28,05:38:16,04:25:48,00:05:06,00:04:13,11:21:51
+ironman-austria-20160626.csv,491,Severin Katzensteiner,30,AT,AUT,01:18:23,05:40:18,04:35:40,00:07:34,00:05:44,11:47:39
+ironman-austria-20160626.csv,492,Manuel Seyr,30,AT,AUT,01:20:29,05:40:51,03:34:02,00:03:50,00:04:59,10:44:11
+ironman-austria-20160626.csv,493,Stephan Benedikt,29,---,AUT,00:57:28,04:46:19,03:09:42,00:04:37,00:03:10,09:01:16
+ironman-austria-20160626.csv,494,Anton Khaldin,31,AA,RUS,01:16:31,04:57:16,03:44:58,00:06:04,00:05:00,10:09:49
+ironman-austria-20160626.csv,495,Inaki De La Parra,33,---,MEX,00:57:16,04:58:16,03:48:55,00:04:26,00:02:32,09:51:25
+ironman-austria-20160626.csv,496,Tero Setola,37,Select,FIN,01:03:58,04:57:33,03:22:48,00:03:28,00:02:41,09:30:28
+ironman-austria-20160626.csv,497,Stefan Mikula,36,OÖ,AUT,01:18:39,05:50:16,03:47:45,00:06:12,00:03:21,11:06:13
+ironman-austria-20160626.csv,498,Martin Hirschler,35,---,AUT,01:06:37,05:03:43,03:53:09,00:05:45,00:05:04,10:14:18
+ironman-austria-20160626.csv,499,Wolfgang Felbauer,35,AT,AUT,01:08:02,05:13:27,04:20:33,00:04:56,00:02:32,10:49:30
+ironman-austria-20160626.csv,500,Anthony Heaton-Jones,38,Somerset,GBR,01:09:10,05:35:01,04:48:27,00:07:09,00:08:28,11:48:15
+ironman-austria-20160626.csv,501,Christian Weyland,37,n/a,LUX,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,502,Geoffrey Van Der Maat,37,NL,NLD,01:20:04,05:23:05,04:40:56,00:05:55,00:10:01,11:40:01
+ironman-austria-20160626.csv,503,Gerald Yong Khin Chuen,38,---,SGP,01:21:52,06:47:43,04:56:40,00:11:34,00:07:36,13:25:25
+ironman-austria-20160626.csv,504,Jason Brown,38,---,GBR,01:11:59,07:03:24,03:59:43,00:08:51,00:10:43,12:34:40
+ironman-austria-20160626.csv,505,Michael Gatenby,37,NY,GBR,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,506,Neil Reid,39,---,GBR,01:08:21,05:04:36,03:54:46,00:05:18,00:05:04,10:18:05
+ironman-austria-20160626.csv,507,Wolfgang Kasprowicz-Freudenthaler,38,AT,AUT,01:30:10,06:02:46,04:33:01,00:07:06,00:06:04,12:19:07
+ironman-austria-20160626.csv,508,Gonzalo Sánchez Martín-Moreno,35,---,ESP,01:04:39,05:42:21,04:53:26,00:04:53,00:04:47,11:50:06
+ironman-austria-20160626.csv,509,François Fouss,37,---,BEL,01:00:20,04:53:49,03:11:23,00:04:14,00:03:14,09:13:00
+ironman-austria-20160626.csv,510,Bernd Schadauer,38,AT,AUT,01:21:15,05:19:46,03:29:15,00:04:45,00:03:32,10:18:33
+ironman-austria-20160626.csv,511,Christian Härtel,34,DE,DEU,00:54:59,04:49:49,03:01:52,00:03:23,00:03:26,08:53:29
+ironman-austria-20160626.csv,512,Christian Loback,38,---,AUT,01:08:29,05:19:54,03:59:13,00:04:58,00:07:00,10:39:34
+ironman-austria-20160626.csv,513,Günther Winkler,35,AT,AUT,01:05:04,05:05:16,04:17:50,00:03:36,00:03:02,10:34:48
+ironman-austria-20160626.csv,514,Julius Schönwetter,36,AT,AUT,01:21:23,06:01:19,03:29:20,00:10:25,00:06:45,11:09:12
+ironman-austria-20160626.csv,515,René Neubach,38,AT,AUT,01:02:33,05:30:24,04:08:03,00:03:33,00:03:32,10:48:05
+ironman-austria-20160626.csv,516,Tarak Anada,34,LA,USA,01:42:02,06:34:54,04:51:43,00:04:48,00:03:44,13:17:11
+ironman-austria-20160626.csv,517,Christian Auer,39,---,AUT,00:59:26,04:54:22,02:53:33,00:03:54,00:03:14,08:54:29
+ironman-austria-20160626.csv,518,Davy Reyniers,37,BE,BEL,00:54:49,05:04:29,03:44:02,00:04:29,00:07:32,09:55:21
+ironman-austria-20160626.csv,519,Bostjan Perc,40,Slovenia,SVN,01:20:13,05:59:28,04:58:50,00:06:03,00:03:17,12:27:51
+ironman-austria-20160626.csv,520,Michal Jilek,44,Czech rep,CZE,01:10:24,05:13:43,03:37:20,00:05:16,00:04:12,10:10:55
+ironman-austria-20160626.csv,521,Peter Schwarz,41,AT,AUT,01:25:06,05:12:24,03:57:17,00:03:59,00:03:07,10:41:53
+ironman-austria-20160626.csv,522,Christian Schett,40,AT,AUT,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,523,Georg Pieber,44,---,AUT,01:20:31,05:26:23,04:10:25,00:04:47,00:05:59,11:08:05
+ironman-austria-20160626.csv,524,Reinhard Entner,40,AT,AUT,01:05:44,05:06:02,04:30:31,00:04:54,00:03:07,10:50:18
+ironman-austria-20160626.csv,525,Bartlomiej Pleszewski,42,QC,CAN,01:30:17,06:04:30,05:11:33,00:06:04,00:06:34,12:58:58
+ironman-austria-20160626.csv,526,Matteo Cermusoni,42,italy,ITA,01:14:30,05:54:47,05:05:22,00:06:32,00:08:17,12:29:28
+ironman-austria-20160626.csv,527,Ignacio Linares Calaza,42,---,ESP,01:14:49,05:31:13,04:28:59,00:07:08,00:08:35,11:30:44
+ironman-austria-20160626.csv,528,Konstantinos Kavvathas,41,nea erithrea,GRC,01:02:44,05:12:29,03:28:31,00:06:56,00:05:22,09:56:02
+ironman-austria-20160626.csv,529,Federico Lisci,40,medio campidano,ITA,01:03:49,05:11:27,03:37:33,00:05:55,00:05:40,10:04:24
+ironman-austria-20160626.csv,530,Lorenzo Bonagiunti,42,italia,ITA,01:18:19,05:21:15,03:43:02,00:04:59,00:05:32,10:33:07
+ironman-austria-20160626.csv,531,Marcin Pleti,42,---,POL,01:23:29,05:29:39,03:46:04,00:07:03,00:03:51,10:50:06
+ironman-austria-20160626.csv,532,Radim Stefan,42,StC,CZE,01:10:59,05:44:39,04:06:01,00:08:58,00:08:01,11:18:38
+ironman-austria-20160626.csv,533,Michael Janesch,42,AT,AUT,01:04:59,05:36:17,04:34:38,00:06:42,00:05:13,11:27:49
+ironman-austria-20160626.csv,534,Nazario Battista,41,Latina,ITA,00:58:55,---,---,00:05:41,---,DNF
+ironman-austria-20160626.csv,535,Niklas Sviden,43,SE,SWE,01:20:22,05:55:01,03:58:03,00:06:09,00:03:57,11:23:32
+ironman-austria-20160626.csv,536,Gianluca Coltro,44,VENEZIA,ITA,01:11:02,06:05:23,---,00:09:57,00:09:15,DNF
+ironman-austria-20160626.csv,537,Angelo Gian Mattia Radice,43,---,ITA,01:08:03,04:58:24,03:22:41,00:04:58,00:04:09,09:38:15
+ironman-austria-20160626.csv,538,Richard Olsson,---,---,SWE,01:19:06,05:53:05,04:35:36,00:07:27,00:07:41,12:02:55
+ironman-austria-20160626.csv,539,Thomas Roost,44,CH,CHE,01:08:42,05:09:15,04:18:49,00:09:26,00:07:04,10:53:16
+ironman-austria-20160626.csv,540,Carlos Luque Vidal,39,ES,ESP,01:19:10,05:45:19,03:50:01,00:04:14,00:03:58,11:02:42
+ironman-austria-20160626.csv,541,Gerald Aigmüller,42,AT,AUT,01:18:50,05:27:02,05:50:23,00:04:34,00:03:36,12:44:25
+ironman-austria-20160626.csv,542,Peter Klemm,40,DE,DEU,01:11:49,05:37:52,03:58:47,00:05:31,00:04:17,10:58:16
+ironman-austria-20160626.csv,543,Markus Schicha,40,AT,AUT,01:14:43,05:51:31,05:18:52,00:04:34,00:04:56,12:34:36
+ironman-austria-20160626.csv,544,Michael Loibl,43,AT,AUT,01:22:39,05:45:26,03:48:54,00:07:13,00:03:56,11:08:08
+ironman-austria-20160626.csv,545,Wolfgang Hainisch,41,AT,AUT,01:16:54,05:04:50,03:58:19,00:05:33,00:02:35,10:28:11
+ironman-austria-20160626.csv,546,Ralf Preissl,40,---,DEU,00:58:06,04:46:51,03:23:16,00:03:47,00:02:12,09:14:12
+ironman-austria-20160626.csv,548,Wilfried Nebenführ,44,AT,AUT,01:10:36,05:32:12,03:48:16,00:05:34,00:05:41,10:42:19
+ironman-austria-20160626.csv,549,Wolfgang Pajic,44,AT,AUT,01:18:41,05:25:42,03:48:46,00:04:11,00:04:06,10:41:26
+ironman-austria-20160626.csv,550,Franz Pauli,42,AT,AUT,01:02:58,04:52:31,03:28:56,00:06:18,00:04:53,09:35:36
+ironman-austria-20160626.csv,551,Daniele Gianola,43,Bolzano,ITA,01:19:05,06:06:22,05:38:34,00:06:40,00:04:37,13:15:18
+ironman-austria-20160626.csv,552,Neil Manville,41,UT,USA,01:11:13,05:21:44,04:19:30,00:08:25,00:06:29,11:07:21
+ironman-austria-20160626.csv,553,Luigi Ferretti,45,italia,ITA,01:11:22,05:18:44,04:36:43,00:06:01,00:04:11,11:17:01
+ironman-austria-20160626.csv,555,Günther Stachl,44,AT,AUT,01:20:39,05:47:37,04:10:26,00:05:30,00:04:24,11:28:36
+ironman-austria-20160626.csv,556,Harald Christian Hubmann,44,AT,AUT,01:21:26,05:27:32,04:05:22,00:05:00,00:04:05,11:03:25
+ironman-austria-20160626.csv,557,Peter Brandenburger,45,AT,AUT,01:10:44,05:21:39,03:36:14,00:07:29,00:05:25,10:21:31
+ironman-austria-20160626.csv,558,Rudolf Bayer,46,---,AUT,01:21:41,05:27:06,03:52:00,00:03:43,00:03:30,10:48:00
+ironman-austria-20160626.csv,560,Alain Beaufayt,47,DE,BEL,01:10:50,05:26:42,04:32:59,00:05:06,00:08:02,11:23:39
+ironman-austria-20160626.csv,561,Boris Kipper,44,WI,DEU,01:28:40,05:51:30,04:17:33,00:07:04,00:05:00,11:49:47
+ironman-austria-20160626.csv,562,Gianluca Cogliati,46,Italia,ITA,01:01:42,05:05:52,03:23:53,00:05:45,00:05:09,09:42:21
+ironman-austria-20160626.csv,563,Cagan Oztuna,44,Maslak,TUR,01:24:39,05:46:00,04:27:29,00:11:21,00:10:03,11:59:32
+ironman-austria-20160626.csv,564,Franz Dudda,49,---,AUT,01:12:38,05:14:27,03:58:30,00:06:53,00:07:06,10:39:34
+ironman-austria-20160626.csv,565,Marco Fabbri,49,italia,ITA,01:16:29,05:24:55,04:37:33,00:09:46,00:08:00,11:36:43
+ironman-austria-20160626.csv,566,Kenji Tabuchi,47,Okayama,JPN,01:08:12,06:40:29,04:32:23,00:08:33,00:05:49,12:35:26
+ironman-austria-20160626.csv,567,Luis Pisoeiro,44,Lisboa,PRT,01:22:38,05:41:55,04:06:11,00:06:00,00:05:18,11:22:02
+ironman-austria-20160626.csv,568,Mario Endrizzi,45,bolzano,ITA,01:08:05,05:46:46,05:04:16,00:05:50,00:06:40,12:11:37
+ironman-austria-20160626.csv,569,Michele Bachiorri,46,ITA,ITA,01:20:34,05:45:47,03:51:52,00:07:22,00:03:35,11:09:10
+ironman-austria-20160626.csv,570,Patrick Engel,47,NC,USA,01:15:12,05:31:39,04:20:47,00:09:23,00:05:22,11:22:23
+ironman-austria-20160626.csv,571,Steve Grocock,46,---,GBR,00:58:09,04:56:25,03:51:47,00:05:20,00:04:06,09:55:47
+ironman-austria-20160626.csv,572,Carlos Velasco,46,ES,ESP,01:02:08,05:33:28,03:39:10,00:05:47,00:04:32,10:25:05
+ironman-austria-20160626.csv,573,Xavier Recasens,46,ES,ESP,01:11:35,05:45:39,04:20:09,00:06:03,00:04:27,11:27:53
+ironman-austria-20160626.csv,574,Carlos Silva,49,Maroc,PRT,01:20:30,05:15:22,03:33:26,00:06:13,00:05:52,10:21:23
+ironman-austria-20160626.csv,575,Andreas Rehn,47,DE,DEU,01:06:03,04:57:47,04:55:37,00:04:44,00:04:50,11:09:01
+ironman-austria-20160626.csv,576,Dino Franke,45,DE,DEU,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,577,Gernot Stöfan,47,AT,AUT,01:15:51,05:39:05,04:19:31,00:05:45,00:03:03,11:23:15
+ironman-austria-20160626.csv,578,Christian Höbinger,---,---,AUT,01:16:37,05:53:29,05:18:06,00:06:53,00:05:16,12:40:21
+ironman-austria-20160626.csv,579,Hans-Peter Rappelsberger,46,AT,AUT,01:10:30,05:23:44,04:18:36,00:04:13,00:03:35,11:00:38
+ironman-austria-20160626.csv,580,Joan Salvador Escala Arnau,48,---,ESP,01:26:21,05:40:14,03:56:17,00:05:22,00:06:46,11:15:00
+ironman-austria-20160626.csv,581,Jordi Rigual,46,---,ESP,01:01:44,05:04:58,03:34:44,00:05:05,00:06:42,09:53:13
+ironman-austria-20160626.csv,582,Bernd Fricke,47,DE,DEU,01:08:42,05:19:10,03:50:26,00:04:15,00:03:31,10:26:04
+ironman-austria-20160626.csv,583,Kivanc Onutman,47,---,TUR,01:26:53,06:16:48,04:43:17,00:08:18,00:06:35,12:41:51
+ironman-austria-20160626.csv,584,Paul Lebouille,46,NL,NLD,01:02:20,05:17:07,03:47:53,00:03:59,00:03:16,10:14:35
+ironman-austria-20160626.csv,585,Bernhard Bohmer,50,AT,AUT,01:13:12,05:17:48,05:38:27,00:04:13,00:14:32,12:28:12
+ironman-austria-20160626.csv,586,Bart Klein,52,NL,NLD,01:15:42,05:41:09,04:06:33,00:05:41,00:05:17,11:14:22
+ironman-austria-20160626.csv,587,Manfred Spellitz,49,AT,AUT,01:08:41,05:32:57,03:48:58,00:04:59,00:06:49,10:42:24
+ironman-austria-20160626.csv,588,Marjan Majcen,50,Slovenia,SVN,01:11:14,05:19:41,03:16:29,00:04:35,00:03:40,09:55:39
+ironman-austria-20160626.csv,589,Robert Reinbold,50,Vienna,AUT,01:21:15,06:04:16,04:46:11,00:05:18,00:04:18,12:21:18
+ironman-austria-20160626.csv,590,Toralf Sigle,50,DE,DEU,01:10:12,05:06:17,03:52:33,00:06:03,00:04:07,10:19:12
+ironman-austria-20160626.csv,591,Andreas Haberl,51,AT,AUT,01:22:04,05:19:00,04:00:46,00:04:46,00:04:37,10:51:13
+ironman-austria-20160626.csv,592,Peter Chard,49,---,GBR,01:11:28,05:26:43,05:28:44,00:05:25,00:04:09,12:16:29
+ironman-austria-20160626.csv,593,Alfred Spreitzhofer,50,AT,AUT,01:18:32,05:15:12,03:53:36,00:04:32,00:03:54,10:35:46
+ironman-austria-20160626.csv,594,Christian Urich,51,AT,AUT,01:22:54,06:07:41,04:49:11,00:06:30,00:05:10,12:31:26
+ironman-austria-20160626.csv,595,Dieter Schmidt,51,AT,AUT,01:28:22,06:03:38,05:06:30,00:06:53,00:06:03,12:51:26
+ironman-austria-20160626.csv,596,Dave Dadson,49,Kent,GBR,01:32:33,06:03:48,05:16:01,00:07:26,00:04:52,13:04:40
+ironman-austria-20160626.csv,597,Dany Bänziger,54,CH,CHE,01:28:22,05:48:39,04:37:56,00:08:20,00:07:28,12:10:45
+ironman-austria-20160626.csv,598,Carlo Fragiacomo,49,Italy,ITA,01:05:49,05:07:11,04:25:50,00:04:52,00:03:55,10:47:37
+ironman-austria-20160626.csv,599,Josef Ellinger,51,AT,AUT,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,600,Luca Lazzara,51,Intl State,ITA,01:00:49,05:18:54,04:05:13,00:04:38,00:04:12,10:33:46
+ironman-austria-20160626.csv,601,Martin Schweinberger,51,DE,DEU,01:13:40,05:38:20,04:16:43,00:04:38,00:07:18,11:20:39
+ironman-austria-20160626.csv,602,Massimiliano Braida,51,ITALIA,ITA,01:19:09,06:11:24,04:29:35,00:06:25,00:06:25,12:12:58
+ironman-austria-20160626.csv,603,Max D'Auria,52,Venice,ITA,01:13:17,06:09:56,05:28:45,00:09:20,00:07:19,13:08:37
+ironman-austria-20160626.csv,604,Oscar Gino Gagini,50,---,ITA,01:28:02,06:36:38,04:10:56,00:10:54,00:04:20,12:30:50
+ironman-austria-20160626.csv,605,Ottorino Piras,---,---,ITA,01:15:19,05:15:56,03:37:27,00:04:44,00:04:12,10:17:38
+ironman-austria-20160626.csv,606,Peter Van Bel,50,BE,BEL,01:14:41,05:10:32,03:42:14,00:06:55,00:04:26,10:18:48
+ironman-austria-20160626.csv,607,Thomas Schopper,50,CH,AUT,01:16:27,05:38:36,04:24:38,00:06:20,00:06:56,11:32:57
+ironman-austria-20160626.csv,608,Thomas Buchinger,52,AT,AUT,01:39:05,06:22:35,04:22:40,00:07:46,00:07:21,12:39:27
+ironman-austria-20160626.csv,609,Tom Brady,50,CO,USA,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,610,Vitomir Lazic,51,---,HRV,01:20:18,06:13:59,04:50:12,00:07:25,00:09:06,12:41:00
+ironman-austria-20160626.csv,611,Werner Schweiger,52,AT,AUT,01:20:01,05:31:25,04:47:19,00:07:52,00:05:53,11:52:30
+ironman-austria-20160626.csv,612,Wolfgang Ressl,49,AT,AUT,01:19:32,05:29:52,04:51:59,00:04:25,00:04:15,11:50:03
+ironman-austria-20160626.csv,613,Serge Mortz,51,FR,FRA,01:25:15,06:14:07,05:00:42,00:05:27,00:06:49,12:52:20
+ironman-austria-20160626.csv,614,Tony Cermak,51,AT,AUT,01:16:51,05:56:44,05:18:12,00:06:16,00:05:03,12:43:06
+ironman-austria-20160626.csv,615,Helmut Brunar,50,Vienna,AUT,01:19:22,05:25:01,03:57:04,00:04:30,00:03:50,10:49:47
+ironman-austria-20160626.csv,616,Kurt Heidelbauer,52,AT,AUT,01:26:24,05:49:01,04:22:19,00:05:28,00:03:14,11:46:26
+ironman-austria-20160626.csv,617,Mark Schoonhoven,50,---,NLD,01:25:49,06:10:06,04:40:24,00:04:48,00:03:58,12:25:05
+ironman-austria-20160626.csv,618,Siegfried Geissler,---,---,AUT,01:11:30,04:53:04,03:23:13,00:04:06,00:02:56,09:34:49
+ironman-austria-20160626.csv,619,Patrik Holst,51,---,SWE,01:14:52,05:56:35,06:09:56,00:07:28,00:10:19,13:39:10
+ironman-austria-20160626.csv,620,Dirk Zager,58,DE,DEU,01:24:07,05:53:50,04:21:25,00:06:34,00:05:48,11:51:44
+ironman-austria-20160626.csv,621,Dave Mawhinney,57,Shropshire,GBR,01:08:14,05:12:41,04:12:21,00:06:06,00:04:16,10:43:38
+ironman-austria-20160626.csv,622,Kevin Pullin,57,---,GBR,00:58:05,06:29:49,06:26:39,00:07:59,00:10:48,14:13:20
+ironman-austria-20160626.csv,623,Petr Smatera,54,CZECH,CZE,01:28:36,05:40:17,04:37:36,00:07:31,00:04:44,11:58:44
+ironman-austria-20160626.csv,624,Jaume Gubern Boix,56,ES,ESP,01:24:32,05:43:16,04:14:17,00:07:33,00:06:13,11:35:51
+ironman-austria-20160626.csv,625,Albrecht Prieler,56,AT,AUT,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,626,Frank Holzapfel,56,Berlin,DEU,01:15:30,06:06:46,04:21:56,00:07:53,00:09:51,12:01:56
+ironman-austria-20160626.csv,627,Hans-Jürgen Bartz,56,DE,DEU,01:25:48,05:27:02,03:45:28,00:05:52,00:04:21,10:48:31
+ironman-austria-20160626.csv,628,Peter Gruber,56,Intl State,AUT,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,629,Guido Santos Natale,58,---,ARG,01:30:08,06:33:56,05:50:15,00:10:20,00:06:53,14:11:32
+ironman-austria-20160626.csv,630,Nigel Watson,60,Worcs,GBR,01:14:01,06:02:45,05:02:07,00:12:12,00:10:36,12:41:41
+ironman-austria-20160626.csv,631,Daniele Pelessone,64,CA,USA,01:32:28,07:07:36,05:15:24,00:07:35,00:11:04,14:14:07
+ironman-austria-20160626.csv,632,Chunxu hu,28,北京,CHN,01:19:40,05:06:36,03:20:30,00:05:13,00:05:16,09:57:15
+ironman-austria-20160626.csv,633,Klaus Marcel,39,---,CHE,01:05:05,04:47:08,03:16:24,00:04:01,00:04:58,09:17:36
+ironman-austria-20160626.csv,634,Pengcheng Li,25,SiChuan,CHN,01:01:57,05:06:55,03:21:45,00:04:28,00:05:21,09:40:26
+ironman-austria-20160626.csv,635,Andreas Kulle,50,AT,AUT,01:14:16,05:27:29,04:48:19,00:06:22,00:08:32,11:44:58
+ironman-austria-20160626.csv,636,Juan Jose Martínez Lavín,41,---,ESP,01:19:02,05:05:00,03:37:41,00:05:23,00:04:01,10:11:07
+ironman-austria-20160626.csv,637,Elisa Talker,21,---,AUT,01:11:14,06:07:46,04:21:32,00:08:03,00:06:28,11:55:03
+ironman-austria-20160626.csv,638,Emily Young,---,---,GBR,01:21:12,06:35:22,---,00:08:09,---,DNF
+ironman-austria-20160626.csv,639,Johanna Erhart,21,AT,AUT,00:59:06,05:14:04,03:48:33,00:03:02,00:02:10,10:06:55
+ironman-austria-20160626.csv,640,Carolina Gonano,23,FR,ITA,01:26:15,06:42:07,04:52:43,00:07:37,00:07:16,13:15:58
+ironman-austria-20160626.csv,641,Emily Favret,29,Greater London,USA,01:15:00,06:53:15,05:18:23,00:06:59,00:08:34,13:42:11
+ironman-austria-20160626.csv,642,Emma Payne,27,---,GBR,01:19:27,06:16:40,05:19:41,00:05:25,00:04:45,13:05:58
+ironman-austria-20160626.csv,643,Eva Hinteregger,28,AT,AUT,01:25:09,07:06:22,05:25:33,00:06:29,00:04:53,14:08:26
+ironman-austria-20160626.csv,644,Jane Turner,29,---,GBR,01:16:26,05:43:10,04:14:27,00:06:07,00:06:39,11:26:49
+ironman-austria-20160626.csv,645,Lisa Satzinger,28,AT,AUT,01:25:15,06:17:58,05:29:16,00:08:03,00:07:20,13:27:52
+ironman-austria-20160626.csv,646,Mafalda Matos,28,LISBOA,PRT,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,647,Nikki Hebenstreit,29,---,AUS,01:09:56,06:02:03,03:57:56,00:06:10,00:04:34,11:20:39
+ironman-austria-20160626.csv,648,Leila Gassner,29,AT,DEU,01:19:49,06:50:54,05:26:19,00:06:02,00:07:03,13:50:07
+ironman-austria-20160626.csv,649,Tina Bartol,25,pirkanmaa,SVN,01:32:09,07:44:34,05:52:47,00:08:19,00:08:22,15:26:11
+ironman-austria-20160626.csv,650,Anna Ymbern Jiménez,27,ES,ESP,01:00:55,06:30:30,04:37:20,00:05:20,00:04:33,12:18:38
+ironman-austria-20160626.csv,651,Opal Robles Zendrera,28,ES,ESP,01:06:46,06:21:46,04:14:18,00:07:08,00:04:21,11:54:19
+ironman-austria-20160626.csv,652,Paula Huertas,28,ES,ESP,01:27:54,06:48:33,05:06:42,00:06:44,00:07:17,13:37:10
+ironman-austria-20160626.csv,653,Mathilde Magniez,24,---,FRA,01:05:10,05:10:53,03:42:17,00:05:03,00:03:24,10:06:47
+ironman-austria-20160626.csv,654,Nicole Hoffmann,29,DE,DEU,01:05:51,05:33:30,04:23:03,00:04:31,00:03:47,11:10:42
+ironman-austria-20160626.csv,655,Stefanie Fischer,29,DE,DEU,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,656,Rachael Butcher,29,Orkney,GBR,01:07:21,06:24:38,04:18:21,00:04:53,00:07:31,12:02:44
+ironman-austria-20160626.csv,657,Shelley Oppenheimer,29,Herzliya,ISR,01:29:09,06:42:25,04:24:49,00:09:18,00:07:28,12:53:09
+ironman-austria-20160626.csv,658,Angelika Krumphuber,32,AT,AUT,01:28:06,07:17:31,05:59:10,00:10:33,00:08:02,15:03:22
+ironman-austria-20160626.csv,659,Siobhan Wild,32,West glamorgan,GBR,01:33:01,07:30:46,05:21:43,00:08:47,00:08:20,14:42:37
+ironman-austria-20160626.csv,660,Daniela Frank,30,DE,DEU,01:11:23,05:41:11,04:19:08,00:05:54,00:06:07,11:23:43
+ironman-austria-20160626.csv,661,Elke Kugi,31,AT,AUT,01:19:02,06:12:15,04:48:28,00:05:49,00:04:29,12:30:03
+ironman-austria-20160626.csv,662,Nicole Garbers,33,DE,DEU,01:38:47,07:25:44,05:52:38,00:07:37,00:07:54,15:12:40
+ironman-austria-20160626.csv,663,Anna Murawska,31,---,GBR,01:04:42,05:35:32,03:31:54,00:06:01,00:04:52,10:23:01
+ironman-austria-20160626.csv,664,Babsi Scheck,34,AT,AUT,01:07:38,05:36:15,03:48:56,00:04:14,00:03:23,10:40:26
+ironman-austria-20160626.csv,665,Christina Prüser,30,CH,CHE,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,666,Denisa Nemethova,30,northumberland,GBR,01:18:30,06:21:31,05:03:08,00:08:57,00:10:32,13:02:38
+ironman-austria-20160626.csv,667,Ellie Cunningham,31,---,IRL,01:31:09,07:05:00,06:02:03,00:09:22,00:09:42,14:57:16
+ironman-austria-20160626.csv,668,Francesca Poli,34,Bologna,ITA,01:09:08,05:59:45,04:07:37,00:05:42,00:03:49,11:26:01
+ironman-austria-20160626.csv,669,Kristin Hoogenboom,32,OR,USA,01:01:57,05:44:10,05:22:12,00:06:00,00:05:35,12:19:54
+ironman-austria-20160626.csv,670,Leontien Dekhuyzen,34,NL,NLD,01:23:05,06:18:07,04:43:05,00:06:55,00:07:52,12:39:04
+ironman-austria-20160626.csv,671,Maaike Van Vliet,34,NL,NLD,01:11:53,06:28:12,05:45:34,00:09:09,00:09:06,13:43:54
+ironman-austria-20160626.csv,672,Marni Sumbal,34,SC,USA,00:57:04,05:18:00,03:42:57,00:03:56,00:04:57,10:06:54
+ironman-austria-20160626.csv,673,Nora Stunf,32,AT,AUT,01:25:26,06:29:46,05:09:58,00:07:28,00:08:10,13:20:48
+ironman-austria-20160626.csv,674,Ariane Pritchard,32,Berkshire,GBR,01:24:02,06:03:16,04:23:27,00:08:47,00:07:18,12:06:50
+ironman-austria-20160626.csv,675,Andrea Zemanova,33,Vyberte prosím stát,CZE,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,676,Anna Santidrian Bou,30,---,ESP,01:09:38,06:12:36,03:51:10,00:05:21,00:04:57,11:23:42
+ironman-austria-20160626.csv,677,Mireia Rodriguez Carreño,34,ES,ESP,01:09:44,05:34:35,04:08:00,00:05:31,00:03:40,11:01:30
+ironman-austria-20160626.csv,678,Annalena Füllbrandt,34,DE,DEU,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,679,Cécile Amstad,32,CH,CHE,01:13:48,05:49:12,03:59:11,00:06:23,00:05:20,11:13:54
+ironman-austria-20160626.csv,680,Sabine Ebermann,31,DE,AUT,01:20:07,06:54:33,05:25:33,00:14:13,00:15:20,14:09:46
+ironman-austria-20160626.csv,681,Jelina Michalski,34,AT,AUT,01:37:57,07:11:14,06:10:36,00:09:17,00:07:30,15:16:34
+ironman-austria-20160626.csv,682,Linda Matheis,30,AT,DEU,01:29:30,07:55:36,04:57:31,00:08:06,00:09:58,14:40:41
+ironman-austria-20160626.csv,683,Michaela Wieser,34,AT,AUT,01:25:13,06:24:42,04:27:13,00:10:12,00:04:14,12:31:34
+ironman-austria-20160626.csv,684,Rike Westermann,34,---,DEU,01:11:55,05:16:19,03:16:49,00:04:03,00:03:54,09:53:00
+ironman-austria-20160626.csv,685,Sandra Rehrl,30,AT,AUT,01:13:38,05:25:12,03:42:35,00:05:52,00:03:23,10:30:40
+ironman-austria-20160626.csv,686,Simone Gerold,31,AT,AUT,01:11:47,06:22:31,04:38:36,00:05:53,00:08:29,12:27:16
+ironman-austria-20160626.csv,687,Camilla Madiai,30,Italia,ITA,01:09:57,06:40:23,04:22:37,00:05:54,00:06:48,12:25:39
+ironman-austria-20160626.csv,688,Heidi Egli,34,CH,CHE,01:16:57,06:11:32,04:30:49,00:05:54,00:04:33,12:09:45
+ironman-austria-20160626.csv,689,Michelle Manning,30,Cork,IRL,01:22:53,07:00:28,04:19:07,00:06:21,00:06:41,12:55:30
+ironman-austria-20160626.csv,690,Evgeniia Sidorenko,32,---,RUS,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,691,Susan Manville,33,UT,USA,01:27:32,---,---,00:09:42,---,DNF
+ironman-austria-20160626.csv,692,Verena Schulmeister,37,AT,AUT,01:47:04,---,---,00:11:09,---,DNF
+ironman-austria-20160626.csv,693,Annemie Sprenger De Rover,36,---,GBR,01:25:53,07:15:19,---,00:07:57,00:08:00,DNF
+ironman-austria-20160626.csv,694,Jutta Eugl Wabnig,35,AT,AUT,01:21:32,05:49:08,04:06:51,00:05:33,00:03:48,11:26:52
+ironman-austria-20160626.csv,695,Beatrix Baumgartner,38,AT,AUT,01:08:58,05:31:53,04:25:15,00:05:12,00:03:30,11:14:48
+ironman-austria-20160626.csv,696,Daniela Kronberger,35,AT,AUT,01:12:51,05:35:10,04:34:22,00:05:23,00:04:38,11:32:24
+ironman-austria-20160626.csv,697,Melanie Gschwandtner,34,AT,AUT,01:18:10,06:03:42,04:11:49,00:06:00,00:05:20,11:45:01
+ironman-austria-20160626.csv,698,Bea Bauer,38,DE,DEU,01:18:49,05:43:29,03:44:00,00:04:27,00:02:46,10:53:31
+ironman-austria-20160626.csv,699,Maria Lang-Weissmann,35,AT,AUT,01:10:43,05:43:56,03:55:04,00:04:35,00:02:57,10:57:15
+ironman-austria-20160626.csv,700,Chenhuan Ding,35,shanghai,CHN,01:08:52,07:25:21,06:46:50,00:13:52,00:09:48,15:44:43
+ironman-austria-20160626.csv,701,Alexandra Merstallinger,37,AT,AUT,01:28:03,07:32:11,05:35:07,00:07:36,00:09:06,14:52:03
+ironman-austria-20160626.csv,702,Jasmine Tan,36,---,SGP,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,703,Anna Stancombe,34,tyne and wear,GBR,01:24:06,06:08:13,04:47:33,00:06:29,00:05:07,12:31:28
+ironman-austria-20160626.csv,704,Julie Pritchard,35,Varese,GBR,01:24:00,06:56:06,05:21:41,00:08:50,00:09:40,14:00:17
+ironman-austria-20160626.csv,705,Manuela Janosch,36,AT,AUT,01:17:02,06:09:38,05:45:13,00:05:37,00:04:04,13:21:34
+ironman-austria-20160626.csv,706,Claire Shea-Simonds,39,United Kingdom,GBR,01:00:17,05:24:33,03:39:59,00:04:15,00:02:42,10:11:46
+ironman-austria-20160626.csv,707,Eleonora Bado,34,Italia,ITA,01:13:28,06:13:59,04:17:06,00:04:51,00:05:33,11:54:57
+ironman-austria-20160626.csv,708,Monica Faisca,37,OEIRAS,PRT,01:16:29,06:33:38,05:33:04,00:06:22,00:05:50,13:35:23
+ironman-austria-20160626.csv,709,Heidi Geelen,38,BE,BEL,01:21:13,06:06:14,04:50:27,00:06:05,00:05:55,12:29:54
+ironman-austria-20160626.csv,710,Kate Miller,35,---,GBR,01:31:09,07:17:40,06:05:10,00:09:37,00:08:50,15:12:26
+ironman-austria-20160626.csv,711,Kathrin Ohlmeyer,35,DE,DEU,01:12:09,05:12:41,03:49:37,00:05:10,00:03:25,10:23:02
+ironman-austria-20160626.csv,712,Liesbeth Werbrouck,36,BE,BEL,01:10:49,05:40:29,04:22:48,00:04:17,00:02:35,11:20:58
+ironman-austria-20160626.csv,713,Lynn Gatherer,38,---,GBR,01:30:29,06:36:04,04:38:06,00:06:54,00:07:25,12:58:58
+ironman-austria-20160626.csv,714,Maria Russell,38,Bucks,GBR,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,715,Brendan Dowd,38,kildare,IRL,01:11:34,05:45:43,04:04:01,00:08:05,00:07:03,11:16:26
+ironman-austria-20160626.csv,716,Rachel Dearing,35,---,GBR,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,717,R ¸ena Kavanová,37,Czech Republic,CZE,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,718,Rebecca Pittam,35,AUH,GBR,01:31:43,06:38:04,06:04:14,00:11:09,00:07:52,14:33:02
+ironman-austria-20160626.csv,719,Irmgard Stimez,35,---,AUT,01:21:41,05:32:53,03:39:58,00:06:46,00:04:12,10:45:30
+ironman-austria-20160626.csv,720,Véronique Van Gaever,38,BE,BEL,01:31:11,06:18:54,04:15:01,00:09:00,00:06:49,12:20:55
+ironman-austria-20160626.csv,721,Heike Hundertmark,34,ES,DEU,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,722,Ivana Benítez Rangel,38,ES,ESP,01:33:00,06:48:44,04:45:02,00:07:52,00:08:10,13:22:48
+ironman-austria-20160626.csv,723,Saray Narbona Conejero,37,ES,ESP,01:12:41,06:30:18,04:58:05,00:07:01,00:04:39,12:52:44
+ironman-austria-20160626.csv,724,Vanessa Egea Muñoz,39,ES,ESP,01:11:47,05:42:05,04:15:24,00:06:56,00:04:25,11:20:37
+ironman-austria-20160626.csv,725,Ermelinde Türtscher,39,AT,AUT,01:39:00,07:22:19,06:00:29,00:07:15,00:07:26,15:16:29
+ironman-austria-20160626.csv,726,Claudia Prawitz,38,DE,DEU,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,727,Anja Schranz,39,DE,DEU,01:29:01,06:43:48,05:07:40,00:10:50,00:07:48,13:39:07
+ironman-austria-20160626.csv,728,Jana Bartunek,35,AT,AUT,01:07:40,06:16:19,04:14:15,00:07:34,00:06:57,11:52:45
+ironman-austria-20160626.csv,729,Julia Kaul,39,DE,DEU,01:08:38,05:16:02,04:22:22,00:05:21,00:03:07,10:55:30
+ironman-austria-20160626.csv,730,Katharina Schmidt,36,DE,DEU,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,731,Manja Büst,36,DE,DEU,01:32:56,06:55:25,04:12:53,00:05:26,00:03:39,12:50:19
+ironman-austria-20160626.csv,732,Maxi Schöberlein,36,DE,DEU,01:11:26,05:53:10,04:29:48,00:05:39,00:03:40,11:43:43
+ironman-austria-20160626.csv,733,Stephanie Fickenscher,35,DE,DEU,01:23:07,06:07:25,05:08:21,00:07:15,00:05:59,12:52:07
+ironman-austria-20160626.csv,734,Susanne Pettinger,36,DE,DEU,01:13:07,05:49:30,04:49:23,00:07:46,00:05:10,12:04:56
+ironman-austria-20160626.csv,735,Anna-Stina Wiklund,35,",",FIN,01:14:49,06:04:02,04:23:53,00:05:38,00:05:20,11:53:42
+ironman-austria-20160626.csv,736,Aoife Mahony,35,Cork,IRL,01:11:18,05:50:48,04:27:55,00:04:39,00:04:49,11:39:29
+ironman-austria-20160626.csv,737,Karen Robinson,38,Co. meath,IRL,01:14:20,05:43:50,05:24:44,00:09:13,00:09:28,12:41:35
+ironman-austria-20160626.csv,738,Elaine Costello,36,Kerry,IRL,01:10:59,06:58:36,05:49:07,00:08:21,00:11:32,14:18:35
+ironman-austria-20160626.csv,739,Emily Trant,36,---,GBR,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,740,Julie Bradford,39,Kent,GBR,01:18:16,06:45:09,05:25:53,00:15:46,00:16:48,14:01:52
+ironman-austria-20160626.csv,741,Kaisa Paatsola,35,Finland,FIN,01:15:54,06:33:34,04:48:13,00:05:49,00:05:27,12:48:57
+ironman-austria-20160626.csv,742,Keren Zagury,37,Israel,ISR,01:39:38,07:19:50,---,00:08:08,00:09:01,DNF
+ironman-austria-20160626.csv,743,Katie Hickson,38,---,IRL,01:23:33,06:05:32,03:36:15,00:04:52,00:04:22,11:14:34
+ironman-austria-20160626.csv,744,Melanie Watson,36,---,GBR,01:29:53,06:27:26,04:36:19,00:10:58,00:06:35,12:51:11
+ironman-austria-20160626.csv,745,Cornelia Tschenet,37,AT,AUT,01:35:18,06:09:03,05:22:13,00:08:51,00:09:37,13:25:02
+ironman-austria-20160626.csv,746,Tanja Starl,38,AT,AUT,01:07:15,05:39:43,03:53:21,00:05:27,00:03:50,10:49:36
+ironman-austria-20160626.csv,747,Alexandra Artner,38,AT,AUT,01:18:09,06:54:08,05:29:23,00:08:24,00:08:55,13:58:59
+ironman-austria-20160626.csv,748,Brigitte Schneider,44,---,CHE,01:14:25,05:30:56,04:39:07,00:05:59,00:04:49,11:35:16
+ironman-austria-20160626.csv,749,Ali Steed,43,---,GBR,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,750,Ines Petschar,42,AT,AUT,01:09:13,05:48:47,05:47:18,00:05:38,00:05:31,12:56:27
+ironman-austria-20160626.csv,751,Kathryn Hanson,44,Buckinghamshire,GBR,01:32:26,06:52:45,05:25:58,00:09:26,00:08:38,14:09:13
+ironman-austria-20160626.csv,752,Shine Bar,40,Israel,ISR,01:25:19,06:02:29,03:46:17,00:10:48,00:08:11,11:33:04
+ironman-austria-20160626.csv,753,Beate Dehling,44,---,DEU,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,754,Christina Lachkovics-Budschedl,40,AT,AUT,01:16:47,06:28:48,04:06:42,00:09:34,00:06:13,12:08:04
+ironman-austria-20160626.csv,755,Carmen Groinig,44,AT,AUT,01:20:35,05:47:44,04:50:33,00:06:21,00:06:20,12:11:33
+ironman-austria-20160626.csv,756,Martina Ballon Dr,44,AT,AUT,01:22:11,06:01:53,04:44:20,00:06:28,00:07:47,12:22:39
+ironman-austria-20160626.csv,757,Rebecca Dixon,42,---,GBR,01:11:57,07:21:25,06:03:35,00:08:11,00:10:05,14:55:13
+ironman-austria-20160626.csv,758,Carol Fee,43,---,GBR,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,759,Liliana Imperiale,40,Palermo,ITA,01:26:13,07:01:53,04:15:11,00:10:16,00:07:28,13:01:01
+ironman-austria-20160626.csv,760,Charlotte Tipton-Hughes,42,---,GBR,01:28:32,07:10:17,05:35:49,00:09:40,00:10:38,14:34:56
+ironman-austria-20160626.csv,761,Svanhvít Michelsen,43,Fljotsdalsherad,ISL,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,762,Deborah Milton,41,Kent,GBR,01:40:41,06:55:46,04:08:40,00:09:42,00:09:09,13:03:58
+ironman-austria-20160626.csv,763,Diana Bryant,41,---,GBR,01:18:58,06:33:17,05:23:39,00:06:54,00:05:54,13:28:42
+ironman-austria-20160626.csv,764,Gowan Miller,41,---,GBR,01:22:08,07:10:50,05:23:07,00:10:05,00:11:49,14:17:59
+ironman-austria-20160626.csv,765,Inbal Avital,41,Israel,ISR,01:28:44,06:33:46,05:24:31,00:09:04,00:08:15,13:44:20
+ironman-austria-20160626.csv,766,Joanna Shallcross,41,Tyne and Wear,GBR,01:05:35,05:21:19,03:51:14,00:04:08,00:03:44,10:26:00
+ironman-austria-20160626.csv,767,Kathleen Curran,44,Dublin,IRL,01:15:31,06:33:03,05:15:29,00:04:12,00:07:11,13:15:26
+ironman-austria-20160626.csv,768,Katie Robson,40,---,GBR,01:27:03,06:41:57,06:06:51,00:11:16,00:13:46,14:40:53
+ironman-austria-20160626.csv,769,Katrin Perz,40,AT,AUT,01:14:38,05:57:11,04:34:28,00:05:54,00:04:44,11:56:55
+ironman-austria-20160626.csv,770,Lisa Baker,43,Tyne and Wear,GBR,01:12:07,05:44:53,04:39:37,00:07:38,00:07:11,11:51:26
+ironman-austria-20160626.csv,771,Lisa Rivera,39,OR,USA,01:37:19,07:51:40,05:06:17,00:09:56,00:08:10,14:53:22
+ironman-austria-20160626.csv,772,Ingrid Kidd,40,Angus,GBR,01:03:12,05:14:03,04:05:12,00:04:38,00:03:25,10:30:30
+ironman-austria-20160626.csv,773,Sabrina Mazzolari,44,ITALIA,ITA,01:15:56,06:51:45,05:53:05,00:11:39,00:08:17,14:20:42
+ironman-austria-20160626.csv,774,Mery Bernasconi,43,CH,CHE,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,775,Michelle Flaxton,44,---,GBR,01:19:21,06:44:58,05:55:02,00:08:07,00:09:24,14:16:52
+ironman-austria-20160626.csv,776,Nicola Dennes,42,---,GBR,01:24:54,07:03:18,---,00:12:34,---,DNF
+ironman-austria-20160626.csv,777,Pepir Jernigan,42,FL,USA,01:40:38,07:11:33,04:44:25,00:10:35,00:11:54,13:59:05
+ironman-austria-20160626.csv,778,Sabrina Pogliani,41,---,ITA,01:10:28,06:02:11,04:14:11,00:06:40,00:05:21,11:38:51
+ironman-austria-20160626.csv,779,Sandra Ferencak,43,APO,HRV,01:18:18,06:52:37,05:33:24,00:08:55,00:07:37,14:00:51
+ironman-austria-20160626.csv,780,Sarah Paskin,42,West Midlands,GBR,01:26:19,06:18:16,04:43:13,00:07:18,00:04:07,12:39:13
+ironman-austria-20160626.csv,781,Simone Trummler,42,AT,AUT,01:18:32,05:53:17,04:15:52,00:07:42,00:06:47,11:42:10
+ironman-austria-20160626.csv,782,Sarah Peachey,43,---,GBR,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,783,Victoria Postma,---,CZ,NLD,01:30:24,08:08:46,06:21:01,00:09:36,00:07:43,16:17:30
+ironman-austria-20160626.csv,784,Anita Dugoni,40,ES,ARG,01:25:48,06:44:25,05:19:07,00:06:27,00:05:47,13:41:34
+ironman-austria-20160626.csv,785,Giselle Ruiz Hernandez,41,ES,ESP,01:12:19,06:18:53,03:56:11,00:06:03,00:06:00,11:39:26
+ironman-austria-20160626.csv,786,Géraldine Poupard,42,FR,FRA,01:24:51,06:08:02,04:33:09,00:09:20,00:09:00,12:24:22
+ironman-austria-20160626.csv,787,Sonia Doumit,39,BE,BEL,01:22:02,07:08:16,05:07:37,00:10:51,00:11:05,13:59:51
+ironman-austria-20160626.csv,788,Anne Herten,40,AT,AUT,01:10:16,---,---,07:43:44,---,DNF
+ironman-austria-20160626.csv,789,Birgit Kagerer,43,AT,AUT,01:16:38,---,---,00:05:24,---,DNF
+ironman-austria-20160626.csv,790,Franziska Scoppetta-Sailer,43,AT,AUT,01:28:06,05:57:51,04:44:54,00:08:22,00:08:07,12:27:20
+ironman-austria-20160626.csv,791,Jana Claus,40,DE,DEU,01:18:54,06:42:24,05:59:44,00:06:10,00:07:07,14:14:19
+ironman-austria-20160626.csv,792,Johanna Stefsky,40,AT,AUT,01:18:10,06:19:52,04:46:07,00:07:56,00:04:33,12:36:38
+ironman-austria-20160626.csv,793,Karin Zamberger,40,AT,AUT,01:33:04,---,---,00:07:46,---,DNF
+ironman-austria-20160626.csv,794,Manuela Hindler,43,AT,AUT,01:19:36,06:15:24,04:08:35,00:07:50,00:03:30,11:54:55
+ironman-austria-20160626.csv,795,Sabine Steinscherer,41,---,AUT,01:17:25,05:10:25,03:43:34,00:04:40,00:03:15,10:19:19
+ironman-austria-20160626.csv,796,Patrizia Wimmer,42,DE,AUT,01:16:55,06:15:39,03:57:00,00:05:21,00:03:14,11:38:09
+ironman-austria-20160626.csv,797,Anne Marie Power,43,Cork,IRL,01:06:18,05:27:20,03:37:30,00:06:47,00:04:10,10:22:05
+ironman-austria-20160626.csv,798,Ayelet Balteriski,42,Israel,ISR,01:23:59,06:31:48,05:51:34,00:09:41,00:10:06,14:07:08
+ironman-austria-20160626.csv,799,Becky Frankel,42,---,GBR,01:03:22,05:58:24,04:08:54,00:10:02,00:08:18,11:29:00
+ironman-austria-20160626.csv,800,Tracey Riley,40,Gauteng,ZAF,01:14:43,06:08:28,04:43:13,00:06:04,00:05:48,12:18:16
+ironman-austria-20160626.csv,801,Claire Lucas,42,AB,GBR,01:24:21,07:09:12,04:13:16,00:07:38,00:07:45,13:02:12
+ironman-austria-20160626.csv,802,Deborah De Giuseppe,42,---,ITA,01:18:14,06:36:07,04:57:44,00:06:30,00:07:54,13:06:29
+ironman-austria-20160626.csv,803,Helen Talbot,40,---,GBR,01:06:23,05:32:32,03:32:51,00:05:11,00:05:32,10:22:29
+ironman-austria-20160626.csv,804,Lauren Nish,43,Gauteng,ZAF,01:14:28,06:21:07,04:44:20,00:07:46,00:06:23,12:34:04
+ironman-austria-20160626.csv,805,Montse Galbany Fusté,44,ES,ESP,01:13:23,05:58:33,03:52:27,00:05:34,00:04:17,11:14:14
+ironman-austria-20160626.csv,806,Petra Ehardt,42,AT,AUT,01:44:50,06:24:28,04:22:32,00:06:13,00:07:59,12:46:02
+ironman-austria-20160626.csv,807,Adi Benzvi,47,HaMerkaz,ISR,01:38:00,07:25:03,---,00:09:22,00:06:27,DNF
+ironman-austria-20160626.csv,808,Barbara Enetter,48,AT,AUT,01:22:57,06:56:05,04:50:54,00:06:07,00:06:43,13:22:46
+ironman-austria-20160626.csv,809,Beate Neubauer,46,---,AUT,01:34:56,07:12:34,---,00:10:14,00:07:39,DNF
+ironman-austria-20160626.csv,810,Sophie Steel,45,kent,GBR,01:27:54,07:37:01,05:18:23,00:17:43,00:13:05,14:54:06
+ironman-austria-20160626.csv,811,Sonja Massing-Steiner,45,AT,AUT,01:11:44,05:57:57,04:25:56,00:06:23,00:05:13,11:47:13
+ironman-austria-20160626.csv,812,Catrin Schulze,46,DE,DEU,01:21:12,06:16:24,06:03:54,00:08:19,00:09:40,13:59:29
+ironman-austria-20160626.csv,813,Gerti Winkler,46,AT,AUT,01:27:57,06:34:35,05:24:27,00:10:35,00:06:38,13:44:12
+ironman-austria-20160626.csv,814,Isabell Ahrens,47,DE,DEU,01:15:56,06:04:39,05:33:36,00:06:19,00:06:02,13:06:32
+ironman-austria-20160626.csv,815,Natascha Toegel,45,AT,AUT,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,816,Sabine Promberger,48,AT,AUT,01:29:14,---,---,00:08:46,---,DNF
+ironman-austria-20160626.csv,817,Angela Ackerley,45,---,GBR,01:20:00,05:50:23,04:53:48,00:05:24,00:03:57,12:13:32
+ironman-austria-20160626.csv,818,Amy Garrison,45,PA,USA,01:16:21,06:16:31,05:06:36,00:09:11,00:07:25,12:56:04
+ironman-austria-20160626.csv,819,Alison Richardson,46,---,GBR,01:24:25,07:10:00,04:58:47,00:08:11,00:05:22,13:46:45
+ironman-austria-20160626.csv,820,Annalisa Bacco,48,---,ITA,01:16:13,06:33:01,05:02:14,00:07:02,00:04:34,13:03:04
+ironman-austria-20160626.csv,821,Bridget Clarke,49,CA,USA,01:27:43,07:23:55,04:30:44,00:15:02,00:10:05,13:47:29
+ironman-austria-20160626.csv,822,Cathy Berry,46,---,GBR,01:09:01,05:38:04,03:48:15,00:06:18,00:04:57,10:46:35
+ironman-austria-20160626.csv,823,Alessandra Galimberti,46,---,ITA,01:12:59,07:34:04,04:51:45,00:11:07,00:06:22,13:56:17
+ironman-austria-20160626.csv,824,Christine Krimmel,47,AT,AUT,01:39:47,07:15:46,05:21:45,00:09:22,00:07:46,14:34:26
+ironman-austria-20160626.csv,825,Christy James,46,CA,USA,01:55:48,07:50:57,06:05:38,00:13:11,00:08:38,16:14:12
+ironman-austria-20160626.csv,826,Debi Coles,47,---,GBR,01:27:56,07:09:10,04:43:14,00:07:49,00:09:49,13:37:58
+ironman-austria-20160626.csv,827,Dora Bareggi,46,Italia,ITA,01:20:48,07:16:51,05:13:20,00:10:58,00:08:45,14:10:42
+ironman-austria-20160626.csv,828,Gemma Mitchell,47,surrey,GBR,01:18:35,06:04:52,04:41:50,00:05:47,00:06:26,12:17:30
+ironman-austria-20160626.csv,829,Victoria Lovelock,45,---,GBR,01:20:26,06:46:52,04:49:01,00:09:27,00:09:26,13:15:12
+ironman-austria-20160626.csv,830,Jennifer Lees,47,Intl State,USA,01:20:45,07:01:29,04:38:53,00:09:36,00:07:10,13:17:53
+ironman-austria-20160626.csv,831,Paula Scorer,45,Tyne and Wear,GBR,01:17:48,05:54:07,04:39:00,00:06:52,00:07:07,12:04:54
+ironman-austria-20160626.csv,832,Monika Hyeem,49,Eilat,ISR,01:28:20,06:41:22,05:34:44,00:08:35,00:07:31,14:00:32
+ironman-austria-20160626.csv,833,Petra Feistenauer,46,AT,AUT,01:31:50,06:51:02,05:01:12,00:07:43,00:08:22,13:40:09
+ironman-austria-20160626.csv,834,Rachel Brady,48,CO,USA,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,835,Sabine Wollenberg,49,DE,DEU,01:20:09,06:39:14,05:08:27,00:11:28,00:06:21,13:25:39
+ironman-austria-20160626.csv,836,Saffron Webber,47,---,GBR,01:21:45,06:58:45,05:26:46,00:07:16,00:09:51,14:04:23
+ironman-austria-20160626.csv,837,Tara Symonds,47,Kent,GBR,01:17:28,06:11:31,04:33:31,00:08:35,00:06:24,12:17:29
+ironman-austria-20160626.csv,838,Ester Gonzalez De Langarica Mendia,46,ES,ESP,01:28:07,07:35:23,05:12:42,00:15:47,00:13:14,14:45:13
+ironman-austria-20160626.csv,839,Brigitte Gfrei,49,AT,AUT,01:13:45,05:28:43,04:04:19,00:05:04,00:03:46,10:55:37
+ironman-austria-20160626.csv,840,Helene Brunner,48,IT,ITA,01:28:34,06:04:15,04:17:17,00:07:41,00:05:37,12:03:24
+ironman-austria-20160626.csv,841,Eva-Maria Weiss,45,AT,AUT,01:26:36,06:05:07,04:19:37,00:07:53,00:04:02,12:03:15
+ironman-austria-20160626.csv,842,Gabi Rupp,45,DE,AUT,01:21:09,05:51:40,04:14:07,00:06:04,00:04:31,11:37:31
+ironman-austria-20160626.csv,843,Michaela Heidelbauer,45,AT,AUT,01:27:17,07:11:30,04:28:32,00:07:52,00:07:25,13:22:36
+ironman-austria-20160626.csv,844,Petra Goebel,47,DE,DEU,01:25:09,07:25:02,04:48:05,00:08:09,00:06:22,13:52:47
+ironman-austria-20160626.csv,845,Pia Frommknecht,45,DE,DEU,01:35:38,07:47:32,06:51:31,00:11:36,00:09:31,16:35:48
+ironman-austria-20160626.csv,846,Audrey Rowe,48,Co Durham,GBR,01:46:05,---,---,00:09:23,---,DNF
+ironman-austria-20160626.csv,847,Orly Barzilay,47,ISRAEL,ISR,01:29:07,07:53:15,05:51:24,00:05:48,00:14:56,15:34:30
+ironman-austria-20160626.csv,848,Debbi Polack,49,Gauteng,ZAF,01:40:46,06:43:50,04:59:17,00:09:04,00:08:50,13:41:47
+ironman-austria-20160626.csv,849,Christy Johnson,48,---,USA,01:09:59,05:29:54,04:05:59,00:05:07,00:03:22,10:54:21
+ironman-austria-20160626.csv,850,Tracy Kautzmann,45,FR,FRA,02:05:27,07:47:54,05:19:43,00:08:30,00:06:35,15:28:09
+ironman-austria-20160626.csv,851,Brenda Martin Groot-Wesseldijk,48,Madrid,ESP,01:21:11,06:00:49,03:50:47,00:06:56,00:04:19,11:24:02
+ironman-austria-20160626.csv,852,Henna Uhde,45,DE,FIN,01:28:05,06:54:10,06:04:40,00:10:08,00:07:54,14:44:57
+ironman-austria-20160626.csv,853,Elisabeth Koglbauer,45,---,AUT,01:16:27,05:49:53,04:17:52,00:05:10,00:04:29,11:33:51
+ironman-austria-20160626.csv,854,Barbara Germershausen,45,AT,AUT,01:17:45,07:16:19,04:53:45,00:09:42,00:10:35,13:48:06
+ironman-austria-20160626.csv,855,Sylvia Gloggnitzer,47,AT,AUT,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,856,Giovanna Bigagli,53,Italia,ITA,01:19:11,06:50:48,04:26:47,00:10:38,00:07:35,12:54:59
+ironman-austria-20160626.csv,857,Talia Horvits,52,Israel,ISR,01:24:41,07:10:14,07:01:19,00:10:40,00:11:20,15:58:14
+ironman-austria-20160626.csv,858,Karin Baisch,52,DE,DEU,01:17:14,05:57:45,05:06:56,00:09:34,00:04:55,12:36:24
+ironman-austria-20160626.csv,859,Monika Scheiwe,53,DE,AUT,01:22:45,06:48:54,05:37:54,00:11:35,00:09:11,14:10:19
+ironman-austria-20160626.csv,860,Birgit Salewski,53,DE,DEU,01:37:58,07:12:22,05:32:07,00:10:32,00:07:16,14:40:15
+ironman-austria-20160626.csv,861,Christa Schenk,53,CA,USA,01:32:51,08:13:16,06:18:18,00:11:47,00:09:19,16:25:31
+ironman-austria-20160626.csv,862,Liz King,50,Kent,GBR,01:17:34,06:47:30,07:06:37,00:10:40,00:07:12,15:29:33
+ironman-austria-20160626.csv,863,Manida Zinmerman,50,CA,THA,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,864,Nicoletta Bosio,53,---,ITA,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,865,Caroline Sandles,49,SWANSEA,GBR,01:20:51,06:46:05,04:22:31,00:09:09,00:08:38,12:47:14
+ironman-austria-20160626.csv,866,Sarah Mawhinney,52,---,GBR,01:33:41,07:04:23,05:22:32,00:10:23,00:09:02,14:20:01
+ironman-austria-20160626.csv,867,Brigitte Van Wichelen,50,BE,BEL,01:26:44,07:40:07,06:29:12,00:10:45,00:08:49,15:55:37
+ironman-austria-20160626.csv,868,Yoyo Schepers,53,greater london,NLD,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,869,Kirsten Rungholm,54,DK,DNK,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,870,Alexander Doujak,51,AT,AUT,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,871,Bettina Zarth,51,DE,DEU,01:29:46,07:33:32,04:53:54,00:08:16,00:08:52,14:14:20
+ironman-austria-20160626.csv,872,Sabine Hoffmann,52,DE,DEU,01:14:23,05:58:14,04:35:54,00:06:06,00:04:54,11:59:31
+ironman-austria-20160626.csv,873,Sabine Beckert,50,DE,DEU,01:40:18,06:58:10,05:53:32,00:08:33,00:10:52,14:51:25
+ironman-austria-20160626.csv,874,Swetlana Wagner,51,AT,AUT,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,875,Andrea Wagenhofer,51,AT,AUT,01:26:40,08:39:00,03:59:20,00:06:44,00:05:44,14:17:28
+ironman-austria-20160626.csv,876,Susanne Winter,50,AT,AUT,01:27:09,06:20:59,04:53:26,00:07:24,00:08:10,12:57:08
+ironman-austria-20160626.csv,877,Nicky Bailey,50,Cambs,GBR,01:30:52,07:17:23,05:55:01,00:12:47,00:13:31,15:09:34
+ironman-austria-20160626.csv,878,Jane Mcgrath,54,Intl State,IRL,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,879,Karen Edgar,51,---,GBR,01:24:26,06:52:07,05:43:19,00:07:30,00:08:07,14:15:29
+ironman-austria-20160626.csv,880,Mary Anne Ballouz,---,none,USA,01:23:15,07:05:59,06:05:13,00:12:16,00:12:24,14:59:07
+ironman-austria-20160626.csv,881,Maria Mair,54,NY,GBR,01:58:18,07:09:19,05:32:10,00:12:59,00:14:49,15:07:35
+ironman-austria-20160626.csv,882,Remke Den Bremer,58,NL,NLD,01:25:46,06:37:58,05:45:44,00:10:07,00:10:45,14:10:20
+ironman-austria-20160626.csv,883,Kath Smith,58,Cumbria,GBR,02:02:57,07:25:37,06:06:05,00:10:05,00:09:37,15:54:21
+ironman-austria-20160626.csv,884,Angela Kay,56,Bedforshire,GBR,01:13:10,06:52:23,05:39:31,00:06:28,00:06:30,13:58:02
+ironman-austria-20160626.csv,885,Tina Vesper,55,WA,USA,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,886,Maria Angeles Torres Morera,55,ES,ESP,01:41:17,06:53:47,05:11:20,00:05:43,00:06:02,13:58:09
+ironman-austria-20160626.csv,887,Catherine Avenati,58,---,FRA,01:21:31,06:40:27,04:31:24,00:09:03,00:08:25,12:50:50
+ironman-austria-20160626.csv,888,Lorli Weitensfelder,62,AT,AUT,02:01:18,---,---,00:13:14,---,DNF
+ironman-austria-20160626.csv,889,Gabriele Celette,59,---,DEU,01:17:22,06:09:53,03:35:32,00:05:16,00:03:55,11:11:58
+ironman-austria-20160626.csv,890,Marianne Hergouth,60,AT,AUT,01:41:50,07:10:56,---,00:06:47,00:05:25,DNF
+ironman-austria-20160626.csv,891,Ljuba Strukelj,61,Steiermark,SVN,01:26:47,07:16:36,04:55:21,00:17:18,00:11:09,14:07:11
+ironman-austria-20160626.csv,892,Gail Lohman,65,FL,USA,01:24:34,---,---,00:09:33,---,DNF
+ironman-austria-20160626.csv,893,Adam Fisher,21,Kent,GBR,00:55:22,05:21:02,04:20:04,00:06:39,00:10:07,10:53:14
+ironman-austria-20160626.csv,894,Michael Höflechner,24,AT,AUT,01:15:49,06:06:24,03:49:49,00:08:04,00:04:42,11:24:48
+ironman-austria-20160626.csv,895,Dominik Fink,22,AT,AUT,01:00:23,05:23:03,03:42:14,00:04:01,00:04:17,10:13:58
+ironman-austria-20160626.csv,896,Johannes Pucher,23,AT,AUT,01:19:04,05:54:17,03:55:53,00:11:26,00:08:12,11:28:52
+ironman-austria-20160626.csv,897,Stefan Embacher,22,AT,AUT,01:15:15,06:10:14,04:56:10,00:09:00,00:08:48,12:39:27
+ironman-austria-20160626.csv,898,Benjamin Ing,23,Essex,GBR,01:31:22,07:58:19,06:22:33,00:10:43,00:04:24,16:07:21
+ironman-austria-20160626.csv,899,Christian Preece,24,---,GBR,00:59:14,05:03:10,04:04:26,00:04:32,00:03:01,10:14:23
+ironman-austria-20160626.csv,900,Alexander Otterbeck,24,---,SWE,01:15:57,05:38:28,03:59:39,00:07:42,00:06:41,11:08:27
+ironman-austria-20160626.csv,901,David Evans,24,Berkshire,GBR,00:59:59,04:59:26,03:09:02,00:04:16,00:02:22,09:15:05
+ironman-austria-20160626.csv,902,Kurt Sanders,22,Cambridgeshire,GBR,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,903,Lukss Reiger,23,---,AUT,01:16:50,06:03:11,05:08:21,00:06:04,00:04:31,12:38:57
+ironman-austria-20160626.csv,904,Lukas Pelz,24,AT,AUT,01:46:59,07:17:52,05:42:17,00:07:28,00:09:20,15:03:56
+ironman-austria-20160626.csv,905,Owen Bird,24,Beds,GBR,00:53:20,05:32:28,04:09:23,00:05:51,00:05:17,10:46:19
+ironman-austria-20160626.csv,906,Filip Pavlon,24,---,CZE,01:13:24,05:58:55,03:45:06,00:07:06,00:05:05,11:09:36
+ironman-austria-20160626.csv,907,Samuele Pontarollo,23,Vicenza,ITA,01:21:40,05:38:13,04:56:57,00:09:11,00:05:21,12:11:22
+ironman-austria-20160626.csv,908,Thomas Boder,24,---,AUT,01:09:29,05:00:21,03:54:03,00:04:41,00:04:10,10:12:44
+ironman-austria-20160626.csv,909,Joachim Philipps,22,---,FRA,00:56:34,05:11:20,03:28:37,00:04:07,00:03:35,09:44:13
+ironman-austria-20160626.csv,910,Christof Gruber,21,AT,AUT,00:58:23,06:52:15,04:58:52,00:12:55,00:07:09,13:09:34
+ironman-austria-20160626.csv,911,Johannes Wiedlroither,23,AT,AUT,01:22:44,06:20:33,04:26:58,00:11:15,00:05:27,12:26:57
+ironman-austria-20160626.csv,912,Michael Krampl,24,AT,AUT,01:20:58,05:53:02,04:21:36,00:06:16,00:04:34,11:46:26
+ironman-austria-20160626.csv,913,Benjamin Müller,21,AT,AUT,01:21:32,06:40:58,04:33:01,00:11:40,00:08:03,12:55:14
+ironman-austria-20160626.csv,914,Philipp Pußwald,22,AT,AUT,01:05:28,05:09:35,03:27:23,00:05:16,00:03:25,09:51:07
+ironman-austria-20160626.csv,915,Alexander Riess,19,DE,DEU,01:26:01,07:04:05,05:49:59,00:13:19,00:08:20,14:41:44
+ironman-austria-20160626.csv,916,Max Schell,23,AT,AUT,01:06:34,05:29:00,04:50:59,00:04:35,00:03:14,11:34:22
+ironman-austria-20160626.csv,917,Philipp Brandecker,23,AT,AUT,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,918,Andreas Wagner,23,AT,AUT,01:00:12,05:13:53,03:50:53,00:04:14,00:02:57,10:12:09
+ironman-austria-20160626.csv,919,Guillaume Louis,26,FR,FRA,01:12:17,05:27:32,03:51:08,00:05:24,00:05:33,10:41:54
+ironman-austria-20160626.csv,920,Christoph Schoepf,28,AT,AUT,00:55:07,04:48:23,03:09:05,00:05:05,00:03:04,09:00:44
+ironman-austria-20160626.csv,921,Graham Butler,25,Co. Tipperary,IRL,00:59:54,06:36:52,06:06:11,00:05:44,00:06:18,13:54:59
+ironman-austria-20160626.csv,922,Jurij Drobnic,28,Ljubljana Polje,SVN,01:09:10,06:01:33,04:37:05,00:09:30,00:09:07,12:06:25
+ironman-austria-20160626.csv,923,Luciano Viscomi,28,Varese,ITA,---,---,---,---,---,DNS
+ironman-austria-20160626.csv,924,Martin Wallner,27,AT,AUT,00:58:53,05:16:58,03:54:35,00:04:37,00:03:38,10:18:41
+ironman-austria-20160626.csv,925,Markus Schieder,27,AT,AUT,01:08:17,05:38:48,04:58:15,00:04:31,00:03:16,11:53:07
+ironman-austria-20160626.csv,926,Christoph Posch,29,AT,AUT,01:19:06,06:08:21,04:29:25,00:11:11,00:07:43,12:15:46
+ironman-austria-20160626.csv,927,Jakub Rakovic,27,CZE,CZE,01:20:27,06:36:18,04:38:36,00:05:13,00:03:25,12:43:59

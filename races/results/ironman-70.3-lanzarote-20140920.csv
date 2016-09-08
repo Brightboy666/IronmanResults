@@ -1,0 +1,496 @@
+#File=ironman-70.3-lanzarote-20140920.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-lanzarote-20140920.csv,1,Víctor Del Corral,36,---,ESP,00:26:19,02:21:34,01:14:09,00:01:15,00:01:03,04:04:22
+ironman-70.3-lanzarote-20140920.csv,2,William Clarke,31,Leicestershire,GBR,00:22:14,02:25:10,01:14:50,00:01:01,00:00:58,04:04:16
+ironman-70.3-lanzarote-20140920.csv,3,Romain Guillaume,31,FR,FRA,00:22:24,02:20:24,01:21:54,00:01:00,00:01:10,04:06:53
+ironman-70.3-lanzarote-20140920.csv,4,Henrik Hyldelund,31,DK,DNK,00:23:27,02:32:43,01:23:14,00:01:14,00:01:24,04:22:04
+ironman-70.3-lanzarote-20140920.csv,5,Marko Albert,37,Intl State,EST,00:22:01,02:26:09,01:18:09,00:01:04,00:00:54,04:08:18
+ironman-70.3-lanzarote-20140920.csv,6,Lucy Gossage,36,---,GBR,00:26:30,02:50:07,01:30:49,00:01:15,00:01:20,04:50:04
+ironman-70.3-lanzarote-20140920.csv,7,Helle Frederiksen,35,FL,DNK,00:22:56,02:38:08,01:26:44,00:01:03,00:01:06,04:29:58
+ironman-70.3-lanzarote-20140920.csv,8,Nicole Woysch,39,Intl State,DEU,00:26:41,02:54:13,01:39:50,00:01:14,00:01:29,05:03:28
+ironman-70.3-lanzarote-20140920.csv,9,Rasa Kavaliauskaite,36,---,LTU,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,10,Francisco Fernandez-Cortes,28,---,ESP,00:23:57,03:03:07,01:37:20,00:01:13,00:01:15,05:06:54
+ironman-70.3-lanzarote-20140920.csv,11,Herve Banti,---,---,MCO,00:23:37,02:23:45,01:20:16,00:01:11,00:01:16,04:10:08
+ironman-70.3-lanzarote-20140920.csv,12,Nicolas Fernandez,32,Intl State,FRA,00:23:57,02:25:25,01:23:27,00:00:58,00:01:01,04:14:49
+ironman-70.3-lanzarote-20140920.csv,13,Geert Janssens,28,---,BEL,00:24:02,02:30:40,01:23:28,00:01:11,00:01:17,04:20:39
+ironman-70.3-lanzarote-20140920.csv,14,Kenneth Vandendriessche,25,---,BEL,00:26:27,02:25:48,01:25:34,00:01:24,00:01:00,04:20:15
+ironman-70.3-lanzarote-20140920.csv,15,Pieter Heemeryck,26,BE,BEL,00:22:13,02:25:11,01:17:40,00:01:03,00:01:07,04:07:16
+ironman-70.3-lanzarote-20140920.csv,16,Stenn Goetstouwers,24,BE,BEL,00:22:59,02:26:02,01:24:29,00:01:12,00:01:38,04:16:21
+ironman-70.3-lanzarote-20140920.csv,17,Martin Kleinl,35,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,18,Tim Meyer,26,---,DEU,00:24:15,02:24:49,01:19:59,00:01:13,00:01:24,04:11:42
+ironman-70.3-lanzarote-20140920.csv,19,Evert Scheltinga,28,Intl State,NLD,00:22:15,02:27:18,01:19:06,00:01:08,00:00:51,04:10:40
+ironman-70.3-lanzarote-20140920.csv,20,Jonathan Ciavattella,35,Intl State,ITA,00:22:21,---,---,00:01:20,---,DNF
+ironman-70.3-lanzarote-20140920.csv,21,Axel Zeebroek,38,---,BEL,00:22:02,02:25:02,01:24:04,00:01:04,00:00:52,04:13:06
+ironman-70.3-lanzarote-20140920.csv,26,Ellie Penketh,24,---,GBR,00:45:13,---,---,00:03:14,---,DNF
+ironman-70.3-lanzarote-20140920.csv,27,Pauline Morier,24,FR,FRA,00:28:29,03:12:42,01:52:36,00:02:50,00:02:57,05:39:37
+ironman-70.3-lanzarote-20140920.csv,28,Lorna Denny,---,---,GBR,00:50:36,04:17:21,---,00:04:53,---,DNF
+ironman-70.3-lanzarote-20140920.csv,29,Marie-Hélène Monteyne,---,---,BEL,00:34:52,03:39:29,02:14:11,00:02:25,00:01:50,06:32:50
+ironman-70.3-lanzarote-20140920.csv,30,Emilie Tabor,28,---,NLD,00:40:57,03:56:27,02:05:44,00:02:14,00:02:26,06:47:50
+ironman-70.3-lanzarote-20140920.csv,31,Sarah Bonner,29,ON,CAN,00:32:26,03:00:31,01:42:54,00:01:40,00:01:11,05:18:43
+ironman-70.3-lanzarote-20140920.csv,32,Eleanor Murphy,29,SW7 5QG,GBR,00:37:57,03:40:00,02:00:47,00:02:21,00:01:56,06:23:03
+ironman-70.3-lanzarote-20140920.csv,33,Amrei Garcia,29,FL,USA,00:33:14,03:17:58,01:54:51,00:01:49,00:02:24,05:50:16
+ironman-70.3-lanzarote-20140920.csv,34,Emily Dewey,30,---,GBR,00:33:34,03:32:26,02:07:02,00:02:19,00:01:29,06:16:52
+ironman-70.3-lanzarote-20140920.csv,35,Camilla Hornbæk Petersen,30,---,DNK,00:48:18,03:35:31,02:16:19,00:02:49,00:01:49,06:44:49
+ironman-70.3-lanzarote-20140920.csv,36,Anna Marguerite Smith,---,---,GBR,00:44:49,03:57:44,02:08:45,00:03:29,00:02:26,06:57:16
+ironman-70.3-lanzarote-20140920.csv,37,Sanne Blom,32,NL,NLD,00:43:10,03:37:14,02:25:28,00:04:05,00:05:25,06:55:24
+ironman-70.3-lanzarote-20140920.csv,38,Gillian Ms Kerr,32,---,GBR,00:41:45,03:48:32,02:15:14,00:03:21,00:02:51,06:51:45
+ironman-70.3-lanzarote-20140920.csv,39,April Payne,---,Berkshire,GBR,00:39:20,03:49:21,02:21:46,00:04:09,00:02:45,06:57:22
+ironman-70.3-lanzarote-20140920.csv,40,Ángeles Clar Allí,32,ES,ESP,00:38:09,03:24:40,01:58:28,00:04:11,00:02:19,06:07:47
+ironman-70.3-lanzarote-20140920.csv,41,Annaliese Lancaster,33,London,GBR,00:43:48,---,---,00:03:10,---,DNF
+ironman-70.3-lanzarote-20140920.csv,42,Katy Miller,---,---,GBR,00:49:27,04:12:12,02:19:26,00:04:15,00:03:16,07:28:38
+ironman-70.3-lanzarote-20140920.csv,43,Rachel Jodie Lahon,33,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,44,Kelly Paterson,34,Tameside,GBR,00:31:16,03:31:52,02:09:40,00:02:46,00:01:59,06:17:35
+ironman-70.3-lanzarote-20140920.csv,45,Sina Mikolaizik,34,---,DEU,00:35:23,03:08:37,01:47:09,00:01:54,00:01:33,05:34:38
+ironman-70.3-lanzarote-20140920.csv,46,Mary-Laure Lux,35,---,BEL,00:33:04,02:54:53,01:35:45,00:02:01,00:02:05,05:07:49
+ironman-70.3-lanzarote-20140920.csv,47,Helen Gritt,35,ES,GBR,00:39:10,03:36:46,02:09:05,00:03:13,00:01:47,06:30:04
+ironman-70.3-lanzarote-20140920.csv,48,Ursula Ott,36,---,DEU,00:46:43,04:17:32,03:07:14,00:06:17,00:04:21,08:22:09
+ironman-70.3-lanzarote-20140920.csv,49,Melanie Wasley,36,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,50,Vanessa Cuyvers,36,BE,BEL,00:32:18,03:09:16,01:45:07,00:02:29,00:02:02,05:31:14
+ironman-70.3-lanzarote-20140920.csv,51,Lislot Mommerency,36,BE,BEL,00:33:13,03:46:35,02:04:21,00:02:59,00:02:04,06:29:14
+ironman-70.3-lanzarote-20140920.csv,52,Sandra Bayly,37,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,53,Sonia Diaz Pedrosa,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,54,Samantha J Maltby,---,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,55,Gema Hernandez Andoain,38,ES,ESP,00:29:36,03:15:19,01:38:21,00:01:29,00:01:26,05:26:13
+ironman-70.3-lanzarote-20140920.csv,56,Abigail White,48,Bristol,GBR,00:30:35,03:07:52,01:45:44,00:01:26,00:01:34,05:27:13
+ironman-70.3-lanzarote-20140920.csv,57,Sanne Sønderskov Jensen,---,---,DNK,00:50:44,03:56:27,02:10:57,00:05:36,00:03:28,07:07:14
+ironman-70.3-lanzarote-20140920.csv,58,Julie Beauregard,41,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,59,Karin Freytag,41,AT,AUT,00:40:03,04:21:28,03:02:51,00:07:14,00:04:23,08:16:00
+ironman-70.3-lanzarote-20140920.csv,60,Helle Jørgensen,40,DK,DNK,00:33:50,03:13:34,01:52:10,00:02:16,00:01:50,05:43:41
+ironman-70.3-lanzarote-20140920.csv,61,Anke Karen Hennecke,40,Deutschland,DEU,00:30:32,02:53:37,01:39:22,00:01:22,00:01:19,05:06:14
+ironman-70.3-lanzarote-20140920.csv,62,Valentina Polato,40,---,ITA,00:44:35,04:19:06,02:48:48,00:04:44,00:02:32,07:59:48
+ironman-70.3-lanzarote-20140920.csv,63,Martina Graf,40,AT,AUT,00:38:22,03:44:21,02:08:19,00:02:26,00:01:35,06:35:05
+ironman-70.3-lanzarote-20140920.csv,64,Ester Furlan,---,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,65,Melanie Jane Mcgarry,---,---,IRL,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,66,Ana carolina dugoni,40,---,ESP,00:44:34,04:11:10,02:26:14,00:04:40,00:02:55,07:29:35
+ironman-70.3-lanzarote-20140920.csv,67,Francesca Salvemini,40,APO,ITA,00:44:34,03:57:10,02:52:21,00:05:50,00:02:18,07:42:16
+ironman-70.3-lanzarote-20140920.csv,68,Fiona Fitzpatrick,40,Dublin,IRL,00:48:42,04:09:42,02:37:40,00:03:52,00:02:41,07:42:39
+ironman-70.3-lanzarote-20140920.csv,69,Alison Brattle,40,---,GBR,00:40:13,03:51:47,02:52:00,00:06:10,00:02:59,07:33:13
+ironman-70.3-lanzarote-20140920.csv,70,Clara Soms Ureña,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,71,Isabel Prado Nóvoa,---,---,ESP,00:35:52,03:57:34,02:01:26,00:03:20,00:02:43,06:40:57
+ironman-70.3-lanzarote-20140920.csv,72,Helen Elizabeth Mccready,---,---,GBR,00:45:55,03:53:03,02:24:14,00:08:42,00:05:37,07:17:34
+ironman-70.3-lanzarote-20140920.csv,73,Belinda Dawson,43,---,GBR,00:49:27,04:33:16,02:54:30,00:03:43,00:02:35,08:23:32
+ironman-70.3-lanzarote-20140920.csv,74,Eva Valero Vazquez,43,ES,ESP,00:28:47,03:11:17,01:48:17,00:01:59,00:01:13,05:31:35
+ironman-70.3-lanzarote-20140920.csv,75,Grace Shanley,44,Co Dublin,IRL,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,76,Nicola (Nic) Cox,44,london,GBR,00:36:54,03:22:12,02:07:36,00:05:08,00:04:27,06:16:19
+ironman-70.3-lanzarote-20140920.csv,77,Helle Haurum,44,ES,DNK,00:36:07,02:58:49,01:53:53,00:04:05,00:03:37,05:36:33
+ironman-70.3-lanzarote-20140920.csv,78,Marisol Peraza Mendoza,---,---,ESP,00:36:59,03:45:55,01:55:28,00:06:52,00:02:52,06:28:09
+ironman-70.3-lanzarote-20140920.csv,79,Emma (Bryden) Warnes,46,---,GBR,00:37:51,03:39:16,02:32:28,00:04:43,00:04:17,06:58:38
+ironman-70.3-lanzarote-20140920.csv,80,Charlotte Krag,46,DE,DNK,00:35:37,03:37:12,02:18:14,00:02:54,00:02:31,06:36:30
+ironman-70.3-lanzarote-20140920.csv,81,Susanna Binelli,46,---,ITA,00:37:34,03:49:56,02:14:01,00:02:56,00:02:11,06:46:40
+ironman-70.3-lanzarote-20140920.csv,82,Claire Neate James,---,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,83,Brenda Martin Groot-Wesseldijk,48,Madrid,ESP,00:35:20,03:33:15,02:04:32,00:04:42,00:03:01,06:20:52
+ironman-70.3-lanzarote-20140920.csv,84,Greta Malkki,---,---,FIN,00:37:31,03:55:04,02:21:31,00:03:58,00:01:58,07:00:04
+ironman-70.3-lanzarote-20140920.csv,85,Nathalie Louise Bramley,---,---,GBR,00:48:57,03:42:26,02:46:30,00:05:04,00:06:05,07:29:04
+ironman-70.3-lanzarote-20140920.csv,86,Kym Sanderson,---,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,87,Beatriz Goyanes Goyanes,50,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,88,Sue Anstiss,---,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,89,Sarah Adlam,49,---,GBR,00:35:55,03:55:17,02:10:42,00:02:17,00:01:40,06:45:52
+ironman-70.3-lanzarote-20140920.csv,90,Barbara Reyes Jiménez,50,ES,ESP,00:46:51,04:17:02,02:39:30,00:06:47,00:02:50,07:53:03
+ironman-70.3-lanzarote-20140920.csv,91,Ángeles Pérez Jiménez,---,---,ESP,00:33:56,03:52:09,02:20:16,00:03:04,00:02:30,06:51:56
+ironman-70.3-lanzarote-20140920.csv,92,Suzanne Brown,52,Devon,GBR,00:49:37,---,---,---,---,DNF
+ironman-70.3-lanzarote-20140920.csv,93,Maria Rosaria Lazzari,53,---,ITA,00:46:53,03:58:15,02:42:38,00:02:54,00:01:40,07:32:22
+ironman-70.3-lanzarote-20140920.csv,94,Sue Turley,53,---,GBR,00:37:02,04:09:15,02:26:22,00:03:54,00:02:40,07:19:15
+ironman-70.3-lanzarote-20140920.csv,95,Louise Welsh,54,Devon,GBR,00:50:58,03:59:20,02:22:42,00:07:25,00:06:02,07:26:29
+ironman-70.3-lanzarote-20140920.csv,96,Frances Clarkson,55,OXON,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,97,Jo Molyneaux,55,---,GBR,00:38:46,03:37:41,01:52:59,00:03:28,00:02:28,06:15:25
+ironman-70.3-lanzarote-20140920.csv,99,Charlotte Bøje Schmidt,56,DK,DNK,00:41:25,03:17:30,02:09:48,00:03:33,00:01:32,06:13:50
+ironman-70.3-lanzarote-20140920.csv,100,Linni Tiller,56,NO,NOR,00:36:20,03:26:42,01:53:22,00:02:49,00:04:14,06:03:29
+ironman-70.3-lanzarote-20140920.csv,101,Ingrid Arning,57,---,ESP,00:38:29,03:52:57,02:32:59,00:04:09,00:03:39,07:12:15
+ironman-70.3-lanzarote-20140920.csv,102,Glenda Goscomb,57,---,GBR,00:37:09,03:23:45,01:53:31,00:02:23,00:02:57,05:59:47
+ironman-70.3-lanzarote-20140920.csv,103,Deb Munton,58,Intl State,GBR,00:32:36,03:47:56,02:17:45,00:02:01,00:02:02,06:42:21
+ironman-70.3-lanzarote-20140920.csv,104,Greet Van Camp,---,---,BEL,00:41:47,03:33:20,02:10:26,00:04:27,00:01:47,06:31:50
+ironman-70.3-lanzarote-20140920.csv,105,Theresa Abbott,61,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,106,Birgitte Bønnelykke,63,NO,NOR,00:47:47,04:22:12,02:42:03,00:07:34,00:06:34,08:06:12
+ironman-70.3-lanzarote-20140920.csv,107,Glynis Greenough,63,Intl State,GBR,00:40:50,03:47:55,02:14:30,00:05:32,00:02:31,06:51:19
+ironman-70.3-lanzarote-20140920.csv,108,Edwina Brocklesby,73,london,GBR,00:48:55,04:31:21,02:48:59,00:05:55,00:03:51,08:19:04
+ironman-70.3-lanzarote-20140920.csv,109,Josuè Cabrera Rouco,20,ES,ESP,00:32:39,---,---,00:02:29,---,DNF
+ironman-70.3-lanzarote-20140920.csv,110,Alejandro Toledo Martín,---,---,ESP,00:30:39,02:53:47,01:48:41,00:01:51,00:01:55,05:16:54
+ironman-70.3-lanzarote-20140920.csv,111,Alistair Mcmanus,---,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,112,David Keasey,23,---,GBR,00:28:00,02:50:44,01:37:35,00:01:36,00:01:34,04:59:31
+ironman-70.3-lanzarote-20140920.csv,113,Ruben Van Dalfsen,---,---,NLD,00:31:55,02:55:20,02:22:33,00:02:08,00:01:41,05:53:39
+ironman-70.3-lanzarote-20140920.csv,114,Cosme Domecq Marti,24,---,ESP,00:35:43,03:27:35,02:03:39,00:04:28,00:03:04,06:14:31
+ironman-70.3-lanzarote-20140920.csv,115,Gonzalo Perez-Maura De La  Mora,---,---,ESP,00:37:29,03:33:19,01:56:22,00:05:33,00:02:30,06:15:16
+ironman-70.3-lanzarote-20140920.csv,116,Jesus María Henares,---,---,ESP,00:35:38,03:19:46,01:50:36,00:02:26,00:01:52,05:50:20
+ironman-70.3-lanzarote-20140920.csv,117,Kilian Hendrickx,24,BE,BEL,00:27:31,02:59:50,01:56:08,00:02:51,00:02:23,05:28:44
+ironman-70.3-lanzarote-20140920.csv,118,Axel Vanderhaeghe,---,---,BEL,00:35:27,03:02:54,01:51:46,00:01:52,00:01:23,05:33:24
+ironman-70.3-lanzarote-20140920.csv,119,Régis Bader,24,BE,BEL,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,120,Christian Pöschl,---,---,AUT,00:30:40,03:02:29,01:53:46,00:02:25,00:01:34,05:30:56
+ironman-70.3-lanzarote-20140920.csv,121,Alberto Alonso Lemes,---,---,ESP,00:43:46,03:58:22,02:30:26,00:04:00,00:02:17,07:18:53
+ironman-70.3-lanzarote-20140920.csv,122,Daniel Martinez Robles,25,---,ESP,00:30:50,03:07:53,01:52:26,00:02:06,00:00:56,05:34:13
+ironman-70.3-lanzarote-20140920.csv,123,Thomas Garrett,---,---,GBR,00:34:59,---,---,00:07:17,---,DNF
+ironman-70.3-lanzarote-20140920.csv,124,Tim Peter Van Citters,---,---,NLD,00:34:09,03:27:26,02:08:36,00:03:58,00:05:12,06:19:23
+ironman-70.3-lanzarote-20140920.csv,125,Luke Harrington,26,kent,GBR,00:46:46,03:43:02,02:48:03,00:02:30,00:03:13,07:23:35
+ironman-70.3-lanzarote-20140920.csv,126,Steven Harrington,26,Kent,GBR,00:53:42,03:28:12,02:39:16,00:03:10,00:01:49,07:06:10
+ironman-70.3-lanzarote-20140920.csv,127,Timothy Joseph Natividad,---,---,USA,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,128,Mark Brian O Reilly,---,---,IRL,00:35:33,03:00:00,01:39:13,00:02:13,00:02:10,05:19:11
+ironman-70.3-lanzarote-20140920.csv,129,Arthur De Wilde,26,NL,NLD,00:33:46,03:21:16,02:16:30,00:03:12,00:02:04,06:16:50
+ironman-70.3-lanzarote-20140920.csv,130,Daniel P Rez Mart N,---,---,ESP,00:37:31,02:57:36,01:54:03,00:01:46,00:01:56,05:32:54
+ironman-70.3-lanzarote-20140920.csv,131,Anders Hasselstrøm,---,---,DNK,00:39:55,03:14:16,02:13:01,00:05:02,00:03:30,06:15:46
+ironman-70.3-lanzarote-20140920.csv,132,Toon Drexhage,26,NL,NLD,00:31:18,03:04:10,01:59:46,00:02:40,00:02:27,05:40:23
+ironman-70.3-lanzarote-20140920.csv,133,Cédric Andries,26,Oost-Vlaanderen,BEL,00:38:32,03:48:43,02:48:45,00:05:16,00:02:48,07:24:07
+ironman-70.3-lanzarote-20140920.csv,134,Albert Koster,---,---,NLD,00:47:35,03:47:27,02:39:19,00:04:54,00:02:39,07:21:56
+ironman-70.3-lanzarote-20140920.csv,135,Stefan Paalman,26,NL,NLD,00:26:29,02:57:56,01:51:02,00:01:52,00:01:19,05:18:39
+ironman-70.3-lanzarote-20140920.csv,136,Bart Buitenhuis,26,NL,NLD,00:34:08,03:24:41,01:55:23,00:03:46,00:02:16,06:00:17
+ironman-70.3-lanzarote-20140920.csv,137,Wessel Vuijk,26,NL,NLD,00:32:35,03:01:11,01:55:01,00:02:22,00:01:55,05:33:05
+ironman-70.3-lanzarote-20140920.csv,138,Max De Rohan Willner,27,Surrey,GBR,00:41:17,03:37:30,02:29:41,00:04:28,00:02:03,06:55:00
+ironman-70.3-lanzarote-20140920.csv,139,Tony Truepenny-Phillipson,27,---,GBR,00:39:08,02:57:15,01:41:42,00:03:59,00:02:00,05:24:07
+ironman-70.3-lanzarote-20140920.csv,140,Lorenzo Felici,27,Italia,ITA,00:32:08,03:28:22,01:29:04,00:01:52,00:01:26,05:32:54
+ironman-70.3-lanzarote-20140920.csv,141,Benjamin Moag,27,---,IRL,00:40:14,03:20:50,02:21:48,00:03:05,00:02:31,06:28:31
+ironman-70.3-lanzarote-20140920.csv,142,Daniel Phillips,28,---,GBR,00:27:03,02:53:56,01:33:53,00:02:25,00:01:13,04:58:32
+ironman-70.3-lanzarote-20140920.csv,143,Grzegorz Wisniowski,28,---,POL,00:33:20,02:47:16,01:33:55,00:01:39,00:01:30,04:57:42
+ironman-70.3-lanzarote-20140920.csv,144,Philipp Mock,28,---,DEU,00:28:47,02:30:45,01:28:07,00:01:25,00:01:22,04:30:28
+ironman-70.3-lanzarote-20140920.csv,145,Daniel Pérez Mendoza,28,ES,ESP,00:32:44,03:26:30,02:17:56,00:04:16,00:03:01,06:24:31
+ironman-70.3-lanzarote-20140920.csv,146,Sebastian Gaugl,28,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,147,Manuel Suarez Prat,---,---,ESP,00:35:29,04:26:44,02:45:28,00:13:16,00:06:57,08:07:56
+ironman-70.3-lanzarote-20140920.csv,148,Justi Pérez Martin,28,ES,ESP,00:29:31,02:53:38,01:37:21,00:02:06,00:01:14,05:03:53
+ironman-70.3-lanzarote-20140920.csv,149,Matthew Dewey,28,---,GBR,00:35:31,03:20:08,02:12:17,00:02:46,00:02:08,06:12:52
+ironman-70.3-lanzarote-20140920.csv,150,Michiel Van Grieken,---,---,NLD,00:39:47,03:28:42,02:00:50,00:05:46,00:03:20,06:18:26
+ironman-70.3-lanzarote-20140920.csv,151,Marco Reiter,28,AT,AUT,00:27:40,02:43:31,01:51:37,00:01:53,00:01:30,05:06:13
+ironman-70.3-lanzarote-20140920.csv,152,Mike Rosenstock,---,---,IRL,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,153,Matej Abrahamsberg,28,---,SVN,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,154,Gustavo Alfonzo Alvarado Virla,---,---,ESP,00:34:03,02:54:49,01:41:00,00:02:14,00:02:05,05:14:14
+ironman-70.3-lanzarote-20140920.csv,155,Richard Moss,28,---,GBR,00:32:49,03:06:53,01:38:16,00:04:01,00:01:52,05:23:53
+ironman-70.3-lanzarote-20140920.csv,156,Christian Siqués Llagostera,29,---,ESP,00:32:11,03:11:10,02:03:31,00:03:52,00:01:39,05:52:24
+ironman-70.3-lanzarote-20140920.csv,157,Jimmy Russell,29,ES,GBR,00:36:58,03:18:58,01:49:39,00:03:25,00:02:25,05:51:27
+ironman-70.3-lanzarote-20140920.csv,158,Carlos Silva,---,---,VEN,00:32:13,03:07:45,01:55:19,00:03:58,00:03:40,05:42:57
+ironman-70.3-lanzarote-20140920.csv,159,Jonas Delrue,29,BE,BEL,00:26:45,02:49:07,01:35:21,00:01:58,00:01:31,04:54:45
+ironman-70.3-lanzarote-20140920.csv,161,Scott Denny,29,---,GBR,00:37:46,03:00:16,01:55:03,00:02:55,00:03:02,05:39:04
+ironman-70.3-lanzarote-20140920.csv,162,Julien Wartel,29,FR,FRA,00:32:52,02:46:54,01:48:45,00:01:33,00:01:36,05:11:43
+ironman-70.3-lanzarote-20140920.csv,163,Ruben Barea Valdepeñas,29,---,ESP,00:39:43,04:00:23,02:28:37,00:07:04,00:04:35,07:20:24
+ironman-70.3-lanzarote-20140920.csv,164,James Gerard Kelly,---,---,IRL,00:36:58,03:15:15,01:51:17,00:02:01,00:01:59,05:47:32
+ironman-70.3-lanzarote-20140920.csv,165,Alastair Craggs,---,---,GBR,00:41:13,03:27:10,02:04:09,00:04:55,00:02:49,06:20:18
+ironman-70.3-lanzarote-20140920.csv,166,Kensuke Suzuki,29,---,JPN,00:41:54,03:32:36,02:10:47,00:03:52,00:02:59,06:32:10
+ironman-70.3-lanzarote-20140920.csv,167,Gunnar Poppe,30,BE,BEL,00:26:53,02:48:41,01:37:05,00:01:44,00:01:37,04:56:01
+ironman-70.3-lanzarote-20140920.csv,168,Fabien Kieffer,30,Other,LUX,00:34:33,02:44:11,01:36:12,00:02:22,00:01:23,04:58:43
+ironman-70.3-lanzarote-20140920.csv,169,Paul Dosanjh Sidebottom,---,---,GBR,00:38:30,03:28:51,02:25:20,00:05:22,00:02:45,06:40:50
+ironman-70.3-lanzarote-20140920.csv,170,Christopher Goldschmidt,30,Mersch,LUX,00:33:02,03:12:23,01:53:32,00:02:01,00:01:26,05:42:26
+ironman-70.3-lanzarote-20140920.csv,171,Jason Pattinson,30,Vereinigtes Königreich,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,172,Joaquin Manuel Valle Arcones,---,---,ESP,00:43:39,03:45:46,02:10:18,00:03:36,00:02:26,06:45:47
+ironman-70.3-lanzarote-20140920.csv,173,Patrick Nietzel,30,DE,DEU,00:35:45,03:04:39,01:51:18,00:01:36,00:01:40,05:35:01
+ironman-70.3-lanzarote-20140920.csv,174,Oscar Krijtenberg,30,NL,NLD,00:32:58,02:54:40,01:54:44,00:02:14,00:01:40,05:26:17
+ironman-70.3-lanzarote-20140920.csv,175,Stefan Moebs,---,---,DEU,00:41:12,03:41:31,02:46:36,00:07:21,00:03:04,07:19:46
+ironman-70.3-lanzarote-20140920.csv,176,Enrico Lambiase,30,---,ITA,00:37:10,03:25:16,01:54:07,00:02:20,00:01:17,06:00:13
+ironman-70.3-lanzarote-20140920.csv,177,Simon Motschnig,30,DE,AUT,00:34:13,03:12:49,01:49:22,00:02:44,00:01:54,05:41:03
+ironman-70.3-lanzarote-20140920.csv,178,Alejandro Morales Socorro,---,---,ESP,00:34:19,03:19:49,02:20:31,00:02:45,00:01:25,06:18:50
+ironman-70.3-lanzarote-20140920.csv,179,Hector Lopez Lopez,30,ES,ESP,00:35:44,04:03:15,02:13:09,00:05:27,00:02:03,06:59:40
+ironman-70.3-lanzarote-20140920.csv,180,Nik Magnus,---,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,181,James Sims,31,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,182,Stefan Först,31,DE,DEU,00:40:25,03:13:26,01:45:54,00:01:54,00:03:09,05:44:49
+ironman-70.3-lanzarote-20140920.csv,183,Jonne De Leeuw,31,NL,NLD,00:30:03,02:53:55,01:52:35,00:01:58,00:01:40,05:20:13
+ironman-70.3-lanzarote-20140920.csv,184,Philippe Polman,31,---,NLD,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,185,Laurent Garcia,31,---,FRA,00:33:42,02:43:33,01:42:16,00:03:04,00:01:29,05:04:07
+ironman-70.3-lanzarote-20140920.csv,186,Erron Dussard,31,---,GBR,00:56:47,04:27:21,02:38:52,00:04:03,00:03:32,08:10:36
+ironman-70.3-lanzarote-20140920.csv,187,Alejandro Cabedo Garcia,31,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,188,Juan Andres Caraballo Rosa,31,---,ESP,00:29:58,03:00:54,01:42:20,00:02:56,00:01:55,05:18:04
+ironman-70.3-lanzarote-20140920.csv,189,Acaymo Mendez Bermudez,31,ES,ESP,00:34:17,03:05:32,01:48:15,00:02:05,00:01:27,05:31:37
+ironman-70.3-lanzarote-20140920.csv,190,Castor Benitez-Inglott Bellini,31,---,ESP,00:35:26,02:56:36,01:40:08,00:02:10,00:01:27,05:15:50
+ironman-70.3-lanzarote-20140920.csv,191,Dov Tate,31,---,GBR,00:37:12,03:06:35,02:00:42,00:02:02,00:01:40,05:48:12
+ironman-70.3-lanzarote-20140920.csv,192,Kevin Gormley,31,---,IRL,00:35:28,03:15:00,01:39:11,00:02:58,00:02:04,05:34:42
+ironman-70.3-lanzarote-20140920.csv,193,Gary Pelosi,31,Herts,GBR,00:35:13,03:11:55,01:49:57,00:03:58,00:02:06,05:43:10
+ironman-70.3-lanzarote-20140920.csv,194,Jocsan Negrin Hernandez,32,---,ESP,00:37:54,02:43:31,01:41:49,00:02:57,00:01:12,05:07:25
+ironman-70.3-lanzarote-20140920.csv,195,Andrew Howard,---,---,GBR,00:36:09,03:16:49,02:01:49,00:03:56,00:03:41,06:02:25
+ironman-70.3-lanzarote-20140920.csv,196,Allan Sten Jensen,---,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,197,Delmelle Ludo,32,---,BEL,00:35:33,03:11:31,02:03:16,00:03:10,00:01:42,05:55:15
+ironman-70.3-lanzarote-20140920.csv,198,Mikhail Sytyy,32,---,RUS,00:39:41,03:30:09,01:57:33,00:03:14,00:02:30,06:13:08
+ironman-70.3-lanzarote-20140920.csv,199,David Gonzalez Cano,32,ES,ESP,00:31:53,03:01:27,01:45:36,00:03:27,00:02:32,05:24:57
+ironman-70.3-lanzarote-20140920.csv,200,Matthew Vermont,---,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,201,Benjamin Beranek,32,---,USA,00:35:24,03:08:34,01:51:57,00:02:20,00:01:43,05:40:00
+ironman-70.3-lanzarote-20140920.csv,202,Ilya Zharinov,32,---,RUS,00:34:23,03:35:35,01:58:58,00:02:38,00:01:32,06:13:09
+ironman-70.3-lanzarote-20140920.csv,203,Giovanni Zappalà,32,Italia,ITA,00:47:09,03:46:34,02:13:51,00:05:43,00:02:22,06:55:42
+ironman-70.3-lanzarote-20140920.csv,204,Jacob Ferrer Tejera,32,---,ESP,00:32:36,02:47:25,01:34:58,00:01:28,00:01:38,04:58:07
+ironman-70.3-lanzarote-20140920.csv,205,Dario Sanchez Leon,32,---,ESP,00:31:55,02:48:26,01:40:53,00:03:05,00:01:29,05:05:49
+ironman-70.3-lanzarote-20140920.csv,206,Gareth Wilkinson,---,---,GBR,00:47:33,03:34:00,02:48:06,00:03:19,00:02:30,07:15:30
+ironman-70.3-lanzarote-20140920.csv,207,David Ruiz Murillo,---,---,ESP,00:41:07,04:04:33,02:03:52,00:03:21,00:02:21,06:55:17
+ironman-70.3-lanzarote-20140920.csv,208,Urko Pinto Diz,---,---,ESP,00:31:15,03:02:48,02:10:27,00:01:37,00:02:11,05:48:21
+ironman-70.3-lanzarote-20140920.csv,209,Florian Jenny,---,---,CHE,00:46:44,03:25:32,01:56:36,00:04:04,00:02:23,06:15:20
+ironman-70.3-lanzarote-20140920.csv,210,Maikel Moreno Medina,32,---,ESP,00:33:40,03:00:44,01:47:22,00:02:43,00:01:41,05:26:12
+ironman-70.3-lanzarote-20140920.csv,211,Calum Taylor,32,Oxfordshire,AUS,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,212,Luis Manuel Diaz Garcia,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,213,Acaymo De León Hernández,33,ES,ESP,00:36:15,03:15:01,01:58:51,00:02:25,00:02:11,05:54:46
+ironman-70.3-lanzarote-20140920.csv,214,Ralf M. Bader,---,---,DEU,00:49:20,04:10:27,01:58:52,00:05:42,00:05:26,07:09:48
+ironman-70.3-lanzarote-20140920.csv,215,Rick Struik,33,NL,NLD,00:31:52,02:54:50,01:40:42,00:03:42,00:02:10,05:13:18
+ironman-70.3-lanzarote-20140920.csv,216,Oliver Barrera Fernandez,---,---,ESP,00:26:37,03:00:43,01:40:20,00:02:53,00:01:31,05:12:05
+ironman-70.3-lanzarote-20140920.csv,217,Graham Goldie,---,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,218,Alex Huber,33,CH,CHE,00:33:46,03:06:27,01:55:27,00:03:00,00:01:55,05:40:37
+ironman-70.3-lanzarote-20140920.csv,219,Reinier Smulders,33,NL,NLD,00:37:23,03:08:50,01:55:00,00:02:18,00:01:57,05:45:29
+ironman-70.3-lanzarote-20140920.csv,220,Roberto Molina Fernández,33,ES,ESP,00:29:42,03:05:08,01:52:37,00:02:02,00:01:46,05:31:17
+ironman-70.3-lanzarote-20140920.csv,221,Morten Gyrtrup,33,---,DNK,00:39:51,02:43:47,01:46:34,00:05:17,00:02:24,05:17:55
+ironman-70.3-lanzarote-20140920.csv,222,Diederik Van Den Haak,33,---,NLD,00:33:38,02:56:08,01:39:32,00:02:48,00:01:47,05:13:56
+ironman-70.3-lanzarote-20140920.csv,223,Jonathan Romero Dominguez,33,---,ESP,00:31:58,03:29:27,02:06:01,00:02:47,00:02:19,06:12:33
+ironman-70.3-lanzarote-20140920.csv,224,Olivier Richarté,33,---,MAR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,225,Rich Blake Smith,---,---,GBR,00:34:45,03:13:17,02:23:40,00:03:12,00:01:21,06:16:17
+ironman-70.3-lanzarote-20140920.csv,226,Yeri Spartacus,---,---,ESP,00:48:41,03:57:38,02:37:32,00:07:39,00:06:31,07:38:02
+ironman-70.3-lanzarote-20140920.csv,227,Thomas Ott,33,DE,DEU,00:33:53,03:13:21,02:03:41,00:03:35,00:03:22,05:57:53
+ironman-70.3-lanzarote-20140920.csv,228,Ruben Ruben Rodriguez,---,---,ESP,00:35:32,03:07:58,01:36:05,00:01:59,00:01:39,05:23:15
+ironman-70.3-lanzarote-20140920.csv,229,Jonathan Watts,34,---,GBR,00:29:10,03:01:06,01:46:04,00:02:14,00:01:32,05:20:08
+ironman-70.3-lanzarote-20140920.csv,230,Niall O'Reilly,34,Kildare,IRL,00:33:39,03:14:03,01:41:09,00:02:13,00:02:11,05:33:17
+ironman-70.3-lanzarote-20140920.csv,231,Giuseppe Ricchiuti,34,Luxembourg,ITA,00:34:14,03:45:44,02:05:54,00:04:23,00:03:15,06:33:32
+ironman-70.3-lanzarote-20140920.csv,232,Timo Bruckhof,34,DE,DEU,00:37:33,02:39:30,01:37:26,00:01:39,00:01:39,04:57:49
+ironman-70.3-lanzarote-20140920.csv,233,Pierre Collet,34,FR,FRA,00:32:24,03:14:28,02:04:13,00:02:36,00:01:35,05:55:18
+ironman-70.3-lanzarote-20140920.csv,234,Javier García López,---,---,ESP,00:41:46,03:43:14,02:44:05,00:04:21,00:02:25,07:15:53
+ironman-70.3-lanzarote-20140920.csv,235,Lee Giles,34,Herts,GBR,00:37:26,03:21:59,02:16:34,00:04:12,00:03:29,06:23:42
+ironman-70.3-lanzarote-20140920.csv,236,Steven Diffey,34,---,GBR,00:35:53,02:54:17,01:36:29,00:02:56,00:01:19,05:10:56
+ironman-70.3-lanzarote-20140920.csv,237,Tom Konarzewski,34,---,GBR,00:38:42,03:09:33,01:57:13,00:03:07,00:01:28,05:50:05
+ironman-70.3-lanzarote-20140920.csv,238,Noud Van De Mortel,34,NL,NLD,00:40:23,02:58:55,02:01:40,00:03:39,00:03:11,05:47:51
+ironman-70.3-lanzarote-20140920.csv,239,Leonardo Arraut Gutierrez,---,---,ESP,00:44:44,04:21:21,03:07:55,00:03:27,00:03:33,08:21:02
+ironman-70.3-lanzarote-20140920.csv,240,Enrico Fornaroli,34,ita,ITA,00:26:44,03:09:28,01:56:40,00:02:14,00:01:43,05:36:51
+ironman-70.3-lanzarote-20140920.csv,241,Lukasz Bednarek,35,Mazowieckie,POL,00:34:22,03:18:39,01:46:06,00:02:33,00:01:46,05:43:27
+ironman-70.3-lanzarote-20140920.csv,242,Kieron Jarvis,35,ES,GBR,00:36:05,03:20:48,02:02:08,00:03:10,00:01:52,06:04:04
+ironman-70.3-lanzarote-20140920.csv,243,Alberto Francone,35,Italia,ITA,00:36:08,03:06:37,01:45:26,00:02:46,00:01:19,05:32:18
+ironman-70.3-lanzarote-20140920.csv,244,David Fraga Paredes,35,---,ESP,00:33:32,03:03:47,01:48:17,00:03:18,00:01:32,05:30:28
+ironman-70.3-lanzarote-20140920.csv,245,Dmitrii Akhromov,---,---,RUS,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,246,Estiguar Cabrera Betancor,35,ES,ESP,00:36:51,03:26:41,01:53:08,00:02:45,00:02:43,06:02:09
+ironman-70.3-lanzarote-20140920.csv,247,Bryce Jolley,35,UT,USA,00:38:42,03:36:56,03:02:55,00:05:50,00:02:45,07:27:11
+ironman-70.3-lanzarote-20140920.csv,248,Nick Leach,35,Merseyside,GBR,00:46:37,03:26:17,02:20:58,00:05:35,00:02:47,06:42:17
+ironman-70.3-lanzarote-20140920.csv,249,Suso Perez Alayon,35,ES,ESP,00:37:21,03:50:09,02:36:21,00:03:17,00:02:07,07:09:18
+ironman-70.3-lanzarote-20140920.csv,250,Jonathan Mills,35,---,GBR,00:30:58,02:57:40,01:31:10,00:01:29,00:00:59,05:02:17
+ironman-70.3-lanzarote-20140920.csv,251,Bart Govers,34,NL,NLD,00:37:29,03:08:00,01:57:33,00:03:11,00:01:36,05:47:51
+ironman-70.3-lanzarote-20140920.csv,252,Paul Pulze,35,---,GBR,00:32:31,03:11:04,02:08:26,00:02:11,00:02:48,05:57:02
+ironman-70.3-lanzarote-20140920.csv,253,Andres Gomez Junquera,35,ES,ESP,00:35:48,02:57:48,01:38:15,00:02:29,00:01:38,05:16:00
+ironman-70.3-lanzarote-20140920.csv,254,Ivan Sheridan,35,Ireland,IRL,00:37:32,03:10:13,02:03:01,00:02:34,00:01:52,05:55:15
+ironman-70.3-lanzarote-20140920.csv,255,Martin Cook,35,---,GBR,00:38:04,03:28:43,02:09:15,00:03:17,00:02:28,06:21:49
+ironman-70.3-lanzarote-20140920.csv,256,Dussart Vincent,---,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,257,Aarón Betancor Sánchez,35,---,ESP,00:33:44,02:57:41,02:14:01,00:03:05,00:03:13,05:51:46
+ironman-70.3-lanzarote-20140920.csv,258,Alejandro Maeda,---,---,ESP,00:30:10,03:12:12,01:39:37,00:02:49,00:02:43,05:27:32
+ironman-70.3-lanzarote-20140920.csv,259,Mamoun Laraki,35,FR,MAR,00:40:01,03:16:33,01:51:41,00:04:08,00:03:13,05:55:37
+ironman-70.3-lanzarote-20140920.csv,260,Raul Sosa Velazquez,36,---,ESP,00:36:23,03:05:57,01:43:44,00:03:28,00:02:37,05:32:09
+ironman-70.3-lanzarote-20140920.csv,261,Bjoern Scheufler,36,---,DEU,00:33:41,03:05:27,01:46:40,00:02:34,00:02:45,05:31:08
+ironman-70.3-lanzarote-20140920.csv,262,Pepijn Janssens,---,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,263,Ashley Arundel,36,south yorkshire,GBR,00:28:23,02:57:10,01:47:17,00:03:08,00:01:43,05:17:43
+ironman-70.3-lanzarote-20140920.csv,264,Lars Kobbelgaard,36,DK,DNK,00:32:26,02:41:25,01:23:59,00:01:58,00:00:52,04:40:42
+ironman-70.3-lanzarote-20140920.csv,265,Brian Tenoudji,36,FR,FRA,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,266,Christopher Ford,36,---,GBR,00:39:18,03:47:19,02:32:39,00:03:16,00:03:12,07:05:46
+ironman-70.3-lanzarote-20140920.csv,267,Domingo Pérez García,---,S/C DE TENERIFE,ESP,00:31:11,03:15:22,02:39:27,00:02:28,00:04:57,06:33:26
+ironman-70.3-lanzarote-20140920.csv,268,Ben Tomlin,36,---,GBR,00:37:35,03:32:23,02:05:06,00:03:11,00:02:32,06:20:49
+ironman-70.3-lanzarote-20140920.csv,269,Saúl Suárez Martín,---,---,ESP,00:28:17,03:08:17,01:34:49,00:02:54,00:02:01,05:16:20
+ironman-70.3-lanzarote-20140920.csv,270,Jonathan Mendez De Herrera,---,---,ESP,00:36:14,03:06:46,01:49:40,00:02:27,00:02:41,05:37:51
+ironman-70.3-lanzarote-20140920.csv,271,Paolo Santamaria,36,---,ITA,00:35:15,03:12:39,02:03:27,00:01:48,00:02:30,05:55:41
+ironman-70.3-lanzarote-20140920.csv,272,Alberto Pena,36,ES,ESP,00:32:45,02:44:00,01:30:15,00:02:16,00:01:47,04:51:05
+ironman-70.3-lanzarote-20140920.csv,273,Alexandru Visan,36,---,ROU,00:40:28,03:41:16,01:41:19,00:02:59,00:02:24,06:08:28
+ironman-70.3-lanzarote-20140920.csv,274,Michael Stofberg,---,---,ZAF,00:39:08,03:15:37,02:03:24,00:05:58,00:03:24,06:07:33
+ironman-70.3-lanzarote-20140920.csv,275,Jonathan Townrow,36,APO,GBR,00:34:23,03:13:56,01:56:49,00:02:49,00:01:41,05:49:39
+ironman-70.3-lanzarote-20140920.csv,276,Sergio Tizon Gallego,37,ES,ESP,00:30:42,02:45:31,01:34:19,00:01:36,00:01:04,04:53:14
+ironman-70.3-lanzarote-20140920.csv,277,Diego De La Cruz Quintero,37,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,278,Wolfgang Graf,37,AT,AUT,00:30:07,02:59:19,01:51:06,00:02:32,00:01:30,05:24:36
+ironman-70.3-lanzarote-20140920.csv,279,Alexis Callero Hernandez,37,ES,ESP,00:33:58,02:54:21,01:39:07,00:02:03,00:01:47,05:11:18
+ironman-70.3-lanzarote-20140920.csv,280,Ulises Hernandez Martin,37,ES,ESP,00:31:06,02:46:02,01:30:01,00:02:02,00:01:44,04:50:57
+ironman-70.3-lanzarote-20140920.csv,281,Daniel Brouwer,37,NL,NLD,00:37:06,03:10:56,02:04:05,00:05:00,00:03:39,06:00:48
+ironman-70.3-lanzarote-20140920.csv,282,Rayco Cedres,37,ES,ESP,00:35:05,03:00:53,01:43:12,00:02:59,00:02:23,05:24:33
+ironman-70.3-lanzarote-20140920.csv,283,Noud van der Veer,37,---,NLD,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,284,Claudio Morocchi,37,---,ITA,00:35:59,03:15:55,01:54:22,00:03:03,00:02:30,05:51:51
+ironman-70.3-lanzarote-20140920.csv,285,Julio Zanon Diaz,---,---,ESP,00:39:56,03:28:16,02:33:05,00:04:22,00:02:53,06:48:32
+ironman-70.3-lanzarote-20140920.csv,286,Ivan Avaldi,38,LODI,ITA,00:30:49,02:48:56,01:32:52,00:01:27,00:01:09,04:55:15
+ironman-70.3-lanzarote-20140920.csv,287,Miguel Borja Sosa Velazquez,38,ES,ESP,00:33:07,02:55:53,01:51:48,00:02:19,00:01:51,05:25:00
+ironman-70.3-lanzarote-20140920.csv,288,Javier Ramos Kraemer,38,---,ESP,00:28:57,02:52:41,01:39:26,00:02:43,00:02:45,05:06:33
+ironman-70.3-lanzarote-20140920.csv,289,Jose Carrilero Ferrer,38,ES,ESP,00:36:12,03:09:23,01:55:02,00:03:42,00:02:12,05:46:33
+ironman-70.3-lanzarote-20140920.csv,290,James Mcmahon,---,---,GBR,00:39:31,03:51:49,02:27:19,00:03:05,00:02:23,07:04:09
+ironman-70.3-lanzarote-20140920.csv,291,Antonio Miguel Fortes Canca,---,---,ESP,00:32:25,02:56:30,01:49:02,00:03:23,00:01:36,05:22:58
+ironman-70.3-lanzarote-20140920.csv,292,Malcolm Young,38,---,NZL,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,293,Juan Fernandez,---,---,ESP,00:41:41,04:25:38,02:57:58,00:05:40,00:04:17,08:15:15
+ironman-70.3-lanzarote-20140920.csv,294,John Dennis,---,---,GBR,00:34:27,03:06:39,01:41:32,00:02:42,00:02:27,05:27:49
+ironman-70.3-lanzarote-20140920.csv,295,Dennis Grosse,38,Intl State,DEU,00:38:55,03:11:09,02:10:18,00:03:48,00:02:12,06:06:24
+ironman-70.3-lanzarote-20140920.csv,296,Mattis Kaysen Petersen,38,---,DNK,00:36:13,03:06:11,01:55:55,00:04:47,00:02:27,05:45:35
+ironman-70.3-lanzarote-20140920.csv,297,Robert Davison,38,---,IRL,00:35:34,02:57:51,01:40:47,00:01:48,00:01:28,05:17:29
+ironman-70.3-lanzarote-20140920.csv,298,Michele De Faveri,38,---,ITA,00:34:18,03:33:57,---,00:05:04,00:02:08,DNF
+ironman-70.3-lanzarote-20140920.csv,299,Alejandro Santana Angulo,38,ES,ESP,00:33:48,03:14:04,01:47:12,00:04:30,00:02:20,05:41:57
+ironman-70.3-lanzarote-20140920.csv,300,Ángel Hernández Suárez,---,---,ESP,00:34:15,03:10:07,01:50:43,00:06:00,00:05:06,05:46:12
+ironman-70.3-lanzarote-20140920.csv,301,Solomon John Hart,---,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,302,Juan Luis Buitrago Garrido,39,ES,ESP,00:31:00,02:51:16,01:42:29,00:01:58,00:03:04,05:09:50
+ironman-70.3-lanzarote-20140920.csv,303,Tomas Coronado,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,304,Didac Nadal Abad,39,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,306,Abideen Onalaja,39,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,307,Peter Maas,---,---,NLD,00:32:54,03:08:05,02:20:19,00:03:04,00:02:06,06:06:29
+ironman-70.3-lanzarote-20140920.csv,308,Stefano Crumeni,39,ES,ITA,00:29:04,03:13:33,01:40:09,00:02:25,00:01:30,05:26:42
+ironman-70.3-lanzarote-20140920.csv,309,Jon Arrarte,40,ES,ESP,00:30:40,02:41:08,01:28:55,00:02:31,00:01:33,04:44:49
+ironman-70.3-lanzarote-20140920.csv,310,Frank De Leon,40,ES,ESP,00:39:06,03:43:11,01:56:59,00:05:01,00:03:01,06:27:20
+ironman-70.3-lanzarote-20140920.csv,311,Diego Lopez De Lara,40,ES,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,312,Tomasz Bartnik,40,---,POL,00:33:47,03:14:53,02:04:15,00:01:43,00:01:16,05:55:56
+ironman-70.3-lanzarote-20140920.csv,313,Chris Goodall,---,Hampshire,GBR,00:35:05,03:04:25,01:47:38,00:04:29,00:02:04,05:33:42
+ironman-70.3-lanzarote-20140920.csv,314,Daniel Del Toro De Leon,40,ES,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,315,Ivan Fuentes Brunicardi,---,---,ESP,00:35:58,03:08:11,---,00:02:52,00:03:52,DNF
+ironman-70.3-lanzarote-20140920.csv,316,David Alvarez Gonzalez,40,---,ESP,00:37:23,03:23:06,01:48:15,00:02:00,00:01:47,05:52:32
+ironman-70.3-lanzarote-20140920.csv,317,Giulio Ferrari,40,---,ITA,00:33:05,03:22:33,02:16:47,00:04:56,00:03:00,06:20:25
+ironman-70.3-lanzarote-20140920.csv,318,Denis Casetta,40,italia,ITA,00:36:45,03:25:26,01:49:34,00:02:21,00:01:57,05:56:06
+ironman-70.3-lanzarote-20140920.csv,319,Iain Maxwell,40,---,GBR,00:31:11,02:58:14,02:01:06,00:03:18,00:02:24,05:36:15
+ironman-70.3-lanzarote-20140920.csv,320,Noel Ryan,41,Tipperary,IRL,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,321,David Garcia Manzanera,40,ES,ESP,00:37:45,03:27:50,02:03:17,00:04:03,00:02:22,06:15:19
+ironman-70.3-lanzarote-20140920.csv,322,Ryoichi Miyamoto,40,---,JPN,00:37:49,03:19:20,01:53:53,00:02:30,00:02:11,05:55:46
+ironman-70.3-lanzarote-20140920.csv,323,Eddie Lawley,40,---,GBR,00:31:12,02:57:19,01:59:04,00:01:28,00:01:11,05:30:16
+ironman-70.3-lanzarote-20140920.csv,324,Daniel Martin Llurba,40,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,325,Jonathan Richard De Montfort,---,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,326,Angus Calderwood,41,london,ZAF,00:30:19,03:00:21,01:48:54,00:03:45,00:02:29,05:25:51
+ironman-70.3-lanzarote-20140920.csv,327,Raimond Dominguez Robles,41,---,ESP,00:52:57,04:01:24,02:52:15,00:08:13,00:03:15,07:58:06
+ironman-70.3-lanzarote-20140920.csv,328,Daniel Erlacher,41,Kärnten,AUT,00:35:51,03:22:47,02:10:15,00:05:56,00:02:31,06:17:22
+ironman-70.3-lanzarote-20140920.csv,329,Mario Riemer,36,AT,AUT,00:32:32,02:46:09,01:32:56,00:02:12,00:01:08,04:54:58
+ironman-70.3-lanzarote-20140920.csv,330,Neil Wood,41,south yorkshire,GBR,00:37:53,03:07:39,01:51:21,00:02:17,00:01:15,05:40:26
+ironman-70.3-lanzarote-20140920.csv,331,Jesper Brøndum Poulsen,41,DK,DNK,00:37:04,03:03:26,01:49:54,00:04:13,00:02:36,05:37:15
+ironman-70.3-lanzarote-20140920.csv,332,Mark Wentworth,41,United Kingdom,GBR,00:47:13,---,---,00:05:03,---,DNF
+ironman-70.3-lanzarote-20140920.csv,333,Rafael Guijarro Torres,---,---,ESP,00:36:57,03:29:32,02:06:02,00:03:45,00:02:57,06:19:16
+ironman-70.3-lanzarote-20140920.csv,334,Petr Zajicek,41,Czech,CZE,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,335,Myron Lipson,42,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,336,Javier Moreno Crespo,42,---,ESP,00:28:48,02:45:34,01:37:53,00:01:59,00:01:27,04:55:43
+ironman-70.3-lanzarote-20140920.csv,337,Mickael Sueur,---,---,FRA,00:44:06,03:33:42,02:36:41,00:02:21,00:01:47,06:58:40
+ironman-70.3-lanzarote-20140920.csv,338,Bryn Hewitt-Thomas,---,---,GBR,00:43:04,03:17:20,02:12:39,00:02:22,00:02:19,06:17:46
+ironman-70.3-lanzarote-20140920.csv,339,Donald Robert Mcintyre,---,---,GBR,00:32:28,03:09:29,02:10:22,00:02:48,00:02:49,05:57:58
+ironman-70.3-lanzarote-20140920.csv,340,Neil Oviatt,42,South Gloucestershire,GBR,00:33:24,03:15:28,01:58:35,00:04:31,00:02:57,05:54:56
+ironman-70.3-lanzarote-20140920.csv,341,Davide Marelli,---,---,ITA,00:33:46,03:00:08,01:47:28,00:03:05,00:01:48,05:26:18
+ironman-70.3-lanzarote-20140920.csv,342,Geert Lammertyn,42,BE,BEL,00:26:30,02:38:10,01:37:03,00:01:10,00:01:31,04:44:26
+ironman-70.3-lanzarote-20140920.csv,343,Gian Luca Riontino,42,Italia,ITA,00:32:45,03:06:33,01:57:45,00:03:05,00:01:40,05:41:49
+ironman-70.3-lanzarote-20140920.csv,344,Luca Andretta,42,Vicenza,ITA,00:36:53,03:06:43,02:06:38,00:02:27,00:03:12,05:55:54
+ironman-70.3-lanzarote-20140920.csv,345,Ian Hudson,---,---,GBR,00:29:05,03:10:03,02:06:39,00:02:22,00:02:38,05:50:49
+ironman-70.3-lanzarote-20140920.csv,346,Jesús Moreno González,---,---,ESP,00:30:36,03:22:26,02:09:06,00:02:16,00:02:47,06:07:14
+ironman-70.3-lanzarote-20140920.csv,347,Raimondo Maximilian Cervellione,---,---,GBR,00:43:17,03:23:09,02:11:19,00:02:11,00:01:41,06:21:39
+ironman-70.3-lanzarote-20140920.csv,348,David Hunter,42,Hampshire,GBR,00:31:11,03:07:21,01:51:55,00:02:11,00:01:17,05:33:56
+ironman-70.3-lanzarote-20140920.csv,349,Mark Bissell,42,Hertfordshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,350,Emiliano Laruccia,42,Lux,ITA,00:34:10,02:57:34,01:37:06,00:01:50,00:01:42,05:12:25
+ironman-70.3-lanzarote-20140920.csv,351,John Fitzpatrick,---,---,IRL,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,352,Radek Kudibal,43,---,CZE,00:33:07,03:09:44,01:39:51,00:02:07,00:01:40,05:26:31
+ironman-70.3-lanzarote-20140920.csv,353,Francisco Javier Cubero Mellado,---,Córdoba,ESP,00:33:44,03:16:22,01:54:57,00:02:45,00:02:51,05:50:41
+ironman-70.3-lanzarote-20140920.csv,354,Filippo Bagnasco,43,---,ITA,00:31:17,02:54:00,01:45:21,00:01:52,00:01:19,05:13:51
+ironman-70.3-lanzarote-20140920.csv,355,Jose Carlos Balague Jordan,---,---,ESP,00:37:16,03:20:47,01:38:59,00:03:29,00:01:56,05:42:29
+ironman-70.3-lanzarote-20140920.csv,356,Jason Cox,43,Middlesex,GBR,00:37:36,03:15:37,02:13:11,00:02:54,00:01:53,06:11:13
+ironman-70.3-lanzarote-20140920.csv,357,Antonio Almaraz Serrano,---,---,GBR,00:25:22,03:10:19,02:00:04,00:03:37,00:02:51,05:42:15
+ironman-70.3-lanzarote-20140920.csv,358,Paolo Barbera,43,MI,ITA,00:58:17,03:52:07,02:14:49,00:05:01,00:03:08,07:13:24
+ironman-70.3-lanzarote-20140920.csv,359,Nacho Manzano Ferreras,---,---,ESP,00:31:10,02:58:46,01:42:18,00:02:35,00:02:22,05:17:13
+ironman-70.3-lanzarote-20140920.csv,360,Pat Leahy,43,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,361,Bosi Viña,43,ES,ESP,00:41:42,03:25:21,02:06:42,00:03:07,00:02:00,06:18:55
+ironman-70.3-lanzarote-20140920.csv,362,Juan Lopez Vila,44,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,363,Richard Howarth,43,---,GBR,00:24:18,02:45:59,01:33:18,00:01:24,00:01:44,04:46:44
+ironman-70.3-lanzarote-20140920.csv,364,Simon Leadbetter,43,ES,GBR,00:31:14,03:27:08,01:54:07,00:02:57,00:02:20,05:57:47
+ironman-70.3-lanzarote-20140920.csv,365,Joeri Erler,42,---,BEL,00:31:56,03:02:15,01:42:25,00:01:44,00:01:58,05:20:21
+ironman-70.3-lanzarote-20140920.csv,366,Chris Chadwick,43,South Yorkshire,GBR,00:36:30,03:45:53,02:14:36,00:05:28,00:03:24,06:45:53
+ironman-70.3-lanzarote-20140920.csv,367,Mark Nicol,43,---,GBR,00:41:29,03:54:50,02:10:10,00:03:19,00:04:27,06:54:17
+ironman-70.3-lanzarote-20140920.csv,368,Lars Knothe,43,DE,DEU,00:46:02,03:23:32,02:10:46,00:02:44,00:03:09,06:26:15
+ironman-70.3-lanzarote-20140920.csv,369,Mario Luis Penabad,44,CH,CHE,00:32:07,02:56:27,01:43:43,00:04:40,00:03:31,05:20:30
+ironman-70.3-lanzarote-20140920.csv,370,Simon Barnett,44,---,GBR,00:26:51,02:57:42,01:49:31,00:01:48,00:01:18,05:17:13
+ironman-70.3-lanzarote-20140920.csv,371,David Mather,44,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,372,Brullefert Christophe,---,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,373,Francisco Fariñas,44,ES,ESP,00:34:23,03:03:19,01:40:04,00:02:46,00:01:38,05:22:12
+ironman-70.3-lanzarote-20140920.csv,374,Cristian Caleri,44,ES,ESP,00:33:49,03:28:33,01:57:42,00:03:52,00:02:15,06:06:12
+ironman-70.3-lanzarote-20140920.csv,375,Jeff Ward,---,---,GBR,00:35:29,03:02:26,01:52:36,00:03:04,00:02:13,05:35:51
+ironman-70.3-lanzarote-20140920.csv,376,Ivor Hewitt,44,---,GBR,00:40:30,03:00:56,01:49:12,00:03:52,00:03:23,05:37:54
+ironman-70.3-lanzarote-20140920.csv,377,Reggy Boonaert,44,East Flanders,BEL,00:33:08,03:18:44,02:12:33,00:03:57,00:02:15,06:10:39
+ironman-70.3-lanzarote-20140920.csv,378,David Buckham,44,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,379,Santiago Isnardi,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,380,Conor White,45,---,IRL,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,381,Leroy Brown,45,---,GBR,00:41:33,03:12:45,01:50:27,00:03:28,00:01:35,05:49:51
+ironman-70.3-lanzarote-20140920.csv,382,Jacob Ibing,45,---,DNK,00:41:50,03:46:39,02:11:27,00:04:14,00:02:04,06:46:16
+ironman-70.3-lanzarote-20140920.csv,383,Dean Shaun Stannard,---,---,GBR,00:40:25,02:59:07,01:50:25,00:03:36,00:02:00,05:35:35
+ironman-70.3-lanzarote-20140920.csv,384,Jesus Prieto Romero,45,ES,ESP,00:32:23,03:14:49,01:53:51,00:03:01,00:02:08,05:46:14
+ironman-70.3-lanzarote-20140920.csv,385,Johann Florent Joël Ferré,45,---,FRA,00:32:33,02:57:35,01:45:28,00:02:00,00:01:47,05:19:25
+ironman-70.3-lanzarote-20140920.csv,386,Jordi Borràs Fonts,---,---,CUB,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,387,David Prunell-Friend,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,388,Roberto Mourino,---,---,GBR,00:40:07,03:28:02,02:19:35,00:03:00,00:01:32,06:32:18
+ironman-70.3-lanzarote-20140920.csv,389,Juan Jesus Gonzalez Benasco,46,ES,ESP,00:38:50,03:16:50,01:43:38,00:02:30,00:01:48,05:43:39
+ironman-70.3-lanzarote-20140920.csv,390,Domingo Betancort Hernandez,---,---,ESP,00:36:20,03:27:22,02:25:57,00:03:49,00:02:37,06:36:07
+ironman-70.3-lanzarote-20140920.csv,391,Paul Sherwood,---,---,GBR,00:32:29,03:11:36,01:55:13,00:03:29,00:03:54,05:46:43
+ironman-70.3-lanzarote-20140920.csv,392,Michael Kapr,46,NSW,CZE,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,393,Craig Oliver,45,ES,ZAF,00:29:29,02:52:02,01:46:32,00:02:09,00:01:31,05:11:45
+ironman-70.3-lanzarote-20140920.csv,394,Angel Martin Medina,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,395,Ortwin Strolz,46,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,396,Lothar Studer,46,CH,CHE,00:30:15,02:46:48,01:42:36,00:02:12,00:01:16,05:03:10
+ironman-70.3-lanzarote-20140920.csv,397,Angelo Radaelli,---,---,ITA,00:36:19,03:21:52,02:13:47,00:04:09,00:03:18,06:19:28
+ironman-70.3-lanzarote-20140920.csv,398,Peter Meel,46,BE,BEL,00:37:05,03:16:46,02:02:52,00:04:09,00:02:17,06:03:10
+ironman-70.3-lanzarote-20140920.csv,399,Roman Sobolev,46,---,RUS,00:35:17,03:00:45,02:07:42,00:01:56,00:01:45,05:47:27
+ironman-70.3-lanzarote-20140920.csv,400,Thomas Walluschnig,47,AT,AUT,00:31:57,02:48:30,01:39:23,00:01:26,00:01:24,05:02:41
+ironman-70.3-lanzarote-20140920.csv,401,Riccardo Mario Torre,---,---,ITA,00:33:06,03:00:04,01:50:51,00:02:51,00:01:37,05:28:31
+ironman-70.3-lanzarote-20140920.csv,402,Ellis Martín Mccarthy,47,---,ESP,00:31:18,03:09:34,01:56:59,00:01:49,00:01:31,05:41:12
+ironman-70.3-lanzarote-20140920.csv,403,Claudio Convilli,47,Italia,ITA,00:36:56,03:08:38,01:47:57,00:03:46,00:02:00,05:39:19
+ironman-70.3-lanzarote-20140920.csv,404,Patxi Martinez Irujo,47,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,405,Victor Hernan Valiente,47,ES,ESP,00:44:15,03:43:10,02:10:36,00:04:35,00:03:04,06:45:41
+ironman-70.3-lanzarote-20140920.csv,406,Philip Bell,48,Leicestershire,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,407,Johan Pauwels,48,---,BEL,00:28:33,02:48:07,01:44:08,00:01:26,00:01:56,05:04:13
+ironman-70.3-lanzarote-20140920.csv,408,Graeme Scott,48,---,GBR,00:31:43,03:06:01,01:45:35,00:01:45,00:01:56,05:27:02
+ironman-70.3-lanzarote-20140920.csv,409,Troy Stannard,48,GB,GBR,00:46:47,04:03:36,02:33:53,00:04:42,00:05:24,07:34:24
+ironman-70.3-lanzarote-20140920.csv,410,Kevin Wallace,48,UK,GBR,00:38:06,03:16:24,02:19:14,00:03:36,00:01:34,06:18:56
+ironman-70.3-lanzarote-20140920.csv,411,Ian Gilbody,48,SURREY,GBR,00:37:48,03:54:30,02:28:48,00:04:16,00:03:42,07:09:06
+ironman-70.3-lanzarote-20140920.csv,412,Marcel Koebeli,48,CH,CHE,00:39:14,03:00:27,01:53:49,00:03:01,00:01:23,05:37:57
+ironman-70.3-lanzarote-20140920.csv,413,Ximo Rubert Alemán,48,ES,ESP,00:29:12,03:24:09,01:49:53,00:03:30,00:02:36,05:49:22
+ironman-70.3-lanzarote-20140920.csv,414,Jonathan Power,48,---,GBR,00:38:07,03:27:55,02:14:42,00:04:50,00:04:19,06:29:55
+ironman-70.3-lanzarote-20140920.csv,415,Agustín Martín Verdún,48,---,ESP,00:43:25,03:44:49,02:35:12,00:05:40,00:02:30,07:11:39
+ironman-70.3-lanzarote-20140920.csv,416,Andreas Fellmann,48,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,417,Alex Ramon,48,ES,ESP,00:40:04,03:34:36,02:32:48,00:06:28,00:02:51,06:56:49
+ironman-70.3-lanzarote-20140920.csv,418,Paul Shanley,48,Dublin,IRL,00:40:42,03:47:56,02:25:07,00:04:31,00:03:36,07:01:54
+ironman-70.3-lanzarote-20140920.csv,419,Pierre Bene,49,---,DEU,00:32:52,03:10:27,01:52:53,00:03:10,00:02:26,05:41:50
+ironman-70.3-lanzarote-20140920.csv,420,Adrian Wood,49,Somerset,GBR,00:54:19,04:16:19,02:56:06,00:05:59,00:04:45,08:17:30
+ironman-70.3-lanzarote-20140920.csv,421,Marcel De Graaf,49,NL,NLD,00:31:54,02:48:34,01:45:30,00:02:28,00:01:24,05:09:51
+ironman-70.3-lanzarote-20140920.csv,422,Peter Colborne,49,---,GBR,00:39:05,03:42:05,02:40:19,00:04:17,00:04:54,07:10:42
+ironman-70.3-lanzarote-20140920.csv,423,Bart Bomans,49,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,424,Paul Hellings,49,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,425,Marco Fabio Nannini,49,---,ITA,00:38:36,04:00:49,02:16:58,00:05:05,00:02:38,07:04:08
+ironman-70.3-lanzarote-20140920.csv,426,Manuel Narvaez,49,---,ESP,00:31:43,03:01:19,01:40:53,00:02:17,00:01:22,05:17:36
+ironman-70.3-lanzarote-20140920.csv,427,Steven Smillie,49,bucks,GBR,00:38:34,03:16:09,02:02:57,00:03:32,00:02:38,06:03:53
+ironman-70.3-lanzarote-20140920.csv,428,Vito Antonio Cardinale,---,---,ITA,00:58:22,03:52:11,02:14:48,00:04:55,00:03:07,07:13:24
+ironman-70.3-lanzarote-20140920.csv,429,Guy Vanoppen,---,---,BEL,00:42:57,03:02:26,01:46:45,00:05:07,00:02:13,05:39:30
+ironman-70.3-lanzarote-20140920.csv,430,Davide Brambillasca,50,---,ITA,00:32:37,03:00:44,01:49:11,00:02:36,00:01:44,05:26:53
+ironman-70.3-lanzarote-20140920.csv,431,Alberto Vecchio,---,---,ITA,00:39:01,04:03:27,02:56:13,00:04:34,00:02:27,07:45:45
+ironman-70.3-lanzarote-20140920.csv,432,Luciano Perez Delgado,---,---,ESP,00:40:27,03:25:25,01:54:44,00:03:07,00:02:10,06:05:54
+ironman-70.3-lanzarote-20140920.csv,433,Tapio Malkki,50,---,FIN,00:37:50,03:14:05,02:08:12,00:03:28,00:01:31,06:05:08
+ironman-70.3-lanzarote-20140920.csv,434,Folkert Behrends,50,---,ESP,00:28:28,02:45:14,01:32:04,00:01:52,00:01:14,04:48:53
+ironman-70.3-lanzarote-20140920.csv,435,Mike Fry,50,BRISTOL,GBR,00:35:54,02:52:22,---,00:03:22,00:02:06,DNF
+ironman-70.3-lanzarote-20140920.csv,436,Bernardino Coto Carmona,51,ES,ESP,00:38:18,04:03:46,03:05:46,00:04:18,00:03:45,07:55:55
+ironman-70.3-lanzarote-20140920.csv,437,Francesco Monfreda,---,---,ITA,00:38:29,03:28:40,02:04:24,00:04:04,00:02:57,06:18:36
+ironman-70.3-lanzarote-20140920.csv,438,Christophe Ribes,51,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,439,Michel Monge Monge,---,---,FRA,00:29:10,03:20:48,02:46:26,00:03:23,00:02:26,06:42:15
+ironman-70.3-lanzarote-20140920.csv,440,Tom Reiss,51,---,DEU,00:34:21,03:19:08,01:51:16,00:04:06,00:02:18,05:51:10
+ironman-70.3-lanzarote-20140920.csv,441,Pedro Carrero Armengol,50,ES,ESP,00:34:48,03:13:59,01:50:37,00:03:04,00:01:55,05:44:26
+ironman-70.3-lanzarote-20140920.csv,442,Gregor Rok Kastelic,---,---,SVN,00:50:04,04:02:23,02:20:11,00:03:33,00:03:06,07:19:20
+ironman-70.3-lanzarote-20140920.csv,443,Martin Adam Arundel,---,---,GBR,00:39:44,02:56:59,01:59:32,00:03:42,00:01:40,05:41:39
+ironman-70.3-lanzarote-20140920.csv,444,David Peters,52,---,GBR,00:37:39,03:28:59,02:19:42,00:03:22,00:02:37,06:32:20
+ironman-70.3-lanzarote-20140920.csv,445,Antonio Alonso Guillen Del Valle,52,ES,ESP,00:32:48,03:07:56,01:57:06,00:03:11,00:02:03,05:43:06
+ironman-70.3-lanzarote-20140920.csv,446,Eduardo Girolami,52,Intl State,ARG,00:41:45,03:50:57,01:54:14,00:04:13,00:02:00,06:33:11
+ironman-70.3-lanzarote-20140920.csv,447,Jérôme Pieyre,52,CH,CHE,00:36:49,03:35:37,02:31:57,00:04:46,00:01:56,06:51:06
+ironman-70.3-lanzarote-20140920.csv,448,David John Meen,---,---,GBR,00:55:11,04:10:25,02:53:51,00:04:06,00:03:06,08:06:42
+ironman-70.3-lanzarote-20140920.csv,449,Pierre-Dominique Gerdil,---,---,CHE,00:36:49,03:33:28,02:21:30,00:04:05,00:03:55,06:39:48
+ironman-70.3-lanzarote-20140920.csv,450,John Brian Ardron,---,---,GBR,00:37:17,03:10:18,02:07:18,00:01:35,00:01:49,05:58:18
+ironman-70.3-lanzarote-20140920.csv,451,Biagio Maglienti,---,---,ITA,00:37:40,03:41:08,02:41:42,00:03:43,00:03:08,07:07:23
+ironman-70.3-lanzarote-20140920.csv,452,Martin Wyss,53,CH,CHE,00:31:36,02:59:13,02:01:29,00:02:09,00:01:34,05:36:02
+ironman-70.3-lanzarote-20140920.csv,453,Stephen Mark Green,53,---,GBR,00:38:35,03:18:26,02:30:59,00:03:55,00:02:02,06:33:59
+ironman-70.3-lanzarote-20140920.csv,454,Joachim Von Ahn,53,DE,DEU,00:33:35,02:50:33,01:31:44,00:02:11,00:01:42,04:59:47
+ironman-70.3-lanzarote-20140920.csv,455,Mauro Secco,53,Ve,ITA,00:36:22,03:24:48,02:14:24,00:05:04,00:03:27,06:24:07
+ironman-70.3-lanzarote-20140920.csv,456,Derek Lewis Levenstein,---,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,457,Simon James Holder,---,---,GBR,00:37:09,03:37:59,02:07:55,00:05:28,00:02:25,06:30:59
+ironman-70.3-lanzarote-20140920.csv,458,David Muir,53,---,GBR,00:30:13,02:48:27,02:01:41,00:01:47,00:01:23,05:23:33
+ironman-70.3-lanzarote-20140920.csv,459,Douglas Munro,54,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,460,Gerhard Reichelt,54,---,DEU,00:40:52,03:16:58,02:26:44,00:02:09,00:02:33,06:29:18
+ironman-70.3-lanzarote-20140920.csv,461,Anthony Foreman,54,Notts,GBR,00:42:18,03:55:23,02:28:06,00:05:22,00:03:38,07:14:50
+ironman-70.3-lanzarote-20140920.csv,462,Andy Clapperton,---,---,GBR,00:34:45,03:27:47,02:08:02,00:03:29,00:01:58,06:16:04
+ironman-70.3-lanzarote-20140920.csv,463,Matthew Herbertson,---,---,GBR,00:35:23,03:27:50,02:07:58,00:02:52,00:01:59,06:16:03
+ironman-70.3-lanzarote-20140920.csv,464,Stuart Mclaren,55,Notts,GBR,00:39:21,03:19:09,02:18:39,00:02:57,00:03:54,06:24:02
+ironman-70.3-lanzarote-20140920.csv,465,Ulpiano G�mez Garcia,55,ES,ESP,00:46:50,03:49:07,01:52:06,00:07:41,00:04:07,06:39:53
+ironman-70.3-lanzarote-20140920.csv,466,Andreas Werneke,---,---,DEU,00:37:16,03:51:00,02:28:33,00:05:26,00:04:11,07:06:28
+ironman-70.3-lanzarote-20140920.csv,467,Antonio Javier González Pérez,---,---,ESP,00:37:24,03:45:38,02:24:13,00:04:57,00:03:20,06:55:33
+ironman-70.3-lanzarote-20140920.csv,468,Ricardo Jaurrieta,56,ES,ESP,00:34:12,03:26:44,02:05:36,00:03:21,00:01:26,06:11:21
+ironman-70.3-lanzarote-20140920.csv,469,Neil Dermott,57,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,470,Michael Quincey,57,kent,GBR,00:39:13,03:59:45,02:31:22,00:03:14,00:02:31,07:16:08
+ironman-70.3-lanzarote-20140920.csv,471,Rene Delbaere,58,---,BEL,00:30:22,03:01:40,01:44:27,00:02:07,00:02:13,05:20:51
+ironman-70.3-lanzarote-20140920.csv,472,Antonio Sainz,58,ES,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,473,MEJIAS LOUIS,58,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,474,Trevor Crowter,59,---,GBR,00:38:40,03:28:03,02:47:16,00:04:39,00:02:32,07:01:12
+ironman-70.3-lanzarote-20140920.csv,475,Kelvin Bowers,59,Central,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,476,Abelardo Suarez,59,Santa Cruz,BOL,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,477,Alistair Denny,---,---,GBR,00:36:21,04:01:06,---,00:05:31,00:04:51,DNF
+ironman-70.3-lanzarote-20140920.csv,478,Harry Kunibert Schneider,60,DE,DEU,00:33:55,03:04:52,01:49:53,00:02:23,00:01:50,05:32:54
+ironman-70.3-lanzarote-20140920.csv,479,Miffand Jean Luc,---,---,FRA,00:36:22,03:09:59,01:59:59,00:03:16,00:02:05,05:51:42
+ironman-70.3-lanzarote-20140920.csv,480,Trevor Simmons,61,---,ESP,00:34:51,04:09:30,---,00:03:18,---,DNF
+ironman-70.3-lanzarote-20140920.csv,481,Mostyn Thomas,61,gwent,AUT,00:42:35,03:57:05,03:08:32,00:05:02,00:02:48,07:56:04
+ironman-70.3-lanzarote-20140920.csv,482,Neil Arundel,61,---,GBR,00:30:13,03:11:38,01:56:04,00:04:01,00:03:24,05:45:23
+ironman-70.3-lanzarote-20140920.csv,483,Colin Hunt,63,Cheshire,GBR,00:38:54,03:18:53,02:05:18,00:02:03,00:01:54,06:07:05
+ironman-70.3-lanzarote-20140920.csv,484,Paul Kay,62,ES,GBR,00:39:09,03:13:22,01:59:34,00:03:02,00:02:02,05:57:10
+ironman-70.3-lanzarote-20140920.csv,485,Terry Jones,64,West Glamorgan,GBR,00:33:13,03:45:32,02:18:12,00:04:23,00:02:47,06:44:09
+ironman-70.3-lanzarote-20140920.csv,486,Carsten Boennelykke,---,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,487,Keith Greenough,66,Intl State,GBR,00:35:04,03:31:40,02:06:29,00:04:57,00:02:44,06:20:56
+ironman-70.3-lanzarote-20140920.csv,488,Richard Vegricht,68,---,AUT,00:39:38,04:17:46,03:15:42,00:06:04,00:03:26,08:22:38
+ironman-70.3-lanzarote-20140920.csv,489,Trevor Paul Abnett,---,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20140920.csv,490,Bruno Christen,72,---,CHE,00:42:15,03:25:19,02:17:59,00:05:05,00:04:12,06:34:51
+ironman-70.3-lanzarote-20140920.csv,491,Winfried Schmidt,75,DE,DEU,00:40:11,03:32:42,02:24:09,00:05:07,00:03:54,06:46:05
+ironman-70.3-lanzarote-20140920.csv,492,Petr Polansky,60,Czech Republic,CZE,00:32:19,02:59:12,01:51:22,00:02:56,00:02:04,05:27:55
+ironman-70.3-lanzarote-20140920.csv,493,Christoph Erath,---,---,AUT,00:32:43,02:49:17,01:42:34,00:01:35,00:01:38,05:07:49
+ironman-70.3-lanzarote-20140920.csv,495,Kristian Georg Rohde,---,---,DNK,00:29:03,02:58:13,01:51:14,00:03:00,00:01:36,05:23:08
+ironman-70.3-lanzarote-20140920.csv,496,Hilary Walker,62,---,GBR,00:50:19,03:51:42,02:37:15,00:04:09,00:02:42,07:26:10
+ironman-70.3-lanzarote-20140920.csv,497,Stephan Schreiner,---,---,DEU,00:32:49,02:56:47,01:42:36,00:02:53,00:01:20,05:16:28
+ironman-70.3-lanzarote-20140920.csv,498,Ilya Spiridonov,37,---,RUS,00:44:04,03:49:41,02:39:42,00:05:47,00:02:24,07:21:39
+ironman-70.3-lanzarote-20140920.csv,499,Ivan Reyes Lopez,28,ES,ESP,00:37:32,03:24:08,02:38:16,00:01:59,00:01:14,06:43:12
+ironman-70.3-lanzarote-20140920.csv,500,Kyle Hyde,---,---,GBR,00:35:18,02:56:53,02:13:07,00:03:40,00:03:11,05:52:10
+ironman-70.3-lanzarote-20140920.csv,501,Matt Williams,41,---,GBR,00:40:32,04:03:43,02:26:42,00:05:54,00:05:42,07:22:34
+ironman-70.3-lanzarote-20140920.csv,502,Jan Magnus,---,---,BEL,00:37:41,03:39:30,02:08:18,00:04:47,00:04:14,06:34:32
