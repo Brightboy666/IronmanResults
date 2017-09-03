@@ -11,14 +11,14 @@ import re
 from urllib.error import URLError, HTTPError
 from urllib.request import Request, urlopen
 
-from htmlCache import UrlOpen
+from ResultsCache import ResultsCache
 
-
+logger = logging.getLogger(__name__)
 logging.basicConfig(filename='warnings_errors.log',level=logging.WARNING)  
-results_folder = "results"
+results_folder = "races/results"
 
 def getsoup(url):
-    html =  UrlOpen.UrlOpen().getHTML(url)
+    html =  ResultsCache().getHTML(url)
     
     if html is None:
         print("No html found for "+ url)
@@ -190,7 +190,7 @@ def outputRaceResults(url):
                 writer.writerow(['#EmptyRace'])
                 writer.writerow(['#HighestBibChecked='+str(maxBib)])
     except Exception as e:
-            logging.exception("Unknown Error with "+url +". ")
+            logger.exception(e)#"Unknown Error with "+url +". ")
 
                
 #Visits the home page for each race and then traverses the
@@ -199,6 +199,7 @@ def getResultUrls(urls):
     
     result_urls=[] 
     for url in urls:
+        print("Processing {}".format(url))
         soup = getsoup(url)
         
         try:            
@@ -222,6 +223,7 @@ def getResultUrls(urls):
             links = raceResultsUL.findAll('a', href=True)
             
             for link in links:
+                print("Found a race to scrape: {}".format(link['href']))
                 result_urls.append(link['href'])
         except Exception as e:
             logging.exception("Error with "+url +". ")
@@ -261,12 +263,23 @@ def getResultsPages():
         
     return set(urls)
 
-urls = getResultsPages()    
-print(urls)
+import pickle
 
-urls = getResultUrls(urls)
+
+try: 
+   result_page_urls = pickle.load( open( "result_page_urls.p", "rb" ) )
+except:
+    result_page_urls = getResultsPages()  
+    pickle.dump(result_page_urls, open( "result_page_urls.p", "wb" ) )  
+print(result_page_urls)
+
+try: 
+   urls = pickle.load( open( "urls.p", "rb" ) )
+except:
+    urls = getResultUrls(result_page_urls)
+    pickle.dump(urls, open( "urls.p", "wb" ) )  
 print(urls)
     
-with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
+with concurrent.futures.ThreadPoolExecutor(max_workers=1) as pool:
     for url in urls:
         pool.submit(outputRaceResults, url)    

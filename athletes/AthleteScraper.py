@@ -36,13 +36,13 @@ def outputAthlete(record):
 if __name__ == '__main__':
     pass
 
-file = open('hefei.txt', 'r')
+file = open('lp703.csv', 'r')
 
-with open("im hefei.csv", "wt") as f:
+with open("lp703_clean.csv", "wt") as f:
     writer = csv.writer(f)
     
     for line in file:
-        tokens = line.split("  ")
+        tokens = line.split(",")
         str = ""
         
         record = []
