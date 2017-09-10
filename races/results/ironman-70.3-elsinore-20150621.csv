@@ -1,0 +1,1600 @@
+#File=ironman-70.3-elsinore-20150621.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-elsinore-20150621.csv,1,Stefan Holtkötter,29,DE,DEU,00:24:57,02:25:21,01:23:41,00:03:56,00:01:08,04:19:03
+ironman-70.3-elsinore-20150621.csv,2,Brian Baadsager,29,---,DNK,00:28:09,02:28:56,01:33:29,00:05:15,00:01:54,04:37:43
+ironman-70.3-elsinore-20150621.csv,3,Ross Simpson,29,Wales,GBR,00:26:11,02:28:16,01:27:15,00:04:00,00:01:49,04:27:31
+ironman-70.3-elsinore-20150621.csv,4,Anders Winsløw,29,---,DNK,00:41:06,03:04:47,02:16:41,00:10:27,00:06:55,06:19:56
+ironman-70.3-elsinore-20150621.csv,5,Anders Holm-Jensen,29,---,DNK,00:34:19,02:43:39,02:13:19,00:08:32,00:04:12,05:44:01
+ironman-70.3-elsinore-20150621.csv,6,Tobias Kirschberger,29,Nordrhein-Westfalen,DEU,00:40:18,02:47:42,01:39:47,00:07:51,00:01:35,05:17:13
+ironman-70.3-elsinore-20150621.csv,7,Anders Thykjær Mogensen,29,---,DNK,00:37:18,02:45:54,01:50:57,00:08:57,00:04:09,05:27:15
+ironman-70.3-elsinore-20150621.csv,8,Peter Ryberg Simonsen,29,---,DNK,00:38:51,02:28:07,01:33:34,00:06:35,00:01:36,04:48:43
+ironman-70.3-elsinore-20150621.csv,9,Steffan Emil Lahti,29,---,DNK,00:48:29,03:13:06,02:33:20,00:13:41,00:06:59,06:55:35
+ironman-70.3-elsinore-20150621.csv,10,Peter Enstrøm,29,---,DNK,00:41:41,02:43:33,02:06:01,00:09:26,00:03:25,05:44:06
+ironman-70.3-elsinore-20150621.csv,11,Ulrich Flensted,29,---,DNK,00:32:08,02:41:46,01:57:44,00:06:06,00:03:39,05:21:23
+ironman-70.3-elsinore-20150621.csv,12,Florian Oeser,29,DE,DEU,00:36:34,02:31:46,01:41:45,00:06:13,00:01:52,04:58:10
+ironman-70.3-elsinore-20150621.csv,13,Tatu Kasurinen,29,Varsinais-Suomi,FIN,00:26:56,02:20:35,01:25:27,00:03:58,00:02:39,04:19:35
+ironman-70.3-elsinore-20150621.csv,14,Patrik Søgart,29,---,DNK,00:35:18,02:52:38,01:56:22,00:07:53,00:02:41,05:34:52
+ironman-70.3-elsinore-20150621.csv,15,Andreas Flou,29,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,16,Anders Larsen,29,---,DNK,00:39:25,02:50:43,01:53:03,00:11:09,00:05:09,05:39:29
+ironman-70.3-elsinore-20150621.csv,17,Teddie Heikkinen,29,---,SWE,00:38:36,02:59:14,01:53:24,00:12:49,00:06:36,05:50:39
+ironman-70.3-elsinore-20150621.csv,18,Philip Mora-Jensen,29,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,19,Cristiano Todaro,29,Roma,ITA,00:33:46,02:27:23,01:32:31,00:04:31,00:01:25,04:39:36
+ironman-70.3-elsinore-20150621.csv,20,Asger Hjorth Saabye,29,---,DNK,00:32:42,02:50:10,02:12:51,00:07:18,00:03:41,05:46:42
+ironman-70.3-elsinore-20150621.csv,21,Kasper Brandstrup Rehnquist,29,---,DNK,00:41:58,02:35:46,01:42:04,00:07:26,00:03:53,05:11:07
+ironman-70.3-elsinore-20150621.csv,22,Jack Dige Streit,29,Eastern Cape,DNK,00:39:08,02:18:48,01:47:35,00:03:51,00:01:38,04:51:00
+ironman-70.3-elsinore-20150621.csv,23,Mads Klit Jensen,29,---,DNK,00:35:23,02:46:16,01:50:29,00:07:43,00:03:03,05:22:54
+ironman-70.3-elsinore-20150621.csv,24,Tobias Wendel,29,---,SWE,00:42:16,02:49:29,01:48:15,00:11:51,00:04:46,05:36:37
+ironman-70.3-elsinore-20150621.csv,25,Mikkel Dissing,29,---,DNK,00:41:48,02:36:38,01:39:36,00:08:52,00:04:35,05:11:29
+ironman-70.3-elsinore-20150621.csv,26,Jakob Skov,30,---,DNK,00:36:22,02:28:50,---,00:06:11,00:02:02,DNF
+ironman-70.3-elsinore-20150621.csv,27,Patrik Edvardsen,30,---,DNK,00:39:20,02:58:57,01:58:18,00:06:10,00:02:49,05:45:34
+ironman-70.3-elsinore-20150621.csv,28,Morten Knudsen,30,---,DNK,00:40:12,02:53:22,01:50:01,00:17:34,00:03:26,05:44:35
+ironman-70.3-elsinore-20150621.csv,29,Nick Danlid Burke,30,SE,GBR,00:30:38,02:30:02,01:32:56,00:05:17,00:01:56,04:40:49
+ironman-70.3-elsinore-20150621.csv,30,Claes Dyrby Nielsen,30,---,DNK,00:41:25,02:51:11,01:42:23,00:07:55,00:02:38,05:25:32
+ironman-70.3-elsinore-20150621.csv,31,Bo Schülein,30,---,DNK,00:41:10,02:47:35,01:56:49,00:06:51,00:02:41,05:35:06
+ironman-70.3-elsinore-20150621.csv,32,Jimmy Wassard Schou,30,---,DNK,00:45:34,02:48:04,01:50:29,00:06:59,00:05:11,05:36:17
+ironman-70.3-elsinore-20150621.csv,33,Mark Tranto,30,---,DNK,00:34:10,02:26:41,01:47:58,00:04:20,00:02:18,04:55:27
+ironman-70.3-elsinore-20150621.csv,34,Casper Hoejsgaard Jensen,30,---,DNK,00:42:16,02:51:17,01:27:44,00:07:20,00:02:44,05:11:21
+ironman-70.3-elsinore-20150621.csv,35,Nicholas Sroczynski,30,---,DNK,00:30:21,02:23:36,01:41:56,00:04:07,00:01:27,04:41:27
+ironman-70.3-elsinore-20150621.csv,36,Christian Tinggaard,30,---,DNK,00:46:28,02:53:28,01:55:22,00:14:18,00:03:18,05:52:54
+ironman-70.3-elsinore-20150621.csv,37,Michael Toftum Ussing,30,---,DNK,00:34:56,02:34:43,01:49:52,00:06:43,00:02:51,05:09:05
+ironman-70.3-elsinore-20150621.csv,38,Henrik Sterndorff,30,---,DNK,00:33:00,02:26:05,01:42:07,00:06:08,00:01:20,04:48:40
+ironman-70.3-elsinore-20150621.csv,39,Matthew Conroy,30,CT,USA,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,40,Ludwig Östlund,30,---,SWE,00:42:41,03:11:59,02:27:17,00:09:49,00:04:52,06:36:38
+ironman-70.3-elsinore-20150621.csv,41,Martin Qvist Mathiasen,30,---,DNK,00:33:33,02:22:23,01:33:51,00:06:44,00:02:07,04:38:38
+ironman-70.3-elsinore-20150621.csv,42,Jannik Lawaetz,30,---,DNK,00:34:17,02:38:00,01:24:36,00:05:27,00:03:26,04:45:46
+ironman-70.3-elsinore-20150621.csv,43,Christian Boe Jensen,30,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,44,Björn Nilsson,30,---,SWE,00:37:01,03:05:07,02:23:00,00:08:27,00:04:16,06:17:51
+ironman-70.3-elsinore-20150621.csv,45,Robin Winter,30,---,SWE,00:46:01,03:25:50,02:12:10,00:09:51,00:02:47,06:36:39
+ironman-70.3-elsinore-20150621.csv,46,Felix Petersen,30,---,DNK,00:32:00,02:35:20,01:32:48,00:05:15,00:02:39,04:48:02
+ironman-70.3-elsinore-20150621.csv,47,Christopher Persson,30,---,DNK,00:31:59,02:42:11,01:56:28,00:06:47,00:04:45,05:22:10
+ironman-70.3-elsinore-20150621.csv,48,Adam Dreyer,30,DK,DNK,00:35:12,02:51:37,01:57:45,00:07:18,00:02:26,05:34:18
+ironman-70.3-elsinore-20150621.csv,49,Christian Petersen,30,DK,DNK,00:41:59,02:42:43,01:53:05,00:08:48,00:05:31,05:32:06
+ironman-70.3-elsinore-20150621.csv,50,Andreas Haberl,30,---,AUT,00:30:40,02:30:21,01:33:28,00:04:44,00:02:48,04:42:01
+ironman-70.3-elsinore-20150621.csv,51,Søren Rørly Møller,30,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,52,Lennart Bo Naurholm,30,---,DNK,00:41:51,03:16:01,01:56:09,00:09:13,00:04:11,06:07:25
+ironman-70.3-elsinore-20150621.csv,53,Vincent Soucaret,30,---,FRA,00:34:27,03:11:05,02:05:05,00:06:47,00:03:42,06:01:06
+ironman-70.3-elsinore-20150621.csv,54,Rasmus Egevang,30,---,DNK,00:34:43,02:35:27,01:32:46,00:04:43,00:01:25,04:49:04
+ironman-70.3-elsinore-20150621.csv,55,Kaspar Ben-Gurion,30,DK,ISR,00:42:38,03:25:13,02:11:20,00:10:42,00:06:56,06:36:49
+ironman-70.3-elsinore-20150621.csv,56,Michael Storm,30,---,DNK,00:31:48,02:30:57,01:44:29,00:07:27,00:02:13,04:56:54
+ironman-70.3-elsinore-20150621.csv,57,Brian Petersen,30,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,58,Thomas Lindsten,30,---,DNK,00:35:57,02:21:29,01:31:28,00:05:39,00:01:48,04:36:21
+ironman-70.3-elsinore-20150621.csv,59,Kaspar Pahira Vraa,30,DK,DNK,00:39:17,02:42:41,01:46:28,00:08:31,00:02:30,05:19:27
+ironman-70.3-elsinore-20150621.csv,60,Kurt Johnson,30,Intl State,AUS,00:30:15,02:25:41,01:29:10,00:05:31,00:01:31,04:32:08
+ironman-70.3-elsinore-20150621.csv,61,Daniel Chung Kristensen,30,---,DNK,00:45:12,02:54:48,01:40:54,00:08:06,00:05:17,05:34:17
+ironman-70.3-elsinore-20150621.csv,62,Søren Schlaikjer Andresen,30,---,DNK,00:38:48,02:44:36,01:47:44,00:06:16,00:03:02,05:20:26
+ironman-70.3-elsinore-20150621.csv,63,Anders Wøhlk Eriksen,30,---,DNK,00:40:24,02:29:29,01:22:08,00:05:10,00:01:40,04:38:51
+ironman-70.3-elsinore-20150621.csv,64,Nicolai Aggersbøl,30,DK,DNK,00:37:42,02:59:06,01:40:00,00:06:46,00:04:12,05:27:46
+ironman-70.3-elsinore-20150621.csv,65,Kim Thenning,30,DK,DNK,00:38:47,02:35:49,01:41:43,00:09:17,00:04:02,05:09:38
+ironman-70.3-elsinore-20150621.csv,66,Philipp Haselbach,30,---,DEU,00:33:50,02:31:06,02:02:22,00:05:13,00:01:46,05:14:17
+ironman-70.3-elsinore-20150621.csv,67,Thomas Butler,30,---,DNK,00:38:02,02:30:35,01:40:23,00:05:29,00:02:46,04:57:15
+ironman-70.3-elsinore-20150621.csv,68,Henrik Helbo,31,DK,DNK,00:51:47,02:57:02,01:50:42,00:11:07,00:09:42,06:00:20
+ironman-70.3-elsinore-20150621.csv,69,Kasper Sass Kierkegaard,31,DK,DNK,00:33:53,02:29:00,01:26:30,00:04:21,00:02:09,04:35:53
+ironman-70.3-elsinore-20150621.csv,70,Sigurd Brinck,31,---,DNK,00:35:30,02:29:29,01:36:21,00:05:48,00:03:06,04:50:14
+ironman-70.3-elsinore-20150621.csv,71,Jonas Rauff,31,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,72,Kristian Henningsen,31,---,DNK,00:35:24,02:22:13,01:25:59,00:05:00,00:01:33,04:30:09
+ironman-70.3-elsinore-20150621.csv,73,Sebastian Böcher,31,DK,DNK,00:34:58,02:27:03,01:34:59,00:08:12,00:01:52,04:47:04
+ironman-70.3-elsinore-20150621.csv,74,Flemming Faltum,31,---,DNK,00:38:53,02:27:57,01:59:12,00:11:11,00:03:38,05:20:51
+ironman-70.3-elsinore-20150621.csv,75,Jesper Ludolph,30,London,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,76,Simon Weischer Overby,31,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,77,Lars Dyrholm Hansen,31,---,DNK,00:29:02,02:21:36,01:29:28,00:03:30,00:01:12,04:24:48
+ironman-70.3-elsinore-20150621.csv,78,Bradley John Semple,31,DK,ZAF,00:33:13,02:57:47,01:46:18,00:13:09,00:05:37,05:36:04
+ironman-70.3-elsinore-20150621.csv,79,Jonas Hartvig Thorsgaard,31,---,DNK,00:35:27,02:38:50,01:35:53,00:09:37,00:03:19,05:03:06
+ironman-70.3-elsinore-20150621.csv,80,Lasse Kjeldsted Jensen,31,---,DNK,00:38:10,02:31:24,01:35:41,00:08:14,00:04:35,04:58:04
+ironman-70.3-elsinore-20150621.csv,81,Fredrik Bengtsson,31,---,SWE,00:31:50,02:26:13,01:31:39,00:04:19,00:01:10,04:35:11
+ironman-70.3-elsinore-20150621.csv,82,Staffan Martinsson,31,---,SWE,00:32:27,02:36:55,01:54:46,00:05:16,00:02:31,05:11:55
+ironman-70.3-elsinore-20150621.csv,83,Thomas Kopreitan,31,NO,NOR,00:41:52,02:35:24,02:11:21,00:07:23,00:02:15,05:38:15
+ironman-70.3-elsinore-20150621.csv,84,Anthony Lee Beaumont,31,---,GBR,00:47:12,03:09:29,01:53:22,00:05:58,00:03:58,05:59:59
+ironman-70.3-elsinore-20150621.csv,85,Christoffer Hillestrøm,31,---,DNK,00:41:53,02:52:53,01:56:37,00:11:49,00:03:05,05:46:17
+ironman-70.3-elsinore-20150621.csv,86,Tommy Andersen,31,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,87,Kristoffer Helgesson,31,SE,SWE,00:36:01,02:51:58,01:55:15,00:10:11,00:04:05,05:37:30
+ironman-70.3-elsinore-20150621.csv,88,Martin Saaby,31,---,DNK,00:41:17,02:48:41,02:04:25,00:09:42,00:03:44,05:47:49
+ironman-70.3-elsinore-20150621.csv,89,Søren Poulsen,31,---,DNK,00:29:19,02:35:15,01:36:24,00:06:10,00:02:38,04:49:46
+ironman-70.3-elsinore-20150621.csv,90,Alexandre Tissier,31,NL,FRA,00:30:33,02:38:55,01:36:38,00:04:21,00:03:54,04:54:21
+ironman-70.3-elsinore-20150621.csv,91,Henrik Hougen,31,CO,DNK,00:42:28,02:39:36,01:33:10,00:10:25,00:03:09,05:08:48
+ironman-70.3-elsinore-20150621.csv,92,Omar Conti,31,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,93,Martin Lawaetz,31,---,DNK,00:35:18,02:22:02,01:21:42,00:04:40,00:01:46,04:25:28
+ironman-70.3-elsinore-20150621.csv,94,Sebastian Mikkelsen,31,---,DNK,00:36:51,02:30:07,01:36:10,00:07:53,00:04:15,04:55:16
+ironman-70.3-elsinore-20150621.csv,95,Mikkel Weyde-Andersen,31,---,DNK,00:34:22,02:37:03,01:35:42,00:06:11,00:02:11,04:55:29
+ironman-70.3-elsinore-20150621.csv,96,Ali Hussein Al-Temimi,31,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,97,Johan Nyberg,31,---,SWE,00:29:19,02:30:20,01:32:03,00:04:21,00:02:04,04:38:07
+ironman-70.3-elsinore-20150621.csv,98,Christian Hansen,31,---,DNK,00:33:50,02:58:09,02:01:43,00:09:11,00:03:32,05:46:25
+ironman-70.3-elsinore-20150621.csv,99,Christian Wiese Hagrim,31,---,NOR,00:35:36,02:42:09,01:44:43,00:08:25,00:02:51,05:13:44
+ironman-70.3-elsinore-20150621.csv,100,Mikkel If Hansen,31,---,DNK,00:27:01,02:38:25,01:53:43,00:05:16,00:02:18,05:06:43
+ironman-70.3-elsinore-20150621.csv,101,Hasse Wittus Houman,31,---,DNK,00:35:25,02:31:02,01:39:21,00:06:10,00:01:12,04:53:10
+ironman-70.3-elsinore-20150621.csv,102,Mario La Pergola,31,---,ITA,00:34:54,02:26:27,01:40:09,00:04:25,00:01:52,04:47:47
+ironman-70.3-elsinore-20150621.csv,103,Michael Sonnerborg,31,---,SWE,00:37:11,02:42:09,01:37:24,00:06:11,00:01:59,05:04:54
+ironman-70.3-elsinore-20150621.csv,104,Jannick Erik Juhl Djurhuus,31,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,105,Martin De Feuth Jensen,31,---,DNK,00:44:02,02:48:02,01:57:09,00:08:41,00:03:23,05:41:17
+ironman-70.3-elsinore-20150621.csv,106,Richard Edwards,31,---,GBR,00:36:23,02:52:31,01:58:16,00:06:28,00:03:07,05:36:45
+ironman-70.3-elsinore-20150621.csv,107,Henrik Sørensen,31,---,DNK,00:46:12,03:01:01,01:43:46,00:06:06,00:01:51,05:38:56
+ironman-70.3-elsinore-20150621.csv,108,Otto Gustav Nelson,31,---,SWE,00:37:35,02:40:58,01:47:03,00:07:00,00:03:45,05:16:21
+ironman-70.3-elsinore-20150621.csv,109,Ole Bagger,31,---,DNK,00:37:51,02:44:12,01:35:01,00:07:24,00:01:50,05:06:18
+ironman-70.3-elsinore-20150621.csv,110,Kasper Egesborg Ryt-Hansen,31,DK,DNK,00:35:38,02:48:58,01:41:50,00:06:19,00:02:22,05:15:07
+ironman-70.3-elsinore-20150621.csv,111,Jordi Baeza Subirana,31,---,ESP,00:40:45,02:43:42,02:04:39,00:07:36,00:04:35,05:41:17
+ironman-70.3-elsinore-20150621.csv,112,Ville Korpi,31,Varsinais-Suomi,FIN,---,---,---,---,---,DQ
+ironman-70.3-elsinore-20150621.csv,113,Rasmus Guldager Kristensen,31,---,DNK,01:01:11,02:56:50,02:14:17,00:09:46,00:02:14,06:24:18
+ironman-70.3-elsinore-20150621.csv,114,Mads Gjedsted Nielsen,31,---,DNK,00:41:16,02:35:21,01:29:36,00:07:45,00:02:19,04:56:17
+ironman-70.3-elsinore-20150621.csv,115,Daniel Smith,31,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,116,Michael Valentin Bringskov,32,---,DNK,00:37:34,02:30:37,01:25:36,00:06:06,00:07:49,04:47:42
+ironman-70.3-elsinore-20150621.csv,117,Morten Krogh,32,---,DNK,00:38:31,02:31:57,01:33:19,00:06:22,00:02:15,04:52:24
+ironman-70.3-elsinore-20150621.csv,118,Kenneth Popp,32,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,119,Steven Kaa Holgaard,32,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,120,Tobias Jakobsen,32,---,DNK,00:39:03,02:36:09,01:29:38,00:05:11,00:02:38,04:52:39
+ironman-70.3-elsinore-20150621.csv,121,Jesper Thomsen,32,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,122,Mikkel Larsen,32,DK,DNK,00:33:50,02:19:53,01:23:40,00:03:46,00:01:23,04:22:32
+ironman-70.3-elsinore-20150621.csv,123,Casper Reinsholm,32,DK,DNK,00:42:31,02:47:27,01:41:36,00:09:03,00:03:39,05:24:16
+ironman-70.3-elsinore-20150621.csv,124,Noah Weiss,32,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,125,Frode Hallvard Gildberg,32,Schleswig-Holstein,NOR,00:35:09,02:36:36,01:33:58,00:05:22,00:02:03,04:53:08
+ironman-70.3-elsinore-20150621.csv,126,Lennart Balling,32,DK,DNK,00:38:42,02:37:28,01:38:02,00:06:50,00:03:09,05:04:11
+ironman-70.3-elsinore-20150621.csv,127,Rene Mørk Pedersen,32,---,DNK,00:45:56,03:05:40,02:03:16,00:08:13,00:04:21,06:07:26
+ironman-70.3-elsinore-20150621.csv,128,Henrik Kamper Brandt Thomsen,32,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,129,Dancho Gjorgjijevski,32,TN,MKD,00:36:18,02:48:06,02:07:36,00:09:26,00:02:42,05:44:08
+ironman-70.3-elsinore-20150621.csv,130,Per Trave Philipsen,32,---,DNK,00:45:23,02:52:16,02:09:20,00:07:47,00:03:44,05:58:30
+ironman-70.3-elsinore-20150621.csv,131,Nicki Cole,32,---,DNK,00:34:59,02:30:03,01:43:03,00:05:46,00:02:37,04:56:28
+ironman-70.3-elsinore-20150621.csv,132,Jacob Friedrichsen,32,---,DEU,00:36:25,02:43:12,01:33:49,00:07:11,00:03:40,05:04:17
+ironman-70.3-elsinore-20150621.csv,133,Daniel Andreas Nielsen,32,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,134,Nicolas Chernobilsky,32,---,ARG,00:37:53,02:33:42,01:55:21,00:05:55,00:02:43,05:15:34
+ironman-70.3-elsinore-20150621.csv,135,Tomas Budvytis,32,---,LTU,00:39:00,02:40:49,01:38:59,00:06:25,00:02:48,05:08:01
+ironman-70.3-elsinore-20150621.csv,136,Fernando Pereira,---,---,BRA,00:39:06,02:42:19,02:02:16,00:06:50,00:02:47,05:33:18
+ironman-70.3-elsinore-20150621.csv,137,Martin Nymann,32,---,DNK,00:32:10,02:25:22,01:29:38,00:05:23,00:01:06,04:33:39
+ironman-70.3-elsinore-20150621.csv,138,Morten Wilms,32,---,DNK,00:42:11,02:45:58,01:47:04,00:08:49,00:03:42,05:27:44
+ironman-70.3-elsinore-20150621.csv,139,Michael Pedersen,32,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,140,Kenneth Fyrst,32,---,DNK,00:43:27,02:48:24,02:11:26,00:08:55,00:02:33,05:54:45
+ironman-70.3-elsinore-20150621.csv,141,Daniel Hessellund,32,DK,DNK,00:41:19,02:47:35,02:24:54,00:09:26,00:04:14,06:07:28
+ironman-70.3-elsinore-20150621.csv,142,Carl Schnell,32,---,SWE,00:47:29,02:36:44,02:04:02,00:06:59,00:02:32,05:37:46
+ironman-70.3-elsinore-20150621.csv,143,Sondre Langli,32,---,NOR,00:34:31,02:46:56,01:49:44,00:07:52,00:02:41,05:21:44
+ironman-70.3-elsinore-20150621.csv,144,Morten Søfeldt,32,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,145,Tobias Laier Sonne,32,---,DNK,00:38:19,02:39:17,01:49:43,00:07:57,00:02:53,05:18:09
+ironman-70.3-elsinore-20150621.csv,146,Joseph Gerrard Rogan,32,---,IRL,00:33:28,02:40:33,01:37:49,00:04:44,00:03:04,04:59:38
+ironman-70.3-elsinore-20150621.csv,147,Nicolas Del Prado,32,---,ESP,00:31:49,02:32:12,01:28:55,00:06:08,00:01:20,04:40:24
+ironman-70.3-elsinore-20150621.csv,148,Kasper Berner,33,DK,DNK,00:56:40,02:57:59,02:24:33,00:09:58,00:04:12,06:33:22
+ironman-70.3-elsinore-20150621.csv,149,Emil Fosbøl,33,---,DNK,00:32:48,03:05:44,02:05:38,00:08:17,00:03:18,05:55:45
+ironman-70.3-elsinore-20150621.csv,150,Kristian Skjoldjensen,33,---,DNK,00:40:20,02:47:49,01:36:13,00:08:31,00:03:03,05:15:56
+ironman-70.3-elsinore-20150621.csv,151,Bjarke Johnsen,33,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,152,Kristoffer Espinoza,33,---,DNK,00:32:50,02:37:26,01:34:59,00:06:04,00:02:14,04:53:33
+ironman-70.3-elsinore-20150621.csv,153,Thomas Harder,33,---,DNK,00:37:55,02:37:08,01:39:49,00:06:11,00:07:06,05:08:09
+ironman-70.3-elsinore-20150621.csv,154,Anders Damgaard Eriksen,33,---,DNK,00:31:59,02:43:24,01:40:22,00:07:01,00:03:20,05:06:06
+ironman-70.3-elsinore-20150621.csv,155,Morten Juhl Noersten,33,---,DNK,00:32:53,02:24:42,01:31:09,00:04:35,00:01:16,04:34:35
+ironman-70.3-elsinore-20150621.csv,156,Michael Birksø,33,---,DNK,00:38:52,02:36:46,01:40:02,00:06:21,00:02:51,05:04:52
+ironman-70.3-elsinore-20150621.csv,157,Michael Berlin,33,---,DNK,00:35:53,02:36:09,01:50:13,00:06:00,00:02:01,05:10:16
+ironman-70.3-elsinore-20150621.csv,158,Anders Normann Petersen,33,---,DNK,00:34:37,02:37:15,01:54:36,00:09:43,00:03:39,05:19:50
+ironman-70.3-elsinore-20150621.csv,159,Kasper Kandler,33,DK,DNK,00:38:17,03:01:25,---,00:11:11,00:05:25,DNF
+ironman-70.3-elsinore-20150621.csv,160,Kristian Bech Safft,33,---,DNK,00:41:31,02:59:47,01:36:57,00:09:27,00:05:07,05:32:49
+ironman-70.3-elsinore-20150621.csv,161,Darren Christopher Kelly,33,---,IRL,00:29:11,02:31:23,---,00:04:35,---,DNF
+ironman-70.3-elsinore-20150621.csv,162,Johnny Kedan Thomsen,33,---,DNK,00:36:18,02:44:59,01:41:58,00:10:12,00:02:31,05:15:58
+ironman-70.3-elsinore-20150621.csv,163,Rune Bøgeskov Tørnkvist Nielsen,33,---,DNK,00:38:39,02:44:23,01:53:51,00:07:26,00:03:56,05:28:15
+ironman-70.3-elsinore-20150621.csv,164,Erik Andersen,---,NO,NOR,00:42:38,02:34:35,01:27:42,00:08:05,00:02:39,04:55:39
+ironman-70.3-elsinore-20150621.csv,165,Daniel Montigny,33,---,DNK,00:49:12,02:44:41,01:56:56,00:11:12,00:04:27,05:46:28
+ironman-70.3-elsinore-20150621.csv,166,Morten Maarup Pedersen,33,---,DNK,00:36:00,02:49:50,01:45:00,00:07:24,00:02:51,05:21:05
+ironman-70.3-elsinore-20150621.csv,167,Rune Serup Overgaard,33,---,DNK,00:39:22,03:08:32,01:52:29,00:09:32,00:03:31,05:53:26
+ironman-70.3-elsinore-20150621.csv,168,Steven Munday,33,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,169,Jørgen Petersen,33,---,DNK,00:41:55,03:04:00,02:04:28,00:12:08,00:07:15,06:09:46
+ironman-70.3-elsinore-20150621.csv,170,Fabian Spies,33,Hamburg,DEU,00:47:26,02:39:14,01:48:01,00:07:59,00:03:01,05:25:41
+ironman-70.3-elsinore-20150621.csv,171,Jakob Svendsen,33,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,172,Istvan Deak,33,---,HUN,00:37:40,02:37:26,01:40:23,00:08:27,00:03:06,05:07:02
+ironman-70.3-elsinore-20150621.csv,173,Hans Bager,33,---,DNK,00:41:28,03:11:23,02:09:12,00:11:48,00:04:34,06:18:25
+ironman-70.3-elsinore-20150621.csv,174,Jacobus Van Der Lingen,33,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,175,Martin Toft Sørensen,33,---,DNK,00:40:49,02:56:37,02:20:29,00:06:23,00:01:56,06:06:14
+ironman-70.3-elsinore-20150621.csv,176,Rasmus Friis Kronborg,33,---,DNK,00:37:30,02:29:10,01:39:06,00:06:09,00:01:40,04:53:35
+ironman-70.3-elsinore-20150621.csv,177,Søren Baunø Nielsen,33,---,DNK,00:36:29,03:28:08,02:03:23,00:11:41,00:06:32,06:26:13
+ironman-70.3-elsinore-20150621.csv,178,Lasse Østerlund Gram,33,---,DNK,00:46:05,03:21:29,02:06:53,00:12:32,00:03:48,06:30:47
+ironman-70.3-elsinore-20150621.csv,179,Jacob Frimand Raft,33,---,DNK,00:33:55,02:41:01,01:50:46,00:06:59,00:02:18,05:14:59
+ironman-70.3-elsinore-20150621.csv,180,Jesper Nordal Larsen,33,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,181,Anders Nyberg,33,DK,DNK,00:36:15,02:16:20,01:20:26,00:05:05,00:00:56,04:19:02
+ironman-70.3-elsinore-20150621.csv,182,Kasper Zoffmann Jessen,33,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,183,Skipper Hansen,33,---,DNK,00:27:22,02:34:10,01:42:38,00:07:17,00:03:09,04:54:36
+ironman-70.3-elsinore-20150621.csv,184,Björn Schröder,34,---,DEU,00:29:56,02:32:27,01:32:53,00:06:20,00:01:45,04:43:21
+ironman-70.3-elsinore-20150621.csv,185,Ivan Scavenius,34,DK,DNK,00:43:47,02:32:20,01:52:28,00:10:15,00:04:55,05:23:45
+ironman-70.3-elsinore-20150621.csv,186,Thomas Bergonel,34,---,DNK,00:44:54,02:34:36,01:57:37,00:05:36,00:02:20,05:25:03
+ironman-70.3-elsinore-20150621.csv,187,Amado Chapa,34,---,MEX,00:32:51,02:27:02,01:46:17,00:06:06,00:02:11,04:54:27
+ironman-70.3-elsinore-20150621.csv,188,Christian Flindt,34,---,DNK,00:42:03,03:00:57,01:53:34,00:08:56,00:03:37,05:49:07
+ironman-70.3-elsinore-20150621.csv,189,Tonny Jensen,34,---,DNK,00:31:44,02:31:31,01:41:27,00:05:12,00:01:55,04:51:49
+ironman-70.3-elsinore-20150621.csv,190,Michael Gehrke,34,---,DNK,00:51:43,02:42:33,02:19:57,00:09:43,00:03:36,06:07:32
+ironman-70.3-elsinore-20150621.csv,191,Jakob Skipper Nielsen,34,---,DNK,00:49:24,02:49:49,01:37:25,00:06:52,00:01:53,05:25:23
+ironman-70.3-elsinore-20150621.csv,192,Kenneth Smeby,34,---,NOR,00:39:29,02:27:00,01:16:52,00:04:35,00:01:46,04:29:42
+ironman-70.3-elsinore-20150621.csv,193,Kenneth Mattisson,34,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,194,Ati Ertugrul Seker,34,---,DNK,00:41:37,02:51:09,02:20:41,00:10:31,00:03:47,06:07:45
+ironman-70.3-elsinore-20150621.csv,195,Søren Ahlqvist Persson,34,---,DNK,00:38:07,02:49:53,02:06:21,00:08:19,00:02:16,05:44:56
+ironman-70.3-elsinore-20150621.csv,196,Vladimir Chen,34,---,UZB,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,197,Søren Rohde,34,---,DNK,00:32:32,02:21:27,01:28:38,00:04:56,00:01:42,04:29:15
+ironman-70.3-elsinore-20150621.csv,198,Michael Hegelund Kierstein,34,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,199,Martin Ahm Hansen,34,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,200,Morten Scheibye,34,---,DNK,00:37:25,02:40:27,01:51:35,00:07:05,00:04:09,05:20:41
+ironman-70.3-elsinore-20150621.csv,201,Paw De Sparra Lundin,34,---,DNK,00:43:04,02:52:06,01:48:10,00:08:34,00:03:23,05:35:17
+ironman-70.3-elsinore-20150621.csv,202,Ulrik Oldenburg,34,---,DNK,00:36:01,02:24:27,01:36:35,00:04:44,00:01:53,04:43:40
+ironman-70.3-elsinore-20150621.csv,203,Gareth Kelly,34,---,IRL,00:30:22,02:36:31,01:37:30,00:05:14,00:02:24,04:52:01
+ironman-70.3-elsinore-20150621.csv,204,Christian Fries,34,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,205,Carsten Fries,34,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,206,Stephen Jacobsen,34,Merseyside,GBR,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,207,Neil Decker,34,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,208,Kristian Midtgaard,34,DK,DNK,00:37:55,02:35:47,01:35:38,00:07:25,00:02:53,04:59:38
+ironman-70.3-elsinore-20150621.csv,209,Johannes Lange,34,---,DEU,00:51:40,02:58:39,02:20:29,00:08:18,00:03:20,06:22:26
+ironman-70.3-elsinore-20150621.csv,210,Niels Bjoernlund,34,DK,DNK,00:44:18,02:32:36,01:40:26,00:07:59,00:02:02,05:07:21
+ironman-70.3-elsinore-20150621.csv,211,Thomas Lawaetz,34,DK,DNK,00:34:15,02:24:42,01:23:15,00:04:35,00:01:43,04:28:30
+ironman-70.3-elsinore-20150621.csv,212,Morten Eklöf Risager,34,---,DNK,00:36:41,02:43:11,01:30:40,00:04:33,00:02:10,04:57:15
+ironman-70.3-elsinore-20150621.csv,213,Marcus Eriksson,34,DK,SWE,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,214,Daniel Stephansen,34,---,DNK,00:33:31,02:39:39,01:39:15,00:07:22,00:02:19,05:02:06
+ironman-70.3-elsinore-20150621.csv,215,Lars Schellerup Hornstrøm,34,DK,DNK,00:30:25,02:49:13,02:02:39,00:07:01,00:05:27,05:34:45
+ironman-70.3-elsinore-20150621.csv,216,Jes Frost Vandkrog,34,---,DNK,00:37:59,02:30:47,01:45:46,00:08:09,00:02:39,05:05:20
+ironman-70.3-elsinore-20150621.csv,217,Morten Overgaard,34,---,DNK,00:35:44,02:34:52,01:38:59,00:08:15,00:02:46,05:00:36
+ironman-70.3-elsinore-20150621.csv,218,Nicolai Hammenfors,34,---,DNK,00:42:12,02:48:23,01:53:37,00:09:18,00:03:57,05:37:27
+ironman-70.3-elsinore-20150621.csv,219,Konstantinos Ntafalias,34,---,GRC,00:41:46,02:34:02,01:49:43,00:05:29,00:01:37,05:12:37
+ironman-70.3-elsinore-20150621.csv,220,Brynjulf Mortensen,34,---,DNK,00:37:57,02:26:13,01:39:17,00:05:30,00:01:35,04:50:32
+ironman-70.3-elsinore-20150621.csv,221,Leandro Spinardi,34,---,BRA,00:35:17,02:47:09,01:50:40,00:07:06,00:03:57,05:24:09
+ironman-70.3-elsinore-20150621.csv,222,Marius Thovsland,34,NO,NOR,00:34:50,02:41:58,01:45:40,00:05:06,00:02:15,05:09:49
+ironman-70.3-elsinore-20150621.csv,223,Niels Peter Bækhøj Sørensen,35,DK,DNK,00:32:56,02:25:12,01:55:59,00:05:49,00:02:01,05:01:57
+ironman-70.3-elsinore-20150621.csv,224,Henrik Olsen,35,---,DNK,00:43:45,02:38:07,01:44:05,00:07:42,00:03:28,05:17:07
+ironman-70.3-elsinore-20150621.csv,225,Andreas Lund,35,---,DNK,00:30:32,02:57:40,02:04:47,00:05:50,00:02:39,05:41:28
+ironman-70.3-elsinore-20150621.csv,226,Martin Witt,35,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,227,Lasse Hansen,35,---,DNK,00:56:19,03:12:26,02:08:08,00:08:29,00:01:44,06:27:06
+ironman-70.3-elsinore-20150621.csv,228,Ola Magnevall,35,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,229,Peter Søndergaard,35,---,DNK,00:44:21,03:02:21,02:04:49,00:07:05,00:03:33,06:02:09
+ironman-70.3-elsinore-20150621.csv,230,Paw Bruun Larsen,35,---,DNK,00:38:57,02:33:50,01:48:01,00:06:25,00:02:50,05:10:03
+ironman-70.3-elsinore-20150621.csv,231,Anders Solbjerg Sørensen,35,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,232,Casper Devantier,35,---,DNK,00:35:19,02:35:44,01:57:57,00:08:20,00:09:19,05:26:39
+ironman-70.3-elsinore-20150621.csv,233,Barlas Kazanci,35,kadikoy,TUR,00:27:33,02:33:30,01:21:40,00:04:44,00:01:10,04:28:37
+ironman-70.3-elsinore-20150621.csv,234,Philip Roque Concillado,35,---,PHL,00:40:57,02:36:04,01:58:42,00:10:35,00:04:35,05:30:53
+ironman-70.3-elsinore-20150621.csv,235,Johannes Kronstad,35,---,NOR,00:43:36,02:47:10,02:06:43,00:09:24,00:05:30,05:52:23
+ironman-70.3-elsinore-20150621.csv,236,Jesper Jonsson,35,---,SWE,00:55:33,03:15:45,02:33:09,00:07:11,00:05:07,06:56:45
+ironman-70.3-elsinore-20150621.csv,237,Jürgen Schugardt,35,---,DNK,00:46:50,03:02:47,01:54:25,00:08:49,00:04:16,05:57:07
+ironman-70.3-elsinore-20150621.csv,238,Kenneth Kristiansen,35,---,DNK,00:41:56,02:50:27,01:50:26,00:08:16,00:03:52,05:34:57
+ironman-70.3-elsinore-20150621.csv,239,Kristoffer Gunnløgsson,35,---,DNK,00:45:31,02:52:32,01:51:10,00:09:37,00:04:02,05:42:52
+ironman-70.3-elsinore-20150621.csv,240,Morten Rasmussen,35,---,DNK,00:41:43,03:00:08,02:03:14,00:08:01,00:04:17,05:57:23
+ironman-70.3-elsinore-20150621.csv,241,Thomas Flindt,35,---,DNK,00:38:56,02:38:03,01:46:56,00:05:58,00:01:53,05:11:46
+ironman-70.3-elsinore-20150621.csv,242,Lars Peter Bloch Pedersen,35,DK,DNK,00:30:34,02:34:36,01:34:42,00:05:31,00:02:34,04:47:57
+ironman-70.3-elsinore-20150621.csv,243,Dennis Seiler-Holm,35,---,DNK,00:38:05,02:46:09,02:18:04,00:08:21,00:03:58,05:54:37
+ironman-70.3-elsinore-20150621.csv,244,Ronnie Kandler,35,DK,DNK,00:38:23,02:51:23,02:06:07,00:11:28,00:04:40,05:52:01
+ironman-70.3-elsinore-20150621.csv,245,Lars Madsen,35,---,DNK,00:33:09,02:20:00,01:28:01,00:04:24,00:01:35,04:27:09
+ironman-70.3-elsinore-20150621.csv,246,Alexander Hannemann,35,---,DEU,00:34:37,02:31:26,01:46:11,00:04:59,00:01:59,04:59:12
+ironman-70.3-elsinore-20150621.csv,247,Michael Christensen,35,---,DNK,00:34:23,02:35:33,01:37:05,00:06:28,00:02:22,04:55:51
+ironman-70.3-elsinore-20150621.csv,248,Jeppe Nielsen,35,DK,DNK,00:30:44,02:27:08,01:27:09,00:04:46,00:01:14,04:31:01
+ironman-70.3-elsinore-20150621.csv,249,Ivar Rosendal,35,---,DNK,00:39:51,02:52:41,01:42:45,00:11:26,00:04:54,05:31:37
+ironman-70.3-elsinore-20150621.csv,250,Per Thorsen,35,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,251,Henrik Beierholm,35,---,DNK,00:37:56,02:44:07,01:48:29,00:10:47,00:04:38,05:25:57
+ironman-70.3-elsinore-20150621.csv,252,Kuno Bramsen,---,---,DNK,00:34:18,02:38:54,01:31:41,00:06:12,00:02:44,04:53:49
+ironman-70.3-elsinore-20150621.csv,253,Liam Bek,35,Lancashire,GBR,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,254,Thomas Møller,35,---,DNK,00:35:54,02:43:50,01:37:26,00:10:03,00:03:28,05:10:41
+ironman-70.3-elsinore-20150621.csv,255,Nico Moligian,35,---,DNK,00:42:51,02:40:29,02:03:55,00:14:12,00:06:41,05:48:08
+ironman-70.3-elsinore-20150621.csv,256,Morten Daniel Rasmussen,35,---,DNK,00:37:19,02:27:54,01:31:33,00:06:56,00:05:50,04:49:32
+ironman-70.3-elsinore-20150621.csv,257,Henrik Vestergård Jensen,35,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,258,Mark Van Daalen,35,---,DNK,00:40:59,02:33:16,01:32:54,00:05:39,00:01:48,04:54:36
+ironman-70.3-elsinore-20150621.csv,259,Jakob Kula Enevoldsen,35,---,DNK,00:34:43,02:37:36,02:22:06,00:06:09,00:02:00,05:42:34
+ironman-70.3-elsinore-20150621.csv,260,Daniel Espholin,36,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,261,Thomas Olsen,36,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,262,Ronni Damsgaard,36,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,263,Peter Svith Poulsen,36,---,DNK,00:42:07,02:44:34,01:37:11,00:09:12,00:03:10,05:16:14
+ironman-70.3-elsinore-20150621.csv,264,Jesper Guldbech,36,---,DNK,00:40:39,02:38:21,02:11:53,00:06:21,00:01:46,05:39:00
+ironman-70.3-elsinore-20150621.csv,265,Eric Llull,36,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,266,Michael Skaastrup,36,DK,DNK,00:36:02,02:37:58,01:52:37,00:06:26,00:02:41,05:15:44
+ironman-70.3-elsinore-20150621.csv,267,Mads Duedahl,36,---,DNK,00:41:01,02:47:03,01:45:05,00:06:05,00:02:33,05:21:47
+ironman-70.3-elsinore-20150621.csv,268,Robert Steen,36,---,NOR,00:37:28,02:26:36,01:29:01,00:05:29,00:01:37,04:40:11
+ironman-70.3-elsinore-20150621.csv,269,Jacob Krogsgaard Vraadal Riise,36,DK,DNK,00:30:06,02:27:43,02:04:40,00:05:33,00:01:50,05:09:52
+ironman-70.3-elsinore-20150621.csv,270,Ted Kelm,36,---,DNK,00:36:21,02:36:17,01:39:04,00:06:15,00:01:43,04:59:40
+ironman-70.3-elsinore-20150621.csv,271,Alf-Petter Halle,36,NO,NOR,00:35:47,02:28:45,01:28:22,00:05:33,00:02:03,04:40:30
+ironman-70.3-elsinore-20150621.csv,272,Kasper Nellemann Nielsen,36,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,273,Jens Grønkjær Sjølander Pihl,36,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,274,Marco De Leo,36,Intl State,ITA,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,275,Morten Unn Hansen,36,---,DNK,00:41:11,02:42:36,01:44:06,00:09:09,00:02:36,05:19:38
+ironman-70.3-elsinore-20150621.csv,276,Jacob Meincke,36,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,277,Dennis Grønbæk Pedersen,36,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,278,Maciej Dowbor,36,---,POL,00:27:54,02:26:59,01:35:12,00:04:13,00:01:19,04:35:37
+ironman-70.3-elsinore-20150621.csv,279,Christian Oboza Vind Beier,36,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,280,Alexander Krivolapov,36,Moscow,RUS,00:41:42,02:39:43,01:44:47,00:06:44,00:04:41,05:17:37
+ironman-70.3-elsinore-20150621.csv,281,Peter Larsen,36,---,DNK,00:46:48,02:27:51,01:52:34,00:07:28,00:03:40,05:18:21
+ironman-70.3-elsinore-20150621.csv,282,Christian Nilsson,36,---,SWE,00:39:40,03:07:12,01:56:15,00:07:49,00:03:28,05:54:24
+ironman-70.3-elsinore-20150621.csv,283,Thomas Ringsted,36,DK,DNK,00:30:07,02:19:58,01:26:19,00:05:08,00:02:22,04:23:54
+ironman-70.3-elsinore-20150621.csv,284,Johan Hildebrand,36,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,285,Sebastiano Immè,36,---,ITA,00:27:04,02:34:07,01:35:46,00:04:48,00:02:39,04:44:24
+ironman-70.3-elsinore-20150621.csv,286,Martin Brinch Therkelsen,36,---,DNK,00:40:00,02:34:00,01:50:30,00:06:12,00:02:16,05:12:58
+ironman-70.3-elsinore-20150621.csv,287,Brian Vad Mathiesen,36,---,DNK,00:41:30,02:38:32,01:50:22,00:08:05,00:04:09,05:22:38
+ironman-70.3-elsinore-20150621.csv,288,Mads Korsager,36,DK,DNK,00:39:05,02:32:00,01:35:09,00:04:49,00:02:18,04:53:21
+ironman-70.3-elsinore-20150621.csv,289,Mariano Cristobal Lopez,36,---,ESP,00:35:22,02:33:13,01:49:14,00:05:36,00:04:07,05:07:32
+ironman-70.3-elsinore-20150621.csv,290,Thomas Gammelvind,36,---,DNK,00:37:57,02:36:33,01:31:32,00:09:17,00:03:33,04:58:52
+ironman-70.3-elsinore-20150621.csv,291,Michael Anker Kristensen,36,---,DNK,00:44:20,02:59:45,02:24:27,00:13:53,00:06:22,06:28:47
+ironman-70.3-elsinore-20150621.csv,292,Rune Goldschmidt Ruders,36,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,293,Christian Payne,36,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,294,Morten Aurvig Lystlund Brøndum,36,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,295,Jonas Klit,36,---,DNK,00:36:09,02:29:32,01:33:14,00:04:29,00:01:34,04:44:58
+ironman-70.3-elsinore-20150621.csv,296,Joachim Wogstad Skjelsbæk,36,NO,NOR,02:39:09,---,---,---,---,DNF
+ironman-70.3-elsinore-20150621.csv,297,Thomas Voller,36,---,DNK,00:34:26,02:57:33,01:53:19,00:07:27,00:03:39,05:36:24
+ironman-70.3-elsinore-20150621.csv,298,Ulf Lundh,36,---,SWE,00:40:14,03:14:11,01:54:04,00:08:41,00:02:26,05:59:36
+ironman-70.3-elsinore-20150621.csv,299,Fernando Maellas,36,NJ,ESP,00:33:52,02:41:37,01:39:40,00:10:13,00:02:40,05:08:02
+ironman-70.3-elsinore-20150621.csv,300,Kenneth Ejsenhardt,36,---,DNK,00:35:58,02:16:58,01:38:47,00:04:45,00:01:31,04:37:59
+ironman-70.3-elsinore-20150621.csv,301,Michael Nørby,36,---,DNK,00:37:53,02:35:22,01:45:21,00:07:21,00:02:23,05:08:20
+ironman-70.3-elsinore-20150621.csv,302,Klaus Søe Rylov,36,---,DNK,00:39:20,02:27:35,01:41:19,00:06:41,00:01:56,04:56:51
+ironman-70.3-elsinore-20150621.csv,303,Niels-Peter Brun,36,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,304,Martin Irgens Ronã¦s,36,---,NOR,00:32:23,02:39:13,01:47:41,00:06:18,00:02:51,05:08:26
+ironman-70.3-elsinore-20150621.csv,305,Claus Kurtzmann,37,---,DNK,00:37:45,03:02:38,02:02:10,00:08:17,00:04:03,05:54:53
+ironman-70.3-elsinore-20150621.csv,306,Fredrik Eklund,37,Pietarsaari,FIN,00:34:53,02:35:05,01:27:15,00:04:24,00:01:49,04:43:26
+ironman-70.3-elsinore-20150621.csv,307,Anders Daugberg,37,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,308,Mikkel Dichow Henriksen,37,---,DNK,00:44:31,02:44:08,01:32:36,00:07:16,00:02:47,05:11:18
+ironman-70.3-elsinore-20150621.csv,309,Emerik Schultz-Petersen,37,---,DNK,00:55:11,03:06:41,02:47:43,00:14:40,00:09:01,07:13:16
+ironman-70.3-elsinore-20150621.csv,310,Allan Jonsgaard Larsen,37,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,311,Brian Jensen,37,---,DNK,00:43:14,02:35:40,01:48:37,00:07:14,00:02:50,05:17:35
+ironman-70.3-elsinore-20150621.csv,312,Paulo Antunes,37,Other,PRT,00:24:49,02:22:55,01:22:17,00:03:55,00:01:26,04:15:22
+ironman-70.3-elsinore-20150621.csv,313,Stefan Strandbygaard,37,---,DNK,00:38:57,02:53:15,01:53:47,00:09:08,00:03:08,05:38:15
+ironman-70.3-elsinore-20150621.csv,314,Thomas Lytzen,37,DK,DNK,00:44:57,02:33:33,01:35:52,00:06:52,00:02:10,05:03:24
+ironman-70.3-elsinore-20150621.csv,315,Mats Tikjøb,37,---,DNK,---,---,---,---,---,DQ
+ironman-70.3-elsinore-20150621.csv,316,Søren Birkebæk,37,---,DNK,00:31:46,02:27:43,01:55:57,00:04:50,00:01:56,05:02:12
+ironman-70.3-elsinore-20150621.csv,317,Jonas Bjørn Hansen,37,---,DNK,00:36:00,02:32:12,01:50:34,00:06:39,00:02:46,05:08:11
+ironman-70.3-elsinore-20150621.csv,318,Jonas Nielsen,37,---,DNK,00:30:32,02:33:18,01:45:33,00:05:06,00:01:48,04:56:17
+ironman-70.3-elsinore-20150621.csv,319,Leif Messerschmidt,37,---,DEU,00:35:14,02:35:44,01:34:19,00:06:23,00:01:26,04:53:06
+ironman-70.3-elsinore-20150621.csv,320,Dan Bralye,37,---,DNK,00:42:54,02:20:16,02:01:43,00:05:34,00:01:42,05:12:09
+ironman-70.3-elsinore-20150621.csv,321,Johan Carlsgart,37,---,DNK,00:34:42,02:39:26,01:53:44,00:05:42,00:02:09,05:15:43
+ironman-70.3-elsinore-20150621.csv,322,Nikolaj Jacobsen,37,---,DNK,00:39:32,02:51:55,01:46:29,00:08:12,00:04:18,05:30:26
+ironman-70.3-elsinore-20150621.csv,323,Martin Nielsen,37,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,324,Jacob Diemar,37,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,325,Olivier Marien,37,---,FRA,00:33:23,02:51:36,01:53:57,00:06:29,00:01:44,05:27:09
+ironman-70.3-elsinore-20150621.csv,326,Gennady Atroshchenko,37,---,RUS,00:33:45,02:47:19,01:52:09,00:07:47,00:04:01,05:25:01
+ironman-70.3-elsinore-20150621.csv,327,Manuel Arroyo,37,ES,ESP,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,328,Christian Hansen,37,---,DNK,00:36:19,02:34:41,01:56:46,00:06:34,00:02:31,05:16:51
+ironman-70.3-elsinore-20150621.csv,329,Peter Silva Olesen,37,---,DNK,00:45:24,02:34:38,01:51:07,00:11:02,00:03:23,05:25:34
+ironman-70.3-elsinore-20150621.csv,330,Rune Ebersbach Højfeldt,37,---,DNK,00:42:39,02:40:02,01:38:35,00:07:28,00:01:46,05:10:30
+ironman-70.3-elsinore-20150621.csv,331,Jakob Reenberg Tolversen,37,---,DNK,00:36:05,02:43:15,01:33:40,00:06:39,00:04:25,05:04:04
+ironman-70.3-elsinore-20150621.csv,332,Peter Hallengreen,37,---,DNK,01:02:13,03:04:41,02:12:34,00:10:30,00:05:24,06:35:22
+ironman-70.3-elsinore-20150621.csv,333,Kent Skovdam,37,---,DNK,00:45:10,03:07:45,01:48:12,00:13:47,00:04:19,05:59:13
+ironman-70.3-elsinore-20150621.csv,334,Søren Rasmussen,37,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,335,Jesper Avnborg Lentz,37,---,DNK,00:39:26,02:32:42,01:33:33,00:07:28,00:02:54,04:56:03
+ironman-70.3-elsinore-20150621.csv,336,Jacob Sandberg,37,---,DNK,00:41:08,02:39:44,01:50:27,00:06:40,00:03:33,05:21:32
+ironman-70.3-elsinore-20150621.csv,337,Joachim Vaughan,---,---,DNK,00:41:04,02:35:09,02:40:04,00:10:56,00:03:23,06:10:36
+ironman-70.3-elsinore-20150621.csv,338,Eusebio Ramon Martinez,37,---,ESP,00:33:51,02:30:01,01:42:16,00:06:15,00:01:32,04:53:55
+ironman-70.3-elsinore-20150621.csv,339,Mathias Krogsgaard Nielsen,37,---,DNK,00:39:28,02:52:52,01:43:01,00:06:45,00:05:14,05:27:20
+ironman-70.3-elsinore-20150621.csv,340,Michael Rune Rasmussen,37,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,341,Mads Dolleris,37,---,DNK,00:44:30,02:30:26,01:29:29,00:07:27,00:02:44,04:54:36
+ironman-70.3-elsinore-20150621.csv,342,Axel Hellriegel,37,---,DEU,---,---,---,---,---,DQ
+ironman-70.3-elsinore-20150621.csv,343,Bjarke Geel Schnipper Weirsøe,38,---,DNK,00:49:20,02:58:24,---,00:11:15,00:05:03,DNF
+ironman-70.3-elsinore-20150621.csv,344,Thomas Trampedach,38,---,DNK,00:33:34,02:23:36,01:25:48,00:05:25,00:01:23,04:29:46
+ironman-70.3-elsinore-20150621.csv,345,Erik Rask,38,---,SWE,00:41:12,02:44:38,01:57:22,00:09:09,00:09:33,05:41:54
+ironman-70.3-elsinore-20150621.csv,346,Mikkel Fisker,38,---,DNK,00:45:59,03:00:02,01:53:56,00:07:04,00:03:53,05:50:54
+ironman-70.3-elsinore-20150621.csv,347,René Wismar,38,---,DNK,00:44:42,02:49:48,02:22:02,00:09:24,00:03:25,06:09:21
+ironman-70.3-elsinore-20150621.csv,348,Alejandro Acosta,38,---,VEN,00:37:51,03:09:06,02:31:14,00:08:54,00:03:09,06:30:14
+ironman-70.3-elsinore-20150621.csv,349,Mikkel Andersen,---,DK,DNK,00:33:10,02:47:43,01:49:22,00:07:10,00:03:50,05:21:15
+ironman-70.3-elsinore-20150621.csv,350,Kasper Axel Sørensen,38,---,DNK,00:34:38,02:55:00,02:08:17,00:06:16,00:02:24,05:46:35
+ironman-70.3-elsinore-20150621.csv,351,Jochen Bauer,38,---,DEU,00:30:21,02:28:22,01:30:25,00:04:13,00:01:41,04:35:02
+ironman-70.3-elsinore-20150621.csv,352,Steen Andersen,38,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,353,Borja Ortiz,38,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,354,Martin Germann,38,---,DNK,00:46:46,02:48:39,01:42:42,00:10:06,00:04:06,05:32:19
+ironman-70.3-elsinore-20150621.csv,355,Lennart Wiggers-Ursin,38,DK,DNK,00:35:42,03:03:56,02:25:36,00:06:48,00:02:28,06:14:30
+ironman-70.3-elsinore-20150621.csv,356,William Bontje,37,---,NLD,00:46:44,---,---,---,---,DNF
+ironman-70.3-elsinore-20150621.csv,357,Poul Vestergaard,38,---,DNK,00:35:08,02:20:29,01:28:34,00:05:21,00:01:12,04:30:44
+ironman-70.3-elsinore-20150621.csv,358,Alex Christiansen,38,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,359,Linus Gottfridson,38,---,SWE,00:40:23,02:37:53,01:50:19,00:06:36,00:03:07,05:18:18
+ironman-70.3-elsinore-20150621.csv,360,Claus Ikjær Husballe,38,---,DNK,00:37:44,02:41:12,01:37:02,00:10:42,00:04:23,05:11:03
+ironman-70.3-elsinore-20150621.csv,361,Borja Puras Vazquez De Prada,38,ES,ESP,00:39:02,03:05:20,02:01:13,00:10:52,00:03:34,06:00:01
+ironman-70.3-elsinore-20150621.csv,362,Morten Villadsen,38,---,DNK,00:33:02,02:31:24,01:36:26,00:05:04,00:01:18,04:47:14
+ironman-70.3-elsinore-20150621.csv,363,Jakob Wegge-Larsen,38,---,DNK,00:46:44,02:34:51,02:04:39,00:08:45,00:04:22,05:39:21
+ironman-70.3-elsinore-20150621.csv,364,Jacob Fredløv,38,---,DNK,00:31:31,02:39:13,01:56:43,00:07:02,00:03:35,05:18:04
+ironman-70.3-elsinore-20150621.csv,365,Leonardo Aranha,38,Intl State,BRA,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,366,René Andreasen,38,---,DNK,00:39:10,02:47:39,01:58:15,00:09:08,00:02:30,05:36:42
+ironman-70.3-elsinore-20150621.csv,367,Allan Jørgensen,38,---,DNK,00:35:51,02:39:16,01:53:32,00:09:27,00:02:38,05:20:44
+ironman-70.3-elsinore-20150621.csv,368,Teemu Tolvanen,38,Vantaa,FIN,00:37:34,02:41:47,01:43:27,00:06:49,00:02:43,05:12:20
+ironman-70.3-elsinore-20150621.csv,369,Mattias Vildevik,38,---,SWE,00:34:12,02:35:32,01:40:30,00:08:13,00:01:37,05:00:04
+ironman-70.3-elsinore-20150621.csv,370,Palle Bro Hansen,38,---,DNK,00:50:57,02:39:34,01:45:36,00:13:35,00:04:03,05:33:45
+ironman-70.3-elsinore-20150621.csv,371,Kristian Rivera,38,---,MEX,00:47:23,02:59:54,01:58:22,00:09:58,00:03:45,05:59:22
+ironman-70.3-elsinore-20150621.csv,372,Martin Jønck,38,---,DNK,00:41:25,02:32:54,01:41:30,00:11:07,00:02:03,05:08:59
+ironman-70.3-elsinore-20150621.csv,373,Martin Fog Lihme,38,---,DNK,00:36:10,03:17:25,02:01:14,00:13:14,00:03:37,06:11:40
+ironman-70.3-elsinore-20150621.csv,374,Jesper Eriksson,38,---,SWE,00:36:14,03:14:49,---,00:10:36,00:08:22,DNF
+ironman-70.3-elsinore-20150621.csv,375,Michael Gramkow,38,---,DNK,00:57:55,03:07:46,02:21:31,00:14:56,00:08:52,06:51:00
+ironman-70.3-elsinore-20150621.csv,376,Javier Pascual,38,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,377,Rasmus Tomi-Gottschau,38,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,378,Lars Frost,38,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,379,René Christiansen,38,---,DNK,00:40:33,02:40:48,02:08:25,00:07:23,00:02:53,05:40:02
+ironman-70.3-elsinore-20150621.csv,380,Morten Larsen,38,---,DNK,00:47:21,02:31:35,01:55:15,00:08:22,00:03:42,05:26:15
+ironman-70.3-elsinore-20150621.csv,381,Morten Garly Andersen,38,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,382,Casper Rossen,38,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,383,Michael Jensen,38,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,384,Christian Sj�man,38,---,SWE,00:39:13,02:41:41,02:00:34,00:09:51,00:05:49,05:37:08
+ironman-70.3-elsinore-20150621.csv,385,Brian Østergaard,38,---,DNK,00:43:28,02:51:06,01:50:43,00:07:30,00:02:22,05:35:09
+ironman-70.3-elsinore-20150621.csv,386,Rasmus Jørgensen,38,---,DNK,00:45:12,02:35:45,01:40:31,00:07:17,00:03:15,05:12:00
+ironman-70.3-elsinore-20150621.csv,387,Jakob Øster,38,---,DNK,00:30:28,02:18:28,01:37:46,00:05:03,00:01:24,04:33:09
+ironman-70.3-elsinore-20150621.csv,388,Peter Thomsen,39,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,389,Luke Dragstra,38,---,CAN,00:26:55,02:25:22,01:21:24,00:03:52,00:01:07,04:18:40
+ironman-70.3-elsinore-20150621.csv,390,Moltas Henrik Berg,39,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,391,Nuri Acar,39,ANTALYA,TUR,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,392,Carsten Dyhrberg Sã¸rensen,39,---,DNK,00:31:49,02:30:42,01:36:44,00:05:40,00:01:47,04:46:42
+ironman-70.3-elsinore-20150621.csv,393,Paul Bowyer,39,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,394,Casper Walsøe,39,---,DNK,00:32:13,02:22:41,01:31:00,00:07:27,00:02:02,04:35:23
+ironman-70.3-elsinore-20150621.csv,395,Henrik Langsrud,39,---,NOR,00:45:43,03:09:00,02:24:19,00:07:49,00:02:51,06:29:42
+ironman-70.3-elsinore-20150621.csv,396,Koen Schmitz,38,NL,NLD,00:36:28,02:43:37,01:43:07,00:06:06,00:02:35,05:11:53
+ironman-70.3-elsinore-20150621.csv,397,Janus Nielsen,39,---,DNK,00:34:59,02:31:51,01:36:08,00:04:56,00:02:15,04:50:09
+ironman-70.3-elsinore-20150621.csv,398,Martin Perregaard-Bitsch,39,---,DNK,00:38:51,02:43:21,01:52:45,00:06:27,00:01:35,05:22:59
+ironman-70.3-elsinore-20150621.csv,399,Peter Tjerrild,39,---,DNK,00:40:46,02:44:57,01:49:41,00:08:13,00:02:32,05:26:09
+ironman-70.3-elsinore-20150621.csv,400,Martin Gjersøe Vedelsby,39,---,DNK,00:39:23,02:38:08,01:57:08,00:05:14,00:08:15,05:28:08
+ironman-70.3-elsinore-20150621.csv,401,Erik Jungeling,39,NO,NOR,00:39:07,---,---,00:10:54,---,DNF
+ironman-70.3-elsinore-20150621.csv,402,Jakob Østergaard Hegelund,39,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,403,Søren Jakobsen,39,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,404,Peter Rona,39,---,DNK,00:38:13,02:43:22,01:52:48,00:07:38,00:02:48,05:24:49
+ironman-70.3-elsinore-20150621.csv,405,Stephen Edward Haun,39,---,USA,00:41:22,02:41:15,02:28:05,00:05:51,00:01:59,05:58:32
+ironman-70.3-elsinore-20150621.csv,406,Christian Orry Andersen,39,---,DNK,00:36:21,02:30:23,01:37:09,00:12:49,00:02:59,04:59:41
+ironman-70.3-elsinore-20150621.csv,407,Fredrik Jonas Rook,39,SE,SWE,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,408,Alexander Piorecki,39,---,DNK,00:40:54,02:49:44,01:36:16,00:09:18,00:03:02,05:19:14
+ironman-70.3-elsinore-20150621.csv,409,Bernd Mueller-Gerberding,39,---,DEU,00:43:00,02:43:12,01:45:38,00:11:00,00:03:16,05:26:06
+ironman-70.3-elsinore-20150621.csv,410,Anders Gibsholm,39,---,DNK,00:31:32,02:24:59,01:54:00,00:05:28,00:02:10,04:58:09
+ironman-70.3-elsinore-20150621.csv,411,Cecilie Abildgaard,29,---,DNK,00:35:03,02:37:23,01:42:23,00:05:18,00:02:31,05:02:38
+ironman-70.3-elsinore-20150621.csv,412,Karen Panum Thisted,29,---,DNK,00:31:39,03:02:32,02:02:29,00:08:32,00:07:08,05:52:20
+ironman-70.3-elsinore-20150621.csv,413,Ruth Brooker,29,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,414,Tilde Nygaard Hansen,29,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,415,Anna Eriksen,29,---,DNK,00:35:31,02:33:52,01:34:27,00:05:02,00:01:37,04:50:29
+ironman-70.3-elsinore-20150621.csv,416,Lærke Melander,29,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,417,Cecilie Meldgaard Goth,29,---,DNK,00:44:19,02:51:09,01:45:46,00:08:42,00:04:09,05:34:05
+ironman-70.3-elsinore-20150621.csv,418,Laura Nekiunaite,29,---,LTU,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,419,Stine Späth-Kolind,29,---,DNK,00:37:35,03:23:21,01:51:39,00:08:29,00:02:40,06:03:44
+ironman-70.3-elsinore-20150621.csv,420,Christina Sanderhoff Olsen,30,---,DNK,00:55:33,03:46:12,03:07:59,00:09:38,00:03:16,08:02:38
+ironman-70.3-elsinore-20150621.csv,421,Mette Gaarde Olesen,30,---,DNK,00:41:03,03:16:46,02:12:02,00:10:05,00:04:16,06:24:12
+ironman-70.3-elsinore-20150621.csv,422,Javier Menendez Gabielles,30,---,ESP,00:35:57,02:37:46,01:46:04,00:08:06,00:02:53,05:10:46
+ironman-70.3-elsinore-20150621.csv,423,Caroline Bäck,30,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,424,Charlotte Libach Johansen,30,---,DNK,00:39:52,02:35:40,01:42:59,00:08:00,00:02:58,05:09:29
+ironman-70.3-elsinore-20150621.csv,425,Maiken Mørch Hansen,30,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,426,Lindakatarina Ek,31,---,SWE,00:34:23,02:45:03,01:53:26,00:06:55,00:03:45,05:23:32
+ironman-70.3-elsinore-20150621.csv,427,Mette Bækgaard Olsen,31,---,DNK,00:35:26,02:42:16,01:38:57,00:05:10,00:01:57,05:03:46
+ironman-70.3-elsinore-20150621.csv,428,Maria Møller,31,DK,DNK,00:46:44,03:40:41,02:27:41,00:10:09,00:06:29,07:11:44
+ironman-70.3-elsinore-20150621.csv,429,Rohita Juggernauth,31,---,MUS,00:48:15,03:37:58,---,00:13:30,00:02:55,DNF
+ironman-70.3-elsinore-20150621.csv,430,Rebecca Karlsson,31,---,SWE,00:33:37,02:46:28,01:40:06,00:06:27,00:02:40,05:09:18
+ironman-70.3-elsinore-20150621.csv,431,Katrine Torndyb,31,DK,DNK,00:37:34,02:52:29,01:54:55,00:08:05,00:02:37,05:35:40
+ironman-70.3-elsinore-20150621.csv,432,Anette Bã¸gh Andresen,31,---,DNK,00:51:33,---,---,---,---,DNF
+ironman-70.3-elsinore-20150621.csv,433,Aniela Karina Sroczynski,31,---,DNK,00:51:31,03:04:31,02:15:43,00:10:27,00:03:55,06:26:07
+ironman-70.3-elsinore-20150621.csv,434,Lea Nielsen,31,---,DNK,00:43:49,03:21:34,02:23:11,00:08:19,00:03:19,06:40:12
+ironman-70.3-elsinore-20150621.csv,435,Rikke Derby Stistrup,31,---,DNK,00:45:45,03:27:31,02:00:42,00:08:27,00:03:29,06:25:54
+ironman-70.3-elsinore-20150621.csv,436,Mie Østergaard Pedersen,31,---,SWE,00:42:21,03:20:53,01:56:52,00:10:06,00:03:05,06:13:17
+ironman-70.3-elsinore-20150621.csv,437,Malene Mortensen,32,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,438,Celia Neves,32,---,FRA,00:41:39,03:01:43,01:58:33,00:06:32,00:02:47,05:51:14
+ironman-70.3-elsinore-20150621.csv,439,Monica Madsen,32,DK,DNK,00:46:44,02:50:51,01:45:34,00:05:56,00:01:51,05:30:56
+ironman-70.3-elsinore-20150621.csv,440,Anna Höjrup,32,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,441,Kia Bøgh Christensen,32,---,DNK,00:36:46,03:04:33,01:41:21,00:08:24,00:03:42,05:34:46
+ironman-70.3-elsinore-20150621.csv,442,Gry Klok Thomsen,32,---,DNK,00:37:23,03:00:49,02:40:12,00:07:09,00:01:44,06:27:17
+ironman-70.3-elsinore-20150621.csv,443,Christina Svejstrup,32,---,DNK,00:35:15,02:28:49,01:30:51,00:06:07,00:02:41,04:43:43
+ironman-70.3-elsinore-20150621.csv,444,Tanja Rasmussen,32,DK,DNK,00:53:37,02:58:58,02:04:46,00:07:51,00:02:50,06:08:02
+ironman-70.3-elsinore-20150621.csv,445,Katja Jul Roldsgaard,32,---,DNK,00:42:36,---,---,00:10:38,---,DNF
+ironman-70.3-elsinore-20150621.csv,446,Josephine Jørgensen,32,---,DNK,00:29:21,02:38:50,01:50:11,00:04:49,00:01:53,05:05:04
+ironman-70.3-elsinore-20150621.csv,447,Merete Vollmer,33,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,448,Marie Staubæk,33,---,DNK,00:41:33,02:43:27,01:55:57,00:06:39,00:03:09,05:30:45
+ironman-70.3-elsinore-20150621.csv,449,Anne Kjelstrup,33,DK,DNK,00:42:09,03:00:45,01:57:58,00:09:05,00:04:59,05:54:56
+ironman-70.3-elsinore-20150621.csv,450,Stinne Petersen,33,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,451,Heidi Boelsmand Hansen,33,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,452,Sarah Thorsen,33,---,DNK,00:35:43,02:42:10,01:40:07,00:05:03,00:01:57,05:05:00
+ironman-70.3-elsinore-20150621.csv,453,Mia Nielsen,33,---,DNK,00:29:15,02:37:15,01:49:29,00:04:47,00:01:32,05:02:18
+ironman-70.3-elsinore-20150621.csv,454,Jeannie Lønborg Christiansen,33,---,DNK,00:40:41,03:00:48,01:55:20,00:10:56,00:03:05,05:50:50
+ironman-70.3-elsinore-20150621.csv,455,Annelisa Justadottir Møss,33,DK,DNK,00:37:39,02:45:00,01:32:26,00:06:07,00:01:51,05:03:03
+ironman-70.3-elsinore-20150621.csv,456,Lene Markworth,33,DK,DNK,00:41:44,02:43:57,01:38:04,00:08:13,00:02:19,05:14:17
+ironman-70.3-elsinore-20150621.csv,457,Andrea Warwick,34,QLD,GBR,00:45:55,03:19:22,02:19:55,00:08:36,00:04:40,06:38:28
+ironman-70.3-elsinore-20150621.csv,458,Susanne Bengaard,33,---,DNK,00:40:42,03:16:26,02:35:17,00:07:52,00:04:58,06:45:15
+ironman-70.3-elsinore-20150621.csv,459,Heidi Jensen,33,---,DNK,00:42:25,03:03:06,02:06:43,00:08:52,00:05:45,06:06:51
+ironman-70.3-elsinore-20150621.csv,460,Kathrine Mollerup,33,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,461,Janne Holstein Pehrson,33,---,DNK,00:42:38,02:41:03,01:38:43,00:07:11,00:02:23,05:11:58
+ironman-70.3-elsinore-20150621.csv,462,Maja Graae,33,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,463,Mette Adler,33,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,464,Boglarka Kiss,34,---,DNK,00:38:03,02:58:07,01:46:27,00:07:43,00:02:11,05:32:31
+ironman-70.3-elsinore-20150621.csv,465,Zuzette Ransby,34,---,DNK,00:40:52,03:21:18,03:00:11,00:09:32,00:05:31,07:17:24
+ironman-70.3-elsinore-20150621.csv,466,Frida Brantvall,34,SE,SWE,00:45:17,03:37:53,02:50:27,00:11:08,00:05:41,07:30:26
+ironman-70.3-elsinore-20150621.csv,467,Sarah Frances Procter,34,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,468,Michelle Guldborg Hagelberg,34,---,DNK,00:57:13,03:02:57,02:09:50,00:08:53,00:05:24,06:24:17
+ironman-70.3-elsinore-20150621.csv,469,Marie Ejby Hansen,35,---,DNK,00:37:43,02:34:11,01:42:12,00:05:38,00:01:39,05:01:23
+ironman-70.3-elsinore-20150621.csv,470,Mette Sommer Fritze,35,---,DNK,00:52:44,03:29:30,01:38:58,00:20:53,00:07:35,06:29:40
+ironman-70.3-elsinore-20150621.csv,471,Nadja Holm Nielsen,35,---,DNK,00:34:27,---,06:39:51,---,---,06:39:51
+ironman-70.3-elsinore-20150621.csv,472,Tasja Stenum,36,DK,DNK,00:31:26,02:27:29,01:32:00,00:06:06,00:01:46,04:38:47
+ironman-70.3-elsinore-20150621.csv,473,Claire Edwards,35,Kent,GBR,00:34:42,02:58:00,01:50:49,00:08:07,00:02:36,05:34:14
+ironman-70.3-elsinore-20150621.csv,474,Louise Lillesø,35,---,DNK,00:44:36,02:49:15,01:40:43,00:09:38,00:03:28,05:27:40
+ironman-70.3-elsinore-20150621.csv,475,Katarina Rasmussen,35,DEN,DNK,00:40:22,02:42:16,01:49:13,00:06:18,00:02:54,05:21:03
+ironman-70.3-elsinore-20150621.csv,476,Mette Dalsgaard,35,---,DNK,00:37:09,02:51:44,01:44:10,00:06:11,00:01:46,05:21:00
+ironman-70.3-elsinore-20150621.csv,477,Louise Lai Wiinholt,35,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,478,Krista Terämaa,36,---,FIN,00:30:37,02:50:25,01:59:11,00:05:35,00:01:41,05:27:29
+ironman-70.3-elsinore-20150621.csv,479,Kathrine Møller Christensen,36,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,480,Lindha Stolpe,36,---,SWE,00:47:37,03:18:15,02:34:03,00:13:02,00:08:23,07:01:20
+ironman-70.3-elsinore-20150621.csv,481,Lisa O'Dwyer,36,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,482,Katrien Wybouw,36,---,BEL,00:39:47,02:56:29,02:04:00,00:06:53,00:02:16,05:49:25
+ironman-70.3-elsinore-20150621.csv,483,Signe Køngerskov,36,---,DNK,00:38:34,02:37:32,01:31:17,00:05:39,00:01:41,04:54:43
+ironman-70.3-elsinore-20150621.csv,484,Dorte Carlsson,36,---,DNK,00:40:52,02:45:35,---,00:06:50,00:03:10,DNF
+ironman-70.3-elsinore-20150621.csv,485,Christian Ã˜ien,37,---,DNK,00:35:27,02:36:11,01:34:32,00:05:33,00:02:21,04:54:04
+ironman-70.3-elsinore-20150621.csv,486,Signe Bak Klit,37,DK,DNK,00:38:52,02:46:38,01:42:37,00:05:19,00:02:48,05:16:14
+ironman-70.3-elsinore-20150621.csv,487,Signe Boserup,---,---,DNK,00:40:56,02:51:32,02:12:41,00:06:23,00:03:38,05:55:10
+ironman-70.3-elsinore-20150621.csv,488,Stinne Gry Glerup,37,---,DNK,00:37:40,03:02:16,01:54:06,00:11:40,00:03:48,05:49:30
+ironman-70.3-elsinore-20150621.csv,490,Camilla Katkjaer Joergensen,37,---,DNK,00:43:07,03:01:11,01:53:41,00:07:45,00:01:55,05:47:39
+ironman-70.3-elsinore-20150621.csv,491,Susann Zepernick,37,Hamburg,DEU,00:45:21,03:02:14,02:10:22,00:08:33,00:02:23,06:08:53
+ironman-70.3-elsinore-20150621.csv,492,Jennifer Bach,37,---,DNK,00:39:01,02:51:46,01:47:54,00:06:23,00:03:13,05:28:17
+ironman-70.3-elsinore-20150621.csv,493,Camilla Grün,37,---,DNK,00:42:09,03:00:05,01:40:54,00:06:59,00:02:04,05:32:11
+ironman-70.3-elsinore-20150621.csv,494,Charlotte Tuvesson,37,---,SWE,00:43:29,03:03:10,01:56:21,00:07:36,00:02:26,05:53:02
+ironman-70.3-elsinore-20150621.csv,495,Mirlinda Sadikovska,38,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,496,Trine Falck,38,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,497,Ditte Kofoed Nielsen,38,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,498,Lise Pagaard Ruge,38,DK,DNK,00:41:58,03:00:37,01:57:29,00:07:09,00:02:22,05:49:35
+ironman-70.3-elsinore-20150621.csv,499,Monika Frank,38,---,CHE,00:33:31,02:46:05,01:35:24,00:05:43,00:02:28,05:03:11
+ironman-70.3-elsinore-20150621.csv,500,Karin Nielsen,38,---,DNK,00:41:34,03:05:04,02:02:28,00:10:39,00:02:58,06:02:43
+ironman-70.3-elsinore-20150621.csv,501,Marie Vedel,38,---,DNK,00:42:24,02:47:33,01:57:26,00:06:06,00:03:27,05:36:56
+ironman-70.3-elsinore-20150621.csv,502,Dorte Tandrup,39,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,503,Ditte Lyngbo Kristensen,---,DEN,DNK,00:46:20,02:50:58,01:43:20,00:06:15,00:02:16,05:29:09
+ironman-70.3-elsinore-20150621.csv,504,Karin Henrietta Christensen,39,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,505,Çagla Arundar,39,Marmara,TUR,00:49:39,03:16:35,02:12:41,00:09:36,00:03:59,06:32:30
+ironman-70.3-elsinore-20150621.csv,506,Carina Cornelia Heegaard,39,---,DNK,00:39:27,02:56:56,01:49:55,00:07:23,00:02:31,05:36:12
+ironman-70.3-elsinore-20150621.csv,507,Charlotte Batsberg,39,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,508,Michael Rolsted,39,---,DNK,00:39:48,02:37:38,01:35:43,00:13:30,00:06:00,05:12:39
+ironman-70.3-elsinore-20150621.csv,509,Peter Aggerholm,39,---,DNK,00:35:46,02:41:22,01:52:06,00:06:19,00:02:50,05:18:23
+ironman-70.3-elsinore-20150621.csv,510,Janich Sommersdahl,39,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,511,Kenneth Frederik Toerngren,---,DEN,DNK,00:33:41,02:42:19,02:06:25,00:06:56,00:02:05,05:31:26
+ironman-70.3-elsinore-20150621.csv,512,Bo Jacobsen,39,---,DNK,00:36:27,02:27:39,01:38:30,00:08:39,00:03:23,04:54:38
+ironman-70.3-elsinore-20150621.csv,513,Jesper Isager-Sally,39,---,DNK,00:42:24,02:54:21,01:38:47,00:09:07,00:05:10,05:29:49
+ironman-70.3-elsinore-20150621.csv,514,Henrik Koppel,39,---,DNK,00:27:29,02:32:50,01:30:42,00:05:54,00:03:45,04:40:40
+ironman-70.3-elsinore-20150621.csv,515,Michael Gamst,39,---,DNK,00:47:07,02:45:04,01:49:39,00:08:26,00:03:28,05:33:44
+ironman-70.3-elsinore-20150621.csv,516,Benjamin Feldvoss,39,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,517,Casper Bengtsen,39,---,DNK,00:47:29,02:50:49,01:56:14,00:09:56,00:02:52,05:47:20
+ironman-70.3-elsinore-20150621.csv,518,Simon Lindahl Andersen,39,DK,DNK,00:36:20,02:28:17,01:29:38,00:05:47,00:02:18,04:42:20
+ironman-70.3-elsinore-20150621.csv,519,Claes Blok Clevin,39,---,DNK,00:45:58,02:53:51,02:01:04,00:10:47,00:03:27,05:55:07
+ironman-70.3-elsinore-20150621.csv,520,Brian Bay,39,---,DNK,00:42:59,02:28:09,01:59:27,00:06:37,00:03:29,05:20:41
+ironman-70.3-elsinore-20150621.csv,521,Søren Hütten Pedersen,39,DK,DNK,00:45:25,02:28:58,01:58:03,00:04:57,00:02:26,05:19:49
+ironman-70.3-elsinore-20150621.csv,522,Anders Trans Sørensen,39,---,DNK,00:39:04,02:31:41,01:40:21,00:04:54,00:01:47,04:57:47
+ironman-70.3-elsinore-20150621.csv,523,Flemming Holmboe Chammon,40,---,DNK,00:40:18,02:39:38,01:35:41,00:07:33,00:01:43,05:04:53
+ironman-70.3-elsinore-20150621.csv,524,Anders Friis Olsen,40,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,525,Thomas Grambauer,40,DE,DEU,00:29:47,02:54:50,02:43:28,00:10:51,00:06:30,06:25:26
+ironman-70.3-elsinore-20150621.csv,526,Jess Møller Knudsen,40,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,527,Brian Kjær Andersen,40,DK,DNK,00:41:15,02:36:39,01:44:20,00:08:07,00:02:44,05:13:05
+ironman-70.3-elsinore-20150621.csv,528,Laurits Fischer-Hansen,40,---,DNK,00:33:23,02:31:27,01:37:50,00:04:23,00:01:52,04:48:55
+ironman-70.3-elsinore-20150621.csv,529,Bent Vitek Christensen,40,---,DNK,00:35:42,02:53:36,01:45:33,00:07:39,00:02:51,05:25:21
+ironman-70.3-elsinore-20150621.csv,530,Thomas Bastkjær Hansen,40,---,DNK,00:31:35,02:37:34,01:47:30,00:07:15,00:02:14,05:06:08
+ironman-70.3-elsinore-20150621.csv,531,Anders Ploug,40,---,DNK,00:36:34,02:33:15,01:46:10,00:07:30,00:02:28,05:05:57
+ironman-70.3-elsinore-20150621.csv,532,Lars Grønlund,40,DK,DNK,00:40:10,02:53:01,02:10:46,00:08:43,00:03:15,05:55:55
+ironman-70.3-elsinore-20150621.csv,533,Thomas Andresen,40,DK,DNK,00:30:13,02:28:07,01:43:21,00:05:59,00:02:18,04:49:58
+ironman-70.3-elsinore-20150621.csv,534,Tejs Bautrup,40,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,535,Pål Oliver Kristiansen,40,---,NOR,00:34:51,02:43:32,01:50:56,00:06:28,00:01:42,05:17:29
+ironman-70.3-elsinore-20150621.csv,536,Robert Westman,40,---,SWE,00:29:17,02:29:25,01:26:28,00:04:36,00:01:10,04:30:56
+ironman-70.3-elsinore-20150621.csv,537,Michael Mortensen,40,---,DNK,00:37:59,02:34:50,01:42:03,00:07:53,00:02:34,05:05:19
+ironman-70.3-elsinore-20150621.csv,538,Jens Lind-Winther,40,DK,DNK,00:46:19,02:35:53,01:46:09,00:07:51,00:02:55,05:19:07
+ironman-70.3-elsinore-20150621.csv,539,Thomas Lykke,40,---,DNK,00:37:32,02:42:37,01:48:32,00:08:15,00:02:56,05:19:52
+ironman-70.3-elsinore-20150621.csv,540,Morten Dejgaard Nielsen,40,DK,DNK,00:34:12,02:27:50,01:51:52,00:06:54,00:01:54,05:02:42
+ironman-70.3-elsinore-20150621.csv,541,Thomas Knudsen,40,DK,DNK,00:43:23,02:50:52,02:13:00,00:14:04,00:03:32,06:04:51
+ironman-70.3-elsinore-20150621.csv,542,Tonny Christensen,40,---,DNK,00:44:46,02:50:40,02:30:37,00:08:05,00:03:04,06:17:12
+ironman-70.3-elsinore-20150621.csv,543,Martin Svanum,40,DK,DNK,00:37:37,02:53:46,01:37:28,00:09:08,00:05:45,05:23:44
+ironman-70.3-elsinore-20150621.csv,544,Per Olsen,40,---,DNK,00:50:42,02:42:51,02:06:20,00:06:03,00:02:39,05:48:35
+ironman-70.3-elsinore-20150621.csv,545,Frederik Goethals,40,---,BEL,00:40:40,02:32:39,01:52:41,00:07:58,00:04:36,05:18:34
+ironman-70.3-elsinore-20150621.csv,546,Jacob Reichhardt Svendsen,40,DK,DNK,00:40:54,02:46:27,01:48:43,00:06:23,00:02:40,05:25:07
+ironman-70.3-elsinore-20150621.csv,547,Jon Lindén,40,Halland,SWE,00:39:18,02:47:23,02:03:27,00:07:47,00:03:42,05:41:37
+ironman-70.3-elsinore-20150621.csv,548,Ronni Thomasen,40,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,549,Bo Velds Andresen,40,DK,DNK,00:41:08,02:27:27,01:35:19,00:11:26,00:09:13,05:04:33
+ironman-70.3-elsinore-20150621.csv,550,Henrik Sørensen,40,---,DNK,00:30:23,02:21:57,01:23:30,00:05:01,00:01:27,04:22:18
+ironman-70.3-elsinore-20150621.csv,551,Flemming Bekker-Gregersen,40,---,DNK,01:00:36,02:56:36,02:03:27,00:10:30,00:03:51,06:15:00
+ironman-70.3-elsinore-20150621.csv,552,Michael Bøeck,40,---,DNK,00:38:09,02:25:49,01:21:12,00:06:31,00:01:38,04:33:19
+ironman-70.3-elsinore-20150621.csv,553,Henrik Jørgensen,40,DK,DNK,00:47:17,03:06:38,02:47:55,00:13:02,00:05:35,07:00:27
+ironman-70.3-elsinore-20150621.csv,554,Morten Munk-Hansen,40,DK,DNK,00:42:15,03:21:41,02:12:31,00:07:47,00:02:15,06:26:29
+ironman-70.3-elsinore-20150621.csv,555,Morten Egeskov,40,---,DNK,00:40:16,02:34:41,01:56:37,00:05:54,00:03:01,05:20:29
+ironman-70.3-elsinore-20150621.csv,556,Michael Sig,40,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,557,Per Krøyer Alsbæk,40,---,DNK,00:36:29,02:35:58,01:28:31,00:06:31,00:01:08,04:48:37
+ironman-70.3-elsinore-20150621.csv,558,Stephan Schaffner,40,---,DEU,00:35:32,03:09:38,01:54:25,00:13:29,00:04:22,05:57:26
+ironman-70.3-elsinore-20150621.csv,559,Gregory Beuneu,40,---,FRA,00:39:08,03:16:37,03:03:52,00:09:41,00:06:27,07:15:45
+ironman-70.3-elsinore-20150621.csv,560,Anders Glümer,40,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,561,Morten Richardt,40,---,DNK,00:35:27,02:35:08,---,00:07:12,00:03:32,DNF
+ironman-70.3-elsinore-20150621.csv,562,Daniel Roosen,40,---,DNK,00:54:57,03:03:23,02:27:43,00:13:03,00:08:23,06:47:29
+ironman-70.3-elsinore-20150621.csv,563,Morten Heede Hesel,40,---,DNK,00:44:29,03:12:19,02:34:33,00:08:52,00:05:31,06:45:44
+ironman-70.3-elsinore-20150621.csv,564,Cristiano Cairo,40,---,ITA,00:35:15,02:40:41,01:36:32,00:10:02,00:04:12,05:06:42
+ironman-70.3-elsinore-20150621.csv,565,Jesper Rønne,40,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,566,Espen Jensehaugen,40,---,NOR,00:31:12,02:42:14,01:44:53,00:06:09,00:02:19,05:06:47
+ironman-70.3-elsinore-20150621.csv,567,Morten Hasselbalch,40,Other,DNK,00:35:25,02:27:13,01:35:18,00:06:10,00:01:50,04:45:56
+ironman-70.3-elsinore-20150621.csv,568,Bengt Ove Gulland,40,---,NOR,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,569,Ebbe Hendriksen,41,---,DNK,00:38:28,02:32:52,01:50:10,00:08:18,00:03:26,05:13:14
+ironman-70.3-elsinore-20150621.csv,570,Kim Trier Lundager,41,---,DNK,00:47:18,02:33:37,02:00:12,00:07:41,00:02:59,05:31:47
+ironman-70.3-elsinore-20150621.csv,571,Christian Kildemoes,41,---,DNK,00:46:45,02:39:44,02:15:20,00:11:48,00:02:48,05:56:25
+ironman-70.3-elsinore-20150621.csv,572,Stefan Schewe,41,Hamburg,DEU,00:38:55,02:39:01,01:33:44,00:06:49,00:02:35,05:01:04
+ironman-70.3-elsinore-20150621.csv,573,Allan Lund Christiansen,41,---,DNK,00:40:06,02:43:14,01:55:28,00:08:22,00:03:05,05:30:15
+ironman-70.3-elsinore-20150621.csv,574,Ronnie Thyssen Hansen,41,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,575,Casper Flodin,41,---,DNK,00:31:36,02:29:10,01:50:59,00:08:22,00:02:38,05:02:45
+ironman-70.3-elsinore-20150621.csv,576,Brian Bergholt Vangsgaard,41,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,577,Roger Fors,41,SE,SWE,00:42:46,03:01:19,02:07:51,00:08:18,00:04:23,06:04:37
+ironman-70.3-elsinore-20150621.csv,578,Kim Nørgaard Andreasen,41,DK,DNK,00:38:29,02:35:48,01:44:50,00:05:40,00:02:16,05:07:03
+ironman-70.3-elsinore-20150621.csv,579,Hanseric Orre,41,SE,SWE,00:35:22,02:40:58,01:43:13,00:08:13,00:03:35,05:11:21
+ironman-70.3-elsinore-20150621.csv,580,Jacob Nilausen,41,---,DNK,00:40:13,03:35:55,02:24:12,00:10:15,00:05:06,06:55:41
+ironman-70.3-elsinore-20150621.csv,581,Henrik Brandt,41,---,DNK,00:45:31,02:54:35,02:18:33,00:07:35,00:02:25,06:08:39
+ironman-70.3-elsinore-20150621.csv,582,Peter Bason,41,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,583,Sebastian Printz,---,DK,DNK,00:42:25,03:01:53,02:03:54,00:10:06,00:03:46,06:02:04
+ironman-70.3-elsinore-20150621.csv,584,Martin Lyberth,41,---,DNK,00:36:31,02:46:00,02:06:12,00:07:26,00:04:29,05:40:38
+ironman-70.3-elsinore-20150621.csv,585,Kim Hallberg Nielsen,41,DK,DNK,00:33:24,02:50:34,01:50:07,00:07:54,00:02:54,05:24:53
+ironman-70.3-elsinore-20150621.csv,586,Claus Hvid Ellekilde,41,---,DNK,00:48:18,02:54:29,01:48:06,00:10:32,00:03:15,05:44:40
+ironman-70.3-elsinore-20150621.csv,587,Rasmus Schmidt,41,---,DNK,00:43:59,03:03:52,---,00:08:55,00:02:39,DNF
+ironman-70.3-elsinore-20150621.csv,588,Jesper Starck,41,---,DNK,00:38:19,02:36:08,01:34:11,00:06:52,00:06:56,05:02:26
+ironman-70.3-elsinore-20150621.csv,589,Christian Friedrich,41,---,DEU,00:32:08,02:34:01,01:38:42,00:05:42,00:01:54,04:52:27
+ironman-70.3-elsinore-20150621.csv,590,Karsten Taylor,41,---,DNK,00:32:06,02:50:39,01:57:57,00:08:20,00:02:40,05:31:42
+ironman-70.3-elsinore-20150621.csv,591,Alan Schwaner,41,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,592,Frode Engtrø,41,NO,NOR,00:34:27,---,---,00:06:52,---,DNF
+ironman-70.3-elsinore-20150621.csv,593,Morten Ingholt,41,---,DNK,00:37:11,02:31:12,01:59:30,00:06:04,00:01:39,05:15:36
+ironman-70.3-elsinore-20150621.csv,594,Niklas Lagesson,41,---,SWE,00:46:46,02:53:28,01:57:34,00:09:54,00:03:19,05:51:01
+ironman-70.3-elsinore-20150621.csv,595,Thomas Vigälv,41,---,SWE,00:39:50,02:36:07,01:41:05,00:06:18,00:02:08,05:05:28
+ironman-70.3-elsinore-20150621.csv,596,Dan Shachor,41,Israel,ISR,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,597,Francois Dejean,41,---,FRA,00:48:05,02:53:24,01:45:37,00:06:54,00:02:27,05:36:27
+ironman-70.3-elsinore-20150621.csv,598,Dennis Frederiksen,41,---,DNK,00:42:52,02:37:31,01:59:06,00:10:05,00:02:29,05:32:03
+ironman-70.3-elsinore-20150621.csv,599,Dennis Van De Worp,42,Other,NLD,00:29:17,02:27:30,01:33:42,00:04:04,00:01:59,04:36:32
+ironman-70.3-elsinore-20150621.csv,600,Anders Friedrichsen,41,---,DNK,00:37:06,02:56:27,01:55:41,00:07:43,00:04:13,05:41:10
+ironman-70.3-elsinore-20150621.csv,601,Stefan Nyvang Kringelback,41,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,602,Tue Høilund-Carlsen,41,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,603,Christian Schröder,41,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,604,Andreas Thomsen,41,---,DEU,00:34:21,03:02:37,01:48:38,00:07:32,00:02:23,05:35:31
+ironman-70.3-elsinore-20150621.csv,605,Kim Olander,41,---,DNK,00:30:39,02:21:57,01:25:49,00:04:39,00:01:29,04:24:33
+ironman-70.3-elsinore-20150621.csv,606,Henrik Persson,41,DK,DNK,00:47:34,03:07:48,02:33:08,00:12:07,00:04:45,06:45:22
+ironman-70.3-elsinore-20150621.csv,607,Tolga Alpagot,41,---,TUR,00:42:27,02:46:49,01:34:46,00:09:24,00:02:27,05:15:53
+ironman-70.3-elsinore-20150621.csv,608,Thomas Høgdal Thomsen,41,---,DNK,01:03:31,03:02:44,02:24:11,00:07:49,00:02:51,06:41:06
+ironman-70.3-elsinore-20150621.csv,609,Claus Busk Andersen,41,DK,DNK,00:44:39,03:00:36,02:05:37,00:10:52,00:04:33,06:06:17
+ironman-70.3-elsinore-20150621.csv,610,Jan Oppelstrup,41,---,DNK,00:35:59,02:27:47,01:35:15,00:05:25,00:01:42,04:46:08
+ironman-70.3-elsinore-20150621.csv,611,Simon Mikkelsen,41,---,DNK,00:37:45,02:47:11,01:58:20,00:06:28,00:02:33,05:32:17
+ironman-70.3-elsinore-20150621.csv,612,Jakob Schytte Lindberg,41,---,DNK,00:40:50,02:46:50,01:57:44,00:12:51,00:04:34,05:42:49
+ironman-70.3-elsinore-20150621.csv,613,Hans Anebreid,41,SE,SWE,00:45:08,02:57:23,01:56:19,00:06:01,00:02:33,05:47:24
+ironman-70.3-elsinore-20150621.csv,614,Sune Irgens Alenkaer,41,---,DNK,00:39:07,03:23:15,02:15:33,00:10:11,00:05:22,06:33:28
+ironman-70.3-elsinore-20150621.csv,615,Peder Hjersing,41,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,616,Nikolaj Hansen,41,DK,DNK,00:37:23,02:45:03,01:50:30,00:10:24,00:04:32,05:27:52
+ironman-70.3-elsinore-20150621.csv,617,Christian Salling,41,---,DNK,00:35:28,02:24:03,01:29:54,00:05:38,00:01:48,04:36:51
+ironman-70.3-elsinore-20150621.csv,618,Birger Jensen,41,---,DNK,00:46:50,02:31:39,02:09:16,00:07:15,00:03:58,05:38:58
+ironman-70.3-elsinore-20150621.csv,619,Martin Truberg Jensen,41,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,620,Kenneth Madsen,41,---,DNK,00:41:29,02:42:26,01:44:24,00:09:00,00:02:37,05:19:56
+ironman-70.3-elsinore-20150621.csv,621,René Seidel,41,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,622,Jan Esbech,41,---,DNK,00:52:25,03:08:31,02:03:24,00:12:33,00:04:41,06:21:34
+ironman-70.3-elsinore-20150621.csv,623,Michael Nissen,42,---,DNK,00:43:16,03:01:44,02:40:42,00:09:56,00:04:26,06:40:04
+ironman-70.3-elsinore-20150621.csv,624,Ulf Johannson,42,---,DNK,00:43:21,03:19:42,02:43:41,00:11:21,00:01:44,06:59:49
+ironman-70.3-elsinore-20150621.csv,625,René Skifter Andersen,42,---,DNK,00:40:19,02:41:49,01:42:40,00:05:46,00:02:59,05:13:33
+ironman-70.3-elsinore-20150621.csv,626,Klaus T. W. Lund,42,DK,DNK,00:42:28,02:45:12,01:42:46,00:08:49,00:03:53,05:23:08
+ironman-70.3-elsinore-20150621.csv,627,Iain Campuzano,42,CA,GBR,00:36:00,02:38:04,01:52:11,00:06:55,00:02:22,05:15:32
+ironman-70.3-elsinore-20150621.csv,628,Thomas Steffensen,42,---,DNK,00:38:24,02:45:30,01:58:48,00:08:13,00:03:42,05:34:37
+ironman-70.3-elsinore-20150621.csv,629,Marcus Alexandersson,42,---,SWE,00:34:41,02:33:00,01:33:15,00:07:02,00:02:20,04:50:18
+ironman-70.3-elsinore-20150621.csv,630,Christopher Wuttke,42,---,USA,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,631,Henric Hildingsson,42,---,SWE,00:40:28,02:34:17,01:40:51,00:06:25,00:03:22,05:05:23
+ironman-70.3-elsinore-20150621.csv,632,Nicholas Bryde,42,---,DNK,00:44:09,02:48:18,01:39:44,00:08:24,00:05:53,05:26:28
+ironman-70.3-elsinore-20150621.csv,633,Reine Gunnarsson,42,---,SWE,00:36:31,02:47:53,01:49:51,00:07:25,00:03:40,05:25:20
+ironman-70.3-elsinore-20150621.csv,634,Leslie Lundehøj Jørgensen,42,---,DNK,00:40:48,02:44:48,01:54:48,00:07:40,00:02:44,05:30:48
+ironman-70.3-elsinore-20150621.csv,635,Gustav Lindhé,42,---,SWE,00:38:13,02:43:35,01:42:15,00:07:23,00:02:15,05:13:41
+ironman-70.3-elsinore-20150621.csv,636,Lars Møller Pedersen,42,---,DNK,00:34:00,02:29:38,01:44:10,00:04:22,00:01:38,04:53:48
+ironman-70.3-elsinore-20150621.csv,637,Fernando Palhares,42,Intl State,BRA,00:35:29,02:28:04,01:30:45,00:05:23,00:01:59,04:41:40
+ironman-70.3-elsinore-20150621.csv,638,Gorm Serup Borggaard,42,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,639,Henrik Eckert,42,---,DNK,00:42:26,02:46:07,01:46:03,00:09:37,00:04:46,05:28:59
+ironman-70.3-elsinore-20150621.csv,640,Miguel Monroy Ruiz,42,---,ESP,00:38:11,02:38:47,01:38:01,00:06:31,00:02:51,05:04:21
+ironman-70.3-elsinore-20150621.csv,641,Michael Krogh Mortensen,42,---,DNK,00:44:23,02:37:49,01:59:50,00:06:29,00:01:54,05:30:25
+ironman-70.3-elsinore-20150621.csv,642,Kasper Høyer Schrøder,---,DK,DNK,00:32:12,02:37:09,01:33:32,00:05:56,00:01:41,04:50:30
+ironman-70.3-elsinore-20150621.csv,643,Kevin Knagg,42,---,GBR,00:40:43,03:14:55,02:15:08,00:12:28,00:06:23,06:29:37
+ironman-70.3-elsinore-20150621.csv,644,Leif Anthony Worm,42,Intl State,DNK,00:42:10,02:32:00,01:39:16,00:07:19,00:02:55,05:03:40
+ironman-70.3-elsinore-20150621.csv,645,Povl Aage,42,---,DNK,00:31:20,02:22:26,01:30:46,00:05:47,00:01:54,04:32:13
+ironman-70.3-elsinore-20150621.csv,646,Jan Hedenskog Mårtensen,42,---,DNK,00:37:21,02:29:17,01:24:55,00:06:40,00:02:30,04:40:43
+ironman-70.3-elsinore-20150621.csv,647,Morten Schultz Dam,42,---,DNK,00:33:04,02:28:22,01:30:42,00:07:43,00:02:42,04:42:33
+ironman-70.3-elsinore-20150621.csv,648,Michael Bosholdt,42,DK,DNK,00:39:58,02:34:21,01:59:27,00:09:13,00:05:14,05:28:13
+ironman-70.3-elsinore-20150621.csv,649,Christian Kopp Pedersen,42,---,DNK,00:37:13,02:25:36,01:34:19,00:04:35,00:01:19,04:43:02
+ironman-70.3-elsinore-20150621.csv,650,Boris Schwalm Madsen,42,---,DNK,00:57:20,03:18:04,02:14:34,00:11:04,00:04:32,06:45:34
+ironman-70.3-elsinore-20150621.csv,651,Thomas Perch Groth,42,---,DNK,00:37:35,02:33:44,02:06:34,00:12:04,00:03:50,05:33:47
+ironman-70.3-elsinore-20150621.csv,652,Peter Schmahl,42,DK,DNK,00:37:18,02:31:25,01:37:32,00:08:01,00:03:15,04:57:31
+ironman-70.3-elsinore-20150621.csv,653,Carsten Holst Madsen,42,---,DNK,00:30:59,02:56:56,02:25:28,00:07:49,00:02:48,06:04:00
+ironman-70.3-elsinore-20150621.csv,654,Claudio Fabbri,42,FR,MCO,00:29:29,02:34:40,01:44:55,00:05:10,00:02:25,04:56:39
+ironman-70.3-elsinore-20150621.csv,655,Rune Hartmann Damsgaard,42,---,DNK,00:36:45,02:44:15,01:50:25,00:06:48,00:02:43,05:20:56
+ironman-70.3-elsinore-20150621.csv,656,Thomas Dyjak,42,---,DNK,00:42:03,03:14:56,02:25:57,00:10:43,00:05:06,06:38:45
+ironman-70.3-elsinore-20150621.csv,657,Claus Bollerup Madsen,42,---,DNK,00:42:01,02:52:23,01:40:11,00:10:14,00:04:21,05:29:10
+ironman-70.3-elsinore-20150621.csv,658,André Lionett,42,SE,SWE,00:43:11,02:53:30,02:07:54,00:09:21,00:04:59,05:58:55
+ironman-70.3-elsinore-20150621.csv,659,Kim Fielsøe,42,---,DNK,00:42:53,02:28:55,01:45:11,00:07:38,00:01:43,05:06:20
+ironman-70.3-elsinore-20150621.csv,660,Martin Moneaux,42,---,DNK,00:35:37,02:43:53,01:36:05,00:08:38,00:03:33,05:07:46
+ironman-70.3-elsinore-20150621.csv,661,Paul Scott,42,---,GBR,00:38:05,02:45:39,01:51:43,00:07:23,00:03:42,05:26:32
+ironman-70.3-elsinore-20150621.csv,662,Jesper Krogsgaard Hansen,42,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,663,Mikkel Ipsen,42,---,DNK,00:32:46,02:29:22,01:33:53,00:05:20,00:02:24,04:43:45
+ironman-70.3-elsinore-20150621.csv,664,Thomas Hübschmann,42,---,DNK,00:35:43,02:28:06,01:45:19,00:05:11,00:02:16,04:56:35
+ironman-70.3-elsinore-20150621.csv,665,Alexander K Erhold,42,---,AUT,00:57:08,03:09:39,02:05:35,00:11:59,00:04:26,06:28:47
+ironman-70.3-elsinore-20150621.csv,666,Ole Schmidt,42,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,667,Troels Vorre Hansen,43,---,DNK,00:41:55,02:42:45,01:41:38,00:09:32,00:03:54,05:19:44
+ironman-70.3-elsinore-20150621.csv,668,Allan Rasmussen,43,---,DNK,00:43:18,02:33:09,02:08:43,00:06:55,00:03:01,05:35:06
+ironman-70.3-elsinore-20150621.csv,669,Henrik Saldern,43,---,DNK,00:41:32,02:28:12,01:35:19,00:06:25,00:01:49,04:53:17
+ironman-70.3-elsinore-20150621.csv,670,David De Maeyer,43,---,BEL,00:45:28,02:57:29,02:03:12,00:16:55,00:08:07,06:11:11
+ironman-70.3-elsinore-20150621.csv,671,Torben Carstensen,43,DK,DNK,00:34:21,02:40:58,01:35:54,00:07:26,00:02:58,05:01:37
+ironman-70.3-elsinore-20150621.csv,672,Thomas Bruun Nielsen,43,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,673,Tim Petersen,43,---,DNK,00:34:40,02:29:13,01:45:10,00:05:14,00:02:03,04:56:20
+ironman-70.3-elsinore-20150621.csv,674,Alvaro Carbone,43,DK,DNK,00:46:15,02:37:17,01:41:00,00:10:09,00:02:57,05:17:38
+ironman-70.3-elsinore-20150621.csv,675,Morten Vinther,43,---,DNK,00:46:40,03:29:05,02:24:10,00:13:33,00:05:33,06:59:01
+ironman-70.3-elsinore-20150621.csv,676,Lars Simonsen,43,DK,DNK,00:46:01,02:47:13,01:42:37,00:08:21,00:03:32,05:27:44
+ironman-70.3-elsinore-20150621.csv,677,Jess Lykke Gramkow,43,---,DNK,00:45:48,02:59:23,01:56:09,00:10:55,00:03:11,05:55:26
+ironman-70.3-elsinore-20150621.csv,678,Martin Forsberg,43,---,SWE,00:41:52,03:00:44,02:24:11,00:09:42,00:05:34,06:22:03
+ironman-70.3-elsinore-20150621.csv,679,Bo Bay Hougaard,43,DK,DNK,00:49:56,02:29:54,01:34:42,00:07:09,00:03:48,05:05:29
+ironman-70.3-elsinore-20150621.csv,680,Oleg Herrmann,43,---,DEU,00:42:45,02:46:31,02:16:05,00:09:23,00:04:02,05:58:46
+ironman-70.3-elsinore-20150621.csv,681,Kristian Sørensen,43,---,DNK,00:54:00,02:57:41,02:11:28,00:07:30,00:03:13,06:13:52
+ironman-70.3-elsinore-20150621.csv,682,Lars Robdrup Rasmussen,43,---,DNK,00:36:56,02:47:02,01:47:34,00:08:44,00:03:34,05:23:50
+ironman-70.3-elsinore-20150621.csv,683,Bendt Nielsen,43,---,DNK,00:52:33,02:49:21,01:55:22,00:08:56,00:02:31,05:48:43
+ironman-70.3-elsinore-20150621.csv,684,Lennart Linnemann,43,---,DNK,00:39:31,02:58:41,01:53:20,00:10:44,00:04:40,05:46:56
+ironman-70.3-elsinore-20150621.csv,685,Fredrik Kaskela,43,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,686,Christian Bisgaard,43,---,DNK,00:37:24,02:40:07,01:37:35,00:08:35,00:02:17,05:05:58
+ironman-70.3-elsinore-20150621.csv,687,Andreas Ring,43,SE,SWE,00:42:31,02:51:02,01:59:25,00:11:28,00:04:59,05:49:25
+ironman-70.3-elsinore-20150621.csv,688,Heiko Huennefeld,43,---,DEU,00:29:19,02:27:11,01:35:52,00:04:12,00:01:26,04:38:00
+ironman-70.3-elsinore-20150621.csv,689,Christoph Rosenbohm,43,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,690,René Grøn,43,---,DNK,00:43:01,03:09:24,03:10:04,00:18:32,00:10:26,07:31:27
+ironman-70.3-elsinore-20150621.csv,691,Kristian Duus Østergaard,43,---,DNK,00:37:38,02:52:02,02:04:35,00:09:03,00:05:39,05:48:57
+ironman-70.3-elsinore-20150621.csv,692,Mads Ambjørn,43,---,DNK,00:42:35,02:50:03,02:27:03,00:08:13,00:04:12,06:12:06
+ironman-70.3-elsinore-20150621.csv,693,Jim Dodd,43,---,GBR,00:34:31,02:41:18,01:42:13,00:08:49,00:02:41,05:09:32
+ironman-70.3-elsinore-20150621.csv,694,Peter Thomasen,43,---,DNK,00:47:12,02:44:48,01:46:51,00:09:20,00:03:44,05:31:55
+ironman-70.3-elsinore-20150621.csv,695,Morten Felsvang,43,DK,DNK,00:42:56,02:37:34,01:53:47,00:07:02,00:03:29,05:24:48
+ironman-70.3-elsinore-20150621.csv,696,Lars-Erik Larsen,43,DK,DNK,00:36:16,02:38:15,01:56:01,00:08:57,00:02:54,05:22:23
+ironman-70.3-elsinore-20150621.csv,697,Thomas Dirix,43,---,NLD,00:35:35,02:34:21,01:26:48,00:05:48,00:02:15,04:44:47
+ironman-70.3-elsinore-20150621.csv,698,Alfred Kers,43,Hamburg,NLD,00:48:44,02:52:30,01:50:09,00:08:08,00:03:37,05:43:08
+ironman-70.3-elsinore-20150621.csv,699,Lars Boss,43,---,DNK,00:38:55,02:38:52,01:46:31,00:04:59,00:04:08,05:13:25
+ironman-70.3-elsinore-20150621.csv,700,Peter Larsen-Ledet,43,---,DNK,00:40:04,02:35:51,01:33:13,00:08:46,00:03:09,05:01:03
+ironman-70.3-elsinore-20150621.csv,701,Morten Møllgaard,43,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,702,Mehmet Tokmak,43,DK,DNK,00:40:01,02:53:30,01:35:58,00:08:49,00:02:39,05:20:57
+ironman-70.3-elsinore-20150621.csv,703,Mark Wilson,43,NL,NLD,00:33:42,02:27:07,01:24:50,00:03:44,00:01:45,04:31:08
+ironman-70.3-elsinore-20150621.csv,704,Nicolai C Sjo,43,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,705,Jakob Steen-Petersen,43,---,DNK,00:38:51,02:33:39,01:57:38,00:06:31,00:01:47,05:18:26
+ironman-70.3-elsinore-20150621.csv,706,Michael Jensen,43,---,DNK,00:38:18,02:51:39,02:26:35,00:10:23,00:04:55,06:11:50
+ironman-70.3-elsinore-20150621.csv,707,René Petersen,43,DK,DNK,00:45:50,02:35:47,01:46:40,00:09:02,00:03:53,05:21:12
+ironman-70.3-elsinore-20150621.csv,708,Carsten Zinn Lundberg,43,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,709,Henrik Hansen,43,---,DNK,00:48:53,03:16:58,02:35:34,00:12:05,00:08:25,07:01:55
+ironman-70.3-elsinore-20150621.csv,710,Lars Egeskov Christensen,43,---,DNK,00:38:27,02:29:45,01:44:17,00:05:39,00:01:51,04:59:59
+ironman-70.3-elsinore-20150621.csv,711,Thomas Saaby,43,---,DNK,00:36:39,02:48:49,01:53:30,00:09:04,00:01:56,05:29:58
+ironman-70.3-elsinore-20150621.csv,712,Lars Christiansen,43,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,713,Kenny Deneke Sørensen,43,---,DNK,00:33:17,02:37:40,02:03:25,00:07:24,00:03:12,05:24:58
+ironman-70.3-elsinore-20150621.csv,714,Morten T. Vaagsbø,43,---,NOR,00:46:14,02:30:58,01:26:17,00:08:05,00:02:16,04:53:50
+ironman-70.3-elsinore-20150621.csv,715,Henrik Holmgren,43,---,DNK,00:38:10,02:34:37,01:41:46,00:06:42,00:04:21,05:05:36
+ironman-70.3-elsinore-20150621.csv,716,Thore Levetzow,43,---,DEU,00:43:47,02:38:17,---,00:10:49,00:04:05,DNF
+ironman-70.3-elsinore-20150621.csv,717,Alexey Lodin,43,---,RUS,00:46:00,03:12:04,01:55:31,00:12:28,00:07:53,06:13:56
+ironman-70.3-elsinore-20150621.csv,718,Shane Wolstencroft,43,---,GBR,00:42:13,02:36:37,01:33:52,00:04:31,00:01:54,04:59:07
+ironman-70.3-elsinore-20150621.csv,719,Jens Ulrik Kjerrumgaard,43,---,DNK,00:30:56,02:51:54,01:56:23,00:09:55,00:05:41,05:34:49
+ironman-70.3-elsinore-20150621.csv,720,Christoffer Spangenberg,43,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,721,Anders Chabert,43,---,DNK,00:38:15,02:45:37,01:56:00,00:11:18,00:03:53,05:35:03
+ironman-70.3-elsinore-20150621.csv,722,Simon Lindal,44,---,DNK,00:46:50,02:30:39,01:32:36,00:06:24,00:01:46,04:58:15
+ironman-70.3-elsinore-20150621.csv,723,Morten Asmussen,43,---,DNK,00:52:21,03:03:20,02:14:31,00:09:59,00:04:54,06:25:05
+ironman-70.3-elsinore-20150621.csv,724,Linus Per Pråme,43,---,SWE,00:35:41,02:26:18,02:01:55,00:12:20,00:04:55,05:21:09
+ironman-70.3-elsinore-20150621.csv,725,Morten Lehmann,43,---,DNK,00:35:40,02:34:27,01:36:20,00:06:27,00:02:13,04:55:07
+ironman-70.3-elsinore-20150621.csv,726,Kenn Hansen,44,---,DNK,01:00:50,02:39:20,01:33:07,00:10:02,00:01:54,05:25:13
+ironman-70.3-elsinore-20150621.csv,727,Peter Asbæk Andersen,44,---,DNK,00:48:40,02:38:06,01:47:02,00:06:51,00:01:34,05:22:13
+ironman-70.3-elsinore-20150621.csv,728,Christian Leopold Lippert,44,---,DNK,00:34:49,02:31:23,01:39:05,00:08:06,00:03:48,04:57:11
+ironman-70.3-elsinore-20150621.csv,729,Mads Liebst Gunnersen,44,---,DNK,00:40:20,02:45:02,01:53:35,00:06:28,00:02:38,05:28:03
+ironman-70.3-elsinore-20150621.csv,730,Thomas Sønderkær Meyer,44,---,DNK,00:44:12,02:31:45,01:31:01,00:05:26,00:02:06,04:54:30
+ironman-70.3-elsinore-20150621.csv,731,Jacob Schiott,44,---,DNK,00:32:55,02:26:54,01:28:00,00:05:17,00:01:50,04:34:56
+ironman-70.3-elsinore-20150621.csv,732,Michael Hartmann,44,---,DNK,00:54:06,02:59:09,02:05:49,00:13:16,00:04:45,06:17:05
+ironman-70.3-elsinore-20150621.csv,733,Frederik Schouboe,44,DK,DNK,00:42:32,02:32:18,01:50:30,00:08:13,00:02:32,05:16:05
+ironman-70.3-elsinore-20150621.csv,734,Dennis Kjaer,44,---,DNK,00:41:10,03:09:12,02:12:05,00:09:32,00:02:44,06:14:43
+ironman-70.3-elsinore-20150621.csv,735,Rune Skytte Pedersen,44,---,DNK,00:40:35,02:42:29,01:48:27,00:08:29,00:03:06,05:23:06
+ironman-70.3-elsinore-20150621.csv,736,Mikkel Larsen,44,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,737,Nikolaj Damgaard Vand,44,---,DNK,00:42:54,02:39:49,01:51:44,00:08:09,00:03:37,05:26:13
+ironman-70.3-elsinore-20150621.csv,738,Björn Carlsson,44,---,SWE,00:43:38,02:58:50,01:52:40,00:10:10,00:03:59,05:49:17
+ironman-70.3-elsinore-20150621.csv,739,Dan Munkholm,44,DK,DNK,00:37:57,02:28:56,01:59:51,00:08:50,00:02:36,05:18:10
+ironman-70.3-elsinore-20150621.csv,740,jean-reynald millot,44,---,FRA,00:36:26,---,---,00:06:23,---,DNF
+ironman-70.3-elsinore-20150621.csv,741,Claus Basballe Madsen,44,---,DNK,00:47:45,02:49:32,01:56:31,00:09:40,00:05:42,05:49:10
+ironman-70.3-elsinore-20150621.csv,742,Klaus Cassøe,44,---,DNK,00:36:04,02:42:54,02:07:31,00:08:19,00:03:56,05:38:44
+ironman-70.3-elsinore-20150621.csv,743,Nicolai Hwiid Poulsen,44,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,744,Søren Eising,44,---,DNK,00:45:05,02:46:56,02:14:06,00:09:27,00:02:58,05:58:32
+ironman-70.3-elsinore-20150621.csv,745,Niels Hallenberg,44,---,DNK,00:43:13,02:45:08,01:36:56,00:10:01,00:03:39,05:18:57
+ironman-70.3-elsinore-20150621.csv,746,william massimi,44,macerata,ITA,00:36:52,02:36:26,01:47:22,00:09:15,00:03:09,05:13:04
+ironman-70.3-elsinore-20150621.csv,747,Kjell Kronstad,44,---,NOR,00:37:57,02:35:22,02:21:03,00:10:07,00:04:00,05:48:29
+ironman-70.3-elsinore-20150621.csv,748,Jacob Kildegaard,44,DK,DNK,00:32:38,02:25:20,01:26:34,00:05:57,00:01:44,04:32:13
+ironman-70.3-elsinore-20150621.csv,749,Niklas Winde,44,---,SWE,00:43:16,02:39:58,01:41:35,00:11:30,00:03:19,05:19:38
+ironman-70.3-elsinore-20150621.csv,750,Johnny Bay,44,---,DNK,00:30:22,02:31:38,01:32:23,00:04:39,00:02:23,04:41:25
+ironman-70.3-elsinore-20150621.csv,751,Dennis Lanther,44,---,DNK,00:39:23,02:41:35,01:35:21,00:09:03,00:04:06,05:09:28
+ironman-70.3-elsinore-20150621.csv,752,Frank Kjær Johansen,44,---,DNK,00:48:23,02:59:23,02:00:30,00:08:52,00:07:38,06:04:46
+ironman-70.3-elsinore-20150621.csv,753,Henrik Abraham,44,---,DNK,00:31:23,02:29:59,01:54:29,00:08:07,00:03:17,05:07:15
+ironman-70.3-elsinore-20150621.csv,754,Jens Hansen,45,DK,DNK,00:41:53,02:24:41,01:35:37,00:07:54,00:01:55,04:52:00
+ironman-70.3-elsinore-20150621.csv,755,Tim Bilstrup,44,---,DNK,00:31:23,02:29:54,01:57:08,00:07:51,00:02:02,05:08:18
+ironman-70.3-elsinore-20150621.csv,756,Mikkel Soelberg,44,DK,DNK,00:37:37,02:40:32,01:39:14,00:05:25,00:01:57,05:04:45
+ironman-70.3-elsinore-20150621.csv,757,Sascha Dobrowohl,44,DK,DEU,00:34:59,02:51:36,02:06:34,00:08:45,00:03:17,05:45:11
+ironman-70.3-elsinore-20150621.csv,758,Brian Priis,44,---,DNK,00:41:47,02:36:58,01:28:51,00:11:53,00:02:44,05:02:13
+ironman-70.3-elsinore-20150621.csv,759,Anders Roll,44,---,DNK,00:52:17,02:56:00,02:06:34,00:08:07,00:03:03,06:06:01
+ironman-70.3-elsinore-20150621.csv,760,Jan Poulsen,44,---,DNK,00:43:21,02:52:22,---,00:12:37,---,DNF
+ironman-70.3-elsinore-20150621.csv,761,Carsten Abildtrup Hansen,44,---,DNK,01:08:12,03:06:30,02:49:05,00:09:40,00:03:35,07:17:02
+ironman-70.3-elsinore-20150621.csv,762,Torbjörn Feltendahl,44,---,SWE,00:40:41,02:41:01,01:42:27,00:10:09,00:03:17,05:17:35
+ironman-70.3-elsinore-20150621.csv,763,Jesper Bo Jensen,44,---,DNK,00:47:04,03:07:08,02:01:12,00:10:41,00:05:23,06:11:28
+ironman-70.3-elsinore-20150621.csv,764,Steen Nøhr Dalberg,44,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,765,Michael Kiilsgaard Nielsen,44,---,DNK,00:49:27,03:07:50,02:14:44,00:12:48,00:04:22,06:29:11
+ironman-70.3-elsinore-20150621.csv,766,Jakob Clausen,44,---,DNK,00:58:32,03:04:35,02:25:19,00:14:02,00:05:04,06:47:32
+ironman-70.3-elsinore-20150621.csv,767,Bo Ørbjerg,44,---,DNK,00:44:19,02:47:00,01:53:17,00:06:43,00:01:45,05:33:04
+ironman-70.3-elsinore-20150621.csv,768,Mårten Nilsson,44,---,SWE,00:35:18,02:38:05,01:40:30,00:06:57,00:03:33,05:04:23
+ironman-70.3-elsinore-20150621.csv,769,Emmanuel Bertrand,45,---,FRA,00:31:43,02:37:22,01:47:24,00:06:41,00:02:27,05:05:37
+ironman-70.3-elsinore-20150621.csv,770,Carsten Nygaard Brøgger,45,DK,DNK,00:38:52,02:58:48,02:10:42,00:09:37,00:03:58,06:01:57
+ironman-70.3-elsinore-20150621.csv,771,Carsten Jørgensen,45,DK,DNK,00:46:17,02:50:47,01:40:41,00:11:34,00:03:17,05:32:36
+ironman-70.3-elsinore-20150621.csv,772,Georgios Papageorgiou,45,---,DNK,00:34:54,02:43:36,02:28:05,00:08:33,00:05:30,06:00:38
+ironman-70.3-elsinore-20150621.csv,773,Jose Periel,45,---,ESP,00:31:40,02:29:13,01:38:15,00:08:12,00:04:04,04:51:24
+ironman-70.3-elsinore-20150621.csv,774,Torben Klogborg,45,DK,DNK,00:37:19,02:43:15,01:54:10,00:06:32,00:03:10,05:24:26
+ironman-70.3-elsinore-20150621.csv,775,Andre Dommer,45,---,DNK,00:30:55,02:26:27,01:28:11,00:05:51,00:01:50,04:33:14
+ironman-70.3-elsinore-20150621.csv,776,Henrik Funding Raun,45,---,DNK,00:38:08,02:51:41,01:47:53,00:06:34,00:03:15,05:27:31
+ironman-70.3-elsinore-20150621.csv,777,René Frølund,45,---,DNK,00:37:03,02:28:32,01:39:44,00:07:07,00:02:21,04:54:47
+ironman-70.3-elsinore-20150621.csv,778,Magne Karlsen,45,---,NOR,00:35:43,02:38:06,01:58:28,00:07:17,00:03:35,05:23:09
+ironman-70.3-elsinore-20150621.csv,779,Jan Oelholm Mortensen,45,---,DNK,00:42:34,02:48:24,01:56:46,00:09:39,00:03:35,05:40:58
+ironman-70.3-elsinore-20150621.csv,780,Lars Bork Hansen,45,---,DNK,00:54:12,03:17:43,---,00:10:39,00:06:46,DNF
+ironman-70.3-elsinore-20150621.csv,781,Anders Dalsgaard,45,---,DNK,00:29:02,02:57:46,01:47:04,00:07:38,00:03:34,05:25:04
+ironman-70.3-elsinore-20150621.csv,782,Stephan Linde,45,---,DEU,00:34:26,02:38:47,01:49:28,00:10:58,00:03:55,05:17:34
+ironman-70.3-elsinore-20150621.csv,783,Ortwin Strolz,45,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,784,Jeroen Alkemade,45,NED,NLD,00:35:03,02:40:03,01:52:24,00:06:01,00:02:56,05:16:27
+ironman-70.3-elsinore-20150621.csv,785,Rune Sanbeck,45,UK,DNK,00:34:49,02:25:53,01:39:49,00:06:40,00:02:33,04:49:44
+ironman-70.3-elsinore-20150621.csv,786,Ulf Jensen,45,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,787,Henrik Jensen,45,---,DNK,00:47:12,03:09:57,02:44:04,00:11:47,00:05:35,06:58:35
+ironman-70.3-elsinore-20150621.csv,788,Karsten Due,45,Other,DNK,00:36:59,02:38:32,02:15:57,00:07:09,00:02:32,05:41:09
+ironman-70.3-elsinore-20150621.csv,789,Claes Bølge,45,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,790,Leif Lindqvist,45,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,791,Henrik Wagtberg,45,DK,DNK,00:38:02,02:32:40,01:39:32,00:05:50,00:02:37,04:58:41
+ironman-70.3-elsinore-20150621.csv,792,Michael Elgaard Petersen,45,---,DNK,00:42:08,02:37:03,01:44:41,00:09:37,00:03:03,05:16:32
+ironman-70.3-elsinore-20150621.csv,793,Einar Ronæs,45,---,NOR,00:48:02,03:17:43,02:14:57,00:13:48,00:05:11,06:39:41
+ironman-70.3-elsinore-20150621.csv,794,Johan Ronæs,45,NO,NOR,00:39:26,02:45:18,01:59:40,00:10:59,00:04:21,05:39:44
+ironman-70.3-elsinore-20150621.csv,795,Kenneth Bergø-Enkebøll,45,---,DNK,00:39:34,02:59:40,---,00:08:58,00:03:05,DNF
+ironman-70.3-elsinore-20150621.csv,796,Lenny Damholt,45,---,DNK,00:42:23,02:55:57,01:48:40,00:09:50,00:05:22,05:42:12
+ironman-70.3-elsinore-20150621.csv,797,Ole Rosengren,45,---,NOR,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,798,David Grubb,45,---,SWE,00:29:49,02:32:59,01:33:07,00:06:09,00:01:59,04:44:03
+ironman-70.3-elsinore-20150621.csv,799,Michael Slot,45,---,DNK,00:46:32,03:01:11,02:21:31,00:12:32,00:04:47,06:26:33
+ironman-70.3-elsinore-20150621.csv,800,Brian Gehl Andersen,45,---,DNK,00:38:16,03:01:39,01:54:42,00:10:33,00:04:27,05:49:37
+ironman-70.3-elsinore-20150621.csv,801,Klaus Halloe,45,---,DNK,00:29:34,02:29:37,01:32:54,00:04:05,00:02:00,04:38:10
+ironman-70.3-elsinore-20150621.csv,802,Jesper Fog,45,---,DNK,00:38:16,02:29:26,01:35:03,00:06:20,00:01:57,04:51:02
+ironman-70.3-elsinore-20150621.csv,803,Lars Ulrich Digmann,45,---,DNK,00:50:43,02:43:41,02:20:23,00:06:48,00:03:04,06:04:39
+ironman-70.3-elsinore-20150621.csv,804,Guillermo Luis Salinas Ortega,45,---,DNK,00:35:50,02:45:09,01:34:32,00:05:31,00:02:45,05:03:47
+ironman-70.3-elsinore-20150621.csv,805,Claus Walther Jensen,45,---,DNK,00:33:52,02:27:14,01:26:34,00:06:13,00:02:06,04:35:59
+ironman-70.3-elsinore-20150621.csv,806,Casper Ulrik Fischer,45,---,DNK,00:38:59,02:35:33,01:38:41,00:07:35,00:01:24,05:02:12
+ironman-70.3-elsinore-20150621.csv,807,Thomas Christian Bertelsen,45,---,DNK,00:35:32,02:43:21,01:52:41,00:09:11,00:02:30,05:23:15
+ironman-70.3-elsinore-20150621.csv,808,Christian Nebel,45,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,809,Keld Mathiasen,45,---,DNK,00:35:38,02:27:51,01:36:04,00:05:57,00:02:11,04:47:41
+ironman-70.3-elsinore-20150621.csv,810,Søren Houmøller,45,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,811,Robert Jean Charles Mayer,45,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,812,Morten Kristensen,46,---,DNK,00:37:57,02:42:21,01:29:39,00:08:41,00:03:09,05:01:47
+ironman-70.3-elsinore-20150621.csv,813,Jakob Havsager,46,---,DNK,00:47:47,02:32:41,01:48:16,00:06:25,00:02:05,05:17:14
+ironman-70.3-elsinore-20150621.csv,814,Peter Zachrisson Poulsen,46,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,815,Tor-Eirik Holt,46,---,NOR,00:32:34,02:26:02,01:34:41,00:05:35,00:03:23,04:42:15
+ironman-70.3-elsinore-20150621.csv,816,Maurilio Usai,46,ITALIA,ITA,00:50:56,03:04:45,02:00:01,00:14:01,00:03:47,06:13:30
+ironman-70.3-elsinore-20150621.csv,817,Henrik Handschuh,46,---,DNK,00:43:05,02:55:35,01:55:28,00:09:12,00:02:19,05:45:39
+ironman-70.3-elsinore-20150621.csv,818,Niels Frede Thomsen,46,---,DNK,00:42:40,02:40:02,01:45:34,00:07:09,00:02:03,05:17:28
+ironman-70.3-elsinore-20150621.csv,819,Martin Christian Koch,46,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,820,Jack Skov,46,---,DNK,00:36:24,02:38:27,01:39:14,00:05:47,00:02:06,05:01:58
+ironman-70.3-elsinore-20150621.csv,821,Lars Heine Andersen,46,---,DNK,00:37:20,02:54:31,01:54:56,00:06:47,00:03:27,05:37:01
+ironman-70.3-elsinore-20150621.csv,822,Jakob Knudsen,46,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,823,Tom Danielsson,46,---,SWE,00:40:05,02:50:24,01:44:50,00:10:32,00:06:08,05:31:59
+ironman-70.3-elsinore-20150621.csv,824,Jan Wodschow,46,---,DNK,00:36:23,02:27:17,01:29:35,00:05:14,00:01:58,04:40:27
+ironman-70.3-elsinore-20150621.csv,825,Henrik Vig-Andersen,46,---,DNK,00:44:42,02:48:21,02:00:59,00:06:55,00:04:01,05:44:58
+ironman-70.3-elsinore-20150621.csv,826,Peter Lundbergh,46,---,DNK,00:48:16,02:54:11,01:46:14,00:09:50,00:02:45,05:41:16
+ironman-70.3-elsinore-20150621.csv,827,Martin Gürtler,46,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,828,Arjan Huberts,46,---,NLD,00:37:07,02:40:10,01:48:18,00:05:46,00:02:51,05:14:12
+ironman-70.3-elsinore-20150621.csv,829,Ali Tabbal,46,DXB,USA,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,830,Thomas Scheibel,46,---,DNK,00:36:13,02:45:30,01:54:29,00:07:40,00:03:31,05:27:23
+ironman-70.3-elsinore-20150621.csv,831,Thomas Althin,46,SE,SWE,00:37:29,02:47:29,01:51:31,00:08:41,00:03:13,05:28:23
+ironman-70.3-elsinore-20150621.csv,832,Thomas Aporta,46,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,833,Selcuk Caglar,46,---,USA,00:42:03,02:33:56,01:42:55,00:07:31,00:03:38,05:10:03
+ironman-70.3-elsinore-20150621.csv,834,Dennis Stuhr Madsen,46,---,DNK,00:35:56,02:33:01,01:29:40,00:08:02,00:03:02,04:49:41
+ironman-70.3-elsinore-20150621.csv,835,Jan Reichl,46,---,DNK,00:47:46,02:47:54,01:57:40,00:09:29,00:02:44,05:45:33
+ironman-70.3-elsinore-20150621.csv,836,Lars Iversen,46,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,837,Thomas Jespersen,47,---,DNK,00:48:14,03:05:41,02:19:52,00:13:00,00:05:49,06:32:36
+ironman-70.3-elsinore-20150621.csv,838,Stig Jensen,47,DK,DNK,00:45:03,03:03:41,03:01:47,00:09:50,00:03:48,07:04:09
+ironman-70.3-elsinore-20150621.csv,839,Stig Thomassen,47,---,DNK,00:40:21,02:43:44,02:14:10,00:08:02,00:02:48,05:49:05
+ironman-70.3-elsinore-20150621.csv,840,Kenneth Falkenberg,47,---,DNK,00:33:57,02:40:17,01:55:44,00:10:21,00:03:35,05:23:54
+ironman-70.3-elsinore-20150621.csv,841,Anders Jakobsson,47,---,SWE,00:37:23,02:42:50,01:31:59,00:06:20,00:03:32,05:02:04
+ironman-70.3-elsinore-20150621.csv,842,Jack Enevoldsen,47,---,DNK,00:38:35,02:27:29,---,00:07:02,00:02:21,DNF
+ironman-70.3-elsinore-20150621.csv,843,Christian Gorm Hoffmann,47,---,DNK,00:36:36,02:39:07,01:51:03,00:07:49,00:02:31,05:17:06
+ironman-70.3-elsinore-20150621.csv,844,Steffen Hohl,47,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,845,Steen Burchardt,47,---,DNK,00:46:42,02:52:58,01:46:27,00:15:20,00:04:40,05:46:07
+ironman-70.3-elsinore-20150621.csv,846,Robert Bruun Mariager,47,---,DNK,00:43:25,02:40:22,02:27:11,00:07:51,00:03:03,06:01:52
+ironman-70.3-elsinore-20150621.csv,847,Henrik Rasmussen,47,---,DNK,00:36:45,02:57:49,02:01:47,00:09:25,00:05:36,05:51:22
+ironman-70.3-elsinore-20150621.csv,848,David Vest,47,København NV,DNK,00:32:43,02:33:31,01:31:39,00:07:02,00:01:27,04:46:22
+ironman-70.3-elsinore-20150621.csv,849,Jason Andersson,47,SE,SWE,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,850,Murat Aroyo,47,TEL AVIV,ISR,00:35:12,03:11:41,02:18:53,00:12:56,00:05:34,06:24:16
+ironman-70.3-elsinore-20150621.csv,851,Thomas Rosendal,47,---,DNK,00:28:51,02:26:04,01:27:31,00:05:38,00:02:03,04:30:07
+ironman-70.3-elsinore-20150621.csv,852,Morten Jørgensen,47,---,DNK,00:51:18,03:02:00,02:03:07,00:11:49,00:08:07,06:16:21
+ironman-70.3-elsinore-20150621.csv,853,Kenneth Olskær,47,---,DNK,00:49:09,03:01:51,01:52:03,00:11:59,00:03:52,05:58:54
+ironman-70.3-elsinore-20150621.csv,854,Kenneth Hofland,47,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,855,Kenneth Madsen,47,---,DNK,00:32:51,02:46:30,02:36:25,00:05:54,00:01:52,06:03:32
+ironman-70.3-elsinore-20150621.csv,856,Jan Sunesen,47,---,DNK,00:34:10,02:29:40,01:29:41,00:06:33,00:01:34,04:41:38
+ironman-70.3-elsinore-20150621.csv,857,Thomas Nommesen,47,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,858,Nicola Pasquini,47,ita venezia,ITA,00:34:22,02:47:27,02:12:04,00:09:39,00:03:33,05:47:05
+ironman-70.3-elsinore-20150621.csv,859,Jesper Axel Froberg,47,---,DNK,00:38:48,02:47:17,01:48:21,00:07:14,00:03:07,05:24:47
+ironman-70.3-elsinore-20150621.csv,860,Niels Thomsen,---,---,DNK,00:42:37,02:44:46,01:45:32,00:06:20,00:03:19,05:22:34
+ironman-70.3-elsinore-20150621.csv,861,Stig Christensen,47,---,DNK,00:39:37,02:46:16,02:00:52,00:09:48,00:04:52,05:41:25
+ironman-70.3-elsinore-20150621.csv,862,Jens Peder Rix,47,---,DNK,00:31:53,02:33:06,01:22:24,00:04:28,00:01:46,04:33:37
+ironman-70.3-elsinore-20150621.csv,863,Robert Alexander Johnson,47,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,864,Patrick Thiessen,47,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,865,Niels Mathiesen,47,---,DNK,00:53:04,03:02:08,02:18:16,00:13:49,00:05:46,06:33:03
+ironman-70.3-elsinore-20150621.csv,866,Morten Søndergaard,47,---,DNK,00:41:25,02:24:21,01:25:51,00:07:22,00:02:37,04:41:36
+ironman-70.3-elsinore-20150621.csv,867,Søren Søgaard,47,---,DNK,00:39:01,02:44:49,01:48:57,00:10:19,00:03:38,05:26:44
+ironman-70.3-elsinore-20150621.csv,868,Michael Plenov,47,---,DNK,00:39:35,02:59:35,01:44:33,00:09:17,00:04:19,05:37:19
+ironman-70.3-elsinore-20150621.csv,869,Claudi Trabolt,47,---,DNK,00:48:41,02:53:08,01:55:06,00:06:33,00:03:18,05:46:46
+ironman-70.3-elsinore-20150621.csv,870,Christian Haas,47,---,DNK,00:50:36,03:05:06,01:58:05,00:11:52,00:03:56,06:09:35
+ironman-70.3-elsinore-20150621.csv,871,Allan Randlev,47,---,DNK,00:33:21,02:42:11,01:54:53,00:07:53,00:02:02,05:20:20
+ironman-70.3-elsinore-20150621.csv,872,Roland Thyssen Hansen,47,DK,DNK,00:53:23,02:45:44,01:53:46,00:11:10,00:02:30,05:46:33
+ironman-70.3-elsinore-20150621.csv,873,Claus Engstrã¸m,47,---,DNK,00:37:00,02:28:55,01:32:58,00:10:22,00:05:20,04:54:35
+ironman-70.3-elsinore-20150621.csv,874,Kristian Hansen,47,---,DNK,00:32:30,02:26:40,01:34:03,00:08:23,00:04:03,04:45:39
+ironman-70.3-elsinore-20150621.csv,875,Ole Sten Mortensen,47,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,876,Erik Boyter,47,---,DNK,00:32:50,02:49:36,02:42:49,00:09:10,00:05:28,06:19:53
+ironman-70.3-elsinore-20150621.csv,877,Carsten Oldal,47,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,878,Johan Fogel,47,---,SWE,00:34:49,02:27:41,01:42:55,00:05:00,00:01:52,04:52:17
+ironman-70.3-elsinore-20150621.csv,879,Steen Busch Jensen,47,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,880,Pieter Aaldring,47,---,NLD,00:35:50,02:30:49,01:53:21,00:05:22,00:02:02,05:07:24
+ironman-70.3-elsinore-20150621.csv,881,Peter Christiansen,47,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,882,Per Roager,47,---,DNK,00:34:24,02:44:53,01:47:58,00:08:04,00:04:29,05:19:48
+ironman-70.3-elsinore-20150621.csv,883,Jacob Stockmarr Gerdorf,47,---,DNK,00:38:47,02:52:14,02:13:24,00:10:25,00:09:52,06:04:42
+ironman-70.3-elsinore-20150621.csv,884,Poul Diemer-Harild,48,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,885,Martin Ellekilde,48,---,DNK,00:42:47,02:39:21,01:52:48,00:06:42,00:02:39,05:24:17
+ironman-70.3-elsinore-20150621.csv,886,Derry O'Neill,48,---,GBR,00:51:26,03:03:46,02:27:48,00:07:17,00:04:23,06:34:40
+ironman-70.3-elsinore-20150621.csv,887,Allan Damsø,48,---,DNK,00:45:45,02:52:19,02:10:47,00:09:16,00:03:58,06:02:05
+ironman-70.3-elsinore-20150621.csv,888,Janus Mens,48,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,889,Jens Sabinsky Riis,48,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,890,Soeren Foenskov Olsen,48,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,891,Thomas Jakobsen,48,DK,DNK,00:38:47,02:34:38,---,00:08:08,00:02:25,DNF
+ironman-70.3-elsinore-20150621.csv,892,Tonny Simonsen,48,---,DNK,00:45:00,02:54:42,---,00:11:20,00:07:09,DNF
+ironman-70.3-elsinore-20150621.csv,893,Antonius Petrus Gerardus Wolters,48,---,NLD,00:47:03,02:46:52,01:54:11,00:08:39,00:05:44,05:42:29
+ironman-70.3-elsinore-20150621.csv,894,Mads Lundsgaard Thomsen,48,DK,DNK,00:47:06,03:05:15,02:10:12,00:12:26,00:04:50,06:19:49
+ironman-70.3-elsinore-20150621.csv,895,Torben Valsø Møller,48,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,896,Jens Belner,48,---,DNK,00:43:32,02:58:46,02:14:12,00:11:00,00:04:58,06:12:28
+ironman-70.3-elsinore-20150621.csv,897,Stig Hylling Munchaus,48,---,DNK,00:42:58,02:46:42,02:22:07,00:08:34,00:04:29,06:04:50
+ironman-70.3-elsinore-20150621.csv,898,Patrik Rosén,48,SE,SWE,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,899,Johnny Carlsen,---,DK,DNK,00:38:26,02:37:51,01:55:44,00:07:38,00:01:59,05:21:38
+ironman-70.3-elsinore-20150621.csv,900,Christian Stagsted Jakobsen,48,---,DNK,00:41:28,03:05:26,01:49:24,00:08:54,00:04:49,05:50:01
+ironman-70.3-elsinore-20150621.csv,901,Kim Svejstrup,48,DK,DNK,00:42:22,02:37:33,01:39:20,00:07:54,00:01:58,05:09:07
+ironman-70.3-elsinore-20150621.csv,902,Henrik Vang,48,---,DNK,00:43:14,02:41:15,01:58:00,00:08:05,00:05:26,05:36:00
+ironman-70.3-elsinore-20150621.csv,903,Carsten Petersen,---,DK,DNK,00:51:37,03:12:18,02:35:20,00:11:50,00:06:11,06:57:16
+ironman-70.3-elsinore-20150621.csv,904,Claus Nelsson,48,---,DNK,00:40:35,02:50:18,01:45:57,00:09:33,00:02:30,05:28:53
+ironman-70.3-elsinore-20150621.csv,905,John Gregers Rasmussen,48,---,DNK,00:34:03,02:46:20,01:35:49,00:12:05,00:03:18,05:11:35
+ironman-70.3-elsinore-20150621.csv,906,Stig Knudsen,48,---,DNK,00:53:18,02:57:06,01:57:53,00:10:35,00:03:40,06:02:32
+ironman-70.3-elsinore-20150621.csv,907,Morten Stobbe,48,---,DNK,00:46:03,02:45:28,01:43:07,00:06:31,00:01:44,05:22:53
+ironman-70.3-elsinore-20150621.csv,908,Tomas Larsson,48,---,SWE,00:40:14,02:45:06,01:40:22,00:06:22,00:02:46,05:14:50
+ironman-70.3-elsinore-20150621.csv,909,Wesley Absolom,48,Essex,GBR,00:39:13,02:48:44,01:40:25,00:05:54,00:02:44,05:17:00
+ironman-70.3-elsinore-20150621.csv,910,Claus Hovge Andersen,48,DK,DNK,00:47:41,02:49:47,01:43:26,00:08:46,00:03:47,05:33:27
+ironman-70.3-elsinore-20150621.csv,911,Ton Van Vliet,48,---,NLD,00:34:02,02:32:18,01:52:43,00:06:05,00:04:02,05:09:10
+ironman-70.3-elsinore-20150621.csv,912,Stephan Michaels,48,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,913,Rasmus Damsgaard,48,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,914,Robbert Wagemaker,48,---,NLD,00:29:53,02:33:19,01:44:30,00:05:51,00:02:39,04:56:12
+ironman-70.3-elsinore-20150621.csv,915,Peter Cullura Hansen,48,---,DNK,00:47:13,03:01:15,02:12:35,00:14:06,00:03:28,06:18:37
+ironman-70.3-elsinore-20150621.csv,916,Jørgen Ole Jørgensen,48,---,DNK,00:42:19,02:47:41,01:48:47,00:08:15,00:02:17,05:29:19
+ironman-70.3-elsinore-20150621.csv,917,Jan Licht,48,---,DNK,00:55:04,02:52:26,02:21:26,00:10:45,00:03:45,06:23:26
+ironman-70.3-elsinore-20150621.csv,918,Carsten Braagaard,48,---,DNK,00:40:54,02:34:02,01:29:29,00:07:36,00:02:53,04:54:54
+ironman-70.3-elsinore-20150621.csv,919,Ole Bistrup,48,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,920,Greg Magrath,48,---,ZAF,00:31:34,02:51:35,02:16:42,00:06:12,00:04:18,05:50:21
+ironman-70.3-elsinore-20150621.csv,921,Henrik Bonnerup,48,---,DNK,00:33:49,02:44:09,01:41:07,00:06:06,00:01:54,05:07:05
+ironman-70.3-elsinore-20150621.csv,922,Niels Kjær Jørgensen,48,---,DNK,00:54:26,02:39:44,02:24:16,00:11:46,00:03:41,06:13:53
+ironman-70.3-elsinore-20150621.csv,923,Peter Post Lundsgaard,48,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,924,Tom Gondan,48,---,DNK,00:38:57,02:58:42,02:18:23,00:09:16,00:06:42,06:12:00
+ironman-70.3-elsinore-20150621.csv,925,Jesper Iwersen,49,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,926,Anders Rosqvist,---,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,927,Palle Berdiin,49,---,DNK,00:33:46,02:42:32,01:50:44,00:06:42,00:02:53,05:16:37
+ironman-70.3-elsinore-20150621.csv,928,Morten Strømstad,49,---,DNK,00:41:44,02:44:35,01:39:42,00:07:07,00:03:22,05:16:30
+ironman-70.3-elsinore-20150621.csv,929,Claus Ellebjerg Due,49,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,930,Michaell Henrik Floyd Vitagliano,49,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,931,Tony Thordal Sinding,49,---,DNK,00:53:19,02:48:39,01:44:19,00:07:29,00:03:57,05:37:43
+ironman-70.3-elsinore-20150621.csv,932,Dan Jensen,49,---,DNK,00:41:48,02:48:14,01:32:59,00:08:09,00:03:35,05:14:45
+ironman-70.3-elsinore-20150621.csv,933,Michael Graves,49,---,DNK,00:40:46,02:44:25,01:52:20,00:07:39,00:02:55,05:28:05
+ironman-70.3-elsinore-20150621.csv,934,Frank Møller,49,---,DNK,00:34:17,02:57:16,01:48:33,00:12:07,00:04:26,05:36:39
+ironman-70.3-elsinore-20150621.csv,935,Steen Jensen,49,---,DNK,00:36:51,03:09:18,01:38:47,00:07:08,00:02:35,05:34:39
+ironman-70.3-elsinore-20150621.csv,936,Peter Nielsen,47,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,937,Anders Lund Rendtorff,---,DEN,DNK,00:59:49,03:01:18,02:33:06,00:07:54,00:05:30,06:47:37
+ironman-70.3-elsinore-20150621.csv,938,Claus Gildberg,49,---,DNK,00:33:54,02:43:24,02:15:36,00:08:27,00:04:22,05:45:43
+ironman-70.3-elsinore-20150621.csv,939,Christian Schou,49,---,DNK,00:36:41,02:40:18,01:50:45,00:06:57,00:03:42,05:18:23
+ironman-70.3-elsinore-20150621.csv,940,Niels Jensen,49,---,DNK,00:38:17,02:36:14,01:57:00,00:08:13,00:02:36,05:22:20
+ironman-70.3-elsinore-20150621.csv,941,Henrik Mathiesen,49,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,942,Peter Hansen,---,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,943,Peter Hansen,---,---,DNK,00:44:22,02:56:49,02:17:04,00:08:06,00:04:43,06:11:04
+ironman-70.3-elsinore-20150621.csv,944,Björn Harkell,49,---,SWE,00:44:54,02:58:19,01:58:52,00:07:38,00:03:51,05:53:34
+ironman-70.3-elsinore-20150621.csv,945,Christina Mader Gullander,39,---,DNK,00:44:26,02:58:42,01:57:23,00:07:24,00:02:57,05:50:52
+ironman-70.3-elsinore-20150621.csv,946,Didi Dalsten,39,---,DNK,00:43:10,03:10:55,02:12:45,00:09:55,00:02:52,06:19:37
+ironman-70.3-elsinore-20150621.csv,947,Lene Takelund,39,---,NOR,00:32:54,02:54:56,01:55:17,00:07:04,00:02:34,05:32:45
+ironman-70.3-elsinore-20150621.csv,948,Christina Rosendahl,39,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,949,Tina Baltzer,40,---,DNK,00:44:55,03:01:04,02:12:29,00:07:11,00:05:40,06:11:19
+ironman-70.3-elsinore-20150621.csv,950,Marie Hjorth,39,---,DNK,00:38:36,02:46:23,01:43:17,00:08:15,00:02:23,05:18:54
+ironman-70.3-elsinore-20150621.csv,951,Henni Christensen,40,DK,DNK,00:36:28,02:40:34,01:44:57,00:06:30,00:02:06,05:10:35
+ironman-70.3-elsinore-20150621.csv,952,Trine Lamers,40,---,DNK,00:42:13,03:09:59,02:10:54,00:09:17,00:02:27,06:14:50
+ironman-70.3-elsinore-20150621.csv,953,Kristina Asmussen,40,---,DNK,00:52:20,03:04:16,02:12:13,00:10:00,00:06:15,06:25:04
+ironman-70.3-elsinore-20150621.csv,954,Mathilde Maagaard,40,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,955,Katja-Lill Jensen,40,DK,DNK,00:36:53,02:46:33,01:51:30,00:05:54,00:02:27,05:23:17
+ironman-70.3-elsinore-20150621.csv,956,Mariah Sjöberg,40,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,957,Marianne Havregaard Sørensen,40,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,958,Seija Aalto,40,Finland,FIN,00:35:34,02:42:31,01:39:48,00:08:57,00:02:12,05:09:02
+ironman-70.3-elsinore-20150621.csv,959,Anne Michel,---,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,960,Kirstine Bach Mortensen,41,---,DNK,00:47:29,03:37:19,02:35:08,00:12:30,00:04:35,07:17:01
+ironman-70.3-elsinore-20150621.csv,961,Susanne Ward,41,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,962,Tina Vikke,41,---,DNK,00:40:03,02:50:06,01:48:22,00:08:13,00:03:15,05:29:59
+ironman-70.3-elsinore-20150621.csv,963,Rikke Andersen,41,---,DNK,00:39:40,02:58:29,01:59:04,00:09:00,00:02:36,05:48:49
+ironman-70.3-elsinore-20150621.csv,964,Maria Severin,41,---,DNK,00:41:36,03:23:36,01:45:57,00:14:52,00:05:08,06:11:09
+ironman-70.3-elsinore-20150621.csv,965,Lone Knudsen,41,---,DNK,00:37:59,02:54:39,01:57:53,00:11:42,00:03:17,05:45:30
+ironman-70.3-elsinore-20150621.csv,966,Janette Dommer,41,---,DNK,00:33:14,02:33:50,01:27:49,00:06:28,00:01:58,04:43:19
+ironman-70.3-elsinore-20150621.csv,967,Annemette Hilligsoe Kaiser,42,---,DNK,00:49:23,03:05:12,01:55:00,00:10:58,00:06:38,06:07:11
+ironman-70.3-elsinore-20150621.csv,968,Jane Smith,42,---,DNK,00:40:52,03:07:01,01:59:41,00:08:54,00:03:46,06:00:14
+ironman-70.3-elsinore-20150621.csv,969,Susanne Olling,42,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,970,Maarit Kaskela,42,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,971,Christiane Harwardt-Linde,42,---,DEU,00:45:14,03:18:58,02:12:40,00:11:57,00:04:42,06:33:31
+ironman-70.3-elsinore-20150621.csv,972,Trine Hounsgaard Pfeiffer,42,DK,DNK,00:46:20,03:06:14,02:04:02,00:10:02,00:03:21,06:09:59
+ironman-70.3-elsinore-20150621.csv,973,Mette Kaarsbo,42,---,DNK,00:41:25,03:27:12,02:11:08,00:10:22,00:03:36,06:33:43
+ironman-70.3-elsinore-20150621.csv,974,Tine Bogetoft Christensen,42,---,DNK,00:43:53,03:11:04,02:07:26,00:10:33,00:03:14,06:16:10
+ironman-70.3-elsinore-20150621.csv,975,Birgitte Benzon,42,---,DNK,00:43:06,03:19:06,02:45:07,00:11:47,00:05:04,07:04:10
+ironman-70.3-elsinore-20150621.csv,976,Anne Louise Gimsing,42,---,DNK,00:40:11,02:47:25,01:41:29,00:06:30,00:04:09,05:19:44
+ironman-70.3-elsinore-20150621.csv,977,Anne Karina Heinecke,43,---,DNK,00:41:20,02:43:14,01:46:45,00:07:05,00:02:16,05:20:40
+ironman-70.3-elsinore-20150621.csv,978,Rikke Bay-Hansen,43,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,979,Johanne Jacobsen,43,---,DNK,00:50:12,03:19:43,02:12:01,00:11:39,00:04:14,06:37:49
+ironman-70.3-elsinore-20150621.csv,980,Mia Mourier,43,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,981,Monica Heggli,43,---,NOR,00:45:20,03:06:30,02:05:58,00:13:09,00:06:32,06:17:29
+ironman-70.3-elsinore-20150621.csv,982,Mette Dam,43,---,DNK,00:33:43,02:56:59,01:46:13,00:06:50,00:01:40,05:25:25
+ironman-70.3-elsinore-20150621.csv,983,Line Kim Bogdahn,43,---,DNK,00:47:26,03:07:11,02:04:58,00:11:47,00:07:07,06:18:29
+ironman-70.3-elsinore-20150621.csv,984,Sofie Lindahl-Jessen,43,---,DNK,00:45:27,02:56:16,01:55:10,00:07:51,00:03:03,05:47:47
+ironman-70.3-elsinore-20150621.csv,985,Mette Jønsson,43,---,DNK,00:52:13,03:31:44,02:23:57,00:10:39,00:04:08,07:02:41
+ironman-70.3-elsinore-20150621.csv,986,Eva Birgitte Bisgaard,43,---,DNK,00:51:49,03:18:08,02:23:30,00:16:21,00:05:44,06:55:32
+ironman-70.3-elsinore-20150621.csv,987,Tina Heller,43,---,DNK,00:43:34,03:28:05,02:27:00,00:15:47,00:08:08,07:02:34
+ironman-70.3-elsinore-20150621.csv,988,Kirstine Faerch,44,---,DNK,00:34:42,02:38:07,01:41:18,00:08:15,00:02:08,05:04:30
+ironman-70.3-elsinore-20150621.csv,989,Trine Brask,44,DK,DNK,00:44:48,02:54:40,01:52:57,00:07:49,00:03:15,05:43:29
+ironman-70.3-elsinore-20150621.csv,990,Sanne Nissen Møller,44,---,DNK,00:53:36,03:22:32,02:10:24,00:13:14,00:03:27,06:43:13
+ironman-70.3-elsinore-20150621.csv,991,Susanne Schwartzbach,44,DK,DNK,00:45:16,02:58:12,01:43:24,00:11:14,00:03:36,05:41:42
+ironman-70.3-elsinore-20150621.csv,992,Marianne Ingurt,44,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,993,Connie Kjøller,44,---,DNK,00:42:33,02:55:59,01:59:35,00:09:54,00:03:03,05:51:04
+ironman-70.3-elsinore-20150621.csv,994,Marie Louise Behn,44,---,DNK,00:49:45,03:14:07,02:28:56,00:12:21,00:06:07,06:51:16
+ironman-70.3-elsinore-20150621.csv,995,Christina Øgard,44,---,DNK,00:48:04,03:31:21,02:13:20,00:15:05,00:04:55,06:52:45
+ironman-70.3-elsinore-20150621.csv,996,Hanne Vallerbæk Johne,44,---,DNK,00:37:48,03:10:34,02:03:22,00:07:30,00:02:40,06:01:54
+ironman-70.3-elsinore-20150621.csv,997,Tine Bülow,45,DK,DNK,00:53:47,03:14:41,02:17:35,00:09:35,00:03:38,06:39:16
+ironman-70.3-elsinore-20150621.csv,998,Jorid Katrine Gjertsen,45,---,DNK,00:36:40,02:56:47,01:49:15,00:07:02,00:04:08,05:33:52
+ironman-70.3-elsinore-20150621.csv,999,Lise Kruhoeffer,45,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1000,Charlotte Andreas Baarts,45,---,DNK,00:44:22,03:08:51,01:43:01,00:09:56,00:03:18,05:49:28
+ironman-70.3-elsinore-20150621.csv,1001,Gitte Bennich,45,---,DNK,01:09:55,03:29:36,02:25:02,00:13:09,00:06:30,07:24:12
+ironman-70.3-elsinore-20150621.csv,1002,Elsebeth Dalsgaard Spangsberg,45,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1003,Irina Dahlkvist,46,SE,SWE,00:46:38,03:30:17,02:34:55,00:10:11,00:03:57,07:05:58
+ironman-70.3-elsinore-20150621.csv,1004,Irina Tikhonovich,46,Mos,RUS,00:43:08,02:48:10,01:48:20,00:07:43,00:02:42,05:30:03
+ironman-70.3-elsinore-20150621.csv,1005,Berit Foersom,47,DK,DNK,00:43:13,02:42:24,02:04:31,00:06:55,00:03:42,05:40:45
+ironman-70.3-elsinore-20150621.csv,1006,Trine Holm-Larsen,46,---,DNK,00:50:54,03:17:30,02:16:07,00:12:25,00:04:52,06:41:48
+ironman-70.3-elsinore-20150621.csv,1007,Ann-Christina Menzer,47,---,DNK,00:47:01,03:07:43,01:54:32,00:13:53,00:04:50,06:07:59
+ironman-70.3-elsinore-20150621.csv,1008,Lone Gamrath,47,---,DNK,00:52:06,---,06:10:25,---,---,06:10:25
+ironman-70.3-elsinore-20150621.csv,1009,Te Hvam,47,---,DNK,00:41:43,02:55:34,02:36:28,00:07:55,00:02:29,06:24:09
+ironman-70.3-elsinore-20150621.csv,1010,Marlene Hjortebjerg,47,---,DNK,00:53:39,03:14:32,01:50:24,00:11:01,00:04:03,06:13:39
+ironman-70.3-elsinore-20150621.csv,1011,Ann Wissing,47,---,DNK,00:43:15,03:08:31,02:07:19,00:07:24,00:02:47,06:09:16
+ironman-70.3-elsinore-20150621.csv,1012,Pia Neve,47,---,DNK,00:50:42,03:22:06,02:13:36,00:09:27,00:03:36,06:39:27
+ironman-70.3-elsinore-20150621.csv,1013,Mollie Nohave,47,---,SWE,00:51:15,03:17:00,01:43:09,00:15:15,00:03:27,06:10:06
+ironman-70.3-elsinore-20150621.csv,1014,Carolina Hermansen,47,---,DNK,00:33:19,02:55:09,02:25:26,00:08:42,00:03:46,06:06:22
+ironman-70.3-elsinore-20150621.csv,1015,Mette Rying Thomsen,48,---,DNK,00:49:00,03:19:00,02:01:24,00:13:16,00:05:19,06:27:59
+ironman-70.3-elsinore-20150621.csv,1016,Helle Ellebjerg Due,48,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1017,Mia Kronberg Christensen,48,---,DNK,00:39:27,02:47:41,01:47:09,00:06:35,00:02:05,05:22:57
+ironman-70.3-elsinore-20150621.csv,1018,Tina Rasmussen,48,DK,DNK,00:40:26,02:49:54,01:50:51,00:07:55,00:04:50,05:33:56
+ironman-70.3-elsinore-20150621.csv,1019,Marianne Hüche,48,DK,DNK,00:48:41,03:19:53,02:43:47,00:13:22,00:06:30,07:12:13
+ironman-70.3-elsinore-20150621.csv,1020,Sanne Lassen,48,---,DNK,00:38:11,02:47:59,01:46:26,00:06:23,00:01:55,05:20:54
+ironman-70.3-elsinore-20150621.csv,1021,Rikke Monefeldt Jeberg,48,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1022,Lone Schaadt,48,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1023,Monica Neesgaard,49,---,DNK,00:41:30,02:51:20,01:46:39,00:05:08,00:01:31,05:26:08
+ironman-70.3-elsinore-20150621.csv,1024,Therese Gunni,49,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1025,Ida Frehr,49,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1026,Andreas Helbo Beck,26,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1027,Kasper Pedersen,18,---,DNK,00:30:17,02:40:04,01:55:46,00:04:30,00:02:07,05:12:44
+ironman-70.3-elsinore-20150621.csv,1028,Mads Bernhard Jørgense,18,---,DNK,00:34:56,02:38:51,01:34:53,00:05:15,00:02:24,04:56:19
+ironman-70.3-elsinore-20150621.csv,1029,Marcus Christoffersen,18,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1030,Christoffer Louis Heick,18,---,DNK,00:34:07,02:23:40,01:33:16,00:03:45,00:01:54,04:36:42
+ironman-70.3-elsinore-20150621.csv,1031,Jakob Andersen,19,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1032,Adam Forsting,19,DK,DNK,00:39:56,02:40:23,01:48:38,00:09:13,00:03:05,05:21:15
+ironman-70.3-elsinore-20150621.csv,1033,Jonas Holmelund,19,---,DNK,00:41:06,02:56:45,01:42:25,00:07:57,00:04:05,05:32:18
+ironman-70.3-elsinore-20150621.csv,1034,Frederik Andreas Madsen,19,---,DNK,00:42:52,03:10:44,01:50:25,00:08:12,00:08:34,06:00:47
+ironman-70.3-elsinore-20150621.csv,1035,Frederik Ellekilde,19,---,DNK,00:40:24,02:57:13,01:56:30,00:07:31,00:02:22,05:44:00
+ironman-70.3-elsinore-20150621.csv,1036,Jonas Andersen,19,---,DNK,00:44:40,02:49:32,01:24:13,00:05:26,00:07:50,05:11:41
+ironman-70.3-elsinore-20150621.csv,1037,Simon Ibæk Perlt,20,---,DNK,00:36:49,03:04:43,02:11:19,00:05:58,00:05:23,06:04:12
+ironman-70.3-elsinore-20150621.csv,1038,Martin Wiinberg,---,---,DNK,00:37:12,02:46:03,02:11:31,00:06:11,00:03:09,05:44:06
+ironman-70.3-elsinore-20150621.csv,1039,Mads-Emil Seiergaard,20,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1040,Peter Lehmann,20,---,DEU,00:26:28,02:24:20,01:21:10,00:03:57,00:01:24,04:17:19
+ironman-70.3-elsinore-20150621.csv,1041,Alexander Hviid,20,DK,DNK,00:39:19,02:48:41,01:41:58,00:07:57,00:02:27,05:20:22
+ironman-70.3-elsinore-20150621.csv,1042,Kristoffer Visti Graae,20,---,DNK,00:34:57,02:37:11,01:33:52,00:05:01,00:01:15,04:52:16
+ironman-70.3-elsinore-20150621.csv,1043,Mads Nyrup,20,DK,DNK,00:33:15,02:45:01,01:35:36,00:06:10,00:02:22,05:02:24
+ironman-70.3-elsinore-20150621.csv,1044,Mads Damgaard,20,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1045,Oliver Kristiansen Suhr,20,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1046,Phillip Christian Dam Olesen,20,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1047,Christoffer Damm,21,---,DNK,00:30:05,02:19:49,01:36:01,00:03:54,00:01:51,04:31:40
+ironman-70.3-elsinore-20150621.csv,1048,Jacob Lemholt,21,---,DNK,00:35:46,02:39:28,01:37:20,00:11:16,00:04:23,05:08:13
+ironman-70.3-elsinore-20150621.csv,1049,Christian Beck,21,DK,DNK,00:39:34,02:36:34,01:41:43,00:06:28,00:01:42,05:06:01
+ironman-70.3-elsinore-20150621.csv,1050,Rene Salkvist Nielsen,21,---,DNK,00:33:57,02:40:13,01:44:05,00:10:33,00:05:34,05:14:22
+ironman-70.3-elsinore-20150621.csv,1051,Mikkel Videbaek,21,---,DNK,00:44:11,02:28:33,01:40:21,00:08:43,00:03:52,05:05:40
+ironman-70.3-elsinore-20150621.csv,1052,Fabian Kandels,22,Niedersachsen,DEU,00:37:34,02:58:25,01:49:19,00:07:39,00:02:30,05:35:27
+ironman-70.3-elsinore-20150621.csv,1053,Adrian Schmith,22,---,DNK,00:38:09,02:38:55,01:45:32,00:07:01,00:02:48,05:12:25
+ironman-70.3-elsinore-20150621.csv,1054,August Halbye,22,---,DNK,00:41:16,02:51:43,01:40:29,00:07:23,00:03:17,05:24:08
+ironman-70.3-elsinore-20150621.csv,1055,Moritz Reiners,22,Niedersachsen,DEU,00:38:44,02:46:35,01:31:50,00:08:33,00:02:04,05:07:46
+ironman-70.3-elsinore-20150621.csv,1056,Chris Linde,21,---,DNK,00:40:59,02:36:18,01:44:56,00:06:32,00:02:31,05:11:16
+ironman-70.3-elsinore-20150621.csv,1057,Anders Aaskov-Hansen,22,DK,DNK,00:32:56,02:24:57,01:31:16,00:04:12,00:01:35,04:34:56
+ironman-70.3-elsinore-20150621.csv,1058,Nikolaj Jall,22,---,DNK,00:38:36,02:38:48,01:45:16,00:05:46,00:03:20,05:11:46
+ironman-70.3-elsinore-20150621.csv,1059,Victor Hvidt,22,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1060,Christian Fennert Madsen,22,DK,DNK,00:31:29,02:25:49,01:45:19,00:06:37,00:02:23,04:51:37
+ironman-70.3-elsinore-20150621.csv,1061,Alexander Hansen,22,DK,DNK,00:42:10,02:55:25,01:57:39,00:08:09,00:03:34,05:46:57
+ironman-70.3-elsinore-20150621.csv,1062,Ari Zagdanski,22,ON,CAN,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1063,Mads Vinther,22,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1064,Jesper Ramgaard,22,---,DNK,00:36:43,02:40:21,01:57:15,00:05:55,00:03:35,05:23:49
+ironman-70.3-elsinore-20150621.csv,1065,Viktor Mårup,---,---,DNK,00:37:12,02:32:55,01:34:37,00:08:11,00:01:22,04:54:17
+ironman-70.3-elsinore-20150621.csv,1066,Rasmus Bruun,22,---,DNK,00:48:43,03:04:58,02:36:25,00:09:47,00:05:13,06:45:06
+ironman-70.3-elsinore-20150621.csv,1067,Morten Berdiin Nielsen,22,---,DNK,00:37:21,02:39:51,01:41:36,00:08:54,00:02:34,05:10:16
+ironman-70.3-elsinore-20150621.csv,1068,Jacob Heydenreich Jensen,23,---,DNK,00:37:51,03:02:04,02:17:57,00:09:40,00:05:25,06:12:57
+ironman-70.3-elsinore-20150621.csv,1069,Stefan Pedersen,23,---,DNK,00:36:50,02:33:50,01:39:20,00:08:41,00:02:38,05:01:19
+ironman-70.3-elsinore-20150621.csv,1070,Frederik Rathje,23,---,DNK,00:36:40,02:30:42,01:52:31,00:05:38,00:01:54,05:07:25
+ironman-70.3-elsinore-20150621.csv,1071,Christoffer Salmon,23,---,DNK,00:30:03,02:29:27,01:32:22,00:04:10,00:01:51,04:37:53
+ironman-70.3-elsinore-20150621.csv,1072,Christian Ove Bjørnlund,23,---,DNK,00:44:54,02:45:29,01:56:27,00:06:43,00:03:07,05:36:40
+ironman-70.3-elsinore-20150621.csv,1073,Mathias Toft Vangsoe,23,DK,DNK,00:36:32,02:17:55,01:18:25,00:04:17,00:01:22,04:18:31
+ironman-70.3-elsinore-20150621.csv,1074,Jacob Fløe Aaskov,23,---,DNK,00:32:58,02:34:21,01:44:49,00:05:37,00:03:27,05:01:12
+ironman-70.3-elsinore-20150621.csv,1075,Morten Barslund Nielsen,23,---,DNK,00:52:55,03:12:50,02:18:37,00:10:55,00:02:54,06:38:11
+ironman-70.3-elsinore-20150621.csv,1076,Mark Muller,23,---,NLD,00:29:22,02:23:31,01:25:32,00:04:33,00:01:32,04:24:30
+ironman-70.3-elsinore-20150621.csv,1077,Mark Muller,23,---,NLD,00:27:31,02:19:44,01:20:59,00:03:56,00:01:51,04:14:01
+ironman-70.3-elsinore-20150621.csv,1078,Jens Damm,23,---,DNK,00:40:01,02:24:31,01:47:51,00:05:35,00:08:40,05:06:38
+ironman-70.3-elsinore-20150621.csv,1079,Kasper Laumann Hartlev,23,DK,DNK,00:35:04,02:26:30,01:16:10,00:04:59,00:01:17,04:24:00
+ironman-70.3-elsinore-20150621.csv,1080,Mikkel Toke Bendix Poulsen,23,---,DNK,00:33:51,02:36:34,01:35:43,00:05:29,00:01:37,04:53:14
+ironman-70.3-elsinore-20150621.csv,1081,Casper Rubæk Breum,23,---,DNK,00:44:28,03:17:43,02:10:04,00:09:21,00:03:05,06:24:41
+ironman-70.3-elsinore-20150621.csv,1082,Andreas Simonsen,23,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1083,Frederic Maigaard,23,---,DNK,00:26:28,02:23:32,01:31:06,00:04:46,00:01:17,04:27:09
+ironman-70.3-elsinore-20150621.csv,1084,Dennis Olsson,23,---,SWE,00:40:47,03:07:10,01:54:43,00:08:03,00:04:12,05:54:55
+ironman-70.3-elsinore-20150621.csv,1085,Morten Bay Joergensen,23,---,DNK,00:41:18,03:33:37,02:43:40,00:08:37,00:05:35,07:12:47
+ironman-70.3-elsinore-20150621.csv,1086,Danni Helbert Hansen,23,DK,DNK,00:36:44,02:49:59,02:00:01,00:09:21,00:04:42,05:40:47
+ironman-70.3-elsinore-20150621.csv,1087,Mads Petersen,24,---,DNK,00:34:15,02:33:14,01:33:49,00:05:16,00:01:53,04:48:27
+ironman-70.3-elsinore-20150621.csv,1088,Casper Duun,24,DK,DNK,00:33:52,02:41:50,02:04:38,00:06:25,00:01:58,05:28:43
+ironman-70.3-elsinore-20150621.csv,1089,Martin Olsen,24,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1090,Loic Van Laeken,24,BE,BEL,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1091,Marcus Mathiasen Bank,24,---,DNK,00:46:49,03:01:40,02:04:15,00:13:08,00:04:35,06:10:27
+ironman-70.3-elsinore-20150621.csv,1092,Niclas Mørck,24,---,DNK,00:33:07,02:30:05,02:05:45,00:05:40,00:01:58,05:16:35
+ironman-70.3-elsinore-20150621.csv,1093,Christian Futtrup,24,---,DNK,00:40:32,02:42:29,01:33:48,00:08:58,00:04:11,05:09:58
+ironman-70.3-elsinore-20150621.csv,1094,Oliver Hvidt,24,---,DNK,00:41:29,02:55:31,02:14:12,00:09:26,00:05:24,06:06:02
+ironman-70.3-elsinore-20150621.csv,1095,Rasmus Dall-Hansen,24,DK,DNK,00:37:33,02:28:33,01:21:01,00:05:16,00:02:29,04:34:52
+ironman-70.3-elsinore-20150621.csv,1096,Alexander Karlsson,24,---,DNK,00:37:03,02:26:33,01:38:15,00:04:30,00:01:16,04:47:37
+ironman-70.3-elsinore-20150621.csv,1097,Mathias Hansen,24,---,DNK,00:42:19,02:28:15,02:12:57,00:08:07,00:02:44,05:34:22
+ironman-70.3-elsinore-20150621.csv,1098,Andreas Kattem Husøy,24,---,NOR,00:36:44,02:25:11,01:29:34,00:04:40,00:01:20,04:37:29
+ironman-70.3-elsinore-20150621.csv,1099,Mike Valant,24,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1100,Mathias Mylle Dige Bach,24,---,DNK,00:39:02,02:31:08,01:43:34,00:04:57,00:01:20,05:00:01
+ironman-70.3-elsinore-20150621.csv,1101,Signe Holm Rasmussen,24,---,DNK,00:38:23,03:09:09,02:09:52,00:06:25,00:02:35,06:06:24
+ironman-70.3-elsinore-20150621.csv,1102,Emil Folkjar Kjeldsen,24,---,DNK,00:41:04,02:39:46,01:53:58,00:06:04,00:07:04,05:27:56
+ironman-70.3-elsinore-20150621.csv,1103,Andreas Precht Poulsen,24,---,DNK,00:29:30,02:23:00,01:31:38,00:05:47,00:02:34,04:32:29
+ironman-70.3-elsinore-20150621.csv,1104,Gowtham Sivakumar,24,---,IND,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1105,Casper Lund Sørensen,24,DK,DNK,00:31:25,02:24:16,01:28:29,00:05:37,00:01:38,04:31:25
+ironman-70.3-elsinore-20150621.csv,1106,Tobias Graversgaard Hansen,24,---,DNK,00:39:33,02:39:04,01:35:04,00:05:17,00:01:24,05:00:22
+ironman-70.3-elsinore-20150621.csv,1107,Mikkel Heegaard,24,---,DNK,00:48:32,02:56:16,02:16:33,00:07:07,00:02:35,06:11:03
+ironman-70.3-elsinore-20150621.csv,1108,Lasse Strandby Reenberg,24,---,DNK,00:30:01,02:47:36,02:04:22,00:05:21,00:02:31,05:29:51
+ironman-70.3-elsinore-20150621.csv,1109,Jens Pedersen,24,---,DNK,00:41:22,02:38:32,01:54:26,00:06:01,00:03:06,05:23:27
+ironman-70.3-elsinore-20150621.csv,1110,Martin Mortensen,24,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1111,Amaret Åke Schäfer,24,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1112,Mykola Kryvyi,24,---,UKR,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1113,Andreas Klestrup Hansen,24,---,DNK,00:40:03,02:42:09,02:05:55,00:07:01,00:03:10,05:38:18
+ironman-70.3-elsinore-20150621.csv,1114,Sebastian Percy-Smith,24,---,DNK,00:34:27,02:25:44,01:30:24,00:04:56,00:02:01,04:37:32
+ironman-70.3-elsinore-20150621.csv,1115,Mikkel Bille,24,---,DNK,00:48:51,02:50:03,02:00:39,00:11:32,00:02:25,05:53:30
+ironman-70.3-elsinore-20150621.csv,1116,Jeppe Yde Andersen,24,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1117,Felix Kretschmer,24,---,DEU,00:32:22,02:30:00,01:37:11,00:05:47,00:07:08,04:52:28
+ironman-70.3-elsinore-20150621.csv,1118,Harald Olsen,24,---,DNK,00:40:15,03:18:32,02:03:05,00:14:57,00:04:26,06:21:15
+ironman-70.3-elsinore-20150621.csv,1119,Steffen Karlsson,25,---,DNK,00:30:22,02:40:28,02:03:39,00:06:22,00:03:15,05:24:06
+ironman-70.3-elsinore-20150621.csv,1120,Dennis Hessellund,25,---,DNK,00:36:00,02:51:14,01:51:06,00:10:13,00:02:48,05:31:21
+ironman-70.3-elsinore-20150621.csv,1121,Jonas Madsen,25,---,DNK,00:35:33,02:32:25,01:44:12,00:05:54,00:01:54,04:59:58
+ironman-70.3-elsinore-20150621.csv,1122,Kim Krag Esbensen,25,---,DNK,00:38:17,02:38:55,01:45:00,00:06:38,00:03:03,05:11:53
+ironman-70.3-elsinore-20150621.csv,1123,Pelayo Orts Fiestas,25,---,ESP,00:34:02,02:50:41,02:11:12,00:06:45,00:02:19,05:44:59
+ironman-70.3-elsinore-20150621.csv,1124,Casper Homilius,25,---,DNK,00:33:50,02:31:06,01:32:17,00:05:00,00:01:40,04:43:53
+ironman-70.3-elsinore-20150621.csv,1125,Alexander Bind,25,---,DNK,00:42:48,02:44:03,01:46:44,00:08:13,00:02:30,05:24:18
+ironman-70.3-elsinore-20150621.csv,1126,Victor Garcia,25,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1127,Jonathan Lawaetz,25,---,DNK,00:29:05,02:20:24,01:22:23,00:04:48,00:01:31,04:18:11
+ironman-70.3-elsinore-20150621.csv,1128,Morten Linde Jensen,25,---,DNK,00:47:26,03:00:00,01:56:19,00:09:16,00:04:52,05:57:53
+ironman-70.3-elsinore-20150621.csv,1129,Kenneth Rasmussen,25,---,DNK,00:33:04,02:34:50,01:42:12,00:05:22,00:01:40,04:57:08
+ironman-70.3-elsinore-20150621.csv,1130,Nicki Peters,25,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1131,Steffen Falch Larsen,25,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1132,Rasmus Krodal,25,DK,DNK,00:28:37,02:18:49,01:25:56,00:03:28,00:01:29,04:18:19
+ironman-70.3-elsinore-20150621.csv,1133,Patrick Malmberg,25,---,DNK,00:33:26,02:30:37,01:59:10,00:04:10,00:01:59,05:09:22
+ironman-70.3-elsinore-20150621.csv,1134,Kristoffer Svolgaard,25,---,DNK,00:39:09,02:39:52,01:41:50,00:05:43,00:03:30,05:10:04
+ironman-70.3-elsinore-20150621.csv,1135,Lasse Karsholt,25,---,DNK,00:51:20,03:31:39,02:46:34,00:09:26,00:04:49,07:23:48
+ironman-70.3-elsinore-20150621.csv,1136,Peter Høyer,25,---,DNK,00:38:55,02:29:16,01:50:46,00:07:08,00:01:23,05:07:28
+ironman-70.3-elsinore-20150621.csv,1137,Martin Højstrup Bager,25,---,DNK,01:06:49,03:42:00,03:01:34,00:10:44,00:03:47,08:04:54
+ironman-70.3-elsinore-20150621.csv,1138,Frederik Thagaard Bjarnason,25,---,DNK,00:34:26,02:39:33,02:09:47,00:09:17,00:05:01,05:38:04
+ironman-70.3-elsinore-20150621.csv,1139,Jonathan Emil Tetzlaff Ebbesen,25,DK,DNK,00:52:10,02:58:12,01:58:48,00:11:21,00:02:55,06:03:26
+ironman-70.3-elsinore-20150621.csv,1140,Mark Christophersen,25,---,DNK,00:43:32,02:50:45,01:53:27,00:07:55,00:02:48,05:38:27
+ironman-70.3-elsinore-20150621.csv,1141,Casper Mick Hansen,25,DK,DNK,00:41:44,02:57:33,02:18:22,00:08:15,00:04:14,06:10:08
+ironman-70.3-elsinore-20150621.csv,1142,Lasse Hamborg,25,---,DNK,00:36:19,02:31:19,01:40:11,00:04:57,00:01:19,04:54:05
+ironman-70.3-elsinore-20150621.csv,1143,Casper Østergaard Andreasen,25,DK,DNK,00:33:53,02:31:06,01:40:59,00:05:02,00:02:57,04:53:57
+ironman-70.3-elsinore-20150621.csv,1144,Tim Heikkinen,26,---,SWE,00:38:10,02:49:37,01:56:20,00:10:28,00:04:11,05:38:46
+ironman-70.3-elsinore-20150621.csv,1145,Peter Michael Tetzlaff,26,---,DNK,00:36:39,02:28:31,01:38:57,00:06:02,00:02:27,04:52:36
+ironman-70.3-elsinore-20150621.csv,1146,Kasper Franck Hyldgaard,26,---,DNK,00:39:41,02:49:42,01:42:32,00:08:25,00:03:44,05:24:04
+ironman-70.3-elsinore-20150621.csv,1147,Lasse Thrue,26,---,DNK,00:38:38,02:42:16,02:24:01,00:10:08,00:03:27,05:58:30
+ironman-70.3-elsinore-20150621.csv,1148,Peter Bendix Taarnhøj,26,---,DNK,00:35:40,02:32:42,01:45:21,00:05:08,00:01:53,05:00:44
+ironman-70.3-elsinore-20150621.csv,1149,Marco Baasch,26,---,DNK,00:37:53,03:09:53,02:13:48,00:12:57,00:04:19,06:18:50
+ironman-70.3-elsinore-20150621.csv,1150,Claus Olsen,26,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1151,Rasmus Jersild Jensen,26,---,DNK,00:31:59,02:24:17,01:26:13,00:04:42,00:01:34,04:28:45
+ironman-70.3-elsinore-20150621.csv,1152,Glenn Martin Esbensen,26,---,DNK,00:40:16,02:29:44,01:39:53,00:07:10,00:02:15,04:59:18
+ironman-70.3-elsinore-20150621.csv,1153,Jesper Rotvig Jensen,26,---,DNK,00:37:43,02:47:33,01:42:38,00:06:04,00:04:04,05:18:02
+ironman-70.3-elsinore-20150621.csv,1154,Hampus Wetterstrand,26,---,SWE,00:36:17,---,05:17:29,---,---,05:17:29
+ironman-70.3-elsinore-20150621.csv,1155,Morten Nielsen,26,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1156,Søren Reinhold Jakobsen,26,---,DNK,00:34:13,02:47:57,01:42:29,00:05:43,00:03:22,05:13:44
+ironman-70.3-elsinore-20150621.csv,1157,Thomas Holm,26,---,DNK,00:38:49,02:40:31,01:36:03,00:08:46,00:02:44,05:06:53
+ironman-70.3-elsinore-20150621.csv,1158,Ryan Christian,26,TAS,AUS,00:27:23,02:19:40,---,00:04:28,00:01:48,DNF
+ironman-70.3-elsinore-20150621.csv,1159,Remi Eystberg Johannesen,26,DK,DNK,00:38:12,03:06:02,02:08:29,00:07:43,00:02:40,06:03:06
+ironman-70.3-elsinore-20150621.csv,1160,Anders Havskov Kristiansen,26,---,DNK,00:40:05,02:27:21,01:49:53,00:09:08,00:03:48,05:10:15
+ironman-70.3-elsinore-20150621.csv,1161,Jeppe Alexander Meier,26,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1162,Mads Malik Nielsen,26,---,DNK,00:38:31,02:29:42,---,00:06:44,00:01:35,DNF
+ironman-70.3-elsinore-20150621.csv,1163,Kasper Winther,26,---,DNK,00:33:03,02:38:28,01:35:02,00:05:11,00:01:51,04:53:35
+ironman-70.3-elsinore-20150621.csv,1164,Kent Pilegaard Kristensen,26,---,DNK,00:44:25,02:42:07,01:38:27,00:06:14,00:05:39,05:16:52
+ironman-70.3-elsinore-20150621.csv,1165,Niels Skov Hansen,26,---,DNK,01:09:17,---,08:05:41,---,---,08:05:41
+ironman-70.3-elsinore-20150621.csv,1166,Daniel Claré,26,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1167,Sender Clausen,26,---,DNK,00:51:35,03:01:36,02:08:36,00:08:08,00:02:33,06:12:28
+ironman-70.3-elsinore-20150621.csv,1168,Casper Vitalis Madsen,26,---,DNK,00:35:05,02:38:15,01:44:33,00:05:49,00:02:48,05:06:30
+ironman-70.3-elsinore-20150621.csv,1169,Jonas Jesper Pedersen,26,---,DNK,00:40:52,02:50:16,01:45:20,00:06:19,00:03:42,05:26:29
+ironman-70.3-elsinore-20150621.csv,1170,Andreas Bang,26,---,DNK,00:45:39,02:51:37,02:00:50,00:06:15,00:02:31,05:46:52
+ironman-70.3-elsinore-20150621.csv,1171,Lukasz Koltko,26,.,POL,00:33:14,02:37:33,01:44:12,00:07:46,00:01:37,05:04:22
+ironman-70.3-elsinore-20150621.csv,1172,Edgar Deduchov,26,Vilniaus Rajonas,LTU,00:37:39,02:46:09,01:57:35,00:08:07,00:03:37,05:33:07
+ironman-70.3-elsinore-20150621.csv,1173,Casper Kulle Marcussen,26,---,DNK,00:39:35,03:03:07,01:50:14,00:08:28,00:10:46,05:52:10
+ironman-70.3-elsinore-20150621.csv,1174,Anders Christensen,26,DK,DNK,00:37:35,02:35:58,01:59:16,00:05:12,00:01:59,05:20:00
+ironman-70.3-elsinore-20150621.csv,1175,Jesper Eberhard,27,---,DNK,00:33:01,02:23:39,01:21:35,00:03:33,00:01:50,04:23:38
+ironman-70.3-elsinore-20150621.csv,1176,Peter Tame,27,---,GBR,00:37:58,02:57:16,02:17:10,00:06:06,00:01:45,06:00:15
+ironman-70.3-elsinore-20150621.csv,1177,Aske Pedersen,27,---,DNK,00:41:07,02:33:20,01:35:36,00:06:21,00:02:03,04:58:27
+ironman-70.3-elsinore-20150621.csv,1178,Kasper Bennedsen,27,---,DNK,01:06:07,03:33:56,03:10:25,00:13:01,00:04:29,08:07:58
+ironman-70.3-elsinore-20150621.csv,1179,Simon Evers,27,DK,DNK,00:38:42,02:22:55,01:28:28,00:06:03,00:08:21,04:44:29
+ironman-70.3-elsinore-20150621.csv,1180,Tommy Grønkjær,27,DK,DNK,00:47:09,02:27:46,01:39:01,00:04:09,00:01:21,04:59:26
+ironman-70.3-elsinore-20150621.csv,1181,Steffen Sørensen,27,---,DNK,00:38:35,02:52:42,02:13:02,00:08:39,00:05:09,05:58:07
+ironman-70.3-elsinore-20150621.csv,1182,Michael Knudsen,27,Other,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1183,Tjalfe Paulsen Durup,27,DK,DNK,00:44:48,03:09:15,01:49:09,00:09:41,00:03:04,05:55:57
+ironman-70.3-elsinore-20150621.csv,1184,George Begley,27,---,GBR,00:37:48,02:47:12,01:35:48,00:06:32,00:03:23,05:10:43
+ironman-70.3-elsinore-20150621.csv,1185,Adam Bubela,39,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1186,Kasper Aalbæk Kjærgaard,27,---,DNK,00:36:24,02:32:08,01:44:39,00:05:48,00:02:21,05:01:20
+ironman-70.3-elsinore-20150621.csv,1187,Martin Gottschalck Petersen,27,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1188,Kim Kalledat Christensen,27,---,DNK,00:34:54,02:28:47,01:42:57,00:05:14,00:02:11,04:54:03
+ironman-70.3-elsinore-20150621.csv,1189,Morten Brammer,27,DK,DNK,00:27:28,02:17:24,01:17:10,00:04:42,00:01:18,04:08:02
+ironman-70.3-elsinore-20150621.csv,1190,Lasse Duer,27,---,DNK,00:33:56,02:26:47,01:34:46,00:04:25,00:01:37,04:41:31
+ironman-70.3-elsinore-20150621.csv,1191,Alexander Broe Hansen,27,---,DNK,00:36:56,02:40:57,01:43:20,00:05:58,00:02:18,05:09:29
+ironman-70.3-elsinore-20150621.csv,1192,Christian Skovmøller,27,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1193,Fredrik Bäckson,28,---,SWE,00:27:23,02:13:47,01:17:32,00:04:23,00:01:19,04:04:24
+ironman-70.3-elsinore-20150621.csv,1194,Nils Panum Thisted,27,---,DNK,00:30:02,02:51:17,01:54:44,00:07:27,00:03:12,05:26:42
+ironman-70.3-elsinore-20150621.csv,1195,Morten Falk Nielsen,27,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1196,Abdullah Kaleli,27,---,TUR,00:41:16,02:42:32,02:01:50,00:08:34,00:02:55,05:37:07
+ironman-70.3-elsinore-20150621.csv,1197,Mathias Rasmussen,27,---,DNK,00:33:09,02:21:58,01:34:39,00:05:05,00:01:30,04:36:21
+ironman-70.3-elsinore-20150621.csv,1198,Anders Holm Hansen,27,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1199,Anders Andersen,27,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1200,Lars Mikkelsen,27,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1201,Nicklas Andersen,27,---,DNK,00:36:58,02:36:33,01:35:50,00:05:43,00:02:07,04:57:11
+ironman-70.3-elsinore-20150621.csv,1202,Emil Skibdal Schjøtt,27,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1203,Jakob Elton Jensen,27,---,DNK,00:38:00,02:47:45,01:57:21,00:08:12,00:03:52,05:35:10
+ironman-70.3-elsinore-20150621.csv,1204,Anders Heitmann Larsen,27,---,DNK,00:34:49,02:27:42,01:35:37,00:04:15,00:02:01,04:44:24
+ironman-70.3-elsinore-20150621.csv,1205,Rasmus Gøtke,27,---,DNK,00:37:05,02:30:45,01:27:43,00:05:05,00:01:14,04:41:52
+ironman-70.3-elsinore-20150621.csv,1206,Tobias Kaas Iversen,27,---,NOR,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1207,Martin Batenburg,27,DK,DNK,00:29:42,02:16:33,01:22:57,00:04:40,00:01:05,04:14:57
+ironman-70.3-elsinore-20150621.csv,1208,Rune Dreboldt Mortensen,27,---,DNK,00:35:48,02:59:11,02:30:47,00:07:33,00:05:33,06:18:52
+ironman-70.3-elsinore-20150621.csv,1209,Christian Porup,27,---,DNK,00:36:32,02:39:02,01:45:48,00:06:05,00:03:46,05:11:13
+ironman-70.3-elsinore-20150621.csv,1210,Laurens De Kroon,27,DK,NLD,00:32:36,02:39:17,01:33:51,00:06:50,00:02:26,04:55:00
+ironman-70.3-elsinore-20150621.csv,1211,Peter Errebo,27,DK,DNK,00:40:05,02:40:13,01:38:07,00:08:15,00:01:49,05:08:29
+ironman-70.3-elsinore-20150621.csv,1212,Nichlas Gustafsen,27,---,DNK,00:34:53,02:33:16,01:30:39,00:05:40,00:01:28,04:45:56
+ironman-70.3-elsinore-20150621.csv,1213,Christian Holdt Holdt,28,---,DNK,00:40:09,02:39:59,01:39:45,00:09:56,00:08:46,05:18:35
+ironman-70.3-elsinore-20150621.csv,1214,Lasse Kandler,28,DK,DNK,---,---,---,---,---,DQ
+ironman-70.3-elsinore-20150621.csv,1215,Casper Palmvig,28,DK,DNK,00:45:30,02:54:39,02:06:50,00:09:17,00:03:02,05:59:18
+ironman-70.3-elsinore-20150621.csv,1216,Morten Christensen,28,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1217,Nicolai Thoning,28,---,DNK,00:32:38,02:25:50,01:25:36,00:04:50,00:02:01,04:30:55
+ironman-70.3-elsinore-20150621.csv,1218,Simon Harker,28,---,GBR,00:40:44,03:00:43,01:55:57,00:09:11,00:02:19,05:48:54
+ironman-70.3-elsinore-20150621.csv,1219,Allan Dyrlund Parbst,28,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1220,Oskar Emil Rytter Behrens,28,---,DNK,00:36:53,02:53:04,02:04:12,00:07:14,00:03:06,05:44:29
+ironman-70.3-elsinore-20150621.csv,1221,Claus Boye Asmussen,28,---,DNK,00:49:38,02:56:18,---,00:07:52,00:03:44,DNF
+ironman-70.3-elsinore-20150621.csv,1222,Alan Kampman,28,---,DNK,00:46:56,03:15:24,02:54:42,00:10:23,00:04:21,07:11:46
+ironman-70.3-elsinore-20150621.csv,1223,Liam Teh,28,---,AUS,00:36:31,02:42:28,01:53:22,00:06:44,00:03:19,05:22:24
+ironman-70.3-elsinore-20150621.csv,1224,Mikkel Hoejborg Olsen,28,DK,DNK,00:32:27,02:28:54,01:29:12,00:03:49,00:01:55,04:36:17
+ironman-70.3-elsinore-20150621.csv,1225,Michael Petersen,28,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1226,Thijs Blondeel,28,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1227,Jesper Siersbøl,28,---,DNK,00:38:50,02:37:43,01:43:24,00:08:06,00:02:47,05:10:50
+ironman-70.3-elsinore-20150621.csv,1228,Mikkel Valentin,28,---,DNK,00:37:29,02:31:55,01:38:36,00:08:24,00:02:40,04:59:04
+ironman-70.3-elsinore-20150621.csv,1229,Thomas Dyrlund Petersen,28,---,DNK,00:36:27,02:41:33,01:50:28,00:06:51,00:02:42,05:18:01
+ironman-70.3-elsinore-20150621.csv,1230,Nikolaj Niebling,28,DK,DNK,00:38:17,02:40:38,01:45:18,00:07:20,00:03:52,05:15:25
+ironman-70.3-elsinore-20150621.csv,1231,Kasper Moll,28,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1232,Jacob Pitters,28,---,DNK,00:41:50,02:40:14,01:37:08,00:09:41,00:05:05,05:13:58
+ironman-70.3-elsinore-20150621.csv,1233,Martin Nielsen,---,DEN,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1234,Nicolai Søndergaard Nielsen,28,---,DNK,00:32:55,02:37:12,01:52:17,00:05:34,00:02:42,05:10:40
+ironman-70.3-elsinore-20150621.csv,1235,Tom Norberg,28,---,SWE,00:50:28,02:50:12,01:59:46,00:08:34,00:02:50,05:51:50
+ironman-70.3-elsinore-20150621.csv,1236,Marc Winther,28,---,DNK,00:48:26,02:42:09,01:51:16,00:07:05,00:02:44,05:31:40
+ironman-70.3-elsinore-20150621.csv,1237,Magnus Lindstrøm,28,---,DNK,00:46:54,03:19:32,01:58:25,00:10:56,00:03:08,06:18:55
+ironman-70.3-elsinore-20150621.csv,1238,Dan Wassmann,28,---,DNK,00:32:46,02:24:49,02:11:46,00:06:02,00:02:50,05:18:13
+ironman-70.3-elsinore-20150621.csv,1239,Jannik Rasmussen,28,---,DNK,00:35:44,02:44:57,01:57:12,00:09:29,00:03:08,05:30:30
+ironman-70.3-elsinore-20150621.csv,1240,Nick Linde,28,---,DNK,00:35:36,02:41:45,01:45:12,00:05:21,00:03:21,05:11:15
+ironman-70.3-elsinore-20150621.csv,1241,Troels Skole Hansen,28,NO,DNK,00:40:14,02:49:27,02:05:30,00:09:52,00:02:34,05:47:37
+ironman-70.3-elsinore-20150621.csv,1242,Lasse Vogelius,28,---,DNK,00:34:01,---,---,00:08:58,---,DNF
+ironman-70.3-elsinore-20150621.csv,1243,Per Vogelius,28,---,DNK,00:31:56,02:25:57,01:33:33,00:07:47,00:02:01,04:41:14
+ironman-70.3-elsinore-20150621.csv,1244,Kenneth Nymann Nielsen,28,---,DNK,00:34:06,02:44:22,01:53:07,00:07:09,00:03:36,05:22:20
+ironman-70.3-elsinore-20150621.csv,1245,Steffen Johansen,---,---,DNK,00:38:28,02:37:31,01:56:49,00:08:18,00:03:58,05:25:04
+ironman-70.3-elsinore-20150621.csv,1246,Andrew Fowler,28,---,GBR,00:37:53,02:59:52,01:47:42,00:07:36,00:03:05,05:36:08
+ironman-70.3-elsinore-20150621.csv,1247,Danny Krath,28,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1248,David Goransson,28,---,SWE,00:39:11,02:39:24,01:34:15,00:06:07,00:03:13,05:02:10
+ironman-70.3-elsinore-20150621.csv,1249,Martin Brinkmann Poulsen,28,---,DNK,00:35:31,02:29:07,01:39:56,00:06:35,00:01:50,04:52:59
+ironman-70.3-elsinore-20150621.csv,1250,Kasper Nordborg,28,---,DNK,00:40:13,03:05:55,02:19:24,00:08:32,00:01:43,06:15:47
+ironman-70.3-elsinore-20150621.csv,1251,Javier Franco Biurrun,28,DK,ESP,00:42:15,02:56:17,01:43:06,00:07:38,00:02:14,05:31:30
+ironman-70.3-elsinore-20150621.csv,1252,Frederik Jørstad,28,---,DNK,00:30:11,02:40:12,01:40:17,00:06:50,00:02:50,05:00:20
+ironman-70.3-elsinore-20150621.csv,1253,Jürgen Handwerger,28,Hamburg,DEU,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1254,Rasmus Oboza Vind Beier,28,---,DNK,00:48:23,03:13:23,02:34:04,00:12:34,00:05:00,06:53:24
+ironman-70.3-elsinore-20150621.csv,1255,Emil Kjeldsmark Villadsen,29,---,DNK,00:36:47,02:37:02,01:55:39,00:06:47,00:03:04,05:19:19
+ironman-70.3-elsinore-20150621.csv,1256,Lasse Laier,29,---,DNK,00:29:06,02:32:08,01:42:27,00:04:42,00:01:49,04:50:12
+ironman-70.3-elsinore-20150621.csv,1257,Morten De Feuth,29,---,DNK,00:40:49,02:53:49,02:07:40,00:07:08,00:02:15,05:51:41
+ironman-70.3-elsinore-20150621.csv,1258,Henrik Bo Jorgensen,29,---,DNK,00:38:30,02:42:35,01:40:36,00:07:30,00:01:37,05:10:48
+ironman-70.3-elsinore-20150621.csv,1259,Rasmus Næblerød,29,---,DNK,00:38:50,02:23:45,01:45:04,00:06:51,00:01:50,04:56:20
+ironman-70.3-elsinore-20150621.csv,1260,Nicki Bøndergaard,29,---,DNK,00:41:12,02:43:40,01:58:15,00:07:22,00:02:47,05:33:16
+ironman-70.3-elsinore-20150621.csv,1261,Thomas Bie Jørgensen,29,---,DNK,00:46:02,03:08:25,02:07:27,00:11:02,00:07:22,06:20:18
+ironman-70.3-elsinore-20150621.csv,1262,Morten Børme,29,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1263,Anders Krantz,29,---,DNK,00:37:44,02:38:15,01:41:06,00:05:30,00:02:09,05:04:44
+ironman-70.3-elsinore-20150621.csv,1264,Morten Samuelsen,29,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1265,Anton Samokhvalov,29,no,RUS,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1266,Morten Jurlander,29,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1267,Casper Glistrup,29,---,DNK,00:36:17,02:38:07,01:48:03,00:06:49,00:02:04,05:11:20
+ironman-70.3-elsinore-20150621.csv,1268,René Nørring,29,---,DNK,00:39:36,02:38:31,01:54:28,00:07:46,00:02:40,05:23:01
+ironman-70.3-elsinore-20150621.csv,1269,Nick Finn Hansen,29,---,DNK,00:40:07,02:48:42,---,00:08:30,00:02:25,DNF
+ironman-70.3-elsinore-20150621.csv,1270,Kennet Justesen,29,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1271,Martin Warnerbring,29,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1272,Torben Melchiorsen,49,DK,DNK,00:46:28,02:36:29,02:18:33,00:10:30,00:04:45,05:56:45
+ironman-70.3-elsinore-20150621.csv,1273,Stephan Kristensen,49,---,DNK,00:46:45,03:06:19,02:01:28,00:11:44,00:04:23,06:10:39
+ironman-70.3-elsinore-20150621.csv,1274,Allan Bau Petersen,49,---,DNK,00:41:04,02:52:21,01:56:31,00:09:11,00:06:15,05:45:22
+ironman-70.3-elsinore-20150621.csv,1275,Claus Henriksen,49,---,DNK,00:37:26,02:52:03,01:53:16,00:09:05,00:03:11,05:35:01
+ironman-70.3-elsinore-20150621.csv,1276,Thomas Nielsen,49,---,DNK,00:42:53,02:44:56,02:00:49,00:08:20,00:02:28,05:39:26
+ironman-70.3-elsinore-20150621.csv,1277,Morten Hastrup,49,---,DNK,00:36:56,02:26:40,01:32:26,00:07:18,00:03:14,04:46:34
+ironman-70.3-elsinore-20150621.csv,1278,Johnny Enghoff,49,DK,DNK,00:41:28,03:04:45,02:00:03,00:09:57,00:04:33,06:00:46
+ironman-70.3-elsinore-20150621.csv,1279,Arjen Soederhuizen,49,---,NLD,00:40:37,02:29:34,---,00:05:28,00:03:17,DNF
+ironman-70.3-elsinore-20150621.csv,1280,Frank Ellersgaard Kristensen,49,DK,DNK,00:43:55,02:59:30,02:16:36,00:09:12,00:03:22,06:12:35
+ironman-70.3-elsinore-20150621.csv,1281,Kim Ullum Hansen,49,---,DNK,00:34:48,02:39:28,01:44:01,00:07:47,00:03:58,05:10:02
+ironman-70.3-elsinore-20150621.csv,1282,Mik Lüneborg,49,DK,DNK,00:47:27,02:45:57,02:04:09,00:10:50,00:05:51,05:54:14
+ironman-70.3-elsinore-20150621.csv,1283,John Englund,49,---,DNK,01:07:44,03:05:27,02:48:00,00:11:52,00:04:01,07:17:04
+ironman-70.3-elsinore-20150621.csv,1284,Carsten Øgard,49,---,DNK,00:36:42,02:51:21,02:19:08,00:08:00,00:05:14,06:00:25
+ironman-70.3-elsinore-20150621.csv,1285,Andrea Bergamini,49,ve,ITA,00:31:39,02:33:28,01:46:46,00:08:12,00:01:54,05:01:59
+ironman-70.3-elsinore-20150621.csv,1286,Henrik Kildedal,49,---,DNK,00:44:07,02:48:11,01:57:44,00:07:17,00:02:35,05:39:54
+ironman-70.3-elsinore-20150621.csv,1287,Flemming Toft Andersen,49,---,DNK,00:28:18,02:33:28,01:33:17,00:08:16,00:02:45,04:46:04
+ironman-70.3-elsinore-20150621.csv,1288,Henrik Meinertz,49,---,DNK,00:40:39,02:47:23,01:56:01,00:09:13,00:03:58,05:37:14
+ironman-70.3-elsinore-20150621.csv,1289,Allan Ludwig,49,---,DNK,00:40:46,02:42:26,02:07:37,00:09:09,00:03:07,05:43:05
+ironman-70.3-elsinore-20150621.csv,1290,Kai Torzewski,49,---,DEU,00:37:52,02:38:42,01:44:27,00:08:30,00:04:35,05:14:06
+ironman-70.3-elsinore-20150621.csv,1291,Hasse Bøytler,49,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1292,Nigel Sharp,50,---,DNK,00:48:17,02:49:48,02:08:11,00:14:18,00:04:38,06:05:12
+ironman-70.3-elsinore-20150621.csv,1293,Ole Helsgaun,50,---,DNK,00:44:01,02:47:49,01:47:06,00:09:00,00:05:31,05:33:27
+ironman-70.3-elsinore-20150621.csv,1294,John Powers Bates,50,---,DNK,00:41:30,02:54:56,02:08:32,00:09:51,00:03:11,05:58:00
+ironman-70.3-elsinore-20150621.csv,1295,Kim Nygaard,50,---,DNK,00:35:54,02:31:13,01:26:46,00:06:22,00:02:10,04:42:25
+ironman-70.3-elsinore-20150621.csv,1296,Byrial Stagsted,50,DK,DNK,00:37:08,02:23:57,01:35:47,00:05:29,00:01:49,04:44:10
+ironman-70.3-elsinore-20150621.csv,1297,Rene Grann,50,DK,DNK,00:35:28,02:45:30,02:07:12,00:08:13,00:05:24,05:41:47
+ironman-70.3-elsinore-20150621.csv,1299,Morten Felding,50,---,DNK,00:44:06,02:43:46,01:48:34,00:10:11,00:04:27,05:31:04
+ironman-70.3-elsinore-20150621.csv,1300,Lars Arvid Nilsen,50,---,NOR,00:36:10,02:28:08,01:50:56,00:06:14,00:01:54,05:03:22
+ironman-70.3-elsinore-20150621.csv,1301,Donald Smith,50,---,USA,00:55:46,03:12:38,03:18:25,00:06:15,00:04:08,07:37:12
+ironman-70.3-elsinore-20150621.csv,1303,Esben Dahl-Nielsen,50,---,DNK,00:37:17,02:44:34,02:00:58,00:06:16,00:02:12,05:31:17
+ironman-70.3-elsinore-20150621.csv,1304,Christian Juul Bødker,50,---,DNK,00:46:33,02:33:11,02:01:33,00:08:54,00:04:42,05:34:53
+ironman-70.3-elsinore-20150621.csv,1305,Søren Balle Rasmussen,50,---,DNK,00:36:45,02:34:55,01:38:39,00:05:14,00:02:06,04:57:39
+ironman-70.3-elsinore-20150621.csv,1306,Keld Juhl,50,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1307,Carsten Oxenbøll,50,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1308,Marius Madsen,50,---,DNK,00:41:07,02:56:52,01:57:02,00:08:58,00:02:40,05:46:39
+ironman-70.3-elsinore-20150621.csv,1309,Jens Pedersen,50,---,DNK,00:53:31,02:56:18,01:49:05,00:11:57,00:04:45,05:55:36
+ironman-70.3-elsinore-20150621.csv,1310,Anders Berggreen,50,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1311,Bjørn Reiersgård,50,NO,NOR,00:51:56,03:13:45,02:35:21,00:10:48,00:02:34,06:54:24
+ironman-70.3-elsinore-20150621.csv,1312,Michael Rybtke,50,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1313,Tom Leth Jensen,50,---,DNK,00:41:23,02:28:06,01:56:53,00:06:28,00:03:29,05:16:19
+ironman-70.3-elsinore-20150621.csv,1314,Lars Christensen,50,---,DNK,00:41:13,02:58:29,01:39:48,00:09:38,00:03:32,05:32:40
+ironman-70.3-elsinore-20150621.csv,1315,Steffen (Gerhard) Ziska,50,---,DEU,00:38:20,03:03:24,01:55:33,00:10:33,00:05:45,05:53:35
+ironman-70.3-elsinore-20150621.csv,1316,Stephen Donnelly,50,---,DNK,00:39:31,02:57:38,02:05:53,00:08:22,00:04:30,05:55:54
+ironman-70.3-elsinore-20150621.csv,1317,Patrik Härlin,50,---,SWE,00:48:07,03:06:42,02:21:32,00:12:55,00:04:58,06:34:14
+ironman-70.3-elsinore-20150621.csv,1318,Bo Bech,50,---,DNK,00:43:10,03:12:11,---,00:06:20,00:02:09,DNF
+ironman-70.3-elsinore-20150621.csv,1319,Luca Mari,50,Italy,ITA,00:28:57,02:30:52,01:39:04,00:05:56,00:02:42,04:47:31
+ironman-70.3-elsinore-20150621.csv,1320,Mikhail Zemtsovski,50,---,RUS,00:47:22,03:21:54,02:15:41,00:08:23,00:05:02,06:38:22
+ironman-70.3-elsinore-20150621.csv,1321,Per Thanning Johansen,50,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1322,Jesper Tyller Hansen,50,---,DNK,00:32:01,02:26:17,01:33:15,00:05:13,00:01:27,04:38:13
+ironman-70.3-elsinore-20150621.csv,1323,Lars Halkier,50,---,DNK,00:35:50,02:25:22,01:42:11,00:06:21,00:02:26,04:52:10
+ironman-70.3-elsinore-20150621.csv,1324,Henrik Madsen,50,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1325,Henrik Jakobsen,50,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1326,Max Klovgaard Lassen,50,---,DNK,00:46:30,02:26:02,01:36:35,00:06:34,00:02:24,04:58:05
+ironman-70.3-elsinore-20150621.csv,1327,Søren Alminde,50,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1328,Piotr Klaszczyk,51,zachodniopomorskie,POL,00:37:33,02:57:33,02:02:42,00:06:28,00:02:36,05:46:52
+ironman-70.3-elsinore-20150621.csv,1329,Niels Laugesen,51,---,DNK,00:47:09,02:58:19,02:26:14,00:08:11,00:08:37,06:28:30
+ironman-70.3-elsinore-20150621.csv,1330,André Stokholm,51,---,DNK,00:42:18,03:01:11,02:25:21,00:08:23,00:04:43,06:21:56
+ironman-70.3-elsinore-20150621.csv,1331,Erik Dam,51,---,DNK,00:37:32,02:58:57,01:54:38,00:08:37,00:02:48,05:42:32
+ironman-70.3-elsinore-20150621.csv,1332,Peter Tony Ammitzbøll Fager,51,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1333,John Weinreich,51,---,DNK,00:44:25,02:44:53,02:06:52,00:11:07,00:04:19,05:51:36
+ironman-70.3-elsinore-20150621.csv,1334,Hendrik Fabels,51,---,NLD,00:35:03,02:35:59,01:43:42,00:07:24,00:01:55,05:04:03
+ironman-70.3-elsinore-20150621.csv,1335,Henrik Larsen,51,---,DNK,00:38:40,02:31:33,01:34:13,00:06:26,00:02:09,04:53:01
+ironman-70.3-elsinore-20150621.csv,1336,Christian Dietz,51,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1337,Dan Ahrensberg,51,---,DNK,00:38:36,02:51:45,01:52:35,00:07:03,00:02:39,05:32:38
+ironman-70.3-elsinore-20150621.csv,1338,Robby Mol,51,---,NLD,00:44:42,02:48:46,01:50:33,00:05:15,00:02:16,05:31:32
+ironman-70.3-elsinore-20150621.csv,1339,Reinoud Sluiters,51,NL,NLD,00:42:29,02:46:54,02:20:33,00:11:19,00:03:27,06:04:42
+ironman-70.3-elsinore-20150621.csv,1340,Kalle Hvidt Nielsen,51,---,DNK,00:53:45,03:16:11,02:22:01,00:08:14,00:03:21,06:43:32
+ironman-70.3-elsinore-20150621.csv,1341,Christian Claude Nanni,51,---,DNK,00:42:55,03:03:09,02:01:51,00:09:37,00:03:21,06:00:53
+ironman-70.3-elsinore-20150621.csv,1342,Torben Bernt Bruun,51,---,DNK,00:49:27,02:34:17,01:49:21,00:13:06,00:07:06,05:33:17
+ironman-70.3-elsinore-20150621.csv,1343,Torben Langberg,51,---,DNK,00:52:08,02:53:52,02:13:46,00:12:34,00:04:12,06:16:32
+ironman-70.3-elsinore-20150621.csv,1344,Christian Larsen,51,---,DNK,00:40:07,02:43:57,01:47:20,00:06:53,00:03:01,05:21:18
+ironman-70.3-elsinore-20150621.csv,1345,Morten Bech Petersen,51,---,DNK,00:48:03,03:25:59,02:11:08,00:11:28,00:04:05,06:40:43
+ironman-70.3-elsinore-20150621.csv,1346,Martin Miret Hattel,51,---,DNK,00:59:41,03:12:19,02:03:48,00:15:44,00:06:24,06:37:56
+ironman-70.3-elsinore-20150621.csv,1347,Peter Meinertz,51,---,DNK,00:43:32,03:01:44,02:11:23,00:10:34,00:05:47,06:13:00
+ironman-70.3-elsinore-20150621.csv,1348,Dan Ejrup,51,---,DNK,00:36:55,02:49:19,02:09:25,00:10:51,00:04:28,05:50:58
+ironman-70.3-elsinore-20150621.csv,1349,Jan Knudsen,51,---,DNK,00:35:56,02:31:40,01:33:36,00:05:28,00:02:44,04:49:24
+ironman-70.3-elsinore-20150621.csv,1350,Lars Kaufmann,51,---,DNK,00:39:07,02:33:47,01:49:46,00:06:41,00:02:37,05:11:58
+ironman-70.3-elsinore-20150621.csv,1351,Peter Voss Hansen,51,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1352,Søren Selck,---,---,DNK,00:47:47,02:43:51,01:53:37,00:10:14,00:05:21,05:40:50
+ironman-70.3-elsinore-20150621.csv,1353,Per Haugaard,51,---,DNK,00:40:04,03:15:48,01:59:10,00:09:30,00:05:09,06:09:41
+ironman-70.3-elsinore-20150621.csv,1354,Roger Eilertsen,51,---,NOR,00:41:24,02:21:57,01:35:34,00:06:02,00:01:44,04:46:41
+ironman-70.3-elsinore-20150621.csv,1355,Kim Vognsen,51,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1356,Stig Enslev,51,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1357,Henrik Mortensen,52,---,DNK,00:51:28,03:19:20,02:37:59,00:15:35,00:06:48,07:11:10
+ironman-70.3-elsinore-20150621.csv,1358,John Peter Hansen,52,---,DNK,00:39:51,02:52:46,01:54:25,00:09:20,00:03:33,05:39:55
+ironman-70.3-elsinore-20150621.csv,1359,Ole Jungersen,52,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1360,Adrian Buckland,52,---,GBR,00:38:27,02:59:34,01:52:55,00:07:27,00:03:49,05:42:12
+ironman-70.3-elsinore-20150621.csv,1361,Jan Andreassen,52,---,DNK,00:44:37,03:02:15,01:47:36,00:14:37,00:04:48,05:53:53
+ironman-70.3-elsinore-20150621.csv,1362,Per Ebbelin Joergensen,---,DEN,DNK,00:40:28,---,---,00:11:27,---,DNF
+ironman-70.3-elsinore-20150621.csv,1363,Finn Moeldrup,52,---,DNK,00:41:18,02:46:32,02:00:49,00:05:47,00:03:53,05:38:19
+ironman-70.3-elsinore-20150621.csv,1364,Henk-Jan Van Hees,53,---,NLD,00:48:47,02:47:21,01:56:19,00:08:08,00:02:17,05:42:52
+ironman-70.3-elsinore-20150621.csv,1365,Steen Tinning,52,FL,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1366,Claus Petersen,52,---,DNK,00:43:21,02:53:18,02:10:04,00:08:20,00:02:17,05:57:20
+ironman-70.3-elsinore-20150621.csv,1367,Henrik Feld,52,---,DNK,00:33:15,03:09:44,01:50:32,00:11:02,00:06:28,05:51:01
+ironman-70.3-elsinore-20150621.csv,1368,Steen Hoff,52,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1369,Peter Timmers,52,---,NLD,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1370,Peter Linderoth,52,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1371,Josef Herz,52,---,DEU,00:38:11,02:40:20,01:59:45,00:08:03,00:03:42,05:30:01
+ironman-70.3-elsinore-20150621.csv,1372,Metin Aroyo,52,Turkey,TUR,00:34:21,02:44:46,01:39:12,00:08:35,00:03:07,05:10:01
+ironman-70.3-elsinore-20150621.csv,1373,Mats Korner,53,---,SWE,00:38:13,02:40:36,01:41:17,00:05:49,00:01:40,05:07:35
+ironman-70.3-elsinore-20150621.csv,1374,Reinier Schwietert,53,NL,NLD,00:44:22,02:56:20,02:13:40,00:11:03,00:04:37,06:10:02
+ironman-70.3-elsinore-20150621.csv,1375,Soren Thorvald,53,CA,DNK,00:29:37,03:15:09,02:21:30,00:11:10,00:05:20,06:22:46
+ironman-70.3-elsinore-20150621.csv,1376,Morten Svanekjær,53,---,DNK,00:53:21,02:43:20,02:01:17,00:07:50,00:03:09,05:48:57
+ironman-70.3-elsinore-20150621.csv,1377,Ib Therkelsen,52,---,DNK,00:38:12,02:34:25,01:58:28,00:06:51,00:01:56,05:19:52
+ironman-70.3-elsinore-20150621.csv,1378,Thomas Hagel,53,---,DNK,00:50:56,02:56:51,02:15:22,00:09:07,00:04:44,06:17:00
+ironman-70.3-elsinore-20150621.csv,1379,Thomas Neufeld,53,---,DEU,00:38:44,02:43:44,01:36:39,00:07:53,00:07:41,05:14:41
+ironman-70.3-elsinore-20150621.csv,1380,Jørgen Weber Gullev,53,---,DNK,00:36:58,02:24:34,01:36:30,00:05:59,00:02:18,04:46:19
+ironman-70.3-elsinore-20150621.csv,1381,Jens Bovbjerg,53,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1382,Carsten Lund,53,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1383,Claus Dahl Christensen,53,DK,DNK,00:52:06,03:18:44,02:01:03,00:15:03,00:07:16,06:34:12
+ironman-70.3-elsinore-20150621.csv,1384,Jan Buk,53,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1385,John Nielsen,53,DK,DNK,00:41:29,02:45:41,---,00:10:24,00:04:23,DNF
+ironman-70.3-elsinore-20150621.csv,1386,Knud Knudsen,53,---,DNK,00:33:08,02:26:28,01:29:15,00:03:58,00:01:37,04:34:26
+ironman-70.3-elsinore-20150621.csv,1387,Ebbe Hansen,53,---,DNK,00:48:46,03:30:31,01:58:21,00:12:56,00:06:50,06:37:24
+ironman-70.3-elsinore-20150621.csv,1388,Morten Fly,53,---,DNK,00:37:40,02:47:51,02:15:33,00:10:24,00:04:22,05:55:50
+ironman-70.3-elsinore-20150621.csv,1389,Carsten Andersen,53,---,DNK,00:37:50,02:50:33,01:32:11,00:06:47,00:03:12,05:10:33
+ironman-70.3-elsinore-20150621.csv,1390,Palle Schalck,53,---,DNK,00:48:22,02:42:25,02:29:41,00:08:02,00:04:43,06:13:13
+ironman-70.3-elsinore-20150621.csv,1391,Martin Hirsch,53,---,DNK,00:44:22,02:29:03,02:01:45,00:07:56,00:04:17,05:27:23
+ironman-70.3-elsinore-20150621.csv,1392,Stig Jensen,53,---,DNK,00:46:51,02:56:58,02:05:59,00:07:17,00:03:36,06:00:41
+ironman-70.3-elsinore-20150621.csv,1393,Kim Rasmussen,54,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1394,Jan Kuhlmann Andersen,54,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1395,Jens Hovgaard Christiansen,54,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1396,Per Pedersen,54,---,DNK,00:37:01,02:52:00,02:00:01,00:09:09,00:04:45,05:42:56
+ironman-70.3-elsinore-20150621.csv,1397,Jon Lennart Deliv,54,---,SWE,00:27:33,03:04:40,02:22:30,00:07:05,00:03:45,06:05:33
+ironman-70.3-elsinore-20150621.csv,1398,Jan Enoch,54,---,DNK,00:34:18,02:53:04,01:46:23,00:09:47,00:04:26,05:27:58
+ironman-70.3-elsinore-20150621.csv,1399,Peter Henriksen,54,---,DNK,00:31:57,02:59:46,01:56:00,00:07:57,00:03:23,05:39:03
+ironman-70.3-elsinore-20150621.csv,1400,Per Pfeiffer,54,DK,DNK,00:38:21,02:39:44,01:52:08,00:08:38,00:03:25,05:22:16
+ironman-70.3-elsinore-20150621.csv,1401,Lars Gotlieb,54,---,DNK,00:37:02,02:53:24,02:37:57,00:06:53,00:04:31,06:19:47
+ironman-70.3-elsinore-20150621.csv,1402,Ole Bisleth,54,DE,DNK,00:31:24,02:53:21,01:54:42,00:11:41,00:03:23,05:34:31
+ironman-70.3-elsinore-20150621.csv,1403,Anders Hay-Schmidt,55,---,DNK,00:44:31,02:41:19,01:53:19,00:12:01,00:04:17,05:35:27
+ironman-70.3-elsinore-20150621.csv,1404,John Borja,55,WI,USA,01:03:02,03:34:25,03:15:03,00:13:24,00:06:32,08:12:26
+ironman-70.3-elsinore-20150621.csv,1405,Michael Hedeby,55,DK,DNK,00:46:51,02:45:22,02:31:36,00:10:07,00:03:19,06:17:15
+ironman-70.3-elsinore-20150621.csv,1406,Runar Malkenes,55,---,NOR,00:34:00,02:38:11,01:46:07,00:07:23,00:01:39,05:07:20
+ironman-70.3-elsinore-20150621.csv,1407,Niels Westergaard,55,---,DNK,00:48:55,02:53:16,02:19:03,00:11:39,00:05:10,06:18:03
+ironman-70.3-elsinore-20150621.csv,1408,Leif Friborg,55,---,DNK,00:48:48,02:54:06,01:56:55,00:13:36,00:04:12,05:57:37
+ironman-70.3-elsinore-20150621.csv,1409,Terrence Hines,55,---,AUS,00:42:32,03:03:07,02:37:22,00:08:07,00:02:53,06:34:01
+ironman-70.3-elsinore-20150621.csv,1410,Michael Iversen,55,---,DNK,01:05:03,03:46:23,02:52:43,00:11:51,00:06:05,08:02:05
+ironman-70.3-elsinore-20150621.csv,1411,Peter Schroll Christiansen,55,---,DNK,00:39:49,02:44:08,01:57:39,00:05:25,00:03:07,05:30:08
+ironman-70.3-elsinore-20150621.csv,1412,Lars Andersson,56,---,SWE,00:38:40,02:43:55,02:06:29,00:07:31,00:04:40,05:41:15
+ironman-70.3-elsinore-20150621.csv,1413,Ole Andersen,56,---,DNK,00:32:06,02:33:11,01:43:05,00:06:11,00:02:25,04:56:58
+ironman-70.3-elsinore-20150621.csv,1414,Noel Rossouw,56,Other,ZAF,00:35:31,03:04:06,01:41:41,00:11:58,00:03:47,05:37:03
+ironman-70.3-elsinore-20150621.csv,1415,Brian Martin,56,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1416,Brian Vasa-Akers,56,DK,USA,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1417,Per Brunk,56,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1418,Cliff Law,57,Other,GBR,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1419,Bo Porshed,57,---,SWE,00:53:19,03:11:11,02:16:24,00:14:11,00:07:36,06:42:41
+ironman-70.3-elsinore-20150621.csv,1420,Finn Roy,57,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1421,Ivan Mott,57,---,DNK,01:01:02,03:06:28,02:16:44,00:11:52,00:05:16,06:41:22
+ironman-70.3-elsinore-20150621.csv,1422,Peter Eriksson,57,---,SWE,00:57:12,03:15:30,01:53:04,00:21:09,00:04:29,06:31:24
+ironman-70.3-elsinore-20150621.csv,1423,Kim Lindgren Knudsen,57,---,DNK,00:31:56,02:36:47,01:51:23,00:06:56,00:02:52,05:09:54
+ironman-70.3-elsinore-20150621.csv,1424,Carsten Gregersen,57,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1425,Carsten Haugaard,57,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1426,Knud Wenzell,57,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1427,Jeppe Søndergaard,57,---,DNK,00:44:24,03:17:46,02:33:41,00:09:21,00:03:52,06:49:04
+ironman-70.3-elsinore-20150621.csv,1428,Peer Heidemann,58,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1429,Urban Widén,58,---,SWE,00:48:16,03:04:50,02:40:05,00:09:16,00:03:11,06:45:38
+ironman-70.3-elsinore-20150621.csv,1430,Lars Christoffersen,58,DK,DNK,00:43:13,02:49:05,01:59:49,00:07:46,00:03:57,05:43:50
+ironman-70.3-elsinore-20150621.csv,1431,Waldemar Gabold,58,---,DEU,00:36:47,02:51:01,01:52:38,00:08:49,00:04:04,05:33:19
+ironman-70.3-elsinore-20150621.csv,1432,Tom Svantesson,59,---,DNK,00:45:53,02:50:50,02:30:01,00:06:43,00:03:31,06:16:58
+ironman-70.3-elsinore-20150621.csv,1433,Per Clausen,59,---,DNK,00:33:10,02:29:30,01:44:39,00:07:29,00:03:49,04:58:37
+ironman-70.3-elsinore-20150621.csv,1434,Erik Ornebjerghus,59,---,DNK,00:43:20,03:05:01,01:54:28,00:07:13,00:02:33,05:52:35
+ironman-70.3-elsinore-20150621.csv,1435,Palle Sekshøj-Christensen,59,---,DNK,00:41:08,02:58:00,01:51:38,00:09:21,00:06:32,05:46:39
+ironman-70.3-elsinore-20150621.csv,1436,Stef Cornelissen,59,---,NLD,00:47:33,02:59:59,02:12:38,00:11:19,00:02:45,06:14:14
+ironman-70.3-elsinore-20150621.csv,1437,Howard Staunton,61,---,GBR,01:05:15,02:37:22,02:03:25,00:08:49,00:02:50,05:57:41
+ironman-70.3-elsinore-20150621.csv,1438,Lars Seier Petersen,62,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1439,Lars Rasmussen,62,DK,DNK,00:43:12,03:05:02,02:54:37,00:16:28,00:06:22,07:05:41
+ironman-70.3-elsinore-20150621.csv,1440,Henrik Glistrup,62,---,DNK,00:53:44,03:15:25,02:43:33,00:10:27,00:04:12,07:07:21
+ironman-70.3-elsinore-20150621.csv,1441,Ole Hansen,63,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1442,Jakob Gunnlogsson,63,---,DNK,01:00:59,03:30:16,02:23:25,00:15:00,00:05:14,07:14:54
+ironman-70.3-elsinore-20150621.csv,1443,Bo Johansson,64,---,SWE,00:48:17,03:27:45,02:38:17,00:16:32,00:09:13,07:20:04
+ironman-70.3-elsinore-20150621.csv,1444,Johan Isacson,66,---,SWE,00:53:16,03:10:33,02:10:20,00:14:05,00:04:17,06:32:31
+ironman-70.3-elsinore-20150621.csv,1445,Sven Åge Jørgensen,66,---,DNK,00:54:16,03:17:44,02:02:59,00:18:37,00:05:29,06:39:05
+ironman-70.3-elsinore-20150621.csv,1446,Frants Oldenburg,68,---,DNK,00:50:30,03:16:46,02:56:54,00:10:21,00:04:44,07:19:15
+ironman-70.3-elsinore-20150621.csv,1447,Per Kragh Nielsen,70,---,DNK,00:48:06,02:49:44,02:24:25,00:12:54,00:03:58,06:19:07
+ironman-70.3-elsinore-20150621.csv,1448,Nicoline Hvidt,18,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1449,Lisbeth Pedersen,19,---,DNK,00:40:57,02:58:44,02:10:16,00:06:22,00:02:59,05:59:18
+ironman-70.3-elsinore-20150621.csv,1450,Rikke Videbæk,20,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1451,Line Bonde,21,---,DNK,00:38:01,03:03:22,01:59:06,00:06:26,00:03:37,05:50:32
+ironman-70.3-elsinore-20150621.csv,1452,Vibeke Højberg Strebøl,21,---,DNK,00:40:00,02:53:30,01:42:24,00:05:51,00:01:54,05:23:39
+ironman-70.3-elsinore-20150621.csv,1453,Ina Karlsson Elmholt,21,---,NOR,00:36:21,02:42:58,01:45:32,00:06:22,00:02:13,05:13:26
+ironman-70.3-elsinore-20150621.csv,1454,Nicoline Broholt,22,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1455,Sophie Junge,---,DEN,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1456,Stine Baekgaard Olsen,22,---,DNK,00:34:28,02:46:31,01:40:45,00:04:55,00:01:21,05:08:00
+ironman-70.3-elsinore-20150621.csv,1457,Jasmin Sutinen,23,Other,FIN,00:29:03,02:45:19,01:46:13,00:04:24,00:01:38,05:06:37
+ironman-70.3-elsinore-20150621.csv,1458,Frederikke Lihme,23,---,DNK,00:38:45,03:02:14,01:56:09,00:06:58,00:03:11,05:47:17
+ironman-70.3-elsinore-20150621.csv,1459,Camilla Wigger,23,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1460,Fie Langmann,23,---,DNK,00:44:08,03:06:23,01:57:01,00:06:00,00:02:02,05:55:34
+ironman-70.3-elsinore-20150621.csv,1461,Birgitte Krogsgaard,23,DK,DNK,00:29:12,02:32:19,01:31:55,00:03:58,00:01:13,04:38:37
+ironman-70.3-elsinore-20150621.csv,1462,Nikoline Schnoor,23,DK,DNK,00:32:55,02:26:55,01:44:50,00:05:21,00:01:38,04:51:39
+ironman-70.3-elsinore-20150621.csv,1463,Laura Marie Hein Nørballe,23,DK,DNK,00:41:03,02:51:58,01:50:59,00:06:59,00:02:19,05:33:18
+ironman-70.3-elsinore-20150621.csv,1464,Madeleine Venn-Mitchell,24,NY,CAN,00:41:20,03:14:08,02:09:28,00:12:02,00:06:25,06:23:23
+ironman-70.3-elsinore-20150621.csv,1465,Mette Offersen,24,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1466,Trine Søby,24,---,DNK,00:27:56,02:51:12,02:11:03,00:06:22,00:01:47,05:38:20
+ironman-70.3-elsinore-20150621.csv,1467,Stephanie Buch Aagaard Lauridsen,24,---,DNK,00:40:12,02:51:41,02:09:27,00:05:39,00:02:05,05:49:04
+ironman-70.3-elsinore-20150621.csv,1468,Fie Hansen,25,DK,DNK,00:40:48,03:04:27,02:13:59,00:06:34,00:01:41,06:07:29
+ironman-70.3-elsinore-20150621.csv,1469,Mie Ziebell,25,---,DNK,00:49:08,04:12:50,02:29:41,00:16:46,00:06:00,07:54:25
+ironman-70.3-elsinore-20150621.csv,1470,Caroline Wolf,25,---,DNK,00:34:42,02:44:27,01:50:53,00:06:58,00:02:18,05:19:18
+ironman-70.3-elsinore-20150621.csv,1471,Pia Englyst,25,---,DNK,00:34:46,02:32:27,01:31:23,00:04:12,00:01:37,04:44:25
+ironman-70.3-elsinore-20150621.csv,1472,Rie Louise Dyhr,25,---,DNK,00:44:23,03:06:03,01:50:10,00:06:59,00:03:23,05:50:58
+ironman-70.3-elsinore-20150621.csv,1473,Charlotte Keller,25,---,GBR,00:47:07,03:52:32,02:39:55,00:12:23,00:07:07,07:39:04
+ironman-70.3-elsinore-20150621.csv,1474,Celine Exner Kludt,26,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1475,Mia Jepsen,---,---,DNK,00:37:18,02:35:24,01:48:57,00:05:53,00:01:48,05:09:20
+ironman-70.3-elsinore-20150621.csv,1476,Kristine Flagstad,26,DK,DNK,00:59:23,03:26:57,02:58:05,00:13:13,00:06:47,07:44:25
+ironman-70.3-elsinore-20150621.csv,1477,Marina Iversen,26,---,DNK,00:55:45,04:03:25,02:55:45,00:11:40,00:04:20,08:10:55
+ironman-70.3-elsinore-20150621.csv,1478,Sisse Balling,26,---,DNK,00:46:19,02:57:47,02:13:50,00:07:24,00:03:20,06:08:40
+ironman-70.3-elsinore-20150621.csv,1479,Trine Poulsen,26,DK,DNK,00:31:26,02:44:29,01:48:54,00:06:33,00:01:59,05:13:21
+ironman-70.3-elsinore-20150621.csv,1480,Anna Søndergaard,26,---,DNK,00:36:18,02:45:54,01:40:25,00:06:11,00:03:00,05:11:48
+ironman-70.3-elsinore-20150621.csv,1481,Sofie Valentiner,26,---,DNK,00:40:57,02:57:29,01:54:28,00:06:50,00:03:30,05:43:14
+ironman-70.3-elsinore-20150621.csv,1482,Karoline Hemmsen,26,---,DNK,00:29:20,02:32:01,01:39:57,00:03:51,00:01:22,04:46:31
+ironman-70.3-elsinore-20150621.csv,1483,Camilla Theut Severinsen,26,---,DNK,00:32:19,03:04:32,01:50:18,00:06:09,00:02:39,05:35:57
+ironman-70.3-elsinore-20150621.csv,1484,Emilie Mott,26,---,DNK,00:44:00,03:18:20,02:28:15,00:08:26,00:02:17,06:41:18
+ironman-70.3-elsinore-20150621.csv,1485,Katrine Florin,27,---,DNK,00:53:46,03:18:32,01:57:48,00:12:08,00:06:19,06:28:33
+ironman-70.3-elsinore-20150621.csv,1486,Sofie Buurgaard Lionett,27,---,DNK,00:37:41,03:04:18,02:00:46,00:07:31,00:02:15,05:52:31
+ironman-70.3-elsinore-20150621.csv,1487,Kirstine Lind Henriksen,27,---,DNK,00:46:05,03:12:04,02:12:11,00:10:08,00:02:23,06:22:51
+ironman-70.3-elsinore-20150621.csv,1488,Sanne Grothe,27,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1489,Stella Herbild Nyborg,27,---,DNK,00:36:24,02:59:20,01:53:13,00:08:23,00:04:38,05:41:58
+ironman-70.3-elsinore-20150621.csv,1490,Line Skov Jensen,27,---,DNK,00:44:10,03:10:38,02:29:56,00:06:32,00:03:18,06:34:34
+ironman-70.3-elsinore-20150621.csv,1491,Sacha Lena Kiming Nielsen.,27,---,DNK,00:46:47,02:55:36,01:49:02,00:08:50,00:05:15,05:45:30
+ironman-70.3-elsinore-20150621.csv,1492,Mette Lizzi Jørgensen,27,---,DNK,00:31:13,02:58:48,02:15:33,00:07:33,00:02:20,05:55:27
+ironman-70.3-elsinore-20150621.csv,1493,Jeanett Danielsen,27,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1494,Nina Bach Pedersen,27,---,DNK,00:37:02,02:39:07,01:34:54,00:08:03,00:03:18,05:02:24
+ironman-70.3-elsinore-20150621.csv,1495,Nadia Puukka Tornøe,27,---,DNK,00:45:09,03:17:33,02:33:15,00:09:22,00:04:33,06:49:52
+ironman-70.3-elsinore-20150621.csv,1496,Heidi Marie Pedersen,27,---,DNK,00:28:44,02:50:40,01:51:22,00:05:57,00:02:38,05:19:21
+ironman-70.3-elsinore-20150621.csv,1497,Mette Kathrine Vinther Korsgaard,28,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1498,Charlotte Friis Thorsen,28,---,DNK,00:44:23,02:53:43,01:53:28,00:06:23,00:01:36,05:39:33
+ironman-70.3-elsinore-20150621.csv,1499,Cecilie Buch Thomsen,28,DK,DNK,00:35:32,02:39:53,01:48:42,00:04:55,00:01:51,05:10:53
+ironman-70.3-elsinore-20150621.csv,1500,Aino Luoma,28,FIN,FIN,00:33:47,02:28:17,01:32:03,00:05:02,00:01:32,04:40:41
+ironman-70.3-elsinore-20150621.csv,1501,Lisa Helbo Luciani,28,---,DNK,00:40:54,03:01:12,02:03:39,00:06:16,00:03:33,05:55:34
+ironman-70.3-elsinore-20150621.csv,1502,Madeleine Olsson,28,---,SWE,00:40:43,03:57:49,02:22:18,00:07:39,00:03:40,07:12:09
+ironman-70.3-elsinore-20150621.csv,1503,Tasja Fosbøl,28,---,DNK,00:32:51,03:08:46,02:10:31,00:07:26,00:03:22,06:02:56
+ironman-70.3-elsinore-20150621.csv,1504,Cecilia Hartmeyer,28,---,DNK,00:38:06,03:11:01,02:04:02,00:06:38,00:03:16,06:03:03
+ironman-70.3-elsinore-20150621.csv,1505,Sofie Mandrup Andreassen,28,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1506,Line Hoff,28,---,DNK,00:41:25,02:56:03,01:52:37,00:06:34,00:02:05,05:38:44
+ironman-70.3-elsinore-20150621.csv,1507,Polina Bambi,28,DK,DNK,00:56:54,03:35:15,02:03:38,00:08:09,00:04:16,06:48:12
+ironman-70.3-elsinore-20150621.csv,1508,Teresa Heimann,28,---,DNK,00:36:23,02:27:11,01:33:40,00:04:47,00:01:22,04:43:23
+ironman-70.3-elsinore-20150621.csv,1509,Camilla Skibdal Schjøtt,28,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1510,Helene Sandra Thorsen,29,---,DNK,00:33:50,03:10:24,02:01:12,00:07:30,00:03:44,05:56:40
+ironman-70.3-elsinore-20150621.csv,1511,Fie Julie Blum,29,---,DNK,00:52:14,03:29:35,02:28:59,00:09:15,00:04:27,07:04:30
+ironman-70.3-elsinore-20150621.csv,1512,Camilla Hornbæk Petersen,29,---,DNK,00:53:56,02:56:47,02:22:40,00:08:06,00:02:44,06:24:13
+ironman-70.3-elsinore-20150621.csv,1513,Cynthia Carr,49,OK,USA,00:37:27,03:02:38,01:59:04,00:08:00,00:03:31,05:50:40
+ironman-70.3-elsinore-20150621.csv,1514,Daniela Stephan,49,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1515,Helle Voss,49,---,DNK,00:47:38,02:45:00,01:51:27,00:09:02,00:02:24,05:35:31
+ironman-70.3-elsinore-20150621.csv,1516,Lone Hansen,50,---,DNK,00:53:36,04:00:56,---,00:18:22,00:06:58,DNF
+ironman-70.3-elsinore-20150621.csv,1517,Birthe Mortensen,50,---,DNK,00:42:29,03:06:22,01:52:57,00:09:51,00:04:30,05:56:09
+ironman-70.3-elsinore-20150621.csv,1518,Gitte Susanne Borring,50,---,DNK,00:46:55,03:28:34,02:22:47,00:10:57,00:07:20,06:56:33
+ironman-70.3-elsinore-20150621.csv,1519,Ginny Tinangon,50,---,DNK,00:50:15,03:20:47,02:06:45,00:15:09,00:06:12,06:39:08
+ironman-70.3-elsinore-20150621.csv,1520,Yvonne Kjaergaard,50,---,DNK,00:41:43,03:10:15,01:56:46,00:09:01,00:03:22,06:01:07
+ironman-70.3-elsinore-20150621.csv,1521,Sanne Røhe,50,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1522,Ulla Engell,50,---,DNK,00:41:16,02:51:26,01:53:23,00:07:28,00:02:34,05:36:07
+ironman-70.3-elsinore-20150621.csv,1523,Betina Flade,50,---,DNK,00:43:26,02:58:57,01:49:27,00:08:00,00:05:11,05:45:01
+ironman-70.3-elsinore-20150621.csv,1524,Julie Rossouw,51,Other,GBR,00:37:38,03:12:00,01:52:01,00:10:20,00:02:50,05:54:49
+ironman-70.3-elsinore-20150621.csv,1525,Lene Bruun,51,DK,DNK,00:46:17,03:05:41,02:05:18,00:10:19,00:03:05,06:10:40
+ironman-70.3-elsinore-20150621.csv,1526,Carol Rasmussen,51,---,DNK,00:35:38,02:35:44,01:40:57,00:05:58,00:01:59,05:00:16
+ironman-70.3-elsinore-20150621.csv,1527,Jacqueline P Borja,51,WI,USA,00:44:13,03:28:41,02:15:35,00:12:17,00:03:52,06:44:38
+ironman-70.3-elsinore-20150621.csv,1528,Vibeke Knudsen,51,---,DNK,00:40:29,02:37:21,01:49:41,00:06:46,00:02:08,05:16:25
+ironman-70.3-elsinore-20150621.csv,1529,Brit Kuhlmann Andersen,51,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1530,Lisbet Westergaard,51,---,DNK,00:42:43,03:16:20,02:03:43,00:11:07,00:06:27,06:20:20
+ironman-70.3-elsinore-20150621.csv,1531,Camilla Schou,52,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1532,Bettina Schou,52,---,DNK,00:50:51,03:18:45,02:23:25,00:11:27,00:05:45,06:50:13
+ironman-70.3-elsinore-20150621.csv,1533,Heidi Kristoffersen,53,---,DNK,00:52:30,---,---,00:15:39,---,DNF
+ironman-70.3-elsinore-20150621.csv,1534,Anne-mette Høier,---,DK,DNK,00:46:30,03:23:05,02:29:58,00:11:09,00:05:02,06:55:44
+ironman-70.3-elsinore-20150621.csv,1535,Krzysztof Sarapuk,44,---,POL,00:46:40,03:11:41,01:56:38,00:07:40,00:03:56,06:06:35
+ironman-70.3-elsinore-20150621.csv,1536,Hanne Jørgensen,54,---,DNK,00:47:32,03:12:07,02:06:54,00:07:28,00:02:04,06:16:05
+ironman-70.3-elsinore-20150621.csv,1537,Helle Hansen,54,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1538,Lise Weibel,54,---,DNK,00:40:41,02:49:45,01:50:57,00:06:59,00:03:11,05:31:33
+ironman-70.3-elsinore-20150621.csv,1539,Lone Irene Petersen,55,---,DNK,01:07:18,03:46:11,02:35:03,00:10:23,00:03:51,07:42:46
+ironman-70.3-elsinore-20150621.csv,1540,Debbie Croydon,55,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1541,Patrik Härlin,50,---,SWE,00:49:35,03:18:09,02:38:37,00:11:30,00:03:53,07:01:44
+ironman-70.3-elsinore-20150621.csv,1542,Minna Basbøll,56,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1543,Fiona Gleeson,57,CA,IRL,01:03:36,03:32:34,02:37:50,00:13:41,00:11:08,07:38:49
+ironman-70.3-elsinore-20150621.csv,1544,Lasse Hofman,32,---,DNK,00:30:20,02:18:30,01:30:17,00:05:08,00:02:03,04:26:18
+ironman-70.3-elsinore-20150621.csv,1545,Henrik Hedegaard,39,---,DNK,00:38:52,02:54:56,01:32:11,00:10:05,00:05:02,05:21:06
+ironman-70.3-elsinore-20150621.csv,1546,Steffen Skaastrup,33,---,DNK,00:31:41,02:40:38,01:38:32,00:05:18,00:01:39,04:57:48
+ironman-70.3-elsinore-20150621.csv,1547,Frederik Braun,39,---,DNK,00:37:39,02:37:18,01:47:59,00:07:46,00:02:41,05:13:23
+ironman-70.3-elsinore-20150621.csv,1548,Thorbjørn Jensen,45,DK,DNK,00:29:25,02:28:01,01:38:41,00:04:37,00:02:01,04:42:45
+ironman-70.3-elsinore-20150621.csv,1549,Chiin-Hooi Tan,35,DK,MYS,00:35:25,02:42:10,01:32:00,00:05:06,00:02:46,04:57:27
+ironman-70.3-elsinore-20150621.csv,1550,Magnus Nambord,46,SE,SWE,00:33:19,02:41:10,01:57:53,00:06:46,00:02:30,05:21:38
+ironman-70.3-elsinore-20150621.csv,1551,Kristian Sloth,46,---,DNK,00:39:10,02:43:59,01:57:01,00:08:40,00:02:32,05:31:22
+ironman-70.3-elsinore-20150621.csv,1552,Moeller Uwe,50,---,DEU,00:31:35,02:26:21,01:34:35,00:05:36,00:01:43,04:39:50
+ironman-70.3-elsinore-20150621.csv,1553,Johan Nohave,43,---,SWE,00:51:06,02:59:23,02:05:11,00:09:42,00:02:54,06:08:16
+ironman-70.3-elsinore-20150621.csv,1554,Håkan Sjögren,52,SE,SWE,00:49:09,02:51:41,02:06:39,00:08:55,00:03:30,05:59:54
+ironman-70.3-elsinore-20150621.csv,1555,Nicolai Haagesen,45,---,DNK,00:56:29,02:34:10,01:41:29,00:06:40,00:02:33,05:21:21
+ironman-70.3-elsinore-20150621.csv,1556,Peter Buhr,46,---,DNK,00:39:16,02:45:33,02:03:54,00:15:33,00:18:03,06:02:19
+ironman-70.3-elsinore-20150621.csv,1557,Pernille Krogsrud,40,---,DNK,00:42:47,02:42:07,01:42:52,00:06:15,00:02:51,05:16:52
+ironman-70.3-elsinore-20150621.csv,1558,Anders Lawaetz,27,---,DNK,00:32:59,02:22:56,01:30:22,00:04:23,00:06:51,04:37:31
+ironman-70.3-elsinore-20150621.csv,1559,Alexander Eiler,39,---,SWE,00:30:17,02:23:38,01:21:36,00:04:51,00:01:13,04:21:35
+ironman-70.3-elsinore-20150621.csv,1560,John Enevoldsen,43,---,DNK,00:27:34,02:15:44,01:26:57,00:04:39,00:01:51,04:16:45
+ironman-70.3-elsinore-20150621.csv,1561,Mårthen Bergman,28,---,SWE,00:47:42,03:32:20,02:06:36,00:12:25,00:06:04,06:45:07
+ironman-70.3-elsinore-20150621.csv,1562,Christian Rau,43,---,DNK,00:49:42,02:57:06,01:56:18,00:13:05,00:03:40,05:59:51
+ironman-70.3-elsinore-20150621.csv,1563,Jesper Ramskov,42,---,DNK,00:49:40,02:43:59,01:53:06,00:10:25,00:05:20,05:42:30
+ironman-70.3-elsinore-20150621.csv,1564,Lasse Gliemann Hybholt,30,---,DNK,00:35:58,02:18:07,01:30:12,00:04:04,00:01:20,04:29:41
+ironman-70.3-elsinore-20150621.csv,1565,Sandra Vergo,35,---,DNK,00:38:18,02:38:05,01:46:58,00:06:30,00:02:52,05:12:43
+ironman-70.3-elsinore-20150621.csv,1566,Harry Potts Olsen,41,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1567,Carl-Erik Vesterager,41,DK,DNK,00:57:20,03:22:30,02:05:30,00:06:40,00:01:17,06:33:17
+ironman-70.3-elsinore-20150621.csv,1568,Martin Hansen,42,---,DNK,00:37:52,02:33:36,01:45:22,00:08:21,00:02:32,05:07:43
+ironman-70.3-elsinore-20150621.csv,1569,Mette Schneider,44,---,DNK,00:54:35,03:22:27,02:04:22,00:11:37,00:03:13,06:36:14
+ironman-70.3-elsinore-20150621.csv,1570,Christoffer Hellmann,---,DEN,DNK,00:44:01,02:27:57,01:45:10,00:04:56,00:01:09,05:03:13
+ironman-70.3-elsinore-20150621.csv,1571,Rasmus Theede,---,DEN,DNK,00:41:25,02:36:55,---,00:04:57,---,DNF
+ironman-70.3-elsinore-20150621.csv,1572,Jan Baagø Jørgensen,48,---,DNK,00:36:37,02:49:58,02:10:17,00:05:56,00:04:06,05:46:54
+ironman-70.3-elsinore-20150621.csv,1573,Barclay Dougall,48,APO,GBR,00:32:45,02:40:54,01:33:54,00:05:55,00:02:42,04:56:10
+ironman-70.3-elsinore-20150621.csv,1574,Søren Uhre,41,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1575,Christian Hauge Nielsen,48,---,DNK,00:43:32,02:51:47,01:54:09,00:14:18,00:03:54,05:47:40
+ironman-70.3-elsinore-20150621.csv,1576,Michael Nyholm,46,---,DNK,00:36:33,02:36:10,01:44:21,00:08:07,00:02:47,05:07:58
+ironman-70.3-elsinore-20150621.csv,1577,Morten Garly Andersen,49,DK,DNK,00:47:29,---,05:56:28,---,---,05:56:28
+ironman-70.3-elsinore-20150621.csv,1578,Christian Mens,43,---,DNK,00:38:26,---,---,00:08:33,---,DNF
+ironman-70.3-elsinore-20150621.csv,1579,Victor Rye Funch,18,---,DNK,00:37:34,02:37:15,01:36:12,00:05:24,00:02:16,04:58:41
+ironman-70.3-elsinore-20150621.csv,1580,Ole N. J. Jensen,56,---,DNK,00:31:58,02:56:05,01:46:44,00:03:54,00:01:08,05:19:49
+ironman-70.3-elsinore-20150621.csv,1581,Ken Pedersen,26,---,DNK,00:53:41,03:25:48,02:14:50,00:09:48,00:05:42,06:49:49
+ironman-70.3-elsinore-20150621.csv,1582,Johnny Christensen,50,DK,DNK,00:38:45,02:31:05,01:43:42,00:08:34,00:02:21,05:04:27
+ironman-70.3-elsinore-20150621.csv,1583,Aske Søby,25,---,DNK,00:39:43,02:14:41,01:53:16,00:05:56,00:02:59,04:56:35
+ironman-70.3-elsinore-20150621.csv,1584,Andreas Borch,32,---,DNK,00:24:46,02:17:34,01:19:11,00:03:15,00:01:23,04:06:09
+ironman-70.3-elsinore-20150621.csv,1585,Flemming Christiansen,43,---,DNK,00:35:16,---,---,00:05:49,---,DNF
+ironman-70.3-elsinore-20150621.csv,1586,Mark Rask,31,---,DNK,00:37:15,02:29:05,01:54:56,00:06:53,00:02:16,05:10:25
+ironman-70.3-elsinore-20150621.csv,1587,Teresa Holmberg,33,---,DNK,00:38:34,02:52:28,01:55:53,00:05:50,00:02:12,05:34:57
+ironman-70.3-elsinore-20150621.csv,1588,Allan Steen Olesen,31,DK,DNK,00:25:48,02:11:28,01:16:57,00:03:03,00:01:13,03:58:29
+ironman-70.3-elsinore-20150621.csv,1590,Michael Larsen,44,DK,DNK,00:43:34,02:55:18,01:52:08,00:09:43,00:04:12,05:44:55
+ironman-70.3-elsinore-20150621.csv,1591,Mike Lolk,---,DEN,DNK,00:50:31,03:11:41,01:58:55,00:09:21,00:08:06,06:18:34
+ironman-70.3-elsinore-20150621.csv,1592,Mads Rasmussen,27,---,DNK,00:30:06,02:23:47,01:23:43,00:04:34,00:01:25,04:23:35
+ironman-70.3-elsinore-20150621.csv,1593,Christian Holt,26,---,DNK,00:29:15,02:35:23,01:40:01,00:05:15,00:02:07,04:52:01
+ironman-70.3-elsinore-20150621.csv,1594,Peter Frithioff,43,---,DNK,00:39:36,02:49:56,01:56:44,00:11:50,00:05:04,05:43:10
+ironman-70.3-elsinore-20150621.csv,1595,Christian Von Rosen,28,---,DNK,00:34:03,02:32:29,01:32:55,00:05:30,00:01:27,04:46:24
+ironman-70.3-elsinore-20150621.csv,1597,Tammo Pels Rijcken,53,NL,NLD,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1598,Tammo Pels Rijcken,53,NL,NLD,00:40:21,03:04:42,02:30:32,00:13:18,00:07:10,06:36:03
+ironman-70.3-elsinore-20150621.csv,1599,Anja Thomsen,37,---,DNK,00:51:34,03:14:05,02:33:21,00:10:14,00:03:29,06:52:43
+ironman-70.3-elsinore-20150621.csv,1601,Søren Rørly Møller,30,---,DNK,00:40:17,02:30:05,01:33:57,00:09:41,00:03:13,04:57:13
+ironman-70.3-elsinore-20150621.csv,1604,Mads Roikjer,50,---,DNK,00:40:35,02:32:15,01:51:28,00:08:46,00:04:30,05:17:34
+ironman-70.3-elsinore-20150621.csv,1650,Peter Madsen,---,DEN,DNK,---,---,---,---,---,DNS
+ironman-70.3-elsinore-20150621.csv,1650,Peter Madsen,---,DEN,DNK,---,---,---,---,---,DNS

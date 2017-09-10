@@ -1,0 +1,1270 @@
+#File=ironman-70.3-san-juan-20150315.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-san-juan-20150315.csv,1,Edgardo Omar Velez,27,PR,PRI,00:24:40,02:10:55,01:30:04,00:04:14,00:01:10,04:11:03
+ironman-70.3-san-juan-20150315.csv,2,Justin Daerr,34,CO,USA,00:26:04,02:10:40,01:23:35,00:02:59,00:01:35,04:04:53
+ironman-70.3-san-juan-20150315.csv,3,Matt Russell,31,FL,USA,00:29:39,02:08:17,01:21:17,00:03:04,00:01:36,04:03:53
+ironman-70.3-san-juan-20150315.csv,4,Igor Amorelli,30,Santa Catarina,BRA,00:24:53,02:02:32,01:21:09,00:05:11,00:01:11,03:54:56
+ironman-70.3-san-juan-20150315.csv,5,Patrick Evoe,37,CO,USA,00:28:15,02:07:54,01:28:14,00:03:05,00:01:21,04:08:49
+ironman-70.3-san-juan-20150315.csv,6,David Kahn,31,NY,USA,00:23:44,02:12:37,---,00:02:56,00:00:54,DNF
+ironman-70.3-san-juan-20150315.csv,7,Rodrigo Acevedo,29,CO,CHL,00:28:11,02:15:04,01:24:56,00:02:42,00:01:27,04:12:20
+ironman-70.3-san-juan-20150315.csv,8,Aubrey Aldy,34,FL,USA,00:32:14,02:22:42,01:26:10,00:03:00,00:01:24,04:25:30
+ironman-70.3-san-juan-20150315.csv,9,Aj Baucco,28,OH,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,11,Cedric Boily,31,NB,CAN,00:26:00,02:10:17,01:21:15,00:03:20,00:01:31,04:02:23
+ironman-70.3-san-juan-20150315.csv,12,Scott Bradley,31,NY,USA,00:31:07,02:11:24,01:27:55,00:03:26,00:01:32,04:15:24
+ironman-70.3-san-juan-20150315.csv,13,Andrew Fast,30,WA,USA,00:28:51,02:17:18,01:40:05,00:03:11,00:01:29,04:30:54
+ironman-70.3-san-juan-20150315.csv,14,Raul Furtado,35,Intl State,BRA,00:28:16,---,---,00:02:56,---,DNF
+ironman-70.3-san-juan-20150315.csv,15,Mike Hermanson,27,KY,USA,00:25:59,02:14:39,01:24:55,00:02:57,00:01:37,04:10:07
+ironman-70.3-san-juan-20150315.csv,17,Chris Leiferman,28,CO,USA,00:26:17,02:10:04,01:20:14,00:02:40,00:01:09,04:00:24
+ironman-70.3-san-juan-20150315.csv,18,Frédéric Limousin,34,---,FRA,00:26:19,02:16:20,01:26:23,00:03:15,00:01:39,04:13:56
+ironman-70.3-san-juan-20150315.csv,19,Stuart Marais,29,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,20,Justin Metzler,21,CO,USA,00:25:56,02:10:29,01:25:17,00:02:58,00:01:31,04:06:11
+ironman-70.3-san-juan-20150315.csv,21,Jeremy Morel,23,---,FRA,00:28:10,02:14:26,01:30:40,00:03:03,00:01:26,04:17:45
+ironman-70.3-san-juan-20150315.csv,22,Oriol Gili,32,ES,ESP,00:29:49,02:26:13,01:37:14,00:03:13,00:02:02,04:38:31
+ironman-70.3-san-juan-20150315.csv,23,Kyle Pawlaczyk,31,VA,USA,00:28:02,02:08:40,01:24:47,00:02:59,00:01:11,04:05:39
+ironman-70.3-san-juan-20150315.csv,24,Frank Silvestrin Souza,32,Intl State,BRA,00:24:35,02:11:58,01:22:11,00:02:53,00:01:26,04:03:03
+ironman-70.3-san-juan-20150315.csv,30,Kelly Williamson,37,CO,USA,00:27:40,02:39:25,---,00:03:10,00:01:36,DNF
+ironman-70.3-san-juan-20150315.csv,31,Sarah Haskins,34,MO,USA,00:25:44,02:22:32,01:28:17,00:03:18,00:01:40,04:21:31
+ironman-70.3-san-juan-20150315.csv,32,Dede Griesbauer,44,CO,USA,00:26:33,02:22:27,01:34:34,00:03:27,00:01:49,04:28:50
+ironman-70.3-san-juan-20150315.csv,33,Kate Bruck,39,RI,USA,00:32:34,02:34:47,01:43:32,00:04:06,00:01:49,04:56:48
+ironman-70.3-san-juan-20150315.csv,34,Sarah Cameto,34,CA,USA,00:27:41,02:28:17,01:35:23,00:02:33,00:01:59,04:35:53
+ironman-70.3-san-juan-20150315.csv,35,Leslie Dimichele Miller,29,VA,USA,00:27:42,02:32:34,01:34:01,00:03:42,00:01:47,04:39:46
+ironman-70.3-san-juan-20150315.csv,36,Jackie Hering,30,WI,USA,00:27:55,02:27:19,01:31:26,00:03:16,00:01:58,04:31:54
+ironman-70.3-san-juan-20150315.csv,37,Elise Maury,25,---,FRA,00:36:59,02:35:59,01:48:23,00:03:23,00:01:54,05:06:38
+ironman-70.3-san-juan-20150315.csv,38,Julie Patterson,26,VA,USA,00:30:27,02:26:07,01:43:04,00:00:48,00:01:32,04:41:58
+ironman-70.3-san-juan-20150315.csv,40,Maja Stage Nielsen,26,---,DNK,00:30:29,02:26:51,01:32:46,00:03:08,00:01:24,04:34:38
+ironman-70.3-san-juan-20150315.csv,41,Pamela Tastets,33,---,CHL,---,---,---,---,---,DQ
+ironman-70.3-san-juan-20150315.csv,42,Laurel Wassner,39,CA,USA,00:26:19,02:32:24,01:33:13,00:03:19,00:02:06,04:37:21
+ironman-70.3-san-juan-20150315.csv,61,Jinsun Back,37,APO,KOR,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,101,Nathalia Abrego,27,Panama,PAN,00:32:31,02:41:26,01:54:22,00:03:39,00:02:07,05:14:05
+ironman-70.3-san-juan-20150315.csv,102,Holly Annas,25,NC,USA,00:39:56,03:01:50,02:25:49,00:03:54,00:02:37,06:14:06
+ironman-70.3-san-juan-20150315.csv,103,Lindsey Armstrong,27,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,104,Oriana Bafunno,28,FL,USA,00:36:53,02:36:37,01:43:31,00:06:33,00:01:38,05:05:12
+ironman-70.3-san-juan-20150315.csv,105,Liz Boivin,26,WI,USA,00:39:55,---,---,00:04:49,---,DNF
+ironman-70.3-san-juan-20150315.csv,106,Lynnette Cartagena,27,PR,USA,00:52:00,03:25:49,02:54:52,00:06:46,00:04:17,07:23:44
+ironman-70.3-san-juan-20150315.csv,107,Natalia Castro,26,Bogota,COL,00:44:49,03:11:35,01:56:13,00:05:30,00:04:35,06:02:42
+ironman-70.3-san-juan-20150315.csv,108,Amaryllis Cotto,27,PR,USA,00:39:00,03:07:11,02:26:51,00:05:50,00:03:25,06:22:17
+ironman-70.3-san-juan-20150315.csv,109,Katie Horan,27,CT,USA,00:40:10,03:00:21,02:05:26,00:03:49,00:02:36,05:52:22
+ironman-70.3-san-juan-20150315.csv,110,Lourdes De La Cabada,26,NJ,VEN,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,111,Allison Foote,27,OR,USA,00:49:15,03:32:21,03:05:37,00:08:50,00:06:37,07:42:40
+ironman-70.3-san-juan-20150315.csv,112,Yesenia Suzzette Guerrios,26,FL,PRI,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,113,Hannah Hendricks,25,FL,USA,00:41:58,03:10:36,02:22:13,00:06:42,00:04:24,06:25:53
+ironman-70.3-san-juan-20150315.csv,114,Jeanna Miner,25,MN,USA,00:36:56,03:37:42,02:50:02,00:07:37,00:06:07,07:18:24
+ironman-70.3-san-juan-20150315.csv,115,Lindsay Hyman,28,VA,USA,00:40:07,03:41:23,02:47:15,00:09:20,00:06:33,07:24:38
+ironman-70.3-san-juan-20150315.csv,116,Krystal Irizarry Garcia,26,PR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,117,Caroline Coble,29,CA,USA,00:39:23,02:39:00,01:42:56,00:05:00,00:03:09,05:09:28
+ironman-70.3-san-juan-20150315.csv,118,Cristina Mata,29,PANAMA,PAN,00:33:56,02:35:14,01:49:47,00:03:43,00:01:58,05:04:38
+ironman-70.3-san-juan-20150315.csv,119,Maria Camila Mora Figueroa,28,CUNDINAMARCA,COL,00:39:40,03:01:43,01:49:12,00:07:45,00:05:08,05:43:28
+ironman-70.3-san-juan-20150315.csv,120,Gabriella Nogueira,27,---,BRA,00:44:23,03:32:26,02:53:38,00:09:05,00:06:15,07:25:47
+ironman-70.3-san-juan-20150315.csv,121,Maria Pabon,28,TX,USA,00:39:50,03:01:53,02:20:29,00:04:48,00:03:30,06:10:30
+ironman-70.3-san-juan-20150315.csv,122,Jessica Ratcliffe,28,TX,USA,00:41:20,03:12:06,01:52:05,00:05:44,00:03:29,05:54:44
+ironman-70.3-san-juan-20150315.csv,123,Rivers Rice,28,TX,USA,00:40:16,03:00:01,02:03:35,00:04:24,00:02:56,05:51:12
+ironman-70.3-san-juan-20150315.csv,124,Diana Santa Maria,28,NJ,USA,00:36:18,03:20:13,02:08:01,00:04:50,00:03:36,06:12:58
+ironman-70.3-san-juan-20150315.csv,125,Rachel Scherdin,25,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,126,Catherine Soler,25,NY,USA,00:35:29,03:20:09,02:21:05,00:07:32,00:04:40,06:28:55
+ironman-70.3-san-juan-20150315.csv,127,Victoria Tafur Pinz N,28,Cundinamarca,COL,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,128,Melissa Tellez,26,AZ,USA,00:41:29,03:01:20,02:14:11,00:05:31,00:02:13,06:04:44
+ironman-70.3-san-juan-20150315.csv,129,Vanessa Torruellas,28,NY,USA,00:54:09,03:45:07,02:41:17,00:07:00,00:06:49,07:34:22
+ironman-70.3-san-juan-20150315.csv,130,Astrid Varela,25,PR,USA,00:51:16,03:54:55,02:36:08,00:06:23,00:05:40,07:34:22
+ironman-70.3-san-juan-20150315.csv,131,Milly Wade-West,25,CT,USA,00:40:33,---,---,00:05:57,---,DNF
+ironman-70.3-san-juan-20150315.csv,132,Tiara Walz,28,CO,USA,00:41:08,02:48:35,02:08:21,00:07:17,00:06:52,05:52:13
+ironman-70.3-san-juan-20150315.csv,133,Christine Allen,44,GA,USA,00:42:06,02:53:13,---,00:05:05,00:41:42,DNF
+ironman-70.3-san-juan-20150315.csv,134,Fabienne Arnoux,46,GUADELOUPE,BLM,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,135,Jean Ballweg,46,TN,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,136,Sophie Beaufils-Lédée,44,guadeloupe,GLP,00:46:26,03:08:03,03:04:51,00:06:49,00:06:03,07:12:12
+ironman-70.3-san-juan-20150315.csv,137,Iris Bravo,46,PR,USA,01:06:02,02:42:00,02:14:39,00:05:33,00:02:48,06:11:02
+ironman-70.3-san-juan-20150315.csv,138,Eileen Gonzalez,44,NC,USA,00:44:27,03:25:23,02:26:47,00:05:50,00:04:23,06:46:50
+ironman-70.3-san-juan-20150315.csv,139,Shirley Caraballo,47,PR,USA,00:45:56,03:22:46,03:05:59,00:07:38,00:05:22,07:27:41
+ironman-70.3-san-juan-20150315.csv,140,Deborah Condo,47,AZ,USA,00:41:15,03:23:30,03:06:20,00:07:03,00:05:16,07:23:24
+ironman-70.3-san-juan-20150315.csv,141,Lisandra Donato Riquelme,46,PR,PRI,00:55:06,03:46:15,03:23:03,00:07:02,00:05:59,DNF
+ironman-70.3-san-juan-20150315.csv,142,Deanna Favre,46,MS,USA,00:43:43,02:45:15,02:53:53,00:06:19,00:04:21,06:33:31
+ironman-70.3-san-juan-20150315.csv,143,Katrina Ferguson,46,GA,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,144,Maria Fiore,46,FL,USA,00:41:22,02:56:27,02:27:09,00:05:55,00:03:47,06:14:40
+ironman-70.3-san-juan-20150315.csv,145,Sara Fix,48,IL,USA,00:38:07,02:33:11,01:48:42,00:04:17,00:02:16,05:06:33
+ironman-70.3-san-juan-20150315.csv,146,Holly Grammer,47,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,147,Mary Lynn Hansen,48,MD,USA,00:37:53,02:49:09,02:04:48,00:05:31,00:02:11,05:39:32
+ironman-70.3-san-juan-20150315.csv,148,Tana Jackson,44,CA,USA,00:38:41,02:45:27,01:57:50,00:04:55,00:02:28,05:29:21
+ironman-70.3-san-juan-20150315.csv,149,Tina Jacobson,44,WI,USA,00:50:53,02:41:51,02:22:51,00:06:54,00:03:08,06:05:37
+ironman-70.3-san-juan-20150315.csv,150,Christine Kachinsky,44,NJ,USA,00:37:29,02:35:07,01:46:14,00:04:32,00:02:26,05:05:48
+ironman-70.3-san-juan-20150315.csv,151,Regina Kavadias,48,NH,USA,00:39:05,03:58:25,---,00:06:04,00:10:04,DNF
+ironman-70.3-san-juan-20150315.csv,152,Lisa Kuntze,45,AZ,USA,00:46:24,03:03:13,02:55:51,00:08:27,00:06:45,07:00:40
+ironman-70.3-san-juan-20150315.csv,153,Karen Lam,45,WA,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,154,Angela Lauzon,47,CO,USA,00:58:58,03:42:44,02:50:01,00:14:17,00:10:16,07:56:16
+ironman-70.3-san-juan-20150315.csv,155,Diana Lohmeyer,48,VA,USA,00:36:16,02:54:01,02:13:36,00:04:34,00:02:25,05:50:52
+ironman-70.3-san-juan-20150315.csv,156,Beatriz Martinez,44,PR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,157,Carlene Messinger,47,NJ,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,158,Stacey Meston,44,CO,USA,00:47:52,03:04:35,02:45:17,00:09:45,00:05:03,06:52:32
+ironman-70.3-san-juan-20150315.csv,159,Robin Moen,44,FL,USA,00:41:10,03:04:16,02:23:34,00:06:53,00:03:09,06:19:02
+ironman-70.3-san-juan-20150315.csv,160,Michele Niermann,47,NJ,USA,00:48:16,02:51:10,02:04:34,00:06:26,00:05:59,05:56:25
+ironman-70.3-san-juan-20150315.csv,161,Irene Nieves,46,PR,USA,00:48:28,03:27:51,02:49:43,00:05:55,00:05:24,07:17:21
+ironman-70.3-san-juan-20150315.csv,162,Beilla Nogueras,47,PR,PRI,00:33:18,03:16:07,02:53:11,00:05:51,00:04:50,06:53:17
+ironman-70.3-san-juan-20150315.csv,163,Tracy Owens,44,MA,USA,00:32:05,02:48:08,02:07:03,00:04:14,00:02:29,05:33:59
+ironman-70.3-san-juan-20150315.csv,164,Evelyn Pabon,45,PR,PRI,00:55:09,03:11:13,02:13:51,00:06:01,00:05:43,06:31:57
+ironman-70.3-san-juan-20150315.csv,165,Libia Pereles,47,PR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,166,Liza Grace Perez,47,PR,USA,00:46:04,03:14:03,02:28:17,00:07:17,00:05:54,06:41:35
+ironman-70.3-san-juan-20150315.csv,167,Frances Ramos,48,PR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,168,Glorisel Rivera,45,PR,USA,00:40:59,03:02:31,02:24:11,00:04:33,00:03:22,06:15:36
+ironman-70.3-san-juan-20150315.csv,169,Kathy Schmitz,48,PR,PRI,00:51:54,03:07:10,02:20:00,00:06:11,00:05:40,06:30:55
+ironman-70.3-san-juan-20150315.csv,170,Claudia Serna,46,DC,COL,00:43:59,03:05:54,02:08:36,00:06:04,00:04:25,06:08:58
+ironman-70.3-san-juan-20150315.csv,171,Shirley Ann Serrano,48,PR,USA,00:53:44,03:35:58,02:39:33,00:05:36,00:08:47,07:23:38
+ironman-70.3-san-juan-20150315.csv,172,Colleen Snyder,45,NY,USA,00:42:56,03:12:41,02:58:04,00:07:09,00:06:14,07:07:04
+ironman-70.3-san-juan-20150315.csv,173,Peggy Stierwalt,47,IL,USA,00:49:22,03:51:32,03:03:14,00:12:16,00:04:33,DNF
+ironman-70.3-san-juan-20150315.csv,174,Nancy Torres,47,PR,PRI,00:57:42,03:37:21,02:43:32,00:07:37,00:04:22,07:30:34
+ironman-70.3-san-juan-20150315.csv,175,Jenny Villanueva,46,---,PRI,00:46:39,02:45:28,01:59:57,00:05:34,00:02:38,05:40:16
+ironman-70.3-san-juan-20150315.csv,176,Maggie Walker,46,IL,USA,00:40:12,03:22:50,03:14:27,00:05:55,00:08:29,07:31:53
+ironman-70.3-san-juan-20150315.csv,177,Gina Whipple,45,NH,USA,00:42:36,02:46:33,01:56:46,00:05:20,00:03:16,05:34:31
+ironman-70.3-san-juan-20150315.csv,178,Kathi Whitcomb,44,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,179,Tim Smit,44,CO,USA,00:34:39,02:32:56,01:33:42,00:04:06,00:02:43,04:48:06
+ironman-70.3-san-juan-20150315.csv,180,Jane Wood,49,ON,CAN,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,181,Shira Yoffe,45,DC,USA,00:44:16,03:36:17,02:54:19,00:10:09,00:08:55,07:33:56
+ironman-70.3-san-juan-20150315.csv,182,Joanna Younts,47,NC,USA,00:36:39,02:35:40,01:53:48,00:04:22,00:02:03,05:12:32
+ironman-70.3-san-juan-20150315.csv,183,Eileen Zayas,45,PR,USA,01:04:04,03:21:07,02:25:34,00:06:30,00:03:23,07:00:38
+ironman-70.3-san-juan-20150315.csv,184,Andrea Arbore,50,IN,USA,00:37:13,02:58:55,02:29:58,00:05:42,00:04:23,06:16:11
+ironman-70.3-san-juan-20150315.csv,185,Kristina Beebe,49,CO,USA,00:49:08,03:00:23,02:12:55,00:05:07,00:04:58,06:12:31
+ironman-70.3-san-juan-20150315.csv,186,Lillian Bel N,49,PR,USA,00:49:18,03:09:12,02:33:08,00:06:30,00:04:27,06:42:35
+ironman-70.3-san-juan-20150315.csv,187,Karen Blamick,51,FL,USA,00:35:50,02:52:20,02:02:44,00:04:31,00:02:15,05:37:40
+ironman-70.3-san-juan-20150315.csv,188,Laura Brookfield,49,PA,USA,00:41:22,03:51:05,03:29:48,00:09:54,00:05:53,DNF
+ironman-70.3-san-juan-20150315.csv,189,Pascale Butcher,53,CT,USA,00:39:20,02:44:34,02:13:50,00:04:18,00:02:08,05:44:10
+ironman-70.3-san-juan-20150315.csv,190,Gretchen Cassidy,50,KY,USA,00:40:02,03:02:18,02:08:11,00:07:08,00:04:00,06:01:39
+ironman-70.3-san-juan-20150315.csv,191,Yolanda Charneco,53,PR,USA,00:54:32,03:53:31,03:23:49,00:08:20,00:09:36,DNF
+ironman-70.3-san-juan-20150315.csv,192,Dolly Courtemanche,51,NH,USA,---,03:02:18,02:18:10,00:48:56,00:04:06,06:13:30
+ironman-70.3-san-juan-20150315.csv,193,Janette Dawson,52,CA,USA,00:39:54,03:00:06,02:20:54,00:06:08,00:05:50,06:12:52
+ironman-70.3-san-juan-20150315.csv,195,Wanda Diaz,49,PR,USA,00:49:35,04:56:39,---,00:07:48,---,DNF
+ironman-70.3-san-juan-20150315.csv,196,Mary O'Donnell,50,MI,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,197,Silvia Adriana Dominguez Cardenas,49,Metepec,MEX,00:44:37,02:58:23,02:05:30,00:05:00,00:03:24,05:56:54
+ironman-70.3-san-juan-20150315.csv,198,Betsy Fader,51,NY,USA,00:36:22,02:48:13,02:17:45,00:05:10,00:03:21,05:50:51
+ironman-70.3-san-juan-20150315.csv,199,Michele Faul,52,NJ,USA,00:38:27,02:55:44,02:01:04,00:05:45,00:04:23,05:45:23
+ironman-70.3-san-juan-20150315.csv,200,Lourdes Fernandez,53,PR,USA,00:54:58,03:50:40,03:04:05,00:08:39,00:05:30,DNF
+ironman-70.3-san-juan-20150315.csv,201,Betty Janelle,51,GA,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,202,Hendrik Klavers,50,TX,USA,00:39:17,02:34:04,01:53:20,00:04:22,00:03:01,05:14:04
+ironman-70.3-san-juan-20150315.csv,203,Patricia Laurent,52,Buenos Aires,ARG,00:52:34,03:14:20,02:22:36,00:06:02,00:02:58,06:38:30
+ironman-70.3-san-juan-20150315.csv,204,Susan Leavitt,53,DC,USA,00:52:20,03:35:37,03:22:51,00:09:21,00:11:57,DNF
+ironman-70.3-san-juan-20150315.csv,205,Alyson Llerandi,50,NJ,USA,---,---,---,---,---,DQ
+ironman-70.3-san-juan-20150315.csv,206,Christine Mackrides,50,PA,USA,00:37:05,02:48:57,02:12:57,00:05:25,00:04:01,05:48:25
+ironman-70.3-san-juan-20150315.csv,207,Lisa Martin,51,MI,USA,00:39:52,02:53:21,02:02:32,00:05:11,00:03:07,05:44:03
+ironman-70.3-san-juan-20150315.csv,208,Elizabeth Martinez,49,PR,USA,00:48:06,03:07:37,02:29:47,00:05:01,00:04:07,06:34:38
+ironman-70.3-san-juan-20150315.csv,209,Milagros Martir,49,PR,USA,00:41:13,03:08:34,02:24:37,00:05:00,00:03:58,06:23:22
+ironman-70.3-san-juan-20150315.csv,210,Carlota Mattos,49,panama,PAN,01:27:51,03:07:08,02:54:22,00:08:57,00:05:24,07:43:42
+ironman-70.3-san-juan-20150315.csv,211,Andree Miceli,49,CO,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,212,Joanne (Jody) Miller,52,ON,CAN,00:35:44,02:58:50,02:19:28,00:07:23,00:04:11,06:05:36
+ironman-70.3-san-juan-20150315.csv,213,Cecilia Montes,52,PR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,214,Elizabeth O'Connor,49,NJ,USA,00:43:03,03:06:07,02:13:17,00:04:41,00:03:09,06:10:17
+ironman-70.3-san-juan-20150315.csv,216,Mary Russo,52,NJ,USA,00:40:55,03:15:47,03:10:46,00:06:14,00:04:56,07:18:38
+ironman-70.3-san-juan-20150315.csv,219,Erikka Thalheimer,51,FL,USA,00:52:00,03:19:48,02:59:34,00:06:24,00:04:59,07:22:45
+ironman-70.3-san-juan-20150315.csv,220,Trish Thane,53,MI,USA,00:35:46,03:03:06,02:15:18,00:06:21,00:02:46,06:03:17
+ironman-70.3-san-juan-20150315.csv,221,Dana Thomas,51,PR,USA,00:40:09,03:18:43,02:30:41,00:05:37,00:03:13,06:38:23
+ironman-70.3-san-juan-20150315.csv,222,Doris Torres,50,PR,USA,00:53:25,03:46:42,03:00:10,00:06:42,00:07:14,07:54:13
+ironman-70.3-san-juan-20150315.csv,223,Lorraine Torres,50,PR,USA,---,02:54:10,02:25:05,01:25:07,00:03:02,06:47:24
+ironman-70.3-san-juan-20150315.csv,224,Sara Weaver,50,FL,USA,00:32:13,02:54:30,02:13:27,00:04:47,00:02:15,05:47:12
+ironman-70.3-san-juan-20150315.csv,226,Anne-Christine Calvel,54,Guadeloupe,FRA,00:50:40,02:53:38,02:04:42,00:05:49,00:05:42,06:00:31
+ironman-70.3-san-juan-20150315.csv,227,Karen Dayan,56,FL,USA,00:41:18,02:52:47,02:02:03,00:06:09,00:03:06,05:45:23
+ironman-70.3-san-juan-20150315.csv,228,Sandy Grosvenor,56,MD,USA,00:38:52,02:50:19,02:24:16,00:05:28,00:02:51,06:01:46
+ironman-70.3-san-juan-20150315.csv,230,Carey Hill,56,NM,USA,00:43:26,02:57:56,02:18:25,00:07:40,00:03:48,06:11:15
+ironman-70.3-san-juan-20150315.csv,231,Margie Jennelle,55,FL,USA,00:40:00,03:14:46,02:44:39,00:07:47,00:07:49,06:55:01
+ironman-70.3-san-juan-20150315.csv,232,Suzanne Martin,57,UT,USA,00:57:36,03:32:09,03:12:25,00:10:51,00:05:44,07:58:45
+ironman-70.3-san-juan-20150315.csv,233,Annette Pérez,54,PR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,234,Lori Rickert,55,AZ,USA,00:56:13,03:41:31,03:11:24,00:10:42,00:06:33,DNF
+ironman-70.3-san-juan-20150315.csv,235,Karen Ruffin,54,TN,USA,00:58:05,04:07:46,03:18:40,00:13:20,00:06:06,DNF
+ironman-70.3-san-juan-20150315.csv,236,Felicia Saca,54,CA,USA,00:43:20,03:24:10,02:32:14,00:11:09,00:07:51,06:58:44
+ironman-70.3-san-juan-20150315.csv,237,Sally Smith,56,FL,USA,00:54:08,03:19:07,03:15:02,00:06:14,00:03:08,07:37:39
+ironman-70.3-san-juan-20150315.csv,238,Erica Szilagyi-Norgart,54,FL,USA,00:42:43,02:53:04,02:16:11,00:04:48,00:02:51,05:59:37
+ironman-70.3-san-juan-20150315.csv,239,Sue Bark,62,NC,USA,00:52:10,03:26:58,02:59:04,00:07:15,00:06:36,07:32:03
+ironman-70.3-san-juan-20150315.csv,240,Susan Duffy,63,FL,USA,00:40:06,04:06:43,03:17:16,00:11:59,00:06:02,DNF
+ironman-70.3-san-juan-20150315.csv,242,Susan Kelly,64,FL,USA,00:43:34,03:36:15,03:19:31,00:08:22,00:04:56,07:52:38
+ironman-70.3-san-juan-20150315.csv,243,Diane Sardes,63,NY,USA,00:44:45,03:07:56,03:00:25,00:08:15,00:05:43,07:07:04
+ironman-70.3-san-juan-20150315.csv,244,Consuelo Franson,64,PR,PRI,00:41:18,03:11:11,02:46:04,00:07:13,00:04:10,06:49:56
+ironman-70.3-san-juan-20150315.csv,245,Roberto Larrain,51,panama,PAN,00:39:27,02:42:01,02:02:34,00:04:53,00:03:09,05:32:04
+ironman-70.3-san-juan-20150315.csv,246,Armando Alvarez,49,PR,PRI,00:45:42,02:47:15,02:21:04,00:04:51,00:03:19,06:02:11
+ironman-70.3-san-juan-20150315.csv,247,Miguel Arroyo,49,PR,USA,00:36:11,---,---,00:04:27,---,DNF
+ironman-70.3-san-juan-20150315.csv,248,Monserate Babilonia,49,PR,USA,00:49:21,03:56:33,02:47:44,00:05:08,00:04:46,07:43:32
+ironman-70.3-san-juan-20150315.csv,249,Henry Barff,50,TX,USA,00:43:27,02:54:30,02:33:31,00:06:30,00:02:44,06:20:42
+ironman-70.3-san-juan-20150315.csv,250,Patrick Battle,49,FL,USA,00:34:28,03:01:03,03:04:50,00:07:21,00:04:07,06:51:49
+ironman-70.3-san-juan-20150315.csv,251,Stephane Bensaid,53,---,GLP,00:34:26,02:35:38,02:01:41,00:05:07,00:02:10,05:19:02
+ironman-70.3-san-juan-20150315.csv,252,Scott Binder,53,CO,USA,00:29:33,02:33:25,01:54:36,00:04:31,00:03:35,05:05:40
+ironman-70.3-san-juan-20150315.csv,253,Frederic Bischoff,49,Guadeloupe,GLP,00:45:40,03:25:46,02:54:36,00:09:16,00:05:46,07:21:04
+ironman-70.3-san-juan-20150315.csv,254,jorge Brignoni,53,PR,---,00:50:32,02:55:43,02:18:36,00:05:57,00:05:48,06:16:36
+ironman-70.3-san-juan-20150315.csv,255,Nelson Burgos,51,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,256,Scott Burkhardt,50,ID,USA,00:36:59,02:29:53,02:18:53,00:05:26,00:03:18,05:34:29
+ironman-70.3-san-juan-20150315.csv,257,Raymond Campeau,53,NJ,USA,00:34:30,02:35:03,02:41:52,00:05:35,00:05:14,06:02:14
+ironman-70.3-san-juan-20150315.csv,258,Jose Cardona,49,PR,USA,00:40:04,02:57:54,02:24:19,00:05:20,00:06:50,06:14:27
+ironman-70.3-san-juan-20150315.csv,259,Rene Cardona,52,PR,USA,00:39:35,02:59:20,02:29:07,00:06:30,00:02:52,06:17:24
+ironman-70.3-san-juan-20150315.csv,260,Paul Chard,51,FL,USA,00:38:59,02:43:57,02:09:09,00:06:03,00:04:13,05:42:21
+ironman-70.3-san-juan-20150315.csv,261,Oscar Chaves,52,PR,USA,00:52:01,03:48:42,02:26:38,00:07:27,00:03:32,07:18:20
+ironman-70.3-san-juan-20150315.csv,262,Alfredo Clavell,52,MN,USA,00:42:09,02:53:22,02:29:31,00:06:36,00:03:57,06:15:35
+ironman-70.3-san-juan-20150315.csv,263,Gonzalo Clemente,52,CA,USA,00:38:28,02:55:46,---,00:06:40,---,DNF
+ironman-70.3-san-juan-20150315.csv,264,Kevin Connell,50,FL,USA,00:51:10,03:12:28,03:29:34,00:15:01,00:10:57,07:59:10
+ironman-70.3-san-juan-20150315.csv,265,Todd Cooper,52,TX,USA,00:34:37,02:40:35,01:48:36,00:06:18,00:03:35,05:13:41
+ironman-70.3-san-juan-20150315.csv,266,Michael Corr,53,NY,USA,00:50:11,03:05:57,01:51:23,00:08:26,00:03:34,05:59:31
+ironman-70.3-san-juan-20150315.csv,268,Robert Destefano,52,NJ,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,270,Michael Dulske,50,MS,USA,00:40:12,02:49:36,02:06:23,00:07:21,00:05:51,05:49:23
+ironman-70.3-san-juan-20150315.csv,271,Pablo Escalas,49,Buenos Aires,---,00:29:06,02:18:54,01:24:54,00:03:22,00:01:33,04:17:49
+ironman-70.3-san-juan-20150315.csv,272,Jamie Farmer,50,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,273,Eric Fauskin,50,ID,USA,00:49:02,03:10:45,02:46:40,00:15:38,00:12:35,07:14:40
+ironman-70.3-san-juan-20150315.csv,275,Martin Gautschi,53,---,CHE,00:44:53,02:26:51,01:55:16,00:04:37,00:03:08,05:14:45
+ironman-70.3-san-juan-20150315.csv,276,James Gelb,52,TX,USA,00:46:34,03:12:13,02:39:12,00:06:58,00:04:47,06:49:44
+ironman-70.3-san-juan-20150315.csv,277,Tom Gelson,50,MA,USA,00:42:26,02:44:33,01:54:41,00:03:44,00:02:18,05:27:42
+ironman-70.3-san-juan-20150315.csv,278,Tim Gilbert,51,ON,CAN,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,279,Reinaldo Gonzalez,52,PR,PRI,00:47:34,03:28:25,03:16:15,00:09:29,00:08:56,07:50:39
+ironman-70.3-san-juan-20150315.csv,280,Carlos Ignacio Grimaldi Ramos,54,NAUCALPAN,MEX,00:52:09,03:15:23,02:49:37,00:06:36,00:03:25,07:07:10
+ironman-70.3-san-juan-20150315.csv,281,Philippe Guerard,50,FR,FRA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,282,Shannon Heath,52,NC,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,283,Ian Hessel,49,KY,USA,00:37:25,03:05:26,---,00:08:10,00:08:45,DNF
+ironman-70.3-san-juan-20150315.csv,284,Douglas Hlywka,52,vi,VIR,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,285,Troy Holloway,51,VI,VIR,00:38:47,02:41:18,02:06:18,00:04:21,00:02:16,05:33:00
+ironman-70.3-san-juan-20150315.csv,286,Santiago Irizarry,49,PR,USA,00:51:28,03:28:56,02:25:23,00:06:16,00:05:01,06:57:04
+ironman-70.3-san-juan-20150315.csv,287,Fidel Irizarry Rivera,51,PR,USA,---,03:03:49,02:47:30,00:56:31,00:04:31,06:52:21
+ironman-70.3-san-juan-20150315.csv,288,Tomasz Jankowski,53,OH,USA,00:38:17,---,---,00:07:16,---,DNF
+ironman-70.3-san-juan-20150315.csv,289,Victorio Jauregui,52,PR,USA,00:58:55,03:24:34,03:05:21,00:11:39,00:11:56,07:52:25
+ironman-70.3-san-juan-20150315.csv,290,Mike Jones,51,BC,CAN,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,291,Jeffrey Jordan,52,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,292,Patrick Judd,50,NY,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,293,Bart Klein,51,---,NLD,00:38:40,02:31:41,01:49:12,00:04:03,00:03:05,05:06:41
+ironman-70.3-san-juan-20150315.csv,294,Gerald Lanagan,50,MA,USA,00:45:43,03:14:51,02:38:54,00:09:40,00:07:00,06:56:08
+ironman-70.3-san-juan-20150315.csv,295,Perry Larson,52,CO,USA,00:38:04,02:48:00,03:00:13,00:08:21,00:07:25,06:42:03
+ironman-70.3-san-juan-20150315.csv,296,Marc Lauzon,53,NC,USA,00:54:56,---,---,---,---,DNF
+ironman-70.3-san-juan-20150315.csv,297,Ray Leske,51,WA,USA,00:42:21,02:56:24,02:22:19,00:06:02,00:03:02,06:10:08
+ironman-70.3-san-juan-20150315.csv,298,Mike Llerandi,51,CO,USA,00:28:06,02:31:25,01:54:26,00:03:32,00:02:12,04:59:41
+ironman-70.3-san-juan-20150315.csv,299,Juan Lopez,49,VA,USA,00:51:25,03:05:56,03:08:22,00:07:28,00:07:17,07:20:28
+ironman-70.3-san-juan-20150315.csv,300,Michael Lyons,49,IN,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,301,Julio Marin,53,PR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,302,Chris Marino,50,NJ,USA,00:39:34,03:04:27,02:26:43,00:06:30,00:04:46,06:22:00
+ironman-70.3-san-juan-20150315.csv,303,Inaki Mazarredo,52,---,ESP,00:34:53,---,---,00:04:19,---,DNF
+ironman-70.3-san-juan-20150315.csv,304,Jose Mena,49,PR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,305,John Messineo,53,NY,USA,00:33:10,02:39:45,01:44:02,00:05:12,00:02:16,05:04:25
+ironman-70.3-san-juan-20150315.csv,306,Ricardo Miro,98,FL,USA,00:39:36,02:36:48,02:36:47,00:04:38,00:03:07,06:00:56
+ironman-70.3-san-juan-20150315.csv,307,Willie Negron,51,PR,USA,00:44:09,03:07:25,02:48:21,00:07:15,00:07:42,06:54:52
+ironman-70.3-san-juan-20150315.csv,308,Orlando Nieves Caez,49,PR,USA,00:44:09,03:09:22,03:07:32,00:08:07,00:04:16,07:13:26
+ironman-70.3-san-juan-20150315.csv,309,Mario Cesar Núñez Jiménez,49,DF,MEX,00:46:31,02:57:58,02:24:36,00:05:49,00:04:42,06:19:36
+ironman-70.3-san-juan-20150315.csv,310,Wilfredo Padilla,49,PR,USA,00:43:10,02:34:40,02:14:55,00:04:43,00:02:09,05:39:37
+ironman-70.3-san-juan-20150315.csv,311,Eduardo Paez,53,PR,USA,00:40:52,02:49:20,02:24:46,00:07:17,00:06:56,06:09:11
+ironman-70.3-san-juan-20150315.csv,312,Jose Parada Caeiro,51,PR,USA,00:29:13,02:35:38,02:03:23,00:04:11,00:02:22,05:14:47
+ironman-70.3-san-juan-20150315.csv,313,Heverton Quadros,49,Intl State,BRA,00:50:15,02:31:03,01:45:09,00:05:06,00:02:26,05:13:59
+ironman-70.3-san-juan-20150315.csv,314,Jose Quezada,51,FL,USA,00:44:02,02:49:16,02:43:04,00:06:46,00:08:36,06:31:44
+ironman-70.3-san-juan-20150315.csv,315,Randall Rasmussen,54,SD,USA,00:31:15,02:33:24,01:47:15,00:04:18,00:02:23,04:58:35
+ironman-70.3-san-juan-20150315.csv,316,Michael Rego,52,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,317,Orlando Rivera,50,PR,USA,00:36:57,02:44:27,02:19:49,00:05:41,00:02:50,05:49:44
+ironman-70.3-san-juan-20150315.csv,318,Vicente Rivera,51,PR,PRI,00:36:31,03:01:29,03:00:55,00:05:46,00:04:12,06:48:53
+ironman-70.3-san-juan-20150315.csv,319,Ramon Rivera-Cano,53,PR,USA,00:38:49,02:45:21,03:04:44,00:06:22,00:03:13,06:38:29
+ironman-70.3-san-juan-20150315.csv,320,Manuel Roca,49,PR,PRI,00:39:06,02:33:45,02:01:12,00:04:26,00:01:43,05:20:12
+ironman-70.3-san-juan-20150315.csv,321,Franklin Rocafort,53,PR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,322,Jose M. Rodriguez,53,PR,USA,00:39:46,03:27:53,01:55:21,00:04:50,00:03:15,06:11:05
+ironman-70.3-san-juan-20150315.csv,323,Harry Rodriguez Quiles,50,PR,USA,00:55:24,03:30:26,02:59:15,00:06:24,00:05:07,07:36:36
+ironman-70.3-san-juan-20150315.csv,324,Angel Romero,51,PR,USA,00:54:59,03:18:44,03:10:08,00:07:32,00:07:21,07:38:44
+ironman-70.3-san-juan-20150315.csv,325,Waldemar Rosado,53,PR,PRI,00:54:15,02:59:08,03:16:31,00:07:12,00:09:49,07:26:55
+ironman-70.3-san-juan-20150315.csv,326,David Rowland,52,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,327,Agustin Ruiz,53,PR,USA,00:49:48,03:56:08,03:32:40,00:08:27,00:06:31,DNF
+ironman-70.3-san-juan-20150315.csv,328,Michael Ryan,49,MD,USA,00:38:20,02:37:40,02:30:51,00:04:28,00:04:31,05:55:50
+ironman-70.3-san-juan-20150315.csv,329,James Samuel,52,CO,USA,00:35:15,02:35:05,01:59:41,00:05:09,00:02:03,05:17:13
+ironman-70.3-san-juan-20150315.csv,330,Ricardo Sanchez,51,FL,USA,00:41:59,02:56:01,03:09:25,00:06:39,00:03:50,06:57:54
+ironman-70.3-san-juan-20150315.csv,331,Zach Sinnott,52,FL,USA,00:31:10,02:54:46,02:36:07,00:04:40,00:03:14,06:09:57
+ironman-70.3-san-juan-20150315.csv,332,Trent Smith,50,FL,USA,00:37:44,02:45:37,01:42:53,00:03:31,00:01:55,05:11:40
+ironman-70.3-san-juan-20150315.csv,333,John Snyder,52,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,334,Ray Stainback,53,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,335,Ron Steele,---,FL,USA,00:40:12,03:07:53,02:50:53,00:06:10,00:03:32,06:48:40
+ironman-70.3-san-juan-20150315.csv,336,John Stock,52,NJ,USA,00:33:59,03:16:18,02:22:28,00:04:50,00:04:26,06:22:01
+ironman-70.3-san-juan-20150315.csv,337,Euler Teixeira  Filho,49,Intl State,BRA,00:41:16,02:27:05,02:07:24,00:04:42,00:02:35,05:23:02
+ironman-70.3-san-juan-20150315.csv,338,Jonathan Terrell,52,DC,USA,00:47:37,03:04:51,02:29:34,00:05:36,00:04:31,06:32:09
+ironman-70.3-san-juan-20150315.csv,339,Becker Terrero,51,---,DOM,00:49:33,02:55:53,02:51:12,00:08:36,00:04:26,06:49:40
+ironman-70.3-san-juan-20150315.csv,340,Pierre-Yves Teycheney,49,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,341,James Toczylowski,53,NJ,USA,00:41:37,02:55:57,02:48:57,00:07:40,00:07:06,06:41:17
+ironman-70.3-san-juan-20150315.csv,342,Frederic Van Hove,51,Antilles,BLM,00:38:18,02:55:38,---,00:06:33,00:09:58,DNF
+ironman-70.3-san-juan-20150315.csv,343,Carlos Enrique Vesga Ramirez,50,Intl State,COL,00:47:57,02:56:14,02:30:34,00:05:33,00:04:56,06:25:14
+ironman-70.3-san-juan-20150315.csv,344,Michael Villane,50,NJ,USA,00:34:04,02:30:20,01:46:22,00:03:55,00:01:30,04:56:11
+ironman-70.3-san-juan-20150315.csv,345,Walter Villanueva,50,PR,USA,00:34:20,02:39:32,02:16:50,00:04:29,00:04:29,05:39:40
+ironman-70.3-san-juan-20150315.csv,346,Kyle Welch,53,CA,USA,00:29:25,02:32:11,01:44:48,00:03:43,00:01:52,04:51:59
+ironman-70.3-san-juan-20150315.csv,347,James Whitley,50,ON,CAN,00:47:46,03:07:32,02:44:05,00:07:17,00:07:56,06:54:36
+ironman-70.3-san-juan-20150315.csv,348,Jeff Wisot,53,PA,USA,00:41:13,02:36:54,02:02:14,00:05:38,00:04:52,05:30:51
+ironman-70.3-san-juan-20150315.csv,349,Paul Wright,49,NY,USA,00:39:39,02:49:48,02:45:01,00:05:27,00:06:47,06:26:42
+ironman-70.3-san-juan-20150315.csv,350,Alfonso Abreu Guevara,55,---,MEX,00:41:24,03:08:08,02:58:09,00:05:21,00:04:18,06:57:20
+ironman-70.3-san-juan-20150315.csv,351,Tomas Cabrejas,54,DF,MEX,00:44:42,03:10:50,02:58:32,00:10:32,00:07:23,07:11:59
+ironman-70.3-san-juan-20150315.csv,352,Park Alsop,55,FL,USA,00:41:16,03:03:29,---,00:05:16,00:05:17,DNF
+ironman-70.3-san-juan-20150315.csv,353,John Carroll,57,NC,USA,00:43:58,02:53:24,02:34:26,00:06:16,00:04:30,06:22:34
+ironman-70.3-san-juan-20150315.csv,354,Eduardo Chipoco,56,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,355,Michael Cockrem,55,WI,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,356,William Connelly,57,---,NLD,00:37:51,02:49:52,02:09:13,00:04:49,00:02:42,05:44:27
+ironman-70.3-san-juan-20150315.csv,357,Gary Cook,57,NC,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,358,Armando Crespo,58,Buenos Aires,ARG,00:46:56,02:47:09,02:27:08,00:09:08,00:07:50,06:18:11
+ironman-70.3-san-juan-20150315.csv,359,Jeff Cuddeback,56,FL,USA,00:28:20,02:29:41,01:38:49,00:04:25,00:01:58,04:43:13
+ironman-70.3-san-juan-20150315.csv,360,Mitchell Dittman,55,MI,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,361,Fernando Estrada,55,PR,USA,00:51:14,03:18:48,01:37:48,00:07:06,00:05:18,06:00:14
+ironman-70.3-san-juan-20150315.csv,362,Michael Foley,59,FL,USA,00:55:24,03:12:59,03:26:26,00:11:08,00:13:38,07:59:35
+ironman-70.3-san-juan-20150315.csv,363,Hector Garcia,57,MD,USA,00:47:56,02:44:37,02:09:27,00:08:43,00:03:29,05:54:12
+ironman-70.3-san-juan-20150315.csv,364,Drew Hamernik,54,FL,USA,00:45:48,02:47:05,02:27:38,00:05:18,00:02:54,06:08:43
+ironman-70.3-san-juan-20150315.csv,365,David Hamilton,55,ON,CAN,00:42:27,02:41:46,02:21:42,00:06:27,00:05:01,05:57:23
+ironman-70.3-san-juan-20150315.csv,366,Paul Hough,57,FL,USA,00:37:04,02:34:35,02:04:32,00:04:22,00:02:46,05:23:19
+ironman-70.3-san-juan-20150315.csv,367,Ernie Janelle,58,GA,USA,00:49:21,02:47:25,01:59:07,00:06:18,00:02:58,05:45:09
+ironman-70.3-san-juan-20150315.csv,368,Patrick Jannotta,54,FRANCE,GLP,00:39:45,02:42:51,02:19:45,00:04:42,00:01:53,05:48:56
+ironman-70.3-san-juan-20150315.csv,369,Robert Kalish,55,NY,USA,00:38:48,02:42:01,02:02:38,00:07:38,00:04:30,05:35:35
+ironman-70.3-san-juan-20150315.csv,370,Randy Keir,57,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,371,Tom Kennedy,57,FL,USA,00:44:04,02:47:55,03:04:43,00:06:23,00:04:28,06:47:33
+ironman-70.3-san-juan-20150315.csv,372,Richard Krajewski,55,NH,USA,00:45:01,02:40:50,01:54:04,00:05:29,00:03:03,05:28:27
+ironman-70.3-san-juan-20150315.csv,373,Alex Lipzer,55,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,374,Edgardo Lugo,54,PR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,375,Noel Martinez Castillo,58,PR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,376,Billy Mckee,57,TX,USA,00:53:58,03:34:56,02:58:00,00:11:36,00:06:31,07:45:01
+ironman-70.3-san-juan-20150315.csv,377,Albert Morales,58,PR,PRI,00:58:31,03:59:57,02:58:21,00:06:01,00:04:12,DNF
+ironman-70.3-san-juan-20150315.csv,378,William Morales,55,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,379,Peter Mundschenk,54,FL,USA,00:38:36,02:51:14,02:23:35,00:07:48,00:03:52,06:05:05
+ironman-70.3-san-juan-20150315.csv,380,Mitch Norgart,57,FL,USA,00:37:54,02:55:57,02:33:31,00:06:00,00:03:21,06:16:43
+ironman-70.3-san-juan-20150315.csv,381,Magnus Orrebrant,55,---,SWE,00:42:45,---,---,00:05:10,---,DNF
+ironman-70.3-san-juan-20150315.csv,383,Jose Penaranda,58,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,384,Angel Perez-Toro,58,PR,USA,00:41:55,02:43:13,02:08:27,00:05:27,00:03:06,05:42:08
+ironman-70.3-san-juan-20150315.csv,385,Ronnie Pina,57,AZ,USA,00:47:49,02:59:47,02:10:29,00:05:37,00:04:13,06:07:55
+ironman-70.3-san-juan-20150315.csv,386,Ronald Porter,56,NY,UMI,00:42:53,03:02:39,02:12:38,00:08:29,00:06:25,06:13:04
+ironman-70.3-san-juan-20150315.csv,387,Luis Rivas,54,---,ARG,00:41:50,---,---,---,---,DNF
+ironman-70.3-san-juan-20150315.csv,388,Dino Romito,56,FL,USA,00:49:15,03:29:09,03:02:53,00:09:48,00:07:16,07:38:21
+ironman-70.3-san-juan-20150315.csv,389,Stephen Ruffin,54,TN,USA,00:47:40,02:47:14,02:03:54,00:05:19,00:03:11,05:47:18
+ironman-70.3-san-juan-20150315.csv,390,Jose Sanchez,54,FL,VEN,00:36:50,02:33:14,01:52:45,00:05:30,00:02:33,05:10:52
+ironman-70.3-san-juan-20150315.csv,391,Lee Spiegel,57,NY,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,392,Jeff Sullivan,58,NY,USA,00:41:08,02:53:26,02:20:47,00:07:41,00:04:39,06:07:41
+ironman-70.3-san-juan-20150315.csv,393,Victor Torres,56,TX,USA,00:33:02,02:47:20,02:00:56,00:04:27,00:02:31,05:28:16
+ironman-70.3-san-juan-20150315.csv,394,Jorge Velazquez Quinones,55,PR,PRI,00:42:12,02:48:37,02:33:37,00:04:26,00:02:02,06:10:54
+ironman-70.3-san-juan-20150315.csv,396,Bastiaan Zwaan,56,Curacao,CUW,00:37:31,02:41:23,02:05:10,00:04:04,00:02:37,05:30:45
+ironman-70.3-san-juan-20150315.csv,397,M Nica Abad Grimaldi,18,Distrito Federal,MEX,00:38:18,---,---,---,---,DNF
+ironman-70.3-san-juan-20150315.csv,398,Leah Carroll,22,---,USA,00:35:17,02:55:30,02:02:05,00:04:26,00:02:46,05:40:04
+ironman-70.3-san-juan-20150315.csv,399,Lauren Della Stua,22,NY,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,400,Sarah Goodnight,20,TX,USA,00:43:17,03:18:01,02:06:24,00:07:42,00:05:28,06:20:52
+ironman-70.3-san-juan-20150315.csv,401,Allison Hall,24,MA,USA,00:35:24,02:56:07,01:54:04,00:05:43,00:02:26,05:33:44
+ironman-70.3-san-juan-20150315.csv,402,Kristin Harbes,23,NY,USA,00:49:12,03:48:35,03:26:36,00:08:23,00:05:49,DNF
+ironman-70.3-san-juan-20150315.csv,403,Susan Hilbig,24,NC,USA,00:39:45,02:54:45,02:11:10,00:05:24,00:02:22,05:53:26
+ironman-70.3-san-juan-20150315.csv,404,Emma Langley,19,CT,USA,00:32:07,02:42:34,01:51:14,00:04:07,00:01:54,05:11:56
+ironman-70.3-san-juan-20150315.csv,405,Laura Rangel,20,Bogota,COL,00:36:47,02:43:13,01:54:42,00:03:39,00:02:27,05:20:48
+ironman-70.3-san-juan-20150315.csv,406,Paola Ufret,20,PR,USA,00:40:10,03:00:46,02:35:29,00:06:02,00:06:18,06:28:45
+ironman-70.3-san-juan-20150315.csv,407,Nicole Wood,21,none,PRY,00:31:57,02:39:04,02:07:36,00:03:23,00:02:01,05:24:01
+ironman-70.3-san-juan-20150315.csv,408,Carola Acum,36,PR,USA,00:38:07,02:44:28,01:43:08,00:04:35,00:02:30,05:12:48
+ironman-70.3-san-juan-20150315.csv,409,Donna Adams,35,TX,USA,00:59:23,03:38:07,03:33:46,00:06:47,00:04:19,DNF
+ironman-70.3-san-juan-20150315.csv,410,Krystle Andrews,38,GA,USA,00:41:25,03:00:20,02:18:22,00:06:14,00:04:25,06:10:46
+ironman-70.3-san-juan-20150315.csv,411,Ofelia Arano Pucci,38,Andres Ibañez,BOL,00:45:22,03:34:09,02:34:21,00:08:45,00:06:05,07:08:42
+ironman-70.3-san-juan-20150315.csv,412,Sarah Bay,35,CO,USA,00:36:34,02:32:21,01:36:37,00:04:23,00:03:06,04:53:01
+ironman-70.3-san-juan-20150315.csv,413,Linda Benavides,36,GA,USA,00:41:28,02:37:19,01:55:09,00:05:02,00:02:52,05:21:50
+ironman-70.3-san-juan-20150315.csv,414,Netzabelith Benitez,38,PR,PRI,00:58:03,03:41:37,02:55:57,00:06:17,00:04:31,07:46:25
+ironman-70.3-san-juan-20150315.csv,415,Linda Bonilla,35,PANAMA,PAN,00:45:53,02:54:00,02:31:12,00:06:31,00:03:40,06:21:16
+ironman-70.3-san-juan-20150315.csv,416,Alison Bradford,37,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,417,Maryellen Brown,36,TX,USA,00:48:56,03:26:32,02:58:01,00:06:57,00:04:08,07:24:34
+ironman-70.3-san-juan-20150315.csv,418,Bri Caldara,34,MA,USA,00:42:36,03:07:40,02:26:43,00:05:40,00:05:21,06:28:00
+ironman-70.3-san-juan-20150315.csv,419,Vanessa Candelaria Casanova,38,PR,USA,00:51:34,03:26:54,02:39:17,00:07:13,00:04:26,07:09:24
+ironman-70.3-san-juan-20150315.csv,420,Melisa Christian,38,TX,USA,00:35:01,02:31:41,01:34:30,00:04:44,00:02:33,04:48:29
+ironman-70.3-san-juan-20150315.csv,421,Carla Coira,35,PR,PRI,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,422,Xiomara Colon,36,NJ,USA,---,03:06:14,02:37:41,01:03:29,00:01:38,06:49:02
+ironman-70.3-san-juan-20150315.csv,423,Ximena Cortes Said,35,Cundinamarca ,COL,00:48:00,03:39:49,02:39:13,00:09:44,00:11:52,07:28:38
+ironman-70.3-san-juan-20150315.csv,424,Katrina Crumpler,36,---,VGB,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,425,Sheyla De La Cruz,35,PR,USA,00:56:15,03:16:38,03:14:20,00:07:48,00:04:39,07:39:40
+ironman-70.3-san-juan-20150315.csv,426,Beth Dearment,35,FL,USA,00:41:31,02:48:30,02:13:01,00:04:43,00:02:29,05:50:14
+ironman-70.3-san-juan-20150315.csv,427,Michelle Draper,38,PA,USA,00:42:56,02:52:20,02:00:12,00:05:37,00:05:13,05:46:18
+ironman-70.3-san-juan-20150315.csv,428,Isabel Driggers,38,SC,USA,00:39:52,02:46:43,01:44:21,00:03:50,00:01:53,05:16:39
+ironman-70.3-san-juan-20150315.csv,429,Shaline Echols,38,CA,USA,00:49:27,03:30:28,02:33:05,00:07:48,00:05:14,07:06:02
+ironman-70.3-san-juan-20150315.csv,430,Lourdes Fernandez,38,---,DOM,00:34:56,03:15:58,02:37:39,00:06:18,00:04:27,06:39:18
+ironman-70.3-san-juan-20150315.csv,431,Iris Figueroa,34,PR,USA,00:56:06,03:21:43,02:46:36,00:07:32,00:04:38,07:16:35
+ironman-70.3-san-juan-20150315.csv,432,Jessica Flores,37,PR,USA,00:46:17,03:22:40,02:46:32,00:05:36,00:05:16,07:06:21
+ironman-70.3-san-juan-20150315.csv,433,Beth Folkmann,37,IL,USA,00:44:12,02:46:57,01:43:44,00:05:24,00:04:20,05:24:37
+ironman-70.3-san-juan-20150315.csv,434,Jaime Gallagher,37,NJ,USA,00:50:52,02:52:53,02:25:56,00:07:25,00:05:19,06:22:25
+ironman-70.3-san-juan-20150315.csv,435,Dahil Gomez,39,PR,USA,00:36:18,03:13:53,02:54:45,00:05:36,00:05:51,06:56:23
+ironman-70.3-san-juan-20150315.csv,436,Jessica Gonzalez,34,PR,PRI,00:47:53,03:11:56,02:22:17,00:06:07,00:04:13,06:32:26
+ironman-70.3-san-juan-20150315.csv,438,Cortney Haile,38,CA,USA,00:36:33,02:50:27,01:46:02,00:04:10,00:02:02,05:19:14
+ironman-70.3-san-juan-20150315.csv,439,Maegan Haney,37,ME,USA,00:44:13,03:15:33,02:21:30,00:07:01,00:03:48,06:32:05
+ironman-70.3-san-juan-20150315.csv,440,Naomi Hermina,35,PR,USA,00:43:44,03:12:41,02:46:58,00:04:34,00:04:05,06:52:02
+ironman-70.3-san-juan-20150315.csv,441,Jennifer Hienton,34,NY,USA,00:41:07,02:44:50,02:10:19,00:05:17,00:04:25,05:45:58
+ironman-70.3-san-juan-20150315.csv,442,Jennifer Hogan,34,FL,USA,00:37:18,02:55:13,02:02:00,00:06:28,00:04:38,05:45:37
+ironman-70.3-san-juan-20150315.csv,443,Erin Jackson,35,North Carolina,USA,00:45:35,02:56:09,02:22:34,00:05:36,00:03:28,06:13:22
+ironman-70.3-san-juan-20150315.csv,444,Courtney Kaup,36,VT,USA,00:30:22,02:37:05,01:48:42,00:04:09,00:01:45,05:02:03
+ironman-70.3-san-juan-20150315.csv,445,Indra Celani Leal,36,AMAZONAS,BRA,00:48:04,03:22:41,03:24:29,00:06:58,00:06:35,07:48:47
+ironman-70.3-san-juan-20150315.csv,446,Sari Long,34,DC,USA,00:45:01,03:07:20,02:14:16,00:06:10,00:04:12,06:16:59
+ironman-70.3-san-juan-20150315.csv,447,Britta Martinez,38,PR,USA,00:45:59,03:27:48,02:51:03,00:06:16,00:03:49,07:14:55
+ironman-70.3-san-juan-20150315.csv,448,Yanira Martinez Santiago,39,PR,USA,00:44:19,03:54:01,02:40:09,00:06:04,00:03:36,07:28:09
+ironman-70.3-san-juan-20150315.csv,449,Lisa Mccombs,34,MS,USA,00:47:10,02:53:17,02:40:20,00:05:22,00:02:23,06:28:32
+ironman-70.3-san-juan-20150315.csv,450,Zuzana Michalcova,39,TX,USA,00:41:23,02:59:38,02:37:02,00:06:10,00:05:48,06:30:01
+ironman-70.3-san-juan-20150315.csv,451,Rochelli Michel,37,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,452,Erica Misorek,36,NY,USA,00:46:54,03:43:46,02:31:37,00:13:16,00:08:24,07:23:57
+ironman-70.3-san-juan-20150315.csv,453,Liliana Montes,36,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,454,Grisel Muniz,35,PR,USA,00:43:35,02:58:46,02:21:57,00:04:55,00:02:37,06:11:50
+ironman-70.3-san-juan-20150315.csv,455,Nicci Olsen,34,ON,CAN,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,456,Agnes Park,35,NY,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,458,Christine Coppola,37,FL,USA,00:31:56,02:49:07,01:53:42,00:04:35,00:02:09,05:21:29
+ironman-70.3-san-juan-20150315.csv,459,Yerisell Perez,36,PR,PRI,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,460,Adriana Prieto,37,Panama,PAN,00:39:31,02:36:55,02:06:58,00:06:08,00:03:59,05:33:31
+ironman-70.3-san-juan-20150315.csv,461,Silvia Ribeiro,35,CO,USA,00:33:52,02:41:13,02:32:21,00:05:31,00:02:33,05:55:30
+ironman-70.3-san-juan-20150315.csv,462,Cynthia Roberto,34,NC,USA,00:46:18,03:52:15,02:32:22,00:08:39,00:06:43,07:26:17
+ironman-70.3-san-juan-20150315.csv,463,Jessica Roeschel,35,TX,USA,00:43:01,02:47:53,01:58:03,00:05:46,00:04:28,05:39:11
+ironman-70.3-san-juan-20150315.csv,464,Cyndia Sanchez,37,CT,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,465,Eliana Sanchez,35,---,CHL,00:31:48,03:11:42,01:50:48,00:07:18,00:03:00,05:44:36
+ironman-70.3-san-juan-20150315.csv,466,Zulmaris Santiago Santiago,38,PR,USA,00:43:31,02:59:13,02:04:54,00:04:41,00:02:59,05:55:18
+ironman-70.3-san-juan-20150315.csv,467,Anita Schorlemmer,35,HI,USA,00:41:23,03:00:39,02:03:40,00:05:01,00:02:11,05:52:54
+ironman-70.3-san-juan-20150315.csv,468,Ana Square,36,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,469,Zoe Sundell,34,CO,USA,00:47:14,03:23:54,02:13:47,00:10:58,00:06:25,06:42:18
+ironman-70.3-san-juan-20150315.csv,470,Robin Taylor,38,VA,USA,00:48:12,03:11:45,02:56:57,00:07:22,00:04:48,07:09:04
+ironman-70.3-san-juan-20150315.csv,471,Helena Vieira,34,Santa Catarina,BRA,---,---,---,---,---,DQ
+ironman-70.3-san-juan-20150315.csv,472,Sarah Viruet,37,PR,USA,00:33:35,03:02:37,02:40:42,00:05:52,00:07:26,06:30:12
+ironman-70.3-san-juan-20150315.csv,473,Lindsay Waibel,36,GA,USA,00:49:36,03:08:56,03:07:44,00:10:12,00:10:13,07:26:41
+ironman-70.3-san-juan-20150315.csv,474,Jacqueline Wells,37,---,GBR,00:38:59,03:06:03,02:57:19,00:05:03,00:03:58,06:51:22
+ironman-70.3-san-juan-20150315.csv,475,Jessica Wyndham,38,DC,USA,00:43:42,03:40:35,03:06:53,00:06:48,00:07:42,07:45:40
+ironman-70.3-san-juan-20150315.csv,476,Jessica Zamora,37,FL,USA,00:58:12,03:50:53,03:30:18,00:11:03,00:07:22,DNF
+ironman-70.3-san-juan-20150315.csv,477,Carrie Zander,36,WI,USA,00:36:45,02:40:29,02:08:32,00:04:58,00:02:08,05:32:52
+ironman-70.3-san-juan-20150315.csv,478,Janaina Zimermann,38,---,BRA,00:47:34,02:59:05,02:11:29,00:07:25,00:04:05,06:09:38
+ironman-70.3-san-juan-20150315.csv,479,Bradley Almenas Tristani,33,PR,PRI,00:46:29,03:26:08,02:54:05,00:06:44,00:04:59,07:18:25
+ironman-70.3-san-juan-20150315.csv,480,Lauren Anneberg,31,CO,USA,00:46:27,03:27:42,02:20:39,00:10:08,00:08:14,06:53:10
+ironman-70.3-san-juan-20150315.csv,481,Lahini Arunachalam,29,CA,USA,00:39:00,03:17:25,02:00:26,00:05:51,00:03:10,06:05:52
+ironman-70.3-san-juan-20150315.csv,482,Silvia Aycart Villaverde,33,---,COL,00:40:05,03:38:47,02:23:02,00:07:27,00:06:57,06:56:18
+ironman-70.3-san-juan-20150315.csv,483,Tia Beckmann,29,APO,VGB,00:45:07,03:24:41,02:41:27,00:08:27,00:08:19,07:08:01
+ironman-70.3-san-juan-20150315.csv,484,Giselle Bonilla,33,AZ,USA,00:50:58,03:26:35,03:11:17,00:06:46,00:05:03,07:40:39
+ironman-70.3-san-juan-20150315.csv,485,Adrianne Brakefield,30,DC,USA,00:39:30,03:16:52,02:29:25,00:05:24,00:03:57,06:35:08
+ironman-70.3-san-juan-20150315.csv,486,Sarah Briscoe,33,TX,USA,00:40:34,03:47:16,02:58:49,---,00:03:27,07:30:06
+ironman-70.3-san-juan-20150315.csv,487,Ketty Burgos,30,IL,USA,00:56:12,03:19:50,02:32:46,00:07:38,00:06:12,07:02:38
+ironman-70.3-san-juan-20150315.csv,489,Leigh Charlton,29,---,ZAF,00:36:20,03:25:14,02:41:44,00:07:00,00:05:17,06:55:35
+ironman-70.3-san-juan-20150315.csv,490,Kellee Colvard,33,WI,USA,00:35:45,02:39:02,02:01:48,00:05:03,00:02:27,05:24:05
+ironman-70.3-san-juan-20150315.csv,491,Zuemarie Davila,31,PR,USA,00:41:37,03:24:23,02:50:49,00:08:37,00:07:10,07:12:36
+ironman-70.3-san-juan-20150315.csv,492,Kelley Davis,31,TX,USA,00:39:12,03:22:57,02:13:22,00:07:02,00:07:17,06:29:50
+ironman-70.3-san-juan-20150315.csv,494,Amy Dixon,32,TX,USA,---,04:32:12,02:45:54,---,00:04:03,07:22:09
+ironman-70.3-san-juan-20150315.csv,496,Catherine Buskirk,33,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,497,Karin Evelyn,30,VA,PRI,00:45:25,03:37:37,02:55:08,00:06:07,00:03:42,07:27:59
+ironman-70.3-san-juan-20150315.csv,498,Emily Fenwick,30,CO,USA,00:33:56,03:05:40,02:27:58,00:05:32,00:03:59,06:17:05
+ironman-70.3-san-juan-20150315.csv,499,Glorimar Figueroa Alvarez,33,PR,USA,00:45:09,03:11:43,01:59:11,00:04:01,00:03:14,06:03:18
+ironman-70.3-san-juan-20150315.csv,500,Suzanne Fox,31,MN,USA,00:35:03,02:36:04,01:45:50,00:04:11,00:01:31,05:02:39
+ironman-70.3-san-juan-20150315.csv,501,Maria Florenza Fraga,34,PANAMA,PAN,00:29:01,02:36:56,01:33:06,00:03:32,00:01:27,04:44:02
+ironman-70.3-san-juan-20150315.csv,502,Hannah Freeman,32,MA,USA,00:31:20,02:29:45,02:02:20,00:04:24,00:02:21,05:10:10
+ironman-70.3-san-juan-20150315.csv,503,Isela Garcia,33,la paz,MEX,00:31:50,03:03:59,02:09:15,00:04:47,00:04:25,05:54:16
+ironman-70.3-san-juan-20150315.csv,504,Molly Giammarco,31,DC,USA,00:41:05,03:03:49,02:01:06,00:05:42,00:03:07,05:54:49
+ironman-70.3-san-juan-20150315.csv,505,Kimberly Gift,29,TX,USA,00:42:16,03:35:07,02:44:05,00:08:11,00:06:55,07:16:34
+ironman-70.3-san-juan-20150315.csv,506,Christa Ginsburg,29,TX,USA,00:44:17,03:16:34,02:52:24,00:05:54,00:07:12,07:06:21
+ironman-70.3-san-juan-20150315.csv,507,Anat Gotfried,32,IL,USA,00:40:02,02:52:10,02:05:18,00:05:09,00:03:05,05:45:44
+ironman-70.3-san-juan-20150315.csv,508,Amanda Henry,31,FL,USA,00:48:39,03:10:43,03:11:07,00:06:53,00:12:02,07:29:24
+ironman-70.3-san-juan-20150315.csv,512,Alexandria James,33,FL,USA,00:46:32,04:15:00,02:52:11,00:13:43,00:07:28,DNF
+ironman-70.3-san-juan-20150315.csv,513,Amanda James,32,FL,USA,00:53:01,03:42:05,02:52:10,00:07:16,00:40:21,DNF
+ironman-70.3-san-juan-20150315.csv,514,Kelly-Ann Jenkins,30,FL,USA,00:32:44,03:14:18,02:22:33,00:04:47,00:03:15,06:17:37
+ironman-70.3-san-juan-20150315.csv,515,Liz Katz,29,TX,USA,00:40:18,03:36:33,02:51:59,00:09:31,00:05:06,07:23:27
+ironman-70.3-san-juan-20150315.csv,516,Abbe Kordik,32,IL,USA,00:42:03,03:27:25,02:44:39,00:05:58,00:04:40,07:04:45
+ironman-70.3-san-juan-20150315.csv,517,Arlette Lahens,33,PR,PRI,00:49:19,03:33:30,03:09:52,00:06:35,00:03:16,07:42:32
+ironman-70.3-san-juan-20150315.csv,518,Jessica Lane,32,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,519,Julia Le,33,NY,USA,00:32:40,03:19:29,02:10:41,00:05:59,00:02:40,06:11:29
+ironman-70.3-san-juan-20150315.csv,520,Sarah Mccarty,33,TX,USA,00:40:39,02:34:11,01:47:30,00:04:38,00:03:42,05:10:40
+ironman-70.3-san-juan-20150315.csv,521,Jennifer Mcivor,33,APO,VGB,00:42:44,03:14:49,02:00:27,00:06:20,00:05:57,06:10:17
+ironman-70.3-san-juan-20150315.csv,522,Alison Miller,33,UT,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,523,Danelle Miller,32,TX,USA,00:42:38,02:52:57,02:11:20,00:05:40,00:03:37,05:56:12
+ironman-70.3-san-juan-20150315.csv,524,Esli Ortiz,32,PR,USA,00:48:36,03:40:46,02:37:26,00:05:37,00:04:13,07:16:38
+ironman-70.3-san-juan-20150315.csv,525,Jenn Pan,31,PA,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,526,Astrid Perez,32,TX,PRI,00:39:59,03:00:40,02:30:18,00:05:53,00:03:25,06:20:15
+ironman-70.3-san-juan-20150315.csv,527,Kimbelly Perez Morales,33,---,PRI,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,528,Patricia Quintero,30,Panama,PAN,00:36:35,03:14:03,02:14:31,00:05:16,00:02:52,06:13:17
+ironman-70.3-san-juan-20150315.csv,529,Mirtha Luc A Realpe Palacios,---,---,COL,00:31:12,02:44:35,01:43:52,00:03:32,00:01:49,05:05:00
+ironman-70.3-san-juan-20150315.csv,530,Ashley Robota,30,AZ,USA,00:31:37,02:40:46,02:19:36,00:05:55,00:01:52,05:39:46
+ironman-70.3-san-juan-20150315.csv,531,Tash Ruscheinski,29,Intl State,VGB,00:31:29,03:07:56,02:29:13,00:05:41,00:05:13,06:19:32
+ironman-70.3-san-juan-20150315.csv,532,Jennifer Santoyo,32,WA,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,533,Kristin Scarella,32,TX,USA,00:36:28,02:40:56,02:12:11,00:04:17,00:02:40,05:36:32
+ironman-70.3-san-juan-20150315.csv,534,Sheryl Shectman,33,GA,USA,00:33:32,03:14:40,03:06:09,00:08:48,00:05:23,07:08:32
+ironman-70.3-san-juan-20150315.csv,535,Jennifer Steider,31,NJ,USA,00:36:45,03:52:28,03:18:27,00:07:47,00:04:55,DNF
+ironman-70.3-san-juan-20150315.csv,536,Kathryn Van Besien,32,TX,USA,00:37:25,03:14:59,02:39:59,00:06:46,00:03:36,06:42:45
+ironman-70.3-san-juan-20150315.csv,537,Monika Vargas,31,Alajuela,CRI,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,538,Mariana Villalobos Colon,34,PR,USA,00:55:07,03:12:21,02:32:59,00:07:12,00:04:58,06:52:37
+ironman-70.3-san-juan-20150315.csv,539,Kate Welch,32,NY,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,540,Amanda Wright,33,TX,USA,00:38:09,02:49:28,02:05:01,00:05:27,00:04:17,05:42:22
+ironman-70.3-san-juan-20150315.csv,541,Martha Zamora,33,pichincha,ECU,00:50:30,02:47:03,01:39:58,00:04:27,00:02:37,05:24:35
+ironman-70.3-san-juan-20150315.csv,542,Yamile Abouzaid,41,Intl State,MEX,00:40:29,02:43:38,02:03:13,00:05:35,00:02:59,05:35:54
+ironman-70.3-san-juan-20150315.csv,543,Valerie Acosta,39,NJ,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,544,Marialuz Arellano,41,pichincha,USA,00:36:38,02:40:01,01:47:13,00:04:13,00:02:17,05:10:22
+ironman-70.3-san-juan-20150315.csv,545,Elizabeth Barreiro,43,PR,USA,00:54:20,03:30:26,02:23:04,00:07:42,00:04:40,07:00:12
+ironman-70.3-san-juan-20150315.csv,546,Nathalie Behn,39,VA,USA,00:45:14,02:54:08,02:33:19,00:06:06,00:03:41,06:22:28
+ironman-70.3-san-juan-20150315.csv,547,Maria Bighi,42,---,ARG,00:37:06,02:57:26,01:59:29,00:04:41,00:02:44,05:41:26
+ironman-70.3-san-juan-20150315.csv,548,Lynette Blanc,42,PR,PRI,00:52:28,03:40:00,03:23:46,00:09:18,00:05:58,DNF
+ironman-70.3-san-juan-20150315.csv,549,Maryline Chailleux,41,---,GLP,00:45:05,03:29:22,02:19:25,00:05:40,00:04:38,06:44:10
+ironman-70.3-san-juan-20150315.csv,550,Sunday Clark,40,NY,USA,00:38:55,03:13:05,02:17:21,00:06:35,00:05:27,06:21:23
+ironman-70.3-san-juan-20150315.csv,551,Andrea Clinton,41,AZ,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,552,Maria Alejandra Delgado,40,PR,USA,00:57:21,04:18:24,---,00:08:15,00:03:37,DNF
+ironman-70.3-san-juan-20150315.csv,553,Pascale Delisle,42,QC,CAN,00:50:18,03:47:48,02:49:44,00:08:45,00:06:51,07:43:26
+ironman-70.3-san-juan-20150315.csv,554,Friederike Edelmann,43,NY,USA,00:32:40,02:50:18,01:56:14,00:04:29,00:01:59,05:25:40
+ironman-70.3-san-juan-20150315.csv,555,Brenda Eriksen,42,PA,PAN,00:37:04,02:52:29,02:09:59,00:05:18,00:03:44,05:48:34
+ironman-70.3-san-juan-20150315.csv,556,Isabel Erne Morales,39,panama,PAN,00:53:25,02:58:39,02:13:54,00:06:37,00:03:38,06:16:13
+ironman-70.3-san-juan-20150315.csv,557,Deina Escalera,42,PR,USA,01:15:01,03:56:15,02:44:50,00:07:52,00:09:15,DNF
+ironman-70.3-san-juan-20150315.csv,558,Angie Ferguson,43,FL,USA,00:35:01,03:01:21,02:44:37,00:05:30,00:05:30,06:31:59
+ironman-70.3-san-juan-20150315.csv,559,Jane Fetty,41,IL,USA,00:46:51,---,---,00:09:59,---,DNF
+ironman-70.3-san-juan-20150315.csv,560,Lindy Fireline,41,FL,USA,00:42:01,03:06:59,02:30:41,00:06:18,00:04:42,06:30:41
+ironman-70.3-san-juan-20150315.csv,561,Linda Freeman,41,FL,USA,00:50:33,04:00:41,02:22:39,00:08:26,00:07:07,07:29:26
+ironman-70.3-san-juan-20150315.csv,562,Nicole Geller,44,FL,USA,00:46:37,02:54:32,02:16:10,00:05:20,00:07:08,06:09:47
+ironman-70.3-san-juan-20150315.csv,563,Maria Luz Gill,40,---,PRY,00:41:59,02:43:03,02:08:31,00:04:10,00:02:23,05:40:06
+ironman-70.3-san-juan-20150315.csv,564,Tiffany Grosspietsch,42,WI,USA,00:34:34,02:54:51,02:06:16,00:05:27,00:03:34,05:44:42
+ironman-70.3-san-juan-20150315.csv,565,Karla Gual,39,PR,USA,00:37:41,03:16:41,---,00:05:35,00:05:49,DNF
+ironman-70.3-san-juan-20150315.csv,566,Victoria Guggenheim,43,CT,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,567,Jennifer Harrison,44,IL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,568,Ingrid Hillhouse,42,HI,USA,00:51:17,02:51:43,02:48:04,00:07:06,00:02:45,06:40:55
+ironman-70.3-san-juan-20150315.csv,569,Marlies Kort,42,Curacao,CUW,00:33:46,02:40:35,01:30:07,00:04:07,00:01:54,04:50:29
+ironman-70.3-san-juan-20150315.csv,570,Blair Lahaye,39,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,571,Felicia Leray-Turk,41,GA,USA,00:42:37,03:20:45,03:19:16,00:06:57,00:07:03,07:36:38
+ironman-70.3-san-juan-20150315.csv,572,Leslie Maas Cortes,42,PR,USA,00:36:29,02:51:54,01:41:28,00:05:12,00:03:40,05:18:43
+ironman-70.3-san-juan-20150315.csv,573,Deborah Maldonado,39,PR,PRI,00:53:27,03:17:30,02:41:09,00:06:33,00:04:41,07:03:20
+ironman-70.3-san-juan-20150315.csv,574,Christel Martinez,40,---,GLP,00:37:50,02:40:15,01:57:39,00:04:16,00:02:27,05:22:27
+ironman-70.3-san-juan-20150315.csv,575,Sabrina Medici Matias,42,ES,BRA,00:40:31,02:54:20,02:26:24,00:07:59,00:04:58,06:14:12
+ironman-70.3-san-juan-20150315.csv,576,Candice Nielsen,39,WI,USA,00:37:42,02:39:36,02:26:47,00:06:21,00:03:09,05:53:35
+ironman-70.3-san-juan-20150315.csv,577,Carmen Laura Nieves,40,PR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,578,Maria Novo,39,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,579,Vallee Ohayon,39,GA,USA,00:38:41,02:37:13,01:56:46,00:04:27,00:03:03,05:20:10
+ironman-70.3-san-juan-20150315.csv,580,Debbie Padilla,41,PR,USA,00:48:25,03:26:51,02:23:33,00:08:22,00:05:41,06:52:52
+ironman-70.3-san-juan-20150315.csv,581,Becky Paige,43,MA,USA,00:29:00,02:33:44,01:43:53,00:03:56,00:02:11,04:52:44
+ironman-70.3-san-juan-20150315.csv,582,Sarah Petre-Mears,40,Nevis,KNA,00:44:01,03:21:39,02:47:56,00:06:46,00:03:38,07:04:00
+ironman-70.3-san-juan-20150315.csv,584,Silvina Rebagliatti,42,FL,ARG,00:46:06,02:51:30,02:06:02,00:05:28,00:02:51,05:51:57
+ironman-70.3-san-juan-20150315.csv,585,Nadia Renesson-Philipon,40,---,GLP,00:35:13,02:40:09,01:49:55,00:04:14,00:03:00,05:12:31
+ironman-70.3-san-juan-20150315.csv,586,Aurora Rivera,40,PR,PRI,---,---,---,---,---,DQ
+ironman-70.3-san-juan-20150315.csv,587,Glorivette Rodriguez,41,Intl State,PRI,00:50:55,03:59:17,03:08:39,00:08:20,00:07:16,DNF
+ironman-70.3-san-juan-20150315.csv,588,Christine Ruebush,44,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,589,Ali Rutledge,40,TN,USA,00:33:06,02:41:58,01:54:09,00:05:20,00:02:17,05:16:50
+ironman-70.3-san-juan-20150315.csv,590,Sandra Salvador Zubiria,43,PICHINCHA,ECU,00:40:32,03:10:07,02:16:32,00:05:08,00:03:17,06:15:36
+ironman-70.3-san-juan-20150315.csv,591,Ayesha San Miguel,42,PR,USA,00:54:55,02:48:53,02:00:55,00:05:43,00:03:23,05:53:49
+ironman-70.3-san-juan-20150315.csv,592,Carmen Schwalm,40,ON,CAN,00:38:57,02:47:20,02:00:41,00:05:00,00:03:09,05:35:07
+ironman-70.3-san-juan-20150315.csv,593,Taryn Schwartz,39,NJ,USA,00:36:24,02:49:16,02:04:19,00:05:49,00:02:24,05:38:12
+ironman-70.3-san-juan-20150315.csv,594,Teresa Seda,39,PR,PRI,00:46:07,03:04:45,02:13:22,00:05:07,00:04:17,06:13:38
+ironman-70.3-san-juan-20150315.csv,595,Julie Springsteen,40,NC,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,596,Aixa Toledo,42,NY,USA,00:59:10,03:39:52,02:26:15,00:08:38,00:06:49,07:20:44
+ironman-70.3-san-juan-20150315.csv,597,Concetta Torchetti,39,ON,CAN,00:45:00,02:57:03,02:09:26,00:07:16,00:06:05,06:04:50
+ironman-70.3-san-juan-20150315.csv,598,Sandra Torres,42,PR,USA,00:54:20,03:22:36,02:42:09,00:06:16,00:06:02,07:11:23
+ironman-70.3-san-juan-20150315.csv,599,Virginia Vasconcelos,39,GO,BRA,00:39:25,02:44:26,01:52:43,00:04:42,00:03:17,05:24:33
+ironman-70.3-san-juan-20150315.csv,600,Katja Vogels,44,Curacao,CUW,00:36:33,02:43:56,02:09:58,00:04:45,00:03:22,05:38:34
+ironman-70.3-san-juan-20150315.csv,601,Elizabeth Waterstraat,39,IL,USA,00:30:32,02:35:02,01:42:47,00:04:00,00:02:23,04:54:44
+ironman-70.3-san-juan-20150315.csv,602,Stephanie West,39,CT,USA,00:41:51,03:15:31,02:35:09,00:08:47,00:04:13,06:45:31
+ironman-70.3-san-juan-20150315.csv,603,Tammy Whalen,41,IL,USA,00:48:04,03:20:49,02:52:42,00:08:15,00:05:38,07:15:28
+ironman-70.3-san-juan-20150315.csv,604,Elizabeth Whitfield-Sharpe,41,CO,USA,00:35:51,02:46:32,02:30:14,00:06:18,00:04:32,06:03:27
+ironman-70.3-san-juan-20150315.csv,605,John Baldwin,23,VA,USA,00:26:08,02:29:04,01:53:28,00:04:09,00:01:42,04:54:31
+ironman-70.3-san-juan-20150315.csv,606,Ethan Baruch,22,VA,USA,00:38:52,02:41:42,01:52:26,00:05:16,00:02:20,05:20:36
+ironman-70.3-san-juan-20150315.csv,607,Jacob Bremer,23,TX,USA,00:33:44,02:59:39,01:39:07,00:03:32,00:02:05,05:18:07
+ironman-70.3-san-juan-20150315.csv,608,Vinicius Carvalho,22,Intl State,BRA,00:39:47,02:58:20,02:12:45,00:07:18,00:05:05,06:03:15
+ironman-70.3-san-juan-20150315.csv,609,Michael Chronert,21,FL,USA,00:30:55,02:28:05,01:35:10,00:04:25,00:02:08,04:40:43
+ironman-70.3-san-juan-20150315.csv,610,Charly Coup,22,FR,FRA,00:36:33,02:29:08,02:10:43,00:05:11,00:03:20,05:24:55
+ironman-70.3-san-juan-20150315.csv,611,Eduardo Cruz,21,PR,USA,00:48:27,02:47:59,02:46:02,00:05:34,00:07:43,06:35:45
+ironman-70.3-san-juan-20150315.csv,612,James Ferguson,22,PA,USA,00:33:20,02:37:12,01:34:06,00:04:17,00:02:00,04:50:55
+ironman-70.3-san-juan-20150315.csv,613,Alejandro Fernandez,21,central,PRY,00:39:15,02:36:53,01:46:27,00:03:22,00:02:02,05:07:59
+ironman-70.3-san-juan-20150315.csv,614,Connor Guest,20,FL,USA,00:31:07,02:35:02,---,00:04:44,00:04:08,DNF
+ironman-70.3-san-juan-20150315.csv,615,Chad Guthrie,22,NC,USA,00:34:44,02:50:24,02:54:59,00:05:16,00:05:38,06:31:01
+ironman-70.3-san-juan-20150315.csv,616,Mark Herzog,22,NC,USA,00:37:31,02:36:23,01:53:22,00:03:50,00:02:43,05:13:49
+ironman-70.3-san-juan-20150315.csv,617,Andrew Hibbitt,24,FL,USA,00:29:27,02:21:26,---,00:03:08,---,DNF
+ironman-70.3-san-juan-20150315.csv,618,Bruno P Homem,22,RS,BRA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,619,Kevin Jones,21,CT,USA,00:37:39,02:40:30,01:53:55,00:05:01,00:03:02,05:20:07
+ironman-70.3-san-juan-20150315.csv,620,Maciej Konczewski,23,IL,USA,00:30:27,02:32:13,02:14:46,00:03:42,00:01:36,05:22:44
+ironman-70.3-san-juan-20150315.csv,621,Gilberto Loyo Villarreal,22,miguel hidalgo,MEX,00:38:33,03:01:32,02:30:51,00:05:51,00:04:16,06:21:03
+ironman-70.3-san-juan-20150315.csv,622,Adam Maleh,21,MA,USA,00:37:22,02:39:46,02:43:46,00:06:37,00:04:27,06:11:58
+ironman-70.3-san-juan-20150315.csv,623,Andres Mercado,22,Intl State,COL,00:34:34,02:26:02,01:51:08,00:04:01,00:02:50,04:58:35
+ironman-70.3-san-juan-20150315.csv,624,Christopher Picard,22,QC,CAN,00:26:09,02:41:26,01:56:30,00:03:57,00:02:30,05:10:32
+ironman-70.3-san-juan-20150315.csv,625,Hunter Rickert,19,AZ,USA,00:31:52,02:45:23,01:56:01,00:04:12,00:01:58,05:19:26
+ironman-70.3-san-juan-20150315.csv,626,Anton Saleh,19,CA,USA,00:42:19,02:57:14,02:20:00,00:05:40,00:04:55,06:10:08
+ironman-70.3-san-juan-20150315.csv,627,Reinaldo Torres Torres,23,PR,USA,00:44:57,03:10:32,02:39:52,00:04:32,00:04:04,06:43:57
+ironman-70.3-san-juan-20150315.csv,628,Michael Trebilcock,21,AR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,629,Henry Warder,20,NY,USA,00:36:11,03:01:14,02:21:36,00:05:14,00:02:47,06:07:02
+ironman-70.3-san-juan-20150315.csv,630,Sergio Alarcon,29,---,CHL,00:31:58,02:30:41,02:27:22,00:03:40,00:02:27,05:36:08
+ironman-70.3-san-juan-20150315.csv,631,Sergio Andres Barbosa Sierra,25,APO,COL,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,632,Julien Belliot,28,---,FRA,00:31:51,02:33:29,01:42:09,00:04:15,00:02:08,04:53:52
+ironman-70.3-san-juan-20150315.csv,633,Pedro Bergamini,27,rio grande do sul,BRA,00:44:23,02:48:43,01:49:50,00:05:25,00:06:22,05:34:43
+ironman-70.3-san-juan-20150315.csv,634,Jose Francisco Bergamini Ortiz,25,RS,BRA,00:38:14,03:03:39,02:14:08,00:06:31,00:04:47,06:07:19
+ironman-70.3-san-juan-20150315.csv,635,Luis Betancourt,24,PR,USA,00:31:44,03:04:02,---,00:05:30,00:04:38,DNF
+ironman-70.3-san-juan-20150315.csv,636,Douglas Borge,24,NY,USA,00:42:32,02:54:56,02:28:58,00:07:00,00:03:19,06:16:45
+ironman-70.3-san-juan-20150315.csv,637,Jacob Brown,25,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,638,Evan Calabrese,28,NC,USA,00:32:35,02:29:48,02:08:25,00:04:29,00:01:51,05:17:08
+ironman-70.3-san-juan-20150315.csv,639,Roque Calleja,28,Distrito federal,MEX,01:01:25,02:54:29,02:06:58,00:04:55,00:03:03,06:10:50
+ironman-70.3-san-juan-20150315.csv,640,Jaime Cardich,28,Lima,PER,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,641,Daniel Cassidy,24,NC,USA,00:38:17,02:43:45,---,00:04:50,00:03:57,DNF
+ironman-70.3-san-juan-20150315.csv,642,K.C. Clark,24,CT,USA,00:38:32,03:06:25,02:31:29,00:07:20,00:05:51,06:29:37
+ironman-70.3-san-juan-20150315.csv,643,Favio Coscia,24,Central,PRY,00:41:25,02:48:07,01:56:58,00:04:26,00:02:50,05:33:46
+ironman-70.3-san-juan-20150315.csv,644,Aaron Detienne,28,UT,USA,00:46:09,03:24:11,02:55:48,00:09:25,00:08:06,07:23:39
+ironman-70.3-san-juan-20150315.csv,645,Jesus Dominguez,26,Intl State,MEX,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,646,Raul Elias Rivera,24,PR,PRI,00:28:20,02:43:43,02:18:32,00:04:15,00:02:11,05:37:01
+ironman-70.3-san-juan-20150315.csv,647,Felipe Escobar,27,Valle,COL,00:38:09,02:34:23,01:48:47,00:04:03,00:02:01,05:07:23
+ironman-70.3-san-juan-20150315.csv,648,Ivan Espinosa,28,IL,USA,00:48:05,03:05:45,02:58:30,00:09:58,00:11:08,07:13:26
+ironman-70.3-san-juan-20150315.csv,649,Matt Fontenot,28,CA,USA,00:37:55,03:00:44,02:09:02,00:06:42,00:04:18,05:58:41
+ironman-70.3-san-juan-20150315.csv,650,Miguel Franceschini,28,PR,USA,00:34:26,02:41:47,02:00:15,00:04:32,00:02:23,05:23:23
+ironman-70.3-san-juan-20150315.csv,651,Nahim Fraxe,29,AM,USA,00:37:08,02:56:44,02:23:48,00:08:43,00:04:16,06:10:39
+ironman-70.3-san-juan-20150315.csv,652,Francisco Grino Troche,26,Intl State,PRY,00:37:48,03:00:39,02:15:51,00:04:46,00:03:17,06:02:21
+ironman-70.3-san-juan-20150315.csv,653,Ryan Hunt,29,MI,USA,00:35:30,---,---,---,---,DNF
+ironman-70.3-san-juan-20150315.csv,654,Matthew Kahn,24,NY,USA,00:35:04,02:56:05,---,00:05:31,00:03:51,DNF
+ironman-70.3-san-juan-20150315.csv,655,Felipe Marino Rivera,28,VALLE DEL CAUCA,COL,00:36:05,02:37:38,01:53:26,00:05:14,00:03:32,05:15:55
+ironman-70.3-san-juan-20150315.csv,656,Leandro Marquez,26,FL,USA,00:38:30,03:23:18,02:28:10,00:06:14,00:05:10,06:41:22
+ironman-70.3-san-juan-20150315.csv,657,Uri  Martinez,27,Intl State,MEX,00:26:11,02:28:23,01:40:40,00:02:52,00:01:44,04:39:50
+ironman-70.3-san-juan-20150315.csv,658,Oscar Martinez Franco,28,PR,PRI,00:40:11,02:39:15,02:00:13,00:04:31,00:02:03,05:26:13
+ironman-70.3-san-juan-20150315.csv,659,Rodrigo Medrano,28,Intl State,PER,00:28:30,02:33:55,01:59:13,00:03:47,00:02:36,05:08:01
+ironman-70.3-san-juan-20150315.csv,660,Brad Moss,28,NJ,USA,00:39:04,02:45:54,02:18:38,00:04:19,00:03:04,05:50:59
+ironman-70.3-san-juan-20150315.csv,661,Federico Mu Oz,26,San Jose,CRI,00:42:45,03:09:12,03:03:44,00:07:42,00:04:14,07:07:37
+ironman-70.3-san-juan-20150315.csv,662,John Nastus,29,PR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,663,Alexander Nawrocki,27,CA,USA,00:39:29,02:49:00,02:07:04,00:04:52,00:04:23,05:44:48
+ironman-70.3-san-juan-20150315.csv,664,Jacob Neely,27,NY,USA,00:40:01,02:49:00,02:20:26,00:05:36,00:03:22,05:58:25
+ironman-70.3-san-juan-20150315.csv,665,Eric Nelson,29,ON,CAN,00:41:51,03:17:04,02:59:17,00:07:47,00:07:35,07:13:34
+ironman-70.3-san-juan-20150315.csv,667,Christoph Neubauer,26,AT,AUT,00:32:39,02:31:02,01:46:59,00:03:42,00:02:29,04:56:51
+ironman-70.3-san-juan-20150315.csv,668,Michael Oliver,24,DC,USA,00:35:10,03:02:23,02:16:59,00:06:21,00:08:02,06:08:55
+ironman-70.3-san-juan-20150315.csv,669,Mike Orr,28,CA,USA,00:34:29,02:28:42,01:38:37,00:05:28,00:02:23,04:49:39
+ironman-70.3-san-juan-20150315.csv,670,Kenny Padilla,24,PR,USA,00:51:55,03:28:59,02:46:02,00:08:15,00:06:25,07:21:36
+ironman-70.3-san-juan-20150315.csv,671,Joaquin Pereyra,29,TX,USA,00:39:02,02:55:50,01:50:04,00:07:33,00:05:16,05:37:45
+ironman-70.3-san-juan-20150315.csv,672,Ryan Post,25,FL,USA,00:29:29,02:18:11,01:39:37,00:03:15,00:01:55,04:32:27
+ironman-70.3-san-juan-20150315.csv,673,Jorge Quero,27,Cundinamarca,VEN,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,674,Rudy Quinn,26,NY,USA,00:29:35,02:27:56,01:28:02,00:03:56,00:02:12,04:31:41
+ironman-70.3-san-juan-20150315.csv,675,Andres Felipe Ramirez Lopez,27,Bogotá,COL,00:37:02,02:44:49,02:05:30,00:04:16,00:03:58,05:35:35
+ironman-70.3-san-juan-20150315.csv,676,Diego Restrepo,27,Bogotá,COL,00:43:54,03:01:17,02:21:23,00:06:10,00:04:52,06:17:36
+ironman-70.3-san-juan-20150315.csv,677,Efrain Rivera,25,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,678,Sergio Roa,24,Veneto,COL,00:48:05,03:07:35,02:17:44,00:05:30,00:05:04,06:23:58
+ironman-70.3-san-juan-20150315.csv,679,Alexis M. Rodriguez,27,PR,USA,00:47:20,02:57:26,02:39:16,00:05:31,00:03:32,06:33:05
+ironman-70.3-san-juan-20150315.csv,680,Andres Felipe Rodriguez Rueda,28,SANTANDER,COL,00:28:02,02:20:59,01:37:16,00:03:00,00:01:38,04:30:55
+ironman-70.3-san-juan-20150315.csv,681,David Rodriguez Urrea,28,Bogota D.C,COL,00:37:39,02:49:20,02:04:04,00:05:14,00:03:55,05:40:12
+ironman-70.3-san-juan-20150315.csv,682,Gerardo Saavedra Cuevas,27,---,CHL,00:38:03,02:57:54,02:08:20,00:04:24,00:02:35,05:51:16
+ironman-70.3-san-juan-20150315.csv,683,Ross Taggart,25,NC,USA,00:30:26,02:43:10,01:46:03,00:04:21,00:02:32,05:06:32
+ironman-70.3-san-juan-20150315.csv,684,Robert Vandenburg,29,NY,USA,00:56:24,03:47:55,03:21:42,00:06:54,00:06:33,DNF
+ironman-70.3-san-juan-20150315.csv,685,Gabriel Velandia,26,FL,USA,00:39:15,02:38:10,01:53:01,00:04:18,00:02:31,05:17:15
+ironman-70.3-san-juan-20150315.csv,686,Daniel Whalen,24,FL,USA,00:29:29,02:29:33,01:36:30,00:03:13,00:01:41,04:40:26
+ironman-70.3-san-juan-20150315.csv,687,Ronald Zaldivar,25,---,DOM,00:27:38,02:32:17,01:36:07,00:03:33,00:02:53,04:42:28
+ironman-70.3-san-juan-20150315.csv,688,Aurelio Alcalde Aramburu,59,---,ESP,00:42:48,02:56:37,02:24:06,00:08:37,00:08:20,06:20:28
+ironman-70.3-san-juan-20150315.csv,689,Emmanuel Carballeda Taboada,59,panama,PAN,00:42:53,03:28:38,02:39:11,00:04:57,00:03:52,06:59:31
+ironman-70.3-san-juan-20150315.csv,690,Guy Chavez,61,CO,USA,00:49:44,03:09:39,02:40:34,00:06:42,00:03:26,06:50:05
+ironman-70.3-san-juan-20150315.csv,691,Jose Coleman-Davis,62,PR,USA,00:37:04,03:09:19,02:27:32,00:05:23,00:04:03,06:23:21
+ironman-70.3-san-juan-20150315.csv,692,Anthony Frankoski,62,NJ,USA,00:39:13,03:06:18,02:53:44,00:08:13,00:03:59,06:51:27
+ironman-70.3-san-juan-20150315.csv,694,Jaime Gonzalez,60,nariño,COL,00:45:15,02:57:21,02:28:12,00:06:16,00:04:18,06:21:22
+ironman-70.3-san-juan-20150315.csv,695,Sandy Gonzalez,59,PR,PRI,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,696,Scott Hale,59,WA,USA,00:44:35,02:53:18,02:29:34,00:06:30,00:03:19,06:17:16
+ironman-70.3-san-juan-20150315.csv,697,David Johns,62,VT,USA,00:43:37,03:00:07,03:01:03,00:06:03,00:04:29,06:55:19
+ironman-70.3-san-juan-20150315.csv,698,Steven Jonas,63,NY,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,699,Antoine Lombard,63,APO,GLP,00:45:36,03:06:17,---,00:05:08,00:07:44,DNF
+ironman-70.3-san-juan-20150315.csv,700,Philip Osterhus,60,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,701,Pablo Pons,61,PR,PRI,00:42:17,03:25:15,02:57:41,00:05:52,00:04:49,07:15:54
+ironman-70.3-san-juan-20150315.csv,702,Michael Rusin,59,IL,USA,00:46:07,02:46:00,02:09:40,00:06:15,00:06:24,05:54:26
+ironman-70.3-san-juan-20150315.csv,703,Paul Swanson,60,NJ,USA,00:37:12,03:31:40,---,00:06:35,00:02:40,DNF
+ironman-70.3-san-juan-20150315.csv,704,Steve Vnuk,59,NY,USA,00:50:44,02:44:47,02:02:22,00:05:47,00:05:05,05:48:45
+ironman-70.3-san-juan-20150315.csv,705,Larry Atkins,66,DC,USA,00:42:33,03:02:45,02:37:00,00:06:40,00:04:23,06:33:21
+ironman-70.3-san-juan-20150315.csv,706,Paul Bloom,67,NC,USA,00:37:22,---,---,---,---,DNF
+ironman-70.3-san-juan-20150315.csv,707,Philippe Clerc,65,Guadeloupe,FRA,00:45:36,02:56:28,02:18:28,00:07:20,00:03:16,06:11:08
+ironman-70.3-san-juan-20150315.csv,709,Patrick Duffy,65,FL,USA,00:56:24,04:09:28,---,00:14:21,00:07:26,DNF
+ironman-70.3-san-juan-20150315.csv,710,Bill Elberson,67,AK,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,711,Jerry Fleming,65,TX,PRI,00:45:13,03:19:30,02:04:26,00:08:37,00:05:42,06:23:28
+ironman-70.3-san-juan-20150315.csv,712,Steve Mccormick,64,PA,USA,00:48:25,03:05:23,02:09:42,00:07:56,00:06:19,06:17:45
+ironman-70.3-san-juan-20150315.csv,713,Jay Mellen,66,AZ,USA,00:45:39,03:04:06,03:08:59,00:06:42,00:05:32,07:10:58
+ironman-70.3-san-juan-20150315.csv,714,Larry Nuosce,65,FL,USA,00:51:56,03:13:22,03:14:09,00:05:12,00:03:33,07:28:12
+ironman-70.3-san-juan-20150315.csv,716,Thomas Tazza,64,CT,USA,00:40:57,03:26:14,03:20:53,00:10:45,00:10:00,07:48:49
+ironman-70.3-san-juan-20150315.csv,717,Win Thomas,66,VT,USA,---,03:08:22,---,---,00:30:42,DNF
+ironman-70.3-san-juan-20150315.csv,718,Jorge Torres,65,PR,USA,00:46:20,03:16:52,02:22:02,00:07:28,00:03:14,06:35:56
+ironman-70.3-san-juan-20150315.csv,719,Robert Diday,72,NJ,USA,00:48:28,03:49:21,---,00:12:18,---,DNF
+ironman-70.3-san-juan-20150315.csv,720,Dan Mccarel,71,PA,USA,00:53:25,03:45:46,02:58:12,00:09:37,00:08:01,07:55:01
+ironman-70.3-san-juan-20150315.csv,721,Greyson Quarles,73,FL,USA,00:48:09,03:09:54,02:37:48,00:07:27,00:04:37,06:47:55
+ironman-70.3-san-juan-20150315.csv,722,Jose Ramirez,74,NV,USA,00:49:43,03:09:28,03:31:37,00:09:29,00:06:34,07:46:51
+ironman-70.3-san-juan-20150315.csv,723,Roger Little,74,---,USA,00:44:39,02:49:10,02:25:43,00:06:11,00:03:20,06:09:03
+ironman-70.3-san-juan-20150315.csv,724,Angel Adame,44,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,725,Miguel Aguilo Lang,44,PR,USA,00:34:32,02:33:30,02:47:57,00:04:09,00:02:47,06:02:55
+ironman-70.3-san-juan-20150315.csv,726,Felipe Aguirre,44,Estado de México,MEX,00:46:41,02:53:14,02:37:21,00:05:56,00:03:22,06:26:34
+ironman-70.3-san-juan-20150315.csv,727,Rogelio Alba,45,Panama,PAN,00:31:55,02:33:16,01:45:25,00:04:06,00:02:40,04:57:22
+ironman-70.3-san-juan-20150315.csv,728,Mario Alcala,46,ATLANTICO,COL,00:39:59,03:03:03,02:28:53,00:09:35,00:07:59,06:29:29
+ironman-70.3-san-juan-20150315.csv,729,Luis Alcerreca,44,Mexico,MEX,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,730,Christoph Alder,45,CH,CHE,00:39:33,02:29:53,02:25:23,00:04:53,00:03:22,05:43:04
+ironman-70.3-san-juan-20150315.csv,732,Juan Alonso,45,Cundinamarca,COL,00:39:53,02:36:52,01:57:54,00:05:04,00:02:39,05:22:22
+ironman-70.3-san-juan-20150315.csv,733,Jose Alvarado,45,PR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,734,Jay Antinnes,47,MS,USA,00:35:50,02:40:02,02:13:07,00:07:30,00:04:03,05:40:32
+ironman-70.3-san-juan-20150315.csv,735,Jose Antuna,48,PR,PRI,00:43:34,02:48:31,02:06:16,00:04:46,00:03:21,05:46:28
+ironman-70.3-san-juan-20150315.csv,736,Yorvani Arzuaga,49,PR,USA,00:48:53,03:17:26,02:59:10,00:09:29,00:05:36,07:20:34
+ironman-70.3-san-juan-20150315.csv,737,Jorge Enrique Bayter Marin,45,Santander,COL,00:34:55,02:39:24,01:51:59,00:05:54,00:04:15,05:16:27
+ironman-70.3-san-juan-20150315.csv,738,Matt Boehmer,45,VA,USA,00:35:46,02:47:14,02:00:21,00:10:37,00:10:19,05:44:17
+ironman-70.3-san-juan-20150315.csv,739,Hector Bola Os,44,Tlalnepantla,MEX,00:48:01,03:00:12,02:44:10,00:06:20,00:03:28,06:42:11
+ironman-70.3-san-juan-20150315.csv,740,Chris Brands,45,---,NLD,00:28:51,02:15:35,01:32:19,00:03:47,00:01:53,04:22:25
+ironman-70.3-san-juan-20150315.csv,741,Erik Bricker,45,TX,USA,00:33:33,02:30:06,01:41:25,00:04:46,00:02:38,04:52:28
+ironman-70.3-san-juan-20150315.csv,742,Jim Burke,46,TX,USA,00:33:28,02:33:15,01:42:23,00:04:50,00:02:18,04:56:14
+ironman-70.3-san-juan-20150315.csv,743,Eric Butz,47,QC,CAN,00:47:00,03:42:20,01:34:05,00:07:00,00:06:31,06:16:56
+ironman-70.3-san-juan-20150315.csv,744,John Bye,45,NJ,USA,00:31:50,02:24:33,01:58:03,00:03:23,00:01:43,04:59:32
+ironman-70.3-san-juan-20150315.csv,745,Jose Cabanillas,48,PR,USA,00:41:45,02:54:57,02:11:22,00:05:09,00:05:26,05:58:39
+ironman-70.3-san-juan-20150315.csv,746,Hernan Calderale,45,---,ARG,00:40:22,02:36:35,02:33:48,00:07:01,00:06:12,06:03:58
+ironman-70.3-san-juan-20150315.csv,747,Vincent Cantatore,45,---,FRA,00:40:48,03:01:38,---,00:05:53,00:03:41,DNF
+ironman-70.3-san-juan-20150315.csv,748,Carlos Carrion,46,PR,USA,00:51:20,02:56:58,02:52:28,00:06:43,00:03:18,06:50:47
+ironman-70.3-san-juan-20150315.csv,749,Arnaldo Cartagena,49,PR,PRI,00:38:04,02:50:03,02:36:02,00:08:53,00:07:01,06:20:03
+ironman-70.3-san-juan-20150315.csv,750,Enrique Cassinelli,47,FL,BRA,00:51:57,03:25:49,03:02:40,00:06:33,00:06:23,07:33:22
+ironman-70.3-san-juan-20150315.csv,751,Ricardo Chacin,45,Intl State,TTO,00:40:49,02:51:18,02:24:12,00:05:53,00:03:46,06:05:58
+ironman-70.3-san-juan-20150315.csv,752,Avery Chapman,48,FL,USA,00:34:05,02:50:38,02:21:04,00:04:50,00:04:21,05:54:58
+ironman-70.3-san-juan-20150315.csv,753,Rafael Chaves,46,Cundinamarca,COL,00:42:35,03:17:46,02:45:02,00:05:53,00:06:29,06:57:45
+ironman-70.3-san-juan-20150315.csv,754,Greg Christiansen,48,PA,USA,00:39:06,02:37:16,02:30:34,00:07:30,00:05:19,05:59:45
+ironman-70.3-san-juan-20150315.csv,755,Fabio Cinotti,44,Intl State,VEN,00:37:09,02:55:10,---,00:07:12,00:07:07,DNF
+ironman-70.3-san-juan-20150315.csv,756,André Cruz,44,rs,BRA,00:43:48,03:04:37,03:30:08,00:06:53,00:06:13,07:31:39
+ironman-70.3-san-juan-20150315.csv,757,Francois Delaporte,47,FR,MAF,00:39:41,02:30:48,01:50:56,00:06:13,00:03:02,05:10:40
+ironman-70.3-san-juan-20150315.csv,758,Ross Dimaggio,44,NJ,USA,00:40:53,02:31:16,02:28:53,00:06:24,00:04:29,05:51:55
+ironman-70.3-san-juan-20150315.csv,759,Keish Doi,48,HI,USA,00:34:45,02:20:59,02:02:21,00:03:59,00:01:48,05:03:52
+ironman-70.3-san-juan-20150315.csv,761,Cesar  Augusto Echeverry Orduz,47,Cundinamarca,COL,00:34:35,02:38:21,02:29:05,00:04:30,00:04:00,05:50:31
+ironman-70.3-san-juan-20150315.csv,762,Wilson Eloy Pimenta Junior,47,Goias,BRA,00:36:05,02:27:37,01:55:31,00:05:36,00:02:56,05:07:45
+ironman-70.3-san-juan-20150315.csv,765,Roger Fernandez,47,FL,USA,00:40:14,02:56:23,02:28:52,00:07:58,00:05:14,06:18:41
+ironman-70.3-san-juan-20150315.csv,766,Luis Alberto Ferre Rangel,48,PR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,767,Moises Figueroa Davila,44,PR,PRI,00:44:12,02:41:47,02:11:02,00:06:51,00:02:54,05:46:46
+ironman-70.3-san-juan-20150315.csv,768,Jan Flores,44,FL,USA,00:40:05,02:50:49,02:07:34,00:05:18,00:05:20,05:49:06
+ironman-70.3-san-juan-20150315.csv,770,Carlos Garcia,47,PR,USA,00:32:00,02:58:37,03:09:02,00:04:36,00:02:42,06:46:57
+ironman-70.3-san-juan-20150315.csv,771,Shawn Gentry,45,TX,USA,00:38:03,03:07:49,02:31:11,00:04:38,00:04:38,06:26:19
+ironman-70.3-san-juan-20150315.csv,772,Bryan Girouard,45,TX,USA,00:39:33,02:50:53,02:26:01,00:07:50,00:07:36,06:11:53
+ironman-70.3-san-juan-20150315.csv,773,William Gongora,46,TX,COL,00:46:26,02:28:58,02:23:22,00:06:10,00:03:12,05:48:08
+ironman-70.3-san-juan-20150315.csv,774,Camilo Gonzalez,46,Cundinamarca,COL,00:47:18,03:11:12,02:48:07,00:06:55,00:05:21,06:58:53
+ironman-70.3-san-juan-20150315.csv,775,Luc Gorostiza,48,Intl State,GLP,---,02:35:47,02:01:14,00:46:05,00:03:02,05:26:08
+ironman-70.3-san-juan-20150315.csv,776,Gabriel Alejandr Grimaldi Ramos,44,Distrito Federal,MEX,00:38:01,03:15:41,02:46:14,00:06:54,00:04:20,06:51:10
+ironman-70.3-san-juan-20150315.csv,777,Pierre Harris,46,Intl State,FRA,00:34:49,02:34:03,01:48:34,00:03:32,00:01:52,05:02:50
+ironman-70.3-san-juan-20150315.csv,778,Carlos Herrero,44,PR,USA,00:38:03,02:59:19,02:11:34,00:06:59,00:04:17,06:00:12
+ironman-70.3-san-juan-20150315.csv,779,Andreas Heuser,47,FL,DEU,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,780,Stanley Horbacz,46,MD,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,781,Ivan Jackson  Maduro,47,PR,USA,00:36:09,02:43:21,02:27:43,00:04:05,00:02:56,05:54:14
+ironman-70.3-san-juan-20150315.csv,782,Juan M Jaramillo,47,TX,USA,00:39:02,02:46:09,02:25:21,00:05:12,00:03:34,05:59:18
+ironman-70.3-san-juan-20150315.csv,783,Orlando Jorge,48,Distrito Nacional,DOM,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,784,Olavo Jose Dos Santos,47,rj,BRA,00:38:41,02:29:33,02:10:05,00:08:27,00:04:34,05:31:20
+ironman-70.3-san-juan-20150315.csv,785,Kris Kaplan,46,CT,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,786,Greg Kennebeck,49,OH,USA,00:46:46,02:56:31,02:42:30,00:06:33,00:07:23,06:39:43
+ironman-70.3-san-juan-20150315.csv,787,Erich Knaak,48,WA,USA,00:48:38,03:09:29,03:13:36,00:11:10,00:07:35,07:30:28
+ironman-70.3-san-juan-20150315.csv,788,Corey Knop,44,CO,USA,00:38:43,02:31:37,01:50:46,00:05:59,00:05:07,05:12:12
+ironman-70.3-san-juan-20150315.csv,789,James Kot,46,MS,USA,00:41:01,02:48:16,02:27:48,00:10:51,00:04:02,06:11:58
+ironman-70.3-san-juan-20150315.csv,790,Charles Krauss,48,NJ,USA,00:37:53,02:45:37,02:39:41,00:05:29,00:02:20,06:11:00
+ironman-70.3-san-juan-20150315.csv,791,Yann Langar,48,---,MTQ,00:34:47,03:04:44,01:53:17,00:04:42,00:03:54,05:41:24
+ironman-70.3-san-juan-20150315.csv,792,Andres Lara,44,PR,USA,00:39:39,02:48:31,02:47:04,00:06:19,00:05:09,06:26:42
+ironman-70.3-san-juan-20150315.csv,793,Pascal Larifla,44,Guadeloupe,GLP,00:46:34,02:49:34,02:13:15,00:05:19,00:03:25,05:58:07
+ironman-70.3-san-juan-20150315.csv,794,Tomas Latorre Rubio,48,---,ESP,00:34:37,02:36:13,01:42:55,00:05:00,00:02:41,05:01:26
+ironman-70.3-san-juan-20150315.csv,795,Lionel Liebman,45,TX,USA,00:40:06,02:39:11,02:03:34,00:04:53,00:03:45,05:31:29
+ironman-70.3-san-juan-20150315.csv,796,Scott Lile,46,TX,USA,00:39:04,02:33:49,01:56:08,00:05:14,00:02:42,05:16:57
+ironman-70.3-san-juan-20150315.csv,797,Jon Liljekrans,47,AZ,USA,00:43:02,03:54:40,03:38:05,00:09:22,00:07:18,DNF
+ironman-70.3-san-juan-20150315.csv,798,Francisco Lopez,48,PR,PRI,00:47:02,02:57:12,02:32:07,00:05:08,00:04:25,06:25:54
+ironman-70.3-san-juan-20150315.csv,799,Samuel Lopez,46,TX,USA,00:44:22,03:07:58,02:52:28,00:06:52,00:06:41,06:58:21
+ironman-70.3-san-juan-20150315.csv,800,Waldy López Trabal,44,PR,PRI,00:40:22,02:49:58,02:39:15,00:05:02,00:03:47,06:18:24
+ironman-70.3-san-juan-20150315.csv,801,Ben Malin,47,NJ,USA,00:55:02,03:16:28,03:00:36,00:11:19,00:08:48,07:32:13
+ironman-70.3-san-juan-20150315.csv,802,Vincent Mancini,46,PA,USA,00:38:13,02:49:45,02:11:31,00:08:38,00:05:14,05:53:21
+ironman-70.3-san-juan-20150315.csv,804,Marinoni Vargas,47,CAPITAL,PRY,00:36:52,02:35:59,01:46:48,00:03:14,00:01:56,05:04:49
+ironman-70.3-san-juan-20150315.csv,805,Andres Martinez,48,BUENOS AIRES,ARG,00:32:36,02:30:18,01:46:42,00:04:07,00:02:36,04:56:19
+ironman-70.3-san-juan-20150315.csv,806,EDGAR MARTINEZ,47,PR,USA,00:39:02,03:17:37,02:37:05,00:07:49,00:05:11,06:46:44
+ironman-70.3-san-juan-20150315.csv,807,Harry Martinez,45,PR,USA,00:58:48,03:00:52,02:30:11,00:08:26,00:05:36,06:43:53
+ironman-70.3-san-juan-20150315.csv,808,Flavio Matias,48,Esprito Santo,BRA,00:34:39,02:38:02,02:25:21,00:05:33,00:03:27,05:47:02
+ironman-70.3-san-juan-20150315.csv,809,Edward Matos,48,PR,PRI,00:44:56,02:47:30,02:23:37,00:05:02,00:03:06,06:04:11
+ironman-70.3-san-juan-20150315.csv,810,Bruce Mayhew,46,NH,USA,00:34:03,02:46:54,02:00:50,00:04:02,00:04:18,05:30:07
+ironman-70.3-san-juan-20150315.csv,813,Christian Misle,45,---,CHL,00:45:45,02:35:24,01:54:47,00:04:34,00:02:24,05:22:54
+ironman-70.3-san-juan-20150315.csv,814,Luis Montalvo,45,PR,USA,00:47:36,03:50:34,03:20:38,00:06:33,00:04:01,DNF
+ironman-70.3-san-juan-20150315.csv,815,Daniel Moran,48,PA,USA,00:35:48,02:34:02,02:08:29,00:05:29,00:03:33,05:27:21
+ironman-70.3-san-juan-20150315.csv,816,Pablo Morell,44,PR,PRI,00:32:45,02:17:38,01:52:17,00:03:02,00:02:06,04:47:48
+ironman-70.3-san-juan-20150315.csv,817,Martin Moss,46,CA,USA,00:43:31,03:03:08,02:42:05,00:06:49,00:08:03,06:43:36
+ironman-70.3-san-juan-20150315.csv,818,Jorge Nieves Rivera,49,PR,PRI,00:39:43,02:54:33,02:43:26,00:06:02,00:04:37,06:28:21
+ironman-70.3-san-juan-20150315.csv,819,João Noya,45,---,BRA,00:48:42,02:43:54,02:00:25,00:05:30,00:03:11,05:41:42
+ironman-70.3-san-juan-20150315.csv,820,Ken Nunes,46,IL,USA,00:39:02,02:38:54,02:12:50,00:05:38,00:04:19,05:40:43
+ironman-70.3-san-juan-20150315.csv,821,Pieter Olthof,47,Willemstad,CUW,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,822,Nestor Ortiz,47,PR,PRI,00:45:50,02:56:41,02:34:24,00:06:44,00:03:59,06:27:38
+ironman-70.3-san-juan-20150315.csv,823,Jose Javier Ortiz Del Valle,45,PR,USA,00:37:17,02:45:47,02:07:40,00:05:14,00:02:43,05:38:41
+ironman-70.3-san-juan-20150315.csv,824,Ken Osmun,46,IL,USA,00:32:02,02:33:44,01:49:13,00:03:18,00:02:25,05:00:42
+ironman-70.3-san-juan-20150315.csv,825,Jean Marc Outil,45,---,GLP,00:27:55,02:29:43,01:47:45,00:03:53,00:02:02,04:51:18
+ironman-70.3-san-juan-20150315.csv,826,David Pedregon,46,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,827,Rafael Pena Feliciano,45,PR,USA,00:44:55,02:57:43,02:24:58,00:05:06,00:04:09,06:16:51
+ironman-70.3-san-juan-20150315.csv,828,Alberto Perez,46,CT,USA,00:46:52,03:10:57,02:31:41,00:06:57,00:05:41,06:42:08
+ironman-70.3-san-juan-20150315.csv,829,Gustavo Perez Seib,47,FL,USA,00:35:47,02:43:41,02:09:40,00:03:56,00:02:27,05:35:31
+ironman-70.3-san-juan-20150315.csv,830,Juan Pondal-Kleber,47,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,831,Rene Ramos,46,PR,USA,00:50:09,03:20:43,02:51:59,00:04:27,00:04:17,07:11:35
+ironman-70.3-san-juan-20150315.csv,832,Gilles Reynal,45,Gustavia,GLP,00:37:14,02:30:18,01:49:04,00:04:46,00:02:12,05:03:34
+ironman-70.3-san-juan-20150315.csv,833,Fabio Riccardi,46,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,834,Scott Rice,47,WI,USA,00:39:25,02:28:11,01:49:34,00:04:37,00:02:37,05:04:24
+ironman-70.3-san-juan-20150315.csv,835,Bob Richter,47,TX,USA,00:38:33,02:42:40,01:41:57,00:06:02,00:04:06,05:13:18
+ironman-70.3-san-juan-20150315.csv,836,Luis Rivera,46,PR,PRI,00:44:08,02:57:09,02:52:32,00:04:36,00:03:38,06:42:03
+ironman-70.3-san-juan-20150315.csv,837,Thomas Robison,47,VA,USA,00:48:58,03:24:56,---,00:08:20,00:08:26,DNF
+ironman-70.3-san-juan-20150315.csv,838,Javier Rodriguez,46,PR,PRI,00:36:58,03:13:33,---,00:05:23,00:04:37,DNF
+ironman-70.3-san-juan-20150315.csv,839,Luis Rosario,46,PR,USA,00:49:12,03:03:10,02:37:35,00:11:59,00:10:28,06:52:24
+ironman-70.3-san-juan-20150315.csv,840,Andrew Rosenman,45,IL,USA,00:39:27,02:45:21,02:10:07,00:06:33,00:04:35,05:46:03
+ironman-70.3-san-juan-20150315.csv,841,Alex Ruju,44,Lima,PER,00:34:47,02:40:30,02:05:15,00:06:36,00:02:16,05:29:24
+ironman-70.3-san-juan-20150315.csv,842,John Rymes,44,NH,USA,00:35:10,02:58:42,---,00:06:05,---,DNF
+ironman-70.3-san-juan-20150315.csv,843,Oscar Hernando Saboya Patino,47,Santander,COL,00:46:12,02:54:08,02:20:13,00:05:37,00:03:37,06:09:47
+ironman-70.3-san-juan-20150315.csv,844,Jose Sanchez,47,PR,USA,00:39:37,02:39:51,02:16:09,00:07:23,00:07:10,05:50:10
+ironman-70.3-san-juan-20150315.csv,845,Eduardo Sanchez Maymi,49,PR,PRI,00:37:52,02:49:58,02:36:30,00:06:44,00:05:45,06:16:49
+ironman-70.3-san-juan-20150315.csv,846,Mark Simon,47,VA,USA,---,02:54:04,02:18:39,00:55:56,00:04:40,06:13:19
+ironman-70.3-san-juan-20150315.csv,847,Joseph Sindoni,45,PA,USA,00:44:20,03:20:16,02:59:02,00:08:19,00:06:09,07:18:06
+ironman-70.3-san-juan-20150315.csv,848,Jaime Solis,45,PR,USA,00:33:18,02:34:58,02:06:52,00:03:54,00:02:09,05:21:11
+ironman-70.3-san-juan-20150315.csv,849,Luis Soto,46,PR,PRI,00:51:30,02:58:47,02:28:29,00:05:42,00:04:44,06:29:12
+ironman-70.3-san-juan-20150315.csv,850,Orlando Soto,44,PR,USA,00:53:01,02:55:04,02:46:12,00:08:56,00:05:45,06:48:58
+ironman-70.3-san-juan-20150315.csv,851,Wilfredo Soto,48,PR,PRI,00:42:58,02:52:52,02:48:38,00:05:19,00:05:03,06:34:50
+ironman-70.3-san-juan-20150315.csv,852,Jeffrey Stilwell,49,FL,USA,00:38:12,02:40:30,02:24:41,00:05:25,00:03:25,05:52:13
+ironman-70.3-san-juan-20150315.csv,853,James Strain,46,MA,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,854,Robert Takla,48,MI,USA,00:45:12,02:52:59,02:48:42,00:06:37,00:03:55,06:37:25
+ironman-70.3-san-juan-20150315.csv,855,Dan Tereau,48,MA,USA,00:42:13,03:09:40,01:59:56,00:08:31,00:05:04,06:05:24
+ironman-70.3-san-juan-20150315.csv,856,Alain Tiphaine,48,MT,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,857,Eduardo Torres,48,PR,USA,00:39:56,02:44:54,02:11:47,00:03:43,00:02:53,05:43:13
+ironman-70.3-san-juan-20150315.csv,858,Jose Torres,44,PR,USA,00:56:39,---,---,---,---,DNF
+ironman-70.3-san-juan-20150315.csv,859,Armando Torres-Millan,47,PR,PRI,00:42:33,02:41:50,02:38:32,00:04:41,00:02:54,06:10:30
+ironman-70.3-san-juan-20150315.csv,860,Edwin Vargas,44,PR,PRI,00:46:47,02:39:42,02:20:54,00:04:55,00:03:35,05:55:53
+ironman-70.3-san-juan-20150315.csv,861,Salvador Vassallo,46,PR,USA,---,---,---,---,---,DQ
+ironman-70.3-san-juan-20150315.csv,862,Salvador Vassallo,46,PR,USA,01:13:21,---,---,---,---,DNF
+ironman-70.3-san-juan-20150315.csv,863,Valery Vaudran,47,Martinique,MTQ,00:29:43,02:35:38,02:17:43,00:04:18,00:04:13,05:31:35
+ironman-70.3-san-juan-20150315.csv,864,Jean Marc Vautier,44,FR,FRA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,865,J. Marcos Vega,47,PR,USA,00:34:39,02:31:54,02:23:45,00:04:15,00:04:49,05:39:22
+ironman-70.3-san-juan-20150315.csv,866,Simon Village,47,APO,GBR,00:56:39,---,---,---,---,DNF
+ironman-70.3-san-juan-20150315.csv,867,Angel Villar Otero,46,México Distrito Federal,MEX,00:38:09,02:52:45,02:22:21,00:05:45,00:03:03,06:02:03
+ironman-70.3-san-juan-20150315.csv,868,Doug Vreeland,44,TX,USA,00:35:50,02:45:56,02:11:19,00:04:12,00:02:06,05:39:23
+ironman-70.3-san-juan-20150315.csv,869,David Vuchinich,47,FL,USA,00:42:03,02:45:24,02:42:22,00:07:01,00:05:10,06:22:00
+ironman-70.3-san-juan-20150315.csv,870,Thomas Waniewski,44,PA,USA,00:28:57,02:39:28,01:46:07,00:04:18,00:02:18,05:01:08
+ironman-70.3-san-juan-20150315.csv,871,Mark Wilcox,47,Smith's,BMU,00:33:33,02:26:37,01:38:52,00:03:59,00:01:46,04:44:47
+ironman-70.3-san-juan-20150315.csv,872,John Wilkinson,45,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,873,Robert Woods,48,VA,USA,00:40:55,02:53:21,02:19:05,00:06:19,00:04:34,06:04:14
+ironman-70.3-san-juan-20150315.csv,874,Claudio Zamorano,44,---,CHL,00:34:22,02:36:29,01:58:05,00:04:34,00:02:24,05:15:54
+ironman-70.3-san-juan-20150315.csv,875,Antonio Abad,44,PR,PRI,00:54:30,03:11:03,02:53:01,00:06:41,00:05:37,07:10:52
+ironman-70.3-san-juan-20150315.csv,876,Justin Abernathy,40,PR,PRI,00:37:14,02:43:25,02:18:37,00:06:23,00:04:20,05:49:59
+ironman-70.3-san-juan-20150315.csv,877,Ivan Abreu Flores,42,PR,USA,00:39:01,02:39:40,01:52:59,00:04:04,00:01:52,05:17:36
+ironman-70.3-san-juan-20150315.csv,878,Adrian Acevedo,41,buenos aires,ARG,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,879,Scott Alexander,42,TX,USA,00:55:16,02:38:34,02:22:53,00:05:13,00:05:31,06:07:27
+ironman-70.3-san-juan-20150315.csv,881,Davin Alleman,40,PA,USA,00:45:10,02:51:32,02:22:31,00:06:01,00:06:02,06:11:16
+ironman-70.3-san-juan-20150315.csv,883,Carlos Javier Arce,41,PR,USA,00:38:19,02:41:56,02:34:36,00:04:34,00:02:13,06:01:38
+ironman-70.3-san-juan-20150315.csv,884,Filemón Arcos Dávila,40,Mexico,MEX,00:49:40,03:10:59,01:57:54,00:06:34,00:05:40,06:10:47
+ironman-70.3-san-juan-20150315.csv,885,Luis Arocho,41,PR,USA,01:02:11,03:20:39,02:32:56,00:07:49,00:04:41,07:08:16
+ironman-70.3-san-juan-20150315.csv,886,Rey Aymat,43,PR,USA,00:34:59,02:34:59,01:50:45,00:05:29,00:02:16,05:08:28
+ironman-70.3-san-juan-20150315.csv,887,Harry Babilonia,39,PR,PRI,00:43:31,03:03:16,03:13:08,00:06:01,00:05:27,07:11:23
+ironman-70.3-san-juan-20150315.csv,888,Andre Medeiros Bastos,39,Intl State,BRA,00:47:32,03:10:50,02:39:45,00:07:18,00:07:25,06:52:50
+ironman-70.3-san-juan-20150315.csv,889,Patrick Begin,41,QC,CAN,00:30:35,02:27:45,01:49:00,00:05:04,00:02:35,04:54:59
+ironman-70.3-san-juan-20150315.csv,892,Jorge Benitez,40,BUENOS AIRES,ARG,00:40:18,02:38:35,02:13:04,00:04:21,00:02:31,05:38:49
+ironman-70.3-san-juan-20150315.csv,894,Ricardo Bermudez,40,PR,PRI,00:42:32,03:00:22,02:31:12,00:06:45,00:03:46,06:24:37
+ironman-70.3-san-juan-20150315.csv,895,Sergio Blümel González,40,---,CHL,00:39:23,02:38:49,02:10:31,00:05:37,00:03:00,05:37:20
+ironman-70.3-san-juan-20150315.csv,896,Ivã Boesing,41,RS,BRA,00:41:58,02:34:16,02:15:00,00:04:38,00:02:44,05:38:36
+ironman-70.3-san-juan-20150315.csv,897,Mark Bollozos,40,CA,USA,00:42:21,02:56:19,01:59:30,00:06:47,00:03:39,05:48:36
+ironman-70.3-san-juan-20150315.csv,898,Juan Bonilla,43,PR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,899,Juan Jos Bonilla,42,---,COL,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,900,Jean Christophe Bono,40,---,BLM,00:38:38,02:43:30,02:20:26,00:05:09,00:02:35,05:50:18
+ironman-70.3-san-juan-20150315.csv,901,Gustavo Borgognon,42,Asunción,PRY,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,902,Engels Borjas,42,Cortes,HND,00:47:08,02:47:49,01:54:04,00:05:40,00:03:14,05:37:55
+ironman-70.3-san-juan-20150315.csv,903,Daniel Brandis,41,---,DEU,00:43:22,03:46:12,02:28:00,00:05:41,00:08:01,07:11:16
+ironman-70.3-san-juan-20150315.csv,904,Rick Briemann,41,MD,USA,00:41:16,02:42:40,02:40:17,00:05:24,00:02:56,06:12:33
+ironman-70.3-san-juan-20150315.csv,905,Carlos Burgos,41,PR,PRI,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,906,Enrique Bustamante,41,Lima,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,907,Jamie Butler,41,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,908,Edwin Caceres Perez,43,PR,USA,00:48:13,03:07:21,02:26:03,00:06:28,00:02:42,06:30:47
+ironman-70.3-san-juan-20150315.csv,909,Juan Canabal,43,FL,USA,00:29:34,02:45:37,02:53:57,00:06:58,00:04:25,06:20:31
+ironman-70.3-san-juan-20150315.csv,910,Marcos Candelas,40,---,PRI,00:47:19,02:49:11,---,00:10:28,01:18:00,DNF
+ironman-70.3-san-juan-20150315.csv,911,Harris Caraballo,40,AL,USA,00:54:35,03:46:59,02:56:23,00:06:47,00:04:28,07:49:12
+ironman-70.3-san-juan-20150315.csv,912,Hector Cardona,43,PR,USA,00:54:30,03:12:28,02:49:25,00:07:57,00:04:43,07:09:03
+ironman-70.3-san-juan-20150315.csv,913,Sam Cardona,43,NY,USA,00:39:50,02:30:04,01:56:38,00:03:41,00:02:53,05:13:06
+ironman-70.3-san-juan-20150315.csv,914,Simon Catt,43,APO,GBR,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,915,Simon Catt,43,APO,GBR,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,916,Adviel Centeno,40,Panama ,PAN,00:39:56,02:50:29,02:25:28,00:05:39,00:03:39,06:05:11
+ironman-70.3-san-juan-20150315.csv,917,C. Scott Chaney,42,CA,USA,00:26:34,02:19:47,01:35:23,00:03:07,00:01:08,04:25:59
+ironman-70.3-san-juan-20150315.csv,918,David Chaney,43,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,919,Efrain Cintron,44,PR,USA,00:43:24,02:52:29,02:06:30,00:04:33,00:05:18,05:52:14
+ironman-70.3-san-juan-20150315.csv,920,Jose Cobian,42,PR,PRI,00:49:34,03:05:24,03:13:39,00:09:09,00:05:39,07:23:25
+ironman-70.3-san-juan-20150315.csv,921,Roman Codrington,41,Panama,PAN,00:34:17,02:32:44,02:05:09,00:05:24,00:03:17,05:20:51
+ironman-70.3-san-juan-20150315.csv,922,Hector Colon,43,PR,USA,00:35:08,02:35:23,01:48:21,00:04:23,00:02:48,05:06:03
+ironman-70.3-san-juan-20150315.csv,923,Angel Colon-Perez,42,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,924,Christopher Coney,41,TX,USA,00:43:52,03:28:19,02:33:49,00:07:11,00:04:28,06:57:39
+ironman-70.3-san-juan-20150315.csv,925,Pedro Cordovez,39,Intl State,PAN,00:29:32,02:16:38,01:27:44,00:03:17,00:01:44,04:18:55
+ironman-70.3-san-juan-20150315.csv,926,Aroldo Couto Neto,40,Distrito Nacional,BRA,00:43:44,02:56:48,02:46:15,00:04:48,00:06:46,06:38:21
+ironman-70.3-san-juan-20150315.csv,927,Tito Crissien,39,NY,COL,00:34:58,03:00:57,02:32:23,00:06:15,00:04:46,06:19:19
+ironman-70.3-san-juan-20150315.csv,928,Angel Cruz,41,PR,PRI,00:43:02,02:39:12,01:52:48,00:04:29,00:02:35,05:22:06
+ironman-70.3-san-juan-20150315.csv,929,Irving Cruz,40,PR,PRI,00:53:51,02:55:18,02:55:39,00:06:48,00:03:58,06:55:34
+ironman-70.3-san-juan-20150315.csv,930,Herman Cueto,40,NJ,USA,00:48:37,02:54:57,02:13:25,00:09:48,00:08:38,06:15:25
+ironman-70.3-san-juan-20150315.csv,931,Jason Dale,42,TN,USA,00:42:27,03:05:57,02:34:51,00:06:33,00:05:03,06:34:51
+ironman-70.3-san-juan-20150315.csv,932,Angel Davila,42,PR,USA,00:19:11,02:46:50,02:32:03,00:06:45,00:03:45,05:48:34
+ironman-70.3-san-juan-20150315.csv,933,Bryan Davis,42,TX,USA,00:48:21,03:13:05,02:07:29,00:05:59,00:02:56,06:17:50
+ironman-70.3-san-juan-20150315.csv,934,Alberto De Jes S,41,PR,PRI,00:37:19,02:31:57,01:48:17,00:05:02,00:02:22,05:04:57
+ironman-70.3-san-juan-20150315.csv,935,Harry De La Cruz,39,CO,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,936,Marcio De Oliveira,39,RS,BRA,00:40:10,02:48:13,02:01:20,00:05:58,00:03:55,05:39:36
+ironman-70.3-san-juan-20150315.csv,937,German Decker,39,buenos aires,ARG,00:37:24,02:31:58,02:12:20,00:05:24,00:02:47,05:29:53
+ironman-70.3-san-juan-20150315.csv,938,Frederic Deketele,39,FR,FRA,00:34:43,02:32:43,01:57:49,00:05:32,00:02:44,05:13:31
+ironman-70.3-san-juan-20150315.csv,939,Javier F. Del Valle Figueroa,43,PR,PRI,00:34:58,03:12:49,03:56:19,00:05:53,00:04:28,07:54:27
+ironman-70.3-san-juan-20150315.csv,940,Sergai Delamora,42,NY,USA,00:36:03,02:28:05,02:20:43,00:03:55,00:02:09,05:30:55
+ironman-70.3-san-juan-20150315.csv,941,Danny Delgado,44,IL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,942,Luis Diaz,41,PR,PRI,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,943,Paulo Diaz,41,NC,USA,00:48:53,03:10:24,02:33:57,00:06:41,00:05:15,06:45:10
+ironman-70.3-san-juan-20150315.csv,944,Alejandro Doble,39,PR,USA,00:42:29,03:01:07,02:52:41,00:05:49,00:03:44,06:45:50
+ironman-70.3-san-juan-20150315.csv,945,Carlos Dones,44,CA,USA,00:45:16,03:39:54,02:42:33,00:07:49,00:03:38,07:19:10
+ironman-70.3-san-juan-20150315.csv,946,Robert Dorrestyn,42,TX,USA,00:28:26,02:24:47,01:56:07,00:03:54,00:02:39,04:55:53
+ironman-70.3-san-juan-20150315.csv,947,Jacob Driggers,39,SC,USA,00:33:10,02:25:43,01:32:20,00:03:38,00:01:31,04:36:22
+ironman-70.3-san-juan-20150315.csv,948,Jacob Driggers,39,SC,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,949,Frederic Dupuy,40,---,FRA,00:34:36,02:56:24,02:19:59,00:07:08,00:05:46,06:03:53
+ironman-70.3-san-juan-20150315.csv,950,Fernando E. Duque Cardoze,40,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,951,Thomas Easley,39,NY,USA,00:36:33,02:46:15,02:21:46,00:05:35,00:04:55,05:55:04
+ironman-70.3-san-juan-20150315.csv,952,Enrique Elustondo,41,---,PRI,00:33:38,02:40:13,01:57:27,00:04:00,00:02:08,05:17:26
+ironman-70.3-san-juan-20150315.csv,953,Shay Eskew,41,TN,USA,00:37:37,02:20:31,01:37:39,00:03:36,00:01:31,04:40:54
+ironman-70.3-san-juan-20150315.csv,954,Jorge Fabregas,40,GA,USA,00:42:17,02:41:58,02:02:30,00:05:50,00:03:05,05:35:40
+ironman-70.3-san-juan-20150315.csv,955,J.D. Farquhar,43,ON,CAN,00:35:35,02:39:12,02:14:49,00:05:26,00:04:27,05:39:29
+ironman-70.3-san-juan-20150315.csv,956,Alexander Fernandez,42,Intl State,DOM,00:34:13,02:38:29,02:14:24,00:05:29,00:03:40,05:36:15
+ironman-70.3-san-juan-20150315.csv,957,Bernardo Beny Fiol,42,Panama,PAN,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,958,Neal Fisher,41,ON,CAN,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,959,Winston Fisher,42,NY,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,960,Daniel Flores,41,PR,USA,00:44:59,03:16:11,02:47:03,00:05:23,00:04:01,06:57:37
+ironman-70.3-san-juan-20150315.csv,961,Frederic Severino,43,Other,FRA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,962,Carlos Galliano,40,PR,USA,00:43:55,03:00:38,02:17:04,00:06:32,00:03:12,06:11:21
+ironman-70.3-san-juan-20150315.csv,963,Gustavo Ganges,43,---,USA,00:41:42,02:41:09,02:09:00,00:06:34,00:03:01,05:41:26
+ironman-70.3-san-juan-20150315.csv,964,George Garay,41,AZ,USA,00:43:21,02:34:17,01:57:11,00:04:24,00:02:05,05:21:18
+ironman-70.3-san-juan-20150315.csv,965,Carlos Garcia,42,---,COL,00:39:27,02:53:44,02:17:27,00:04:40,00:03:52,05:59:10
+ironman-70.3-san-juan-20150315.csv,966,Giacomo Giovenali,40,Italia,ITA,00:35:14,02:23:12,01:33:31,00:05:05,00:02:43,04:39:45
+ironman-70.3-san-juan-20150315.csv,967,Jay Gleason,40,VI,USA,00:30:45,02:28:41,01:56:11,00:04:27,00:02:03,05:02:07
+ironman-70.3-san-juan-20150315.csv,968,Eliseo G Mez,40,PR,USA,00:37:56,02:51:33,02:42:45,00:06:48,00:09:15,06:28:17
+ironman-70.3-san-juan-20150315.csv,969,Harold Gonzales,42,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,970,David Gonzalez,40,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,971,Enrique M Gonzalez,41,TX,USA,00:53:33,03:40:07,03:02:56,00:07:00,00:04:51,07:48:27
+ironman-70.3-san-juan-20150315.csv,972,Jose Gonzalez,43,NC,USA,00:29:23,02:54:43,02:21:55,00:04:13,00:04:46,05:55:00
+ironman-70.3-san-juan-20150315.csv,973,Miguel Gonzalez,43,PR,USA,00:38:59,03:13:43,02:15:47,00:06:07,00:04:57,06:19:33
+ironman-70.3-san-juan-20150315.csv,974,Miguel Gonzalez,40,PR,PRI,00:53:40,02:40:03,02:22:49,00:08:50,00:05:57,06:11:19
+ironman-70.3-san-juan-20150315.csv,975,Kenneth Guevara,39,PR,USA,00:41:20,02:42:25,02:31:44,00:04:55,00:03:03,06:03:27
+ironman-70.3-san-juan-20150315.csv,976,Mateo Gutierrez,17,PICHINCHA,ECU,00:37:35,02:33:30,01:43:34,00:04:16,00:02:53,05:01:48
+ironman-70.3-san-juan-20150315.csv,977,Francisco Guzman,41,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,978,Mauricio Haddad,41,atl,COL,00:40:01,02:46:38,02:24:18,00:05:27,00:05:14,06:01:38
+ironman-70.3-san-juan-20150315.csv,979,David Hannallah,42,OH,USA,00:43:56,02:56:22,03:02:58,00:08:42,00:03:33,06:55:31
+ironman-70.3-san-juan-20150315.csv,980,James Hardy,39,TX,USA,00:34:28,02:21:49,02:00:26,00:04:39,00:02:39,05:04:01
+ironman-70.3-san-juan-20150315.csv,981,Robert Harrell,42,GA,USA,00:43:55,02:43:49,02:15:47,00:04:33,00:02:48,05:50:52
+ironman-70.3-san-juan-20150315.csv,982,Enrique Hartmann,40,PR,USA,00:39:50,02:37:06,02:01:17,00:04:25,00:02:53,05:25:31
+ironman-70.3-san-juan-20150315.csv,983,Rodrigo Helo,40,Cun,COL,00:42:34,03:04:59,02:46:49,00:06:24,00:07:10,06:47:56
+ironman-70.3-san-juan-20150315.csv,984,Rafael Henriquez,40,PR,USA,00:47:13,02:33:17,01:38:36,00:04:20,00:02:06,05:05:32
+ironman-70.3-san-juan-20150315.csv,985,Javier Herrero Tiñana,40,---,ESP,00:35:34,02:31:40,01:55:14,00:05:49,00:03:31,05:11:48
+ironman-70.3-san-juan-20150315.csv,986,Leo Irizarry,41,PR,PRI,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,987,Patricio Jaca,40,---,CHL,---,---,---,---,---,DQ
+ironman-70.3-san-juan-20150315.csv,988,George Jaquette,40,NY,USA,00:35:09,02:40:57,02:33:31,00:05:16,00:03:07,05:58:00
+ironman-70.3-san-juan-20150315.csv,989,Andres Jeffs,40,PR,USA,00:48:56,03:57:39,03:14:28,00:06:47,00:06:00,DNF
+ironman-70.3-san-juan-20150315.csv,990,Jomar Jimenez Gonzalez,43,PR,PRI,00:49:18,03:21:44,02:56:36,00:07:21,00:05:43,07:20:42
+ironman-70.3-san-juan-20150315.csv,991,Sebastián Joffre Taque,42,PICHINCHA,ECU,00:40:07,02:55:51,01:54:00,00:05:02,00:03:06,05:38:06
+ironman-70.3-san-juan-20150315.csv,992,Ernesto Jusino,43,PR,USA,00:37:58,02:38:45,02:15:46,00:05:37,00:03:34,05:41:40
+ironman-70.3-san-juan-20150315.csv,993,Richard Kalasky,39,CO,USA,00:39:57,02:42:03,02:15:50,00:06:25,00:04:04,05:48:19
+ironman-70.3-san-juan-20150315.csv,994,Sam Ketay,42,CA,USA,00:37:23,02:37:57,02:12:48,00:04:32,00:02:44,05:35:24
+ironman-70.3-san-juan-20150315.csv,995,Jay Kirkpatrick,42,AL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,996,Juan Manuel Koenig Dupont,43,Guayas,ECU,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,997,Karl Koovits,42,NJ,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,998,Marc Lafrance,41,MA,USA,00:27:57,02:39:17,01:45:28,00:05:24,00:03:07,05:01:13
+ironman-70.3-san-juan-20150315.csv,999,Philip Lahaye,42,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1000,Josean Lao,42,PR,USA,00:39:33,02:38:29,02:33:01,00:03:53,00:02:31,05:57:27
+ironman-70.3-san-juan-20150315.csv,1001,Jorge David Lasso Munoz,39,Guayas,ECU,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1002,Aris Laureano,43,NY,USA,00:55:36,03:42:15,---,00:11:03,00:14:11,DNF
+ironman-70.3-san-juan-20150315.csv,1003,Jose A Lebron,40,PR,PRI,00:37:21,02:31:13,02:11:58,00:04:05,00:02:09,05:26:46
+ironman-70.3-san-juan-20150315.csv,1004,Daniel J. Leon,43,PR,USA,00:37:57,02:43:41,02:06:35,00:04:26,00:02:27,05:35:06
+ironman-70.3-san-juan-20150315.csv,1005,Stephane Lesperance,40,QC,CAN,00:40:59,02:46:14,02:24:49,00:07:06,00:04:47,06:03:55
+ironman-70.3-san-juan-20150315.csv,1006,Eduardo Lizano,40,Intl State,CRI,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1007,Roger Lizano,39,Intl State,CRI,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1008,Bruce Long,43,MO,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1009,Abner Lopez,39,PR,PRI,00:33:33,02:51:50,02:46:54,00:04:22,00:03:48,06:20:27
+ironman-70.3-san-juan-20150315.csv,1010,Jose Lopez,40,FL,USA,00:43:41,03:19:28,03:03:06,00:08:11,00:07:13,07:21:39
+ironman-70.3-san-juan-20150315.csv,1011,Samuel Lopez,39,PR,USA,00:45:54,03:10:37,02:09:07,00:03:36,00:05:31,06:14:45
+ironman-70.3-san-juan-20150315.csv,1012,Samuel Lopez De Victoria,39,PR,PRI,00:39:45,02:39:49,02:21:06,00:04:28,00:02:43,05:47:51
+ironman-70.3-san-juan-20150315.csv,1013,Matthew Lynch,40,NY,USA,00:35:34,02:37:27,02:11:34,00:06:05,00:03:19,05:33:59
+ironman-70.3-san-juan-20150315.csv,1014,Leonardo Machado De Azevedo Vilela,41,MG,BRA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1015,Peter Mactavish,40,ON,CAN,00:42:27,02:33:23,01:58:11,00:06:25,00:03:35,05:24:01
+ironman-70.3-san-juan-20150315.csv,1016,Maximino Maldonado,39,PR,PRI,00:33:04,02:47:03,---,00:06:09,00:05:41,DNF
+ironman-70.3-san-juan-20150315.csv,1017,Matthieu Marescaux,42,WA,USA,00:35:42,02:43:15,01:41:38,00:05:16,00:02:19,05:08:10
+ironman-70.3-san-juan-20150315.csv,1018,Gerald Martinez,41,PR,USA,00:35:32,02:38:43,02:14:13,00:04:53,00:03:37,05:36:58
+ironman-70.3-san-juan-20150315.csv,1019,Wilson Martínez,43,PR,PRI,00:38:52,02:49:16,02:01:51,00:05:04,00:04:53,05:39:56
+ironman-70.3-san-juan-20150315.csv,1020,Pablo Martir,41,PR,USA,00:44:46,02:51:32,02:15:54,00:07:10,00:04:14,06:03:36
+ironman-70.3-san-juan-20150315.csv,1021,Daniel Marzan,41,PR,USA,00:34:33,02:28:44,01:49:48,00:04:56,00:02:37,05:00:38
+ironman-70.3-san-juan-20150315.csv,1022,Hector Mayol,41,PR,USA,00:37:41,02:40:48,02:33:10,00:05:28,00:06:46,06:03:53
+ironman-70.3-san-juan-20150315.csv,1023,Jason Mcfaul,41,---,USA,00:30:22,02:31:59,01:32:50,00:05:07,00:02:16,04:42:34
+ironman-70.3-san-juan-20150315.csv,1024,David Mcgregor,41,ON,CAN,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1025,Ralf Melo,41,amazonas,BRA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1026,Mike Melton,39,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1027,Andres Mendez,42,FL,USA,00:48:05,02:54:11,02:20:24,00:05:18,00:04:34,06:12:32
+ironman-70.3-san-juan-20150315.csv,1028,Antonio Monllor,43,PR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1029,Juan Diego Mora Oviedo,43,---,COL,00:38:10,02:38:40,01:47:54,00:04:18,00:02:46,05:11:48
+ironman-70.3-san-juan-20150315.csv,1030,Alexis Morales-Cales,40,PR,UMI,00:37:30,03:04:09,02:36:27,00:08:00,00:08:59,06:35:05
+ironman-70.3-san-juan-20150315.csv,1031,Lucas Nacusi,40,MN,USA,00:36:49,02:53:48,02:34:29,00:05:46,00:02:55,06:13:47
+ironman-70.3-san-juan-20150315.csv,1032,Jorge Nazario,43,PA,USA,00:42:46,03:06:39,02:37:38,00:05:51,00:05:25,06:38:19
+ironman-70.3-san-juan-20150315.csv,1033,Andres German Nennhuber,42,Chubut,ARG,00:30:15,02:25:13,01:47:44,00:03:52,00:01:57,04:49:01
+ironman-70.3-san-juan-20150315.csv,1034,FranK NuneZ,41,---,VEN,00:43:25,02:39:15,02:31:34,00:04:46,00:03:59,06:02:59
+ironman-70.3-san-juan-20150315.csv,1035,Hector Japhet Ojeda,43,PR,USA,00:37:20,02:33:09,01:54:49,00:04:12,00:02:10,05:11:40
+ironman-70.3-san-juan-20150315.csv,1037,Alexander Ortega,41,PANAMA,PAN,00:42:32,02:34:07,01:57:42,00:03:44,00:02:59,05:21:04
+ironman-70.3-san-juan-20150315.csv,1038,Luis Ortiz,41,FL,USA,00:40:13,02:32:53,02:24:13,00:03:31,00:02:05,05:42:55
+ironman-70.3-san-juan-20150315.csv,1039,Dominique Outil,39,APO,GLP,00:29:18,02:41:46,02:48:15,00:05:15,00:04:15,06:08:49
+ironman-70.3-san-juan-20150315.csv,1040,Andres Pacheco,42,Cundinamarca,COL,00:44:44,02:47:33,02:15:56,00:05:02,00:04:03,05:57:18
+ironman-70.3-san-juan-20150315.csv,1041,Pablo Pagan,39,PR,USA,00:45:02,02:59:59,02:22:06,00:04:46,00:03:53,06:15:46
+ironman-70.3-san-juan-20150315.csv,1042,Ken Page,41,FL,USA,00:34:15,02:37:21,01:51:56,00:03:50,00:02:24,05:09:46
+ironman-70.3-san-juan-20150315.csv,1043,Adrian Pardo,41,Other,ARG,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1044,Russell Parker,40,MS,USA,00:38:19,02:45:02,02:25:05,00:06:33,00:02:38,05:57:37
+ironman-70.3-san-juan-20150315.csv,1045,Mohammad Partovi,41,MD,USA,00:50:26,03:08:51,02:38:43,00:09:32,00:09:57,06:57:29
+ironman-70.3-san-juan-20150315.csv,1046,Eric Patnode,39,FL,USA,00:36:00,02:29:02,02:13:28,00:03:48,00:02:29,05:24:47
+ironman-70.3-san-juan-20150315.csv,1047,Charlie Pepinrivera,40,TX,USA,00:50:08,03:40:00,03:10:35,00:08:02,00:07:16,07:56:01
+ironman-70.3-san-juan-20150315.csv,1048,Alexandre Perez,40,Amazonas,BRA,00:37:37,02:27:06,01:54:17,00:05:35,00:01:55,05:06:30
+ironman-70.3-san-juan-20150315.csv,1049,Alfredo Perez,43,PR,USA,---,03:19:44,---,00:48:18,00:09:52,DNF
+ironman-70.3-san-juan-20150315.csv,1050,Luis Pérez,40,PR,USA,00:49:24,03:14:23,03:05:16,00:09:06,00:07:29,07:25:38
+ironman-70.3-san-juan-20150315.csv,1051,Noel Perezsanfeliz,39,PR,USA,00:38:30,03:04:54,02:56:43,00:05:39,00:09:03,06:54:49
+ironman-70.3-san-juan-20150315.csv,1052,Anthony Pinheiro,41,Rio de Janeiro,BRA,00:36:00,02:48:03,02:11:19,00:05:01,00:05:00,05:45:23
+ironman-70.3-san-juan-20150315.csv,1054,Adam Pomfret,42,CA,USA,00:37:29,02:39:01,01:59:47,00:06:18,00:03:52,05:26:27
+ironman-70.3-san-juan-20150315.csv,1055,Benjamin Price,39,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1056,Reinaldo Pulido Rueda,39,DC,COL,00:33:39,02:46:11,02:20:12,00:06:11,00:03:57,05:50:10
+ironman-70.3-san-juan-20150315.csv,1057,stephane quero,---,Cundinamarca,FRA,00:36:11,02:43:36,01:52:59,00:04:54,00:02:30,05:20:10
+ironman-70.3-san-juan-20150315.csv,1058,Carlos Quintana,39,PR,PRI,00:51:20,02:45:42,02:00:25,00:07:02,00:03:55,05:48:24
+ironman-70.3-san-juan-20150315.csv,1059,Pedro Quintero,41,PR,USA,00:40:37,02:46:17,01:50:54,00:05:03,00:02:24,05:25:15
+ironman-70.3-san-juan-20150315.csv,1060,Mariano Quinteros,39,Intl State,ARG,00:36:26,02:56:55,02:43:35,00:08:18,00:04:00,06:29:14
+ironman-70.3-san-juan-20150315.csv,1061,David Ramirez,40,miami,CRI,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1062,Daniel Ramos,42,PR,PRI,00:41:06,03:01:36,02:15:38,00:04:44,00:02:22,06:05:26
+ironman-70.3-san-juan-20150315.csv,1063,Pedro Ramos,43,PR,USA,00:34:08,02:27:52,01:57:49,00:04:59,00:02:31,05:07:19
+ironman-70.3-san-juan-20150315.csv,1064,Joel Ramos,39,FL,USA,00:41:20,02:34:50,02:19:26,00:04:29,00:03:33,05:43:38
+ironman-70.3-san-juan-20150315.csv,1065,Samuel Ramos Soto,41,PR,PRI,00:43:42,02:54:36,02:56:22,00:06:36,00:04:34,06:45:50
+ironman-70.3-san-juan-20150315.csv,1066,Daniel Redelinghuys,39,AB,CAN,00:50:33,02:39:15,01:57:52,00:05:44,00:03:09,05:36:33
+ironman-70.3-san-juan-20150315.csv,1067,Blaine Reed,42,IL,USA,00:40:45,02:40:19,01:54:33,00:05:53,00:02:56,05:24:26
+ironman-70.3-san-juan-20150315.csv,1068,Arturo D Resto Nieves,40,PR,USA,00:46:17,03:09:14,02:35:20,00:06:00,00:04:08,06:40:59
+ironman-70.3-san-juan-20150315.csv,1069,Carlos Reyes,40,PR,PRI,00:35:43,01:57:54,---,00:03:14,00:08:06,DNF
+ironman-70.3-san-juan-20150315.csv,1070,Preston Ricardo,42,NY,USA,00:37:14,02:39:29,01:57:13,00:04:51,00:02:51,05:21:38
+ironman-70.3-san-juan-20150315.csv,1071,Corey Ricketson,40,TX,USA,00:39:41,02:51:23,02:35:00,00:04:46,00:02:53,06:13:43
+ironman-70.3-san-juan-20150315.csv,1072,Jose M. Rivera,42,PR,PRI,00:40:45,02:26:56,01:54:56,00:04:42,00:04:10,05:11:29
+ironman-70.3-san-juan-20150315.csv,1073,Raul Rivera,42,PR,PRI,00:45:17,04:29:35,---,00:07:13,00:07:13,DNF
+ironman-70.3-san-juan-20150315.csv,1074,Sigfredo Rivera,39,PR,PRI,00:39:27,02:41:35,02:23:18,00:04:54,00:03:46,05:53:00
+ironman-70.3-san-juan-20150315.csv,1075,Fernando Rivera,43,PR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1076,Joel Rivera-Gandia,42,PR,PRI,00:52:31,03:01:52,03:03:56,00:06:51,00:05:17,07:10:27
+ironman-70.3-san-juan-20150315.csv,1077,Anthony Rizzo,44,FL,USA,00:40:49,02:51:57,02:47:29,00:07:41,00:04:47,06:32:43
+ironman-70.3-san-juan-20150315.csv,1078,Jaime Robert,40,---,USA,00:48:20,03:42:17,---,00:07:20,---,DNF
+ironman-70.3-san-juan-20150315.csv,1079,Carlos Roca,39,República Dominicana,DOM,00:38:56,02:47:09,01:55:38,00:06:48,00:03:38,05:32:09
+ironman-70.3-san-juan-20150315.csv,1080,Pericles Rodrigues,42,---,BRA,00:37:44,02:52:32,02:08:08,00:08:03,00:03:01,05:49:28
+ironman-70.3-san-juan-20150315.csv,1081,Carlos Rodriguez,40,---,COL,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1082,Daniel Rodriguez,40,PR,USA,00:43:53,02:59:44,02:15:16,00:06:41,00:05:25,06:10:59
+ironman-70.3-san-juan-20150315.csv,1083,Wally Rodriguez,42,---,PRI,00:42:15,02:46:45,02:00:34,00:04:53,00:04:37,05:39:04
+ironman-70.3-san-juan-20150315.csv,1084,Josue Rodriguez-Robles,41,PR,USA,00:45:53,02:57:54,02:37:48,00:08:36,00:06:19,06:36:30
+ironman-70.3-san-juan-20150315.csv,1085,Joseph Rogalski,42,NY,USA,00:33:48,02:31:45,01:52:58,00:03:59,00:01:49,05:04:19
+ironman-70.3-san-juan-20150315.csv,1086,Edilberto Rosa,42,PR,USA,00:45:28,03:01:45,02:26:27,00:06:58,00:06:00,06:26:38
+ironman-70.3-san-juan-20150315.csv,1087,Marcos Rosado Cordero,42,PR,USA,00:38:22,02:38:31,01:56:31,00:04:23,00:02:46,05:20:33
+ironman-70.3-san-juan-20150315.csv,1088,Alexis Rosado Moreno,40,PR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1089,Gerardo Ruiz,40,PR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1090,Jeff Rule,43,OK,USA,00:42:27,03:13:04,02:23:29,00:06:17,00:05:59,06:31:16
+ironman-70.3-san-juan-20150315.csv,1091,Joel Rutledge,39,TN,USA,00:30:42,02:29:02,01:53:24,00:05:02,00:02:57,05:01:07
+ironman-70.3-san-juan-20150315.csv,1092,Matthew Ryan,41,NY,USA,00:39:12,02:33:08,01:56:27,00:04:46,00:02:12,05:15:45
+ironman-70.3-san-juan-20150315.csv,1093,Arturo Saavedra,41,MA,USA,00:41:38,02:55:15,02:33:23,00:04:51,00:04:04,06:19:11
+ironman-70.3-san-juan-20150315.csv,1094,Gustavo Adolfo Salas Paredes,42,Lara,VEN,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1095,Chris Salomone,39,GA,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1096,Luis Sanchez,43,PR,USA,00:48:27,03:27:21,03:13:41,00:09:39,00:05:38,07:44:46
+ironman-70.3-san-juan-20150315.csv,1097,Philip Sanchez,40,CA,USA,00:39:44,02:41:19,01:48:37,00:05:14,00:01:59,05:16:53
+ironman-70.3-san-juan-20150315.csv,1098,Erick Santiago,44,FL,USA,00:43:23,02:55:40,02:45:32,00:04:51,00:01:59,06:31:25
+ironman-70.3-san-juan-20150315.csv,1099,Fernando Santiago,41,NC,USA,01:01:48,03:05:38,02:41:57,00:07:17,00:04:53,07:01:33
+ironman-70.3-san-juan-20150315.csv,1100,Jorge Santiago,40,PR,USA,01:22:05,03:29:19,02:49:44,00:04:43,00:04:46,07:50:37
+ironman-70.3-san-juan-20150315.csv,1101,Marcos Paulo Santos,41,rio grande do sul,BRA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1102,Paul Schmude,40,MI,USA,00:40:44,02:33:35,01:44:59,00:04:41,00:03:43,05:07:42
+ironman-70.3-san-juan-20150315.csv,1103,Alessandro Sciarrone,40,Italia,ITA,00:30:32,02:28:43,01:40:59,00:03:25,00:02:14,04:45:53
+ironman-70.3-san-juan-20150315.csv,1104,Andre Sell,39,Parana,BRA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1105,Kevin Shamonsky,41,TN,USA,00:46:26,03:05:18,03:02:39,00:06:17,00:05:54,07:06:34
+ironman-70.3-san-juan-20150315.csv,1106,Marc Sheie,43,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1107,Hector Silva,41,PR,USA,00:48:57,02:52:08,02:44:18,00:07:47,00:06:00,06:39:10
+ironman-70.3-san-juan-20150315.csv,1108,Peter Skutnik,39,NJ,USA,00:30:30,02:32:40,02:00:55,00:05:02,00:02:57,05:12:04
+ironman-70.3-san-juan-20150315.csv,1109,Todd Small,43,ON,CAN,00:33:04,02:36:27,01:47:25,00:05:28,00:03:24,05:05:48
+ironman-70.3-san-juan-20150315.csv,1110,Eric Smiga,42,PA,USA,00:37:28,02:42:16,02:27:58,00:06:43,00:04:10,05:58:35
+ironman-70.3-san-juan-20150315.csv,1111,Diego Solveira,41,Buenos Aires,ARG,00:46:57,03:10:39,02:43:00,00:05:50,00:06:52,06:53:18
+ironman-70.3-san-juan-20150315.csv,1112,Jose Soto,41,PR,PRI,00:37:46,02:53:30,01:58:02,00:04:28,00:04:14,05:38:00
+ironman-70.3-san-juan-20150315.csv,1113,Oscar Soto,41,PR,USA,00:42:24,02:48:48,02:24:24,00:05:38,00:03:15,06:04:29
+ironman-70.3-san-juan-20150315.csv,1114,Enrique Soto Torrado,43,Norte de Santander,COL,01:13:32,03:07:52,02:41:25,00:08:43,00:05:51,07:17:23
+ironman-70.3-san-juan-20150315.csv,1115,Kester Spindler,39,CO,USA,00:37:38,---,---,---,---,DNF
+ironman-70.3-san-juan-20150315.csv,1116,Matthew Stellwagen,40,CT,USA,00:35:41,02:42:48,02:02:30,00:05:38,00:04:14,05:30:51
+ironman-70.3-san-juan-20150315.csv,1117,Lenoir Stephane,39,guadeloupe,GLP,00:37:40,02:28:58,01:38:07,00:03:31,00:02:03,04:50:19
+ironman-70.3-san-juan-20150315.csv,1118,John Stiene,43,NY,USA,00:44:02,02:34:04,01:58:19,00:05:13,00:04:06,05:25:44
+ironman-70.3-san-juan-20150315.csv,1119,Chris Sugg,40,FL,USA,00:39:24,02:54:12,02:11:59,00:05:13,00:03:24,05:54:12
+ironman-70.3-san-juan-20150315.csv,1120,Jason Tootell,39,VA,USA,00:33:48,02:31:07,01:33:38,00:06:05,00:03:57,04:48:35
+ironman-70.3-san-juan-20150315.csv,1121,Daniel Torres,43,PR,USA,00:35:51,02:54:05,02:36:45,00:08:01,00:05:03,06:19:45
+ironman-70.3-san-juan-20150315.csv,1122,Fernando Torres,42,PR,USA,00:39:35,02:49:44,01:49:59,00:04:49,00:02:31,05:26:38
+ironman-70.3-san-juan-20150315.csv,1123,Idelfonso Torres,40,PR,PRI,00:40:47,02:45:54,02:44:18,00:05:09,00:03:03,06:19:11
+ironman-70.3-san-juan-20150315.csv,1124,Robert Torres,40,PR,USA,00:49:28,03:28:16,03:44:08,00:07:21,00:04:09,DNF
+ironman-70.3-san-juan-20150315.csv,1125,Wilfredo Torres,40,PR,PRI,00:38:16,02:44:20,02:05:35,00:05:20,00:02:23,05:35:54
+ironman-70.3-san-juan-20150315.csv,1126,Oliver Trujillo,41,FL,USA,00:34:54,02:35:31,02:12:26,00:04:45,00:03:39,05:31:15
+ironman-70.3-san-juan-20150315.csv,1127,Johann Uesseler Franco,42,Cundinamarca,COL,00:37:30,02:32:27,01:55:52,00:04:18,00:03:40,05:13:47
+ironman-70.3-san-juan-20150315.csv,1128,Carlos Vargas,43,PR,USA,01:08:03,03:25:57,02:58:48,00:06:22,00:03:46,07:42:56
+ironman-70.3-san-juan-20150315.csv,1129,Jose A. Vargas De Jesus,40,PR,USA,00:39:32,02:38:14,02:13:38,00:06:19,00:03:53,05:41:36
+ironman-70.3-san-juan-20150315.csv,1130,Jack Vaughn,40,LA,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1131,Jose Vazquez,42,PR,PRI,00:43:39,02:42:27,02:22:26,00:06:11,00:03:05,05:57:48
+ironman-70.3-san-juan-20150315.csv,1132,Jose De Jesus Vazquez Velazquez,40,APO,MEX,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1133,Edgar Velasco,44,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1134,Manuel Velazquez,39,PR,USA,00:40:59,03:02:27,02:37:05,00:05:15,00:03:14,06:29:00
+ironman-70.3-san-juan-20150315.csv,1135,Jose Velez,43,PR,USA,---,---,---,---,---,DQ
+ironman-70.3-san-juan-20150315.csv,1136,Rub N V Lez Cruz,39,PR,USA,00:42:11,02:43:34,02:27:16,00:04:51,00:03:16,06:01:08
+ironman-70.3-san-juan-20150315.csv,1137,Gregory Vernant,43,Intl State,MTQ,00:42:45,03:00:17,02:24:15,00:06:16,00:04:39,06:18:12
+ironman-70.3-san-juan-20150315.csv,1138,Ruben Victoria,43,PR,USA,00:38:49,03:16:22,02:18:46,00:03:57,00:02:48,06:20:42
+ironman-70.3-san-juan-20150315.csv,1139,Ricardo Vila,41,PR,USA,00:43:12,02:39:38,01:55:07,00:06:13,00:03:44,05:27:54
+ironman-70.3-san-juan-20150315.csv,1140,Miguel Villacis,41,---,ECU,---,02:54:20,02:20:16,00:52:03,00:03:36,06:10:15
+ironman-70.3-san-juan-20150315.csv,1141,Ernesto Villarroel,41,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1142,Per Von Appen,43,---,CHL,00:40:04,02:42:17,02:00:41,00:05:04,00:03:43,05:31:49
+ironman-70.3-san-juan-20150315.csv,1143,Troy Wagner,40,TX,USA,00:41:35,03:03:39,02:31:38,00:08:40,00:06:40,06:32:12
+ironman-70.3-san-juan-20150315.csv,1144,Brian Weaver,41,KS,USA,00:27:29,02:22:09,01:56:16,00:03:37,00:01:41,04:51:12
+ironman-70.3-san-juan-20150315.csv,1145,Mike Wolfgram,40,WI,USA,00:32:23,02:22:22,01:53:09,00:03:58,00:01:41,04:53:33
+ironman-70.3-san-juan-20150315.csv,1146,Ivan Zavala,43,PR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1147,Cedric Abruzzo,34,ST MARTIN,MAF,00:37:40,02:50:14,02:08:29,00:06:26,00:05:44,05:48:33
+ironman-70.3-san-juan-20150315.csv,1148,Freddyson Acevedo,38,PR,USA,00:38:40,02:52:10,02:09:58,00:03:43,00:02:20,05:46:51
+ironman-70.3-san-juan-20150315.csv,1149,Jose Acevedo,36,PR,USA,00:38:18,02:48:37,02:19:37,00:06:09,00:03:52,05:56:33
+ironman-70.3-san-juan-20150315.csv,1150,Roberto Aguilo,39,PR,PRI,00:36:52,02:57:58,02:08:33,00:04:31,00:02:59,05:50:53
+ironman-70.3-san-juan-20150315.csv,1151,Joseph Akouri,36,MI,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1152,Carlos Eduardo Oliveira De Alencar,37,SP,BRA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1153,Hernane Alves,38,NJ,BRA,00:45:21,02:39:11,02:05:02,00:06:13,00:05:50,05:41:37
+ironman-70.3-san-juan-20150315.csv,1154,Bruno Andreozzi,35,AMAZONAS,BRA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1155,Gustavo Aponte,37,Intl State,COL,00:27:41,02:33:59,01:55:46,00:04:03,00:02:19,05:03:48
+ironman-70.3-san-juan-20150315.csv,1156,Jaime Aquino,37,PR,PRI,00:35:49,02:49:20,02:16:21,00:05:58,00:06:09,05:53:37
+ironman-70.3-san-juan-20150315.csv,1157,Juan Arauco,34,VA,USA,00:57:17,03:33:49,03:01:23,00:06:27,00:06:25,07:45:21
+ironman-70.3-san-juan-20150315.csv,1158,Tarik Arcoverde Ribeiro Costa,36,Goiás,BRA,00:22:31,02:25:29,02:00:44,00:05:50,00:03:10,04:57:44
+ironman-70.3-san-juan-20150315.csv,1159,Abdel Arroyo,36,PR,USA,00:34:41,03:00:06,01:59:20,00:05:41,00:03:59,05:43:47
+ironman-70.3-san-juan-20150315.csv,1160,Eduardo Avila,36,Rio Grande do Sul,BRA,00:39:54,02:47:23,02:09:44,00:05:25,00:05:13,05:47:39
+ironman-70.3-san-juan-20150315.csv,1161,Manuel Barreto Sosa,36,PR,PRI,00:39:55,02:56:09,02:21:58,00:04:54,00:03:52,06:06:48
+ironman-70.3-san-juan-20150315.csv,1162,Jason Bates,38,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1163,Michael Benson,36,TX,USA,00:31:08,02:34:57,01:50:20,00:05:28,00:03:00,05:04:53
+ironman-70.3-san-juan-20150315.csv,1164,Randor Bernal,37,dn,DOM,00:39:29,02:34:00,---,00:05:56,---,DNF
+ironman-70.3-san-juan-20150315.csv,1165,Chad Bernard,36,CO,USA,00:38:00,03:11:35,03:26:35,00:08:04,00:06:28,07:30:42
+ironman-70.3-san-juan-20150315.csv,1166,Brian Bickett,35,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1167,Kevin Bickley,35,TN,USA,00:37:11,02:49:39,02:11:49,00:05:41,00:02:02,05:46:22
+ironman-70.3-san-juan-20150315.csv,1168,Alejandro Bienes,38,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1169,EDUARDO BLANCO,36,ALAJUELA,CRI,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1170,Camp Boswell,35,NC,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1171,Alessandro Braga,38,Intl State,BRA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1172,Miguel Brito,37,PR,USA,00:38:19,03:03:49,02:57:48,00:05:28,00:05:56,06:51:20
+ironman-70.3-san-juan-20150315.csv,1173,Javier Bueno,39,PR,NRU,00:35:01,03:15:10,01:59:53,00:06:40,00:05:59,06:02:43
+ironman-70.3-san-juan-20150315.csv,1174,Alan Caballero,38,ON,CAN,00:38:30,---,---,00:05:22,---,DNF
+ironman-70.3-san-juan-20150315.csv,1175,Christopher Cafiero,35,WV,USA,00:28:43,02:21:26,01:55:43,00:04:15,00:03:34,04:53:41
+ironman-70.3-san-juan-20150315.csv,1176,Ivan Cajigas,34,PR,USA,00:39:02,02:56:29,02:29:01,00:04:39,00:04:13,06:13:24
+ironman-70.3-san-juan-20150315.csv,1177,Casper Camps,36,CURACAO,CUW,00:39:44,02:32:10,02:05:08,00:04:23,00:03:11,05:24:36
+ironman-70.3-san-juan-20150315.csv,1178,Luciano Cano,38,PR,USA,00:42:11,04:08:14,01:44:43,00:07:22,00:08:08,06:50:38
+ironman-70.3-san-juan-20150315.csv,1179,Rodrigo Cano Jauregui Segura Millan,38,Intl State,MEX,00:41:01,03:10:58,02:04:43,00:08:30,00:04:37,06:09:49
+ironman-70.3-san-juan-20150315.csv,1180,Thiago Cardoso,37,Other,BRA,00:40:22,02:42:22,02:03:54,00:06:41,00:03:42,05:37:01
+ironman-70.3-san-juan-20150315.csv,1181,Victor Carmagnani,34,---,BRA,00:35:53,02:37:32,01:44:25,00:03:46,00:02:04,05:03:40
+ironman-70.3-san-juan-20150315.csv,1182,Alain Caron,35,---,CAN,00:28:35,02:31:37,02:30:33,00:04:03,00:03:01,05:37:49
+ironman-70.3-san-juan-20150315.csv,1183,Alberto Casas,37,---,PRI,00:39:21,03:15:48,02:47:12,00:06:13,00:02:46,06:51:20
+ironman-70.3-san-juan-20150315.csv,1184,Cleber Climaco,37,São Paulo,BRA,00:36:31,02:46:56,02:12:55,00:06:19,00:02:24,05:45:05
+ironman-70.3-san-juan-20150315.csv,1185,Brian Coleman,37,PA,USA,00:41:10,03:07:44,02:21:56,00:08:40,00:04:46,06:24:16
+ironman-70.3-san-juan-20150315.csv,1186,Dan Collins,37,FL,USA,00:38:12,03:42:57,02:14:48,00:15:17,00:04:18,06:55:32
+ironman-70.3-san-juan-20150315.csv,1187,Alexis Colón,35,PR,USA,00:35:33,02:33:59,01:43:35,00:03:57,00:01:55,04:58:59
+ironman-70.3-san-juan-20150315.csv,1188,Diego Corredor,35,FL,USA,00:31:43,02:28:40,01:36:58,00:03:33,00:01:34,04:42:28
+ironman-70.3-san-juan-20150315.csv,1189,Adrian Cox,38,NC,USA,00:35:00,02:27:58,01:42:29,00:04:49,00:03:02,04:53:18
+ironman-70.3-san-juan-20150315.csv,1190,John Cox,34,VI,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1191,Waldemar Crespo,37,PR,USA,---,---,---,---,---,DQ
+ironman-70.3-san-juan-20150315.csv,1192,Russell Crumpler,37,---,VGB,00:32:12,02:45:36,02:34:03,00:05:33,00:02:34,05:59:58
+ironman-70.3-san-juan-20150315.csv,1193,Samuel Cruz Agostini,34,PR,USA,00:49:50,03:41:19,03:09:07,00:06:07,00:03:13,07:49:36
+ironman-70.3-san-juan-20150315.csv,1194,Pedro Juan Cruz Quiles,37,PR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1195,Kevin Cullen,37,SC,USA,00:50:28,04:15:32,---,00:07:32,---,DNF
+ironman-70.3-san-juan-20150315.csv,1196,Henrique De Abreu,38,RS,BRA,00:29:59,03:01:40,02:46:37,00:07:16,00:06:36,06:32:08
+ironman-70.3-san-juan-20150315.csv,1197,Edwin Y De Jesus,38,APO,USA,00:39:00,02:36:04,02:30:04,00:03:40,00:02:46,05:51:34
+ironman-70.3-san-juan-20150315.csv,1198,Christian Diaz,35,PR,USA,00:39:32,03:22:07,02:50:35,00:08:38,00:06:58,07:07:50
+ironman-70.3-san-juan-20150315.csv,1199,Jorge Diaz,37,PR,USA,00:41:43,03:13:59,02:46:59,00:07:07,00:04:24,06:54:12
+ironman-70.3-san-juan-20150315.csv,1200,Chad Dodd,38,AZ,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1201,Cesar Dominguez,38,PR,USA,00:34:54,02:39:11,02:10:17,00:05:51,00:03:10,05:33:23
+ironman-70.3-san-juan-20150315.csv,1202,Fernando Dominguez,34,TX,USA,00:36:12,02:58:55,02:35:40,00:06:05,00:04:31,06:21:23
+ironman-70.3-san-juan-20150315.csv,1203,anthony dones,35,FL,USA,00:40:35,02:52:25,02:05:34,00:04:32,00:04:22,05:47:28
+ironman-70.3-san-juan-20150315.csv,1204,Chris Douglas,37,CA,USA,00:32:31,02:33:49,02:02:40,00:04:27,00:03:01,05:16:28
+ironman-70.3-san-juan-20150315.csv,1205,Andreas Duerig,37,---,ECU,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1206,Joey Dussich,37,NY,USA,00:26:28,02:19:53,01:30:25,00:03:58,00:02:13,04:22:57
+ironman-70.3-san-juan-20150315.csv,1207,Juan Carlos Echavarria Vera,36,cundinamarca,COL,00:47:39,02:56:49,02:19:32,00:04:38,00:04:10,06:12:48
+ironman-70.3-san-juan-20150315.csv,1208,Santiago Egas,36,Lima,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1209,Taylor Essick,38,NC,USA,00:38:47,02:34:27,02:02:34,00:04:24,00:02:22,05:22:34
+ironman-70.3-san-juan-20150315.csv,1210,Jose Fagundo,36,PR,USA,00:33:22,02:36:48,01:56:46,00:03:55,00:02:13,05:13:04
+ironman-70.3-san-juan-20150315.csv,1211,Packie Farrell,34,tortola,VGB,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1212,marco favero,37,São Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1213,Francky Favre,38,FR,FRA,00:26:20,02:24:06,01:27:44,00:03:21,00:02:14,04:23:45
+ironman-70.3-san-juan-20150315.csv,1214,Seamus Fearon,34,APO,BMU,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1215,Daniel Fernandez,34,Lima,COL,00:38:44,03:01:52,01:52:18,00:05:31,00:05:39,05:44:04
+ironman-70.3-san-juan-20150315.csv,1216,Antonio Flores,34,PR,USA,00:33:55,02:53:42,01:56:31,00:04:05,00:02:36,05:30:49
+ironman-70.3-san-juan-20150315.csv,1217,Elias D. Fonseca-Lugo,37,PR,PRI,00:35:58,02:50:29,02:24:45,00:04:57,00:02:22,05:58:31
+ironman-70.3-san-juan-20150315.csv,1218,Otavio Fontanetti,36,Amazonas,BRA,00:37:19,02:28:10,02:06:09,00:08:40,00:05:35,05:25:53
+ironman-70.3-san-juan-20150315.csv,1219,Kevin Forrest,38,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1220,Juan Giron,38,PR,PRI,00:43:03,02:38:47,01:58:26,00:04:58,00:02:10,05:27:24
+ironman-70.3-san-juan-20150315.csv,1221,Waldi Giusti Rivera,37,PR,USA,00:36:46,03:05:30,02:42:42,00:06:14,00:05:15,06:36:27
+ironman-70.3-san-juan-20150315.csv,1222,Rafael Goncalves,35,CO,USA,00:22:58,---,---,00:03:49,---,DNF
+ironman-70.3-san-juan-20150315.csv,1223,Abelardo Gonzalez,36,PR,USA,00:37:54,02:54:42,02:17:38,00:05:01,00:03:19,05:58:34
+ironman-70.3-san-juan-20150315.csv,1224,Alberto Gonzalez,39,---,PRI,00:37:36,02:50:48,02:16:20,00:05:17,00:02:51,05:52:52
+ironman-70.3-san-juan-20150315.csv,1225,Eduardo Gonzalez,34,FL,USA,00:38:13,03:14:27,02:20:52,00:05:32,00:02:46,06:21:50
+ironman-70.3-san-juan-20150315.csv,1226,Fernando Gonzalez,38,PR,PRI,00:39:37,02:53:39,03:10:12,00:05:24,00:03:55,06:52:47
+ironman-70.3-san-juan-20150315.csv,1227,Angel A. Gonzalez-Ruiz,39,PR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1228,Hector Guivas,37,WV,USA,00:38:30,03:15:20,02:55:57,00:08:08,00:04:21,07:02:16
+ironman-70.3-san-juan-20150315.csv,1229,Jorge Gutierrez,37,PR,USA,00:41:07,02:42:06,02:34:47,00:05:08,00:02:50,06:05:58
+ironman-70.3-san-juan-20150315.csv,1230,Aron Harris,34,TX,USA,00:42:14,03:03:15,02:43:27,00:09:16,00:07:37,06:45:49
+ironman-70.3-san-juan-20150315.csv,1231,Rich Heidal,36,AL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1232,Adam Heiser,38,GA,USA,00:33:32,02:28:35,01:55:14,00:04:09,00:01:58,05:03:28
+ironman-70.3-san-juan-20150315.csv,1233,Armando Henriquez,39,---,DOM,00:43:38,03:15:26,02:42:21,00:05:28,00:06:09,06:53:02
+ironman-70.3-san-juan-20150315.csv,1234,Santiago Hernandez,37,DC,COL,00:30:57,02:40:16,02:10:58,00:04:24,00:04:09,05:30:44
+ironman-70.3-san-juan-20150315.csv,1235,Antonio Hernandez-Cruz,36,PR,PRI,00:33:00,02:45:03,02:26:56,00:05:38,00:03:12,05:53:49
+ironman-70.3-san-juan-20150315.csv,1236,Luis Felipe Herrera,39,Panama,PAN,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1237,Franz Hinojosa,36,NY,USA,00:41:51,03:04:32,02:32:27,00:05:05,00:03:59,06:27:54
+ironman-70.3-san-juan-20150315.csv,1238,Dusty Holcomb,38,NC,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1239,Zachariah Horan,35,CT,USA,00:42:28,03:14:07,02:37:59,00:08:29,00:07:30,06:50:33
+ironman-70.3-san-juan-20150315.csv,1240,Joseph Huertas,36,IL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1241,Gregorio Ibarguren,36,Buenos aires,ARG,00:35:45,02:37:05,02:05:36,00:05:03,00:03:06,05:26:35
+ironman-70.3-san-juan-20150315.csv,1242,An Bal Irizarry Crespo,35,---,USA,00:47:51,03:14:02,02:19:51,00:11:30,00:05:18,06:38:32
+ironman-70.3-san-juan-20150315.csv,1243,Emmanuel Jaimes,36,Estado de Mexico,MEX,00:37:36,03:09:24,02:44:31,00:09:46,00:05:10,06:46:27
+ironman-70.3-san-juan-20150315.csv,1244,Jorge Jimenez,34,CA,USA,00:48:03,03:11:10,02:47:37,00:06:59,00:04:06,06:57:55
+ironman-70.3-san-juan-20150315.csv,1245,Mark Keldahl,37,IL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1246,Ivan Francisco Prado Koneski,38,Santa Catarina,BRA,00:34:36,02:43:40,02:03:24,00:07:00,00:05:17,05:33:57
+ironman-70.3-san-juan-20150315.csv,1247,Martin Kotowski,35,FL,USA,00:42:15,02:43:42,02:01:04,00:05:28,00:04:01,05:36:30
+ironman-70.3-san-juan-20150315.csv,1248,Jan Kraemer,37,PR,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1249,Klas Kuntze,36,AZ,USA,00:31:56,02:36:57,02:29:38,00:05:36,00:02:46,05:46:53
+ironman-70.3-san-juan-20150315.csv,1250,Carlos Luis La Cruz Zuniaga,35,Miranda,VEN,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1251,Harry Lake,38,TX,USA,00:35:19,02:42:41,02:13:31,00:06:29,00:03:19,05:41:19
+ironman-70.3-san-juan-20150315.csv,1252,Yacceri Leal,39,FL,USA,00:27:04,02:27:24,---,00:03:30,00:02:41,DNF
+ironman-70.3-san-juan-20150315.csv,1253,Xavier Ledee,34,St Barthélemy,BLM,00:35:47,03:07:39,---,00:06:38,00:05:33,DNF
+ironman-70.3-san-juan-20150315.csv,1254,Osvaldo Leon,38,PR,USA,00:38:00,02:43:41,02:11:08,00:04:15,00:02:41,05:39:45
+ironman-70.3-san-juan-20150315.csv,1255,Luis Lesizza,36,Panama,PAN,00:48:55,03:02:31,03:00:00,00:06:33,00:03:11,07:01:10
+ironman-70.3-san-juan-20150315.csv,1256,Ricardo  Lino,35,Other,BRA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1257,Jorge Lopez,35,PR,USA,00:36:26,02:29:48,01:51:34,00:03:52,00:02:50,05:04:30
+ironman-70.3-san-juan-20150315.csv,1258,Jose Lugo,38,VA,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1259,Luis Maldonado-Torres,38,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1260,Michael Manuel,37,DE,USA,00:53:10,03:52:03,---,00:09:52,00:06:49,DNF
+ironman-70.3-san-juan-20150315.csv,1261,Michael Marshall,38,MO,USA,00:33:50,02:41:05,01:49:06,00:03:26,00:02:07,05:09:34
+ironman-70.3-san-juan-20150315.csv,1262,Elvin Martinez,34,PR,USA,00:36:55,02:48:07,02:18:36,00:06:16,00:03:41,05:53:35
+ironman-70.3-san-juan-20150315.csv,1263,Jean Martinez,37,FL,VEN,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1264,Carlos Martinez Alvear,37,---,CHL,00:41:22,02:37:55,01:58:38,00:05:08,00:03:09,05:26:12
+ironman-70.3-san-juan-20150315.csv,1265,Martin Marxuach,38,PR,USA,00:39:17,02:46:41,02:47:17,00:06:13,00:05:07,06:24:35
+ironman-70.3-san-juan-20150315.csv,1266,Andrés Mas,37,PR,USA,00:44:41,03:06:22,02:56:17,00:08:00,00:04:50,07:00:10
+ironman-70.3-san-juan-20150315.csv,1267,Jorge Matos,36,Distrit Nacional,DOM,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1268,Frankie Mcdermond,37,FL,USA,00:41:56,02:53:41,02:13:51,00:04:49,00:02:32,05:56:49
+ironman-70.3-san-juan-20150315.csv,1269,Shaun Mcgill,34,Tyne  and wear,GBR,00:30:20,02:20:44,01:50:00,00:04:19,00:01:48,04:47:11
+ironman-70.3-san-juan-20150315.csv,1270,Marcos Melida,36,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1271,James Miller,36,UT,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1272,Peter Miner,---,MN,USA,00:39:04,02:34:22,02:04:22,00:06:22,00:03:12,05:27:22
+ironman-70.3-san-juan-20150315.csv,1273,Kenneth Moeller,35,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1274,Alfredo Morales,35,PR,USA,00:30:36,02:27:09,02:07:30,00:04:04,00:03:26,05:12:45
+ironman-70.3-san-juan-20150315.csv,1275,Leonardo Moreira Mota,36,df,BRA,00:29:24,02:23:45,01:42:52,00:04:27,00:03:22,04:43:50
+ironman-70.3-san-juan-20150315.csv,1276,Miguel Mouriz,35,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1277,Javier Muyet Cotto,38,PR,USA,00:37:24,02:54:40,02:32:25,00:04:57,00:04:01,06:13:27
+ironman-70.3-san-juan-20150315.csv,1278,Pablo Nangles,38,---,PER,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1279,Ivan Nanita,38,---,PRI,00:41:12,03:10:01,02:05:58,00:06:03,00:05:42,06:08:56
+ironman-70.3-san-juan-20150315.csv,1280,Alberto C Nieves Marrero,36,PR,USA,00:27:56,03:23:56,02:20:45,00:05:07,00:04:18,06:22:02
+ironman-70.3-san-juan-20150315.csv,1281,Mark Nowikowski,35,NY,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1282,Daniel Oliveira,36,DF,BRA,00:31:19,02:40:48,02:00:16,00:05:31,00:05:08,05:23:02
+ironman-70.3-san-juan-20150315.csv,1283,Jose Antonio Pagan,36,FL,USA,00:43:24,03:06:46,02:46:16,00:08:37,00:09:36,06:54:39
+ironman-70.3-san-juan-20150315.csv,1284,Ricardo Pagan,37,PR,USA,00:42:21,03:20:29,02:45:45,00:04:52,00:04:01,06:57:28
+ironman-70.3-san-juan-20150315.csv,1285,Maxi Passadore,36,Buenos Aires ,ARG,00:31:13,02:19:56,01:56:16,00:04:08,00:01:29,04:53:02
+ironman-70.3-san-juan-20150315.csv,1286,Ian Pena,36,DN,DOM,00:36:36,03:19:41,02:01:53,00:06:22,00:04:08,06:08:40
+ironman-70.3-san-juan-20150315.csv,1287,Adriano Perazio,38,Sao Paulo,BRA,00:37:13,02:48:31,02:24:41,00:07:14,00:05:38,06:03:17
+ironman-70.3-san-juan-20150315.csv,1288,Angel Perez,35,PR,USA,00:42:08,03:04:31,02:22:57,00:05:06,00:03:54,06:18:36
+ironman-70.3-san-juan-20150315.csv,1289,Matthew Perez,37,NJ,USA,00:31:20,02:43:10,02:02:29,00:05:59,00:02:50,05:25:48
+ironman-70.3-san-juan-20150315.csv,1290,Patrick Pescod,38,Panama,PAN,00:41:31,02:46:00,01:49:27,00:04:36,00:03:17,05:24:51
+ironman-70.3-san-juan-20150315.csv,1291,Aj Petrillo,36,GA,USA,00:29:35,02:24:26,01:36:59,00:03:35,00:01:38,04:36:13
+ironman-70.3-san-juan-20150315.csv,1292,Adam Petrillo,35,GA,USA,00:29:37,02:31:37,02:08:58,00:04:15,00:01:50,05:16:17
+ironman-70.3-san-juan-20150315.csv,1293,Edmund Phillips,37,PR,USA,00:48:35,02:55:23,02:28:46,00:05:22,00:03:03,06:21:09
+ironman-70.3-san-juan-20150315.csv,1294,Jose Menezes Pinheiro Junior,38,AMAZONAS,BRA,00:46:08,02:58:02,02:34:12,00:05:33,00:05:41,06:29:36
+ironman-70.3-san-juan-20150315.csv,1295,Emmanuel Pintor Hern Ndez,34,Distrito Federal,MEX,00:31:15,03:03:26,02:53:27,00:04:02,00:03:01,06:35:11
+ironman-70.3-san-juan-20150315.csv,1296,Carlos Puga Espino,37,PANAMA,PAN,00:49:06,03:08:57,02:28:08,00:06:11,00:02:57,06:35:19
+ironman-70.3-san-juan-20150315.csv,1297,Hector Ramirez,37,PR,USA,00:33:27,02:37:04,02:08:37,00:04:19,00:02:45,05:26:12
+ironman-70.3-san-juan-20150315.csv,1298,Jose N Ramirez Lugo,37,PR,USA,00:44:21,03:20:34,03:20:14,00:08:26,00:04:07,07:37:42
+ironman-70.3-san-juan-20150315.csv,1299,Josue Ramos,34,PR,USA,00:35:26,02:24:48,02:16:50,00:05:32,00:03:33,05:26:09
+ironman-70.3-san-juan-20150315.csv,1300,Rodrigo Recalde Larrea,38,CO,PRY,00:31:47,02:23:43,01:41:52,00:03:46,00:01:47,04:42:55
+ironman-70.3-san-juan-20150315.csv,1301,Joseph Redmond,35,NY,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1302,Tintin Rexach,39,PR,USA,00:35:32,02:24:15,01:43:21,00:03:46,00:02:11,04:49:05
+ironman-70.3-san-juan-20150315.csv,1303,Giancarlo Rexach,37,PR,PRI,00:34:54,02:59:02,02:36:12,00:04:42,00:04:08,06:18:58
+ironman-70.3-san-juan-20150315.csv,1304,Camilo Reyes Carrascal,38,Santander,COL,00:43:09,02:44:21,02:07:39,00:06:23,00:04:00,05:45:32
+ironman-70.3-san-juan-20150315.csv,1305,Travis Rimel,35,TX,USA,00:29:31,02:21:09,01:37:33,00:04:31,00:03:09,04:35:53
+ironman-70.3-san-juan-20150315.csv,1306,Daniel Enrique Rios Chacon,36,PR,PRI,00:38:21,02:43:04,02:10:50,00:04:36,00:03:49,05:40:40
+ironman-70.3-san-juan-20150315.csv,1307,Alberto Rivera,37,PR,USA,00:38:58,02:27:34,01:45:19,00:04:15,00:02:17,04:58:23
+ironman-70.3-san-juan-20150315.csv,1308,Angel Miguel Rivera Rivera,35,PR,PRI,00:41:24,02:59:35,02:21:12,00:05:10,00:04:06,06:11:27
+ironman-70.3-san-juan-20150315.csv,1309,Arvin Rivera,36,PR,USA,00:41:03,02:45:17,02:15:05,00:04:07,00:02:55,05:48:27
+ironman-70.3-san-juan-20150315.csv,1310,Edgar Rivera,35,Distrito Federal,MEX,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1311,Jose Rivera,35,PR,USA,00:42:13,02:38:13,02:00:15,00:03:49,00:02:35,05:27:05
+ironman-70.3-san-juan-20150315.csv,1312,Juan C. Rivera,36,PR,USA,00:44:59,03:03:40,02:39:33,00:04:49,00:02:25,06:35:26
+ironman-70.3-san-juan-20150315.csv,1313,Frank Roberto,36,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1314,Carlos Rodriguez,34,PR,USA,00:45:04,03:07:48,02:08:57,00:05:32,00:04:27,06:11:48
+ironman-70.3-san-juan-20150315.csv,1315,Claudio Rodriguez,34,Intl State,PER,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1316,Eligio Rodriguez,35,FL,USA,00:42:27,02:48:44,01:55:36,00:04:24,00:02:22,05:33:33
+ironman-70.3-san-juan-20150315.csv,1317,Hiram Rodriguez,36,PR,USA,00:31:10,02:26:11,01:45:40,00:03:09,00:02:00,04:48:10
+ironman-70.3-san-juan-20150315.csv,1318,Luis Rivera,46,PR,PRI,00:42:04,02:52:12,02:36:50,00:04:31,00:02:30,06:18:07
+ironman-70.3-san-juan-20150315.csv,1319,Mauricio Rodriguez,36,PANAMA,PAN,00:42:55,02:33:39,01:39:49,00:04:38,00:02:52,05:03:53
+ironman-70.3-san-juan-20150315.csv,1320,Omar Rodriguez,36,PR,USA,00:31:03,03:08:41,02:35:00,00:06:21,00:04:04,06:25:09
+ironman-70.3-san-juan-20150315.csv,1321,Osvaldo Rodriguez,35,PR,PRI,00:39:56,02:53:20,02:28:42,00:04:25,00:02:21,06:08:44
+ironman-70.3-san-juan-20150315.csv,1322,Ricky Rodriguez,36,PR,USA,00:42:08,03:27:40,02:41:11,00:05:02,00:03:26,06:59:27
+ironman-70.3-san-juan-20150315.csv,1323,Jonathan Rohl,35,IL,USA,00:33:44,02:26:27,01:30:58,00:03:38,00:02:53,04:37:40
+ironman-70.3-san-juan-20150315.csv,1324,Darwin Rojas,38,PR,PRI,---,---,---,---,---,DQ
+ironman-70.3-san-juan-20150315.csv,1325,Antonio Roman,38,HI,USA,00:49:12,03:19:23,02:39:53,00:05:59,00:03:56,06:58:23
+ironman-70.3-san-juan-20150315.csv,1326,Guillermo Ruiz,37,PR,USA,00:40:57,02:48:54,02:31:46,00:04:53,00:04:25,06:10:55
+ironman-70.3-san-juan-20150315.csv,1327,Yamil Ruiz,37,PR,USA,01:02:03,03:51:01,03:25:37,00:07:17,00:03:38,DNF
+ironman-70.3-san-juan-20150315.csv,1328,Diego Enrique Ruiz Rodriguez,34,BOGOTA,COL,00:34:56,02:57:17,02:06:28,00:04:18,00:03:46,05:46:45
+ironman-70.3-san-juan-20150315.csv,1329,Hector Saavedra,34,OR,USA,00:43:27,03:12:48,02:40:06,00:06:56,00:07:26,06:50:43
+ironman-70.3-san-juan-20150315.csv,1330,Zeky Sabagh,37,atlantico,COL,00:37:41,02:44:42,02:23:02,00:06:41,00:04:18,05:56:24
+ironman-70.3-san-juan-20150315.csv,1331,Abraham Sanchez,36,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1332,Abraham Santiago,35,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1333,Edward Santiago,38,PR,USA,00:36:24,02:36:05,01:51:38,00:03:55,00:01:52,05:09:54
+ironman-70.3-san-juan-20150315.csv,1334,Angelo Santos,38,FL,USA,00:40:07,03:14:24,03:08:49,00:06:12,00:06:45,07:16:17
+ironman-70.3-san-juan-20150315.csv,1335,Jeff Scarella,34,TX,USA,00:28:28,02:18:34,01:51:59,00:03:23,00:01:44,04:44:08
+ironman-70.3-san-juan-20150315.csv,1336,Fred Scharmer,37,MI,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1337,Scott Schmidt,34,NY,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1338,Jeremy Scott,36,IL,USA,00:43:50,03:08:22,02:17:27,00:09:27,00:06:35,06:25:41
+ironman-70.3-san-juan-20150315.csv,1339,Rafael Semidey,34,FL,USA,00:40:52,02:48:01,02:18:05,00:06:41,00:03:25,05:57:04
+ironman-70.3-san-juan-20150315.csv,1341,Shanon Seward,38,TX,USA,00:37:08,03:01:11,02:12:46,00:08:17,00:04:28,06:03:50
+ironman-70.3-san-juan-20150315.csv,1342,Edwin Silva,37,PR,USA,00:41:30,03:08:00,02:17:39,00:07:43,00:05:10,06:20:02
+ironman-70.3-san-juan-20150315.csv,1343,Francisco Solano,34,Intl State,COL,00:37:05,02:55:20,02:43:11,00:09:21,00:07:33,06:32:30
+ironman-70.3-san-juan-20150315.csv,1345,Saul Soto,34,PR,USA,00:58:05,03:13:00,02:36:21,00:10:07,00:08:22,07:05:55
+ironman-70.3-san-juan-20150315.csv,1346,jaime square,38,TX,USA,00:38:10,02:59:33,02:31:33,00:08:13,00:03:36,06:21:05
+ironman-70.3-san-juan-20150315.csv,1348,Stefano Tassinari,37,TX,GTM,00:33:34,02:34:42,01:35:54,00:04:08,00:02:40,04:50:58
+ironman-70.3-san-juan-20150315.csv,1349,Luis Texidor-Cordero,36,PR,USA,00:40:30,02:57:24,02:16:09,00:05:28,00:02:53,06:02:24
+ironman-70.3-san-juan-20150315.csv,1350,Jared Tootell,37,NJ,USA,00:30:25,02:24:34,01:36:17,00:03:30,00:02:01,04:36:47
+ironman-70.3-san-juan-20150315.csv,1351,Hector Torres,37,FL,USA,00:36:46,03:02:21,02:04:37,00:04:29,00:02:46,05:50:59
+ironman-70.3-san-juan-20150315.csv,1352,Ron Tribendis,37,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1353,Cristian Trivique,35,---,CHL,00:56:57,03:19:00,02:29:30,00:07:26,00:05:39,06:58:32
+ironman-70.3-san-juan-20150315.csv,1354,Bruno Tupinamba Dias,34,Amazonas,BRA,00:42:58,02:39:01,02:03:03,00:06:42,00:04:56,05:36:40
+ironman-70.3-san-juan-20150315.csv,1356,Nicolas Valera,37,NJ,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1357,Daniel Valles,35,CA,USA,00:58:45,03:09:55,02:21:15,00:07:51,00:12:31,06:50:17
+ironman-70.3-san-juan-20150315.csv,1358,Chris Vargas,35,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1359,Jose M Vargas,36,PR,PRI,00:45:09,02:50:15,02:24:10,00:04:42,00:02:56,06:07:12
+ironman-70.3-san-juan-20150315.csv,1360,Paul Eduardo Vargas Vega,38,Atlantico,COL,00:36:50,02:59:30,02:13:47,00:05:05,00:02:26,05:57:38
+ironman-70.3-san-juan-20150315.csv,1361,Ed Jean Vazquez,38,PR,USA,00:43:07,02:58:46,03:07:50,00:06:08,00:03:50,06:59:41
+ironman-70.3-san-juan-20150315.csv,1362,Eliud Vega,34,PR,USA,00:37:46,02:51:11,02:24:02,00:05:04,00:04:06,06:02:09
+ironman-70.3-san-juan-20150315.csv,1363,Carlobi Velez,38,PR,PRI,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1364,Eugenio Velez,37,Atlantico,COL,00:41:15,02:56:20,02:18:11,00:04:17,00:02:13,06:02:16
+ironman-70.3-san-juan-20150315.csv,1365,Jason Wheat,35,MS,USA,00:42:40,02:55:36,02:05:03,00:06:38,00:02:22,05:52:19
+ironman-70.3-san-juan-20150315.csv,1366,Bryan Wilczewski,38,NC,USA,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1367,Kurt Wilson,36,NC,USA,00:41:10,02:37:25,01:45:25,00:03:50,00:04:10,05:12:00
+ironman-70.3-san-juan-20150315.csv,1368,Noel Zayas,34,PR,PRI,00:34:13,02:25:00,01:51:10,00:03:20,00:01:28,04:55:11
+ironman-70.3-san-juan-20150315.csv,1369,Jeffrey Acevedo,29,PR,USA,00:41:52,03:06:37,02:34:53,00:05:50,00:03:56,06:33:08
+ironman-70.3-san-juan-20150315.csv,1370,Eliecer Adames,31,---,DOM,00:40:30,02:29:49,01:44:35,00:04:49,00:03:33,05:03:16
+ironman-70.3-san-juan-20150315.csv,1371,John Adeniran,31,TX,USA,00:54:57,03:24:23,03:00:19,00:07:29,00:04:28,07:31:36
+ironman-70.3-san-juan-20150315.csv,1372,Benny Adorno,31,NY,USA,00:58:03,03:49:48,02:22:54,00:08:28,00:03:52,07:23:05
+ironman-70.3-san-juan-20150315.csv,1373,Albert Lopez Toro,31,PR,USA,00:37:02,02:47:40,02:25:57,00:05:04,00:03:38,05:59:21
+ironman-70.3-san-juan-20150315.csv,1374,Johnny Alvarez,33,PR,USA,00:50:47,02:48:19,02:23:57,00:05:34,00:03:03,06:11:40
+ironman-70.3-san-juan-20150315.csv,1375,Tarak Anada,33,LA,USA,00:54:35,03:20:22,02:24:57,00:07:06,00:05:47,06:52:47
+ironman-70.3-san-juan-20150315.csv,1376,Lyn Angell,---,APO,KEN,---,---,---,---,---,DNS
+ironman-70.3-san-juan-20150315.csv,1377,Pablo Aponte,31,PR,USA,00:41:39,02:48:51,02:22:05,00:04:57,00:04:56,06:02:28

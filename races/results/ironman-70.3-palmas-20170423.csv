@@ -1,0 +1,624 @@
+#File=ironman-70.3-palmas-20170423.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-palmas-20170423.csv,5,Reinaldo Colucci,31,Sao Paulo,BRA,00:25:23,02:10:18,01:25:50,00:01:50,00:01:14,04:04:35
+ironman-70.3-palmas-20170423.csv,6,Igor Amorelli,32,Santa Catarina,BRA,00:23:49,02:04:37,01:23:35,00:01:57,00:00:59,03:54:57
+ironman-70.3-palmas-20170423.csv,7,Bruno Matheus,30,São Paulo,BRA,00:25:18,02:20:03,01:17:23,00:01:36,00:00:58,04:05:18
+ironman-70.3-palmas-20170423.csv,8,Danilo Melo,26,São Paulo,BRA,00:34:29,02:32:23,01:26:46,00:02:33,00:00:58,04:37:09
+ironman-70.3-palmas-20170423.csv,9,Justin Metzler,23,CO,USA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,10,Fellipe Santos,25,Parana,BRA,00:26:30,02:10:48,01:19:35,00:01:59,00:01:18,04:00:10
+ironman-70.3-palmas-20170423.csv,11,Felipe Manente,28,Intl State,BRA,00:29:29,02:17:48,01:25:39,00:02:21,00:01:25,04:16:42
+ironman-70.3-palmas-20170423.csv,12,Gustavo Slaib,35,rio de janeiro,BRA,00:29:32,02:19:00,---,00:02:18,00:01:47,DNF
+ironman-70.3-palmas-20170423.csv,15,Jenny Fletcher,41,CA,CAN,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,16,Carolina Furriela,26,Intl State,BRA,00:27:50,02:35:43,01:30:57,00:01:58,00:01:47,04:38:15
+ironman-70.3-palmas-20170423.csv,17,Beatriz Neres,30,Sao Paulo,BRA,00:27:48,02:20:17,01:27:54,00:02:01,00:01:40,04:19:40
+ironman-70.3-palmas-20170423.csv,18,Pamella Oliveira,29,Santa Catarina,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,19,Jeanni Seymour,25,CO,ZAF,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,20,Luiza Cravo,23,RJ,BRA,00:31:28,02:26:57,01:27:01,00:02:36,00:01:27,04:29:29
+ironman-70.3-palmas-20170423.csv,21,Sarah Piampiano,36,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,22,Kelsey Withrow,34,CA,USA,00:26:48,02:20:00,01:32:36,00:03:10,00:02:35,04:25:09
+ironman-70.3-palmas-20170423.csv,51,Taina Desiderio,21,Minas Gerais,BRA,00:40:34,03:19:42,03:15:03,00:02:49,00:01:40,07:19:48
+ironman-70.3-palmas-20170423.csv,53,Paula Ponte Moreira,22,Ceará,BRA,00:31:22,02:29:30,01:54:43,00:02:55,00:01:20,04:59:50
+ironman-70.3-palmas-20170423.csv,54,Paula Gama Penteado,22,São Paulo,BRA,00:42:23,03:09:04,02:17:08,00:02:28,00:01:43,06:12:46
+ironman-70.3-palmas-20170423.csv,55,Thais Lopes Henriques,23,Sp,BRA,00:48:44,03:25:51,02:40:59,00:04:13,00:02:01,07:01:48
+ironman-70.3-palmas-20170423.csv,56,Lucas Borges Carneiro,23,Ceará,BRA,00:33:51,02:38:04,01:38:09,00:05:18,00:06:22,05:01:44
+ironman-70.3-palmas-20170423.csv,57,Carlos Augusto Fernandes,24,SC,BRA,00:33:36,02:29:16,01:35:59,00:03:35,00:01:14,04:43:40
+ironman-70.3-palmas-20170423.csv,58,Eufrásio Neto,23,Piauí,BRA,00:34:12,02:28:45,01:55:14,00:02:46,00:02:12,05:03:09
+ironman-70.3-palmas-20170423.csv,59,William Augusto Nadelicci Graca,24,---,BRA,00:33:23,02:24:23,01:34:54,00:02:10,00:02:51,04:37:41
+ironman-70.3-palmas-20170423.csv,60,Aaron Paz Vega,23,---,CHL,00:30:47,02:28:52,01:36:49,00:02:33,00:01:00,04:40:01
+ironman-70.3-palmas-20170423.csv,61,Rafael Pires,---,---,BRA,00:49:14,02:45:47,02:22:37,00:02:42,00:03:27,06:03:47
+ironman-70.3-palmas-20170423.csv,62,Caio Luiz De Moura Saraiva,---,---,BRA,00:41:18,02:47:26,01:38:51,00:03:19,00:02:26,05:13:20
+ironman-70.3-palmas-20170423.csv,63,Joao Vitor Casemiro Fruchi,---,---,BRA,00:52:36,02:45:53,01:52:34,00:06:13,00:03:02,05:40:18
+ironman-70.3-palmas-20170423.csv,64,Fabio Sampaio Garcez Ribeiro,22,sao paulo,BRA,00:40:10,02:31:24,01:46:48,00:03:46,00:01:48,05:03:56
+ironman-70.3-palmas-20170423.csv,65,Bruno E Silva Castelo Branco,---,---,BRA,00:32:39,02:38:00,02:16:56,00:03:45,00:02:27,05:33:47
+ironman-70.3-palmas-20170423.csv,67,Lucas Sousa Rocha,---,---,BRA,00:33:48,02:47:08,01:48:47,00:03:36,00:01:34,05:14:53
+ironman-70.3-palmas-20170423.csv,68,Mauricio Syrra Fernandes,---,---,BRA,00:32:55,02:37:08,01:47:06,00:02:39,00:13:32,05:13:20
+ironman-70.3-palmas-20170423.csv,69,Matheus Felipe Alves Silva,25,São Paulo,BRA,00:36:57,02:38:15,01:50:39,00:04:03,00:01:58,05:11:52
+ironman-70.3-palmas-20170423.csv,70,Diego Dias,26,São Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,71,Caio Inacio,25,rio de janeiro,BRA,00:28:11,02:29:37,02:03:56,00:02:44,00:01:42,05:06:10
+ironman-70.3-palmas-20170423.csv,72,Renan Papareli,25,São Paulo,BRA,00:34:29,02:22:33,01:34:21,00:02:20,00:06:21,04:40:04
+ironman-70.3-palmas-20170423.csv,73,Lucas Rocha,25,Rio de Janeiro,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,74,Leonardo Vieira De Oliveira,26,Rio de Janeiro,BRA,00:59:20,02:55:49,01:54:01,00:03:45,00:01:34,05:54:29
+ironman-70.3-palmas-20170423.csv,75,Romulo Hagi,26,Parana,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,76,Tales Tlaija,27,rio grande do sul,BRA,00:32:11,02:20:22,01:35:17,00:03:34,00:01:33,04:32:57
+ironman-70.3-palmas-20170423.csv,77,Giulio Vanni,27,Sao Paulo,ITA,00:39:01,03:02:23,01:42:54,00:04:14,00:03:20,05:31:52
+ironman-70.3-palmas-20170423.csv,78,Raphael Henriques,28,SP,BRA,00:33:14,02:27:36,01:42:08,00:02:58,00:01:21,04:47:17
+ironman-70.3-palmas-20170423.csv,79,Lucas Toledo,28,São Paulo,BRA,00:35:16,02:24:33,01:35:27,00:02:34,00:00:58,04:38:48
+ironman-70.3-palmas-20170423.csv,80,Marcelo Tonelli Pinheiro,28,minas gerais,BRA,00:34:17,02:42:30,01:53:59,00:04:36,00:02:35,05:17:57
+ironman-70.3-palmas-20170423.csv,81,Mauricio Andre De Assis Marcheto,27,SP,BRA,00:35:51,02:50:45,02:25:45,00:03:34,00:02:12,05:58:07
+ironman-70.3-palmas-20170423.csv,82,Rafael De Souza Campos,27,rio de janeiro,BRA,00:47:48,02:55:15,02:47:35,00:02:51,00:04:09,06:37:38
+ironman-70.3-palmas-20170423.csv,83,Jefferson Rezende Fagundes,27,Goiás,BRA,00:42:40,02:26:49,01:29:41,00:03:17,00:01:54,04:44:21
+ironman-70.3-palmas-20170423.csv,84,George Cerqueira,28,Bahia,BRA,00:44:26,02:19:25,01:53:15,00:03:23,00:02:09,05:02:38
+ironman-70.3-palmas-20170423.csv,85,Ricardo Rosa,28,Intl State,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,86,Daniel Ruman Rodrigues,28,Sao Paulo,BRA,00:25:28,02:17:25,01:32:28,00:02:45,00:01:05,04:19:11
+ironman-70.3-palmas-20170423.csv,87,Rodrigo Bovi,29,Sao Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,88,Daniel Cortes,29,---,CHL,00:37:08,02:43:37,02:13:48,00:03:35,00:02:17,05:40:25
+ironman-70.3-palmas-20170423.csv,89,Roberto Ranieri Sobrinho,29,São Paulo,BRA,00:33:06,02:34:21,02:16:54,00:05:26,00:05:15,05:35:02
+ironman-70.3-palmas-20170423.csv,90,Mauricio Mösken Escudero,29,Sao Paulo,BRA,00:39:29,02:29:04,01:39:42,00:03:09,00:03:05,04:54:29
+ironman-70.3-palmas-20170423.csv,91,Fabio Gemaque,26,PARA,BRA,00:33:31,02:27:21,01:46:54,00:02:38,00:02:50,04:53:14
+ironman-70.3-palmas-20170423.csv,92,Hector Haussen,26,SP,BRA,00:36:43,02:29:16,01:33:04,00:02:32,00:02:10,04:43:45
+ironman-70.3-palmas-20170423.csv,93,Matheus Simoes De Oliveira Leite,28,Minas Gerais,BRA,00:26:49,02:40:30,02:08:55,00:03:32,00:03:54,05:23:40
+ironman-70.3-palmas-20170423.csv,94,Ronaldo Thomasi,26,---,BRA,00:34:45,02:30:50,02:23:09,00:04:02,00:02:53,05:35:39
+ironman-70.3-palmas-20170423.csv,95,Josue Antunes,---,---,BRA,00:43:52,03:10:51,02:33:28,00:03:59,00:03:20,06:35:30
+ironman-70.3-palmas-20170423.csv,96,Daniel Ruman Rodrigues,28,Sao Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,97,Nilo Cottini,27,SP,BRA,00:30:59,02:25:42,01:27:18,00:02:35,00:01:32,04:28:06
+ironman-70.3-palmas-20170423.csv,98,Wellington Maia,---,---,BRA,01:00:40,03:04:58,02:50:14,00:08:28,00:07:52,07:12:12
+ironman-70.3-palmas-20170423.csv,99,Eric Cezar,---,---,BRA,00:39:52,03:06:22,---,00:03:59,---,DNF
+ironman-70.3-palmas-20170423.csv,100,Fabio Jesus De Andrade Filho,---,---,BRA,00:35:05,02:49:59,02:22:47,00:04:28,00:04:00,05:56:19
+ironman-70.3-palmas-20170423.csv,101,Natalia Moraes,25,sao paulo,BRA,00:30:02,02:32:33,---,00:02:29,00:01:09,DNF
+ironman-70.3-palmas-20170423.csv,102,Dominique Vlavianos Guillaumon,26,São Paulo,BRA,00:41:07,03:01:25,02:27:41,00:04:06,00:02:30,06:16:49
+ironman-70.3-palmas-20170423.csv,103,Raquel Nuvolini Wajngarten,28,Santa Catarina,BRA,00:37:16,02:38:20,01:57:31,00:04:03,00:01:45,05:18:55
+ironman-70.3-palmas-20170423.csv,104,Larissa Fabrini,29,MINAS GERAIS,BRA,00:45:11,02:51:52,01:49:27,00:04:24,00:02:10,05:33:04
+ironman-70.3-palmas-20170423.csv,105,Fernanda Bettim,29,SP,BRA,00:33:02,02:44:40,02:24:14,00:03:43,00:02:13,05:47:52
+ironman-70.3-palmas-20170423.csv,106,Laura Marques,29,São paulo,BRA,00:42:07,02:49:59,02:15:34,00:03:39,00:01:54,05:53:13
+ironman-70.3-palmas-20170423.csv,107,Aline Reis Cobo,28,Sao paulo,BRA,00:40:38,03:02:32,02:10:30,00:03:16,00:01:39,05:58:35
+ironman-70.3-palmas-20170423.csv,108,Rodrigo Akira Sakugawa,30,São Paulo,BRA,00:31:33,02:43:58,01:40:26,00:02:41,00:01:21,04:59:59
+ironman-70.3-palmas-20170423.csv,109,Antônio Almeida Neto,30,Sergipe,BRA,00:37:09,03:00:52,02:32:46,00:02:34,00:02:32,06:15:53
+ironman-70.3-palmas-20170423.csv,110,Hugo Amaral,30,Minas Gerais,BRA,00:25:50,02:19:24,01:33:55,00:02:51,00:00:59,04:22:59
+ironman-70.3-palmas-20170423.csv,111,Bruno Da Rocha Berger,29,Rio Grande do Sul,BRA,00:30:07,02:18:28,01:27:31,00:02:03,00:01:27,04:19:36
+ironman-70.3-palmas-20170423.csv,112,Caio Marinho Gil Mendes Malta,30,Minas Gerais,BRA,00:31:57,02:12:44,---,00:03:25,00:04:32,DNF
+ironman-70.3-palmas-20170423.csv,113,Hermes Schneider,30,Paraná,BRA,00:39:46,02:32:17,01:34:55,00:02:44,00:01:42,04:51:24
+ironman-70.3-palmas-20170423.csv,114,Cleber Jose Dias Vidal Junior,29,Ceara,BRA,00:47:11,03:13:07,02:42:48,00:07:59,00:05:50,06:56:55
+ironman-70.3-palmas-20170423.csv,115,Victor Mussel,29,MINAS GERAIS,BRA,00:41:38,02:57:30,02:01:49,00:03:19,00:03:34,05:47:50
+ironman-70.3-palmas-20170423.csv,116,Genesio Ferreira,31,Rio de Janeiro,BRA,00:31:35,02:26:58,01:31:29,00:02:33,00:02:03,04:34:38
+ironman-70.3-palmas-20170423.csv,117,Fabio Bronze Moreira,31,Intl State,BRA,00:32:40,02:34:07,01:34:55,00:03:14,00:02:01,04:46:57
+ironman-70.3-palmas-20170423.csv,118,Renne Campos,31,Rio de Janeiro,BRA,00:40:54,02:54:13,02:35:48,00:07:14,00:03:31,06:21:40
+ironman-70.3-palmas-20170423.csv,119,Marcelo Moreira,31,NY,BRA,00:25:45,02:14:44,01:27:34,00:02:43,00:01:24,04:12:10
+ironman-70.3-palmas-20170423.csv,120,Marcel Morosini,30,Paraná,BRA,00:32:41,02:18:48,01:30:00,00:02:49,00:01:38,04:25:56
+ironman-70.3-palmas-20170423.csv,121,Izaias Junior,31,Rio de Janeiro,BRA,00:51:58,02:56:57,02:51:23,00:04:27,00:03:41,06:48:26
+ironman-70.3-palmas-20170423.csv,122,Guilherme Guido,31,Rio de Janeiro,BRA,00:31:15,02:21:50,01:30:28,00:02:38,00:02:26,04:28:37
+ironman-70.3-palmas-20170423.csv,123,Erico Sinti,31,Sao Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,124,Carlos Bertoni,32,Mt,BRA,00:38:14,02:26:32,01:38:43,00:03:44,00:01:30,04:48:43
+ironman-70.3-palmas-20170423.csv,125,Bruno Collato,32,Intl State,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,126,Jonas Correia,32,RJ,BRA,00:48:47,02:42:24,02:24:49,00:02:58,00:03:22,06:02:20
+ironman-70.3-palmas-20170423.csv,127,Silvio Delgado,31,São Paulo,BRA,00:30:23,02:30:04,01:32:29,00:02:52,00:01:37,04:37:25
+ironman-70.3-palmas-20170423.csv,128,Vander Praxedes,31,tocantins,BRA,00:31:59,02:16:33,01:34:23,00:01:55,00:01:01,04:25:51
+ironman-70.3-palmas-20170423.csv,129,Pedro Reis,32,GO,BRA,00:31:29,02:28:30,01:41:37,00:02:33,00:01:31,04:45:40
+ironman-70.3-palmas-20170423.csv,130,Euler Teixeira Campos Junior,31,Minas Gerais,BRA,00:29:48,02:30:13,02:17:17,00:04:12,00:02:19,05:23:49
+ironman-70.3-palmas-20170423.csv,131,Vinicius Domingues,31,sao paulo,BRA,00:36:44,02:25:13,01:47:14,00:03:06,00:01:31,04:53:48
+ironman-70.3-palmas-20170423.csv,132,Caio Focaccia,31,São Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,133,André Gewehr,31,GOIAS,BRA,00:41:29,02:41:35,01:50:59,00:02:29,00:01:59,05:18:31
+ironman-70.3-palmas-20170423.csv,134,Diego Ramirez Garmendia,31,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,135,Guilherme Santos,31,Minas Gerais,BRA,00:40:34,02:58:58,02:13:56,00:03:51,00:03:53,06:01:12
+ironman-70.3-palmas-20170423.csv,136,Christian Taguchi,31,Rio de janeiro,BRA,00:43:33,02:30:40,01:48:32,00:03:50,00:03:26,05:10:01
+ironman-70.3-palmas-20170423.csv,137,Fellipe Barbosa,32,São Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,138,Thiago Barreto,32,SP,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,139,Daniel Cunha,33,Rio grande do sul,BRA,00:39:10,02:23:20,01:28:11,00:02:53,00:01:25,04:34:59
+ironman-70.3-palmas-20170423.csv,140,Vitor Dias Souza Girao,32,Ceará,BRA,00:34:48,02:32:44,---,00:03:29,00:01:16,DNF
+ironman-70.3-palmas-20170423.csv,141,Marcelo Germani,32,São Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,142,Bruno Goncalves,33,sao paulo,BRA,00:31:51,02:19:31,01:35:32,00:02:21,00:01:11,04:30:26
+ironman-70.3-palmas-20170423.csv,143,Joao Leal,33,Intl State,BRA,00:36:05,02:24:20,01:41:59,00:04:02,00:02:08,04:48:34
+ironman-70.3-palmas-20170423.csv,144,Luis Midon,32,São Paulo,BRA,00:34:10,02:38:25,01:33:05,00:04:12,00:01:54,04:51:46
+ironman-70.3-palmas-20170423.csv,145,Thiago Mohana,32,Intl State,BRA,00:28:54,02:22:45,01:29:31,00:02:52,00:02:05,04:26:07
+ironman-70.3-palmas-20170423.csv,146,Rodolfo Montagner,22,Sp,BRA,00:38:34,02:36:43,02:05:37,00:04:23,00:02:55,05:28:12
+ironman-70.3-palmas-20170423.csv,147,Pablo Sales,33,Minas Gerais,BRA,00:39:00,02:39:17,02:03:18,00:03:34,00:02:15,05:27:24
+ironman-70.3-palmas-20170423.csv,148,Samuel Burlamaqui,32,PA,BRA,00:38:40,02:34:18,02:07:27,00:03:47,00:02:13,05:26:25
+ironman-70.3-palmas-20170423.csv,149,Rafael Ferreira,32,SP,BRA,00:36:36,02:52:15,01:43:55,00:05:01,00:02:00,05:19:47
+ironman-70.3-palmas-20170423.csv,150,Raphael Maia E Silva,33,PARANA,BRA,00:44:23,02:45:53,02:06:29,00:04:43,00:04:06,05:45:34
+ironman-70.3-palmas-20170423.csv,151,Bruno Santo,32,Goias,BRA,00:36:32,02:46:32,02:05:11,00:04:12,00:04:13,05:36:40
+ironman-70.3-palmas-20170423.csv,152,Vinicius Silvestrin,33,Rio Grande do sul,BRA,00:28:19,02:19:31,01:31:16,00:02:34,00:02:02,04:23:42
+ironman-70.3-palmas-20170423.csv,153,Alonso De Melo Feitosa Filho,33,Ceará,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,154,Oswaldo Fernandes,33,São Paulo,BRA,00:41:17,02:32:24,02:09:00,00:02:50,00:04:04,05:29:35
+ironman-70.3-palmas-20170423.csv,155,Rodrigo Junger,33,Rio de Janeiro,BRA,00:41:43,02:35:30,02:00:56,00:02:54,00:07:21,05:28:24
+ironman-70.3-palmas-20170423.csv,156,Peter Lulai,33,São Paulo,BRA,00:38:56,02:33:07,01:56:54,00:03:36,00:02:56,05:15:29
+ironman-70.3-palmas-20170423.csv,157,Mauro Maluf,33,SP,BRA,00:41:49,02:36:09,01:54:58,00:03:42,00:03:54,05:20:32
+ironman-70.3-palmas-20170423.csv,158,Thiago Mapurunga Benevides,34,ceara,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,159,Thiago Nascimento,34,paraná,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,160,Gustavo Ribas,33,Paraná,BRA,00:32:24,02:42:52,02:59:41,00:03:46,00:03:37,06:22:20
+ironman-70.3-palmas-20170423.csv,161,Marcio Verissimo,34,CE,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,162,Bruno Dias De Souza,33,Tocantins,BRA,00:38:27,02:29:13,01:46:40,00:03:14,00:03:47,05:01:21
+ironman-70.3-palmas-20170423.csv,163,Jose Alexandre Lemos,33,Parana,BRA,00:39:03,02:40:16,02:19:56,00:03:01,00:02:20,05:44:36
+ironman-70.3-palmas-20170423.csv,164,Rodrigo Lobo,34,São Paulo,BRA,00:25:51,02:19:23,01:23:58,00:02:17,00:01:20,04:12:49
+ironman-70.3-palmas-20170423.csv,165,Patrik Mocelin,33,Tocantins,BRA,00:45:34,02:55:56,02:58:20,00:07:12,00:03:38,06:50:40
+ironman-70.3-palmas-20170423.csv,166,Miguel Sanches Neto,34,São paulo,BRA,00:30:34,02:25:26,01:30:21,00:02:12,00:01:20,04:29:53
+ironman-70.3-palmas-20170423.csv,167,Jefferson Silva,33,WA,BRA,01:08:22,03:01:13,02:13:58,00:03:45,00:02:51,06:30:09
+ironman-70.3-palmas-20170423.csv,168,Bruno Antonio Noma Bordim,30,SP,BRA,00:42:00,02:55:39,02:42:18,00:04:51,00:04:43,06:29:31
+ironman-70.3-palmas-20170423.csv,169,Vicente Ourique De Carvalho,31,sao paulo,BRA,00:47:49,02:57:49,02:38:59,00:05:20,00:03:56,06:33:53
+ironman-70.3-palmas-20170423.csv,170,Paulo Vinicius Carvalho,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,171,Rafael Marques Silva,33,SP,BRA,00:40:36,02:34:30,01:32:21,00:03:17,00:03:07,04:53:51
+ironman-70.3-palmas-20170423.csv,172,Davi Viana,34,Ceara,BRA,00:51:11,02:44:51,02:14:19,00:06:56,00:03:28,06:00:45
+ironman-70.3-palmas-20170423.csv,173,Richard Borborema,33,SP,BRA,00:33:38,02:42:49,---,00:03:49,---,DNF
+ironman-70.3-palmas-20170423.csv,174,Marcos Calcic,32,SP,BRA,00:35:26,02:33:18,01:37:21,00:04:06,00:02:11,04:52:22
+ironman-70.3-palmas-20170423.csv,175,Miguel Marinho De Alvarenga,---,---,BRA,00:46:30,02:29:17,02:05:34,00:03:29,00:02:38,05:27:28
+ironman-70.3-palmas-20170423.csv,176,Henrique Franco,30,São Paulo,BRA,00:36:38,03:04:48,02:43:56,00:07:34,00:05:24,06:38:20
+ironman-70.3-palmas-20170423.csv,177,Andre Henrique De Toledo Leme Pallaoro,30,---,BRA,00:39:06,02:40:26,02:20:06,00:02:59,00:02:10,05:44:47
+ironman-70.3-palmas-20170423.csv,178,Jair Henrique Mello,---,---,BRA,00:46:33,03:01:21,02:11:15,00:06:12,00:05:32,06:10:53
+ironman-70.3-palmas-20170423.csv,179,Fernando Flumian,33,---,BRA,00:43:19,02:35:34,01:50:21,00:03:16,00:05:02,05:17:32
+ironman-70.3-palmas-20170423.csv,180,Felipe Maciel Schiavo,---,---,BRA,00:40:19,02:43:52,02:00:29,00:04:00,00:02:35,05:31:15
+ironman-70.3-palmas-20170423.csv,181,Victor Brasil,---,---,BRA,00:43:00,02:52:12,02:12:59,00:05:57,00:04:03,05:58:11
+ironman-70.3-palmas-20170423.csv,182,Rodrigo Emidio,---,---,BRA,00:50:55,02:40:13,02:34:42,00:04:36,00:02:58,06:13:24
+ironman-70.3-palmas-20170423.csv,183,Gustavo Canamary,32,ce,BRA,00:45:33,02:58:23,02:29:51,00:03:05,00:03:02,06:19:54
+ironman-70.3-palmas-20170423.csv,184,Nairton Jorge Neto,33,Ceará,BRA,00:36:35,02:43:27,02:06:00,00:05:36,00:05:21,05:36:59
+ironman-70.3-palmas-20170423.csv,185,Bruno Lessa,33,CEARA,BRA,00:36:50,02:46:55,02:06:21,00:05:12,00:04:22,05:39:40
+ironman-70.3-palmas-20170423.csv,186,Antonio Fernandes,---,---,BRA,00:44:49,02:40:03,02:02:14,00:02:47,00:03:00,05:32:53
+ironman-70.3-palmas-20170423.csv,187,Alvaro Cunha Neto,32,TOCANTINS,BRA,00:42:08,02:46:21,02:37:54,00:05:14,00:03:33,06:15:10
+ironman-70.3-palmas-20170423.csv,188,Rafael Araujo,---,---,BRA,00:51:44,02:50:50,02:08:07,00:04:02,00:05:38,06:00:21
+ironman-70.3-palmas-20170423.csv,189,Diego Nunes,---,---,BRA,00:41:28,02:39:32,02:21:49,00:03:56,00:02:38,05:49:23
+ironman-70.3-palmas-20170423.csv,190,Jose William Cirqueira Da Silva,---,---,BRA,00:29:54,02:41:33,01:54:10,00:02:05,00:01:58,05:09:40
+ironman-70.3-palmas-20170423.csv,191,Neyber Junior,---,---,BRA,00:38:40,03:00:06,02:13:41,00:05:51,00:03:17,06:01:35
+ironman-70.3-palmas-20170423.csv,192,Victor Gouveia,---,---,BRA,00:44:09,02:30:19,01:41:50,00:03:20,00:01:53,05:01:31
+ironman-70.3-palmas-20170423.csv,193,Gabriel Coutinho Mendonca Nagata,---,---,BRA,00:54:54,02:58:54,02:58:26,00:04:46,00:04:05,07:01:05
+ironman-70.3-palmas-20170423.csv,194,Bruno Nahas Couri,33,São Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,195,Alonso De Melo Feitosa Filho,33,Ceará,BRA,00:33:22,02:26:19,01:31:28,00:02:33,00:02:05,04:35:47
+ironman-70.3-palmas-20170423.csv,196,Rafael Ribeiro Vinhal,31,São Paulo,BRA,00:30:27,02:29:32,01:40:12,00:02:32,00:02:11,04:44:54
+ironman-70.3-palmas-20170423.csv,197,Thiago Bandeira,---,---,BRA,00:35:39,03:07:39,02:23:40,00:05:31,00:02:53,06:15:22
+ironman-70.3-palmas-20170423.csv,198,Luan Neri,---,---,BRA,00:35:44,02:53:04,02:14:33,00:03:07,00:02:37,05:49:05
+ironman-70.3-palmas-20170423.csv,199,Douglas Fossatti,---,---,BRA,00:45:53,03:00:46,02:04:34,00:05:38,00:05:06,06:01:57
+ironman-70.3-palmas-20170423.csv,200,Vinicius Rodrigues De Melo,29,Goiás,BRA,00:37:46,03:01:38,02:12:07,00:03:01,00:02:35,05:57:07
+ironman-70.3-palmas-20170423.csv,201,Miguel Morone,34,rio de janeiro,BRA,00:31:59,02:23:57,01:27:14,00:02:20,00:01:18,04:26:48
+ironman-70.3-palmas-20170423.csv,202,Walter Paschoalotti Netto,35,SP,BRA,00:40:11,02:33:32,01:34:54,00:03:59,00:02:25,04:55:01
+ironman-70.3-palmas-20170423.csv,203,Raphael Azevedo,30,---,BRA,00:38:07,03:10:36,02:39:55,00:04:18,00:03:49,06:36:45
+ironman-70.3-palmas-20170423.csv,204,Gustavo Ferreira Nogueira,31,Maranhão,BRA,00:43:10,03:02:29,02:39:18,00:04:05,00:03:18,06:32:20
+ironman-70.3-palmas-20170423.csv,205,Nayara Kako,29,SP,BRA,00:42:50,02:51:28,02:05:38,00:03:40,00:01:44,05:45:20
+ironman-70.3-palmas-20170423.csv,207,Amanda Spadari,30,rs,BRA,00:36:59,02:45:24,01:46:48,00:03:41,00:03:15,05:16:07
+ironman-70.3-palmas-20170423.csv,208,Ticiane Silva Amancio,33,Bahia,BRA,00:35:13,02:38:54,01:51:40,00:03:55,00:02:30,05:12:12
+ironman-70.3-palmas-20170423.csv,209,Cintia Barbosa Reis Guimaraes,33,Minas Gerais,BRA,00:34:34,02:42:14,01:55:19,00:03:19,00:01:55,05:17:21
+ironman-70.3-palmas-20170423.csv,210,Carolina Carvalho Brasil,33,CE / Brazil,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,211,Mariana Brügger,32,Minas Gerais,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,212,Barbara Duarte De Oliveira,33,MINAS GERAIS,BRA,00:35:21,02:40:41,01:41:38,00:02:40,00:01:26,05:01:46
+ironman-70.3-palmas-20170423.csv,213,Marcella Mahfuz Toldi,32,SP,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,214,Marina Nascimento,32,São Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,215,Kelly Caldeira Cavalcante,32,Tocantins,BRA,00:43:57,02:41:10,02:06:27,00:02:57,00:02:42,05:37:13
+ironman-70.3-palmas-20170423.csv,216,Carolina Moreira,33,Rio de janeiro,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,217,ANA PAULA NUNES,33,Tocantins,BRA,00:46:17,03:06:49,02:06:37,00:05:57,00:03:06,06:08:46
+ironman-70.3-palmas-20170423.csv,218,Manoela Elias Cristalino Amaral,34,Bahia,BRA,00:32:27,02:42:34,01:46:40,00:03:28,00:01:36,05:06:45
+ironman-70.3-palmas-20170423.csv,219,Mariana Ernani Moura Marques,33,SAO PAULO,BRA,00:33:57,02:51:17,01:56:46,00:03:26,00:01:40,05:27:06
+ironman-70.3-palmas-20170423.csv,220,Germana Moraes,31,Piaui,BRA,00:42:15,03:05:33,02:17:58,00:03:43,00:02:33,06:12:02
+ironman-70.3-palmas-20170423.csv,221,Samia Almeida,---,---,BRA,00:35:04,02:52:38,02:07:16,00:04:37,00:02:48,05:42:23
+ironman-70.3-palmas-20170423.csv,222,Maira Sandri Coutinho Torizani,32,Santa Catarina,BRA,00:33:53,03:00:36,02:04:18,00:05:30,00:02:10,05:46:27
+ironman-70.3-palmas-20170423.csv,223,Georgia Wain Thi Lau,---,---,BRA,00:37:45,03:49:09,02:49:30,00:05:31,00:03:28,07:25:23
+ironman-70.3-palmas-20170423.csv,224,Paula Cardoso,---,---,BRA,00:38:23,02:39:33,01:45:57,00:04:25,00:02:27,05:10:45
+ironman-70.3-palmas-20170423.csv,225,Priscilla Buen Saiani,33,---,BRA,00:50:48,02:39:46,02:03:28,00:02:57,00:02:10,05:39:09
+ironman-70.3-palmas-20170423.csv,227,Ana Clara Ribeiro Peixoto Ferreira Reche,---,---,BRA,00:43:18,02:54:09,02:07:14,00:04:17,00:01:47,05:50:45
+ironman-70.3-palmas-20170423.csv,228,Natália Junqueira Dos Santos,31,MG,BRA,00:34:05,02:57:20,01:55:21,00:03:37,00:01:33,05:31:56
+ironman-70.3-palmas-20170423.csv,229,Ana Clara Vale Darwich Apgaua,---,---,BRA,00:34:18,02:45:38,02:02:47,00:04:15,00:02:02,05:29:00
+ironman-70.3-palmas-20170423.csv,230,Nathasha Miranda Guimaraes,30,Goiás,BRA,00:44:41,02:40:43,01:52:04,00:04:27,00:02:23,05:24:18
+ironman-70.3-palmas-20170423.csv,231,Everton Adriano,34,Santa Catarina,BRA,00:36:00,02:33:31,01:51:32,00:03:19,00:02:11,05:06:33
+ironman-70.3-palmas-20170423.csv,232,Henrique Gondim Rocha Alves,34,ceara,BRA,00:36:27,02:37:20,02:25:42,00:05:00,00:04:38,05:49:07
+ironman-70.3-palmas-20170423.csv,233,Rafael Souza,34,Intl State,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,234,Leonardo Bras,34,São Paulo,BRA,00:30:09,02:26:55,01:36:44,00:02:44,00:01:39,04:38:11
+ironman-70.3-palmas-20170423.csv,235,Emmerson Cardoso,34,Intl State,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,236,Rodrigo Lacerda Alves,35,Sergipe,BRA,00:31:24,02:30:32,01:36:54,00:02:34,00:01:43,04:43:07
+ironman-70.3-palmas-20170423.csv,237,Andrew Lyle,34,WA,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,238,Diogo Ratacheski,34,Paraná,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,239,Rodrigo Semprebom,35,MINAS GERAIS,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,240,Alexandre Takenaka,34,Sao Paulo,BRA,00:26:17,02:17:19,01:38:52,00:02:18,00:01:46,04:26:32
+ironman-70.3-palmas-20170423.csv,241,Renato Albuquerque De Oliveira Cavalcanti,34,São Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,242,Fernando Antonio De Souza Toledo Silva,34,TOCANTINS,BRA,00:32:42,02:46:35,02:04:52,00:03:40,00:03:20,05:31:09
+ironman-70.3-palmas-20170423.csv,243,Bruno Bahri,34,Rio de Janeiro,BRA,00:32:49,02:27:17,01:47:08,00:04:29,00:02:10,04:53:53
+ironman-70.3-palmas-20170423.csv,244,Eric Luiz Brito De Oliveira,34,TOCANTINS,BRA,00:49:44,02:52:01,02:48:37,00:04:46,00:02:35,06:37:43
+ironman-70.3-palmas-20170423.csv,245,Samuel Silva,35,Sao Paulo,BRA,00:33:32,02:26:34,01:21:24,00:02:43,00:01:18,04:25:31
+ironman-70.3-palmas-20170423.csv,246,Renato Lucas,34,SP,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,247,David Moraes,34,SAO PAULO,BRA,00:42:39,03:11:03,03:07:06,00:03:46,00:03:54,07:08:28
+ironman-70.3-palmas-20170423.csv,248,Thiago Sardinha,35,sao paulo,BRA,00:38:17,02:36:06,01:46:59,00:03:50,00:02:21,05:07:33
+ironman-70.3-palmas-20170423.csv,249,Thiago Soares,34,RIO DE JANEIRO,BRA,00:41:09,02:40:18,02:10:43,00:05:19,00:02:47,05:40:16
+ironman-70.3-palmas-20170423.csv,250,Bernardo Tillmann,35,Intl State,BRA,00:30:23,02:25:55,01:48:08,00:03:12,00:01:57,04:49:35
+ironman-70.3-palmas-20170423.csv,251,Andre Luis Almeida Do Carmo,35,Minas Gerais,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,252,Bernardo Beraldi,35,RJ,BRA,00:30:18,02:27:49,01:42:13,00:02:17,00:02:04,04:44:41
+ironman-70.3-palmas-20170423.csv,253,Daniel Biazoto,36,SP,BRA,00:27:22,02:19:58,01:32:23,00:02:57,00:01:27,04:24:07
+ironman-70.3-palmas-20170423.csv,254,Alex Bronholo,35,Intl State,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,255,Marcelino De Miranda,35,Intl State,BRA,00:29:41,02:21:02,01:26:37,00:02:18,00:01:35,04:21:13
+ironman-70.3-palmas-20170423.csv,256,Daniel Dos Santos Peel,36,Sao Paulo,BRA,00:36:36,02:41:51,02:02:39,00:05:04,00:03:13,05:29:23
+ironman-70.3-palmas-20170423.csv,257,Frederico Moura Marques,35,Sao Paulo,BRA,00:28:33,02:20:35,01:44:49,00:02:49,00:01:32,04:38:18
+ironman-70.3-palmas-20170423.csv,258,Rafael Falsarella,35,Intl State,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,259,Luiz Flavio Inacio Da Silva Da Silva,35,Paraná,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,260,Gustavo Henrique Gomes Sbruzzi,35,São Paulo ,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,261,Marcelo Kaneshiro,35,SP,BRA,00:40:32,02:29:21,01:55:50,00:04:04,00:01:45,05:11:32
+ironman-70.3-palmas-20170423.csv,262,Gelson Luiz Pierre Junior,36,Rio de Janeiro,BRA,00:36:44,02:31:16,01:55:18,00:03:12,00:01:30,05:08:00
+ironman-70.3-palmas-20170423.csv,263,Diego Macie Menezes Silva,35,DF ,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,264,Francisco Marcelo Brandao Júnior,36,ceara,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,265,Joao Marcello Novaes Do Nascimento  Baptista,35,Rio de Janeiro,BRA,00:29:23,02:28:00,01:36:26,00:02:46,00:01:45,04:38:20
+ironman-70.3-palmas-20170423.csv,266,Italo Esselin Filho,35,GOIAS,BRA,00:28:24,02:16:34,01:34:52,00:02:29,00:02:14,04:24:33
+ironman-70.3-palmas-20170423.csv,267,Joao Victor De Oliveira Terceiro,35,ceara ,BRA,00:33:46,02:21:43,01:55:26,00:02:56,00:01:19,04:55:10
+ironman-70.3-palmas-20170423.csv,268,Daniel De Oliveira Neto Barbosa,36,Minas Gerais,BRA,00:37:20,02:30:11,01:33:24,00:05:25,00:02:49,04:49:09
+ironman-70.3-palmas-20170423.csv,269,Thiago Lima Borges,36,São Paulo,BRA,00:33:46,02:32:25,01:42:07,00:02:54,00:01:13,04:52:25
+ironman-70.3-palmas-20170423.csv,270,Kleyton Moreira,36,Tocantins,BRA,00:51:36,02:35:45,02:04:08,00:03:20,00:02:52,05:37:41
+ironman-70.3-palmas-20170423.csv,271,Alex Paulo Servio De Sousa,35,Piauí,BRA,00:38:03,02:35:57,---,00:05:14,00:05:37,DNF
+ironman-70.3-palmas-20170423.csv,272,Renato Silva,35,minas gerais ,BRA,00:36:04,02:40:18,02:06:52,00:02:50,00:02:14,05:28:18
+ironman-70.3-palmas-20170423.csv,273,Felipe Steiner,35,Santa Catarina,BRA,00:40:03,02:32:14,01:39:55,00:05:01,00:02:24,04:59:37
+ironman-70.3-palmas-20170423.csv,274,Mauricio Uyeda,35,Intl State,BRA,00:40:43,02:53:00,01:58:54,00:05:46,00:05:06,05:43:29
+ironman-70.3-palmas-20170423.csv,275,Marcelo Barros,36,MS,BRA,00:40:04,02:48:28,01:54:17,00:03:06,00:02:26,05:28:21
+ironman-70.3-palmas-20170423.csv,276,Rodrigo Conde,37,DF,BRA,00:47:36,02:37:48,01:58:59,00:04:52,00:03:01,05:32:16
+ironman-70.3-palmas-20170423.csv,277,Igor Costa Santos,37,Bahia,BRA,00:29:18,02:24:14,01:31:08,00:02:45,00:01:10,04:28:35
+ironman-70.3-palmas-20170423.csv,278,Rafael Pinho,37,ceara,BRA,00:33:02,02:20:25,01:46:05,00:02:38,00:01:49,04:43:59
+ironman-70.3-palmas-20170423.csv,279,Christian Saldanha,36,Rio grande do Sul,BRA,00:35:47,02:41:32,02:08:45,00:03:37,00:02:40,05:32:21
+ironman-70.3-palmas-20170423.csv,280,Rodrigo Souza,36,SP,BRA,00:38:52,02:34:32,02:23:29,00:06:10,00:04:16,05:47:19
+ironman-70.3-palmas-20170423.csv,281,Cairo Andre Ferreira,36,SP,BRA,00:48:52,02:48:11,02:01:05,00:04:40,00:02:39,05:45:27
+ironman-70.3-palmas-20170423.csv,282,Igor Ferreira Dos Anjos,36,Rio de Janeiro,BRA,00:38:26,02:35:08,01:53:59,00:03:04,00:01:56,05:12:33
+ironman-70.3-palmas-20170423.csv,283,Rafael De Oliveira Machado,36,Tocantins,BRA,00:33:16,02:47:49,01:50:20,00:02:47,00:09:29,05:23:41
+ironman-70.3-palmas-20170423.csv,284,Duilio De Sousa Matola,36,Tocantins,BRA,00:40:10,02:36:22,02:03:11,00:03:00,00:02:31,05:25:14
+ironman-70.3-palmas-20170423.csv,285,Jose Domingos,37,SP,BRA,00:28:47,02:59:07,02:57:34,00:02:43,00:03:06,06:31:17
+ironman-70.3-palmas-20170423.csv,286,Cristobal Ibarra Palomino,36,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,287,Andrigo Jose Beber,36,Santa Catarina,BRA,00:43:42,02:51:15,02:17:30,00:06:00,00:04:28,06:02:55
+ironman-70.3-palmas-20170423.csv,288,Marcos Porto Reno,37,SP,BRA,00:33:30,02:23:43,01:46:46,00:03:19,00:02:00,04:49:18
+ironman-70.3-palmas-20170423.csv,289,Anderson Saboya,36,Other,BRA,00:40:11,02:27:38,01:55:42,00:03:21,00:02:48,05:09:40
+ironman-70.3-palmas-20170423.csv,290,Andre Luiz Segolin De Almeida,37,SP,BRA,00:40:30,02:26:38,01:51:53,00:02:59,00:02:25,05:04:25
+ironman-70.3-palmas-20170423.csv,291,Marco Sousa,36,SP,BRA,00:44:25,02:40:56,02:15:16,00:05:42,00:02:42,05:49:01
+ironman-70.3-palmas-20170423.csv,292,Patrick Simon Vermont,37,São Paulo,BRA,00:31:25,02:23:47,01:32:33,00:02:27,00:01:39,04:31:51
+ironman-70.3-palmas-20170423.csv,293,Helio Bonora,37,RJ,BRA,00:36:41,02:33:13,02:02:20,00:04:29,00:03:05,05:19:48
+ironman-70.3-palmas-20170423.csv,294,Jone Santos Costa,37,Tocantins,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,295,Rodrigo Da Costa Silva,37,distrito federal,BRA,00:39:10,02:22:23,01:46:54,00:03:51,00:01:55,04:54:13
+ironman-70.3-palmas-20170423.csv,296,Rodrigo Cantal,37,Ceará,BRA,00:35:03,02:29:29,01:32:12,00:03:43,00:03:00,04:43:27
+ironman-70.3-palmas-20170423.csv,297,Guilherme Marum,38,São paulo,BRA,00:30:07,02:27:00,01:58:34,00:02:19,00:01:35,04:59:35
+ironman-70.3-palmas-20170423.csv,298,Frederico Monteiro Da Silva,37,paraná,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,299,Lazaro Neto,37,minas gerais,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,300,Hakanay Queiroz,37,Goias,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,301,Fernando Sampaio,37,---,BRA,00:39:27,02:30:39,02:20:05,00:02:28,00:02:55,05:35:34
+ironman-70.3-palmas-20170423.csv,302,Fernando Seixas,38,SAO PAULO,BRA,00:39:36,02:36:02,01:51:09,00:05:06,00:02:37,05:14:30
+ironman-70.3-palmas-20170423.csv,303,Arthur Marcondes Ferraz Silva,37,sp,BRA,00:27:23,02:14:06,01:39:28,00:02:08,00:01:11,04:24:16
+ironman-70.3-palmas-20170423.csv,304,Danilo Sverzut,38,Sao Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,305,Mateus Vidigal,37,SAO PAULO,BRA,00:27:50,02:27:49,01:45:16,00:03:54,00:01:46,04:46:35
+ironman-70.3-palmas-20170423.csv,306,Rafael Augusto Fernandes Biral,37,SAO PAULO,BRA,00:37:55,02:58:07,02:11:21,00:04:17,00:05:15,05:56:55
+ironman-70.3-palmas-20170423.csv,307,Max Do Vale Costa,38,Maranhão,BRA,00:32:40,02:33:49,01:51:02,00:03:36,00:08:09,05:09:16
+ironman-70.3-palmas-20170423.csv,308,Wagner Camargo Gouveia,38,São paulo,BRA,00:30:59,02:34:11,01:57:49,00:02:41,00:01:23,05:07:03
+ironman-70.3-palmas-20170423.csv,309,Alexandre Mangabeira,37,SP,BRA,00:34:12,02:34:45,02:11:46,00:03:19,00:02:31,05:26:33
+ironman-70.3-palmas-20170423.csv,311,Rodnei Noveli,38,sp,BRA,00:36:25,02:26:16,01:40:16,00:05:19,00:04:13,04:52:29
+ironman-70.3-palmas-20170423.csv,312,Enrico Prado Leite,37,São Paulo,BRA,00:33:05,02:48:59,02:18:47,00:03:28,00:01:55,05:46:14
+ironman-70.3-palmas-20170423.csv,313,Luciano Abreu,38,Tocantins,BRA,00:29:54,02:17:33,01:38:13,00:02:03,00:01:56,04:29:39
+ironman-70.3-palmas-20170423.csv,314,Jean Angelo,38,DF,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,315,Anderson Augusto Carlos De Souza,38,RJ,BRA,00:40:56,02:44:42,---,00:04:07,00:04:03,DNF
+ironman-70.3-palmas-20170423.csv,316,DIOGO CASTILHO,38,Ri,BRA,00:32:39,02:37:00,02:08:41,00:03:21,00:03:17,05:24:58
+ironman-70.3-palmas-20170423.csv,317,Alexsandro Reis Leite,39,Aracaju /se,BRA,00:36:28,02:34:34,01:56:20,00:04:15,00:02:18,05:13:55
+ironman-70.3-palmas-20170423.csv,318,Jose Ricardo Ruela Rodrigues,39,São Paulo,BRA,00:36:16,02:32:26,01:35:27,00:03:11,00:02:11,04:49:31
+ironman-70.3-palmas-20170423.csv,319,Andrei Santos,38,Distrito Federal,BRA,00:37:29,02:38:32,02:20:59,00:04:55,00:04:57,05:46:52
+ironman-70.3-palmas-20170423.csv,320,Paulo Barreto,39,SP,BRA,00:37:51,02:38:12,01:47:29,00:05:52,00:02:26,05:11:50
+ironman-70.3-palmas-20170423.csv,321,Luis Antonio Bauer,38,Paraná,BRA,00:39:04,02:58:47,03:02:27,00:05:36,00:03:46,06:49:40
+ironman-70.3-palmas-20170423.csv,322,Iduarte Ferreira Lopes Júnior,39,Paraná,BRA,00:44:00,02:43:11,02:40:49,00:06:47,00:04:20,06:19:07
+ironman-70.3-palmas-20170423.csv,323,Daniel Kako,39,sao paulo,BRA,00:33:26,02:31:31,01:40:41,00:02:55,00:01:50,04:50:23
+ironman-70.3-palmas-20170423.csv,324,Fabio Rego,39,Piaui,BRA,00:39:21,02:33:36,02:30:00,00:03:50,00:03:44,05:50:31
+ironman-70.3-palmas-20170423.csv,325,Rodrigo Peccini,38,Sao Paulo,BRA,00:40:35,02:38:25,01:59:13,00:04:00,00:04:11,05:26:24
+ironman-70.3-palmas-20170423.csv,326,Frederico Rezende,38,São Paulo,BRA,00:38:46,02:42:12,01:52:58,00:05:11,00:02:46,05:21:53
+ironman-70.3-palmas-20170423.csv,327,Bianco Rodrigo Dias,38,sao paulo,BRA,00:42:04,02:36:48,01:46:41,00:03:00,00:03:14,05:11:47
+ironman-70.3-palmas-20170423.csv,328,Evandro Macente Sasano,38,São paulo,BRA,00:40:59,02:45:08,01:54:33,00:03:42,00:02:44,05:27:06
+ironman-70.3-palmas-20170423.csv,329,Tiago Voso,38,SP,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,331,Sergio Roberto Ferreira Junior,35,MG,BRA,00:43:02,02:38:35,01:45:41,00:03:30,00:02:45,05:13:33
+ironman-70.3-palmas-20170423.csv,332,Rodrigo Hecke Guimaraes,37,---,BRA,00:37:23,02:17:08,---,00:05:34,---,DNF
+ironman-70.3-palmas-20170423.csv,333,Andre Cecilio Soares,37,Minas Gerais,BRA,00:34:58,02:53:05,02:54:50,00:06:20,00:04:16,06:33:29
+ironman-70.3-palmas-20170423.csv,334,Ariel Sharon De Assis Brito,39,Amazonas,BRA,00:35:40,02:34:40,01:41:20,00:05:04,00:02:42,04:59:26
+ironman-70.3-palmas-20170423.csv,335,Charlston Rodrigues,39,TOCANTINS,BRA,00:35:30,02:36:23,02:24:35,00:03:05,00:02:33,05:42:06
+ironman-70.3-palmas-20170423.csv,336,Marco Aurelio S Raposo,36,MG,BRA,00:39:43,02:42:52,02:10:47,00:05:16,00:04:34,05:43:12
+ironman-70.3-palmas-20170423.csv,337,Andre Luis Almeida Do Carmo,35,Minas Gerais,BRA,00:35:02,02:38:36,02:03:38,00:04:42,00:03:44,05:25:42
+ironman-70.3-palmas-20170423.csv,338,Guilherme Prestes De Melo,37,São Paulo ,BRA,00:35:08,02:30:53,01:49:57,00:03:13,00:03:27,05:02:38
+ironman-70.3-palmas-20170423.csv,339,Bruno Martins,36,MG,BRA,00:34:45,02:23:14,01:43:58,00:04:58,00:03:55,04:50:50
+ironman-70.3-palmas-20170423.csv,340,Claudio Tadashi Sato,---,---,BRA,00:35:00,02:26:30,01:44:24,00:03:32,00:01:27,04:50:53
+ironman-70.3-palmas-20170423.csv,341,Marcelo Leite,38,RJ,BRA,00:36:05,02:41:45,02:40:20,00:04:41,00:03:29,06:06:20
+ironman-70.3-palmas-20170423.csv,342,Jose Alcides De Souza Junior,39,ESPÍRITO SANTO,BRA,00:29:56,02:34:17,02:25:15,00:04:08,00:04:34,05:38:10
+ironman-70.3-palmas-20170423.csv,343,Mateus Reis,---,---,BRA,00:45:58,02:47:44,02:32:29,00:03:46,00:03:52,06:13:49
+ironman-70.3-palmas-20170423.csv,344,Cesar Urbanetz,37,Sao Paulo,BRA,00:38:21,02:47:23,02:06:06,00:03:22,00:03:14,05:38:26
+ironman-70.3-palmas-20170423.csv,345,Silvestre Nunes Filho,---,---,BRA,00:48:06,03:25:30,02:33:45,00:06:29,00:05:00,06:58:50
+ironman-70.3-palmas-20170423.csv,346,Nilson Rocha,37,---,BRA,00:34:52,02:56:05,02:26:57,00:05:05,00:07:25,06:10:24
+ironman-70.3-palmas-20170423.csv,347,Antonio Roberto De Godoy Filho,38,Sao Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,348,Marcos Andreazza,36,Rio Grande do Sul,BRA,00:33:31,02:26:13,---,00:03:03,00:01:39,DNF
+ironman-70.3-palmas-20170423.csv,349,Luiz Fabregat,37,São Paulo,BRA,00:37:26,02:48:52,02:13:52,00:05:51,00:03:15,05:49:16
+ironman-70.3-palmas-20170423.csv,350,Rodolfo Ferraciolli Bezerra,---,---,BRA,00:32:37,02:36:22,01:54:02,00:02:45,00:02:20,05:08:06
+ironman-70.3-palmas-20170423.csv,351,Eduardo Malucelli,37,Other,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,352,Daniel Hideki Di Petta,38,---,BRA,00:41:03,02:51:07,02:22:20,00:06:45,00:04:55,06:06:10
+ironman-70.3-palmas-20170423.csv,353,Dennis Machado,38,SP,BRA,00:33:40,02:24:03,01:44:45,00:02:06,00:01:54,04:46:28
+ironman-70.3-palmas-20170423.csv,354,Jorge Cals Coelho Filho,37,ceara,BRA,00:30:09,02:39:25,01:47:32,00:05:22,00:07:32,05:10:00
+ironman-70.3-palmas-20170423.csv,355,Jone Santos Costa,37,Tocantins,BRA,00:28:49,02:17:25,01:43:20,00:02:12,00:01:19,04:33:05
+ironman-70.3-palmas-20170423.csv,356,Markus Barros,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,357,Alessio Eulalio Dantas,---,---,BRA,00:45:20,03:18:12,02:15:38,00:06:11,00:04:50,06:30:11
+ironman-70.3-palmas-20170423.csv,358,Murilo Barizon,38,Sao Paulo,BRA,00:28:44,02:31:38,01:54:20,00:02:26,00:02:09,04:59:17
+ironman-70.3-palmas-20170423.csv,359,Jose Scheliga,38,SP,BRA,00:38:45,02:54:47,02:22:40,00:07:08,00:05:01,06:08:21
+ironman-70.3-palmas-20170423.csv,361,Gustavo Guaraldi,---,---,BRA,00:34:09,02:40:00,01:53:48,00:04:41,00:03:09,05:15:47
+ironman-70.3-palmas-20170423.csv,362,Kelvin Vieira Kredens,34,---,BRA,00:45:07,02:38:25,02:07:40,00:05:04,00:02:38,05:38:54
+ironman-70.3-palmas-20170423.csv,363,Tarik Arcoverde Ribeiro Costa,38,Goiás,BRA,00:25:53,02:19:50,01:52:14,00:04:30,00:02:29,04:44:56
+ironman-70.3-palmas-20170423.csv,364,Douglas Barros Ricardo,38,SP,BRA,00:38:05,02:38:19,02:15:54,00:02:45,00:03:35,05:38:38
+ironman-70.3-palmas-20170423.csv,366,Rodrigo Semprebom,35,MINAS GERAIS,BRA,00:36:26,02:21:15,01:33:17,00:03:20,00:02:25,04:36:43
+ironman-70.3-palmas-20170423.csv,367,Daniel Andrade,35,Minas Gerais,BRA,00:52:18,02:53:34,02:04:15,00:04:54,00:02:15,05:57:16
+ironman-70.3-palmas-20170423.csv,368,Felipe Bernardes,35,Intl State,BRA,00:31:39,02:29:17,01:38:11,00:04:09,00:03:34,04:46:50
+ironman-70.3-palmas-20170423.csv,369,Daniel Da Gama Guimaraes Ramalho,---,---,BRA,00:25:51,02:26:59,01:45:05,00:04:11,00:01:39,04:43:45
+ironman-70.3-palmas-20170423.csv,370,Thiago Bessa,37,Minas Gerais,BRA,00:44:33,02:55:11,02:32:18,00:05:59,00:03:40,06:21:41
+ironman-70.3-palmas-20170423.csv,371,Roberto Wojtyla Alexandre Diener,36,DF,BRA,00:38:56,02:34:02,01:43:29,00:02:36,00:01:59,05:01:02
+ironman-70.3-palmas-20170423.csv,372,Tulio Guimaraes Laia,38,Minas Gerais,BRA,00:36:59,02:30:23,01:30:29,00:06:15,00:03:18,04:47:24
+ironman-70.3-palmas-20170423.csv,373,Rafael Dornas Ramos,38,MG,BRA,00:27:30,02:23:50,01:35:32,00:02:39,00:01:29,04:31:00
+ironman-70.3-palmas-20170423.csv,374,Tiago Dornas Ramos,36,Minas Gerais,BRA,00:26:20,02:26:47,01:41:04,00:02:47,00:01:30,04:38:28
+ironman-70.3-palmas-20170423.csv,375,Marcelo Costa,---,---,BRA,00:43:52,02:49:19,02:17:36,00:04:43,00:04:01,05:59:31
+ironman-70.3-palmas-20170423.csv,376,Marcelo Arroio,35,Sao Paulo,BRA,01:03:20,02:49:24,02:26:02,00:04:24,00:02:54,06:26:04
+ironman-70.3-palmas-20170423.csv,377,Sebastiao Monteiro De Souza Junior,34,---,BRA,00:30:41,02:27:08,01:34:03,00:02:47,00:02:05,04:36:44
+ironman-70.3-palmas-20170423.csv,378,Wagner Da Silva,34,tocantins,BRA,00:48:43,02:20:50,01:52:41,00:04:10,00:04:34,05:10:58
+ironman-70.3-palmas-20170423.csv,379,Elenilson Tavares De Lima,---,---,BRA,00:44:26,02:32:25,01:58:20,00:04:42,00:03:31,05:23:24
+ironman-70.3-palmas-20170423.csv,380,Geovanne Rodrigues Da Silva,34,---,BRA,00:38:50,02:45:11,02:02:17,00:06:20,00:03:07,05:35:45
+ironman-70.3-palmas-20170423.csv,381,Marcelo De Oliveira Machado,36,---,BRA,00:31:46,02:37:04,01:51:58,00:03:36,00:02:48,05:07:12
+ironman-70.3-palmas-20170423.csv,382,Rogerio Silva De Paula,---,---,BRA,00:28:43,02:25:12,01:31:49,00:03:00,00:01:00,04:29:44
+ironman-70.3-palmas-20170423.csv,383,Fransergio Tarashewicus,---,---,BRA,00:30:01,02:42:23,01:52:54,00:03:30,00:01:53,05:10:41
+ironman-70.3-palmas-20170423.csv,384,Georges Oliva De Oliveira,36,---,BRA,00:32:53,02:28:36,01:43:59,00:02:38,00:02:40,04:50:46
+ironman-70.3-palmas-20170423.csv,385,Ricardo Flores Haidar,---,---,BRA,00:40:13,02:42:51,02:17:05,00:04:09,00:03:25,05:47:43
+ironman-70.3-palmas-20170423.csv,386,Anderson D' Lamare,---,---,BRA,01:04:09,02:42:11,01:32:52,00:04:33,00:04:40,05:28:25
+ironman-70.3-palmas-20170423.csv,387,Cristine Stahlschmidt,34,SP,BRA,00:35:05,02:45:58,02:03:13,00:03:13,00:02:18,05:29:47
+ironman-70.3-palmas-20170423.csv,388,Maria Do Socorro Da Silva Vasconcelos,34,Piauí,BRA,00:45:36,02:51:42,02:05:26,00:04:09,00:01:31,05:48:24
+ironman-70.3-palmas-20170423.csv,389,Flavia Meyer,35,PR,BRA,00:35:01,02:32:58,01:46:03,00:03:13,00:01:38,04:58:53
+ironman-70.3-palmas-20170423.csv,390,Livia Bustamante,35,Rio de Janeiro,BRA,00:35:20,02:35:59,01:47:02,00:02:18,00:01:12,05:01:51
+ironman-70.3-palmas-20170423.csv,391,Paula Rovani,35,TO,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,392,Livia Canno,36,souteira,BRA,00:46:17,02:55:29,02:04:54,00:03:37,00:02:20,05:52:37
+ironman-70.3-palmas-20170423.csv,393,Isabella Paz,37,Minas Gerais,BRA,00:38:29,02:42:20,01:57:26,00:03:02,00:01:37,05:22:54
+ironman-70.3-palmas-20170423.csv,394,Elen Caetano De Lima,37,Goiás,BRA,00:39:59,02:44:35,01:40:32,00:02:54,00:01:46,05:09:46
+ironman-70.3-palmas-20170423.csv,395,Susan Erika Yano Da Silva Mocelin,37,Tocantins,BRA,00:41:28,03:06:18,02:20:17,00:04:24,00:03:05,06:15:32
+ironman-70.3-palmas-20170423.csv,396,Mayra Andrea Doria Mattana,37,Parana,BRA,00:37:44,02:41:47,01:52:52,00:04:50,00:03:27,05:20:40
+ironman-70.3-palmas-20170423.csv,397,Nadja Oliveira,37,tocantins,BRA,00:39:09,02:41:01,01:55:31,00:03:55,00:02:15,05:21:51
+ironman-70.3-palmas-20170423.csv,398,Cristine Lopes,37,Paraná,BRA,00:43:57,02:33:03,01:45:00,00:04:16,00:02:45,05:09:01
+ironman-70.3-palmas-20170423.csv,399,Daniela Lopumo,37,La Pampa,ARG,00:37:29,02:45:31,01:46:04,00:02:03,00:01:23,05:12:30
+ironman-70.3-palmas-20170423.csv,400,Karina Orlandin,37,são paulo,BRA,00:43:53,02:58:13,---,00:04:58,00:07:50,DNF
+ironman-70.3-palmas-20170423.csv,401,Lisandra Mesquita Batista,39,São Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,402,Rosecler Costa,38,Sao Paulo,BRA,00:34:24,02:29:14,01:35:13,00:02:50,00:01:44,04:43:25
+ironman-70.3-palmas-20170423.csv,403,Mariella Melo,39,piaui,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,404,Erika Szpektor,39,SP,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,405,Paula Rovani,35,TO,BRA,00:40:45,02:37:33,01:45:44,00:03:20,00:02:07,05:09:29
+ironman-70.3-palmas-20170423.csv,406,Ludimila Barbosa Oliveira,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,407,Marcia Silva,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,408,Nilmara Cristina Silva Hagestedt,35,---,BRA,00:51:34,03:12:46,02:44:05,00:06:17,00:04:22,06:59:04
+ironman-70.3-palmas-20170423.csv,409,Kelen Carneiro,36,MINAS GERAIS,BRA,00:53:58,03:10:54,02:14:06,00:04:14,00:02:19,06:25:31
+ironman-70.3-palmas-20170423.csv,410,Swellen Yano Da Silva,35,Tocantins,BRA,00:36:52,03:05:02,02:12:34,00:04:21,00:02:33,06:01:22
+ironman-70.3-palmas-20170423.csv,411,Carlos Eduardo Oliveira De Alencar,39,SP,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,412,Fabio Carneiro,39,RJ,BRA,00:41:56,02:25:50,02:09:02,00:02:29,00:02:31,05:21:48
+ironman-70.3-palmas-20170423.csv,413,Fabio Fantozzi,39,SP,BRA,00:34:03,02:22:49,01:54:28,00:04:48,00:02:59,04:59:07
+ironman-70.3-palmas-20170423.csv,414,Luiz Fernando Pedroso,39,São Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,415,Bruno Franca,39,SÃO PAULO,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,416,Adriano Godoi,39,sp,BRA,00:41:59,02:21:56,01:38:41,00:02:54,00:02:02,04:47:32
+ironman-70.3-palmas-20170423.csv,417,Paulo Henrique Manzini,39,Sao Paulo,BRA,00:33:19,02:17:37,01:36:44,00:02:57,00:01:38,04:32:15
+ironman-70.3-palmas-20170423.csv,418,Aristides Hoefel Iv,39,Intl State,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,419,Victor Lima,39,Pernambuco,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,420,Geyser Amaral Rodrigues,40,BA,BRA,00:56:38,02:45:32,02:05:54,00:02:23,00:02:09,05:52:36
+ironman-70.3-palmas-20170423.csv,421,Jose Belarmino,39,São Paulo,BRA,00:25:26,02:39:46,01:24:50,00:02:25,00:02:21,04:34:48
+ironman-70.3-palmas-20170423.csv,422,Giancarlo Schramm Ambrosi,39,RS,BRA,00:34:28,02:22:45,02:01:52,00:02:33,00:03:32,05:05:10
+ironman-70.3-palmas-20170423.csv,423,Mauro Abdalla,40,Rio de Janeiro,BRA,00:36:02,03:01:46,02:28:44,00:03:38,00:02:28,06:12:38
+ironman-70.3-palmas-20170423.csv,424,Leonardo Paz,40,MG,BRA,00:28:50,02:24:13,01:30:51,00:02:29,00:07:19,04:33:42
+ironman-70.3-palmas-20170423.csv,425,Max Cordero,40,Intl State,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,426,Jaques Correa De Almeida Jr,40,ES,BRA,00:37:17,02:41:06,02:10:44,00:05:24,00:03:41,05:38:12
+ironman-70.3-palmas-20170423.csv,427,Maurício Letzow,40,Paraná,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,428,Adriano Perazio,40,Sao Paulo,BRA,00:45:11,03:06:13,02:35:08,00:04:28,00:04:09,06:35:09
+ironman-70.3-palmas-20170423.csv,429,Adriano Ricardo Ribeiro Sevilla,40,São Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,430,Fabiano Teixeira,41,RJ,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,431,Fabio Urban,40,SP,BRA,00:41:31,03:03:37,02:37:25,00:05:33,00:07:12,06:35:18
+ironman-70.3-palmas-20170423.csv,432,Carmina Avena,41,SP,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,433,Alan Ide Ribeiro Da Silva,41,Tocantins,BRA,00:34:02,02:29:54,01:44:47,00:04:41,00:03:26,04:56:50
+ironman-70.3-palmas-20170423.csv,434,Ricardo Linares De Paula,40,TO,BRA,00:48:18,02:48:08,02:25:44,00:02:37,00:02:12,06:06:59
+ironman-70.3-palmas-20170423.csv,435,Oswaldo Luis Massoca Sonsini,41,SP,BRA,00:39:30,02:41:03,02:01:20,00:04:08,00:03:12,05:29:13
+ironman-70.3-palmas-20170423.csv,436,Alberto Machado,41,MATO GROSSO,BRA,00:34:38,02:59:43,02:51:23,00:04:34,00:02:45,06:33:03
+ironman-70.3-palmas-20170423.csv,437,Fidelis Manes Neto,40,Intl State,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,438,Christiano Naves,40,Minas Gerais,BRA,00:43:22,02:55:46,02:15:09,00:06:26,00:05:08,06:05:51
+ironman-70.3-palmas-20170423.csv,439,Felipe Paixão,41,SERGIPE,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,440,Henrique Werneck Pereira Do Espirito Santo,40,RJ,BRA,00:33:37,02:22:24,01:42:48,00:03:10,00:01:29,04:43:28
+ironman-70.3-palmas-20170423.csv,441,Andrey Barbiero,41,SP,BRA,00:42:33,02:49:03,02:59:03,00:06:19,00:04:31,06:41:29
+ironman-70.3-palmas-20170423.csv,442,Luciano Cesar Foca,42,Intl State,BRA,00:30:47,02:26:02,01:37:27,00:02:58,00:01:39,04:38:53
+ironman-70.3-palmas-20170423.csv,443,Luiz Eduardo Rodrigues Lopes,42,São Paulo,BRA,00:35:53,02:30:42,01:33:58,00:02:44,00:01:46,04:45:03
+ironman-70.3-palmas-20170423.csv,444,Jeferson Heinlik,41,SP,BRA,00:43:07,02:44:32,02:13:42,00:05:41,00:03:08,05:50:10
+ironman-70.3-palmas-20170423.csv,445,Emerson Jose Cosetin,41,RIO GRANDE DO SUL,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,446,Celio Manfredini,41,Intl State,BRA,00:34:33,02:19:57,01:41:05,00:02:37,00:01:44,04:39:56
+ironman-70.3-palmas-20170423.csv,447,Felipe Matos,41,Distrito Federal,BRA,00:30:49,02:26:26,01:55:02,00:04:13,00:01:42,04:58:12
+ironman-70.3-palmas-20170423.csv,448,Adriano Merigli,41,Intl State,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,449,Wallace Pires,41,sao paulo,BRA,00:36:09,02:44:23,02:02:30,00:02:53,00:03:08,05:29:03
+ironman-70.3-palmas-20170423.csv,450,Rodrigo Quevedo,42,Rio Grande do Sul,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,451,Joni Quirino,42,Parana,BRA,00:43:22,02:33:36,01:57:34,00:03:53,00:02:09,05:20:34
+ironman-70.3-palmas-20170423.csv,452,Elias Senna,41,Distrito Federal,BRA,00:39:39,02:37:22,02:23:39,00:04:00,00:04:29,05:49:09
+ironman-70.3-palmas-20170423.csv,453,Ricardo Tonetti,42,sao paulo,BRA,00:29:30,02:26:59,01:54:00,00:02:48,00:01:54,04:55:11
+ironman-70.3-palmas-20170423.csv,454,Fabio Caldeira,41,Pr,BRA,00:39:54,02:31:15,02:02:21,00:03:38,00:02:07,05:19:15
+ironman-70.3-palmas-20170423.csv,455,Luciano Gomes,42,rio de janeiro,BRA,00:39:26,02:26:05,01:38:35,00:04:05,00:01:27,04:49:38
+ironman-70.3-palmas-20170423.csv,456,Genilson Silva,41,Mato Grosso,BRA,00:37:40,02:32:00,01:46:23,00:05:11,00:02:57,05:04:11
+ironman-70.3-palmas-20170423.csv,457,Anderson Rodrigues Gellert,41,Santa Catarina,BRA,00:37:57,02:47:34,01:43:14,00:02:53,00:02:13,05:13:51
+ironman-70.3-palmas-20170423.csv,458,Marco Tulio Pereira De Souza,41,TOCANTINS,BRA,00:36:36,02:30:27,02:11:58,00:02:57,00:07:25,05:29:23
+ironman-70.3-palmas-20170423.csv,459,Luiz Paulo Volpe,41,São Paulo,BRA,00:33:12,02:35:39,01:47:00,00:03:25,00:01:56,05:01:12
+ironman-70.3-palmas-20170423.csv,460,Luciano Miranda,42,Minas Gerais,BRA,00:36:20,02:30:32,01:39:09,00:04:34,00:02:46,04:53:21
+ironman-70.3-palmas-20170423.csv,461,Jose Otavio Ribeiro Cruz Filho,42,Ceará,BRA,00:34:38,02:23:29,01:42:41,00:02:24,00:02:03,04:45:15
+ironman-70.3-palmas-20170423.csv,462,William Pinto,43,SP,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,463,Joaquim Schalch,42,São paulo,BRA,00:36:52,02:32:54,02:31:23,00:04:37,00:05:29,05:51:15
+ironman-70.3-palmas-20170423.csv,464,Leonardo Curvelo,42,Salvador,BRA,00:39:09,02:40:00,02:04:55,00:03:14,00:01:53,05:29:11
+ironman-70.3-palmas-20170423.csv,465,Hugo Goncalves Vieira De Assuncao,42,São Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,466,Erwan Gabriel Marie Le Goff,42,SAO PAULO,FRA,00:34:21,02:45:55,02:07:39,00:02:41,00:02:17,05:32:53
+ironman-70.3-palmas-20170423.csv,467,Gianmarco Libano,42,Sao Paulo,BRA,00:40:03,02:42:11,02:05:27,00:06:30,00:03:34,05:37:45
+ironman-70.3-palmas-20170423.csv,468,Rubens Matsubara,42,São Paulo,BRA,00:52:51,---,06:49:47,00:04:30,---,06:49:47
+ironman-70.3-palmas-20170423.csv,469,Leonardo Brettas,43,FL,BRA,00:33:25,02:19:55,01:33:23,00:03:38,00:01:47,04:32:08
+ironman-70.3-palmas-20170423.csv,470,Osmar Souza Junior,44,Intl State,BRA,00:39:18,02:39:54,02:08:37,00:04:15,00:02:10,05:34:14
+ironman-70.3-palmas-20170423.csv,471,Marco Gimenes,44,Goiás,BRA,00:37:25,02:17:45,01:24:34,00:03:46,00:02:05,04:25:35
+ironman-70.3-palmas-20170423.csv,472,Fabio Hillal,43,São Paulo,BRA,00:37:49,02:42:07,01:44:58,00:03:07,00:02:30,05:10:31
+ironman-70.3-palmas-20170423.csv,473,Christian Krieger,43,São Paulo,BRA,00:34:41,02:31:44,02:04:02,00:03:11,00:02:48,05:16:26
+ironman-70.3-palmas-20170423.csv,474,Dimas Marchi,43,Sao Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,475,Fabio Zola,43,Sao Paulo,BRA,00:37:27,02:31:23,01:51:12,00:02:37,00:02:34,05:05:13
+ironman-70.3-palmas-20170423.csv,476,Mauricio Borges Cunha,43,Goias,BRA,00:37:02,02:29:33,01:41:30,00:02:59,00:06:29,04:57:33
+ironman-70.3-palmas-20170423.csv,477,Valdeir Ferreira Dos Santos,43,Tocantins,BRA,00:30:09,02:26:43,01:36:04,00:02:39,00:01:46,04:37:21
+ironman-70.3-palmas-20170423.csv,478,Carlos Oliveira,43,DF (Distrito Federal),BRA,00:36:55,02:38:22,02:11:11,00:03:31,00:02:30,05:32:29
+ironman-70.3-palmas-20170423.csv,479,José Roberto P. R. Novaes,44,São Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,480,Jobe Petter,43,df,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,481,Marcelo Torres,44,Rio de Janeiro,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,482,Ricardo Caiuby,43,São Paulo,BRA,00:32:48,02:28:06,01:32:21,00:02:28,00:01:41,04:37:24
+ironman-70.3-palmas-20170423.csv,483,Fabio Roberto,41,SÃO PAULO,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,484,Fabio Paiva Carvalho,43,SP,BRA,00:39:14,02:37:51,01:57:54,00:03:47,00:01:31,05:20:17
+ironman-70.3-palmas-20170423.csv,485,Fabio Rodrigues Planas,44,Sao Paulo,BRA,00:32:37,02:44:03,02:18:29,00:04:22,00:05:07,05:44:38
+ironman-70.3-palmas-20170423.csv,486,Fernando Falcao,42,MG,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,487,Osmundo Oliveira,41,SP,BRA,01:02:40,02:57:22,03:04:25,00:06:28,00:05:20,07:16:15
+ironman-70.3-palmas-20170423.csv,488,Eduardo Gigeke,42,Sao Paulo,BRA,00:43:26,03:21:13,03:09:09,00:04:47,00:03:01,07:21:36
+ironman-70.3-palmas-20170423.csv,489,Atemon Reis Batista,---,---,BRA,00:44:15,02:23:18,01:41:02,00:04:21,00:02:03,04:54:59
+ironman-70.3-palmas-20170423.csv,490,Silvio Eduardo Junior,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,491,Ferdinando Junior,40,---,BRA,00:39:13,02:49:21,02:41:48,00:06:08,00:04:35,06:21:05
+ironman-70.3-palmas-20170423.csv,492,Alexandre Demarchi,43,São Paulo,BRA,00:43:45,03:20:48,02:47:12,00:05:27,00:03:48,07:01:00
+ironman-70.3-palmas-20170423.csv,493,Marcus Correia Oliveira,39,Tocantins,BRA,00:31:45,02:56:29,02:23:50,00:04:57,00:02:38,05:59:39
+ironman-70.3-palmas-20170423.csv,494,Luis Bianchi,39,Intl State,BRA,00:35:20,02:39:20,02:13:29,00:04:33,00:03:01,05:35:43
+ironman-70.3-palmas-20170423.csv,495,Rafael Vieira,39,Ma,BRA,00:38:55,02:44:48,01:57:05,00:04:29,00:02:13,05:27:30
+ironman-70.3-palmas-20170423.csv,496,Alberto Carvalho Cunha,---,---,BRA,00:51:03,03:13:18,02:49:30,00:06:03,00:04:30,07:04:24
+ironman-70.3-palmas-20170423.csv,497,Elton Stecca,41,---,BRA,00:42:11,03:28:16,03:11:08,00:04:43,00:05:08,07:31:26
+ironman-70.3-palmas-20170423.csv,498,Pablo Martuscelli,40,Minas gerais,BRA,00:51:23,02:43:20,02:19:49,00:03:03,00:02:41,06:00:16
+ironman-70.3-palmas-20170423.csv,499,Alexandre Barbosa,---,---,BRA,01:03:34,03:22:43,02:13:01,00:03:40,00:03:15,06:46:13
+ironman-70.3-palmas-20170423.csv,500,Eduardo Fernandes,42,sao paulo,BRA,00:30:50,02:24:54,01:32:54,00:02:36,00:01:40,04:32:54
+ironman-70.3-palmas-20170423.csv,501,Bruno Franca,39,SÃO PAULO,BRA,00:30:32,02:24:09,01:30:04,00:02:34,00:01:35,04:28:54
+ironman-70.3-palmas-20170423.csv,502,Wagner De Castro Malveira,41,Goias,BRA,00:42:57,02:36:29,01:45:45,00:05:25,00:02:02,05:12:38
+ironman-70.3-palmas-20170423.csv,503,Azarias Feitosa Junior,40,SP,BRA,00:31:22,02:24:48,---,00:03:28,00:02:11,DNF
+ironman-70.3-palmas-20170423.csv,504,Rodrigo Vilani,40,DF,BRA,00:43:34,03:01:49,02:34:19,00:07:39,00:06:54,06:34:15
+ironman-70.3-palmas-20170423.csv,505,Pablo Dantas,42,ceara,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,506,Fernando Azevedo,40,sao paulo,BRA,00:37:43,02:49:50,---,00:04:44,00:02:31,DNF
+ironman-70.3-palmas-20170423.csv,507,Renato Manso,42,---,BRA,00:42:46,02:41:20,02:34:41,00:02:57,00:02:42,06:04:26
+ironman-70.3-palmas-20170423.csv,508,Andrey Luciano De Freitas Carneiro,42,---,BRA,00:51:15,02:46:06,02:04:28,00:03:02,00:01:48,05:46:39
+ironman-70.3-palmas-20170423.csv,509,Claudia Dumont,40,Minas Gerais,BRA,00:28:26,02:36:57,01:31:08,00:02:40,00:01:21,04:40:32
+ironman-70.3-palmas-20170423.csv,510,Virginia Vasconcelos,41,GO,BRA,00:40:29,---,01:11:25,---,04:06:38,05:18:03
+ironman-70.3-palmas-20170423.csv,511,Ana Luiza Oliveira,41,RJ,BRA,00:43:07,02:35:47,01:32:05,00:02:44,00:01:57,04:55:40
+ironman-70.3-palmas-20170423.csv,512,Claudia Resende Alves De Souza,41,Tocantins,BRA,00:44:58,02:47:22,01:44:22,00:03:19,00:01:22,05:21:23
+ironman-70.3-palmas-20170423.csv,513,Thelma Filipovitch Pereira,42,Sao Paulo,BRA,00:37:08,02:50:27,02:00:53,00:03:48,00:03:14,05:35:30
+ironman-70.3-palmas-20170423.csv,514,Giovana Peretti,43,Intl State,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,515,Manuela Correia Da Silveira,---,Ba,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,516,Adriana Bastos,---,---,BRA,00:43:56,02:58:55,02:36:04,00:04:07,00:02:44,06:25:46
+ironman-70.3-palmas-20170423.csv,517,Mariana Mendes,39,RJ,BRA,00:48:32,03:12:12,02:38:35,00:04:34,00:03:19,06:47:12
+ironman-70.3-palmas-20170423.csv,518,Muriel Mendonca De Melo Dantas,---,---,BRA,00:50:42,02:53:35,02:40:16,00:04:03,00:02:00,06:30:36
+ironman-70.3-palmas-20170423.csv,519,Cristiane Borges,---,---,BRA,00:47:06,02:54:47,02:00:50,00:06:43,00:02:20,05:51:46
+ironman-70.3-palmas-20170423.csv,520,Crystiane Martins,41,Para,BRA,00:31:30,02:44:47,02:07:31,00:06:44,00:02:27,05:32:59
+ironman-70.3-palmas-20170423.csv,521,Andreia Legramante,43,go,BRA,00:39:50,02:49:34,02:13:25,00:03:00,00:03:22,05:49:11
+ironman-70.3-palmas-20170423.csv,522,Patricia Barros,44,São Paulo,BRA,00:31:43,02:47:30,01:56:44,00:02:52,00:01:42,05:20:31
+ironman-70.3-palmas-20170423.csv,523,Rebeca Martino,45,São Paulo,BRA,00:39:57,02:53:14,02:00:12,00:03:36,00:01:41,05:38:40
+ironman-70.3-palmas-20170423.csv,524,Adriana Vilela Montenegro Felipetto,46,rio de janeiro,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,525,Luciana Cachem,46,São Paulo,BRA,00:41:19,02:53:10,02:15:04,00:04:24,00:02:58,05:56:55
+ironman-70.3-palmas-20170423.csv,526,Andrea Modesto De Oliveira,46,To,BRA,00:45:23,03:09:49,02:24:59,00:03:57,00:02:12,06:26:20
+ironman-70.3-palmas-20170423.csv,527,Vanuza Maciel,47,Paraná,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,528,Lucila R M Manzoli,46,Minas Gerais,BRA,00:37:26,02:52:41,02:14:33,00:03:24,00:01:34,05:49:38
+ironman-70.3-palmas-20170423.csv,529,Ana Luiza Cesar Dias,46,Intl State,BRA,00:50:48,03:23:29,02:17:06,00:10:59,00:05:55,06:48:17
+ironman-70.3-palmas-20170423.csv,530,Jessica Batista,47,sao paulo,BRA,00:40:48,02:44:35,01:52:18,00:03:01,00:01:06,05:21:48
+ironman-70.3-palmas-20170423.csv,531,Andrea Cardoso,---,---,BRA,00:41:15,02:52:13,02:16:32,00:02:41,00:01:45,05:54:26
+ironman-70.3-palmas-20170423.csv,532,Ana Beatriz Freua,50,São Paulo,BRA,00:43:15,02:52:01,01:56:18,00:03:23,00:02:02,05:36:59
+ironman-70.3-palmas-20170423.csv,533,Ana Silvia Paller,52,Sao Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,534,Rita Appezzato,51,Intl State,BRA,00:37:52,02:46:13,02:13:09,00:03:31,00:02:00,05:42:45
+ironman-70.3-palmas-20170423.csv,535,Priscila Ventura,54,Sao Paulo,BRA,00:44:11,03:09:38,02:17:04,00:05:23,00:03:32,06:19:48
+ironman-70.3-palmas-20170423.csv,536,Laureane Dornelles,55,RS,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,537,Josean De Azevedo Borges,44,DF,BRA,00:37:24,02:25:53,01:37:53,00:02:54,00:02:24,04:46:28
+ironman-70.3-palmas-20170423.csv,538,Andrei Luis Goelzer Bratz,44,ACT,BRA,00:31:54,02:32:27,01:49:29,00:02:56,00:01:49,04:58:35
+ironman-70.3-palmas-20170423.csv,539,Fabio Sa,44,Paraíba ,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,540,Alexsander Stanisci,45,Intl State,BRA,00:43:37,02:54:16,01:57:31,00:05:09,00:03:38,05:44:11
+ironman-70.3-palmas-20170423.csv,541,Marcos Aurelio Costa Gomes,45,Ceará,BRA,00:54:05,03:34:33,02:47:02,00:08:41,00:08:21,07:32:42
+ironman-70.3-palmas-20170423.csv,542,Andre Kina,44,Intl State,BRA,00:29:41,02:21:21,01:32:02,00:02:40,00:01:12,04:26:56
+ironman-70.3-palmas-20170423.csv,543,Diogo Menegaz,45,rio de janeiro,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,544,Dnnis Riskallah,44,SP,BRA,00:44:21,02:44:58,02:19:52,00:05:41,00:05:06,05:59:58
+ironman-70.3-palmas-20170423.csv,545,Alexandre Resende,44,Rio de Janeiro,BRA,00:36:12,02:55:32,02:55:23,00:04:29,00:06:27,06:38:03
+ironman-70.3-palmas-20170423.csv,546,Kleber Carlos Leal Da Silva,46,São Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,547,Fabio De Oliveira Soares,45,TO,BRA,00:49:55,02:53:08,02:08:13,00:03:40,00:01:53,05:56:49
+ironman-70.3-palmas-20170423.csv,548,Roberto Dias Stanganelli,45,Intl State,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,549,Roberto Ferreira Dias Filho,45,sao paulo,BRA,00:34:36,02:30:45,01:44:58,00:03:10,00:01:22,04:54:51
+ironman-70.3-palmas-20170423.csv,550,Carlos Falcão Freire,45,Intl State,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,551,Marcelo De Marchi,45,SP,BRA,00:35:31,02:23:00,01:44:34,00:03:07,00:01:37,04:47:49
+ironman-70.3-palmas-20170423.csv,552,Ronaldo Cesquim,46,São Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,553,Gustavo Duarte,46,SP,BRA,00:32:56,02:34:51,02:04:23,00:03:38,00:02:39,05:18:27
+ironman-70.3-palmas-20170423.csv,554,Márcio Pinhati,46,SAO PAULO,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,555,Caio Mario Caldeira Brant Ribeiro,46,MG,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,556,Flavio Santiago,46,Tocantins,BRA,01:04:30,02:53:46,02:04:36,00:05:49,00:02:21,06:11:02
+ironman-70.3-palmas-20170423.csv,557,Pedro Cerize,47,SP,BRA,00:35:27,02:22:37,01:28:18,00:15:22,00:01:49,04:43:33
+ironman-70.3-palmas-20170423.csv,558,Marcos Costa,47,Alagoas,BRA,00:38:11,---,---,00:04:07,---,DNF
+ironman-70.3-palmas-20170423.csv,559,Ben Hur Albergaria Filho,47,Minas Gerais,BRA,00:38:53,02:43:52,01:57:30,00:04:53,00:03:32,05:28:40
+ironman-70.3-palmas-20170423.csv,560,Victor Oliveira Ferreira De Almeida,47,Paraná,BRA,00:46:34,02:33:40,02:13:59,00:06:19,00:04:44,05:45:16
+ironman-70.3-palmas-20170423.csv,561,Daniel Oscar Pourtale,48,ES,ARG,00:35:37,02:28:33,02:21:47,00:03:17,00:01:57,05:31:11
+ironman-70.3-palmas-20170423.csv,562,Guido Eugenio,49,Sao PAulo,BRA,00:38:54,02:42:26,01:54:18,00:04:41,00:03:01,05:23:20
+ironman-70.3-palmas-20170423.csv,563,Mauro Giorchino,48,São Paulo,BRA,00:28:33,02:38:18,01:55:35,00:03:01,00:02:03,05:07:30
+ironman-70.3-palmas-20170423.csv,564,Rogerio Santos,48,SP,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,565,Teobaldo Silva,48,Bahia ,BRA,00:42:57,02:34:06,01:52:57,00:04:17,00:02:06,05:16:23
+ironman-70.3-palmas-20170423.csv,566,Newton Braga Moura,48,MG,BRA,00:30:29,02:20:51,01:34:16,00:02:18,00:01:27,04:29:21
+ironman-70.3-palmas-20170423.csv,567,Marcos Afonso,---,SAO PAULO,BRA,00:48:59,02:43:17,02:07:16,00:04:04,00:03:03,05:46:39
+ironman-70.3-palmas-20170423.csv,568,Andre Araujo,47,BAHIA,BRA,00:41:35,02:56:13,01:59:20,00:05:11,00:04:17,05:46:36
+ironman-70.3-palmas-20170423.csv,569,Igor Ribeiro,46,---,BRA,00:40:14,02:55:46,03:07:39,00:06:56,00:03:18,06:53:53
+ironman-70.3-palmas-20170423.csv,570,Franze Chaves,45,piaui,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,571,Ricardo Andre Pires Araujo,---,---,BRA,00:36:50,02:50:37,02:13:21,00:05:22,00:03:18,05:49:28
+ironman-70.3-palmas-20170423.csv,572,Andre Mota,44,Ceará,BRA,00:45:43,02:53:17,02:11:56,00:04:46,00:03:54,05:59:36
+ironman-70.3-palmas-20170423.csv,573,Jose Leonardo Quintella Dutra,---,---,BRA,00:41:18,02:53:43,02:13:41,00:03:10,00:02:47,05:54:39
+ironman-70.3-palmas-20170423.csv,574,Alvaro Lotufo Manzano,48,---,BRA,00:45:40,02:50:19,01:51:43,00:04:10,00:03:18,05:35:10
+ironman-70.3-palmas-20170423.csv,575,Christiano Neis,44,SP,BRA,00:28:53,02:28:21,01:51:13,00:02:51,00:02:02,04:53:20
+ironman-70.3-palmas-20170423.csv,576,Moacir Ito,---,---,BRA,00:47:15,02:53:21,02:17:50,00:05:15,00:04:36,06:08:17
+ironman-70.3-palmas-20170423.csv,578,Guilherme Vanni,45,SP,BRA,00:30:27,02:28:18,01:36:52,00:02:32,00:01:38,04:39:47
+ironman-70.3-palmas-20170423.csv,579,Joaquim Gomes Pereira,---,---,BRA,00:34:37,02:43:41,02:10:25,00:02:41,00:02:04,05:33:28
+ironman-70.3-palmas-20170423.csv,580,Hudson Ramos,49,goias,BRA,00:32:45,02:33:42,01:34:57,00:03:16,00:01:25,04:46:05
+ironman-70.3-palmas-20170423.csv,581,Augusto Affonso Areias Junior,49,Intl State,BRA,00:39:49,02:40:20,02:18:07,00:04:22,00:02:12,05:44:50
+ironman-70.3-palmas-20170423.csv,582,Roberto Carlos Silva,49,MG,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,583,Marinoni Vargas,49,CAPITAL,PRY,00:34:42,02:23:51,01:36:08,00:03:05,00:01:44,04:39:30
+ironman-70.3-palmas-20170423.csv,584,Luiz Renato Topan,50,Intl State,BRA,00:25:46,02:28:21,01:39:57,00:02:17,00:01:28,04:37:49
+ironman-70.3-palmas-20170423.csv,585,Franz Bedacht,50,SP,DEU,00:52:02,02:49:40,02:40:06,00:04:47,00:02:50,06:29:25
+ironman-70.3-palmas-20170423.csv,586,Leonardo Diniz,51,São paulo,BRA,00:33:58,02:43:31,02:08:25,00:04:21,00:05:08,05:35:23
+ironman-70.3-palmas-20170423.csv,587,Waldir Nelson Gatulin,50,sao paulo,BRA,01:11:56,03:02:07,---,00:07:21,00:03:57,DNF
+ironman-70.3-palmas-20170423.csv,588,Marcel Almeida,52,Mato grosso,BRA,00:41:36,02:37:59,01:57:13,00:02:18,00:02:26,05:21:32
+ironman-70.3-palmas-20170423.csv,589,Walter Ohofugi Junior,51,Tocantins,BRA,00:42:56,03:03:06,02:24:41,00:04:49,00:02:49,06:18:21
+ironman-70.3-palmas-20170423.csv,590,Amilcar F Altemani,52,SP,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,591,Marco Aurelio Santarlasci,52,SP,BRA,00:29:40,02:24:18,01:50:31,00:02:57,00:01:37,04:49:03
+ironman-70.3-palmas-20170423.csv,592,Witney Junior,52,sao paulo,BRA,00:37:05,02:36:24,01:48:21,00:05:04,00:01:59,05:08:53
+ironman-70.3-palmas-20170423.csv,593,Carlos Alberto Sangiorgio,53,Intl State,BRA,00:40:27,02:26:40,01:45:22,00:03:32,00:02:31,04:58:32
+ironman-70.3-palmas-20170423.csv,594,Rosemberg Rocha,54,Minas Gerais,BRA,00:39:08,02:36:18,01:57:34,00:03:17,00:02:48,05:19:05
+ironman-70.3-palmas-20170423.csv,595,Paulo Roberto Innocencio,54,RIO DE JANEIRO,BRA,00:41:21,03:12:00,02:37:21,00:05:21,00:03:01,06:39:04
+ironman-70.3-palmas-20170423.csv,596,Leonardo Negreiros,51,MG,BRA,00:41:05,02:39:57,02:19:10,00:04:04,00:02:51,05:47:07
+ironman-70.3-palmas-20170423.csv,597,Nelson Munhoz Jr,53,São Paulo,BRA,01:04:18,03:09:23,02:13:36,00:03:54,00:02:31,06:33:42
+ironman-70.3-palmas-20170423.csv,598,Victor Pereira,49,RJ,BRA,00:39:01,02:22:47,02:11:19,00:02:57,00:02:19,05:18:23
+ironman-70.3-palmas-20170423.csv,599,Giovanni Sandoval,53,Tocantins,BRA,00:36:57,02:33:47,02:05:37,00:02:53,00:01:55,05:21:09
+ironman-70.3-palmas-20170423.csv,600,Henrique Araujo,52,CE,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,601,Jacques Miranda,---,---,BRA,00:53:23,03:20:58,03:01:48,00:08:36,00:05:43,07:30:28
+ironman-70.3-palmas-20170423.csv,602,Jadiel Mello,---,Sc,BRA,00:49:42,03:31:57,03:15:20,00:06:47,00:03:42,07:47:28
+ironman-70.3-palmas-20170423.csv,603,Jose Nascimento,---,---,BRA,00:46:29,02:54:03,02:06:38,00:04:17,00:04:35,05:56:02
+ironman-70.3-palmas-20170423.csv,604,Ricardo Alfeu Pena Gomes,55,Minas Gerais,BRA,00:41:50,03:28:29,03:11:49,00:04:56,00:04:21,07:31:25
+ironman-70.3-palmas-20170423.csv,605,Charles Albani Dadam,54,SANTA CATARINA,BRA,00:37:18,02:34:23,01:57:29,00:04:34,00:02:46,05:16:30
+ironman-70.3-palmas-20170423.csv,606,Nelson Vasconcelos,55,Rio de Janeiro,BRA,01:06:32,03:18:55,02:13:48,00:13:49,00:05:15,06:58:19
+ironman-70.3-palmas-20170423.csv,607,David Zanotelli,56,CEARÁ,BRA,00:35:35,02:45:46,02:02:08,00:05:33,00:03:11,05:32:13
+ironman-70.3-palmas-20170423.csv,608,Nicholas Beardow,57,---,GBR,00:43:05,02:40:49,02:06:16,00:03:49,00:03:29,05:37:28
+ironman-70.3-palmas-20170423.csv,609,CARLOS ROBERTO DOS SANTOS,57,SÃO PAULO,BRA,00:42:05,02:36:06,02:10:45,00:04:59,00:02:13,05:36:08
+ironman-70.3-palmas-20170423.csv,610,Luiz Carlos Cassemiro,59,DF,BRA,00:50:29,03:07:16,02:39:54,00:12:22,00:04:52,06:54:53
+ironman-70.3-palmas-20170423.csv,611,Luiz Felipe Moura,59,Intl State,BRA,00:45:39,02:47:32,01:56:38,00:03:04,00:02:41,05:35:34
+ironman-70.3-palmas-20170423.csv,612,Joao BORGES,58,tocantins,BRA,01:02:59,03:14:05,02:17:46,00:03:10,00:03:15,06:41:15
+ironman-70.3-palmas-20170423.csv,613,Manoel Oscar Bastos Ferraz,58,São Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,614,Alejandro Rodriguez Comas,59,Intl State,BRA,00:42:40,02:37:18,02:00:04,00:03:09,00:02:35,05:25:46
+ironman-70.3-palmas-20170423.csv,615,Ricardo Saldanha,59,Sao Paulo,BRA,00:34:06,02:41:13,03:01:29,00:03:17,00:03:50,06:23:55
+ironman-70.3-palmas-20170423.csv,617,Jose Anchieta Rabelo Fernandes,---,Ce,BRA,---,03:06:16,02:30:50,01:15:39,00:02:44,06:55:29
+ironman-70.3-palmas-20170423.csv,618,Roger Haybittle,---,---,BRA,00:34:20,02:40:31,02:37:02,00:07:03,00:05:17,06:04:13
+ironman-70.3-palmas-20170423.csv,619,Sergio Lobo,60,sao paulo,BRA,00:43:12,02:47:01,02:35:45,00:05:47,00:03:51,06:15:36
+ironman-70.3-palmas-20170423.csv,620,TULIO CESAR OLIVERIA,63,TOCANTINS,BRA,01:02:49,03:10:14,02:43:26,00:10:17,00:03:24,07:10:10
+ironman-70.3-palmas-20170423.csv,621,Sylla Dorneles Ferreira Da Costa,60,RS,BRA,00:47:25,03:15:46,02:43:09,00:08:10,00:05:16,06:59:46
+ironman-70.3-palmas-20170423.csv,622,Roberto Azevedo,64,SP,BRA,00:43:46,02:29:55,02:04:17,00:04:16,00:04:36,05:26:50
+ironman-70.3-palmas-20170423.csv,623,Marcos Maia,64,RJ,BRA,01:08:16,03:18:56,02:57:40,00:12:05,00:08:33,07:45:30
+ironman-70.3-palmas-20170423.csv,624,Arthur Silva,---,---,BRA,00:34:30,02:34:05,01:51:56,00:03:40,00:02:10,05:06:21
+ironman-70.3-palmas-20170423.csv,625,Paulo Roberto Fonseca Barbosa,36,sergipe,BRA,00:45:55,02:39:58,01:59:31,00:06:20,00:02:53,05:34:37
+ironman-70.3-palmas-20170423.csv,626,Augusto De Menezes Vaz,55,Rio dejaneiro,BRA,00:39:53,02:51:15,02:30:29,00:05:05,00:02:33,06:09:15
+ironman-70.3-palmas-20170423.csv,627,Alessandra Marra,---,---,BRA,00:48:52,03:34:54,02:30:15,00:04:06,00:02:28,07:00:35
+ironman-70.3-palmas-20170423.csv,628,Sandro De Paiva Magalhaes,47,sp,BRA,00:41:38,02:35:07,01:52:29,00:03:13,00:01:32,05:13:59
+ironman-70.3-palmas-20170423.csv,629,Luciano De Queiroz Marques,45,MINAS GERAIS,BRA,00:38:58,02:35:48,02:11:51,00:03:56,00:02:40,05:33:13
+ironman-70.3-palmas-20170423.csv,630,Rafael Busatto,34,Intl State,BRA,00:35:54,02:41:04,01:44:05,00:02:18,00:02:16,05:05:37
+ironman-70.3-palmas-20170423.csv,631,Gabriel Pereira,40,---,BRA,00:31:17,02:23:27,01:40:46,00:02:57,00:07:10,04:45:37
+ironman-70.3-palmas-20170423.csv,632,Danillo Vieira Nunes,31,GOIÁS,BRA,00:36:59,02:25:20,01:44:24,00:03:25,00:02:07,04:52:15
+ironman-70.3-palmas-20170423.csv,633,Edmar Alves Martins,57,SP,BRA,00:48:39,02:38:53,02:07:18,00:03:56,00:05:48,05:44:34
+ironman-70.3-palmas-20170423.csv,634,Benedito Palheta Dos Santos,48,TO,BRA,00:50:24,03:34:14,03:10:46,00:04:56,00:05:26,07:45:46
+ironman-70.3-palmas-20170423.csv,635,Gustavo Rodrigues Borges,30,TO,BRA,00:25:42,02:29:16,01:41:04,00:02:33,00:00:59,04:39:34
+ironman-70.3-palmas-20170423.csv,636,Flavio Silva Lopes,39,sao paulo,BRA,00:28:31,02:26:12,---,00:03:36,00:01:43,DNF
+ironman-70.3-palmas-20170423.csv,637,Sandro Da Silva Rios,36,tocantins,BRA,00:47:05,03:07:38,02:55:42,00:03:04,00:03:28,06:56:57
+ironman-70.3-palmas-20170423.csv,638,Julius Bomfim,38,AL,BRA,00:45:11,02:42:44,02:12:05,00:02:46,00:01:42,05:44:28
+ironman-70.3-palmas-20170423.csv,639,Victor Carmagnani,36,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,640,Agildo Neves Junior,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,641,Luiz Felipe Moura,59,Intl State,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,642,Carlos Augusto Costa Fernandes,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,643,Luciano Abreu,38,Tocantins,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,644,Caio Mario Caldeira Brant Ribeiro,46,MG,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,645,Barbara Duarte De Oliveira,33,MINAS GERAIS,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,646,Rodrigo Cantal,37,Ceará,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,647,Joao Marcello Novaes Do Nascimento  Baptista,35,Rio de Janeiro,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,648,Bernardo Vaz,35,mg,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,649,Leonardo Navarro Aquilino,41,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,650,Eduardo Barros Mariutti,43,São Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,651,Alexandre Felippu,30,Sao Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,652,Ricardo Jose Junior Garcia,36,Intl State,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,653,Higor Lopes,23,São Paulo,BRA,00:28:38,02:24:58,02:00:34,00:02:44,00:01:48,04:58:42
+ironman-70.3-palmas-20170423.csv,654,Gustavo Marchezin,34,Sao Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,655,Felipe Mateus Sampaio Da Silva,38,Distrito Federal,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,656,Marcio Moreira,42,Ceara,BRA,00:40:45,02:49:55,01:51:27,00:02:59,00:02:26,05:27:32
+ironman-70.3-palmas-20170423.csv,657,Helen Muzza De Freitas Moreira,30,Parana,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,658,Henrique Nicco,25,Paraná,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,659,Fabricio Oliveira,36,Santa Catarina,BRA,00:38:34,02:24:49,01:54:49,00:04:55,00:01:27,05:04:34
+ironman-70.3-palmas-20170423.csv,660,Nathalia Pereira Amorim,31,minas gerais,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,661,Artur Queiroz,34,BA,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,662,Roberta Wendorf,34,SP,BRA,---,---,---,---,---,DNS
+ironman-70.3-palmas-20170423.csv,663,Klaus OLIVEIRA,38,---,BRA,00:38:19,02:32:23,01:47:15,00:05:07,00:02:27,05:05:31
+ironman-70.3-palmas-20170423.csv,664,Leandro Leao,33,SP,BRA,00:28:39,02:22:05,01:29:26,00:03:00,00:01:31,04:24:41
+ironman-70.3-palmas-20170423.csv,665,Felipe Burnier Clauset,33,São Paulo,BRA,00:36:37,02:52:20,02:56:38,00:04:46,00:04:43,06:35:04
+ironman-70.3-palmas-20170423.csv,666,Daniel Shiraishi,---,---,BRA,00:43:28,03:02:01,02:14:00,00:06:49,00:04:15,06:10:33

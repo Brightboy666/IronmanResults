@@ -1,0 +1,1576 @@
+#File=ironman-70.3-edinburgh-20170702.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-edinburgh-20170702.csv,1,Fraser Cartmell,35,Intl State,GBR,00:13:40,02:28:23,01:20:32,00:02:22,00:01:45,04:06:42
+ironman-70.3-edinburgh-20170702.csv,2,Ruedi Wild,35,---,CHE,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,3,David Mcnamee,29,APO,GBR,00:13:15,---,---,00:02:10,---,DNF
+ironman-70.3-edinburgh-20170702.csv,4,Javier Gomez,34,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,5,Harry Wiltshire,34,Intl State,GBR,00:13:08,02:29:16,---,00:02:05,00:01:41,DNF
+ironman-70.3-edinburgh-20170702.csv,6,Stuart Hayes,38,---,GBR,00:13:14,02:28:52,---,00:02:26,00:01:38,DNF
+ironman-70.3-edinburgh-20170702.csv,7,Richard Westover,30,---,GBR,00:17:23,02:37:55,01:26:09,00:02:43,00:02:17,04:26:27
+ironman-70.3-edinburgh-20170702.csv,8,Lachlan Kerin,22,VIC,AUS,00:14:09,02:26:42,01:24:08,00:03:00,00:01:42,04:09:41
+ironman-70.3-edinburgh-20170702.csv,9,Colin Norris,30,---,GBR,00:14:43,02:33:44,01:15:06,00:02:41,00:01:53,04:08:07
+ironman-70.3-edinburgh-20170702.csv,10,Albert Moreno Molins,27,---,ESP,00:15:31,02:33:12,01:18:11,00:02:27,00:02:02,04:11:23
+ironman-70.3-edinburgh-20170702.csv,11,Ritchie Nicholls,29,Derry,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,12,Andrew Yoder,27,PA,USA,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,13,Elliot Smales,22,---,GBR,00:13:08,02:29:13,01:18:08,00:02:03,00:02:03,04:04:35
+ironman-70.3-edinburgh-20170702.csv,14,Chris Walker,27,Dorset,GBR,00:14:12,02:29:16,01:25:15,00:02:38,00:02:27,04:13:48
+ironman-70.3-edinburgh-20170702.csv,15,Yvan Jarrige,28,---,FRA,00:13:46,02:28:34,01:16:50,00:02:14,00:01:34,04:02:58
+ironman-70.3-edinburgh-20170702.csv,16,Alessandro De Gasperi,36,Intl State,ITA,00:14:13,02:27:41,01:16:08,00:02:27,00:01:46,04:02:15
+ironman-70.3-edinburgh-20170702.csv,17,Vincent Morizot,25,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,18,Pete Dyson,28,England,GBR,00:17:29,02:30:35,01:23:41,00:03:00,00:01:48,04:16:33
+ironman-70.3-edinburgh-20170702.csv,19,Toumy Degham,37,---,FRA,00:14:14,02:28:03,01:26:19,00:02:14,00:01:46,04:12:36
+ironman-70.3-edinburgh-20170702.csv,20,David Breuer,26,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,21,Joris Buyl,32,---,BEL,00:14:10,02:34:27,01:26:47,00:02:41,00:01:49,04:19:54
+ironman-70.3-edinburgh-20170702.csv,22,Andreas Raelert,40,---,DEU,00:13:53,02:22:18,01:15:11,00:02:18,00:01:41,03:55:21
+ironman-70.3-edinburgh-20170702.csv,23,Martin Bader,25,---,AUT,00:13:10,02:28:37,01:21:15,00:02:43,00:01:35,04:07:20
+ironman-70.3-edinburgh-20170702.csv,24,Jonathan Ciavattella,35,Intl State,ITA,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,25,Daniel Fontana,41,Milano,ITA,00:13:44,03:00:31,---,00:02:28,---,DNF
+ironman-70.3-edinburgh-20170702.csv,26,Pieter Heemeryck,27,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,30,Lucy Gossage,37,Intl State,GBR,00:17:24,02:39:33,01:25:17,00:02:22,00:01:56,04:26:32
+ironman-70.3-edinburgh-20170702.csv,31,Helle Frederiksen,36,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,32,Emma Pallant,28,Surrey,GBR,00:16:32,02:40:15,01:21:56,00:02:40,00:01:54,04:23:17
+ironman-70.3-edinburgh-20170702.csv,33,Nikki Bartlett,30,Gloucestershire,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,34,Sarah True,35,NH,USA,00:14:01,02:47:45,01:25:25,00:02:38,00:02:03,04:31:52
+ironman-70.3-edinburgh-20170702.csv,35,Alice Hector,34,Intl State,GBR,00:15:48,02:50:37,01:29:38,00:02:49,00:02:14,04:41:06
+ironman-70.3-edinburgh-20170702.csv,36,Aine Donegan,29,Wicklow,IRL,00:18:34,02:50:33,01:34:52,00:02:22,00:02:02,04:48:23
+ironman-70.3-edinburgh-20170702.csv,37,Hannah Drewett,24,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,38,Maria Czesnik,40,---,POL,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,39,Eleanor Haresign,38,---,GBR,00:16:32,02:55:13,01:38:08,00:02:49,00:02:42,04:55:24
+ironman-70.3-edinburgh-20170702.csv,40,Anna Noguera,24,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,41,Agnieszka Jerzyk,29,---,POL,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,42,Tine Holst,37,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,43,Jeanne Collonge,30,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,44,Judith Corachan Vaquera,32,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,45,Eimear Mullan,35,Intl State,IRL,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,46,Kristin Moeller,33,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,50,Matti Weitz,27,---,DEU,00:17:13,02:36:18,01:26:48,00:02:46,00:02:01,04:25:06
+ironman-70.3-edinburgh-20170702.csv,51,Elizabeth Gannon,57,Hants,GBR,00:32:06,03:37:41,02:17:51,00:06:00,00:05:35,06:39:13
+ironman-70.3-edinburgh-20170702.csv,52,Tony Whitaker,50,---,GBR,00:21:36,03:18:34,01:51:36,00:06:43,00:03:18,05:41:47
+ironman-70.3-edinburgh-20170702.csv,53,Moeller Uwe,52,---,DEU,00:18:53,02:55:35,01:48:01,00:06:01,00:02:16,05:10:46
+ironman-70.3-edinburgh-20170702.csv,54,Innes Wright,51,---,GBR,00:19:29,03:09:00,01:34:04,00:04:02,00:02:01,05:08:36
+ironman-70.3-edinburgh-20170702.csv,55,David Allsop,51,Northamptonshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,56,Charles Watson,59,Aberdeenshire,GBR,00:21:12,03:12:34,01:55:26,00:05:57,00:03:06,05:38:15
+ironman-70.3-edinburgh-20170702.csv,57,Evan Davies,59,Dorset,GBR,00:26:48,03:13:17,01:49:12,00:05:53,00:03:24,05:38:34
+ironman-70.3-edinburgh-20170702.csv,58,Jon Brown,64,NM,USA,00:19:28,03:07:06,01:47:29,00:05:42,00:03:38,05:23:23
+ironman-70.3-edinburgh-20170702.csv,59,Eric Blakie,63,Intl State,GBR,00:22:49,03:15:46,02:09:23,00:07:29,00:05:23,06:00:50
+ironman-70.3-edinburgh-20170702.csv,60,Martin Gannon,60,---,GBR,00:24:32,03:08:28,01:46:37,00:06:10,00:02:33,05:28:20
+ironman-70.3-edinburgh-20170702.csv,61,Lesley West,33,VIC,AUS,00:18:52,03:00:12,01:31:12,00:04:22,00:02:08,04:56:46
+ironman-70.3-edinburgh-20170702.csv,62,Alan Blakie,34,---,GBR,00:18:31,02:50:41,01:30:41,00:03:19,00:02:41,04:45:53
+ironman-70.3-edinburgh-20170702.csv,63,Manuel Huerzeler,30,---,CHE,00:19:43,02:51:35,01:48:07,00:03:28,00:03:27,05:06:20
+ironman-70.3-edinburgh-20170702.csv,64,Finlay Mcandrew,27,---,GBR,00:17:08,02:41:09,01:25:08,00:03:10,00:02:01,04:28:36
+ironman-70.3-edinburgh-20170702.csv,65,Mihai Alin Baractaru,28,Brasov,ROU,00:17:56,02:49:41,01:26:30,00:04:36,00:02:31,04:41:14
+ironman-70.3-edinburgh-20170702.csv,66,Melanie Avery,42,---,AUS,00:22:56,03:20:38,01:56:59,00:09:25,00:04:30,05:54:28
+ironman-70.3-edinburgh-20170702.csv,67,Kenneth Heney,40,DXB,GBR,00:18:37,03:06:01,01:45:17,00:03:58,00:02:46,05:16:39
+ironman-70.3-edinburgh-20170702.csv,68,Shay Eskew,43,TN,USA,00:26:29,03:05:18,01:43:11,00:05:57,00:08:08,05:29:03
+ironman-70.3-edinburgh-20170702.csv,69,Mark Mcintosh,40,Fife,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,70,Nigel Gaskin,39,West Midlands,GBR,00:15:25,02:58:43,01:29:05,00:03:19,00:02:04,04:48:36
+ironman-70.3-edinburgh-20170702.csv,71,Mark Julier,42,Dorset,GBR,00:18:56,02:44:20,01:36:13,00:03:46,00:02:33,04:45:48
+ironman-70.3-edinburgh-20170702.csv,72,Thomas Gafner,40,---,CHE,00:18:15,02:43:42,01:30:53,00:05:23,00:02:57,04:41:10
+ironman-70.3-edinburgh-20170702.csv,73,Andrew Ackerley,44,England,GBR,00:23:03,02:53:02,01:31:12,00:03:52,00:02:54,04:54:03
+ironman-70.3-edinburgh-20170702.csv,74,David Watson,36,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,75,Ryan Mclaughlin,36,Scotland,ZAF,00:21:18,02:48:44,01:27:47,00:04:20,00:03:13,04:45:22
+ironman-70.3-edinburgh-20170702.csv,76,Markus Gloel,37,---,FIN,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,77,Naseema Roue,45,---,GBR,00:31:38,04:13:04,02:05:35,00:18:54,00:10:58,07:20:09
+ironman-70.3-edinburgh-20170702.csv,78,Janet Livesey,45,---,GBR,00:19:47,03:08:43,01:49:49,00:05:05,00:02:24,05:25:48
+ironman-70.3-edinburgh-20170702.csv,79,Nick Lees,46,Greater Manchester,GBR,00:21:11,03:08:44,01:50:31,00:04:08,00:03:48,05:28:22
+ironman-70.3-edinburgh-20170702.csv,80,Livesey Mark,44,NTT,GBR,00:15:53,02:35:25,01:28:45,00:02:57,00:02:12,04:25:12
+ironman-70.3-edinburgh-20170702.csv,81,Thomas Oberli,47,---,CHE,00:16:15,02:46:35,01:29:34,00:02:52,00:03:34,04:38:50
+ironman-70.3-edinburgh-20170702.csv,82,Tim Richardson,49,---,GBR,00:27:15,03:16:01,01:53:15,00:05:55,00:03:15,05:45:41
+ironman-70.3-edinburgh-20170702.csv,83,Share Forrester,58,staffordshire,GBR,00:29:36,03:42:10,01:52:36,00:09:36,00:05:27,06:19:25
+ironman-70.3-edinburgh-20170702.csv,84,Siobhan Kennedy,54,Waterford,IRL,00:27:59,03:20:39,01:49:30,00:09:52,00:04:30,05:52:30
+ironman-70.3-edinburgh-20170702.csv,85,Rod Matteri,50,CA,USA,00:26:11,03:20:43,01:55:24,00:06:47,00:04:12,05:53:17
+ironman-70.3-edinburgh-20170702.csv,86,Jürgen Freier,53,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,87,Hugh Gibbs,53,Kent,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,88,Steven Lyons,51,---,GBR,00:23:14,03:05:52,01:53:19,00:05:32,00:03:54,05:31:51
+ironman-70.3-edinburgh-20170702.csv,89,Mark Pestridge,49,---,GBR,00:21:45,03:26:17,---,00:04:33,---,DNF
+ironman-70.3-edinburgh-20170702.csv,90,Christopher H Gair,55,Angus,GBR,00:29:56,03:51:12,01:54:54,00:13:09,00:08:36,06:37:47
+ironman-70.3-edinburgh-20170702.csv,91,Charles Collins,57,Intl State,GBR,00:23:32,03:26:25,01:54:12,00:05:57,00:03:32,05:53:38
+ironman-70.3-edinburgh-20170702.csv,92,Lyndsey Fraser,30,Bangkok,THA,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,93,Abdulrahman Alhosani,32,AUH,ARE,00:21:46,03:20:24,01:49:43,00:04:53,00:02:56,05:39:42
+ironman-70.3-edinburgh-20170702.csv,94,Murray Taylor,31,---,GBR,00:21:36,02:56:05,01:41:00,00:04:32,00:03:05,05:06:18
+ironman-70.3-edinburgh-20170702.csv,95,Annie Frederick,24,---,GBR,00:21:57,03:09:28,01:49:42,00:03:55,00:01:56,05:26:58
+ironman-70.3-edinburgh-20170702.csv,96,Llewelyn Edwards,23,Wrexgam,GBR,00:25:01,02:53:42,01:41:27,00:05:06,00:03:12,05:08:28
+ironman-70.3-edinburgh-20170702.csv,97,Andrew Woodroffe,23,---,GBR,00:17:03,02:42:17,01:21:16,00:02:42,00:01:59,04:25:17
+ironman-70.3-edinburgh-20170702.csv,98,Jules Cass,28,London,ZAF,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,99,Neil Graham,28,---,GBR,00:20:36,02:37:57,01:23:31,00:04:09,00:01:52,04:28:05
+ironman-70.3-edinburgh-20170702.csv,100,William Soutar,28,---,GBR,00:20:57,02:43:58,01:36:07,00:03:30,00:02:33,04:47:05
+ironman-70.3-edinburgh-20170702.csv,101,Sam Coxon,25,Staffordshire,GBR,00:17:58,02:39:46,01:28:37,00:03:54,00:02:36,04:32:51
+ironman-70.3-edinburgh-20170702.csv,102,Celia Davin,40,galway,IRL,00:17:35,03:15:15,---,00:05:05,00:04:18,DNF
+ironman-70.3-edinburgh-20170702.csv,103,Sophie Coutant,43,---,FRA,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,104,Adrienne Miller,40,FL,USA,00:30:03,03:40:33,02:21:00,00:11:56,00:07:23,06:50:55
+ironman-70.3-edinburgh-20170702.csv,105,Andrew Wales,41,Shropshire,GBR,00:20:26,03:14:18,01:41:47,00:06:18,00:05:07,05:27:56
+ironman-70.3-edinburgh-20170702.csv,106,Grant Whiteside,43,---,GBR,00:22:13,02:52:46,01:48:11,00:04:33,00:02:33,05:10:16
+ironman-70.3-edinburgh-20170702.csv,107,Timothy Williams,41,---,GBR,00:24:20,02:59:32,01:36:18,00:04:37,00:02:37,05:07:24
+ironman-70.3-edinburgh-20170702.csv,108,Lewis Waterworth,43,---,IRL,00:20:13,03:03:46,01:44:52,00:04:29,00:02:45,05:16:05
+ironman-70.3-edinburgh-20170702.csv,109,Matthew Cranham,40,---,GBR,00:26:12,03:35:26,02:23:06,00:07:14,00:03:40,06:35:38
+ironman-70.3-edinburgh-20170702.csv,110,Nigel White,44,North Yorkshire,GBR,00:24:27,03:07:14,01:41:20,00:04:42,00:05:27,05:23:10
+ironman-70.3-edinburgh-20170702.csv,111,Georg Vogelmann,43,---,DEU,00:28:20,03:10:55,01:51:22,00:04:56,00:03:17,05:38:50
+ironman-70.3-edinburgh-20170702.csv,112,Grégoire Mazuel,44,UK,FRA,00:28:18,03:51:38,01:40:47,00:18:32,00:07:11,06:26:26
+ironman-70.3-edinburgh-20170702.csv,113,Andrew Kennedy,43,Down,AUS,00:17:14,02:56:22,01:44:12,00:03:16,00:02:37,05:03:41
+ironman-70.3-edinburgh-20170702.csv,114,Simon Roue,41,---,GBR,00:29:23,03:21:58,01:53:17,00:10:25,00:04:37,05:59:40
+ironman-70.3-edinburgh-20170702.csv,115,José María Azcárate Ayerra,42,---,ESP,00:26:22,02:48:04,01:34:29,00:05:44,00:01:59,04:56:38
+ironman-70.3-edinburgh-20170702.csv,116,Duncan Mackay,42,Isle of Man,GBR,00:27:04,03:20:11,01:57:09,00:08:21,00:05:08,05:57:53
+ironman-70.3-edinburgh-20170702.csv,117,Jillian Chaney,37,CA,USA,00:24:19,03:48:23,01:58:23,00:09:38,00:05:29,06:26:12
+ironman-70.3-edinburgh-20170702.csv,118,Chris Standidge,37,---,GBR,00:15:15,02:30:19,01:22:56,00:02:30,00:02:01,04:13:01
+ironman-70.3-edinburgh-20170702.csv,119,Mathew Matonti,39,Scotland,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,120,Ross Husband,36,Cumbria,GBR,00:28:37,03:10:50,02:16:34,00:07:41,00:06:55,06:10:37
+ironman-70.3-edinburgh-20170702.csv,121,Frederik Boussy,34,---,BEL,00:16:35,02:49:20,01:37:49,00:04:19,00:02:54,04:50:57
+ironman-70.3-edinburgh-20170702.csv,122,Mark Thompson,36,---,GBR,00:24:58,02:47:11,01:38:06,00:03:43,00:03:48,04:57:46
+ironman-70.3-edinburgh-20170702.csv,123,Angela Ackerley,46,---,GBR,00:27:55,03:16:46,02:13:28,00:04:58,00:02:28,06:05:35
+ironman-70.3-edinburgh-20170702.csv,124,Robert Whyte,48,Co Kerry,IRL,00:22:59,03:01:16,01:35:34,00:04:31,00:04:19,05:08:39
+ironman-70.3-edinburgh-20170702.csv,125,Matthew Harte,46,Staffordshire,GBR,00:23:14,02:55:42,01:48:25,00:04:05,00:02:36,05:14:02
+ironman-70.3-edinburgh-20170702.csv,126,Dave Patmore-Hill,49,Cambridgeshire,GBR,00:20:42,03:17:20,01:42:41,00:03:47,00:02:26,05:26:56
+ironman-70.3-edinburgh-20170702.csv,127,Paul Clark,47,Avon,GBR,00:25:26,03:00:10,01:47:06,00:06:04,00:04:37,05:23:23
+ironman-70.3-edinburgh-20170702.csv,128,Wayne Bond,46,Somerset,GBR,00:44:11,03:18:17,02:05:43,00:11:45,00:05:52,06:25:48
+ironman-70.3-edinburgh-20170702.csv,129,Ewan Cameron,46,Qatar,GBR,00:24:14,03:20:25,02:01:42,00:05:33,00:04:41,05:56:35
+ironman-70.3-edinburgh-20170702.csv,130,Colin Wightman,47,-,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,131,Greg Withers,44,TX,NZL,00:24:22,03:01:16,01:38:02,00:06:07,00:05:02,05:14:49
+ironman-70.3-edinburgh-20170702.csv,132,Kirsty Aitken,50,---,GBR,00:23:28,03:21:17,01:50:30,00:06:32,00:03:46,05:45:33
+ironman-70.3-edinburgh-20170702.csv,133,Fiona Davidson,57,Midlothian,GBR,00:25:16,03:39:09,02:06:43,00:07:12,00:05:45,06:24:05
+ironman-70.3-edinburgh-20170702.csv,134,Neil Mcloughlin,51,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,135,Keri Jones-Davies,50,North Yorkshire,GBR,00:26:36,03:18:22,01:46:31,00:08:18,00:02:51,05:42:38
+ironman-70.3-edinburgh-20170702.csv,136,Andrew Galbraith,49,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,137,David Thompson,51,Angus,GBR,00:24:34,03:14:51,01:52:12,00:10:05,00:03:36,05:45:18
+ironman-70.3-edinburgh-20170702.csv,138,Simon Willis,58,Highland,GBR,00:23:56,03:28:36,02:08:46,00:06:18,00:04:20,06:11:56
+ironman-70.3-edinburgh-20170702.csv,139,Mark Finlay,55,---,GBR,00:27:51,03:19:16,02:07:55,00:06:28,00:05:19,06:06:49
+ironman-70.3-edinburgh-20170702.csv,140,Robert Hume,55,---,GBR,00:18:20,03:11:02,01:57:51,00:04:33,00:02:44,05:34:30
+ironman-70.3-edinburgh-20170702.csv,141,Sarah Leakey,33,---,GBR,00:20:42,03:03:35,01:37:07,00:04:16,00:03:00,05:08:40
+ironman-70.3-edinburgh-20170702.csv,142,Catherine Paterson,32,---,GBR,00:28:44,03:45:51,01:56:33,00:08:21,00:04:43,06:24:12
+ironman-70.3-edinburgh-20170702.csv,143,Joe Harney,33,DXB,GBR,00:20:05,03:06:15,01:42:18,00:06:06,00:03:55,05:18:39
+ironman-70.3-edinburgh-20170702.csv,144,chris hutchinson,30,County Antrim,IRL,00:23:32,02:48:56,01:29:45,00:06:10,00:02:32,04:50:55
+ironman-70.3-edinburgh-20170702.csv,145,Philip Evans,31,---,GBR,00:23:55,03:28:46,01:54:48,00:05:57,00:04:42,05:58:08
+ironman-70.3-edinburgh-20170702.csv,146,Michael Hirst,24,East Yorkshire,GBR,00:26:00,03:31:32,01:15:30,00:05:05,00:03:50,05:21:57
+ironman-70.3-edinburgh-20170702.csv,147,Catherine Sands,25,Down,IRL,00:19:27,03:09:29,01:46:57,00:04:07,00:02:32,05:22:32
+ironman-70.3-edinburgh-20170702.csv,148,Blake Linnerud,28,TX,KWT,00:25:53,03:16:48,02:05:52,00:07:24,00:04:27,06:00:24
+ironman-70.3-edinburgh-20170702.csv,149,Matthieu Pascal,26,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,150,Joshua Arthur,28,---,GBR,00:25:02,03:19:53,01:31:34,00:07:18,00:05:04,05:28:51
+ironman-70.3-edinburgh-20170702.csv,151,Graeme Smith,28,---,GBR,00:42:56,04:31:02,---,00:06:55,---,DNF
+ironman-70.3-edinburgh-20170702.csv,152,Debby Saunders,41,---,GBR,00:30:22,03:45:55,02:16:14,00:06:38,00:04:38,06:43:47
+ironman-70.3-edinburgh-20170702.csv,153,Elizabeth Richardson,41,---,GBR,00:20:05,02:57:44,01:37:52,00:03:13,00:01:54,05:00:48
+ironman-70.3-edinburgh-20170702.csv,154,Ross Crombie,40,---,GBR,00:28:32,03:14:50,01:34:46,00:08:38,00:05:25,05:32:11
+ironman-70.3-edinburgh-20170702.csv,155,Steven Honeyman,40,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,156,Mark Arndt,42,west lothian,GBR,00:18:34,02:44:20,01:29:52,00:03:04,00:01:43,04:37:33
+ironman-70.3-edinburgh-20170702.csv,157,Stewart Kerr,43,West Lothian,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,158,Karl Roberts,40,Lancashire,GBR,00:26:18,03:35:27,02:23:05,00:07:15,00:03:38,06:35:43
+ironman-70.3-edinburgh-20170702.csv,159,"Jerome ""jj"" Jones",42,Derbyshire,GBR,00:20:26,02:59:31,01:46:45,00:03:29,00:02:06,05:12:17
+ironman-70.3-edinburgh-20170702.csv,160,Chris Cook,42,NS,CAN,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,161,Jody Sheehan,41,Bedfordshire,GBR,00:23:45,03:14:36,01:51:30,00:04:56,00:04:18,05:39:05
+ironman-70.3-edinburgh-20170702.csv,162,Daniel Prendergast,42,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,163,Simon Albarel,40,---,FRA,00:20:47,03:16:46,01:51:26,00:07:15,00:06:24,05:42:38
+ironman-70.3-edinburgh-20170702.csv,164,Wayne Kelly,41,---,IRL,00:30:39,03:08:17,02:22:49,00:09:28,00:04:05,06:15:18
+ironman-70.3-edinburgh-20170702.csv,165,Miguel Vieira,40,Surrey,AGO,00:23:48,02:53:51,01:35:47,00:04:19,00:02:49,05:00:34
+ironman-70.3-edinburgh-20170702.csv,166,Anton Black,39,Herts,GBR,00:21:15,03:09:38,01:52:32,00:05:16,00:03:40,05:32:21
+ironman-70.3-edinburgh-20170702.csv,167,Meghann Cleary,37,Kuwait,USA,00:23:22,03:14:43,02:06:01,00:07:34,00:03:20,05:55:00
+ironman-70.3-edinburgh-20170702.csv,168,Suzanne Matonti,35,---,GBR,00:15:54,03:32:35,01:43:28,00:08:40,00:07:31,05:48:08
+ironman-70.3-edinburgh-20170702.csv,169,Martin Döhler,38,---,DEU,00:29:42,03:11:41,01:36:24,00:05:25,00:04:15,05:27:27
+ironman-70.3-edinburgh-20170702.csv,170,Dave Phillips,36,wilts,GBR,00:16:49,02:50:23,01:26:31,00:03:51,00:02:47,04:40:21
+ironman-70.3-edinburgh-20170702.csv,171,Raphael Vorpe,35,---,CHE,00:19:36,02:43:35,01:27:33,00:03:33,00:01:56,04:36:13
+ironman-70.3-edinburgh-20170702.csv,172,Matthew Blagg,37,Berkshire,GBR,00:21:29,02:48:05,01:25:22,00:03:58,00:02:03,04:40:57
+ironman-70.3-edinburgh-20170702.csv,173,Peter Kendhammer,36,VIC,GBR,00:25:39,03:13:06,02:03:26,00:04:56,00:03:28,05:50:35
+ironman-70.3-edinburgh-20170702.csv,174,Oliver Cooper,38,---,GBR,00:27:29,03:02:22,01:38:45,00:08:41,00:03:59,05:21:16
+ironman-70.3-edinburgh-20170702.csv,175,Jp Loof,38,Oxfordshire,FRA,00:24:10,03:05:23,01:48:53,00:04:59,00:02:09,05:25:34
+ironman-70.3-edinburgh-20170702.csv,176,Sever Hida,38,NY,UMI,00:25:16,03:31:59,01:36:38,00:09:02,00:03:41,05:46:36
+ironman-70.3-edinburgh-20170702.csv,177,Clodie Sutcliffe,48,Dorset,GBR,00:25:54,03:34:11,02:17:35,00:06:54,00:05:12,06:29:46
+ironman-70.3-edinburgh-20170702.csv,178,Karen Watkins,45,---,GBR,00:18:52,03:02:12,01:48:45,00:03:30,00:02:41,05:16:00
+ironman-70.3-edinburgh-20170702.csv,179,Stuart Galbraith,44,---,GBR,00:22:14,03:07:59,02:22:10,00:04:10,00:03:23,05:59:56
+ironman-70.3-edinburgh-20170702.csv,180,Stuart Macleod,45,UK,GBR,---,---,---,---,---,DQ
+ironman-70.3-edinburgh-20170702.csv,181,Giles Cooper,48,---,GBR,00:24:54,03:31:41,02:21:16,00:06:38,00:06:40,06:31:09
+ironman-70.3-edinburgh-20170702.csv,182,Branislav Kusik,45,Slovakia,SVK,00:23:58,03:14:23,02:05:56,00:06:50,00:04:38,05:55:45
+ironman-70.3-edinburgh-20170702.csv,183,Norman Banick,29,---,DEU,00:17:44,02:44:33,01:25:54,00:03:15,00:02:30,04:33:56
+ironman-70.3-edinburgh-20170702.csv,184,Fiona Ford,46,Surrey,AUS,00:18:24,03:13:24,01:37:26,00:05:39,00:04:26,05:19:19
+ironman-70.3-edinburgh-20170702.csv,185,Alex Ward,32,---,GBR,00:21:02,02:49:14,01:37:16,00:03:23,00:02:28,04:53:23
+ironman-70.3-edinburgh-20170702.csv,186,Michael Lavender,24,---,GBR,00:16:20,02:38:26,01:29:55,00:02:32,00:01:51,04:29:04
+ironman-70.3-edinburgh-20170702.csv,187,Shane Walsh,38,Waterford,IRL,00:21:18,03:19:22,01:49:41,00:03:50,00:05:11,05:39:22
+ironman-70.3-edinburgh-20170702.csv,188,Stephen Gildea,---,---,AUS,00:21:59,03:15:30,01:44:56,00:06:34,00:03:23,05:32:22
+ironman-70.3-edinburgh-20170702.csv,189,Tony Macpherson,53,---,GBR,00:28:03,03:52:21,02:37:20,00:08:21,00:07:09,07:13:14
+ironman-70.3-edinburgh-20170702.csv,190,Seamus Morrison,48,Donegal,IRL,01:03:17,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,191,Richard Platt,41,Tokyo,IRL,00:24:07,03:14:19,01:36:11,00:05:47,00:03:34,05:23:58
+ironman-70.3-edinburgh-20170702.csv,199,Nicki Wilmshurst,22,Angus,GBR,00:23:18,03:50:27,02:38:10,00:04:10,00:07:15,07:03:20
+ironman-70.3-edinburgh-20170702.csv,200,Beth Rendall,21,Aberdeenshire,GBR,00:31:41,03:55:32,02:01:29,00:04:07,00:04:23,06:37:12
+ironman-70.3-edinburgh-20170702.csv,201,Zoe Whitley,23,Midlothian,GBR,00:25:18,03:21:50,01:59:27,00:06:03,00:04:48,05:57:26
+ironman-70.3-edinburgh-20170702.csv,202,Rebecca Green,22,Bedfordshire,GBR,00:34:00,05:04:32,---,00:07:39,---,DNF
+ironman-70.3-edinburgh-20170702.csv,203,Eloise Thompson,23,Cheshire,GBR,00:31:54,04:17:29,02:51:32,00:06:59,00:06:14,07:54:08
+ironman-70.3-edinburgh-20170702.csv,204,Jenna Reid,22,---,GBR,00:24:12,03:49:36,02:07:57,00:07:02,00:03:09,06:31:56
+ironman-70.3-edinburgh-20170702.csv,205,Katie Bain,22,---,GBR,00:24:01,03:23:21,01:35:32,00:05:40,00:03:15,05:31:49
+ironman-70.3-edinburgh-20170702.csv,206,Chloe Stewart,24,---,GBR,00:30:37,03:48:51,02:30:38,00:07:09,00:07:16,07:04:31
+ironman-70.3-edinburgh-20170702.csv,207,Ruari Jardine,23,---,GBR,00:22:38,03:08:08,01:43:59,00:07:16,00:02:51,05:24:52
+ironman-70.3-edinburgh-20170702.csv,208,Craig Bathgate,23,---,GBR,00:31:13,03:46:14,02:18:43,00:08:35,00:02:25,06:47:10
+ironman-70.3-edinburgh-20170702.csv,209,Andrew Hutcheson,21,---,GBR,00:21:07,03:25:18,01:51:26,00:05:55,00:03:00,05:46:46
+ironman-70.3-edinburgh-20170702.csv,210,Luke Voss,21,Dorset,GBR,00:15:23,02:51:24,01:32:38,00:03:09,00:02:30,04:45:04
+ironman-70.3-edinburgh-20170702.csv,211,Lewis Mcculloch,18,Scotland,GBR,00:28:13,03:36:41,02:00:10,00:12:45,00:06:01,06:23:50
+ironman-70.3-edinburgh-20170702.csv,212,Ryan Agate,22,---,GBR,00:24:27,04:00:43,01:56:21,00:06:19,00:06:12,06:34:02
+ironman-70.3-edinburgh-20170702.csv,213,Stuart Paterson,22,---,GBR,00:21:24,02:47:22,01:32:17,00:04:38,00:02:11,04:47:52
+ironman-70.3-edinburgh-20170702.csv,214,Lewis Sanders,24,---,GBR,00:17:39,03:23:57,---,00:06:00,00:05:54,DNF
+ironman-70.3-edinburgh-20170702.csv,215,Sam Rowley,22,Perthshire,GBR,00:17:03,03:07:24,02:04:28,00:05:28,00:02:50,05:37:13
+ironman-70.3-edinburgh-20170702.csv,216,Kris Cunningham,23,Moray,GBR,00:24:54,03:19:05,02:10:09,00:05:53,00:03:28,06:03:29
+ironman-70.3-edinburgh-20170702.csv,217,David Walls,22,---,GBR,00:23:07,03:39:46,02:03:53,00:05:38,00:05:40,06:18:04
+ironman-70.3-edinburgh-20170702.csv,218,David Sloan,23,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,219,Tom Hutcheon,24,East lothian,GBR,00:26:19,03:42:27,---,00:06:15,00:06:05,DNF
+ironman-70.3-edinburgh-20170702.csv,220,Alex Green,21,Tyne and Wear,GBR,00:24:13,03:13:49,01:51:35,00:06:59,00:03:42,05:40:18
+ironman-70.3-edinburgh-20170702.csv,221,Campbell Grant,22,Grampian,GBR,00:24:13,03:49:45,01:47:37,00:06:51,00:03:23,06:11:49
+ironman-70.3-edinburgh-20170702.csv,222,Michael Stephen,23,Aberdeenshire,GBR,00:21:19,03:47:04,02:01:40,00:07:33,00:02:26,06:20:02
+ironman-70.3-edinburgh-20170702.csv,223,Gareth Hunt,24,---,GBR,00:26:06,03:06:35,01:50:39,00:07:11,00:07:30,05:38:01
+ironman-70.3-edinburgh-20170702.csv,224,Callum Stephen,24,Peeblesshire,GBR,00:37:32,03:10:21,01:53:11,00:05:46,00:06:00,05:52:50
+ironman-70.3-edinburgh-20170702.csv,225,Andrew Suvan,19,---,CAN,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,226,Paddy Flood,24,Hampshire,GBR,00:21:28,03:29:20,01:52:28,00:05:35,00:04:55,05:53:46
+ironman-70.3-edinburgh-20170702.csv,227,David Low,24,---,GBR,00:27:54,04:01:58,02:49:02,00:06:43,00:03:04,07:28:41
+ironman-70.3-edinburgh-20170702.csv,228,Archie Reed,23,Lancashire,GBR,00:25:57,03:44:34,02:12:32,00:10:49,00:06:41,06:40:33
+ironman-70.3-edinburgh-20170702.csv,229,Ewan Laidlaw,21,---,GBR,00:25:53,03:28:35,01:49:23,00:08:55,00:05:23,05:58:09
+ironman-70.3-edinburgh-20170702.csv,230,Alasdair Wood,23,Perthshire,GBR,00:16:58,03:02:19,01:53:34,00:03:45,00:02:48,05:19:24
+ironman-70.3-edinburgh-20170702.csv,231,Tim Seeger,23,--,NLD,00:29:08,04:28:01,02:10:30,00:11:05,00:06:59,07:25:43
+ironman-70.3-edinburgh-20170702.csv,232,Michael Stark,22,Midlothian,GBR,00:19:43,03:09:09,01:41:55,00:05:10,00:03:39,05:19:36
+ironman-70.3-edinburgh-20170702.csv,233,Philip Moore,22,Oxfordshire,GBR,00:30:41,03:59:45,02:02:16,00:11:22,00:05:06,06:49:10
+ironman-70.3-edinburgh-20170702.csv,234,Joe Arthur,18,---,GBR,00:21:14,03:18:18,01:20:10,00:07:21,00:01:53,05:08:56
+ironman-70.3-edinburgh-20170702.csv,235,Oliver Bamber,24,Hertfordshire,GBR,00:23:07,03:27:33,02:12:12,00:09:15,00:04:25,06:16:32
+ironman-70.3-edinburgh-20170702.csv,236,Rory Hunter,20,Isle of Arran,GBR,00:16:35,02:43:02,01:30:02,00:02:58,00:01:37,04:34:14
+ironman-70.3-edinburgh-20170702.csv,237,Dean Kowalski,23,---,GBR,00:20:22,03:09:12,02:04:59,00:07:27,00:03:10,05:45:10
+ironman-70.3-edinburgh-20170702.csv,238,Lewis Oconnor,23,---,GBR,00:31:15,04:23:32,02:11:02,00:06:03,00:03:40,07:15:32
+ironman-70.3-edinburgh-20170702.csv,239,Tom Patton,22,---,GBR,00:25:34,03:56:41,02:08:00,00:11:22,00:04:18,06:45:55
+ironman-70.3-edinburgh-20170702.csv,240,Alasdair Grassie,21,-- State --,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,241,Iain D'Arcy,24,Cambs,GBR,00:20:28,03:33:56,02:27:28,00:07:11,00:05:02,06:34:05
+ironman-70.3-edinburgh-20170702.csv,242,Downie Robin,---,---,GBR,00:28:52,02:49:18,01:42:13,00:05:31,00:02:56,05:08:50
+ironman-70.3-edinburgh-20170702.csv,249,Sarah Connolly,27,Scotland,GBR,00:27:52,03:27:29,01:52:45,00:06:58,00:03:59,05:59:03
+ironman-70.3-edinburgh-20170702.csv,250,Hannah Melville,27,---,GBR,00:23:40,03:09:45,02:07:36,00:05:23,00:04:09,05:50:33
+ironman-70.3-edinburgh-20170702.csv,251,Emma Higgs Dale,27,---,GBR,00:31:27,03:47:58,02:23:16,00:04:57,00:03:42,06:51:20
+ironman-70.3-edinburgh-20170702.csv,252,Natasha Wilson,26,Fife,GBR,00:34:04,04:08:54,02:39:00,00:06:25,00:05:33,07:33:56
+ironman-70.3-edinburgh-20170702.csv,253,Alice Jenkins,25,---,GBR,00:15:46,03:00:28,01:29:49,00:02:53,00:02:43,04:51:39
+ironman-70.3-edinburgh-20170702.csv,254,Dawn Ogston,28,---,GBR,00:24:14,04:15:40,02:43:07,00:09:27,00:09:16,07:41:44
+ironman-70.3-edinburgh-20170702.csv,255,Lucy Welsh,28,---,GBR,00:23:06,03:37:44,02:04:54,00:05:58,00:04:37,06:16:19
+ironman-70.3-edinburgh-20170702.csv,256,Claire Cooke,26,---,GBR,00:22:25,03:28:01,01:58:05,00:06:42,00:02:43,05:57:56
+ironman-70.3-edinburgh-20170702.csv,257,Sarah Arnold,29,---,GBR,00:21:25,03:19:35,01:57:44,00:05:33,00:03:22,05:47:39
+ironman-70.3-edinburgh-20170702.csv,258,Rachel Stentiford,28,---,AUS,00:24:04,03:42:42,01:56:48,00:05:47,00:05:07,06:14:28
+ironman-70.3-edinburgh-20170702.csv,259,Kelsey Wiberley,27,MI,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,260,Mhairi Polson,29,---,GBR,00:24:13,03:25:27,01:48:59,00:04:37,00:03:41,05:46:57
+ironman-70.3-edinburgh-20170702.csv,261,Nicola Simpson,28,---,GBR,00:35:11,04:28:03,02:00:21,00:09:56,00:06:40,07:20:11
+ironman-70.3-edinburgh-20170702.csv,262,Hannah Harazawa,28,London,GBR,00:34:31,04:07:19,02:19:40,00:06:55,00:07:35,07:16:00
+ironman-70.3-edinburgh-20170702.csv,263,Fiona Morrison,29,---,GBR,00:39:48,04:58:09,---,00:10:41,---,DNF
+ironman-70.3-edinburgh-20170702.csv,264,Catherine Smaill,26,Midlothian,GBR,00:30:19,04:08:25,02:19:40,00:05:31,00:04:11,07:08:06
+ironman-70.3-edinburgh-20170702.csv,265,Harriet Allerston,27,---,GBR,00:28:27,04:17:26,02:01:47,00:06:01,00:06:50,07:00:31
+ironman-70.3-edinburgh-20170702.csv,266,Sarah Fleming,28,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,267,Amanda McCaig,27,Clackmannanshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,268,Anne Englebert-Jung,25,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,269,Dawne Morrison,28,---,GBR,00:34:56,04:15:23,02:08:37,00:09:51,00:07:07,07:15:54
+ironman-70.3-edinburgh-20170702.csv,270,Lucy Parmenter,28,---,GBR,00:20:47,03:36:02,01:53:45,00:04:21,00:02:34,05:57:29
+ironman-70.3-edinburgh-20170702.csv,271,Alina Smelova,28,---,RUS,00:33:35,04:04:50,01:57:09,00:09:04,00:08:15,06:52:53
+ironman-70.3-edinburgh-20170702.csv,272,Elizabeth Gaskin,25,---,GBR,00:26:15,03:59:40,02:14:48,00:07:53,00:03:55,06:52:31
+ironman-70.3-edinburgh-20170702.csv,273,Sarah Clifford,27,---,GBR,00:26:43,03:43:04,02:13:15,00:06:29,00:04:28,06:33:59
+ironman-70.3-edinburgh-20170702.csv,274,Rachel Devlin,29,---,GBR,00:28:56,03:37:45,02:02:49,00:08:13,00:06:11,06:23:54
+ironman-70.3-edinburgh-20170702.csv,275,Emily Lawson,27,Shropshire,GBR,00:24:22,03:42:43,02:04:55,00:05:27,00:05:10,06:22:37
+ironman-70.3-edinburgh-20170702.csv,276,Simone Dailey,28,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,277,Ruth Page,27,---,AUS,00:23:30,04:09:36,02:06:26,00:05:29,00:04:49,06:49:50
+ironman-70.3-edinburgh-20170702.csv,278,Fiona Dutton,26,AUH,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,279,Rebecca Geekie,25,Bedfordshire,GBR,00:23:21,03:28:41,02:06:03,00:04:24,00:05:44,06:08:13
+ironman-70.3-edinburgh-20170702.csv,280,Laura Butcher,27,Bolton,GBR,00:23:33,03:40:09,02:04:19,00:08:51,00:04:22,06:21:14
+ironman-70.3-edinburgh-20170702.csv,281,Dean Dickson,28,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,282,James Adamson,27,---,GBR,00:20:43,02:54:42,01:38:46,00:04:12,00:02:00,05:00:23
+ironman-70.3-edinburgh-20170702.csv,283,Alisdair Muir,28,---,GBR,00:29:21,03:51:59,01:38:17,00:07:20,00:06:24,06:13:21
+ironman-70.3-edinburgh-20170702.csv,284,Iain Kirkwood,29,---,GBR,00:23:53,03:46:11,02:00:47,00:09:06,00:03:43,06:23:40
+ironman-70.3-edinburgh-20170702.csv,285,John Mckechnie,26,Inverness shire,GBR,00:21:39,03:27:08,---,00:05:23,---,DNF
+ironman-70.3-edinburgh-20170702.csv,286,Ben Sharp,27,---,GBR,00:24:56,03:29:49,02:05:00,00:05:09,00:04:25,06:09:19
+ironman-70.3-edinburgh-20170702.csv,287,David Hill,29,---,GBR,00:23:07,03:32:35,02:40:21,00:06:41,00:03:49,06:46:33
+ironman-70.3-edinburgh-20170702.csv,288,Philip Anderson,24,---,GBR,00:23:16,03:11:21,02:00:40,00:09:48,00:03:02,05:48:07
+ironman-70.3-edinburgh-20170702.csv,289,Ross Mitchell,28,---,GBR,00:21:21,03:27:11,01:42:18,00:06:17,00:04:41,05:41:48
+ironman-70.3-edinburgh-20170702.csv,290,Euan Rennie,29,---,GBR,00:24:45,03:12:59,01:35:10,00:05:37,00:01:57,05:20:28
+ironman-70.3-edinburgh-20170702.csv,291,Jack Lewis,28,---,GBR,00:26:12,03:44:22,02:19:05,00:07:22,00:05:37,06:42:38
+ironman-70.3-edinburgh-20170702.csv,292,John Easton,28,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,293,Kieran Montgomery,28,---,GBR,00:26:26,03:28:14,01:57:23,00:07:28,00:03:45,06:03:16
+ironman-70.3-edinburgh-20170702.csv,294,Jack Cunningham,25,---,GBR,00:21:47,03:57:40,02:01:28,00:06:56,00:04:53,06:32:44
+ironman-70.3-edinburgh-20170702.csv,295,Adam Simpson,24,Lothian,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,296,Henry Potter,27,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,297,Michael Ellis,27,---,GBR,00:26:07,04:03:25,02:21:23,00:07:36,00:05:36,07:04:07
+ironman-70.3-edinburgh-20170702.csv,298,Aidan Connolly,29,---,GBR,00:34:37,03:53:41,02:07:32,00:11:48,00:08:04,06:55:42
+ironman-70.3-edinburgh-20170702.csv,299,Sean Dockrell,25,dublin,IRL,00:24:55,03:44:07,02:28:54,00:09:16,00:07:45,06:54:57
+ironman-70.3-edinburgh-20170702.csv,300,Daniel Cooper,25,---,GBR,00:16:18,02:43:27,01:37:46,00:03:54,00:02:32,04:43:57
+ironman-70.3-edinburgh-20170702.csv,301,Kevin Kelly,28,Donegal,IRL,00:25:24,03:25:50,02:08:15,00:08:20,00:06:40,06:14:29
+ironman-70.3-edinburgh-20170702.csv,302,Ian Russell,26,---,GBR,00:23:35,02:51:04,01:38:53,00:06:47,00:02:50,05:03:09
+ironman-70.3-edinburgh-20170702.csv,303,Graeme Duncan,28,North Lanarkshire,GBR,00:24:36,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,304,David Williamson,26,---,GBR,00:23:18,03:42:27,02:30:52,00:10:20,00:04:28,06:51:25
+ironman-70.3-edinburgh-20170702.csv,305,Harry Knott,26,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,306,Alex Carruthers,24,---,GBR,00:30:29,04:30:02,01:53:32,00:09:28,00:04:30,07:08:01
+ironman-70.3-edinburgh-20170702.csv,307,Jordan Irvine,25,---,GBR,00:32:21,03:35:59,01:55:50,00:10:50,00:04:28,06:19:28
+ironman-70.3-edinburgh-20170702.csv,308,Cristian Regep,28,---,ROU,00:24:21,03:06:49,02:00:13,00:09:54,00:06:26,05:47:43
+ironman-70.3-edinburgh-20170702.csv,309,Thomas Scott,26,Hampshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,310,Robert Sibley,28,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,311,Michael Getty,25,---,GBR,00:23:43,03:21:48,02:09:08,00:06:07,00:06:03,06:06:49
+ironman-70.3-edinburgh-20170702.csv,312,Luke Howard,24,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,313,Hector Caldwell,24,---,GBR,00:21:55,03:18:20,02:01:36,00:05:48,00:05:06,05:52:45
+ironman-70.3-edinburgh-20170702.csv,314,Christopher Harbinson,26,wales,GBR,00:25:06,03:41:03,01:56:21,00:09:03,00:05:21,06:16:54
+ironman-70.3-edinburgh-20170702.csv,315,Murray Wilson,26,Ayrshire,VGB,00:26:14,03:17:06,01:58:35,00:07:19,00:03:27,05:52:41
+ironman-70.3-edinburgh-20170702.csv,316,Richard Anderson,27,---,GBR,00:16:49,02:40:58,01:22:49,00:03:13,00:03:26,04:27:15
+ironman-70.3-edinburgh-20170702.csv,317,Josh Rowley,26,---,GBR,00:17:48,03:38:29,01:58:17,00:06:17,00:03:52,06:04:43
+ironman-70.3-edinburgh-20170702.csv,318,Ross Maskew,28,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,319,James Gyselynck,29,---,GBR,00:24:16,03:17:39,02:04:26,00:09:37,00:04:37,06:00:35
+ironman-70.3-edinburgh-20170702.csv,320,Alexander Walker,28,---,GBR,00:19:21,02:59:42,01:41:29,00:05:43,00:03:30,05:09:45
+ironman-70.3-edinburgh-20170702.csv,321,Ben Notman,28,---,GBR,00:28:20,03:29:09,02:07:40,00:08:47,00:07:02,06:20:58
+ironman-70.3-edinburgh-20170702.csv,322,Stephen Hart,27,Aberdeenshire,GBR,00:22:04,03:27:19,01:47:17,00:07:19,00:05:25,05:49:24
+ironman-70.3-edinburgh-20170702.csv,323,Graeme Brown,26,Lanarkshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,324,Dominic Davis,27,---,GBR,00:30:21,03:16:46,02:14:06,00:05:17,00:02:49,06:09:19
+ironman-70.3-edinburgh-20170702.csv,325,Tom Cowdale,27,West Midlands,GBR,00:26:21,04:05:39,02:07:53,00:06:43,00:04:44,06:51:20
+ironman-70.3-edinburgh-20170702.csv,326,Adam Sutherland,24,---,GBR,00:32:27,04:22:29,02:22:50,00:07:17,00:03:39,07:28:42
+ironman-70.3-edinburgh-20170702.csv,327,Jordi Garcia-Caberol,25,---,GBR,00:30:15,03:41:09,02:05:39,00:07:19,00:05:45,06:30:07
+ironman-70.3-edinburgh-20170702.csv,328,Gary Wilson,25,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,329,Scott Walton,24,Falkirk,GBR,00:31:27,03:25:44,01:59:56,00:07:02,00:05:40,06:09:49
+ironman-70.3-edinburgh-20170702.csv,330,Andrew Smith,28,Scotland,GBR,00:23:11,03:21:20,01:51:44,00:06:43,00:03:43,05:46:41
+ironman-70.3-edinburgh-20170702.csv,331,Ross Whittaker,29,Tayside,GBR,00:32:38,03:25:17,02:01:14,00:06:20,00:04:44,06:10:13
+ironman-70.3-edinburgh-20170702.csv,332,Laurence Blair,29,---,IRL,00:27:44,03:41:34,01:55:48,00:07:53,00:04:26,06:17:25
+ironman-70.3-edinburgh-20170702.csv,333,Andrew Hindle,29,Derbyshire,GBR,00:23:58,03:26:16,01:50:29,00:11:42,00:06:58,05:59:23
+ironman-70.3-edinburgh-20170702.csv,334,Michael Connor,28,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,335,Jamie Macfarlane,26,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,336,Noel Curran,28,Galway,IRL,00:36:52,03:54:19,02:24:28,00:10:12,00:04:00,07:09:51
+ironman-70.3-edinburgh-20170702.csv,337,Gavin Malin,28,---,GBR,00:29:01,04:12:57,02:01:22,00:12:04,00:08:44,07:04:08
+ironman-70.3-edinburgh-20170702.csv,338,Alex Davis,26,NJ,USA,00:25:14,03:15:41,01:53:00,00:09:47,00:04:14,05:47:56
+ironman-70.3-edinburgh-20170702.csv,339,William Tope,27,---,GBR,00:28:13,03:47:19,02:20:23,00:10:00,00:08:17,06:54:12
+ironman-70.3-edinburgh-20170702.csv,340,Jose Daniel Daimiel Villaverde,27,Middlesex,ESP,00:17:48,03:11:33,01:50:57,00:05:46,00:04:50,05:30:54
+ironman-70.3-edinburgh-20170702.csv,341,Cameron Geekie,25,Bedfordshire,GBR,00:20:58,03:10:22,01:44:34,00:04:43,00:02:22,05:22:59
+ironman-70.3-edinburgh-20170702.csv,342,Joe Stachan,25,MIDLOTHIAN,GBR,00:35:03,03:39:00,02:14:57,00:08:57,00:04:54,06:42:51
+ironman-70.3-edinburgh-20170702.csv,343,Alexandre Boury,28,---,BEL,00:24:55,03:25:11,02:04:55,00:06:19,00:04:20,06:05:40
+ironman-70.3-edinburgh-20170702.csv,344,Otto Thoresen,25,East Lothian,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,345,Atholl Wallace,24,Aberdeenshire,GBR,00:32:35,02:56:06,01:44:09,00:06:25,00:03:11,05:22:26
+ironman-70.3-edinburgh-20170702.csv,346,Stuart Maytham,28,---,GBR,00:25:23,03:31:46,02:00:40,00:10:31,00:08:12,06:16:32
+ironman-70.3-edinburgh-20170702.csv,347,Colin Quigg,27,---,IRL,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,348,Rowan Frost,29,Aberdeenshire,BHR,00:20:03,03:13:43,02:04:12,00:05:41,00:06:06,05:49:45
+ironman-70.3-edinburgh-20170702.csv,349,Anael Tanguy,28,---,FRA,00:27:10,03:47:02,01:25:06,00:13:50,00:04:37,05:57:45
+ironman-70.3-edinburgh-20170702.csv,350,Joe Faddoul,29,London,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,351,Kyle Spencer,27,West yorkshire,GBR,00:26:00,03:29:16,01:56:18,00:05:41,00:02:36,05:59:51
+ironman-70.3-edinburgh-20170702.csv,352,Jamie Howe,28,---,GBR,00:23:12,03:09:38,01:59:07,00:07:37,00:04:44,05:44:18
+ironman-70.3-edinburgh-20170702.csv,353,Joseph Macdonald,27,---,GBR,00:24:08,03:16:29,01:42:52,00:07:20,00:04:18,05:35:07
+ironman-70.3-edinburgh-20170702.csv,354,Michael Lewis,27,---,IRL,00:28:30,04:43:08,02:18:13,00:07:09,00:05:03,07:42:03
+ironman-70.3-edinburgh-20170702.csv,355,John Hutton,28,London,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,356,Andrew Mcbennett,28,Glasgow,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,357,Luke Stoker,26,Tyne and Wear,GBR,00:24:10,03:49:39,02:25:32,00:07:39,00:07:53,06:54:53
+ironman-70.3-edinburgh-20170702.csv,358,Stuart Thomson,28,ABERDEENSHIRE,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,359,Malcolm Watson,27,---,GBR,00:20:15,04:04:49,02:06:34,00:09:31,00:07:18,06:48:27
+ironman-70.3-edinburgh-20170702.csv,360,Alexander Van Der Gaag,27,---,NLD,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,361,Ruairi Connery,28,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,362,Tom Hargreaves,28,---,GBR,00:27:34,03:48:58,01:45:20,00:10:54,00:12:25,06:25:11
+ironman-70.3-edinburgh-20170702.csv,363,Mat Thompson,28,W Yorkshire,AUS,00:31:20,04:11:26,02:20:21,00:11:01,00:07:23,07:21:31
+ironman-70.3-edinburgh-20170702.csv,364,Daniel Kirk,29,Surrey,GBR,00:28:10,03:41:40,02:15:34,00:05:28,00:03:07,06:33:59
+ironman-70.3-edinburgh-20170702.csv,365,George Steele,24,Cumbria,GBR,00:20:05,03:03:45,01:36:11,00:03:08,00:01:54,05:05:03
+ironman-70.3-edinburgh-20170702.csv,366,Mark Nursey,28,North Yorkshire,GBR,00:27:36,03:47:48,02:23:47,00:07:39,00:06:17,06:53:07
+ironman-70.3-edinburgh-20170702.csv,367,Joe Webley,28,---,GBR,00:40:36,03:26:02,01:54:50,00:04:46,00:03:23,06:09:37
+ironman-70.3-edinburgh-20170702.csv,368,David Plúa,27,---,ECU,00:19:38,03:23:28,01:58:05,00:04:35,00:02:27,05:48:13
+ironman-70.3-edinburgh-20170702.csv,369,Euan Godon,27,North Lanarkshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,370,Jamie Longstaffe,29,---,GBR,---,---,---,---,---,DQ
+ironman-70.3-edinburgh-20170702.csv,371,Ross Macrae,29,---,GBR,00:23:54,03:30:48,02:03:36,00:08:18,00:03:33,06:10:09
+ironman-70.3-edinburgh-20170702.csv,372,Casper Lumby,25,---,DNK,00:19:16,03:11:32,02:35:27,00:09:03,00:06:24,06:21:42
+ironman-70.3-edinburgh-20170702.csv,373,Fraser Borland,27,---,GBR,00:42:17,---,---,00:11:28,---,DNF
+ironman-70.3-edinburgh-20170702.csv,374,Ross Bennett,25,---,GBR,00:29:46,04:17:43,02:40:14,00:10:06,00:06:25,07:44:14
+ironman-70.3-edinburgh-20170702.csv,375,Benjamin Tang,28,---,HKG,00:42:44,04:20:42,02:35:58,00:07:42,00:07:02,07:54:08
+ironman-70.3-edinburgh-20170702.csv,376,Henry Irvine,25,Devon,GBR,00:17:24,02:28:02,01:19:26,00:02:29,00:01:49,04:09:10
+ironman-70.3-edinburgh-20170702.csv,377,Jack Maynard,26,Devon,GBR,00:27:40,04:28:24,02:38:37,00:06:35,00:03:54,07:45:10
+ironman-70.3-edinburgh-20170702.csv,378,Oliver Mullen,24,Cumbria,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,379,Louis Michel,28,---,FRA,00:24:46,03:34:59,01:47:25,00:08:49,00:02:08,05:58:07
+ironman-70.3-edinburgh-20170702.csv,380,Billy Connor,27,Pembrokeshire,GBR,00:22:56,03:27:33,02:11:04,00:04:35,00:03:07,06:09:15
+ironman-70.3-edinburgh-20170702.csv,381,Matthew Waterston,28,City of Edinburgh,GBR,00:24:58,03:12:31,01:46:36,00:05:27,00:03:14,05:32:46
+ironman-70.3-edinburgh-20170702.csv,382,David Olmos Diaz,26,---,ESP,00:28:23,03:27:04,---,00:08:06,00:06:25,DNF
+ironman-70.3-edinburgh-20170702.csv,383,Phillip Patton,25,---,GBR,00:28:03,03:55:16,02:00:50,00:09:01,00:05:43,06:38:53
+ironman-70.3-edinburgh-20170702.csv,384,Mac Rhind,27,---,GBR,---,---,---,---,---,DQ
+ironman-70.3-edinburgh-20170702.csv,385,Shacklady Ally,---,---,GBR,00:33:01,04:08:50,02:54:24,00:06:04,00:07:31,07:49:50
+ironman-70.3-edinburgh-20170702.csv,403,Sophie Needham,31,Hampshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,404,Alison Mackenzie,32,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,405,Mandy Stewart,31,---,GBR,00:28:15,03:37:18,01:45:34,00:06:06,00:06:21,06:03:34
+ironman-70.3-edinburgh-20170702.csv,406,Jennifer Bedford,30,---,GBR,00:20:29,03:24:22,01:53:43,00:05:39,00:02:39,05:46:52
+ironman-70.3-edinburgh-20170702.csv,407,Eilidh Yates,30,---,GBR,00:25:58,03:01:53,01:34:30,00:04:42,00:03:02,05:10:05
+ironman-70.3-edinburgh-20170702.csv,408,Mairead Kelly,33,---,GBR,00:24:55,03:38:53,02:04:24,00:05:15,00:04:04,06:17:31
+ironman-70.3-edinburgh-20170702.csv,409,Eilidh Clarkson,31,Ellon,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,410,Laura Forrester,30,---,GBR,00:22:51,03:39:22,02:09:43,00:05:40,00:06:06,06:23:42
+ironman-70.3-edinburgh-20170702.csv,411,Katherine Thomson,31,Aberdeenshire,GBR,00:31:16,03:49:26,01:54:37,00:06:17,00:03:04,06:24:40
+ironman-70.3-edinburgh-20170702.csv,412,Anna Mcfarlane,30,---,GBR,00:25:22,03:39:51,02:00:08,00:05:58,00:03:16,06:14:35
+ironman-70.3-edinburgh-20170702.csv,413,Lisa Magennis,32,---,GBR,00:18:57,03:27:21,01:51:47,00:04:34,00:03:04,05:45:43
+ironman-70.3-edinburgh-20170702.csv,414,Emma Stevenson,31,Shetland Isles,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,415,Kathryn Parkin,34,Sussex,GBR,00:26:22,---,---,00:07:19,---,DNF
+ironman-70.3-edinburgh-20170702.csv,416,Natalie Jackson,30,---,GBR,00:26:06,03:30:39,01:45:28,00:10:02,00:06:17,05:58:32
+ironman-70.3-edinburgh-20170702.csv,417,Hannah Howes,31,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,418,Judyta Kajstura,31,Midlothian,POL,00:35:01,04:17:23,02:12:13,00:07:45,00:08:17,07:20:39
+ironman-70.3-edinburgh-20170702.csv,419,Hazel Macleod,31,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,420,Cleo Fitzsimons,31,---,CAN,00:29:02,03:49:21,01:48:44,00:07:09,00:02:57,06:17:13
+ironman-70.3-edinburgh-20170702.csv,421,Kate Broadbent,30,---,GBR,00:25:16,03:27:35,02:15:14,00:07:00,00:03:50,06:18:55
+ironman-70.3-edinburgh-20170702.csv,422,Victoria Knott,30,---,GBR,00:18:33,03:05:25,01:58:06,00:05:04,00:04:02,05:31:10
+ironman-70.3-edinburgh-20170702.csv,423,Elaine Gallacher,30,---,GBR,00:22:51,03:46:57,02:19:50,00:06:18,00:03:16,06:39:12
+ironman-70.3-edinburgh-20170702.csv,424,Jenny Lister,32,---,GBR,00:26:46,03:46:41,02:07:47,00:07:46,00:08:03,06:37:03
+ironman-70.3-edinburgh-20170702.csv,425,Anne Ewing,29,West Lothian,GBR,00:18:54,02:50:03,01:35:32,00:03:41,00:02:36,04:50:46
+ironman-70.3-edinburgh-20170702.csv,426,Hildur Koke,32,---,ISL,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,427,Gael Ricketts,33,Wiltshire,GBR,00:26:58,04:57:22,---,00:08:17,---,DNF
+ironman-70.3-edinburgh-20170702.csv,428,Megan Anderson,29,---,GBR,00:28:26,03:45:36,02:10:13,00:06:34,00:04:27,06:35:16
+ironman-70.3-edinburgh-20170702.csv,429,Jennie Cassidy,34,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,430,Sandrine Lalmant,30,---,BEL,00:36:12,04:10:03,---,00:08:48,---,DNF
+ironman-70.3-edinburgh-20170702.csv,431,Judi Cargill,31,---,GBR,00:27:17,04:07:47,02:07:09,00:07:50,00:06:41,06:56:44
+ironman-70.3-edinburgh-20170702.csv,432,Tatiana Matuzani,34,---,RUS,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,433,Rosie Owen,34,---,GBR,00:20:54,04:08:57,02:22:04,00:07:00,00:04:39,07:03:34
+ironman-70.3-edinburgh-20170702.csv,434,Rebecca Theobald,33,Tyne and Wear,GBR,00:33:57,04:10:49,02:26:29,00:07:10,00:05:47,07:24:12
+ironman-70.3-edinburgh-20170702.csv,435,Krista Tench,33,West Lothian,GBR,00:26:13,03:39:04,02:10:08,00:07:02,00:03:38,06:26:05
+ironman-70.3-edinburgh-20170702.csv,436,Briony Hudson,31,---,GBR,00:20:38,03:40:03,02:03:10,00:07:24,00:05:11,06:16:26
+ironman-70.3-edinburgh-20170702.csv,437,Antonia Hazlerigg,34,NORTH YORKSHIRE,GBR,00:25:02,03:30:05,02:05:43,00:05:03,00:04:52,06:10:45
+ironman-70.3-edinburgh-20170702.csv,438,Anna Bobak,32,---,POL,00:33:43,04:15:15,02:38:01,00:07:39,00:07:49,07:42:27
+ironman-70.3-edinburgh-20170702.csv,439,Jo Mcdarmid,32,london,GBR,00:25:04,03:51:44,02:09:34,00:05:48,00:04:18,06:36:28
+ironman-70.3-edinburgh-20170702.csv,440,Aimee Bertram,33,Midlothian,GBR,00:20:53,04:01:13,02:10:02,00:09:40,00:06:25,06:48:13
+ironman-70.3-edinburgh-20170702.csv,441,Laura Kightlinger,30,---,USA,00:25:19,03:47:25,01:40:42,00:09:22,00:05:25,06:08:13
+ironman-70.3-edinburgh-20170702.csv,442,Deepali Kaur,29,W Yorkshire,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,443,Samantha Lovie,31,CAN,NZL,00:29:04,03:36:04,02:09:19,00:11:10,00:05:45,06:31:22
+ironman-70.3-edinburgh-20170702.csv,444,Charlotte Fraser,31,Gloucestershire,GBR,00:27:57,04:05:41,02:31:00,00:11:25,00:07:05,07:23:08
+ironman-70.3-edinburgh-20170702.csv,445,Nicole Tafuri,33,AE,USA,00:27:33,03:35:15,02:04:36,00:09:10,00:06:16,06:22:50
+ironman-70.3-edinburgh-20170702.csv,446,Natalie Koenig-Moody,30,Dorset,CHE,00:23:44,03:27:50,01:50:43,00:07:58,00:06:04,05:56:19
+ironman-70.3-edinburgh-20170702.csv,447,Corey Duff,30,---,GBR,00:30:32,03:22:03,01:46:28,00:08:50,00:03:18,05:51:11
+ironman-70.3-edinburgh-20170702.csv,448,Martin Kelly,34,west Lothian,GBR,00:43:33,03:25:56,02:21:55,00:09:02,00:03:39,06:44:05
+ironman-70.3-edinburgh-20170702.csv,449,Richard Mcculloch,33,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,450,Jonathan Mcallister,33,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,451,Andrew Bibey,29,LONDON,GBR,00:23:36,03:36:00,01:58:02,00:07:05,00:05:07,06:09:50
+ironman-70.3-edinburgh-20170702.csv,452,Matthew Skilling,30,---,GBR,00:20:35,03:06:26,01:53:54,00:04:26,00:03:38,05:28:59
+ironman-70.3-edinburgh-20170702.csv,453,Daniel Balfour,31,---,GBR,00:24:50,02:57:17,01:40:20,00:09:07,00:03:52,05:15:26
+ironman-70.3-edinburgh-20170702.csv,454,Stewart Juroszek,33,London,GBR,00:22:44,03:31:07,01:54:34,00:06:02,00:03:56,05:58:23
+ironman-70.3-edinburgh-20170702.csv,455,Patrick Montgomery,33,Antrim,GBR,00:28:27,04:07:13,02:19:14,00:06:40,00:06:37,07:08:11
+ironman-70.3-edinburgh-20170702.csv,456,Martin Whyte,33,Glasgow City,GBR,00:26:27,03:47:51,02:05:20,00:08:01,00:04:56,06:32:35
+ironman-70.3-edinburgh-20170702.csv,457,David Ferris,34,Aberdeenshire,GBR,00:25:21,02:57:27,01:48:28,00:06:58,00:04:24,05:22:38
+ironman-70.3-edinburgh-20170702.csv,458,Craig Hetherington,30,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,459,John Beveridge,33,---,GBR,00:22:46,03:23:04,01:53:43,00:07:28,00:03:16,05:50:17
+ironman-70.3-edinburgh-20170702.csv,460,Colin Silverton,34,---,GBR,00:29:10,04:15:23,00:53:51,00:13:25,00:05:44,05:57:33
+ironman-70.3-edinburgh-20170702.csv,461,James Stephen Grieve,33,Scotland,GBR,00:34:22,03:34:13,02:16:16,00:18:03,00:07:09,06:50:03
+ironman-70.3-edinburgh-20170702.csv,462,John Mcmanus,34,---,GBR,00:33:07,03:14:29,01:34:02,00:15:10,00:04:51,05:41:39
+ironman-70.3-edinburgh-20170702.csv,463,Richard Mcgaw,30,Aberdeenshire,GBR,00:24:22,02:58:13,01:39:34,00:04:54,00:02:15,05:09:18
+ironman-70.3-edinburgh-20170702.csv,464,Ruben Villalain,30,---,ESP,00:14:46,02:59:27,01:34:00,00:03:49,00:03:18,04:55:20
+ironman-70.3-edinburgh-20170702.csv,465,Alasdair Gardner,34,---,GBR,00:23:45,03:30:53,02:00:25,00:05:00,00:03:20,06:03:23
+ironman-70.3-edinburgh-20170702.csv,466,Pierpaolo Sidoti,29,---,ITA,00:20:00,03:13:53,01:45:32,00:05:56,00:02:35,05:27:56
+ironman-70.3-edinburgh-20170702.csv,467,Tom Broomfield,29,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,468,Ryan Mcguinness,34,West Lothian,IRL,00:24:36,04:01:36,02:47:16,00:10:01,00:06:16,07:29:45
+ironman-70.3-edinburgh-20170702.csv,469,Ryan Glackin,33,---,GBR,00:35:51,04:02:30,02:29:42,00:13:20,00:07:48,07:29:11
+ironman-70.3-edinburgh-20170702.csv,470,Senth Selvam,33,---,GBR,00:24:38,03:47:12,01:58:27,00:06:02,00:05:20,06:21:39
+ironman-70.3-edinburgh-20170702.csv,471,Padraig Mcfadden,33,Hampshire,IRL,00:27:32,03:28:11,01:54:59,00:07:37,00:03:02,06:01:21
+ironman-70.3-edinburgh-20170702.csv,472,Gabriel Rodriguez,31,Intl State,CRI,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,473,Alistair Wilson,33,Moray,GBR,00:17:51,03:15:05,02:01:59,00:05:38,00:02:49,05:43:22
+ironman-70.3-edinburgh-20170702.csv,474,Jonathan Enright,32,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,475,Marc Niebel,33,---,DEU,00:18:45,03:19:55,01:35:43,00:04:46,00:05:10,05:24:19
+ironman-70.3-edinburgh-20170702.csv,476,Neal Herbert,33,East Lothian,GBR,00:21:00,03:20:00,01:52:05,00:06:28,00:03:50,05:43:23
+ironman-70.3-edinburgh-20170702.csv,477,Geoff Scambler,31,---,GBR,00:23:38,03:17:08,01:57:51,00:05:40,00:03:25,05:47:42
+ironman-70.3-edinburgh-20170702.csv,478,Fraser Beedie,33,---,GBR,00:29:23,03:23:14,02:03:50,00:07:25,00:03:26,06:07:18
+ironman-70.3-edinburgh-20170702.csv,479,Gordon Swan,33,West Lothian,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,480,David Rae,34,Fife,GBR,00:31:49,03:56:04,02:11:19,00:09:56,00:05:06,06:54:14
+ironman-70.3-edinburgh-20170702.csv,481,Steve Clench,29,Devon,GBR,00:19:18,03:21:22,02:23:53,00:05:20,00:02:13,06:12:06
+ironman-70.3-edinburgh-20170702.csv,482,Christopher Ashall,33,---,GBR,00:25:07,03:24:15,02:00:31,00:06:19,00:03:53,06:00:05
+ironman-70.3-edinburgh-20170702.csv,483,Adam Rowe,30,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,484,Alistair Motion,32,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,485,Thomas Baker,30,---,GBR,00:20:16,02:54:28,01:32:11,00:03:34,00:02:09,04:52:38
+ironman-70.3-edinburgh-20170702.csv,486,Michael Sinton,34,---,GBR,00:16:57,02:44:10,01:37:06,00:02:49,00:03:41,04:44:43
+ironman-70.3-edinburgh-20170702.csv,487,Craig Mccubbin,32,---,GBR,00:33:00,03:25:20,02:25:05,00:05:59,00:04:33,06:33:57
+ironman-70.3-edinburgh-20170702.csv,488,Alexander Caraffi,32,---,GBR,00:22:07,03:08:59,01:54:32,00:05:04,00:03:30,05:34:12
+ironman-70.3-edinburgh-20170702.csv,489,Luke Schultz,34,---,ZAF,00:22:28,03:18:33,01:46:19,00:04:19,00:04:55,05:36:34
+ironman-70.3-edinburgh-20170702.csv,490,Mark Robb,33,Staffs,GBR,00:25:13,03:13:28,01:47:08,00:03:52,00:04:07,05:33:48
+ironman-70.3-edinburgh-20170702.csv,491,Andrew Henderson,32,Moreyshire,GBR,00:22:28,03:18:18,01:55:33,00:05:57,00:03:22,05:45:38
+ironman-70.3-edinburgh-20170702.csv,492,Michael Cornish,33,---,GBR,00:22:33,03:03:50,01:51:54,00:03:53,00:03:02,05:25:12
+ironman-70.3-edinburgh-20170702.csv,493,Robert Allison,29,---,GBR,00:23:41,03:31:55,01:53:10,00:07:22,00:05:54,06:02:02
+ironman-70.3-edinburgh-20170702.csv,494,Andrew Rogerson,31,---,GBR,00:19:03,02:51:20,01:39:20,00:03:18,00:02:28,04:55:29
+ironman-70.3-edinburgh-20170702.csv,495,Mark Love,34,---,GBR,00:32:57,03:57:44,02:13:20,00:09:42,00:05:19,06:59:02
+ironman-70.3-edinburgh-20170702.csv,496,James Wilson,34,Hampshire,GBR,00:23:12,03:48:48,02:01:56,00:05:41,00:03:46,06:23:23
+ironman-70.3-edinburgh-20170702.csv,497,David Mcleish,31,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,498,Gavin Whyte,30,---,GBR,00:42:00,04:24:57,02:07:02,00:08:33,00:08:17,07:30:49
+ironman-70.3-edinburgh-20170702.csv,499,Damien Mcconville,33,---,IRL,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,500,Andrew Softley,34,TYNE AND WEAR,GBR,00:25:15,03:09:00,01:58:49,00:05:03,00:03:47,05:41:54
+ironman-70.3-edinburgh-20170702.csv,501,Alan Williamson,31,---,GBR,00:25:01,03:36:31,02:08:13,00:08:19,00:04:43,06:22:47
+ironman-70.3-edinburgh-20170702.csv,502,Richard Thurlow-Begg,32,---,GBR,00:19:35,02:54:14,02:43:41,00:03:28,00:02:30,06:03:28
+ironman-70.3-edinburgh-20170702.csv,503,Andrew Noble,30,scotland,GBR,00:24:11,03:41:18,02:19:26,00:05:33,00:05:30,06:35:58
+ironman-70.3-edinburgh-20170702.csv,504,Krzysztof Urban,32,---,POL,00:39:49,04:31:46,02:30:38,00:06:19,00:04:47,07:53:19
+ironman-70.3-edinburgh-20170702.csv,505,Murray Walker,32,Cornwall,GBR,00:24:04,03:10:58,01:44:27,00:07:12,00:07:00,05:33:41
+ironman-70.3-edinburgh-20170702.csv,506,Ally Mchugh,33,---,IRL,00:22:13,03:28:06,01:55:49,00:07:55,00:05:16,05:59:19
+ironman-70.3-edinburgh-20170702.csv,507,Michael Wilson,33,---,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,508,Michael Kendall,30,west lothian,GBR,00:21:34,03:43:32,01:57:52,00:08:36,00:03:58,06:15:32
+ironman-70.3-edinburgh-20170702.csv,509,Donald Kellock,32,---,GBR,00:21:38,03:11:58,02:09:44,00:05:48,00:04:23,05:53:31
+ironman-70.3-edinburgh-20170702.csv,510,Andrew Crutchley,32,---,IRL,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,511,Matthew Thornton,33,---,GBR,00:19:20,03:06:35,01:52:12,00:04:21,00:02:35,05:25:03
+ironman-70.3-edinburgh-20170702.csv,512,Michael Downey,30,---,GBR,00:26:42,03:24:57,01:54:05,00:10:33,00:04:15,06:00:32
+ironman-70.3-edinburgh-20170702.csv,513,Ceyhun Gungor,0,---,DEU,00:34:37,03:39:12,02:08:48,00:10:34,00:05:54,06:39:05
+ironman-70.3-edinburgh-20170702.csv,514,David Jackson,30,---,GBR,00:25:02,03:30:10,02:01:09,00:08:51,00:04:53,06:10:05
+ironman-70.3-edinburgh-20170702.csv,515,Jonathan Ferguson,30,---,GBR,00:35:30,03:56:26,02:13:20,00:08:49,00:04:39,06:58:44
+ironman-70.3-edinburgh-20170702.csv,516,Steven Ricketts,30,Wiltshire,GBR,00:29:55,03:42:56,02:28:32,00:08:03,00:05:12,06:54:38
+ironman-70.3-edinburgh-20170702.csv,517,Damian Fay,30,Lothian,IRL,00:27:16,03:38:36,01:58:55,00:09:09,00:04:18,06:18:14
+ironman-70.3-edinburgh-20170702.csv,518,Nick Burgess,31,---,GBR,00:37:39,03:52:14,02:26:09,00:08:23,00:05:04,07:09:29
+ironman-70.3-edinburgh-20170702.csv,519,Paul Trendell,31,---,GBR,00:19:28,03:32:20,01:57:13,00:05:20,00:04:11,05:58:32
+ironman-70.3-edinburgh-20170702.csv,520,James Robb,31,---,GBR,00:24:08,03:07:30,01:36:35,00:07:42,00:03:16,05:19:11
+ironman-70.3-edinburgh-20170702.csv,521,Jonathon Morrice,32,---,GBR,00:24:57,03:45:52,01:54:20,00:09:55,00:04:38,06:19:42
+ironman-70.3-edinburgh-20170702.csv,522,Gary Simkin,33,---,GBR,00:18:41,03:30:43,02:06:01,00:05:54,00:05:43,06:07:02
+ironman-70.3-edinburgh-20170702.csv,523,Ian Fitzsimons,31,---,GBR,00:38:57,03:52:41,02:00:37,00:10:40,00:03:32,06:46:27
+ironman-70.3-edinburgh-20170702.csv,524,Jyrki Rajala,31,Vantaa,FIN,00:26:48,03:11:53,---,00:04:43,---,DNF
+ironman-70.3-edinburgh-20170702.csv,525,Gordon Richmond,29,Lancashire,GBR,00:24:40,03:06:04,01:40:26,00:05:25,00:02:35,05:19:10
+ironman-70.3-edinburgh-20170702.csv,526,Thomas Cousins,30,Wexford,IRL,00:20:56,03:07:41,01:31:13,00:07:18,00:03:01,05:10:09
+ironman-70.3-edinburgh-20170702.csv,527,Christian Barlow,33,---,GBR,00:20:51,03:39:50,01:53:27,00:07:07,00:02:59,06:04:14
+ironman-70.3-edinburgh-20170702.csv,528,Matthew Roland Norris,29,---,GBR,---,---,---,---,---,DQ
+ironman-70.3-edinburgh-20170702.csv,529,Jonathan Crawley,31,---,GBR,00:26:15,03:08:05,01:49:25,00:09:04,00:03:35,05:36:24
+ironman-70.3-edinburgh-20170702.csv,530,Ryan Thompson,33,---,GBR,00:24:26,03:36:27,02:07:09,00:07:53,00:03:36,06:19:31
+ironman-70.3-edinburgh-20170702.csv,531,Jan Erik Wilhelmsen,29,---,NOR,00:22:54,03:13:07,02:04:03,00:05:10,00:09:15,05:54:29
+ironman-70.3-edinburgh-20170702.csv,532,Andrew Schultz,30,---,ZAF,00:22:01,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,533,Roger Jorda Garcia,31,---,ESP,00:24:29,03:38:02,01:59:42,00:08:20,00:05:45,06:16:18
+ironman-70.3-edinburgh-20170702.csv,534,Stephen Brogan,33,---,GBR,00:29:43,03:47:24,02:22:38,00:08:12,00:09:02,06:56:59
+ironman-70.3-edinburgh-20170702.csv,535,Mark Rafferty,31,Antrim,IRL,00:21:55,03:17:00,01:42:31,00:07:41,00:05:06,05:34:13
+ironman-70.3-edinburgh-20170702.csv,536,Lee Cuthbertson,33,---,GBR,00:28:09,03:18:12,02:47:49,00:09:39,00:08:19,06:52:08
+ironman-70.3-edinburgh-20170702.csv,537,Colin Wallace,32,Aberdeen,GBR,00:30:58,03:15:28,---,00:06:43,00:04:57,DNF
+ironman-70.3-edinburgh-20170702.csv,538,Hamish Duncan,31,scotland,GBR,00:25:48,03:37:41,02:16:40,00:07:19,00:02:56,06:30:24
+ironman-70.3-edinburgh-20170702.csv,539,Richard Servranckx,29,---,FRA,00:22:05,03:06:59,01:43:35,00:06:44,00:03:09,05:22:32
+ironman-70.3-edinburgh-20170702.csv,540,Raphael Vicario,31,---,FRA,00:22:51,03:02:31,01:50:47,00:06:07,00:05:26,05:27:42
+ironman-70.3-edinburgh-20170702.csv,541,Michael Gillespie,33,---,GBR,00:17:53,03:19:52,01:52:35,00:04:15,00:05:23,05:39:58
+ironman-70.3-edinburgh-20170702.csv,542,Robert Large,34,---,GBR,---,---,---,---,---,DQ
+ironman-70.3-edinburgh-20170702.csv,543,Erik Babcock,31,Aberdeenshire,USA,00:28:51,03:13:48,01:46:47,00:08:13,00:04:52,05:42:31
+ironman-70.3-edinburgh-20170702.csv,544,Myles Hutchins,33,Cornwall,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,545,Jonathan Priestley,33,Herefordshire,GBR,00:22:50,03:08:58,01:53:21,00:05:00,00:03:00,05:33:09
+ironman-70.3-edinburgh-20170702.csv,546,Alistair Mckean,33,---,GBR,00:20:35,02:56:12,01:34:45,00:03:53,00:02:30,04:57:55
+ironman-70.3-edinburgh-20170702.csv,547,David Chatterton,33,Merseyside,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,548,Martin Lister,32,---,GBR,00:29:01,03:14:50,01:49:03,00:08:41,00:04:27,05:46:02
+ironman-70.3-edinburgh-20170702.csv,549,Alastair Booth,30,Stirlingshire,GBR,00:23:31,02:57:35,01:53:49,00:06:58,00:05:22,05:27:15
+ironman-70.3-edinburgh-20170702.csv,550,Colin Maciver,32,---,GBR,00:25:44,03:12:52,02:03:28,00:06:13,00:04:07,05:52:24
+ironman-70.3-edinburgh-20170702.csv,551,Benoit Ribaud,29,---,GBR,00:27:55,03:44:36,01:54:21,00:12:48,00:07:37,06:27:17
+ironman-70.3-edinburgh-20170702.csv,552,Matthew Everson,32,---,GBR,00:24:58,03:48:35,02:32:24,00:10:36,00:07:13,07:03:46
+ironman-70.3-edinburgh-20170702.csv,553,Ben Summers,32,Northumberland,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,554,Shaun Owen,32,Dorset,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,555,Jamie Brown,32,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,556,James Ruddell,33,---,GBR,00:27:42,04:35:49,02:22:35,00:08:40,00:05:26,07:40:12
+ironman-70.3-edinburgh-20170702.csv,557,Nicholas Thomas,30,---,IND,00:25:40,03:24:52,02:02:08,00:08:55,00:02:56,06:04:31
+ironman-70.3-edinburgh-20170702.csv,558,Graham Fulton,31,---,GBR,00:36:55,03:38:04,01:58:21,00:10:45,00:04:36,06:28:41
+ironman-70.3-edinburgh-20170702.csv,559,Bryden Urquhart,31,---,GBR,00:28:40,03:26:42,01:53:31,00:05:39,00:05:38,06:00:10
+ironman-70.3-edinburgh-20170702.csv,560,Richard Hills,29,---,GBR,00:28:24,03:37:17,02:02:09,00:05:42,00:03:08,06:16:40
+ironman-70.3-edinburgh-20170702.csv,561,Andy Mcmillan,33,London ,GBR,00:25:13,03:00:59,01:32:45,00:06:13,00:03:29,05:08:39
+ironman-70.3-edinburgh-20170702.csv,562,Garry Forfar,29,---,GBR,00:26:13,03:48:22,02:00:49,00:05:52,00:03:12,06:24:28
+ironman-70.3-edinburgh-20170702.csv,563,Kyle Henderson,32,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,564,Brian Lafferty,30,Renfrewshire,GBR,00:25:22,03:16:03,02:04:03,00:04:22,00:03:25,05:53:15
+ironman-70.3-edinburgh-20170702.csv,565,Eugene Oneill,31,Derry,IRL,00:34:27,03:16:04,01:46:32,00:08:06,00:03:35,05:48:44
+ironman-70.3-edinburgh-20170702.csv,566,Robert Grounds,32,---,GBR,00:26:23,03:38:33,02:06:39,00:08:00,00:02:28,06:22:03
+ironman-70.3-edinburgh-20170702.csv,567,Robert Mackenzie,34,Fife,GBR,00:27:44,03:38:25,02:18:03,00:08:04,00:07:38,06:39:54
+ironman-70.3-edinburgh-20170702.csv,568,Thomas Gilbert,31,---,GBR,00:17:50,03:20:26,01:59:30,00:03:19,00:03:38,05:44:43
+ironman-70.3-edinburgh-20170702.csv,569,Chris Sturrock,30,Scotland,GBR,00:28:31,04:27:53,02:21:42,00:06:38,00:05:19,07:30:03
+ironman-70.3-edinburgh-20170702.csv,570,Bryn Ford-Jones,32,London,GBR,00:21:50,03:25:17,01:48:54,00:06:11,00:03:29,05:45:41
+ironman-70.3-edinburgh-20170702.csv,571,Charlie Mchardy,31,---,GBR,00:39:57,03:40:56,02:05:29,00:05:51,00:03:57,06:36:10
+ironman-70.3-edinburgh-20170702.csv,572,Stewart Duffy,29,---,GBR,00:27:29,04:28:50,01:49:27,00:09:07,00:07:44,07:02:37
+ironman-70.3-edinburgh-20170702.csv,573,Craig Law,34,---,GBR,00:28:40,03:47:37,02:21:17,00:06:55,00:05:03,06:49:32
+ironman-70.3-edinburgh-20170702.csv,574,Brett Manning,33,Midlothian,GBR,00:26:53,03:14:53,01:59:14,00:05:38,00:04:43,05:51:21
+ironman-70.3-edinburgh-20170702.csv,575,Grant Maxwell,32,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,576,Matt Ilett,33,Notts,GBR,00:24:56,03:13:38,01:55:45,00:05:45,00:02:37,05:42:41
+ironman-70.3-edinburgh-20170702.csv,577,Daryl Perry,33,Greater London,GBR,00:20:28,03:31:23,01:59:47,00:05:44,00:03:51,06:01:13
+ironman-70.3-edinburgh-20170702.csv,578,Colin Mckay,31,Aberdeenshire,GBR,00:31:08,03:26:56,01:56:49,00:06:18,00:04:31,06:05:42
+ironman-70.3-edinburgh-20170702.csv,579,Jose Ferrero,31,NY,PER,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,580,Stephen Ridley,31,Berkshire,GBR,00:23:54,02:44:35,01:28:50,00:03:51,00:02:26,04:43:36
+ironman-70.3-edinburgh-20170702.csv,581,David Mudie,33,---,GBR,00:20:07,03:13:59,01:56:48,00:04:25,00:03:29,05:38:48
+ironman-70.3-edinburgh-20170702.csv,582,Daniel Thompson,32,Northumberland,GBR,00:41:43,03:26:24,01:58:59,00:08:26,00:05:52,06:21:24
+ironman-70.3-edinburgh-20170702.csv,583,Howat Duncan,29,---,GBR,00:28:20,03:47:07,02:12:52,00:08:19,00:07:36,06:44:14
+ironman-70.3-edinburgh-20170702.csv,584,Craig Taylor,31,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,585,Alastair Watkins,34,---,GBR,00:35:51,03:33:16,02:28:15,00:08:13,00:04:30,06:50:05
+ironman-70.3-edinburgh-20170702.csv,586,Alasdair Bayne,30,Scotland,GBR,00:24:51,03:32:34,01:53:39,00:07:51,00:04:19,06:03:14
+ironman-70.3-edinburgh-20170702.csv,587,Ross Ainslie,33,---,GBR,00:24:01,03:39:46,02:32:48,00:07:52,00:08:30,06:52:57
+ironman-70.3-edinburgh-20170702.csv,588,Nigel Quaye,34,UK,GBR,00:16:30,02:46:26,01:33:28,00:04:21,00:02:23,04:43:08
+ironman-70.3-edinburgh-20170702.csv,589,Christopher Tweed,34,West Lothian,GBR,00:30:36,03:49:16,02:23:48,00:10:03,00:05:35,06:59:18
+ironman-70.3-edinburgh-20170702.csv,590,Cole Drews,30,---,GBR,00:18:27,02:42:22,01:41:28,00:03:19,00:03:04,04:48:40
+ironman-70.3-edinburgh-20170702.csv,591,Mark Chalmers,32,---,GBR,00:22:35,03:06:14,01:58:44,00:05:55,00:03:17,05:36:45
+ironman-70.3-edinburgh-20170702.csv,592,Thomas Storer,31,---,GBR,00:22:15,03:26:17,01:54:13,00:06:17,00:02:55,05:51:57
+ironman-70.3-edinburgh-20170702.csv,593,Rob Moss,30,Durham,GBR,00:24:30,03:14:37,02:08:56,00:07:10,00:06:08,06:01:21
+ironman-70.3-edinburgh-20170702.csv,594,David Reid,---,---,HKG,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,595,Ryan Scott,32,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,596,Jack Pieta,32,North Lanarkshire,POL,00:32:57,05:16:49,---,00:12:00,00:09:15,DNF
+ironman-70.3-edinburgh-20170702.csv,597,Derek Hughes,31,Renfrewshire,GBR,00:19:55,03:15:40,01:38:07,00:05:40,00:04:09,05:23:31
+ironman-70.3-edinburgh-20170702.csv,598,Andrew Todd,---,---,IRL,00:28:24,04:11:45,02:44:36,00:09:07,00:06:17,07:40:09
+ironman-70.3-edinburgh-20170702.csv,599,David Scribner,31,London,CAN,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,600,Stephen Ray,32,---,GBR,00:33:54,03:31:03,01:51:26,00:05:04,00:04:23,06:05:50
+ironman-70.3-edinburgh-20170702.csv,601,Richard Harrold,33,---,GBR,00:20:58,03:11:35,01:43:15,00:06:46,00:03:19,05:25:53
+ironman-70.3-edinburgh-20170702.csv,602,Daniel Ward,33,Tyne and Wear,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,603,Grant Strachan,33,---,GBR,00:29:39,03:23:33,01:42:12,00:09:32,00:04:39,05:49:35
+ironman-70.3-edinburgh-20170702.csv,604,Christiaan Van Eeden,31,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,605,David Griffin,32,---,GBR,00:27:24,03:50:09,02:19:08,00:06:18,00:04:37,06:47:36
+ironman-70.3-edinburgh-20170702.csv,606,Thijs Dubbers,30,---,NLD,00:20:57,03:10:50,01:53:02,00:06:03,00:02:56,05:33:48
+ironman-70.3-edinburgh-20170702.csv,607,Michael Butler,33,Orkney,GBR,00:24:16,03:24:51,01:49:15,00:04:49,00:03:07,05:46:18
+ironman-70.3-edinburgh-20170702.csv,608,Viktor Taranenko,29,Midlothian,GBR,00:25:14,02:42:13,01:28:15,00:05:53,00:02:36,04:44:11
+ironman-70.3-edinburgh-20170702.csv,609,James Manger,30,---,GBR,00:24:37,03:33:50,01:53:53,00:06:23,00:09:24,06:08:07
+ironman-70.3-edinburgh-20170702.csv,610,Michael Taschler,---,---,CHE,00:29:43,03:18:46,02:02:47,00:08:25,00:03:43,06:03:24
+ironman-70.3-edinburgh-20170702.csv,611,Matt O'Donnell,32,Avon,GBR,00:19:20,03:40:46,02:26:07,00:05:38,00:06:06,06:37:57
+ironman-70.3-edinburgh-20170702.csv,612,Neil Buckney,29,---,GBR,00:17:57,03:02:33,01:40:14,00:04:44,00:03:07,05:08:35
+ironman-70.3-edinburgh-20170702.csv,613,Chris Honstvet,32,---,GBR,00:25:09,03:42:47,02:08:23,00:06:36,00:06:55,06:29:50
+ironman-70.3-edinburgh-20170702.csv,614,Zack Mitchum,30,---,GBR,00:34:23,04:11:46,02:27:06,00:09:13,00:10:09,07:32:37
+ironman-70.3-edinburgh-20170702.csv,615,Lei Tang,31,---,GBR,00:31:41,03:15:45,02:18:08,00:05:54,00:03:01,06:14:29
+ironman-70.3-edinburgh-20170702.csv,616,David Malone,33,Lanarkshire ,GBR,00:24:06,04:06:21,02:54:10,00:08:04,00:04:39,07:37:20
+ironman-70.3-edinburgh-20170702.csv,617,J-F Geyer,33,Argyll,GBR,00:25:22,03:51:24,02:24:04,00:06:22,00:03:16,06:50:28
+ironman-70.3-edinburgh-20170702.csv,618,Ian Jack,33,WA,GBR,00:28:28,03:01:18,01:52:55,00:05:12,00:04:14,05:32:07
+ironman-70.3-edinburgh-20170702.csv,619,Andrew Keddis,32,Riyadh,EGY,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,620,Mike Legget,31,---,GBR,00:17:34,02:59:20,01:41:48,00:04:58,00:02:29,05:06:09
+ironman-70.3-edinburgh-20170702.csv,621,Matt Hurshman,32,Gloucestershire,CAN,00:24:48,03:58:14,01:59:48,00:07:41,00:07:19,06:37:50
+ironman-70.3-edinburgh-20170702.csv,622,Peter Keddis,29,NC,USA,00:50:13,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,623,Scott Sbmummery,29,LONDON,GBR,00:22:11,03:06:04,01:56:39,00:04:49,00:02:43,05:32:26
+ironman-70.3-edinburgh-20170702.csv,624,Daire Fitzgerald,30,---,IRL,00:26:26,03:12:12,01:53:46,00:06:59,00:04:30,05:43:53
+ironman-70.3-edinburgh-20170702.csv,625,Peter Janas,30,---,POL,00:24:48,03:43:58,02:44:38,00:06:33,00:04:42,07:04:39
+ironman-70.3-edinburgh-20170702.csv,626,Ross Kent,32,---,AUS,00:17:11,02:54:46,01:42:27,00:03:14,00:02:40,05:00:18
+ironman-70.3-edinburgh-20170702.csv,627,Rakan Tarabzouni,31,Eastern,SAU,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,628,Rolands Kromanis,31,Nottinghamshire,LVA,00:47:28,03:43:11,01:55:51,00:08:42,00:04:37,06:39:49
+ironman-70.3-edinburgh-20170702.csv,629,James Ford,33,SUFFOLK,GBR,00:25:59,03:43:13,02:02:56,00:12:59,00:11:59,06:37:06
+ironman-70.3-edinburgh-20170702.csv,630,Steven Barrett,30,---,GBR,00:22:58,04:05:42,02:12:22,00:07:47,00:05:30,06:54:19
+ironman-70.3-edinburgh-20170702.csv,631,Ivan Munoz Matias,33,Merseyside,ESP,00:25:59,03:40:03,01:34:21,00:09:02,00:06:18,05:55:43
+ironman-70.3-edinburgh-20170702.csv,632,Daniel Estevao,32,---,PRT,00:21:36,02:57:29,01:42:16,00:05:41,00:03:16,05:10:18
+ironman-70.3-edinburgh-20170702.csv,633,John Lenehan,32,---,IRL,00:18:27,02:47:31,01:37:20,00:04:49,00:03:03,04:51:10
+ironman-70.3-edinburgh-20170702.csv,634,Sean Connelly,32,Leinster,USA,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,635,Andrew Macrae,31,Durham,GBR,00:17:19,02:44:11,01:25:42,00:03:35,00:02:29,04:33:16
+ironman-70.3-edinburgh-20170702.csv,636,Fabian Stec,33,Wiltshire,GBR,00:26:57,04:15:04,02:11:17,00:10:31,00:05:25,07:09:14
+ironman-70.3-edinburgh-20170702.csv,637,Giovanni Tunesi,30,COMO,ITA,00:25:19,03:27:13,02:11:15,00:07:34,00:04:39,06:16:00
+ironman-70.3-edinburgh-20170702.csv,638,Niall Hutchinson,33,UK,IRL,00:25:41,03:22:52,02:00:23,00:05:44,00:03:15,05:57:55
+ironman-70.3-edinburgh-20170702.csv,639,Jeremy Sykes,30,---,GBR,00:24:47,03:36:44,02:41:05,00:08:24,00:07:13,06:58:13
+ironman-70.3-edinburgh-20170702.csv,640,Gary Mclean,31,Tyrone,GBR,00:18:45,03:07:48,01:58:19,00:04:49,00:03:13,05:32:54
+ironman-70.3-edinburgh-20170702.csv,641,Graeme Oudney,32,---,GBR,00:20:24,03:03:25,01:44:03,00:04:37,00:02:34,05:15:03
+ironman-70.3-edinburgh-20170702.csv,642,Thomas Knittel,32,---,DEU,00:21:14,02:56:34,01:25:46,00:04:52,00:02:44,04:51:10
+ironman-70.3-edinburgh-20170702.csv,643,Lowdon Andrew,---,---,GBR,00:32:58,03:32:36,01:56:49,00:08:13,00:03:41,06:14:17
+ironman-70.3-edinburgh-20170702.csv,665,Sally Newman-Carter,35,Fife,GBR,00:22:10,03:20:47,02:02:16,00:06:05,00:07:23,05:58:41
+ironman-70.3-edinburgh-20170702.csv,666,Roz Boynton,34,---,GBR,00:32:21,03:44:04,02:50:28,00:06:35,00:06:27,07:19:55
+ironman-70.3-edinburgh-20170702.csv,667,Lynn Gatherer,39,---,GBR,00:31:55,03:29:25,02:01:26,00:06:42,00:04:15,06:13:43
+ironman-70.3-edinburgh-20170702.csv,668,Julia Loecherbach,37,---,DEU,00:24:21,03:20:05,01:55:03,00:05:25,00:03:09,05:48:03
+ironman-70.3-edinburgh-20170702.csv,669,Vicki Taylor,36,Midlothian,GBR,00:28:26,03:52:01,01:59:13,00:10:05,00:06:10,06:35:55
+ironman-70.3-edinburgh-20170702.csv,670,Sarah Gregory,35,West Lothian,GBR,00:28:17,03:43:12,02:28:26,00:06:14,00:02:53,06:49:02
+ironman-70.3-edinburgh-20170702.csv,671,Juliet Mcbean,36,---,GBR,00:32:47,03:47:11,02:04:35,00:07:46,00:08:18,06:40:37
+ironman-70.3-edinburgh-20170702.csv,672,Lucy Rattrie,36,Scotland,GBR,00:26:40,03:28:00,---,00:07:47,---,DNF
+ironman-70.3-edinburgh-20170702.csv,673,Clare Bostock,37,---,GBR,00:26:30,03:55:23,01:57:16,00:04:53,00:04:42,06:28:44
+ironman-70.3-edinburgh-20170702.csv,674,Ciara Webb,35,---,IRL,00:13:15,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,675,Moira Harkins,37,Aberdeenshire,GBR,00:18:37,03:23:38,01:55:13,00:04:50,00:03:21,05:45:39
+ironman-70.3-edinburgh-20170702.csv,676,Berit Inkster,37,---,GBR,00:22:32,03:37:55,02:00:18,00:04:43,00:02:58,06:08:26
+ironman-70.3-edinburgh-20170702.csv,677,Rachel Gunstone,39,---,GBR,00:25:06,03:56:05,01:59:22,00:07:35,00:06:23,06:34:31
+ironman-70.3-edinburgh-20170702.csv,678,Joanne Combe,39,---,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,679,Claire Coey,34,---,GBR,00:19:45,03:01:19,01:37:32,00:03:05,00:02:08,05:03:49
+ironman-70.3-edinburgh-20170702.csv,680,Louise Smith,39,---,GBR,00:18:51,03:19:58,01:54:50,00:03:33,00:03:05,05:40:17
+ironman-70.3-edinburgh-20170702.csv,681,Nicola Philp,38,---,GBR,00:29:41,04:05:36,02:04:51,00:07:16,00:04:20,06:51:44
+ironman-70.3-edinburgh-20170702.csv,682,Rhona Mcfarlane,36,Greater London,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,683,Lisa Wright,38,---,GBR,00:28:21,03:36:35,02:10:20,00:06:34,00:05:00,06:26:50
+ironman-70.3-edinburgh-20170702.csv,684,Vicki Woodburn,34,---,GBR,00:28:27,04:18:20,02:09:29,00:08:50,00:06:19,07:11:25
+ironman-70.3-edinburgh-20170702.csv,685,Jennifer Cycak,35,NJ,USA,00:38:32,04:25:50,02:50:57,00:08:13,00:06:09,08:09:41
+ironman-70.3-edinburgh-20170702.csv,686,Claire Masterton,35,---,GBR,00:29:27,03:35:56,02:19:03,00:07:29,00:05:19,06:37:14
+ironman-70.3-edinburgh-20170702.csv,687,Katrina Downie,37,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,688,Jodie Graham,38,norfolk,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,689,Carol Alison Smith,35,---,GBR,00:26:01,04:25:01,02:48:14,00:13:56,00:07:24,08:00:36
+ironman-70.3-edinburgh-20170702.csv,690,Charlotte Woodcock,34,---,GBR,00:29:07,04:42:33,02:46:21,00:07:20,00:05:33,08:10:54
+ironman-70.3-edinburgh-20170702.csv,691,Karen Peek,37,Wilts,GBR,00:22:35,03:23:52,01:47:37,00:04:52,00:06:19,05:45:15
+ironman-70.3-edinburgh-20170702.csv,692,Elizabeth Hunt,36,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,693,Grace Mackenzie,34,---,GBR,00:28:06,03:22:11,01:49:47,00:04:52,00:02:26,05:47:22
+ironman-70.3-edinburgh-20170702.csv,694,Morag Thayne,37,East Lothian,GBR,00:28:46,04:09:13,02:27:07,00:10:30,00:08:04,07:23:40
+ironman-70.3-edinburgh-20170702.csv,695,Kara Griffiths,39,Aberdeenshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,696,Ella Webley,35,---,GBR,00:34:09,04:08:14,02:08:48,00:07:50,00:05:41,07:04:42
+ironman-70.3-edinburgh-20170702.csv,697,Rachel Hunt,35,---,GBR,00:30:30,03:21:21,01:49:21,00:07:10,00:05:18,05:53:40
+ironman-70.3-edinburgh-20170702.csv,698,Lesley Johnson,38,---,GBR,00:30:09,03:44:06,02:19:15,00:08:15,00:06:45,06:48:30
+ironman-70.3-edinburgh-20170702.csv,699,Claire Thomas,35,---,GBR,00:25:27,03:53:36,02:31:59,00:05:07,00:03:28,06:59:37
+ironman-70.3-edinburgh-20170702.csv,700,Kirsty Tannock,34,angus,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,701,Joanna Kilpatrick,38,---,GBR,00:24:24,03:35:56,01:53:25,00:09:20,00:07:42,06:10:47
+ironman-70.3-edinburgh-20170702.csv,702,Nicola Sutton,38,---,GBR,00:29:40,04:18:15,02:42:23,00:13:58,00:11:07,07:55:23
+ironman-70.3-edinburgh-20170702.csv,703,Hilary Logan,38,---,GBR,00:31:46,04:33:11,02:55:33,00:09:25,00:05:19,08:15:14
+ironman-70.3-edinburgh-20170702.csv,704,Susan Moloney,35,---,IRL,00:29:32,04:23:21,02:29:59,00:09:44,00:08:00,07:40:36
+ironman-70.3-edinburgh-20170702.csv,705,Megan Smith,37,Ireland,ZAF,00:29:00,03:55:16,02:14:55,00:07:32,00:03:27,06:50:10
+ironman-70.3-edinburgh-20170702.csv,706,Felicity Knell,37,---,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,707,Michelle Mcgovern,38,Armagh,GBR,00:30:58,04:23:32,03:05:13,00:07:37,00:07:23,08:14:43
+ironman-70.3-edinburgh-20170702.csv,708,Caryn Simpson,34,---,ZAF,00:21:17,04:07:39,---,00:08:01,---,DNF
+ironman-70.3-edinburgh-20170702.csv,709,Robyn Galliers,36,---,GBR,00:24:46,03:47:08,03:17:10,00:04:34,00:06:05,07:39:43
+ironman-70.3-edinburgh-20170702.csv,710,Ruth Morgan,34,---,GBR,00:32:03,04:19:05,02:20:27,00:06:10,00:03:41,07:21:26
+ironman-70.3-edinburgh-20170702.csv,711,Ann Lason,37,VA,USA,00:21:20,03:39:17,01:57:15,00:06:40,00:04:06,06:08:38
+ironman-70.3-edinburgh-20170702.csv,712,Catherine Mendel,36,MA,USA,00:19:14,03:38:00,02:07:12,00:06:22,00:05:06,06:15:54
+ironman-70.3-edinburgh-20170702.csv,713,Victoria Arscott,35,DXB,GBR,00:24:02,03:52:46,02:08:55,00:05:54,00:03:31,06:35:08
+ironman-70.3-edinburgh-20170702.csv,714,Jan Cooper,36,---,GBR,00:33:33,03:42:54,01:58:15,00:06:34,00:04:54,06:26:10
+ironman-70.3-edinburgh-20170702.csv,715,Nicola Blackford,34,---,GBR,00:32:30,04:08:07,02:10:11,00:11:59,00:07:11,07:09:58
+ironman-70.3-edinburgh-20170702.csv,716,Laura-Ann Mcgill,36,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,717,Susanna Beard,36,---,GBR,00:20:12,03:26:17,01:49:16,00:05:49,00:03:24,05:44:58
+ironman-70.3-edinburgh-20170702.csv,718,Renate Kofoed,35,---,NOR,00:31:05,03:49:50,02:05:39,00:05:41,00:06:26,06:38:41
+ironman-70.3-edinburgh-20170702.csv,719,Andrew Miller,38,---,GBR,00:23:07,03:17:03,02:02:53,00:04:07,00:02:20,05:49:30
+ironman-70.3-edinburgh-20170702.csv,720,Craig White,37,---,GBR,00:26:27,03:26:11,02:03:29,00:05:50,00:04:55,06:06:52
+ironman-70.3-edinburgh-20170702.csv,721,Mark Fraser,37,---,GBR,00:26:55,03:27:11,01:48:24,00:07:04,00:03:12,05:52:46
+ironman-70.3-edinburgh-20170702.csv,722,Fraser Ballantine,37,---,GBR,00:25:40,03:36:04,02:40:26,00:08:50,00:04:39,06:55:39
+ironman-70.3-edinburgh-20170702.csv,723,David Tweedie,37,---,GBR,00:35:04,03:02:12,01:59:32,00:09:10,00:04:35,05:50:33
+ironman-70.3-edinburgh-20170702.csv,724,Chris Barrowman,39,Perthshire,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,725,George Pittner,36,---,GBR,00:24:22,03:17:50,01:52:43,00:07:03,00:04:10,05:46:08
+ironman-70.3-edinburgh-20170702.csv,726,Cameron Renton,34,---,GBR,00:36:13,---,---,00:11:06,---,DNF
+ironman-70.3-edinburgh-20170702.csv,727,Brian Yates,34,East Ayrshire,GBR,00:28:20,02:52:04,01:46:00,00:05:45,00:03:33,05:15:42
+ironman-70.3-edinburgh-20170702.csv,728,Chris Arnott,37,---,GBR,00:29:52,03:49:02,02:14:21,00:09:11,00:05:40,06:48:06
+ironman-70.3-edinburgh-20170702.csv,729,Alan Huntridge,36,Midlothian,GBR,00:23:28,03:15:12,01:54:35,00:05:38,00:04:57,05:43:50
+ironman-70.3-edinburgh-20170702.csv,730,Alvaro Martin Hernandez,34,ES,ESP,00:22:17,02:57:35,02:02:33,00:04:14,00:03:07,05:29:46
+ironman-70.3-edinburgh-20170702.csv,731,Iain Barton,37,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,732,Cedri C Gerbier,---,---,FRA,00:27:51,03:23:30,02:12:16,00:05:12,00:05:11,06:14:00
+ironman-70.3-edinburgh-20170702.csv,733,Paul Noble,34,---,GBR,00:22:50,03:02:51,01:43:56,00:06:12,00:03:26,05:19:15
+ironman-70.3-edinburgh-20170702.csv,734,Gordon Hawthorn,37,South Lanarkshire,GBR,00:24:04,02:58:23,01:40:17,00:04:56,00:02:40,05:10:20
+ironman-70.3-edinburgh-20170702.csv,735,Robert Macleod,39,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,736,Neil Mcphee,34,---,GBR,00:22:29,03:18:30,01:47:03,00:06:42,00:04:59,05:39:43
+ironman-70.3-edinburgh-20170702.csv,737,Stuart Dickson,---,---,GBR,00:24:26,03:25:51,02:21:29,00:05:18,00:03:52,06:20:56
+ironman-70.3-edinburgh-20170702.csv,738,Jodie Smith,36,Aberdeenshire,GBR,00:27:29,03:01:21,01:59:02,00:03:32,00:03:21,05:34:45
+ironman-70.3-edinburgh-20170702.csv,739,Gareth Riley,37,---,GBR,00:30:14,04:07:11,02:38:18,00:09:20,00:06:55,07:31:58
+ironman-70.3-edinburgh-20170702.csv,740,David Russell,39,---,IRL,00:29:16,03:32:21,02:24:39,00:05:42,00:04:15,06:36:13
+ironman-70.3-edinburgh-20170702.csv,741,Luke Gee,36,---,GBR,00:24:42,03:27:32,02:02:25,00:06:52,00:03:05,06:04:36
+ironman-70.3-edinburgh-20170702.csv,742,Andrew Grant,34,---,GBR,00:19:09,03:17:45,01:38:56,00:06:32,00:02:31,05:24:53
+ironman-70.3-edinburgh-20170702.csv,743,Graham Barr,38,LANARKSHIRE,GBR,00:26:06,03:15:11,01:43:09,00:07:24,00:05:24,05:37:14
+ironman-70.3-edinburgh-20170702.csv,744,Scott Begg,36,Angus,GBR,00:19:55,03:32:34,02:00:07,00:06:38,00:04:10,06:03:24
+ironman-70.3-edinburgh-20170702.csv,745,German Rodriguez,37,---,ESP,00:30:14,03:07:23,02:04:28,00:06:52,00:04:18,05:53:15
+ironman-70.3-edinburgh-20170702.csv,746,John Wallas,37,---,GBR,00:21:08,03:02:39,01:46:44,00:04:14,00:02:41,05:17:26
+ironman-70.3-edinburgh-20170702.csv,747,David Graham,35,South Lanarkshire,GBR,00:29:22,03:38:04,02:04:17,00:08:29,00:06:39,06:26:51
+ironman-70.3-edinburgh-20170702.csv,748,Alex Torrente,36,---,ESP,00:22:53,03:25:00,02:10:31,00:07:32,00:04:08,06:10:04
+ironman-70.3-edinburgh-20170702.csv,749,John Huston,37,---,GBR,00:25:52,03:09:20,01:48:19,00:05:57,00:04:23,05:33:51
+ironman-70.3-edinburgh-20170702.csv,750,Tim Macdonald,35,Midlothian,GBR,00:30:51,03:22:57,02:08:13,00:09:25,00:03:36,06:15:02
+ironman-70.3-edinburgh-20170702.csv,751,Glen Evans,36,---,GBR,00:26:18,03:24:47,02:05:02,00:07:47,00:07:31,06:11:25
+ironman-70.3-edinburgh-20170702.csv,752,Ronan Anderson,37,Aberdeenshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,753,Andres Calvo,35,heredia,CRI,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,754,Craig Hamilton,36,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,755,James Addie,35,---,GBR,00:19:07,03:03:56,01:42:28,00:03:21,00:02:21,05:11:13
+ironman-70.3-edinburgh-20170702.csv,756,Peter Fenwick,37,---,GBR,00:16:46,02:34:49,01:24:50,00:02:45,00:02:12,04:21:22
+ironman-70.3-edinburgh-20170702.csv,757,Alasdair Carney,35,---,GBR,00:25:15,03:21:32,02:07:23,00:05:01,00:03:06,06:02:17
+ironman-70.3-edinburgh-20170702.csv,758,Andrew Bostock,37,---,GBR,00:21:42,02:58:10,01:33:48,00:03:56,00:01:59,04:59:35
+ironman-70.3-edinburgh-20170702.csv,759,Alex Heaps,34,---,GBR,00:23:27,03:23:03,01:52:02,00:04:52,00:04:40,05:48:04
+ironman-70.3-edinburgh-20170702.csv,760,Sean Calder,36,---,GBR,00:25:26,02:49:53,01:37:09,00:05:17,00:02:30,05:00:15
+ironman-70.3-edinburgh-20170702.csv,761,Gregor Angus,36,---,GBR,00:20:13,03:22:14,01:46:18,00:05:46,00:03:04,05:37:35
+ironman-70.3-edinburgh-20170702.csv,762,Andrew Leiper,35,---Please Select---,GBR,00:18:56,03:10:20,02:09:57,00:05:43,00:03:15,05:48:11
+ironman-70.3-edinburgh-20170702.csv,763,Andy Whitmey,38,Lothian,GBR,00:24:13,03:20:28,01:50:05,00:07:15,00:01:52,05:43:53
+ironman-70.3-edinburgh-20170702.csv,764,Nick Connor,38,Midlothian,GBR,00:22:02,03:27:53,01:51:48,00:07:40,00:03:39,05:53:02
+ironman-70.3-edinburgh-20170702.csv,765,Sean Doyle,38,Kent,GBR,00:25:50,03:11:50,02:10:45,00:06:16,00:04:18,05:58:59
+ironman-70.3-edinburgh-20170702.csv,766,Toby Durant,37,---,GBR,00:23:20,03:18:37,02:00:45,00:05:29,00:02:44,05:50:55
+ironman-70.3-edinburgh-20170702.csv,767,Andrew Baird,35,---,GBR,00:25:23,03:12:35,01:53:07,00:06:40,00:05:32,05:43:17
+ironman-70.3-edinburgh-20170702.csv,768,Tristram Liddiard,37,---,GBR,00:24:24,03:28:58,01:49:52,00:07:51,00:04:48,05:55:53
+ironman-70.3-edinburgh-20170702.csv,769,Barry Fitzpatrick,37,---,IRL,00:28:47,03:20:59,01:46:08,00:06:52,00:04:49,05:47:35
+ironman-70.3-edinburgh-20170702.csv,770,Dave Allman,34,---,GBR,00:15:59,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,771,Martyn Gray,36,---,GBR,00:23:56,03:14:22,02:03:19,00:05:54,00:04:08,05:51:39
+ironman-70.3-edinburgh-20170702.csv,772,Gavin Love,39,Perthshire,GBR,00:30:26,03:18:32,01:54:38,00:06:27,00:03:56,05:53:59
+ironman-70.3-edinburgh-20170702.csv,773,Roddy Hogarth,36,---,GBR,00:25:06,02:49:12,01:38:16,00:04:34,00:04:26,05:01:34
+ironman-70.3-edinburgh-20170702.csv,774,Andrew Mcrobbie,35,---,GBR,00:21:26,03:03:51,02:31:52,00:07:23,00:04:37,06:09:09
+ironman-70.3-edinburgh-20170702.csv,775,Stephen Newton-Stott,35,---,GBR,00:24:35,03:18:28,01:53:38,00:05:06,00:05:49,05:47:36
+ironman-70.3-edinburgh-20170702.csv,776,Chris Mcnevison,36,---,GBR,00:19:02,02:56:16,01:50:33,00:03:07,00:02:59,05:11:57
+ironman-70.3-edinburgh-20170702.csv,777,Graham Robertson,36,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,778,Steven Harding,39,Kent,GBR,00:46:38,---,---,00:23:36,---,DNF
+ironman-70.3-edinburgh-20170702.csv,779,David Veitch,37,---,GBR,00:30:42,03:47:30,01:57:34,00:08:21,00:08:31,06:32:38
+ironman-70.3-edinburgh-20170702.csv,780,Adam Naylor,36,Cheshire,GBR,00:35:14,03:29:12,01:48:26,00:05:56,00:05:37,06:04:25
+ironman-70.3-edinburgh-20170702.csv,781,John Smith,38,scotland,GBR,00:32:51,04:18:35,02:42:11,00:06:54,00:09:51,07:50:22
+ironman-70.3-edinburgh-20170702.csv,782,Gavin Tait,38,---,GBR,00:22:39,03:15:56,02:00:30,00:07:24,00:05:27,05:51:56
+ironman-70.3-edinburgh-20170702.csv,783,Struan Lownie,39,---,GBR,00:26:52,03:58:13,02:18:26,00:07:37,00:06:58,06:58:06
+ironman-70.3-edinburgh-20170702.csv,784,Kevin Phillips,34,---,GBR,00:37:26,03:47:54,02:26:39,00:11:11,00:04:09,07:07:19
+ironman-70.3-edinburgh-20170702.csv,785,Gordon Stuart,38,noselection,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,786,Vicente Gonzalez,37,CO,USA,00:33:49,03:54:58,02:16:57,00:11:56,00:07:12,07:04:52
+ironman-70.3-edinburgh-20170702.csv,787,Nicholas Horn,35,Tyne and Wear,VGB,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,788,Angus Thomson,35,---,GBR,00:21:47,03:18:38,01:50:05,00:04:50,00:02:17,05:37:37
+ironman-70.3-edinburgh-20170702.csv,789,David Reid,---,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,790,Andrew Ferguson,39,FIFE,GBR,00:20:44,03:20:45,02:05:10,00:08:14,00:05:11,06:00:04
+ironman-70.3-edinburgh-20170702.csv,791,Marlon Morais,35,---,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,792,Philip Sudlow,36,---,GBR,00:26:18,03:20:58,02:07:39,00:08:14,00:03:31,06:06:40
+ironman-70.3-edinburgh-20170702.csv,793,Martin Wloka,38,---,DEU,---,---,---,---,---,DQ
+ironman-70.3-edinburgh-20170702.csv,794,Alastair Currie,36,Aberdeenshire,GBR,00:20:35,03:27:34,01:56:07,00:07:46,00:06:06,05:58:08
+ironman-70.3-edinburgh-20170702.csv,795,William Strang,36,---,GBR,00:19:53,03:14:33,02:02:49,00:04:15,00:02:21,05:43:51
+ironman-70.3-edinburgh-20170702.csv,796,Graeme Little,35,Wilts,GBR,00:30:53,04:12:11,02:38:25,00:13:20,00:13:05,07:47:54
+ironman-70.3-edinburgh-20170702.csv,797,Jonathan Howes,35,---,GBR,00:25:21,03:44:18,02:27:58,00:06:03,00:06:06,06:49:46
+ironman-70.3-edinburgh-20170702.csv,798,Ross Bremner,38,---,GBR,00:28:22,02:57:22,01:59:28,00:05:21,00:04:20,05:34:53
+ironman-70.3-edinburgh-20170702.csv,799,Dermot Bailie,39,---,GBR,00:24:03,02:53:13,01:48:24,00:06:21,00:02:52,05:14:53
+ironman-70.3-edinburgh-20170702.csv,800,Meridith Glasse-Davies,35,East Lothian,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,801,Jonathan Odgers,37,Armagh,GBR,00:31:20,04:22:37,02:31:23,00:08:06,00:04:40,07:38:06
+ironman-70.3-edinburgh-20170702.csv,802,Michael Morris,38,---,GBR,00:24:50,02:55:38,01:38:48,00:03:01,00:02:18,05:04:35
+ironman-70.3-edinburgh-20170702.csv,803,Richard Van Der Linde,38,London,ZAF,00:31:21,04:09:14,02:09:32,00:10:28,00:06:42,07:07:17
+ironman-70.3-edinburgh-20170702.csv,804,Andrew Martin,36,Intl State,GBR,00:27:38,03:07:35,---,00:13:01,00:06:49,DNF
+ironman-70.3-edinburgh-20170702.csv,805,Chris Kelly,35,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,806,John Peebles,35,Midlothian,USA,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,807,Daniel Renton,36,East Lothian,GBR,00:31:07,04:08:35,02:31:21,00:06:21,00:04:53,07:22:17
+ironman-70.3-edinburgh-20170702.csv,808,Steve Bourne,37,Lincs,GBR,00:23:46,03:26:52,01:56:14,00:06:22,00:06:02,05:59:16
+ironman-70.3-edinburgh-20170702.csv,809,Tim Esler,38,---,GBR,00:26:20,03:42:04,01:33:57,00:10:41,00:05:25,05:58:27
+ironman-70.3-edinburgh-20170702.csv,810,Iain Faulds,36,Edinburgh City,GBR,00:17:52,03:00:51,01:55:13,00:03:34,00:01:53,05:19:23
+ironman-70.3-edinburgh-20170702.csv,811,John Morison,37,---,GBR,00:31:32,03:37:50,02:03:30,00:06:53,00:04:38,06:24:23
+ironman-70.3-edinburgh-20170702.csv,812,Jason Hinsley,35,Lancashire,GBR,00:29:18,03:09:15,01:49:19,00:06:12,00:03:44,05:37:48
+ironman-70.3-edinburgh-20170702.csv,813,Ryan Mich,35,NJ,USA,00:27:52,04:11:48,02:40:28,00:11:28,00:07:47,07:39:23
+ironman-70.3-edinburgh-20170702.csv,814,Craig Mcgougan,34,Scotland,GBR,00:25:36,03:14:54,02:03:27,00:04:57,00:03:38,05:52:32
+ironman-70.3-edinburgh-20170702.csv,815,Robin Nicholls,35,NSW,AUS,00:28:03,03:54:09,02:49:07,00:10:02,00:07:10,07:28:31
+ironman-70.3-edinburgh-20170702.csv,816,Alec Mceachran,38,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,817,Paul Lusty,38,---,GBR,00:20:09,03:04:20,01:29:56,00:05:58,00:04:08,05:04:31
+ironman-70.3-edinburgh-20170702.csv,818,Waldemar Skrzyniarz,38,---,GBR,00:36:14,03:44:01,02:29:44,00:07:20,00:05:06,07:02:25
+ironman-70.3-edinburgh-20170702.csv,819,Euan Gilchrist,38,East Lothian,GBR,00:30:33,03:49:08,00:46:15,00:06:42,00:06:51,05:19:29
+ironman-70.3-edinburgh-20170702.csv,820,Ilya Potemin,38,"
+saint petersburg",RUS,00:22:48,03:28:32,00:51:57,00:05:22,00:04:21,04:53:00
+ironman-70.3-edinburgh-20170702.csv,821,James Mace,37,---,GBR,00:22:32,03:28:27,01:40:30,00:13:43,00:03:32,05:48:44
+ironman-70.3-edinburgh-20170702.csv,822,Gary Kane,38,Notts,GBR,00:29:06,03:18:00,02:02:00,00:06:14,00:04:38,05:59:58
+ironman-70.3-edinburgh-20170702.csv,823,Michael Marshall,37,---,GBR,00:26:14,03:56:40,02:43:41,00:06:22,00:07:21,07:20:18
+ironman-70.3-edinburgh-20170702.csv,824,Jamie Gerrard,34,shanghai,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,825,Kirk Allsopp,39,Warwickshire,GBR,00:28:53,03:27:38,02:03:02,00:07:51,00:03:50,06:11:14
+ironman-70.3-edinburgh-20170702.csv,826,David Harris,39,---,GBR,00:29:15,04:35:06,02:36:28,00:10:35,00:07:33,07:58:57
+ironman-70.3-edinburgh-20170702.csv,827,Ker Mitchell,38,Notts,GBR,00:27:34,04:41:57,02:33:10,00:10:49,00:04:28,07:57:58
+ironman-70.3-edinburgh-20170702.csv,828,Raul Salvat Estebaranz,37,---,ESP,00:17:59,03:18:14,01:52:28,00:06:16,00:07:11,05:42:08
+ironman-70.3-edinburgh-20170702.csv,829,Drew Mitchell,37,Non-US/Other,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,830,Andrew Adamson,36,---,GBR,00:18:18,03:19:47,02:47:39,00:07:10,00:08:54,06:41:48
+ironman-70.3-edinburgh-20170702.csv,831,Shane Owen,37,---,GBR,00:26:08,03:15:43,01:50:03,00:06:44,00:04:16,05:42:54
+ironman-70.3-edinburgh-20170702.csv,832,Neil Anderson,37,Fife,GBR,00:27:37,04:09:45,02:38:37,00:11:54,00:06:22,07:34:15
+ironman-70.3-edinburgh-20170702.csv,833,Scott Mclean,37,Ayrshire,GBR,00:23:25,03:20:47,01:39:57,00:05:02,00:03:51,05:33:02
+ironman-70.3-edinburgh-20170702.csv,834,Gerry O'Hare,36,---,GBR,00:26:34,03:57:44,02:17:24,00:10:04,00:05:26,06:57:12
+ironman-70.3-edinburgh-20170702.csv,835,Jamie Macdonald,38,UK,GBR,00:25:50,03:25:52,01:58:52,00:08:33,00:06:15,06:05:22
+ironman-70.3-edinburgh-20170702.csv,836,Bartosz Wojdyla,35,---,POL,00:29:52,03:30:57,01:50:45,00:05:57,00:07:10,06:04:41
+ironman-70.3-edinburgh-20170702.csv,837,William Cowie,35,---,GBR,00:27:43,03:29:11,02:14:28,00:13:11,00:09:08,06:33:41
+ironman-70.3-edinburgh-20170702.csv,838,Craig Kemp,35,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,839,Mike Ellis,37,Merseyside,GBR,00:20:39,03:15:26,01:51:53,00:06:01,00:03:27,05:37:26
+ironman-70.3-edinburgh-20170702.csv,840,James Munce,36,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,841,Leszek Stelmachowski,35,Edinburgh City,POL,00:22:22,03:03:05,01:52:53,00:05:42,00:02:25,05:26:27
+ironman-70.3-edinburgh-20170702.csv,842,Alex Sharp,36,---,GBR,00:26:09,03:11:00,01:58:08,00:06:09,00:02:39,05:44:05
+ironman-70.3-edinburgh-20170702.csv,843,Peter O'Donnell,35,---,IRL,00:20:21,03:09:11,01:48:03,00:04:45,00:02:03,05:24:23
+ironman-70.3-edinburgh-20170702.csv,844,Jeffrey Barendse,37,---,NLD,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,845,Dennis Sugrue,36,Intl State,USA,00:24:58,04:06:40,02:25:48,00:17:38,00:10:50,07:25:54
+ironman-70.3-edinburgh-20170702.csv,846,John Whitener,36,---,GBR,00:25:22,03:22:42,01:45:01,00:07:10,00:05:30,05:45:45
+ironman-70.3-edinburgh-20170702.csv,847,Peter Sunnucks,34,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,848,Agustín Cabrera Hilaszek,37,---,ESP,00:18:38,03:17:16,02:00:35,00:05:30,00:03:26,05:45:25
+ironman-70.3-edinburgh-20170702.csv,849,James Canter,34,Midlothain,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,850,Steven Mccombe,39,---,GBR,00:21:55,03:11:05,01:55:08,00:06:01,00:04:34,05:38:43
+ironman-70.3-edinburgh-20170702.csv,851,Nick Moon,37,---,GBR,00:25:49,03:30:56,02:00:37,00:06:22,00:03:50,06:07:34
+ironman-70.3-edinburgh-20170702.csv,852,Jamie Hatfield,35,---,ZAF,00:22:31,03:32:10,02:09:30,00:07:36,00:06:21,06:18:08
+ironman-70.3-edinburgh-20170702.csv,853,Grzegorz Chuchra,35,---,POL,00:26:24,03:29:19,---,00:04:59,---,DNF
+ironman-70.3-edinburgh-20170702.csv,854,Michael Kuls,34,---,DEU,00:26:09,03:33:50,02:31:46,00:07:22,00:04:16,06:43:23
+ironman-70.3-edinburgh-20170702.csv,855,Ralph Jepson,35,cambs,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,856,Chris Mason,38,---,GBR,00:20:34,03:01:09,01:46:36,00:05:58,00:02:50,05:17:07
+ironman-70.3-edinburgh-20170702.csv,857,David Meyrick,35,Pembrokeshire,GBR,00:21:55,03:21:58,02:01:16,00:07:44,00:05:47,05:58:40
+ironman-70.3-edinburgh-20170702.csv,858,Ricki Morgan,36,---,GBR,00:30:04,03:10:49,01:57:21,00:05:59,00:02:49,05:47:02
+ironman-70.3-edinburgh-20170702.csv,859,Richard Bruton,38,Lothian,IRL,00:18:37,02:50:31,01:39:33,00:03:07,00:02:13,04:54:01
+ironman-70.3-edinburgh-20170702.csv,860,Neil Smith,37,---,GBR,00:43:28,03:57:50,02:20:13,00:10:18,00:06:37,07:18:26
+ironman-70.3-edinburgh-20170702.csv,861,Eric Allmendinger,39,CO,USA,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,862,Leigh Kennaugh,39,Isle of Man,GBR,00:30:26,03:40:16,02:22:37,00:07:06,00:06:56,06:47:21
+ironman-70.3-edinburgh-20170702.csv,863,Alistair Simpson,35,Edinburgh,ZAF,00:20:42,04:07:08,---,00:08:50,---,DNF
+ironman-70.3-edinburgh-20170702.csv,864,John Hector Walker,38,---,GBR,00:27:21,04:01:49,01:50:46,00:09:28,00:04:47,06:34:11
+ironman-70.3-edinburgh-20170702.csv,865,James Houseman,39,Intl State,GBR,00:24:26,03:01:28,01:59:51,00:06:06,00:05:08,05:36:59
+ironman-70.3-edinburgh-20170702.csv,866,Stuart Day,36,Pembrokeshire,GBR,00:20:45,03:07:53,01:57:52,00:07:55,00:05:22,05:39:47
+ironman-70.3-edinburgh-20170702.csv,867,Richard Maxted,37,---,GBR,00:25:29,03:13:33,01:45:45,00:04:44,00:05:25,05:34:56
+ironman-70.3-edinburgh-20170702.csv,868,Ryan Glasgow,37,City of Edinburgh,GBR,00:30:22,03:55:39,02:14:40,00:08:54,00:05:45,06:55:20
+ironman-70.3-edinburgh-20170702.csv,869,Ben Lee,38,---,GBR,00:22:13,03:19:19,01:43:28,00:06:37,00:04:16,05:35:53
+ironman-70.3-edinburgh-20170702.csv,870,Andrew Whelan,35,London,GBR,00:27:37,03:22:58,01:39:10,00:08:01,00:02:48,05:40:34
+ironman-70.3-edinburgh-20170702.csv,871,Miles Woodruff,36,CA,USA,00:21:25,03:39:37,02:33:09,00:08:02,00:05:49,06:48:02
+ironman-70.3-edinburgh-20170702.csv,872,Alastair Davidson,37,---,GBR,00:26:16,02:57:22,01:52:53,00:03:55,00:02:30,05:22:56
+ironman-70.3-edinburgh-20170702.csv,873,Robert Macaskill,38,---,GBR,00:30:23,03:33:13,01:55:40,00:07:45,00:03:54,06:10:55
+ironman-70.3-edinburgh-20170702.csv,874,Dan Stendall,36,Notts,GBR,00:24:51,03:22:31,01:50:15,00:06:37,00:04:02,05:48:16
+ironman-70.3-edinburgh-20170702.csv,875,Oscar Rincon,38,---,COL,00:18:52,03:48:16,02:16:10,00:06:15,00:04:06,06:33:39
+ironman-70.3-edinburgh-20170702.csv,876,Grant Cameron,38,---,GBR,00:34:25,03:54:45,02:28:21,00:16:31,00:08:57,07:22:59
+ironman-70.3-edinburgh-20170702.csv,877,Jamie Birse,35,Westmeath ,IRL,00:42:06,04:09:16,02:31:46,00:06:59,00:06:27,07:36:34
+ironman-70.3-edinburgh-20170702.csv,878,Daniel Horton,35,WKO,NZL,00:23:52,02:58:18,01:53:00,00:07:33,00:03:59,05:26:42
+ironman-70.3-edinburgh-20170702.csv,879,Christopher Ford,37,---,GBR,00:22:58,03:42:25,02:15:47,00:06:33,00:06:20,06:34:03
+ironman-70.3-edinburgh-20170702.csv,880,Alex Hardy,34,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,881,Mark Brinsden,35,WKO,NZL,00:24:39,03:06:56,02:02:20,00:07:49,00:03:42,05:45:26
+ironman-70.3-edinburgh-20170702.csv,882,Peter Chambers,35,UK,GBR,00:31:07,03:35:25,02:02:17,00:07:20,00:05:47,06:21:56
+ironman-70.3-edinburgh-20170702.csv,883,Jason Fitzgerald,37,Galway,IRL,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,884,Robert Lendrum,38,---,GBR,00:23:24,03:50:39,02:27:03,00:14:27,00:14:38,07:10:11
+ironman-70.3-edinburgh-20170702.csv,885,Ross Turner,39,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,886,Tim Lewis,39,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,887,Iain Mcintyre,34,Perth and Kinross,GBR,00:31:40,03:35:49,02:19:00,00:06:38,00:03:33,06:36:40
+ironman-70.3-edinburgh-20170702.csv,888,Rick Stark,36,---,GBR,00:31:04,03:26:34,01:53:57,00:05:59,00:03:30,06:01:04
+ironman-70.3-edinburgh-20170702.csv,889,Daniel Moore,38,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,890,Bart Van De Venne,37,---,NLD,00:32:40,03:37:47,02:18:47,00:09:02,00:07:01,06:45:17
+ironman-70.3-edinburgh-20170702.csv,891,Jelle Bouma,36,---,NLD,00:36:09,03:46:53,02:23:57,00:08:02,00:10:42,07:05:43
+ironman-70.3-edinburgh-20170702.csv,892,Peter Berry,38,WA,AUS,00:20:23,03:19:34,01:55:32,00:04:13,00:02:36,05:42:18
+ironman-70.3-edinburgh-20170702.csv,893,Gordon Devlin,37,---,GBR,00:16:17,03:10:19,01:50:04,00:04:16,00:02:29,05:23:25
+ironman-70.3-edinburgh-20170702.csv,894,Anthony French,36,Somerset,GBR,00:28:17,03:53:18,02:06:06,00:09:42,00:08:02,06:45:25
+ironman-70.3-edinburgh-20170702.csv,895,Ian Chappell,38,Somerset,GBR,00:18:13,03:54:01,02:33:07,00:08:01,00:06:28,06:59:50
+ironman-70.3-edinburgh-20170702.csv,896,Marcos Garcia Viano,36,---,ESP,00:28:39,04:29:50,02:04:14,00:08:36,00:05:51,07:17:10
+ironman-70.3-edinburgh-20170702.csv,897,Tom Williams,37,---,GBR,00:17:31,02:41:54,01:28:56,00:02:45,00:02:08,04:33:14
+ironman-70.3-edinburgh-20170702.csv,898,Ruaridh Arrow,36,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,899,Ali Khalaf,37,Manama,BHR,00:41:28,04:27:18,02:21:36,00:11:08,00:05:49,07:47:19
+ironman-70.3-edinburgh-20170702.csv,900,Scott Robertson,35,---,GBR,00:26:55,03:37:33,02:19:03,00:08:15,00:04:46,06:36:32
+ironman-70.3-edinburgh-20170702.csv,901,William Stather,34,Angus,GBR,00:25:32,03:23:22,01:55:39,00:08:47,00:05:27,05:58:47
+ironman-70.3-edinburgh-20170702.csv,902,Nolan Stewart,37,---,GBR,00:30:28,03:46:56,02:23:45,00:08:26,00:03:43,06:53:18
+ironman-70.3-edinburgh-20170702.csv,903,Cheremisin Dmitry,37,---,RUS,00:28:45,03:32:13,02:02:38,00:09:37,00:08:02,06:21:15
+ironman-70.3-edinburgh-20170702.csv,904,Andy Meehan,36,---,GBR,00:22:03,03:12:48,01:45:44,00:08:23,00:03:01,05:31:59
+ironman-70.3-edinburgh-20170702.csv,905,Brad Dornbusch,36,East Yorkshire,NZL,00:18:11,03:03:01,01:40:23,00:04:52,00:04:33,05:11:00
+ironman-70.3-edinburgh-20170702.csv,906,Neill Keaney,36,---,IRL,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,907,Rory Natkiel,38,---,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,908,Dave O Brien,37,wicklow,IRL,00:22:09,03:21:21,01:55:31,00:05:23,00:04:04,05:48:28
+ironman-70.3-edinburgh-20170702.csv,909,Conal Mcbride,38,---,IRL,00:17:44,02:56:05,01:30:12,00:02:56,00:02:19,04:49:16
+ironman-70.3-edinburgh-20170702.csv,910,Andrew Craig,38,Mid Lothian,GBR,00:27:24,02:55:39,01:49:03,00:04:01,00:02:14,05:18:21
+ironman-70.3-edinburgh-20170702.csv,911,Dmitry Govorov,35,Manama,RUS,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,912,Robert O'Donovan,35,Kent,GBR,00:29:20,04:42:19,---,00:12:02,---,DNF
+ironman-70.3-edinburgh-20170702.csv,913,Hugh Griffiths,35,---,GBR,00:24:32,03:18:19,02:23:52,00:06:49,00:07:24,06:20:56
+ironman-70.3-edinburgh-20170702.csv,914,Paul Pulze,36,---,GBR,00:23:07,03:05:04,01:46:39,00:05:42,00:03:16,05:23:48
+ironman-70.3-edinburgh-20170702.csv,915,Diego Rojas,38,Bogota,COL,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,916,Benjamin Drury,38,---,GBR,00:27:51,03:24:07,01:58:57,00:06:12,00:05:20,06:02:27
+ironman-70.3-edinburgh-20170702.csv,917,Iain Veitch,35,---,HKG,00:17:53,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,918,Daniel Wood,35,Bucks,GBR,00:25:02,03:11:14,01:53:31,00:08:11,00:04:36,05:42:34
+ironman-70.3-edinburgh-20170702.csv,919,Stephen Corrigan,36,Galway,IRL,00:27:07,03:24:12,02:06:50,00:06:32,00:04:42,06:09:23
+ironman-70.3-edinburgh-20170702.csv,920,Phil Murphy,37,wrexham,GBR,00:15:53,---,---,00:02:37,---,DNF
+ironman-70.3-edinburgh-20170702.csv,921,Alisdair Mclaren,37,Glasgow,AUS,00:16:59,03:00:38,02:02:09,00:04:17,00:02:55,05:26:58
+ironman-70.3-edinburgh-20170702.csv,922,Vincent Josse,34,---,FRA,00:28:40,03:44:27,01:56:49,00:09:58,00:05:14,06:25:08
+ironman-70.3-edinburgh-20170702.csv,923,Richard Currie,37,Essex,GBR,00:28:51,03:19:29,01:47:15,00:06:39,00:03:59,05:46:13
+ironman-70.3-edinburgh-20170702.csv,924,Andrew Macewan,34,---,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,925,Richard Howells,36,United Kingdom,GBR,00:27:13,03:50:35,02:20:50,00:11:24,00:07:16,06:57:18
+ironman-70.3-edinburgh-20170702.csv,936,Julia Drewer,39,---,DEU,00:25:13,03:22:47,02:01:11,00:06:37,00:02:50,05:58:38
+ironman-70.3-edinburgh-20170702.csv,937,Alicja Weyer,43,---,POL,00:27:33,03:13:18,02:04:02,00:04:48,00:04:31,05:54:12
+ironman-70.3-edinburgh-20170702.csv,938,Ester Coma Ramos,41,Stirling,ESP,00:18:04,04:05:39,02:17:06,00:05:46,00:04:00,06:50:35
+ironman-70.3-edinburgh-20170702.csv,939,Louise Fraser,41,---,GBR,00:31:26,04:04:45,02:24:08,00:10:52,00:09:07,07:20:18
+ironman-70.3-edinburgh-20170702.csv,940,Claire Richardson,43,---,GBR,00:27:27,04:09:37,02:29:28,00:08:06,00:06:15,07:20:53
+ironman-70.3-edinburgh-20170702.csv,941,Suzanne Dolan,43,Fife,GBR,00:34:15,04:34:16,02:44:40,00:06:26,00:04:40,08:04:17
+ironman-70.3-edinburgh-20170702.csv,942,Rosemary Byde,39,---,GBR,00:19:42,03:16:29,01:47:15,00:03:55,00:03:51,05:31:12
+ironman-70.3-edinburgh-20170702.csv,943,Sian Tovey,42,---,GBR,00:24:21,03:01:07,01:49:20,00:06:25,00:02:35,05:23:48
+ironman-70.3-edinburgh-20170702.csv,944,Jacqueline Corless,41,West Lothian,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,945,Kirsty Mcbirnie,40,---,GBR,00:25:08,03:36:59,01:40:45,00:07:22,00:03:22,05:53:36
+ironman-70.3-edinburgh-20170702.csv,946,Julia Trotter,42,---,GBR,00:31:45,03:41:36,01:44:34,00:08:34,00:03:18,06:09:47
+ironman-70.3-edinburgh-20170702.csv,947,Jemma Beattie,39,---,GBR,00:32:59,04:01:07,02:10:27,00:10:14,00:06:37,07:01:24
+ironman-70.3-edinburgh-20170702.csv,948,Mags Mchardy,42,---,GBR,00:30:24,04:20:51,02:40:04,00:06:53,00:05:56,07:44:08
+ironman-70.3-edinburgh-20170702.csv,949,Jeni Warden,40,Angus,GBR,00:23:02,03:48:07,02:04:03,00:08:45,00:06:37,06:30:34
+ironman-70.3-edinburgh-20170702.csv,950,Maria Burke,40,Galway,IRL,00:28:36,04:19:36,02:44:35,00:10:54,00:07:19,07:51:00
+ironman-70.3-edinburgh-20170702.csv,951,Elaine Stroud,43,---,GBR,00:25:16,03:52:21,01:54:14,00:05:28,00:02:32,06:19:51
+ironman-70.3-edinburgh-20170702.csv,952,Donna Fyfe,41,Angus,GBR,00:43:36,04:12:22,02:29:44,00:12:07,00:09:49,07:47:38
+ironman-70.3-edinburgh-20170702.csv,953,Fiona Carton,43,Galway,IRL,00:25:52,03:43:32,02:13:27,00:10:37,00:07:27,06:40:55
+ironman-70.3-edinburgh-20170702.csv,954,Lorna Barnes,43,---,GBR,00:22:51,03:47:36,02:04:39,00:06:02,00:03:41,06:24:49
+ironman-70.3-edinburgh-20170702.csv,955,Lisa Brazier,40,---,GBR,00:29:22,04:04:06,01:59:53,00:08:43,00:05:27,06:47:31
+ironman-70.3-edinburgh-20170702.csv,956,Joy Hadden,39,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,957,Tanya Ross,43,East Lothian,GBR,00:39:02,04:21:27,02:32:55,00:10:25,00:07:11,07:51:00
+ironman-70.3-edinburgh-20170702.csv,958,Martine Nolan,42,Istanbul,IRL,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,959,Annemarie Reidy,44,Galway,IRL,00:26:50,04:01:48,02:20:01,00:07:38,00:06:50,07:03:07
+ironman-70.3-edinburgh-20170702.csv,960,Michelle Glasgow,44,CO,USA,00:24:40,03:52:51,02:28:57,00:07:59,00:04:45,06:59:12
+ironman-70.3-edinburgh-20170702.csv,961,Lisa Mcshea,41,Aberdeenshire,GBR,00:24:35,04:18:32,02:18:36,00:09:30,00:05:42,07:16:55
+ironman-70.3-edinburgh-20170702.csv,962,Wendy Robinson,41,Gloucestershire,GBR,00:29:21,03:56:08,02:18:09,00:08:22,00:06:22,06:58:22
+ironman-70.3-edinburgh-20170702.csv,963,Katarzyna Skrzyniarz,42,---,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,964,Rebecca Helliwell,41,argyll,GBR,00:30:40,03:38:15,02:20:30,00:06:27,00:03:30,06:39:22
+ironman-70.3-edinburgh-20170702.csv,965,Ruth Willott,43,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,966,Sarah Nimmo,41,Fife,GBR,00:27:51,05:20:48,---,00:10:06,---,DNF
+ironman-70.3-edinburgh-20170702.csv,967,Emily Campbell,39,Northants ,GBR,00:46:14,04:36:05,---,00:11:11,---,DNF
+ironman-70.3-edinburgh-20170702.csv,968,Clare Muir,41,Fife,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,969,Angela Mcpartlane,41,---,GBR,00:25:20,04:08:22,02:11:49,00:07:34,00:06:26,06:59:31
+ironman-70.3-edinburgh-20170702.csv,970,Susannah Harvey-Jamieson,44,QLD,AUS,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,971,Lauren Davies,40,Oxfordshire,GBR,00:21:28,03:10:08,01:48:51,00:04:21,00:02:15,05:27:03
+ironman-70.3-edinburgh-20170702.csv,972,Elaine Mccann,40,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,973,Gillian Cardno-Strachan,42,Intl State,GBR,00:40:58,04:03:54,01:59:32,00:06:38,00:05:57,06:56:59
+ironman-70.3-edinburgh-20170702.csv,974,Helen Munro,40,Other,GBR,00:25:22,03:15:23,01:54:54,00:07:09,00:04:55,05:47:43
+ironman-70.3-edinburgh-20170702.csv,975,Leonie Kirk,39,Aberdeenshire,GBR,00:24:17,03:39:48,02:08:04,00:06:28,00:04:11,06:22:48
+ironman-70.3-edinburgh-20170702.csv,976,Michelle Matthew,43,Aberdeenshire,GBR,00:40:44,04:32:18,02:45:27,00:09:02,00:04:28,08:11:59
+ironman-70.3-edinburgh-20170702.csv,977,Tracey Hutchinson,39,County Durham ,GBR,00:35:49,04:04:30,02:08:33,00:11:15,00:04:40,07:04:47
+ironman-70.3-edinburgh-20170702.csv,978,Kirstin Beedie,39,WA,AUS,00:20:30,03:19:58,01:58:58,00:03:44,00:02:51,05:46:01
+ironman-70.3-edinburgh-20170702.csv,979,Sinead Colreavy,39,Dublin,IRL,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,980,Amanda Gow,40,---,GBR,00:24:12,03:55:57,01:59:31,00:09:25,00:05:08,06:34:13
+ironman-70.3-edinburgh-20170702.csv,981,Diane Brown,40,---,GBR,00:30:37,04:31:35,02:28:54,00:12:29,00:05:25,07:49:00
+ironman-70.3-edinburgh-20170702.csv,982,Karen Graham,39,co durham,GBR,00:20:11,03:25:17,01:48:14,00:04:43,00:03:10,05:41:35
+ironman-70.3-edinburgh-20170702.csv,983,Roberta Withers,39,TX,GBR,00:23:21,03:25:55,02:17:01,00:05:45,00:05:59,06:18:01
+ironman-70.3-edinburgh-20170702.csv,984,Jen Seager,39,---,GBR,00:26:50,03:37:01,02:30:17,00:04:59,00:07:18,06:46:25
+ironman-70.3-edinburgh-20170702.csv,985,Kate Sigley,40,Staffordshire,GBR,00:32:42,04:16:55,---,00:07:40,---,DNF
+ironman-70.3-edinburgh-20170702.csv,986,Claire Harris,42,Argyll,GBR,00:29:06,04:34:00,02:18:29,00:09:15,00:06:03,07:36:53
+ironman-70.3-edinburgh-20170702.csv,987,Fiona Scotter,42,---,GBR,00:21:06,03:30:20,02:00:23,00:05:34,00:03:39,06:01:02
+ironman-70.3-edinburgh-20170702.csv,988,Genevieve Harborow,42,---,GBR,00:25:49,03:37:10,01:53:22,00:06:11,00:04:27,06:06:59
+ironman-70.3-edinburgh-20170702.csv,989,Amy Ogden,40,---,GBR,00:22:50,02:59:03,01:39:32,00:04:07,00:01:58,05:07:30
+ironman-70.3-edinburgh-20170702.csv,990,Andri De Wit,41,Kent,GBR,00:21:09,03:23:26,01:47:13,00:03:07,00:02:00,05:36:55
+ironman-70.3-edinburgh-20170702.csv,991,Lynne Parkinson,40,---,GBR,00:24:10,03:16:58,01:47:03,00:04:57,00:02:40,05:35:48
+ironman-70.3-edinburgh-20170702.csv,992,Rachel Borland,40,Ayrshire,GBR,00:21:47,03:36:57,02:14:45,00:05:42,00:03:25,06:22:36
+ironman-70.3-edinburgh-20170702.csv,993,Marc Bailey,44,---,GBR,00:23:38,03:24:22,---,00:09:13,---,DNF
+ironman-70.3-edinburgh-20170702.csv,994,Chris Clark,41,Aberdeenshire,GBR,00:18:06,03:08:49,01:49:08,00:04:05,00:02:21,05:22:29
+ironman-70.3-edinburgh-20170702.csv,995,Aaron Krzyzanowski,43,fife,GBR,00:26:22,03:50:16,02:11:17,00:09:25,00:06:44,06:44:04
+ironman-70.3-edinburgh-20170702.csv,996,Antony Brady,41,Fife,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,997,Donald Macleod,43,---,GBR,00:24:29,03:23:28,01:49:41,00:05:25,00:02:43,05:45:46
+ironman-70.3-edinburgh-20170702.csv,998,Stuart Cameron,42,---,GBR,00:26:50,03:48:26,02:17:36,00:07:58,00:08:07,06:48:57
+ironman-70.3-edinburgh-20170702.csv,999,Juan Ramon Hidalgo-Agra,42,---,ESP,00:19:38,03:32:22,01:52:09,00:06:52,00:03:06,05:54:07
+ironman-70.3-edinburgh-20170702.csv,1000,Allan Wilson,43,Aberdeenshire,GBR,00:28:56,03:11:28,01:42:45,00:05:28,00:05:42,05:34:19
+ironman-70.3-edinburgh-20170702.csv,1001,Iain Todd,39,---,GBR,00:25:29,03:20:23,02:09:22,00:12:13,00:11:02,06:18:29
+ironman-70.3-edinburgh-20170702.csv,1002,Rob Welsh,44,---,GBR,00:43:31,03:37:00,02:08:52,00:15:15,00:03:44,06:48:22
+ironman-70.3-edinburgh-20170702.csv,1003,Paul Ross,41,Angus,GBR,00:27:06,03:23:50,02:03:27,00:06:46,00:03:39,06:04:48
+ironman-70.3-edinburgh-20170702.csv,1004,David Mackay,---,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1005,Richard Britton,41,---,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1006,Ewan Stirling,41,Scotland,GBR,00:24:15,03:32:27,02:51:45,00:06:11,00:09:26,07:04:04
+ironman-70.3-edinburgh-20170702.csv,1007,Graeme Roxburgh,41,---,GBR,00:25:23,03:24:44,01:55:00,00:07:16,00:05:37,05:58:00
+ironman-70.3-edinburgh-20170702.csv,1008,Phil Askew,40,---,GBR,00:25:28,03:17:40,02:14:22,00:05:52,00:05:32,06:08:54
+ironman-70.3-edinburgh-20170702.csv,1009,George Noble,41,Aberdeenshire,GBR,00:22:08,02:43:27,01:38:41,00:04:11,00:02:30,04:50:57
+ironman-70.3-edinburgh-20170702.csv,1010,Scott Steven,43,---,GBR,00:25:57,03:16:49,02:23:40,00:10:04,00:04:13,06:20:43
+ironman-70.3-edinburgh-20170702.csv,1011,Kevin Slesser,41,Angus,GBR,00:42:41,03:54:00,02:06:06,00:11:57,00:08:31,07:03:15
+ironman-70.3-edinburgh-20170702.csv,1012,Stephen Morrison,44,Lanarkshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1013,Spencer Holmes,41,Aberdeenshire,GBR,00:30:17,03:10:16,01:56:36,00:14:32,00:04:59,05:56:40
+ironman-70.3-edinburgh-20170702.csv,1014,Kevin Colclough,44,---,GBR,00:22:57,03:22:31,02:01:14,00:06:09,00:03:45,05:56:36
+ironman-70.3-edinburgh-20170702.csv,1015,John Wigham,41,---,GBR,00:18:30,02:52:37,01:39:19,00:04:02,00:02:10,04:56:38
+ironman-70.3-edinburgh-20170702.csv,1016,Douglas Stewart,42,Fife,GBR,00:41:00,03:18:44,02:20:17,00:06:30,00:04:57,06:31:28
+ironman-70.3-edinburgh-20170702.csv,1017,Alistair Aitken,42,---,GBR,00:21:25,03:10:17,01:41:08,00:04:40,00:03:23,05:20:53
+ironman-70.3-edinburgh-20170702.csv,1018,James Cobb,40,Staffordshire,GBR,00:32:17,04:21:22,02:32:41,00:11:56,00:08:34,07:46:50
+ironman-70.3-edinburgh-20170702.csv,1019,Martin Rutherford,43,West Lothian,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1020,Ally Anderson,42,GB,GBR,00:19:12,02:52:55,02:18:09,00:06:36,00:06:17,05:43:09
+ironman-70.3-edinburgh-20170702.csv,1021,Rory Fairbairn,42,---,GBR,00:19:11,02:55:09,01:41:48,00:06:13,00:02:11,05:04:32
+ironman-70.3-edinburgh-20170702.csv,1022,Tim Griffin,43,---,GBR,00:16:16,03:05:11,01:48:06,00:04:42,00:02:34,05:16:49
+ironman-70.3-edinburgh-20170702.csv,1023,Grant Gollan,43,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1024,Simon Barber,42,---,GBR,00:30:53,03:36:14,01:51:37,00:13:02,00:09:57,06:21:43
+ironman-70.3-edinburgh-20170702.csv,1025,Craig Watson,44,---Please Select---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1026,Richard Bryce,42,TX,GBR,00:38:04,04:12:36,02:23:06,00:06:48,00:04:18,07:24:52
+ironman-70.3-edinburgh-20170702.csv,1027,Ian Gillon,43,---,GBR,00:22:44,03:12:03,01:50:52,00:06:06,00:03:44,05:35:29
+ironman-70.3-edinburgh-20170702.csv,1028,Craig Hogg,41,South Lanarkshire,GBR,00:24:16,03:26:18,02:12:48,00:07:38,00:04:38,06:15:38
+ironman-70.3-edinburgh-20170702.csv,1029,Andy Lamb,39,Perthshire,GBR,00:28:40,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1030,Andrew Groom,40,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1031,John Aitchison,40,Aberdeenshire,GBR,00:27:03,03:34:25,01:53:56,00:06:46,00:06:18,06:08:28
+ironman-70.3-edinburgh-20170702.csv,1032,Mitchell Fraser,43,---,GBR,00:31:44,03:13:56,01:52:50,00:05:39,00:02:55,05:47:04
+ironman-70.3-edinburgh-20170702.csv,1033,Bruce Combe,44,---,GBR,00:44:42,04:01:48,02:21:03,00:09:51,00:05:58,07:23:22
+ironman-70.3-edinburgh-20170702.csv,1034,John Heasley,43,Inverclyde,GBR,00:23:45,03:12:24,02:06:30,00:05:34,00:04:41,05:52:54
+ironman-70.3-edinburgh-20170702.csv,1035,Paul Kelman,41,Aberdeenshire,GBR,00:25:43,03:33:22,01:58:36,00:12:22,00:05:53,06:15:56
+ironman-70.3-edinburgh-20170702.csv,1036,Andrew Scott,40,---,GBR,00:19:26,02:39:43,01:40:21,00:04:24,00:02:31,04:46:25
+ironman-70.3-edinburgh-20170702.csv,1037,Stuart Barr,43,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1038,Craig Henderson,39,---,GBR,00:27:30,03:35:02,02:06:39,00:07:09,00:03:34,06:19:54
+ironman-70.3-edinburgh-20170702.csv,1039,Neil Robertson,39,Orkney,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1040,Craig Lynagh,40,---,AUS,00:22:54,03:35:59,02:21:35,00:07:10,00:05:04,06:32:42
+ironman-70.3-edinburgh-20170702.csv,1041,David Hall,40,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1042,Willem Van Der Merwe,40,---,NZL,00:20:42,03:20:36,02:25:26,00:07:26,00:06:03,06:20:13
+ironman-70.3-edinburgh-20170702.csv,1043,Colin Robertson,---,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1044,Craig Macgregor,41,Clackmannanshire,GBR,00:29:26,03:31:37,02:15:30,00:07:18,00:03:31,06:27:22
+ironman-70.3-edinburgh-20170702.csv,1045,Steven Wilson,---,---,GBR,00:28:34,03:11:37,02:17:52,00:07:22,00:03:49,06:09:14
+ironman-70.3-edinburgh-20170702.csv,1046,Allan Dodds,43,---,GBR,00:24:51,03:04:32,01:49:09,00:05:09,00:02:46,05:26:27
+ironman-70.3-edinburgh-20170702.csv,1047,Michael Carrighan,---,---,GBR,00:23:50,03:48:17,02:14:41,00:07:53,00:05:38,06:40:19
+ironman-70.3-edinburgh-20170702.csv,1048,Tom Griffith,44,Oxon,GBR,00:17:14,03:42:28,02:17:10,00:06:49,00:04:11,06:27:52
+ironman-70.3-edinburgh-20170702.csv,1049,Ian Muir,44,---,GBR,00:26:44,04:01:05,02:48:38,00:07:46,00:07:20,07:31:33
+ironman-70.3-edinburgh-20170702.csv,1050,Gary Forsey,40,Suffolk,GBR,00:36:49,03:45:54,02:36:51,00:07:54,00:04:55,07:12:23
+ironman-70.3-edinburgh-20170702.csv,1051,Colin Matthew,41,---,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1052,Allan Anderson,40,---,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1053,Douglas Holmes,39,---,GBR,00:27:06,03:06:13,01:49:31,00:07:40,00:03:37,05:34:07
+ironman-70.3-edinburgh-20170702.csv,1054,Richard Valentine,40,Midlothian,GBR,00:28:23,03:43:22,02:02:10,00:08:08,00:05:31,06:27:34
+ironman-70.3-edinburgh-20170702.csv,1055,Barry Mairs,40,---,GBR,00:34:41,03:26:35,02:05:36,00:04:20,00:04:15,06:15:27
+ironman-70.3-edinburgh-20170702.csv,1056,Scott Mackenzie,42,Fife,GBR,00:28:29,04:08:39,02:31:28,00:05:53,00:06:34,07:21:03
+ironman-70.3-edinburgh-20170702.csv,1057,Andy Nisbet,43,---,GBR,00:32:34,03:45:31,02:25:43,00:10:32,00:05:34,06:59:54
+ironman-70.3-edinburgh-20170702.csv,1058,Alan Irving,39,---,GBR,00:27:42,03:38:48,01:59:25,00:08:19,00:05:33,06:19:47
+ironman-70.3-edinburgh-20170702.csv,1059,Stuart Dickson,---,---,GBR,00:22:10,03:28:33,02:25:06,00:08:28,00:07:09,06:31:26
+ironman-70.3-edinburgh-20170702.csv,1060,Derek Mcdonald,41,---,GBR,00:32:13,03:55:36,02:08:06,00:08:36,00:06:01,06:50:32
+ironman-70.3-edinburgh-20170702.csv,1061,Fraser Stewart,44,---,GBR,00:29:23,03:44:08,02:42:34,00:10:40,00:07:17,07:14:02
+ironman-70.3-edinburgh-20170702.csv,1062,Adam Chmielowski,41,---,POL,00:16:17,02:49:51,01:32:45,00:02:53,00:02:19,04:44:05
+ironman-70.3-edinburgh-20170702.csv,1063,Robert Waterson,43,West Lothian,GBR,00:21:04,03:01:53,01:37:21,00:06:16,00:02:06,05:08:40
+ironman-70.3-edinburgh-20170702.csv,1064,Peter Joyce,---,---,GBR,00:28:59,03:25:33,02:05:37,00:09:27,00:05:55,06:15:31
+ironman-70.3-edinburgh-20170702.csv,1065,Cyrille Lagrula,43,---,FRA,00:23:26,03:22:26,02:08:04,00:07:07,00:04:59,06:06:02
+ironman-70.3-edinburgh-20170702.csv,1066,Richard Morton,41,City of Edinburgh,GBR,00:24:14,02:55:30,01:44:23,00:04:04,00:03:38,05:11:49
+ironman-70.3-edinburgh-20170702.csv,1067,Andy Gravett,43,---,GBR,00:29:08,03:50:21,02:03:13,00:13:59,00:06:33,06:43:14
+ironman-70.3-edinburgh-20170702.csv,1068,Matthew Laskaj,41,---,AUS,00:23:51,03:31:22,01:55:57,00:05:28,00:04:46,06:01:24
+ironman-70.3-edinburgh-20170702.csv,1069,James Mowbray,41,Bucks,GBR,00:30:46,03:28:14,02:35:06,00:08:26,00:05:55,06:48:27
+ironman-70.3-edinburgh-20170702.csv,1070,Gregory Mcveigh,41,---,IRL,00:25:30,03:39:45,02:31:25,00:07:25,00:06:18,06:50:23
+ironman-70.3-edinburgh-20170702.csv,1071,Andrew Hawthorne,42,---,GBR,00:26:50,03:24:40,02:23:22,00:06:43,00:06:41,06:28:16
+ironman-70.3-edinburgh-20170702.csv,1072,Jon Mortimer,41,north yorkshire,GBR,00:19:16,03:13:22,01:53:30,00:04:48,00:02:14,05:33:10
+ironman-70.3-edinburgh-20170702.csv,1073,Ben Wood,43,---,GBR,00:28:40,03:16:02,02:23:38,00:05:47,00:03:26,06:17:33
+ironman-70.3-edinburgh-20170702.csv,1074,Andrew Beaton,44,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1075,David Salter,42,East Lothian,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1076,Scott Lucas,42,ayrshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1077,Scott Pryde,40,Fife,GBR,00:28:42,03:39:18,02:27:51,00:07:29,00:05:39,06:48:59
+ironman-70.3-edinburgh-20170702.csv,1078,Ian Murphy,41,Tyne &wear,GBR,00:33:17,03:53:46,01:59:53,00:08:55,00:05:54,06:41:45
+ironman-70.3-edinburgh-20170702.csv,1079,Mark Haines,42,---,GBR,00:21:46,03:06:35,01:47:22,00:04:28,00:03:29,05:23:40
+ironman-70.3-edinburgh-20170702.csv,1080,Jamie Airnes,43,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1081,Joe Mcguill,42,Yorkshire,GBR,00:22:33,03:35:00,01:57:52,00:07:51,00:07:29,06:10:45
+ironman-70.3-edinburgh-20170702.csv,1082,George Christie,42,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1083,Andrew Marsden,43,---,GBR,00:25:15,03:10:25,02:21:05,00:05:32,00:05:53,06:08:10
+ironman-70.3-edinburgh-20170702.csv,1084,Craig Goold,43,---,AUS,00:23:58,03:28:08,02:10:57,00:07:43,00:06:14,06:17:00
+ironman-70.3-edinburgh-20170702.csv,1085,Jeremy Turner,41,---,GBR,00:43:47,03:50:01,02:38:27,00:07:03,00:04:48,07:24:06
+ironman-70.3-edinburgh-20170702.csv,1086,Colin Wilson,44,Midlothian,GBR,00:30:08,03:27:49,02:09:54,00:07:22,00:03:53,06:19:06
+ironman-70.3-edinburgh-20170702.csv,1087,Ciaran Mcmahon,41,Midlothian,IRL,00:24:14,02:54:26,01:43:34,00:05:48,00:02:41,05:10:43
+ironman-70.3-edinburgh-20170702.csv,1088,Richard Whyte,42,---,GBR,00:31:02,03:30:41,01:55:21,00:09:48,00:03:24,06:10:16
+ironman-70.3-edinburgh-20170702.csv,1089,John Day,43,---,GBR,00:20:44,03:20:51,02:05:10,00:08:06,00:05:08,05:59:59
+ironman-70.3-edinburgh-20170702.csv,1090,Andrew Pears,40,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1091,Anthony Taylor,42,---,GBR,00:29:39,03:21:47,01:28:55,00:07:42,00:04:15,05:32:18
+ironman-70.3-edinburgh-20170702.csv,1092,David Wilson,40,West Yorkshire,GBR,00:24:02,03:25:47,02:14:46,00:05:24,00:02:55,06:12:54
+ironman-70.3-edinburgh-20170702.csv,1093,Andrew Fish,42,---,GBR,00:18:59,02:55:31,01:51:30,00:05:37,00:02:54,05:14:31
+ironman-70.3-edinburgh-20170702.csv,1094,Scott Griffiths,41,---,GBR,00:32:14,04:02:08,02:20:10,00:05:49,00:04:58,07:05:19
+ironman-70.3-edinburgh-20170702.csv,1095,Michael Forrest,40,Aberdeenshire,GBR,00:33:57,03:53:02,02:30:55,00:08:42,00:04:59,07:11:35
+ironman-70.3-edinburgh-20170702.csv,1096,Stuart Leitch,39,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1097,Lee Cunliffe,42,Lancashire,GBR,00:31:46,03:45:43,02:13:23,00:05:09,00:05:00,06:41:01
+ironman-70.3-edinburgh-20170702.csv,1098,Djörn Rump,43,---,NLD,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1099,Richard Platt,41,Tokyo,IRL,---,---,---,---,---,---
+ironman-70.3-edinburgh-20170702.csv,1100,Mark Russell,43,Glasgow,GBR,00:23:15,03:31:15,02:12:46,00:11:03,00:03:11,06:21:30
+ironman-70.3-edinburgh-20170702.csv,1101,Graeme Crane,39,---,GBR,00:29:55,02:55:53,01:43:04,00:07:13,00:03:56,05:20:01
+ironman-70.3-edinburgh-20170702.csv,1102,Iain Entwistle,40,Intl State,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1103,Craig Sommerville,40,---,GBR,00:36:20,03:38:08,01:58:56,00:06:54,00:05:54,06:26:12
+ironman-70.3-edinburgh-20170702.csv,1104,Alastair Preiss,44,---,GBR,00:18:37,03:16:26,01:46:03,00:06:40,00:05:31,05:33:17
+ironman-70.3-edinburgh-20170702.csv,1105,David Payne,44,Argyll,GBR,00:26:57,04:25:01,---,00:11:25,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1106,Brent Thomas,40,Isle of Man,GBR,00:25:25,03:16:59,01:48:18,00:06:24,00:05:33,05:42:39
+ironman-70.3-edinburgh-20170702.csv,1107,Kevin Gemson,43,---,GBR,00:17:33,03:19:24,01:52:00,00:04:46,00:02:41,05:36:24
+ironman-70.3-edinburgh-20170702.csv,1108,Bryan Kidd,40,Wet Yorkshire,GBR,00:25:54,03:42:32,02:30:48,00:09:14,00:05:26,06:53:54
+ironman-70.3-edinburgh-20170702.csv,1109,Chris Lawson,40,Midlothian,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1110,Razwan Ilyas,39,---,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1111,Brian Joyce,40,Galway,IRL,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1112,Allan Ramsay,42,Midlothian,GBR,00:31:23,03:20:00,01:52:59,00:06:55,00:04:06,05:55:23
+ironman-70.3-edinburgh-20170702.csv,1113,Roger Jarvis,41,Hertfordshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1114,Jimmy Wynne,44,Galway,IRL,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1115,Chris Boutell,42,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1116,Noel Quinn,42,---,IRL,00:38:32,03:51:27,02:19:32,00:09:50,00:09:33,07:08:54
+ironman-70.3-edinburgh-20170702.csv,1117,Stephen Williams,42,---,GBR,00:29:04,03:35:27,02:24:53,00:07:54,00:05:14,06:42:32
+ironman-70.3-edinburgh-20170702.csv,1118,Peter Green,43,---,GBR,00:29:43,03:24:19,02:01:18,00:09:20,00:05:22,06:10:02
+ironman-70.3-edinburgh-20170702.csv,1119,Scott Mcdermott,41,---,GBR,00:22:38,02:53:48,01:32:54,00:05:28,00:03:37,04:58:25
+ironman-70.3-edinburgh-20170702.csv,1120,Francisco Campana,42,---,ESP,00:35:41,03:40:07,02:23:15,00:08:30,00:05:13,06:52:46
+ironman-70.3-edinburgh-20170702.csv,1121,Neil Dickson,40,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1122,Andrew Peakman,42,---,GBR,00:18:44,03:28:50,01:57:43,00:07:26,00:05:17,05:58:00
+ironman-70.3-edinburgh-20170702.csv,1123,Richard Carmichael,43,---,GBR,00:26:48,03:30:01,02:10:08,00:08:14,00:04:28,06:19:39
+ironman-70.3-edinburgh-20170702.csv,1124,Paul Heap,44,---,GBR,00:27:14,04:01:05,---,00:12:36,00:06:50,DNF
+ironman-70.3-edinburgh-20170702.csv,1125,Christophe Bironien,42,---,FRA,00:23:05,02:54:35,01:34:02,00:06:08,00:04:12,05:02:02
+ironman-70.3-edinburgh-20170702.csv,1126,Paul Sutherland,41,London,GBR,00:26:31,03:35:19,02:12:56,00:06:05,00:03:38,06:24:29
+ironman-70.3-edinburgh-20170702.csv,1127,Kevin Milne,40,---,GBR,00:26:51,03:40:39,02:23:18,00:07:21,00:03:23,06:41:32
+ironman-70.3-edinburgh-20170702.csv,1128,David Urch,42,---,GBR,00:25:43,03:32:54,02:02:29,00:06:23,00:04:49,06:12:18
+ironman-70.3-edinburgh-20170702.csv,1129,Eamon Brady,40,Tyrone,IRL,00:18:10,02:53:16,01:50:03,00:04:51,00:03:07,05:09:27
+ironman-70.3-edinburgh-20170702.csv,1130,Ger Ryan,41,Kildare,IRL,00:24:47,03:10:43,02:01:41,00:05:37,00:03:46,05:46:34
+ironman-70.3-edinburgh-20170702.csv,1131,Calum Arthur,40,East Lothian,GBR,00:26:41,03:42:48,02:04:43,00:09:06,00:06:40,06:29:58
+ironman-70.3-edinburgh-20170702.csv,1132,MEHMET KUCUKYILMAZ,40,Nilüfer,TUR,00:29:08,03:48:03,02:14:54,00:09:32,00:07:57,06:49:34
+ironman-70.3-edinburgh-20170702.csv,1133,Mark Mitchell,43,Cheshire,GBR,00:23:05,03:15:08,01:48:51,00:04:53,00:03:15,05:35:12
+ironman-70.3-edinburgh-20170702.csv,1134,Euan Winton,40,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1135,Geoff Bates,43,---,GBR,00:22:33,03:13:42,02:16:32,00:04:21,00:03:36,06:00:44
+ironman-70.3-edinburgh-20170702.csv,1136,Steve Lithgow,41,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1137,Robert Bee,43,---,GBR,00:36:28,02:48:44,01:36:31,00:04:09,00:04:11,05:10:03
+ironman-70.3-edinburgh-20170702.csv,1138,Adrian Batchelor,42,---,GBR,00:25:45,03:29:56,02:39:51,00:07:42,00:06:21,06:49:35
+ironman-70.3-edinburgh-20170702.csv,1139,Ewen Burns,44,---,GBR,00:36:16,03:00:40,01:54:07,00:08:41,00:05:32,05:45:16
+ironman-70.3-edinburgh-20170702.csv,1140,David Mackay,---,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1141,Cliff Veighey,43,---,GBR,00:29:36,03:36:48,02:37:28,00:07:38,00:06:29,06:57:59
+ironman-70.3-edinburgh-20170702.csv,1142,Stefano Muscara,40,Fife,ITA,00:22:10,03:21:28,01:54:55,00:06:39,00:03:55,05:49:07
+ironman-70.3-edinburgh-20170702.csv,1143,Stephen Bradley,39,---,IRL,00:31:34,04:01:41,02:02:36,00:11:18,00:08:46,06:55:55
+ironman-70.3-edinburgh-20170702.csv,1144,John Mongan,44,Co Galway,IRL,00:27:09,03:49:39,02:09:41,00:07:27,00:06:12,06:40:08
+ironman-70.3-edinburgh-20170702.csv,1145,Lee Bostock,40,---,GBR,00:21:16,03:09:48,02:05:32,00:09:24,00:05:07,05:51:07
+ironman-70.3-edinburgh-20170702.csv,1146,John Macnamara,41,---,GBR,00:28:12,03:20:42,01:38:03,00:05:35,00:03:10,05:35:42
+ironman-70.3-edinburgh-20170702.csv,1147,Albert Jublan,43,Sligo,FRA,00:25:45,04:08:57,02:32:32,00:07:24,00:09:24,07:24:02
+ironman-70.3-edinburgh-20170702.csv,1148,Grant Hill,41,East Lothian,GBR,00:24:24,04:02:36,02:46:22,00:15:19,00:04:32,07:33:13
+ironman-70.3-edinburgh-20170702.csv,1149,Mark Hopkins,39,Angus,GBR,00:25:33,02:53:44,01:34:23,00:04:56,00:02:03,05:00:39
+ironman-70.3-edinburgh-20170702.csv,1150,Jason Martin,44,---,AUS,00:28:37,03:49:45,02:26:48,00:11:35,00:07:17,07:04:02
+ironman-70.3-edinburgh-20170702.csv,1151,Darren Lockhart,39,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1152,Dean Jennings,44,Angus,GBR,00:33:34,03:12:48,02:08:07,00:05:23,00:05:12,06:05:04
+ironman-70.3-edinburgh-20170702.csv,1153,Ed Sutton,41,Surrey,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1154,Garry Whyte,43,TX,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1155,David Blyth,42,Flintshire,GBR,00:37:15,03:50:30,01:55:39,00:06:14,00:04:07,06:33:45
+ironman-70.3-edinburgh-20170702.csv,1156,Jim Lockhart,44,Lanarkshire,GBR,00:29:53,03:56:46,---,00:05:58,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1157,Ian Laird,44,Wirral,GBR,00:27:33,03:34:24,02:03:03,00:07:19,00:04:31,06:16:50
+ironman-70.3-edinburgh-20170702.csv,1158,Alex Spencer,---,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1159,Mathew Mcdermott,43,London,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1160,Gordon Lee,43,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1161,Justin Neagle,44,Middlesex,GBR,00:27:15,03:14:30,01:58:41,00:09:08,00:05:16,05:54:50
+ironman-70.3-edinburgh-20170702.csv,1162,Parthasarathy Srinivasan,39,Tamil Nadu,IND,00:43:30,04:53:13,02:36:28,00:11:11,---,08:24:22
+ironman-70.3-edinburgh-20170702.csv,1163,Jim Hester,39,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1164,Gareth Mellon,41,---,GBR,00:26:49,03:46:52,02:15:10,00:09:26,00:03:36,06:41:53
+ironman-70.3-edinburgh-20170702.csv,1165,Alex Clements,40,IoW,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1166,Daniel Vines,40,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1167,Simon Metson-Bailie,41,london,GBR,00:35:55,03:54:23,02:07:20,00:08:02,00:06:35,06:52:15
+ironman-70.3-edinburgh-20170702.csv,1168,Stephen Collins,43,Argyll and Bute,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1169,Chris Mclaughlin,43,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1170,Ian Cross,43,---,GBR,00:21:26,03:36:14,02:16:23,00:06:38,00:03:08,06:23:49
+ironman-70.3-edinburgh-20170702.csv,1171,Jordi Mora Vallbona,42,---,ESP,00:29:21,03:54:52,02:17:35,00:10:02,00:07:04,06:58:54
+ironman-70.3-edinburgh-20170702.csv,1172,Scott Walkingshaw,43,Midlothian,GBR,00:30:45,03:28:59,02:23:50,00:07:33,00:06:11,06:37:18
+ironman-70.3-edinburgh-20170702.csv,1173,Edward Duboulay,44,---,GBR,00:22:43,03:11:02,01:57:16,00:05:07,00:04:20,05:40:28
+ironman-70.3-edinburgh-20170702.csv,1174,Christian Marsden,40,---,GBR,00:18:26,03:13:23,02:04:42,00:03:55,00:02:27,05:42:53
+ironman-70.3-edinburgh-20170702.csv,1175,Tommy Carton,42,Galway,IRL,00:21:44,03:08:15,01:46:13,00:04:30,00:02:44,05:23:26
+ironman-70.3-edinburgh-20170702.csv,1176,Dominic Fern,42,---,GBR,00:25:25,03:25:15,02:22:01,00:09:11,00:03:56,06:25:48
+ironman-70.3-edinburgh-20170702.csv,1177,Stuart Ratcliff,43,---,GBR,00:34:41,03:37:53,02:24:15,00:07:22,00:06:13,06:50:24
+ironman-70.3-edinburgh-20170702.csv,1178,John Hobson,42,Cheshire,GBR,00:29:11,03:20:24,01:57:33,00:05:19,00:07:26,05:59:53
+ironman-70.3-edinburgh-20170702.csv,1179,Chris Meek,40,west lothian,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1180,Craig Smith,43,---,GBR,00:31:08,03:27:41,02:14:26,00:14:31,00:09:46,06:37:32
+ironman-70.3-edinburgh-20170702.csv,1181,Steven Wicek,40,---,GBR,00:22:18,03:12:59,02:12:07,00:05:25,00:02:58,05:55:47
+ironman-70.3-edinburgh-20170702.csv,1182,Lukin Aleksandr,41,---,RUS,00:26:22,03:44:59,02:09:42,00:06:31,00:04:37,06:32:11
+ironman-70.3-edinburgh-20170702.csv,1183,Rob Stilling,42,Co Wicklow,AUS,00:20:50,03:11:35,01:51:21,00:05:13,00:03:44,05:32:43
+ironman-70.3-edinburgh-20170702.csv,1184,Jamie Mcgrory,40,---,GBR,00:32:32,03:22:28,01:56:12,00:04:56,00:02:46,05:58:54
+ironman-70.3-edinburgh-20170702.csv,1185,Iain Sawers,39,---,GBR,00:30:50,03:23:28,01:50:07,00:08:31,00:04:05,05:57:01
+ironman-70.3-edinburgh-20170702.csv,1186,Joshua Kaplan,41,---,USA,00:21:02,03:34:44,02:05:29,00:07:33,00:06:42,06:15:30
+ironman-70.3-edinburgh-20170702.csv,1187,Richard Gatenby,40,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1188,Angel Machado,40,---,VEN,00:20:46,03:20:46,02:03:07,00:08:27,00:04:37,05:57:43
+ironman-70.3-edinburgh-20170702.csv,1189,Andrew Todd,---,---,GBR,00:27:14,03:23:17,02:11:50,00:10:34,00:05:38,06:18:33
+ironman-70.3-edinburgh-20170702.csv,1190,Mark Kuhillow,43,---,GBR,00:41:55,03:51:17,02:11:22,00:07:33,00:03:29,06:55:36
+ironman-70.3-edinburgh-20170702.csv,1191,Martin Kirwan,44,WATERFORD,IRL,00:21:56,02:49:12,01:30:26,00:06:19,00:02:38,04:50:31
+ironman-70.3-edinburgh-20170702.csv,1192,Nicola Moir,43,Aberdeenshire,GBR,00:23:53,03:34:07,02:00:10,00:04:38,00:03:00,06:05:48
+ironman-70.3-edinburgh-20170702.csv,1193,Westman Lena,---,---,SWE,00:24:23,03:05:55,01:47:13,00:03:34,00:02:24,05:23:29
+ironman-70.3-edinburgh-20170702.csv,1209,Mhairi Epton,47,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1210,Morag Green,47,---,GBR,00:24:23,03:27:39,01:52:10,00:05:21,00:02:42,05:52:15
+ironman-70.3-edinburgh-20170702.csv,1211,Lorna Gall,46,Intl State,GBR,00:31:56,04:04:32,02:17:13,00:09:17,00:05:48,07:08:46
+ironman-70.3-edinburgh-20170702.csv,1212,Francesca Osowska,46,Edinburgh,GBR,00:23:28,03:26:01,01:58:08,00:04:13,00:03:38,05:55:28
+ironman-70.3-edinburgh-20170702.csv,1213,Angela Paterson,48,---,GBR,00:30:04,03:55:14,02:25:52,00:07:08,00:06:49,07:05:07
+ironman-70.3-edinburgh-20170702.csv,1214,Sandra Colamartino,48,---,GBR,00:23:07,03:39:38,02:11:03,00:05:30,00:03:44,06:23:02
+ironman-70.3-edinburgh-20170702.csv,1215,Nicola Freedman,47,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1216,Shona Girdwood,47,---,GBR,00:18:43,04:22:19,---,00:04:40,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1217,Pamela Dougall,48,Perthshire,GBR,00:29:39,03:45:10,02:18:39,00:07:34,00:05:48,06:46:50
+ironman-70.3-edinburgh-20170702.csv,1218,Susan Lynch,49,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1219,Fiona Calder,48,Aberdeenshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1220,Elaine Davies,46,---,GBR,00:37:17,04:06:37,01:58:31,00:10:53,00:05:25,06:58:43
+ironman-70.3-edinburgh-20170702.csv,1221,Suzanne O'Neill-Berest,47,---,IRL,00:25:15,03:52:17,02:28:40,00:08:06,00:08:23,07:02:41
+ironman-70.3-edinburgh-20170702.csv,1222,Heather Manson,48,North Lanarkshire,GBR,00:40:30,04:28:08,02:38:45,00:08:50,00:06:43,08:02:56
+ironman-70.3-edinburgh-20170702.csv,1223,Stephanie Reid,48,Galway,IRL,00:29:11,04:21:55,02:59:23,00:10:12,00:06:14,08:06:55
+ironman-70.3-edinburgh-20170702.csv,1224,Jackie Muir,47,Fife,GBR,00:38:42,04:20:29,02:27:19,00:12:09,00:10:34,07:49:13
+ironman-70.3-edinburgh-20170702.csv,1225,Julie Whaley,44,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1226,Lynn Craig,49,Stirlingshire,GBR,00:29:42,03:51:01,02:07:13,00:06:21,00:03:34,06:37:51
+ironman-70.3-edinburgh-20170702.csv,1227,Clare Dow,45,Midlothian,GBR,00:31:52,03:45:15,02:08:25,00:10:47,00:05:51,06:42:10
+ironman-70.3-edinburgh-20170702.csv,1228,Louise Espley,44,Staffordshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1229,Judith Feuchtwanger,45,---,GBR,00:27:46,03:59:24,02:13:46,00:09:47,00:06:04,06:56:47
+ironman-70.3-edinburgh-20170702.csv,1230,Alison Whitley,44,---,GBR,00:37:13,03:48:29,02:21:29,00:07:18,00:06:30,07:00:59
+ironman-70.3-edinburgh-20170702.csv,1231,Alex Hill,47,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1232,Michelle Green,44,moray,GBR,00:22:35,03:30:56,01:59:59,00:06:00,00:06:07,06:05:37
+ironman-70.3-edinburgh-20170702.csv,1233,Elise Methven,45,Fife,GBR,00:22:42,03:23:09,01:56:51,00:05:55,00:03:49,05:52:26
+ironman-70.3-edinburgh-20170702.csv,1234,Gwen Tivendale,49,Fife,GBR,00:32:35,04:09:16,01:59:04,00:17:04,00:07:36,07:05:35
+ironman-70.3-edinburgh-20170702.csv,1235,Heather Gilchrist,49,Renfrewshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1236,Lesley Davidson,47,Phuket,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1237,Carolyn Bond,45,Somerset ,GBR,00:39:49,04:33:53,02:40:55,00:10:58,00:04:36,08:10:11
+ironman-70.3-edinburgh-20170702.csv,1238,Anne Innes,48,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1239,Elimar Flynn,47,Galway,IRL,00:27:26,03:50:08,02:15:32,00:07:54,00:03:37,06:44:37
+ironman-70.3-edinburgh-20170702.csv,1240,Cindy Millar,45,---,GBR,00:32:49,04:06:08,02:34:35,00:08:37,00:09:18,07:31:27
+ironman-70.3-edinburgh-20170702.csv,1241,Sasha Baggaley,46,---,GBR,00:21:16,03:29:49,02:12:42,00:05:08,00:04:33,06:13:28
+ironman-70.3-edinburgh-20170702.csv,1242,Linda Rowe,47,Midlothian,GBR,00:28:51,03:46:53,02:15:12,00:08:53,00:05:31,06:45:20
+ironman-70.3-edinburgh-20170702.csv,1243,Bonnie Whitener,46,AL,USA,00:56:53,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1244,Suzanne Hall,45,Kerry,IRL,00:31:36,03:57:53,01:55:58,00:06:21,00:04:10,06:35:58
+ironman-70.3-edinburgh-20170702.csv,1245,Joanne Campbell,49,East lothian,IRL,00:21:40,03:31:23,02:27:30,00:05:59,00:06:21,06:32:53
+ironman-70.3-edinburgh-20170702.csv,1246,Kirsty Mckay,47,Isa Town,BHR,00:26:00,04:26:53,02:36:58,00:16:51,00:14:07,08:00:49
+ironman-70.3-edinburgh-20170702.csv,1247,Eleonora Muir,46,---,SVK,00:34:16,03:55:42,02:07:40,00:14:02,00:08:28,07:00:08
+ironman-70.3-edinburgh-20170702.csv,1248,Camilla Kerr,49,---,GBR,00:30:30,03:49:07,02:00:37,00:12:41,00:03:46,06:36:41
+ironman-70.3-edinburgh-20170702.csv,1249,Sally Rolland,49,---,GBR,00:24:34,03:17:14,01:49:12,00:05:16,00:02:21,05:38:37
+ironman-70.3-edinburgh-20170702.csv,1250,Andy Lavelle,44,---,GBR,00:19:50,03:02:15,01:42:05,00:04:01,00:03:08,05:11:19
+ironman-70.3-edinburgh-20170702.csv,1251,Al Stanton,49,---,GBR,00:21:50,03:38:17,01:58:59,00:06:15,00:04:40,06:10:01
+ironman-70.3-edinburgh-20170702.csv,1252,Steven Fyfe,44,Angus,GBR,00:34:24,03:09:48,01:47:04,00:08:53,00:05:57,05:46:06
+ironman-70.3-edinburgh-20170702.csv,1253,Duncan Lyall,49,Angus,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1254,Stephen Beveridge,48,Fife,GBR,00:33:47,04:01:32,02:35:13,00:08:22,00:04:25,07:23:19
+ironman-70.3-edinburgh-20170702.csv,1255,Steven Coull,44,Angus,GBR,00:25:15,03:56:24,02:10:36,00:07:57,00:06:01,06:46:13
+ironman-70.3-edinburgh-20170702.csv,1256,Billy Gibson,46,North Lanarkshire,GBR,00:30:53,04:36:18,02:57:30,00:06:44,00:07:51,08:19:16
+ironman-70.3-edinburgh-20170702.csv,1257,Tony Cooper,48,Scotland,GBR,00:29:46,03:19:00,01:58:30,00:06:22,00:04:47,05:58:25
+ironman-70.3-edinburgh-20170702.csv,1258,Jason Mcgillivray,45,---,GBR,00:26:00,03:02:28,01:34:58,00:10:03,00:04:22,05:17:51
+ironman-70.3-edinburgh-20170702.csv,1259,Stuart Gillespie,48,---,GBR,00:28:58,03:47:07,02:11:47,00:14:36,00:09:04,06:51:32
+ironman-70.3-edinburgh-20170702.csv,1260,Gavin Gall,47,---,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1261,Jonathan Russell,47,---,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1262,Duncan Short,45,Stirlingshire,GBR,00:23:39,03:19:29,02:05:45,00:04:50,00:04:40,05:58:23
+ironman-70.3-edinburgh-20170702.csv,1263,Paul Mellotte,46,Fife,GBR,00:20:28,03:15:34,02:10:31,00:06:32,00:03:55,05:57:00
+ironman-70.3-edinburgh-20170702.csv,1264,Jim Girdwood,47,North lanarkshire,GBR,00:28:14,03:06:00,01:36:24,00:06:46,00:05:52,05:23:16
+ironman-70.3-edinburgh-20170702.csv,1265,Iain Campbell,49,Angus,GBR,00:32:30,03:16:08,01:52:42,00:05:43,00:03:06,05:50:09
+ironman-70.3-edinburgh-20170702.csv,1266,Simon Nicholls,46,---,GBR,00:25:43,03:16:31,01:47:39,00:06:24,00:04:47,05:41:04
+ironman-70.3-edinburgh-20170702.csv,1267,Philip Calvert,46,Midlothian,GBR,00:40:01,---,---,00:13:38,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1268,Robert Harrison,44,Perthshire,GBR,00:18:43,02:39:00,01:27:20,00:02:49,00:02:13,04:30:05
+ironman-70.3-edinburgh-20170702.csv,1269,Alan Banks,47,---Please Select---,GBR,00:22:33,03:18:25,01:55:36,00:06:07,00:04:44,05:47:25
+ironman-70.3-edinburgh-20170702.csv,1270,Gavin Mckevitt,46,Antrim,IRL,00:25:04,03:24:55,02:02:17,00:06:08,00:03:04,06:01:28
+ironman-70.3-edinburgh-20170702.csv,1271,Richie Wallace,44,Scotland,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1272,John Lynch,48,Angus,GBR,00:30:16,03:45:41,02:02:10,00:13:15,00:08:51,06:40:13
+ironman-70.3-edinburgh-20170702.csv,1273,Michael Bibb,47,---,GBR,00:44:27,03:47:49,02:13:39,00:09:09,00:06:21,07:01:25
+ironman-70.3-edinburgh-20170702.csv,1274,Brian Mccormick,47,South Lanarkshire,GBR,00:28:35,03:23:45,02:00:49,00:10:21,00:06:23,06:09:53
+ironman-70.3-edinburgh-20170702.csv,1275,Simon Brown,48,Angus,GBR,00:24:05,04:22:20,02:56:02,00:10:48,00:08:06,08:01:21
+ironman-70.3-edinburgh-20170702.csv,1276,Kevin Stewart,47,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1277,Steven Wilson,---,---,GBR,00:28:26,03:50:13,03:07:28,00:13:10,00:07:16,07:46:33
+ironman-70.3-edinburgh-20170702.csv,1278,Stewart White,47,---,GBR,00:24:43,03:03:01,01:42:23,00:06:31,00:03:15,05:19:53
+ironman-70.3-edinburgh-20170702.csv,1279,Craig Lewis,45,Berwickshire,GBR,00:47:58,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1280,Mike Talbot,45,Angus,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1281,Darren Thoirs,46,UK,GBR,00:38:24,03:55:58,02:34:05,00:08:01,00:06:44,07:23:12
+ironman-70.3-edinburgh-20170702.csv,1282,Justin Hutton-Penman,45,---,GBR,00:25:18,03:11:07,01:46:44,00:09:11,00:02:36,05:34:56
+ironman-70.3-edinburgh-20170702.csv,1283,Mark Hemsley,45,---,GBR,00:31:49,03:54:35,02:25:50,00:08:07,00:05:36,07:05:57
+ironman-70.3-edinburgh-20170702.csv,1284,Mark Chapman,46,---,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1285,Keith Dunnett,47,---,GBR,00:18:31,03:11:20,02:03:33,00:11:37,00:07:30,05:52:31
+ironman-70.3-edinburgh-20170702.csv,1286,Ian Bennett,46,---,GBR,00:28:09,03:21:22,02:16:06,00:07:23,00:09:07,06:22:07
+ironman-70.3-edinburgh-20170702.csv,1287,Frank W Pinder,46,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1288,Colin Gourlay,46,East Lothian,GBR,00:38:45,03:54:11,02:17:36,00:06:20,00:09:59,07:06:51
+ironman-70.3-edinburgh-20170702.csv,1289,Gerrard Ipenburg,46,---,NLD,00:26:23,02:54:34,01:51:31,00:08:25,00:03:38,05:24:31
+ironman-70.3-edinburgh-20170702.csv,1290,Andre Reibig,48,---,DEU,00:30:20,03:47:26,01:45:51,00:11:00,00:05:26,06:20:03
+ironman-70.3-edinburgh-20170702.csv,1291,Paul O'Regan,46,Lothian,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1292,Derek Simpson,48,Falkirk,GBR,00:18:01,03:00:19,01:51:07,00:04:17,00:02:41,05:16:25
+ironman-70.3-edinburgh-20170702.csv,1293,Hans Forhaug,46,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1294,Francesco Polignano,47,Angus,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1295,Gavin Kelly,46,South Ayrshire,GBR,00:22:18,03:09:20,01:44:16,00:08:22,00:04:29,05:28:45
+ironman-70.3-edinburgh-20170702.csv,1296,Kev Fairbairn,---,---,GBR,00:13:24,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1297,Fraser Caldwell,45,fife,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1298,Kevin Graham,47,---,GBR,00:21:59,03:40:22,02:12:10,00:05:44,00:06:12,06:26:27
+ironman-70.3-edinburgh-20170702.csv,1299,Iain Wood,---,---,GBR,00:27:51,03:14:09,01:57:22,00:07:23,00:04:10,05:50:55
+ironman-70.3-edinburgh-20170702.csv,1300,Peter Steindl,47,---,AUS,00:26:22,03:33:31,02:29:22,00:08:21,00:08:21,06:45:57
+ironman-70.3-edinburgh-20170702.csv,1301,Colin Calder,49,Aberdeenshire,GBR,00:21:41,03:26:05,02:17:41,00:03:48,00:03:59,06:13:14
+ironman-70.3-edinburgh-20170702.csv,1302,Reid Cunningham,48,---,GBR,00:34:53,03:03:43,01:42:19,00:08:19,00:04:18,05:33:32
+ironman-70.3-edinburgh-20170702.csv,1303,Colin Turner,47,---,GBR,00:22:19,03:12:34,01:39:37,00:05:43,00:02:30,05:22:43
+ironman-70.3-edinburgh-20170702.csv,1304,Alan Cunningham,45,West Lothian,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1305,Colin Forbes,45,---,GBR,00:30:33,03:12:58,01:56:27,00:05:44,00:03:19,05:49:01
+ironman-70.3-edinburgh-20170702.csv,1306,David Tulloch,47,---,GBR,00:31:40,04:08:04,02:49:31,00:10:11,00:05:30,07:44:56
+ironman-70.3-edinburgh-20170702.csv,1307,Graeme Clokey,44,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1308,Steve Dunn,44,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1309,John Munro,44,---,GBR,00:21:11,03:19:29,01:48:44,00:03:35,00:02:02,05:35:01
+ironman-70.3-edinburgh-20170702.csv,1310,Ronnie Smart,48,---,GBR,00:24:17,03:01:43,01:46:06,00:05:44,00:03:11,05:21:01
+ironman-70.3-edinburgh-20170702.csv,1311,Alan Newman,46,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1312,Scott Harper,44,DXB,GBR,00:42:30,03:16:29,02:16:56,00:10:31,00:06:51,06:33:17
+ironman-70.3-edinburgh-20170702.csv,1313,Mark Downie,47,---,GBR,00:26:52,03:19:03,01:50:42,00:08:43,00:06:05,05:51:25
+ironman-70.3-edinburgh-20170702.csv,1314,Mark Price Jones,49,---,GBR,00:46:44,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1315,Geoffrey Soler-Gomez,48,Fife,GBR,00:19:59,03:28:40,01:51:20,00:07:59,00:04:10,05:52:08
+ironman-70.3-edinburgh-20170702.csv,1316,Cameron Shand,45,---,GBR,00:25:29,03:30:29,01:55:35,00:07:22,00:04:38,06:03:33
+ironman-70.3-edinburgh-20170702.csv,1317,Steven Bonthrone,46,---,GBR,00:32:41,03:46:39,01:48:31,00:06:44,00:05:13,06:19:48
+ironman-70.3-edinburgh-20170702.csv,1318,Sandy Smith,45,S Yorks,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1319,Mark Lee,46,---,GBR,00:22:20,03:22:45,02:01:19,00:05:13,00:03:41,05:55:18
+ironman-70.3-edinburgh-20170702.csv,1320,Robert Macmillan,48,Essex,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1321,Ian Mchardy,45,Waterford,GBR,00:23:51,03:41:04,01:57:40,00:05:02,00:03:04,06:10:41
+ironman-70.3-edinburgh-20170702.csv,1322,Ken Macrae,44,---,GBR,00:20:33,03:20:28,01:57:03,00:06:32,00:03:35,05:48:11
+ironman-70.3-edinburgh-20170702.csv,1323,Mark O'Neill,45,---,GBR,00:23:44,03:08:13,01:55:15,00:06:58,00:03:39,05:37:49
+ironman-70.3-edinburgh-20170702.csv,1324,Matt Mollen,46,---,AUS,00:23:55,03:42:58,02:08:09,00:06:40,00:04:49,06:26:31
+ironman-70.3-edinburgh-20170702.csv,1325,David Holliday,46,CUMBRIA,GBR,00:38:39,03:45:31,02:19:56,00:07:39,00:06:24,06:58:09
+ironman-70.3-edinburgh-20170702.csv,1326,Steven Vaughan,47,Cumbria,GBR,00:25:31,03:17:08,01:57:50,00:04:12,00:03:10,05:47:51
+ironman-70.3-edinburgh-20170702.csv,1327,Colin Mckendry,45,Fife,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1328,Ewan Jack,45,---,GBR,00:26:52,03:12:17,01:27:13,00:05:06,00:02:27,05:13:55
+ironman-70.3-edinburgh-20170702.csv,1329,Andrew Farrall,48,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1330,Colin Mcewen,46,West Lothian,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1331,Allan Duff,47,LANARKSHIRE,GBR,00:29:53,03:54:49,02:07:43,00:07:37,00:04:44,06:44:46
+ironman-70.3-edinburgh-20170702.csv,1332,Mark Ward,46,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1333,Rory Rorymurphy@sky.Com,48,Hampshire,IRL,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1334,David Mccarry,47,Intl State,GBR,00:25:54,03:51:24,02:04:27,00:06:15,00:04:43,06:32:43
+ironman-70.3-edinburgh-20170702.csv,1335,Alan Lowe,45,HIGHLAND,GBR,00:23:15,03:49:11,02:13:06,00:05:59,00:02:45,06:34:16
+ironman-70.3-edinburgh-20170702.csv,1336,Miles Ede,45,---,GBR,00:31:23,03:34:24,02:02:10,00:10:04,00:07:57,06:25:58
+ironman-70.3-edinburgh-20170702.csv,1337,Michael Rodgers,47,---,IRL,00:23:19,03:22:36,02:02:10,00:05:38,00:03:13,05:56:56
+ironman-70.3-edinburgh-20170702.csv,1338,William Allan,47,Ayrshire,GBR,00:26:35,03:46:54,02:38:46,00:07:54,00:07:00,07:07:09
+ironman-70.3-edinburgh-20170702.csv,1339,Colin Robertson,---,---,ATG,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1340,Craig Wallace,45,Midlothian,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1341,Joseph Mcgown,46,Scotland,GBR,00:46:48,---,---,00:12:51,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1342,Col Barber,46,Lothian,GBR,00:38:06,03:52:11,02:17:16,00:08:21,00:04:55,07:00:49
+ironman-70.3-edinburgh-20170702.csv,1343,Steven D'Arcy,44,---,GBR,00:22:14,03:00:46,01:50:32,00:05:08,00:02:39,05:21:19
+ironman-70.3-edinburgh-20170702.csv,1344,Daniel Mckernan,47,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1345,Jeremy Milne,48,---,GBR,00:31:10,03:08:30,01:53:29,00:05:57,00:03:22,05:42:28
+ironman-70.3-edinburgh-20170702.csv,1346,Kevin Blakey,47,Suffolk,GBR,00:29:26,03:26:38,02:10:07,00:06:57,00:04:15,06:17:23
+ironman-70.3-edinburgh-20170702.csv,1347,Matthew Armstrong,47,--None--,GBR,00:27:51,03:49:48,02:34:43,00:10:16,00:05:21,07:07:59
+ironman-70.3-edinburgh-20170702.csv,1348,Stephen Russell,46,Midlothian,GBR,00:27:48,04:18:59,02:34:44,00:11:38,00:16:20,07:49:29
+ironman-70.3-edinburgh-20170702.csv,1349,Alistair Stewart,46,Angus,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1350,Volker Grill,48,---,DEU,00:24:40,03:13:35,01:53:46,00:10:58,00:04:24,05:47:23
+ironman-70.3-edinburgh-20170702.csv,1351,Austin Cutliffe,48,---,IRL,00:30:22,03:36:50,---,00:08:51,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1352,Robbie Macnab,44,---,GBR,00:19:39,03:34:52,02:10:42,00:06:44,00:06:33,06:18:30
+ironman-70.3-edinburgh-20170702.csv,1353,David Mcdonald,46,West Lothian,GBR,00:34:05,03:43:08,02:30:44,00:11:57,00:07:50,07:07:44
+ironman-70.3-edinburgh-20170702.csv,1354,Peter Joyce,---,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1355,Philip Glasgow,46,CO,USA,00:25:39,03:32:48,02:14:19,00:07:27,00:05:14,06:25:27
+ironman-70.3-edinburgh-20170702.csv,1356,Jason Bibb,44,---,GBR,00:32:27,04:00:42,03:22:37,00:08:43,00:07:37,08:12:06
+ironman-70.3-edinburgh-20170702.csv,1357,Richard Smith,49,---,GBR,00:20:33,03:20:38,01:49:57,00:03:36,00:03:31,05:38:15
+ironman-70.3-edinburgh-20170702.csv,1358,Jean-Louis Guillou,48,NC,FRA,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1359,Adrian Wood,46,Fife,GBR,00:27:43,03:40:28,02:09:34,00:07:41,00:04:12,06:29:38
+ironman-70.3-edinburgh-20170702.csv,1360,Keith Lawson,46,East Lothain,GBR,00:25:57,03:40:14,01:53:22,00:11:04,00:07:26,06:18:03
+ironman-70.3-edinburgh-20170702.csv,1361,Neil Dolan,45,Fife,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1362,Mark Sutton,47,---,GBR,00:33:25,03:32:38,02:11:27,00:06:13,00:03:27,06:27:10
+ironman-70.3-edinburgh-20170702.csv,1363,Pierre Baude,49,---,FRA,00:19:53,03:23:25,01:44:32,00:04:38,00:03:09,05:35:37
+ironman-70.3-edinburgh-20170702.csv,1364,Alan Paton,44,---,GBR,00:27:28,03:26:54,02:20:41,00:06:53,00:05:15,06:27:11
+ironman-70.3-edinburgh-20170702.csv,1365,Michael Hayne,46,---,GBR,00:26:26,03:29:19,02:17:25,00:09:54,00:06:59,06:30:03
+ironman-70.3-edinburgh-20170702.csv,1366,John Mcguire,45,South Lanarkshire,GBR,00:25:39,03:44:55,02:22:41,00:10:15,00:09:46,06:53:16
+ironman-70.3-edinburgh-20170702.csv,1367,Gary Rudd,48,---,GBR,00:28:45,03:12:04,---,00:06:44,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1368,Craig Dickie,44,Angus,GBR,00:24:23,03:26:31,02:42:14,00:06:52,00:05:44,06:45:44
+ironman-70.3-edinburgh-20170702.csv,1369,John Woodrow,44,Fife,GBR,00:21:23,03:03:20,01:56:21,00:07:30,00:03:49,05:32:23
+ironman-70.3-edinburgh-20170702.csv,1370,William Scarlett,48,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1371,Michael Strachan,45,Intl State,GBR,00:40:54,04:09:26,02:11:28,00:07:20,00:04:42,07:13:50
+ironman-70.3-edinburgh-20170702.csv,1372,Graham Jenkinson,45,East Yorkshire,GBR,00:29:08,03:42:26,02:48:51,00:08:10,00:04:24,07:12:59
+ironman-70.3-edinburgh-20170702.csv,1373,Roddy Henderson,47,GA,USA,00:30:03,03:18:12,02:14:39,00:08:34,00:06:18,06:17:46
+ironman-70.3-edinburgh-20170702.csv,1374,Nicky Roxburgh,45,ayrshire,GBR,00:23:54,03:53:09,02:32:44,00:08:26,00:06:09,07:04:22
+ironman-70.3-edinburgh-20170702.csv,1375,Noel Tomnay,48,Uk,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1376,Colin Howard,49,Limassol,GBR,00:24:34,03:58:46,02:26:40,00:07:09,00:05:27,07:02:36
+ironman-70.3-edinburgh-20170702.csv,1377,Mat Morrell,47,North Yorkshire,GBR,00:30:35,04:01:09,02:25:43,00:08:50,00:06:56,07:13:13
+ironman-70.3-edinburgh-20170702.csv,1378,Neil Millar,45,Fife,GBR,00:30:59,04:09:01,01:54:47,00:08:00,00:04:31,06:47:18
+ironman-70.3-edinburgh-20170702.csv,1379,Brian Harrison,45,---,GBR,00:28:02,03:09:45,02:10:32,00:08:48,00:04:51,06:01:58
+ironman-70.3-edinburgh-20170702.csv,1380,Derek Irwin,45,---,IRL,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1381,Tony Doyle,46,Intl State,GBR,00:25:04,03:28:46,02:03:34,00:07:30,00:06:53,06:11:47
+ironman-70.3-edinburgh-20170702.csv,1382,Antony Gummersall,49,Lancashire,GBR,00:25:06,03:11:36,02:31:13,00:04:53,00:06:12,06:19:00
+ironman-70.3-edinburgh-20170702.csv,1383,Barney Randle,46,East Lothian,GBR,00:20:42,02:57:54,01:53:43,00:05:14,00:03:00,05:20:33
+ironman-70.3-edinburgh-20170702.csv,1384,Mark Dorman,47,CT,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1385,Jan Melichar,49,---,GBR,00:31:06,03:40:43,02:24:51,00:09:07,00:06:42,06:52:29
+ironman-70.3-edinburgh-20170702.csv,1386,Mark Halliwell,47,Ireland,IRL,00:31:15,03:42:15,02:16:43,00:07:49,00:06:44,06:44:46
+ironman-70.3-edinburgh-20170702.csv,1387,Damian Chandler,46,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1388,Douglas Band,46,Intl State,GBR,00:27:30,03:17:09,02:23:50,00:08:26,00:06:38,06:23:33
+ironman-70.3-edinburgh-20170702.csv,1389,Tony Jackson,48,---,GBR,00:28:38,03:27:35,01:57:46,00:06:39,00:03:10,06:03:48
+ironman-70.3-edinburgh-20170702.csv,1390,Mark Kelly,48,Northumberland ,GBR,00:28:47,03:07:36,01:57:22,00:06:37,00:03:06,05:43:28
+ironman-70.3-edinburgh-20170702.csv,1391,James Eastwood,45,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1392,Hamish Gallacher,44,---,GBR,00:29:08,02:57:52,01:36:32,00:05:56,00:02:57,05:12:25
+ironman-70.3-edinburgh-20170702.csv,1393,David Anderson,45,---,GBR,00:31:32,04:00:14,02:15:12,00:10:25,00:06:21,07:03:44
+ironman-70.3-edinburgh-20170702.csv,1394,Darrell Short,44,Morayshire,GBR,00:41:34,03:45:52,02:17:12,00:09:36,00:08:38,07:02:52
+ironman-70.3-edinburgh-20170702.csv,1395,David Revel,49,---,GBR,00:28:54,03:19:10,02:49:11,00:07:19,00:06:50,06:51:24
+ironman-70.3-edinburgh-20170702.csv,1396,Mark Bailkoski,49,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1397,Mick Mangan,47,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1398,Mark Logan,45,---,GBR,00:29:08,03:44:35,02:05:28,00:09:38,00:04:20,06:33:09
+ironman-70.3-edinburgh-20170702.csv,1399,Andrew Mcfarlane,45,Tyne and wear,GBR,00:22:43,03:41:36,01:48:56,00:05:36,00:04:22,06:03:13
+ironman-70.3-edinburgh-20170702.csv,1400,Iain Mcgougan,48,Argyll,GBR,00:26:59,03:34:55,01:49:56,00:05:44,00:07:07,06:04:41
+ironman-70.3-edinburgh-20170702.csv,1401,Stephen Canavan,46,---,IRL,00:34:41,03:22:53,02:03:25,00:07:14,00:05:28,06:13:41
+ironman-70.3-edinburgh-20170702.csv,1402,Attila Gyenesei,44,---,HUN,00:24:57,04:14:21,02:12:32,00:14:32,00:10:06,07:16:28
+ironman-70.3-edinburgh-20170702.csv,1403,Garry Hall,45,Kerry,IRL,00:16:39,03:00:32,01:36:44,00:03:53,00:02:21,05:00:09
+ironman-70.3-edinburgh-20170702.csv,1404,Brian Wallace,47,---,GBR,00:24:46,03:12:45,01:52:59,00:06:29,00:04:12,05:41:11
+ironman-70.3-edinburgh-20170702.csv,1405,Scott Ewing,44,---,GBR,00:25:46,03:21:15,01:49:51,00:05:45,00:04:17,05:46:54
+ironman-70.3-edinburgh-20170702.csv,1406,Kevin Stirling,45,angus,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1407,Michael Nolan,45,---,GBR,00:26:00,03:01:04,01:31:58,00:04:13,00:02:16,05:05:31
+ironman-70.3-edinburgh-20170702.csv,1408,Huub Feijen,49,---,NLD,00:49:06,04:09:04,02:22:16,00:12:13,00:08:52,07:41:31
+ironman-70.3-edinburgh-20170702.csv,1409,John Dennis,48,Tyne and Wear,GBR,00:17:20,02:47:16,01:44:09,00:03:51,00:02:45,04:55:21
+ironman-70.3-edinburgh-20170702.csv,1410,Michael Egan,46,VIC,AUS,00:36:38,04:11:14,02:39:03,00:08:09,00:07:42,07:42:46
+ironman-70.3-edinburgh-20170702.csv,1411,Paul Stewart,46,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1412,William Anderson,45,---,GBR,00:47:22,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1413,Dermot Robinson,45,---,IRL,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1414,Hagen Wenzek,48,NY,DEU,00:19:19,03:03:53,01:42:01,00:05:45,00:02:03,05:13:01
+ironman-70.3-edinburgh-20170702.csv,1415,Allan Kirk,47,---,GBR,00:29:39,03:25:28,01:45:25,00:07:09,00:03:38,05:51:19
+ironman-70.3-edinburgh-20170702.csv,1416,Dieter Oosthuizen,49,---,ZAF,00:23:08,04:20:11,02:45:17,00:09:55,00:08:27,07:46:58
+ironman-70.3-edinburgh-20170702.csv,1417,Andrew Fisher,48,---,GBR,00:30:09,03:57:45,02:22:57,00:09:03,00:07:21,07:07:15
+ironman-70.3-edinburgh-20170702.csv,1418,Gary Nash,48,Tyne and Wear,GBR,00:24:13,03:34:42,02:01:32,00:07:53,00:04:37,06:12:57
+ironman-70.3-edinburgh-20170702.csv,1419,Victor Guatelli,45,---,GBR,00:28:37,03:32:17,02:20:52,00:09:53,00:04:41,06:36:20
+ironman-70.3-edinburgh-20170702.csv,1420,Steve Graham,45,---,GBR,00:37:06,03:26:03,02:29:56,00:07:30,00:04:39,06:45:14
+ironman-70.3-edinburgh-20170702.csv,1421,Marco Delaurenti,45,---,ITA,00:29:52,04:07:50,02:40:33,00:12:08,00:07:16,07:37:39
+ironman-70.3-edinburgh-20170702.csv,1422,Petrov Kirill,45,---,RUS,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1423,Nick Murch,45,West Midlands,GBR,00:37:09,04:15:29,02:36:52,00:12:16,00:10:21,07:52:07
+ironman-70.3-edinburgh-20170702.csv,1424,Mick Cornes,49,Cheshire,GBR,00:24:42,03:06:13,02:13:53,00:06:23,00:05:23,05:56:34
+ironman-70.3-edinburgh-20170702.csv,1425,Rav Dighe,49,---,GBR,00:27:16,03:24:30,02:05:38,00:09:51,00:06:30,06:13:45
+ironman-70.3-edinburgh-20170702.csv,1426,Randall Geuy,49,Saudi Arabia,USA,00:50:00,04:04:45,03:08:37,00:15:07,00:09:39,08:28:08
+ironman-70.3-edinburgh-20170702.csv,1427,Mark Cowin,48,UK,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1428,Conal Molloy,48,---,GBR,00:26:17,03:28:21,02:08:10,00:07:17,00:04:01,06:14:06
+ironman-70.3-edinburgh-20170702.csv,1429,Mike Templeton,49,Tyne & Wear,GBR,00:17:11,03:17:02,01:52:36,00:04:15,00:04:25,05:35:29
+ironman-70.3-edinburgh-20170702.csv,1430,Battista Cruceli,48,---,CHE,00:35:31,03:33:37,01:46:24,00:13:03,00:06:33,06:15:08
+ironman-70.3-edinburgh-20170702.csv,1431,Bruce Jobling,49,cheshire,GBR,00:27:49,03:43:55,02:12:20,00:09:07,00:04:43,06:37:54
+ironman-70.3-edinburgh-20170702.csv,1432,Arturo Perez Herrera,47,---,ESP,00:23:08,03:07:50,01:48:02,00:09:22,00:05:19,05:33:41
+ironman-70.3-edinburgh-20170702.csv,1433,Gareth Rees,48,Pembrokeshire,GBR,00:26:38,03:26:30,02:20:31,00:10:16,00:05:31,06:29:26
+ironman-70.3-edinburgh-20170702.csv,1434,Jim Allan,46,Southlanarkshire,GBR,00:20:29,03:15:40,02:01:13,00:05:54,00:03:16,05:46:32
+ironman-70.3-edinburgh-20170702.csv,1435,Philip Hanshaw,45,---,GBR,00:29:34,03:44:52,02:09:55,00:10:08,00:09:05,06:43:34
+ironman-70.3-edinburgh-20170702.csv,1436,Robert Moryoussef,48,---,GBR,00:36:55,03:22:40,01:48:26,00:09:16,00:03:47,06:01:04
+ironman-70.3-edinburgh-20170702.csv,1437,Jason Barber,47,---,GBR,00:24:37,03:28:32,02:07:43,00:05:34,00:05:37,06:12:03
+ironman-70.3-edinburgh-20170702.csv,1438,Donaldson Kevin,---,---,GBR,00:34:51,03:41:09,02:38:27,00:09:02,00:07:47,07:11:16
+ironman-70.3-edinburgh-20170702.csv,1439,Anderson Lynda,---,---,GBR,00:32:30,04:03:11,02:05:33,00:07:34,00:05:31,06:54:19
+ironman-70.3-edinburgh-20170702.csv,1452,Nicola Walker,53,Ayrshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1453,Pamela Young,50,---,GBR,00:31:21,04:00:53,02:20:22,00:12:00,00:07:45,07:12:21
+ironman-70.3-edinburgh-20170702.csv,1454,Louisa Goodbrand,50,---,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1455,Sarah Heward,52,---,GBR,00:28:34,03:38:26,02:00:30,00:09:44,00:07:01,06:24:15
+ironman-70.3-edinburgh-20170702.csv,1456,Linda Buchanan,50,---,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1457,Karen Munro,53,---,GBR,00:28:58,04:13:37,02:20:57,00:07:34,00:05:49,07:16:55
+ironman-70.3-edinburgh-20170702.csv,1458,Denise Tracey,53,---,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1459,Rhoda Mcpherson,52,---,GBR,00:19:33,03:02:57,01:54:52,00:04:41,00:02:26,05:24:29
+ironman-70.3-edinburgh-20170702.csv,1460,Sheena Turner,53,---,GBR,00:38:02,03:42:41,02:11:46,00:09:50,00:05:17,06:47:36
+ironman-70.3-edinburgh-20170702.csv,1461,Renee Bobrowski,54,ID,USA,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1462,Suzanne Mclean,52,Midlothian,GBR,00:37:58,04:21:17,02:23:24,00:11:43,00:06:58,07:41:20
+ironman-70.3-edinburgh-20170702.csv,1463,Valerie O'Donnell,53,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1464,Karen Bousfield,50,---,GBR,00:32:48,03:55:20,02:13:44,00:08:43,00:04:09,06:54:44
+ironman-70.3-edinburgh-20170702.csv,1465,Marie Douglas,53,South lanarkshire,GBR,00:29:26,04:01:36,02:17:30,00:13:08,00:07:46,07:09:26
+ironman-70.3-edinburgh-20170702.csv,1466,Sue Stockley,50,---,GBR,00:19:31,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1467,Gill Morrow,50,Essex,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1468,Orla Heneghan,52,GalwY,IRL,00:27:10,04:06:05,02:24:02,00:08:47,00:07:18,07:13:22
+ironman-70.3-edinburgh-20170702.csv,1469,Alison Bagnall,50,Warks,GBR,00:33:43,03:15:48,01:53:18,00:09:12,00:06:23,05:58:24
+ironman-70.3-edinburgh-20170702.csv,1470,Mary Kiely,50,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1471,Deirdre Humphreys,52,Limerick,IRL,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1472,Laura Goff,49,CA,USA,00:30:28,04:21:20,02:43:48,00:12:29,00:04:45,07:52:50
+ironman-70.3-edinburgh-20170702.csv,1473,Kate Kerby,52,---,GBR,00:39:19,03:43:37,02:21:30,00:13:03,00:05:20,07:02:49
+ironman-70.3-edinburgh-20170702.csv,1474,Tracey Sahraie,53,AB23,GBR,00:37:58,03:47:27,02:29:02,00:09:43,00:07:16,07:11:26
+ironman-70.3-edinburgh-20170702.csv,1475,Tracey Mcfee,57,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1476,Nicky Smith,56,---,GBR,00:28:55,03:24:49,02:11:27,00:09:06,00:04:24,06:18:41
+ironman-70.3-edinburgh-20170702.csv,1477,Lisa Lawson,54,Invernesss-shire,GBR,00:29:31,04:14:54,02:29:28,00:15:20,00:08:02,07:37:15
+ironman-70.3-edinburgh-20170702.csv,1478,Avril Bruce,55,---,GBR,00:47:11,04:34:50,---,00:09:10,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1479,Pam Dutton,59,Nottinghamshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1480,Elizabeth Wild,57,UK,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1481,Heather Bamford,59,---,IRL,00:25:08,03:46:07,02:26:06,00:07:03,00:06:43,06:51:07
+ironman-70.3-edinburgh-20170702.csv,1482,Anne Mageean,56,---,IRL,00:29:00,04:09:41,02:33:20,00:08:33,00:08:00,07:28:34
+ironman-70.3-edinburgh-20170702.csv,1483,Ann Johnstone,55,Midlothian (County of Edinburgh),GBR,00:19:44,03:45:46,02:17:35,00:05:35,00:06:58,06:35:38
+ironman-70.3-edinburgh-20170702.csv,1484,Shona Stewart,60,---,GBR,00:29:01,04:12:30,02:23:06,00:06:15,00:05:52,07:16:44
+ironman-70.3-edinburgh-20170702.csv,1485,Arlene Reid,62,East Lothian,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1486,Barbara Davis,66,Cumbria,GBR,00:29:12,04:09:10,02:56:50,00:07:59,00:07:27,07:50:38
+ironman-70.3-edinburgh-20170702.csv,1487,Gordon Dixon,51,---,GBR,00:30:47,04:13:44,02:53:14,00:07:56,00:08:40,07:54:21
+ironman-70.3-edinburgh-20170702.csv,1488,David Inglis,53,Roxburghshire,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1489,Frank Boyne,51,---,GBR,00:25:52,03:21:29,03:17:57,00:04:34,00:04:50,07:14:42
+ironman-70.3-edinburgh-20170702.csv,1490,Stuart Campbell,50,---,GBR,00:21:58,02:52:33,01:27:36,00:03:48,00:01:56,04:47:51
+ironman-70.3-edinburgh-20170702.csv,1491,Dave Caldwell,50,Lothian,GBR,00:28:46,03:42:55,02:22:42,00:10:54,00:08:48,06:54:05
+ironman-70.3-edinburgh-20170702.csv,1492,David Mitchell,50,East Ayrshire,GBR,00:18:21,03:21:00,---,00:14:23,00:08:49,DNF
+ironman-70.3-edinburgh-20170702.csv,1493,Neil Turner,49,---,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1494,Shaun Walsh,50,Fife,IRL,00:31:48,03:49:07,02:31:54,00:07:38,00:05:34,07:06:01
+ironman-70.3-edinburgh-20170702.csv,1495,Stephen Whiston,54,Argyll,GBR,00:34:36,03:18:22,01:47:59,00:10:10,00:03:48,05:54:55
+ironman-70.3-edinburgh-20170702.csv,1496,David Stewart,52,OTHER,GBR,00:24:02,03:01:00,01:41:42,00:04:58,00:02:34,05:14:16
+ironman-70.3-edinburgh-20170702.csv,1497,Kenny Mason,53,Fife,GBR,00:23:45,03:33:23,02:06:00,00:07:38,00:03:35,06:14:21
+ironman-70.3-edinburgh-20170702.csv,1498,Douglas Adamson,52,Angus,GBR,00:35:27,03:15:01,01:46:58,00:07:07,00:04:06,05:48:39
+ironman-70.3-edinburgh-20170702.csv,1499,William Gibson,54,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1500,Mike Harvey,54,---,GBR,00:18:35,02:54:20,01:33:48,00:04:54,00:02:37,04:54:14
+ironman-70.3-edinburgh-20170702.csv,1501,Stephen Sutcliffe,50,Dorset,GBR,00:29:56,03:35:30,01:54:44,00:08:46,00:07:41,06:16:37
+ironman-70.3-edinburgh-20170702.csv,1502,Barclay Dougall,50,APO,GBR,00:21:18,03:03:51,01:38:42,00:04:01,00:03:13,05:11:05
+ironman-70.3-edinburgh-20170702.csv,1503,Graeme Porteous,53,Lanarkshire,GBR,00:28:48,03:16:08,01:57:43,00:09:26,00:06:11,05:58:16
+ironman-70.3-edinburgh-20170702.csv,1504,Andy Wilmshurst,53,Angus,GBR,00:29:55,03:38:14,02:38:11,00:06:34,00:07:17,07:00:11
+ironman-70.3-edinburgh-20170702.csv,1505,John Good,50,East Lothian,GBR,00:30:53,04:33:53,02:48:00,00:07:28,00:05:18,08:05:32
+ironman-70.3-edinburgh-20170702.csv,1506,Philip Marshall,50,CO ARMAGH,GBR,00:24:57,03:05:02,02:02:32,00:04:29,00:02:31,05:39:31
+ironman-70.3-edinburgh-20170702.csv,1507,Mark Vettraino,50,---,GBR,00:41:34,03:59:46,02:25:01,00:10:05,00:07:06,07:23:32
+ironman-70.3-edinburgh-20170702.csv,1508,Graeme Hornsby,53,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1509,Ronald Nolan,49,Midlothian,GBR,00:25:12,03:33:11,02:28:50,00:08:06,00:07:44,06:43:03
+ironman-70.3-edinburgh-20170702.csv,1510,Derek Ireland,53,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1511,William Mcguire,53,---,GBR,00:26:37,03:24:12,02:11:34,00:05:11,00:03:01,06:10:35
+ironman-70.3-edinburgh-20170702.csv,1512,Max Scharbert,49,Midlothian,DEU,00:24:38,03:30:02,02:06:19,00:05:40,00:04:34,06:11:13
+ironman-70.3-edinburgh-20170702.csv,1513,Paul Brothwood,51,---,GBR,00:24:17,03:40:20,02:30:01,00:07:52,00:07:22,06:49:52
+ironman-70.3-edinburgh-20170702.csv,1514,Alan Paxton,50,---,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1515,Alan Cummings,53,Midlothian,GBR,00:24:40,03:21:20,01:51:58,00:05:45,00:03:41,05:47:24
+ironman-70.3-edinburgh-20170702.csv,1516,Alan Riach,54,---,GBR,00:29:33,03:42:49,01:50:48,00:12:22,00:04:38,06:20:10
+ironman-70.3-edinburgh-20170702.csv,1517,Barry Marshall,54,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1518,Richard Budd,50,east Lothian,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1519,Ian Hannah,53,---,GBR,00:19:58,02:57:51,01:37:34,00:04:07,00:03:17,05:02:47
+ironman-70.3-edinburgh-20170702.csv,1520,Simon Lowe,50,Isle of Man,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1521,Kevin Scotcher,54,---,GBR,00:22:31,03:17:23,01:47:08,00:04:45,00:04:37,05:36:24
+ironman-70.3-edinburgh-20170702.csv,1522,George Lumsden,50,WA,AUS,00:25:28,03:33:33,02:10:45,00:08:01,00:07:31,06:25:18
+ironman-70.3-edinburgh-20170702.csv,1523,Demetrious Kalli,52,---,GBR,00:27:01,03:17:56,01:54:44,00:08:14,00:03:22,05:51:17
+ironman-70.3-edinburgh-20170702.csv,1524,John Willock,50,---,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1525,John Robb,54,Cheshire,GBR,00:23:43,03:15:52,02:06:35,00:07:01,00:04:32,05:57:43
+ironman-70.3-edinburgh-20170702.csv,1526,Gary Harrison,54,Midlothian,GBR,00:45:36,04:07:53,02:31:44,00:07:53,00:04:07,07:37:13
+ironman-70.3-edinburgh-20170702.csv,1527,Colin Mclean,51,midlothian,GBR,00:37:58,04:21:06,02:23:24,00:11:44,00:07:09,07:41:21
+ironman-70.3-edinburgh-20170702.csv,1528,Steven Croal,52,---,GBR,00:33:28,03:26:09,02:18:27,00:13:11,00:08:17,06:39:32
+ironman-70.3-edinburgh-20170702.csv,1529,Andy White,53,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1530,Tony Coleby,52,Durham,GBR,00:29:25,03:35:14,02:04:12,00:14:56,00:10:59,06:34:46
+ironman-70.3-edinburgh-20170702.csv,1531,Steven Yates,52,derbyshire,GBR,00:41:24,03:57:44,02:12:39,00:12:34,00:06:22,07:10:43
+ironman-70.3-edinburgh-20170702.csv,1532,Paul Deaken Thompson,50,Intl State,GBR,00:18:42,03:12:51,01:53:53,00:04:58,00:04:30,05:34:54
+ironman-70.3-edinburgh-20170702.csv,1533,Graeme Scott,54,Lanarkshire,GBR,00:37:05,03:28:14,02:30:03,00:07:04,00:07:09,06:49:35
+ironman-70.3-edinburgh-20170702.csv,1534,Vincent Cosgrove,49,galway,IRL,00:26:28,03:19:20,---,00:08:48,00:07:03,DNF
+ironman-70.3-edinburgh-20170702.csv,1535,Atholl Duncan,54,---,GBR,00:33:23,03:48:20,02:15:01,00:05:48,00:06:28,06:49:00
+ironman-70.3-edinburgh-20170702.csv,1536,Rob Impey,50,E.Sussex,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1537,Steven Wheatley,49,---,GBR,00:23:45,03:20:16,01:54:44,00:06:08,00:02:50,05:47:43
+ironman-70.3-edinburgh-20170702.csv,1538,Steven Brown,53,Galashiels,GBR,00:19:44,03:16:54,02:13:46,00:05:34,00:04:44,06:00:42
+ironman-70.3-edinburgh-20170702.csv,1539,Justin Thomas,54,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1540,Alistair Mcdermott,51,Fife,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1541,Duncan Sinclair,52,Aberdeenshire,GBR,00:26:21,03:34:23,02:09:59,00:14:17,00:07:15,06:32:15
+ironman-70.3-edinburgh-20170702.csv,1542,Mark Briggs,51,---,GBR,00:18:03,03:22:17,02:00:47,00:05:37,00:04:44,05:51:28
+ironman-70.3-edinburgh-20170702.csv,1543,Steve Waldron,50,---,GBR,00:32:49,03:30:53,02:13:56,00:06:39,00:05:12,06:29:29
+ironman-70.3-edinburgh-20170702.csv,1544,Neil Stevenson,50,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1545,Michael Pooley,49,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1546,Allan Paton,52,Midlothian,GBR,00:24:14,04:27:11,02:21:13,00:11:46,00:08:30,07:32:54
+ironman-70.3-edinburgh-20170702.csv,1547,David Peck,52,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1548,Alan Sawyer,51,Wilts,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1549,Michael Clark,49,---,CHE,00:21:33,03:24:12,01:53:11,00:09:21,00:06:59,05:55:16
+ironman-70.3-edinburgh-20170702.csv,1550,Ian Hill,51,---,CHE,00:27:30,03:30:01,02:20:13,00:06:53,00:04:39,06:29:16
+ironman-70.3-edinburgh-20170702.csv,1551,Nigel Dodds,53,---,GBR,00:25:41,03:42:21,02:19:23,00:08:20,00:04:47,06:40:32
+ironman-70.3-edinburgh-20170702.csv,1552,John A Young,53,East Lothian,IRL,00:24:57,03:00:44,02:14:13,00:04:59,00:05:18,05:50:11
+ironman-70.3-edinburgh-20170702.csv,1553,Mark Wakefield,52,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1554,Garry Brown,51,Lancashire,GBR,00:25:41,02:35:43,01:45:14,00:06:00,00:03:34,04:56:12
+ironman-70.3-edinburgh-20170702.csv,1555,David Timothy O'Leary,52,---,GBR,00:27:01,04:05:00,03:09:41,00:11:51,00:13:22,08:06:55
+ironman-70.3-edinburgh-20170702.csv,1556,Ronnie Greig,50,---,GBR,00:41:55,03:37:26,02:02:54,00:13:49,00:08:50,06:44:54
+ironman-70.3-edinburgh-20170702.csv,1557,Stephen Brady,53,Galway,IRL,00:30:33,03:39:27,02:01:35,00:08:04,00:04:16,06:23:55
+ironman-70.3-edinburgh-20170702.csv,1558,Sean S J O'Callaghan,51,Angus,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1559,Alec Murchie,52,---,GBR,00:25:17,03:42:01,01:48:20,00:06:30,00:05:51,06:07:59
+ironman-70.3-edinburgh-20170702.csv,1560,Ant Williamson,52,Durham,GBR,00:28:51,03:46:03,02:15:58,00:07:53,00:05:05,06:43:50
+ironman-70.3-edinburgh-20170702.csv,1561,Iain Wood,---,---,GBR,00:36:16,04:24:29,02:30:59,00:10:10,00:06:14,07:48:08
+ironman-70.3-edinburgh-20170702.csv,1562,Stuart Macgregor,51,---,GBR,00:30:46,02:54:36,01:59:04,00:09:11,00:04:46,05:38:23
+ironman-70.3-edinburgh-20170702.csv,1563,Sean Ofsarnie,51,Lancashire,GBR,00:33:00,03:37:56,02:20:42,00:09:41,00:06:06,06:47:25
+ironman-70.3-edinburgh-20170702.csv,1564,Robin Corder,53,Warks,GBR,00:22:43,02:58:47,02:02:35,00:08:21,00:04:49,05:37:15
+ironman-70.3-edinburgh-20170702.csv,1565,Mamad Salamat,52,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1566,James Mulchrone,50,kerry ,IRL,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1567,Steven Bamber,54,LANCASHIRE,GBR,00:19:36,03:05:06,01:44:36,00:04:51,00:03:21,05:17:30
+ironman-70.3-edinburgh-20170702.csv,1568,John Auld,54,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1569,Chris Hunt,49,South yorkshire,GBR,00:25:44,03:15:18,02:39:48,00:10:36,00:05:42,06:37:08
+ironman-70.3-edinburgh-20170702.csv,1570,Phil Roker,50,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1571,Stuart Turner,51,---,GBR,00:24:15,03:09:46,02:14:19,00:04:26,00:02:44,05:55:30
+ironman-70.3-edinburgh-20170702.csv,1572,Louis (Arno) Meister,49,DXB,NLD,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1573,Steven Smillie,50,---,GBR,00:43:20,03:15:39,01:56:43,00:07:49,00:06:02,06:09:33
+ironman-70.3-edinburgh-20170702.csv,1574,Jack Van Poll,53,---,NLD,00:24:53,03:31:49,01:59:06,00:09:09,00:06:50,06:11:47
+ironman-70.3-edinburgh-20170702.csv,1575,Michael Ruff,50,Tyne And Wear,GBR,00:24:14,03:42:35,02:25:38,00:13:58,00:14:21,07:00:46
+ironman-70.3-edinburgh-20170702.csv,1576,Jim Wilkinson,52,Fife,GBR,00:35:58,04:03:40,02:21:33,00:11:22,00:09:44,07:22:17
+ironman-70.3-edinburgh-20170702.csv,1577,Stefano Rampolla,50,Milano,ITA,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1578,Geoff Walker,50,North Yorkshire,GBR,00:23:44,03:32:46,02:21:27,00:06:57,00:03:39,06:28:33
+ironman-70.3-edinburgh-20170702.csv,1579,Tony Mcmahon,49,Waterford,IRL,00:49:43,03:07:34,01:41:55,00:09:23,00:05:55,05:54:30
+ironman-70.3-edinburgh-20170702.csv,1580,Eliott Betts,50,Essex,GBR,00:36:26,03:41:15,02:11:38,00:12:41,00:06:50,06:48:50
+ironman-70.3-edinburgh-20170702.csv,1581,Michael Kennedy,54,---,GBR,00:25:28,03:29:27,03:05:33,00:12:20,00:12:15,07:25:03
+ironman-70.3-edinburgh-20170702.csv,1582,Maurice Inkster,51,ES,GBR,00:27:10,03:27:50,02:03:41,00:09:54,00:04:47,06:13:22
+ironman-70.3-edinburgh-20170702.csv,1583,Steve Hale,52,---,GBR,00:30:59,03:39:23,02:46:32,00:11:24,00:06:00,07:14:18
+ironman-70.3-edinburgh-20170702.csv,1584,Nicol Fraser,49,---,GBR,00:27:09,04:24:32,01:51:10,00:18:58,00:03:44,07:05:33
+ironman-70.3-edinburgh-20170702.csv,1585,Gary Stuart,53,TN,USA,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1586,Stirling Stewart,53,east lothian,GBR,00:32:34,04:28:03,02:24:27,00:12:36,00:06:30,07:44:10
+ironman-70.3-edinburgh-20170702.csv,1587,Dean Ratcliffe,50,---,GBR,00:17:02,02:52:02,---,00:03:56,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1588,David Dodd,52,GA,USA,00:38:41,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1589,Derek Greenan,49,---,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1604,David Richards,54,---,GBR,00:23:58,04:09:56,02:50:57,00:06:22,00:06:15,07:37:28
+ironman-70.3-edinburgh-20170702.csv,1605,John Robertson,56,Mid Lothian,GBR,00:28:10,03:57:47,02:02:54,00:10:58,00:06:37,06:46:26
+ironman-70.3-edinburgh-20170702.csv,1606,Tony Marlow,58,Lanarkshire,GBR,00:29:45,03:38:44,02:30:26,00:13:03,00:04:21,06:56:19
+ironman-70.3-edinburgh-20170702.csv,1607,Frank Tooley,57,---,GBR,00:23:51,03:17:41,02:01:11,00:06:51,00:04:12,05:53:46
+ironman-70.3-edinburgh-20170702.csv,1608,Nigel Bruce,57,---,GBR,00:37:13,03:28:03,02:19:40,00:06:31,00:05:02,06:36:29
+ironman-70.3-edinburgh-20170702.csv,1609,Gavin Prise,55,Aberdeen city,GBR,00:19:26,03:11:55,01:57:28,00:05:42,00:03:52,05:38:23
+ironman-70.3-edinburgh-20170702.csv,1610,Eddie Turnbull,59,---,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1611,Alan Bremner,57,Intl State,GBR,00:21:42,02:48:24,01:41:06,00:03:18,00:02:05,04:56:35
+ironman-70.3-edinburgh-20170702.csv,1612,Julian Rose,56,---,GBR,00:25:50,03:24:23,01:54:03,00:09:42,00:06:36,06:00:34
+ironman-70.3-edinburgh-20170702.csv,1613,Stephen Mccullough,56,East lothian,IRL,00:27:07,03:29:26,01:57:26,00:07:43,00:04:56,06:06:38
+ironman-70.3-edinburgh-20170702.csv,1614,Derek Stewart,55,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1615,Stewart Leckie,57,Fife,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1616,Brian Timney,54,Angus,AUS,00:24:44,03:31:49,02:08:41,00:09:26,00:07:42,06:22:22
+ironman-70.3-edinburgh-20170702.csv,1617,Charles Martin,58,---,GBR,00:23:04,03:19:39,01:54:10,00:05:48,00:04:15,05:46:56
+ironman-70.3-edinburgh-20170702.csv,1618,William Ion,59,South Lanarkshire,GBR,00:29:25,04:17:45,02:56:07,00:07:48,00:06:59,07:58:04
+ironman-70.3-edinburgh-20170702.csv,1619,Michael Brown,56,---,GBR,00:30:17,03:22:21,01:51:43,00:09:09,00:05:28,05:58:58
+ironman-70.3-edinburgh-20170702.csv,1620,Kenneth Gray,55,---,GBR,00:30:26,03:58:19,02:50:09,00:14:38,00:09:28,07:43:00
+ironman-70.3-edinburgh-20170702.csv,1621,Martin Duthie,54,South Lanarkshire,GBR,00:22:42,03:04:38,01:38:46,00:05:18,00:02:35,05:13:59
+ironman-70.3-edinburgh-20170702.csv,1622,Alexander Whyte,59,---,GBR,00:24:08,03:07:11,01:52:15,00:06:45,00:03:45,05:34:04
+ironman-70.3-edinburgh-20170702.csv,1623,Peter Downie,57,Lothian,GBR,00:26:38,03:10:04,01:48:24,00:05:39,00:02:34,05:33:19
+ironman-70.3-edinburgh-20170702.csv,1624,Ken Mortimer,56,---,GBR,---,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1625,Adrian Gallagher,55,Scotland,GBR,00:24:42,03:48:23,02:23:52,00:09:30,00:11:40,06:58:07
+ironman-70.3-edinburgh-20170702.csv,1626,Chris Farrell,56,---,GBR,00:40:59,03:57:23,03:18:32,00:08:42,00:07:03,08:12:39
+ironman-70.3-edinburgh-20170702.csv,1627,Gerard Reid,57,Co. Galway,IRL,00:31:41,03:31:59,02:19:51,00:08:31,00:05:57,06:37:59
+ironman-70.3-edinburgh-20170702.csv,1628,Martin Gaskin,57,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1629,Richard Traynor,54,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1630,Jeff Dzieczkowski,54,ID,USA,00:33:50,03:52:41,02:41:16,00:09:13,00:04:47,07:21:47
+ironman-70.3-edinburgh-20170702.csv,1631,Graham Mearns,58,Wiltshire,GBR,00:40:12,03:51:33,02:47:51,00:11:55,00:04:24,07:35:55
+ironman-70.3-edinburgh-20170702.csv,1632,Peter Mccartney,55,perthshire,GBR,00:41:46,03:43:12,02:31:09,00:12:44,00:05:27,07:14:18
+ironman-70.3-edinburgh-20170702.csv,1633,Chris Davidson,58,Hampshire,GBR,00:31:23,04:14:17,02:18:25,00:12:13,00:06:11,07:22:29
+ironman-70.3-edinburgh-20170702.csv,1634,Archie Dick,55,---,GBR,00:36:21,03:42:59,02:11:40,00:10:18,00:07:18,06:48:36
+ironman-70.3-edinburgh-20170702.csv,1635,Billy Mitchell,55,---,GBR,00:24:45,03:28:19,01:52:37,00:07:01,00:03:01,05:55:43
+ironman-70.3-edinburgh-20170702.csv,1636,Rick Cunningham,55,---,GBR,00:29:31,03:29:35,02:19:03,00:08:01,00:03:45,06:29:55
+ironman-70.3-edinburgh-20170702.csv,1637,Clive Hawkins,56,Northants,GBR,00:31:16,03:40:11,01:56:49,00:09:19,00:05:07,06:22:42
+ironman-70.3-edinburgh-20170702.csv,1638,Nick Blount,56,NORTHANTS,GBR,00:23:28,03:12:41,02:01:47,00:04:59,00:02:55,05:45:50
+ironman-70.3-edinburgh-20170702.csv,1639,Marc Turner,57,Falkirk,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1640,Stuart Mclaren,56,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1641,Michael Odowd,56,galway,IRL,00:28:23,03:16:46,02:09:16,00:11:51,00:07:05,06:13:21
+ironman-70.3-edinburgh-20170702.csv,1642,Simon Fisher,56,---,GBR,00:28:01,03:16:30,01:50:34,00:10:26,00:06:35,05:52:06
+ironman-70.3-edinburgh-20170702.csv,1643,Peter Caldwell,58,SOMERSET,GBR,00:24:04,03:58:43,02:23:15,00:07:17,00:08:42,07:02:01
+ironman-70.3-edinburgh-20170702.csv,1644,David Thomson,56,Phuket,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1645,Alan Sumner,58,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1646,Brad Gilbert,58,Intl State,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1647,Alan Brown,55,---,GBR,00:25:50,03:39:36,02:02:29,00:09:19,00:04:26,06:21:40
+ironman-70.3-edinburgh-20170702.csv,1648,Philip Rycroft,56,East Lothian,GBR,00:25:48,03:34:13,02:25:51,00:07:53,00:05:36,06:39:21
+ironman-70.3-edinburgh-20170702.csv,1649,Wayne Jaffe,55,---,GBR,00:51:11,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1650,Richard Sanders,58,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1651,Kevin Linehan,56,MIDDLESEX,GBR,00:24:26,03:10:56,01:36:02,00:10:36,00:05:11,05:27:11
+ironman-70.3-edinburgh-20170702.csv,1652,Bruce Martyn,57,Banglampoolang,THA,00:30:33,04:08:13,02:29:42,00:11:34,00:05:44,07:25:46
+ironman-70.3-edinburgh-20170702.csv,1653,Neil Franks,59,---,ABW,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1654,Robert Latham,58,DXB,GBR,00:37:20,03:28:11,01:48:22,00:08:42,00:06:05,06:08:40
+ironman-70.3-edinburgh-20170702.csv,1655,Dwayne Dawson,58,---,GBR,00:34:36,04:25:31,02:43:14,00:13:10,00:06:36,08:03:07
+ironman-70.3-edinburgh-20170702.csv,1656,Jonathan Wittrick,56,Aberdeenshire,GBR,00:44:59,04:16:10,02:43:07,00:09:40,00:08:01,08:01:57
+ironman-70.3-edinburgh-20170702.csv,1657,Neil Bowcock,55,Staffordshire,GBR,00:37:20,03:45:11,02:09:40,00:11:36,00:07:31,06:51:18
+ironman-70.3-edinburgh-20170702.csv,1658,Ken Young,55,MWT,NZL,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1659,Mark Young,54,---,GBR,00:36:03,03:10:50,01:53:55,00:10:26,00:03:33,05:54:47
+ironman-70.3-edinburgh-20170702.csv,1660,Euan Mackenzie,55,---,GBR,00:35:29,04:07:40,02:43:14,00:10:10,00:07:49,07:44:22
+ironman-70.3-edinburgh-20170702.csv,1661,Ed Sadler,54,---,USA,00:35:17,04:02:15,01:36:58,00:09:57,00:05:15,06:29:42
+ironman-70.3-edinburgh-20170702.csv,1662,James Gaitens,57,scotland,GBR,00:37:55,03:52:35,02:08:26,00:06:35,00:04:10,06:49:41
+ironman-70.3-edinburgh-20170702.csv,1663,John Fenemore,60,Lanarkshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1664,Richard Parker,62,Inverclyde,GBR,00:26:46,03:28:03,---,00:13:13,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1665,James Allan,59,South Lanarkshire,GBR,00:29:55,03:24:52,02:03:50,00:07:19,00:04:28,06:10:24
+ironman-70.3-edinburgh-20170702.csv,1666,Chic Wilkinson,63,Norfolk,GBR,00:29:15,04:30:32,02:33:07,00:11:06,00:08:28,07:52:28
+ironman-70.3-edinburgh-20170702.csv,1667,Isaac Caughey,62,Roxburghshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1668,Rob Monk,60,Cheshire,GBR,00:17:12,03:04:16,01:55:21,00:04:07,00:03:13,05:24:09
+ironman-70.3-edinburgh-20170702.csv,1669,John Mccord,61,Cumbria,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1670,Nigel Neil,62,Lancashire,GBR,00:36:52,04:14:07,02:28:35,00:09:33,00:03:50,07:32:57
+ironman-70.3-edinburgh-20170702.csv,1671,Douglas Denholm,59,East Lothian,GBR,---,---,---,---,---,DNS
+ironman-70.3-edinburgh-20170702.csv,1672,Stewart Maxwell,60,Angus,GBR,00:20:30,04:16:02,03:10:32,00:10:37,00:08:43,08:06:24
+ironman-70.3-edinburgh-20170702.csv,1673,Jerry Hopkinson,62,Northumberland,GBR,00:36:12,03:49:35,02:29:36,00:10:19,00:08:35,07:14:17
+ironman-70.3-edinburgh-20170702.csv,1674,Kevin Mcbrien,59,AZ,USA,00:44:43,04:50:15,---,00:08:48,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1675,Steven Matthews,64,South Lanarkshire,GBR,00:20:20,---,---,---,---,DNF
+ironman-70.3-edinburgh-20170702.csv,1676,Richard Arnot,66,---,GBR,00:28:49,03:58:50,03:19:56,00:06:39,00:04:09,07:58:23
+ironman-70.3-edinburgh-20170702.csv,1677,Stephen Walton,67,Aberdeenshire,GBR,00:23:41,03:29:07,02:15:44,00:07:03,00:03:23,06:18:58
+ironman-70.3-edinburgh-20170702.csv,1678,John J Higgins,69,Galway,IRL,00:40:03,03:48:12,02:15:28,00:07:27,00:04:35,06:55:45
+ironman-70.3-edinburgh-20170702.csv,1679,George Rux,68,TX,USA,00:33:25,03:56:12,02:31:26,00:12:31,00:11:25,07:24:59
+ironman-70.3-edinburgh-20170702.csv,1680,Scott Balfour,70,Intl State,GBR,00:27:06,04:11:10,01:57:17,00:11:48,00:06:58,06:54:19
+ironman-70.3-edinburgh-20170702.csv,1681,Colin Gerrard,69,North Yorkshire,GBR,00:24:29,03:43:31,02:39:13,00:08:54,00:07:05,07:03:12

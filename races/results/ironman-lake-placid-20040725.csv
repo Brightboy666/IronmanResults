@@ -1,0 +1,1555 @@
+#File=ironman-lake-placid-20040725.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-lake-placid-20040725.csv,1,Heather Fuhr,---,CA,USA,00:55:24,05:33:20,03:04:20,00:03:19,00:02:16,09:38:39
+ironman-lake-placid-20040725.csv,2,Andrea Fisher,---,TX,USA,00:50:09,05:38:06,---,00:03:36,00:02:40,DNF
+ironman-lake-placid-20040725.csv,3,Melissa Spooner,---,AZ,USA,00:52:28,---,---,00:04:06,---,DNF
+ironman-lake-placid-20040725.csv,4,Kirsten Ward,---,VA,USA,01:00:48,05:49:00,03:50:51,00:04:08,00:05:19,10:50:06
+ironman-lake-placid-20040725.csv,5,Kim Loeffler,---,VT,USA,00:58:53,05:33:46,03:16:21,00:03:50,00:01:37,09:54:27
+ironman-lake-placid-20040725.csv,6,Barbara Buenahora,---,BA,ARG,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,7,Amy Cashion,---,MA,USA,01:01:00,05:42:49,03:42:03,00:04:28,00:02:01,10:32:21
+ironman-lake-placid-20040725.csv,8,Joanna Lawn,---,CO,USA,00:52:24,05:25:37,03:17:10,00:03:07,00:01:40,09:39:58
+ironman-lake-placid-20040725.csv,9,Kate Major,---,CA,USA,00:55:20,05:06:48,03:17:35,00:03:43,00:01:16,09:24:42
+ironman-lake-placid-20040725.csv,10,Kathleen M. Malone,---,NC,USA,01:01:55,05:55:23,04:10:00,00:04:16,00:02:42,11:14:16
+ironman-lake-placid-20040725.csv,11,Judith Mcsweeney,---,CO,USA,00:57:09,05:52:13,03:38:22,00:05:17,00:02:59,10:36:00
+ironman-lake-placid-20040725.csv,12,Lianne Paster-Evans,---,CO,USA,00:55:18,05:39:24,04:02:13,00:04:19,00:02:10,10:43:24
+ironman-lake-placid-20040725.csv,13,Anastasia Polito,35,QC,CAN,00:52:18,06:18:59,03:53:54,00:05:10,00:02:44,11:13:05
+ironman-lake-placid-20040725.csv,14,Nicole Rudan,---,QLD,AUS,00:52:13,05:45:19,03:25:33,00:03:30,00:01:56,10:08:31
+ironman-lake-placid-20040725.csv,30,Chris Lieto,---,CA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,31,Simon Lessing,---,CO,USA,00:47:08,04:44:22,02:46:39,00:03:03,00:02:00,08:23:12
+ironman-lake-placid-20040725.csv,32,Andy Martin,---,OR,USA,00:58:21,05:01:41,02:56:35,00:04:18,00:01:25,09:02:20
+ironman-lake-placid-20040725.csv,33,Bryan Rhodes,---,OR,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,34,Shingo Tani,37,AICHI,JPN,00:52:38,05:04:38,02:58:30,00:03:23,00:01:42,09:00:51
+ironman-lake-placid-20040725.csv,35,Tim Watson,---,VT,USA,00:52:25,05:19:50,03:43:34,00:03:27,00:04:46,10:04:02
+ironman-lake-placid-20040725.csv,36,Bradley White,---,NSW,AUS,00:52:24,---,---,00:03:21,---,DNF
+ironman-lake-placid-20040725.csv,38,Luke Bell,---,CA,USA,00:48:07,04:49:19,02:56:03,00:02:50,00:01:39,08:37:58
+ironman-lake-placid-20040725.csv,39,Carlos Cruz,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,40,Peter Cutler,---,NY,USA,01:07:27,05:35:26,---,00:06:34,00:07:12,DNF
+ironman-lake-placid-20040725.csv,41,Wim De Doncker,---,---,BEL,00:57:16,05:27:07,03:25:15,00:03:58,00:02:02,09:55:38
+ironman-lake-placid-20040725.csv,43,Erik Deroche,---,OR,USA,00:52:23,05:27:10,---,00:04:26,00:02:02,DNF
+ironman-lake-placid-20040725.csv,44,Scott Duprex,36,NJ,USA,00:52:31,05:29:58,03:25:07,00:04:28,00:02:02,09:54:06
+ironman-lake-placid-20040725.csv,46,Dean Gavan,---,NSW,AUS,00:59:12,05:10:51,04:00:00,00:04:20,00:02:34,10:16:57
+ironman-lake-placid-20040725.csv,47,Ryan Grote,---,NJ,USA,00:57:14,05:15:18,03:08:49,00:05:07,00:03:07,09:29:35
+ironman-lake-placid-20040725.csv,49,Tim Luchinske,32,CO,USA,00:52:28,05:11:30,02:52:49,00:03:27,00:01:29,09:01:43
+ironman-lake-placid-20040725.csv,50,Juan Mutti,---,BA,ARG,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,51,Mike Neill,---,BC,CAN,00:52:27,05:25:12,02:53:07,00:03:31,00:02:04,09:16:21
+ironman-lake-placid-20040725.csv,52,Courtney Ogden,---,CO,USA,00:50:53,04:57:00,02:56:54,00:03:15,00:02:43,08:50:45
+ironman-lake-placid-20040725.csv,53,Cristian Pioli,---,BA,ARG,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,54,Tim Snow,28,MA,USA,00:56:06,05:29:23,03:39:15,00:06:26,00:03:32,10:14:42
+ironman-lake-placid-20040725.csv,55,Kevin Grogan,---,FL,USA,00:55:45,05:35:40,03:27:57,00:04:50,00:02:30,10:06:42
+ironman-lake-placid-20040725.csv,56,Dave Harju,---,QC,CAN,00:51:13,05:03:46,03:13:12,00:03:06,00:01:48,09:13:05
+ironman-lake-placid-20040725.csv,57,John Robertson,---,NC,USA,00:59:00,05:27:32,---,00:06:56,00:04:49,DNF
+ironman-lake-placid-20040725.csv,58,Chann Mcrae,---,TX,USA,00:51:15,05:14:39,03:14:12,00:03:16,00:01:56,09:25:18
+ironman-lake-placid-20040725.csv,59,Jeff Beech,33,ON,CAN,00:52:24,05:18:43,03:10:09,00:03:19,00:02:26,09:27:01
+ironman-lake-placid-20040725.csv,61,Charles Chokel,---,OH,USA,01:07:49,06:09:20,04:31:27,00:08:41,00:04:34,12:01:51
+ironman-lake-placid-20040725.csv,62,David Daggett,---,NC,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,63,Mike Dannelley,---,CA,USA,01:04:48,05:34:29,03:53:15,00:05:36,00:01:27,10:39:35
+ironman-lake-placid-20040725.csv,64,Michael Fisch,---,NY,USA,01:04:19,05:39:12,03:56:04,00:04:11,00:01:53,10:45:39
+ironman-lake-placid-20040725.csv,65,Soren Hastrup,---,NJ,USA,01:07:53,05:43:28,04:17:24,00:06:15,00:02:32,11:17:32
+ironman-lake-placid-20040725.csv,66,Jason Herring,---,TX,USA,01:18:08,06:16:33,05:00:36,00:11:05,00:05:25,12:51:47
+ironman-lake-placid-20040725.csv,67,Mark Holowesho,---,---,BHS,00:58:03,05:53:26,---,00:06:57,---,DNF
+ironman-lake-placid-20040725.csv,68,David Joubran,---,VA,USA,01:18:06,07:31:23,05:54:13,00:08:23,00:06:15,14:58:20
+ironman-lake-placid-20040725.csv,69,Douglas Lebda,34,NC,USA,01:05:54,05:53:05,04:36:48,00:10:33,00:05:05,11:51:25
+ironman-lake-placid-20040725.csv,70,Michael Mcguire,25,VA,USA,01:07:15,06:06:47,05:10:29,00:06:47,00:07:25,12:38:43
+ironman-lake-placid-20040725.csv,71,Michael Nagel,38,PA,USA,01:24:14,07:10:29,05:38:51,00:09:16,00:04:43,14:27:33
+ironman-lake-placid-20040725.csv,72,John Potter,---,PA,USA,00:54:49,05:40:41,03:49:10,00:03:54,00:02:05,10:30:39
+ironman-lake-placid-20040725.csv,73,Jim Ritchie,---,CA,USA,01:24:22,06:51:17,04:42:01,00:06:09,00:07:09,13:10:58
+ironman-lake-placid-20040725.csv,74,John Schlagenhauf,---,WI,USA,01:04:12,05:29:11,04:04:05,00:06:01,00:04:01,10:47:30
+ironman-lake-placid-20040725.csv,75,Shari Steele,---,CA,USA,01:52:09,---,---,00:09:40,---,DNF
+ironman-lake-placid-20040725.csv,76,Matt Townley,48,PA,USA,01:19:49,06:42:23,05:19:44,00:08:11,00:07:02,13:37:09
+ironman-lake-placid-20040725.csv,77,Robert Tuchman,33,NY,USA,01:06:58,06:37:40,04:36:15,00:07:52,00:06:38,12:35:23
+ironman-lake-placid-20040725.csv,78,Carri D. Bennet,---,MD,USA,01:36:11,07:49:52,06:19:57,00:09:05,00:08:36,16:03:41
+ironman-lake-placid-20040725.csv,79,Aj Abel,---,PA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,80,Richard Haig Jr,41,NJ,USA,01:08:48,06:29:54,04:33:15,00:06:59,00:05:42,12:24:38
+ironman-lake-placid-20040725.csv,81,David Mullaney,38,PA,USA,01:14:43,05:30:21,04:02:58,00:07:04,00:03:03,10:58:09
+ironman-lake-placid-20040725.csv,82,John Macfarlane,---,CT,USA,01:12:20,06:19:50,04:10:52,00:09:54,00:05:24,11:58:20
+ironman-lake-placid-20040725.csv,83,Joe Desena,---,NY,USA,01:26:53,05:21:22,04:02:28,00:05:11,00:02:15,10:58:09
+ironman-lake-placid-20040725.csv,84,Sheila Barmore,---,NY,USA,01:04:38,06:23:28,03:50:50,00:07:15,00:03:49,11:30:00
+ironman-lake-placid-20040725.csv,85,Zach Benson,24,NY,USA,01:13:53,07:14:32,06:03:32,00:06:53,00:03:19,14:42:09
+ironman-lake-placid-20040725.csv,86,Rachel Butler,---,NY,USA,01:28:44,07:44:18,05:32:40,00:10:06,00:06:43,15:02:31
+ironman-lake-placid-20040725.csv,87,Ed Cassot,---,NY,USA,01:18:55,06:53:09,04:30:53,00:08:56,00:06:49,12:58:42
+ironman-lake-placid-20040725.csv,88,Paul Cassot,---,NY,USA,01:14:59,06:56:57,04:29:21,00:10:20,00:07:05,12:58:42
+ironman-lake-placid-20040725.csv,89,Jaime Collins,---,NY,USA,01:27:41,07:35:27,04:40:13,00:12:22,00:08:22,14:04:05
+ironman-lake-placid-20040725.csv,90,Charlie Cowan,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,91,Brian P. Delaney,---,NY,USA,01:03:26,06:06:02,05:06:59,00:06:03,00:05:06,12:27:36
+ironman-lake-placid-20040725.csv,92,Richard Erenstone,---,NY,USA,01:07:02,05:52:24,06:46:38,00:07:28,00:03:16,13:56:48
+ironman-lake-placid-20040725.csv,93,Shane Eversfield,---,NY,USA,01:07:12,06:15:12,04:53:08,00:08:04,00:06:09,12:29:45
+ironman-lake-placid-20040725.csv,94,John Foley,---,NY,USA,01:16:07,06:21:05,04:22:12,00:08:45,00:04:19,12:12:28
+ironman-lake-placid-20040725.csv,95,Melinda Frazer,---,NY,USA,01:10:52,07:23:56,05:22:31,00:06:05,00:02:42,14:06:06
+ironman-lake-placid-20040725.csv,96,Michael Fudzinski,---,NY,USA,01:07:29,07:28:30,05:26:14,00:10:20,00:04:36,14:17:09
+ironman-lake-placid-20040725.csv,97,Marc Galvin,---,NY,USA,01:20:32,05:45:33,03:17:13,00:11:53,00:04:55,10:40:06
+ironman-lake-placid-20040725.csv,98,Nic Gladd,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,99,Christopher Lapierre,---,NY,USA,01:04:20,06:06:38,03:59:28,00:05:55,00:02:23,11:18:44
+ironman-lake-placid-20040725.csv,100,Amy F. Moresco,---,NY,USA,01:04:52,07:31:09,05:26:14,00:07:20,00:05:34,14:15:09
+ironman-lake-placid-20040725.csv,101,Kami Netri,---,NY,USA,01:35:24,07:43:42,06:18:15,00:12:17,00:08:50,15:58:28
+ironman-lake-placid-20040725.csv,102,Richard Preston,---,NY,USA,01:07:00,05:49:46,04:04:10,00:06:13,00:05:00,11:12:09
+ironman-lake-placid-20040725.csv,103,Kevin Putman,---,NY,USA,01:09:27,05:25:02,04:08:52,00:06:01,00:02:02,10:51:24
+ironman-lake-placid-20040725.csv,104,Holly J. Stretch,---,NY,USA,01:31:13,08:15:24,05:19:04,00:07:03,00:06:46,15:19:30
+ironman-lake-placid-20040725.csv,105,Bob Morganson,---,NY,USA,01:15:45,06:39:14,05:12:05,00:09:18,00:05:10,13:21:32
+ironman-lake-placid-20040725.csv,106,Weston Wheeler,---,NY,USA,01:09:59,05:50:41,05:12:58,00:07:19,00:04:04,12:25:01
+ironman-lake-placid-20040725.csv,107,Geoff Howe,---,NY,USA,01:02:00,05:22:13,03:57:59,00:05:06,00:02:07,10:29:25
+ironman-lake-placid-20040725.csv,108,Charles Dwyer,42,NY,USA,01:07:25,06:10:35,05:12:43,00:07:16,00:03:51,12:41:50
+ironman-lake-placid-20040725.csv,109,Matthew D. Godlewski,---,NY,USA,01:08:38,05:58:26,05:23:02,00:07:15,00:05:58,12:43:19
+ironman-lake-placid-20040725.csv,110,Emilie Drinkwater,---,NY,USA,01:16:26,06:47:06,05:04:31,00:06:30,00:04:50,13:19:23
+ironman-lake-placid-20040725.csv,111,Marcy Rynne,---,NY,USA,01:14:52,07:06:12,04:48:08,00:06:44,00:04:52,13:20:48
+ironman-lake-placid-20040725.csv,112,Brian D. Lavender,49,NY,USA,01:19:33,07:59:39,05:37:10,00:11:06,00:07:41,15:15:09
+ironman-lake-placid-20040725.csv,113,Matthew Dougherty,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,114,Karen C. Lieb,---,NY,USA,01:15:46,06:00:41,04:04:07,00:05:58,00:02:20,11:28:52
+ironman-lake-placid-20040725.csv,115,Kevin Litchfield,---,NY,USA,01:11:05,06:09:25,04:36:41,00:10:05,00:07:14,12:14:30
+ironman-lake-placid-20040725.csv,116,Janice Williamson,---,NY,USA,00:58:20,06:33:41,05:27:04,00:05:59,00:06:00,13:11:04
+ironman-lake-placid-20040725.csv,117,Daniel P. Callahan,---,NY,USA,01:06:30,07:58:30,05:21:09,00:11:44,00:08:18,14:46:11
+ironman-lake-placid-20040725.csv,118,Tom Fallon,---,DE,USA,00:58:27,05:48:18,04:11:55,00:06:54,00:04:08,11:09:42
+ironman-lake-placid-20040725.csv,119,Jason M. Hall,---,DE,USA,01:14:56,06:09:36,05:05:20,00:13:32,00:06:12,12:49:36
+ironman-lake-placid-20040725.csv,120,Bart J. Hayes,---,NY,USA,01:20:57,05:40:48,04:04:55,00:09:04,00:04:23,11:20:07
+ironman-lake-placid-20040725.csv,121,Katie Hayes,20,NY,USA,01:05:43,07:19:24,06:47:50,00:07:33,00:04:10,15:24:40
+ironman-lake-placid-20040725.csv,122,Robert Ketchell,---,NY,USA,01:21:05,05:47:56,04:30:29,00:05:59,00:03:53,11:49:22
+ironman-lake-placid-20040725.csv,123,William Mcgreevy,---,NY,USA,01:14:38,05:37:00,04:49:10,00:12:00,00:07:58,12:00:46
+ironman-lake-placid-20040725.csv,124,William Skufca,---,NY,USA,01:07:45,06:01:11,05:21:11,00:08:54,00:06:31,12:45:32
+ironman-lake-placid-20040725.csv,125,Anthony M. Vari,---,DC,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,126,Brandon Riemer,18,MI,USA,00:59:13,06:44:40,06:26:20,00:07:37,00:06:02,14:23:52
+ironman-lake-placid-20040725.csv,127,Max Selleck,---,CA,USA,01:07:57,06:11:14,04:58:17,00:08:56,00:04:48,12:31:12
+ironman-lake-placid-20040725.csv,128,Kristofer S. Cross,---,NY,USA,01:19:13,---,---,00:06:31,---,DNF
+ironman-lake-placid-20040725.csv,129,Billy L. Witham,---,MO,USA,01:26:04,08:40:18,06:04:55,00:08:45,00:05:07,16:25:09
+ironman-lake-placid-20040725.csv,130,Ryan Loechner,21,IL,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,131,Todd Stackhouse,21,PA,USA,00:50:07,05:39:34,04:08:47,00:04:33,00:04:02,10:47:03
+ironman-lake-placid-20040725.csv,132,Mark W. Hoover,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,133,Matthew Ort,21,TX,USA,01:22:18,06:53:39,04:46:54,00:08:53,00:07:05,13:18:49
+ironman-lake-placid-20040725.csv,134,Barry Teshima,---,MI,USA,01:09:34,06:40:02,05:08:57,00:08:54,00:05:30,13:12:57
+ironman-lake-placid-20040725.csv,135,Gregory S. Chapman,---,MD,USA,01:07:04,06:01:31,04:08:19,00:07:37,00:03:36,11:28:07
+ironman-lake-placid-20040725.csv,136,Aaron Lavender,22,AZ,USA,01:13:16,07:06:18,05:24:30,00:11:13,00:07:06,14:02:23
+ironman-lake-placid-20040725.csv,137,John E. Kirkwood,---,VA,USA,01:04:49,06:05:52,06:05:54,00:06:26,00:04:37,13:27:38
+ironman-lake-placid-20040725.csv,138,Keith Kirkwood,22,VA,USA,01:04:16,07:10:10,04:52:52,00:10:21,00:09:59,13:27:38
+ironman-lake-placid-20040725.csv,139,Joseph Kleha,22,PA,USA,01:28:14,07:20:50,05:34:31,00:08:06,00:05:22,14:37:03
+ironman-lake-placid-20040725.csv,140,Patrick D. Williamson,---,CT,USA,01:30:14,07:56:52,06:39:31,00:11:30,00:10:10,16:28:17
+ironman-lake-placid-20040725.csv,141,Bryan Spinelli,22,CT,USA,01:01:56,06:38:54,05:26:05,00:07:58,00:06:25,13:21:18
+ironman-lake-placid-20040725.csv,142,Travis D. Martin,---,PA,USA,01:00:54,05:36:07,04:17:31,00:05:35,00:03:14,11:03:21
+ironman-lake-placid-20040725.csv,143,Tommy Dewland,23,VA,USA,01:01:58,05:48:02,03:25:48,00:06:16,00:04:36,10:26:40
+ironman-lake-placid-20040725.csv,144,Erik Hanley,23,TX,USA,01:19:59,07:54:51,04:42:54,00:07:21,00:03:19,14:08:24
+ironman-lake-placid-20040725.csv,145,Christopher Delphia,23,CT,USA,01:05:55,07:15:16,07:01:24,00:07:06,00:06:27,15:36:08
+ironman-lake-placid-20040725.csv,146,Rick Weismiller,---,VA,USA,01:17:13,06:06:35,03:52:43,00:09:21,00:05:59,11:31:51
+ironman-lake-placid-20040725.csv,147,Adam Pomerantz,24,SC,USA,00:56:39,05:42:38,05:53:24,00:06:45,00:03:36,12:43:02
+ironman-lake-placid-20040725.csv,148,Ryan A. Van Praet,---,ON,CAN,01:10:05,05:58:47,04:34:13,00:09:17,00:05:23,11:57:45
+ironman-lake-placid-20040725.csv,149,James Stangeland,24,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,150,David Barbic,---,ON,CAN,01:06:44,06:23:23,05:05:32,00:07:58,00:04:57,12:48:34
+ironman-lake-placid-20040725.csv,151,Josh Gray,24,KS,USA,01:01:57,06:44:59,05:46:39,00:07:51,00:07:18,13:48:44
+ironman-lake-placid-20040725.csv,152,Douglas Welling,---,CO,USA,01:03:23,05:39:22,03:53:13,00:04:59,00:02:39,10:43:36
+ironman-lake-placid-20040725.csv,153,Juan Manuel Garcia,---,CT,USA,01:22:46,05:29:59,03:40:12,00:04:17,00:02:43,10:39:57
+ironman-lake-placid-20040725.csv,154,Jonathan Balabuck,---,ON,CAN,00:58:19,05:48:19,03:25:03,00:04:04,00:02:23,10:18:08
+ironman-lake-placid-20040725.csv,155,Andy Brendel,24,IL,USA,01:10:02,05:40:39,03:46:39,00:05:22,00:03:00,10:45:42
+ironman-lake-placid-20040725.csv,156,Mike Monaghan,---,PA,USA,01:11:34,05:35:16,04:33:21,00:08:12,00:03:34,11:31:57
+ironman-lake-placid-20040725.csv,157,Joseph F. Niezgoda Iii,---,NY,USA,01:00:20,05:55:33,04:15:39,00:06:04,00:05:45,11:23:21
+ironman-lake-placid-20040725.csv,158,Daniel A. Rohn,---,IL,USA,01:12:26,06:15:24,04:08:17,00:11:01,00:06:05,11:53:13
+ironman-lake-placid-20040725.csv,159,Eric Burke,23,NY,USA,01:09:42,06:36:01,05:44:28,00:09:27,00:06:26,13:46:04
+ironman-lake-placid-20040725.csv,160,Paul H. Edwards,---,TN,USA,01:12:25,06:37:09,04:18:00,00:07:33,00:05:22,12:20:29
+ironman-lake-placid-20040725.csv,161,Jonathan P. Scher,---,NY,USA,01:18:44,07:52:08,05:21:37,00:16:01,00:12:18,15:00:48
+ironman-lake-placid-20040725.csv,162,Kenneth C. Wallace Iii,---,NY,USA,01:00:44,05:39:39,04:01:15,00:05:45,00:02:32,10:49:55
+ironman-lake-placid-20040725.csv,163,Brian J. Schoenholz,---,MO,USA,01:07:58,06:13:45,05:16:50,00:06:12,00:04:15,12:49:00
+ironman-lake-placid-20040725.csv,164,Matt Mauclair,25,PA,USA,01:03:34,05:21:29,03:46:46,00:05:01,00:01:46,10:18:36
+ironman-lake-placid-20040725.csv,165,James Peichel,25,MN,USA,01:20:46,06:52:29,04:39:32,00:11:13,00:09:52,13:13:52
+ironman-lake-placid-20040725.csv,166,Justin Ryea,25,VT,USA,01:05:42,05:21:16,03:51:52,00:05:10,00:02:04,10:26:04
+ironman-lake-placid-20040725.csv,167,William G. Morris Iii,---,CT,USA,01:05:19,05:46:36,04:11:02,00:07:51,00:04:03,11:14:51
+ironman-lake-placid-20040725.csv,168,Brian Hansen,26,CA,USA,01:12:03,06:19:21,04:43:13,00:07:58,00:03:54,12:26:29
+ironman-lake-placid-20040725.csv,169,William J. Pointer,---,NC,USA,01:03:56,06:12:02,04:32:04,00:09:02,00:06:41,12:03:45
+ironman-lake-placid-20040725.csv,170,Andrew N. Rankin,---,NC,USA,01:18:14,07:13:02,06:13:04,00:13:43,00:05:37,15:03:40
+ironman-lake-placid-20040725.csv,171,Mark Ehrensberger,26,NY,USA,01:12:34,06:41:15,05:57:08,00:12:55,00:08:13,14:12:05
+ironman-lake-placid-20040725.csv,172,Jason D. Heiner,---,VT,USA,01:28:49,07:45:21,05:08:39,00:12:46,00:07:23,14:42:58
+ironman-lake-placid-20040725.csv,173,Cody Brewer,26,TX,USA,01:13:06,06:24:01,04:30:31,00:06:36,00:04:20,12:18:34
+ironman-lake-placid-20040725.csv,174,Matthew Bartlett,26,DC,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,175,Angelo Mascelli,26,NJ,USA,01:03:45,05:42:04,---,00:07:59,00:07:02,DNF
+ironman-lake-placid-20040725.csv,176,Benjy Davies,36,OH,USA,01:10:23,07:08:37,05:08:41,00:09:23,00:05:31,13:42:35
+ironman-lake-placid-20040725.csv,177,Iain M. Shovlin,---,IL,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,178,Gaetan Masson,---,---,FRA,00:59:20,05:28:10,03:50:05,00:06:27,00:03:18,10:27:20
+ironman-lake-placid-20040725.csv,179,Eric Pacenta,26,CA,USA,00:58:15,05:47:45,03:56:01,00:05:53,00:04:41,10:52:35
+ironman-lake-placid-20040725.csv,180,Patrick Allaire,---,QC,CAN,00:58:11,05:12:21,03:13:24,00:06:05,00:03:04,09:33:05
+ironman-lake-placid-20040725.csv,181,Maxime Tardif,26,QC,CAN,01:00:45,05:49:30,03:59:07,00:04:42,00:03:36,10:57:40
+ironman-lake-placid-20040725.csv,182,David Tardif,26,QC,CAN,00:55:27,05:39:16,03:37:20,00:05:11,00:07:04,10:24:18
+ironman-lake-placid-20040725.csv,183,Nathan Smith,26,SC,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,184,Nathan D. Mcbride,---,WA,USA,01:04:15,05:46:16,03:54:38,00:08:05,00:07:22,11:00:36
+ironman-lake-placid-20040725.csv,185,Pj Deschenes,26,MA,USA,00:53:41,05:25:31,03:10:51,00:04:03,00:01:44,09:35:50
+ironman-lake-placid-20040725.csv,186,Jeremy S. Kacuba,---,PA,USA,01:12:05,05:39:12,04:06:06,00:05:11,00:04:01,11:06:35
+ironman-lake-placid-20040725.csv,187,Ramfis O. Aymat Cuadro,---,PR,USA,01:23:09,07:07:24,04:56:03,00:13:10,00:09:31,13:49:17
+ironman-lake-placid-20040725.csv,188,Brian Martin,---,CA,USA,01:20:12,06:59:04,04:53:46,00:07:10,00:03:50,13:24:02
+ironman-lake-placid-20040725.csv,189,Brian D. Diepold,---,DC,USA,00:55:04,05:30:55,03:30:20,00:04:03,00:01:46,10:02:08
+ironman-lake-placid-20040725.csv,190,Christian Parrott,26,NJ,USA,01:25:15,06:07:35,05:33:19,00:08:20,00:05:13,13:19:42
+ironman-lake-placid-20040725.csv,191,Harrison T. Smiddy,---,OH,USA,01:12:22,06:19:08,05:33:42,00:07:54,00:06:39,13:19:45
+ironman-lake-placid-20040725.csv,192,Keith Nobile,---,CA,USA,01:01:55,05:46:18,04:22:42,00:07:26,00:04:20,11:22:41
+ironman-lake-placid-20040725.csv,193,Michael Berry,27,MD,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,194,William K. Hrones,---,VA,USA,01:37:06,07:34:26,05:08:58,00:08:36,00:04:47,14:33:53
+ironman-lake-placid-20040725.csv,195,Kevin Bourke,27,GA,USA,00:58:07,05:32:43,03:53:46,00:07:34,00:04:56,10:37:06
+ironman-lake-placid-20040725.csv,196,Quentin Chu,27,NY,USA,01:04:20,05:46:24,03:38:22,00:05:13,00:02:17,10:36:36
+ironman-lake-placid-20040725.csv,197,Kyle P. Gillooly,---,NC,USA,01:07:23,07:11:45,05:35:14,00:13:11,00:09:05,14:16:38
+ironman-lake-placid-20040725.csv,198,Jason D. Blom,---,MD,USA,00:55:05,05:50:24,04:30:10,00:04:49,00:07:06,11:27:34
+ironman-lake-placid-20040725.csv,199,Blake D. Benke,---,NC,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,200,Maximiliano Morales,---,RN,ARG,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,201,Corey A. Drevlow,---,MN,USA,01:11:16,06:00:31,04:20:54,00:06:54,00:06:26,11:46:01
+ironman-lake-placid-20040725.csv,202,Rocky Deem,27,NC,USA,01:35:28,08:08:31,06:34:40,00:09:52,00:05:43,16:34:14
+ironman-lake-placid-20040725.csv,203,Darryn G. Solotoff,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,204,Brock Butler,27,NJ,USA,01:00:51,05:42:35,03:25:59,00:06:17,00:04:48,10:20:30
+ironman-lake-placid-20040725.csv,205,Greg Land,---,NY,USA,01:33:29,07:05:17,06:03:57,00:07:14,00:05:37,14:55:34
+ironman-lake-placid-20040725.csv,206,Luke R. Hannon,---,NY,USA,01:06:20,05:39:01,03:25:33,00:07:39,00:02:53,10:21:26
+ironman-lake-placid-20040725.csv,207,Kevin Mclane,27,NJ,USA,01:11:24,06:22:10,04:41:08,00:09:09,00:04:16,12:28:07
+ironman-lake-placid-20040725.csv,208,Anson B. Stephens,---,FL,USA,01:07:44,06:03:18,06:02:19,00:05:52,00:03:56,13:23:09
+ironman-lake-placid-20040725.csv,209,Michael J. Egan,---,PA,USA,00:52:26,05:37:58,04:20:15,00:04:44,00:03:29,10:58:52
+ironman-lake-placid-20040725.csv,210,Aaron Levine,27,PA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,211,Aaron Schwartzbard,---,VA,USA,01:03:56,06:24:44,03:18:10,00:05:04,00:03:30,10:55:24
+ironman-lake-placid-20040725.csv,212,John D. Wells,---,VA,USA,01:02:15,08:23:26,05:10:19,00:07:56,00:06:01,14:49:57
+ironman-lake-placid-20040725.csv,213,Matthew T. Carlson,---,RI,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,214,Daniel J. Mendel,---,MN,USA,01:20:26,07:49:10,06:29:00,00:10:46,00:06:07,15:55:29
+ironman-lake-placid-20040725.csv,215,Eric Stanley,27,FL,USA,01:18:20,06:21:49,04:46:34,00:10:12,00:07:56,12:44:51
+ironman-lake-placid-20040725.csv,216,Paul Chen,27,CA,USA,01:01:57,05:21:37,03:46:09,00:05:37,00:01:34,10:16:54
+ironman-lake-placid-20040725.csv,217,Brent A. Young,---,CA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,218,Brett D. Shank,---,MO,USA,01:00:51,06:42:19,04:46:02,00:09:13,00:08:44,12:47:09
+ironman-lake-placid-20040725.csv,219,Ron Lipka,27,PA,USA,00:58:36,05:52:57,03:58:12,00:07:02,00:02:36,10:59:23
+ironman-lake-placid-20040725.csv,220,Jun Watanabe,27,WA,USA,00:58:25,06:14:38,04:56:36,00:06:56,00:05:00,12:21:35
+ironman-lake-placid-20040725.csv,221,Daniel W. Lavigne,---,NH,USA,00:55:13,06:34:14,04:19:28,00:04:25,00:02:49,11:56:09
+ironman-lake-placid-20040725.csv,222,Scott Hamlin,---,MA,USA,01:18:53,06:56:02,05:44:28,00:10:12,00:06:59,14:16:34
+ironman-lake-placid-20040725.csv,223,Jeffrey T. Kramer,---,CT,USA,00:53:36,05:59:55,03:53:28,00:04:10,00:03:27,10:54:36
+ironman-lake-placid-20040725.csv,224,Michael Sullivan,---,NY,USA,01:00:49,06:20:36,04:55:02,00:06:15,00:05:18,12:28:00
+ironman-lake-placid-20040725.csv,225,Ian Heffernan,28,NJ,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,226,David Thompson,43,NC,USA,01:06:39,06:24:53,04:09:36,00:05:58,00:04:52,11:51:58
+ironman-lake-placid-20040725.csv,227,Michael J. Baldinger,---,IL,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,228,Joseph M. Priore,---,NY,USA,01:02:08,06:01:18,05:15:49,00:08:34,00:05:20,12:33:09
+ironman-lake-placid-20040725.csv,229,Matthew Wick,28,TX,USA,00:58:27,05:22:41,04:51:09,00:04:44,00:02:41,11:19:42
+ironman-lake-placid-20040725.csv,230,Dmitry Rozinsky,28,TX,USA,01:15:13,06:53:34,05:12:19,00:11:35,00:05:39,13:38:20
+ironman-lake-placid-20040725.csv,231,Todd S. Shatynski,---,PA,USA,00:55:57,05:15:09,03:18:40,00:05:11,00:03:47,09:38:44
+ironman-lake-placid-20040725.csv,232,Read Hauck,28,TN,USA,01:19:16,07:07:24,06:31:43,00:13:58,00:09:00,15:21:21
+ironman-lake-placid-20040725.csv,233,Jimmy Kelland,---,ON,CAN,00:58:21,05:52:42,04:28:13,00:09:25,00:04:39,11:33:20
+ironman-lake-placid-20040725.csv,234,Jarrod C. Baranowski,---,PA,USA,01:09:50,06:21:35,04:17:08,00:05:43,00:02:36,11:56:52
+ironman-lake-placid-20040725.csv,235,John J. Sellinger Jr,---,VA,USA,01:05:56,06:53:41,05:23:13,00:08:34,00:06:40,13:38:04
+ironman-lake-placid-20040725.csv,236,Trevor Timbeck,---,ON,CAN,01:00:48,05:36:30,03:41:06,00:04:51,00:02:37,10:25:52
+ironman-lake-placid-20040725.csv,237,Andy M. Melton,---,TN,USA,01:16:11,06:44:30,04:58:05,00:12:14,00:07:36,13:18:36
+ironman-lake-placid-20040725.csv,238,Dennis Mckeever,28,NJ,USA,00:58:52,07:36:05,---,00:07:48,00:07:00,DNF
+ironman-lake-placid-20040725.csv,239,Aaron Walters,28,MN,USA,01:00:46,05:58:48,04:10:42,00:05:29,00:04:46,11:20:31
+ironman-lake-placid-20040725.csv,240,Robert J. Vickers,---,NY,USA,01:12:51,06:03:37,---,00:05:13,00:05:54,DNF
+ironman-lake-placid-20040725.csv,241,Steve Garnett,---,NY,USA,01:26:40,06:37:20,04:52:41,00:07:13,00:06:08,13:10:02
+ironman-lake-placid-20040725.csv,242,Steve B. Garnett,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,243,Jonathan K. Jett,---,NY,USA,01:12:57,05:44:30,03:50:26,00:07:42,00:04:04,10:59:39
+ironman-lake-placid-20040725.csv,244,Evan M. Berger,---,NY,USA,01:00:52,---,---,00:06:37,---,DNF
+ironman-lake-placid-20040725.csv,245,William Roberts,---,NY,USA,01:14:07,06:52:28,04:42:22,00:10:14,00:05:47,13:04:58
+ironman-lake-placid-20040725.csv,246,Wallace Holland,---,CA,USA,01:07:34,06:17:16,04:46:13,00:06:32,00:04:50,12:22:25
+ironman-lake-placid-20040725.csv,247,Stan Kozlowski,---,CA,USA,01:10:06,06:17:26,04:53:48,00:06:50,00:06:11,12:34:21
+ironman-lake-placid-20040725.csv,248,Peter M. Kelly,---,CA,USA,01:01:49,05:56:36,04:13:41,00:11:10,00:06:25,11:29:41
+ironman-lake-placid-20040725.csv,249,Jeff Krauss,---,CA,USA,01:10:53,07:22:24,04:56:10,00:15:40,00:16:59,14:02:06
+ironman-lake-placid-20040725.csv,250,Ian Pund,---,WA,USA,01:05:31,05:55:01,04:35:13,00:05:17,00:03:20,11:44:22
+ironman-lake-placid-20040725.csv,251,David J. Lusignan,---,MA,USA,01:20:12,08:11:04,---,00:13:44,00:12:53,DNF
+ironman-lake-placid-20040725.csv,252,Will Whiting,28,CT,USA,01:00:54,06:36:46,04:59:13,00:05:27,00:04:15,12:46:35
+ironman-lake-placid-20040725.csv,253,Greg Christman,---,CA,USA,00:56:41,05:32:00,03:48:30,00:04:33,00:01:38,10:23:22
+ironman-lake-placid-20040725.csv,254,Johnnie Pearson,28,VA,USA,01:05:49,06:10:34,03:55:49,00:11:42,00:05:30,11:29:24
+ironman-lake-placid-20040725.csv,255,Michael Maguire,28,MA,USA,01:11:20,06:20:11,04:35:49,00:07:41,00:07:27,12:22:28
+ironman-lake-placid-20040725.csv,256,Christopher R. Martin,---,NJ,USA,00:52:06,05:20:36,03:30:37,00:05:00,00:02:17,09:50:36
+ironman-lake-placid-20040725.csv,257,Joseph Porter,---,OH,USA,01:08:36,05:24:20,03:43:07,00:08:06,00:04:49,10:28:58
+ironman-lake-placid-20040725.csv,258,Jason Fedok,---,VA,USA,01:21:00,06:27:59,04:34:31,00:08:58,00:06:12,12:38:40
+ironman-lake-placid-20040725.csv,259,Tristan Burton,29,CA,USA,01:14:46,05:56:04,04:18:52,00:08:09,00:05:43,11:43:34
+ironman-lake-placid-20040725.csv,260,Michael Guzek,29,CO,USA,00:56:15,05:41:16,04:39:24,00:05:23,00:02:52,11:25:10
+ironman-lake-placid-20040725.csv,261,Jason D. Morris,---,GA,USA,01:00:48,05:33:35,03:22:52,00:04:43,00:02:06,10:04:04
+ironman-lake-placid-20040725.csv,262,Brian Blount,29,SC,USA,01:15:28,06:13:18,05:05:54,00:09:00,00:04:17,12:47:57
+ironman-lake-placid-20040725.csv,263,Joe Wesolaski,29,MA,USA,01:12:55,06:15:46,04:34:12,00:07:53,00:08:18,12:19:04
+ironman-lake-placid-20040725.csv,264,Mark J. Regis,---,FL,USA,01:28:32,07:48:01,07:15:25,00:12:03,00:07:26,16:51:27
+ironman-lake-placid-20040725.csv,265,Eric Williams,29,ID,USA,01:18:06,05:51:03,04:13:43,00:11:43,00:05:15,11:39:50
+ironman-lake-placid-20040725.csv,266,Karl F. Kozlowski,---,NY,USA,01:12:59,06:43:08,05:32:10,00:12:16,00:14:41,13:55:14
+ironman-lake-placid-20040725.csv,267,Richard Sumida,29,NJ,USA,01:02:04,06:43:21,04:00:40,00:07:01,00:02:33,11:55:39
+ironman-lake-placid-20040725.csv,268,Angel Montanez,29,Baja California,USA,01:18:57,06:57:20,04:52:36,00:08:22,00:08:38,13:25:53
+ironman-lake-placid-20040725.csv,269,Andrew E. Gunther,---,MA,USA,01:06:44,05:37:31,03:43:52,00:05:51,00:03:42,10:37:40
+ironman-lake-placid-20040725.csv,270,Rene R. Haagen,---,NC,USA,01:03:13,06:02:29,04:25:30,00:09:16,00:04:59,11:45:27
+ironman-lake-placid-20040725.csv,271,Patrick S. Kelley,---,NC,USA,00:56:00,06:18:20,04:52:40,00:07:08,00:17:04,12:31:12
+ironman-lake-placid-20040725.csv,272,Chad Farmer,29,IL,USA,01:34:23,08:25:27,06:15:52,00:15:01,00:14:29,16:45:12
+ironman-lake-placid-20040725.csv,273,Craig Skorich,29,OH,USA,01:08:51,06:09:56,05:11:35,00:08:38,00:08:51,12:47:51
+ironman-lake-placid-20040725.csv,274,Alec R. Jorgensen,---,PA,USA,01:05:42,05:57:53,03:51:16,00:06:23,00:03:28,11:04:42
+ironman-lake-placid-20040725.csv,275,Rick Rick,29,OH,USA,01:04:57,06:02:13,04:42:20,00:08:38,00:06:06,12:04:14
+ironman-lake-placid-20040725.csv,276,John Kling,29,FL,USA,01:05:04,05:53:47,04:36:39,00:08:01,00:05:58,11:49:29
+ironman-lake-placid-20040725.csv,277,Alejandro V. Luna,---,CA,USA,00:57:00,06:18:38,04:54:24,00:07:55,00:06:16,12:24:13
+ironman-lake-placid-20040725.csv,278,Wonkee Moon,29,DC,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,279,Eric Perron,---,VT,USA,01:11:24,05:27:28,03:33:28,00:08:57,00:05:33,10:26:50
+ironman-lake-placid-20040725.csv,280,Ryan Kennedy,29,MI,USA,01:05:47,05:35:27,03:01:35,00:05:28,00:02:08,09:50:25
+ironman-lake-placid-20040725.csv,281,Ronald M. Rancourt,---,MA,USA,01:02:04,05:34:37,03:01:06,00:04:27,00:01:41,09:43:55
+ironman-lake-placid-20040725.csv,282,Joey T. Ritorto,---,NV,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,283,Carmello Elie,29,NY,USA,01:19:13,06:25:32,04:38:22,00:06:01,00:05:53,12:35:01
+ironman-lake-placid-20040725.csv,284,Jeff Barnes,29,NJ,USA,00:53:40,06:01:51,04:21:06,00:08:18,00:08:29,11:33:24
+ironman-lake-placid-20040725.csv,285,Mark P. Dadey,---,NY,USA,01:18:38,06:16:23,04:50:24,00:08:19,00:04:36,12:38:20
+ironman-lake-placid-20040725.csv,286,Jeremy L. Johnson,---,MN,USA,01:14:51,06:30:00,04:42:19,00:12:41,00:05:05,12:44:56
+ironman-lake-placid-20040725.csv,287,Aaron Pidde,29,MN,USA,01:11:41,06:43:08,06:08:48,00:11:49,00:08:22,14:23:48
+ironman-lake-placid-20040725.csv,288,Daniel Mcbennett,29,OH,USA,01:32:01,07:32:00,06:30:06,00:17:00,00:15:19,16:06:26
+ironman-lake-placid-20040725.csv,289,Michael Hollywood,29,MA,USA,00:59:57,05:44:24,04:58:04,00:07:54,00:05:09,11:55:28
+ironman-lake-placid-20040725.csv,290,Sean O'Day,29,CO,USA,01:08:10,06:24:14,04:07:09,00:08:39,00:06:38,11:54:50
+ironman-lake-placid-20040725.csv,291,Gregory A. Peichel,---,MN,USA,01:09:08,05:49:19,03:51:32,00:07:01,00:02:28,10:59:28
+ironman-lake-placid-20040725.csv,292,Alex Sherwood,---,NY,USA,00:58:09,05:30:18,04:24:48,00:05:04,00:03:56,11:02:15
+ironman-lake-placid-20040725.csv,293,Tyler Morse,29,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,294,Dan Rech,29,MA,USA,01:21:14,06:18:34,03:40:55,00:11:15,00:05:25,11:37:23
+ironman-lake-placid-20040725.csv,295,Joe J. Meyer,---,NY,USA,00:58:54,05:54:03,03:42:22,00:05:02,00:02:05,10:42:26
+ironman-lake-placid-20040725.csv,296,Alan Hatch,---,NY,USA,01:15:54,06:33:13,04:41:14,00:14:28,00:07:17,12:52:06
+ironman-lake-placid-20040725.csv,297,Gus Ellison,29,CT,USA,01:10:03,05:50:51,04:34:58,00:05:33,00:02:02,11:43:27
+ironman-lake-placid-20040725.csv,298,Chris  GEARY,29,VA,USA,01:05:41,06:28:22,05:25:53,00:10:17,00:05:07,13:15:20
+ironman-lake-placid-20040725.csv,299,Bryan C. Kelley,---,VA,USA,01:01:43,06:30:45,05:39:34,00:09:44,00:10:48,13:32:34
+ironman-lake-placid-20040725.csv,300,Michael Coyle,29,NY,USA,01:00:38,05:46:15,03:57:08,00:05:18,00:03:40,10:52:59
+ironman-lake-placid-20040725.csv,301,Jason Offner,29,CA,USA,01:20:11,07:17:43,05:51:24,00:11:42,00:08:48,14:49:48
+ironman-lake-placid-20040725.csv,302,Ben Bendel,29,TX,USA,01:12:53,06:01:42,04:56:53,00:06:15,00:05:27,12:23:10
+ironman-lake-placid-20040725.csv,303,Nicolas Abramson,29,CA,USA,01:00:42,07:09:51,05:21:22,00:08:22,00:07:12,13:47:29
+ironman-lake-placid-20040725.csv,304,Chris J. Crichton,---,CA,USA,01:04:26,06:07:36,04:26:04,00:06:44,00:04:48,11:49:38
+ironman-lake-placid-20040725.csv,305,Erik W. Black,---,NJ,USA,01:05:32,06:28:37,04:32:28,00:10:17,00:06:20,12:23:14
+ironman-lake-placid-20040725.csv,306,Gary L. Snow,---,VT,USA,00:56:37,05:36:46,03:42:17,00:04:27,00:03:41,10:23:48
+ironman-lake-placid-20040725.csv,307,Jeff S. Tanguay,---,MI,USA,01:28:56,06:38:35,05:06:41,00:08:52,00:04:40,13:27:44
+ironman-lake-placid-20040725.csv,308,Ethan M. Madson,---,CT,USA,01:05:33,06:12:39,05:23:03,00:09:45,00:06:33,12:57:33
+ironman-lake-placid-20040725.csv,309,Brady S. Dehoust,---,VA,USA,01:07:48,05:24:48,03:37:10,00:06:25,00:02:18,10:18:29
+ironman-lake-placid-20040725.csv,310,Mark Thompson,29,---,CAN,01:02:46,05:48:23,04:21:33,00:06:33,00:03:45,11:23:00
+ironman-lake-placid-20040725.csv,311,Eric Strecker,29,CA,USA,01:14:58,06:20:57,05:03:44,00:07:59,00:06:58,12:54:36
+ironman-lake-placid-20040725.csv,312,Jesse C. Freese,---,DC,USA,01:12:23,06:15:27,04:11:50,00:07:32,00:04:38,11:51:50
+ironman-lake-placid-20040725.csv,313,Steve Korbly,29,MA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,314,Stephen R. Miele  Jr.,---,MA,USA,01:08:34,05:35:18,03:21:18,00:07:12,00:05:31,10:17:53
+ironman-lake-placid-20040725.csv,315,Richard Nuttall,29,NJ,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,316,Douglas Barnett,29,MA,USA,01:44:13,07:39:39,05:56:59,00:07:56,00:07:11,15:35:58
+ironman-lake-placid-20040725.csv,317,Justin Maguire,---,WA,USA,00:59:15,05:06:31,03:20:41,00:04:16,00:04:17,09:35:00
+ironman-lake-placid-20040725.csv,318,Jim Donovan,---,CA,USA,01:18:03,06:06:55,04:38:40,00:08:27,00:06:00,12:18:05
+ironman-lake-placid-20040725.csv,319,Michael Ignaffo,---,MI,USA,01:04:23,05:53:55,04:22:40,00:05:12,00:02:50,11:29:00
+ironman-lake-placid-20040725.csv,320,Bobby Standish,30,PA,USA,01:12:03,05:39:41,03:46:58,00:07:50,00:02:32,10:49:04
+ironman-lake-placid-20040725.csv,321,Chris G. Green,---,MA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,322,Franklin R. Smith,---,AL,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,323,Daniel Carroll,18,TX,USA,01:04:28,05:34:35,04:09:48,00:05:56,00:03:45,10:58:32
+ironman-lake-placid-20040725.csv,324,Mark Peters,30,NY,USA,01:29:14,08:00:59,06:24:32,00:08:28,00:03:23,16:06:36
+ironman-lake-placid-20040725.csv,325,Pat Mcneely,30,ON,CAN,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,326,Matthew T. Buese,---,MI,USA,01:03:26,05:24:54,04:28:41,00:06:22,00:05:39,11:09:02
+ironman-lake-placid-20040725.csv,327,Jeffry Buechler,30,CO,USA,01:10:50,05:31:05,03:37:10,00:05:06,00:02:47,10:26:58
+ironman-lake-placid-20040725.csv,328,Garrett H. Timms,---,CT,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,329,Joel Mcmann,30,IL,USA,01:15:08,07:19:49,06:13:57,00:13:53,00:09:48,15:12:35
+ironman-lake-placid-20040725.csv,330,Robert M. Kenney,---,NY,USA,01:04:03,05:52:18,03:39:20,00:09:55,00:05:46,10:51:22
+ironman-lake-placid-20040725.csv,331,James A. Defelice,---,NY,USA,01:28:11,06:47:51,05:35:56,00:09:32,00:10:59,14:12:29
+ironman-lake-placid-20040725.csv,332,Darren Steinhilber,30,NC,USA,01:15:10,06:35:49,04:15:09,00:15:12,00:06:43,12:28:03
+ironman-lake-placid-20040725.csv,333,Benjamin R. Maitre,---,FL,USA,01:06:51,06:02:16,04:16:43,00:06:30,00:02:49,11:35:09
+ironman-lake-placid-20040725.csv,334,Francois Deshaies,---,QC,CAN,01:01:47,06:25:27,05:10:54,00:09:22,00:08:40,12:56:10
+ironman-lake-placid-20040725.csv,335,Andy Vogel,30,NJ,USA,01:22:05,06:25:06,04:23:52,00:09:24,00:04:31,12:24:58
+ironman-lake-placid-20040725.csv,336,Alex Rochette,---,VA,USA,01:38:39,06:36:48,03:47:39,00:08:04,00:05:07,12:16:17
+ironman-lake-placid-20040725.csv,337,Chris Gebhardt,30,NJ,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,338,Chad W. Culver,---,NC,USA,01:11:45,07:00:23,05:00:27,00:09:46,00:08:40,13:31:01
+ironman-lake-placid-20040725.csv,339,Eric Deshaies,30,QC,CAN,01:01:59,05:24:32,03:40:49,00:04:49,00:02:49,10:14:58
+ironman-lake-placid-20040725.csv,340,Terry S. Benson,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,341,Michael Pinto,30,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,342,Bernd Eisele,30,MA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,343,Ryan C. Korsgard,---,TX,USA,01:14:39,06:25:37,03:54:15,00:09:47,00:04:36,11:48:54
+ironman-lake-placid-20040725.csv,344,John S. Henderson,---,HI,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,345,Keisuke Inoue,30,NY,USA,01:18:26,05:55:47,03:52:02,00:08:46,00:04:04,11:19:05
+ironman-lake-placid-20040725.csv,346,Jason R. Gers,---,NJ,USA,01:08:55,05:50:38,03:35:15,00:05:53,00:03:20,10:44:01
+ironman-lake-placid-20040725.csv,347,Marc Bouchard,---,QC,CAN,01:05:52,05:38:09,04:13:57,00:10:20,00:03:58,11:12:16
+ironman-lake-placid-20040725.csv,348,Devin Cashman,30,MA,USA,00:54:06,05:41:13,03:53:49,00:04:56,00:04:09,10:38:13
+ironman-lake-placid-20040725.csv,349,Shawn R. Desjardins,---,CT,USA,01:14:17,06:20:02,05:38:52,00:08:18,00:05:33,13:27:02
+ironman-lake-placid-20040725.csv,350,Jerome H. Isakov,---,NY,USA,01:05:05,05:41:39,04:09:58,00:05:33,00:02:40,11:04:55
+ironman-lake-placid-20040725.csv,351,Michael A. Mann,---,NY,USA,01:23:39,07:02:01,04:59:49,00:12:57,00:07:09,13:45:35
+ironman-lake-placid-20040725.csv,352,Stephen R. Mccarthy,---,NJ,USA,01:14:43,07:06:15,04:46:26,00:08:33,00:06:57,13:22:54
+ironman-lake-placid-20040725.csv,353,Edward Mcdevitt,---,NY,USA,01:06:17,05:50:27,03:43:00,00:06:21,00:04:37,10:50:42
+ironman-lake-placid-20040725.csv,354,Jody Stange,30,CA,USA,01:14:49,05:40:05,04:19:05,00:07:21,00:04:15,11:25:35
+ironman-lake-placid-20040725.csv,355,Kevin Farley,30,NC,USA,01:03:28,05:38:58,03:34:35,00:05:52,00:02:46,10:25:39
+ironman-lake-placid-20040725.csv,356,Angelo R. Lombardi,---,NY,USA,02:07:03,07:06:49,05:14:11,00:06:54,00:07:44,14:42:41
+ironman-lake-placid-20040725.csv,357,Chad Forward,---,ON,CAN,01:20:58,06:36:29,04:36:27,00:11:54,00:09:55,12:55:43
+ironman-lake-placid-20040725.csv,358,Carlos Andrade,---,QC,CAN,01:01:50,05:27:32,03:42:09,00:06:14,00:03:07,10:20:52
+ironman-lake-placid-20040725.csv,359,Paul Fleming,30,---,USA,01:19:05,05:58:27,05:46:30,00:09:58,00:07:13,13:21:13
+ironman-lake-placid-20040725.csv,360,Chad A. Freed,---,AZ,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,361,Steve Gangemi,30,NC,USA,01:01:00,05:28:33,03:27:23,00:05:18,00:03:58,10:06:12
+ironman-lake-placid-20040725.csv,362,Frank M. Szaba,---,NY,USA,01:16:21,06:03:59,04:17:16,00:08:07,00:04:31,11:50:14
+ironman-lake-placid-20040725.csv,363,Andy R. Macdonald,---,VA,USA,01:18:22,07:19:21,---,00:16:39,00:13:26,DNF
+ironman-lake-placid-20040725.csv,364,Shane Kilfoil,30,NC,USA,00:58:11,06:14:28,04:35:34,00:04:40,00:04:32,11:57:25
+ironman-lake-placid-20040725.csv,365,Chris Bennett,---,---,USA,01:15:32,07:56:28,06:47:07,00:14:25,00:08:44,16:22:16
+ironman-lake-placid-20040725.csv,366,Tim Froehlich,30,VA,USA,01:27:52,08:13:15,06:18:30,00:12:17,00:08:32,16:20:26
+ironman-lake-placid-20040725.csv,367,William Lai,30,MA,USA,01:11:06,07:06:52,---,00:10:40,---,DNF
+ironman-lake-placid-20040725.csv,368,Devin Mcdonell,30,---,USA,01:06:48,05:25:09,03:50:00,00:07:23,00:03:53,10:33:13
+ironman-lake-placid-20040725.csv,369,Mike Homes,---,CA,USA,01:11:13,06:10:41,04:30:25,00:11:11,00:05:33,12:09:03
+ironman-lake-placid-20040725.csv,370,Thomas J. Doody,---,AZ,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,371,Christopher G. Treat,---,CT,USA,01:08:53,05:57:43,04:19:26,00:10:20,00:07:32,11:43:54
+ironman-lake-placid-20040725.csv,372,Rob Patterson,30,NY,USA,01:22:35,07:52:21,05:49:10,00:10:58,00:10:04,15:25:08
+ironman-lake-placid-20040725.csv,373,Christopher Jordan,37,NC,USA,01:16:20,06:17:41,04:39:13,00:07:43,00:04:51,12:25:48
+ironman-lake-placid-20040725.csv,375,Chip Griffen,---,IL,USA,01:04:33,06:01:40,04:06:54,00:05:50,00:04:37,11:23:34
+ironman-lake-placid-20040725.csv,376,Tyler Sperry,---,VT,USA,00:58:58,05:41:19,04:26:35,00:04:47,00:04:12,11:15:51
+ironman-lake-placid-20040725.csv,377,Benjamin Yorker,---,NC,USA,01:16:41,06:49:10,04:38:29,00:09:06,00:03:52,12:57:18
+ironman-lake-placid-20040725.csv,378,Christopher C. Ramsey,---,MA,USA,00:59:00,05:20:18,03:17:32,00:04:14,00:02:06,09:43:10
+ironman-lake-placid-20040725.csv,379,Chris Clark,31,VA,USA,01:21:13,06:05:35,04:34:44,00:11:04,00:07:20,12:19:56
+ironman-lake-placid-20040725.csv,380,Kevin Wessinger,---,GA,USA,00:59:24,05:20:54,03:30:33,00:04:13,00:03:16,09:58:20
+ironman-lake-placid-20040725.csv,381,Jeffrey Montgomery,31,WA,USA,01:12:10,05:44:37,04:17:36,00:08:19,00:05:10,11:27:52
+ironman-lake-placid-20040725.csv,382,Vaughn Cooper,31,NH,USA,00:53:21,05:25:13,03:23:31,00:03:55,00:01:59,09:47:59
+ironman-lake-placid-20040725.csv,383,Douglas Pratt,---,---,DEU,00:58:37,05:40:01,03:24:48,00:05:09,00:04:12,10:12:47
+ironman-lake-placid-20040725.csv,384,Jeremy N. Grall,---,WI,USA,01:29:40,07:11:54,06:17:45,00:11:37,00:09:11,15:20:07
+ironman-lake-placid-20040725.csv,385,Eric R. Souza,---,MA,USA,01:15:27,06:28:21,07:28:00,00:09:23,00:14:07,15:35:18
+ironman-lake-placid-20040725.csv,386,Benjamin D. Schwartz,---,GA,USA,01:14:37,06:30:21,05:18:38,00:07:39,00:05:57,13:17:12
+ironman-lake-placid-20040725.csv,387,Matthew J. Sedgwick,---,GA,USA,01:09:04,07:02:38,04:56:30,00:10:03,00:09:44,13:27:59
+ironman-lake-placid-20040725.csv,388,Michael Bassage,31,MI,USA,01:19:12,06:28:00,05:13:22,00:14:50,00:07:23,13:22:47
+ironman-lake-placid-20040725.csv,389,Jason Wrone,31,IL,USA,00:56:46,06:24:19,06:16:08,00:08:51,00:08:10,13:54:14
+ironman-lake-placid-20040725.csv,390,Scott Strode,31,CO,USA,01:09:33,06:12:52,05:10:59,00:06:12,00:04:19,12:43:55
+ironman-lake-placid-20040725.csv,391,Jason Munnis,31,MA,USA,00:58:05,06:15:34,04:31:54,00:07:20,00:07:39,12:00:32
+ironman-lake-placid-20040725.csv,392,James E. Walton,---,NY,USA,00:50:13,05:57:12,04:22:03,00:05:01,00:05:19,11:19:48
+ironman-lake-placid-20040725.csv,393,Ryan Taylor,31,OH,USA,01:05:34,05:49:39,04:33:44,00:06:34,00:02:43,11:38:14
+ironman-lake-placid-20040725.csv,394,Nigel R. Morgan,---,NC,USA,00:58:19,05:26:35,03:27:08,00:06:45,00:04:03,10:02:50
+ironman-lake-placid-20040725.csv,395,Stephan J. Hightower,---,NC,USA,01:19:43,07:19:04,05:05:00,00:09:57,00:04:57,13:58:41
+ironman-lake-placid-20040725.csv,396,Mark C. Malik,---,OH,USA,01:31:23,06:49:40,06:04:37,00:08:50,00:08:07,14:42:37
+ironman-lake-placid-20040725.csv,397,Jason G. Jardine,---,FL,USA,01:05:57,06:03:15,06:34:53,00:05:59,00:05:30,13:55:34
+ironman-lake-placid-20040725.csv,398,Kevin M. Smith,---,CO,USA,01:07:30,05:34:47,04:02:56,00:09:05,00:04:53,10:59:11
+ironman-lake-placid-20040725.csv,399,Jason Maier,31,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,400,Lenny Glick,---,NY,USA,01:05:41,06:27:40,04:58:28,00:08:35,00:07:03,12:47:27
+ironman-lake-placid-20040725.csv,401,Daniel Beck,31,CA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,402,Scott S. Coon,---,VT,USA,01:16:49,07:11:04,06:12:04,00:07:15,00:03:27,14:50:39
+ironman-lake-placid-20040725.csv,403,Shane Kiel,31,NJ,USA,01:05:49,06:02:37,04:35:24,00:08:38,00:04:55,11:57:23
+ironman-lake-placid-20040725.csv,404,Mike Quirk,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,405,Edward Chang,31,NJ,USA,01:20:08,07:57:18,05:42:58,00:11:33,00:08:54,15:20:51
+ironman-lake-placid-20040725.csv,406,Alfonso Bonifasi,32,---,GTM,01:16:40,07:21:46,05:54:35,00:11:50,00:06:51,14:51:42
+ironman-lake-placid-20040725.csv,407,Jay E. Barbus,---,IN,USA,01:21:11,06:37:06,04:30:15,00:10:16,00:09:02,12:47:50
+ironman-lake-placid-20040725.csv,408,Andrew Mcnelly,31,NJ,USA,01:44:21,07:12:21,05:28:59,00:07:52,00:05:06,14:38:39
+ironman-lake-placid-20040725.csv,409,Bill Bulmer,---,ON,CAN,01:05:02,05:53:07,04:36:28,00:10:52,00:07:21,11:52:50
+ironman-lake-placid-20040725.csv,410,Jason Matulewicz,---,MA,USA,01:16:11,06:12:51,04:24:07,00:08:30,00:02:35,12:04:14
+ironman-lake-placid-20040725.csv,411,Christopher Barnes,31,CA,USA,00:54:08,05:42:26,04:00:31,00:05:34,00:05:01,10:47:40
+ironman-lake-placid-20040725.csv,412,Charles Gilbride,31,TX,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,413,Ryan A. Jackson,---,ON,CAN,00:59:52,05:38:56,04:52:18,00:06:07,00:03:12,11:40:25
+ironman-lake-placid-20040725.csv,414,Andre Desmeules,31,QC,CAN,01:01:53,06:05:40,04:06:40,00:05:07,00:02:53,11:22:13
+ironman-lake-placid-20040725.csv,415,Alain Nadeau,31,---,CAN,01:18:35,07:10:51,05:09:50,00:13:44,00:17:24,14:10:24
+ironman-lake-placid-20040725.csv,416,David Bruce,---,PA,USA,01:10:50,07:14:09,04:49:01,00:11:18,00:08:51,13:34:09
+ironman-lake-placid-20040725.csv,417,Christophe Vandaele,31,NY,USA,01:09:13,05:39:53,04:05:59,00:04:46,00:02:43,11:02:34
+ironman-lake-placid-20040725.csv,418,Philip Kiracofe,31,NY,USA,01:22:09,06:22:13,04:24:34,00:12:00,00:05:48,12:26:44
+ironman-lake-placid-20040725.csv,419,Douglas Schwartz,31,CT,USA,01:07:14,05:39:03,04:23:45,00:07:21,00:04:49,11:22:12
+ironman-lake-placid-20040725.csv,420,Todd Bitterman,31,NY,USA,01:25:39,06:31:30,03:59:21,00:12:38,00:09:03,12:18:11
+ironman-lake-placid-20040725.csv,421,Dale Costello,31,---,CAN,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,422,Chris Maley,---,ON,CAN,01:05:58,---,---,00:06:56,---,DNF
+ironman-lake-placid-20040725.csv,423,Patrick M. Beesley,---,KS,USA,01:04:30,06:18:10,05:10:36,00:06:04,00:05:19,12:44:39
+ironman-lake-placid-20040725.csv,424,Nicholas Leavy,31,CA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,425,Ted Molis,31,VA,USA,01:12:57,06:35:43,04:36:01,00:08:53,00:05:30,12:39:04
+ironman-lake-placid-20040725.csv,426,T.J. Sabotka,---,VT,USA,01:11:32,05:38:55,03:31:35,00:05:13,00:02:23,10:29:38
+ironman-lake-placid-20040725.csv,427,Dirk Hallemeier,31,CA,USA,01:09:38,05:34:15,03:51:02,00:06:33,00:04:32,10:46:00
+ironman-lake-placid-20040725.csv,428,Keith C. Shea,---,---,DEU,01:01:49,05:43:03,03:44:11,00:07:24,00:02:42,10:39:09
+ironman-lake-placid-20040725.csv,429,Todd A. Madison,---,GA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,430,Gregory Carli,---,ON,CAN,01:05:56,05:59:52,04:56:00,00:10:50,00:06:51,12:19:29
+ironman-lake-placid-20040725.csv,431,Jonah P. Adley,---,VT,USA,01:04:35,05:39:33,04:37:38,00:06:09,00:02:56,11:30:51
+ironman-lake-placid-20040725.csv,432,Gary Mark,31,British Columbia,CAN,01:14:46,07:31:26,05:10:05,00:13:02,00:11:52,14:21:11
+ironman-lake-placid-20040725.csv,433,Jeff Swartz,31,OH,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,434,Jonathan Kopman,31,ON,CAN,01:16:00,07:28:48,04:34:51,00:13:56,00:06:27,13:40:02
+ironman-lake-placid-20040725.csv,435,Richard Colasanto,---,RI,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,436,Keith M. Alber,---,NY,USA,01:06:40,05:37:27,05:35:08,00:07:01,00:06:41,12:32:57
+ironman-lake-placid-20040725.csv,437,Chris Kraemer,---,ON,CAN,01:04:22,05:39:32,04:09:00,00:06:51,00:04:58,11:04:43
+ironman-lake-placid-20040725.csv,438,Thierry Carriere,31,CO,USA,01:03:27,06:18:23,---,00:05:31,00:08:04,DNF
+ironman-lake-placid-20040725.csv,439,Stephen Matloff,31,CA,USA,01:04:06,06:12:12,05:35:08,00:08:20,00:09:38,13:09:24
+ironman-lake-placid-20040725.csv,440,David I. Mosse,---,CT,USA,00:58:28,05:30:00,03:35:02,00:05:52,00:04:22,10:13:44
+ironman-lake-placid-20040725.csv,441,Jason A. Amadori,---,FL,USA,01:24:23,06:20:40,05:34:36,00:07:40,00:06:32,13:33:51
+ironman-lake-placid-20040725.csv,442,Douglas Recker,---,OH,USA,01:05:56,05:55:20,05:41:35,00:07:45,00:08:13,12:58:49
+ironman-lake-placid-20040725.csv,443,Santiago Gilfond,---,CT,USA,01:35:13,08:30:56,04:34:28,00:13:00,00:08:10,15:01:47
+ironman-lake-placid-20040725.csv,444,Chris Leonard,23,OH,USA,01:14:59,06:38:36,04:36:07,00:11:52,00:06:04,12:47:38
+ironman-lake-placid-20040725.csv,445,Shad Ireland,---,MN,USA,01:20:12,08:13:48,06:35:44,00:09:02,00:06:24,16:25:10
+ironman-lake-placid-20040725.csv,446,Mark Gooding,---,OH,USA,01:18:35,05:41:45,03:58:29,00:06:42,00:05:57,11:11:28
+ironman-lake-placid-20040725.csv,447,Cheyne Gross,32,PA,USA,01:28:49,07:08:56,04:33:36,00:11:06,00:05:42,13:28:09
+ironman-lake-placid-20040725.csv,448,Thomas B. Boyd,---,GA,USA,01:09:23,06:12:19,04:08:04,00:06:36,00:04:32,11:40:54
+ironman-lake-placid-20040725.csv,449,Les Feher,---,ON,CAN,01:11:26,06:00:17,04:44:22,00:07:38,00:03:22,12:07:05
+ironman-lake-placid-20040725.csv,450,Michael D. Horsington,---,NY,USA,01:09:35,05:56:09,04:23:09,00:06:24,00:03:59,11:39:16
+ironman-lake-placid-20040725.csv,451,Michael G. Jantz,---,MD,USA,01:19:46,06:28:25,05:10:39,00:13:54,00:09:34,13:22:18
+ironman-lake-placid-20040725.csv,452,Brian H. Murphy,---,MA,USA,01:07:58,06:02:48,03:50:56,00:06:42,00:03:37,11:12:01
+ironman-lake-placid-20040725.csv,453,Jonathan Roche,32,MA,USA,01:04:10,05:32:09,03:40:08,00:04:48,00:03:32,10:24:47
+ironman-lake-placid-20040725.csv,454,Brian Miller,32,---,CAN,01:21:03,06:47:51,04:55:12,00:09:43,00:09:28,13:23:17
+ironman-lake-placid-20040725.csv,455,Brian J. Carver,---,NY,USA,01:00:57,05:55:04,04:59:40,00:07:38,00:09:50,12:13:09
+ironman-lake-placid-20040725.csv,456,Andrew R. Moynihan,---,NY,USA,01:00:39,06:16:11,04:40:09,00:06:40,00:03:22,12:07:01
+ironman-lake-placid-20040725.csv,457,David G. Bethell,---,AB,CAN,01:12:58,05:49:00,04:51:37,00:05:51,00:03:27,12:02:53
+ironman-lake-placid-20040725.csv,458,David G. Vietmeier Jr.,---,PA,USA,01:03:20,05:14:18,03:23:22,00:04:32,00:02:02,09:47:34
+ironman-lake-placid-20040725.csv,459,Chris Carman,---,FL,USA,01:26:45,07:35:08,06:06:17,00:13:42,00:10:29,15:32:21
+ironman-lake-placid-20040725.csv,460,Tom Ross,---,PA,USA,01:22:26,07:56:58,05:09:34,00:11:38,00:07:10,14:47:46
+ironman-lake-placid-20040725.csv,461,Marc E. Schwartz,---,NC,USA,01:05:56,05:37:44,04:49:17,00:05:31,00:03:48,11:42:16
+ironman-lake-placid-20040725.csv,462,Tim J. O'shea,---,NY,USA,01:09:43,05:19:04,03:28:12,00:06:11,00:03:59,10:07:09
+ironman-lake-placid-20040725.csv,463,Derek Liou,---,CA,USA,01:02:01,05:50:20,04:01:46,00:05:13,00:01:43,11:01:03
+ironman-lake-placid-20040725.csv,464,Andrew Johnston,---,GA,USA,00:56:37,05:15:52,---,00:04:47,00:03:37,DNF
+ironman-lake-placid-20040725.csv,465,Kevin Balfe,32,UT,USA,01:20:04,07:46:07,06:55:03,00:12:03,00:11:00,16:24:17
+ironman-lake-placid-20040725.csv,466,Gordon D. Cherwoniak,---,AB,CAN,01:31:58,07:48:06,06:31:36,00:09:55,00:07:28,16:09:03
+ironman-lake-placid-20040725.csv,467,Brian M. Olitsky,---,FL,USA,01:12:40,07:02:49,06:39:20,00:11:21,00:06:07,15:12:17
+ironman-lake-placid-20040725.csv,468,Dustin Baker,32,MA,USA,01:08:13,05:50:29,03:12:19,00:07:55,00:04:48,10:23:44
+ironman-lake-placid-20040725.csv,469,Michael Robertson,32,NY,USA,00:56:50,05:35:39,04:00:29,00:05:42,00:03:38,10:42:18
+ironman-lake-placid-20040725.csv,470,Christopher Schulten,32,CT,USA,01:08:58,05:19:40,03:36:58,00:05:16,00:02:04,10:12:56
+ironman-lake-placid-20040725.csv,471,Jon Iannaccone,32,NJ,USA,01:11:36,06:31:57,04:19:01,00:11:41,00:05:59,12:20:14
+ironman-lake-placid-20040725.csv,472,David D. Anderson,---,NY,USA,01:19:07,06:33:45,06:02:03,00:13:03,00:09:44,14:17:42
+ironman-lake-placid-20040725.csv,473,Raymond A. Peveri,---,MA,USA,01:17:03,06:32:03,04:41:49,00:07:45,00:07:39,12:46:19
+ironman-lake-placid-20040725.csv,474,Thomas M. Fehringer,---,HI,USA,01:07:33,06:19:50,05:58:57,00:06:40,00:05:13,13:38:13
+ironman-lake-placid-20040725.csv,475,Wayne Warrington,32,HI,USA,01:10:11,06:15:08,05:15:46,00:05:47,00:03:40,12:50:32
+ironman-lake-placid-20040725.csv,476,Michael T. Norman,---,NJ,USA,01:15:33,06:52:08,05:36:19,00:12:25,00:07:53,14:04:18
+ironman-lake-placid-20040725.csv,477,Noel Stradtman,32,WI,USA,01:12:46,06:37:15,04:45:10,00:06:56,00:03:27,12:45:34
+ironman-lake-placid-20040725.csv,478,Kevin Fite,---,MI,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,479,Jason C. Everett,---,GA,USA,01:18:15,06:44:05,04:34:54,00:10:40,00:07:23,12:55:17
+ironman-lake-placid-20040725.csv,480,Chad E. Holloway,---,KY,USA,01:02:26,05:36:40,03:55:27,00:05:37,00:02:14,10:42:24
+ironman-lake-placid-20040725.csv,481,Richard Veres,32,MA,USA,01:26:01,06:45:43,04:13:35,00:12:57,00:10:05,12:48:21
+ironman-lake-placid-20040725.csv,482,William O. Luette,---,NJ,USA,01:14:32,07:18:57,05:26:04,00:12:29,00:22:55,14:34:57
+ironman-lake-placid-20040725.csv,483,Ron Huggins,32,PA,USA,01:07:47,07:42:00,06:31:40,00:08:58,00:06:53,15:37:18
+ironman-lake-placid-20040725.csv,484,Steve A. Ritenour,---,PA,USA,01:22:50,06:09:52,04:24:20,00:09:43,00:04:45,12:11:30
+ironman-lake-placid-20040725.csv,485,Sean S. Hylton,---,FL,USA,01:03:40,06:34:50,05:02:18,00:08:54,00:07:12,12:56:54
+ironman-lake-placid-20040725.csv,486,Kevin R. Fisher,---,MI,USA,01:12:08,06:49:58,04:45:54,00:10:32,00:05:18,13:03:50
+ironman-lake-placid-20040725.csv,487,Michael J. Conlon,---,NY,USA,01:19:20,06:18:13,04:17:48,00:09:55,00:05:04,12:10:20
+ironman-lake-placid-20040725.csv,488,Brian Vegter,32,NY,USA,01:12:37,06:54:00,05:52:18,00:12:53,00:07:46,14:19:34
+ironman-lake-placid-20040725.csv,489,Michael J. Tine,---,VA,USA,01:00:52,05:55:14,05:10:03,00:07:42,00:03:26,12:17:17
+ironman-lake-placid-20040725.csv,490,William Bridel,---,ON,CAN,01:21:08,06:39:21,04:25:23,00:12:03,00:06:09,12:44:04
+ironman-lake-placid-20040725.csv,492,Paul Hart,32,ON,CAN,01:24:26,06:01:00,04:19:59,00:06:24,00:05:35,11:57:24
+ironman-lake-placid-20040725.csv,493,Matthew Collister,---,OH,USA,01:16:32,05:48:08,04:08:13,00:09:56,00:05:33,11:28:22
+ironman-lake-placid-20040725.csv,494,Jason P. Bologna,---,PA,USA,01:17:13,05:37:12,03:12:07,00:06:26,00:03:23,10:16:21
+ironman-lake-placid-20040725.csv,495,Richard L. Anderson,---,PA,USA,01:07:09,05:56:26,04:54:40,00:08:54,00:04:04,12:11:13
+ironman-lake-placid-20040725.csv,496,Cary Mcconlogue,32,NJ,USA,00:52:24,05:30:19,03:26:37,00:04:28,00:04:01,09:57:49
+ironman-lake-placid-20040725.csv,497,David C. Moretz,---,IL,USA,00:58:17,06:07:11,04:07:20,00:05:15,00:03:29,11:21:32
+ironman-lake-placid-20040725.csv,498,Michael Schlacter,---,NV,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,499,Justin Baum,32,GA,USA,01:15:09,05:58:04,04:03:40,00:06:58,00:03:10,11:27:01
+ironman-lake-placid-20040725.csv,500,Mark Shaw,32,NY,USA,01:15:26,06:24:11,05:10:21,00:07:18,00:05:36,13:02:52
+ironman-lake-placid-20040725.csv,501,Matthew Voltoline,---,CA,USA,01:19:22,06:21:05,04:24:48,00:12:03,00:07:00,12:24:18
+ironman-lake-placid-20040725.csv,502,David M. Steele,---,CA,USA,01:04:34,05:37:06,03:37:40,00:07:41,00:04:05,10:31:06
+ironman-lake-placid-20040725.csv,503,Hal Rosenberg,---,CA,USA,01:14:07,06:20:26,04:31:19,00:07:36,00:06:13,12:19:41
+ironman-lake-placid-20040725.csv,504,Tim Watson,---,CA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,505,Christian Youngerman,32,CA,USA,01:15:55,06:10:13,03:39:47,00:12:09,00:05:40,11:23:44
+ironman-lake-placid-20040725.csv,506,Randall J. Swift,---,NY,USA,01:14:48,05:55:41,04:12:27,00:14:31,00:08:06,11:45:33
+ironman-lake-placid-20040725.csv,507,Jamey Mcewen,---,NJ,USA,01:10:11,06:47:27,04:25:36,00:06:33,00:02:57,12:32:44
+ironman-lake-placid-20040725.csv,508,James T. Macwhinnie,---,NY,USA,01:15:03,06:42:02,04:12:46,00:07:01,00:02:58,12:19:50
+ironman-lake-placid-20040725.csv,509,William C. Clark,---,CT,USA,01:30:14,06:48:06,05:12:05,00:07:42,00:11:27,13:49:34
+ironman-lake-placid-20040725.csv,510,John-Patrick Hui,32,QC,CAN,01:17:40,06:14:38,04:17:31,00:07:43,00:03:53,12:01:25
+ironman-lake-placid-20040725.csv,511,Enrique Sanchez,32,---,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,512,Fritz Kreuzer,---,NY,USA,01:13:05,06:17:55,04:31:05,00:07:49,00:07:10,12:17:04
+ironman-lake-placid-20040725.csv,513,John Argus,---,FL,USA,01:14:13,06:30:28,04:55:03,00:12:49,00:08:18,13:00:51
+ironman-lake-placid-20040725.csv,514,Christopher Swere,32,FL,USA,01:22:00,05:55:01,04:19:08,00:10:18,00:06:34,11:53:01
+ironman-lake-placid-20040725.csv,515,Todd Lofrese,32,NC,USA,01:06:15,05:54:17,04:21:04,00:12:10,00:07:44,11:41:30
+ironman-lake-placid-20040725.csv,516,Franqui Jimenez-Marrero,---,MA,USA,00:58:07,05:28:11,03:27:54,00:04:39,00:01:32,10:00:23
+ironman-lake-placid-20040725.csv,517,Dennis Stewart,---,NY,USA,01:21:48,07:17:09,04:57:32,00:08:19,00:05:49,13:50:37
+ironman-lake-placid-20040725.csv,518,John P. Staunton,---,DC,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,519,Scott Hamilton,32,---,CAN,01:05:41,05:34:31,03:50:40,00:05:25,00:02:18,10:38:35
+ironman-lake-placid-20040725.csv,520,Lance Mittelholtz,32,---,CAN,01:17:54,05:35:47,03:29:00,00:05:57,00:02:58,10:31:36
+ironman-lake-placid-20040725.csv,521,Hector Tovar,---,NY,USA,01:03:26,05:20:39,04:14:13,00:08:38,00:03:40,10:50:36
+ironman-lake-placid-20040725.csv,522,Brett A. Daniels,---,GA,USA,01:18:14,06:52:54,05:35:20,00:14:51,00:06:20,14:07:39
+ironman-lake-placid-20040725.csv,523,Gregory Sullivan,32,PA,USA,00:55:21,05:44:15,04:16:50,00:04:15,00:03:02,11:03:43
+ironman-lake-placid-20040725.csv,524,Kevin Engel,---,NC,USA,01:06:45,05:51:21,04:01:30,00:08:23,00:05:02,11:13:01
+ironman-lake-placid-20040725.csv,525,Rob Hesketh,---,AB,CAN,01:22:07,---,---,00:22:37,---,DNF
+ironman-lake-placid-20040725.csv,526,Michael Murray,---,NH,USA,01:20:06,06:20:20,04:49:10,00:08:06,00:02:22,12:40:04
+ironman-lake-placid-20040725.csv,527,Brian Garrity,---,VA,USA,01:39:28,08:34:36,06:15:11,00:13:34,00:09:40,16:52:29
+ironman-lake-placid-20040725.csv,528,Scott Brenner,---,IL,USA,01:15:12,06:21:09,06:32:12,00:11:06,00:06:36,14:26:15
+ironman-lake-placid-20040725.csv,529,Todd Downing,33,OH,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,530,Scott McLallen,33,VA,USA,00:55:25,06:58:24,05:40:59,00:07:54,00:04:58,13:47:40
+ironman-lake-placid-20040725.csv,531,Ted Tierney,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,532,Matt Vertrees,33,NC,USA,01:22:03,06:46:39,04:15:00,00:10:01,00:06:31,12:40:14
+ironman-lake-placid-20040725.csv,533,Tommy Pintacuda,33,NC,USA,01:09:50,06:13:50,04:45:10,00:10:15,00:08:03,12:27:08
+ironman-lake-placid-20040725.csv,534,Andrew Prinz,33,GA,USA,01:11:25,05:22:10,---,00:05:34,00:02:04,DNF
+ironman-lake-placid-20040725.csv,535,Chris Fiacco,---,MD,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,536,Erik Cagnina,33,OH,USA,01:10:30,06:26:04,04:26:20,00:07:17,00:15:25,12:25:36
+ironman-lake-placid-20040725.csv,537,Rafael Martinez,33,CT,USA,01:11:22,05:51:00,05:00:05,00:06:29,00:04:51,12:13:47
+ironman-lake-placid-20040725.csv,538,Christopher Pillsbury,33,MA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,539,Eric Small,33,CO,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,540,Neil Feldman,33,MA,USA,01:04:25,05:38:35,03:40:01,00:06:58,00:02:58,10:32:57
+ironman-lake-placid-20040725.csv,541,Ken Mantei,33,MI,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,542,Robert Beaudoin,---,QC,CAN,00:55:28,05:57:18,04:23:07,00:08:49,00:07:45,11:32:27
+ironman-lake-placid-20040725.csv,543,Ian P. Carleton,---,VT,USA,01:04:38,05:18:25,03:56:15,00:06:11,00:02:37,10:28:06
+ironman-lake-placid-20040725.csv,544,John G. Daly,---,VT,USA,01:16:26,05:53:52,03:59:48,00:10:53,00:05:13,11:26:12
+ironman-lake-placid-20040725.csv,545,Peter A. Mandy,---,MD,USA,01:11:17,06:25:51,04:12:13,00:06:31,00:04:21,12:00:13
+ironman-lake-placid-20040725.csv,546,Patrick Kelliher,33,MA,USA,01:13:47,06:38:42,05:22:50,00:07:32,00:04:18,13:27:09
+ironman-lake-placid-20040725.csv,547,Steve Malik,33,OH,USA,01:21:08,06:25:41,04:57:27,00:07:04,00:06:04,12:57:24
+ironman-lake-placid-20040725.csv,548,Vann R. Gilleland,---,NC,USA,00:56:35,05:59:05,04:25:25,00:06:31,00:05:38,11:33:14
+ironman-lake-placid-20040725.csv,549,Steve Hurry,33,TX,USA,01:09:27,07:09:19,06:16:39,00:13:56,00:06:26,14:55:47
+ironman-lake-placid-20040725.csv,550,Patrick Brown,33,CO,USA,01:25:32,07:45:45,04:49:50,00:10:14,00:06:40,14:18:01
+ironman-lake-placid-20040725.csv,551,Joseph J. Valerio,---,NY,USA,01:11:26,05:52:25,04:11:43,00:08:12,00:05:41,11:29:27
+ironman-lake-placid-20040725.csv,552,John W. Schlosser,---,DE,USA,01:05:26,05:30:04,03:59:26,00:04:54,00:03:04,10:42:54
+ironman-lake-placid-20040725.csv,553,Scott Tobin,33,OH,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,554,Matthew Queen,33,KY,USA,01:23:31,07:00:59,04:44:10,00:15:33,00:11:26,13:35:39
+ironman-lake-placid-20040725.csv,555,Teresa A. Deveaux-Smithers,---,ON,CAN,01:13:04,06:39:31,04:30:58,00:05:49,00:03:56,12:33:18
+ironman-lake-placid-20040725.csv,556,Chris Sipe,33,MD,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,557,Scott G. Hamelin,---,MD,USA,01:43:35,07:40:13,04:50:15,00:08:10,00:05:48,14:28:01
+ironman-lake-placid-20040725.csv,558,David E. Summers,---,CA,USA,01:14:53,06:29:22,04:20:55,00:11:55,00:04:12,12:21:17
+ironman-lake-placid-20040725.csv,559,T.J. Jellinek,33,---,CAN,01:10:12,06:14:12,04:44:48,00:07:25,00:05:36,12:22:13
+ironman-lake-placid-20040725.csv,560,Stephen C. Tackett,---,ME,USA,01:15:34,07:38:38,05:51:35,00:14:16,00:13:52,15:13:55
+ironman-lake-placid-20040725.csv,561,John C. Olsa,---,MI,USA,01:04:17,05:33:35,04:18:58,00:09:17,00:05:35,11:11:42
+ironman-lake-placid-20040725.csv,562,James Crowther,---,CT,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,563,Jorge Enrique Estrada,33,---,GTM,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,564,Larry Offill Iii,33,SC,USA,01:09:30,07:16:12,04:42:33,00:13:12,00:12:01,13:33:28
+ironman-lake-placid-20040725.csv,565,James Byrne,---,NY,USA,01:08:09,05:29:03,04:14:50,00:09:00,00:04:53,11:05:55
+ironman-lake-placid-20040725.csv,566,Alex Bump,33,London,USA,01:04:47,05:53:42,04:09:39,00:08:19,00:05:17,11:21:44
+ironman-lake-placid-20040725.csv,567,Paul Longenderfer,33,NY,USA,01:26:00,06:37:13,05:12:57,00:12:45,00:09:19,13:38:14
+ironman-lake-placid-20040725.csv,568,Keith Watson,33,CO,USA,01:06:13,06:35:52,04:40:59,00:10:07,00:05:48,12:38:59
+ironman-lake-placid-20040725.csv,569,Robert Larcome,33,NH,USA,01:05:32,05:52:10,04:04:49,00:09:45,00:05:29,11:17:45
+ironman-lake-placid-20040725.csv,570,John F. Coyle Iii,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,571,Rocky A. Mcgeary,---,PA,USA,01:12:26,06:10:53,05:13:13,00:12:00,00:09:16,12:57:48
+ironman-lake-placid-20040725.csv,572,David Wessinger,---,ON,CAN,00:56:48,05:32:41,03:48:03,00:04:37,00:02:31,10:24:40
+ironman-lake-placid-20040725.csv,573,Todd D. Greene,---,NJ,USA,01:11:25,06:28:57,04:14:34,00:09:51,00:07:23,12:12:10
+ironman-lake-placid-20040725.csv,574,Derek Theriault,---,QC,CAN,00:52:30,05:32:53,03:34:17,00:06:01,00:03:50,10:09:31
+ironman-lake-placid-20040725.csv,575,Jean-Pierre Gagnon,33,Quebec,CAN,01:04:15,05:55:51,04:32:31,00:09:33,00:08:25,11:50:35
+ironman-lake-placid-20040725.csv,576,Peter G. Christie Jr.,---,MA,USA,01:12:52,06:11:07,04:09:41,00:07:58,00:05:05,11:46:43
+ironman-lake-placid-20040725.csv,577,Matthew J. Sherrick,---,WI,USA,01:14:12,06:08:20,04:04:36,00:09:08,00:06:03,11:42:19
+ironman-lake-placid-20040725.csv,578,Kevin H. Livingston,---,NY,USA,01:16:38,05:38:58,04:04:53,00:07:49,00:04:57,11:13:15
+ironman-lake-placid-20040725.csv,579,Yung Pham,33,NY,USA,01:28:35,06:40:39,04:35:37,00:08:27,00:06:48,13:00:06
+ironman-lake-placid-20040725.csv,580,Daniel L. Theodoro,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,581,Eric Wexler,33,NY,USA,01:11:15,06:21:00,04:06:11,00:08:36,00:05:36,11:52:38
+ironman-lake-placid-20040725.csv,582,Glenn E. Halleck,---,NH,USA,01:19:50,06:03:32,04:53:10,00:10:36,00:06:06,12:33:14
+ironman-lake-placid-20040725.csv,583,Peter Cross,19,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,584,Douglas W. Bath,---,VA,USA,01:12:04,06:18:40,05:16:42,00:09:25,00:09:35,13:06:26
+ironman-lake-placid-20040725.csv,585,Jeffrey T. Kozlowski,---,CT,USA,01:00:48,05:28:19,04:09:36,00:06:00,00:03:29,10:48:12
+ironman-lake-placid-20040725.csv,586,Brian G. Benda,---,MD,USA,00:48:04,06:53:02,04:05:41,00:03:41,00:05:19,11:55:47
+ironman-lake-placid-20040725.csv,587,David Friedrich,33,OH,USA,01:17:50,06:19:58,04:50:52,00:10:02,00:07:40,12:46:22
+ironman-lake-placid-20040725.csv,588,Richard A. Kassar,---,PA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,589,Mark Hunkele,33,PA,USA,01:16:49,05:41:44,03:33:16,00:06:09,00:01:45,10:39:43
+ironman-lake-placid-20040725.csv,590,Matthew Mccutchen,33,CA,USA,00:55:47,05:33:51,03:58:13,00:06:05,00:03:14,10:37:10
+ironman-lake-placid-20040725.csv,591,George S. Maxcey,---,MA,USA,01:16:46,06:57:55,05:44:52,00:12:05,00:09:49,14:21:27
+ironman-lake-placid-20040725.csv,592,Adam Uzelac,33,NY,USA,01:20:20,06:26:58,04:46:08,00:07:46,00:05:32,12:46:44
+ironman-lake-placid-20040725.csv,593,Peter D. Cadwell,---,MA,USA,00:54:41,06:01:01,04:15:39,00:06:45,00:03:32,11:21:38
+ironman-lake-placid-20040725.csv,594,Garrett Pierce,---,MA,USA,01:32:48,07:54:30,05:32:32,00:15:26,00:10:16,15:25:32
+ironman-lake-placid-20040725.csv,595,Pete November,---,CA,USA,01:04:32,05:53:04,03:41:18,00:06:54,00:03:38,10:49:26
+ironman-lake-placid-20040725.csv,596,Matt Merz,33,VA,USA,01:16:06,06:32:49,04:54:35,00:09:33,00:04:45,12:57:48
+ironman-lake-placid-20040725.csv,597,John A. Hood,---,CA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,598,Chris Wilhelm,---,SC,USA,00:54:54,05:47:35,03:33:22,00:05:09,00:02:41,10:23:41
+ironman-lake-placid-20040725.csv,599,Rick Armiger,33,MD,USA,01:10:00,06:14:14,04:26:53,00:09:33,00:07:33,12:08:13
+ironman-lake-placid-20040725.csv,600,Kristopher C. Woods,---,TN,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,601,Andrew Morgan,---,NH,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,602,Patrick Swere,33,FL,USA,01:22:07,05:49:10,03:58:17,00:05:52,00:04:09,11:19:35
+ironman-lake-placid-20040725.csv,603,Alan J. Dillabough,---,ON,CAN,01:18:42,06:50:55,05:09:55,00:14:52,00:11:02,13:45:26
+ironman-lake-placid-20040725.csv,604,Stephan Schmelzer,33,---,CAN,01:11:50,05:59:31,04:17:01,00:09:58,00:06:47,11:45:07
+ironman-lake-placid-20040725.csv,605,Erik Alstrup,33,ON,CAN,01:41:53,06:36:46,04:39:36,00:13:41,00:04:59,13:16:55
+ironman-lake-placid-20040725.csv,606,Bill Duenges,33,CT,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,607,Timothy Punke,33,WA,USA,01:15:38,06:32:14,05:12:36,00:12:33,00:06:45,13:19:46
+ironman-lake-placid-20040725.csv,608,Kyle Yost,33,DC,USA,01:04:22,05:21:38,04:40:10,00:06:10,00:02:26,11:14:46
+ironman-lake-placid-20040725.csv,609,Adam S. Chambers,---,DC,USA,01:11:33,06:08:43,04:54:43,00:06:18,00:03:38,12:24:55
+ironman-lake-placid-20040725.csv,610,Brian P. Carolan,---,CT,USA,01:07:09,06:14:34,05:29:07,00:08:48,00:08:54,13:08:32
+ironman-lake-placid-20040725.csv,611,Peter Spencer,---,MN,USA,01:04:51,05:44:17,04:15:44,00:08:21,00:03:07,11:16:20
+ironman-lake-placid-20040725.csv,612,Jeffrey P. Coudron,---,OH,USA,00:55:26,05:26:49,03:41:28,00:04:17,00:02:19,10:10:19
+ironman-lake-placid-20040725.csv,613,Richard C. Krupa,---,MA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,614,David Kellerman,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,615,Gary R. Lombardo,---,MA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,616,Chandler Tyre,33,CA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,617,David  Glover,33,CO,USA,00:56:34,05:25:13,03:20:23,00:05:02,00:01:50,09:49:02
+ironman-lake-placid-20040725.csv,618,Will Varley,---,NY,USA,01:02:47,05:26:58,03:29:17,00:05:07,00:04:07,10:08:16
+ironman-lake-placid-20040725.csv,619,Brian D. Coates,---,NH,USA,01:16:05,06:13:54,04:55:05,00:07:38,00:03:53,12:36:35
+ironman-lake-placid-20040725.csv,620,Michael G. Orchard,---,ON,CAN,01:08:34,06:55:14,05:48:08,00:07:55,00:06:36,14:06:27
+ironman-lake-placid-20040725.csv,621,Brian E. Schultz,---,NC,USA,00:55:58,---,---,00:05:23,---,DNF
+ironman-lake-placid-20040725.csv,622,David Zadareky,34,VA,USA,01:28:34,08:14:06,05:32:05,00:13:08,00:06:56,15:34:49
+ironman-lake-placid-20040725.csv,623,Kurt Albertson,34,GA,USA,01:14:09,05:29:00,03:29:37,00:08:35,00:02:21,10:23:42
+ironman-lake-placid-20040725.csv,624,Harry W. Dinham,---,GA,USA,01:06:50,06:05:20,05:46:15,00:11:06,00:14:37,13:24:08
+ironman-lake-placid-20040725.csv,625,Paul Phillips,---,OH,USA,01:07:12,06:31:12,03:55:36,00:09:19,00:05:38,11:48:57
+ironman-lake-placid-20040725.csv,626,Robert Whitcher,34,TX,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,627,Marcel Blom,34,MA,USA,01:00:49,05:52:47,05:35:34,00:05:33,00:04:31,12:39:14
+ironman-lake-placid-20040725.csv,628,Scott Glenn,34,CO,USA,01:06:50,05:39:47,03:38:22,00:08:29,00:04:29,10:37:57
+ironman-lake-placid-20040725.csv,629,Sean  Duffy,26,NY,USA,01:22:06,06:03:58,04:00:01,00:06:39,00:06:37,11:39:21
+ironman-lake-placid-20040725.csv,630,Eric Weigeshoff,34,NY,USA,01:27:51,07:09:00,05:07:03,00:12:57,00:10:08,14:06:59
+ironman-lake-placid-20040725.csv,631,Jeff Aronis,34,MA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,632,Joseph E. Baus,---,ON,CAN,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,633,Bob Sayler,---,NC,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,634,David Berkoff,34,NC,USA,01:11:21,05:53:49,04:12:46,00:07:30,00:04:53,11:30:19
+ironman-lake-placid-20040725.csv,635,Daniel Parker,---,NC,USA,01:17:00,06:24:19,04:40:28,00:11:15,00:06:00,12:39:02
+ironman-lake-placid-20040725.csv,637,Peter Daly,34,CT,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,638,Larry Herr,34,CO,USA,00:50:07,06:09:06,05:08:11,00:07:19,00:07:08,12:21:51
+ironman-lake-placid-20040725.csv,639,Mark Spina,34,NJ,USA,01:22:36,06:18:38,04:00:56,00:11:01,00:04:11,11:57:22
+ironman-lake-placid-20040725.csv,640,John Eversole,34,TX,USA,01:07:06,07:01:27,---,00:08:04,00:07:16,DNF
+ironman-lake-placid-20040725.csv,641,Michael Renavitz,34,NJ,USA,02:01:43,07:58:10,05:43:19,00:09:13,00:08:00,16:00:25
+ironman-lake-placid-20040725.csv,642,Tom Putney,34,NJ,USA,01:19:09,06:58:30,06:33:29,00:10:44,00:11:36,15:13:28
+ironman-lake-placid-20040725.csv,643,John H. Cooper,---,ME,USA,01:05:43,05:41:34,03:56:40,00:06:00,00:02:38,10:52:35
+ironman-lake-placid-20040725.csv,644,Gabriel Lopez,34,Intl State,GTM,01:18:15,06:26:17,05:13:03,00:08:48,00:08:12,13:14:35
+ironman-lake-placid-20040725.csv,645,Dave Becker,34,NJ,USA,01:05:05,05:50:42,05:22:11,00:08:49,00:12:14,12:39:01
+ironman-lake-placid-20040725.csv,646,Chris J. Kidd,---,NY,USA,01:08:06,06:13:41,04:46:20,00:06:16,00:03:07,12:17:30
+ironman-lake-placid-20040725.csv,647,Adam Duncan,34,NJ,USA,01:08:35,05:54:49,04:27:47,00:07:07,00:04:22,11:42:40
+ironman-lake-placid-20040725.csv,648,Jason S. Norman,---,NJ,USA,01:12:54,06:00:21,04:43:31,00:06:43,00:06:00,12:09:29
+ironman-lake-placid-20040725.csv,649,Rich Biedermann,34,DE,USA,01:19:50,07:02:54,06:05:45,00:13:19,00:09:12,14:51:00
+ironman-lake-placid-20040725.csv,650,Steve Vasilakos,34,NV,USA,01:10:07,05:49:29,04:18:08,00:06:23,00:05:11,11:29:18
+ironman-lake-placid-20040725.csv,651,Jeffrey C. Tracy,---,NY,USA,01:08:57,06:21:09,05:04:45,00:07:31,00:03:32,12:45:54
+ironman-lake-placid-20040725.csv,652,Michael Stromsoe,34,---,GBR,01:00:41,05:57:45,04:02:28,00:07:59,00:04:54,11:13:47
+ironman-lake-placid-20040725.csv,653,John Arledge,34,CA,USA,01:14:54,06:09:30,04:40:02,00:07:11,00:03:34,12:15:11
+ironman-lake-placid-20040725.csv,654,Michael Hilliard,34,TX,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,655,Jon W. Poe,---,TX,USA,01:13:51,06:43:25,05:24:30,00:10:55,00:11:29,13:44:10
+ironman-lake-placid-20040725.csv,656,John T. Marshall,---,FL,USA,01:04:58,05:29:41,03:35:09,00:05:59,00:03:02,10:18:49
+ironman-lake-placid-20040725.csv,657,Ivan Popgruev,34,TX,USA,01:20:06,06:10:00,05:54:35,00:08:36,00:09:03,13:42:20
+ironman-lake-placid-20040725.csv,658,Kent Smith,34,MN,USA,01:12:00,06:04:32,04:34:03,00:11:20,00:05:18,12:07:13
+ironman-lake-placid-20040725.csv,659,Simon Langham,34,---,CAN,01:23:47,06:36:48,04:47:44,00:09:16,00:08:41,13:06:16
+ironman-lake-placid-20040725.csv,660,Jocelyn Lippe,34,---,CAN,01:09:42,06:30:18,04:54:08,00:05:43,00:06:39,12:46:30
+ironman-lake-placid-20040725.csv,661,Brian E. Butson,---,OK,USA,01:38:31,08:29:37,06:03:30,00:08:05,00:05:20,16:25:03
+ironman-lake-placid-20040725.csv,662,David Peichel,34,MN,USA,01:19:24,06:21:09,04:14:07,00:07:55,00:01:58,12:04:33
+ironman-lake-placid-20040725.csv,663,Frankie M. Vigna,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,664,Brison Bickerton,34,CT,USA,01:13:00,05:42:44,03:47:08,00:07:39,00:03:57,10:54:28
+ironman-lake-placid-20040725.csv,665,Greg J. Jensen,---,NY,USA,01:16:10,06:05:58,04:15:00,00:07:01,00:06:30,11:50:39
+ironman-lake-placid-20040725.csv,666,Peter Klein,34,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,667,Ritz Yap,34,NJ,USA,01:04:25,06:45:51,05:33:57,00:10:21,00:10:25,13:44:59
+ironman-lake-placid-20040725.csv,668,Jeff Kho,34,OH,USA,01:00:49,05:40:08,03:54:26,00:06:23,00:03:45,10:45:31
+ironman-lake-placid-20040725.csv,669,Corey P. Case,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,670,John Zahab,34,---,CAN,01:14:37,06:10:01,04:37:26,00:10:50,00:10:35,12:23:29
+ironman-lake-placid-20040725.csv,671,Christopher Strattner,34,NY,USA,01:18:36,06:34:11,04:55:55,00:08:07,00:05:31,13:02:20
+ironman-lake-placid-20040725.csv,672,Kenny Osborn,34,CT,USA,00:55:03,05:51:39,03:58:00,00:04:50,00:03:01,10:52:33
+ironman-lake-placid-20040725.csv,673,Michael Villano,34,NY,USA,01:21:29,07:34:24,04:56:25,00:12:03,00:07:52,14:12:13
+ironman-lake-placid-20040725.csv,674,Stephen Smith,34,VA,USA,00:53:43,05:38:49,03:49:35,00:04:12,00:02:59,10:29:18
+ironman-lake-placid-20040725.csv,675,Matthew J. Kresge,---,NY,USA,01:16:06,05:56:18,03:57:13,00:06:53,00:03:45,11:20:15
+ironman-lake-placid-20040725.csv,676,Ernest R. Ledesma,---,GA,USA,01:09:11,06:31:39,05:25:13,00:11:24,00:05:03,13:22:30
+ironman-lake-placid-20040725.csv,677,Thaison Do,34,RI,USA,01:44:23,06:54:02,04:42:09,00:07:12,00:09:41,13:37:27
+ironman-lake-placid-20040725.csv,678,Fernando Chilvarguer,34,CA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,679,Angus Kim,34,ON,CAN,01:25:46,07:08:16,05:57:03,00:09:59,00:09:28,14:50:32
+ironman-lake-placid-20040725.csv,680,Richard Belliss,34,NY,USA,01:24:14,08:25:02,06:05:49,00:12:32,00:11:40,16:19:17
+ironman-lake-placid-20040725.csv,681,Jim Griffiths,34,PA,USA,00:53:44,05:52:35,03:32:08,00:04:28,00:04:09,10:27:04
+ironman-lake-placid-20040725.csv,682,Toralf Peters,---,SD,USA,01:15:38,05:53:08,04:08:12,00:06:18,00:02:39,11:25:55
+ironman-lake-placid-20040725.csv,683,Paul Balkan,34,VT,USA,01:15:38,06:32:12,05:12:35,00:12:33,00:06:49,13:19:47
+ironman-lake-placid-20040725.csv,684,Ben R. Clark,---,MN,USA,01:10:01,06:20:27,---,00:07:35,00:04:21,DNF
+ironman-lake-placid-20040725.csv,685,Kevin J. Becker,---,PA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,686,Francois Rivard,34,QC,CAN,00:55:25,06:00:23,06:50:25,00:06:22,00:03:56,13:56:31
+ironman-lake-placid-20040725.csv,687,James Grohman,34,VA,USA,01:09:32,06:12:48,05:29:40,00:10:28,00:07:22,13:09:50
+ironman-lake-placid-20040725.csv,688,Patrick Schryburt,34,BC,CAN,01:11:17,06:24:17,03:46:10,00:07:09,00:06:25,11:35:18
+ironman-lake-placid-20040725.csv,689,Eric E. Stouck,---,WA,USA,01:23:33,06:58:50,04:26:06,00:14:54,00:06:42,13:10:05
+ironman-lake-placid-20040725.csv,690,Timothy K. Penfield,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,691,Don C. Haddox,---,VT,USA,01:12:35,06:54:25,05:16:07,00:12:54,00:07:55,13:43:56
+ironman-lake-placid-20040725.csv,692,Matthew H. Wheelock,---,DC,USA,01:16:10,06:32:15,04:33:07,00:06:59,00:04:46,12:33:17
+ironman-lake-placid-20040725.csv,693,Kevin Leske,34,MA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,694,Justin E. Fabian,---,ON,CAN,01:03:21,05:48:18,04:46:15,00:09:57,00:06:41,11:54:32
+ironman-lake-placid-20040725.csv,695,John Wozny,34,MA,USA,01:10:18,06:00:30,05:41:26,00:07:44,00:06:53,13:06:51
+ironman-lake-placid-20040725.csv,696,Michael P. Fogerty,---,MA,USA,01:14:44,05:44:28,03:57:43,00:08:54,00:08:35,11:14:24
+ironman-lake-placid-20040725.csv,697,Eric C. Appelbaum,---,NY,USA,01:09:43,06:08:56,03:57:13,00:07:12,00:04:16,11:27:20
+ironman-lake-placid-20040725.csv,698,John Colantino,34,MA,USA,01:35:28,07:55:59,05:29:37,00:11:07,00:07:00,15:19:11
+ironman-lake-placid-20040725.csv,699,Mickey Cassu,34,NJ,USA,01:07:54,05:24:56,04:10:22,00:05:14,00:02:07,10:50:33
+ironman-lake-placid-20040725.csv,700,Donald L. Griffin,---,NJ,USA,01:04:29,06:04:37,04:23:27,00:07:55,00:04:32,11:45:00
+ironman-lake-placid-20040725.csv,701,James Strain,---,MA,USA,00:57:10,05:48:00,04:07:15,00:05:27,00:03:43,11:01:35
+ironman-lake-placid-20040725.csv,702,Michael Stone,---,CO,USA,01:16:13,06:08:35,05:03:10,00:09:51,00:04:54,12:42:43
+ironman-lake-placid-20040725.csv,703,Shane Meehan,---,NY,USA,00:55:23,05:34:22,04:58:30,00:04:50,00:02:54,11:35:59
+ironman-lake-placid-20040725.csv,704,Eric Scheffler,---,NY,USA,01:05:16,05:35:28,04:00:55,00:05:49,00:04:41,10:52:09
+ironman-lake-placid-20040725.csv,705,John Daly,33,VT,USA,01:32:41,07:20:27,05:04:09,00:06:46,00:09:51,14:13:54
+ironman-lake-placid-20040725.csv,706,Chris Dumont,---,NJ,USA,01:12:51,07:32:13,04:54:08,00:12:35,00:08:12,13:59:59
+ironman-lake-placid-20040725.csv,707,Ross Hoopingarner,35,CA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,708,David B. Hanks,---,TX,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,709,Mark K. Satkiewicz,---,OR,USA,01:05:57,05:36:08,04:17:20,00:05:37,00:03:08,11:08:10
+ironman-lake-placid-20040725.csv,710,Mike Meyers,30,CA,CAN,01:06:00,06:00:37,04:47:19,00:07:23,00:05:35,12:06:54
+ironman-lake-placid-20040725.csv,711,Mike Guenther,---,NY,USA,01:37:36,07:20:04,06:36:05,00:08:47,00:11:57,15:54:29
+ironman-lake-placid-20040725.csv,712,Chris D. Klebe,---,MD,USA,01:06:22,06:11:31,03:51:15,00:09:30,00:03:37,11:22:15
+ironman-lake-placid-20040725.csv,713,Trevor Syversen,---,NY,USA,01:03:31,05:40:42,03:45:33,00:05:21,00:03:31,10:38:38
+ironman-lake-placid-20040725.csv,714,Ramon Pinon Iv,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,715,Jack L. Smith,---,NY,USA,01:15:13,05:49:57,04:16:59,00:06:51,00:03:16,11:32:16
+ironman-lake-placid-20040725.csv,716,Pierre Beaudoin,35,---,CAN,01:06:39,05:30:22,04:17:32,00:09:53,00:05:27,11:09:53
+ironman-lake-placid-20040725.csv,717,Stephen A. Mcdowell,---,MA,USA,01:04:11,06:23:06,05:20:26,00:09:20,00:07:38,13:04:41
+ironman-lake-placid-20040725.csv,718,Sam Record,35,MA,USA,01:51:07,06:14:48,04:21:48,00:10:11,00:06:41,12:44:35
+ironman-lake-placid-20040725.csv,719,Joseph A. Dieterle,---,OH,USA,01:09:35,06:11:21,03:50:55,00:08:10,00:05:34,11:25:35
+ironman-lake-placid-20040725.csv,720,Kevin Curtin,35,NJ,USA,01:08:13,05:34:55,03:44:34,00:04:58,00:04:12,10:36:52
+ironman-lake-placid-20040725.csv,721,Pierre P. Radecki,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,722,Hokan Ojert,35,GA,USA,01:17:44,05:54:47,04:28:44,00:06:57,00:03:49,11:52:01
+ironman-lake-placid-20040725.csv,723,Yan Simard,35,---,CAN,01:19:15,06:15:53,03:51:09,00:09:04,00:06:39,11:42:00
+ironman-lake-placid-20040725.csv,724,Steven Niedzwiecki,35,NJ,USA,01:16:24,06:02:00,04:42:11,00:13:10,00:09:31,12:23:16
+ironman-lake-placid-20040725.csv,725,Peter Tufo,35,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,726,Scott A. Schmidt,35,NC,USA,01:09:29,06:03:12,04:35:08,00:07:27,00:03:54,11:59:10
+ironman-lake-placid-20040725.csv,727,Douglas P. Brede,---,FL,USA,01:05:52,06:30:02,03:44:39,00:08:25,00:07:41,11:36:39
+ironman-lake-placid-20040725.csv,728,John V. Marino,---,NV,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,729,Sam M. Farraj,---,MD,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,730,Victor M. Asturias,---,---,GTM,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,731,Mark A. Watling,---,ON,CAN,01:19:52,05:58:38,03:47:42,00:10:50,00:06:48,11:23:50
+ironman-lake-placid-20040725.csv,732,Steven Lopiccolo,35,NY,USA,01:11:23,07:25:31,05:25:54,00:08:16,00:07:25,14:18:29
+ironman-lake-placid-20040725.csv,733,Hector Santaella,35,FL,USA,00:55:25,06:03:50,04:01:32,00:10:26,00:04:16,11:15:29
+ironman-lake-placid-20040725.csv,734,Andrew Lozier,35,---,CAN,01:18:45,07:39:43,05:04:10,00:14:02,00:06:44,14:23:24
+ironman-lake-placid-20040725.csv,735,Sam Shaw,35,NE,USA,01:11:42,05:49:52,03:35:20,00:07:13,00:04:54,10:49:01
+ironman-lake-placid-20040725.csv,736,Isabelle Rousseau,---,QC,CAN,00:56:36,06:09:28,03:52:40,00:05:42,00:02:50,11:07:16
+ironman-lake-placid-20040725.csv,737,Jonathan C. Mosher,---,CA,USA,01:08:56,06:23:59,04:26:27,00:07:19,00:08:07,12:14:48
+ironman-lake-placid-20040725.csv,738,Thomas C. Brunold,---,WI,USA,00:58:56,05:13:01,03:10:19,00:06:05,00:04:08,09:32:29
+ironman-lake-placid-20040725.csv,739,Michael P. Peters,---,FL,USA,01:04:53,05:19:32,03:38:05,00:04:53,00:02:35,10:09:58
+ironman-lake-placid-20040725.csv,740,Roger J. Hospedales,---,ON,CAN,01:24:44,06:52:49,04:48:24,00:09:05,00:07:01,13:22:03
+ironman-lake-placid-20040725.csv,741,Rino Ruzich,35,---,CAN,01:04:18,06:10:36,05:20:17,00:06:44,00:05:48,12:47:43
+ironman-lake-placid-20040725.csv,742,Daniel Esson,---,QC,CAN,01:23:51,06:44:06,04:45:08,00:12:09,00:10:25,13:15:39
+ironman-lake-placid-20040725.csv,743,Oj Espinosa,35,NJ,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,744,Gunil Chung,---,NY,USA,01:23:11,07:20:22,05:49:51,00:07:58,00:10:29,14:51:51
+ironman-lake-placid-20040725.csv,745,Matthew Donaldson,35,NY,USA,01:14:54,06:22:59,04:56:01,00:07:59,00:05:05,12:46:58
+ironman-lake-placid-20040725.csv,746,Thomas J. Egan,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,747,David Rich,35,NY,USA,01:30:19,06:53:08,05:36:06,00:09:56,00:05:03,14:14:32
+ironman-lake-placid-20040725.csv,748,Pj Lovely,35,NH,USA,01:19:42,06:13:22,04:59:08,00:10:43,00:06:15,12:49:10
+ironman-lake-placid-20040725.csv,749,James M. Pouillon,---,RI,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,750,Jeff Johnson,35,OK,USA,01:20:43,08:00:33,06:25:00,00:10:50,00:09:47,16:06:53
+ironman-lake-placid-20040725.csv,751,Colin Murray,35,---,CAN,01:14:41,06:07:38,04:25:19,00:10:17,00:06:10,12:04:05
+ironman-lake-placid-20040725.csv,752,Joseph Desena,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,753,Joe Price,35,IN,USA,01:22:46,06:53:34,05:03:51,00:11:38,00:07:17,13:39:06
+ironman-lake-placid-20040725.csv,754,Gregory R. Wollen,---,NY,USA,01:21:02,06:55:12,05:11:01,00:13:59,00:08:46,13:50:00
+ironman-lake-placid-20040725.csv,755,Randy L. Kelley,---,NY,USA,00:59:26,05:44:28,04:22:55,00:05:47,00:03:28,11:16:04
+ironman-lake-placid-20040725.csv,756,William Riggs,---,MD,USA,01:25:53,07:22:53,06:26:26,00:17:42,00:15:23,15:48:17
+ironman-lake-placid-20040725.csv,757,John Goodell,35,VT,USA,01:16:22,05:31:51,03:46:57,00:07:39,00:04:35,10:47:24
+ironman-lake-placid-20040725.csv,758,Paul Timmons,35,DE,USA,01:12:18,06:06:28,04:28:44,00:07:33,00:03:47,11:58:50
+ironman-lake-placid-20040725.csv,759,Chris Kujawa,35,NH,USA,01:30:34,07:36:51,05:53:36,00:07:51,00:05:50,15:14:42
+ironman-lake-placid-20040725.csv,760,Joseph P. Mcmahon,---,NY,USA,01:22:45,07:32:47,05:30:25,00:07:33,00:06:00,14:39:30
+ironman-lake-placid-20040725.csv,761,Alain Leclair,35,---,CAN,00:56:33,05:31:43,04:28:56,00:07:20,00:05:24,11:09:56
+ironman-lake-placid-20040725.csv,762,Jonathan Bennett,---,MI,USA,01:07:36,05:26:17,03:41:22,00:05:39,00:02:54,10:23:48
+ironman-lake-placid-20040725.csv,763,Chris Arnold,---,MO,USA,01:22:11,06:01:43,04:33:57,00:09:05,00:05:02,12:11:58
+ironman-lake-placid-20040725.csv,764,Robert F. Walters,---,NY,USA,01:05:03,06:05:39,04:54:29,00:10:09,00:07:15,12:22:35
+ironman-lake-placid-20040725.csv,765,Michael A. Endieveri,---,NY,USA,01:11:12,06:54:39,05:09:28,00:10:50,00:09:07,13:35:16
+ironman-lake-placid-20040725.csv,766,Stephen J. Bosic,---,MA,USA,00:55:01,05:47:39,04:00:30,00:06:53,00:04:22,10:54:25
+ironman-lake-placid-20040725.csv,767,Steven J. Lombardo,---,MA,USA,01:08:20,05:14:49,03:48:31,00:05:53,00:02:37,10:20:10
+ironman-lake-placid-20040725.csv,768,Jason A. Chasse,---,NH,USA,01:14:49,05:58:48,05:01:06,00:07:45,00:07:27,12:29:55
+ironman-lake-placid-20040725.csv,769,Rudolf Kardos,---,CA,USA,00:55:00,05:41:52,03:51:10,00:04:22,00:03:22,10:35:46
+ironman-lake-placid-20040725.csv,770,Scott Chadwick,35,NV,USA,00:58:18,06:22:37,05:16:47,00:07:37,00:05:31,12:50:50
+ironman-lake-placid-20040725.csv,771,"Robert B. O'Connell, Jr.",---,MA,USA,01:23:43,06:55:38,04:42:36,00:08:43,00:05:53,13:16:33
+ironman-lake-placid-20040725.csv,772,James A. Crolle Iii,---,DC,USA,01:25:20,07:00:47,05:03:40,00:12:08,00:12:09,13:54:04
+ironman-lake-placid-20040725.csv,773,Matthew Poffenroth,35,MD,USA,01:05:46,05:43:05,03:50:42,00:05:42,00:03:24,10:48:39
+ironman-lake-placid-20040725.csv,774,Clint Tebbetts,---,CT,USA,01:31:20,06:47:21,07:05:55,00:09:53,00:14:54,15:49:23
+ironman-lake-placid-20040725.csv,775,Michael A. Mitchell,---,NJ,USA,01:14:44,05:55:45,03:44:38,00:06:45,00:05:10,11:07:02
+ironman-lake-placid-20040725.csv,776,Brendan Moyna,35,NY,USA,00:58:24,06:01:28,04:01:39,00:07:23,00:07:11,11:16:05
+ironman-lake-placid-20040725.csv,777,John Billette,---,MI,USA,01:36:09,06:34:49,04:17:19,00:08:31,00:06:16,12:43:04
+ironman-lake-placid-20040725.csv,778,Alan Villavicencio,---,CO,USA,01:10:26,05:11:38,03:27:21,00:05:47,00:01:33,09:56:45
+ironman-lake-placid-20040725.csv,779,Dean Pentikis,---,NJ,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,780,Bob Vance,---,CO,USA,01:30:04,07:01:21,05:05:08,00:12:38,00:07:36,13:56:47
+ironman-lake-placid-20040725.csv,781,Tony Pallotta,---,MA,USA,01:10:42,06:22:22,04:44:15,00:12:29,00:06:42,12:36:30
+ironman-lake-placid-20040725.csv,782,Larry Lanza,36,WI,USA,00:55:22,05:35:36,03:50:50,00:04:14,00:03:27,10:29:29
+ironman-lake-placid-20040725.csv,783,David Panitz,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,784,Erik Azulay,---,TX,USA,01:15:23,07:29:09,05:45:39,00:06:23,00:07:25,14:43:59
+ironman-lake-placid-20040725.csv,785,Kevin A. Walter,---,PA,USA,01:25:03,06:36:13,05:35:14,00:08:05,00:05:42,13:50:17
+ironman-lake-placid-20040725.csv,786,Saulius P. Puskorius,---,VA,USA,01:08:08,05:29:28,03:32:58,00:05:52,00:03:35,10:20:01
+ironman-lake-placid-20040725.csv,787,Kent Damon,---,MA,USA,01:02:02,05:36:57,03:43:19,00:06:19,00:04:49,10:33:26
+ironman-lake-placid-20040725.csv,788,Andrew Lawlor,36,---,CAN,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,789,Erick J. Lucera,---,MA,USA,01:33:00,08:33:20,05:41:00,00:12:33,00:07:14,16:07:07
+ironman-lake-placid-20040725.csv,790,David Obrien,42,---,USA,01:09:53,06:24:21,04:38:40,00:09:07,00:04:09,12:26:10
+ironman-lake-placid-20040725.csv,791,Rick Woltenberg,36,TX,USA,00:54:20,06:13:08,04:39:37,00:06:56,00:04:43,11:58:44
+ironman-lake-placid-20040725.csv,792,John Becker,36,CO,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,793,Frank Gafford,36,PA,USA,01:22:06,06:28:10,05:17:18,00:08:22,00:04:18,13:20:14
+ironman-lake-placid-20040725.csv,794,Charles Banks,36,TX,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,795,Steve Kimball,36,MA,USA,01:11:09,05:34:32,03:46:38,00:04:57,00:02:05,10:39:21
+ironman-lake-placid-20040725.csv,796,Ali Azarbayejani,36,MA,USA,01:01:58,05:49:24,03:22:04,00:06:03,00:04:32,10:24:01
+ironman-lake-placid-20040725.csv,797,C. Robert Suarez,36,MA,USA,01:04:40,07:06:10,04:47:06,00:10:26,00:07:11,13:15:33
+ironman-lake-placid-20040725.csv,798,Jim Larsen,36,FL,USA,01:34:17,---,---,00:09:48,---,DNF
+ironman-lake-placid-20040725.csv,799,Eduard Korat,---,CA,USA,01:04:55,05:15:46,03:02:24,00:04:52,00:03:20,09:31:17
+ironman-lake-placid-20040725.csv,800,Timothy Smith,46,VA,USA,01:17:02,06:37:29,05:31:04,00:08:19,00:05:15,13:39:09
+ironman-lake-placid-20040725.csv,801,Kevin Park,36,OH,USA,01:09:39,05:39:14,04:52:51,00:07:43,00:05:18,11:54:45
+ironman-lake-placid-20040725.csv,802,Joel Lowery,36,NC,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,803,David L. Ahlert,---,OH,USA,01:08:17,06:00:19,04:08:10,00:05:58,00:02:54,11:25:38
+ironman-lake-placid-20040725.csv,804,Alexander Heriot,---,OH,USA,01:12:02,06:32:07,04:41:08,00:07:08,00:04:01,12:36:26
+ironman-lake-placid-20040725.csv,805,Alexander Heriot,---,OH,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,806,Bill Hester,---,MD,USA,01:08:05,05:53:05,03:56:32,00:07:41,00:03:20,11:08:43
+ironman-lake-placid-20040725.csv,807,David Richardson,36,TX,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,808,Brian Lorentzen,36,---,DMA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,809,Carl P. Wittig,---,MA,USA,00:55:20,05:52:03,04:03:02,00:07:50,00:04:11,11:02:26
+ironman-lake-placid-20040725.csv,810,Adrian Leggett,36,QC,CAN,00:59:07,06:11:58,04:23:15,00:06:41,00:02:52,11:43:53
+ironman-lake-placid-20040725.csv,811,Tim Riemer,36,NY,USA,01:17:33,05:37:24,04:03:30,00:08:02,00:04:40,11:11:09
+ironman-lake-placid-20040725.csv,812,Ben Jalet,---,CT,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,813,Joe Domaleski,36,GA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,814,Scott T. Green,---,MA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,815,Timothy W. Tarpley,---,TX,USA,01:29:50,08:02:58,06:50:55,00:11:59,00:10:02,16:45:44
+ironman-lake-placid-20040725.csv,816,Jeffrey A. Morrissey,---,MA,USA,01:15:00,06:31:21,03:56:26,00:08:39,00:04:27,11:55:53
+ironman-lake-placid-20040725.csv,817,Allan Kuzenko,---,ON,CAN,01:20:51,06:55:38,05:32:11,00:08:21,00:05:39,14:02:40
+ironman-lake-placid-20040725.csv,818,Jeff Thompson,36,IL,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,819,Robert Dill,36,NJ,USA,01:20:24,06:15:33,03:48:07,00:08:35,00:04:59,11:37:38
+ironman-lake-placid-20040725.csv,820,Fernando G. Irazu,---,CT,USA,01:14:56,06:22:25,05:46:11,00:08:30,00:05:23,13:37:25
+ironman-lake-placid-20040725.csv,821,Carlos Micheo,36,---,GTM,01:22:51,05:49:10,05:09:14,00:06:47,00:04:08,12:32:10
+ironman-lake-placid-20040725.csv,822,David Wallach,36,IL,USA,01:42:16,08:10:50,05:55:37,00:11:18,00:07:32,16:07:33
+ironman-lake-placid-20040725.csv,823,Todd W. Leatherwood,---,TX,USA,01:14:50,06:13:49,04:36:49,00:08:48,00:06:05,12:20:21
+ironman-lake-placid-20040725.csv,824,Dan Mcdonnell,36,VA,USA,00:58:59,05:43:55,04:06:02,00:04:50,00:03:25,10:57:11
+ironman-lake-placid-20040725.csv,825,Andrew Southerling,---,PA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,826,Anthony J. Panontin,---,ON,CAN,01:04:28,05:51:17,03:57:23,00:08:01,00:04:29,11:05:38
+ironman-lake-placid-20040725.csv,827,Darcy L. Haggith,---,ON,CAN,01:13:47,05:42:52,04:18:54,00:06:16,00:07:58,11:29:47
+ironman-lake-placid-20040725.csv,828,Sky Hansen,36,CA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,829,Arturo Garcia,36,CA,USA,01:29:13,07:18:12,06:34:28,00:07:58,00:04:04,15:33:55
+ironman-lake-placid-20040725.csv,830,Steven Reid,36,TN,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,831,Chuck Hauser,36,DE,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,832,Andrew Chong,36,HI,USA,01:21:09,06:58:39,04:45:15,00:10:34,00:06:45,13:22:22
+ironman-lake-placid-20040725.csv,833,Luc Landriault,36,---,CAN,01:17:08,05:57:57,04:03:40,00:07:26,00:04:26,11:30:37
+ironman-lake-placid-20040725.csv,834,Jeff Shaw,---,ON,CAN,01:11:08,06:41:38,04:39:51,00:21:39,00:09:30,13:03:46
+ironman-lake-placid-20040725.csv,835,Paul Cabral,36,FL,USA,01:19:45,06:49:42,04:49:01,00:12:47,00:10:30,13:21:45
+ironman-lake-placid-20040725.csv,836,Ted Sihpol,36,CT,USA,01:13:41,06:56:36,04:56:23,00:11:52,00:12:33,13:31:05
+ironman-lake-placid-20040725.csv,837,Brian M. Bourgeois,---,LA,USA,01:09:47,05:35:12,04:01:17,00:06:47,00:04:05,10:57:08
+ironman-lake-placid-20040725.csv,838,Emeka Ngwube,---,NY,USA,01:19:08,07:03:17,05:01:45,00:14:42,00:11:15,13:50:07
+ironman-lake-placid-20040725.csv,839,Donald Thorn,36,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,840,Richard Hulnick,36,NY,USA,01:12:22,07:49:58,05:59:00,00:15:36,00:10:25,15:27:21
+ironman-lake-placid-20040725.csv,841,Rob Hruskovich,36,MI,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,842,Peter Abdinoor,---,MA,USA,00:54:52,05:32:02,04:00:16,00:05:15,00:05:14,10:37:39
+ironman-lake-placid-20040725.csv,843,Lee Mambuca,36,FL,USA,01:09:28,06:40:40,05:05:12,00:08:56,00:09:06,13:13:22
+ironman-lake-placid-20040725.csv,844,Anthony Dimarco,---,NY,USA,01:04:21,05:55:07,05:14:47,00:06:39,00:03:20,12:24:14
+ironman-lake-placid-20040725.csv,845,Edward O'Connor,35,NJ,USA,01:19:14,06:55:46,04:48:09,00:11:34,00:10:09,13:24:52
+ironman-lake-placid-20040725.csv,846,David T. Rumberger,---,PA,USA,01:22:55,06:07:23,04:30:13,00:08:39,00:05:52,12:15:02
+ironman-lake-placid-20040725.csv,847,Charles Scott,---,NY,USA,01:05:36,06:15:49,05:24:49,00:09:20,00:04:08,12:59:42
+ironman-lake-placid-20040725.csv,848,Chris Godlewski,36,CA,USA,01:09:22,06:16:50,05:36:28,00:11:27,00:06:46,13:20:53
+ironman-lake-placid-20040725.csv,849,Chris Mccrary,36,CA,USA,01:07:13,05:43:49,04:01:21,00:06:48,00:02:08,11:01:19
+ironman-lake-placid-20040725.csv,850,Scott Baldwin Jr,---,VA,USA,01:05:16,05:57:14,---,00:04:52,00:04:41,DNF
+ironman-lake-placid-20040725.csv,851,Scott Langan,36,NJ,USA,01:04:45,06:06:27,04:56:05,00:08:28,00:08:04,12:23:49
+ironman-lake-placid-20040725.csv,852,Brian S. Darnell,---,KS,USA,01:07:41,06:09:53,04:49:43,00:09:16,00:06:11,12:22:44
+ironman-lake-placid-20040725.csv,853,Chris Winiecki,---,CA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,854,Brian P. Kelly,---,CA,USA,01:06:23,05:39:29,04:03:23,00:07:44,00:04:17,11:01:16
+ironman-lake-placid-20040725.csv,855,Ted R. Waugh,---,VA,USA,01:04:28,05:24:03,03:54:36,00:06:09,00:03:40,10:32:56
+ironman-lake-placid-20040725.csv,856,Rich Lally,---,PA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,857,John T. Morris,---,CT,USA,01:23:00,05:47:18,05:13:36,00:05:56,00:03:59,12:33:49
+ironman-lake-placid-20040725.csv,858,Jeff Tenniswood,36,MI,USA,01:09:09,05:51:00,04:34:53,00:07:15,00:04:18,11:46:35
+ironman-lake-placid-20040725.csv,859,Eddie C. Garrott,---,OK,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,860,Scott Kartvedt,---,VA,USA,01:09:49,06:02:01,04:51:44,00:08:23,00:05:42,12:17:39
+ironman-lake-placid-20040725.csv,861,Nate Bruno,36,PA,USA,01:06:53,---,---,00:06:57,---,DNF
+ironman-lake-placid-20040725.csv,862,James E. Durso,---,MA,USA,01:18:40,06:27:12,03:48:56,00:09:00,00:05:55,11:49:43
+ironman-lake-placid-20040725.csv,863,Mike Jackson,---,NC,USA,01:15:42,06:10:21,05:29:10,00:11:05,00:08:07,13:14:25
+ironman-lake-placid-20040725.csv,864,Todd Hand,36,NM,USA,00:59:09,05:46:35,03:31:02,00:06:34,00:02:56,10:26:16
+ironman-lake-placid-20040725.csv,865,Chris A. Arnold,---,NJ,USA,00:56:35,05:45:26,03:54:17,00:07:11,00:03:54,10:47:23
+ironman-lake-placid-20040725.csv,866,Joseph Reis,36,NY,USA,01:17:13,05:35:28,04:13:51,00:06:24,00:02:55,11:15:51
+ironman-lake-placid-20040725.csv,867,Mark Facciani,---,MD,USA,01:07:29,05:12:44,04:18:56,00:06:44,00:03:36,10:49:29
+ironman-lake-placid-20040725.csv,868,Jeffrey Blum,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,869,John P. Hyland,---,NJ,USA,01:16:44,06:08:58,04:47:22,00:07:40,00:03:25,12:24:09
+ironman-lake-placid-20040725.csv,870,Christopher Pierce,---,NY,USA,01:42:45,07:59:13,04:42:29,00:13:12,00:09:08,14:46:47
+ironman-lake-placid-20040725.csv,871,Duane J. Maue,---,TX,USA,01:04:14,05:36:35,04:11:07,00:06:25,00:04:50,11:03:11
+ironman-lake-placid-20040725.csv,872,David J. Nerrow,---,MA,USA,01:02:00,05:16:08,03:23:17,00:05:19,00:02:25,09:49:09
+ironman-lake-placid-20040725.csv,873,Matthew W. Rogers,---,VA,USA,01:03:23,06:04:44,04:49:44,00:08:22,00:04:14,12:10:27
+ironman-lake-placid-20040725.csv,874,Patrick Griggs,37,TX,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,875,John Milone,37,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,876,Kurt Schmidt,---,NY,USA,01:06:12,06:09:52,04:13:28,00:07:59,00:02:19,11:39:50
+ironman-lake-placid-20040725.csv,877,Vinu P. Malik,---,RI,USA,00:58:45,05:45:34,03:29:43,00:05:14,00:04:05,10:23:21
+ironman-lake-placid-20040725.csv,878,David G. Decker Jr.,---,PA,USA,01:09:52,06:58:19,05:25:34,00:08:30,00:06:57,13:49:12
+ironman-lake-placid-20040725.csv,879,Michael D. Mueller,---,PA,USA,01:27:34,06:04:37,03:48:33,00:08:56,00:04:43,11:34:23
+ironman-lake-placid-20040725.csv,880,Joshua H. Rubin,---,FL,USA,01:25:43,06:54:24,04:17:30,00:10:35,00:09:33,12:57:45
+ironman-lake-placid-20040725.csv,881,Kevin Kall,37,PA,USA,01:15:47,05:54:04,04:37:18,00:07:47,00:03:17,11:58:13
+ironman-lake-placid-20040725.csv,882,Brian K. Albert,---,MA,USA,01:25:46,06:38:40,05:01:12,00:11:47,00:10:49,13:28:14
+ironman-lake-placid-20040725.csv,883,Sean P. Scott,---,MA,USA,01:08:26,06:02:42,05:10:32,00:11:26,00:18:06,12:51:12
+ironman-lake-placid-20040725.csv,884,Paul Martin,---,CO,USA,00:59:15,05:26:00,03:57:08,00:05:44,00:02:43,10:30:50
+ironman-lake-placid-20040725.csv,885,Paul A. Ghelfi,---,MA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,886,Brennan J. Warble,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,887,Robert M. Zeepvat,---,NJ,USA,01:11:58,06:34:45,05:04:11,00:09:43,00:04:31,13:05:08
+ironman-lake-placid-20040725.csv,888,John F. Mckelvey Jr.,---,PA,USA,01:28:09,07:57:35,---,00:14:48,00:13:21,DNF
+ironman-lake-placid-20040725.csv,889,Todd M. Drolette,---,VT,USA,01:18:30,06:02:21,05:03:40,00:06:50,00:02:47,12:34:08
+ironman-lake-placid-20040725.csv,890,Victor Vuskalns,37,NJ,USA,01:16:03,06:40:36,04:37:03,00:08:02,00:05:12,12:46:56
+ironman-lake-placid-20040725.csv,891,John Camele,37,MI,USA,01:03:36,06:10:45,04:59:30,00:05:41,00:05:34,12:25:06
+ironman-lake-placid-20040725.csv,892,Glenn Shoemaker,37,IN,USA,01:16:24,06:16:29,04:39:27,00:09:27,00:02:03,12:23:50
+ironman-lake-placid-20040725.csv,893,Rob Craw,---,CA,USA,01:15:44,06:47:06,05:13:28,00:13:24,00:09:40,13:39:22
+ironman-lake-placid-20040725.csv,894,Donald Davet,37,PA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,895,Jack Willard,37,CT,USA,02:16:27,---,---,00:14:01,---,DNF
+ironman-lake-placid-20040725.csv,896,Brian M. Adelson,---,NY,USA,01:29:44,07:03:07,05:26:04,00:11:24,00:06:46,14:17:05
+ironman-lake-placid-20040725.csv,897,Aaron E. Wanless,---,PA,USA,01:12:16,06:35:29,04:32:13,00:10:44,00:03:35,12:34:17
+ironman-lake-placid-20040725.csv,898,Michael Mcmorrow,37,NY,USA,01:24:09,07:23:24,05:16:12,00:09:16,00:06:57,14:19:58
+ironman-lake-placid-20040725.csv,899,Esteban Torbar,37,FL,VEN,01:02:04,05:51:34,04:03:57,00:09:40,00:03:44,11:10:59
+ironman-lake-placid-20040725.csv,900,John D. Vallier,---,ON,CAN,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,901,Jim A. Reynolds,---,MO,USA,01:57:33,07:16:59,05:21:20,00:12:08,00:08:32,14:56:32
+ironman-lake-placid-20040725.csv,902,Lee C. Shelly,---,PA,USA,01:26:36,06:32:49,05:27:05,00:07:56,00:05:16,13:39:42
+ironman-lake-placid-20040725.csv,903,Richard D. Laborie,37,NY,USA,01:06:42,05:30:06,03:41:55,00:05:15,00:02:34,10:26:32
+ironman-lake-placid-20040725.csv,904,Ed P. Matesevac,---,IL,USA,01:44:10,---,---,00:20:30,---,DNF
+ironman-lake-placid-20040725.csv,905,Alexander Morton,---,MI,USA,00:56:03,05:16:00,03:19:31,00:04:43,00:03:05,09:39:22
+ironman-lake-placid-20040725.csv,906,Wataru Shimizu,37,NY,USA,01:14:30,05:57:19,04:24:39,00:08:19,00:02:36,11:47:23
+ironman-lake-placid-20040725.csv,907,William J. Snyder,---,NY,USA,01:19:19,06:50:33,05:15:01,00:13:03,00:05:28,13:43:24
+ironman-lake-placid-20040725.csv,908,Patrick C. Archbold,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,909,Gonzalo A. Acevedo,---,FL,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,910,Oscar E. Gordillo,---,FL,USA,01:07:07,05:53:02,04:07:46,00:07:42,00:05:35,11:21:12
+ironman-lake-placid-20040725.csv,911,Mark A. Sargent,---,VA,USA,00:58:21,06:14:24,04:19:01,00:06:58,00:05:15,11:43:59
+ironman-lake-placid-20040725.csv,912,John Hartley,37,NJ,USA,01:13:51,05:27:40,03:52:40,00:10:55,00:05:51,10:50:57
+ironman-lake-placid-20040725.csv,913,Steve Carrington,37,NJ,USA,01:08:11,06:18:13,05:49:56,00:06:51,00:10:47,13:33:58
+ironman-lake-placid-20040725.csv,914,Basil P. Goulandris,---,---,BHS,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,915,Michael Andonov,37,NY,USA,01:59:40,---,---,00:11:07,---,DNF
+ironman-lake-placid-20040725.csv,916,Ian Campbell,37,MI,USA,01:12:07,05:56:47,04:24:57,00:06:18,00:03:07,11:43:16
+ironman-lake-placid-20040725.csv,917,Joe Skufca,37,NY,USA,00:58:18,05:52:24,04:02:05,00:05:40,00:03:33,11:02:00
+ironman-lake-placid-20040725.csv,918,Louis Tay,37,Ontario,CAN,01:18:02,05:53:15,03:47:35,00:07:00,00:04:58,11:10:50
+ironman-lake-placid-20040725.csv,919,Henry Harris,---,GA,USA,01:04:26,06:09:51,05:41:43,00:10:24,00:04:07,13:10:31
+ironman-lake-placid-20040725.csv,920,James Roccabruna,---,MA,USA,01:14:51,06:21:59,04:48:19,00:12:22,00:12:38,12:50:09
+ironman-lake-placid-20040725.csv,921,Tim Bixler,37,CA,USA,00:54:59,07:01:14,05:20:31,00:05:34,00:04:07,13:26:25
+ironman-lake-placid-20040725.csv,922,Andrew Adelman,37,CA,USA,01:03:41,05:45:54,04:09:18,00:06:03,00:02:34,11:07:30
+ironman-lake-placid-20040725.csv,923,Darren C. Boczar,---,VA,USA,01:05:44,06:48:45,05:46:43,00:09:02,00:07:54,13:58:08
+ironman-lake-placid-20040725.csv,924,Mark T. Mascara,---,GA,USA,01:13:14,06:22:14,04:59:56,00:10:32,00:07:01,12:52:57
+ironman-lake-placid-20040725.csv,925,John Parker,46,NJ,USA,00:56:32,05:54:03,04:00:48,00:05:20,00:03:49,11:00:32
+ironman-lake-placid-20040725.csv,926,Ramon Bermo,37,NJ,USA,01:06:36,05:31:53,03:33:37,00:05:20,00:03:01,10:20:27
+ironman-lake-placid-20040725.csv,927,Howard Jones,37,MA,USA,00:58:23,05:48:59,03:56:41,00:06:44,00:05:51,10:56:38
+ironman-lake-placid-20040725.csv,928,Gary R. Kennedy,---,ON,CAN,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,929,Kyle Neet,37,OH,USA,01:24:25,06:20:05,04:53:00,00:09:02,00:03:31,12:50:03
+ironman-lake-placid-20040725.csv,930,Kenneth Gourlay,---,BC,CAN,01:05:44,05:27:35,03:36:07,00:05:27,00:02:19,10:17:12
+ironman-lake-placid-20040725.csv,931,Stephen Speirs,37,VA,USA,01:25:37,06:41:56,03:59:51,00:08:44,00:03:50,12:19:58
+ironman-lake-placid-20040725.csv,932,Mike Bahel,37,NY,USA,01:13:56,06:28:19,03:52:35,00:05:38,00:03:16,11:43:44
+ironman-lake-placid-20040725.csv,933,Stephen Valentine,37,MA,USA,01:36:05,06:52:20,05:30:35,00:08:43,00:08:02,14:15:45
+ironman-lake-placid-20040725.csv,934,Edward Dennee,37,NY,USA,01:09:05,05:40:29,04:15:34,00:05:21,00:03:01,11:13:30
+ironman-lake-placid-20040725.csv,935,Basil J. Ingemi,---,NJ,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,936,Scott V. Smith,---,NY,USA,01:30:16,07:12:16,04:34:46,00:13:10,00:11:38,13:42:06
+ironman-lake-placid-20040725.csv,937,Tim Connors,37,AZ,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,938,Brent R. Armstrong,---,ON,CAN,01:10:59,05:58:51,04:07:11,00:05:59,00:03:21,11:26:21
+ironman-lake-placid-20040725.csv,939,Michael Ferretti,37,FL,USA,01:15:59,06:15:08,04:43:56,00:06:52,00:10:02,12:31:57
+ironman-lake-placid-20040725.csv,940,David J. Huffman,---,MA,USA,01:11:32,06:38:07,05:42:37,00:07:44,00:06:03,13:46:03
+ironman-lake-placid-20040725.csv,941,William Holden,---,AZ,USA,01:08:39,05:48:46,05:26:06,00:07:48,00:05:20,12:36:39
+ironman-lake-placid-20040725.csv,942,Harry Monroe,---,NY,USA,01:11:08,05:44:45,03:54:51,00:05:23,00:02:37,10:58:44
+ironman-lake-placid-20040725.csv,943,Blasco Penaherrera,---,---,ECU,01:56:42,07:18:49,05:27:46,00:10:50,00:06:15,15:00:22
+ironman-lake-placid-20040725.csv,944,Paul Scrivens,38,WI,USA,01:26:22,06:54:19,05:44:31,00:10:25,00:06:36,14:22:13
+ironman-lake-placid-20040725.csv,945,Vito E. Iacoviello,38,NY,USA,01:27:45,06:37:46,04:27:53,00:11:40,00:11:03,12:56:07
+ironman-lake-placid-20040725.csv,946,Aurelio J. Galvez,---,---,VEN,01:01:59,05:49:26,03:58:14,00:07:32,00:03:05,11:00:16
+ironman-lake-placid-20040725.csv,947,Paul Cusick,---,CA,USA,01:04:43,05:34:12,04:00:20,00:08:45,00:02:53,10:50:53
+ironman-lake-placid-20040725.csv,948,Joel P. Smith,---,NC,USA,01:08:36,07:09:45,05:54:46,00:12:05,00:07:44,14:32:56
+ironman-lake-placid-20040725.csv,949,Santiago Gimon,---,FL,USA,01:11:37,06:08:27,03:51:49,00:09:00,00:05:29,11:26:22
+ironman-lake-placid-20040725.csv,950,Stephen Redmond,38,NC,USA,01:12:07,06:05:02,05:25:36,00:09:26,00:04:46,12:56:57
+ironman-lake-placid-20040725.csv,951,Andrew T. Williams,---,NJ,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,952,Gary L. Henry,---,CO,USA,01:18:46,06:20:29,04:59:35,00:08:19,00:07:37,12:54:46
+ironman-lake-placid-20040725.csv,953,Steven Dunn,38,OH,USA,01:18:26,06:16:15,03:45:04,00:12:00,00:04:42,11:36:27
+ironman-lake-placid-20040725.csv,954,Cord-Patrick Kammholz,38,GA,USA,00:52:01,05:41:50,04:25:44,00:07:23,00:04:11,11:11:09
+ironman-lake-placid-20040725.csv,955,Christopher Peaslee,38,TX,USA,01:15:35,06:09:38,04:19:24,00:08:36,00:04:03,11:57:16
+ironman-lake-placid-20040725.csv,956,Robert Ozsvath,38,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,957,John J. Baldwin,---,NY,USA,01:09:41,06:29:36,04:12:21,00:08:20,00:05:45,12:05:43
+ironman-lake-placid-20040725.csv,958,Scott R. Rowlands,---,PA,USA,01:07:50,06:43:48,06:42:31,00:07:32,00:07:03,14:48:44
+ironman-lake-placid-20040725.csv,959,Paul Guzzi,38,MA,USA,01:35:10,06:58:37,04:03:20,00:12:56,00:08:56,12:58:59
+ironman-lake-placid-20040725.csv,960,Eric P. Schrading,---,NJ,USA,01:02:01,05:32:55,03:19:09,00:05:52,00:02:02,10:01:59
+ironman-lake-placid-20040725.csv,961,Nick Von Schoenberg,---,BC,CAN,01:10:21,06:13:22,04:16:12,00:08:57,00:03:28,11:52:20
+ironman-lake-placid-20040725.csv,962,Mike Schenck,38,---,USA,01:01:40,06:01:18,04:08:56,00:05:51,00:05:03,11:22:48
+ironman-lake-placid-20040725.csv,963,Vincent Antonelli,---,CT,USA,01:08:06,05:47:36,03:54:09,00:08:43,00:05:03,11:03:37
+ironman-lake-placid-20040725.csv,964,Jose R. Ruiz,---,---,GTM,01:13:13,07:17:36,05:58:53,00:09:22,00:07:34,14:46:38
+ironman-lake-placid-20040725.csv,965,Don Smith,---,ON,CAN,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,966,Rob Turnbull,38,ON,CAN,01:16:28,06:24:36,04:37:40,00:08:49,00:06:12,12:33:45
+ironman-lake-placid-20040725.csv,968,David F. Fink,---,IN,USA,00:55:02,05:39:44,03:37:47,00:05:41,00:03:39,10:21:53
+ironman-lake-placid-20040725.csv,969,Melvin R. Manning,---,TX,USA,01:32:22,06:21:32,04:23:56,00:09:31,00:04:05,12:31:26
+ironman-lake-placid-20040725.csv,970,Jeffrey Weglein,---,MD,USA,01:13:06,06:32:01,05:31:15,00:08:54,00:05:32,13:30:48
+ironman-lake-placid-20040725.csv,971,John Duffney,38,---,CAN,01:18:49,06:53:01,05:11:10,00:10:28,00:07:01,13:40:29
+ironman-lake-placid-20040725.csv,972,John Pemberton,---,TN,USA,01:05:01,06:16:21,04:47:36,00:08:21,00:07:04,12:24:23
+ironman-lake-placid-20040725.csv,973,Paul A. Toran,---,NY,USA,01:28:25,07:16:15,05:24:20,00:11:36,00:06:15,14:26:51
+ironman-lake-placid-20040725.csv,974,Thomas W. Kulp,---,PA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,975,Ricardo M. Arrarte,---,---,PER,01:06:05,05:37:55,04:08:39,00:07:53,00:03:24,11:03:56
+ironman-lake-placid-20040725.csv,976,Mike Halfacre,---,NJ,USA,00:55:25,05:57:07,05:56:11,00:06:44,00:04:36,13:00:03
+ironman-lake-placid-20040725.csv,977,John D. Costine,---,NJ,USA,01:33:32,07:06:36,04:53:36,00:08:01,00:04:38,13:46:23
+ironman-lake-placid-20040725.csv,978,Scott Peyton,38,CA,USA,01:09:45,06:18:35,04:30:25,00:06:33,00:05:48,12:11:06
+ironman-lake-placid-20040725.csv,979,Cesar Valverde,38,IL,USA,01:06:34,06:24:16,04:43:44,00:07:57,00:05:03,12:27:34
+ironman-lake-placid-20040725.csv,980,Joseph Binette,---,MA,USA,01:11:59,06:08:40,04:53:33,00:14:10,00:06:57,12:35:19
+ironman-lake-placid-20040725.csv,981,Gregory Gray,---,NY,USA,01:13:31,06:00:58,03:43:40,00:06:39,00:04:00,11:08:48
+ironman-lake-placid-20040725.csv,982,Julian Symonds,---,CA,USA,01:06:25,05:23:21,04:09:20,00:06:46,00:06:22,10:52:14
+ironman-lake-placid-20040725.csv,983,Frank Carino,38,FL,USA,01:16:49,07:08:11,06:13:11,00:08:41,00:05:06,14:51:58
+ironman-lake-placid-20040725.csv,984,Ricardo De Sousa,---,FL,USA,01:02:05,06:07:31,05:18:47,00:09:30,00:05:07,12:43:00
+ironman-lake-placid-20040725.csv,985,Bernardo Manrique,38,FL,USA,00:58:24,06:08:44,04:19:29,00:08:48,00:06:31,11:41:56
+ironman-lake-placid-20040725.csv,986,Andrew D. Mckinnon,---,NJ,USA,01:18:05,06:11:54,04:22:13,00:12:14,00:08:44,12:13:10
+ironman-lake-placid-20040725.csv,987,Paul Tolomiczenko,38,---,CAN,01:04:59,05:37:58,03:26:37,00:06:32,00:03:52,10:19:58
+ironman-lake-placid-20040725.csv,988,Kurt Molter,38,OH,USA,01:00:57,05:29:40,04:24:45,00:04:48,00:02:56,11:03:06
+ironman-lake-placid-20040725.csv,989,Austin D. Rynne,---,NY,USA,01:12:52,06:13:55,04:23:06,00:07:49,00:05:41,12:03:23
+ironman-lake-placid-20040725.csv,990,Giampietro Mo,38,NY,USA,01:47:05,06:33:27,04:46:10,00:08:26,00:06:01,13:21:09
+ironman-lake-placid-20040725.csv,991,David Steinbauer,38,NY,USA,01:04:07,06:26:23,04:30:31,00:06:48,00:05:01,12:12:50
+ironman-lake-placid-20040725.csv,992,John Gauker,38,PA,USA,01:18:49,06:06:52,04:33:37,00:09:42,00:04:58,12:13:58
+ironman-lake-placid-20040725.csv,994,Eligio C. Pimentel,---,IL,USA,01:05:03,06:09:53,04:26:35,00:08:02,00:05:14,11:54:47
+ironman-lake-placid-20040725.csv,995,Clyde Clark,38,ON,CAN,01:28:06,08:09:37,05:50:12,00:08:19,00:05:13,15:41:27
+ironman-lake-placid-20040725.csv,996,Rick A. Hellard,---,ON,CAN,00:53:42,05:13:09,03:19:35,00:03:47,00:02:05,09:32:18
+ironman-lake-placid-20040725.csv,997,Jean A. Lacroix,---,ON,CAN,01:00:53,05:44:40,04:25:55,00:06:58,00:03:53,11:22:19
+ironman-lake-placid-20040725.csv,998,Walter Noble,---,ON,CAN,01:20:15,07:54:49,06:04:56,00:20:45,00:12:14,15:52:59
+ironman-lake-placid-20040725.csv,999,Richard D. Daggett,---,AZ,USA,01:05:45,07:10:11,06:01:46,00:13:53,00:16:45,14:48:20
+ironman-lake-placid-20040725.csv,1000,Raymond Britt,43,---,USA,01:11:56,05:25:17,03:26:35,00:06:35,00:01:59,10:12:22
+ironman-lake-placid-20040725.csv,1001,Robert Almeida,---,CA,USA,01:05:02,06:13:27,04:34:18,00:06:40,00:04:05,12:03:32
+ironman-lake-placid-20040725.csv,1002,Ken E. Boutilier,---,NS,CAN,01:21:45,06:42:09,05:18:00,00:11:20,00:06:52,13:40:06
+ironman-lake-placid-20040725.csv,1003,Rob Jafek,38,CA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1004,Scott Casamassa,38,CA,USA,01:16:31,06:18:08,05:48:55,00:09:49,00:03:53,13:37:16
+ironman-lake-placid-20040725.csv,1005,Bernard Ruddy,---,CA,USA,01:25:52,07:30:40,05:57:02,00:14:14,00:09:39,15:17:27
+ironman-lake-placid-20040725.csv,1006,Antonio Llona,38,---,USA,01:03:25,06:35:54,04:54:00,00:08:57,00:04:37,12:46:53
+ironman-lake-placid-20040725.csv,1007,Robert Kolar,38,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1008,David T. Drouse,---,PA,USA,00:55:22,05:33:31,04:00:08,00:04:12,00:01:49,10:35:02
+ironman-lake-placid-20040725.csv,1009,Thomas Ramthun,---,GA,USA,00:59:14,05:44:39,04:51:49,00:07:13,00:04:01,11:46:56
+ironman-lake-placid-20040725.csv,1010,Christopher M. Pugh,---,MD,USA,01:35:21,08:22:46,06:43:02,00:09:53,00:05:20,16:56:22
+ironman-lake-placid-20040725.csv,1011,Michael Trevor,38,MA,USA,01:19:38,06:39:03,04:15:22,00:09:09,00:06:27,12:29:39
+ironman-lake-placid-20040725.csv,1012,Tim R. Legge,---,IN,USA,00:55:44,05:23:05,03:43:59,00:04:41,00:02:20,10:09:49
+ironman-lake-placid-20040725.csv,1013,Matthew Dufresne,38,MA,USA,01:23:54,05:57:35,04:14:12,00:05:55,00:03:30,11:45:06
+ironman-lake-placid-20040725.csv,1014,Tim Mcleod,---,MO,USA,01:07:51,05:54:57,04:09:49,00:09:53,00:05:48,11:28:18
+ironman-lake-placid-20040725.csv,1015,Richard J. Kulinski,---,MA,USA,01:15:49,05:51:34,04:08:02,00:07:49,00:05:12,11:28:26
+ironman-lake-placid-20040725.csv,1016,David Coutanche,38,---,CAN,01:15:53,06:19:58,03:58:05,00:10:29,00:06:22,11:50:47
+ironman-lake-placid-20040725.csv,1017,Jeffrey W. Keyes,---,NY,USA,01:19:11,06:15:20,04:42:53,00:08:38,00:04:49,12:30:51
+ironman-lake-placid-20040725.csv,1018,Michael E. Nagel,---,PA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1019,Vincent G. Sabathier,---,DC,USA,01:06:40,05:34:00,03:41:36,00:06:31,00:02:25,10:31:12
+ironman-lake-placid-20040725.csv,1020,Blake A. Selzer,---,DC,USA,01:11:29,05:43:13,04:21:34,00:10:04,00:08:32,11:34:52
+ironman-lake-placid-20040725.csv,1021,Dave Herzig,38,ME,USA,01:16:48,06:13:00,05:14:34,00:07:22,00:04:47,12:56:31
+ironman-lake-placid-20040725.csv,1022,Scott E. Fuller,---,MA,USA,01:16:17,---,---,00:14:15,---,DNF
+ironman-lake-placid-20040725.csv,1023,Hamid Kazemi,---,MD,USA,01:17:41,07:00:24,05:48:34,00:11:11,00:07:12,14:25:02
+ironman-lake-placid-20040725.csv,1024,Robert Woods,---,VA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1025,Ronald Woods,---,VA,USA,01:21:10,07:49:07,06:15:53,00:16:06,00:11:28,15:53:44
+ironman-lake-placid-20040725.csv,1026,Peter J. Ekberg,---,MN,USA,01:05:44,05:41:36,03:47:48,00:07:03,00:03:21,10:45:32
+ironman-lake-placid-20040725.csv,1027,Jeffrey Thramann,---,CO,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1028,Scott Davis,---,UT,USA,00:52:37,---,---,00:06:47,---,DNF
+ironman-lake-placid-20040725.csv,1029,Daniel A. Maguire,---,MA,USA,01:29:22,07:00:21,04:41:49,00:09:20,00:07:10,13:28:02
+ironman-lake-placid-20040725.csv,1030,Joe Delaney,31,NC,USA,01:18:48,07:17:24,04:24:31,00:16:04,00:07:16,13:24:03
+ironman-lake-placid-20040725.csv,1031,Richard A. Esser,---,VA,USA,01:15:47,06:51:42,06:55:54,00:14:47,00:11:53,15:30:03
+ironman-lake-placid-20040725.csv,1032,Douglas Hall,50,GA,USA,01:32:32,07:19:42,06:00:18,00:09:24,00:11:04,15:13:00
+ironman-lake-placid-20040725.csv,1033,Kevan Millstein,39,OH,USA,01:09:36,06:13:39,04:19:10,00:12:04,00:10:25,12:04:54
+ironman-lake-placid-20040725.csv,1034,John Lewandowski,---,PA,USA,01:14:48,06:06:40,04:51:30,00:08:40,00:06:42,12:28:20
+ironman-lake-placid-20040725.csv,1035,Thierry Melinge,---,QC,CAN,01:14:27,06:17:34,05:04:50,00:10:33,00:05:54,12:53:18
+ironman-lake-placid-20040725.csv,1036,Bob Knowles,39,WA,USA,01:14:59,05:52:37,04:46:26,00:10:31,00:05:42,12:10:15
+ironman-lake-placid-20040725.csv,1037,Charles Olson,39,NY,USA,01:07:52,05:51:43,04:16:24,00:06:40,00:05:22,11:28:01
+ironman-lake-placid-20040725.csv,1038,Dave Pexman,39,AB,CAN,01:08:44,05:53:19,04:16:56,00:06:38,00:04:41,11:30:18
+ironman-lake-placid-20040725.csv,1039,Joseph P. Gerraputa,---,NY,USA,01:31:14,08:00:53,05:11:50,00:11:19,00:16:11,15:11:27
+ironman-lake-placid-20040725.csv,1040,Paul D. Gamache,---,CA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1041,Joseph Wilczynski,39,FL,USA,01:20:44,07:35:44,05:14:43,00:11:42,00:08:56,14:31:49
+ironman-lake-placid-20040725.csv,1042,Richard A. Kirby,---,MD,USA,01:10:57,06:20:37,05:33:53,00:09:07,00:14:23,13:28:57
+ironman-lake-placid-20040725.csv,1043,Allen S. Bursey,---,CA,USA,01:07:39,05:47:55,04:33:23,00:05:35,00:03:11,11:37:43
+ironman-lake-placid-20040725.csv,1044,Rob Hammerstone,39,PA,USA,01:19:51,06:40:59,05:20:24,00:13:45,00:10:32,13:45:31
+ironman-lake-placid-20040725.csv,1045,Kevin Russell,39,NY,USA,01:04:26,06:33:08,05:01:19,00:07:11,00:07:21,12:53:25
+ironman-lake-placid-20040725.csv,1046,Charles M. Jenks,---,VA,USA,01:19:23,05:54:13,04:08:01,00:06:10,00:04:42,11:32:29
+ironman-lake-placid-20040725.csv,1047,Peter Steciuk,39,NY,USA,01:07:48,05:51:31,04:10:54,00:07:12,00:04:27,11:21:52
+ironman-lake-placid-20040725.csv,1048,Stan R. Kroder,---,NY,USA,00:53:14,05:54:14,04:40:36,00:05:23,00:04:52,11:38:19
+ironman-lake-placid-20040725.csv,1049,Daniel Champagne,---,CT,USA,01:06:44,05:22:41,04:11:45,00:05:29,00:03:47,10:50:26
+ironman-lake-placid-20040725.csv,1050,Gordon Kamimura,39,HI,USA,01:17:28,05:56:04,04:26:17,00:07:30,00:05:05,11:52:24
+ironman-lake-placid-20040725.csv,1051,Christopher J. Alex,---,CT,USA,01:11:47,06:15:14,04:46:03,00:10:55,00:06:25,12:30:24
+ironman-lake-placid-20040725.csv,1052,Stuart H. Jones,---,ON,CAN,01:04:13,06:15:31,03:58:48,00:08:40,00:06:41,11:33:53
+ironman-lake-placid-20040725.csv,1053,Greg Linakis,39,NY,USA,01:13:36,06:12:25,04:55:56,00:06:20,00:03:57,12:32:14
+ironman-lake-placid-20040725.csv,1054,Rich Barkan,---,NY,USA,00:55:00,06:39:26,04:50:26,00:07:57,00:09:15,12:42:04
+ironman-lake-placid-20040725.csv,1055,Federico Garcia,33,CA,USA,01:27:50,06:20:54,04:44:05,00:10:24,00:06:25,12:49:38
+ironman-lake-placid-20040725.csv,1056,Robert F. Boylan,---,NY,USA,01:02:00,06:13:14,04:13:09,00:06:17,00:05:20,11:40:00
+ironman-lake-placid-20040725.csv,1057,Mike Mahlan,39,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1058,Brent Barrett,39,TN,USA,01:01:54,05:56:33,05:12:47,00:05:09,00:04:02,12:20:25
+ironman-lake-placid-20040725.csv,1059,Kenneth W. Wright,---,PA,USA,01:39:12,07:29:44,05:59:27,00:09:58,00:06:45,15:25:06
+ironman-lake-placid-20040725.csv,1060,Peter Dominick,39,NJ,USA,01:06:56,06:06:35,06:42:27,00:11:30,00:07:45,14:15:13
+ironman-lake-placid-20040725.csv,1061,John G. Boffin,---,ON,CAN,01:03:19,05:34:39,03:53:42,00:06:57,00:02:58,10:41:35
+ironman-lake-placid-20040725.csv,1062,Francois Brissette,---,QC,CAN,01:02:00,---,---,00:06:02,---,DNF
+ironman-lake-placid-20040725.csv,1063,Erik Giasson,39,---,CAN,01:16:52,05:57:01,06:00:18,00:06:49,00:06:53,13:27:53
+ironman-lake-placid-20040725.csv,1064,David Aitkenhead,---,NJ,USA,01:04:14,05:35:49,03:38:03,00:04:01,00:02:01,10:24:08
+ironman-lake-placid-20040725.csv,1065,Michael Bronco,---,NJ,USA,01:04:19,05:33:46,03:31:26,00:05:51,00:02:09,10:17:31
+ironman-lake-placid-20040725.csv,1066,Frank P. Carino,---,NY,USA,01:06:51,05:36:35,03:38:57,00:06:11,00:02:10,10:30:44
+ironman-lake-placid-20040725.csv,1067,Michael Liou,39,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1068,Dan Hardy,39,CA,USA,01:11:28,06:26:35,04:11:56,00:10:09,00:08:32,12:08:40
+ironman-lake-placid-20040725.csv,1069,Joe Whelan,39,CT,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1070,Clayton R. Tebbetts,---,CT,USA,01:04:19,06:02:47,04:38:17,00:08:32,00:04:47,11:58:42
+ironman-lake-placid-20040725.csv,1071,Ian Fraser,---,ON,USA,00:58:34,05:24:02,03:25:39,00:05:14,00:03:59,09:57:28
+ironman-lake-placid-20040725.csv,1072,Richard J. Lajti,---,NY,USA,01:37:51,07:24:27,06:13:17,00:17:51,00:12:30,15:45:56
+ironman-lake-placid-20040725.csv,1073,Wayne Spaulding,---,CA,USA,01:04:25,06:06:08,05:20:54,00:10:27,00:07:09,12:49:03
+ironman-lake-placid-20040725.csv,1074,Don R. Geer,---,NY,USA,02:12:19,07:20:23,06:08:31,00:11:59,00:14:45,16:07:57
+ironman-lake-placid-20040725.csv,1075,Bill Davis,39,HI,USA,01:05:50,06:08:19,04:09:23,00:09:51,00:06:09,11:39:32
+ironman-lake-placid-20040725.csv,1076,Al Schneider,39,OK,USA,01:13:04,06:53:33,05:17:12,00:13:09,00:05:26,13:42:24
+ironman-lake-placid-20040725.csv,1077,Timothy P. Helmstetter,---,TX,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1078,Francois Fleury,39,---,CAN,01:12:54,06:14:26,05:52:16,00:06:20,00:04:24,13:30:20
+ironman-lake-placid-20040725.csv,1079,Michael S. Willis,---,IN,USA,01:18:44,07:31:03,05:31:27,00:10:28,00:09:15,14:40:57
+ironman-lake-placid-20040725.csv,1080,Edwin J. Hale,---,NJ,USA,01:21:00,06:30:24,05:38:35,00:09:38,00:09:23,13:49:00
+ironman-lake-placid-20040725.csv,1081,Felipe Rivero,---,---,VEN,01:11:53,06:43:16,04:25:21,00:11:32,00:05:53,12:37:55
+ironman-lake-placid-20040725.csv,1082,Kevin A. Hileman,---,MI,USA,01:14:42,06:20:16,05:13:35,00:09:02,00:07:10,13:04:45
+ironman-lake-placid-20040725.csv,1083,Daryl G. Laney,---,TX,USA,01:12:54,05:43:07,04:04:20,00:06:16,00:02:47,11:09:24
+ironman-lake-placid-20040725.csv,1084,Kenneth Carino,39,---,USA,00:58:23,05:47:25,04:21:05,00:05:52,00:04:10,11:16:55
+ironman-lake-placid-20040725.csv,1085,Tony Lugo,39,PR,USA,01:18:43,06:01:36,04:22:02,00:07:27,00:04:55,11:54:43
+ironman-lake-placid-20040725.csv,1086,Vitaliy Litovchenko,39,NY,UKR,00:57:55,06:22:44,03:45:29,00:07:08,00:06:27,11:19:43
+ironman-lake-placid-20040725.csv,1087,Tomo Miyama,39,NY,USA,01:18:10,06:38:23,04:00:16,00:17:16,00:07:33,12:21:38
+ironman-lake-placid-20040725.csv,1088,Paul Mccarron,39,MA,USA,01:30:09,06:34:15,04:39:13,00:10:56,00:07:59,13:02:32
+ironman-lake-placid-20040725.csv,1089,Brian Smith,33,IL,USA,01:01:55,05:33:16,04:50:15,00:05:38,00:03:16,11:34:20
+ironman-lake-placid-20040725.csv,1090,David J. Martel,---,NY,USA,01:35:52,06:53:55,04:56:58,00:09:16,00:05:59,13:42:00
+ironman-lake-placid-20040725.csv,1091,David A. Scott,---,NC,USA,01:03:27,05:50:14,04:15:46,00:10:22,00:05:13,11:25:02
+ironman-lake-placid-20040725.csv,1092,Jim Sullivan,39,MA,USA,01:06:26,05:17:12,03:56:50,00:06:15,00:03:41,10:30:24
+ironman-lake-placid-20040725.csv,1093,Carl Curran,39,---,USA,01:12:51,05:46:26,03:48:51,00:05:54,00:02:14,10:56:16
+ironman-lake-placid-20040725.csv,1094,Rob Vance,39,VA,USA,01:19:32,05:34:18,04:11:12,00:06:49,00:02:16,11:14:07
+ironman-lake-placid-20040725.csv,1095,Mark Walsh-Cooke,---,MA,USA,01:04:05,05:44:12,03:47:07,00:07:35,00:03:16,10:46:15
+ironman-lake-placid-20040725.csv,1096,David Slater,39,---,GBR,01:21:58,05:44:13,03:57:43,00:09:17,00:06:09,11:19:20
+ironman-lake-placid-20040725.csv,1097,John Carney,---,VA,USA,01:29:56,08:20:09,05:48:28,00:11:09,00:08:38,15:58:20
+ironman-lake-placid-20040725.csv,1098,Doug Guertin,40,MA,USA,01:11:35,06:05:26,04:05:30,00:06:46,00:05:28,11:34:45
+ironman-lake-placid-20040725.csv,1099,Anthony Montalbano,---,NY,USA,01:19:29,07:08:06,05:54:06,00:09:02,00:04:53,14:35:36
+ironman-lake-placid-20040725.csv,1100,Michael D. Daly,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1101,Saul Serna,---,IL,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1102,Ed Cushing,---,NJ,USA,01:17:22,06:02:59,04:51:26,00:13:16,00:07:48,12:32:51
+ironman-lake-placid-20040725.csv,1103,John Antonio,40,HI,USA,01:19:27,05:59:17,04:03:13,00:07:32,00:05:28,11:34:57
+ironman-lake-placid-20040725.csv,1104,Scott C. Cushing,---,NH,USA,01:15:13,08:17:13,07:08:36,00:13:10,00:08:54,17:03:06
+ironman-lake-placid-20040725.csv,1105,Larry Parker,40,NY,USA,01:06:23,05:28:35,03:57:03,00:05:33,00:02:13,10:39:47
+ironman-lake-placid-20040725.csv,1106,Stanley Travers,---,CA,USA,01:25:40,08:11:02,06:38:01,00:15:47,00:14:51,16:45:21
+ironman-lake-placid-20040725.csv,1107,Ted Dettmar,40,VA,USA,01:18:35,06:36:28,04:32:06,00:11:02,00:05:16,12:43:27
+ironman-lake-placid-20040725.csv,1108,Mark Hawn,---,GA,USA,01:09:02,05:51:35,04:01:57,00:06:22,00:03:52,11:12:48
+ironman-lake-placid-20040725.csv,1109,James Dillenberger,40,NY,USA,01:35:50,06:57:43,05:15:16,00:08:31,00:12:09,14:09:29
+ironman-lake-placid-20040725.csv,1110,Danny Allred,40,TX,USA,01:21:46,07:07:15,05:08:42,00:18:55,00:05:17,14:01:55
+ironman-lake-placid-20040725.csv,1111,Jim Murray,40,NY,USA,01:30:49,07:32:09,07:05:59,00:10:04,00:09:54,16:28:55
+ironman-lake-placid-20040725.csv,1112,Julian J. Bayuk,---,RI,USA,01:06:55,06:00:12,04:38:56,00:09:21,00:05:19,12:00:43
+ironman-lake-placid-20040725.csv,1113,Marc Dery,---,QC,CAN,01:10:24,06:01:18,04:43:57,00:08:23,00:06:11,12:10:13
+ironman-lake-placid-20040725.csv,1114,Evan Kerr,40,CA,USA,00:54:28,05:39:32,03:40:35,00:06:21,00:04:17,10:25:13
+ironman-lake-placid-20040725.csv,1115,Doug Rosen,---,IL,USA,01:06:24,06:00:42,04:06:45,00:11:16,00:06:48,11:31:55
+ironman-lake-placid-20040725.csv,1116,George A. Nicholson,---,MA,USA,01:08:31,05:44:08,03:42:11,00:08:10,00:06:18,10:49:18
+ironman-lake-placid-20040725.csv,1117,David Clifford,40,OH,USA,01:38:16,07:08:19,05:14:41,00:07:38,00:08:24,14:17:18
+ironman-lake-placid-20040725.csv,1118,Edward Little,40,PA,USA,01:23:38,07:16:26,05:04:08,00:09:27,00:10:46,14:04:25
+ironman-lake-placid-20040725.csv,1119,Herman Schumacher,40,MD,USA,01:15:02,06:46:43,05:13:06,00:11:10,00:07:30,13:33:31
+ironman-lake-placid-20040725.csv,1120,Michael Urban,40,NJ,USA,01:20:07,05:35:54,03:58:41,00:09:36,00:05:10,11:09:28
+ironman-lake-placid-20040725.csv,1121,Michael Meadows,40,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1122,David Wilcox,---,CA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1123,Jorge Roca-Arteta,40,---,ECU,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1124,Doug Fusella,40,TX,USA,01:06:20,05:48:42,04:03:26,00:07:32,00:03:46,11:09:46
+ironman-lake-placid-20040725.csv,1125,Jason Pumpelly,40,TX,USA,01:09:44,06:24:32,04:40:30,00:10:10,00:05:00,12:29:56
+ironman-lake-placid-20040725.csv,1126,Magnus Ojert,40,PA,USA,01:05:34,05:38:55,04:25:49,00:07:35,00:03:57,11:21:50
+ironman-lake-placid-20040725.csv,1127,Chuck Howard,---,GA,USA,01:07:54,05:52:56,04:13:02,00:07:59,00:06:08,11:27:59
+ironman-lake-placid-20040725.csv,1128,Alec H. Petro,---,MA,USA,01:12:56,05:25:58,---,00:06:57,00:03:54,DNF
+ironman-lake-placid-20040725.csv,1129,Scott Shaunessy,40,MA,USA,01:12:25,06:46:29,05:30:24,00:11:44,00:09:12,13:50:14
+ironman-lake-placid-20040725.csv,1130,James M. Armata,---,NY,USA,01:17:36,06:33:36,04:25:18,00:13:27,00:10:28,12:40:25
+ironman-lake-placid-20040725.csv,1131,Francis Disori,40,IN,USA,01:29:37,07:13:32,05:12:05,00:08:05,00:05:52,14:09:11
+ironman-lake-placid-20040725.csv,1132,Dave Yeakel Jr,---,VA,USA,01:15:36,06:17:53,04:28:53,00:09:25,00:06:13,12:18:00
+ironman-lake-placid-20040725.csv,1133,Gary R. Beall,---,TX,USA,01:53:10,07:21:32,05:13:32,00:16:45,00:09:17,14:54:16
+ironman-lake-placid-20040725.csv,1134,Jeffrey Shoemaker,19,IL,USA,01:18:19,06:40:06,05:05:06,00:08:23,00:03:59,13:15:53
+ironman-lake-placid-20040725.csv,1135,James Dunn,40,NJ,USA,01:17:59,07:01:47,04:50:41,00:10:55,00:08:42,13:30:04
+ironman-lake-placid-20040725.csv,1136,Karl Williams,---,NY,USA,01:02:52,05:41:11,03:51:04,00:09:00,00:05:36,10:49:43
+ironman-lake-placid-20040725.csv,1137,Curt S. Cardman,---,PA,USA,01:02:05,05:43:47,03:54:56,00:07:11,00:03:30,10:51:29
+ironman-lake-placid-20040725.csv,1138,George P. Zibell,---,NY,USA,01:13:52,05:53:18,04:31:01,00:05:36,00:03:40,11:47:27
+ironman-lake-placid-20040725.csv,1139,Anthony F. Carillo,---,NY,USA,01:05:40,05:16:46,03:55:46,00:05:56,00:03:11,10:27:19
+ironman-lake-placid-20040725.csv,1140,Andrew S. Coccari,---,TX,USA,01:06:45,06:32:41,05:13:08,00:06:58,00:07:03,13:06:35
+ironman-lake-placid-20040725.csv,1141,James K. Findley,---,NY,USA,01:15:39,06:12:34,04:00:52,00:10:23,00:06:23,11:45:51
+ironman-lake-placid-20040725.csv,1142,Eric Crecelius,40,TX,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1143,Pierre Lavoie,---,QC,CAN,00:55:52,05:05:16,03:08:04,00:04:27,00:02:31,09:16:10
+ironman-lake-placid-20040725.csv,1144,Matt Spilker,40,NE,USA,01:21:58,07:39:49,05:23:50,00:10:53,00:08:48,14:45:18
+ironman-lake-placid-20040725.csv,1145,Dan Sinai,40,---,CAN,01:07:13,06:14:22,05:23:20,00:10:30,00:04:19,12:59:44
+ironman-lake-placid-20040725.csv,1146,Michael T. Wyatt,---,MD,USA,01:07:43,06:24:36,05:01:23,00:06:55,00:04:09,12:44:46
+ironman-lake-placid-20040725.csv,1147,Tony Scott,41,FL,USA,01:09:24,05:51:04,04:09:55,00:07:20,00:05:10,11:22:53
+ironman-lake-placid-20040725.csv,1148,James D. Masucci,---,MO,USA,01:04:45,06:03:22,05:24:31,00:07:22,00:04:23,12:44:23
+ironman-lake-placid-20040725.csv,1149,John J. Mcnamara,---,MA,USA,01:23:45,06:51:53,04:58:57,00:09:16,00:07:44,13:31:35
+ironman-lake-placid-20040725.csv,1150,Matthew W. Wilson,---,TN,USA,00:52:29,05:55:49,04:26:19,00:06:12,00:02:40,11:23:29
+ironman-lake-placid-20040725.csv,1151,Steven A. Grosswald,---,PA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1152,Steven W. Marino,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1153,"Edward M. Hasse, Iii",---,NJ,USA,01:09:59,07:05:58,05:08:05,00:13:36,00:10:38,13:48:16
+ironman-lake-placid-20040725.csv,1154,Joseph T. Connolly,---,CT,USA,01:04:59,06:16:18,05:10:52,00:07:35,00:03:42,12:43:26
+ironman-lake-placid-20040725.csv,1155,Carl Asker,40,CT,USA,01:04:30,05:47:29,04:20:08,00:07:05,00:08:17,11:27:29
+ironman-lake-placid-20040725.csv,1156,Timothy J. Walsh,---,NY,USA,01:04:29,06:11:52,04:49:48,00:09:13,00:06:32,12:21:54
+ironman-lake-placid-20040725.csv,1157,Andrew Szklanny,40,ON,CAN,01:37:15,07:31:26,04:49:48,00:11:02,00:06:56,14:16:27
+ironman-lake-placid-20040725.csv,1158,Charles Martin,44,CA,CAN,01:16:14,06:35:10,04:44:00,00:17:12,00:07:52,13:00:28
+ironman-lake-placid-20040725.csv,1159,Mo Moadeli,40,NY,USA,01:21:19,06:30:01,---,00:11:11,00:05:00,DNF
+ironman-lake-placid-20040725.csv,1160,Chris Mulligan,40,NY,USA,01:13:26,06:21:33,04:38:03,00:08:52,00:07:14,12:29:08
+ironman-lake-placid-20040725.csv,1161,Mike Wall,40,ON,CAN,00:56:18,05:28:46,04:11:53,00:04:39,00:03:38,10:45:14
+ironman-lake-placid-20040725.csv,1162,John A. Jones,---,PA,USA,01:00:48,06:00:48,04:26:46,00:07:43,00:04:48,11:40:53
+ironman-lake-placid-20040725.csv,1163,Michael Mallon,40,NY,USA,01:32:00,08:42:10,05:15:44,00:07:53,00:03:53,15:41:40
+ironman-lake-placid-20040725.csv,1164,Tom White,40,NY,USA,01:28:08,06:11:35,07:26:42,00:08:01,00:04:23,15:18:49
+ironman-lake-placid-20040725.csv,1165,Thomas G. Maxwell,---,MI,USA,01:10:03,06:26:15,05:18:37,00:12:43,00:12:47,13:20:25
+ironman-lake-placid-20040725.csv,1166,Paul Mullen,40,NY,USA,01:27:33,07:24:16,04:11:31,00:13:12,00:07:27,13:23:59
+ironman-lake-placid-20040725.csv,1167,Paul G. Guilmette,---,VT,USA,01:13:51,06:08:40,04:01:08,00:07:42,00:02:56,11:34:17
+ironman-lake-placid-20040725.csv,1168,William ( Wankel,---,CA,USA,01:22:44,07:32:24,06:07:10,00:12:14,00:07:35,15:22:07
+ironman-lake-placid-20040725.csv,1169,Joseph A. Boyd,---,PA,USA,01:15:07,05:51:06,04:17:44,00:08:18,00:04:15,11:36:30
+ironman-lake-placid-20040725.csv,1170,Dave J. Fager,---,KS,USA,01:22:54,06:22:55,06:47:18,00:07:17,00:07:13,14:47:37
+ironman-lake-placid-20040725.csv,1171,Timothy J. Broghammer,---,IA,USA,01:04:57,07:33:10,06:16:20,00:09:42,00:08:03,15:12:12
+ironman-lake-placid-20040725.csv,1172,David J. Saltmarsh,---,ME,USA,01:32:52,06:40:28,04:43:59,00:09:54,00:05:41,13:12:54
+ironman-lake-placid-20040725.csv,1173,Brian Butler,40,---,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1174,Louis Di Guiseppe,40,MO,USA,00:53:31,05:35:40,04:22:56,00:04:27,00:03:50,11:00:24
+ironman-lake-placid-20040725.csv,1175,Joe Bryant,---,TN,USA,01:13:49,06:13:42,04:52:41,00:14:20,00:08:02,12:42:34
+ironman-lake-placid-20040725.csv,1176,Jeffrey A. Morrow,---,MI,USA,01:04:21,05:57:46,04:10:28,00:06:49,00:05:09,11:24:33
+ironman-lake-placid-20040725.csv,1177,Tim Hum,40,---,CAN,01:31:42,06:34:26,04:32:36,00:10:26,00:07:02,12:56:12
+ironman-lake-placid-20040725.csv,1178,Harold Mah,40,---,CAN,01:23:36,07:00:17,04:36:36,00:10:02,00:05:35,13:16:06
+ironman-lake-placid-20040725.csv,1179,Brent Page,40,---,CAN,01:06:17,06:44:13,05:10:43,00:11:29,00:11:44,13:24:26
+ironman-lake-placid-20040725.csv,1180,John Steiner,40,GA,USA,01:02:18,06:49:53,04:51:28,00:09:32,00:07:57,13:01:08
+ironman-lake-placid-20040725.csv,1181,Daniel Labarca,---,MA,USA,01:03:32,05:31:00,03:26:09,00:05:22,00:03:22,10:09:25
+ironman-lake-placid-20040725.csv,1182,Aaron Stern,40,NY,USA,01:20:25,05:59:04,04:38:18,00:12:34,00:08:03,12:18:24
+ironman-lake-placid-20040725.csv,1183,Wayne Vanderpool,40,NY,USA,00:58:51,05:50:03,05:21:49,00:06:45,00:05:25,12:22:53
+ironman-lake-placid-20040725.csv,1184,Duane Livingstone,---,ON,CAN,01:26:53,06:08:26,06:23:59,00:05:56,00:04:42,14:09:56
+ironman-lake-placid-20040725.csv,1185,John Kelley,---,MA,USA,01:26:56,07:38:54,05:24:46,00:13:01,00:08:32,14:52:09
+ironman-lake-placid-20040725.csv,1186,John R. Shafer,---,VA,USA,01:07:55,05:36:05,04:22:10,00:07:04,00:04:41,11:17:55
+ironman-lake-placid-20040725.csv,1187,Jim Villanucci,41,NM,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1188,James A. Wade,---,TX,USA,01:15:03,06:17:46,04:13:12,00:12:04,00:07:39,12:05:44
+ironman-lake-placid-20040725.csv,1189,Andrew B. Prescott,---,RI,USA,01:07:04,06:44:17,04:17:31,00:12:31,00:07:15,12:28:38
+ironman-lake-placid-20040725.csv,1191,Joe Michalek,41,CT,USA,01:30:05,07:26:15,05:12:49,00:08:43,00:04:49,14:22:41
+ironman-lake-placid-20040725.csv,1192,Ralph Yozzo,41,NY,USA,01:49:56,06:14:12,04:37:35,00:10:28,00:12:42,13:04:53
+ironman-lake-placid-20040725.csv,1193,Tom Pinski,41,IL,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1194,Doug A. Bintzler,---,OH,USA,01:22:47,06:43:43,05:34:32,00:10:51,00:24:51,14:16:44
+ironman-lake-placid-20040725.csv,1195,Joseph Fung,---,OH,USA,01:22:09,05:48:29,03:53:59,00:07:14,00:03:50,11:15:41
+ironman-lake-placid-20040725.csv,1196,James Pottage,---,ON,CAN,01:00:24,05:43:32,04:41:44,00:09:11,00:06:49,11:41:40
+ironman-lake-placid-20040725.csv,1197,Jim Sunners,---,ON,CAN,01:04:41,05:28:51,03:57:19,00:05:36,00:02:31,10:38:58
+ironman-lake-placid-20040725.csv,1198,Anthony Long,41,TX,USA,01:06:21,06:02:55,04:25:37,00:06:17,00:03:33,11:44:43
+ironman-lake-placid-20040725.csv,1199,Stephen D. Abbott,---,NS,CAN,01:24:16,06:20:14,04:30:11,00:08:48,00:03:54,12:27:23
+ironman-lake-placid-20040725.csv,1200,Edward L. Melanson,---,CO,USA,00:50:04,05:53:25,03:44:50,00:05:35,00:02:41,10:36:35
+ironman-lake-placid-20040725.csv,1201,Michael J. Cerrato,---,OH,USA,01:14:33,06:37:03,04:01:42,00:10:03,00:06:38,12:09:59
+ironman-lake-placid-20040725.csv,1202,Edward J. Zipf,---,NJ,USA,01:18:58,06:53:36,05:28:29,00:13:04,00:13:12,14:07:19
+ironman-lake-placid-20040725.csv,1203,Dan Adrian,41,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1204,Tim Mclaughlin,21,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1205,Bob Nerby,41,ON,CAN,01:00:19,06:43:31,05:30:29,00:11:44,00:07:18,13:33:21
+ironman-lake-placid-20040725.csv,1206,Halard Lescinsky,---,OH,USA,00:58:19,05:35:33,03:41:06,00:04:56,00:03:05,10:22:59
+ironman-lake-placid-20040725.csv,1207,Scott Lewis,41,PA,USA,01:02:06,05:35:09,04:28:49,00:05:54,00:04:28,11:16:26
+ironman-lake-placid-20040725.csv,1208,Paul E. Gaston,---,OH,USA,01:13:12,05:43:03,04:32:01,00:07:20,00:04:09,11:39:45
+ironman-lake-placid-20040725.csv,1209,Joseph O'Brien,---,PA,USA,01:09:48,07:20:56,---,00:07:26,---,DNF
+ironman-lake-placid-20040725.csv,1210,Richard G. Hilton,---,NJ,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1211,Chris Clarkson,41,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1212,Paul Gregor,41,HI,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1213,Rick Stefanides,41,PA,USA,01:34:55,08:21:54,05:51:17,00:08:47,00:09:22,16:06:15
+ironman-lake-placid-20040725.csv,1214,Steve Brundle,---,ON,CAN,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1215,Robert E. Radecki  Jr.,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1216,Patrick Mauldin,41,SC,USA,01:14:50,07:31:22,06:24:21,00:13:45,00:08:31,15:32:49
+ironman-lake-placid-20040725.csv,1217,Vere Joseph,---,CT,USA,01:10:10,05:52:16,03:56:51,00:07:16,00:03:40,11:10:13
+ironman-lake-placid-20040725.csv,1218,Joseph S. Frazetta,---,NY,USA,01:19:55,06:17:12,03:56:40,00:08:06,00:05:47,11:47:40
+ironman-lake-placid-20040725.csv,1219,William Healy,41,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1220,Dan Stasz,41,MA,USA,01:05:33,05:53:16,04:09:16,00:09:58,00:05:56,11:23:59
+ironman-lake-placid-20040725.csv,1221,Dominic S. Hessian,---,---,GBR,01:04:56,05:57:15,04:17:32,00:07:55,00:02:28,11:30:06
+ironman-lake-placid-20040725.csv,1222,Jay L Borok,---,NY,USA,01:09:42,05:49:08,03:54:05,00:05:44,00:02:48,11:01:27
+ironman-lake-placid-20040725.csv,1223,Doug Layman,41,NY,USA,01:09:39,06:20:42,05:35:45,00:10:35,00:05:58,13:22:39
+ironman-lake-placid-20040725.csv,1224,Dick Gunstone,41,---,CAN,01:07:44,06:37:02,05:00:14,00:09:18,00:04:20,12:58:38
+ironman-lake-placid-20040725.csv,1225,Don A. Marlin,---,ON,CAN,01:24:25,05:51:17,04:49:17,00:06:14,00:05:44,12:16:57
+ironman-lake-placid-20040725.csv,1226,Kirk Reid,41,ON,CAN,01:39:35,07:06:23,06:59:06,00:07:48,00:21:13,16:14:05
+ironman-lake-placid-20040725.csv,1227,Drew C. Smeaton,---,ON,CAN,01:19:16,06:08:44,04:49:54,00:07:48,00:03:42,12:29:24
+ironman-lake-placid-20040725.csv,1228,Bill South,41,NY,USA,01:22:04,06:31:54,05:24:08,00:08:05,00:06:38,13:32:49
+ironman-lake-placid-20040725.csv,1229,Gary Brown,41,GA,USA,01:20:47,06:45:33,05:14:39,00:09:49,00:07:10,13:37:58
+ironman-lake-placid-20040725.csv,1230,Salem Shuchman,41,PA,USA,01:17:57,06:28:45,04:56:57,00:09:57,00:10:53,13:04:29
+ironman-lake-placid-20040725.csv,1231,Vince Miles,41,AZ,USA,01:08:01,05:48:40,04:30:13,00:09:09,00:09:19,11:45:22
+ironman-lake-placid-20040725.csv,1232,Woody Freese,41,MA,USA,01:16:39,07:30:11,05:35:46,00:10:11,00:06:35,14:39:22
+ironman-lake-placid-20040725.csv,1233,Michael White,29,NC,USA,01:04:42,05:27:07,03:49:17,00:08:20,00:05:58,10:35:24
+ironman-lake-placid-20040725.csv,1234,David Cascio,41,VA,USA,00:54:58,05:32:24,03:31:16,00:05:16,00:03:57,10:07:51
+ironman-lake-placid-20040725.csv,1235,John G. Crotty,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1236,Chris Mcdonnell,41,CT,USA,01:19:25,07:04:22,04:46:39,00:08:40,00:05:39,13:24:45
+ironman-lake-placid-20040725.csv,1237,Fumitaka Hatanaka,41,NY,USA,01:26:34,06:12:20,04:08:17,00:09:18,00:06:31,12:03:00
+ironman-lake-placid-20040725.csv,1238,John E. Dance,---,AB,CAN,01:19:39,06:57:20,04:51:21,00:10:07,00:07:44,13:26:11
+ironman-lake-placid-20040725.csv,1239,Bill Terry,41,MA,USA,01:11:07,05:53:12,04:10:57,00:07:18,00:02:01,11:24:35
+ironman-lake-placid-20040725.csv,1240,Joe Cerniglia,41,VT,USA,01:12:27,06:07:26,04:35:09,00:09:35,00:06:54,12:11:31
+ironman-lake-placid-20040725.csv,1241,David Leroy,---,CA,USA,01:02:02,05:52:28,03:45:08,00:04:28,00:03:54,10:48:00
+ironman-lake-placid-20040725.csv,1242,Patrick J. Turley,---,NY,USA,01:03:50,06:30:18,06:41:35,00:08:32,00:07:05,14:31:20
+ironman-lake-placid-20040725.csv,1243,John Hahn,41,---,CAN,01:09:05,05:37:21,03:40:22,00:07:55,00:02:55,10:37:38
+ironman-lake-placid-20040725.csv,1244,Andrew Peebles,---,NY,USA,01:16:42,05:47:17,04:10:42,00:06:59,00:02:29,11:24:09
+ironman-lake-placid-20040725.csv,1245,Richard Donnelly,---,NY,USA,01:15:42,06:28:41,06:28:41,00:07:13,00:05:25,14:25:42
+ironman-lake-placid-20040725.csv,1246,Andrew L. Lewis,---,VA,USA,01:16:02,06:02:32,04:45:18,00:08:54,00:04:53,12:17:39
+ironman-lake-placid-20040725.csv,1247,William Schumann,41,CT,USA,00:55:01,05:51:02,04:17:32,00:05:54,00:04:17,11:13:46
+ironman-lake-placid-20040725.csv,1248,Thomas J. Anderson,---,NY,USA,01:17:29,07:40:00,07:17:10,00:12:39,00:09:48,16:37:06
+ironman-lake-placid-20040725.csv,1249,Mike Llerandi,---,NJ,USA,00:53:42,05:28:27,03:06:44,00:04:00,00:02:20,09:35:13
+ironman-lake-placid-20040725.csv,1250,Randy S. Evans,---,CO,USA,01:26:36,06:12:43,03:52:17,00:06:34,00:03:18,11:41:28
+ironman-lake-placid-20040725.csv,1251,Jeff Watern,---,OH,USA,01:06:25,05:39:41,04:05:34,00:07:34,00:03:15,11:02:29
+ironman-lake-placid-20040725.csv,1252,Stephen Cohen,---,GA,USA,01:15:46,06:02:21,04:46:40,00:06:28,00:04:35,12:15:50
+ironman-lake-placid-20040725.csv,1253,Simon Gisby,---,NY,USA,01:08:58,06:14:49,04:10:39,00:09:17,00:04:34,11:48:17
+ironman-lake-placid-20040725.csv,1254,Mark J. Klion,---,NY,USA,01:05:52,05:45:10,---,00:05:49,00:03:09,DNF
+ironman-lake-placid-20040725.csv,1255,Chas Ryan,42,VA,USA,01:06:58,06:17:40,04:11:15,00:09:04,00:03:38,11:48:35
+ironman-lake-placid-20040725.csv,1256,Doug Shattuck,42,MA,USA,01:12:11,06:06:53,05:03:41,00:10:02,00:08:51,12:41:38
+ironman-lake-placid-20040725.csv,1257,Anthony M. Valenty,---,TX,USA,01:15:20,07:36:11,05:40:56,00:11:51,00:09:16,14:53:34
+ironman-lake-placid-20040725.csv,1258,Jeffrey Molson,---,CT,USA,01:21:01,05:53:09,03:43:19,00:07:52,00:04:04,11:09:25
+ironman-lake-placid-20040725.csv,1259,Roger L. Huber,---,ME,USA,01:14:52,05:51:32,03:54:14,00:09:02,00:04:52,11:14:32
+ironman-lake-placid-20040725.csv,1260,Scott Beutler,42,IL,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1261,Mark R. Censits,---,NJ,USA,01:10:12,05:56:15,04:36:39,00:08:20,00:05:40,11:57:06
+ironman-lake-placid-20040725.csv,1262,Todd J. Colby,---,NY,USA,01:02:11,05:59:02,04:08:23,00:07:08,00:05:31,11:22:15
+ironman-lake-placid-20040725.csv,1263,Stephen W. Taylor,---,NY,USA,01:14:35,05:42:03,04:01:00,00:12:01,00:06:49,11:16:28
+ironman-lake-placid-20040725.csv,1264,Robert Taylor,20,CA,USA,01:18:19,06:07:16,04:26:35,00:11:18,00:07:01,12:10:29
+ironman-lake-placid-20040725.csv,1265,James A. Schaffstall,---,NY,USA,00:58:53,07:13:03,04:25:39,00:05:16,00:03:06,12:45:57
+ironman-lake-placid-20040725.csv,1266,Pete Orne,42,ME,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1267,Mark Ford,42,CA,USA,00:55:30,05:39:34,03:32:02,00:05:49,00:02:55,10:15:50
+ironman-lake-placid-20040725.csv,1268,Tony Adams,42,NC,USA,01:16:08,05:55:56,03:46:37,00:07:41,00:03:59,11:10:21
+ironman-lake-placid-20040725.csv,1269,Tracy Reading,---,NC,USA,00:56:33,06:58:21,05:17:07,00:12:20,00:08:44,13:33:05
+ironman-lake-placid-20040725.csv,1270,Gregory J. Pohl,---,OH,USA,01:28:51,06:58:07,07:24:51,00:12:43,00:05:59,16:10:31
+ironman-lake-placid-20040725.csv,1271,Robert North,42,ON,CAN,01:10:01,05:51:41,04:39:50,00:07:37,00:03:38,11:52:47
+ironman-lake-placid-20040725.csv,1272,Steven Engle,42,CA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1273,Carl Yacobacci,42,CT,USA,01:15:41,06:24:40,05:39:33,00:12:19,00:07:10,13:39:23
+ironman-lake-placid-20040725.csv,1274,Dean Bettis,42,CO,USA,01:39:00,07:47:41,04:52:14,00:12:10,00:08:38,14:39:43
+ironman-lake-placid-20040725.csv,1275,Danny E. Moore,---,SC,USA,01:09:31,06:18:37,05:27:32,00:10:22,00:07:30,13:13:32
+ironman-lake-placid-20040725.csv,1276,Estuardo Falla,42,---,GTM,01:17:49,08:35:38,06:43:20,00:14:26,00:09:19,17:00:32
+ironman-lake-placid-20040725.csv,1277,Thomas Dimauro,---,CT,USA,01:26:44,06:16:07,04:31:49,00:08:24,00:04:48,12:27:52
+ironman-lake-placid-20040725.csv,1278,Frank Hodges,42,FL,USA,01:14:45,05:58:38,03:53:14,00:05:39,00:05:06,11:17:22
+ironman-lake-placid-20040725.csv,1279,Michael Bates,---,HI,USA,01:18:48,06:02:09,04:21:21,00:09:43,00:04:05,11:56:06
+ironman-lake-placid-20040725.csv,1280,Craig Lussi,---,MD,USA,01:22:43,08:03:00,05:55:38,00:10:10,00:04:16,15:35:47
+ironman-lake-placid-20040725.csv,1281,Don Livingston,42,GA,USA,00:53:46,05:46:53,03:50:00,00:08:24,00:04:27,10:43:30
+ironman-lake-placid-20040725.csv,1282,Robert Destefano,---,NJ,USA,01:06:53,05:54:56,---,00:08:53,00:07:14,DNF
+ironman-lake-placid-20040725.csv,1283,Andrew S. Riemer,---,MI,USA,01:28:03,06:45:51,04:19:04,00:10:52,00:06:26,12:50:16
+ironman-lake-placid-20040725.csv,1284,Dale Pearce,---,VIC,AUS,01:07:46,06:05:35,05:03:18,00:10:04,00:05:46,12:32:29
+ironman-lake-placid-20040725.csv,1285,Michael R. Morgan,---,VT,USA,01:11:30,06:19:30,04:07:47,00:09:37,00:10:25,11:58:49
+ironman-lake-placid-20040725.csv,1286,Mike Mclaughlin,33,MA,USA,01:23:35,06:45:20,05:15:13,00:13:02,00:11:36,13:48:46
+ironman-lake-placid-20040725.csv,1287,Geoff Booth,---,NY,USA,01:03:34,05:45:26,03:59:03,00:08:49,00:05:17,11:02:09
+ironman-lake-placid-20040725.csv,1288,Michael Fisch,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1289,Ashwin Desai,42,MA,USA,01:27:31,07:18:52,05:51:08,00:11:00,00:06:33,14:55:04
+ironman-lake-placid-20040725.csv,1290,John Bobango,42,FL,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1291,Dominick C. Castellano,42,FL,USA,01:12:10,06:32:29,04:46:03,00:11:58,00:08:35,12:51:15
+ironman-lake-placid-20040725.csv,1292,Vincent Stapleton,42,---,CAN,01:11:28,05:44:03,03:52:29,00:09:40,00:04:56,11:02:36
+ironman-lake-placid-20040725.csv,1293,Jack Perion,42,MI,USA,01:06:43,05:42:52,04:55:17,00:07:12,00:05:27,11:57:31
+ironman-lake-placid-20040725.csv,1294,Andrew Gager,42,NC,USA,01:07:51,05:49:45,04:46:42,00:08:22,00:06:35,11:59:15
+ironman-lake-placid-20040725.csv,1295,Daniel Courneene,42,NY,USA,01:04:50,06:08:13,04:27:36,00:08:25,00:05:44,11:54:48
+ironman-lake-placid-20040725.csv,1296,Robert X. Kelleher,---,NJ,USA,01:12:10,05:46:38,04:07:18,00:09:42,00:06:09,11:21:57
+ironman-lake-placid-20040725.csv,1297,Karl Delaney,---,NY,USA,01:08:38,05:52:41,04:32:57,00:09:58,00:05:48,11:50:02
+ironman-lake-placid-20040725.csv,1298,Charles W. Whalen,---,NY,USA,01:09:07,05:43:38,04:08:52,00:07:04,00:02:40,11:11:21
+ironman-lake-placid-20040725.csv,1299,Mike Nicholas,42,PA,USA,01:10:41,06:16:18,06:34:01,00:08:15,00:08:32,14:17:47
+ironman-lake-placid-20040725.csv,1300,Peter Warner,---,NJ,USA,00:58:54,05:39:05,03:46:31,00:06:03,00:03:40,10:34:13
+ironman-lake-placid-20040725.csv,1301,Ed Beusse,---,NY,USA,01:16:48,06:21:17,04:38:09,00:07:45,00:04:23,12:28:22
+ironman-lake-placid-20040725.csv,1302,Chip H. Martin,---,VT,USA,01:05:46,06:24:13,04:42:20,00:06:01,00:09:41,12:28:01
+ironman-lake-placid-20040725.csv,1303,Keith D. Owens,---,MO,USA,01:06:54,05:44:45,04:22:47,00:05:41,00:05:28,11:25:35
+ironman-lake-placid-20040725.csv,1304,James G. Morand,---,ON,CAN,01:04:12,05:21:53,03:23:56,00:04:50,00:02:34,09:57:25
+ironman-lake-placid-20040725.csv,1305,Jerry Williamson,42,OH,USA,01:08:50,06:23:53,04:05:50,00:08:09,00:05:52,11:52:34
+ironman-lake-placid-20040725.csv,1306,Bill Ulmer,42,PA,USA,01:04:06,05:53:32,04:29:30,00:07:05,00:06:10,11:40:23
+ironman-lake-placid-20040725.csv,1307,David A. Buono,---,CT,USA,01:15:08,07:16:53,05:17:49,00:14:22,00:10:17,14:14:29
+ironman-lake-placid-20040725.csv,1308,Ron Havens,---,NY,USA,01:03:08,06:12:02,05:19:29,00:08:16,00:11:21,12:54:16
+ironman-lake-placid-20040725.csv,1309,Marcus R. Wyler,---,DC,USA,01:24:13,08:11:02,05:45:11,00:13:22,00:08:12,15:42:00
+ironman-lake-placid-20040725.csv,1310,Hernan J. Garbini,---,VA,USA,01:15:33,06:30:03,---,00:07:55,00:05:43,DNF
+ironman-lake-placid-20040725.csv,1311,Joseph Trustey,---,MA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1312,Brian Ashforth,42,NJ,USA,01:11:57,06:27:43,04:20:57,00:13:40,00:07:27,12:21:44
+ironman-lake-placid-20040725.csv,1313,Chris E. Remer,---,MA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1314,Edward Dempsey,---,NY,USA,01:18:13,06:47:43,04:10:26,00:10:08,00:06:16,12:32:46
+ironman-lake-placid-20040725.csv,1315,David Ruckstuhl,---,AK,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1316,Kevin Carriere,---,CT,USA,01:11:20,06:55:26,04:49:33,00:17:04,00:08:35,13:21:58
+ironman-lake-placid-20040725.csv,1317,Scott M. Worcester,---,MI,USA,01:13:02,06:51:33,04:21:26,00:07:06,00:05:20,12:38:27
+ironman-lake-placid-20040725.csv,1318,Warren Frick,43,VA,USA,01:23:29,06:28:16,04:43:48,00:09:15,00:04:54,12:49:42
+ironman-lake-placid-20040725.csv,1319,Kevin G. Trybalski,---,TX,USA,01:28:54,07:26:35,06:31:18,00:13:47,00:11:37,15:52:11
+ironman-lake-placid-20040725.csv,1320,James R. Dean,---,NC,USA,01:17:52,06:29:50,04:34:46,00:07:17,00:03:41,12:33:26
+ironman-lake-placid-20040725.csv,1321,Ian Burton,43,---,CAN,01:08:03,07:11:14,06:06:31,00:06:54,00:11:32,14:44:14
+ironman-lake-placid-20040725.csv,1322,Mark S. Trafford,---,ON,CAN,01:18:51,06:14:37,04:39:49,00:08:47,00:07:29,12:29:33
+ironman-lake-placid-20040725.csv,1323,Jay T. Vincent,---,CT,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1324,Marc P. Delmonico,---,CT,USA,01:11:28,06:29:19,06:41:47,00:09:03,00:07:37,14:39:14
+ironman-lake-placid-20040725.csv,1325,David Kelleran,43,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1326,John Bell,32,NC,USA,01:38:53,07:59:23,04:38:32,00:12:47,00:09:23,14:38:58
+ironman-lake-placid-20040725.csv,1327,Javier M. Whittingslow,---,---,VEN,01:12:14,05:55:27,04:24:58,00:07:21,00:05:21,11:45:21
+ironman-lake-placid-20040725.csv,1328,Daniel B. Thompson,---,OH,USA,01:35:33,06:57:05,04:45:57,00:14:54,00:08:22,13:41:51
+ironman-lake-placid-20040725.csv,1329,Michael H. Folan,---,OH,USA,01:11:23,06:37:25,04:49:25,00:11:04,00:06:42,12:55:59
+ironman-lake-placid-20040725.csv,1330,Patrick Clark,23,CA,CAN,01:28:59,07:19:14,04:42:19,00:13:04,00:06:40,13:50:16
+ironman-lake-placid-20040725.csv,1331,Michael Kane,43,TX,USA,01:20:06,07:11:30,06:40:23,00:09:27,00:05:44,15:27:10
+ironman-lake-placid-20040725.csv,1332,Huy Nguyen,43,CA,USA,01:17:33,06:44:16,04:30:40,00:07:24,00:03:23,12:43:16
+ironman-lake-placid-20040725.csv,1333,Kevin B. Piggott,---,NS,CAN,01:13:10,06:45:04,05:19:11,00:09:28,00:06:20,13:33:13
+ironman-lake-placid-20040725.csv,1334,Andre Dupuis,43,---,CAN,01:11:54,06:07:08,03:29:27,00:07:50,00:03:25,10:59:44
+ironman-lake-placid-20040725.csv,1335,Bret Rosane,43,AK,USA,01:07:09,06:18:22,03:47:04,00:08:54,00:06:40,11:28:09
+ironman-lake-placid-20040725.csv,1336,John F. Brennan,---,CT,USA,01:19:34,06:33:28,04:40:39,00:12:43,00:08:28,12:54:52
+ironman-lake-placid-20040725.csv,1337,Doug Cole,43,VA,USA,01:17:38,05:58:29,04:13:32,00:07:44,00:04:42,11:42:05
+ironman-lake-placid-20040725.csv,1338,Paul Hackett,43,NJ,USA,01:22:54,06:46:18,04:17:07,00:09:18,00:03:53,12:39:30
+ironman-lake-placid-20040725.csv,1339,Kevin G. Konkle,---,ON,CAN,01:12:17,05:46:18,04:30:16,00:10:32,00:05:46,11:45:09
+ironman-lake-placid-20040725.csv,1340,Jorge Morales,43,---,GTM,01:07:02,07:05:15,05:32:33,00:07:47,00:03:47,13:56:24
+ironman-lake-placid-20040725.csv,1341,Michael A. Lewis,---,IN,USA,00:56:40,06:39:54,05:44:36,00:06:15,00:06:18,13:33:43
+ironman-lake-placid-20040725.csv,1342,Charles Guess,43,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1343,John M. Steigerwald,---,NY,USA,01:30:52,07:10:20,05:38:19,00:09:08,00:10:59,14:39:38
+ironman-lake-placid-20040725.csv,1344,Kirk Morrow,43,NE,USA,01:16:25,05:52:33,03:18:44,00:08:48,00:04:02,10:40:32
+ironman-lake-placid-20040725.csv,1345,Daniel M. Veltri,---,CT,USA,01:12:33,06:50:07,04:11:01,00:14:04,00:08:58,12:36:43
+ironman-lake-placid-20040725.csv,1346,Peter Loetzner,---,NJ,USA,01:09:08,05:43:35,04:20:04,00:07:05,00:03:56,11:23:48
+ironman-lake-placid-20040725.csv,1347,Jerry Eltringham,43,PA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1348,Mike Rytokoski,---,FL,USA,01:32:40,07:56:11,05:06:00,00:12:16,00:07:37,14:54:44
+ironman-lake-placid-20040725.csv,1349,David Eisen,43,NJ,USA,01:12:39,06:34:21,04:57:32,00:10:31,00:06:48,13:01:51
+ironman-lake-placid-20040725.csv,1350,William E. Voss,---,NH,USA,01:16:37,08:16:39,---,00:12:45,---,DNF
+ironman-lake-placid-20040725.csv,1351,Brian P. Moran,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1352,Robert J. Wallace,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1353,Eugene Metto,---,MA,USA,01:24:30,07:13:29,05:00:26,00:10:39,00:05:05,13:54:09
+ironman-lake-placid-20040725.csv,1354,Hadley Heindel,43,GA,USA,01:05:54,06:05:09,04:41:24,00:08:35,00:05:35,12:06:37
+ironman-lake-placid-20040725.csv,1355,Barry Dmitruk,43,ON,CAN,01:06:41,05:25:52,03:35:10,00:04:39,00:03:06,10:15:28
+ironman-lake-placid-20040725.csv,1356,Vayzel Lee,43,ON,CAN,01:14:02,06:29:19,04:49:25,00:12:01,00:06:22,12:51:09
+ironman-lake-placid-20040725.csv,1357,Jeff Reece,43,---,CAN,01:03:27,05:49:43,05:05:37,00:06:36,00:04:18,12:09:41
+ironman-lake-placid-20040725.csv,1358,Gary Pretzer,43,GA,USA,01:03:33,05:59:26,04:56:31,00:06:45,00:04:34,12:10:49
+ironman-lake-placid-20040725.csv,1359,Doug Sutherland,---,ON,CAN,00:58:42,06:04:25,04:11:07,00:07:55,00:05:44,11:27:53
+ironman-lake-placid-20040725.csv,1360,E.C. Peters,43,NJ,USA,01:30:12,07:04:36,04:16:57,00:13:13,00:12:10,13:17:08
+ironman-lake-placid-20040725.csv,1361,David Evans,42,Pembrokeshire,GBR,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1362,Gary Bolton,43,NC,USA,00:58:22,05:52:21,03:52:50,00:04:37,00:03:24,10:51:34
+ironman-lake-placid-20040725.csv,1363,Michael P. Rauscher,---,CT,USA,01:12:27,06:04:08,05:31:27,00:11:45,00:06:30,13:06:17
+ironman-lake-placid-20040725.csv,1364,Carlos Betancourt,---,SP,BRA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1365,Matthew Buckley,8,VA,USA,00:55:19,06:17:12,04:55:40,00:07:32,00:05:45,12:21:28
+ironman-lake-placid-20040725.csv,1366,Barry Horpestad,---,QC,CAN,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1367,Matthew Bergin,---,MA,USA,01:24:00,06:12:57,04:38:36,00:11:00,00:13:48,12:40:21
+ironman-lake-placid-20040725.csv,1368,Bob M. Reitz,---,OH,USA,01:18:08,07:11:50,06:01:48,00:11:24,00:05:41,14:48:51
+ironman-lake-placid-20040725.csv,1369,Mark J. Smith,---,ON,CAN,01:26:30,06:07:54,04:26:23,00:10:57,00:08:49,12:20:33
+ironman-lake-placid-20040725.csv,1370,Derek Boyne,43,ON,CAN,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1371,James C. Reed,---,AZ,USA,01:23:06,06:52:50,05:02:23,00:10:54,00:10:19,13:39:32
+ironman-lake-placid-20040725.csv,1372,Jerry R. Frostick,---,VA,USA,01:18:42,06:04:36,04:00:50,00:11:09,00:04:12,11:39:29
+ironman-lake-placid-20040725.csv,1373,Richard S. Kelly,---,MA,USA,01:06:46,05:51:11,04:39:46,00:08:12,00:06:35,11:52:30
+ironman-lake-placid-20040725.csv,1374,Stephen R. Tarpinian,---,NY,USA,00:53:37,06:01:45,05:10:53,00:05:12,00:06:14,12:17:41
+ironman-lake-placid-20040725.csv,1375,Jeff Liccardi,---,NJ,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1376,Russell Halpernreiss,---,VT,USA,01:05:29,05:47:58,04:38:36,00:06:05,00:04:18,11:42:26
+ironman-lake-placid-20040725.csv,1377,Chris Sorensen,43,MA,USA,01:09:06,05:59:04,04:19:12,00:09:32,00:03:21,11:40:15
+ironman-lake-placid-20040725.csv,1378,Steven Soper,43,---,CAN,01:21:12,07:51:13,06:59:34,00:10:01,00:06:22,16:28:22
+ironman-lake-placid-20040725.csv,1379,David Gatz,---,NY,USA,01:00:37,05:19:46,03:40:22,00:04:14,00:01:27,10:06:26
+ironman-lake-placid-20040725.csv,1380,Glenn Quackenbush,---,NY,USA,00:56:24,06:11:59,04:31:23,00:10:44,00:08:34,11:59:04
+ironman-lake-placid-20040725.csv,1381,Larry Kahn,---,ON,CAN,01:29:28,07:04:19,04:54:06,00:13:27,00:11:18,13:52:38
+ironman-lake-placid-20040725.csv,1382,George Robb,---,FL,USA,01:02:07,05:29:31,03:48:30,00:05:10,00:02:07,10:27:25
+ironman-lake-placid-20040725.csv,1383,Jamie Arnold,---,ON,CAN,01:00:59,05:31:14,03:52:31,00:07:01,00:06:08,10:37:53
+ironman-lake-placid-20040725.csv,1384,Roger Royse,---,CA,USA,01:35:21,07:56:21,05:34:36,00:11:24,00:08:35,15:26:17
+ironman-lake-placid-20040725.csv,1385,Robert Hammond,44,FL,USA,01:12:50,06:35:44,05:33:04,00:12:23,00:30:29,14:04:30
+ironman-lake-placid-20040725.csv,1386,Timothy Pynchon,---,MA,USA,01:09:17,05:48:44,04:15:05,00:06:00,00:05:15,11:24:21
+ironman-lake-placid-20040725.csv,1387,Marc E. Laplante,---,MA,USA,01:30:29,07:01:51,04:14:30,00:12:55,00:08:51,13:08:36
+ironman-lake-placid-20040725.csv,1388,Bob Kenyon,44,NC,USA,01:09:38,06:00:54,03:56:58,00:10:16,00:04:07,11:21:53
+ironman-lake-placid-20040725.csv,1389,Brian J. Gray,---,VA,USA,01:16:14,06:19:07,04:07:34,00:08:31,00:03:34,11:55:00
+ironman-lake-placid-20040725.csv,1390,Richard Brokaw,---,MD,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1391,Al Sheppard,44,DC,USA,01:18:12,08:06:36,05:42:30,00:13:53,00:13:35,15:34:46
+ironman-lake-placid-20040725.csv,1392,Daniel J. Tyler,---,OH,USA,01:39:46,07:11:48,05:10:57,00:11:26,00:08:25,14:22:22
+ironman-lake-placid-20040725.csv,1393,David Barzetti,44,CT,USA,01:03:29,05:56:39,04:16:01,00:05:21,00:02:17,11:23:47
+ironman-lake-placid-20040725.csv,1394,Larry H. Gillet,---,NY,USA,01:49:28,07:47:37,05:40:08,00:09:17,00:06:56,15:33:26
+ironman-lake-placid-20040725.csv,1395,Michael R. Donnelly,---,NY,USA,01:08:23,06:15:25,04:11:53,00:11:37,00:08:20,11:55:38
+ironman-lake-placid-20040725.csv,1396,Joe Szwajkowski,44,PA,USA,01:21:47,08:14:19,06:19:39,00:13:55,00:10:03,16:19:43
+ironman-lake-placid-20040725.csv,1397,Timothy M. Laseter,---,VA,USA,01:12:56,06:15:40,05:25:51,00:08:59,00:09:19,13:12:45
+ironman-lake-placid-20040725.csv,1398,Stephen Taylor,---,NSW,AUS,01:03:30,06:35:44,05:31:41,00:06:33,00:04:59,13:22:27
+ironman-lake-placid-20040725.csv,1399,John R. Zeigle,---,VT,USA,01:08:40,05:40:12,04:11:12,00:05:39,00:03:23,11:09:06
+ironman-lake-placid-20040725.csv,1400,Carl Russo,44,NC,USA,01:31:08,07:14:37,04:26:04,00:12:58,00:07:21,13:32:08
+ironman-lake-placid-20040725.csv,1401,David Charter,44,OH,USA,01:46:56,06:52:51,04:59:50,00:10:33,00:09:49,13:59:59
+ironman-lake-placid-20040725.csv,1402,Roger George,44,AB,CAN,01:29:46,06:00:38,04:18:55,00:05:48,00:03:27,11:58:34
+ironman-lake-placid-20040725.csv,1403,Ed Breda,44,IL,USA,01:08:47,05:57:47,04:04:27,00:07:04,00:03:01,11:21:06
+ironman-lake-placid-20040725.csv,1404,David Brownell,44,NY,USA,01:27:38,06:12:55,04:22:52,00:10:08,00:09:20,12:22:53
+ironman-lake-placid-20040725.csv,1405,Andras Erci,44,---,CAN,01:07:17,06:43:39,04:49:55,00:10:54,00:05:43,12:57:28
+ironman-lake-placid-20040725.csv,1406,Denis R. Morel,---,ON,CAN,01:28:10,07:06:40,06:01:17,00:11:17,00:12:45,15:00:09
+ironman-lake-placid-20040725.csv,1407,Elan Omessi,44,TX,USA,01:27:18,07:57:36,05:25:47,00:13:38,00:08:20,15:12:39
+ironman-lake-placid-20040725.csv,1409,Joseph Zwack,44,CA,USA,01:16:56,05:35:38,04:12:33,00:05:38,00:02:26,11:13:11
+ironman-lake-placid-20040725.csv,1410,Nicholas B. Mclaren,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1411,Terry Foley,44,FL,USA,01:20:53,06:52:41,05:16:32,00:09:25,00:10:39,13:50:10
+ironman-lake-placid-20040725.csv,1412,Fr. Tom E. Baker,---,CA,USA,01:05:58,05:52:15,04:03:26,00:05:48,00:03:37,11:11:04
+ironman-lake-placid-20040725.csv,1413,Richard Sherman,44,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1414,Allen W. Mcclure,---,LA,USA,01:04:58,08:01:10,05:38:20,00:11:10,00:09:29,15:05:07
+ironman-lake-placid-20040725.csv,1415,Oren R. Eckrote,---,PA,USA,01:24:18,06:16:28,03:26:37,00:13:00,00:05:20,11:25:43
+ironman-lake-placid-20040725.csv,1416,Ramiro E. Cortes,---,FL,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1417,Andre Buteau,44,QC,CAN,01:18:28,06:40:51,06:06:21,00:07:30,00:05:29,14:18:39
+ironman-lake-placid-20040725.csv,1418,Carl Fortune,---,VT,USA,01:12:06,07:02:52,05:29:47,00:08:46,00:08:33,14:02:04
+ironman-lake-placid-20040725.csv,1419,Jim Curran,44,OH,USA,01:33:19,06:25:28,05:02:59,00:09:40,00:06:26,13:17:52
+ironman-lake-placid-20040725.csv,1420,Timothy Smith,---,NJ,USA,01:08:26,06:50:07,04:35:10,00:11:15,00:05:40,12:50:38
+ironman-lake-placid-20040725.csv,1421,Brian Keast,---,ON,CAN,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1422,Thomas Engle,44,NY,USA,01:12:20,06:28:42,06:00:57,00:10:43,00:10:10,14:02:52
+ironman-lake-placid-20040725.csv,1423,Mark S. Wise,---,DE,USA,01:01:57,05:19:45,03:49:32,00:05:12,00:03:21,10:19:47
+ironman-lake-placid-20040725.csv,1424,John Bartram,44,NJ,USA,01:07:55,06:10:30,---,00:07:25,00:05:15,DNF
+ironman-lake-placid-20040725.csv,1425,Chris Burke,44,CT,USA,01:00:59,06:54:10,04:46:09,00:08:35,00:05:47,12:55:40
+ironman-lake-placid-20040725.csv,1426,Jim Kueffner,---,NE,USA,00:59:07,06:19:36,04:27:37,00:13:33,00:10:24,12:10:17
+ironman-lake-placid-20040725.csv,1427,Rick Plasse,---,NY,USA,01:19:31,06:22:54,05:36:27,00:09:19,00:06:29,13:34:40
+ironman-lake-placid-20040725.csv,1428,Rob Kasper,44,GA,USA,01:11:09,06:34:21,05:49:42,00:06:30,00:04:47,13:46:29
+ironman-lake-placid-20040725.csv,1429,Christopher J. Ford,---,NY,USA,01:01:59,06:48:28,04:49:58,00:12:56,00:09:27,13:02:48
+ironman-lake-placid-20040725.csv,1430,Frank H. Schaefer,---,NY,USA,01:06:47,06:22:44,05:30:01,00:08:23,00:06:35,13:14:30
+ironman-lake-placid-20040725.csv,1431,Cliff Grossi,44,NJ,USA,01:29:35,07:06:23,06:49:43,00:08:54,00:08:47,15:43:22
+ironman-lake-placid-20040725.csv,1432,Andrew K. Nye,---,NY,USA,01:27:40,07:28:16,---,00:14:12,00:06:38,DNF
+ironman-lake-placid-20040725.csv,1433,Kevin Higgins,---,NY,USA,01:03:46,05:29:52,03:38:58,00:05:55,00:03:36,10:22:07
+ironman-lake-placid-20040725.csv,1434,Rick Casella,44,MA,USA,01:17:26,07:49:59,05:14:49,00:11:22,00:05:33,14:39:09
+ironman-lake-placid-20040725.csv,1435,Robert S. Wolmer,---,NJ,USA,01:21:57,07:22:41,05:44:08,00:14:31,00:08:00,14:51:17
+ironman-lake-placid-20040725.csv,1436,"Albert Lyman, Jr.",---,CT,USA,01:07:58,---,---,---,---,DNF
+ironman-lake-placid-20040725.csv,1437,Ken Bailey,44,VA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1438,Tom Luckey,44,NY,USA,01:19:08,06:45:51,05:27:21,00:11:13,00:05:32,13:49:05
+ironman-lake-placid-20040725.csv,1439,David Shaw,44,NC,USA,01:15:49,06:05:23,04:12:30,00:10:03,00:05:06,11:48:51
+ironman-lake-placid-20040725.csv,1440,Darrell A. Herbert,---,MA,USA,01:22:38,06:03:07,04:16:53,00:08:39,00:06:07,11:57:24
+ironman-lake-placid-20040725.csv,1441,Walter Schrading,44,AL,USA,01:19:57,06:28:48,04:21:36,00:11:45,00:05:52,12:27:58
+ironman-lake-placid-20040725.csv,1442,Michael Blue,---,WA,USA,01:04:36,05:22:45,03:17:49,00:04:39,00:02:00,09:51:49
+ironman-lake-placid-20040725.csv,1443,Carl Wernicke,---,CT,USA,01:09:33,06:10:13,05:05:17,00:13:11,00:04:17,12:42:31
+ironman-lake-placid-20040725.csv,1444,Jim Hurrell,---,VA,USA,00:56:39,06:10:01,04:57:52,00:05:21,00:05:26,12:15:19
+ironman-lake-placid-20040725.csv,1445,David A. Holden,---,MD,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1446,Robert E. Ryan,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1447,Robert P. Fink,45,TN,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1448,Dan Aleksich,45,---,CAN,01:44:10,08:15:10,05:26:18,00:14:51,00:10:07,15:50:36
+ironman-lake-placid-20040725.csv,1449,Stephen O. Mccaffrey,---,MA,USA,01:33:21,06:36:38,04:30:13,00:08:35,00:06:55,12:55:42
+ironman-lake-placid-20040725.csv,1450,Kevin Seelman,---,MO,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1451,Mark Lemmon,45,OH,USA,01:09:18,05:52:08,04:11:02,00:06:21,00:02:57,11:21:46
+ironman-lake-placid-20040725.csv,1452,Don G. Forbes,---,ON,CAN,01:19:28,06:27:12,05:01:01,00:09:33,00:05:44,13:02:58
+ironman-lake-placid-20040725.csv,1453,Douglas B. Graham,---,MD,USA,01:04:20,05:56:05,03:46:50,00:07:04,00:02:36,10:56:55
+ironman-lake-placid-20040725.csv,1454,Cliff Rigby,45,NJ,USA,01:04:25,05:58:07,04:53:19,00:07:44,00:05:14,12:08:49
+ironman-lake-placid-20040725.csv,1455,Kevin M. Henry,---,VA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1456,Glenn R. Regenye,---,NJ,USA,01:08:47,05:45:20,04:06:33,00:07:04,00:05:58,11:13:42
+ironman-lake-placid-20040725.csv,1457,Donald R. Morse      Jr.,---,MA,USA,01:05:14,06:03:47,05:09:36,00:07:54,00:05:38,12:32:09
+ironman-lake-placid-20040725.csv,1458,Steve Noone,45,PA,USA,01:14:53,05:30:05,03:24:05,00:06:25,00:05:12,10:20:40
+ironman-lake-placid-20040725.csv,1459,Dale E. Van Slambrook,---,SC,USA,01:27:32,07:25:09,06:27:24,00:11:34,00:04:16,15:35:55
+ironman-lake-placid-20040725.csv,1460,Bruice Sermonis,45,NY,USA,01:07:16,05:37:34,04:13:32,00:05:43,00:05:06,11:09:11
+ironman-lake-placid-20040725.csv,1461,Rod Huddleston,45,HI,USA,01:10:20,05:50:18,03:55:37,00:08:10,00:04:11,11:08:36
+ironman-lake-placid-20040725.csv,1462,Jeff Fink,45,NJ,USA,01:31:59,07:40:05,06:07:37,00:16:32,00:09:56,15:46:09
+ironman-lake-placid-20040725.csv,1463,Gregory P. George,---,IL,USA,01:16:10,06:04:56,04:38:39,00:07:19,00:04:23,12:11:27
+ironman-lake-placid-20040725.csv,1464,Ian Driver,45,ON,CAN,01:05:39,06:10:03,04:41:49,00:05:49,00:02:35,12:05:55
+ironman-lake-placid-20040725.csv,1465,Stephen W. Hinton,---,ON,CAN,01:07:22,05:44:50,03:52:03,00:06:49,00:02:50,10:53:54
+ironman-lake-placid-20040725.csv,1466,Greg Warner,45,CA,USA,00:58:11,05:36:40,03:42:39,00:05:25,00:02:18,10:25:13
+ironman-lake-placid-20040725.csv,1467,Robert Mckinley,---,NJ,USA,01:07:00,05:33:48,04:06:06,00:06:43,00:02:45,10:56:22
+ironman-lake-placid-20040725.csv,1468,Thomas Farrar,45,NV,USA,01:10:15,06:57:07,05:39:37,00:09:11,00:07:11,14:03:21
+ironman-lake-placid-20040725.csv,1469,Michael Tierney,45,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1470,Mark Johnsen,45,NJ,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1471,John Stratton,45,CA,USA,01:09:12,05:50:27,04:08:53,00:06:48,00:03:03,11:18:23
+ironman-lake-placid-20040725.csv,1472,Raymond W. Urbanski,---,NJ,USA,01:28:17,07:59:35,06:13:33,00:09:29,00:04:20,15:55:14
+ironman-lake-placid-20040725.csv,1473,Paul Smarsh,45,NY,USA,01:11:48,06:56:10,04:43:36,00:12:09,00:07:11,13:10:54
+ironman-lake-placid-20040725.csv,1474,Frank M. Moore,---,NY,USA,01:07:49,05:50:41,04:16:27,00:08:33,00:04:54,11:28:24
+ironman-lake-placid-20040725.csv,1475,Bruce Messite,45,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1476,Tom Ivey,45,VA,USA,01:17:32,07:09:48,04:42:28,00:10:19,00:06:07,13:26:14
+ironman-lake-placid-20040725.csv,1477,Dennis Appelt,---,NJ,USA,01:16:29,07:04:40,06:14:49,00:12:57,00:07:58,14:56:53
+ironman-lake-placid-20040725.csv,1478,Michael J. Kaufmann,---,NY,USA,01:20:25,07:21:13,06:32:18,00:08:55,00:09:37,15:32:28
+ironman-lake-placid-20040725.csv,1479,Pat Mcfalls,45,NY,USA,01:10:09,06:04:10,05:33:08,00:09:58,00:05:00,13:02:25
+ironman-lake-placid-20040725.csv,1480,Eric Stavoe,45,AZ,USA,01:15:58,06:33:31,04:33:08,00:09:37,00:08:34,12:40:48
+ironman-lake-placid-20040725.csv,1481,Jeff W. Gura,---,MD,USA,01:13:45,06:45:42,05:30:58,00:08:35,00:07:49,13:46:49
+ironman-lake-placid-20040725.csv,1482,Robert N. Grimes,---,MD,USA,01:28:57,07:16:54,06:10:34,00:10:20,00:07:22,15:14:07
+ironman-lake-placid-20040725.csv,1483,Michael J. Blair,---,VA,USA,01:05:59,---,---,00:08:55,---,DNF
+ironman-lake-placid-20040725.csv,1484,Randy L. Miller,---,NJ,USA,01:06:35,05:45:28,03:50:57,00:08:40,00:04:15,10:55:55
+ironman-lake-placid-20040725.csv,1485,Dave Herst,---,FL,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1486,Tom Biery,45,MD,USA,01:20:18,08:14:14,06:40:54,00:17:54,00:09:25,16:42:45
+ironman-lake-placid-20040725.csv,1487,Scott E. Miles,---,GA,USA,01:11:56,06:43:37,---,00:09:21,00:08:24,DNF
+ironman-lake-placid-20040725.csv,1488,Brian Norton,45,NY,USA,01:14:26,07:23:04,04:52:08,00:10:38,00:13:44,13:54:00
+ironman-lake-placid-20040725.csv,1489,Richard Malekos,45,---,CAN,01:08:02,06:32:16,05:51:38,00:06:31,00:05:04,13:43:31
+ironman-lake-placid-20040725.csv,1490,Vincent P. Conrad,---,CA,USA,01:27:16,07:05:41,05:23:38,00:09:33,00:07:14,14:13:22
+ironman-lake-placid-20040725.csv,1491,Richard Consoli,45,---,USA,01:10:33,06:12:11,04:19:41,00:10:47,00:08:24,12:01:36
+ironman-lake-placid-20040725.csv,1492,Vince J. Feres,---,ON,CAN,01:01:59,05:27:40,03:37:00,00:05:17,00:03:29,10:15:25
+ironman-lake-placid-20040725.csv,1493,Smokin Joe Walsh,45,NY,USA,01:23:59,06:45:28,04:59:31,00:10:42,00:09:29,13:29:09
+ironman-lake-placid-20040725.csv,1494,Marco Bonelli,45,NJ,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1495,Eddie T. O'Brien,---,PA,USA,01:12:37,06:48:43,05:53:08,00:10:20,00:06:23,14:11:11
+ironman-lake-placid-20040725.csv,1496,Kenneth E. Mcalister,---,PA,USA,01:19:04,06:27:25,04:42:48,00:08:52,00:05:50,12:43:59
+ironman-lake-placid-20040725.csv,1497,Girard M. Hessling,---,CT,USA,01:00:40,06:28:32,05:32:13,00:14:27,00:10:13,13:26:05
+ironman-lake-placid-20040725.csv,1498,Daniel P. Venora,---,CT,USA,01:20:50,06:31:55,04:29:14,00:08:14,00:05:36,12:35:49
+ironman-lake-placid-20040725.csv,1499,Richard D. Swanson,---,NY,USA,01:13:55,07:48:03,06:04:18,00:10:45,00:05:50,15:22:51
+ironman-lake-placid-20040725.csv,1500,Chris Woods,---,CT,USA,00:57:03,05:47:21,03:39:12,00:06:48,00:05:04,10:35:28
+ironman-lake-placid-20040725.csv,1501,Dean Dean,45,NJ,USA,01:23:24,06:13:44,04:49:35,00:14:56,00:11:33,12:53:12
+ironman-lake-placid-20040725.csv,1502,Jim Riley,45,NJ,USA,01:13:18,06:35:09,05:03:32,00:10:58,00:05:44,13:08:41
+ironman-lake-placid-20040725.csv,1503,Kevin Mallery,46,CT,USA,01:14:14,05:42:36,05:25:02,00:07:55,00:03:38,12:33:25
+ironman-lake-placid-20040725.csv,1504,Greg Morgans,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1505,Chris A. Grantham,---,NY,USA,00:54:48,05:50:59,04:57:54,00:06:45,00:03:35,11:54:01
+ironman-lake-placid-20040725.csv,1506,Joerg Zuend,46,OH,USA,01:17:38,05:55:44,03:51:34,00:06:54,00:02:49,11:14:39
+ironman-lake-placid-20040725.csv,1507,Nedyalko V. Ivanov,---,OH,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1508,William P. Bellew,---,FL,USA,01:18:27,05:52:49,04:13:27,00:13:56,00:10:59,11:49:38
+ironman-lake-placid-20040725.csv,1509,Greg S. Stewart,---,PA,USA,01:05:47,05:41:32,04:18:59,00:07:05,00:04:48,11:18:11
+ironman-lake-placid-20040725.csv,1510,James R. Langmead,---,NY,USA,01:57:42,07:20:50,04:31:30,00:10:54,00:08:44,14:09:40
+ironman-lake-placid-20040725.csv,1511,Frank Molloy,46,GA,USA,01:08:28,05:47:38,03:58:55,00:07:20,00:04:03,11:06:24
+ironman-lake-placid-20040725.csv,1512,Rashid Redd,46,NY,USA,01:35:28,08:27:35,05:33:29,00:08:32,00:06:21,15:51:25
+ironman-lake-placid-20040725.csv,1513,John M. Stimac,---,ON,CAN,01:29:57,06:33:34,05:14:38,00:10:53,00:07:45,13:36:47
+ironman-lake-placid-20040725.csv,1514,Martin S. Avidan,---,NY,USA,01:07:53,05:26:15,03:46:41,00:05:33,00:03:52,10:30:14
+ironman-lake-placid-20040725.csv,1515,Jim Irvine,46,NY,USA,01:03:22,06:05:46,04:04:28,00:06:25,00:04:17,11:24:18
+ironman-lake-placid-20040725.csv,1516,Bruce C. Rayner,---,MA,USA,01:11:33,06:06:22,04:15:46,00:08:17,00:07:55,11:49:53
+ironman-lake-placid-20040725.csv,1517,Stephen E. Albright,---,NY,USA,01:18:47,07:04:07,04:22:41,00:13:07,00:08:13,13:06:55
+ironman-lake-placid-20040725.csv,1518,Kevin Thompson,20,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1519,Vince P. Touey,---,PA,USA,01:09:36,05:52:54,04:03:55,00:05:54,00:05:21,11:17:40
+ironman-lake-placid-20040725.csv,1520,Jean-Philippe Leblanc,---,QC,CAN,01:06:49,05:42:15,04:07:44,00:06:35,00:03:08,11:06:31
+ironman-lake-placid-20040725.csv,1521,Greg Staffon,46,CA,USA,01:18:15,06:35:03,04:50:25,00:10:03,00:08:22,13:02:08
+ironman-lake-placid-20040725.csv,1522,Douglas W. Kerr,---,NY,USA,01:12:14,05:51:53,03:46:51,00:06:02,00:03:44,11:00:44
+ironman-lake-placid-20040725.csv,1523,Robert Weatherwax,---,FL,USA,01:01:04,05:41:24,03:55:27,00:05:51,00:03:46,10:47:32
+ironman-lake-placid-20040725.csv,1524,Daniel Campo,---,NC,USA,01:09:15,05:24:15,04:06:15,00:05:54,00:02:43,10:48:22
+ironman-lake-placid-20040725.csv,1525,Marc Couture,---,QC,CAN,01:05:03,06:15:12,05:06:17,00:09:41,00:08:16,12:44:29
+ironman-lake-placid-20040725.csv,1526,Luc Trottier,---,QC,CAN,01:09:47,05:24:19,03:34:55,00:09:35,00:04:48,10:23:24
+ironman-lake-placid-20040725.csv,1527,Yoland Savard,46,---,CAN,01:22:51,06:56:36,04:22:07,00:12:38,00:07:25,13:01:37
+ironman-lake-placid-20040725.csv,1528,Robert Maluso,46,NJ,USA,01:21:04,06:34:12,05:03:46,00:10:24,00:05:39,13:15:05
+ironman-lake-placid-20040725.csv,1529,Bryant Kaplan,46,NY,USA,01:27:04,06:48:21,05:00:25,00:16:16,00:07:42,13:39:48
+ironman-lake-placid-20040725.csv,1530,Gary Euliss,46,VA,USA,01:29:48,07:15:54,05:05:36,00:15:31,00:12:19,14:19:08
+ironman-lake-placid-20040725.csv,1531,Al Graef,46,NJ,USA,01:14:10,06:59:01,05:43:07,00:09:41,00:06:33,14:12:32
+ironman-lake-placid-20040725.csv,1532,Bob Plamondon,---,ON,CAN,01:06:36,05:48:53,04:31:47,00:06:49,00:04:59,11:39:04
+ironman-lake-placid-20040725.csv,1533,Terrence J. Dooling,---,CT,USA,01:06:10,06:20:10,04:26:09,00:11:27,00:04:52,12:08:48
+ironman-lake-placid-20040725.csv,1534,Gary Meyer,46,GA,USA,01:07:26,05:55:12,05:12:05,00:09:17,00:05:13,12:29:13
+ironman-lake-placid-20040725.csv,1535,Philip Schettewi,46,MD,USA,01:07:55,05:52:18,04:00:19,00:08:53,00:02:23,11:11:48
+ironman-lake-placid-20040725.csv,1536,Kevin A. Cunningham,---,NY,USA,01:05:36,05:32:03,04:01:02,00:06:30,00:03:25,10:48:36
+ironman-lake-placid-20040725.csv,1537,Jeffrey Tyler,46,IA,USA,01:18:17,06:38:07,05:22:58,00:09:12,00:06:27,13:35:01
+ironman-lake-placid-20040725.csv,1538,Ted Depatie,46,MA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1539,Tom Decembrino,---,PA,USA,01:07:20,06:02:40,04:06:41,00:05:54,00:03:49,11:26:24
+ironman-lake-placid-20040725.csv,1540,Olivier Delaveau,46,QC,CAN,01:35:38,06:11:12,03:43:17,00:13:47,00:09:40,11:53:34
+ironman-lake-placid-20040725.csv,1541,Bryan Sheldon,46,ON,CAN,01:20:18,06:44:30,04:40:10,00:08:28,00:03:37,12:57:03
+ironman-lake-placid-20040725.csv,1542,Todd Davison,46,GA,USA,01:09:25,06:21:43,04:35:41,00:12:51,00:05:05,12:24:45
+ironman-lake-placid-20040725.csv,1543,Greig S. Davis,---,MI,USA,01:12:54,07:20:10,05:15:01,00:09:39,00:08:00,14:05:44
+ironman-lake-placid-20040725.csv,1544,Garrett Dalessandro,46,NJ,USA,01:10:24,06:04:57,03:59:40,00:08:43,00:05:17,11:29:01
+ironman-lake-placid-20040725.csv,1545,John J. Mcmahon,---,CT,USA,01:42:08,08:26:44,05:33:04,00:21:08,00:08:29,16:11:33
+ironman-lake-placid-20040725.csv,1546,Donald Fink,---,NJ,USA,01:01:01,05:25:25,03:17:21,00:05:27,00:02:14,09:51:28
+ironman-lake-placid-20040725.csv,1547,Timothy Mason,---,NY,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1548,Ken G. Parsons,---,ON,CAN,01:36:13,08:27:49,06:22:07,00:10:26,00:08:15,16:44:50
+ironman-lake-placid-20040725.csv,1549,Mark Lindsey,47,TX,USA,01:21:56,06:24:38,05:10:50,00:12:10,00:06:28,13:16:02
+ironman-lake-placid-20040725.csv,1550,Bert M. Brown,---,OH,USA,01:18:12,06:30:30,05:02:09,00:08:31,00:04:27,13:03:49
+ironman-lake-placid-20040725.csv,1551,Steve Surprise,47,CT,USA,01:07:01,06:06:04,04:08:34,00:06:28,00:02:45,11:30:52
+ironman-lake-placid-20040725.csv,1552,Larry D. Lewis,---,NY,USA,01:17:08,06:34:28,04:52:16,00:11:54,00:06:55,13:02:41
+ironman-lake-placid-20040725.csv,1553,Jon Powell,47,PA,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1554,Luis M. Gely,---,---,PRI,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1555,David Cross,---,NY,USA,01:48:37,07:21:22,04:22:46,00:14:43,00:08:33,13:56:01
+ironman-lake-placid-20040725.csv,1556,Giuseppe Lamarca,47,NJ,USA,01:47:04,06:46:12,05:01:27,00:09:59,00:12:02,13:56:44
+ironman-lake-placid-20040725.csv,1557,Steven F. Halvorson,---,CO,USA,01:04:16,05:47:04,03:54:10,00:06:42,00:02:30,10:54:42
+ironman-lake-placid-20040725.csv,1558,Kevin J. Mccaffrey,---,NJ,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1559,Mark L. Kouwe,---,TX,USA,01:31:57,07:50:49,06:19:44,00:17:49,00:09:36,16:09:55
+ironman-lake-placid-20040725.csv,1560,Thomas A. Ziebart,---,FL,USA,01:36:21,08:23:06,06:34:50,00:12:47,00:10:12,16:57:16
+ironman-lake-placid-20040725.csv,1561,Kevin R. Hall,---,ON,CAN,01:05:37,05:40:20,04:33:37,00:09:36,00:06:57,11:36:07
+ironman-lake-placid-20040725.csv,1562,Gary L. Bredehoft,---,NE,USA,01:08:18,05:44:51,03:24:24,00:09:26,00:06:00,10:32:59
+ironman-lake-placid-20040725.csv,1563,David G. Labuda,---,TX,USA,01:15:09,07:25:24,05:21:31,00:13:18,00:05:40,14:21:02
+ironman-lake-placid-20040725.csv,1564,Timothy M. Walczyk,---,NY,USA,01:07:23,06:08:56,04:23:52,00:12:02,00:06:33,11:58:46
+ironman-lake-placid-20040725.csv,1565,Bob Shaw,47,VA,USA,01:20:52,06:20:16,05:32:15,00:08:37,00:07:12,13:29:12
+ironman-lake-placid-20040725.csv,1566,David Shaner,47,PA,USA,02:03:12,06:58:28,05:08:09,00:08:46,00:08:02,14:26:37
+ironman-lake-placid-20040725.csv,1567,Humberto Del Grosso,47,---,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1568,Lan A. Vu,---,CA,USA,01:25:44,06:37:00,04:46:19,00:09:19,00:05:45,13:04:07
+ironman-lake-placid-20040725.csv,1569,Greg A. Wornell,---,WA,USA,01:20:51,06:30:24,05:06:43,00:12:53,00:08:38,13:19:29
+ironman-lake-placid-20040725.csv,1570,Paul Mcfarland,47,OK,USA,01:25:37,06:39:41,04:46:23,00:09:14,00:04:59,13:05:54
+ironman-lake-placid-20040725.csv,1571,Steve Denish,---,OH,USA,01:10:47,07:15:08,05:43:45,00:08:57,00:10:25,14:29:02
+ironman-lake-placid-20040725.csv,1572,Martin Cappiello,47,CT,USA,01:07:15,05:40:07,04:40:11,00:08:10,00:04:41,11:40:24
+ironman-lake-placid-20040725.csv,1573,Wayne Watkins,47,---,USA,---,---,---,---,---,DNS
+ironman-lake-placid-20040725.csv,1574,Timothy J. Gardner,---,NY,USA,01:15:54,07:10:07,05:02:43,00:15:37,00:12:01,13:56:22
+ironman-lake-placid-20040725.csv,1575,Geoffrey Williams,47,ON,CAN,01:05:48,05:51:05,04:06:04,00:07:45,00:08:13,11:18:55
+ironman-lake-placid-20040725.csv,1576,Michael G. Dunn,---,NY,USA,01:06:57,05:57:06,04:04:01,00:06:56,00:03:08,11:18:08
+ironman-lake-placid-20040725.csv,1577,Russell J. Kalil,---,NY,USA,01:32:57,07:49:22,06:02:00,00:09:42,00:09:18,15:43:19
+ironman-lake-placid-20040725.csv,1578,Sam Demasi,47,VT,USA,01:22:00,07:10:02,04:57:02,00:11:02,00:07:51,13:47:57
+ironman-lake-placid-20040725.csv,1579,Brian J. Moran,---,NJ,USA,01:19:35,06:52:10,05:34:09,00:10:26,00:05:25,14:01:45
+ironman-lake-placid-20040725.csv,1580,Thomas Senff,47,NJ,USA,01:08:15,06:29:19,04:22:37,00:10:48,00:05:06,12:16:05

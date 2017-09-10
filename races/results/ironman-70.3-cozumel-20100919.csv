@@ -1,0 +1,876 @@
+#File=ironman-70.3-cozumel-20100919.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-cozumel-20100919.csv,1,Nelly Becerra,45,Intl State,MEX,00:32:33,02:47:16,02:03:08,00:04:06,00:01:26,05:28:29
+ironman-70.3-cozumel-20100919.csv,2,Petr Vabrousek,36,Intl State,CZE,---,02:16:28,01:31:05,00:31:46,00:01:13,04:20:32
+ironman-70.3-cozumel-20100919.csv,3,Richie Cunningham,37,CO,AUS,00:24:08,02:22:23,---,---,00:00:56,DNF
+ironman-70.3-cozumel-20100919.csv,4,Andres Castillo Latorre,27,---,COL,00:24:11,02:14:22,01:25:42,00:03:02,00:00:51,04:08:08
+ironman-70.3-cozumel-20100919.csv,5,Luke Bell,31,VIC,AUS,00:24:05,02:09:54,01:22:05,00:02:55,00:00:47,03:59:46
+ironman-70.3-cozumel-20100919.csv,6,Hector Ornelas,28,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,7,Matty White,33,---,AUS,00:25:16,02:13:17,01:25:15,00:02:57,00:00:48,04:07:33
+ironman-70.3-cozumel-20100919.csv,8,Sergio Quezada Ruiz,42,JALISCO,MEX,00:26:31,02:21:30,01:44:21,00:03:23,00:01:18,04:37:03
+ironman-70.3-cozumel-20100919.csv,9,Talita Saab,27,SP,BRA,00:32:07,02:52:22,01:52:56,00:04:12,00:01:01,05:22:38
+ironman-70.3-cozumel-20100919.csv,10,Erin O'Hara,26,Manawatu-Wanganui,NZL,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,11,Julianna Batizy-Morley,39,CO,USA,00:28:59,02:54:00,01:46:55,---,00:01:13,05:11:07
+ironman-70.3-cozumel-20100919.csv,12,Natasha Van Der Merwe,29,TX,ZAF,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,14,Luke Mckenzie,29,QLD,AUS,00:24:02,02:09:47,01:24:58,00:03:00,00:00:43,04:02:30
+ironman-70.3-cozumel-20100919.csv,15,Amanda Balding,33,OR,AUS,00:32:09,02:50:20,02:00:11,---,00:01:32,05:24:12
+ironman-70.3-cozumel-20100919.csv,16,Kate Bevilaqua,33,WA,AUS,00:30:06,02:32:05,01:38:13,00:03:32,00:01:00,04:44:56
+ironman-70.3-cozumel-20100919.csv,17,Bruno Clerbout,33,---,BEL,00:25:58,02:18:19,01:24:01,00:03:10,00:01:07,04:12:35
+ironman-70.3-cozumel-20100919.csv,18,Eligio Cervantes Islas,35,Intl State,MEX,00:25:18,02:31:53,01:32:48,00:03:05,00:00:53,04:33:57
+ironman-70.3-cozumel-20100919.csv,19,Oscar Galindez,39,Intl State,ARG,00:26:41,02:11:35,01:22:35,00:03:15,00:01:14,04:05:20
+ironman-70.3-cozumel-20100919.csv,20,Bryan Rhodes,37,CAN,NZL,00:25:10,02:13:14,01:32:35,00:03:08,00:00:46,04:14:53
+ironman-70.3-cozumel-20100919.csv,21,Paul Ambrose,26,CO,AUS,00:25:13,02:13:10,01:27:43,00:03:08,00:00:47,04:10:01
+ironman-70.3-cozumel-20100919.csv,22,Amanda Stevens,33,AZ,USA,00:25:32,02:26:18,01:29:40,00:03:19,00:00:45,04:25:34
+ironman-70.3-cozumel-20100919.csv,23,Chris Boudreaux,31,OR,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,24,Lesley Paterson,29,CA,GBR,00:27:19,02:36:37,01:45:42,00:03:21,00:01:13,04:54:12
+ironman-70.3-cozumel-20100919.csv,25,Laura Tingle,26,CO,USA,00:29:18,02:44:49,---,00:04:19,00:01:17,DNF
+ironman-70.3-cozumel-20100919.csv,26,Michellie Jones,41,---,AUS,00:27:10,02:27:58,01:27:35,00:03:24,00:00:54,04:27:01
+ironman-70.3-cozumel-20100919.csv,27,Ayesha One,33,ON,KHM,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,28,Dunia Gomez Tirado,27,---,MEX,00:27:12,02:35:21,01:45:32,00:03:29,00:00:52,04:52:26
+ironman-70.3-cozumel-20100919.csv,29,Leonardo Saucedo Mata,24,---,MEX,00:23:58,02:27:06,01:35:55,00:02:52,00:01:00,04:30:51
+ironman-70.3-cozumel-20100919.csv,30,Christie Sym,26,NSW,AUS,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,31,Heather Jackson,26,OR,USA,00:30:02,02:36:14,01:56:13,00:03:23,00:01:02,05:06:54
+ironman-70.3-cozumel-20100919.csv,32,Kate Major,---,---,AUS,00:27:18,02:27:45,01:29:09,00:03:29,00:00:46,04:28:27
+ironman-70.3-cozumel-20100919.csv,59,Juan Uriel Huerta,---,---,---,00:43:19,03:00:46,03:44:11,00:08:31,---,06:36:07
+ironman-70.3-cozumel-20100919.csv,100,Octavio Senties Martinez,---,---,MEX,00:39:37,03:16:10,02:52:57,00:06:00,00:02:50,06:57:34
+ironman-70.3-cozumel-20100919.csv,101,Greg Robinson,43,AZ,USA,00:38:08,02:59:36,02:18:56,00:07:18,00:03:11,06:07:09
+ironman-70.3-cozumel-20100919.csv,102,Marialuz Arellano,37,pichincha,ECU,00:34:53,02:38:35,01:54:46,00:04:32,00:01:28,05:14:14
+ironman-70.3-cozumel-20100919.csv,103,Paola Montes De Oca,30,Ciudad de México,MEX,00:42:30,02:57:17,02:15:08,00:05:20,00:02:29,06:02:44
+ironman-70.3-cozumel-20100919.csv,104,German Silva Martinez,---,---,MEX,00:36:11,02:36:22,01:35:39,00:05:01,00:01:57,04:55:10
+ironman-70.3-cozumel-20100919.csv,105,Angelica Baez,39,mexico d.f.,MEX,00:37:13,02:56:24,02:03:49,00:05:01,00:02:20,05:44:47
+ironman-70.3-cozumel-20100919.csv,106,Javier Romero,49,---,MEX,00:29:22,02:44:36,02:03:22,00:05:37,00:02:41,05:25:38
+ironman-70.3-cozumel-20100919.csv,107,Charlie Collins,50,Intl State,GBR,00:39:50,03:08:07,01:59:26,00:05:46,00:02:46,05:55:55
+ironman-70.3-cozumel-20100919.csv,108,Mikel Sage,43,---,USA,00:39:08,02:51:55,03:10:01,00:07:57,00:04:34,06:53:35
+ironman-70.3-cozumel-20100919.csv,109,Oscar Rogelio Plaisant Ojinaga,40,Guanajuato,MEX,00:37:03,02:36:11,02:09:47,00:06:10,00:03:23,05:32:34
+ironman-70.3-cozumel-20100919.csv,110,Roberto Lima,27,---,MEX,00:44:31,03:04:02,02:10:01,00:05:25,00:02:18,06:06:17
+ironman-70.3-cozumel-20100919.csv,111,Ciss Najar,27,Intl State,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,112,Gabriel Beltran,37,Intl State,MEX,00:49:11,03:25:09,02:32:16,00:09:35,00:03:52,07:00:03
+ironman-70.3-cozumel-20100919.csv,113,Jorge Moreno Rojas,37,PUEBLA,MEX,00:33:52,02:58:11,02:13:21,00:05:56,00:01:34,05:52:54
+ironman-70.3-cozumel-20100919.csv,114,Mario Cesar Nu Ez,---,---,MEX,00:59:19,03:30:08,02:44:56,00:07:52,00:03:46,07:26:01
+ironman-70.3-cozumel-20100919.csv,115,Patricio Javier Duch,---,---,MEX,00:36:44,03:15:51,02:52:00,00:06:29,00:01:38,06:52:42
+ironman-70.3-cozumel-20100919.csv,116,Gabriel Garcia,29,CA,MEX,00:38:10,02:37:06,02:19:26,00:04:21,00:01:01,05:40:04
+ironman-70.3-cozumel-20100919.csv,117,Luis Cuevas,35,---,ESP,00:42:22,03:05:06,02:10:48,00:05:14,00:01:32,06:05:02
+ironman-70.3-cozumel-20100919.csv,118,Susan Lynell Harber,40,TN,USA,00:51:02,03:25:23,02:46:26,00:09:19,00:06:11,07:18:21
+ironman-70.3-cozumel-20100919.csv,119,Gerardo Vigueras,44,---,MEX,00:46:43,03:18:05,02:27:13,00:08:35,00:04:23,06:44:59
+ironman-70.3-cozumel-20100919.csv,120,Carlos Moncada,27,---,CRI,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,121,Roberto Esteban Spinella,---,---,ITA,00:30:35,02:47:26,02:13:02,00:04:26,00:01:28,05:36:57
+ironman-70.3-cozumel-20100919.csv,122,Maurizio Rota,52,Monza e Brianza,ITA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,123,Sergio Pattini,43,Italia,ITA,00:26:55,02:45:17,02:13:55,00:04:43,00:01:51,05:32:41
+ironman-70.3-cozumel-20100919.csv,124,Alejandro Galvan Gonzalez,34,DISTRITO FEDERAL,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,125,Alejandro Guillermo Mendoza Leiva,40,---,GTM,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,126,Mauricio Rodriguez,36,Intl State,ECU,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,127,Miguel  Angel Juarez,37,Qroo.,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,128,Gabriel David Baez,---,---,MEX,00:35:50,03:03:11,02:20:13,00:06:18,00:02:31,06:08:03
+ironman-70.3-cozumel-20100919.csv,129,Jose Enrique Ponce,47,---,MEX,00:29:29,02:52:49,01:54:52,00:05:03,00:02:50,05:25:03
+ironman-70.3-cozumel-20100919.csv,130,Fernando Cordoba,39,MExico City,MEX,00:30:29,02:39:34,01:55:56,00:04:20,00:01:24,05:11:43
+ironman-70.3-cozumel-20100919.csv,131,Jose Landaverde,36,df,MEX,00:42:06,02:40:21,01:59:39,00:07:08,00:02:27,05:31:41
+ironman-70.3-cozumel-20100919.csv,132,Lori Silva,27,RJ,USA,00:49:55,03:07:49,02:14:42,00:06:37,00:03:08,06:22:11
+ironman-70.3-cozumel-20100919.csv,133,Jose De Jesus Garcia,49,---,MEX,00:36:40,03:17:20,02:56:20,00:07:36,00:06:26,07:04:22
+ironman-70.3-cozumel-20100919.csv,134,Victor Rojas,36,---,MEX,00:40:53,03:11:13,02:15:12,00:04:49,00:01:58,06:14:05
+ironman-70.3-cozumel-20100919.csv,135,Andres Villalpando,46,Ciudad de Mexico,MEX,00:39:22,02:50:52,02:17:43,00:05:26,00:03:06,05:56:29
+ironman-70.3-cozumel-20100919.csv,136,Fernando De Jesús Blanco Alatriste,46,D.F,MEX,00:33:38,02:38:49,---,00:03:55,00:02:51,DNF
+ironman-70.3-cozumel-20100919.csv,137,Valentin Piñeiro,32,---,MEX,00:42:52,03:04:54,03:47:06,00:06:48,---,06:41:02
+ironman-70.3-cozumel-20100919.csv,138,Luis Eduardo Gomez Diaz,52,---,MEX,00:37:53,03:02:03,02:05:45,00:05:08,00:02:05,05:52:54
+ironman-70.3-cozumel-20100919.csv,139,Eduardo Falcón,45,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,140,Eduardo Gomez,22,NY,VEN,00:35:20,02:41:33,02:27:54,00:06:09,00:01:23,05:52:19
+ironman-70.3-cozumel-20100919.csv,141,Jose Luis Garcia,31,---,MEX,00:33:14,02:59:25,03:40:57,00:05:32,---,06:17:55
+ironman-70.3-cozumel-20100919.csv,142,Peter Hallatt,29,---,GBR,00:26:40,02:36:12,02:13:57,---,00:02:05,05:18:54
+ironman-70.3-cozumel-20100919.csv,143,Paola Becerra Hernandez,31,---,MEX,00:38:38,02:53:30,02:06:26,00:05:46,00:02:26,05:46:46
+ironman-70.3-cozumel-20100919.csv,144,Marco Sánchez,42,---,MEX,00:41:50,02:55:51,02:22:59,00:07:23,00:03:37,06:11:40
+ironman-70.3-cozumel-20100919.csv,145,Antonio Muknicka,45,FL,BRA,00:40:02,02:44:05,02:28:56,00:06:40,00:02:53,06:02:36
+ironman-70.3-cozumel-20100919.csv,147,Jorge Ramirez,38,TX,MEX,00:39:27,03:00:40,01:42:32,00:05:33,00:02:45,05:30:57
+ironman-70.3-cozumel-20100919.csv,149,Jason Francis,34,AB,USA,00:37:43,02:55:15,04:12:40,00:05:51,---,06:50:38
+ironman-70.3-cozumel-20100919.csv,150,Cat Benger,31,---,GBR,00:38:53,02:47:15,01:57:37,00:03:59,00:01:17,05:29:01
+ironman-70.3-cozumel-20100919.csv,151,Diego Hernandez,24,---,MEX,00:39:16,03:06:44,02:28:09,00:06:42,00:04:35,06:25:26
+ironman-70.3-cozumel-20100919.csv,152,Alejandro Venado,---,---,MEX,00:45:44,02:53:06,02:53:48,00:08:24,00:04:36,06:45:38
+ironman-70.3-cozumel-20100919.csv,153,Francisco Manuel Rizo,---,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,154,Jorge Luis Morales,---,---,MEX,00:41:07,02:45:29,02:18:32,00:06:00,00:01:35,05:52:43
+ironman-70.3-cozumel-20100919.csv,155,Jairo Salazar,23,---,COL,00:26:11,02:25:33,01:29:53,00:03:52,00:01:02,04:26:31
+ironman-70.3-cozumel-20100919.csv,156,Samuel Diaz,39,---,VEN,00:36:04,02:35:03,01:42:31,00:03:49,00:01:37,04:59:04
+ironman-70.3-cozumel-20100919.csv,157,Orion Graham,34,TX,USA,00:32:37,02:43:03,02:57:46,00:05:40,---,05:17:46
+ironman-70.3-cozumel-20100919.csv,158,Andres Solis,29,---,MEX,00:33:40,02:45:38,03:44:46,00:06:12,---,06:09:48
+ironman-70.3-cozumel-20100919.csv,159,Charlotte Forster,35,---,GBR,00:36:45,---,---,---,---,DNF
+ironman-70.3-cozumel-20100919.csv,160,Jose Alexander Urdaneta,34,---,VEN,00:31:08,02:33:50,02:06:52,00:04:23,00:01:29,05:17:42
+ironman-70.3-cozumel-20100919.csv,161,Jorge Jimenez,42,FL,USA,00:53:27,03:13:23,03:14:49,00:09:13,00:06:26,07:37:18
+ironman-70.3-cozumel-20100919.csv,162,Claudia Parga,25,Intl State,MEX,00:44:21,03:20:39,02:23:02,00:05:55,00:02:24,06:36:21
+ironman-70.3-cozumel-20100919.csv,163,Jose Miguel Coello,34,Yucatán,MEX,00:37:43,02:38:27,01:52:48,00:04:34,00:01:39,05:15:11
+ironman-70.3-cozumel-20100919.csv,164,Jose Luis Ramirez Segovia,40,---,MEX,00:44:42,02:48:16,02:30:17,00:06:50,00:01:43,06:11:48
+ironman-70.3-cozumel-20100919.csv,166,Betzahida Torres Garrido,---,---,MEX,00:57:57,---,---,00:10:21,---,DNF
+ironman-70.3-cozumel-20100919.csv,167,Claudia Chapa,35,---,MEX,00:38:26,03:51:15,02:44:42,00:08:06,00:03:36,07:26:05
+ironman-70.3-cozumel-20100919.csv,168,Gerardo Hernandez Marquez,46,---,MEX,00:38:19,02:42:07,03:31:19,00:05:05,00:02:35,06:59:25
+ironman-70.3-cozumel-20100919.csv,169,Diego Jorge Arias Martinez,37,---,MEX,00:38:20,02:49:00,02:06:27,00:05:03,00:01:29,05:40:19
+ironman-70.3-cozumel-20100919.csv,170,Todd Farrell,34,TX,USA,00:40:42,02:27:48,03:07:32,00:04:55,---,05:19:03
+ironman-70.3-cozumel-20100919.csv,171,Francisco Viramontes,48,---,MEX,00:33:05,02:38:20,02:13:03,00:04:58,00:02:15,05:31:41
+ironman-70.3-cozumel-20100919.csv,172,Raul Castaneda,50,---,MEX,00:37:23,02:41:15,02:16:54,00:05:37,00:01:35,05:42:44
+ironman-70.3-cozumel-20100919.csv,173,Edmundo Sanchez Mardegain,31,Mexico,MEX,00:33:16,03:10:35,---,00:04:34,---,DNF
+ironman-70.3-cozumel-20100919.csv,174,Karla Miguelez Esquivel,---,---,MEX,00:40:32,03:36:59,02:56:26,00:05:56,00:02:12,07:22:05
+ironman-70.3-cozumel-20100919.csv,175,Jorge Duque,53,---,MEX,00:46:36,03:17:19,02:24:26,00:05:58,00:01:27,06:35:46
+ironman-70.3-cozumel-20100919.csv,176,Cesar Augusto Valdes Arcocha,---,---,MEX,00:45:18,03:05:59,03:55:43,00:06:25,---,06:55:22
+ironman-70.3-cozumel-20100919.csv,177,Juan Jose Sainz,24,Mexico City,MEX,00:34:51,02:54:27,02:33:42,00:04:58,00:01:51,06:09:49
+ironman-70.3-cozumel-20100919.csv,178,Omar Martinez Fernandez,29,DXB,MEX,00:35:06,02:58:44,02:18:35,00:05:57,00:01:51,06:00:13
+ironman-70.3-cozumel-20100919.csv,179,Miguel Galindez,41,---,MEX,00:38:20,03:12:22,02:40:36,00:09:39,00:02:03,06:43:00
+ironman-70.3-cozumel-20100919.csv,180,Emilio Fernandez,38,---,ESP,00:42:19,03:32:48,02:45:50,00:04:00,00:01:55,07:06:52
+ironman-70.3-cozumel-20100919.csv,181,Margaret Coffey,51,CT,USA,00:40:27,03:19:15,01:49:15,00:05:38,00:02:39,05:57:14
+ironman-70.3-cozumel-20100919.csv,182,Linda Page,63,TX,USA,00:56:11,03:22:26,02:45:29,00:07:35,00:03:04,07:14:45
+ironman-70.3-cozumel-20100919.csv,183,Gustavo Magri Calcines,37,---,ESP,00:39:19,03:18:41,02:40:12,00:06:00,00:02:57,06:47:09
+ironman-70.3-cozumel-20100919.csv,184,Melanie Boyd,26,---,PAN,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,186,Daniel Torres,47,Intl State,MEX,00:48:06,02:55:32,02:03:46,00:06:44,00:03:09,05:57:17
+ironman-70.3-cozumel-20100919.csv,187,Jose Lopez,34,---,MEX,00:50:08,03:29:58,03:30:58,00:08:04,---,06:59:10
+ironman-70.3-cozumel-20100919.csv,188,Luis Fernando Altamirano,---,---,MEX,00:55:44,03:21:34,02:32:50,00:07:48,00:03:06,07:01:02
+ironman-70.3-cozumel-20100919.csv,189,Ricardo Sosa Ortega,40,Intl State,MEX,00:39:50,02:52:01,02:13:14,00:06:50,00:01:58,05:53:53
+ironman-70.3-cozumel-20100919.csv,190,Merry Morgan Holotik,30,TX,USA,00:39:40,03:29:57,02:35:15,00:08:58,00:04:28,06:58:18
+ironman-70.3-cozumel-20100919.csv,191,Pepe Aldana,21,---,MEX,00:28:43,02:34:09,02:33:26,00:03:57,00:01:03,05:41:18
+ironman-70.3-cozumel-20100919.csv,192,Rafael Bentata,21,---,MEX,00:27:45,02:50:57,01:59:23,---,00:00:58,05:19:03
+ironman-70.3-cozumel-20100919.csv,193,Marc André,43,Quintana Roo,MEX,00:34:33,02:50:59,01:56:20,00:05:25,00:02:22,05:29:39
+ironman-70.3-cozumel-20100919.csv,194,Adrian Olmos,38,---,MEX,00:40:31,03:04:00,02:39:35,00:10:29,00:05:47,06:40:22
+ironman-70.3-cozumel-20100919.csv,195,Luis Enrique Galatas,38,---,MEX,00:33:05,03:09:23,02:27:37,00:04:41,00:03:30,06:18:16
+ironman-70.3-cozumel-20100919.csv,197,Enrique Gongora,30,DF,MEX,00:39:35,02:44:48,02:50:11,00:04:07,---,05:17:23
+ironman-70.3-cozumel-20100919.csv,198,Juan Jesus Gonzalez Gutierrez,---,---,MEX,00:40:14,03:24:11,02:19:21,00:08:46,00:03:27,06:35:59
+ironman-70.3-cozumel-20100919.csv,199,Francisco Javier Belausteguigoitia,49,---,MEX,00:38:42,03:01:29,02:42:18,00:07:34,00:04:44,06:34:47
+ironman-70.3-cozumel-20100919.csv,200,Georgina Isabel Verdin Dorantes,---,---,MEX,00:43:18,03:13:39,02:41:35,00:05:15,00:02:26,06:46:13
+ironman-70.3-cozumel-20100919.csv,201,Valeria Strappa,35,Estado de Mexico,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,202,Gabriel Serres Acosta,---,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,203,Arturo Busto Herrejon,33,Benito Juarez,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,204,Luis Plascencia Hurtado,---,---,MEX,00:36:08,02:45:02,01:13:23,00:05:29,00:02:48,04:42:50
+ironman-70.3-cozumel-20100919.csv,205,Arturo Uriostegui Corona,---,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,206,Ian Stokell,---,---,GBR,01:01:03,03:44:11,---,00:09:32,---,DNF
+ironman-70.3-cozumel-20100919.csv,207,Gian Gil,39,FL,VEN,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,208,Manuel Elizaga Sosa,---,---,MEX,00:44:31,03:34:54,03:18:11,00:08:15,00:02:51,07:48:42
+ironman-70.3-cozumel-20100919.csv,209,Fernando Flores Carrillo,---,---,MEX,00:41:39,03:10:25,02:06:10,00:05:53,00:01:38,06:05:45
+ironman-70.3-cozumel-20100919.csv,210,Filiberto Chin Gamboa,---,---,MEX,00:36:33,02:44:00,03:16:26,00:04:22,---,05:40:03
+ironman-70.3-cozumel-20100919.csv,211,Jeff Haithcoat,37,TN,USA,00:48:24,02:44:04,02:20:50,00:08:12,00:02:59,06:04:29
+ironman-70.3-cozumel-20100919.csv,212,Raul Cardenas,31,TX,MEX,00:36:00,02:56:23,03:06:26,00:04:34,---,05:42:06
+ironman-70.3-cozumel-20100919.csv,213,Marta Cardenas Arredondo,---,---,MEX,00:56:50,03:59:56,---,00:06:50,---,DNF
+ironman-70.3-cozumel-20100919.csv,214,Clay Scott,36,TN,USA,00:36:31,02:45:26,---,00:06:38,00:02:50,DNF
+ironman-70.3-cozumel-20100919.csv,215,Brian Waller,36,TN,USA,00:32:30,02:36:58,01:55:52,00:04:56,00:01:21,05:11:37
+ironman-70.3-cozumel-20100919.csv,216,Fernando Russo,50,SP,BRA,00:33:56,02:36:36,01:59:07,00:04:16,00:02:41,05:16:36
+ironman-70.3-cozumel-20100919.csv,217,Graham Hines,29,NSW,AUS,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,218,Jason Farmer,36,TN,USA,00:44:25,02:34:51,03:11:01,00:06:15,00:03:24,06:39:56
+ironman-70.3-cozumel-20100919.csv,219,Christine Donoghue,34,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,220,Sean Donoghue,35,FL,USA,00:36:18,02:52:59,02:33:54,00:05:46,00:02:08,06:11:05
+ironman-70.3-cozumel-20100919.csv,221,Eric Hardesty,34,TN,USA,00:42:06,02:47:13,03:42:08,00:06:18,---,06:18:12
+ironman-70.3-cozumel-20100919.csv,222,Robert Peace,39,OK,USA,00:40:58,03:13:32,02:20:08,00:06:04,00:01:32,06:22:14
+ironman-70.3-cozumel-20100919.csv,223,Migue Angel Atilano Torres,34,---,MEX,00:48:07,02:54:26,04:09:35,00:05:06,---,06:56:26
+ironman-70.3-cozumel-20100919.csv,224,Barry Baird,39,TN,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,225,Herbert Bucaro,35,---,GTM,00:45:17,02:51:52,02:22:12,00:05:30,00:03:45,06:08:36
+ironman-70.3-cozumel-20100919.csv,226,Brent Berry,37,TN,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,227,Larissa Herrera,37,Intl State,MEX,00:40:32,03:42:02,03:05:47,00:08:41,00:02:16,07:39:18
+ironman-70.3-cozumel-20100919.csv,228,Carlos Magana,37,---,MEX,00:40:05,03:18:54,03:35:48,00:08:58,00:05:52,07:49:37
+ironman-70.3-cozumel-20100919.csv,229,Carlos Murillo Charco,37,michoacan,MEX,00:32:22,02:36:12,02:20:12,00:05:41,00:01:20,05:35:47
+ironman-70.3-cozumel-20100919.csv,230,Eduardo Montoya,28,Army Asia,MEX,00:31:00,03:24:26,02:53:01,00:06:56,00:03:22,06:58:45
+ironman-70.3-cozumel-20100919.csv,231,Oscar Hernandez,31,---,MEX,00:41:03,03:18:11,03:22:37,00:05:46,---,06:28:07
+ironman-70.3-cozumel-20100919.csv,232,Benjamin Teran,46,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,233,Joe Fracchia,36,TN,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,234,Kirk Johnston,45,TN,USA,00:45:18,03:13:07,02:55:48,00:06:05,00:10:13,07:10:31
+ironman-70.3-cozumel-20100919.csv,235,Andres Camou,38,---,MEX,00:41:10,03:01:47,02:42:45,00:08:48,00:04:49,06:39:19
+ironman-70.3-cozumel-20100919.csv,236,Luis Femat,35,---,MEX,00:44:48,03:08:38,03:26:12,00:07:27,00:04:01,07:31:06
+ironman-70.3-cozumel-20100919.csv,237,Lorena Tapia,34,---,MEX,00:43:46,03:12:36,02:36:26,00:06:37,00:03:29,06:42:54
+ironman-70.3-cozumel-20100919.csv,238,David Gutierrez Miranda,---,---,MEX,00:41:11,02:59:09,01:49:39,00:05:03,00:01:46,05:36:48
+ironman-70.3-cozumel-20100919.csv,239,Bartolomea Bazzardi,---,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,240,Luciano Prosperi,65,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,241,Betty Bravo,42,---,MEX,00:46:18,03:36:50,02:38:07,00:07:21,00:03:40,07:12:16
+ironman-70.3-cozumel-20100919.csv,242,Steven Boppel,23,Intl State,GTM,---,02:45:47,02:10:11,00:42:21,00:01:24,05:39:43
+ironman-70.3-cozumel-20100919.csv,243,Leonardo Bras,27,São Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,244,Adolfo Mungarrieta,41,CA,VEN,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,245,Victor Volcan,43,---,MEX,00:59:02,03:08:20,02:47:51,00:08:34,00:06:01,07:09:48
+ironman-70.3-cozumel-20100919.csv,246,Marcio Bernardo,32,SP,BRA,00:29:47,02:41:46,02:57:06,---,---,05:07:28
+ironman-70.3-cozumel-20100919.csv,247,Carola Pryce,34,Distrito Federal,ARG,00:43:48,03:18:27,02:28:24,00:06:40,00:02:26,06:39:45
+ironman-70.3-cozumel-20100919.csv,248,Fernando Salazar,38,CT,MEX,00:44:21,03:04:04,02:21:11,00:07:44,00:05:19,06:22:39
+ironman-70.3-cozumel-20100919.csv,249,Richard York,54,AZ,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,250,John T Dean,45,AZ,USA,00:33:32,02:57:24,---,00:05:55,00:04:14,DNF
+ironman-70.3-cozumel-20100919.csv,251,Miguel Sosa,39,---,MEX,00:38:05,03:47:19,01:52:13,00:09:13,00:03:23,06:30:13
+ironman-70.3-cozumel-20100919.csv,252,Manuel Sosa Correa,36,---,MEX,00:33:45,03:23:49,03:05:10,00:08:12,00:03:23,07:14:19
+ironman-70.3-cozumel-20100919.csv,253,Anthony Franklin,42,TX,USA,00:44:42,02:44:08,02:07:13,00:05:12,00:01:49,05:43:04
+ironman-70.3-cozumel-20100919.csv,254,Alberto Landa,35,---,MEX,00:55:47,02:33:21,---,00:15:40,---,DNF
+ironman-70.3-cozumel-20100919.csv,255,Audrey Novchich,29,NC,USA,00:39:02,03:28:40,03:14:27,00:05:48,00:03:01,07:30:58
+ironman-70.3-cozumel-20100919.csv,256,Taos Poole,29,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,257,Ricardo Caraveo,43,Veracruz,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,258,Rhonda Pearsall,44,TN,USA,00:50:58,03:18:29,02:18:20,00:09:22,00:03:26,06:40:35
+ironman-70.3-cozumel-20100919.csv,259,Felipe Martinez,40,Jal,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,260,Eduardo Rivera,52,TX,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,261,Nolan Seu,30,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,262,Grace Choi,27,NY,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,263,Daniel Esquenazi,33,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,264,Guillermo Gil Romero,40,---,MEX,00:47:27,03:11:03,02:52:54,00:08:27,00:03:54,07:03:45
+ironman-70.3-cozumel-20100919.csv,265,Juana Isela Hernandez Sanchez,---,---,MEX,00:46:30,03:22:30,02:36:36,00:08:05,00:02:44,06:56:25
+ironman-70.3-cozumel-20100919.csv,266,Horacio Ferro,30,---,MEX,00:43:28,03:37:48,04:01:45,00:09:26,---,07:35:31
+ironman-70.3-cozumel-20100919.csv,267,Rafael Martinez Montiel,30,---,MEX,00:42:00,03:26:36,03:58:34,00:08:19,---,07:19:23
+ironman-70.3-cozumel-20100919.csv,268,Dave Mcdermott,40,AZ,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,269,Ignacio Sotoborja Escobar,34,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,270,Alberto Del Rio,29,---,MEX,00:46:25,03:24:48,03:41:52,00:06:15,---,06:58:44
+ironman-70.3-cozumel-20100919.csv,271,Trevor Miller,40,IN,USA,00:34:01,02:38:18,02:06:17,00:06:23,00:01:51,05:26:50
+ironman-70.3-cozumel-20100919.csv,272,Sebastian Rodriguez Luna,27,---,CRI,00:40:12,03:10:38,03:00:16,00:06:17,00:03:12,07:00:35
+ironman-70.3-cozumel-20100919.csv,273,Fermin Pascual,43,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,274,Lucchesi Duilio,33,Florida,BRA,00:39:52,03:05:05,03:28:53,00:05:39,---,06:18:39
+ironman-70.3-cozumel-20100919.csv,275,Jose A Del Cueto,45,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,277,Marcos Manuel Mendez,---,---,MEX,00:38:45,02:45:40,02:02:44,00:04:00,00:01:04,05:32:13
+ironman-70.3-cozumel-20100919.csv,278,Claudio Mauricio Fernandez,---,---,MEX,00:49:14,03:12:25,02:20:44,00:08:51,00:02:11,06:33:25
+ironman-70.3-cozumel-20100919.csv,279,Roman Alberto Rojano,---,---,MEX,00:34:05,03:05:31,02:22:56,00:10:22,00:05:15,06:18:09
+ironman-70.3-cozumel-20100919.csv,280,Frank Bartlett,41,---,GBR,00:50:35,03:59:11,---,00:10:06,---,DNF
+ironman-70.3-cozumel-20100919.csv,281,Renata Delgado,27,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,282,Rodrigo Vargas,28,IL,MEX,00:46:36,03:23:01,02:28:15,00:12:39,00:05:13,06:55:44
+ironman-70.3-cozumel-20100919.csv,283,Danny Taylor,28,Panama,CRI,00:31:05,02:49:35,02:57:54,00:04:37,00:02:05,06:25:16
+ironman-70.3-cozumel-20100919.csv,284,Christian Podetti,30,---,CRI,00:36:08,02:47:28,03:16:14,00:05:19,---,05:43:27
+ironman-70.3-cozumel-20100919.csv,287,John Michael Laiche,---,---,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,288,Mike Dolen,39,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,289,Mario Jose Castillo Garcia,---,---,MEX,00:31:11,02:45:07,02:16:41,00:03:43,00:01:02,05:37:44
+ironman-70.3-cozumel-20100919.csv,290,Israel De Cayon,33,Intl State,MEX,00:40:25,03:02:52,03:15:02,00:05:05,---,06:02:31
+ironman-70.3-cozumel-20100919.csv,291,Esau Adrian Mena,21,TX,MEX,00:33:57,03:03:39,02:17:49,00:05:20,00:03:43,06:04:28
+ironman-70.3-cozumel-20100919.csv,292,Erin Marie Garcia,28,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,293,Zoe Button,32,---,GBR,00:42:21,03:02:47,02:01:36,00:06:21,00:01:50,05:54:55
+ironman-70.3-cozumel-20100919.csv,294,Ricardo Medina,34,Intl State,VEN,00:36:30,02:36:01,03:21:06,00:05:22,---,05:37:23
+ironman-70.3-cozumel-20100919.csv,295,Jorge Quero,23,Cundinamarca,VEN,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,296,Jean Canquis,33,---,VEN,00:43:14,02:50:29,03:16:14,00:05:22,---,05:54:05
+ironman-70.3-cozumel-20100919.csv,297,Fernando Marino,48,Buenos Aires,ARG,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,298,Jose Azpiazu,35,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,299,Oscar Montero Vargas,27,Intl State,COL,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,300,David A Larance,31,AZ,USA,00:51:11,03:47:50,03:32:15,00:06:59,---,07:19:05
+ironman-70.3-cozumel-20100919.csv,301,Sandra Soares,33,---,BRA,00:40:48,03:34:57,02:58:05,00:10:50,00:05:01,07:29:41
+ironman-70.3-cozumel-20100919.csv,302,Marcelo Oshea,39,Intl State,ARG,00:44:17,03:32:34,02:34:56,00:08:20,00:04:29,07:04:36
+ironman-70.3-cozumel-20100919.csv,303,Gerardo Ituarte,42,TX,MEX,00:51:10,03:22:37,02:31:26,00:12:32,00:03:51,07:01:36
+ironman-70.3-cozumel-20100919.csv,304,Gerardo Ochoa Anaya,31,---,MEX,00:34:28,03:33:28,04:16:23,00:05:55,---,07:31:39
+ironman-70.3-cozumel-20100919.csv,305,Kurt Messenger,49,OR,USA,00:47:29,03:14:00,03:21:20,00:07:59,00:04:30,07:35:18
+ironman-70.3-cozumel-20100919.csv,306,Damian Beasley,33,NSW,AUS,00:41:43,03:10:25,03:30:39,00:07:11,---,06:30:32
+ironman-70.3-cozumel-20100919.csv,307,Renaldo Bozic,28,---,MEX,00:41:57,02:38:13,---,00:05:51,---,DNF
+ironman-70.3-cozumel-20100919.csv,308,Joaquin Manuel Fuente Y Garcia,---,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,309,Marco Sparvieri,39,---,ARG,00:42:45,03:23:31,02:37:38,00:06:36,00:03:13,06:53:43
+ironman-70.3-cozumel-20100919.csv,310,Alberto Del Angel,39,---,MEX,00:39:10,03:25:31,02:37:29,00:11:37,00:03:50,06:57:37
+ironman-70.3-cozumel-20100919.csv,311,Rafael Martin Del Campo,43,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,312,Jorge Garcia Villafana,36,---,MEX,00:41:53,03:27:31,03:28:05,00:09:30,00:02:52,07:49:51
+ironman-70.3-cozumel-20100919.csv,313,Juan Pablo Hernandez,37,---,MEX,00:37:02,03:03:56,02:08:04,00:07:27,00:01:34,05:58:03
+ironman-70.3-cozumel-20100919.csv,314,Carlos Alberto Marulanda,---,---,COL,00:45:24,03:07:53,04:40:32,00:07:56,---,07:41:26
+ironman-70.3-cozumel-20100919.csv,315,Juan Henao,30,---,COL,00:35:27,02:58:46,03:56:08,00:06:29,---,06:36:50
+ironman-70.3-cozumel-20100919.csv,316,Magdalena Lopez,30,Mexico City,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,317,Eduardo Azcue,27,---,MEX,00:39:12,03:18:42,02:20:49,00:07:41,00:03:11,06:29:35
+ironman-70.3-cozumel-20100919.csv,319,Alejandro De Jesus Mora Castillo,35,---,MEX,00:49:32,03:06:20,03:14:47,00:06:02,00:02:29,07:19:10
+ironman-70.3-cozumel-20100919.csv,320,Hermes Saldivar,28,---,MEX,00:53:15,04:01:14,03:00:49,00:14:11,00:06:27,08:15:56
+ironman-70.3-cozumel-20100919.csv,321,Holly Cross Hair,35,TN,USA,00:47:19,03:30:01,03:01:02,00:08:12,00:04:22,07:30:56
+ironman-70.3-cozumel-20100919.csv,322,Eloy Stalin Quintal Jimenez,33,---,MEX,00:47:25,02:56:41,03:42:14,00:07:14,---,06:32:22
+ironman-70.3-cozumel-20100919.csv,323,Raul Arturo Gonzalez Duran,---,---,MEX,00:46:03,03:19:20,03:01:05,00:05:51,00:02:33,07:14:52
+ironman-70.3-cozumel-20100919.csv,325,Mario Calderon,44,---,CRI,00:54:01,03:14:36,02:31:40,00:08:28,00:03:58,06:52:43
+ironman-70.3-cozumel-20100919.csv,326,Eugenio Romero,27,CA,MEX,00:36:55,02:33:19,01:49:27,00:04:29,---,05:04:10
+ironman-70.3-cozumel-20100919.csv,327,Juan Carlos Garcia De La Cadena Gomez,---,---,MEX,00:35:59,02:45:38,02:33:13,00:05:21,00:01:51,06:02:02
+ironman-70.3-cozumel-20100919.csv,328,Miguel Angel Alarcon Wuotto,25,---,MEX,00:53:48,03:13:01,02:24:22,00:06:28,00:02:34,06:40:13
+ironman-70.3-cozumel-20100919.csv,329,Charles Lynn Jenkins,26,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,330,David Polania,27,Bogota,COL,00:35:27,02:47:14,01:51:55,00:03:38,00:01:34,05:19:48
+ironman-70.3-cozumel-20100919.csv,331,Maria I Danna,32,Intl State,COL,00:37:11,02:53:19,02:10:53,00:05:08,00:01:56,05:48:27
+ironman-70.3-cozumel-20100919.csv,332,Bill Tichenor,44,AZ,USA,00:47:54,03:13:58,02:38:43,00:07:19,00:02:54,06:50:48
+ironman-70.3-cozumel-20100919.csv,333,Alejandro Velo Rodriguez,38,Chihuahua,MEX,00:42:48,03:25:27,02:40:11,00:09:04,00:02:24,06:59:54
+ironman-70.3-cozumel-20100919.csv,335,Ramon Bravo,46,Intl State,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,336,Antonio Cervera,35,Yucatan,MEX,00:51:26,03:26:03,03:05:20,00:06:33,00:03:29,07:32:51
+ironman-70.3-cozumel-20100919.csv,337,Miguel Segoviano,40,---,MEX,00:54:46,---,---,---,---,DNF
+ironman-70.3-cozumel-20100919.csv,338,Victor Jimenez,---,---,MEX,00:39:13,02:40:18,02:00:57,00:05:34,00:01:47,05:27:49
+ironman-70.3-cozumel-20100919.csv,339,Santiago Gomez Mont,29,FL,MEX,00:36:15,03:23:10,02:46:35,00:06:27,00:02:16,06:54:43
+ironman-70.3-cozumel-20100919.csv,340,Austin Ray Metcalf,22,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,341,Cristobal Canales,37,---,MEX,00:40:03,03:12:09,02:48:24,00:09:34,00:03:39,06:53:49
+ironman-70.3-cozumel-20100919.csv,342,Masaki Kawamura,30,DF,MEX,00:36:30,03:21:30,03:19:15,00:06:59,---,06:24:18
+ironman-70.3-cozumel-20100919.csv,343,Michael Dawdy,36,TX,USA,00:31:17,02:20:12,01:47:26,00:03:16,00:00:54,04:43:05
+ironman-70.3-cozumel-20100919.csv,344,Vlatko Primorac,41,IL,USA,00:41:24,03:00:27,03:02:15,00:09:02,00:03:28,06:56:36
+ironman-70.3-cozumel-20100919.csv,345,Holger Floerkemeier,40,DC,DEU,00:38:36,02:34:03,02:08:56,00:06:42,00:03:27,05:31:44
+ironman-70.3-cozumel-20100919.csv,346,Rafael Paredes Santana,34,---,MEX,00:36:55,02:45:13,02:06:24,00:04:46,00:02:17,05:35:35
+ironman-70.3-cozumel-20100919.csv,347,Jin Nam,36,IL,USA,00:51:30,03:34:14,02:50:33,00:07:35,00:04:46,07:28:38
+ironman-70.3-cozumel-20100919.csv,348,Erin Westberg,32,FL,USA,00:35:52,03:11:35,02:40:16,00:06:28,00:05:31,06:39:42
+ironman-70.3-cozumel-20100919.csv,349,Jose Garcia Infante,40,Intl State,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,350,Abraham Lopez-Frazco,50,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,351,Maire Scharpegge,38,CA,DEU,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,352,David Eduardo Leon Romero,29,---,MEX,00:39:19,03:24:26,02:24:21,00:08:05,00:02:22,06:38:33
+ironman-70.3-cozumel-20100919.csv,353,Jaime Gonzalez,55,nariño,COL,00:40:44,02:52:38,02:07:31,00:05:19,00:02:25,05:48:37
+ironman-70.3-cozumel-20100919.csv,354,Dennis Archambault,42,PA,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,355,Pedro Alberto Rascon,25,TX,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,356,Jorge Gabriel Ruiz Cortes,29,---,MEX,---,02:52:44,02:34:00,00:33:45,---,06:00:29
+ironman-70.3-cozumel-20100919.csv,357,Miguel Perea,25,FL,USA,00:40:45,03:00:42,02:47:38,00:07:09,00:02:00,06:38:14
+ironman-70.3-cozumel-20100919.csv,358,Shirley Gonzales,38,TX,USA,00:40:29,02:51:47,02:34:10,00:04:17,00:01:55,06:12:38
+ironman-70.3-cozumel-20100919.csv,359,Gabriel Portes,35,---,MEX,00:41:10,03:19:52,03:08:28,00:07:36,00:03:19,07:20:25
+ironman-70.3-cozumel-20100919.csv,360,Betulio Cabrera Ortega,37,---,MEX,00:33:40,02:50:12,02:41:46,00:04:45,00:01:17,06:11:40
+ironman-70.3-cozumel-20100919.csv,361,Mauricio Mariscal Chavez,---,---,---,00:39:19,03:17:32,03:35:18,00:04:33,---,06:37:23
+ironman-70.3-cozumel-20100919.csv,362,Eduardo Sparrowe,42,DF,MEX,00:39:44,03:06:25,02:40:12,00:09:10,00:02:33,06:38:04
+ironman-70.3-cozumel-20100919.csv,363,Alexander Salazar,39,Pichincha,COL,00:35:13,02:33:58,02:09:56,00:04:18,00:02:11,05:25:36
+ironman-70.3-cozumel-20100919.csv,364,Dafne Contin Figueroa,34,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,365,Marvin Francisco Elizondo Solano,37,---,CRI,00:38:29,02:40:48,02:19:33,00:04:13,00:01:31,05:44:34
+ironman-70.3-cozumel-20100919.csv,367,Jesãºs Francisco Barroeta,---,---,VEN,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,368,Pablo Villase Or,---,---,MEX,00:42:55,03:11:17,02:41:36,00:05:55,00:04:45,06:46:28
+ironman-70.3-cozumel-20100919.csv,369,John Goodall,36,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,370,Luis Aguirre,36,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,371,Romeo Vizzani,38,---,MEX,00:35:20,02:42:06,---,00:04:50,00:01:56,DNF
+ironman-70.3-cozumel-20100919.csv,372,Nicole Kippen,32,UT,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,373,Sergio Hernandez Ortega,36,---,MEX,00:49:37,03:06:26,02:23:55,00:06:01,00:01:57,06:27:56
+ironman-70.3-cozumel-20100919.csv,374,Eduardo Ruiz Iglesias,33,---,PAN,00:39:08,02:47:27,03:10:08,00:05:01,---,05:41:52
+ironman-70.3-cozumel-20100919.csv,375,Jorge Castano,36,Intl State,COL,00:29:22,03:08:47,02:36:25,00:06:20,00:02:08,06:23:02
+ironman-70.3-cozumel-20100919.csv,376,Iliya Petar Zogovic,---,---,MEX,00:43:28,02:59:37,03:26:22,00:04:51,---,06:13:02
+ironman-70.3-cozumel-20100919.csv,377,Monica Angeles,36,Intl State,MEX,00:37:26,03:37:33,02:57:16,00:08:18,00:05:00,07:25:33
+ironman-70.3-cozumel-20100919.csv,378,Eghosa Oriaikhi,31,TX,USA,00:53:34,03:05:49,02:23:25,00:06:42,00:02:57,06:32:27
+ironman-70.3-cozumel-20100919.csv,379,Blanca Esther Seaman,37,---,MEX,00:44:48,03:51:28,02:59:47,00:10:00,00:05:55,07:51:58
+ironman-70.3-cozumel-20100919.csv,380,Horacio Cervantes,37,---,MEX,00:37:31,02:49:27,---,00:05:35,00:01:27,DNF
+ironman-70.3-cozumel-20100919.csv,381,Mark Hebert,27,CA,USA,00:40:15,02:57:43,02:17:22,00:04:19,00:01:43,06:01:22
+ironman-70.3-cozumel-20100919.csv,382,Christine Hebert,24,UT,USA,00:48:37,03:04:51,02:36:04,00:07:39,00:03:30,06:40:41
+ironman-70.3-cozumel-20100919.csv,383,Javier Gonzalez,38,Queretaro,MEX,00:39:16,02:58:53,02:38:49,00:07:10,00:02:38,06:26:46
+ironman-70.3-cozumel-20100919.csv,384,Karla Sanchez-Mejia,39,---,MEX,00:44:05,03:30:07,03:19:34,00:08:57,00:04:36,07:47:19
+ironman-70.3-cozumel-20100919.csv,385,Victoria Fuentes,46,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,386,Sergio Campillo-Diaz,35,Mexico City,MEX,00:42:05,03:01:21,02:35:45,00:05:52,00:02:43,06:27:46
+ironman-70.3-cozumel-20100919.csv,387,Victor Ballesteros,37,---,MEX,00:46:05,03:09:40,02:33:40,00:06:29,00:03:08,06:39:02
+ironman-70.3-cozumel-20100919.csv,388,Jeanne-Anne Kellogg,---,---,USA,00:46:29,03:28:22,02:58:21,00:08:46,00:05:24,07:27:22
+ironman-70.3-cozumel-20100919.csv,389,Pablo Aaron Anistro Jimenez,31,---,MEX,00:35:16,02:54:44,03:10:58,00:04:35,---,05:44:03
+ironman-70.3-cozumel-20100919.csv,390,Rose Theisen,42,---,USA,00:51:32,03:28:00,---,00:08:23,---,DNF
+ironman-70.3-cozumel-20100919.csv,391,Katherine Lindstrom,33,TX,USA,00:47:25,03:35:05,---,00:07:03,---,DNF
+ironman-70.3-cozumel-20100919.csv,392,Victor Rogelio Miranda,---,---,MEX,00:43:20,03:04:56,02:32:28,00:07:03,00:02:22,06:30:09
+ironman-70.3-cozumel-20100919.csv,393,Salvador Rodarte,52,---,MEX,00:46:19,03:12:15,02:44:48,00:11:38,00:03:01,06:58:01
+ironman-70.3-cozumel-20100919.csv,395,Ed Bosanac,62,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,396,Enrique Garcia,---,GARZA GARCIA,MEX,00:36:39,02:52:57,01:54:28,00:06:56,00:02:37,05:33:37
+ironman-70.3-cozumel-20100919.csv,397,Rodrigo Ernesto Landero,---,---,MEX,00:39:47,03:05:44,02:21:41,00:07:14,00:01:42,06:16:08
+ironman-70.3-cozumel-20100919.csv,398,Carlos Benitez,36,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,399,Mario Antonio Cruz Garcia,36,---,MEX,00:50:38,02:58:42,02:02:52,00:05:49,00:03:23,06:01:24
+ironman-70.3-cozumel-20100919.csv,400,Jean Paul Dutoit,29,Ciudad de Mexico,MEX,00:36:23,02:45:40,02:02:42,00:04:45,00:02:09,05:31:39
+ironman-70.3-cozumel-20100919.csv,401,Fernando Alvarez Sanz,46,---,ESP,00:32:44,02:30:47,01:36:30,00:04:09,00:01:17,04:45:27
+ironman-70.3-cozumel-20100919.csv,402,Idoya Fernandez Villa,41,---,ESP,00:49:57,03:24:23,01:20:36,00:08:31,00:03:30,05:46:57
+ironman-70.3-cozumel-20100919.csv,403,Dulcina Castellanos,60,---,MEX,01:11:24,---,---,---,---,DNF
+ironman-70.3-cozumel-20100919.csv,404,Cecilia R Bueno,31,SP,MEX,00:39:52,03:17:32,02:48:12,00:07:47,00:03:11,06:56:34
+ironman-70.3-cozumel-20100919.csv,405,Alan Elizondo,38,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,406,Jesus Alberto Monagas,44,---,VEN,00:32:32,02:48:09,02:18:10,00:04:43,00:01:42,05:45:16
+ironman-70.3-cozumel-20100919.csv,407,Rafael Victoria,36,---,MEX,00:42:43,03:02:03,02:48:44,00:10:58,00:06:47,06:51:15
+ironman-70.3-cozumel-20100919.csv,408,Steven B Cary,---,---,USA,00:52:08,03:11:26,02:38:00,00:10:27,00:08:04,07:00:05
+ironman-70.3-cozumel-20100919.csv,409,Enrique Aguilar Anaya,28,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,410,Enrique Nieto Franzoni,42,ESTADO DE MEXICO,MEX,00:42:59,03:04:14,02:05:07,00:06:30,00:02:17,06:01:07
+ironman-70.3-cozumel-20100919.csv,411,Manuel Cardona,34,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,412,Dan Lahey,54,CA,USA,00:47:29,02:41:11,02:12:06,00:04:35,00:01:40,05:47:01
+ironman-70.3-cozumel-20100919.csv,413,Héctor De La O,39,---,MEX,00:41:17,03:05:32,02:13:16,00:06:26,00:02:51,06:09:22
+ironman-70.3-cozumel-20100919.csv,414,Juan Moreno,34,Intl State,MEX,00:28:12,02:37:41,02:48:15,00:03:44,---,04:56:01
+ironman-70.3-cozumel-20100919.csv,415,Raul Sanchez Labrada,37,---,MEX,00:46:01,03:33:48,02:47:10,00:06:38,00:02:35,07:16:12
+ironman-70.3-cozumel-20100919.csv,416,Jeff Mapp,32,VA,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,417,Mike Greig,47,CA,NZL,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,418,Albor Ignacio Caceres Rosales,36,---,VEN,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,419,Carlos Montiel Zarza,34,Intl State,MEX,00:37:53,03:13:25,03:24:40,00:06:17,00:05:24,07:27:39
+ironman-70.3-cozumel-20100919.csv,420,Lizbeth Perez De La Torre,33,Intl State,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,421,Andrew Gillman,29,CO,USA,00:34:23,02:51:31,02:15:49,00:04:11,00:01:35,05:47:29
+ironman-70.3-cozumel-20100919.csv,422,Aaron Sanchez,33,Puebla,MEX,00:38:36,03:18:03,03:12:17,00:07:29,---,06:17:44
+ironman-70.3-cozumel-20100919.csv,423,Carlos Sanchez,33,Intl State,MEX,00:37:11,03:12:01,03:22:46,00:05:14,---,06:17:17
+ironman-70.3-cozumel-20100919.csv,424,Shay Layman,37,CA,USA,00:54:30,---,---,---,---,DNF
+ironman-70.3-cozumel-20100919.csv,425,Monique Layman,33,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,426,Jose Arturo Cortes Heredia,41,---,MEX,00:35:28,02:53:19,02:35:25,00:05:20,00:04:06,06:13:38
+ironman-70.3-cozumel-20100919.csv,427,Juan Mendoza,37,---,MEX,00:42:44,03:04:04,02:26:52,00:07:58,00:03:24,06:25:02
+ironman-70.3-cozumel-20100919.csv,428,Bob Crane,40,ON,CAN,00:40:32,02:54:06,02:19:40,00:08:04,00:02:20,06:04:42
+ironman-70.3-cozumel-20100919.csv,429,Manrique Chinchilla Solano,34,---,CRI,00:35:26,02:38:31,01:37:19,00:04:52,---,04:56:08
+ironman-70.3-cozumel-20100919.csv,430,Nigel Willerton,46,CO,GBR,00:45:09,02:39:53,02:09:32,00:04:54,00:01:48,05:41:16
+ironman-70.3-cozumel-20100919.csv,431,Greg Greenwell,39,TN,USA,00:45:58,03:17:13,03:20:40,00:05:42,00:01:27,07:31:00
+ironman-70.3-cozumel-20100919.csv,432,Rodrigo Guzman,31,---,MEX,00:35:32,02:53:57,03:09:56,00:08:10,---,05:47:27
+ironman-70.3-cozumel-20100919.csv,433,Miguel Irurita,45,Distrito Federal,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,434,Edwin Figueroa Losada,27,---,COL,00:42:45,02:54:47,02:43:47,00:05:59,00:03:33,06:30:51
+ironman-70.3-cozumel-20100919.csv,435,Xavier Mendez,47,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,436,Mauricio Mendez Alvarado,38,Intl State,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,437,Paloma Epstein,31,CA,MEX,00:46:58,03:48:41,02:39:06,00:07:32,00:03:41,07:25:58
+ironman-70.3-cozumel-20100919.csv,438,Michael Epstein,53,CA,USA,00:52:31,03:52:55,02:52:28,00:09:01,00:06:40,07:53:35
+ironman-70.3-cozumel-20100919.csv,439,Luciano Cesar Foca,35,Intl State,BRA,00:32:36,02:38:27,02:25:55,00:04:46,00:02:00,05:43:44
+ironman-70.3-cozumel-20100919.csv,440,Javier Ramirez,---,CA,MEX,00:36:53,---,---,00:07:21,---,DNF
+ironman-70.3-cozumel-20100919.csv,441,Bernardo Garcia,39,---,MEX,00:47:16,03:13:36,02:42:29,00:07:25,00:03:00,06:53:46
+ironman-70.3-cozumel-20100919.csv,442,Gerardo Yepez Sanchez,47,---,MEX,00:42:28,03:15:54,02:32:28,00:07:46,00:03:25,06:42:01
+ironman-70.3-cozumel-20100919.csv,444,Andrea Bondi,41,FC,ITA,00:40:21,03:02:50,02:43:45,00:07:55,00:03:08,06:37:59
+ironman-70.3-cozumel-20100919.csv,445,Benjamin Yang,35,CA,USA,00:41:24,03:01:18,02:04:57,00:06:17,00:02:01,05:55:57
+ironman-70.3-cozumel-20100919.csv,447,Francisco Puente,40,DF,MEX,00:35:49,03:25:27,02:22:42,00:09:59,00:03:07,06:37:04
+ironman-70.3-cozumel-20100919.csv,448,Juan Gomez,43,JALISCO,MEX,00:46:06,03:11:28,03:18:43,00:07:10,00:05:03,07:28:30
+ironman-70.3-cozumel-20100919.csv,449,Federico Barquero,36,Intl State,CRI,00:37:05,03:02:38,02:54:14,00:06:06,00:02:16,06:42:19
+ironman-70.3-cozumel-20100919.csv,450,Valeria Angarita,22,Intl State,VEN,00:41:28,03:20:30,03:10:57,00:07:19,00:05:08,07:25:22
+ironman-70.3-cozumel-20100919.csv,451,Aitor Villafa A,37,---,ESP,00:41:31,03:00:36,02:46:22,00:05:56,00:01:41,06:36:06
+ironman-70.3-cozumel-20100919.csv,452,David Tarrab,30,---,MEX,00:35:20,02:36:24,03:29:19,00:06:14,---,05:46:12
+ironman-70.3-cozumel-20100919.csv,453,Dana Miscia,24,NJ,USA,00:39:22,02:52:25,02:00:58,00:05:46,00:03:19,05:41:50
+ironman-70.3-cozumel-20100919.csv,454,Carlos Marquez,38,Intl State,MEX,00:33:57,03:09:27,03:26:01,00:11:10,00:07:38,07:28:13
+ironman-70.3-cozumel-20100919.csv,455,Monica Casas,29,Estado de Mexico,MEX,00:58:00,03:58:38,---,00:09:48,---,DNF
+ironman-70.3-cozumel-20100919.csv,456,Carlos Vilchis,29,---,MEX,00:41:37,03:09:21,03:31:37,00:05:35,---,06:28:07
+ironman-70.3-cozumel-20100919.csv,457,Douglas Day,42,CA,USA,00:32:21,02:30:18,02:20:50,00:05:24,00:02:06,05:30:59
+ironman-70.3-cozumel-20100919.csv,458,Sabino Guerra,38,Chihuahua,MEX,00:33:31,03:02:41,02:08:48,00:07:19,00:02:49,05:55:08
+ironman-70.3-cozumel-20100919.csv,459,Adriana Gonzalez,34,Intl State,MEX,00:34:59,02:58:21,01:54:43,00:05:26,00:02:31,05:36:00
+ironman-70.3-cozumel-20100919.csv,460,Dirk Herbert Bruse,43,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,461,Miguel Guerra,50,---,USA,00:43:25,02:59:22,02:19:22,00:04:42,00:05:00,06:11:51
+ironman-70.3-cozumel-20100919.csv,462,Roger Alejandro Arredondo,36,CA,USA,00:48:38,03:16:59,03:11:41,00:07:00,00:04:02,07:28:20
+ironman-70.3-cozumel-20100919.csv,463,Luis Vazquez,32,Intl State,MEX,00:35:40,02:36:54,03:05:13,00:04:09,---,05:20:20
+ironman-70.3-cozumel-20100919.csv,464,Chelsea Fulford,36,FL,ITA,00:42:50,02:52:10,02:05:09,00:04:50,00:01:18,05:46:17
+ironman-70.3-cozumel-20100919.csv,465,Arturo Perez Chaves,---,---,CRI,00:41:45,03:15:40,03:16:06,00:07:38,---,06:21:30
+ironman-70.3-cozumel-20100919.csv,466,Marco Beltran,38,MEX,MEX,00:36:37,02:38:53,02:02:26,00:04:28,00:01:04,05:23:28
+ironman-70.3-cozumel-20100919.csv,467,Erika Beckley,38,TX,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,468,Fabian Dario Bifaretti,---,---,ARG,00:49:57,03:04:43,02:21:34,00:05:42,00:01:54,06:23:50
+ironman-70.3-cozumel-20100919.csv,469,Chad T Jerdee,---,---,USA,00:35:15,02:49:06,02:41:12,00:05:51,00:02:36,06:14:00
+ironman-70.3-cozumel-20100919.csv,470,Mike Smith,61,TX,USA,00:36:00,03:35:38,03:51:45,00:08:58,00:03:57,08:16:18
+ironman-70.3-cozumel-20100919.csv,471,Daniel Gonz Lez,35,---,MEX,00:43:01,03:54:14,02:54:20,00:08:48,00:02:46,07:43:09
+ironman-70.3-cozumel-20100919.csv,472,Pam Maxwell,45,FL,USA,00:27:43,02:38:32,01:46:56,00:04:02,00:01:08,04:58:21
+ironman-70.3-cozumel-20100919.csv,473,Mario Paez Villarreal,34,---,MEX,00:39:14,03:01:44,02:08:02,00:06:16,00:01:46,05:57:02
+ironman-70.3-cozumel-20100919.csv,474,Alberto Guzman,40,---,MEX,00:35:58,03:00:39,02:30:00,00:07:03,00:02:52,06:16:32
+ironman-70.3-cozumel-20100919.csv,475,Hector Navarro,36,California,MEX,00:39:40,02:58:45,02:24:30,00:06:26,00:02:48,06:12:09
+ironman-70.3-cozumel-20100919.csv,476,Lynn Monson,45,UT,USA,00:50:54,03:34:23,02:26:24,00:09:09,00:05:27,07:06:17
+ironman-70.3-cozumel-20100919.csv,477,Jose Vazquez,40,---,MEX,00:44:32,03:11:29,03:16:39,00:07:49,00:03:56,07:24:25
+ironman-70.3-cozumel-20100919.csv,478,Antonio Guzman,29,---,MEX,00:41:10,03:07:32,03:39:16,00:05:30,---,06:33:29
+ironman-70.3-cozumel-20100919.csv,479,Emilio Estrada,---,---,MEX,00:26:56,02:50:37,02:02:50,00:04:13,00:02:04,05:26:40
+ironman-70.3-cozumel-20100919.csv,480,Kristine Stamps Miller,---,---,USA,00:52:56,03:25:32,03:15:05,00:09:01,00:05:39,07:48:13
+ironman-70.3-cozumel-20100919.csv,481,Chris Davy,39,NC,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,482,Johel Bedoya,37,TX,COL,00:58:23,03:39:30,03:40:22,00:08:43,00:03:26,08:30:24
+ironman-70.3-cozumel-20100919.csv,483,Andrea Felipe Henao,26,Bogotá,COL,00:37:04,02:52:09,02:46:12,00:05:33,00:02:16,06:23:14
+ironman-70.3-cozumel-20100919.csv,484,Laura Lee Shebby,---,---,USA,00:46:57,03:25:34,03:03:42,00:07:48,00:03:41,07:27:42
+ironman-70.3-cozumel-20100919.csv,485,Brent Bailey,13,SC,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,486,Hugo Ramirez Enriquez,32,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,487,Jaime Reynoso Avila,33,---,MEX,00:37:54,02:45:04,03:03:17,00:03:52,---,05:28:19
+ironman-70.3-cozumel-20100919.csv,488,Robert Allemann,59,---,NZL,00:38:11,02:37:14,01:52:57,00:04:59,00:01:59,05:15:20
+ironman-70.3-cozumel-20100919.csv,489,Odin Jimenez,34,DF,MEX,00:43:05,03:37:50,04:03:31,00:10:58,---,07:37:21
+ironman-70.3-cozumel-20100919.csv,490,Eduardo Nestel,30,---,MEX,00:31:57,02:45:09,03:17:01,00:06:35,---,05:39:12
+ironman-70.3-cozumel-20100919.csv,491,Cesar Ramos,40,Intl State,MEX,00:45:01,03:18:58,02:57:18,00:06:34,00:02:05,07:09:56
+ironman-70.3-cozumel-20100919.csv,492,Nicholas Pappas,34,WA,USA,00:33:23,03:09:18,03:43:41,00:06:48,---,06:33:17
+ironman-70.3-cozumel-20100919.csv,493,Amber Lee Ricketts,---,---,USA,00:35:57,02:59:21,02:34:12,00:07:00,00:03:28,06:19:58
+ironman-70.3-cozumel-20100919.csv,494,Corey Knop,40,CO,USA,00:38:38,02:46:35,02:14:55,00:09:15,00:04:00,05:53:23
+ironman-70.3-cozumel-20100919.csv,495,Mario Conzuelo,38,---,MEX,00:43:22,03:24:47,02:54:28,00:08:13,00:04:37,07:15:27
+ironman-70.3-cozumel-20100919.csv,496,Tom Gelson,46,MA,USA,00:40:03,02:34:37,---,00:04:12,00:02:20,DNF
+ironman-70.3-cozumel-20100919.csv,497,Arturo Romero,29,---,MEX,00:34:41,02:49:10,03:22:34,00:07:37,00:04:48,06:58:50
+ironman-70.3-cozumel-20100919.csv,498,Adrian Jimenez Elias,28,---,MEX,00:38:59,02:58:45,02:18:06,00:04:38,00:02:58,06:03:26
+ironman-70.3-cozumel-20100919.csv,499,Francisco Eugenio Cordero,---,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,501,Alberto Casamitjana,45,Intl State,MEX,00:44:47,03:30:47,02:47:23,00:10:34,00:05:56,07:19:27
+ironman-70.3-cozumel-20100919.csv,502,Luis Alberto Radilla,37,Estado de Mexico,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,503,Marco Cubillas,36,---,MEX,00:41:00,02:57:24,02:42:16,00:07:31,00:01:53,06:30:04
+ironman-70.3-cozumel-20100919.csv,505,Rudy Oneto,---,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,506,Miguel De La Mora,36,---,MEX,00:42:47,03:03:01,02:10:31,00:07:24,00:02:41,06:06:24
+ironman-70.3-cozumel-20100919.csv,507,Peter Ravey,54,FL,GBR,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,508,Juan Francisco Reyes Luna,34,---,MEX,00:51:42,03:17:54,03:39:44,00:07:35,---,06:59:26
+ironman-70.3-cozumel-20100919.csv,509,Brian Summers,47,TX,USA,00:38:41,02:54:36,02:50:42,00:05:51,00:02:11,06:32:01
+ironman-70.3-cozumel-20100919.csv,510,Bill P Wallace Jr,46,GA,USA,00:39:40,02:48:00,02:11:19,00:05:48,00:02:30,05:47:17
+ironman-70.3-cozumel-20100919.csv,511,Santiago Vacas,35,Distrito Federal,MEX,00:39:25,03:18:55,03:08:14,00:07:24,00:02:58,07:16:56
+ironman-70.3-cozumel-20100919.csv,512,Mauricio Gamboa,23,---,MEX,00:41:24,02:59:26,02:26:58,00:06:36,00:01:20,06:15:44
+ironman-70.3-cozumel-20100919.csv,513,Ricardo Manuel Carmona,---,---,MEX,00:45:24,03:20:56,03:16:12,00:08:41,00:04:59,07:36:12
+ironman-70.3-cozumel-20100919.csv,514,John Gavin,43,Surrey,IRL,00:51:18,03:20:46,02:28:43,00:10:26,00:06:30,06:57:43
+ironman-70.3-cozumel-20100919.csv,515,Esteban Regalado,47,TX,USA,00:33:36,02:46:25,03:14:19,00:07:47,00:03:06,06:45:13
+ironman-70.3-cozumel-20100919.csv,516,Merrie Wimmer,45,TX,USA,00:43:09,02:57:07,02:52:20,00:04:17,00:02:05,06:38:58
+ironman-70.3-cozumel-20100919.csv,517,Alvaro Lopez Noya,52,---,MEX,00:42:12,03:26:22,02:07:53,00:05:20,00:03:31,06:25:18
+ironman-70.3-cozumel-20100919.csv,518,Hugo Aveytua Mora,---,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,519,Lorenzo M Martinez De La Escalera,---,---,MEX,00:39:00,02:54:19,03:04:53,00:06:16,---,05:43:27
+ironman-70.3-cozumel-20100919.csv,521,Raciel Cruz Ramirez,41,Estado de Mexico,MEX,00:59:22,03:25:59,02:50:17,00:05:32,00:03:30,07:24:40
+ironman-70.3-cozumel-20100919.csv,523,Fernando Manon,39,---,MEX,00:37:16,02:40:19,02:17:30,00:05:17,00:01:16,05:41:38
+ironman-70.3-cozumel-20100919.csv,524,Jose Garza,40,Quintan Roo,MEX,00:38:24,02:42:32,02:05:46,00:04:27,00:01:10,05:32:19
+ironman-70.3-cozumel-20100919.csv,525,Alejandra Gutierrez,36,Quintana Roo,MEX,00:36:16,02:51:20,02:02:04,00:04:16,00:01:36,05:35:32
+ironman-70.3-cozumel-20100919.csv,526,Sergio Leon,37,---,MEX,00:41:25,03:02:09,02:35:00,00:09:22,00:03:20,06:31:16
+ironman-70.3-cozumel-20100919.csv,527,Daniela Pradler,41,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,528,Fidel Rotondaro,68,FL,VEN,00:37:25,03:01:28,02:30:17,00:05:58,00:03:32,06:18:40
+ironman-70.3-cozumel-20100919.csv,529,Agustin Alaman,39,Estado de Mexico,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,530,Leonardo Vazquez,---,---,MEX,00:45:41,03:25:54,02:14:52,00:07:45,00:06:31,06:40:43
+ironman-70.3-cozumel-20100919.csv,531,Carlos Llamas,49,---,MEX,00:37:25,02:49:08,02:39:27,00:06:16,00:03:06,06:15:22
+ironman-70.3-cozumel-20100919.csv,532,Fabian Lopez Calva,36,---,MEX,00:38:41,03:08:49,02:54:59,00:09:18,00:07:19,06:59:06
+ironman-70.3-cozumel-20100919.csv,533,Brent De Jong,35,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,534,Patrick Wright,33,IN,USA,00:38:09,03:17:40,04:18:30,00:06:32,---,07:20:20
+ironman-70.3-cozumel-20100919.csv,535,Alfredo Avila Muñoz,45,CDMX,MEX,00:47:36,03:22:15,03:35:40,00:07:50,00:03:32,07:56:53
+ironman-70.3-cozumel-20100919.csv,536,Manuel Avila Rodriguez,18,Estado de Mexico,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,537,Manuel Avila Rodriguez,18,Estado de Mexico,MEX,00:43:18,03:35:01,02:30:17,00:06:02,00:02:26,06:57:04
+ironman-70.3-cozumel-20100919.csv,538,Carlos Consejo,43,---,MEX,00:50:37,03:19:54,02:48:21,00:06:35,00:02:16,07:07:43
+ironman-70.3-cozumel-20100919.csv,539,Lance Chambers,40,FL,USA,00:32:03,02:30:57,02:03:23,00:04:27,00:01:38,05:12:28
+ironman-70.3-cozumel-20100919.csv,540,Jose Luis Gallegos,---,---,MEX,00:34:17,02:56:32,02:51:20,00:06:00,00:02:35,06:30:44
+ironman-70.3-cozumel-20100919.csv,541,Manfredo Roman,37,---,MEX,00:36:47,03:09:29,02:04:04,00:04:29,00:01:57,05:56:46
+ironman-70.3-cozumel-20100919.csv,542,Jose Luis Garcia,43,Intl State,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,543,Maria Cordero,39,---,MEX,00:47:19,03:30:29,02:42:36,00:06:56,00:02:34,07:09:54
+ironman-70.3-cozumel-20100919.csv,544,Miranda Kay Mallet,---,---,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,545,Jose Anotnio Alverde,32,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,546,Charles Martin,31,---,ZAF,00:36:30,03:14:14,---,00:07:09,---,DNF
+ironman-70.3-cozumel-20100919.csv,547,Fernando Flores Iga,35,---,MEX,00:41:03,---,---,00:08:02,---,DNF
+ironman-70.3-cozumel-20100919.csv,550,Carlos Capetillo,42,CIUDAD DE M?XICO,MEX,00:45:06,03:23:18,02:56:55,00:09:17,00:03:28,07:18:04
+ironman-70.3-cozumel-20100919.csv,551,3 Lopez,---,---,MEX,00:43:12,02:54:39,03:02:33,00:07:52,---,05:47:41
+ironman-70.3-cozumel-20100919.csv,552,Arturo Torres,33,---,MEX,00:36:31,02:53:19,03:13:58,00:06:00,---,05:49:03
+ironman-70.3-cozumel-20100919.csv,553,Leslie Jordan,38,FL,USA,00:39:59,03:23:35,02:50:15,00:06:06,00:03:09,07:03:04
+ironman-70.3-cozumel-20100919.csv,554,Patricia Berthier,30,---,MEX,00:44:00,03:29:35,03:00:00,00:07:56,00:04:34,07:26:05
+ironman-70.3-cozumel-20100919.csv,555,Marco Antonio Ornelas Marquez,41,JALISCO,MEX,00:36:48,03:11:01,03:13:09,00:10:30,00:04:03,07:15:31
+ironman-70.3-cozumel-20100919.csv,556,Ibon Gamecho,37,---,ESP,00:29:06,02:27:14,02:18:23,00:03:42,00:01:32,05:19:57
+ironman-70.3-cozumel-20100919.csv,557,Juan Fernando Mejia,---,---,COL,00:35:00,02:51:55,02:55:27,00:07:03,00:02:20,06:31:45
+ironman-70.3-cozumel-20100919.csv,558,Juan Manuel Velasco,39,Intl State,COL,00:30:39,02:22:44,01:51:03,00:06:07,00:01:28,04:52:01
+ironman-70.3-cozumel-20100919.csv,559,Oscar Jimmy Gomez Jimenez,43,---,COL,00:37:46,02:46:55,02:28:09,00:04:54,00:01:12,05:58:56
+ironman-70.3-cozumel-20100919.csv,560,Cole Leblanc,24,LA,USA,00:37:34,02:52:14,02:58:43,00:05:38,00:02:09,06:36:18
+ironman-70.3-cozumel-20100919.csv,561,Alan Tanner,48,FL,USA,00:41:27,02:35:41,01:58:01,00:05:09,00:01:19,05:21:37
+ironman-70.3-cozumel-20100919.csv,562,Carlos Alberto V Zquez Vegamontes,41,---,MEX,00:39:22,03:00:03,02:53:18,00:07:09,00:01:49,06:41:41
+ironman-70.3-cozumel-20100919.csv,563,Claudia Flores,39,---,MEX,00:37:35,02:41:25,01:52:11,00:04:32,00:01:25,05:17:08
+ironman-70.3-cozumel-20100919.csv,564,Anselmo Guillermo Meza Vargas,41,---,MEX,---,02:53:28,02:19:39,00:37:33,00:01:44,05:52:24
+ironman-70.3-cozumel-20100919.csv,565,Mauricio Martinez Gonzalez,---,---,MEX,00:50:35,03:18:25,02:58:15,00:06:44,00:03:53,07:17:52
+ironman-70.3-cozumel-20100919.csv,566,Josean Torres,40,PR,CRI,00:37:29,02:56:07,02:07:37,00:04:55,00:01:10,05:47:18
+ironman-70.3-cozumel-20100919.csv,568,Patricia Lopez Uriarte,36,Puebla,MEX,00:45:27,03:23:27,02:20:28,00:06:00,00:02:19,06:37:41
+ironman-70.3-cozumel-20100919.csv,569,José Sánchez Rodríguez,37,Intl State,ESP,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,570,Enrique Martinez Gama,38,---,MEX,00:39:24,03:10:12,03:01:54,00:05:48,00:03:40,07:00:58
+ironman-70.3-cozumel-20100919.csv,571,Mauricio Teran,35,---,MEX,00:44:03,02:57:25,02:18:46,00:07:56,00:02:06,06:10:16
+ironman-70.3-cozumel-20100919.csv,572,Manuel Rodriguez Gonzalez,35,---,MEX,00:42:37,03:03:10,02:34:03,00:07:05,00:03:56,06:30:51
+ironman-70.3-cozumel-20100919.csv,573,Carlos Alberto Gutierrez Cervantes,29,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,574,Juan Pablo Rojas Castro,25,---,MEX,00:33:02,02:42:15,01:57:12,00:04:08,00:02:13,05:18:50
+ironman-70.3-cozumel-20100919.csv,575,Willevaldo Rodriguez Rubio,26,---,MEX,00:38:13,02:45:52,01:58:33,00:04:51,00:01:31,05:29:00
+ironman-70.3-cozumel-20100919.csv,576,Roberto Buenfil,47,---,MEX,00:35:43,03:04:45,03:03:19,00:06:26,00:04:08,06:54:21
+ironman-70.3-cozumel-20100919.csv,577,Leopoldo De La Garza,40,TX,MEX,00:37:53,02:35:18,02:21:34,00:05:50,00:03:10,05:43:45
+ironman-70.3-cozumel-20100919.csv,578,Gerardo Del Valle L,40,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,579,Conrado Gonzalez,26,---,MEX,00:38:21,02:52:45,02:25:31,00:05:13,00:01:31,06:03:21
+ironman-70.3-cozumel-20100919.csv,580,Marco Antonio Vega,36,---,MEX,00:44:12,03:29:43,02:44:58,00:07:55,00:02:17,07:09:05
+ironman-70.3-cozumel-20100919.csv,581,María Cristina Rohde Faraudo,39,CDMX,MEX,---,03:56:19,---,00:45:07,---,DNF
+ironman-70.3-cozumel-20100919.csv,582,Gerardo Lozano,37,---,MEX,00:40:32,02:54:03,02:26:30,00:07:08,00:02:19,06:10:32
+ironman-70.3-cozumel-20100919.csv,583,FRANCISCO LOPEZ,39,---,MEX,00:42:41,03:05:31,02:54:18,00:10:05,00:02:11,06:54:46
+ironman-70.3-cozumel-20100919.csv,585,Guillermo Ortizramos,30,---,MEX,00:31:45,03:02:38,04:13:01,00:04:52,---,06:51:25
+ironman-70.3-cozumel-20100919.csv,586,Derek Biesheuvel,39,CA,USA,00:42:43,02:46:10,02:10:24,00:07:17,00:03:04,05:49:38
+ironman-70.3-cozumel-20100919.csv,587,James Canete,32,CA,USA,00:41:05,02:51:22,03:13:34,00:06:33,---,05:52:23
+ironman-70.3-cozumel-20100919.csv,589,Becky Shum,37,FL,HKG,00:40:56,03:02:24,02:04:42,00:04:36,00:02:03,05:54:41
+ironman-70.3-cozumel-20100919.csv,590,Juan Carlos Jacob,51,mexico city,MEX,00:41:28,03:33:15,02:59:28,00:06:19,00:03:05,07:23:35
+ironman-70.3-cozumel-20100919.csv,591,David Garcia Amozurrutia,---,---,MEX,00:40:14,02:48:30,03:20:34,00:04:37,---,05:52:19
+ironman-70.3-cozumel-20100919.csv,593,Pablo Rivas,34,---,MEX,00:40:50,02:47:35,03:57:25,00:06:46,---,06:32:39
+ironman-70.3-cozumel-20100919.csv,594,Daniela Gregor,27,---,MEX,00:39:20,03:16:54,02:37:20,00:07:20,00:04:13,06:45:07
+ironman-70.3-cozumel-20100919.csv,595,Eric Neguelouart,21,DF,MEX,00:29:28,02:25:35,01:50:53,00:03:45,00:00:49,04:50:30
+ironman-70.3-cozumel-20100919.csv,596,Max Arturo Gonzalez,---,---,MEX,00:40:46,03:06:41,03:34:56,00:08:10,00:04:52,07:35:25
+ironman-70.3-cozumel-20100919.csv,597,Maribel Morales,32,---,MEX,00:40:14,03:09:30,02:13:22,00:05:36,00:01:32,06:10:14
+ironman-70.3-cozumel-20100919.csv,599,Gustavo Prieto,42,Yucatán,MEX,00:37:14,03:24:50,03:02:58,00:06:43,00:02:33,07:14:18
+ironman-70.3-cozumel-20100919.csv,600,Jesus Murguiondo,41,---,MEX,00:33:01,02:52:16,02:53:03,00:06:40,00:01:49,06:26:49
+ironman-70.3-cozumel-20100919.csv,601,Gabriel Lopez Cervera,35,---,MEX,00:37:50,02:52:38,02:30:34,00:05:40,00:01:47,06:08:29
+ironman-70.3-cozumel-20100919.csv,602,Jose Plowes,27,---,MEX,00:39:35,03:16:09,02:47:58,00:05:43,00:03:44,06:53:09
+ironman-70.3-cozumel-20100919.csv,603,Luiz Gustavo  Pinto,27,---,BRA,00:37:33,02:31:18,01:43:43,00:04:31,00:01:12,04:58:17
+ironman-70.3-cozumel-20100919.csv,604,Andre Pinto,30,SP,BRA,00:34:59,02:58:36,03:34:09,00:05:32,---,06:12:13
+ironman-70.3-cozumel-20100919.csv,605,Rolando Basora,31,Yucatan,MEX,00:39:04,03:03:29,04:13:52,00:06:21,---,07:03:33
+ironman-70.3-cozumel-20100919.csv,607,Martin Sosa,28,---,PAN,00:33:12,02:35:26,01:48:14,00:04:01,00:01:17,05:02:10
+ironman-70.3-cozumel-20100919.csv,609,Vicente Gabino Barrera,---,---,MEX,00:38:56,02:47:54,---,00:06:14,00:04:31,DNF
+ironman-70.3-cozumel-20100919.csv,610,Michael Toledo,48,FL,USA,00:43:50,03:32:36,03:07:54,00:10:48,00:08:40,07:43:48
+ironman-70.3-cozumel-20100919.csv,611,Izchel Olarte Torres,28,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,612,Jorge Matoo,40,---,MEX,00:33:55,02:43:30,01:56:45,00:05:01,00:01:51,05:21:02
+ironman-70.3-cozumel-20100919.csv,613,Juan Castillo,42,---,MEX,00:34:10,03:06:57,02:03:47,00:06:11,00:02:22,05:53:27
+ironman-70.3-cozumel-20100919.csv,614,Sidney Danner,34,TX,USA,00:44:27,02:48:28,03:57:47,00:04:54,---,06:33:54
+ironman-70.3-cozumel-20100919.csv,615,Sebastien Rocco,29,ON,FRA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,616,Hugo Arredondo,30,---,MEX,00:39:15,02:48:46,02:54:02,00:04:57,---,05:25:38
+ironman-70.3-cozumel-20100919.csv,617,Ma De Lourdes Cardenas Reyes,42,---,MEX,00:33:57,02:45:53,02:19:02,00:04:46,00:02:18,05:45:56
+ironman-70.3-cozumel-20100919.csv,618,Bernardo Monroy,33,mexico,MEX,00:42:42,03:01:28,03:19:39,00:04:09,---,06:06:05
+ironman-70.3-cozumel-20100919.csv,619,Jose Luis Velazquez,50,---,MEX,00:44:28,03:05:51,02:36:40,00:10:31,00:04:20,06:41:50
+ironman-70.3-cozumel-20100919.csv,620,Christopher Philippou,28,NY,USA,00:45:19,03:01:55,02:28:50,00:06:20,00:03:34,06:25:58
+ironman-70.3-cozumel-20100919.csv,621,Liudmila Heally,37,CA,BRA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,622,Keith Verville,37,TX,CAN,00:42:09,02:39:54,02:35:41,00:07:58,00:03:51,06:09:33
+ironman-70.3-cozumel-20100919.csv,624,Javier Salas,18,Naucalpan,MEX,00:34:04,03:04:54,02:45:54,00:05:00,00:02:26,06:32:18
+ironman-70.3-cozumel-20100919.csv,625,Marco Murari,42,Intl State,ITA,00:26:32,02:57:08,02:31:24,00:04:27,00:01:57,06:01:28
+ironman-70.3-cozumel-20100919.csv,626,Terrence John Timko,64,PA,USA,00:44:26,03:15:53,03:07:23,00:06:01,00:03:54,07:17:37
+ironman-70.3-cozumel-20100919.csv,627,Eduardo Zermeno,35,---,MEX,00:37:42,02:51:46,01:43:04,00:04:57,00:02:06,05:19:35
+ironman-70.3-cozumel-20100919.csv,628,Benjamin Reyes,36,mex,MEX,00:42:05,03:04:18,02:44:58,00:05:29,00:05:07,06:41:57
+ironman-70.3-cozumel-20100919.csv,629,David Sosa Solis,34,---,MEX,00:37:10,02:57:06,02:29:05,00:06:50,00:03:22,06:13:33
+ironman-70.3-cozumel-20100919.csv,630,Ismael Diaz Barriga Cordoba,37,---,MEX,00:36:46,02:44:23,01:54:41,00:04:12,00:01:36,05:21:38
+ironman-70.3-cozumel-20100919.csv,631,Felix Jaber,47,Intl State,MEX,00:42:12,02:47:19,02:51:29,00:06:12,00:02:46,06:29:58
+ironman-70.3-cozumel-20100919.csv,632,Jose Alejandro Ontiveros,55,Intl State,MEX,00:41:14,02:54:00,01:56:59,00:05:12,00:02:30,05:39:55
+ironman-70.3-cozumel-20100919.csv,633,Kristian Tommasi,34,CA,MEX,00:31:53,02:47:13,03:26:47,00:05:16,---,05:49:38
+ironman-70.3-cozumel-20100919.csv,634,Imanol Belausteguigoitia Ibarrol,18,---,MEX,00:36:04,03:06:22,02:18:48,00:04:29,00:01:45,06:07:28
+ironman-70.3-cozumel-20100919.csv,635,Ann Marie Mueller,40,NM,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,636,Roberto Lopez Konschot,33,DELEGACION CUAJIMALPA. MEXICO ,MEX,00:40:11,02:39:11,03:28:44,00:05:56,---,05:53:22
+ironman-70.3-cozumel-20100919.csv,637,Vicente Cisneros,35,CA,MEX,00:37:41,03:02:47,---,00:06:47,00:02:29,DNF
+ironman-70.3-cozumel-20100919.csv,638,Edgar Ortiz,44,Guatemala,GTM,00:39:32,03:00:33,02:38:26,00:06:36,00:03:09,06:28:16
+ironman-70.3-cozumel-20100919.csv,639,Federico Delgado Mora,39,---,CRI,00:32:43,03:30:36,---,00:05:14,---,DNF
+ironman-70.3-cozumel-20100919.csv,640,Erick Varela,33,---,CRI,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,641,Joaquin Freire,36,FL,USA,00:39:57,02:41:59,02:08:00,00:06:17,00:02:08,05:38:21
+ironman-70.3-cozumel-20100919.csv,642,Carla Moreno,39,---,MEX,00:45:37,03:27:58,02:13:54,00:08:50,00:02:34,06:38:53
+ironman-70.3-cozumel-20100919.csv,643,Gregorio Dominguez,23,---,MEX,00:25:50,02:50:07,03:26:07,00:04:29,00:01:15,06:47:48
+ironman-70.3-cozumel-20100919.csv,644,Maricarmen Concha,38,---,MEX,00:39:49,03:52:29,02:49:57,00:07:23,00:05:23,07:35:01
+ironman-70.3-cozumel-20100919.csv,645,Jonny Elton Vasconcellos Oliveira,35,South Dakota,BRA,00:38:41,02:43:37,02:40:46,00:06:07,00:02:20,06:11:31
+ironman-70.3-cozumel-20100919.csv,646,Gaby Larrea,26,---,MEX,00:46:15,03:39:33,03:04:14,00:08:34,00:02:54,07:41:30
+ironman-70.3-cozumel-20100919.csv,647,Margie Real,24,PANAMA,PAN,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,648,Enrique Ortiz,41,CA,MEX,00:31:50,03:11:25,02:01:34,00:06:24,00:03:09,05:54:22
+ironman-70.3-cozumel-20100919.csv,649,Rafael Andres Gurrola Chi,37,Yucatan,MEX,00:48:22,03:01:57,02:18:32,00:04:38,00:02:08,06:15:37
+ironman-70.3-cozumel-20100919.csv,650,Alejandro Reynoso,32,Intl State,MEX,01:03:46,03:01:49,03:39:44,00:06:57,---,06:54:03
+ironman-70.3-cozumel-20100919.csv,651,Yolotl Monica DEL VALLE GARDU�O,34,CDMX,MEX,00:48:09,02:13:02,02:32:27,00:07:27,00:02:09,05:43:14
+ironman-70.3-cozumel-20100919.csv,652,Bernabe Cajas Torres,---,---,MEX,00:50:31,03:05:53,02:28:14,00:05:37,00:01:42,06:31:57
+ironman-70.3-cozumel-20100919.csv,653,Eduardo Tubert,37,---,MEX,00:37:18,03:02:30,02:28:41,00:05:36,00:02:05,06:16:10
+ironman-70.3-cozumel-20100919.csv,654,Paulina Jorge,29,MERIDA,MEX,00:39:37,03:19:30,02:11:53,00:05:21,00:03:21,06:19:42
+ironman-70.3-cozumel-20100919.csv,655,Eduardo Navarrete Navarrete Paz,---,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,656,Arminda Partida,24,---,MEX,00:48:43,03:43:13,02:16:13,00:05:08,00:01:41,06:54:58
+ironman-70.3-cozumel-20100919.csv,657,Marcelo Martinez Gomez,---,---,MEX,00:41:05,02:45:36,02:16:55,00:04:33,00:01:40,05:49:49
+ironman-70.3-cozumel-20100919.csv,658,Francisco Lerin,42,Intl State,MEX,00:44:20,03:09:22,02:13:46,00:04:26,00:01:34,06:13:28
+ironman-70.3-cozumel-20100919.csv,659,Bertha Vargas Perdomo,42,---,MEX,00:38:10,03:14:23,02:11:36,00:05:43,00:01:45,06:11:37
+ironman-70.3-cozumel-20100919.csv,660,Jon Messenger,30,KS,USA,00:34:50,02:36:54,02:59:28,00:05:41,---,05:15:11
+ironman-70.3-cozumel-20100919.csv,661,Amanda Messenger,23,KS,USA,00:37:53,02:46:44,02:28:48,00:05:01,00:02:09,06:00:35
+ironman-70.3-cozumel-20100919.csv,662,Jane Kisandra Powell,---,---,AUS,00:38:39,02:57:34,02:23:32,00:06:00,00:03:04,06:08:49
+ironman-70.3-cozumel-20100919.csv,663,Garrie Prosser,46,Lancashire,GBR,00:32:22,02:40:47,01:41:17,00:06:23,00:02:38,05:03:27
+ironman-70.3-cozumel-20100919.csv,664,Ariadna Castellanos,50,---,MEX,01:01:34,04:02:58,---,00:09:08,---,DNF
+ironman-70.3-cozumel-20100919.csv,665,Ruben Pelaez,51,---,MEX,00:44:05,03:18:33,02:39:27,00:07:55,00:02:09,06:52:09
+ironman-70.3-cozumel-20100919.csv,666,Cuche Alarcon,39,Intl State,MEX,00:45:04,03:24:55,02:19:56,00:09:16,00:06:58,06:46:09
+ironman-70.3-cozumel-20100919.csv,667,Jorge Adrian Martinez Molina,34,---,MEX,00:47:15,02:49:10,04:08:07,00:07:51,---,06:53:19
+ironman-70.3-cozumel-20100919.csv,668,Oliver Mondragon,37,Intl State,MEX,00:30:37,02:38:03,01:55:21,00:05:06,00:01:16,05:10:23
+ironman-70.3-cozumel-20100919.csv,669,Palmira Alvarez,28,CO,MEX,00:38:00,02:47:30,02:07:02,00:05:19,00:02:27,05:40:18
+ironman-70.3-cozumel-20100919.csv,670,Alejandro Sangrador,41,---,VEN,00:26:39,02:39:46,01:38:32,00:04:22,00:01:09,04:50:28
+ironman-70.3-cozumel-20100919.csv,671,Vicente Jonguitud,36,Queretaro,MEX,00:36:02,02:52:45,01:52:46,00:05:10,00:02:29,05:29:12
+ironman-70.3-cozumel-20100919.csv,672,Marc Heise,35,MA,USA,00:37:33,02:39:52,---,00:04:55,00:01:53,DNF
+ironman-70.3-cozumel-20100919.csv,673,Javier Cortes Ravell,34,Ciudad de México,MEX,00:39:14,03:54:44,02:24:25,00:07:02,---,06:04:24
+ironman-70.3-cozumel-20100919.csv,675,Carlos Roberto Vargas,---,---,MEX,00:33:18,02:43:13,03:00:54,00:04:36,---,05:20:33
+ironman-70.3-cozumel-20100919.csv,676,Manuel Alejandro Armendar Vela,35,Colorado,MEX,00:42:25,02:45:10,02:01:34,00:06:39,00:01:23,05:37:11
+ironman-70.3-cozumel-20100919.csv,678,Juan Antonio Rosas,53,---,MEX,00:55:37,03:03:07,03:10:00,00:09:27,00:02:57,07:21:08
+ironman-70.3-cozumel-20100919.csv,679,Armando Cortes Coutiño,22,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,680,Rafael Nazariega Sanchez,---,---,MEX,00:42:47,02:39:55,01:57:10,00:04:52,00:03:05,05:27:49
+ironman-70.3-cozumel-20100919.csv,681,Raymundo Marfil,31,---,MEX,00:30:53,02:37:30,03:12:08,00:03:32,---,05:22:26
+ironman-70.3-cozumel-20100919.csv,682,Christian Farrach,22,FL,GTM,00:35:49,02:43:15,02:13:42,00:05:20,00:01:38,05:39:44
+ironman-70.3-cozumel-20100919.csv,683,Rolando Farrach,54,guatemala,GTM,00:35:55,02:37:29,01:59:51,00:04:40,00:01:41,05:19:36
+ironman-70.3-cozumel-20100919.csv,684,Sergio Ayala,55,---,MEX,00:36:40,02:56:09,02:15:18,00:05:42,00:02:26,05:56:15
+ironman-70.3-cozumel-20100919.csv,685,Juan Mendez,48,FL,USA,00:41:29,02:33:32,01:48:10,00:05:35,00:03:24,05:12:10
+ironman-70.3-cozumel-20100919.csv,686,Ovidio Bilbao,34,FL,USA,00:36:31,02:34:25,02:51:16,00:04:58,---,05:06:14
+ironman-70.3-cozumel-20100919.csv,687,Marcela Nava,27,---,MEX,00:39:35,03:33:18,03:00:18,00:08:27,00:04:27,07:26:05
+ironman-70.3-cozumel-20100919.csv,688,Adrian Moreno  Valtierra,33,DF,MEX,00:37:40,03:38:58,03:17:40,00:06:06,---,06:39:11
+ironman-70.3-cozumel-20100919.csv,689,Fernando Duque Cardoze,35,---,PAN,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,690,Rogelio Alba,41,Panama,PAN,00:34:24,02:32:40,01:50:14,00:04:13,00:01:08,05:02:39
+ironman-70.3-cozumel-20100919.csv,691,Erica Lazarus,31,FL,USA,00:39:24,02:49:27,01:47:54,00:05:52,00:01:41,05:24:18
+ironman-70.3-cozumel-20100919.csv,692,Leslie Lamacchia,31,TX,USA,00:41:53,02:55:47,01:58:20,00:04:43,00:01:27,05:42:10
+ironman-70.3-cozumel-20100919.csv,693,Alfonso Zermeno,32,---,MEX,00:35:23,02:37:29,03:30:48,00:04:20,---,05:46:01
+ironman-70.3-cozumel-20100919.csv,694,Juan Pablo Rodriguez,---,---,CRI,00:41:28,03:09:12,03:11:30,00:06:38,---,06:07:56
+ironman-70.3-cozumel-20100919.csv,695,Sergio Macias,30,DF,MEX,00:33:47,03:00:50,03:03:04,00:04:17,---,05:40:19
+ironman-70.3-cozumel-20100919.csv,696,Alejandro Colmenero,50,MORELOS,MEX,00:36:36,03:03:45,02:44:33,00:07:08,00:02:32,06:34:34
+ironman-70.3-cozumel-20100919.csv,697,Alfredo Rivera,48,---,MEX,00:44:15,03:21:49,02:35:58,00:09:22,00:02:33,06:53:57
+ironman-70.3-cozumel-20100919.csv,698,Nancy Pauw,52,Ab,CAN,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,699,Inaki De La Parra,27,DF,MEX,00:35:49,02:32:23,01:57:54,00:04:42,---,05:10:48
+ironman-70.3-cozumel-20100919.csv,700,Kevin Lundeen,51,---,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,701,Bob Newman,48,IN,USA,00:44:40,02:37:36,01:52:32,00:04:26,00:01:13,05:20:27
+ironman-70.3-cozumel-20100919.csv,702,Isadora Martinez,35,Distrito Federal,MEX,00:44:51,03:29:01,02:17:13,00:08:28,00:02:38,06:42:11
+ironman-70.3-cozumel-20100919.csv,703,Scott Simpson,48,FL,USA,00:48:22,02:52:01,02:07:50,00:05:29,00:02:03,05:55:45
+ironman-70.3-cozumel-20100919.csv,704,Carlos Miranda,29,TX,MEX,00:38:31,---,---,00:04:47,---,DNF
+ironman-70.3-cozumel-20100919.csv,705,Mike Butler,55,CO,USA,00:38:04,02:42:49,02:10:30,00:04:51,00:02:07,05:38:21
+ironman-70.3-cozumel-20100919.csv,706,Dario Semelak,26,---,ARG,00:32:24,02:35:37,02:11:05,00:04:35,00:01:13,05:24:54
+ironman-70.3-cozumel-20100919.csv,707,Julio Garcia,39,---,MEX,00:39:39,03:10:04,02:17:46,00:07:50,00:03:23,06:18:42
+ironman-70.3-cozumel-20100919.csv,708,Marito (Abel) Garcia Fuentes,37,DF,MEX,00:46:23,03:25:57,02:21:15,00:07:03,00:03:53,06:44:31
+ironman-70.3-cozumel-20100919.csv,709,Ricardo Hernandez Garza,37,---,MEX,00:35:16,02:41:37,01:10:28,00:05:42,00:01:36,04:34:39
+ironman-70.3-cozumel-20100919.csv,710,Humberto Vela,53,---,MEX,00:42:56,02:47:22,02:26:08,00:06:30,00:02:52,06:05:48
+ironman-70.3-cozumel-20100919.csv,711,Christine Case,41,CO,USA,00:46:14,03:15:22,02:09:30,00:07:34,00:03:59,06:22:39
+ironman-70.3-cozumel-20100919.csv,712,Armando Del Olmo,40,---,MEX,00:38:09,02:38:43,01:59:51,00:05:12,00:01:29,05:23:24
+ironman-70.3-cozumel-20100919.csv,713,Patrick Otter,38,FL,CHE,00:32:27,02:32:13,01:47:50,00:04:16,---,04:56:46
+ironman-70.3-cozumel-20100919.csv,714,Ronaldo Lopez,22,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,715,Xavier Gaona,51,MEXICO,MEX,00:38:02,03:10:01,02:55:36,00:05:44,00:02:32,06:51:55
+ironman-70.3-cozumel-20100919.csv,716,Adolfo Arias,39,---,PAN,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,717,Lopez Ortiz German,41,---,MEX,00:41:47,03:02:28,02:47:03,00:07:51,00:04:45,06:43:54
+ironman-70.3-cozumel-20100919.csv,718,David Pi„on,37,---,MEX,00:27:35,02:46:46,02:09:12,---,00:01:24,05:24:57
+ironman-70.3-cozumel-20100919.csv,719,Shomeis Berger,35,---,MEX,00:36:21,02:42:33,01:56:39,00:05:15,00:01:51,05:22:39
+ironman-70.3-cozumel-20100919.csv,720,Armando Hernandez,42,---,MEX,00:38:04,02:46:47,02:04:09,00:06:28,00:01:44,05:37:12
+ironman-70.3-cozumel-20100919.csv,721,Gerardo Anceno,47,Intl State,MEX,00:39:54,02:48:49,02:05:45,00:05:42,00:02:08,05:42:18
+ironman-70.3-cozumel-20100919.csv,722,Michael Geier,47,CO,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,723,Jose Alfaro,42,Tlalpan,MEX,00:46:52,03:15:13,02:58:04,00:06:28,00:03:09,07:09:46
+ironman-70.3-cozumel-20100919.csv,724,Ricardo Lozano,35,cd de México,MEX,00:47:29,02:59:06,01:13:27,00:04:32,00:01:40,05:06:14
+ironman-70.3-cozumel-20100919.csv,725,Jose Lechuga,32,Gauteng,MEX,00:33:52,03:09:39,03:23:29,00:05:49,---,06:12:32
+ironman-70.3-cozumel-20100919.csv,726,Mans Larsson,34,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,728,Alonso Escalante Borrell,31,---,MEX,00:38:57,02:59:45,03:48:01,00:06:13,---,06:34:42
+ironman-70.3-cozumel-20100919.csv,729,Adrian Guevara,28,---,MEX,00:45:09,03:14:50,02:02:39,00:06:51,00:05:57,06:15:26
+ironman-70.3-cozumel-20100919.csv,732,Pilar Zuluaga,35,---,MEX,00:52:06,03:41:15,02:49:18,00:06:25,00:05:17,07:34:21
+ironman-70.3-cozumel-20100919.csv,733,Eumir Reyes,31,CDMX,MEX,00:34:55,02:58:37,03:17:02,00:04:52,---,05:54:56
+ironman-70.3-cozumel-20100919.csv,734,Carolina Galeano,29,Neuquen,ARG,00:40:43,03:23:34,02:17:15,00:04:05,00:01:33,06:27:10
+ironman-70.3-cozumel-20100919.csv,735,Suzanne Perry,31,---,IRL,00:39:39,02:49:44,02:03:16,00:04:24,00:01:44,05:38:47
+ironman-70.3-cozumel-20100919.csv,736,Miguel Giron,34,DF,MEX,00:28:35,02:37:44,02:54:00,00:04:05,---,05:02:41
+ironman-70.3-cozumel-20100919.csv,737,Mauricio Rodriguez,37,---,MEX,00:44:15,03:07:51,02:36:10,00:07:02,00:02:22,06:37:40
+ironman-70.3-cozumel-20100919.csv,738,Robert Jones,44,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,739,Gilberto Quintana M,52,Intl State,MEX,00:43:27,03:10:58,02:48:59,00:06:37,00:02:53,06:52:54
+ironman-70.3-cozumel-20100919.csv,740,Victor Becerra Sanchez,42,Estado de México,MEX,00:34:14,02:53:00,02:19:45,00:05:10,00:03:10,05:55:19
+ironman-70.3-cozumel-20100919.csv,741,Eduardo Juarez,34,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,742,Victor Manuel Ojeda,31,---,MEX,00:39:11,03:08:36,03:22:14,00:04:19,---,06:13:20
+ironman-70.3-cozumel-20100919.csv,743,Rodrigo Lopez Inclan,---,---,MEX,00:31:44,03:14:40,02:15:52,---,00:01:46,06:04:02
+ironman-70.3-cozumel-20100919.csv,744,Hector Ramirez,35,Intl State,MEX,00:35:50,03:20:29,03:26:16,00:06:42,00:02:08,07:31:25
+ironman-70.3-cozumel-20100919.csv,745,Marina Ortiz,45,BENITO JUAREZ,MEX,00:43:09,03:35:40,02:51:59,00:09:47,00:02:44,07:23:19
+ironman-70.3-cozumel-20100919.csv,746,Gabriel Brito Campos,25,---,MEX,00:38:39,02:50:52,02:24:35,00:05:57,00:01:21,06:01:24
+ironman-70.3-cozumel-20100919.csv,747,Miguel Alexandro Castillo Valdez,38,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,748,Richard Stoutner,41,---,USA,00:34:14,02:28:37,01:36:22,00:04:37,00:01:59,04:45:49
+ironman-70.3-cozumel-20100919.csv,749,Guy Ginestet,47,---,MEX,00:32:45,03:02:25,02:39:11,00:08:08,00:05:01,06:27:30
+ironman-70.3-cozumel-20100919.csv,750,Jorge Luis Novelo Alvarado,40,Yucatan,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,751,Francisco Armijo,40,---,MEX,00:29:35,02:37:56,01:59:56,00:04:19,00:01:27,05:13:13
+ironman-70.3-cozumel-20100919.csv,752,Bernardo Castro Dominguez,24,---,MEX,00:49:25,02:55:34,02:11:35,00:05:46,00:01:41,06:04:01
+ironman-70.3-cozumel-20100919.csv,753,Sergio Flores Morelos,59,---,MEX,00:51:32,03:33:35,02:50:10,00:09:22,00:04:30,07:29:09
+ironman-70.3-cozumel-20100919.csv,754,Federico Carcia,37,---,ARG,00:26:16,02:25:09,01:35:59,00:03:26,00:01:09,04:31:59
+ironman-70.3-cozumel-20100919.csv,755,Jose Garcia,27,---,VEN,00:35:16,02:29:56,01:39:51,00:03:15,00:01:21,04:49:39
+ironman-70.3-cozumel-20100919.csv,756,Juan Pablo Escalante Borrell,35,---,MEX,00:38:57,02:44:10,01:59:32,00:05:21,00:02:54,05:30:54
+ironman-70.3-cozumel-20100919.csv,757,Jose Arturo Mondragon Montes De Oca,45,---,MEX,00:40:08,03:12:23,02:25:30,00:05:43,00:03:21,06:27:05
+ironman-70.3-cozumel-20100919.csv,758,Hector Lavalle,30,---,MEX,00:39:30,03:01:48,03:33:38,00:07:17,---,06:22:30
+ironman-70.3-cozumel-20100919.csv,759,Gilberto Jesus Imery,---,---,VEN,00:36:35,02:43:03,01:52:15,00:06:17,00:02:44,05:20:54
+ironman-70.3-cozumel-20100919.csv,760,Jeff Zundel,29,GA,USA,00:37:53,03:09:35,---,00:04:48,00:02:56,DNF
+ironman-70.3-cozumel-20100919.csv,763,Raul Aguayo Duarte,32,APO,MEX,00:28:23,02:27:54,02:52:49,00:03:24,---,04:50:30
+ironman-70.3-cozumel-20100919.csv,764,Rebby Gregg,44,TX,USA,00:36:20,02:50:41,02:14:12,00:06:38,00:02:16,05:50:07
+ironman-70.3-cozumel-20100919.csv,765,Rodrigo Diaz,47,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,766,Victor Martinez,35,---,MEX,00:55:01,03:17:34,02:52:59,00:08:23,00:05:31,07:19:28
+ironman-70.3-cozumel-20100919.csv,767,Tania Franco,34,---,MEX,00:45:54,03:19:33,02:12:09,00:07:16,00:02:51,06:27:43
+ironman-70.3-cozumel-20100919.csv,769,Pepe Canto,31,---,MEX,00:35:55,03:04:16,03:13:56,00:06:05,---,05:59:09
+ironman-70.3-cozumel-20100919.csv,770,Juan Rius,38,---,ESP,00:36:49,03:05:25,02:33:20,00:06:09,00:02:14,06:23:57
+ironman-70.3-cozumel-20100919.csv,772,Lorena Mata,26,---,MEX,00:37:47,03:04:53,02:05:29,00:06:02,00:05:14,05:59:25
+ironman-70.3-cozumel-20100919.csv,773,Marco Zuniga,30,Costa Rica,CRI,00:40:09,03:16:29,03:08:59,00:08:27,---,06:13:57
+ironman-70.3-cozumel-20100919.csv,774,Marcos Pijuan,43,LIMA,ARG,00:45:53,03:22:36,02:37:17,00:08:24,00:04:19,06:58:29
+ironman-70.3-cozumel-20100919.csv,775,Andres Cubero,29,Intl State,CRI,00:33:24,02:56:52,03:23:27,00:06:00,---,05:58:27
+ironman-70.3-cozumel-20100919.csv,776,Lorena Lagarde,30,---,MEX,00:44:31,03:47:49,02:51:28,00:08:10,00:03:55,07:35:53
+ironman-70.3-cozumel-20100919.csv,777,Kurt Sienaert,43,Quintana Roo,BEL,00:45:52,03:20:00,02:19:08,00:07:58,00:04:14,06:37:12
+ironman-70.3-cozumel-20100919.csv,778,Alma Velazquez,37,quintana roo,MEX,00:46:26,03:37:05,02:37:52,00:09:13,00:06:07,07:16:43
+ironman-70.3-cozumel-20100919.csv,779,Lilia Figueroa,41,Nuevo León,MEX,00:36:42,02:44:58,01:38:33,00:06:02,00:01:10,05:07:25
+ironman-70.3-cozumel-20100919.csv,780,Jorge Ozorno Dominguez,22,---,MEX,00:44:48,03:25:48,01:45:56,00:06:30,00:02:43,06:05:45
+ironman-70.3-cozumel-20100919.csv,781,Mariana Crespo Barnetche,32,TX,MEX,00:39:36,03:12:34,02:17:10,00:05:46,00:03:29,06:18:35
+ironman-70.3-cozumel-20100919.csv,782,Leonel Moreno,---,---,USA,00:38:42,02:52:01,02:21:27,00:05:19,00:01:57,05:59:26
+ironman-70.3-cozumel-20100919.csv,783,Cristian Salazar,36,SAN JOSE,CRI,00:34:32,02:35:27,01:41:16,00:04:10,00:01:50,04:57:15
+ironman-70.3-cozumel-20100919.csv,784,Gabriele Parra,51,---,DEU,00:45:10,03:24:20,02:30:23,00:06:25,00:03:36,06:49:54
+ironman-70.3-cozumel-20100919.csv,785,Pablo Ochoa,47,Intl State,MEX,00:35:40,02:39:36,02:26:04,00:04:38,00:01:38,05:47:36
+ironman-70.3-cozumel-20100919.csv,786,Gustavo Alfonso Lezama,43,PUEBLA,MEX,00:31:53,02:40:49,---,00:04:34,00:02:02,DNF
+ironman-70.3-cozumel-20100919.csv,787,Julian Eguren,47,Nuevo Leon,ARG,00:41:54,02:56:39,02:12:21,00:05:25,00:01:33,05:57:52
+ironman-70.3-cozumel-20100919.csv,788,Laura Ortega,44,---,MEX,00:41:38,03:18:51,02:15:48,00:07:03,00:03:10,06:26:30
+ironman-70.3-cozumel-20100919.csv,789,David Pastrana,33,---,MEX,00:35:48,03:18:49,03:23:44,00:05:05,---,06:22:47
+ironman-70.3-cozumel-20100919.csv,790,Karla Gerini Smilgus,35,Qroo,MEX,00:36:55,03:04:17,02:02:12,00:04:52,00:01:51,05:50:07
+ironman-70.3-cozumel-20100919.csv,791,Arturo Perez Arias,47,---,MEX,00:45:54,02:58:55,02:46:02,00:08:03,00:04:11,06:43:05
+ironman-70.3-cozumel-20100919.csv,792,Gil Flores,45,---,MEX,00:41:42,03:13:23,02:02:28,00:04:59,00:01:19,06:03:51
+ironman-70.3-cozumel-20100919.csv,793,Jorge Coronado,38,Intl State,MEX,00:42:39,03:19:15,02:17:21,00:07:16,00:04:06,06:30:37
+ironman-70.3-cozumel-20100919.csv,794,Richard Williams,35,---,GBR,00:34:28,02:33:52,01:52:07,00:04:09,00:01:22,05:05:58
+ironman-70.3-cozumel-20100919.csv,795,Maria Isabel Gil Aquino,35,---,MEX,00:53:51,03:19:56,02:54:07,00:07:26,00:02:32,07:17:52
+ironman-70.3-cozumel-20100919.csv,796,Jose Rosas,50,Intl State,MEX,00:37:17,02:36:19,02:07:20,00:04:56,00:01:35,05:27:27
+ironman-70.3-cozumel-20100919.csv,797,Sa L Gil D Vila,---,---,MEX,00:38:46,03:21:39,03:25:45,00:05:58,---,06:31:08
+ironman-70.3-cozumel-20100919.csv,798,Christian Gonzalez,26,Mexico,MEX,00:42:30,03:35:38,02:29:51,00:05:42,00:03:21,06:57:02
+ironman-70.3-cozumel-20100919.csv,799,Diego Urreta,29,Intl State,MEX,00:25:49,02:32:59,02:02:33,00:04:25,00:02:35,05:08:21
+ironman-70.3-cozumel-20100919.csv,800,Carlos Arias,41,---,MEX,00:46:26,03:12:58,02:18:54,00:08:43,00:03:52,06:30:53
+ironman-70.3-cozumel-20100919.csv,801,Andres Mota Solorzano,39,CDMX,MEX,00:41:48,02:50:41,01:57:12,00:04:53,00:02:25,05:36:59
+ironman-70.3-cozumel-20100919.csv,802,Vanessa Soulavy,30,FL,VEN,00:34:26,02:40:56,01:58:30,00:04:36,00:01:51,05:20:19
+ironman-70.3-cozumel-20100919.csv,803,Pablo Molina,42,---,MEX,00:34:13,02:57:59,03:50:53,00:08:02,00:04:25,07:35:32
+ironman-70.3-cozumel-20100919.csv,804,Juan Camacho,34,Intl State,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,805,Ana Gabriela Riva Palacio,32,distrito federal,MEX,00:39:18,02:59:57,02:08:01,00:04:51,00:01:55,05:54:02
+ironman-70.3-cozumel-20100919.csv,807,Heath Peterson,35,TX,USA,00:44:55,03:16:43,02:28:14,00:07:07,00:03:14,06:40:13
+ironman-70.3-cozumel-20100919.csv,808,John Gamba,40,FL,USA,00:31:35,02:39:37,02:06:03,00:06:11,00:01:57,05:25:23
+ironman-70.3-cozumel-20100919.csv,809,Cristina Berra,35,---,MEX,00:45:03,03:28:00,02:58:43,00:09:39,00:04:15,07:25:40
+ironman-70.3-cozumel-20100919.csv,810,Arturo Ornelas,28,MEXICO CITY,MEX,00:33:07,02:47:50,02:12:06,00:04:41,00:01:45,05:39:29
+ironman-70.3-cozumel-20100919.csv,811,Daniele Nardi Pedro,39,Intl State,BRA,00:42:13,03:06:41,02:09:21,00:05:48,00:02:11,06:06:14
+ironman-70.3-cozumel-20100919.csv,812,Gaby Castro,44,---,MEX,01:01:01,03:51:59,03:01:16,00:09:28,---,08:03:44
+ironman-70.3-cozumel-20100919.csv,814,Marisol Hernandez,29,---,MEX,00:31:13,02:59:43,02:08:45,00:04:32,00:02:09,05:46:22
+ironman-70.3-cozumel-20100919.csv,815,Sergio Zepeda,35,Intl State,MEX,00:40:52,03:03:29,02:13:48,00:07:29,00:04:15,06:09:53
+ironman-70.3-cozumel-20100919.csv,816,Enrique Uribe,23,Cuajimalpa,MEX,00:39:07,03:17:09,02:14:22,00:06:45,00:03:06,06:20:29
+ironman-70.3-cozumel-20100919.csv,817,Arturo Andrade,41,---,MEX,00:42:17,03:05:26,02:37:27,00:06:40,00:03:49,06:35:39
+ironman-70.3-cozumel-20100919.csv,818,Enrique Tinoco Lambrey,45,---,MEX,00:43:24,03:07:38,02:16:19,00:06:29,00:03:19,06:17:09
+ironman-70.3-cozumel-20100919.csv,819,Federico Mendoza,25,FL,VEN,00:28:29,02:32:48,02:51:48,00:05:07,00:02:42,06:00:54
+ironman-70.3-cozumel-20100919.csv,820,Carlos Enrique Dugarte,---,---,VEN,00:45:00,02:36:45,02:03:03,00:05:01,00:01:35,05:31:24
+ironman-70.3-cozumel-20100919.csv,821,Fernando Zamora,42,CA,MEX,00:50:25,03:10:08,02:48:22,00:05:24,00:02:56,06:57:15
+ironman-70.3-cozumel-20100919.csv,822,Lany Ortiz,34,---,MEX,00:34:45,03:01:57,01:53:36,---,00:03:44,05:34:02
+ironman-70.3-cozumel-20100919.csv,823,Gil Cuauhtli Rivera,---,---,MEX,00:25:55,02:37:13,01:48:12,---,00:01:04,04:52:24
+ironman-70.3-cozumel-20100919.csv,824,Salvador Diaz,27,---,MEX,00:34:44,02:51:53,01:39:22,---,00:01:25,05:07:24
+ironman-70.3-cozumel-20100919.csv,825,Juan Ernesto Aldama Muciño,49,---,MEX,00:42:48,02:48:42,---,00:05:49,00:02:16,DNF
+ironman-70.3-cozumel-20100919.csv,826,Rodolfo Cobos,48,DF,MEX,00:38:41,02:57:24,02:03:08,00:05:02,00:02:40,05:46:55
+ironman-70.3-cozumel-20100919.csv,827,Edgar Furlong Martinez,---,---,MEX,00:36:12,02:39:26,---,00:04:22,00:01:46,DNF
+ironman-70.3-cozumel-20100919.csv,828,Pedro Ricardo Sanchez,---,---,MEX,00:53:05,03:29:41,---,00:07:27,00:03:29,DNF
+ironman-70.3-cozumel-20100919.csv,829,Gabriela De La Parra,54,---,MEX,00:41:53,04:04:05,02:47:53,00:08:16,00:04:03,07:46:10
+ironman-70.3-cozumel-20100919.csv,830,Frederic Boulay,---,---,FRA,00:37:00,03:07:01,02:14:48,00:05:49,00:01:52,06:06:30
+ironman-70.3-cozumel-20100919.csv,831,Ricardo Sala,40,Intl State,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,832,John Navas,35,FL,VEN,00:38:26,02:30:39,---,00:04:35,00:01:28,DNF
+ironman-70.3-cozumel-20100919.csv,833,Roberto Mendoza,29,NY,VEN,00:39:02,02:35:55,02:10:37,00:04:43,00:01:28,05:31:45
+ironman-70.3-cozumel-20100919.csv,834,Ana Cabrejas,---,---,MEX,00:43:08,03:34:00,03:03:47,00:11:07,00:03:05,07:35:07
+ironman-70.3-cozumel-20100919.csv,836,Ulises Vigil,45,Intl State,MEX,00:39:56,03:03:41,02:27:57,00:08:39,00:04:09,06:24:22
+ironman-70.3-cozumel-20100919.csv,837,Luis Mesa,47,---,VEN,00:36:44,02:32:12,01:47:37,00:03:32,00:01:30,05:01:35
+ironman-70.3-cozumel-20100919.csv,838,Amado Chapa,29,---,MEX,00:35:42,02:40:14,02:19:01,00:04:25,00:03:06,05:42:28
+ironman-70.3-cozumel-20100919.csv,839,Alberto Canales,43,---,MEX,00:43:10,02:58:45,02:21:44,00:09:36,00:04:20,06:17:35
+ironman-70.3-cozumel-20100919.csv,840,Jose Castelazo,37,---,MEX,---,02:46:49,02:13:20,00:43:26,---,05:43:35
+ironman-70.3-cozumel-20100919.csv,841,Marc Van Den Broeke,46,---,BEL,00:37:09,03:01:52,03:22:30,00:07:43,00:03:07,07:12:21
+ironman-70.3-cozumel-20100919.csv,842,Julio Moreno,42,Pichincha,ECU,00:44:21,02:49:18,02:27:14,00:06:02,00:04:01,06:10:56
+ironman-70.3-cozumel-20100919.csv,843,Carlos Gabriel Dorantes Lopez,40,---,MEX,00:47:02,02:57:19,02:39:20,00:06:29,00:02:29,06:32:39
+ironman-70.3-cozumel-20100919.csv,845,Hernando Alonso Cordero,43,---,MEX,00:33:29,02:40:40,02:26:58,00:05:21,00:02:02,05:48:30
+ironman-70.3-cozumel-20100919.csv,846,Eduardo Salas Flores,38,Veracruz-Llave,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,847,Nayeli Ornelas,33,Intl State,MEX,00:45:57,03:25:33,02:56:56,00:08:40,00:04:56,07:22:02
+ironman-70.3-cozumel-20100919.csv,848,Diego Arroyo Cetto,32,Q. Roo.,MEX,00:36:26,03:00:14,03:22:03,00:07:28,---,06:05:39
+ironman-70.3-cozumel-20100919.csv,849,Miguel Bosch,36,Tabasco,MEX,00:35:33,03:15:39,02:18:15,00:05:28,00:02:24,06:17:19
+ironman-70.3-cozumel-20100919.csv,850,Gerardo Jose Rincon,---,---,VEN,00:33:39,02:35:55,01:48:50,00:04:32,00:01:55,05:04:51
+ironman-70.3-cozumel-20100919.csv,851,Alejandra Flores Vallado,---,---,MEX,00:47:41,03:22:24,02:30:55,00:06:08,00:02:29,06:49:37
+ironman-70.3-cozumel-20100919.csv,852,Federico Carrillo Riquelme,36,---,MEX,00:37:09,02:55:19,01:53:27,00:04:30,00:01:51,05:32:16
+ironman-70.3-cozumel-20100919.csv,853,Pedro Nuques,27,---,ECU,00:31:28,02:27:24,01:50:31,00:03:49,00:01:32,04:54:44
+ironman-70.3-cozumel-20100919.csv,854,Nancy Barnes,48,AB,CAN,00:43:40,03:15:24,02:30:05,00:06:37,00:02:40,06:38:26
+ironman-70.3-cozumel-20100919.csv,855,Carlos Rosado,35,---,MEX,00:44:20,02:43:52,02:15:48,00:05:36,00:02:02,05:51:38
+ironman-70.3-cozumel-20100919.csv,856,Roidi Regalado,37,FL,USA,00:35:33,03:03:29,02:20:44,00:06:16,00:02:09,06:08:11
+ironman-70.3-cozumel-20100919.csv,857,Maneh Tamer,37,---,MEX,00:34:45,02:46:07,02:17:39,00:05:08,00:02:17,05:45:56
+ironman-70.3-cozumel-20100919.csv,858,Alfredo Aleman Banos,36,Other,MEX,00:40:58,03:07:44,02:36:13,00:09:12,00:02:18,06:36:25
+ironman-70.3-cozumel-20100919.csv,860,Camilo Suarez,38,---,COL,00:41:36,02:34:58,02:58:25,00:05:44,00:02:23,06:23:06
+ironman-70.3-cozumel-20100919.csv,861,Nicolas Suarez,34,QC,COL,00:38:59,02:43:18,02:19:47,00:05:57,00:03:35,05:51:36
+ironman-70.3-cozumel-20100919.csv,862,Alberto Legnani,41,---,ITA,00:38:03,02:43:11,03:05:46,00:06:44,00:04:12,06:37:56
+ironman-70.3-cozumel-20100919.csv,863,Stefano Grossi,51,Intl State,ITA,00:43:39,02:31:57,01:52:36,00:05:20,00:02:14,05:15:46
+ironman-70.3-cozumel-20100919.csv,864,Monica Diez Barroso,39,Intl State,MEX,00:41:24,03:11:26,02:19:40,00:05:50,00:01:39,06:19:59
+ironman-70.3-cozumel-20100919.csv,865,Sergio Orrico,49,Quintana Roo,MEX,00:47:40,04:00:41,---,00:06:38,---,DNF
+ironman-70.3-cozumel-20100919.csv,866,Ariel Valencia,39,Intl State,MEX,00:44:21,02:58:27,02:07:23,00:06:21,00:03:57,06:00:29
+ironman-70.3-cozumel-20100919.csv,867,Emmanuel Pintor Hern Ndez,30,Distrito Federal,MEX,00:29:39,02:58:12,03:43:12,00:04:20,---,06:13:38
+ironman-70.3-cozumel-20100919.csv,868,Carlos Miron,40,CA,USA,00:51:10,03:40:08,01:51:09,00:08:11,00:02:50,06:33:28
+ironman-70.3-cozumel-20100919.csv,869,Gerardo Martinez,53,Army Asia,MEX,00:38:03,03:09:40,02:42:23,00:06:13,00:03:35,06:39:54
+ironman-70.3-cozumel-20100919.csv,870,Alejandro Dieguez Fritz,---,---,MEX,00:35:05,03:03:06,02:39:47,00:05:39,00:01:27,06:25:04
+ironman-70.3-cozumel-20100919.csv,871,Jesus Mc Kelligan,51,Mexico City,MEX,00:40:46,02:51:17,02:42:42,00:06:29,00:02:35,06:23:49
+ironman-70.3-cozumel-20100919.csv,872,Jose Manuel Calzada,---,---,MEX,00:38:50,02:37:44,01:47:56,00:05:41,00:01:00,05:11:11
+ironman-70.3-cozumel-20100919.csv,873,Miguel Alvarado Rodriguez,52,zacatecas,MEX,00:46:51,03:17:54,02:44:14,00:07:05,00:01:42,06:57:46
+ironman-70.3-cozumel-20100919.csv,876,Grzegorz Zgliczynski,44,CO,POL,00:27:52,02:25:35,01:37:44,00:04:20,00:01:41,04:37:12
+ironman-70.3-cozumel-20100919.csv,877,Jose Palomo,31,---,MEX,00:32:42,02:40:05,02:51:21,00:03:57,---,05:06:01
+ironman-70.3-cozumel-20100919.csv,878,Arturo Curiel Marelli,29,Mexico,MEX,00:33:22,02:46:26,03:00:19,00:03:51,---,05:22:09
+ironman-70.3-cozumel-20100919.csv,879,Rodrigo Salazar,35,Playa del Carmn,MEX,00:39:14,02:59:59,02:10:59,00:05:49,00:02:14,05:58:15
+ironman-70.3-cozumel-20100919.csv,880,Mario Gustavo Tello Barba,28,Jalisco,MEX,00:25:43,02:51:18,01:49:22,00:04:58,00:01:26,05:12:47
+ironman-70.3-cozumel-20100919.csv,881,David Vacas,23,Intl State,ECU,00:37:31,02:58:37,---,00:04:34,00:01:20,DNF
+ironman-70.3-cozumel-20100919.csv,882,Alejandro Hammeken,29,---,MEX,00:34:06,02:40:05,02:30:12,00:05:41,00:01:24,05:51:28
+ironman-70.3-cozumel-20100919.csv,883,David Herrera Figueroa,28,---,MEX,00:33:45,02:50:24,01:46:11,00:04:28,00:01:43,05:16:31
+ironman-70.3-cozumel-20100919.csv,884,Carlos Adan Sandoval,30,---,MEX,00:55:48,03:06:05,03:35:22,00:05:33,---,06:41:23
+ironman-70.3-cozumel-20100919.csv,885,Alexis Palacios,32,Carchi,ECU,00:31:47,02:49:00,---,00:04:55,---,DNF
+ironman-70.3-cozumel-20100919.csv,887,Alvaro Boom,29,Atlántico,COL,00:49:23,03:22:59,04:13:27,00:06:56,---,07:31:56
+ironman-70.3-cozumel-20100919.csv,888,Jose Hoyos De Pau,---,---,MEX,00:52:23,03:53:40,02:47:07,00:10:21,00:06:46,07:50:17
+ironman-70.3-cozumel-20100919.csv,889,Lili N Alonso Hinojosa,---,---,MEX,00:36:42,03:14:24,02:27:59,00:06:36,00:02:59,06:28:40
+ironman-70.3-cozumel-20100919.csv,890,Antonio Leon,27,CD MX,MEX,00:33:51,02:46:22,02:19:16,00:06:30,00:02:15,05:48:14
+ironman-70.3-cozumel-20100919.csv,891,Allan Villanueva,32,DI,MEX,00:27:19,02:24:39,02:47:27,00:03:47,---,04:41:46
+ironman-70.3-cozumel-20100919.csv,892,Alfonso Sobero Ponce De Leon,42,Puebla,MEX,00:30:12,02:36:38,01:50:08,00:04:34,00:01:47,05:03:19
+ironman-70.3-cozumel-20100919.csv,893,Jose Axel Bonilla,29,---,MEX,00:43:21,03:15:15,04:00:56,00:06:36,---,07:05:20
+ironman-70.3-cozumel-20100919.csv,894,Maria Magdalena Martinez Godinez,48,---,MEX,00:43:10,03:28:35,02:18:35,00:06:03,00:03:06,06:39:29
+ironman-70.3-cozumel-20100919.csv,895,Jerry Lewis,40,TX,USA,00:34:30,02:32:15,01:57:30,00:04:01,00:01:21,05:09:37
+ironman-70.3-cozumel-20100919.csv,896,Juan Pablo Perez,22,---,MEX,00:37:13,02:37:52,02:06:48,00:05:30,00:01:41,05:29:04
+ironman-70.3-cozumel-20100919.csv,898,Alberto Manuel Cabrera,39,cancun,MEX,00:38:01,03:10:45,02:36:39,00:04:35,00:02:15,06:32:15
+ironman-70.3-cozumel-20100919.csv,899,Alfredo Avila Zenteno,31,---,MEX,00:29:06,02:46:14,03:21:30,00:04:02,---,05:39:01
+ironman-70.3-cozumel-20100919.csv,900,Carlos Boehme,36,Intl State,GTM,00:37:06,02:45:40,02:13:11,00:05:42,00:02:00,05:43:39
+ironman-70.3-cozumel-20100919.csv,901,Ballardo Wug,36,---,GTM,00:39:34,03:21:50,02:10:13,00:10:59,00:04:16,06:26:52
+ironman-70.3-cozumel-20100919.csv,902,Eduardo Cardenas,50,Tamaulipas,MEX,00:39:28,02:45:58,02:54:53,00:06:13,00:02:51,06:29:23
+ironman-70.3-cozumel-20100919.csv,903,Arturo Soberon,50,---,MEX,00:34:36,03:47:35,03:07:17,00:07:11,00:02:22,07:39:01
+ironman-70.3-cozumel-20100919.csv,904,Cesar Iglesias,44,---,MEX,00:44:56,03:44:27,03:17:20,00:08:09,00:03:02,07:57:54
+ironman-70.3-cozumel-20100919.csv,905,Patricia Guerrero,31,Mexico,MEX,00:51:54,03:21:10,02:25:02,00:06:07,00:04:47,06:49:00
+ironman-70.3-cozumel-20100919.csv,906,Marco Antonio Juarez Mejia,---,---,MEX,00:46:32,03:00:58,02:27:43,00:05:48,00:03:15,06:24:16
+ironman-70.3-cozumel-20100919.csv,907,Jose Maria Alonso,---,---,MEX,00:44:08,02:46:25,02:28:29,00:05:48,00:02:35,06:07:25
+ironman-70.3-cozumel-20100919.csv,908,Claudia Jazmin Espinoza Zambrano,33,cancun,MEX,00:44:52,03:29:15,02:40:52,00:07:22,00:02:52,07:05:13
+ironman-70.3-cozumel-20100919.csv,909,Alberto Perez,42,CT,CAN,00:47:06,03:14:00,02:54:02,00:07:24,00:02:55,07:05:27
+ironman-70.3-cozumel-20100919.csv,910,Alfredo Muir,55,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,911,Miguel Carrasco,45,---,MEX,00:39:29,03:21:54,---,00:05:45,00:04:16,DNF
+ironman-70.3-cozumel-20100919.csv,912,Marcos Estrada,34,---,MEX,00:41:27,02:46:08,03:26:33,00:06:54,---,06:00:34
+ironman-70.3-cozumel-20100919.csv,913,Alberto Venado,28,Intl State,MEX,00:37:15,03:03:18,02:55:11,00:06:38,00:03:16,06:45:38
+ironman-70.3-cozumel-20100919.csv,914,Eduardo Garcia,38,---,MEX,00:39:28,02:59:33,02:37:16,00:06:13,00:03:33,06:26:03
+ironman-70.3-cozumel-20100919.csv,915,Carlos Herrera,25,---,MEX,---,02:58:05,02:53:20,00:40:24,00:02:26,06:34:15
+ironman-70.3-cozumel-20100919.csv,916,Talita Fonseca Amorelli,27,Santa Catarina,BRA,00:33:00,03:11:31,02:24:43,00:04:38,00:03:59,06:17:51
+ironman-70.3-cozumel-20100919.csv,917,Edgar Rafael Cortina,36,---,MEX,00:32:49,02:43:42,02:18:08,00:03:57,00:01:22,05:39:58
+ironman-70.3-cozumel-20100919.csv,918,Victor Hugo Navarro,43,---,MEX,00:28:50,02:44:17,02:06:14,00:04:24,00:02:23,05:26:08
+ironman-70.3-cozumel-20100919.csv,919,Susana Escalante Castro,36,---,MEX,00:51:03,03:24:02,02:41:31,00:06:25,00:02:33,07:05:34
+ironman-70.3-cozumel-20100919.csv,920,Gerardo Gaona,31,---,MEX,00:37:37,02:45:13,02:53:18,00:05:35,---,05:20:49
+ironman-70.3-cozumel-20100919.csv,921,Leandro Carbajal,38,---,MEX,00:35:33,03:02:54,02:55:03,00:04:51,00:03:04,06:41:25
+ironman-70.3-cozumel-20100919.csv,923,Martin Sanchez Garcia,38,---,MEX,00:38:22,02:54:38,02:05:31,00:06:44,00:02:34,05:47:49
+ironman-70.3-cozumel-20100919.csv,924,Alberto Partida Mendez,39,---,MEX,00:37:22,03:00:49,02:38:50,00:06:00,00:03:44,06:26:45
+ironman-70.3-cozumel-20100919.csv,925,Fernando Reyes,30,---,MEX,00:36:32,03:07:47,03:20:39,00:05:30,---,06:09:39
+ironman-70.3-cozumel-20100919.csv,926,Raul Enrique Sansores Sansores,---,---,MEX,00:39:31,03:21:13,03:52:15,00:04:16,---,06:55:58
+ironman-70.3-cozumel-20100919.csv,927,Victor Daniel Trevino,36,TX,USA,00:39:55,02:49:06,01:58:22,00:06:20,00:02:04,05:35:47
+ironman-70.3-cozumel-20100919.csv,928,Ismael Garcia,36,---,MEX,00:37:35,03:05:08,02:36:40,00:06:24,00:02:18,06:28:05
+ironman-70.3-cozumel-20100919.csv,929,Liliana Cortes,38,---,MEX,00:41:54,03:04:23,02:27:15,00:07:07,00:02:32,06:23:11
+ironman-70.3-cozumel-20100919.csv,930,Benjamin Belmont,40,---,MEX,00:30:34,02:36:33,01:58:42,00:04:15,00:01:18,05:11:22
+ironman-70.3-cozumel-20100919.csv,931,Ricardo Bustamante,45,estado de mexico,MEX,00:39:32,02:39:28,02:04:07,00:05:13,00:01:47,05:30:07
+ironman-70.3-cozumel-20100919.csv,932,Jorge Suarez Ramirez,35,---,MEX,00:38:43,03:02:25,02:10:55,00:04:20,00:02:14,05:58:37
+ironman-70.3-cozumel-20100919.csv,933,Alfonso Camacho,30,---,MEX,00:37:12,02:41:21,03:17:48,00:05:06,---,05:39:23
+ironman-70.3-cozumel-20100919.csv,934,Miguel Zenteno,42,Intl State,MEX,00:37:34,02:50:15,02:36:19,00:05:26,00:02:19,06:11:53
+ironman-70.3-cozumel-20100919.csv,935,Rogelio Garcia Berdeja,27,---,MEX,00:26:35,02:53:11,02:28:12,00:04:48,00:01:33,05:54:19
+ironman-70.3-cozumel-20100919.csv,936,Alicia Blanco,41,---,MEX,00:32:50,02:57:02,02:19:48,00:05:27,00:01:42,05:56:49
+ironman-70.3-cozumel-20100919.csv,938,Moises Garcia Arcos,30,---,MEX,00:44:44,02:58:51,03:32:47,00:07:35,---,06:25:38
+ironman-70.3-cozumel-20100919.csv,939,EDGAR ARELLANO CAMPOS,36,---,MEX,00:35:27,02:40:22,02:12:16,00:04:38,00:01:36,05:34:19
+ironman-70.3-cozumel-20100919.csv,941,Adela Stefani Palacios Bolon,22,---,MEX,00:36:16,03:06:12,02:52:05,00:05:52,00:02:08,06:42:33
+ironman-70.3-cozumel-20100919.csv,942,Oscar Badilla,38,---,CRI,00:34:30,02:37:23,01:43:05,00:03:32,00:00:48,04:59:18
+ironman-70.3-cozumel-20100919.csv,943,Felipe De Jesus Silva,48,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,944,Felipe Garcia,52,---,MEX,00:39:31,03:50:19,02:21:18,00:06:32,00:05:57,07:03:37
+ironman-70.3-cozumel-20100919.csv,945,David Villanueva Bola Os,---,---,MEX,00:42:14,03:14:03,01:31:47,00:04:42,00:04:35,05:37:21
+ironman-70.3-cozumel-20100919.csv,947,Samuel Isaac Pacheco,50,---,MEX,00:47:53,03:11:49,01:49:23,00:06:59,00:03:05,05:59:09
+ironman-70.3-cozumel-20100919.csv,948,Ivan Castillo,36,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,949,Jesus Bronchalo,34,TX,ESP,00:38:46,02:29:13,---,00:05:18,00:01:18,DNF
+ironman-70.3-cozumel-20100919.csv,950,Fernando Gonzalez,39,---,MEX,00:42:42,03:48:48,03:07:39,00:09:21,00:04:03,07:52:33
+ironman-70.3-cozumel-20100919.csv,951,Fernando Ramos,39,---,MEX,00:42:41,03:11:38,02:26:56,00:06:51,00:04:33,06:32:39
+ironman-70.3-cozumel-20100919.csv,952,Cristobal Herrera,36,---,MEX,00:30:46,02:59:14,02:22:46,00:05:19,00:01:55,06:00:00
+ironman-70.3-cozumel-20100919.csv,953,Jorge Sanchez Gonzalez,25,CIUDAD DE MÉXICO,MEX,00:34:43,02:48:13,02:32:38,00:04:28,00:01:29,06:01:31
+ironman-70.3-cozumel-20100919.csv,954,Victor Servin,49,---,MEX,00:29:45,03:56:22,---,00:04:45,00:01:38,DNF
+ironman-70.3-cozumel-20100919.csv,956,Maximiliano Gonzalez,40,MEXICO,MEX,00:37:11,02:39:32,02:12:00,00:05:10,00:02:09,05:36:02
+ironman-70.3-cozumel-20100919.csv,957,Karla Perez Gil Del Valle,36,Distrito Federal,MEX,00:36:59,02:42:41,01:58:08,00:04:18,00:01:59,05:24:05
+ironman-70.3-cozumel-20100919.csv,958,Enrique Carrillo,27,---,MEX,00:53:05,03:09:44,01:07:10,00:07:44,00:01:45,05:19:28
+ironman-70.3-cozumel-20100919.csv,959,Jose Calvillo,44,Intl State,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,960,Juan Velazquez,55,Intl State,MEX,00:40:13,03:06:28,02:26:18,00:06:38,00:03:58,06:23:35
+ironman-70.3-cozumel-20100919.csv,961,Abel Garrido,50,---,MEX,00:37:35,02:49:29,02:41:50,00:05:11,00:02:05,06:16:10
+ironman-70.3-cozumel-20100919.csv,962,Ivan Romero Chavez,---,---,MEX,00:41:57,02:43:25,02:12:10,00:05:58,00:02:07,05:45:37
+ironman-70.3-cozumel-20100919.csv,964,Jose Antonio Julian Morillas,---,---,ESP,00:37:05,02:36:16,03:04:34,00:03:59,---,05:20:22
+ironman-70.3-cozumel-20100919.csv,965,John Canoy,32,CO,USA,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,968,Victor Manuel Avila,37,District of Columbia,MEX,00:36:13,03:09:00,01:54:40,00:06:21,00:03:09,05:49:23
+ironman-70.3-cozumel-20100919.csv,969,Andrea Zullo,40,DISTRITO FEDERAL,MEX,00:42:41,03:29:10,02:29:39,00:05:59,00:03:08,06:50:37
+ironman-70.3-cozumel-20100919.csv,970,Alfredo Rodriguez,40,CUERNAVACA MORELOS MEXICO,MEX,00:36:01,03:21:42,02:39:21,00:06:46,00:02:04,06:45:54
+ironman-70.3-cozumel-20100919.csv,972,Peter Terrin,36,Intl State,BEL,00:38:07,02:57:27,02:33:32,00:04:37,00:02:26,06:16:09
+ironman-70.3-cozumel-20100919.csv,973,Josafat Ramírez Chávez,---,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,976,Ma. Solorza Salas Del Rocio,26,---,MEX,00:54:47,03:36:50,03:05:08,00:08:28,00:03:32,07:48:45
+ironman-70.3-cozumel-20100919.csv,977,Amado Falcon Inda,28,---,MEX,00:42:39,02:57:38,02:44:15,00:06:11,00:02:15,06:32:58
+ironman-70.3-cozumel-20100919.csv,978,Mauricio Sosa,40,---,MEX,00:30:59,02:48:37,02:28:40,00:05:13,00:02:00,05:55:29
+ironman-70.3-cozumel-20100919.csv,979,Shane Arters,41,CA,USA,00:26:38,02:32:38,01:39:06,00:04:12,---,04:42:34
+ironman-70.3-cozumel-20100919.csv,981,Rosario Cardenas,47,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-cozumel-20100919.csv,982,Ignacio Arcos,43,---,MEX,00:43:06,03:09:45,03:10:14,00:08:40,00:03:01,07:14:46
+ironman-70.3-cozumel-20100919.csv,983,Rodrigo Balmes,35,---,MEX,00:42:18,03:03:00,02:26:50,00:04:50,00:07:19,06:24:17
+ironman-70.3-cozumel-20100919.csv,984,Alejandro Ahuatzin,32,---,MEX,00:50:52,03:16:35,03:29:07,00:07:28,---,06:44:29
+ironman-70.3-cozumel-20100919.csv,985,Fumiko Nobuoka,36,---,USA,00:51:58,04:02:59,03:01:48,00:05:44,00:02:30,08:04:59
+ironman-70.3-cozumel-20100919.csv,986,Aurelinda Ortega,42,TX,MEX,00:46:12,03:45:07,---,00:07:26,00:05:01,DNF
+ironman-70.3-cozumel-20100919.csv,987,Carlos Gerardo Martinez,44,---,MEX,00:59:46,03:20:37,03:08:17,00:12:05,00:04:34,07:45:19
+ironman-70.3-cozumel-20100919.csv,988,Daniel Jaime Morales Espinoza,36,"Portales Norte, Benito Juarez",MEX,00:44:28,---,---,00:05:41,---,DNF
+ironman-70.3-cozumel-20100919.csv,989,Luis Enrique Candelas Pe?A,41,Intl State,MEX,00:35:47,02:37:50,02:07:48,00:04:00,00:02:32,05:27:57
+ironman-70.3-cozumel-20100919.csv,990,Arturo Manuel Rodriguez,41,---,MEX,00:32:55,02:32:36,02:24:12,00:04:59,00:01:31,05:36:13
+ironman-70.3-cozumel-20100919.csv,991,Gerardo M Diego,---,---,MEX,00:38:48,03:01:31,03:11:15,00:07:38,00:02:22,07:01:34
+ironman-70.3-cozumel-20100919.csv,992,Carlos Molina,---,---,MEX,00:37:12,02:50:27,02:17:47,00:05:40,00:02:10,05:53:16
+ironman-70.3-cozumel-20100919.csv,993,Jaime Javier Hernandez,---,---,MEX,00:46:56,03:10:53,01:37:00,00:09:28,00:08:23,05:52:40
+ironman-70.3-cozumel-20100919.csv,994,Guillermo Martinez,---,---,MEX,00:37:08,02:40:44,02:00:21,00:04:17,00:02:29,05:24:59
+ironman-70.3-cozumel-20100919.csv,995,Adolfo Gallardo,38,---,MEX,00:45:01,02:55:33,02:03:20,00:06:05,00:04:26,05:54:25
+ironman-70.3-cozumel-20100919.csv,998,Gustavo Probert,---,---,MEX,00:28:24,02:37:45,---,00:04:50,00:01:06,DNF
+ironman-70.3-cozumel-20100919.csv,1000,Mauricio Martinez,41,Intl State,MEX,00:36:11,02:38:12,01:54:13,00:05:03,00:02:01,05:15:40
+ironman-70.3-cozumel-20100919.csv,1005,Pablo Gorospe,---,---,---,00:34:08,02:47:12,01:58:30,00:05:41,00:02:17,05:27:48
+ironman-70.3-cozumel-20100919.csv,1017,Arturo Pando,---,---,---,00:34:09,02:47:17,02:08:20,00:05:37,00:02:41,05:38:04
+ironman-70.3-cozumel-20100919.csv,1017,Arturo Pando,---,---,---,00:34:09,02:47:17,02:08:20,00:05:37,00:02:41,05:38:04

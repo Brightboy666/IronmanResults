@@ -19,18 +19,18 @@ class ResultsCache:
         req = Request(url, None, headers)
         html = urlopen(req).read()
 
-        results = self.collection.find({"_id":url})
+        # results = self.collection.find({"_id":url})
         
-        if(results.count() == 1):
-            return str(results[0]['html'])
-        elif(results.count() > 1):
-            raise Exception('Multiple results for '+ url + ' in table')
+        # if(results.count() == 1):
+        #     return str(results[0]['html'])
+        # elif(results.count() > 1):
+        #     raise Exception('Multiple results for '+ url + ' in table')
         
-        self.collection.insert({
-            '_id' : url,
-            'html':html,
-            "timestamp": datetime.datetime.now()}
-        )
+        # self.collection.insert({
+        #     '_id' : url,
+        #     'html':html,
+        #     "timestamp": datetime.datetime.now()}
+        # )
         
         return html
     

@@ -1,0 +1,547 @@
+#File=ironman-70.3-monterrey-20160320.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-monterrey-20160320.csv,1,Tim Don,38,Intl State,GBR,00:22:49,02:04:37,01:12:46,00:01:30,00:01:11,03:42:53
+ironman-70.3-monterrey-20160320.csv,2,Francisco Serrano,35,Intl State,MEX,00:24:10,02:07:04,01:15:34,00:01:21,00:01:22,03:49:31
+ironman-70.3-monterrey-20160320.csv,3,Richie Cunningham,42,CO,AUS,00:23:51,02:06:26,01:16:34,00:01:25,00:01:11,03:49:27
+ironman-70.3-monterrey-20160320.csv,4,Ben Hoffman,32,CO,USA,00:24:08,02:03:26,01:16:13,00:01:28,00:01:12,03:46:27
+ironman-70.3-monterrey-20160320.csv,5,Trevor Wurtele,36,BC,CAN,00:24:13,02:03:22,01:13:46,00:01:26,00:01:06,03:43:53
+ironman-70.3-monterrey-20160320.csv,6,Chris Mcdonald,37,CO,AUS,00:25:36,02:11:59,01:17:46,00:01:37,00:01:21,03:58:19
+ironman-70.3-monterrey-20160320.csv,7,Matt Chrabot,32,CO,USA,00:22:32,02:04:57,01:14:25,00:01:29,00:01:14,03:44:37
+ironman-70.3-monterrey-20160320.csv,9,Cody Beals,26,ON,CAN,00:24:41,02:07:22,01:14:04,00:01:35,00:01:08,03:48:50
+ironman-70.3-monterrey-20160320.csv,10,Drew Scott,25,CO,USA,00:22:54,02:04:27,01:20:54,00:01:42,00:01:17,03:51:14
+ironman-70.3-monterrey-20160320.csv,11,Sylvain Sudrie,34,---,FRA,00:22:36,02:04:26,01:15:03,00:01:35,00:01:11,03:44:51
+ironman-70.3-monterrey-20160320.csv,12,Robbie Wade,33,CO,IRL,00:24:38,02:11:51,01:20:48,00:01:26,00:01:25,04:00:08
+ironman-70.3-monterrey-20160320.csv,14,Alan Michael Carrillo,22,Intl State,MEX,00:26:35,02:17:59,01:20:39,00:01:35,00:01:28,04:08:16
+ironman-70.3-monterrey-20160320.csv,15,Alistair Eeckman,21,CA,USA,00:26:31,02:19:17,01:21:23,00:02:02,00:01:23,04:10:36
+ironman-70.3-monterrey-20160320.csv,16,Ernesto Fernandez,28,Intl State,PAN,00:29:08,02:29:13,01:38:24,00:01:58,00:01:43,04:40:26
+ironman-70.3-monterrey-20160320.csv,17,Arturo Garza,38,Estado de Mexico,MEX,00:23:54,02:10:08,01:19:17,00:01:33,00:01:07,03:55:59
+ironman-70.3-monterrey-20160320.csv,18,Tim Hancock,32,FL,GBR,00:26:39,02:18:48,01:22:40,00:02:21,00:01:19,04:11:47
+ironman-70.3-monterrey-20160320.csv,19,Stuart Hayes,36,---,GBR,00:22:53,02:07:28,01:23:25,00:01:24,00:01:29,03:56:39
+ironman-70.3-monterrey-20160320.csv,21,Raul Tejada,27,GTM,GTM,00:24:38,02:09:13,01:13:52,00:01:45,00:01:10,03:50:38
+ironman-70.3-monterrey-20160320.csv,23,Kevin Collington,31,FL,USA,00:22:47,02:05:05,01:17:20,00:01:26,00:01:10,03:47:48
+ironman-70.3-monterrey-20160320.csv,24,Vinicio Ibarra,24,Intl State,MEX,00:22:50,02:14:04,01:18:27,00:01:24,00:01:26,03:58:11
+ironman-70.3-monterrey-20160320.csv,25,Rodrigo Acevedo,30,CO,COL,00:26:32,02:08:03,---,00:01:29,00:01:19,DNF
+ironman-70.3-monterrey-20160320.csv,26,Magali Tisseyre,34,QC,CAN,---,---,---,---,---,DNS
+ironman-70.3-monterrey-20160320.csv,27,Mirinda Carfrae,34,CO,AUS,00:26:36,02:24:38,01:20:48,00:01:48,00:01:21,04:15:11
+ironman-70.3-monterrey-20160320.csv,28,Heather Wurtele,36,BC,CAN,00:26:31,02:16:49,01:22:09,00:01:36,00:01:14,04:08:19
+ironman-70.3-monterrey-20160320.csv,29,Camilla Pedersen,32,---,DNK,00:24:56,02:21:07,01:22:36,00:02:03,00:01:23,04:12:05
+ironman-70.3-monterrey-20160320.csv,30,Sarah Piampiano,35,CA,USA,00:30:29,02:20:08,01:23:16,00:02:14,00:01:19,04:17:26
+ironman-70.3-monterrey-20160320.csv,31,Liz Lyles,37,NV,USA,00:26:42,02:27:19,01:22:13,00:02:01,00:01:43,04:19:58
+ironman-70.3-monterrey-20160320.csv,33,Emma Kate Lidbury,36,CO,GBR,00:26:35,02:29:28,01:27:10,00:02:13,00:01:49,04:27:15
+ironman-70.3-monterrey-20160320.csv,35,Palmira Alvarez,33,CO,MEX,00:31:56,02:36:17,01:37:32,00:01:56,00:01:39,04:49:20
+ironman-70.3-monterrey-20160320.csv,36,Saleta Castro,29,---,ESP,00:26:39,02:31:46,01:27:52,00:01:46,00:01:39,04:29:42
+ironman-70.3-monterrey-20160320.csv,38,Kirsty Jahn,32,CO,CAN,---,---,---,---,---,DNS
+ironman-70.3-monterrey-20160320.csv,40,Corrie Kristick,32,TX,USA,00:24:51,02:30:05,01:42:47,00:02:00,00:01:52,04:41:35
+ironman-70.3-monterrey-20160320.csv,41,Frankie Sanjana,31,---,GBR,00:30:30,02:28:00,01:37:32,00:02:06,00:01:50,04:39:58
+ironman-70.3-monterrey-20160320.csv,42,Celine Schaerer,26,---,CHE,00:24:55,02:26:08,01:32:46,00:01:49,00:01:33,04:27:11
+ironman-70.3-monterrey-20160320.csv,43,Erin Spitler,36,MT,USA,00:29:30,02:29:52,01:27:39,00:01:56,00:01:22,04:30:19
+ironman-70.3-monterrey-20160320.csv,44,Karen Thibodeau,36,BC,CAN,00:25:01,02:31:26,01:26:48,00:02:55,00:01:54,04:28:04
+ironman-70.3-monterrey-20160320.csv,45,Emma Pallant,26,Surrey,GBR,00:26:32,02:29:16,01:27:12,00:01:30,00:01:19,04:25:49
+ironman-70.3-monterrey-20160320.csv,71,Ricardo Narvaez,41,---,MEX,00:31:03,02:44:03,02:03:34,00:04:49,00:02:35,05:26:04
+ironman-70.3-monterrey-20160320.csv,72,Eduardo Rodríguez García,42,NL,MEX,00:35:26,02:24:17,01:42:49,00:03:18,00:02:29,04:48:19
+ironman-70.3-monterrey-20160320.csv,73,Enrique Fidencio Moreno Alfaro,19,Monterrey,MEX,00:31:08,02:33:21,01:30:10,00:02:23,00:01:45,04:38:47
+ironman-70.3-monterrey-20160320.csv,74,Alberto Garcia De Quevedo,37,Jalisco,MEX,00:34:22,02:46:42,01:54:29,00:04:35,00:02:14,05:22:22
+ironman-70.3-monterrey-20160320.csv,75,Luis Carlos Calles Villarreal,32,Nuevo Leon,MEX,00:41:11,03:02:24,02:00:59,00:07:57,00:03:50,05:56:21
+ironman-70.3-monterrey-20160320.csv,76,Carlos Daniel Chavez Morales,25,Nuevo Leon,MEX,00:27:07,02:18:21,01:23:28,00:01:47,00:01:54,04:12:37
+ironman-70.3-monterrey-20160320.csv,77,Leonel Martinez Perez,40,veracruz,MEX,00:45:38,03:01:21,02:04:56,00:08:27,00:03:21,06:03:43
+ironman-70.3-monterrey-20160320.csv,78,Carlos Trevino,33,Nuevo Leon,MEX,00:31:02,02:29:14,01:31:58,00:02:36,00:01:34,04:36:24
+ironman-70.3-monterrey-20160320.csv,79,Jesus Huerta Ovalle,27,Nuevo Leon,MEX,00:26:58,---,---,00:03:09,---,DNF
+ironman-70.3-monterrey-20160320.csv,80,Marco Antonio Marquez Soto Hay,44,Intl State,MEX,00:37:28,02:36:02,01:29:23,00:04:26,00:01:43,04:49:02
+ironman-70.3-monterrey-20160320.csv,81,Jose Belmares,34,---,MEX,00:34:36,03:13:25,01:52:05,00:07:56,00:03:13,05:51:15
+ironman-70.3-monterrey-20160320.csv,82,Rosa Dominguez,36,PUEBLA,MEX,00:32:41,02:51:21,01:59:59,00:03:34,00:03:00,05:30:35
+ironman-70.3-monterrey-20160320.csv,83,Enrique Trejo Flores,44,QUERETARO,MEX,00:37:05,03:10:24,02:14:45,00:06:32,00:04:54,06:13:40
+ironman-70.3-monterrey-20160320.csv,84,Francisco Javier Mendoza Olvera,40,Queretaro,MEX,00:52:28,03:09:38,02:03:57,00:06:03,00:05:00,06:17:06
+ironman-70.3-monterrey-20160320.csv,85,Gilberto Gonzalez Labastida,38,---,MEX,00:40:35,03:36:33,03:05:12,00:08:44,00:05:12,07:36:16
+ironman-70.3-monterrey-20160320.csv,86,Jacqueline Shepard Bucio,46,nuevo leon,MEX,00:43:26,03:36:33,03:06:11,00:11:56,00:06:04,07:44:10
+ironman-70.3-monterrey-20160320.csv,87,Benito Flores,34,NUEVO LEON,MEX,00:29:51,02:18:55,01:29:45,00:02:33,00:01:42,04:22:46
+ironman-70.3-monterrey-20160320.csv,88,Patricio Gonzalez,37,---,MEX,00:32:39,02:39:22,02:03:39,00:03:47,00:04:35,05:24:02
+ironman-70.3-monterrey-20160320.csv,89,Maria Luisa Segura Ramirez,43,BC,MEX,00:36:13,03:31:22,02:25:15,00:12:57,00:05:55,06:51:42
+ironman-70.3-monterrey-20160320.csv,90,Jason Reinhardt,44,TX,USA,00:35:58,02:38:10,01:52:51,00:03:41,00:02:29,05:13:09
+ironman-70.3-monterrey-20160320.csv,91,Alejandra Ojeda Villanueva,31,JALISCO,MEX,00:44:02,02:58:57,01:58:30,00:04:51,00:02:16,05:48:36
+ironman-70.3-monterrey-20160320.csv,92,David Almaguer,44,Coahuila,MEX,00:42:31,03:15:28,02:09:02,00:06:30,00:03:51,06:17:22
+ironman-70.3-monterrey-20160320.csv,93,Jorge Eduardo Escudero De La Garza,54,MONTERREY,MEX,00:35:31,03:09:43,02:28:02,00:07:06,00:02:44,06:23:06
+ironman-70.3-monterrey-20160320.csv,94,Ramiro Alejandro Aguirre Gamez,28,Nuevo León,MEX,00:48:21,03:16:37,02:19:07,00:05:15,00:03:52,06:33:12
+ironman-70.3-monterrey-20160320.csv,95,Andres Gonzalez,43,tamaulipas,MEX,00:36:33,02:56:37,02:34:21,00:06:05,00:03:17,06:16:53
+ironman-70.3-monterrey-20160320.csv,96,Peter Derycz,53,CA,USA,00:38:13,02:52:07,02:15:58,00:06:45,00:03:09,05:56:12
+ironman-70.3-monterrey-20160320.csv,100,Nancy Zuniga,50,Nuevo León,MEX,00:38:29,03:04:58,02:32:54,00:05:51,00:03:28,06:25:40
+ironman-70.3-monterrey-20160320.csv,101,Wayne Mehl,79,CA,USA,00:45:57,03:49:53,02:52:43,00:10:22,00:07:12,07:46:07
+ironman-70.3-monterrey-20160320.csv,102,Jd Thalman,37,OH,USA,00:28:07,02:27:20,01:35:17,00:03:58,00:01:36,04:36:18
+ironman-70.3-monterrey-20160320.csv,103,Mario Villafana,44,CIUDAD DE MEXICO,MEX,00:30:32,---,---,00:02:49,---,DNF
+ironman-70.3-monterrey-20160320.csv,104,Gustavo Alfonso Lezama,49,PUEBLA,MEX,00:29:23,02:33:35,01:55:07,00:03:39,00:02:14,05:03:58
+ironman-70.3-monterrey-20160320.csv,105,Daniel Guerrero,33,jalisco,MEX,00:29:26,02:30:08,01:39:56,00:02:39,00:01:17,04:43:26
+ironman-70.3-monterrey-20160320.csv,106,Eduardo De La Garza,31,D.F.,MEX,00:35:19,02:32:04,01:36:27,00:04:59,00:01:56,04:50:45
+ironman-70.3-monterrey-20160320.csv,107,Pedro Acosta,47,Jalisco,MEX,00:29:46,02:36:29,01:40:23,00:03:14,00:01:45,04:51:37
+ironman-70.3-monterrey-20160320.csv,109,Jose Iturbide,40,Guatemala,GTM,00:29:23,02:24:13,01:26:40,00:02:24,00:01:36,04:24:16
+ironman-70.3-monterrey-20160320.csv,110,Erin Harvego,46,IL,USA,00:35:08,02:52:13,01:52:49,00:04:26,00:02:43,05:27:19
+ironman-70.3-monterrey-20160320.csv,111,Maria Gennari,37,Sao Paulo,BRA,00:36:51,02:53:34,01:48:50,00:03:20,00:02:04,05:24:39
+ironman-70.3-monterrey-20160320.csv,112,Gustavo Gennari,40,São Paulo,BRA,00:31:03,02:23:57,01:30:31,00:02:23,00:01:47,04:29:41
+ironman-70.3-monterrey-20160320.csv,113,Gabriela Ergas Gennari,35,SAO PAULO,BRA,00:35:26,02:39:58,01:36:57,00:03:47,00:01:48,04:57:56
+ironman-70.3-monterrey-20160320.csv,115,Leah Sherriff,31,ON,CAN,00:30:37,02:32:57,01:31:29,00:02:04,00:01:32,04:38:39
+ironman-70.3-monterrey-20160320.csv,116,Rodrigo Romero Garcia De La Cadena,24,Puebla,MEX,00:26:54,02:24:37,01:25:31,00:02:16,00:01:28,04:20:46
+ironman-70.3-monterrey-20160320.csv,117,Eric Neguelouart,26,DF,MEX,00:26:27,02:23:20,01:28:17,00:02:06,00:01:40,04:21:50
+ironman-70.3-monterrey-20160320.csv,118,Ivan Aguilera,41,Metepec,MEX,00:28:26,02:27:59,01:39:47,00:05:09,00:02:28,04:43:49
+ironman-70.3-monterrey-20160320.csv,119,Julien Belliot,29,---,FRA,00:31:41,02:39:08,01:49:08,00:03:57,00:01:52,05:05:46
+ironman-70.3-monterrey-20160320.csv,120,Alfonso Sobero Ponce De Leon,48,Puebla,MEX,00:28:36,04:57:28,---,00:04:02,---,DNF
+ironman-70.3-monterrey-20160320.csv,121,Marcela Alvarez,39,distrito federal,MEX,00:32:20,02:43:10,01:55:40,00:04:18,00:02:00,05:17:28
+ironman-70.3-monterrey-20160320.csv,124,Jaime Garcia G,49,Intl State,MEX,00:36:06,02:38:00,01:49:11,00:04:20,00:02:10,05:09:47
+ironman-70.3-monterrey-20160320.csv,125,Sharon Johnston,56,AZ,USA,00:41:17,02:46:38,02:11:16,00:04:40,00:02:37,05:46:28
+ironman-70.3-monterrey-20160320.csv,126,Dwight Lundell,72,AZ,USA,00:39:34,02:46:58,02:17:41,00:04:13,00:03:39,05:52:05
+ironman-70.3-monterrey-20160320.csv,127,Julie Salas,45,FL,BHS,---,---,---,---,---,DQ
+ironman-70.3-monterrey-20160320.csv,128,Julie Salas,45,FL,CAN,00:32:17,02:38:17,02:00:11,00:03:24,00:02:56,05:17:05
+ironman-70.3-monterrey-20160320.csv,129,David Hamilton,56,ON,CAN,00:40:57,02:47:50,02:09:59,00:06:11,00:03:21,05:48:18
+ironman-70.3-monterrey-20160320.csv,130,Joaquin Pereda,29,Coahuila,MEX,00:24:36,02:23:51,01:23:26,00:01:51,00:01:27,04:15:11
+ironman-70.3-monterrey-20160320.csv,131,Eric Siebert,37,---,CAN,00:29:59,02:27:14,01:28:59,00:03:00,00:02:04,04:31:16
+ironman-70.3-monterrey-20160320.csv,132,Yeshika Sanchez,37,México ,MEX,00:38:24,02:56:50,01:47:56,00:05:21,00:03:08,05:31:39
+ironman-70.3-monterrey-20160320.csv,133,Jose Miguel De La Fuente,32,Jalisco,MEX,00:27:37,02:17:28,01:24:47,00:02:12,00:01:28,04:13:32
+ironman-70.3-monterrey-20160320.csv,134,Mario Quintana Ricardez,35,Intl State,MEX,00:29:21,02:33:54,01:35:52,00:04:13,00:02:35,04:45:55
+ironman-70.3-monterrey-20160320.csv,135,Roberta Alvarez,34,Mexico City,BRA,00:35:40,02:37:39,01:53:29,00:03:32,00:02:08,05:12:28
+ironman-70.3-monterrey-20160320.csv,136,Marisol Franco Acevedo,28,Durango,MEX,00:33:26,02:36:33,01:31:01,00:03:16,00:01:19,04:45:35
+ironman-70.3-monterrey-20160320.csv,137,Jaime Rabago,26,JALISCO,MEX,00:30:10,02:30:38,01:28:56,00:02:14,00:01:51,04:33:49
+ironman-70.3-monterrey-20160320.csv,138,Adrian Dibildox,41,D.F.,MEX,00:37:40,02:49:17,01:55:51,00:04:56,00:02:48,05:30:32
+ironman-70.3-monterrey-20160320.csv,139,Martin Sanudo,34,queretaro,MEX,00:32:12,02:42:09,02:00:57,00:03:56,00:02:42,05:21:56
+ironman-70.3-monterrey-20160320.csv,140,Pablo Meyer,54,Mexico DF,MEX,00:37:33,02:36:32,01:46:08,00:03:22,00:01:45,05:05:20
+ironman-70.3-monterrey-20160320.csv,141,Diego GERBER,23,Zapopan,MEX,00:31:37,02:30:20,01:31:29,00:03:06,00:01:30,04:38:02
+ironman-70.3-monterrey-20160320.csv,142,Carlos Lopez Martinez,33,Benito Juarez,MEX,00:30:39,02:27:56,01:41:20,00:02:30,00:02:03,04:44:28
+ironman-70.3-monterrey-20160320.csv,143,Amilcar Lopez,42,WA,MEX,00:37:16,02:35:28,---,00:03:12,---,DNF
+ironman-70.3-monterrey-20160320.csv,144,Jose Rivera Gonzalez,42,Nuevo Leon,MEX,00:32:29,02:28:26,01:27:09,00:03:23,00:02:16,04:33:43
+ironman-70.3-monterrey-20160320.csv,145,Emilio Peresandi,36,---,MEX,00:34:32,02:48:48,01:48:14,00:03:23,00:01:46,05:16:43
+ironman-70.3-monterrey-20160320.csv,146,Susana De La Paz,44,NUEVO LEON,MEX,00:39:04,02:48:09,01:53:59,00:06:21,00:03:40,05:31:13
+ironman-70.3-monterrey-20160320.csv,147,Ross Hartley,27,OH,USA,00:25:19,02:37:21,---,00:02:24,---,DNF
+ironman-70.3-monterrey-20160320.csv,148,Juan Manuel Aguilar Bustillos,29,Puebla,MEX,00:33:37,02:23:47,01:27:28,00:03:05,00:01:40,04:29:37
+ironman-70.3-monterrey-20160320.csv,149,Macbeth Watson,35,CA,USA,00:34:14,02:45:16,01:47:18,00:03:28,00:02:04,05:12:20
+ironman-70.3-monterrey-20160320.csv,151,Jan Bretschneider,43,AZ,DEU,00:30:38,02:18:22,01:30:39,00:03:28,00:02:16,04:25:23
+ironman-70.3-monterrey-20160320.csv,152,Raul Sainz Alvarez,32,JALISCO,MEX,00:35:02,02:40:59,01:29:36,00:04:05,00:01:41,04:51:23
+ironman-70.3-monterrey-20160320.csv,153,Ricardo Larios,44,jal,MEX,00:29:20,02:36:12,01:41:52,00:02:54,00:02:01,04:52:19
+ironman-70.3-monterrey-20160320.csv,154,Alderlan Vitalino,38,São paulo,BRA,00:40:23,03:09:43,01:55:04,00:05:27,00:03:17,05:53:54
+ironman-70.3-monterrey-20160320.csv,155,Drew Eizenga,31,AB,CAN,00:29:18,02:23:48,01:32:32,00:02:47,00:02:38,04:31:03
+ironman-70.3-monterrey-20160320.csv,156,Devin Logsdon,27,TX,USA,00:35:41,02:40:26,01:53:33,00:04:50,00:02:32,05:17:02
+ironman-70.3-monterrey-20160320.csv,157,Jorge Herrera,39,FL,VEN,00:30:31,02:19:43,01:34:25,00:02:23,00:01:30,04:28:32
+ironman-70.3-monterrey-20160320.csv,158,Adrian Pineda,42,mexico city,MEX,00:38:13,02:40:00,01:42:26,00:05:34,00:01:48,05:08:01
+ironman-70.3-monterrey-20160320.csv,159,Eduardo Rueda,42,nuevo leon,MEX,00:32:04,02:29:55,01:31:25,00:02:31,00:02:15,04:38:10
+ironman-70.3-monterrey-20160320.csv,160,Guillermo Montana,43,Garza Garcia,MEX,00:28:01,02:35:38,01:57:35,00:03:00,00:01:32,05:05:46
+ironman-70.3-monterrey-20160320.csv,161,Maria Ramones,50,Intl State,MEX,00:34:44,02:54:06,01:59:19,00:04:12,00:02:02,05:34:23
+ironman-70.3-monterrey-20160320.csv,162,Eduardo Flores,34,MEXICO,MEX,00:35:36,03:19:27,02:49:38,00:04:12,00:02:55,06:51:48
+ironman-70.3-monterrey-20160320.csv,163,Andres Egas,47,Cortes,COL,00:28:44,02:24:26,01:46:05,00:02:59,00:01:22,04:43:36
+ironman-70.3-monterrey-20160320.csv,164,Inés Adriana Wong Diaz,33,N.L.,MEX,00:34:57,02:32:14,01:35:59,00:02:34,00:01:39,04:47:23
+ironman-70.3-monterrey-20160320.csv,165,Lorena Maya Lopez,45,MEXICO,MEX,00:39:06,02:45:12,01:47:49,00:03:48,00:02:10,05:18:05
+ironman-70.3-monterrey-20160320.csv,166,Jose De La Garza Elizondo,36,TX,MEX,00:35:56,02:26:24,01:30:02,00:02:47,00:01:53,04:37:02
+ironman-70.3-monterrey-20160320.csv,167,Alfredo Pineda,30,DF,MEX,00:26:50,02:39:27,01:52:31,00:02:19,00:01:40,05:02:47
+ironman-70.3-monterrey-20160320.csv,169,Carey Cribbs,61,TX,USA,00:37:23,03:24:09,02:39:28,00:03:57,00:05:27,06:50:24
+ironman-70.3-monterrey-20160320.csv,170,Israel Martinez Soriano,36,MEXICO,MEX,00:29:04,02:31:17,01:31:58,00:02:50,00:02:31,04:37:40
+ironman-70.3-monterrey-20160320.csv,172,Genaro Gonzalez Trevino,43,---,MEX,00:31:42,03:02:50,01:52:46,00:06:37,00:04:43,05:38:38
+ironman-70.3-monterrey-20160320.csv,173,Javier Ortiz Urruchua,39,TX,MEX,00:34:38,02:35:14,01:48:37,00:04:49,00:02:52,05:06:10
+ironman-70.3-monterrey-20160320.csv,175,Marcel Boily,65,QC,CAN,00:33:25,02:56:38,02:02:29,00:05:41,00:02:48,05:41:01
+ironman-70.3-monterrey-20160320.csv,176,Exau Piña,44,Queretaro,MEX,00:41:11,02:43:57,01:52:38,00:05:13,00:02:28,05:25:27
+ironman-70.3-monterrey-20160320.csv,177,William Eaton,38,CO,USA,00:32:44,02:40:14,01:47:14,00:03:43,00:02:46,05:06:41
+ironman-70.3-monterrey-20160320.csv,178,Javier Reyes De La Barrera,33,Nuevo Leon,MEX,00:33:32,02:37:36,01:33:12,00:04:41,00:02:56,04:51:57
+ironman-70.3-monterrey-20160320.csv,179,Nisim Tourkia,37,Mexico,MEX,00:34:23,02:52:49,02:03:36,00:04:44,00:01:56,05:37:28
+ironman-70.3-monterrey-20160320.csv,180,Silvia Ribeiro,36,CO,BRA,00:31:34,02:38:01,02:01:11,00:03:35,00:01:50,05:16:11
+ironman-70.3-monterrey-20160320.csv,181,Jorge Arguello,46,DF,MEX,00:37:32,02:55:29,01:44:32,00:03:06,00:02:21,05:23:00
+ironman-70.3-monterrey-20160320.csv,183,Luis De La Garza Gonzalez,59,Ver.,MEX,00:36:34,02:36:44,01:48:06,00:03:54,00:02:16,05:07:34
+ironman-70.3-monterrey-20160320.csv,184,Inigo Lorenzo,27,Intl State,MEX,00:37:33,02:52:13,02:00:38,00:06:43,00:04:19,05:41:26
+ironman-70.3-monterrey-20160320.csv,185,Juan Pablo Rios,47,"Mexico City, CDMX",MEX,00:36:02,02:58:35,01:55:40,00:03:25,00:02:26,05:36:08
+ironman-70.3-monterrey-20160320.csv,186,Araceli Solis Tamez,34,TX,MEX,00:31:40,02:57:01,01:55:19,00:04:58,00:02:29,05:31:27
+ironman-70.3-monterrey-20160320.csv,188,Mauricio Davila Ramirez,43,Intl State,MEX,00:35:17,02:39:04,01:47:10,00:04:57,00:02:55,05:09:23
+ironman-70.3-monterrey-20160320.csv,190,Carlos Sandoval,43,NL,MEX,00:30:12,02:20:21,01:24:24,00:02:30,00:01:43,04:19:10
+ironman-70.3-monterrey-20160320.csv,191,Guillermo Franco,41,Guanajuato,MEX,00:32:23,02:37:19,01:42:11,00:04:23,00:01:53,04:58:09
+ironman-70.3-monterrey-20160320.csv,192,Pastora Duran Martinez,42,Puebla,MEX,00:39:53,02:48:38,02:05:16,00:03:53,00:02:39,05:40:19
+ironman-70.3-monterrey-20160320.csv,193,Alejandro Colmenero,55,MORELOS,MEX,00:40:05,03:10:16,02:39:51,00:04:17,00:02:55,06:37:24
+ironman-70.3-monterrey-20160320.csv,194,Paola Rivas,31,OH,USA,00:27:59,02:50:45,02:08:29,00:04:32,00:02:02,05:33:47
+ironman-70.3-monterrey-20160320.csv,195,Andres Mora,25,MEXICO,MEX,00:34:30,02:31:43,01:41:38,00:02:45,00:01:42,04:52:18
+ironman-70.3-monterrey-20160320.csv,197,Ricardo Weichsel,39,CA,USA,00:37:33,02:29:34,01:40:23,00:03:08,00:02:08,04:52:46
+ironman-70.3-monterrey-20160320.csv,198,Javier Cruz,36,NUEVO LEON,MEX,00:37:12,02:37:54,02:03:29,00:04:06,00:02:45,05:25:26
+ironman-70.3-monterrey-20160320.csv,199,Federico Gutierrez,43,Puebla ,MEX,00:33:29,02:32:17,01:52:35,00:03:58,00:02:07,05:04:26
+ironman-70.3-monterrey-20160320.csv,200,Ricardo Mendez,38,DF,MEX,00:31:17,02:37:46,01:35:59,00:02:58,00:02:09,04:50:09
+ironman-70.3-monterrey-20160320.csv,201,Tomas Chavez,39,Puebla,MEX,00:38:31,02:56:46,01:47:35,00:03:08,00:02:31,05:28:31
+ironman-70.3-monterrey-20160320.csv,202,Fernando Moreleon,46,Nuevo Leon,MEX,00:31:42,02:41:03,01:50:19,00:04:56,00:02:42,05:10:42
+ironman-70.3-monterrey-20160320.csv,204,Jesse Glider,35,TX,USA,00:32:43,02:39:55,01:39:41,00:02:52,00:03:43,04:58:54
+ironman-70.3-monterrey-20160320.csv,210,Mariano Nava Guevara,37,CDMX,MEX,00:29:43,02:32:38,01:47:14,00:03:05,00:01:32,04:54:12
+ironman-70.3-monterrey-20160320.csv,211,Jaime Cervantes,43,Intl State,MEX,00:32:46,02:51:00,02:27:13,00:04:25,00:02:08,05:57:32
+ironman-70.3-monterrey-20160320.csv,212,Monica Cornejo Escandon,37,Intl State,MEX,---,---,---,---,---,DQ
+ironman-70.3-monterrey-20160320.csv,213,Gerardo Ramirez,31,---,MEX,00:49:39,03:06:23,01:59:57,00:05:59,00:07:48,06:09:46
+ironman-70.3-monterrey-20160320.csv,214,Humberto Jimenez Estrada,47,Intl State,MEX,00:29:04,02:19:43,01:31:26,00:02:41,00:01:15,04:24:09
+ironman-70.3-monterrey-20160320.csv,215,Carlos Ferreyra,33,Intl State,MEX,00:36:27,02:34:44,01:41:21,00:03:26,00:02:05,04:58:03
+ironman-70.3-monterrey-20160320.csv,216,Carlo Enriquez,43,zapopan,MEX,00:31:41,02:25:42,01:35:06,00:03:12,00:01:33,04:37:14
+ironman-70.3-monterrey-20160320.csv,217,Hana Sykorova,36,CA,CZE,00:30:08,02:34:35,01:39:46,00:03:30,00:01:32,04:49:31
+ironman-70.3-monterrey-20160320.csv,218,Larissa Rabago,22,Guadalajara,MEX,00:29:22,02:38:20,01:25:09,00:03:06,00:01:40,04:37:37
+ironman-70.3-monterrey-20160320.csv,219,Emmanuel Lopez,36,Puebla,MEX,00:33:03,02:31:56,01:45:12,00:04:49,00:01:57,04:56:57
+ironman-70.3-monterrey-20160320.csv,220,Mario Espejo,44,Mexico,MEX,00:33:16,03:05:30,02:17:58,00:04:04,00:03:50,06:04:38
+ironman-70.3-monterrey-20160320.csv,221,Alejandro Estrada Garcia,38,Chihuahua,MEX,00:41:08,02:47:51,02:09:59,00:03:51,00:02:38,05:45:27
+ironman-70.3-monterrey-20160320.csv,222,Omry Alaluf,29,Israel,ISR,00:32:31,02:37:44,01:33:28,00:02:57,00:01:51,04:48:31
+ironman-70.3-monterrey-20160320.csv,224,Daniel Rock Aragon,29,q. roo,MEX,00:33:41,02:47:12,02:06:29,00:02:24,00:02:00,05:31:46
+ironman-70.3-monterrey-20160320.csv,225,Alejandro Espinosa Rey,40,MEXICO,MEX,00:42:12,02:49:38,01:52:41,00:06:18,00:02:53,05:33:42
+ironman-70.3-monterrey-20160320.csv,226,Jose Ramon Robles,37,DF,MEX,00:51:12,02:38:52,01:46:17,00:03:57,00:03:03,05:23:21
+ironman-70.3-monterrey-20160320.csv,227,Tarak Anada,34,LA,USA,00:42:55,02:50:03,01:34:45,00:03:37,00:02:20,05:13:40
+ironman-70.3-monterrey-20160320.csv,228,Paul Beaty,26,TX,USA,00:35:53,02:43:23,02:04:46,00:03:36,00:02:06,05:29:44
+ironman-70.3-monterrey-20160320.csv,229,Jaime Ramirez,46,CA,MEX,00:36:50,02:41:59,01:45:16,00:03:37,00:02:17,05:09:59
+ironman-70.3-monterrey-20160320.csv,230,Ricardo E. Aguirre Rdz.,51,Nuevo Leon,MEX,00:36:28,02:49:26,02:21:29,00:06:28,00:03:29,05:57:20
+ironman-70.3-monterrey-20160320.csv,231,Benjamin Dabdoub,25,Intl State,MEX,00:35:55,02:36:57,01:49:46,00:04:21,00:01:54,05:08:53
+ironman-70.3-monterrey-20160320.csv,232,Gerardo Martinez,43,NL,MEX,00:34:33,02:37:01,02:04:17,00:06:44,00:02:02,05:24:37
+ironman-70.3-monterrey-20160320.csv,233,Yamil Barbosa,49,YUCATAN,MEX,00:48:43,03:06:04,02:11:10,00:07:03,00:03:39,06:16:39
+ironman-70.3-monterrey-20160320.csv,234,Edgar Martínez,23,VIC,MEX,00:38:13,02:42:24,01:49:44,00:04:23,00:03:50,05:18:34
+ironman-70.3-monterrey-20160320.csv,235,Federico Lopez,41,Veracruz,MEX,00:36:57,03:24:23,02:17:03,00:06:21,00:04:24,06:29:08
+ironman-70.3-monterrey-20160320.csv,236,Omar Garrido,29,---,MEX,00:38:37,02:26:46,01:38:19,00:04:52,00:02:21,04:50:55
+ironman-70.3-monterrey-20160320.csv,237,Alejandro Herrera,41,Intl State,MEX,00:41:28,02:55:43,02:01:11,00:05:06,00:03:19,05:46:47
+ironman-70.3-monterrey-20160320.csv,238,Victor Casasola,48,MEXICO,MEX,00:43:01,02:47:09,01:57:29,00:07:02,00:02:54,05:37:35
+ironman-70.3-monterrey-20160320.csv,239,Maribel Quiroz,36,distrito federal,MEX,00:35:56,02:44:09,01:57:03,00:03:44,00:02:19,05:23:11
+ironman-70.3-monterrey-20160320.csv,240,Berenice Aguilar,35,CA,MEX,00:32:21,02:50:35,01:36:43,00:03:11,00:04:36,05:07:26
+ironman-70.3-monterrey-20160320.csv,241,Jose De La Roca,35,GUATEMALA,GTM,00:33:52,02:39:20,01:45:21,00:04:04,00:02:00,05:04:37
+ironman-70.3-monterrey-20160320.csv,242,Deyanira Flores,40,Nuevo leon,MEX,00:41:34,02:46:25,01:48:31,00:06:16,00:03:45,05:26:31
+ironman-70.3-monterrey-20160320.csv,244,Antonio Cervera,41,Yucatan,MEX,00:37:21,03:04:19,02:36:26,00:03:36,00:03:33,06:25:15
+ironman-70.3-monterrey-20160320.csv,245,Miguel Temblador Torres,43,mexico city,MEX,00:35:39,02:49:48,01:51:36,00:05:39,00:03:17,05:25:59
+ironman-70.3-monterrey-20160320.csv,271,Jesus Rocha,38,Nuevo Leon,MEX,00:38:13,03:10:58,03:05:17,00:08:06,00:06:15,07:08:49
+ironman-70.3-monterrey-20160320.csv,272,Victor Sergio Garcia Tapia,48,NUEVO LEON,MEX,00:41:18,03:15:43,02:19:49,00:06:00,00:02:29,06:25:19
+ironman-70.3-monterrey-20160320.csv,275,Fernando Escamilla Garcia,34,Monterrey,MEX,00:37:40,02:50:38,02:08:28,00:08:22,00:04:12,05:49:20
+ironman-70.3-monterrey-20160320.csv,276,Carlos Gonzalez,40,NL/ Mexico,MEX,00:29:48,02:40:08,02:06:52,00:02:59,00:01:42,05:21:29
+ironman-70.3-monterrey-20160320.csv,277,Jose Luis Perez Flores,37,NL,MEX,00:40:37,02:57:37,01:57:10,00:03:44,00:02:17,05:41:25
+ironman-70.3-monterrey-20160320.csv,278,Antonio Rodriguez,28,Querétaro,MEX,00:34:32,03:16:27,02:19:28,00:06:53,00:03:55,06:21:15
+ironman-70.3-monterrey-20160320.csv,279,Carlos Luis De La Garza Garza,39,MONTERREY,MEX,00:35:43,02:59:55,01:56:37,00:05:56,00:02:52,05:41:03
+ironman-70.3-monterrey-20160320.csv,280,Ricardo Leal Lozano,48,Nuevo Leon,MEX,00:37:52,02:28:19,---,00:06:39,---,DNF
+ironman-70.3-monterrey-20160320.csv,282,Fidencio Montemayor Garza,47,Nuevo León,MEX,00:56:40,02:55:52,02:06:56,00:06:38,00:05:03,06:11:09
+ironman-70.3-monterrey-20160320.csv,283,Luis Ariel Hernandez Paalcios,30,Nuevo Leon,MEX,01:01:58,03:21:51,02:46:13,00:06:43,00:07:02,07:23:47
+ironman-70.3-monterrey-20160320.csv,284,Fernando Duhart,28,Estado de Mexico,MEX,00:48:07,03:38:10,03:27:40,00:05:03,00:06:24,DNF
+ironman-70.3-monterrey-20160320.csv,286,Jose Alejandro Garcia,45,Nuevo Leon,MEX,00:31:01,02:35:07,01:48:31,00:02:59,00:01:57,04:59:35
+ironman-70.3-monterrey-20160320.csv,287,Fernando Rivadeneyra,39,NL,MEX,00:34:19,03:02:44,02:09:41,00:04:31,00:02:26,05:53:41
+ironman-70.3-monterrey-20160320.csv,288,Jaime Garcia G,49,Intl State,MEX,00:34:55,02:49:29,02:14:35,00:04:34,00:02:35,05:46:08
+ironman-70.3-monterrey-20160320.csv,290,Ruben Garza Paez,51,san pedro,MEX,00:43:29,03:27:06,02:12:58,00:09:17,00:05:08,06:37:58
+ironman-70.3-monterrey-20160320.csv,295,Claudia Irasema Breceda Nevarez,39,Nuevo Leon,MEX,00:44:56,03:13:40,02:13:05,00:06:11,00:03:02,06:20:54
+ironman-70.3-monterrey-20160320.csv,297,Carlos Hernandez Estrada,33,Puebla,MEX,00:41:21,03:17:45,02:12:05,00:06:52,00:03:32,06:21:35
+ironman-70.3-monterrey-20160320.csv,298,Arturo Torres Arpi Acero,24,Queretaro,MEX,00:39:05,03:01:12,02:23:24,00:03:42,00:02:38,06:10:01
+ironman-70.3-monterrey-20160320.csv,300,Wenceslao Saenz Juarez,26,NUEVO LEÓN,MEX,00:35:18,03:01:27,02:07:50,00:06:48,00:03:37,05:55:00
+ironman-70.3-monterrey-20160320.csv,301,Ferruccio Fenza,46,NUEVO LEON,MEX,00:53:08,03:23:27,02:22:33,00:04:21,00:03:08,06:46:37
+ironman-70.3-monterrey-20160320.csv,302,Mario Gonzalez,49,TX,USA,00:47:17,03:01:28,02:23:54,00:09:49,00:04:42,06:27:10
+ironman-70.3-monterrey-20160320.csv,303,Cristian Granados,34,San José,CRI,00:40:08,03:13:15,02:15:27,00:04:35,00:04:22,06:17:47
+ironman-70.3-monterrey-20160320.csv,304,Maria Fernanda Gomez,29,---,MEX,00:56:07,04:28:42,---,00:05:32,---,DNF
+ironman-70.3-monterrey-20160320.csv,305,Carlos Celis Garcia,33,---,MEX,00:41:15,03:26:24,02:20:24,00:03:52,00:02:48,06:34:43
+ironman-70.3-monterrey-20160320.csv,308,Estela Menchaca Villarreal,29,"SAN PEDRO GARZA GARCIA, NUEVO ",MEX,00:36:37,03:27:49,01:47:15,00:03:45,00:02:22,05:57:48
+ironman-70.3-monterrey-20160320.csv,309,Jesus Guerrero,41,Monterrey,MEX,00:43:36,03:43:30,02:13:44,00:11:21,00:05:26,06:57:37
+ironman-70.3-monterrey-20160320.csv,311,Mayra Armenta,25,---,MEX,00:42:14,03:32:49,02:17:42,00:06:42,00:02:56,06:42:23
+ironman-70.3-monterrey-20160320.csv,312,Erubiel Jose Contreras Roman,33,GUANAJUATO,MEX,00:39:06,02:51:52,02:07:28,00:05:04,00:02:41,05:46:11
+ironman-70.3-monterrey-20160320.csv,313,Ruben Hernandez,34,guanajuato,MEX,00:45:41,03:00:33,02:10:47,00:05:30,00:02:48,06:05:19
+ironman-70.3-monterrey-20160320.csv,314,Roberto Garza Leonard,53,Nuevo Leon,MEX,00:39:03,03:10:39,02:34:18,00:06:06,00:04:38,06:34:44
+ironman-70.3-monterrey-20160320.csv,315,Elizabeth Castaneda,52,Nuevo Leon,MEX,00:38:44,03:04:12,02:07:37,00:05:27,00:03:35,05:59:35
+ironman-70.3-monterrey-20160320.csv,316,Fernando Marin Davalos Gonzalez,41,Nuevo Leon,MEX,00:44:26,03:12:38,02:12:23,00:08:07,00:05:45,06:23:19
+ironman-70.3-monterrey-20160320.csv,317,Carlos Tamez,35,Nuevo León,MEX,00:41:57,03:20:10,02:21:52,00:08:46,00:05:28,06:38:13
+ironman-70.3-monterrey-20160320.csv,319,Jose Fajardo,41,Mexico,MEX,00:43:13,03:01:01,02:09:10,00:09:44,00:05:13,06:08:21
+ironman-70.3-monterrey-20160320.csv,321,Armando Flores,28,Saltillo,MEX,00:57:30,03:13:48,02:32:55,00:06:52,00:08:41,06:59:46
+ironman-70.3-monterrey-20160320.csv,322,Valeria Elizondo,23,Nuevo Leon,MEX,00:42:34,03:29:55,02:49:54,00:06:59,00:03:47,07:13:09
+ironman-70.3-monterrey-20160320.csv,323,Jesus Elizondo Gonzalez,48,---,MEX,00:50:32,03:48:29,---,00:07:15,00:04:40,DNF
+ironman-70.3-monterrey-20160320.csv,324,Michelle Conn,42,estado de mexico,GBR,00:46:36,03:26:24,03:16:13,00:07:25,00:05:51,07:42:29
+ironman-70.3-monterrey-20160320.csv,325,Cuauhtemoc Galvan Martinez,46,---,MEX,00:46:45,03:16:36,02:29:27,00:05:30,00:04:44,06:43:02
+ironman-70.3-monterrey-20160320.csv,326,Jesus Arce Jaimez,31,Intl State,MEX,00:38:07,03:08:14,02:00:11,00:03:36,00:02:55,05:53:03
+ironman-70.3-monterrey-20160320.csv,327,Ruy Zavala,47,Intl State,MEX,00:41:43,02:57:08,01:44:31,00:06:25,00:03:14,05:33:01
+ironman-70.3-monterrey-20160320.csv,328,Santiago Fernando Utrilla Lack,21,Puebla,MEX,00:31:26,03:00:56,01:57:50,00:04:00,00:02:31,05:36:43
+ironman-70.3-monterrey-20160320.csv,330,Edgar Ivan Morales Balboa,40,Apodaca,MEX,00:53:29,03:46:51,02:09:08,00:06:05,00:03:15,06:58:48
+ironman-70.3-monterrey-20160320.csv,331,Karina Salazar,27,nuevo leon,MEX,00:54:24,03:41:18,02:26:54,00:12:36,00:07:46,07:22:58
+ironman-70.3-monterrey-20160320.csv,333,Luis Quintanilla,28,Nuevo León,MEX,01:02:49,03:10:14,01:56:26,00:03:32,00:02:32,06:15:33
+ironman-70.3-monterrey-20160320.csv,336,Jose Gilberto Torres Jimenez,56,San Luis Potosí,MEX,00:38:57,03:13:35,02:58:17,00:10:08,00:04:53,07:05:50
+ironman-70.3-monterrey-20160320.csv,337,RAUL SAYAS,50,tamaulipas,MEX,00:32:55,02:38:44,01:58:02,00:04:27,00:01:47,05:15:55
+ironman-70.3-monterrey-20160320.csv,338,Jose Mora,40,---,MEX,00:36:46,03:03:42,02:22:59,00:04:30,00:06:05,06:14:02
+ironman-70.3-monterrey-20160320.csv,342,Eduardo Rodriguez,33,Tamaulipas,MEX,00:31:31,02:59:41,02:10:06,00:04:58,00:02:25,05:48:41
+ironman-70.3-monterrey-20160320.csv,343,Martin Eduardo Fernandez Torres,27,---,MEX,00:47:29,03:38:26,02:20:31,00:06:10,00:05:34,06:58:10
+ironman-70.3-monterrey-20160320.csv,344,Ricardo Alonso Ancira Garza,51,MONTERREY,MEX,00:46:56,03:17:17,02:55:00,00:08:37,00:04:53,07:12:43
+ironman-70.3-monterrey-20160320.csv,345,Monica Clementina Fuentes,45,---,MEX,00:38:33,02:41:16,01:57:41,00:04:45,00:02:30,05:24:45
+ironman-70.3-monterrey-20160320.csv,346,Daniel Jaime Arias De Zarinana,25,Distrito Federal,MEX,00:39:24,03:11:42,02:04:09,00:05:02,00:03:41,06:03:58
+ironman-70.3-monterrey-20160320.csv,347,VANESSA DORAZIO,35,MO,MEX,00:50:49,03:38:06,02:52:03,00:08:19,00:05:11,07:34:28
+ironman-70.3-monterrey-20160320.csv,348,Francisco Diaz,44,Aguascalientes,MEX,00:45:07,03:28:48,02:13:36,00:07:47,00:04:22,06:39:40
+ironman-70.3-monterrey-20160320.csv,349,Oscar Adrian Garcia Cantu,31,---,MEX,00:53:04,03:17:00,02:01:41,00:09:11,00:03:07,06:24:03
+ironman-70.3-monterrey-20160320.csv,350,Gerardo Obregon,42,NUEVO LEON,MEX,00:36:01,02:56:32,01:59:27,00:06:35,00:02:57,05:41:32
+ironman-70.3-monterrey-20160320.csv,351,Gustavo Cabrera,43,df,MEX,00:54:53,03:48:23,02:42:20,00:07:13,00:05:08,07:37:57
+ironman-70.3-monterrey-20160320.csv,352,Fabiola Cubas,35,DF,MEX,00:49:22,04:11:02,02:29:29,00:08:55,00:03:38,07:42:26
+ironman-70.3-monterrey-20160320.csv,353,Carlos Borges Pastrana,46,CHIAPAS,MEX,00:35:30,03:01:30,02:38:42,00:05:12,00:02:32,06:23:26
+ironman-70.3-monterrey-20160320.csv,354,Giselle Magdalena Solis Camacho,48,CHIAPAS,MEX,00:47:46,03:37:10,02:25:29,00:07:00,00:03:12,07:00:37
+ironman-70.3-monterrey-20160320.csv,355,Israel Rayo,30,Chiapas,MEX,00:41:59,03:01:18,02:30:57,00:05:37,00:03:40,06:23:31
+ironman-70.3-monterrey-20160320.csv,356,Enrique Quintanilla Flores,46,Nuevo León,MEX,00:41:03,03:09:38,02:04:35,00:09:32,00:04:16,06:09:04
+ironman-70.3-monterrey-20160320.csv,357,Rosalinda Vela Davila,44,Nuevo Leon,MEX,00:46:34,03:34:34,02:46:49,00:11:05,00:03:28,07:22:30
+ironman-70.3-monterrey-20160320.csv,358,Rafael Rangel Zarza,44,JALISCO,MEX,00:43:37,03:24:05,02:39:24,00:07:44,00:03:45,06:58:35
+ironman-70.3-monterrey-20160320.csv,359,Robin Cuypers,30,NC,BEL,00:36:01,02:42:39,02:14:17,00:04:03,00:02:53,05:39:53
+ironman-70.3-monterrey-20160320.csv,361,Eder Canizales,33,Nuevo Leon,MEX,00:52:38,03:14:49,---,00:07:10,---,DNF
+ironman-70.3-monterrey-20160320.csv,362,Alejandro Marquez Pacheco,29,ZACATECAS,MEX,00:40:54,03:00:47,02:27:10,00:07:30,00:03:57,06:20:18
+ironman-70.3-monterrey-20160320.csv,363,Oscar Carnevali,45,MONTERREY ,MEX,00:38:15,03:12:14,02:03:43,00:05:57,00:03:14,06:03:23
+ironman-70.3-monterrey-20160320.csv,364,Fabian Gonzalez Baez,29,---,MEX,00:45:19,03:25:07,01:57:44,00:05:28,00:03:10,06:16:48
+ironman-70.3-monterrey-20160320.csv,365,Guillermo Obregon,42,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-monterrey-20160320.csv,366,Ana Marquez,48,---,MEX,00:36:27,03:35:23,02:05:13,00:07:13,00:02:44,06:27:00
+ironman-70.3-monterrey-20160320.csv,368,Marco Vinicio Gutierrez Padilla,41,Distrito Federal,MEX,00:37:02,03:09:03,01:58:30,00:05:53,00:03:52,05:54:20
+ironman-70.3-monterrey-20160320.csv,369,Alain De Leon Cortinas,36,TX,MEX,00:36:07,03:01:04,02:42:46,00:05:53,00:02:36,06:28:26
+ironman-70.3-monterrey-20160320.csv,372,Natan Tourkia,31,Cuajimalpa,MEX,00:38:54,03:14:38,02:34:54,00:06:43,00:03:11,06:38:20
+ironman-70.3-monterrey-20160320.csv,373,Jesus Guadiana,40,San Nicolas de los Garza,MEX,00:33:54,03:10:07,02:27:34,00:05:58,00:05:44,06:23:17
+ironman-70.3-monterrey-20160320.csv,374,Pablo Corona,36,DF,MEX,00:44:56,03:06:53,02:14:45,00:03:37,00:02:36,06:12:47
+ironman-70.3-monterrey-20160320.csv,376,Ana Lucia Morales,37,ES,GTM,00:50:41,03:24:04,02:22:57,00:06:25,00:03:10,06:47:17
+ironman-70.3-monterrey-20160320.csv,377,Jonathan Ramirez,35,TX,MEX,00:50:46,03:13:39,02:02:21,00:08:00,00:02:19,06:17:05
+ironman-70.3-monterrey-20160320.csv,378,Peter Revesz,42,Estado de Mexico,USA,00:32:21,02:49:03,02:08:58,00:03:51,00:03:07,05:37:20
+ironman-70.3-monterrey-20160320.csv,379,Loretta Sellers Fortuny,26,---,MEX,00:31:25,02:39:24,02:01:16,00:02:21,00:01:53,05:16:19
+ironman-70.3-monterrey-20160320.csv,380,Daniel Alejandro Palomares Saldivar,21,Coahuila,MEX,00:28:53,02:34:52,01:40:43,00:03:28,00:01:56,04:49:52
+ironman-70.3-monterrey-20160320.csv,381,Felix Palomares Saldivar,32,Intl State,MEX,00:43:57,03:34:55,---,00:09:15,00:06:31,DNF
+ironman-70.3-monterrey-20160320.csv,382,Jesus Jose Soto Muller,35,Coahuila ,MEX,00:29:04,02:48:51,02:27:57,00:04:46,00:02:07,05:52:45
+ironman-70.3-monterrey-20160320.csv,383,Jesus Burfford Correa,43,distrito federal,MEX,00:47:47,03:16:59,02:16:30,00:08:29,00:09:01,06:38:46
+ironman-70.3-monterrey-20160320.csv,384,Eduardo Sparrowe,48,DF,MEX,00:37:27,03:07:31,02:11:40,00:09:04,00:04:09,06:09:51
+ironman-70.3-monterrey-20160320.csv,385,Jose De Jesus Perez Esparza,45,Tamaulipas,MEX,00:37:54,02:56:39,02:22:12,00:05:35,00:02:44,06:05:04
+ironman-70.3-monterrey-20160320.csv,386,Armando Rocha Cebrian,23,Mexico,MEX,00:33:44,02:56:41,01:53:02,00:03:33,00:02:21,05:29:21
+ironman-70.3-monterrey-20160320.csv,387,Noemi Gonzalez Parra,43,Tamaulipas,MEX,00:47:45,03:26:09,02:08:40,00:06:00,00:02:45,06:31:19
+ironman-70.3-monterrey-20160320.csv,388,Carlos Villaseca Garcia,42,---,ESP,00:36:48,03:03:04,02:00:15,00:07:39,00:04:18,05:52:04
+ironman-70.3-monterrey-20160320.csv,390,Javier Sergio Castillo Verduzco,45,Estado de Mexico,MEX,00:36:45,03:32:10,01:55:10,00:08:17,00:04:01,06:16:23
+ironman-70.3-monterrey-20160320.csv,391,Catriona Watt,34,NSW,AUS,00:39:51,03:10:32,02:19:41,00:03:51,00:04:13,06:18:08
+ironman-70.3-monterrey-20160320.csv,392,Javier Israel Ramirez Sanchez,39,Benito Juarez,MEX,00:35:04,03:04:31,01:58:11,00:04:55,00:02:32,05:45:13
+ironman-70.3-monterrey-20160320.csv,393,Lillian Argaez Gonzalez,22,ZACATECAS,MEX,00:33:53,02:53:27,02:10:39,00:02:39,00:01:59,05:42:37
+ironman-70.3-monterrey-20160320.csv,394,Fernando Argaez Marquez,46,zacatecas,MEX,00:48:11,03:05:20,01:51:23,00:07:05,00:02:33,05:54:32
+ironman-70.3-monterrey-20160320.csv,396,Jorge De La Fuente,44,Nuevo Leon,MEX,00:39:22,02:57:26,02:15:28,00:06:38,00:04:01,06:02:55
+ironman-70.3-monterrey-20160320.csv,397,Kailen Houle,27,AB,CAN,00:38:38,03:14:41,02:11:33,00:07:18,00:04:47,06:16:57
+ironman-70.3-monterrey-20160320.csv,398,Jennifer Payne,44,NC,USA,00:47:20,03:17:20,02:51:27,00:07:35,00:03:39,07:07:21
+ironman-70.3-monterrey-20160320.csv,400,Christopher Bello,39,puebla,MEX,00:39:40,03:18:42,02:20:24,00:07:55,00:04:24,06:31:05
+ironman-70.3-monterrey-20160320.csv,401,Roberto Saldivar,41,NLE,MEX,00:33:42,02:46:06,02:08:22,00:03:07,00:01:58,05:33:15
+ironman-70.3-monterrey-20160320.csv,402,Alejandro Figueroa Irigoyen,40,mexico,MEX,00:36:37,02:39:34,02:19:12,00:04:36,00:02:40,05:42:39
+ironman-70.3-monterrey-20160320.csv,403,Ernesto Vega Avila,40,VERACRUZ,MEX,00:42:30,03:13:22,02:36:37,00:05:49,00:04:18,06:42:36
+ironman-70.3-monterrey-20160320.csv,405,Adrian Leonardo Chimal Cienfuegos,39,NLE,MEX,00:29:09,02:25:24,01:38:18,00:03:33,00:01:34,04:37:58
+ironman-70.3-monterrey-20160320.csv,408,Antonio Martinez Vessi,48,Nuevo Leon,MEX,00:37:27,03:03:17,02:31:20,00:07:13,00:05:20,06:24:37
+ironman-70.3-monterrey-20160320.csv,409,Felipe Javier Guadarrama De Leon,45,NLE,MEX,00:36:44,02:40:01,01:51:56,00:03:47,00:01:49,05:14:17
+ironman-70.3-monterrey-20160320.csv,412,Nik Heitzeg,17,San Luis Potosi,USA,00:26:36,02:58:00,01:51:17,00:03:29,00:01:51,05:21:13
+ironman-70.3-monterrey-20160320.csv,413,Xavier Mendez Azuela,23,DF,MEX,00:30:27,02:45:00,02:04:05,00:03:13,00:02:19,05:25:04
+ironman-70.3-monterrey-20160320.csv,414,Xavier Mendez Azuela,23,DF,MEX,00:46:40,03:23:36,02:15:31,00:05:12,00:03:24,06:34:23
+ironman-70.3-monterrey-20160320.csv,415,Ana Monnaco,37,TN,BRA,00:47:30,03:38:04,02:35:48,00:09:22,00:06:29,07:17:13
+ironman-70.3-monterrey-20160320.csv,417,David Ernesto Gonzalez Rodriguez,34,MONTERREY,MEX,00:39:33,03:19:25,02:26:47,00:07:52,00:03:35,06:37:12
+ironman-70.3-monterrey-20160320.csv,418,Patricia Fernandez,44,NL,MEX,00:43:17,02:49:35,01:59:22,00:08:00,00:04:50,05:45:04
+ironman-70.3-monterrey-20160320.csv,419,Sinead Caulfield,28,AB,IRL,---,---,---,---,---,DNS
+ironman-70.3-monterrey-20160320.csv,420,Jose Rodolfo Tijerina Leal,39,Nuevo León,MEX,00:37:48,02:46:57,01:44:38,00:06:52,00:03:23,05:19:38
+ironman-70.3-monterrey-20160320.csv,421,Norma Lisset Muniz Sanchez,29,Nuevo Leon,MEX,00:40:50,03:22:33,02:09:09,00:04:46,00:02:44,06:20:02
+ironman-70.3-monterrey-20160320.csv,423,Ana Laura Barragan Aguilar,38,GUADALUPE,MEX,01:02:12,03:09:42,02:30:13,00:05:39,00:04:20,06:52:06
+ironman-70.3-monterrey-20160320.csv,424,Alfonso Abreu Guevara,56,---,MEX,00:38:11,03:13:20,02:21:14,00:04:16,00:02:44,06:19:45
+ironman-70.3-monterrey-20160320.csv,427,Brenda Villa Piedra,29,Mexico City,MEX,00:44:28,03:40:14,02:05:46,00:06:56,00:03:01,06:40:25
+ironman-70.3-monterrey-20160320.csv,428,Mauricio Del Moral Duran,38,D.F.,MEX,00:35:12,03:12:44,02:09:34,00:06:48,00:03:56,06:08:14
+ironman-70.3-monterrey-20160320.csv,429,Enrique Corona,42,---,MEX,01:07:29,02:54:23,02:27:01,00:11:20,00:06:08,06:46:21
+ironman-70.3-monterrey-20160320.csv,430,Sid Scheer,25,NM,USA,00:37:30,02:44:14,01:48:13,00:03:53,00:03:17,05:17:07
+ironman-70.3-monterrey-20160320.csv,431,Jim Guthrie,54,NM,USA,00:41:24,02:54:48,02:21:06,00:07:06,00:03:44,06:08:08
+ironman-70.3-monterrey-20160320.csv,432,Jose Luis Castro Vera,35,COYOACAN,MEX,00:38:29,03:12:55,02:17:26,00:06:07,00:02:51,06:17:48
+ironman-70.3-monterrey-20160320.csv,433,Juan Antonio Jimenez Solis,41,VERACRUZ,MEX,00:30:36,03:03:33,01:53:13,00:04:55,00:02:50,05:35:07
+ironman-70.3-monterrey-20160320.csv,434,Myriam Saldivar,35,TX,MEX,00:43:00,03:28:41,02:25:46,00:07:47,00:04:04,06:49:18
+ironman-70.3-monterrey-20160320.csv,436,Rodrigo Villafa�a,40,DF,MEX,00:31:04,02:46:20,02:08:51,00:02:34,00:02:19,05:31:08
+ironman-70.3-monterrey-20160320.csv,437,David Vanbolt,29,WA,USA,00:31:01,02:09:17,01:17:49,00:03:33,00:01:44,04:03:24
+ironman-70.3-monterrey-20160320.csv,439,Gustavo Flores,46,Baja California,MEX,00:56:13,03:25:21,02:24:47,00:09:11,00:03:32,06:59:04
+ironman-70.3-monterrey-20160320.csv,440,Miguel Patjane,41,Puebla,MEX,00:37:01,02:32:59,01:52:05,00:02:58,00:02:27,05:07:30
+ironman-70.3-monterrey-20160320.csv,441,Ricardo Ocampo,35,Intl State,MEX,00:35:55,03:09:36,02:02:50,00:05:55,00:03:05,05:57:21
+ironman-70.3-monterrey-20160320.csv,442,Suarez Iñigo,31,México D.F.,MEX,00:34:08,03:03:38,01:53:25,00:06:44,00:03:45,05:41:40
+ironman-70.3-monterrey-20160320.csv,443,Erik Ortega,28,Durango,MEX,00:45:55,02:44:23,02:06:03,00:05:50,00:04:05,05:46:16
+ironman-70.3-monterrey-20160320.csv,444,Enrique Jaramillo,36,SAN JAUN DEL RIO,MEX,00:49:30,03:10:59,01:48:36,00:09:04,00:03:42,06:01:51
+ironman-70.3-monterrey-20160320.csv,445,Daniela Lopez,37,México D.F,MEX,00:36:09,02:53:46,01:54:30,00:04:33,00:02:48,05:31:46
+ironman-70.3-monterrey-20160320.csv,446,Alfredo Ayala Iracheta,36,Chihuahua,MEX,00:50:19,03:07:22,02:27:15,00:06:38,00:04:32,06:36:06
+ironman-70.3-monterrey-20160320.csv,447,Mariela Jimenez,32,DF,MEX,00:38:23,04:26:50,---,00:12:13,---,DNF
+ironman-70.3-monterrey-20160320.csv,448,Jose Gonzalez Chavez,37,distrito federal,MEX,00:37:24,---,---,---,---,DNF
+ironman-70.3-monterrey-20160320.csv,449,Raul Montero,31,WA,MEX,00:44:05,02:51:03,02:17:30,00:04:18,00:03:11,06:00:07
+ironman-70.3-monterrey-20160320.csv,450,Rafael Goncalves,36,CO,BRA,00:21:42,02:18:44,01:31:16,00:02:34,00:01:40,04:15:56
+ironman-70.3-monterrey-20160320.csv,451,Carlos Lozoya,34,Chihuahua,MEX,00:34:33,02:49:36,02:10:29,00:06:04,00:03:02,05:43:44
+ironman-70.3-monterrey-20160320.csv,452,Pepe Flores Licon,44,TX,MEX,00:43:08,02:58:43,02:10:51,00:03:52,00:04:56,06:01:30
+ironman-70.3-monterrey-20160320.csv,453,Juan Carlos Castro Penedo,42,Intl State,ESP,00:40:27,03:01:57,02:17:40,00:07:43,00:05:56,06:13:43
+ironman-70.3-monterrey-20160320.csv,454,Isaac Felix,35,SINALOA,MEX,00:35:58,02:42:20,02:45:19,00:02:47,00:02:29,06:08:53
+ironman-70.3-monterrey-20160320.csv,455,Marco Antonio Gonzalez Gomez,42,chiapas,GTM,00:51:07,03:39:18,02:43:20,00:06:22,00:03:33,07:23:40
+ironman-70.3-monterrey-20160320.csv,456,Ramiro De Jesus Gutierrez,49,Zacatecas,MEX,00:39:34,03:03:18,02:08:40,00:07:18,00:03:49,06:02:39
+ironman-70.3-monterrey-20160320.csv,459,Roberto Arellano,38,NL,MEX,00:39:35,---,01:57:06,00:06:47,03:39:43,05:36:49
+ironman-70.3-monterrey-20160320.csv,461,Juan Patricio Alvarez Macias,36,Nuevo Leon,MEX,00:41:12,02:53:05,02:04:29,00:05:38,00:03:26,05:47:50
+ironman-70.3-monterrey-20160320.csv,462,Adan Romero Gutierrez,37,TX,MEX,00:30:24,02:42:09,02:02:48,00:04:21,00:02:16,05:21:58
+ironman-70.3-monterrey-20160320.csv,463,Israel Valdez Garibaldi,38,guadalajara,MEX,00:41:07,02:54:51,02:26:31,00:07:57,00:04:00,06:14:26
+ironman-70.3-monterrey-20160320.csv,464,David Perez,39,Intl State,MEX,00:43:07,02:27:55,01:50:35,00:06:46,00:02:49,05:11:12
+ironman-70.3-monterrey-20160320.csv,465,Benito Lozano,44,Intl State,MEX,00:34:28,02:25:06,01:49:46,00:03:48,00:02:05,04:55:13
+ironman-70.3-monterrey-20160320.csv,466,Gaspar Martinez,51,Coahuila,MEX,00:49:15,03:37:32,02:54:00,00:05:46,00:04:10,07:30:43
+ironman-70.3-monterrey-20160320.csv,467,Luis Mauricio Orozco Gomez,31,Leon Guanajuato,MEX,00:35:16,02:33:36,01:55:44,00:04:04,00:01:47,05:10:27
+ironman-70.3-monterrey-20160320.csv,468,Agustin Cuadra,39,guanajuato,MEX,00:42:14,---,---,00:06:02,---,DNF
+ironman-70.3-monterrey-20160320.csv,470,Ana Diaz,47,TX,USA,01:04:41,04:10:05,---,00:06:44,---,DNF
+ironman-70.3-monterrey-20160320.csv,471,Hugo Gonzalez Lozano,45,NUEVO LEON,MEX,00:37:27,02:59:54,02:31:08,00:07:36,00:03:44,06:19:49
+ironman-70.3-monterrey-20160320.csv,472,Vitor Meira,38,DF,BRA,00:31:45,02:26:30,01:41:53,00:03:58,00:02:12,04:46:18
+ironman-70.3-monterrey-20160320.csv,474,Marianna Andonie,32,Nuevo Leon,MEX,00:38:12,03:11:41,02:05:30,00:04:52,00:02:11,06:02:26
+ironman-70.3-monterrey-20160320.csv,475,Juan Pablo Ruiz,30,CDMX,MEX,00:33:45,03:08:29,02:27:22,00:03:25,00:03:28,06:16:29
+ironman-70.3-monterrey-20160320.csv,477,Sergio Arturo Escobedo Soto,42,San Luis Potosi,MEX,00:41:52,03:03:37,02:33:31,00:07:35,00:03:45,06:30:20
+ironman-70.3-monterrey-20160320.csv,478,Juan Antonio Kuroda Zamora,29,Sinaloa,MEX,00:43:27,03:10:47,02:34:31,00:04:02,00:03:12,06:35:59
+ironman-70.3-monterrey-20160320.csv,479,Rebeca Davila,36,Nuevo leon,MEX,00:42:37,03:04:43,02:22:53,00:06:42,00:03:50,06:20:45
+ironman-70.3-monterrey-20160320.csv,480,Jose Luis Ayala Bueno,35,Intl State,MEX,00:35:46,02:35:55,01:36:03,00:03:23,00:01:27,04:52:34
+ironman-70.3-monterrey-20160320.csv,481,Gonzalo Floreschapa De Echavarri,39,DISTRITO FEDERAL,MEX,00:41:47,02:47:24,01:46:32,00:05:03,00:02:28,05:23:14
+ironman-70.3-monterrey-20160320.csv,482,Ignacio Chavez Villa,31,DF,MEX,00:44:24,03:28:05,02:15:39,00:06:46,00:03:43,06:38:37
+ironman-70.3-monterrey-20160320.csv,483,Rene Cano Monroy,41,Durango,MEX,00:50:25,02:43:48,02:06:54,00:04:25,00:02:43,05:48:15
+ironman-70.3-monterrey-20160320.csv,484,Jorge Torres,40,NL,MEX,00:39:56,03:09:21,02:27:01,00:06:30,00:05:34,06:28:22
+ironman-70.3-monterrey-20160320.csv,486,Gonzalo Parra,35,---,MEX,00:35:36,02:50:59,01:48:42,00:04:33,00:02:58,05:22:48
+ironman-70.3-monterrey-20160320.csv,487,Rodrigo Delgado,30,---,MEX,00:33:00,02:37:46,01:36:30,00:03:30,00:01:54,04:52:40
+ironman-70.3-monterrey-20160320.csv,488,Timberly Erickson,42,TX,USA,00:42:06,02:52:43,02:03:59,00:05:01,00:03:55,05:47:44
+ironman-70.3-monterrey-20160320.csv,489,Kathryn Durkee,40,TX,USA,00:36:38,03:20:23,02:21:06,00:08:17,00:05:28,06:31:52
+ironman-70.3-monterrey-20160320.csv,490,Gustavo Orozco,42,Intl State,MEX,00:49:00,02:45:00,02:05:53,00:10:15,00:03:28,05:53:36
+ironman-70.3-monterrey-20160320.csv,491,Alejandra Cisneros Mercado,41,GUANAJUATO,MEX,00:53:07,03:38:46,02:21:50,00:08:00,00:04:01,07:05:44
+ironman-70.3-monterrey-20160320.csv,492,Ricardo Palacios Pacheco,35,DISTRITO FEDERAL,MEX,00:43:00,02:48:06,02:24:29,00:06:06,00:02:10,06:03:51
+ironman-70.3-monterrey-20160320.csv,494,Inigo Salazar Rivero-Borrell,23,---,MEX,00:34:44,02:59:57,02:25:47,00:03:51,00:02:29,06:06:48
+ironman-70.3-monterrey-20160320.csv,495,Rodolfo Elizondo,28,Nuevo León,MEX,00:36:24,02:48:44,02:14:02,00:02:42,00:02:21,05:44:13
+ironman-70.3-monterrey-20160320.csv,497,Antonio Isaac Escareno Ledezma,31,nuevo leon ,MEX,00:39:22,02:58:56,02:21:28,00:03:58,00:03:22,06:07:06
+ironman-70.3-monterrey-20160320.csv,498,Israel Olvera Lozano,26,Querétaro,MEX,00:32:57,03:10:41,02:16:54,00:06:45,00:03:28,06:10:45
+ironman-70.3-monterrey-20160320.csv,499,Rodrigo Mendoza,38,LEON,MEX,00:33:45,02:52:53,02:08:37,00:05:49,00:02:46,05:43:50
+ironman-70.3-monterrey-20160320.csv,500,Fernando Valdes Lara,44,Guanajuato,MEX,00:38:52,03:19:33,03:06:00,00:05:37,00:04:17,07:14:19
+ironman-70.3-monterrey-20160320.csv,501,Angel Rojas Dominguez,42,Guanajuato,MEX,00:31:44,02:40:05,01:44:31,00:02:39,00:01:57,05:00:56
+ironman-70.3-monterrey-20160320.csv,502,Enrique Rosales Martin Del Campo,52,QUERETARO,MEX,00:52:19,03:23:38,02:37:40,00:06:01,00:04:46,07:04:24
+ironman-70.3-monterrey-20160320.csv,503,Margarita Rodriguez,35,Intl State,MEX,00:35:42,03:16:00,02:21:58,00:05:05,00:03:32,06:22:17
+ironman-70.3-monterrey-20160320.csv,504,Jesus Rivera,38,AL,MEX,00:37:20,02:31:22,01:58:50,00:02:56,00:01:40,05:12:08
+ironman-70.3-monterrey-20160320.csv,505,Pablo Gorozpe,44,DF,MEX,00:29:04,02:31:52,01:53:39,00:02:34,00:01:32,04:58:41
+ironman-70.3-monterrey-20160320.csv,506,Arturo Pando,43,Distrito Federal,MEX,00:30:50,02:35:14,02:04:48,00:02:45,00:02:16,05:15:53
+ironman-70.3-monterrey-20160320.csv,507,Cesar Alberto Cavazos Gonzalez,32,Intl State,MEX,00:35:57,02:46:56,02:25:37,00:04:14,00:03:02,05:55:46
+ironman-70.3-monterrey-20160320.csv,508,Maricela Garza,43,Nuevo León,MEX,00:42:21,03:15:43,02:25:00,00:08:48,00:04:01,06:35:53
+ironman-70.3-monterrey-20160320.csv,509,Yanely Alcocer,33,ES,MEX,00:42:47,03:17:08,02:10:16,00:06:37,00:03:21,06:20:09
+ironman-70.3-monterrey-20160320.csv,510,LUIS GONZALEZ,41,GUANAJUATO,MEX,00:37:06,02:39:35,01:50:05,00:07:09,00:03:22,05:17:17
+ironman-70.3-monterrey-20160320.csv,511,Olga Angelica Llamas Gonzalez,39,GUANAJUATO,MEX,00:45:21,03:04:39,01:59:14,00:04:02,00:03:22,05:56:38
+ironman-70.3-monterrey-20160320.csv,512,Otto David Argueta Andrade,42,ES,MEX,00:50:45,03:29:02,02:42:01,00:09:02,00:05:43,07:16:33
+ironman-70.3-monterrey-20160320.csv,513,Dante Jimenez Barreto,35,Tamaulipas,MEX,00:46:33,03:03:33,02:11:59,00:06:44,00:02:15,06:11:04
+ironman-70.3-monterrey-20160320.csv,514,Salvador Fragoso Diaz,37,Guanajuato,MEX,00:36:56,02:42:22,02:03:15,00:04:11,00:03:41,05:30:25
+ironman-70.3-monterrey-20160320.csv,515,Teofilo Gonzalez,40,guadalupe,MEX,---,---,---,---,---,DQ
+ironman-70.3-monterrey-20160320.csv,516,Manuel Figueroa Irigoyen,35,Juriquilla,MEX,00:35:11,02:35:51,02:00:00,00:04:01,00:04:40,05:19:43
+ironman-70.3-monterrey-20160320.csv,517,Marco Antonio Figueroa Irigoyen,37,QUERETARO,MEX,00:37:43,02:47:31,01:44:58,00:05:05,00:03:34,05:18:51
+ironman-70.3-monterrey-20160320.csv,518,Ruben Hernandez Nunez,39,Nuevo Leo,MEX,00:29:38,02:49:31,01:44:58,00:03:01,00:01:58,05:09:06
+ironman-70.3-monterrey-20160320.csv,519,Rocio Sanchez,32,ES,MEX,00:46:59,03:15:54,01:44:19,00:09:20,00:03:17,05:59:49
+ironman-70.3-monterrey-20160320.csv,520,Claudio Rangel Ojeda,40,Nuevo Leon,MEX,00:45:03,02:50:16,02:27:15,00:06:50,00:05:05,06:14:29
+ironman-70.3-monterrey-20160320.csv,521,Miguel A. Rincon,39,Durango,MEX,00:46:27,03:04:51,02:28:54,00:06:08,00:02:36,06:28:56
+ironman-70.3-monterrey-20160320.csv,522,Susana Cisneros Mercado,38,GUANAJUATO,MEX,00:55:51,---,02:20:03,00:09:34,05:06:40,07:26:43
+ironman-70.3-monterrey-20160320.csv,524,Israel Avila Montanez,40,---,MEX,00:43:48,02:41:34,02:06:15,00:05:24,00:03:47,05:40:48
+ironman-70.3-monterrey-20160320.csv,525,Constancio Loperena,62,TAMAULIUPAS,MEX,00:40:28,03:22:59,02:37:21,00:06:02,00:02:23,06:49:13
+ironman-70.3-monterrey-20160320.csv,526,Isabel Cristina Arzamendi Sosa,47,Tamaulipas,MEX,00:38:02,03:06:33,02:05:01,00:07:36,00:03:23,06:00:35
+ironman-70.3-monterrey-20160320.csv,527,Luis Raul Madrigal Hernandez,45,Nuevo Leon,MEX,00:37:37,---,---,00:05:33,---,DNF
+ironman-70.3-monterrey-20160320.csv,528,Samuel Alejandro Fernandez Fernandez,32,durango,MEX,00:50:10,02:51:35,02:22:27,00:05:12,00:03:29,06:12:53
+ironman-70.3-monterrey-20160320.csv,529,Jesus Perales,32,Nuevo Leon,MEX,00:29:22,02:25:38,01:43:28,00:03:04,00:02:02,04:43:34
+ironman-70.3-monterrey-20160320.csv,530,Carlos Rogelio Calderon Marin,60,nuevo león,MEX,00:43:36,03:24:46,02:25:44,00:05:37,00:03:10,06:42:53
+ironman-70.3-monterrey-20160320.csv,532,Carlos Alberto Moran Rionda,42,guanajuato,MEX,00:44:51,02:51:34,01:45:30,00:04:47,00:02:16,05:28:58
+ironman-70.3-monterrey-20160320.csv,533,Jose Luis Aquino Fernandez,40,MEXICO,MEX,00:36:20,02:57:26,02:23:36,00:05:07,00:06:25,06:08:54
+ironman-70.3-monterrey-20160320.csv,535,Antonio Alberto Ruiz Canales,36,ES,MEX,00:49:16,03:29:01,02:57:11,00:09:28,00:06:02,07:30:58
+ironman-70.3-monterrey-20160320.csv,536,Jose Martinez Brohez,73,Mexico,MEX,00:46:43,03:56:18,03:04:49,00:13:47,00:03:53,DNF
+ironman-70.3-monterrey-20160320.csv,537,Rafael Torres,42,Tamaulipas,MEX,00:38:06,03:06:10,02:42:18,00:05:03,00:03:17,06:34:54
+ironman-70.3-monterrey-20160320.csv,538,Mariana Luna,32,GUANAJUATO,MEX,00:38:37,03:00:07,01:58:56,00:03:03,00:02:14,05:42:57
+ironman-70.3-monterrey-20160320.csv,539,Rodrigo Guillen Moreno,39,leon,MEX,00:35:24,02:43:51,02:02:45,00:03:38,00:02:10,05:27:48
+ironman-70.3-monterrey-20160320.csv,540,Roberto Liceaga Garcia,48,LEON,MEX,00:42:26,03:19:33,02:47:39,00:10:26,00:03:47,07:03:51
+ironman-70.3-monterrey-20160320.csv,541,Jose R Alvarez Tostado Daccarett,35,monterrey,MEX,00:34:54,02:34:20,01:52:51,00:03:48,00:01:55,05:07:48
+ironman-70.3-monterrey-20160320.csv,542,Olga Nidia Rodriguez De Los Reyes,36,victoria,MEX,00:55:29,04:02:10,02:16:38,00:06:25,00:02:29,07:23:11
+ironman-70.3-monterrey-20160320.csv,543,Alexandro Espinosa,41,Tamaulipas,MEX,00:34:42,02:30:14,01:40:08,00:04:43,00:01:34,04:51:21
+ironman-70.3-monterrey-20160320.csv,545,Andrea Padilla Llaguno,30,Leòn,MEX,00:45:21,03:48:28,03:01:37,00:06:50,00:04:29,07:46:45
+ironman-70.3-monterrey-20160320.csv,547,Rodrigo De La Pena,38,Los cabos,MEX,00:33:03,02:44:36,01:54:00,00:04:38,00:03:43,05:20:00
+ironman-70.3-monterrey-20160320.csv,548,Victor Olvera,36,Puebla,MEX,00:29:01,02:59:51,01:46:09,00:03:13,00:02:33,05:20:47
+ironman-70.3-monterrey-20160320.csv,550,Carlos Mayer,37,---,MEX,00:35:57,02:46:50,01:40:03,00:04:48,00:02:07,05:09:45
+ironman-70.3-monterrey-20160320.csv,551,Daniel Villagrana,18,LEÓN,MEX,00:48:42,03:04:20,01:50:23,00:04:45,00:03:42,05:51:52
+ironman-70.3-monterrey-20160320.csv,552,Eduardo Saucedo,40,León,MEX,00:49:27,03:10:50,02:10:27,00:05:43,00:05:04,06:21:31
+ironman-70.3-monterrey-20160320.csv,553,Jose Jesus Hernandez Lamas,38,León,MEX,00:43:49,03:00:59,02:12:18,00:06:49,00:03:19,06:07:14
+ironman-70.3-monterrey-20160320.csv,554,Jose Maria Hernandez Gomez,41,---,MEX,00:31:57,02:39:12,01:57:43,00:02:20,00:01:57,05:13:09
+ironman-70.3-monterrey-20160320.csv,555,Marco Ortiz,46,Jalisco,MEX,00:29:01,02:41:56,02:09:39,00:03:21,00:02:13,05:26:10
+ironman-70.3-monterrey-20160320.csv,556,Rafael Jaime Jaramillo,27,Intl State,MEX,00:54:38,02:42:06,02:35:10,00:05:50,00:04:31,06:22:15
+ironman-70.3-monterrey-20160320.csv,557,Jose Alberto Armenta Lozano,48,APO,MEX,00:40:32,03:00:38,02:30:16,00:04:51,00:05:33,06:21:50
+ironman-70.3-monterrey-20160320.csv,558,Oscar Massa Santos,38,Nuevo Leon,MEX,00:34:11,03:10:42,02:50:44,00:17:08,00:07:38,07:00:23
+ironman-70.3-monterrey-20160320.csv,559,Manuel Chavez Dauajare,39,San Luis Potosi,MEX,00:42:19,02:56:55,02:04:36,00:08:21,00:03:31,05:55:42
+ironman-70.3-monterrey-20160320.csv,560,Mateo Mazal,38,Intl State,MEX,---,---,---,---,---,DNS
+ironman-70.3-monterrey-20160320.csv,561,Salome Ortega Luna,48,Guanajuato,MEX,01:12:39,04:09:29,---,00:06:59,---,DNF
+ironman-70.3-monterrey-20160320.csv,562,Ivan Fajardo,36,DF,MEX,00:48:11,03:04:21,02:37:35,00:07:04,00:03:53,06:41:04
+ironman-70.3-monterrey-20160320.csv,563,John Mozena,59,OR,USA,00:32:18,02:42:18,01:50:55,00:04:14,00:02:18,05:12:03
+ironman-70.3-monterrey-20160320.csv,564,Armando Humberto Castro Rosas,47,Guanajuato,MEX,00:53:11,03:54:31,02:38:11,00:02:39,00:03:09,07:31:41
+ironman-70.3-monterrey-20160320.csv,565,Ricardo Leon,45,Intl State,MEX,00:33:27,02:57:38,02:24:26,00:03:24,00:04:21,06:03:16
+ironman-70.3-monterrey-20160320.csv,566,David Fernandez Hernandez,52,GUANAJUATO,MEX,01:10:43,03:24:48,02:11:36,00:09:19,00:04:38,07:01:04
+ironman-70.3-monterrey-20160320.csv,567,German Hernandez Martinez,27,Mex,MEX,00:48:28,03:25:47,02:21:26,00:05:18,00:02:08,06:43:07
+ironman-70.3-monterrey-20160320.csv,568,Maria Guerrero,38,TX,ECU,00:36:19,02:37:36,01:40:44,00:02:47,00:01:37,04:59:03
+ironman-70.3-monterrey-20160320.csv,569,Fatima Fernandez,44,Guanajuato,MEX,00:37:46,02:41:07,01:43:02,00:03:36,00:01:55,05:07:26
+ironman-70.3-monterrey-20160320.csv,570,Natalia Lopez Mazadiego,41,Aguascalientes,MEX,00:41:48,03:19:15,02:46:28,00:04:30,00:03:21,06:55:22
+ironman-70.3-monterrey-20160320.csv,571,Juan Alvarez,41,gto,MEX,00:55:21,02:56:29,02:14:32,00:05:45,00:03:20,06:15:27
+ironman-70.3-monterrey-20160320.csv,572,Jose Barba,47,Aguascalientes,MEX,00:42:57,02:56:28,02:11:39,00:03:00,00:03:07,05:57:11
+ironman-70.3-monterrey-20160320.csv,573,Karla Diaz Garcia,43,aguascalientes,MEX,00:49:38,03:30:08,02:11:03,00:06:03,00:04:14,06:41:06
+ironman-70.3-monterrey-20160320.csv,574,Raul Gonzalez,50,AGUASCALIENTES,MEX,00:47:08,03:08:21,02:27:37,00:07:08,00:04:12,06:34:26
+ironman-70.3-monterrey-20160320.csv,575,Omar Fernandez Manzano,26,GUANAJUATO,MEX,00:47:13,03:05:22,01:48:10,00:04:22,00:02:13,05:47:20
+ironman-70.3-monterrey-20160320.csv,576,Luis Fernando Fragoso Montenegro,26,Nuevo León,MEX,00:34:20,02:58:56,02:00:25,00:07:06,00:02:17,05:43:04
+ironman-70.3-monterrey-20160320.csv,577,Jorge Luis Fragoso Garcia,58,NUEVO LEON,MEX,00:40:37,02:54:30,02:08:20,00:05:25,00:02:26,05:51:18
+ironman-70.3-monterrey-20160320.csv,578,Pavel Eduardo Tanasescu Catano,41,DISTRITO FEDERAL,MEX,00:35:54,02:34:11,01:49:54,00:02:49,00:01:40,05:04:28
+ironman-70.3-monterrey-20160320.csv,579,Francisco Montalvo,44,Distrito Federal,MEX,00:39:25,02:59:40,02:04:23,00:04:28,00:03:20,05:51:16
+ironman-70.3-monterrey-20160320.csv,580,Erick Samuel Rodriguez Munoz,38,León,MEX,00:41:41,02:57:25,02:11:10,00:06:47,00:04:49,06:01:52
+ironman-70.3-monterrey-20160320.csv,581,Alejandro Mena,48,GTO,MEX,00:33:49,02:55:57,02:18:55,00:06:05,00:03:19,05:58:05
+ironman-70.3-monterrey-20160320.csv,583,Mauricio Gonzalez Gonzalez,49,Nuevo Leon,MEX,00:37:42,02:34:33,02:07:38,00:04:23,00:02:21,05:26:37
+ironman-70.3-monterrey-20160320.csv,584,Lorena Ortiz,46,TX,MEX,00:42:34,03:13:10,02:12:12,00:04:54,00:02:23,06:15:13
+ironman-70.3-monterrey-20160320.csv,587,Alejandro Jasso Isla,24,Nuevo León,MEX,00:36:58,03:08:35,02:24:48,00:07:35,00:03:57,06:21:53
+ironman-70.3-monterrey-20160320.csv,588,Sergio Felix,33,Jalisco,MEX,00:46:49,02:54:24,02:01:17,00:06:47,00:03:42,05:52:59
+ironman-70.3-monterrey-20160320.csv,589,Erick Martinez,29,DISTRITO FEDERAL,MEX,00:43:39,03:12:21,02:24:50,00:05:18,00:02:37,06:28:45
+ironman-70.3-monterrey-20160320.csv,590,Marisol Guadalupe Martinez Trevino,36,NUEVO LEON,MEX,00:43:26,03:03:46,01:48:25,00:08:25,00:02:38,05:46:40
+ironman-70.3-monterrey-20160320.csv,591,Eduardo Flores Dip,38,SAN LUÍS POTOSÍ,MEX,00:39:39,02:30:49,01:37:36,00:04:00,00:01:39,04:53:43
+ironman-70.3-monterrey-20160320.csv,593,Sergio Faz,34,TX,MEX,00:43:59,03:04:01,02:36:53,00:05:36,00:03:16,06:33:45
+ironman-70.3-monterrey-20160320.csv,594,Erendira Manzano Ortega,51,GUANAJUATO,MEX,01:03:03,---,02:39:24,---,03:27:47,06:07:11
+ironman-70.3-monterrey-20160320.csv,595,Miguel Angel Garcia Rodriguez,48,Coahuila,MEX,00:37:28,03:02:31,02:18:11,00:04:42,00:02:58,06:05:50
+ironman-70.3-monterrey-20160320.csv,596,Alfonso Ramos,36,TX,MEX,00:39:09,03:12:46,02:15:27,00:09:21,00:04:32,06:21:15
+ironman-70.3-monterrey-20160320.csv,598,Jorge Garcia Carrera,33,Chihuahua,MEX,00:43:03,03:32:39,02:18:07,00:07:03,00:03:47,06:44:39
+ironman-70.3-monterrey-20160320.csv,599,Ricardo Espinoza,46,Guanajuato,MEX,00:32:57,03:32:33,02:42:06,00:05:16,00:03:36,06:56:28
+ironman-70.3-monterrey-20160320.csv,600,Oskar Leon Garcia,32,Lima,ESP,00:32:28,02:39:09,01:29:03,00:03:54,00:01:55,04:46:29
+ironman-70.3-monterrey-20160320.csv,601,Viviana Sandoval Garcia,33,Intl State,MEX,00:50:33,03:16:34,02:11:56,00:06:44,00:04:41,06:30:28
+ironman-70.3-monterrey-20160320.csv,602,Maria Elena Berriel Gonzalez,60,Guanajuato,MEX,00:43:18,03:03:30,02:12:11,00:05:27,00:02:39,06:07:05
+ironman-70.3-monterrey-20160320.csv,604,Marco Lopez Delgado,31,Chihuahua,MEX,00:45:16,03:33:15,02:11:55,00:07:45,00:02:48,06:40:59
+ironman-70.3-monterrey-20160320.csv,605,Francisco Ulises Estrada Ontiveros,34,Guanajuato,MEX,00:40:40,03:05:32,01:52:29,00:05:05,00:03:44,05:47:30
+ironman-70.3-monterrey-20160320.csv,606,Claudia Zaragoza,32,AZ,MEX,00:31:16,02:46:18,01:59:22,00:02:15,00:01:45,05:20:56
+ironman-70.3-monterrey-20160320.csv,607,Pablo Gerber Campos,36,Zapopan,MEX,00:33:21,02:35:51,01:37:46,00:02:41,00:01:57,04:51:36
+ironman-70.3-monterrey-20160320.csv,609,Juan Antelmo Cavazos Gallegos,37,---,MEX,00:37:24,03:01:47,02:25:46,00:05:38,00:02:35,06:13:10
+ironman-70.3-monterrey-20160320.csv,610,Luis Alfonso Larios Aguilar,27,DGO,MEX,00:57:34,03:47:25,02:43:46,00:03:03,00:03:27,07:35:15
+ironman-70.3-monterrey-20160320.csv,613,Rodrigo Rojas Barquero,34,Alajuela,CRI,00:34:02,02:43:20,01:58:21,00:03:49,00:02:55,05:22:27
+ironman-70.3-monterrey-20160320.csv,614,Armando Lestrade,43,Puebla,MEX,00:41:39,02:53:42,02:07:40,00:07:26,00:03:27,05:53:54
+ironman-70.3-monterrey-20160320.csv,615,Alejandra Borrego,40,Jalisco,MEX,00:33:51,02:50:41,01:53:15,00:03:12,00:03:48,05:24:47
+ironman-70.3-monterrey-20160320.csv,617,Jose Antonio Gris Fraga,53,Tuxtla gutierrez,MEX,00:30:13,02:55:14,01:52:49,00:06:14,00:04:31,05:29:01
+ironman-70.3-monterrey-20160320.csv,618,Juan Manuel Madrid Andrade,31,Coyoacan,MEX,00:54:33,03:05:14,02:06:36,00:03:54,00:02:30,06:12:47
+ironman-70.3-monterrey-20160320.csv,620,Guillermo Murra Giacoman,47,COAHUILA,MEX,00:59:41,04:13:00,---,00:08:18,---,DNF
+ironman-70.3-monterrey-20160320.csv,621,Carlos Espinosa,44,Victoria,MEX,00:45:23,03:18:39,02:45:34,00:07:23,00:03:29,07:00:28
+ironman-70.3-monterrey-20160320.csv,622,Guillermo Putz Escudero,29,TX,MEX,00:40:12,02:59:39,02:34:44,00:06:33,00:03:37,06:24:45
+ironman-70.3-monterrey-20160320.csv,623,Luis Fernando Maya Benavides,46,Intl State,ECU,00:45:26,03:02:57,01:59:45,00:06:39,00:04:27,05:59:14
+ironman-70.3-monterrey-20160320.csv,624,Napo Cadena,31,CARCHI,ECU,00:56:22,03:16:17,02:36:59,00:05:47,00:04:45,07:00:10
+ironman-70.3-monterrey-20160320.csv,625,Daniel Martinez,42,DF,MEX,00:42:46,03:08:23,02:29:53,00:04:48,00:02:26,06:28:16
+ironman-70.3-monterrey-20160320.csv,626,Fernando Tamez,41,TX,MEX,00:34:35,02:40:31,02:12:26,00:04:31,00:02:54,05:34:57
+ironman-70.3-monterrey-20160320.csv,627,Jose Luis Leal Cruz,31,san pedro garza garcia,MEX,00:33:02,02:41:05,02:10:20,00:05:02,00:03:22,05:32:51
+ironman-70.3-monterrey-20160320.csv,628,Marcelo Berlanga,24,NL,MEX,00:42:52,03:40:33,02:22:28,00:06:22,00:03:44,06:55:59
+ironman-70.3-monterrey-20160320.csv,630,Alejandro Torres Luna,41,Puebla,MEX,00:35:42,02:39:26,01:58:27,00:03:04,00:03:10,05:19:49
+ironman-70.3-monterrey-20160320.csv,631,Blanca Lilia Royval Chavarria,44,Puebla,MEX,---,---,---,---,---,DQ
+ironman-70.3-monterrey-20160320.csv,632,Aldo Mares Benavides,41,JALISCO,MEX,00:31:46,02:44:54,01:55:42,00:04:16,00:02:16,05:18:54
+ironman-70.3-monterrey-20160320.csv,633,Angeles Parra,26,---,MEX,00:36:00,03:06:24,02:15:48,00:04:54,00:02:10,06:05:16
+ironman-70.3-monterrey-20160320.csv,634,Nadia Edith Duran Garcia,30,Estado de México,MEX,00:49:18,03:12:17,01:58:14,00:06:18,00:03:07,06:09:14
+ironman-70.3-monterrey-20160320.csv,635,Ivan Zavalza,28,Jalisco,MEX,00:30:33,02:34:05,01:39:25,00:02:47,00:01:54,04:48:44
+ironman-70.3-monterrey-20160320.csv,636,Luis Sanchez,41,COAHUILA,MEX,00:27:38,02:51:46,02:07:27,00:03:16,00:02:23,05:32:30
+ironman-70.3-monterrey-20160320.csv,637,Chris Owens,47,OH,USA,00:46:43,03:31:16,03:07:27,00:06:43,00:05:56,07:38:05
+ironman-70.3-monterrey-20160320.csv,638,Oscar Manuel Gomez Guerra,45,CIUDAD VICTORIA,MEX,00:33:33,02:58:45,02:05:01,00:07:43,00:04:00,05:49:02
+ironman-70.3-monterrey-20160320.csv,639,Jesus Bermudez,43,Intl State,MEX,00:40:02,03:00:09,---,00:06:47,---,DNF
+ironman-70.3-monterrey-20160320.csv,640,Cinthya Guadalupe Corral Cabrera,43,---,MEX,00:48:46,03:08:41,02:01:57,00:06:27,00:03:17,06:09:08
+ironman-70.3-monterrey-20160320.csv,642,Jose Baez Cortez,39,---,MEX,00:37:44,02:56:23,01:51:03,00:06:53,00:02:49,05:34:52
+ironman-70.3-monterrey-20160320.csv,643,Liliana Arrazola,45,Distrito Federal,MEX,00:53:55,03:47:40,02:09:54,00:06:29,00:04:03,07:02:01
+ironman-70.3-monterrey-20160320.csv,644,Jesus Zanatta Reyes,25,Puebla,MEX,00:41:22,03:06:51,02:01:38,00:05:58,00:02:33,05:58:22
+ironman-70.3-monterrey-20160320.csv,645,Amber High,39,TX,USA,00:39:34,02:57:04,01:53:15,00:04:50,00:02:53,05:37:36
+ironman-70.3-monterrey-20160320.csv,646,Jose Loyola,44,DF,MEX,---,---,---,---,---,DQ
+ironman-70.3-monterrey-20160320.csv,647,Roberto Ojeda Lobato,47,PUEBLA,MEX,00:57:10,03:44:55,02:07:05,00:06:39,00:03:29,06:59:18
+ironman-70.3-monterrey-20160320.csv,649,Julian Rowe,53,NM,USA,00:46:59,03:12:02,02:24:39,00:06:42,00:05:14,06:35:36
+ironman-70.3-monterrey-20160320.csv,651,Manuel Moya,25,TX,MEX,00:33:01,02:56:45,01:54:03,00:03:45,00:02:45,05:30:19
+ironman-70.3-monterrey-20160320.csv,653,Maria Teresa Campos Mendez,40,ES,MEX,00:45:44,03:29:43,02:43:49,00:06:57,00:05:21,07:11:34
+ironman-70.3-monterrey-20160320.csv,654,Arturo Huicochea Alanis,46,ESTADO DE MEXICO,MEX,00:37:11,02:33:21,01:57:55,00:04:31,00:02:13,05:15:11
+ironman-70.3-monterrey-20160320.csv,655,Rodrigo Flores Ochoa,40,Durango,MEX,00:38:16,03:00:11,01:58:43,00:11:52,00:05:45,05:54:47
+ironman-70.3-monterrey-20160320.csv,656,Jose Antonio Bojorquez Pereznieto,40,Tabasco,MEX,00:44:17,03:34:40,02:29:02,00:09:16,00:03:31,07:00:46
+ironman-70.3-monterrey-20160320.csv,657,Wendy Delgado Cano,31,APO,MEX,00:38:26,03:20:36,02:28:34,00:08:16,00:04:42,06:40:34
+ironman-70.3-monterrey-20160320.csv,659,Demian Olvera,32,Veracruz,MEX,00:32:40,02:29:53,01:39:57,00:03:16,00:01:45,04:47:31
+ironman-70.3-monterrey-20160320.csv,660,Minerva Cervantes Ponce,22,DISTRITO FEDERAL,MEX,00:27:44,05:05:36,---,00:02:14,---,DNF
+ironman-70.3-monterrey-20160320.csv,661,Guillermo Alberto Payan Parra,41,torreon,MEX,00:33:02,03:14:46,02:24:13,00:05:05,00:03:58,06:21:04
+ironman-70.3-monterrey-20160320.csv,662,Regina Ojeda,32,Mexico,MEX,00:43:43,03:21:04,02:47:58,00:07:32,00:03:04,07:03:21
+ironman-70.3-monterrey-20160320.csv,663,David Ysunza,39,Mexico,MEX,00:35:24,02:57:13,02:18:15,00:08:37,00:03:17,06:02:46
+ironman-70.3-monterrey-20160320.csv,664,Jaime Martinez,47,Intl State,MEX,00:38:11,03:01:54,02:18:31,00:05:43,00:04:32,06:08:51
+ironman-70.3-monterrey-20160320.csv,665,Carlos Villarreal,39,Mexico df,MEX,---,---,---,---,---,DNS
+ironman-70.3-monterrey-20160320.csv,666,Pamela Alejandra Avila Carbajal,34,mexico,MEX,00:38:43,02:58:52,02:00:44,00:07:38,00:04:02,05:49:59
+ironman-70.3-monterrey-20160320.csv,667,Javier Torres,23,NL,MEX,00:28:22,03:14:42,02:44:55,00:07:23,00:04:56,06:40:18
+ironman-70.3-monterrey-20160320.csv,668,Marco Antonio Damian Carbajal,34,D.F.,MEX,00:48:40,03:09:10,02:07:03,00:10:08,00:04:34,06:19:35
+ironman-70.3-monterrey-20160320.csv,669,Armando Garrido Camelo,53,NL,MEX,00:37:23,03:00:13,---,00:06:20,00:03:40,DNF
+ironman-70.3-monterrey-20160320.csv,670,Genaro García Zarza,29,ESTADO DE MEXICO,MEX,00:39:16,02:55:27,02:12:57,00:05:05,00:02:40,05:55:25
+ironman-70.3-monterrey-20160320.csv,671,Miguel Salinas Perez,49,df,MEX,00:50:35,03:27:19,02:29:35,00:10:58,00:05:43,07:04:10
+ironman-70.3-monterrey-20160320.csv,672,Jose Guillermo Carrillo Tamayo,27,Estado de Mexico,MEX,00:33:35,03:21:40,02:14:35,00:05:50,00:03:51,06:19:31
+ironman-70.3-monterrey-20160320.csv,673,Francisco Alberto Garcia Ramirez,39,HIDALGO,MEX,00:47:58,02:54:11,02:08:43,00:07:17,00:05:00,06:03:09
+ironman-70.3-monterrey-20160320.csv,675,Alejandra De Leon,41,MOnterrey,MEX,00:39:21,02:59:41,02:00:32,00:06:24,00:02:23,05:48:21
+ironman-70.3-monterrey-20160320.csv,676,Virginia Magana Fonseca,40,CA,MEX,00:44:22,03:07:35,02:11:38,00:07:21,00:04:33,06:15:29
+ironman-70.3-monterrey-20160320.csv,677,Miguel Alvarado Rodriguez,58,zacatecas,MEX,00:38:08,02:40:14,02:05:31,00:04:07,00:01:59,05:29:59
+ironman-70.3-monterrey-20160320.csv,678,Fernanda Acosta,26,ES,MEX,00:35:42,02:54:47,01:55:57,00:06:31,00:02:06,05:35:03
+ironman-70.3-monterrey-20160320.csv,679,Christopher Antrim,32,TX,USA,00:36:35,02:53:34,02:03:27,00:04:39,00:03:57,05:42:12
+ironman-70.3-monterrey-20160320.csv,680,Herminio Reyes,33,TX,USA,00:49:26,03:02:34,02:11:01,00:05:25,00:03:36,06:12:02
+ironman-70.3-monterrey-20160320.csv,681,Monica Calva Moguel,40,DF,MEX,00:42:47,03:29:00,02:53:03,00:10:37,00:07:42,07:23:09
+ironman-70.3-monterrey-20160320.csv,682,Dante Garza,37,Nuevo León,MEX,00:37:42,02:52:10,02:12:35,00:04:17,00:02:11,05:48:55
+ironman-70.3-monterrey-20160320.csv,683,Rodrigo Farias,35,Intl State,MEX,00:40:15,03:29:51,02:13:08,00:05:14,00:04:47,06:33:15
+ironman-70.3-monterrey-20160320.csv,684,Osbaldo Hernandez Villegas,32,NUEVO LEON,MEX,00:42:06,03:19:46,02:10:05,00:04:43,00:03:07,06:19:47
+ironman-70.3-monterrey-20160320.csv,685,Jose Rivera	fonseca,49,df,MEX,00:34:19,02:53:46,01:46:55,00:04:34,00:03:00,05:22:34
+ironman-70.3-monterrey-20160320.csv,686,Andres Valerio Gutierrez,23,Jalisco,MEX,00:25:02,02:22:29,01:26:29,00:02:18,00:01:40,04:17:58
+ironman-70.3-monterrey-20160320.csv,687,Ana Karla Reynoso Hernandez,38,Estado de México,MEX,00:39:21,03:18:12,02:00:31,00:03:48,00:02:32,06:04:24
+ironman-70.3-monterrey-20160320.csv,688,Carlos Cobb,49,DF,MEX,00:36:27,02:48:27,01:54:44,00:04:55,00:02:42,05:27:15
+ironman-70.3-monterrey-20160320.csv,690,Edgar Ivan Avila Avilesº,37,EDO MEX,MEX,00:43:51,03:07:18,02:35:14,00:07:52,00:04:24,06:38:39
+ironman-70.3-monterrey-20160320.csv,691,Kyle Watson,42,CA,USA,00:35:32,02:46:01,02:07:44,00:05:53,00:04:32,05:39:42
+ironman-70.3-monterrey-20160320.csv,692,Emilio Brun,21,Colima,MEX,00:35:39,02:43:37,01:49:50,00:03:31,00:01:51,05:14:28
+ironman-70.3-monterrey-20160320.csv,693,Edurne Gonzalez,50,colima,MEX,00:42:34,03:44:50,02:37:26,00:07:25,00:04:13,07:16:28
+ironman-70.3-monterrey-20160320.csv,694,Inigo Gonzalez Menendez,29,Jalisco,MEX,00:50:19,---,02:00:59,00:08:34,02:59:14,DNF
+ironman-70.3-monterrey-20160320.csv,696,Fabrice Serfati,44,nuevo leon,MEX,00:40:00,03:09:37,02:19:06,00:03:00,00:02:12,06:13:55
+ironman-70.3-monterrey-20160320.csv,697,Martha Laura Tamez Villarreal,50,nuevo leon,MEX,00:48:47,03:47:00,02:38:03,00:11:05,00:05:09,07:30:04
+ironman-70.3-monterrey-20160320.csv,698,Paulina Munoz,36,TX,USA,00:49:59,03:39:43,02:22:56,00:10:20,00:07:25,07:10:23
+ironman-70.3-monterrey-20160320.csv,699,Patricia Lopez Uriarte,41,Puebla,MEX,00:45:34,03:09:16,02:06:19,00:04:00,00:02:08,06:07:17
+ironman-70.3-monterrey-20160320.csv,700,Jose Munoz,38,TX,USA,00:47:56,03:11:10,02:44:43,00:06:17,00:05:09,06:55:15
+ironman-70.3-monterrey-20160320.csv,702,Mario Mejia,30,San Andres Cholula,MEX,00:36:37,02:48:04,01:55:16,00:04:42,00:02:21,05:27:00
+ironman-70.3-monterrey-20160320.csv,703,Mario Marcos,39,Cortes,HND,00:52:24,03:06:09,02:21:54,00:06:15,00:03:39,06:30:21
+ironman-70.3-monterrey-20160320.csv,704,Maritza Rojas,38,FL,HND,00:30:07,03:11:58,02:00:37,00:04:48,00:03:27,05:50:57

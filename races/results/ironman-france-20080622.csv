@@ -1,0 +1,915 @@
+#File=ironman-france-20080622.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-france-20080622.csv,1,Marcel Zamora Perez,30,Intl State,ESP,00:50:09,04:54:01,02:45:21,00:02:33,00:02:14,08:34:18
+ironman-france-20080622.csv,2,Herve Faure,31,---,FRA,00:50:37,04:53:23,02:52:29,00:02:44,00:02:42,08:41:55
+ironman-france-20080622.csv,3,Patrick Bringer,---,---,FRA,00:50:17,04:53:54,02:56:19,00:02:31,00:02:14,08:45:15
+ironman-france-20080622.csv,4,Julien Loy,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,5,Rutger Beke,30,---,BEL,00:52:43,04:51:10,03:06:09,00:02:52,00:02:17,08:55:11
+ironman-france-20080622.csv,6,Xavier Le Floch,35,---,FRA,00:50:12,05:01:35,03:15:32,00:02:53,00:02:37,09:12:49
+ironman-france-20080622.csv,7,Bruno Clerbout,31,---,BEL,00:51:12,05:12:31,03:13:32,00:03:03,00:02:34,09:22:52
+ironman-france-20080622.csv,8,Marcus Vinicius Ornellas,37,---,BRA,00:50:11,05:04:40,04:17:05,00:02:48,00:04:18,10:19:02
+ironman-france-20080622.csv,9,Jozsef Major,29,AZ,HUN,00:59:03,04:55:46,02:56:45,00:03:49,00:02:22,08:57:45
+ironman-france-20080622.csv,10,Mike Aigroz,---,---,CHE,00:50:02,04:44:26,03:16:54,00:02:44,00:02:37,08:56:43
+ironman-france-20080622.csv,11,Kai Hundertmarck,39,---,DEU,---,---,---,---,---,DNS
+ironman-france-20080622.csv,12,Alessandro Alessandri,38,---,ITA,01:03:02,---,---,00:04:14,---,DNF
+ironman-france-20080622.csv,13,Daniel Niederreiter,29,---,AUT,00:50:31,---,---,00:03:01,---,DNF
+ironman-france-20080622.csv,14,Cyrille Neveu,---,---,FRA,00:57:06,05:41:50,04:44:02,00:04:36,00:06:23,11:33:57
+ironman-france-20080622.csv,15,Chip Van Halen Slater,---,---,AUS,---,---,---,---,---,DNS
+ironman-france-20080622.csv,16,Ruben Santervas Nuñez,21,ES,ESP,---,---,---,---,---,DNS
+ironman-france-20080622.csv,17,Laurent Jalabert,39,---,FRA,01:06:50,04:45:29,03:13:36,00:05:22,00:03:17,09:14:34
+ironman-france-20080622.csv,18,Jose Jeuland,26,Intl State,FRA,00:53:52,04:52:51,03:01:06,00:02:52,00:02:53,08:53:34
+ironman-france-20080622.csv,19,Renaud Cadiere,29,---,FRA,00:50:17,05:30:16,03:46:08,00:03:05,00:04:26,10:14:12
+ironman-france-20080622.csv,20,Hunt Barada,21,CT,USA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,21,Xavier Boineau,---,---,FRA,01:01:28,05:07:33,---,00:04:46,00:03:09,DNF
+ironman-france-20080622.csv,23,Guido Esposito,37,lucca,ITA,00:55:02,05:25:29,04:20:46,00:04:41,00:04:51,10:50:49
+ironman-france-20080622.csv,24,Chris Fischer,---,JYLL,DNK,00:55:49,05:04:47,03:31:35,00:04:09,00:03:03,09:39:23
+ironman-france-20080622.csv,26,Esteban Estrada,36,Intl State,MEX,00:54:28,05:46:26,03:40:26,00:03:21,00:05:35,10:30:16
+ironman-france-20080622.csv,27,Gergely Nagy,26,---,HUN,00:51:25,05:20:05,---,00:03:14,00:03:19,DNF
+ironman-france-20080622.csv,30,Benjamin Pernet,27,---,FRA,00:50:06,05:03:37,---,00:03:01,00:03:12,DNF
+ironman-france-20080622.csv,31,Jorge Rakos,---,---,ARG,00:50:44,05:18:42,03:10:45,00:04:38,00:06:41,09:31:30
+ironman-france-20080622.csv,32,Joshua Rohlman,---,---,USA,01:19:39,---,---,00:06:46,---,DNF
+ironman-france-20080622.csv,33,Christian Schwengers,---,---,DEU,00:53:47,05:21:26,---,00:03:16,00:07:56,DNF
+ironman-france-20080622.csv,34,Massimo Torsani,---,---,ITA,01:05:13,05:13:18,03:05:58,00:06:50,00:03:45,09:35:04
+ironman-france-20080622.csv,35,Diego Ranghetti,---,---,ITA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,40,Alexandra Louison,25,---,FRA,00:59:32,05:30:16,03:27:46,00:03:18,00:02:54,10:03:46
+ironman-france-20080622.csv,41,Rebecca Preston,28,QLD,AUS,00:58:28,06:03:08,---,00:03:53,---,DNF
+ironman-france-20080622.csv,42,Katja Schumacher,40,---,DEU,00:58:23,05:30:13,03:25:34,00:03:14,00:03:35,10:00:59
+ironman-france-20080622.csv,43,Martina Dogana,29,Intl State,ITA,00:57:26,05:24:15,03:07:32,00:03:15,00:03:01,09:35:29
+ironman-france-20080622.csv,44,Audrey Cleau,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,45,Ulrike Schwalbe,29,---,DEU,01:10:24,05:24:53,03:33:12,00:04:52,00:02:56,10:16:17
+ironman-france-20080622.csv,46,Katya Meyers,27,CA,USA,01:08:35,05:31:58,03:40:40,00:03:40,00:03:13,10:28:06
+ironman-france-20080622.csv,47,Nicole Klingler,28,---,LIE,---,---,---,---,---,DNS
+ironman-france-20080622.csv,48,Esther De Vries,---,Groningen,NLD,---,---,---,---,---,DNS
+ironman-france-20080622.csv,49,Anne Fallows,30,---,GBR,01:06:01,06:10:43,04:33:43,00:03:38,00:08:51,12:02:56
+ironman-france-20080622.csv,50,Françoise Wellekens,43,---,BEL,01:03:21,05:20:46,04:20:02,00:04:00,00:06:17,10:54:26
+ironman-france-20080622.csv,51,Yvette Grice,---,---,GBR,00:54:36,06:19:39,03:27:49,00:03:22,00:03:42,10:49:08
+ironman-france-20080622.csv,52,Catherine Houseaux,43,---,FRA,01:07:58,05:39:28,03:50:24,00:04:57,00:05:04,10:47:51
+ironman-france-20080622.csv,53,Aline Choretier,38,---,FRA,01:10:12,05:46:46,03:33:41,00:04:00,00:03:25,10:38:04
+ironman-france-20080622.csv,54,Monika Stadlmann,30,---,AUT,00:55:07,05:48:04,03:44:49,00:03:50,00:04:23,10:36:13
+ironman-france-20080622.csv,55,Laurence Vandermesse De Jaeghere,---,---,FRA,00:53:12,---,---,00:03:08,---,DNF
+ironman-france-20080622.csv,56,Miriam Moser,---,---,CHE,00:53:09,05:49:35,---,00:03:18,00:05:30,DNF
+ironman-france-20080622.csv,60,Vinnie Duncan,46,NZ,NZL,01:15:56,07:12:35,04:45:31,00:09:17,00:09:51,13:33:10
+ironman-france-20080622.csv,61,Luis Alvarez,46,Tlalpan,MEX,01:10:16,06:24:13,04:42:19,00:06:56,00:05:52,12:29:36
+ironman-france-20080622.csv,62,Stefan Fischer,44,---,DEU,01:07:46,05:50:27,04:49:47,00:05:06,00:06:36,11:59:42
+ironman-france-20080622.csv,63,Preston Miller,62,AZ,---,01:29:49,07:08:02,05:01:54,00:09:33,00:10:49,14:00:07
+ironman-france-20080622.csv,64,Andrew Duncan,54,NZ,NZL,01:10:13,07:01:08,05:57:19,00:07:39,00:10:03,14:26:22
+ironman-france-20080622.csv,65,James Turley,41,Surrey,GBR,01:12:21,06:54:25,04:45:12,00:08:59,00:12:38,13:13:35
+ironman-france-20080622.csv,66,Paolo Ceci,42,---,ITA,01:15:51,06:01:25,05:27:53,00:08:04,00:05:08,12:58:21
+ironman-france-20080622.csv,67,Murphy Cathal,---,---,IRL,01:14:00,07:17:07,05:40:12,00:11:14,00:09:58,14:32:31
+ironman-france-20080622.csv,100,Sonia Regoyos Ruiz,---,---,---,01:14:19,06:15:03,04:38:36,00:07:44,00:08:21,12:24:03
+ironman-france-20080622.csv,101,Luz Ma Montiel,48,Intl State,MEX,---,---,---,---,---,DNS
+ironman-france-20080622.csv,102,Brigitte Baxter,---,---,GBR,---,---,---,---,---,DNS
+ironman-france-20080622.csv,103,Marit Berg,23,---,NOR,01:07:40,06:14:06,04:16:26,00:06:29,00:07:12,11:51:53
+ironman-france-20080622.csv,104,Alexis Baird,24,CA,USA,01:19:29,07:35:01,04:39:12,00:10:59,00:07:53,13:52:34
+ironman-france-20080622.csv,105,Danielle Russell,24,CO,USA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,106,Kathryn Lester,25,---,NZL,01:05:34,06:32:08,03:54:16,00:08:30,00:06:27,11:46:55
+ironman-france-20080622.csv,107,Joyce Muhlschlegel,---,---,IRL,01:18:38,---,---,00:16:20,---,DNF
+ironman-france-20080622.csv,108,Michaela Schneck,25,---,DEU,00:54:17,05:45:15,03:36:55,00:03:32,00:03:32,10:23:31
+ironman-france-20080622.csv,109,Adele Coutant,-8,---,FRA,01:14:01,06:14:50,04:06:13,00:06:14,00:06:33,11:47:51
+ironman-france-20080622.csv,110,Anna Fyodorova,26,NY,USA,01:49:27,08:17:21,---,00:07:50,00:09:15,DNF
+ironman-france-20080622.csv,111,Nicola Juniper,---,---,GBR,01:01:57,06:49:10,05:14:56,00:04:13,00:07:59,13:18:15
+ironman-france-20080622.csv,112,Marie Protat,26,---,FRA,00:58:28,06:02:44,04:04:53,00:05:14,00:05:42,11:17:01
+ironman-france-20080622.csv,113,Pauline Teyssedre,---,---,FRA,01:14:37,07:11:17,05:07:56,00:10:07,00:12:09,13:56:06
+ironman-france-20080622.csv,114,Penka Vogelmann,26,---,DEU,01:21:41,07:09:34,05:03:40,00:09:11,00:04:16,13:48:22
+ironman-france-20080622.csv,115,Gabriela Basantes,---,---,ECU,---,---,---,---,---,DNS
+ironman-france-20080622.csv,116,Line Brix Frandsen,27,---,DNK,01:12:27,06:22:56,04:17:48,00:06:22,00:07:05,12:06:38
+ironman-france-20080622.csv,117,Tracy Butt,---,---,ZAF,01:22:58,08:18:38,05:26:35,00:10:24,00:10:42,15:29:17
+ironman-france-20080622.csv,118,Erin Chernick,27,CO,CAN,01:17:34,06:25:44,04:10:25,00:06:34,00:06:36,12:06:53
+ironman-france-20080622.csv,119,Erin Green,27,NC,USA,01:14:09,08:44:35,05:21:42,00:15:25,00:09:43,15:45:34
+ironman-france-20080622.csv,120,Alessandra Jaubert,---,---,FRA,01:22:05,07:15:19,04:53:06,00:08:05,00:07:17,13:45:52
+ironman-france-20080622.csv,121,Franziska Krebs,27,---,SWZ,01:04:22,05:46:27,04:37:03,00:05:15,00:04:06,11:37:13
+ironman-france-20080622.csv,122,Susanne Zettl,---,---,DEU,---,---,---,---,---,DNS
+ironman-france-20080622.csv,123,Amanda Bowman,---,---,AUS,01:20:44,07:09:13,04:33:13,00:07:12,00:06:15,13:16:37
+ironman-france-20080622.csv,124,Melissa Brand,28,---,GBR,01:12:24,06:44:53,05:17:48,00:06:17,00:08:42,13:30:04
+ironman-france-20080622.csv,125,Julie Brasseur,28,IL,USA,01:20:03,07:56:09,05:31:23,00:09:22,00:11:43,15:08:40
+ironman-france-20080622.csv,126,Rebecca Clatworthy,---,---,GBR,01:17:16,07:32:35,04:58:30,00:12:24,00:15:34,14:16:19
+ironman-france-20080622.csv,127,Mariona De Planell Costa,---,---,ESP,01:26:41,08:06:34,05:53:58,00:11:23,00:17:15,15:55:51
+ironman-france-20080622.csv,128,Elaine Garvican,28,East Riding of Yorkshire,GBR,01:31:40,---,---,00:08:08,---,DNF
+ironman-france-20080622.csv,129,Lucy Gossage,28,Intl State,GBR,01:02:06,06:04:06,04:48:25,00:05:40,00:04:46,12:05:03
+ironman-france-20080622.csv,130,Patricia Guerrero,28,Mexico,MEX,01:54:19,---,---,00:06:27,---,DNF
+ironman-france-20080622.csv,131,Daniela Huber,---,---,AUT,01:16:24,06:47:19,04:43:21,00:11:24,00:08:39,13:07:07
+ironman-france-20080622.csv,132,Jessica Reid,---,CA,USA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,133,Kirsten Sass,28,TN,USA,01:03:04,05:52:47,04:18:34,00:04:44,00:03:33,11:22:42
+ironman-france-20080622.csv,134,Edith Stadelmann,---,---,AUT,01:43:50,08:22:28,04:53:52,00:10:36,00:07:21,15:18:07
+ironman-france-20080622.csv,135,Elodie Van Compernolle,---,---,FRA,01:01:56,07:45:35,05:43:07,00:08:49,00:10:07,14:49:34
+ironman-france-20080622.csv,136,Brooke Brown,29,ON,CAN,01:11:50,06:33:00,04:17:30,00:07:37,00:13:34,12:23:31
+ironman-france-20080622.csv,137,Tine Brüchmann Nielsen,---,---,DNK,01:40:49,07:58:09,05:28:56,00:14:28,00:15:00,15:37:22
+ironman-france-20080622.csv,138,Anne Cesbron,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,139,Natalie Cooper,29,AB,CAN,01:28:27,08:06:40,05:10:00,00:08:11,00:13:20,15:06:38
+ironman-france-20080622.csv,140,Rebecca Fondermann,---,---,DEU,01:14:32,06:05:43,04:18:38,00:05:35,00:06:33,11:51:01
+ironman-france-20080622.csv,141,Tanja Fuchs,---,---,AUT,01:27:22,07:08:34,04:31:05,00:06:44,00:06:49,13:20:34
+ironman-france-20080622.csv,142,Mary Harries,30,---,GBR,01:19:38,06:03:11,04:47:16,00:07:10,00:07:42,12:24:57
+ironman-france-20080622.csv,143,Barbara Cina,30,---,CHE,01:10:28,06:23:18,---,00:06:59,00:10:49,DNF
+ironman-france-20080622.csv,144,Maryline Durand,---,---,FRA,01:09:37,07:46:33,05:59:15,00:09:07,00:12:06,15:16:38
+ironman-france-20080622.csv,145,Erika Ellis,30,---,FRA,01:18:09,05:43:21,03:32:50,00:04:55,00:04:32,10:43:47
+ironman-france-20080622.csv,146,Georgeanne S. Fayrweather,30,AE,USA,01:05:03,06:07:38,03:50:50,00:05:32,00:04:44,11:13:47
+ironman-france-20080622.csv,147,Yeshika Sanchez,30,México ,MEX,01:20:23,06:47:35,03:54:45,00:08:42,00:05:53,12:17:18
+ironman-france-20080622.csv,148,Lindsay Thomas,30,TX,USA,01:15:14,08:10:44,05:14:39,00:11:46,00:07:29,14:59:52
+ironman-france-20080622.csv,149,Ellen Tune,---,GBR,GBR,01:04:54,06:41:41,04:10:22,00:05:16,00:05:15,12:07:28
+ironman-france-20080622.csv,150,Elisa Varano,---,---,ITA,01:20:29,06:29:20,03:55:41,00:06:27,00:05:20,11:57:17
+ironman-france-20080622.csv,151,Verity Currie,---,---,GBR,01:24:02,06:26:13,05:24:39,00:06:54,00:07:46,13:29:34
+ironman-france-20080622.csv,152,Lauren Davies,31,Oxfordshire,GBR,01:00:36,06:14:51,05:06:21,00:04:41,00:06:38,12:33:07
+ironman-france-20080622.csv,153,Allison Ebert,---,---,USA,01:04:31,07:19:15,04:43:40,00:07:33,00:13:55,13:28:54
+ironman-france-20080622.csv,154,Andrea Hackner,31,---,DEU,01:06:37,06:20:01,04:27:11,00:05:20,00:04:58,12:04:07
+ironman-france-20080622.csv,155,Rebecca Hillary,31,---,USA,01:56:37,---,---,00:07:45,---,DNF
+ironman-france-20080622.csv,156,Lydie Humery,---,---,FRA,01:20:48,07:38:39,05:27:18,00:13:00,00:11:24,14:51:09
+ironman-france-20080622.csv,157,Maria Kring,---,---,DNK,01:17:39,06:33:37,05:39:19,00:09:40,00:11:53,13:52:08
+ironman-france-20080622.csv,158,Jen Mcrae,---,---,AUS,---,---,---,---,---,DNS
+ironman-france-20080622.csv,159,Angela Went,---,---,GBR,---,---,---,---,---,DNS
+ironman-france-20080622.csv,160,Agnès Bureau,---,---,FRA,01:18:05,07:58:12,06:16:16,00:06:53,00:09:55,15:49:21
+ironman-france-20080622.csv,161,Amanda Davis,32,AZ,USA,01:28:00,07:27:03,04:23:34,00:08:54,00:07:45,13:35:16
+ironman-france-20080622.csv,162,Dorothy Duffy,---,---,IRL,01:18:16,07:39:51,05:11:56,00:10:17,00:10:30,14:30:50
+ironman-france-20080622.csv,163,Victoria Williams,---,---,GBR,01:05:37,07:02:48,04:50:44,00:05:40,00:09:10,13:13:59
+ironman-france-20080622.csv,164,Conny Dauben,33,---,DEU,01:03:23,05:46:30,03:36:11,00:04:40,00:03:45,10:34:29
+ironman-france-20080622.csv,165,Ruth Dennis,---,---,GBR,01:13:07,07:43:54,04:32:20,00:10:15,00:18:23,13:57:59
+ironman-france-20080622.csv,166,Réjane Deprost,---,---,FRA,01:03:19,05:53:18,04:06:24,00:05:25,00:07:12,11:15:38
+ironman-france-20080622.csv,167,Lucy Dunn,---,---,AGO,---,---,---,---,---,DNS
+ironman-france-20080622.csv,168,Cora Hetkamp,---,---,DEU,01:05:54,06:11:31,04:02:53,00:04:23,00:06:32,11:31:13
+ironman-france-20080622.csv,169,Kristi Hutton,---,---,GBR,01:17:56,06:43:30,05:14:53,00:11:47,00:10:30,13:38:36
+ironman-france-20080622.csv,170,Belinda King,---,---,AUS,00:53:54,05:53:53,04:29:56,00:04:43,00:04:36,11:27:02
+ironman-france-20080622.csv,171,Vickie Le Masurier,---,---,GBR,01:21:52,07:38:14,05:35:00,00:10:22,00:13:15,14:58:43
+ironman-france-20080622.csv,172,Alma Rosa Molina Villalobos,---,---,MEX,01:22:30,07:31:53,05:33:43,00:06:37,00:07:28,14:42:11
+ironman-france-20080622.csv,173,Patricia Richardson,---,---,GBR,01:05:28,06:18:09,03:55:36,00:06:50,00:07:23,11:33:26
+ironman-france-20080622.csv,174,Alexandra Richardson,---,---,AGO,01:08:39,06:22:14,03:33:32,00:08:42,00:04:40,11:17:47
+ironman-france-20080622.csv,175,Linda Robson,---,---,GBR,01:23:56,06:16:10,04:32:52,00:04:43,00:03:11,12:20:52
+ironman-france-20080622.csv,176,Linda Marisol Soler Perrusquia,---,---,MEX,01:17:59,06:15:43,04:00:40,00:06:47,00:05:11,11:46:20
+ironman-france-20080622.csv,177,Sian Tovey,33,---,GBR,01:11:34,06:12:00,03:41:24,00:05:52,00:05:14,11:16:04
+ironman-france-20080622.csv,178,Georgia Bamber,34,NSW,AUS,01:06:55,06:41:50,04:35:29,00:06:45,00:07:52,12:38:51
+ironman-france-20080622.csv,179,Faiola Fabio,---,---,ITA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,180,Anna Gray,---,---,GBR,01:18:06,08:20:59,05:27:33,00:10:16,00:11:05,15:27:59
+ironman-france-20080622.csv,181,Laura Harold,---,---,GBR,---,---,---,---,---,DNS
+ironman-france-20080622.csv,182,Nicole Mathison,---,---,AUS,---,---,---,---,---,DNS
+ironman-france-20080622.csv,183,Isabelle Philippe,34,---,FRA,01:08:13,06:31:35,04:29:34,00:05:37,00:05:30,12:20:29
+ironman-france-20080622.csv,184,Jennifer Sussman,---,---,USA,01:33:33,08:24:45,---,00:07:04,00:09:04,DNF
+ironman-france-20080622.csv,185,Blanca Trenas Hinojosa,---,BARCELONA,ESP,01:30:04,07:15:32,04:27:30,00:08:55,00:10:29,13:32:30
+ironman-france-20080622.csv,186,Emma Aindow-Gregory,---,---,GBR,01:31:09,07:24:33,05:55:50,00:07:57,00:10:24,15:09:53
+ironman-france-20080622.csv,187,Cathy Aquadro,---,---,FRA,01:20:14,06:58:07,05:11:14,00:12:06,00:15:55,13:57:36
+ironman-france-20080622.csv,188,Olga Arizmendi,35,TX,MEX,01:29:48,06:41:03,03:47:13,00:05:08,00:04:59,12:08:11
+ironman-france-20080622.csv,189,Rebecca Cash,---,---,GBR,01:10:25,06:20:43,05:33:50,00:08:03,00:09:43,13:22:44
+ironman-france-20080622.csv,190,Rebecca Gill,35,---,AUS,---,---,---,---,---,DNS
+ironman-france-20080622.csv,191,Shanine Johns,35,---,GBR,01:17:51,06:22:13,04:57:11,00:05:22,00:09:16,12:51:53
+ironman-france-20080622.csv,192,Anne Lafaille,---,---,FRA,01:09:06,06:04:19,04:12:18,00:06:46,00:07:07,11:39:36
+ironman-france-20080622.csv,193,Delphine Biz,35,---,FRA,01:02:28,06:48:32,04:14:49,00:04:58,00:08:24,12:19:11
+ironman-france-20080622.csv,194,Lavinia Palazzo,---,---,ITA,01:08:36,06:45:56,05:17:40,00:09:17,00:08:28,13:29:57
+ironman-france-20080622.csv,195,Jayne Arnold,36,---,GBR,01:20:06,07:27:27,04:48:06,00:09:35,00:20:41,14:05:55
+ironman-france-20080622.csv,196,Lucinda Cattermole,36,DE,USA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,197,Nori Gallegos,36,MEXICO CITY,MEX,01:17:19,06:41:50,03:56:25,00:05:50,00:04:58,12:06:22
+ironman-france-20080622.csv,198,Annette Niederau,36,---,DEU,01:17:35,05:45:56,03:59:16,00:04:56,00:03:57,11:11:40
+ironman-france-20080622.csv,199,Meritxell Portillo Araujo,---,---,ESP,01:21:18,06:34:18,03:56:40,00:09:21,00:09:45,12:11:22
+ironman-france-20080622.csv,200,Bérangère Trouche,---,---,FRA,01:10:58,07:17:55,04:38:33,00:09:25,00:08:01,13:24:52
+ironman-france-20080622.csv,201,Margherita Zavan,---,---,ITA,01:20:27,06:50:09,06:35:59,00:10:51,00:11:47,15:09:13
+ironman-france-20080622.csv,202,Lisa Foreman,---,---,GBR,---,---,---,---,---,DNS
+ironman-france-20080622.csv,203,Reenie Griffin,---,---,USA,01:15:25,06:13:43,---,00:05:36,00:05:30,DNF
+ironman-france-20080622.csv,204,Michaela Hennes,---,---,DEU,---,---,---,---,---,DNS
+ironman-france-20080622.csv,205,Donna Hill,---,---,GBR,01:21:48,07:01:09,06:18:29,00:09:52,00:08:29,14:59:47
+ironman-france-20080622.csv,206,Lynn Langenderfer,37,AZ,USA,01:30:25,07:28:34,05:20:38,00:11:37,00:12:19,14:43:33
+ironman-france-20080622.csv,207,Catherine Philp,---,---,GBR,01:25:47,07:29:22,05:17:52,00:08:29,00:10:19,14:31:49
+ironman-france-20080622.csv,208,Sarah Price,37,---,GBR,01:20:11,07:15:48,04:54:46,00:08:35,00:10:14,13:49:34
+ironman-france-20080622.csv,209,Rachel Schey,37,CA,USA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,210,Silvia Serafini,37,---,ITA,01:10:23,06:02:55,03:49:31,00:06:55,00:06:50,11:16:34
+ironman-france-20080622.csv,211,Claire Brady,---,---,GBR,01:18:52,07:11:09,04:20:47,00:10:30,00:10:35,13:11:53
+ironman-france-20080622.csv,212,Rosario Hernandez Charo,---,---,MEX,01:32:23,08:31:16,03:54:14,00:10:56,00:11:59,14:20:48
+ironman-france-20080622.csv,213,Kimberly Cruz,38,NC,USA,01:23:44,06:52:18,07:07:29,00:10:08,00:10:42,15:44:21
+ironman-france-20080622.csv,214,Laurence Faure,37,Aquitaine,FRA,01:16:07,07:19:38,05:07:28,00:09:40,00:08:20,14:01:13
+ironman-france-20080622.csv,215,Gina Feliciano,38,NY,USA,01:09:54,07:14:45,---,00:06:59,00:05:00,DNF
+ironman-france-20080622.csv,216,Elke Krammer,---,---,AUT,01:39:45,08:51:15,---,00:13:12,---,DNF
+ironman-france-20080622.csv,217,Linda Parkes,---,---,GBR,01:21:30,06:57:40,04:30:23,00:07:59,00:07:16,13:04:48
+ironman-france-20080622.csv,218,Patricia Souza,38,---,BRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,219,Anna Troup,---,---,GBR,01:24:56,06:22:32,03:38:12,00:10:28,00:05:48,11:41:56
+ironman-france-20080622.csv,220,Alejandra Vela,38,---,MEX,---,---,---,---,---,DNS
+ironman-france-20080622.csv,221,Florence Chalot,39,FR,FRA,01:07:11,06:51:05,04:44:44,00:06:35,00:08:48,12:58:23
+ironman-france-20080622.csv,222,Katell Corne,---,---,FRA,01:10:05,06:47:23,04:28:32,00:10:34,00:09:57,12:46:31
+ironman-france-20080622.csv,223,Agnes Hammond,39,TX,FRA,01:28:58,08:14:10,05:09:22,00:11:38,00:13:44,15:17:52
+ironman-france-20080622.csv,224,Stéphanie Henry,---,---,FRA,01:27:42,07:43:01,04:01:11,00:13:12,00:14:37,13:39:43
+ironman-france-20080622.csv,225,Itta Olaj,---,---,AUT,01:09:05,06:40:29,04:14:58,00:06:19,00:05:19,12:16:10
+ironman-france-20080622.csv,226,Kartika Tjandra,39,AB,CAN,01:17:58,07:01:18,05:18:40,00:07:47,00:15:06,14:00:49
+ironman-france-20080622.csv,227,Corinne Weil,---,---,CHE,01:32:06,06:48:45,04:12:15,00:06:46,00:08:04,12:47:56
+ironman-france-20080622.csv,228,Lucy Carr,40,---,USA,01:25:02,06:22:01,04:05:45,00:08:31,00:05:01,12:06:20
+ironman-france-20080622.csv,229,Isabelle Chambard,---,---,FRA,01:06:09,07:04:38,04:22:43,00:06:52,00:07:48,12:48:10
+ironman-france-20080622.csv,230,Crtistina Colombara,---,---,ITA,01:10:36,06:26:52,04:05:35,00:05:51,00:03:54,11:52:48
+ironman-france-20080622.csv,231,Corinne Hatin,40,---,FRA,01:09:41,05:51:42,04:09:46,00:04:58,00:04:22,11:20:29
+ironman-france-20080622.csv,232,Monique Hollinshead,---,---,GBR,01:13:59,06:45:28,03:44:55,00:05:36,00:06:15,11:56:13
+ironman-france-20080622.csv,233,Tina Lount-Pretre,40,CA,CAN,---,---,---,---,---,DNS
+ironman-france-20080622.csv,234,Laura Morelli,---,---,ITA,01:11:24,06:26:53,04:57:49,00:05:36,00:04:55,12:46:37
+ironman-france-20080622.csv,235,Arianna Pasquariello,---,---,ITA,01:20:50,06:18:53,04:21:03,00:06:35,00:04:09,12:11:30
+ironman-france-20080622.csv,236,Rosa Peralta,40,NM,MEX,01:18:03,08:38:55,05:27:49,00:11:19,00:09:52,15:45:58
+ironman-france-20080622.csv,237,Monika Rieck,---,---,DEU,---,---,---,---,---,DNS
+ironman-france-20080622.csv,238,Alexandra Sheldon,---,---,GBR,01:28:54,08:02:39,05:42:21,00:08:17,00:12:40,15:34:51
+ironman-france-20080622.csv,239,Stephenie Winter,40,NC,USA,01:22:58,08:03:02,05:05:23,00:10:55,00:09:06,14:51:24
+ironman-france-20080622.csv,240,Tere Ambe Kibrit,41,Ciudad de México,MEX,01:20:05,06:28:55,04:38:58,00:08:23,00:09:39,12:46:00
+ironman-france-20080622.csv,241,Alison Ashbolt,41,---,GBR,01:33:54,08:26:30,05:35:41,00:10:24,00:07:26,15:53:55
+ironman-france-20080622.csv,242,Jenny Astramowicz,41,CA,USA,01:37:01,---,---,00:11:31,---,DNF
+ironman-france-20080622.csv,243,Anne Becu,41,---,FRA,01:07:42,06:11:48,04:26:27,00:05:07,00:04:55,11:55:59
+ironman-france-20080622.csv,244,Nancy Fudacz,---,---,USA,01:19:27,07:07:58,05:42:32,00:08:40,00:12:32,14:31:09
+ironman-france-20080622.csv,245,Jamie Legere,41,CA,USA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,246,Claudia Maldonado Villa,41,---,MEX,---,---,---,---,---,DNS
+ironman-france-20080622.csv,247,Anne-Marie Pauwels,41,Antwerpen,BEL,---,---,---,---,---,DNS
+ironman-france-20080622.csv,248,Debbie Stanley,---,---,GBR,01:31:08,08:48:19,---,00:09:44,00:09:01,DNF
+ironman-france-20080622.csv,249,Carlamaria Tiburtini,11,---,ITA,01:07:28,06:43:25,04:11:46,00:06:19,00:05:47,12:14:45
+ironman-france-20080622.csv,250,Ulli Witke,---,---,AUT,01:04:39,06:06:32,04:24:55,00:05:52,00:07:59,11:49:57
+ironman-france-20080622.csv,251,Gudrun Froschauer,---,---,AUT,01:23:39,06:17:01,---,00:06:13,00:12:45,DNF
+ironman-france-20080622.csv,252,Francine Julan,42,---,FRA,01:31:13,07:43:48,04:15:42,00:07:22,00:05:35,13:43:40
+ironman-france-20080622.csv,253,Dorothea Köppe,42,---,CHE,---,---,---,---,---,DNS
+ironman-france-20080622.csv,254,Ma Angelica Ramos,41,---,MEX,01:28:15,07:52:29,04:57:30,00:09:32,00:11:39,14:39:25
+ironman-france-20080622.csv,255,Hortensia Santiago,---,---,FRA,01:21:16,06:12:28,03:59:05,00:07:26,00:06:00,11:46:15
+ironman-france-20080622.csv,256,Susan Turner,---,---,GBR,01:51:38,07:10:09,04:30:08,00:09:06,00:12:48,13:53:49
+ironman-france-20080622.csv,257,Karen Bezuidenhout,---,---,ZAF,---,---,---,---,---,DNS
+ironman-france-20080622.csv,258,Vinciane Cohen-Cols,---,---,BEL,01:14:23,06:08:43,04:12:42,00:07:40,00:08:40,11:52:08
+ironman-france-20080622.csv,259,Pascale Estripeau,---,---,FRA,01:04:43,06:03:00,04:17:17,00:05:00,00:04:42,11:34:42
+ironman-france-20080622.csv,260,Jutta Faller,---,---,DEU,01:22:04,---,---,00:16:28,---,DNF
+ironman-france-20080622.csv,261,Janine Jones,---,---,GBR,---,---,---,---,---,DNS
+ironman-france-20080622.csv,262,Anne Laffont,---,---,FRA,01:27:06,07:40:03,04:25:01,00:11:05,00:09:09,13:52:24
+ironman-france-20080622.csv,263,Christina Lund,43,CA,USA,01:19:14,06:47:01,04:49:44,00:10:35,00:11:20,13:17:54
+ironman-france-20080622.csv,264,Anna Myatt,43,---,GBR,---,---,---,---,---,DNS
+ironman-france-20080622.csv,265,Kathleen Swalling,43,---,AUS,01:04:37,06:40:25,04:18:55,00:06:27,00:11:19,12:21:43
+ironman-france-20080622.csv,266,Huguette Casara Penno,---,---,FRA,01:27:50,08:50:57,---,00:06:50,---,DNF
+ironman-france-20080622.csv,267,Lisa Cox,44,NC,USA,01:20:31,07:51:17,04:47:07,00:08:45,00:06:06,14:13:46
+ironman-france-20080622.csv,268,Alejandra Diaz De Quiroz,44,---,MEX,01:35:45,07:54:46,04:53:43,00:09:40,00:10:10,14:44:04
+ironman-france-20080622.csv,269,Deirdre Freiberg,---,---,USA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,270,Erni Hamilton,---,---,GBR,01:18:24,06:26:10,03:53:47,00:05:50,00:07:50,11:52:01
+ironman-france-20080622.csv,271,Claudia Ofner,44,---,AUT,01:15:47,06:37:50,04:13:15,00:06:52,00:07:41,12:21:25
+ironman-france-20080622.csv,272,Heather Smercina,44,TX,USA,01:14:22,06:46:45,04:24:15,00:07:53,00:14:21,12:47:36
+ironman-france-20080622.csv,273,Nicola Walker,44,Ayrshire,GBR,01:25:25,---,---,00:08:18,---,DNF
+ironman-france-20080622.csv,274,Lesley Whitehouse,---,---,GBR,01:50:42,08:20:53,---,00:09:21,00:15:19,DNF
+ironman-france-20080622.csv,275,Dominique Fieschi,44,---,FRA,01:23:46,07:24:02,05:51:24,00:08:09,00:08:22,14:55:43
+ironman-france-20080622.csv,276,Christine Marco,---,---,FRA,01:16:22,06:45:41,05:25:31,00:12:34,00:10:47,13:50:55
+ironman-france-20080622.csv,277,Vinnie Duncan,---,---,NZL,---,---,---,---,---,DNS
+ironman-france-20080622.csv,278,Guylyne Louis,45,---,FRA,01:13:38,06:07:22,03:44:20,00:06:33,00:04:20,11:16:13
+ironman-france-20080622.csv,279,Sabine Peters,46,---,DEU,01:04:28,06:50:13,05:14:07,00:06:53,00:07:57,13:23:38
+ironman-france-20080622.csv,280,Cathy Sansay,---,---,FRA,01:16:48,07:10:06,04:57:35,00:10:14,00:11:03,13:45:46
+ironman-france-20080622.csv,281,Sabine Schumm,---,---,DEU,---,---,---,---,---,DNS
+ironman-france-20080622.csv,282,Valérie Sinko,46,---,FRA,01:05:29,05:39:08,04:07:37,00:06:51,00:05:48,11:04:53
+ironman-france-20080622.csv,283,Lucette Vantieghem,---,---,FRA,01:31:23,07:07:06,05:40:55,00:13:25,00:07:47,14:40:36
+ironman-france-20080622.csv,284,Waltraud Ritter,---,---,AUT,01:12:05,06:46:55,06:14:06,00:06:39,00:09:41,14:29:26
+ironman-france-20080622.csv,285,Karin Wagner,---,---,AUT,01:34:24,06:49:38,04:06:39,00:06:32,00:07:26,12:44:39
+ironman-france-20080622.csv,286,Robin Abrahams,49,WA,USA,01:30:47,08:13:57,05:30:56,00:08:41,00:08:57,15:33:18
+ironman-france-20080622.csv,287,Deb Sandeman,49,---,GBR,01:18:23,07:48:11,06:01:16,00:08:54,00:11:11,15:27:55
+ironman-france-20080622.csv,288,Gerda Wanner,---,---,AUT,01:16:55,07:01:41,04:27:29,00:07:44,00:07:58,13:01:47
+ironman-france-20080622.csv,289,Karen Beguin,50,BC,CAN,01:44:24,---,---,00:10:34,---,DNF
+ironman-france-20080622.csv,290,Holly Wick,50,CA,USA,01:18:46,06:53:04,04:40:32,00:06:15,00:06:51,13:05:28
+ironman-france-20080622.csv,291,Catherine Le Dily,---,---,FRA,01:10:08,07:15:29,05:04:02,00:07:30,00:07:21,13:44:30
+ironman-france-20080622.csv,292,Gaelyn Schoeman,---,---,ZAF,---,---,---,---,---,DNS
+ironman-france-20080622.csv,293,Debbie Southwood,51,---,GBR,00:54:33,06:40:19,04:09:35,00:05:20,00:09:09,11:58:56
+ironman-france-20080622.csv,294,Mimi Hutcheson,54,FL,USA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,295,Clare Donovan,---,---,GBR,01:14:07,07:13:37,05:59:16,00:07:07,00:08:31,14:42:38
+ironman-france-20080622.csv,300,Valter Bertolani,---,---,ITA,01:06:49,06:56:28,06:00:24,00:06:46,00:08:25,14:18:52
+ironman-france-20080622.csv,301,Andrew Dudgeon,-7,---,GBR,01:10:14,06:44:10,05:29:31,00:06:36,00:07:21,13:37:52
+ironman-france-20080622.csv,302,Kaleb Kaschalk,---,---,USA,01:09:47,07:33:04,06:01:44,00:13:36,00:19:18,15:17:29
+ironman-france-20080622.csv,303,Mohamed Tonsy,---,---,EGY,01:03:20,07:28:41,06:19:31,00:06:59,00:09:38,15:08:09
+ironman-france-20080622.csv,304,Guillaume Huntziger,20,FR,FRA,01:01:42,05:59:28,---,00:05:35,00:09:08,DNF
+ironman-france-20080622.csv,305,Marcus Mcewen,---,---,GBR,01:19:17,07:10:49,05:56:18,00:11:01,00:13:52,14:51:17
+ironman-france-20080622.csv,306,Vincent Paoli,---,---,FRA,01:04:29,06:07:02,07:35:35,00:09:03,00:07:22,15:03:31
+ironman-france-20080622.csv,307,Benjamin Aupy,---,---,FRA,01:17:36,06:16:49,05:28:38,00:11:57,00:14:32,13:29:32
+ironman-france-20080622.csv,308,Maxime Bourguet,---,---,FRA,00:55:57,05:48:28,04:25:37,00:07:24,00:06:44,11:24:10
+ironman-france-20080622.csv,309,James Carvell,---,---,GBR,01:04:56,06:00:06,04:36:21,00:05:53,00:06:59,11:54:15
+ironman-france-20080622.csv,310,Jesse Jun,---,---,USA,01:41:28,---,---,00:09:30,---,DNF
+ironman-france-20080622.csv,311,Jean-Baptiste Lahitte,---,---,FRA,01:08:52,06:33:17,03:47:38,00:10:50,00:10:15,11:50:52
+ironman-france-20080622.csv,312,Michael Pate,---,---,USA,01:24:01,---,---,00:08:16,---,DNF
+ironman-france-20080622.csv,313,Charlie Pickles,---,---,GBR,01:05:19,06:42:29,04:22:27,00:08:02,00:07:30,12:25:47
+ironman-france-20080622.csv,314,Matthieu Verrons,---,---,FRA,01:12:25,06:13:42,06:19:21,00:08:20,00:05:04,13:58:52
+ironman-france-20080622.csv,315,Mike Arthur,---,---,ZAF,01:02:06,06:02:16,04:40:38,00:06:20,00:08:59,12:00:19
+ironman-france-20080622.csv,316,Philip Brophy,---,SÃO PAULO,IRL,01:31:10,06:53:59,05:12:11,00:09:03,00:09:45,13:56:08
+ironman-france-20080622.csv,317,Francois Carloni,---,---,FRA,00:57:40,05:14:08,03:42:00,00:04:28,00:03:16,10:01:32
+ironman-france-20080622.csv,318,Sebastian Clark,---,---,GBR,01:16:23,07:30:10,05:41:02,00:09:28,00:14:13,14:51:16
+ironman-france-20080622.csv,319,Marin Deresco,---,---,MDA,01:39:20,07:02:51,05:14:40,00:05:50,00:06:31,14:09:12
+ironman-france-20080622.csv,320,Maxence Fumière,22,---,BEL,01:02:27,06:36:44,07:14:00,00:07:40,00:15:17,15:16:08
+ironman-france-20080622.csv,321,Dennis Karajannis,---,---,DEU,01:19:38,06:23:51,03:55:04,00:08:06,00:04:26,11:51:05
+ironman-france-20080622.csv,322,Jean-Philippe Klein,---,---,FRA,00:53:11,05:52:45,04:14:45,00:05:13,00:05:11,11:11:05
+ironman-france-20080622.csv,323,Jordi Maximo Arjona,---,Catalu–a,ESP,01:12:29,06:11:25,04:32:32,00:14:59,00:09:40,12:21:05
+ironman-france-20080622.csv,324,Chris Oppenlander,---,---,USA,01:16:45,06:39:03,04:52:15,00:11:52,00:11:48,13:11:43
+ironman-france-20080622.csv,325,Phil Parkes,---,---,BRN,01:18:37,07:27:40,04:37:15,00:16:34,00:07:03,13:47:09
+ironman-france-20080622.csv,326,Christopher Ritter,---,---,AUT,01:03:00,06:24:37,04:17:33,00:07:30,00:08:41,12:01:21
+ironman-france-20080622.csv,327,Tom Sturgess,---,---,GBR,01:13:50,05:55:12,05:13:50,00:07:57,00:09:37,12:40:26
+ironman-france-20080622.csv,328,Kok Ann Colin Teo,---,---,SGP,01:09:32,07:57:41,06:00:27,00:09:45,00:08:53,15:26:18
+ironman-france-20080622.csv,329,Chad Whitson,22,AZ,USA,01:06:28,07:02:30,04:24:50,00:09:04,00:10:34,12:53:26
+ironman-france-20080622.csv,330,Thomas Williams,22,---,GBR,01:12:10,06:17:14,04:40:58,00:09:00,00:05:22,12:24:44
+ironman-france-20080622.csv,331,Damien With,22,---,FRA,00:54:47,05:13:04,04:04:22,00:03:27,00:03:47,10:19:27
+ironman-france-20080622.csv,332,Michel Compere,23,---,BEL,01:05:55,05:58:53,04:37:56,00:06:41,00:05:07,11:54:32
+ironman-france-20080622.csv,333,Trevor Delsaut,23,---,FRA,01:06:25,05:21:28,03:40:26,00:05:02,00:03:10,10:16:31
+ironman-france-20080622.csv,334,Romain Guillaume,23,---,FRA,00:50:03,04:53:38,03:29:51,00:03:05,00:02:47,09:19:24
+ironman-france-20080622.csv,335,Marian Hanke,---,---,DEU,01:01:55,05:18:22,03:08:15,00:05:09,00:02:55,09:36:36
+ironman-france-20080622.csv,336,Mickaël Hourtic,---,---,FRA,01:25:55,06:30:36,04:32:00,00:10:35,00:10:54,12:50:00
+ironman-france-20080622.csv,337,Sebastian Jones,---,---,GBR,01:05:02,05:57:55,04:02:43,00:06:28,00:10:24,11:22:32
+ironman-france-20080622.csv,338,David Kettle,---,---,GBR,01:07:46,07:09:37,05:14:58,00:11:29,00:13:22,13:57:12
+ironman-france-20080622.csv,339,Sebastien Monnin,---,---,FRA,01:11:47,06:30:08,05:20:56,00:07:27,00:05:44,13:16:02
+ironman-france-20080622.csv,340,Daniel Phiesel,23,---,DEU,---,---,---,---,---,DNS
+ironman-france-20080622.csv,341,Romain Racine,---,---,FRA,01:12:19,05:57:33,04:12:41,00:06:48,00:05:22,11:34:43
+ironman-france-20080622.csv,342,Jan Schymik,23,---,DEU,01:12:02,06:09:59,04:00:52,00:06:05,00:03:54,11:32:52
+ironman-france-20080622.csv,343,Thomas Stablon,---,---,FRA,01:01:30,05:53:42,04:55:31,00:04:22,00:04:00,11:59:05
+ironman-france-20080622.csv,344,Jared Van Tonder,---,---,ZAF,01:08:39,06:43:30,05:48:47,00:11:30,00:09:56,14:02:22
+ironman-france-20080622.csv,345,Roger Witz-Barnes,---,---,GBR,00:50:42,05:57:06,04:32:37,00:04:13,00:04:47,11:29:25
+ironman-france-20080622.csv,346,Guillaume Boucheix,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,347,Julien Bouix,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,348,Benoit Durand,24,---,FRA,01:13:25,05:50:08,03:44:22,00:04:43,00:03:34,10:56:12
+ironman-france-20080622.csv,349,Eric Fages Tafanelli,---,---,FRA,00:52:38,05:56:44,05:19:23,00:05:05,00:04:46,12:18:36
+ironman-france-20080622.csv,350,Hérvé Gareste,24,---,FRA,01:03:54,05:48:40,04:55:09,00:06:29,00:04:59,11:59:11
+ironman-france-20080622.csv,351,Thibault Hugon,---,---,FRA,00:57:31,06:31:02,05:00:35,00:07:29,00:08:20,12:44:57
+ironman-france-20080622.csv,352,Teemu Kyllonen,24,---,FIN,01:09:36,05:48:53,05:57:27,00:09:06,00:05:30,13:10:32
+ironman-france-20080622.csv,353,Benjamin Lantrebecq,24,---,BEL,01:02:13,06:37:49,05:23:41,00:05:21,00:06:04,13:15:08
+ironman-france-20080622.csv,354,Daniel Liljedahl,24,---,SWE,01:01:32,05:24:40,04:04:16,00:03:37,00:03:51,10:37:56
+ironman-france-20080622.csv,355,Marco Maurer,---,---,DEU,00:59:28,---,---,---,---,DNF
+ironman-france-20080622.csv,356,Gonzalo Montero,24,---,MEX,01:28:47,07:34:56,04:55:03,00:12:33,00:10:43,14:22:02
+ironman-france-20080622.csv,357,Tynan Narywonczyk,24,QLD,AUS,01:04:40,06:24:53,05:46:24,00:06:20,00:21:08,13:43:25
+ironman-france-20080622.csv,358,Tom Nicholls,---,---,AUS,00:55:43,05:12:47,03:27:21,00:04:22,00:05:58,09:46:11
+ironman-france-20080622.csv,359,Jose Emilio Ontiveros Winder,26,---,MEX,01:04:19,06:43:10,04:35:12,00:08:13,00:10:51,12:41:45
+ironman-france-20080622.csv,360,Julien Pecheur,---,---,FRA,01:17:15,07:19:30,06:33:03,00:10:44,00:21:27,15:41:59
+ironman-france-20080622.csv,361,Héctor Luis Pino Concepción,24,ES,ESP,00:54:23,05:22:20,03:26:45,00:03:49,00:06:30,09:53:47
+ironman-france-20080622.csv,362,Robert Rahnfeld,---,---,DEU,00:50:22,05:02:02,03:57:44,00:03:26,00:06:27,10:00:01
+ironman-france-20080622.csv,363,Stefan Richter,24,---,DEU,00:51:11,04:58:26,03:21:32,00:03:31,00:02:59,09:17:39
+ironman-france-20080622.csv,364,Markus Stephani,-8,---,DEU,01:22:21,05:55:06,05:06:49,00:05:31,00:03:53,12:33:40
+ironman-france-20080622.csv,365,Jody Stuckey,---,---,USA,01:17:03,---,---,00:07:29,---,DNF
+ironman-france-20080622.csv,366,Ferran Vila Bonell,---,---,AND,01:08:20,05:41:13,04:44:09,00:05:28,00:06:21,11:45:31
+ironman-france-20080622.csv,367,Johannes Winter,---,---,AUT,---,---,---,---,---,DNS
+ironman-france-20080622.csv,368,Shafalse Barnett,---,---,NZL,00:52:44,05:19:06,03:33:49,00:03:24,00:06:05,09:55:08
+ironman-france-20080622.csv,369,Jerome Bresson,25,QC,FRA,01:05:27,05:06:20,---,00:04:33,00:03:00,DNF
+ironman-france-20080622.csv,370,Kyle Bridgeman,25,Wellington,NZL,00:59:04,05:33:31,04:36:01,00:03:47,00:05:34,11:17:57
+ironman-france-20080622.csv,371,Jarno Broeze,---,---,NLD,01:16:31,07:23:51,06:18:30,00:12:47,00:13:20,15:24:59
+ironman-france-20080622.csv,372,Andrew Carroll,---,---,IRL,01:27:59,07:59:23,05:13:03,00:15:35,00:14:52,15:10:52
+ironman-france-20080622.csv,373,Aurelien Chartier,---,---,FRA,01:12:30,05:45:44,04:20:04,00:06:50,00:06:44,11:31:52
+ironman-france-20080622.csv,374,Olivier Decaudin,---,---,FRA,01:12:03,06:46:24,06:55:24,00:10:55,00:11:47,15:16:33
+ironman-france-20080622.csv,375,Carles Tur Carbonell Eivissa,25,---,ESP,---,---,---,---,---,DNS
+ironman-france-20080622.csv,376,Eric Forsyth,---,---,USA,01:18:17,06:30:16,06:14:06,00:07:00,00:14:10,14:23:49
+ironman-france-20080622.csv,377,Iñaki Gabarain Salaberria,---,---,ESP,01:01:50,05:04:32,03:34:17,00:05:09,00:03:44,09:49:32
+ironman-france-20080622.csv,378,Marc Gispert Giron,---,---,ESP,01:19:30,05:59:07,03:54:59,00:09:47,00:05:35,11:28:58
+ironman-france-20080622.csv,379,Jean Charles Godet,---,---,FRA,01:09:12,05:25:30,05:13:32,00:07:29,00:03:22,11:59:05
+ironman-france-20080622.csv,380,Romain Haby,---,---,FRA,01:06:37,06:50:30,04:26:43,00:11:28,00:11:01,12:46:19
+ironman-france-20080622.csv,381,Valentin Hugou,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,382,Simon King,---,---,BRN,01:15:46,07:36:10,04:43:03,00:12:01,00:09:18,13:56:18
+ironman-france-20080622.csv,383,Alex Lumsden,---,---,GBR,00:57:29,06:46:15,05:01:52,00:06:35,00:06:15,12:58:26
+ironman-france-20080622.csv,384,Mathieu Mangeon,25,FR,FRA,01:05:47,05:31:11,---,00:06:24,00:08:11,DNF
+ironman-france-20080622.csv,385,Fearghal Mulvihill,25,London,IRL,00:55:22,05:52:54,03:57:54,00:06:41,00:08:51,11:01:42
+ironman-france-20080622.csv,386,Johan Noulin,---,---,FRA,01:09:44,06:19:09,04:26:36,00:06:07,00:07:16,12:08:52
+ironman-france-20080622.csv,387,Antoine Perche,25,FR,FRA,00:58:11,05:10:55,03:34:27,00:04:21,00:03:16,09:51:10
+ironman-france-20080622.csv,388,Andrew Schmidt,25,---,AUS,01:07:27,06:06:33,04:52:16,00:05:38,00:05:56,12:17:50
+ironman-france-20080622.csv,389,Michael Stefanski,25,PA,USA,01:05:10,05:32:29,04:07:56,00:03:57,00:04:24,10:53:56
+ironman-france-20080622.csv,390,Ryan Volkerink,25,AB,CAN,01:10:32,07:17:02,06:05:57,00:06:08,00:07:43,14:47:22
+ironman-france-20080622.csv,391,Matthieu Barnay,---,---,FRA,01:18:22,06:35:41,05:02:24,00:09:11,00:07:22,13:13:00
+ironman-france-20080622.csv,392,Maxime Bataille,---,---,FRA,01:28:30,08:01:20,04:47:30,00:07:51,00:07:03,14:32:14
+ironman-france-20080622.csv,393,Sebastian Bauer,26,---,DEU,01:00:13,05:18:46,03:49:18,00:04:19,00:04:11,10:16:47
+ironman-france-20080622.csv,394,Iker Baztarrika,---,---,ESP,01:04:53,05:08:31,03:29:34,00:05:28,00:03:19,09:51:45
+ironman-france-20080622.csv,395,Daniel Benson,---,---,IRL,01:19:01,07:22:05,05:59:56,00:09:28,00:08:11,14:58:41
+ironman-france-20080622.csv,396,Florian Buron,---,---,FRA,01:12:37,06:46:59,05:19:39,00:08:24,00:07:18,13:34:57
+ironman-france-20080622.csv,397,Arkaitz Castañeda Babarro,---,---,ESP,00:58:43,05:33:27,04:06:09,00:05:43,00:10:25,10:54:27
+ironman-france-20080622.csv,398,Brendan Creedon,---,---,IRL,01:11:13,06:12:14,03:55:38,00:08:41,00:08:21,11:36:07
+ironman-france-20080622.csv,399,Jan Den Hartog,---,---,ZAF,01:18:28,07:14:35,04:52:38,00:11:25,00:17:24,13:54:30
+ironman-france-20080622.csv,400,Jokin Errasti Murua,---,---,ESP,01:12:41,06:05:38,04:52:44,00:07:04,00:11:47,12:29:54
+ironman-france-20080622.csv,401,Grégoire Geffray,---,---,FRA,00:56:23,06:23:58,05:28:02,00:04:44,00:05:41,12:58:48
+ironman-france-20080622.csv,402,Grischa Günther,26,Deutschland,DEU,01:16:37,05:52:51,04:50:40,00:06:15,00:05:24,12:11:47
+ironman-france-20080622.csv,403,Dorian Aled Jones,---,---,GBR,01:09:21,06:45:51,06:19:18,00:12:46,00:14:42,14:41:58
+ironman-france-20080622.csv,404,Paul Kester,---,---,GBR,01:27:10,---,---,00:14:33,---,DNF
+ironman-france-20080622.csv,405,Damien Landon,26,---,FRA,00:50:25,05:04:05,03:10:24,00:03:04,00:02:58,09:10:56
+ironman-france-20080622.csv,406,David Lebrat,26,---,FRA,01:02:22,05:15:19,03:58:59,00:07:34,00:04:19,10:28:33
+ironman-france-20080622.csv,407,Chris Lemke,---,---,DEU,01:02:41,05:32:37,04:14:24,00:03:50,00:03:59,10:57:31
+ironman-france-20080622.csv,408,Jorge Alberto L Pez,---,---,MEX,01:21:43,06:56:39,05:05:36,00:07:45,00:09:45,13:41:28
+ironman-france-20080622.csv,409,Mathieu Marchand,---,---,FRA,00:55:39,05:15:54,04:13:54,00:03:23,00:04:22,10:33:12
+ironman-france-20080622.csv,410,Stéphane Martiny,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,411,Arnaud Menanteau,---,---,FRA,00:58:21,---,---,00:05:50,---,DNF
+ironman-france-20080622.csv,412,Maxime Meunier,---,---,FRA,01:02:23,05:20:17,04:15:21,00:05:31,00:08:07,10:51:39
+ironman-france-20080622.csv,413,David Montañez Llados,26,Other,ESP,01:00:48,05:46:04,04:43:21,00:06:44,00:05:00,11:41:57
+ironman-france-20080622.csv,414,Jose  Alejandro Ontiveros Winder,25,---,MEX,01:03:40,06:25:16,03:53:03,00:05:42,00:07:55,11:35:36
+ironman-france-20080622.csv,415,Julien Pansiot,---,---,FRA,01:17:46,07:04:30,05:53:17,00:09:05,00:10:28,14:35:06
+ironman-france-20080622.csv,416,Matthew Potten,---,---,GBR,01:18:21,07:12:48,05:07:54,00:10:29,00:07:50,13:57:22
+ironman-france-20080622.csv,417,Gerhard Rucker,26,---,AUT,01:01:29,05:15:05,---,00:03:58,00:02:58,DNF
+ironman-france-20080622.csv,418,Marc Siques Llagostera,---,---,ESP,01:03:15,06:44:48,05:58:32,00:08:37,00:07:48,14:03:00
+ironman-france-20080622.csv,419,Christophe Soto,---,---,FRA,00:54:32,05:24:10,04:08:58,00:04:22,00:03:40,10:35:42
+ironman-france-20080622.csv,420,Mathieu Soulet,---,---,FRA,01:15:11,06:39:44,05:31:44,00:09:32,00:08:11,13:44:22
+ironman-france-20080622.csv,421,Robert Strzalka,---,---,POL,01:06:37,06:34:01,06:02:09,00:07:00,00:12:42,14:02:29
+ironman-france-20080622.csv,422,Anthony Thomas Trophime,---,---,FRA,01:31:37,07:06:15,04:58:44,00:05:53,00:07:26,13:49:55
+ironman-france-20080622.csv,423,Ralf Traub,---,---,DEU,01:05:29,05:15:19,03:18:54,00:04:45,00:03:22,09:47:49
+ironman-france-20080622.csv,424,Aimar Agirresarobe,27,---,ESP,00:56:38,05:17:30,03:32:53,00:04:50,00:03:44,09:55:35
+ironman-france-20080622.csv,425,Luke Baker,---,---,GBR,01:15:14,06:23:57,04:01:00,00:08:49,00:07:03,11:56:03
+ironman-france-20080622.csv,426,Fabrice Beaulieu,27,VA,USA,01:12:43,07:08:05,05:31:27,00:06:53,00:06:57,14:06:05
+ironman-france-20080622.csv,427,Pierre-Michel Bernier,---,---,CAN,01:16:12,06:05:03,04:09:31,00:09:08,00:08:01,11:47:55
+ironman-france-20080622.csv,428,Olivier Betremieux,---,---,FRA,01:06:45,08:03:41,05:49:03,00:15:10,00:15:18,15:29:57
+ironman-france-20080622.csv,429,Jakob Blockus,27,---,DEU,01:02:18,05:48:49,---,00:03:51,00:05:54,DNF
+ironman-france-20080622.csv,430,Francesco Brembilla,---,---,ITA,01:01:47,05:54:47,04:27:10,00:06:26,00:07:27,11:37:37
+ironman-france-20080622.csv,431,Yann Brochen,---,---,FRA,00:53:17,06:40:58,04:31:11,00:04:47,00:10:03,12:20:16
+ironman-france-20080622.csv,432,Fabian Buvat De Virginy,27,---,VEN,01:05:21,06:24:24,05:25:26,00:07:54,00:06:46,13:09:51
+ironman-france-20080622.csv,433,Fabien Carpentier,27,Intl State,FRA,00:59:49,05:06:50,03:51:33,00:04:08,00:06:29,10:08:49
+ironman-france-20080622.csv,434,Michaël Charton,---,---,FRA,00:57:17,05:32:07,04:12:31,00:04:12,00:03:57,10:50:04
+ironman-france-20080622.csv,435,Philip Coldwell,---,---,USA,01:10:07,06:21:34,04:42:22,00:05:23,00:06:05,12:25:31
+ironman-france-20080622.csv,436,Julien Détrivière,---,---,FRA,01:04:15,08:01:16,05:41:30,00:08:09,00:08:03,15:03:13
+ironman-france-20080622.csv,437,Alexandre Florimond,27,---,FRA,01:02:35,05:24:44,05:28:11,00:04:34,00:03:34,12:03:38
+ironman-france-20080622.csv,438,Nicolas Fontan,---,---,FRA,01:12:06,05:34:58,03:53:49,00:06:33,00:03:54,10:51:20
+ironman-france-20080622.csv,439,Sylvain Gallay,27,---,FRA,01:06:13,06:05:48,05:39:34,00:06:00,00:03:26,13:01:01
+ironman-france-20080622.csv,440,Romeo Grattapaglia,---,---,ITA,00:59:32,06:06:00,---,00:05:41,00:06:24,DNF
+ironman-france-20080622.csv,441,Frederic Hainneville,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,442,Nicholas Hales,---,---,GBR,01:11:09,06:04:17,05:59:12,00:07:59,00:06:31,13:29:08
+ironman-france-20080622.csv,443,Fredrik Härdfeldt,---,---,SWE,01:15:18,05:44:03,---,00:05:09,---,DNF
+ironman-france-20080622.csv,444,Anthony Hehir,---,---,ZAF,00:58:22,07:16:30,05:26:47,00:12:47,00:14:51,14:09:17
+ironman-france-20080622.csv,445,Kieran Herron,---,---,IRL,01:13:00,06:29:38,04:51:53,00:09:10,00:07:30,12:51:11
+ironman-france-20080622.csv,446,Raphael Jungers,27,BE,BEL,01:06:57,06:12:18,04:20:13,00:07:34,00:04:52,11:51:54
+ironman-france-20080622.csv,447,Mikael Kleberg,27,---,SWE,01:02:11,05:31:18,03:51:30,00:06:26,00:06:48,10:38:13
+ironman-france-20080622.csv,448,Marios Kokolakis,---,---,GRC,01:09:17,05:31:45,03:56:24,00:06:40,00:04:43,10:48:49
+ironman-france-20080622.csv,449,Paul Lambertz,---,---,DEU,00:55:20,05:24:12,03:56:17,00:03:35,00:03:06,10:22:30
+ironman-france-20080622.csv,450,Xavi Latorre Conejos,---,---,ESP,01:23:20,06:47:58,05:13:29,00:11:40,00:10:59,13:47:26
+ironman-france-20080622.csv,451,Olivier Louchart,---,---,FRA,00:58:32,05:49:47,---,00:05:03,00:07:16,DNF
+ironman-france-20080622.csv,452,Olivier Lyoen,---,---,FRA,00:54:04,05:15:19,03:58:39,00:03:59,00:06:35,10:18:36
+ironman-france-20080622.csv,453,Alessio Manfrin,---,---,ITA,00:58:37,05:50:41,04:34:20,00:06:48,00:07:11,11:37:37
+ironman-france-20080622.csv,454,Eoin Mckenna,---,---,IRL,01:29:57,07:02:40,05:15:12,00:08:42,00:12:27,14:08:58
+ironman-france-20080622.csv,455,Ludovic Menut,---,---,FRA,00:59:09,05:22:26,03:57:38,00:06:32,00:07:37,10:33:22
+ironman-france-20080622.csv,456,Kai - Daniel Niestroj,---,---,DEU,01:15:08,---,---,00:08:41,---,DNF
+ironman-france-20080622.csv,457,Maciej Pordab,---,---,POL,01:13:03,06:00:02,06:10:07,00:10:49,00:07:27,13:41:28
+ironman-france-20080622.csv,458,Vincent Proverbio,27,---,FRA,01:09:13,05:49:55,04:09:32,00:06:09,00:05:50,11:20:39
+ironman-france-20080622.csv,459,Mark Racher,27,---,GBR,00:50:26,05:42:44,03:59:06,00:05:44,00:05:18,10:43:18
+ironman-france-20080622.csv,460,Lloyd Rivera,27,---,CRI,---,---,---,---,---,DNS
+ironman-france-20080622.csv,461,Mathias Sabin,---,---,FRA,01:05:58,05:46:52,05:21:56,00:09:51,00:09:22,12:33:59
+ironman-france-20080622.csv,462,Xavier Serrano Soria,---,---,ESP,01:00:06,05:18:14,03:34:41,00:05:14,00:04:24,10:02:39
+ironman-france-20080622.csv,463,Steven Vandersteene-Coone,---,---,BEL,01:27:04,07:05:02,05:27:45,00:10:36,00:09:10,14:19:37
+ironman-france-20080622.csv,464,Grégory Zieba,---,---,FRA,01:01:59,05:33:41,04:42:15,00:04:58,00:03:13,11:26:06
+ironman-france-20080622.csv,465,Sylvain Assez,---,---,FRA,00:57:37,05:48:53,04:21:33,00:04:14,00:05:42,11:17:59
+ironman-france-20080622.csv,466,Alexandre Auclert,---,---,FRA,01:03:46,05:59:50,04:20:00,00:08:09,00:09:20,11:41:05
+ironman-france-20080622.csv,467,Dirk Baelus,28,---,BEL,00:58:03,05:13:22,04:13:43,00:03:49,00:07:08,10:36:05
+ironman-france-20080622.csv,468,Marcel Battle Marcel,---,BARC,ESP,00:57:45,05:44:54,---,00:04:37,---,DNF
+ironman-france-20080622.csv,469,Davide Bettini,28,---,ITA,01:02:05,05:45:40,03:59:44,00:06:48,00:09:40,11:03:57
+ironman-france-20080622.csv,470,Gabriel Callies,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,471,Matthieu Chevaux,---,---,FRA,01:20:46,07:18:17,05:25:43,00:07:19,00:06:41,14:18:46
+ironman-france-20080622.csv,472,Yann Corbaz,---,---,CHE,01:24:41,07:38:24,05:52:44,00:09:41,00:08:30,15:14:00
+ironman-france-20080622.csv,473,Jonathan Coulter,---,---,GBR,01:10:06,06:19:11,05:29:37,00:09:06,00:11:07,13:19:07
+ironman-france-20080622.csv,474,Arnaud Didier,---,---,BEL,01:08:27,05:53:26,05:05:36,00:06:31,00:05:35,12:19:35
+ironman-france-20080622.csv,475,Nicolas Drouaillet,---,---,FRA,01:17:47,05:36:11,05:36:34,00:07:43,00:12:46,12:51:01
+ironman-france-20080622.csv,476,Matthew Facey,---,---,GBR,01:08:33,06:29:45,05:16:23,00:07:12,00:10:56,13:12:49
+ironman-france-20080622.csv,477,Manuel Ferrandez Polo,---,---,ESP,01:12:30,07:46:40,04:58:23,00:06:23,00:04:16,14:08:12
+ironman-france-20080622.csv,478,Robert Foietta,---,---,GBR,00:57:01,05:23:31,03:57:04,00:04:50,00:04:01,10:26:27
+ironman-france-20080622.csv,479,Thomas Fry,28,---,GBR,01:18:01,06:20:15,04:19:30,00:05:37,00:04:44,12:08:07
+ironman-france-20080622.csv,480,Stefan Furweger,---,---,AUT,01:11:17,06:01:36,05:15:49,00:06:40,00:05:41,12:41:03
+ironman-france-20080622.csv,481,David Garwood,28,---,GBR,01:23:31,07:22:16,05:24:58,00:08:31,00:11:39,14:30:55
+ironman-france-20080622.csv,482,Michael Hall,28,---,GBR,01:20:33,06:25:44,04:33:27,00:07:12,00:05:34,12:32:30
+ironman-france-20080622.csv,483,Sébastien Jacquet,---,---,FRA,01:17:29,07:09:56,05:33:19,00:12:08,00:16:46,14:29:38
+ironman-france-20080622.csv,484,Leon Jones,---,---,GBR,01:12:44,06:33:25,04:21:44,00:09:48,00:13:15,12:30:56
+ironman-france-20080622.csv,485,Daniel Jones,---,---,USA,01:20:34,07:35:06,04:33:17,00:09:56,00:08:30,13:47:23
+ironman-france-20080622.csv,486,Jonathan King,28,Intl State,GBR,01:09:27,07:33:00,06:16:14,00:10:19,00:08:15,15:17:15
+ironman-france-20080622.csv,487,Terence Kyndt,---,---,BEL,01:23:13,06:56:56,05:19:52,00:14:33,00:11:34,14:06:08
+ironman-france-20080622.csv,488,Christophe Mahe,---,---,FRA,01:21:07,07:17:13,---,00:10:38,00:13:06,DNF
+ironman-france-20080622.csv,489,Grégoire Mazet,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,490,Thomas Meyke,-8,---,DEU,01:06:13,05:28:26,---,00:04:10,00:03:55,DNF
+ironman-france-20080622.csv,491,Gilles Mockly,---,---,FRA,01:16:27,---,---,00:08:08,---,DNF
+ironman-france-20080622.csv,492,Filip Morch,---,---,CZE,01:08:02,06:10:45,03:44:22,00:08:34,00:07:02,11:18:45
+ironman-france-20080622.csv,493,Johan Nerrinck,28,---,BEL,01:07:26,05:52:06,03:56:10,00:08:53,00:07:24,11:11:59
+ironman-france-20080622.csv,494,Jack Nunn,28,CA,USA,01:12:18,06:17:52,05:31:46,00:05:24,00:06:19,13:13:39
+ironman-france-20080622.csv,495,Antti Oksanen,---,---,FIN,01:24:38,05:59:10,04:44:07,00:11:10,00:07:07,12:26:12
+ironman-france-20080622.csv,496,William Packer,---,---,GBR,01:31:16,08:09:35,05:39:22,00:13:16,00:14:39,15:48:08
+ironman-france-20080622.csv,497,Antoni Payeras Moragues,---,---,ESP,01:08:32,05:32:39,04:13:56,00:04:23,00:04:23,11:03:53
+ironman-france-20080622.csv,498,Leonardo Pierre,28,TX,TTO,01:33:21,08:25:29,04:44:03,00:08:07,00:14:36,15:05:36
+ironman-france-20080622.csv,499,Stephen Reid,---,---,GBR,01:21:35,06:48:44,04:18:30,00:08:24,00:09:53,12:47:06
+ironman-france-20080622.csv,500,Mathieu Rey,---,---,FRA,00:57:43,05:25:37,---,00:04:47,00:05:25,DNF
+ironman-france-20080622.csv,501,Gilad Rotem,28,---,ISR,00:53:49,05:35:58,02:59:31,00:03:48,00:06:44,09:39:50
+ironman-france-20080622.csv,502,Bernardo Salgado,28,---,BRA,00:57:47,05:36:41,04:06:17,00:05:13,00:05:20,10:51:18
+ironman-france-20080622.csv,503,Frederic Schaffner,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,504,Navil Gabriel Segovia Ahmed,---,---,ESP,01:10:36,05:53:31,05:46:29,00:05:49,00:04:32,13:00:57
+ironman-france-20080622.csv,505,Chris Shirlow,---,---,USA,01:18:26,08:28:16,05:44:43,00:10:59,00:09:19,15:51:43
+ironman-france-20080622.csv,506,Stephen Slay,28,---,GBR,01:25:51,07:53:55,05:52:00,00:09:28,00:12:41,15:33:55
+ironman-france-20080622.csv,507,Rémy Sockeel,---,---,FRA,01:04:17,05:37:38,04:25:01,00:05:14,00:08:56,11:21:06
+ironman-france-20080622.csv,508,Shafalse Stallard,---,---,NZL,00:57:36,05:26:23,03:20:16,00:03:14,00:03:55,09:51:24
+ironman-france-20080622.csv,509,Travis Stevenson,28,BC,CAN,01:21:42,06:24:38,05:13:44,00:06:58,00:06:37,13:13:39
+ironman-france-20080622.csv,510,Andrew Stevenson,28,---,GBR,01:01:41,06:35:18,03:45:32,00:07:52,00:07:42,11:38:05
+ironman-france-20080622.csv,511,Nathan Stevenson,---,---,ZAF,01:03:20,07:38:57,05:27:40,00:06:31,00:10:31,14:26:59
+ironman-france-20080622.csv,512,Stanislav Tabor,28,---,CZE,---,---,---,---,---,DNS
+ironman-france-20080622.csv,513,Christo Van Den Heever,28,KwaZulu-Natal,ZAF,01:09:07,07:48:50,---,00:16:59,00:20:59,DNF
+ironman-france-20080622.csv,514,Mathieu Vandendael,---,---,BEL,01:11:49,05:49:34,04:42:04,00:08:01,00:05:49,11:57:17
+ironman-france-20080622.csv,515,Hervé Vilpini,28,FR,FRA,01:17:59,07:06:50,05:44:34,00:09:27,00:08:38,14:27:28
+ironman-france-20080622.csv,516,Stewart Westwood,28,ES,GBR,00:58:38,05:41:05,03:56:51,00:04:49,00:04:03,10:45:26
+ironman-france-20080622.csv,517,Andrew Young,---,---,GBR,---,---,---,---,---,DNS
+ironman-france-20080622.csv,518,Fergus Allerton,29,---,AGO,00:58:01,06:43:35,04:50:09,00:06:04,00:07:44,12:45:33
+ironman-france-20080622.csv,519,Frantz Andersen,29,Intl State,DNK,01:11:15,05:34:33,03:48:43,00:04:46,00:04:00,10:43:17
+ironman-france-20080622.csv,520,Volkmar Bachmann,---,---,DEU,01:02:10,05:37:06,03:40:31,00:06:22,00:05:35,10:31:44
+ironman-france-20080622.csv,521,Fabien Barjot,---,---,FRA,01:03:34,05:43:42,04:14:05,00:05:29,00:05:17,11:12:07
+ironman-france-20080622.csv,522,Cédric Barre,4,---,FRA,01:11:23,06:53:28,04:19:46,00:11:51,00:10:57,12:47:25
+ironman-france-20080622.csv,523,Grégoire Binet,29,---,FRA,01:14:36,05:56:44,05:04:56,00:05:40,00:07:20,12:29:16
+ironman-france-20080622.csv,524,Daniel Blankenfuland,108,---,DEU,00:52:41,05:01:08,03:13:44,00:03:20,00:03:22,09:14:15
+ironman-france-20080622.csv,525,Benoit Bourguet,29,---,BEL,00:51:35,05:19:51,03:30:02,00:03:23,00:03:18,09:48:09
+ironman-france-20080622.csv,526,Cedric Buche,29,---,FRA,00:58:03,06:22:50,05:01:35,00:06:05,00:04:35,12:33:08
+ironman-france-20080622.csv,527,Nigel Cain,---,---,GBR,01:24:49,07:06:13,05:03:05,00:09:35,00:11:48,13:55:30
+ironman-france-20080622.csv,528,Andrew Campbell,29,CA,USA,01:01:24,05:57:39,04:22:39,00:04:29,00:06:46,11:32:57
+ironman-france-20080622.csv,529,Nicolas Christin,---,---,FRA,00:59:35,05:28:03,03:47:47,00:06:13,00:03:46,10:25:24
+ironman-france-20080622.csv,530,Mike Copeland,29,VA,USA,01:00:08,06:23:24,05:26:43,00:10:45,00:09:37,13:10:37
+ironman-france-20080622.csv,531,Lee Dantier De Friborug,---,---,GBR,01:08:04,06:59:06,05:16:39,00:05:20,00:07:29,13:36:38
+ironman-france-20080622.csv,532,Arnaud De Laveleye,---,---,BEL,01:00:34,05:42:55,03:52:14,00:04:54,00:10:29,10:51:06
+ironman-france-20080622.csv,533,Diedrik De Mulder,29,---,BEL,01:27:48,05:41:38,04:06:48,00:07:29,00:06:13,11:29:56
+ironman-france-20080622.csv,534,Bruno Derouet,---,---,FRA,01:13:35,05:33:39,05:52:36,00:05:17,00:07:50,12:52:57
+ironman-france-20080622.csv,535,Bram Deruyck,28,BE,BEL,00:57:38,05:24:05,---,00:04:05,00:04:17,DNF
+ironman-france-20080622.csv,536,Boji Dr.Kassabov,---,---,BGR,01:19:22,07:57:41,05:03:38,00:08:35,00:12:07,14:41:23
+ironman-france-20080622.csv,537,Thomas Dufrene,---,---,FRA,01:06:23,07:01:25,05:59:16,00:10:41,00:15:45,14:33:30
+ironman-france-20080622.csv,538,Mathieu Dussartre,29,FR,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,539,Nicolas Frossard,---,---,FRA,00:57:34,05:12:08,04:51:25,00:04:10,00:03:44,11:09:01
+ironman-france-20080622.csv,540,Paul Gittins,29,---,GBR,01:31:12,07:16:49,05:11:37,00:08:12,00:10:37,14:18:27
+ironman-france-20080622.csv,541,Chris Goodfellow,29,Oxfordshre,GBR,00:55:33,05:28:07,04:47:55,00:04:35,00:05:15,11:21:25
+ironman-france-20080622.csv,542,Guillaume Gramatica,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,543,Robin Griffiths,---,---,GBR,01:00:39,05:16:31,04:02:03,00:05:54,00:03:58,10:29:05
+ironman-france-20080622.csv,544,Craig Halsey,29,---,GBR,01:04:47,05:42:23,03:37:54,00:04:36,00:05:15,10:34:55
+ironman-france-20080622.csv,545,James Hey,29,Cleveland,GBR,01:13:01,06:15:02,04:31:29,00:09:32,00:06:25,12:15:29
+ironman-france-20080622.csv,546,Jon-Paul Hilton,29,---,GBR,01:15:21,06:59:07,05:40:29,00:07:51,00:08:36,14:11:24
+ironman-france-20080622.csv,547,Jean-Brice Hocquart,---,---,FRA,01:04:07,06:07:04,04:20:12,00:09:11,00:11:02,11:51:36
+ironman-france-20080622.csv,548,Alexander Höhne,29,---,DEU,01:14:44,06:02:22,04:41:43,00:06:22,00:06:38,12:11:49
+ironman-france-20080622.csv,549,Krzysztof Inglot,---,---,POL,01:41:40,08:16:32,05:24:20,00:16:09,00:13:01,15:51:42
+ironman-france-20080622.csv,550,Martin Borby Bruun Jacobsen,29,DK,DNK,01:14:20,06:06:18,05:46:21,00:10:12,00:05:58,13:23:09
+ironman-france-20080622.csv,551,Sebastien Janiaud,---,---,FRA,01:10:44,06:11:04,05:06:29,00:06:52,00:06:49,12:41:58
+ironman-france-20080622.csv,552,Kevin Johnson,---,---,FRA,01:03:29,05:59:50,04:54:46,00:04:55,00:04:22,12:07:22
+ironman-france-20080622.csv,553,Jan Kervitcer,29,Czech Republim,CZE,01:22:07,06:24:18,04:04:31,00:09:59,00:07:12,12:08:07
+ironman-france-20080622.csv,554,Robert Kett,29,---,GBR,01:17:50,06:32:29,05:03:58,00:11:29,00:16:37,13:22:23
+ironman-france-20080622.csv,555,Vaclav Kyral,29,---,CZE,00:53:51,05:36:59,04:13:54,00:05:54,00:04:40,10:55:18
+ironman-france-20080622.csv,556,David Lagunaaponte,---,---,MEX,01:17:56,---,12:45:23,00:15:10,---,12:45:23
+ironman-france-20080622.csv,557,Antti Lahdenranta,---,---,FIN,01:04:03,06:22:59,05:23:07,00:07:56,00:07:07,13:05:12
+ironman-france-20080622.csv,558,Neil Laverty,---,---,GBR,---,---,---,---,---,DNS
+ironman-france-20080622.csv,559,Thomas Ledoux,29,---,FRA,01:01:45,05:59:28,05:32:32,00:05:16,00:05:17,12:44:18
+ironman-france-20080622.csv,560,Brett Mahar,---,---,AUS,01:01:13,07:41:50,04:53:48,00:09:55,00:12:57,13:59:43
+ironman-france-20080622.csv,561,Charles Martin,29,---,ZAF,01:09:04,06:56:31,05:58:15,00:06:51,00:08:09,14:18:50
+ironman-france-20080622.csv,562,Colin Mc Govern,---,---,IRL,01:53:44,07:44:15,05:28:39,00:11:23,00:10:54,15:28:55
+ironman-france-20080622.csv,563,Travis Mckenzie,29,MN,USA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,564,Tim Mctavish,---,---,GBR,01:19:20,06:51:50,04:53:08,00:11:42,00:10:36,13:26:36
+ironman-france-20080622.csv,565,Ivan Negrato,29,---,ITA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,566,Julien Noye,---,---,FRA,01:08:17,06:35:40,---,00:10:16,---,DNF
+ironman-france-20080622.csv,567,Jérémy Plancque,---,---,FRA,01:00:42,05:44:40,04:44:13,00:05:54,00:06:53,11:42:22
+ironman-france-20080622.csv,568,Gareth Presch,---,---,IRL,01:20:42,06:46:14,05:11:31,00:08:26,00:11:56,13:38:49
+ironman-france-20080622.csv,569,Gerald Prickartz,---,---,BEL,01:02:34,05:41:01,05:06:54,00:04:37,00:04:55,12:00:01
+ironman-france-20080622.csv,570,Mathieu Quesnel,---,---,FRA,00:54:33,05:17:06,03:39:20,00:03:34,00:03:04,09:57:37
+ironman-france-20080622.csv,571,Leocadio Rico Alcantara,---,---,ESP,01:11:17,06:22:23,04:30:13,00:16:10,00:10:20,12:30:23
+ironman-france-20080622.csv,572,Sylvain Riouall,---,---,FRA,00:55:16,07:06:33,---,00:03:34,00:06:51,DNF
+ironman-france-20080622.csv,573,Carlos Sanchis Calabuig,29,---,ESP,01:11:29,---,04:48:29,---,06:45:15,11:33:44
+ironman-france-20080622.csv,574,Teemu Silvonen,---,---,FIN,01:27:55,07:05:40,05:20:56,00:13:20,00:07:01,14:14:52
+ironman-france-20080622.csv,575,Daniele Stenico,---,---,ITA,01:27:11,05:42:32,03:39:59,00:05:33,00:03:06,10:58:21
+ironman-france-20080622.csv,576,Janis Ulis,29,---,LVA,01:28:23,07:06:35,---,00:07:22,00:09:21,DNF
+ironman-france-20080622.csv,577,Thierry Verbinnen,---,---,BEL,---,---,---,---,---,DNS
+ironman-france-20080622.csv,578,Sintu Vives Bosch,---,---,AND,01:18:36,06:21:55,04:58:48,00:08:33,00:06:13,12:54:05
+ironman-france-20080622.csv,579,Gavin Whyte,29,---,GBR,01:10:30,06:50:30,04:50:13,00:11:10,00:17:42,13:20:05
+ironman-france-20080622.csv,580,Steve Wright,29,---,NZL,01:05:31,06:09:08,04:44:17,00:11:25,00:11:11,12:21:32
+ironman-france-20080622.csv,581,Thomas Adams,---,---,GBR,01:14:27,05:42:55,03:38:45,00:05:26,00:05:09,10:46:42
+ironman-france-20080622.csv,582,Josef Ajram,30,---,ESP,---,---,---,---,---,DNS
+ironman-france-20080622.csv,583,Martin Arsac,---,---,FRA,01:17:40,06:44:34,04:44:59,00:10:31,00:09:17,13:07:01
+ironman-france-20080622.csv,584,Matteo Baldacci,---,---,ITA,01:00:45,05:39:34,04:00:48,00:05:11,00:04:56,10:51:14
+ironman-france-20080622.csv,585,Jan-Matti Becker,31,---,DEU,00:55:42,05:23:25,03:20:38,00:03:39,00:03:06,09:46:30
+ironman-france-20080622.csv,586,Axel Bendiksby,30,---,NOR,01:06:50,05:59:41,04:22:35,00:07:42,00:06:29,11:43:17
+ironman-france-20080622.csv,587,Graeme Bryce,30,---,GBR,00:56:55,05:23:43,03:25:39,00:04:41,00:03:26,09:54:24
+ironman-france-20080622.csv,588,Jordi Cerro Amores,---,---,AND,00:54:14,05:32:26,04:33:01,00:05:33,00:05:37,11:10:51
+ironman-france-20080622.csv,589,Geoffray Clotuche,---,---,BEL,01:05:40,05:33:46,03:44:19,00:05:17,00:05:20,10:34:22
+ironman-france-20080622.csv,590,David Coda,---,---,FRA,01:07:11,05:20:44,03:35:26,00:04:06,00:03:47,10:11:14
+ironman-france-20080622.csv,591,Hugh Colvin,---,---,GBR,00:58:51,05:50:24,05:07:46,00:05:31,00:05:56,12:08:28
+ironman-france-20080622.csv,592,Jérôme Cornet,---,---,BEL,00:59:55,05:56:51,04:20:06,00:05:21,00:05:21,11:27:34
+ironman-france-20080622.csv,593,Richard Couturet,---,---,FRA,01:06:47,06:16:40,05:25:03,00:05:54,00:06:50,13:01:14
+ironman-france-20080622.csv,594,Vassili Crosson,---,---,FRA,01:04:36,05:35:14,03:55:46,00:07:14,00:05:13,10:48:03
+ironman-france-20080622.csv,595,Nick Denniff-Jones,---,---,GBR,01:17:59,07:49:50,05:55:02,00:08:41,00:06:27,15:17:59
+ironman-france-20080622.csv,596,Morgan Desmet,---,---,FRA,01:09:23,05:50:55,04:19:57,00:07:39,00:07:32,11:35:26
+ironman-france-20080622.csv,597,Max Eggen,---,---,DEU,00:58:30,05:19:49,03:36:28,00:04:58,00:04:48,10:04:33
+ironman-france-20080622.csv,598,Cesc Entrena,---,---,ESP,01:08:05,05:58:13,04:50:35,00:07:43,00:07:54,12:12:30
+ironman-france-20080622.csv,599,Sergio Fernández Pérez,---,---,ESP,01:02:25,06:12:16,04:29:29,00:10:09,00:07:38,12:01:57
+ironman-france-20080622.csv,600,Denis Fortis,---,---,ITA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,601,Paraic Gallagher,22,---,IRL,01:29:21,07:38:03,---,00:11:32,00:14:10,DNF
+ironman-france-20080622.csv,602,Diarmuid Geary,30,---,IRL,---,---,---,---,---,DNS
+ironman-france-20080622.csv,603,Gustavo Gomez,30,---,MEX,01:30:11,06:31:46,05:20:31,00:10:59,00:06:47,13:40:14
+ironman-france-20080622.csv,604,Dave Helfensteyn,---,---,BEL,00:57:27,05:22:12,04:35:17,00:03:08,00:06:34,11:04:38
+ironman-france-20080622.csv,605,Gregory Ibeknoussen,30,---,FRA,01:26:23,05:54:57,03:59:21,00:08:52,00:05:15,11:34:48
+ironman-france-20080622.csv,606,Lee Jackson,---,---,GBR,00:59:43,05:23:11,03:16:23,00:04:17,00:04:00,09:47:34
+ironman-france-20080622.csv,607,Daniel Johansson,---,DALA,SWE,01:02:05,05:46:53,---,00:04:07,00:04:20,DNF
+ironman-france-20080622.csv,608,Warren Keogh,---,---,GBR,01:35:06,07:52:14,06:01:22,00:10:27,00:11:59,15:51:08
+ironman-france-20080622.csv,609,Matti Kettunen,30,---,FIN,01:24:34,07:05:53,05:22:54,00:11:57,00:09:15,14:14:33
+ironman-france-20080622.csv,610,Erwan Layec,30,---,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,611,Nicolas Lecoutey,---,---,FRA,01:11:51,06:09:11,05:16:06,00:07:09,00:06:42,12:50:59
+ironman-france-20080622.csv,612,John Legge,30,Jersey,GBR,00:56:38,06:11:58,05:31:37,00:07:21,00:07:35,12:55:09
+ironman-france-20080622.csv,613,Jérôme Lemoine,---,---,FRA,00:55:38,05:23:49,05:22:17,00:04:05,---,11:45:49
+ironman-france-20080622.csv,614,Marc Liebendörfer,---,---,DEU,01:10:49,05:37:50,03:53:18,00:03:51,00:02:47,10:48:35
+ironman-france-20080622.csv,615,Richard Manchon,30,FR,FRA,01:11:27,06:08:51,06:20:41,00:15:05,00:11:17,14:07:21
+ironman-france-20080622.csv,616,Stephan Marczyk,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,617,Luis Mazon,---,---,ESP,---,---,---,---,---,DNS
+ironman-france-20080622.csv,618,Stephen Mcnamara,---,---,GBR,01:01:19,---,05:11:51,---,08:20:15,13:32:06
+ironman-france-20080622.csv,619,Carlos Megias Martinez,---,---,ESP,01:17:14,06:11:58,05:35:49,00:08:50,00:09:17,13:23:08
+ironman-france-20080622.csv,620,Florent N'Kodia,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,621,manel nogueras,30,---,ESP,01:28:51,06:19:59,05:17:42,00:08:50,00:09:59,13:25:21
+ironman-france-20080622.csv,622,Ibon Oregi Isasi,---,---,ESP,00:54:30,05:15:03,03:17:35,00:05:39,00:06:50,09:39:37
+ironman-france-20080622.csv,623,Helmut Pesau,30,---,AUT,01:12:14,06:12:55,03:57:37,00:07:59,00:05:38,11:36:23
+ironman-france-20080622.csv,624,Scott Peterson,---,---,USA,01:07:58,06:19:53,04:28:21,00:09:21,00:08:51,12:14:24
+ironman-france-20080622.csv,625,Frederick Phillips,---,---,ZAF,01:14:52,06:25:47,04:21:19,00:13:02,00:08:26,12:23:26
+ironman-france-20080622.csv,626,Guillaume Pinguet,---,---,FRA,01:36:09,05:52:16,06:27:18,00:06:24,00:08:39,14:10:46
+ironman-france-20080622.csv,627,Gianmarco Pizza,---,---,ITA,01:25:26,06:34:43,04:48:06,00:14:31,00:16:16,13:19:02
+ironman-france-20080622.csv,628,Christian Dr. Roller,30,---,DEU,---,---,---,---,---,DNS
+ironman-france-20080622.csv,629,Roger Salvador,---,---,ESP,01:13:19,05:41:08,04:06:43,00:08:43,00:06:02,11:15:55
+ironman-france-20080622.csv,630,Frank Schindler,---,---,DEU,00:53:54,05:40:50,04:14:43,00:05:26,00:05:23,11:00:16
+ironman-france-20080622.csv,631,Sven Schulze,30,---,DEU,00:53:50,05:21:53,04:15:00,00:03:19,---,10:34:02
+ironman-france-20080622.csv,632,Mikael Selvin,---,---,SWE,01:06:04,05:50:16,03:56:02,00:04:46,00:04:46,11:01:54
+ironman-france-20080622.csv,633,Raul Serrano Soria,---,---,ESP,01:01:05,05:27:17,03:58:49,00:05:27,00:07:06,10:39:44
+ironman-france-20080622.csv,634,"Thomas Shumaker, Jr.",---,---,USA,01:06:56,06:46:21,04:01:05,00:08:45,00:08:52,12:11:59
+ironman-france-20080622.csv,635,Nicolas Sorbeek,---,---,FRA,01:11:29,07:54:12,05:54:25,00:11:13,00:17:03,15:28:22
+ironman-france-20080622.csv,636,Guillaume Tessler,-7,---,FRA,01:07:59,07:31:13,04:52:43,00:08:39,00:10:11,13:50:45
+ironman-france-20080622.csv,637,Arnaud Trouche,---,---,FRA,01:07:38,06:53:48,04:44:23,00:09:30,00:10:43,13:06:02
+ironman-france-20080622.csv,638,Damien Van Cauwenberg,---,---,FRA,01:16:09,05:29:35,03:54:47,00:05:21,00:03:45,10:49:37
+ironman-france-20080622.csv,639,Kjell Van Der Waals,---,---,NLD,01:00:43,05:38:04,05:34:35,00:04:38,00:04:55,12:22:55
+ironman-france-20080622.csv,640,Yan Vanbrugghe,---,---,CAN,01:06:58,---,---,00:06:25,---,DNF
+ironman-france-20080622.csv,641,Nicolas Violland,---,---,FRA,00:59:29,05:33:07,04:09:13,00:03:47,00:04:09,10:49:45
+ironman-france-20080622.csv,642,Cristian Voges,30,---,MEX,---,---,---,---,---,DNS
+ironman-france-20080622.csv,643,Franck Vuaillat,31,---,FRA,01:17:17,07:08:04,05:41:50,00:19:26,00:19:47,14:46:24
+ironman-france-20080622.csv,644,James Waddock,30,Meath,IRL,01:42:43,08:18:20,---,00:10:27,---,DNF
+ironman-france-20080622.csv,645,David Wilde,30,DE,DEU,01:16:52,06:53:09,06:02:30,00:08:13,00:06:56,14:27:40
+ironman-france-20080622.csv,646,Ekaitz Zearreta,30,---,ESP,01:20:05,05:35:43,---,00:08:38,00:05:59,DNF
+ironman-france-20080622.csv,647,Manuel Armand,---,---,FRA,01:09:50,05:47:37,04:12:48,00:04:57,00:05:21,11:20:33
+ironman-france-20080622.csv,648,Oscar Aroca Martínez,31,ES,ESP,01:00:49,05:33:03,03:36:11,00:05:12,00:03:28,10:18:43
+ironman-france-20080622.csv,649,Ben Askew-Renaut,---,---,FRA,01:20:17,07:14:56,06:25:13,00:07:20,00:11:35,15:19:21
+ironman-france-20080622.csv,650,Nick Austin,---,---,GBR,01:10:03,07:14:58,05:56:14,00:09:07,00:14:59,14:45:21
+ironman-france-20080622.csv,651,Jerome Benoit,31,---,FRA,01:16:14,05:28:05,03:40:29,00:04:56,00:02:41,10:32:25
+ironman-france-20080622.csv,652,Michael Biz,31,---,FRA,01:15:22,05:59:08,04:26:03,00:04:43,00:05:20,11:50:36
+ironman-france-20080622.csv,653,Andre Brand,---,---,NLD,01:08:22,06:22:36,06:18:13,00:06:27,00:12:26,14:08:04
+ironman-france-20080622.csv,654,Cyril Camisuli,---,---,FRA,00:58:07,05:25:38,04:20:53,00:04:28,00:04:42,10:53:48
+ironman-france-20080622.csv,655,Ivano Campana,---,---,ITA,01:00:47,05:22:14,03:27:23,00:05:04,00:04:03,09:59:31
+ironman-france-20080622.csv,656,Yann Carayon,---,---,FRA,01:01:32,05:50:54,03:47:29,00:05:03,00:03:45,10:48:43
+ironman-france-20080622.csv,657,Fran Carrasco,31,---,ESP,01:16:49,07:01:30,06:03:47,00:09:37,00:12:19,14:44:02
+ironman-france-20080622.csv,658,Christophe Caucheteux,---,---,FRA,01:01:23,06:07:13,03:52:18,00:06:13,00:06:33,11:13:40
+ironman-france-20080622.csv,659,Alexis Christodoulou,---,---,GRC,01:00:46,06:11:03,05:27:09,00:06:27,00:06:07,12:51:32
+ironman-france-20080622.csv,660,cocard damien,32,---,FRA,01:14:02,06:42:53,05:08:03,00:13:54,00:06:07,13:24:59
+ironman-france-20080622.csv,661,Kevan Corbett,31,CA,USA,01:22:22,07:29:33,05:24:40,00:11:15,00:09:35,14:37:25
+ironman-france-20080622.csv,662,Andres Costa Milan,---,---,ESP,01:24:12,07:31:18,05:56:55,00:09:58,00:07:14,15:09:37
+ironman-france-20080622.csv,663,Daniel Czerwonka,---,---,USA,01:21:55,07:02:08,05:44:02,00:13:36,00:15:38,14:37:19
+ironman-france-20080622.csv,664,David Daudruy,---,---,FRA,01:11:14,06:01:24,05:06:48,00:05:55,00:05:32,12:30:53
+ironman-france-20080622.csv,665,Pablo De Santos,---,---,ESP,01:05:14,06:29:46,05:00:22,00:10:24,00:08:33,12:54:19
+ironman-france-20080622.csv,666,Alexandre Deaubonne,---,---,FRA,01:14:43,06:02:05,04:21:44,00:10:28,00:09:26,11:58:26
+ironman-france-20080622.csv,667,Mathieu Dubois,---,---,FRA,00:58:00,06:33:42,05:31:48,00:05:07,00:11:32,13:20:09
+ironman-france-20080622.csv,668,Michaël Dutto,---,---,FRA,00:56:31,05:36:20,---,00:04:12,00:04:12,DNF
+ironman-france-20080622.csv,669,Sean Ebert,---,---,USA,01:01:31,05:58:36,04:54:51,00:08:16,00:08:29,12:11:43
+ironman-france-20080622.csv,670,Wilfried Fayt,31,---,FRA,01:08:54,---,---,00:09:08,---,DNF
+ironman-france-20080622.csv,671,Antonio Ferrandez Polo,---,---,ESP,01:21:47,07:51:55,05:36:37,00:10:09,00:14:40,15:15:08
+ironman-france-20080622.csv,672,Bryan French,31,CT,USA,01:08:31,06:13:11,05:21:08,00:08:42,00:10:07,13:01:39
+ironman-france-20080622.csv,673,Christophe Gastaud,---,---,MCO,---,---,---,---,---,DNS
+ironman-france-20080622.csv,674,Fabrice Gaydou,---,---,FRA,01:04:27,05:44:56,04:05:44,00:07:00,00:04:31,11:06:38
+ironman-france-20080622.csv,675,Francois-Xavier Gorioux,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,676,Laurent Graignic,---,---,FRA,01:09:59,06:26:25,05:30:31,00:05:09,00:06:27,13:18:31
+ironman-france-20080622.csv,677,Jerry Greatorex,31,---,GBR,01:09:15,---,---,00:08:30,---,DNF
+ironman-france-20080622.csv,678,Alejandro Guerrero Azuela,31,Irapuato gto ,MEX,01:09:23,06:33:48,04:51:01,00:08:17,00:07:10,12:49:39
+ironman-france-20080622.csv,679,Alex Hales,---,---,GBR,01:22:04,06:53:19,06:00:44,00:09:51,00:11:29,14:37:27
+ironman-france-20080622.csv,680,Jes Hansen,31,---,DNK,01:20:20,06:51:45,05:41:40,00:05:18,00:08:19,14:07:22
+ironman-france-20080622.csv,681,Kevin Harding,31,---,GBR,01:10:39,06:28:01,05:34:57,00:08:32,00:10:44,13:32:53
+ironman-france-20080622.csv,682,Richard Hooker,---,---,GBR,01:03:42,05:56:34,04:18:41,00:07:24,00:06:15,11:32:36
+ironman-france-20080622.csv,683,Boris Hourdouillie,31,FR,FRA,00:55:37,05:43:23,04:22:05,00:07:08,00:04:40,11:12:53
+ironman-france-20080622.csv,684,Ivars Kassalis,---,---,LVA,01:03:38,06:25:37,05:02:26,00:07:46,00:07:08,12:46:35
+ironman-france-20080622.csv,685,John Keane,---,IRL,IRL,01:00:44,07:18:58,05:31:17,00:11:08,00:16:59,14:19:06
+ironman-france-20080622.csv,686,Simon Kearns,31,---,GBR,01:05:53,06:13:20,04:04:42,00:06:24,00:06:11,11:36:30
+ironman-france-20080622.csv,687,Mickaël Kerneis,---,---,FRA,01:19:40,05:48:20,04:26:40,00:08:58,00:07:47,11:51:25
+ironman-france-20080622.csv,688,Yann Le Goff,---,---,FRA,00:58:02,06:07:52,04:47:23,00:06:11,00:08:50,12:08:18
+ironman-france-20080622.csv,689,Thomas Lee,31,---,USA,01:13:47,07:13:29,05:19:29,00:07:47,00:10:42,14:05:14
+ironman-france-20080622.csv,690,Fabien Legrand,---,---,FRA,01:14:47,06:41:01,06:01:20,00:11:11,00:09:31,14:17:50
+ironman-france-20080622.csv,691,Ludovic Leroux,---,---,FRA,01:10:34,06:22:12,04:37:35,00:08:01,00:08:25,12:26:47
+ironman-france-20080622.csv,692,Didier Leroux,---,---,FRA,01:15:30,07:16:31,---,00:11:15,00:17:51,DNF
+ironman-france-20080622.csv,693,Marc Lewinstein,31,NY,USA,01:23:12,07:56:02,04:45:45,00:08:57,00:11:17,14:25:13
+ironman-france-20080622.csv,694,Scott Liddell,---,---,GBR,01:09:44,05:57:34,04:46:02,00:05:04,00:05:46,12:04:10
+ironman-france-20080622.csv,695,Christopher Losmann,---,---,AUT,01:11:52,06:33:27,04:16:49,00:07:05,00:05:58,12:15:11
+ironman-france-20080622.csv,696,Alonso Macias,31,---,MEX,---,---,---,---,---,DNS
+ironman-france-20080622.csv,697,Stelios Marcou,32,---,AGO,01:25:56,06:43:50,05:00:38,00:12:59,00:08:55,13:32:18
+ironman-france-20080622.csv,698,Patrick Martinie,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,699,Christos Mavrikios,---,---,GRC,01:23:10,06:11:19,03:34:47,00:06:14,00:10:47,11:26:17
+ironman-france-20080622.csv,700,Sylvain Merlen,---,---,FRA,01:26:18,06:38:27,03:58:49,00:09:12,00:06:28,12:19:14
+ironman-france-20080622.csv,701,Jerome Nuzeray,---,---,FRA,01:00:57,06:06:58,05:00:17,00:03:52,00:04:24,12:16:28
+ironman-france-20080622.csv,702,Jerome Ollagnier,---,---,FRA,01:04:16,05:51:02,03:51:49,00:06:24,00:06:04,10:59:35
+ironman-france-20080622.csv,703,Eugenio Olmos Garrigues,---,---,ESP,---,---,---,---,---,DNS
+ironman-france-20080622.csv,704,Jose Manuel Ortega Serrán,---,---,ESP,01:07:46,05:32:42,03:30:41,00:05:59,00:05:23,10:22:31
+ironman-france-20080622.csv,705,Marc Pedros Badenas,---,---,ESP,01:16:34,06:20:28,04:47:24,00:09:25,00:05:34,12:39:25
+ironman-france-20080622.csv,706,Xavier Peguero,---,---,FRA,01:22:00,06:46:03,06:44:03,00:07:43,00:08:43,15:08:32
+ironman-france-20080622.csv,707,Emilio Perez Marin,---,---,ESP,01:14:38,05:28:53,---,00:07:41,00:05:03,DNF
+ironman-france-20080622.csv,708,Jonathan Pike,-7,---,GBR,01:14:32,06:16:16,03:48:27,00:06:11,00:05:16,11:30:42
+ironman-france-20080622.csv,709,Henry-Paul Pingaud,---,---,FRA,01:04:28,06:00:09,04:46:39,00:08:22,00:06:02,12:05:40
+ironman-france-20080622.csv,710,Vicente Pliego Escobedo,31,Intl State,MEX,---,---,---,---,---,DNS
+ironman-france-20080622.csv,711,Cesar Ramirez Bernal,31,CO,MEX,01:27:10,06:41:45,03:53:42,00:05:57,00:05:04,12:13:38
+ironman-france-20080622.csv,712,Malik Reiding,31,---,GRD,01:03:28,05:41:04,04:00:42,00:05:34,00:04:49,10:55:37
+ironman-france-20080622.csv,713,David Roscoe,31,---,GBR,01:04:00,05:38:00,03:55:28,00:05:12,00:05:40,10:48:20
+ironman-france-20080622.csv,714,Thierry Schall,---,---,FRA,01:02:41,05:37:15,04:26:54,00:04:26,00:03:37,11:14:53
+ironman-france-20080622.csv,715,Are Skjævestad,31,---,NOR,01:04:26,05:43:18,03:58:15,00:06:46,00:04:34,10:57:19
+ironman-france-20080622.csv,716,Daniel Stalph,---,---,DEU,---,---,---,---,---,DNS
+ironman-france-20080622.csv,717,Jurg Stebler,31,---,CHE,01:00:20,05:41:24,04:15:22,00:05:22,00:04:35,11:07:03
+ironman-france-20080622.csv,718,Matthew Thomas,32,TX,USA,01:08:34,06:45:34,04:45:15,00:08:59,00:10:29,12:58:51
+ironman-france-20080622.csv,719,Gwenael Tristant,---,---,FRA,01:14:59,06:58:51,05:08:22,00:09:20,00:13:51,13:45:23
+ironman-france-20080622.csv,720,Willy Vanaudenhove,---,---,FRA,01:12:36,06:02:56,03:48:47,00:07:17,00:06:26,11:18:02
+ironman-france-20080622.csv,721,Olivier Vernejoul,---,---,FRA,01:15:44,06:49:38,05:34:05,00:06:14,00:12:25,13:58:06
+ironman-france-20080622.csv,722,Scott White,31,TX,USA,01:16:12,07:14:59,06:20:12,00:10:02,00:14:41,15:16:06
+ironman-france-20080622.csv,723,Scott Zaleski,---,---,USA,01:25:30,06:28:52,03:54:19,00:09:29,00:09:49,12:07:59
+ironman-france-20080622.csv,724,Vjaceslav Zunda,---,---,LVA,01:17:46,06:07:23,05:38:33,00:09:53,00:07:49,13:21:24
+ironman-france-20080622.csv,725,Iñigo Torrontegi Axpe,---,---,ESP,01:02:12,05:33:24,03:18:54,00:04:51,00:04:49,10:04:10
+ironman-france-20080622.csv,726,Richard Baker,32,---,GBR,01:21:49,06:21:59,04:45:23,00:11:43,00:08:28,12:49:22
+ironman-france-20080622.csv,727,Isidre Bancells Saborit,---,---,ESP,00:53:59,06:19:11,04:06:21,00:07:21,00:06:33,11:33:25
+ironman-france-20080622.csv,728,Arnaud Baus,---,---,FRA,01:08:07,06:40:31,05:07:41,00:06:38,00:07:09,13:10:06
+ironman-france-20080622.csv,729,David Benoist,32,Midi-Pyrénées,FRA,01:08:56,05:46:11,04:06:41,00:06:25,00:06:17,11:14:30
+ironman-france-20080622.csv,730,Cedric Beolet,---,---,FRA,01:11:08,05:08:00,03:15:56,00:06:08,00:05:00,09:46:12
+ironman-france-20080622.csv,731,Maxime Besacier,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,732,Pierre Bittner,32,---,FRA,01:10:29,05:37:59,03:53:19,00:05:47,00:05:20,10:52:54
+ironman-france-20080622.csv,733,David Bonnal,32,---,FRA,00:55:42,05:28:43,---,00:03:51,00:06:33,DNF
+ironman-france-20080622.csv,734,Denis Boucher,32,QC,CAN,01:12:13,05:47:54,04:32:37,00:08:33,00:07:08,11:48:25
+ironman-france-20080622.csv,735,Ludo Bouetard,---,---,FRA,01:10:55,05:50:39,---,00:04:15,00:03:28,DNF
+ironman-france-20080622.csv,736,Glenn Bowyer,---,---,GBR,01:08:10,06:08:40,04:07:16,00:10:47,00:09:12,11:44:05
+ironman-france-20080622.csv,737,Marc Burneleit,32,---,DEU,00:56:30,05:10:10,03:52:56,00:03:50,00:03:07,10:06:33
+ironman-france-20080622.csv,738,Enrique Camarasa Baño,---,---,ESP,01:19:14,06:41:21,04:27:08,00:07:58,00:09:16,12:44:57
+ironman-france-20080622.csv,739,Matthieu Catteau,---,---,FRA,01:05:12,06:07:39,---,00:05:08,00:06:18,DNF
+ironman-france-20080622.csv,740,Patrice Clavé,32,Midi-Pyrénées,FRA,01:16:27,05:52:53,04:50:19,00:08:32,00:07:56,12:16:07
+ironman-france-20080622.csv,741,Stéphane Cottereau,32,FR,FRA,00:57:29,05:21:15,04:07:57,00:03:41,00:05:57,10:36:19
+ironman-france-20080622.csv,742,Lawrence Down,---,---,GBR,01:02:07,06:03:59,05:11:38,00:06:53,00:06:09,12:30:46
+ironman-france-20080622.csv,743,Antoine Duvauchelle,---,---,FRA,01:14:59,06:18:44,05:12:26,00:05:50,00:07:53,12:59:52
+ironman-france-20080622.csv,744,Ferran Escalante Gonzalez,---,---,ESP,01:03:34,05:50:36,04:18:59,00:05:05,00:05:31,11:23:45
+ironman-france-20080622.csv,745,Luigi Ferrante,32,CEGGIA,ITA,01:18:11,06:28:28,04:10:58,00:09:36,00:07:28,12:14:41
+ironman-france-20080622.csv,746,Norbert Friedl,---,---,AUT,01:18:59,06:49:24,04:27:12,00:07:19,00:05:48,12:48:42
+ironman-france-20080622.csv,747,Richard Gavois,32,FR,FRA,01:05:08,05:40:12,04:42:20,00:06:03,00:07:01,11:40:44
+ironman-france-20080622.csv,748,Nicolas Geay,31,---,FRA,01:11:04,07:55:11,---,00:09:05,---,DNF
+ironman-france-20080622.csv,749,Carlos Gil,---,---,ESP,00:50:12,05:24:46,04:09:50,00:04:05,00:04:38,10:33:31
+ironman-france-20080622.csv,750,Charles Ginn,---,---,GBR,01:02:24,06:06:50,04:41:04,00:05:36,00:05:56,12:01:50
+ironman-france-20080622.csv,751,Stephen Gokhale,32,---,GBR,---,---,---,---,---,DNS
+ironman-france-20080622.csv,752,Scott Goligher,---,---,GBR,01:16:54,06:25:01,04:06:22,00:08:43,00:12:53,12:09:53
+ironman-france-20080622.csv,753,Jose Luis Gonzalez Garcia,---,---,ESP,01:26:27,06:55:30,04:45:41,00:14:01,00:15:38,13:37:17
+ironman-france-20080622.csv,754,Antoine Grassien,32,---,FRA,01:01:20,05:18:30,04:12:52,00:04:40,00:03:43,10:41:05
+ironman-france-20080622.csv,755,Eddy Gruchet,---,---,FRA,01:13:57,05:49:52,04:22:53,00:06:43,00:06:22,11:39:47
+ironman-france-20080622.csv,756,Jonathon Hartman,32,TX,USA,01:53:46,08:20:44,05:18:17,00:09:44,00:08:33,15:51:04
+ironman-france-20080622.csv,757,Toon Helsen,---,---,BEL,---,---,---,---,---,DNS
+ironman-france-20080622.csv,758,Christophe Jouve,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,759,Vincent Kamp,32,---,GBR,---,---,---,---,---,DNS
+ironman-france-20080622.csv,760,Brett Keartland,33,---,ZAF,01:08:40,05:57:31,04:29:52,00:07:18,00:05:27,11:48:48
+ironman-france-20080622.csv,761,Soren Kongsted,---,---,DNK,01:14:33,05:32:34,04:02:30,00:05:44,00:07:33,11:02:54
+ironman-france-20080622.csv,762,Jindra Kralik,32,---,CZE,01:01:50,05:21:55,03:58:46,00:04:27,00:03:12,10:30:10
+ironman-france-20080622.csv,763,Paul Lanat,---,---,FRA,00:58:22,06:43:10,04:54:20,00:04:44,00:04:01,12:44:37
+ironman-france-20080622.csv,764,Ludovic Le Goff,---,---,FRA,01:16:26,06:18:29,04:18:30,00:06:34,00:07:44,12:07:43
+ironman-france-20080622.csv,765,François Le Grix,---,---,FRA,01:26:29,06:46:59,05:26:52,00:07:31,00:08:00,13:55:51
+ironman-france-20080622.csv,766,Michaël Leconte,---,---,FRA,01:06:52,05:46:00,04:33:46,00:07:51,00:09:39,11:44:08
+ironman-france-20080622.csv,767,Bertrand Lefebvre,---,---,FRA,01:01:26,06:09:14,04:45:30,00:10:23,00:17:01,12:23:34
+ironman-france-20080622.csv,768,Gary Leger,---,---,FRA,01:15:04,06:14:10,04:23:49,00:11:08,00:11:07,12:15:18
+ironman-france-20080622.csv,769,Sébastien Léon,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,770,Aitor Liñeralopez,32,ES,ESP,01:08:03,05:55:29,06:08:41,00:06:56,00:07:50,13:26:59
+ironman-france-20080622.csv,771,Markus Löw,32,---,DEU,00:53:07,05:14:48,03:21:41,00:03:17,00:03:13,09:36:06
+ironman-france-20080622.csv,772,Yannick Machecourt,---,---,FRA,00:54:07,05:14:44,---,00:04:53,00:06:04,DNF
+ironman-france-20080622.csv,773,Johann Maerten,---,---,FRA,01:23:50,07:09:13,05:07:47,00:08:18,00:06:52,13:56:00
+ironman-france-20080622.csv,774,Yann Magnin,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,775,Grégoire Manson,---,---,FRA,01:22:29,07:29:22,05:05:58,00:15:06,00:13:10,14:26:05
+ironman-france-20080622.csv,776,Sébastien Marro,---,---,FRA,00:59:39,05:24:03,03:25:45,00:04:10,00:03:00,09:56:37
+ironman-france-20080622.csv,777,Simpson Mc Grath,---,---,GBR,01:27:05,06:57:04,06:04:24,00:08:46,00:13:36,14:50:55
+ironman-france-20080622.csv,778,Juan Manuel Mendez Frojan,---,---,ESP,01:12:15,06:09:16,04:24:41,00:06:50,00:05:08,11:58:10
+ironman-france-20080622.csv,779,Benoit Menestrier,32,Intl State,FRA,00:54:12,05:08:28,03:33:33,00:04:32,00:03:29,09:44:14
+ironman-france-20080622.csv,780,Dominique Meneust,---,---,FRA,01:05:43,05:17:27,---,00:04:46,00:04:35,DNF
+ironman-france-20080622.csv,781,Patrick Merle,32,IN,FRA,01:19:06,06:16:29,05:07:19,00:06:02,00:05:44,12:54:40
+ironman-france-20080622.csv,782,Russell Meyer,---,---,ZAF,01:16:06,08:18:24,05:26:35,00:17:25,00:10:47,15:29:17
+ironman-france-20080622.csv,783,Yannick Michel,---,---,FRA,01:20:11,05:18:19,05:27:55,00:05:41,00:04:14,12:16:20
+ironman-france-20080622.csv,784,David Naoures,---,---,FRA,01:07:39,06:04:44,04:25:29,00:06:58,00:07:35,11:52:25
+ironman-france-20080622.csv,785,Brian Neville,32,---,IRL,01:18:00,06:18:28,05:09:49,00:07:34,00:13:00,13:06:51
+ironman-france-20080622.csv,786,Jean Ostian,---,---,FRA,01:06:05,05:49:30,03:52:44,00:06:20,00:04:35,10:59:14
+ironman-france-20080622.csv,787,Michele Pagano,---,---,ITA,01:22:12,05:27:13,04:29:29,00:05:39,00:03:42,11:28:15
+ironman-france-20080622.csv,788,Ivan Palhegyi,---,---,HUN,---,---,---,---,---,DNS
+ironman-france-20080622.csv,789,Anders Pallesen,---,---,DNK,01:42:27,07:41:32,05:57:43,00:12:12,00:08:46,15:42:40
+ironman-france-20080622.csv,790,Josep Paretas Rosàs,---,---,ESP,01:14:30,---,---,---,---,DNF
+ironman-france-20080622.csv,791,Rob Paull,32,AZ,USA,02:13:55,---,---,00:07:59,---,DNF
+ironman-france-20080622.csv,792,Olivier Pichayrou,---,---,FRA,00:57:48,06:05:50,04:33:53,00:06:08,00:07:37,11:51:16
+ironman-france-20080622.csv,793,Damien Pivet,---,---,FRA,01:17:12,07:04:05,04:43:30,00:10:54,00:09:37,13:25:18
+ironman-france-20080622.csv,794,Cédric Reigadas,---,---,FRA,01:04:06,06:30:10,04:23:22,00:05:24,00:06:51,12:09:53
+ironman-france-20080622.csv,795,Nicolas Roux,32,---,FRA,01:13:36,05:45:13,04:00:02,00:05:59,00:04:45,11:09:35
+ironman-france-20080622.csv,796,Alejandro Sarobe Zubieta,---,---,ESP,01:17:24,05:52:24,05:22:05,00:10:13,00:07:32,12:49:38
+ironman-france-20080622.csv,797,Jeffery Sass,32,TN,USA,01:14:48,06:05:55,06:09:43,00:05:13,00:04:03,13:39:42
+ironman-france-20080622.csv,798,Ruben Schellingerhout,---,---,NLD,01:25:58,06:32:14,03:49:34,00:17:57,00:19:37,12:25:20
+ironman-france-20080622.csv,799,Olivier Scheys,---,---,BEL,01:12:08,06:18:28,04:43:35,00:07:23,00:08:12,12:29:46
+ironman-france-20080622.csv,800,Aymeric Schmitt,---,---,FRA,01:02:26,05:38:19,04:15:32,00:05:21,00:04:35,11:06:13
+ironman-france-20080622.csv,801,Andrew Seivewright,---,---,GBR,01:06:41,07:57:38,06:24:22,00:10:49,00:13:31,15:53:01
+ironman-france-20080622.csv,802,Mark Sherwood,32,---,GBR,01:26:12,08:05:51,05:34:19,00:08:29,00:15:39,15:30:30
+ironman-france-20080622.csv,803,Pär Sikö,32,---,SWE,---,---,---,---,---,DNS
+ironman-france-20080622.csv,804,Ruben Sola Fox,32,---,ESP,01:23:57,06:07:38,---,00:07:44,00:09:49,DNF
+ironman-france-20080622.csv,805,Thomas Thiemer,32,---,DEU,00:59:48,05:39:42,05:00:06,00:03:59,00:03:49,11:47:24
+ironman-france-20080622.csv,806,Jonathan Tune,---,GBR,GBR,00:54:09,05:28:58,---,00:04:50,00:03:26,DNF
+ironman-france-20080622.csv,807,Gorka Uribeetxebarria Castañed,---,---,ESP,01:11:53,05:40:26,05:19:50,00:09:46,00:05:56,12:27:51
+ironman-france-20080622.csv,808,Jef Vanroosbroeck,31,antwerpen,BEL,01:05:24,05:01:23,02:57:23,00:05:04,00:03:20,09:12:34
+ironman-france-20080622.csv,809,David Vanryssel,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,810,Cyril Victor,---,---,FRA,01:08:26,06:40:55,05:44:06,00:06:20,00:08:37,13:48:24
+ironman-france-20080622.csv,811,Janis Vingris,---,---,LVA,01:08:34,05:47:47,04:52:23,00:09:52,00:08:22,12:06:58
+ironman-france-20080622.csv,812,Sebastien Vitale,---,FR,FRA,01:23:27,06:39:58,05:15:40,00:07:52,00:07:04,13:34:01
+ironman-france-20080622.csv,813,Adam Weiner,32,---,DEU,01:14:04,05:36:31,---,00:08:42,00:09:10,DNF
+ironman-france-20080622.csv,814,Stefan Weller,32,---,DEU,01:06:43,05:49:51,03:31:22,00:04:40,00:03:22,10:35:58
+ironman-france-20080622.csv,815,Neill Whyte,---,---,GBR,01:01:01,06:50:50,04:50:13,00:20:15,00:17:47,13:20:06
+ironman-france-20080622.csv,816,Matthew Woodruff,---,---,GBR,01:06:08,06:57:57,03:50:59,00:11:42,00:14:21,12:21:07
+ironman-france-20080622.csv,817,Iban Albonigamayor,---,---,ESP,---,---,---,---,---,DNS
+ironman-france-20080622.csv,818,Johnny Allombert-Blanc,34,FR,FRA,01:17:02,06:21:17,---,00:08:36,00:05:44,DNF
+ironman-france-20080622.csv,819,Tommy Aslaksen,---,---,NOR,01:27:52,06:06:39,07:32:16,00:06:25,00:07:39,15:20:51
+ironman-france-20080622.csv,820,Xavi Aznal,---,---,ESP,01:30:27,07:36:01,05:53:21,00:12:36,00:13:21,15:25:46
+ironman-france-20080622.csv,821,Gustavo Badillo,33,---,MEX,---,---,---,---,---,DNS
+ironman-france-20080622.csv,822,Jérome Bellet,---,---,FRA,01:05:01,06:58:38,04:37:21,00:10:24,00:14:07,13:05:31
+ironman-france-20080622.csv,823,Karim Ben,33,---,BEL,---,---,---,---,---,DNS
+ironman-france-20080622.csv,824,Andreas Berbu,---,---,NOR,01:16:51,05:34:43,03:42:16,00:06:10,00:05:36,10:45:36
+ironman-france-20080622.csv,825,Michael Boldini,---,---,FRA,00:58:02,05:48:19,05:08:07,00:05:09,00:05:30,12:05:07
+ironman-france-20080622.csv,826,Nicolas Bonnefon,---,---,FRA,01:03:09,05:21:50,04:03:00,00:06:05,00:03:34,10:37:38
+ironman-france-20080622.csv,827,Francesco Bordegari,---,---,ITA,01:09:21,06:40:49,04:26:09,00:09:25,00:07:42,12:33:26
+ironman-france-20080622.csv,828,Nicholas Boughay,---,---,GBR,01:31:43,07:18:00,04:52:14,00:11:04,00:09:31,14:02:32
+ironman-france-20080622.csv,829,Tilo Brzezinski,---,---,DEU,01:19:45,06:34:23,05:42:28,00:06:45,00:07:22,13:50:43
+ironman-france-20080622.csv,830,Philippe Blain,---,---,FRA,01:07:25,06:00:33,04:20:02,00:07:15,00:10:02,11:45:17
+ironman-france-20080622.csv,831,David Cambre,33,FR,FRA,01:01:41,05:23:55,05:06:18,00:06:20,00:06:58,11:45:12
+ironman-france-20080622.csv,832,Laurent Cassou,---,---,FRA,00:59:11,05:47:56,05:28:48,00:04:29,00:05:12,12:25:36
+ironman-france-20080622.csv,833,Vincent Charleux,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,834,Nic Clarke,33,---,GBR,01:18:02,06:34:40,04:13:11,00:08:40,00:09:30,12:24:03
+ironman-france-20080622.csv,835,Olivier Clerc,---,---,FRA,01:17:42,07:05:04,05:29:26,00:10:20,00:13:35,14:16:07
+ironman-france-20080622.csv,836,Nicolas Come,33,---,FRA,01:11:26,05:52:15,04:46:10,00:07:38,00:05:13,12:02:42
+ironman-france-20080622.csv,837,Jean-Claude Constandse,33,CA,USA,01:07:05,05:52:42,04:21:06,00:04:51,00:04:35,11:30:19
+ironman-france-20080622.csv,838,Jose Manuel Costa Milan,33,---,ESP,01:17:46,06:42:10,05:18:29,00:14:04,00:13:33,13:46:02
+ironman-france-20080622.csv,839,Malcolm Craig,33,---,IRL,01:12:21,06:32:33,04:15:13,00:08:15,00:06:39,12:15:01
+ironman-france-20080622.csv,840,Thierry Diallo,33,---,FRA,01:09:32,06:27:05,---,00:06:07,00:10:46,DNF
+ironman-france-20080622.csv,841,Frédéric Durand,33,---,FRA,00:58:27,05:09:30,03:15:52,00:03:47,00:06:28,09:34:04
+ironman-france-20080622.csv,842,Olivier Durand,---,---,FRA,01:03:30,06:19:11,03:43:55,00:04:33,00:04:10,11:15:19
+ironman-france-20080622.csv,843,Sebastien Dussartre,---,---,FRA,00:56:56,05:18:27,03:32:10,00:03:47,00:02:28,09:53:48
+ironman-france-20080622.csv,844,Ross Edgar,---,---,GBR,01:16:24,07:02:59,06:45:53,00:10:42,00:16:36,15:32:34
+ironman-france-20080622.csv,845,Sebastien Espert,---,---,FRA,01:12:26,06:00:36,04:52:34,00:06:06,00:05:09,12:16:51
+ironman-france-20080622.csv,846,Carlo Facchino,33,CA,USA,00:58:16,05:48:30,04:15:44,00:04:59,00:05:55,11:13:24
+ironman-france-20080622.csv,847,Mark Foley,---,---,IRL,---,---,---,---,---,DNS
+ironman-france-20080622.csv,848,Simone Forlani,33,Pavia,ITA,00:58:10,05:01:49,03:23:03,00:04:07,00:03:11,09:30:20
+ironman-france-20080622.csv,849,Guillermo Franco,33,Guanajuato,MEX,01:29:18,08:11:50,05:06:18,00:12:43,00:08:44,15:08:53
+ironman-france-20080622.csv,850,Manu George,---,---,FRA,01:07:18,05:53:47,04:46:24,00:07:43,00:10:12,12:05:24
+ironman-france-20080622.csv,851,Fabrice Ghesquiere,33,FR,FRA,00:59:39,05:19:21,03:19:36,00:04:09,00:03:26,09:46:11
+ironman-france-20080622.csv,852,Stefano Gregoretti,33,---,ITA,01:01:27,05:47:42,04:37:29,00:06:11,00:10:43,11:43:32
+ironman-france-20080622.csv,853,Benjamin Grover,---,---,USA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,854,Farid Hadj-Rabah,---,---,FRA,01:06:05,06:11:23,04:21:56,00:08:11,00:08:41,11:56:16
+ironman-france-20080622.csv,855,Fabrice  Houzelle,33,Intl State,FRA,01:01:38,05:05:04,03:03:29,00:04:02,00:03:19,09:17:32
+ironman-france-20080622.csv,856,Laurent Humery,33,FR,FRA,01:12:50,06:10:51,04:28:54,00:07:19,00:07:36,12:07:30
+ironman-france-20080622.csv,857,Sebastien Husiaux,---,---,FRA,01:17:02,06:39:10,04:24:37,00:12:05,00:11:59,12:44:53
+ironman-france-20080622.csv,858,Juan C Izquierdo Rojas,---,---,MEX,01:20:08,07:20:37,04:36:36,00:11:35,00:20:03,13:48:59
+ironman-france-20080622.csv,859,Peter Kelly,33,ZA,ZAF,01:01:47,05:59:23,04:20:49,00:07:12,00:05:23,11:34:34
+ironman-france-20080622.csv,860,Waldo Kemp,---,---,ZAF,01:22:14,08:27:18,05:17:41,00:16:31,00:13:00,15:36:44
+ironman-france-20080622.csv,861,Aristotelis Kolitsas,---,---,GRC,---,---,---,---,---,DNS
+ironman-france-20080622.csv,862,Jerome Lacroix,33,FR,FRA,01:01:34,05:40:32,04:01:38,00:05:42,00:05:50,10:55:16
+ironman-france-20080622.csv,863,Txema Landa,---,---,ESP,01:01:18,05:57:13,04:26:50,00:08:20,00:10:10,11:43:51
+ironman-france-20080622.csv,864,Yann Lauden,---,---,FRA,01:06:55,05:41:52,---,00:07:26,00:10:48,DNF
+ironman-france-20080622.csv,865,Hervé Lecomte,---,---,FRA,01:34:52,06:30:37,05:20:34,00:06:41,00:28:15,14:00:59
+ironman-france-20080622.csv,866,Kevin Lee,33,CA,USA,01:46:39,08:33:21,---,00:14:41,00:19:16,DNF
+ironman-france-20080622.csv,867,Stephane Lesage,---,---,FRA,01:32:23,05:49:57,03:49:38,00:03:50,00:04:43,11:20:31
+ironman-france-20080622.csv,868,Samuel Louchet,---,---,FRA,01:05:56,05:50:47,04:45:31,00:06:24,00:06:00,11:54:38
+ironman-france-20080622.csv,869,Samuel Madrid,---,---,ESP,01:08:26,06:07:08,04:31:24,00:10:32,00:08:00,12:05:30
+ironman-france-20080622.csv,870,David Mahler,---,---,FRA,01:07:19,06:18:09,04:08:12,00:09:31,00:10:01,11:53:12
+ironman-france-20080622.csv,871,Thibaut Marais,---,---,FRA,01:26:11,07:41:00,06:25:35,00:08:04,00:11:39,15:52:29
+ironman-france-20080622.csv,872,David Marrel,33,---,CHE,00:59:53,05:36:42,05:03:12,00:03:49,00:03:17,11:46:53
+ironman-france-20080622.csv,873,Yoanne Martinaud,---,---,FRA,01:13:33,06:09:01,04:44:25,00:07:20,00:06:30,12:20:49
+ironman-france-20080622.csv,874,Jerome Marty,33,---,FRA,01:11:26,06:22:24,05:00:22,00:05:52,00:05:46,12:45:50
+ironman-france-20080622.csv,875,Alan Mc Govern,---,---,IRL,01:35:29,07:53:42,05:36:20,00:10:37,00:12:47,15:28:55
+ironman-france-20080622.csv,876,Leo Mccabe,---,---,IRL,01:53:45,08:38:14,---,00:10:43,00:10:28,DNF
+ironman-france-20080622.csv,877,Pierre Julien Michel,---,---,FRA,01:08:28,06:04:15,04:32:31,00:05:26,00:04:12,11:54:52
+ironman-france-20080622.csv,878,Fabrice Noye,---,---,FRA,01:06:37,05:47:06,03:45:14,00:08:38,00:08:00,10:55:35
+ironman-france-20080622.csv,879,Pat Ohara,---,---,IRL,01:18:08,06:53:54,05:33:08,00:11:37,00:09:35,14:06:22
+ironman-france-20080622.csv,880,Eric Page,33,AZ,USA,01:05:26,06:25:29,05:45:50,00:08:26,00:09:55,13:35:06
+ironman-france-20080622.csv,881,Alex Perez,---,---,ESP,01:13:42,07:26:24,05:57:18,00:09:37,00:10:05,14:57:06
+ironman-france-20080622.csv,882,Jason Pettigrew,33,---,IRL,01:09:50,06:36:49,---,00:08:41,00:10:32,DNF
+ironman-france-20080622.csv,883,Martins Pevko,---,---,LVA,01:12:36,05:50:35,04:17:49,00:07:12,00:06:41,11:34:53
+ironman-france-20080622.csv,884,Rodolphe Pitre,-8,---,FRA,00:56:35,---,---,00:04:14,---,DNF
+ironman-france-20080622.csv,885,Jean-Frédéric Planque,---,---,FRA,00:57:27,05:38:34,05:33:25,00:05:45,00:05:27,12:20:38
+ironman-france-20080622.csv,886,Jerome Prince,---,---,FRA,01:14:27,05:36:14,03:57:22,00:08:08,00:08:33,11:04:44
+ironman-france-20080622.csv,887,Armando Quiroz Gutierrez,33,---,MEX,---,---,---,---,---,DNS
+ironman-france-20080622.csv,888,J-Frederic Razafiarison,---,---,FRA,01:15:34,05:51:21,03:41:09,00:07:03,00:06:08,11:01:15
+ironman-france-20080622.csv,889,Guy Richardson,33,---,GBR,01:17:13,06:37:45,04:15:40,00:07:44,00:10:17,12:28:39
+ironman-france-20080622.csv,890,Jens Rudolph,33,---,DEU,01:03:35,05:16:08,---,00:05:28,00:06:07,DNF
+ironman-france-20080622.csv,891,Karlis Salijums,33,---,LVA,01:26:19,06:32:48,06:17:05,00:07:58,00:10:52,14:35:02
+ironman-france-20080622.csv,892,Arnaud Schroeder,---,---,FRA,01:08:56,05:29:10,03:28:49,00:05:56,00:04:17,10:17:08
+ironman-france-20080622.csv,893,Patrice Segur,---,---,FRA,01:02:46,05:16:27,03:50:52,00:03:59,00:04:07,10:18:11
+ironman-france-20080622.csv,894,Roberto Soler,---,---,ESP,01:06:42,06:24:52,04:28:47,00:06:24,00:10:37,12:17:22
+ironman-france-20080622.csv,895,Marco Stichini,33,---,ZAF,01:16:14,06:18:34,05:35:50,00:09:54,00:06:58,13:27:30
+ironman-france-20080622.csv,896,Andrew Stirling,33,Somerset,GBR,01:27:32,06:47:07,05:28:56,00:06:54,00:07:58,13:58:27
+ironman-france-20080622.csv,897,Mathieu Stremsdoerfer,33,---,FRA,01:10:47,06:33:16,05:34:53,00:08:31,00:15:49,13:43:16
+ironman-france-20080622.csv,898,Mathias Teigen Rasch-Halvorsen,---,---,NOR,01:20:10,05:47:04,03:28:54,00:06:18,00:04:46,10:47:12
+ironman-france-20080622.csv,899,Sebastien Tholozan,---,---,FRA,01:07:51,05:57:10,04:37:32,00:04:23,00:04:26,11:51:22
+ironman-france-20080622.csv,900,Thomas Tunst,33,---,AUT,01:07:00,05:44:22,04:14:50,00:04:57,00:03:52,11:15:01
+ironman-france-20080622.csv,901,Fabrice Uriac,---,---,FRA,01:10:54,07:13:26,05:13:58,00:08:47,00:13:45,14:00:50
+ironman-france-20080622.csv,902,Ferry Adler,34,DK,DNK,01:12:36,06:03:56,04:49:48,00:09:23,00:06:37,12:22:20
+ironman-france-20080622.csv,903,Christian Aigner,---,---,AUT,01:09:07,05:57:05,03:33:13,00:05:56,00:04:26,10:49:47
+ironman-france-20080622.csv,904,Daniel Anastasi,34,CH,CHE,01:20:19,06:59:18,06:00:12,00:12:28,00:13:44,14:46:01
+ironman-france-20080622.csv,905,Pedro J. Andreu Mestre,---,---,ESP,01:04:08,06:14:36,04:35:23,00:09:21,00:10:44,12:14:12
+ironman-france-20080622.csv,906,David Bigot,---,---,FRA,01:04:11,05:49:57,03:48:07,00:07:05,00:03:36,10:52:56
+ironman-france-20080622.csv,907,David Boquet,---,---,FRA,01:06:38,05:36:24,05:18:33,00:04:45,00:03:45,12:10:05
+ironman-france-20080622.csv,908,Bruno Boudry,34,---,BEL,01:10:01,05:50:27,04:32:21,00:05:55,00:04:38,11:43:22
+ironman-france-20080622.csv,909,Bresson Cyrille,34,---,FRA,01:06:44,06:11:52,---,00:06:09,00:19:21,DNF
+ironman-france-20080622.csv,910,Didier Brugger,---,---,FRA,01:08:29,05:47:05,04:50:59,00:06:00,00:05:55,11:58:28
+ironman-france-20080622.csv,911,Christian Bucaro,---,---,ITA,01:18:08,08:28:24,04:37:52,00:11:04,00:12:06,14:47:34
+ironman-france-20080622.csv,912,Fabian Carmona Orozco,34,Estado de Mexico,MEX,01:18:53,07:06:13,04:41:01,00:08:51,00:09:07,13:24:05
+ironman-france-20080622.csv,913,Enric Castella Gomez,---,---,ESP,01:30:19,05:50:51,04:01:05,00:09:28,00:07:32,11:39:15
+ironman-france-20080622.csv,914,Juan Francisco Chico De Guzman Guillen,---,---,ESP,01:08:37,06:25:35,05:37:19,00:11:15,00:11:06,13:33:52
+ironman-france-20080622.csv,915,Fabien Commeret,---,---,FRA,01:20:46,07:47:34,---,00:14:52,00:12:50,DNF
+ironman-france-20080622.csv,916,Adan Contreras,34,CA,MEX,---,---,---,---,---,DNS
+ironman-france-20080622.csv,917,Steven De Backer,---,---,BEL,01:11:39,05:54:48,04:00:05,00:07:14,00:07:14,11:21:00
+ironman-france-20080622.csv,918,Francesco Della Fiorentina,---,---,ITA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,919,Stéphane Delmas,---,---,FRA,00:55:12,06:00:33,04:11:01,00:03:56,00:06:09,11:16:51
+ironman-france-20080622.csv,920,Sébastien Deschamps,---,---,FRA,01:10:59,05:34:11,---,00:07:00,00:08:14,DNF
+ironman-france-20080622.csv,921,thomas desclozeaux,34,---,FRA,01:04:14,05:48:22,03:53:14,00:04:31,00:04:46,10:55:07
+ironman-france-20080622.csv,922,James Eagle,---,---,GBR,01:20:13,07:43:31,06:33:04,00:17:05,00:11:05,16:04:58
+ironman-france-20080622.csv,923,Hernan Eguez,34,---,ECU,01:13:53,05:52:26,04:07:36,00:07:45,00:05:44,11:27:24
+ironman-france-20080622.csv,924,Clément Fartoukh,---,---,FRA,01:27:18,07:30:36,04:34:43,00:07:35,00:09:16,13:49:28
+ironman-france-20080622.csv,925,Laurent Fauveau,34,---,FRA,01:08:21,07:12:49,---,00:05:17,00:08:10,DNF
+ironman-france-20080622.csv,926,Pauli Franz,---,---,AUT,01:02:20,---,---,00:05:24,---,DNF
+ironman-france-20080622.csv,927,Gordon Friend,---,---,GBR,---,---,---,---,---,DNS
+ironman-france-20080622.csv,928,Llorenç Gacias Terrasa,34,ES,ESP,01:07:53,06:27:35,05:39:07,00:08:32,00:10:00,13:33:07
+ironman-france-20080622.csv,929,Guillaume Gallet,---,---,FRA,01:23:36,06:29:56,05:12:07,00:06:46,00:06:50,13:19:15
+ironman-france-20080622.csv,930,Juan Carlos Gama Vilchis,34,---,MEX,01:10:42,06:03:17,03:56:43,00:06:19,00:05:57,11:22:58
+ironman-france-20080622.csv,931,Andres Garcia Garcia,---,---,ESP,01:11:33,05:40:51,03:37:14,00:06:21,00:05:57,10:41:56
+ironman-france-20080622.csv,932,Sébastien Gaudard,---,---,FRA,00:50:41,05:34:53,03:40:38,00:03:53,00:05:08,10:15:13
+ironman-france-20080622.csv,933,Martin Gee,34,---,GBR,01:06:01,05:36:17,04:16:50,00:04:45,00:04:16,11:08:09
+ironman-france-20080622.csv,934,Lionel Gelay Turtaut,33,FR,FRA,00:59:16,06:11:22,05:15:59,00:07:40,00:09:05,12:43:22
+ironman-france-20080622.csv,935,Philippe Ghilain,34,---,BEL,01:10:51,07:09:30,04:57:59,00:05:43,00:06:11,13:30:14
+ironman-france-20080622.csv,936,Jerome Glili,---,---,FRA,01:17:07,07:18:45,05:15:16,00:10:02,00:08:59,14:10:09
+ironman-france-20080622.csv,937,Juan Ramon Gonzalez Caamaño,---,---,ESP,01:12:45,05:42:57,04:16:59,00:05:56,00:07:00,11:25:37
+ironman-france-20080622.csv,938,Jonas Buhl Gregersen,---,---,DNK,01:15:03,06:44:15,05:14:02,00:07:37,00:11:36,13:32:33
+ironman-france-20080622.csv,939,Marc Griffouillere,---,---,FRA,01:04:23,06:10:33,06:52:25,00:07:20,00:06:32,14:21:13
+ironman-france-20080622.csv,940,Hugh Hannigan,34,---,IRL,01:39:38,08:32:09,04:57:45,00:09:02,00:09:00,15:27:34
+ironman-france-20080622.csv,941,Glenn Hatrick,34,---,IRL,---,---,---,---,---,DNS
+ironman-france-20080622.csv,942,Yannick Henry,34,---,FRA,01:02:23,05:13:53,03:29:21,00:04:15,00:02:24,09:52:16
+ironman-france-20080622.csv,943,Alfredo Herrera,34,GTO,MEX,01:19:46,07:39:54,04:41:10,00:10:40,00:14:57,14:06:27
+ironman-france-20080622.csv,944,Anders Holm Jensen,---,---,DNK,01:14:28,07:07:32,05:24:16,00:15:42,00:16:59,14:18:57
+ironman-france-20080622.csv,945,Mark Hoskins,---,---,GBR,01:25:06,07:54:31,05:33:27,00:10:17,00:09:22,15:12:43
+ironman-france-20080622.csv,946,Thierry Houp,---,---,FRA,01:02:47,06:05:07,04:22:18,00:11:13,00:10:46,11:52:11
+ironman-france-20080622.csv,947,Vicente Jonguitud,34,Queretaro,MEX,---,---,---,---,---,DNS
+ironman-france-20080622.csv,948,Jason Keighery,34,NY,AUS,---,---,---,---,---,DNS
+ironman-france-20080622.csv,949,Matthias Koch,---,---,DEU,01:17:36,06:37:49,04:22:03,00:09:55,00:06:50,12:34:13
+ironman-france-20080622.csv,950,Andrei Krasnov,1,---,FRA,01:34:04,07:03:43,05:06:30,00:11:31,00:18:04,14:13:52
+ironman-france-20080622.csv,951,Adrian Krummen,---,---,CHE,---,---,---,---,---,DNS
+ironman-france-20080622.csv,952,Jean Marc Le Borgne,-6,---,FRA,---,---,---,---,---,DNS
+ironman-france-20080622.csv,953,Stephane Lebon,34,FR,FRA,01:00:21,05:18:36,---,00:04:22,00:03:55,DNF
+ironman-france-20080622.csv,954,Christophe Lecomte,---,---,FRA,01:12:03,06:06:59,05:20:20,00:09:39,00:16:33,13:05:34
+ironman-france-20080622.csv,955,Thomas Leth-Olsen,34,---,NOR,00:54:25,05:13:38,03:13:01,00:03:33,00:03:35,09:28:12
+ironman-france-20080622.csv,956,Ricardo Linares Roig,---,---,ESP,01:11:44,05:53:03,04:08:39,00:07:03,00:04:56,11:25:25
+ironman-france-20080622.csv,957,Jonas Lindkvist,34,---,SWE,01:01:40,05:18:55,---,00:03:58,00:04:07,DNF
+ironman-france-20080622.csv,958,Benoit Lochkovitch,---,---,FRA,00:53:42,05:36:04,04:03:42,00:03:59,00:04:44,10:42:11
+ironman-france-20080622.csv,959,Olivier Maciejewski,---,---,FRA,01:06:54,05:32:58,03:48:44,00:05:40,00:05:20,10:39:36
+ironman-france-20080622.csv,960,Sylvain Maire,---,---,FRA,01:04:29,05:51:06,04:19:38,00:03:48,00:04:30,11:23:31

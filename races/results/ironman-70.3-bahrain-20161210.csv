@@ -1,0 +1,808 @@
+#File=ironman-70.3-bahrain-20161210.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-bahrain-20161210.csv,2,Terenzo Bozzone,31,AUK,NZL,00:25:07,01:56:48,01:15:16,00:02:56,00:01:25,03:41:32
+ironman-70.3-bahrain-20161210.csv,4,Michael Raelert,36,---,DEU,00:24:59,02:02:23,01:26:56,00:02:54,00:01:15,03:58:27
+ironman-70.3-bahrain-20161210.csv,5,Antony Costes,26,---,FRA,00:25:08,02:02:01,01:19:01,00:03:13,00:01:20,03:50:43
+ironman-70.3-bahrain-20161210.csv,6,Patrik Nilsson,25,---,SWE,00:25:49,02:05:04,---,00:03:16,00:09:13,DNF
+ironman-70.3-bahrain-20161210.csv,7,Matt Trautman,31,Western Cape,ZAF,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,9,Sam Appleton,26,CO,AUS,00:25:03,02:01:10,01:13:29,00:03:06,00:01:22,03:44:10
+ironman-70.3-bahrain-20161210.csv,12,Jan Van Berkel,30,---,CHE,00:25:49,02:06:19,01:21:32,00:03:19,00:01:18,03:58:17
+ironman-70.3-bahrain-20161210.csv,13,Nasser Alkhalifa,---,---,BHR,00:28:28,---,---,00:04:05,---,DNF
+ironman-70.3-bahrain-20161210.csv,14,Frederik Croneborg,36,---,SWE,00:25:18,02:07:03,01:19:07,00:03:13,00:01:48,03:56:29
+ironman-70.3-bahrain-20161210.csv,15,Richie Cunningham,43,CO,AUS,00:25:58,02:04:59,01:20:38,00:03:09,00:01:32,03:56:16
+ironman-70.3-bahrain-20161210.csv,17,David Breuer,25,---,DEU,00:26:37,02:05:32,01:20:32,00:03:18,00:01:28,03:57:27
+ironman-70.3-bahrain-20161210.csv,18,David Plese,33,Intl State,SVN,00:28:28,02:01:22,01:14:01,00:04:00,00:01:25,03:49:16
+ironman-70.3-bahrain-20161210.csv,20,Romain Guillaume,31,---,FRA,00:25:06,02:01:48,01:16:38,00:03:09,00:01:48,03:48:29
+ironman-70.3-bahrain-20161210.csv,24,Stuart Hayes,37,---,GBR,00:25:10,02:02:15,---,00:02:57,00:01:37,DNF
+ironman-70.3-bahrain-20161210.csv,29,Olivier Godart,41,DXB,LUX,00:30:16,02:13:46,01:22:10,00:03:53,00:01:44,04:11:49
+ironman-70.3-bahrain-20161210.csv,31,Eric Watson,27,WA,BHR,00:24:58,02:12:08,01:18:42,00:03:11,00:01:59,04:00:58
+ironman-70.3-bahrain-20161210.csv,33,Miquel Blanchart Tintó,32,---,ESP,00:26:34,02:09:25,01:16:35,00:03:35,00:01:39,03:57:48
+ironman-70.3-bahrain-20161210.csv,34,Yvan Jarrige,27,---,FRA,00:25:47,02:06:34,01:15:54,00:03:09,00:01:30,03:52:54
+ironman-70.3-bahrain-20161210.csv,35,Frédéric Limousin,35,---,FRA,00:26:39,02:11:35,01:20:37,00:03:56,00:01:41,04:04:28
+ironman-70.3-bahrain-20161210.csv,37,Sean Donnelly,28,---,DEU,00:25:12,02:21:44,01:23:39,00:03:21,00:02:21,04:16:17
+ironman-70.3-bahrain-20161210.csv,38,Tomas Renc,26,Intl State,CZE,00:26:36,02:12:14,01:19:28,00:03:42,00:01:38,04:03:38
+ironman-70.3-bahrain-20161210.csv,40,Guillaume Doree,26,---,ATF,00:28:25,02:15:09,01:22:14,00:03:40,00:01:36,04:11:04
+ironman-70.3-bahrain-20161210.csv,42,Julien Marcq,33,---,FRA,00:29:14,02:12:15,01:21:03,00:04:02,00:01:59,04:08:33
+ironman-70.3-bahrain-20161210.csv,44,Ivan Jezko,38,Slovakia,SVK,00:30:58,02:20:24,01:24:42,00:04:22,00:02:19,04:22:45
+ironman-70.3-bahrain-20161210.csv,45,David Jilek,29,Intl State,CZE,00:31:16,02:12:12,01:20:45,00:04:18,00:02:00,04:10:31
+ironman-70.3-bahrain-20161210.csv,48,Pedro Gomes,33,DXB,PRT,00:26:31,02:12:06,01:20:56,00:03:40,00:01:49,04:05:02
+ironman-70.3-bahrain-20161210.csv,49,Petr Bednar,36,Czech Republic,CZE,00:34:40,02:26:19,01:34:21,00:04:30,00:01:41,04:41:31
+ironman-70.3-bahrain-20161210.csv,50,Steffen Justus,34,---,DEU,00:25:05,02:01:52,01:11:25,00:02:47,00:01:17,03:42:26
+ironman-70.3-bahrain-20161210.csv,54,Manuel Küng,29,---,CHE,00:25:20,02:11:01,01:23:43,00:03:25,00:01:47,04:05:16
+ironman-70.3-bahrain-20161210.csv,68,Caroline Claudia Steffen,38,NSW,CHE,00:28:54,02:15:58,01:24:50,00:03:34,00:01:52,04:15:08
+ironman-70.3-bahrain-20161210.csv,69,Natascha Schmitt,30,---,DEU,00:30:29,02:20:58,01:26:38,00:03:38,00:01:53,04:23:36
+ironman-70.3-bahrain-20161210.csv,70,Natalie Seymour,30,Intl State,GBR,00:30:16,02:17:09,01:33:19,00:03:55,00:01:33,04:26:12
+ironman-70.3-bahrain-20161210.csv,71,Sarah Crowley,33,QLD,AUS,00:30:28,02:14:56,01:20:40,00:03:21,00:01:34,04:10:59
+ironman-70.3-bahrain-20161210.csv,72,Tine Deckers,38,---,BEL,00:30:59,02:13:45,01:25:38,00:03:31,00:01:50,04:15:43
+ironman-70.3-bahrain-20161210.csv,73,Kirsty Jahn,32,CO,CAN,00:30:28,02:17:53,01:24:55,00:03:41,00:02:09,04:19:06
+ironman-70.3-bahrain-20161210.csv,74,Emma Pallant,27,Surrey,GBR,00:30:24,02:14:49,01:22:21,00:03:28,00:01:23,04:12:25
+ironman-70.3-bahrain-20161210.csv,75,Caroline Livesey,37,Intl State,GBR,00:31:46,02:19:22,01:30:33,00:04:21,00:01:55,04:27:57
+ironman-70.3-bahrain-20161210.csv,78,Sue Huse,42,MT,CAN,00:37:43,02:27:50,01:24:13,00:04:46,00:02:00,04:36:32
+ironman-70.3-bahrain-20161210.csv,80,Maria Czesnik,39,---,POL,00:30:06,02:30:28,---,00:03:58,00:01:50,DNF
+ironman-70.3-bahrain-20161210.csv,82,Anna Eberhardt,34,---,HUN,00:42:45,02:21:01,01:32:09,00:03:51,00:01:47,04:41:33
+ironman-70.3-bahrain-20161210.csv,84,Frankie Sanjana,32,---,GBR,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,85,Jessica Jones Meyers,38,OK,USA,00:32:38,02:18:01,01:26:09,00:03:42,00:01:48,04:22:18
+ironman-70.3-bahrain-20161210.csv,86,Alice Hector,34,Intl State,GBR,00:30:21,02:20:08,01:24:13,00:03:47,00:01:59,04:20:28
+ironman-70.3-bahrain-20161210.csv,88,Judith Corachan Vaquera,32,---,ESP,00:30:23,02:19:08,01:26:26,00:04:01,00:01:38,04:21:36
+ironman-70.3-bahrain-20161210.csv,89,Helena Herrero Gomez,40,---,ESP,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,93,Karen Thibodeau,37,BC,CAN,00:30:26,02:25:11,01:34:41,00:03:48,00:01:48,04:35:54
+ironman-70.3-bahrain-20161210.csv,94,Jocelyn Mccauley,29,OH,USA,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,95,Diana Riesler,32,---,DEU,00:30:40,02:12:54,01:28:04,00:04:05,00:01:37,04:17:20
+ironman-70.3-bahrain-20161210.csv,97,Jenny Schulz,33,---,DEU,00:34:13,02:22:15,01:22:53,00:04:19,00:01:40,04:25:20
+ironman-70.3-bahrain-20161210.csv,101,Xabier Tijero,24,---,ESP,00:26:25,02:16:21,01:17:43,00:03:38,00:01:43,04:05:50
+ironman-70.3-bahrain-20161210.csv,102,Jeren Seegers,31,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,103,Manuel Huerzeler,30,---,CHE,00:28:44,02:21:08,01:34:39,00:04:32,00:02:45,04:31:48
+ironman-70.3-bahrain-20161210.csv,104,Mihai Vigariu,32,BB,ROU,00:27:38,02:19:00,01:31:10,00:04:19,00:02:02,04:24:09
+ironman-70.3-bahrain-20161210.csv,105,Mikel Calahorra,33,RIFFA,BHR,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,106,Chris Standidge,36,---,GBR,00:24:26,02:09:01,01:18:21,00:04:03,00:01:46,03:57:37
+ironman-70.3-bahrain-20161210.csv,107,Fredrik Ekström,39,---,SWE,00:30:53,02:14:44,01:25:16,00:04:40,00:03:11,04:18:44
+ironman-70.3-bahrain-20161210.csv,108,Cinar Goksen,35,Alabama,TUR,00:32:22,02:23:05,01:33:08,00:05:28,00:01:43,04:35:46
+ironman-70.3-bahrain-20161210.csv,109,Kevin Orlandi,35,---,FRA,00:26:32,02:11:59,01:29:08,00:03:56,00:01:53,04:13:28
+ironman-70.3-bahrain-20161210.csv,110,Filippo Neri,42,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,111,James Eastland,40,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,112,Mark Pellew,42,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,113,Tomas Pritasil,44,Czech republic,CZE,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,114,Yanick Cote,41,Doha,CAN,00:34:34,02:23:39,01:34:50,00:04:22,00:02:12,04:39:37
+ironman-70.3-bahrain-20161210.csv,115,Mark Christian Hummel,46,---,DEU,00:33:44,02:14:14,01:44:42,00:06:00,00:02:00,04:40:40
+ironman-70.3-bahrain-20161210.csv,116,Paolo Mussotto,52,italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,117,Joachim Doeding,60,São Paulo,BRA,00:31:59,02:26:27,01:30:52,00:05:37,00:03:38,04:38:33
+ironman-70.3-bahrain-20161210.csv,118,Eden Kang,27,---,SGP,00:27:30,02:24:56,01:28:12,00:04:22,00:01:28,04:26:28
+ironman-70.3-bahrain-20161210.csv,119,Javier Cano Morales,30,---,ESP,00:34:03,02:26:11,01:32:42,00:04:49,00:02:10,04:39:55
+ironman-70.3-bahrain-20161210.csv,120,Kaustubh Radkar,34,maharashtra,IND,00:25:08,02:49:24,01:41:36,00:06:43,00:02:32,05:05:23
+ironman-70.3-bahrain-20161210.csv,121,Abdullah Alsharhan,36,Other,KWT,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,122,Alex Sidorenko,36,Almaty,KAZ,00:38:09,02:31:24,01:23:59,00:05:46,00:02:31,04:41:49
+ironman-70.3-bahrain-20161210.csv,123,Dominic Leivers,39,Select,GBR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,124,Osama Al-Adhamy,38,DXB,IRQ,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,125,Alexej Pokorny,42,---,AUT,00:31:48,02:30:14,01:43:31,00:05:52,00:03:25,04:54:50
+ironman-70.3-bahrain-20161210.csv,126,Khalid Al Khalifa,40,Riffa,BHR,00:37:00,02:46:14,02:02:46,00:06:55,00:02:13,05:35:08
+ironman-70.3-bahrain-20161210.csv,127,Lars Kuettel,44,---,CHE,00:29:38,02:26:29,01:51:46,00:04:54,00:03:54,04:56:41
+ironman-70.3-bahrain-20161210.csv,128,Livesey Mark,43,NTT,GBR,00:26:06,02:10:47,01:26:53,00:04:04,00:01:56,04:09:46
+ironman-70.3-bahrain-20161210.csv,129,Piotr Bula,41,---,POL,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,130,Stephen Anderson,42,Surrey,GBR,00:34:03,02:44:39,01:28:02,00:05:54,00:02:39,04:55:17
+ironman-70.3-bahrain-20161210.csv,131,Dave Kyle,47,MI,USA,00:28:48,02:15:03,01:33:41,00:04:32,00:01:44,04:23:48
+ironman-70.3-bahrain-20161210.csv,132,Filippo Ciaccia,46,Milano,ITA,00:37:17,02:51:31,01:48:12,00:08:43,00:04:02,05:29:45
+ironman-70.3-bahrain-20161210.csv,133,Hasan Itani,45,DXB,LBN,00:33:32,02:31:50,01:54:07,00:05:55,00:02:11,05:07:35
+ironman-70.3-bahrain-20161210.csv,134,Hermann Holst,47,---,DEU,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,135,Jacek Podoba,45,Warszawa,POL,00:28:01,02:24:10,01:25:57,00:04:49,00:02:00,04:24:57
+ironman-70.3-bahrain-20161210.csv,136,Jean-Daniel Roch,49,APO,LUX,00:34:41,02:36:54,01:55:02,00:07:00,00:03:29,05:17:06
+ironman-70.3-bahrain-20161210.csv,137,Peter Kralik,47,Bratislava,SVK,00:41:19,03:11:44,01:51:36,00:09:58,00:03:36,05:58:13
+ironman-70.3-bahrain-20161210.csv,138,Rune Sanbeck,46,UK,DNK,00:34:53,02:23:37,01:38:41,00:05:26,00:02:18,04:44:55
+ironman-70.3-bahrain-20161210.csv,139,Simon Wood,48,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,140,Steffen (Gerhard) Ziska,52,---,DEU,00:39:38,02:59:06,02:10:49,00:08:59,00:03:55,06:02:27
+ironman-70.3-bahrain-20161210.csv,141,Michael Hirst,23,East Yorkshire,GBR,00:40:34,02:47:41,01:52:07,00:05:12,00:01:48,05:27:22
+ironman-70.3-bahrain-20161210.csv,142,Ramy Nachar,26,Beirut ,LBN,00:37:14,02:40:07,01:50:13,00:04:27,00:02:00,05:14:01
+ironman-70.3-bahrain-20161210.csv,143,Ali Janahi,30,Other,BHR,00:42:08,02:37:19,01:51:15,00:07:06,00:02:30,05:20:18
+ironman-70.3-bahrain-20161210.csv,144,Simon Boqvist,30,---,SWE,00:36:35,02:27:08,01:41:29,00:04:03,00:02:21,04:51:36
+ironman-70.3-bahrain-20161210.csv,145,Yousif Zaman,32,Bahrain,BHR,00:36:13,02:32:50,01:31:06,00:07:25,00:02:03,04:49:37
+ironman-70.3-bahrain-20161210.csv,146,Amin Manzouri,35,---,GBR,00:44:47,02:40:46,02:02:56,00:06:23,00:04:21,05:39:13
+ironman-70.3-bahrain-20161210.csv,147,Clarke Morton-Shepherd,39,Other,GBR,00:29:09,02:21:51,01:36:09,00:05:15,00:02:46,04:35:10
+ironman-70.3-bahrain-20161210.csv,148,Craig Broome,36,Kuwait,KWT,00:50:11,02:51:07,02:27:14,00:07:21,00:05:16,06:21:09
+ironman-70.3-bahrain-20161210.csv,149,Raul Minarro Palacios,38,RIYADH,ESP,00:30:19,02:32:39,01:49:47,00:05:11,00:02:58,05:00:54
+ironman-70.3-bahrain-20161210.csv,150,Simone Camposeranio,38,DXB,ITA,00:39:48,02:50:37,02:04:16,00:06:04,00:02:15,05:43:00
+ironman-70.3-bahrain-20161210.csv,151,Tito Rodriguez,38,Kuwait,ESP,00:32:55,02:47:25,01:31:16,00:05:32,00:02:02,04:59:10
+ironman-70.3-bahrain-20161210.csv,152,Brian Lang,43,NJ,USA,00:37:43,03:00:18,01:54:53,00:10:23,00:03:33,05:46:50
+ironman-70.3-bahrain-20161210.csv,153,Diego Soto,43,TX,USA,00:36:40,02:25:02,01:42:19,00:06:01,00:03:32,04:53:34
+ironman-70.3-bahrain-20161210.csv,154,Janne Block,43,---,SWE,00:50:13,02:36:35,02:03:53,00:08:19,00:05:17,05:44:17
+ironman-70.3-bahrain-20161210.csv,155,Luvuyo Bangazi,40,Eastern Cape,ZAF,00:39:37,03:01:44,01:46:14,00:07:04,00:04:28,05:39:07
+ironman-70.3-bahrain-20161210.csv,156,Matthew Rushton,41,Kingdon of Bahrain,ZAF,00:31:38,02:44:42,01:50:39,00:05:07,00:02:03,05:14:09
+ironman-70.3-bahrain-20161210.csv,157,Alex Geiss,47,---,DEU,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,158,Branislav Kusik,45,Slovakia,SVK,00:45:34,02:55:58,02:29:45,00:10:52,00:05:29,06:27:38
+ironman-70.3-bahrain-20161210.csv,159,David Taylor,48,Other,BHR,00:37:19,---,---,00:06:24,---,DNF
+ironman-70.3-bahrain-20161210.csv,160,Karsten Due,46,Other,DNK,00:34:05,02:41:41,02:04:15,00:06:04,00:02:29,05:28:34
+ironman-70.3-bahrain-20161210.csv,161,Kris Geysels,48,---,BEL,00:35:16,02:56:23,02:02:48,00:07:36,00:03:15,05:45:18
+ironman-70.3-bahrain-20161210.csv,162,Radek Podracky,45,DXB,CZE,00:40:48,02:43:30,02:01:24,00:05:31,00:03:28,05:34:41
+ironman-70.3-bahrain-20161210.csv,163,Paolo Romano,48,Ferrara,ITA,00:34:00,02:19:57,01:41:30,00:05:09,00:03:02,04:43:38
+ironman-70.3-bahrain-20161210.csv,164,John Venable,46,AE,USA,00:29:15,02:38:56,01:55:40,00:05:06,00:02:43,05:11:40
+ironman-70.3-bahrain-20161210.csv,165,Ian Gilby,52,AUH,GBR,00:38:00,02:45:23,01:53:04,00:07:32,00:04:11,05:28:10
+ironman-70.3-bahrain-20161210.csv,166,Jens Traunsberger,51,---,DEU,00:35:41,02:43:30,01:51:52,00:06:24,00:02:58,05:20:25
+ironman-70.3-bahrain-20161210.csv,167,Kwadjo Adusei-Poku,52,NY,USA,00:44:01,03:00:13,01:54:39,00:09:35,00:03:27,05:51:55
+ironman-70.3-bahrain-20161210.csv,168,Mark Nelson,55,bangkok,GBR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,169,Thomas Dreher,55,---,DEU,00:38:36,02:32:47,01:57:51,00:06:43,00:03:32,05:19:29
+ironman-70.3-bahrain-20161210.csv,170,Michael Bramble,34,FL,USA,00:44:06,02:48:54,01:40:01,00:06:03,00:04:37,05:23:41
+ironman-70.3-bahrain-20161210.csv,171,Christian Henn,40,DXB,DEU,00:28:16,02:11:48,01:45:37,00:04:36,00:02:03,04:32:20
+ironman-70.3-bahrain-20161210.csv,172,Sergei Tcarev,48,---,RUS,00:34:17,02:25:57,02:08:47,00:05:34,00:02:12,05:16:47
+ironman-70.3-bahrain-20161210.csv,173,Alejandro Altuna Elortza,57,---,ESP,00:27:59,02:35:36,01:48:17,00:05:22,00:02:27,04:59:41
+ironman-70.3-bahrain-20161210.csv,174,Ahmed Al-Awa,48,---,GBR,00:37:33,02:38:10,01:36:13,00:06:26,00:02:53,05:01:15
+ironman-70.3-bahrain-20161210.csv,175,Jan Tomanek,29,CZE,CZE,00:51:00,03:12:05,01:19:34,00:03:50,00:04:58,05:31:27
+ironman-70.3-bahrain-20161210.csv,176,Gary Elizaga,36,DXB,PHL,00:39:15,02:25:37,01:31:21,00:06:19,00:02:06,04:44:38
+ironman-70.3-bahrain-20161210.csv,177,Luke Mathews,31,Lincolnshire,GBR,00:25:42,02:15:02,01:26:31,00:03:47,00:01:44,04:12:46
+ironman-70.3-bahrain-20161210.csv,178,Yury Popov,40,Moscow,RUS,00:36:24,02:33:05,01:40:34,00:06:10,00:02:53,04:59:06
+ironman-70.3-bahrain-20161210.csv,183,Lisa Hancox,38,DXB,GBR,00:27:38,02:41:59,01:51:55,00:04:39,00:01:41,05:07:52
+ironman-70.3-bahrain-20161210.csv,184,Kristina Beckendorf,41,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,185,Lynette Warn,53,Other,NZL,00:34:35,02:46:45,01:53:24,00:05:43,00:03:11,05:23:38
+ironman-70.3-bahrain-20161210.csv,186,Rebecka Harding,28,---,SWE,00:36:02,02:44:48,01:43:28,00:05:39,00:02:18,05:12:15
+ironman-70.3-bahrain-20161210.csv,187,Maria Ekström,41,---,SWE,00:40:18,02:37:35,01:46:23,00:05:33,00:03:25,05:13:14
+ironman-70.3-bahrain-20161210.csv,188,Vicky Andrews,43,---,BHR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,189,Catherine Roch,50,Luxembourg,LUX,00:36:39,02:36:47,02:06:07,00:05:29,00:03:07,05:28:09
+ironman-70.3-bahrain-20161210.csv,190,Elena Gualini,51,italia,ITA,00:42:00,02:59:49,01:54:01,00:07:09,00:03:02,05:46:01
+ironman-70.3-bahrain-20161210.csv,191,Marina Lovrek,29,Seef,HRV,00:34:37,02:39:09,01:48:46,00:05:26,00:03:42,05:11:40
+ironman-70.3-bahrain-20161210.csv,192,Bettina Herzog,35,---,AUT,00:39:27,03:03:22,02:16:24,00:06:17,00:04:50,06:10:20
+ironman-70.3-bahrain-20161210.csv,193,Yelena Kun,35,Almaty,KAZ,00:39:33,03:02:26,01:58:10,00:06:37,00:03:41,05:50:27
+ironman-70.3-bahrain-20161210.csv,194,Rachel Taylor,39,Northern Governate,USA,00:38:40,03:00:27,01:50:57,00:04:31,00:02:58,05:37:33
+ironman-70.3-bahrain-20161210.csv,195,Frauke Riedinger,47,---,DEU,00:53:34,03:29:30,02:45:11,00:11:48,00:05:47,07:25:50
+ironman-70.3-bahrain-20161210.csv,196,Greer Ann Sansom,48,VIC,AUS,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,197,Kim Crawford,48,NS,CAN,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,198,Clare Mccabe,44,AUH,GBR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,207,Rana Al Alawi,24,A'Ali,BHR,00:41:23,03:06:51,02:05:15,00:06:50,00:03:14,06:03:33
+ironman-70.3-bahrain-20161210.csv,208,Ashlesha Dabir,24,Maharashtra,IND,00:50:07,03:50:24,02:33:25,00:09:16,00:03:50,07:27:02
+ironman-70.3-bahrain-20161210.csv,209,Grace Stewart,24,Lancashire,KWT,00:43:13,03:31:19,---,00:07:49,00:08:57,DNF
+ironman-70.3-bahrain-20161210.csv,210,Sarah Abouel Seoud,25,Cairo,EGY,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,211,Angela Aguilo,29,Saar,PHL,00:40:41,03:28:38,02:32:00,00:07:45,00:04:23,06:53:27
+ironman-70.3-bahrain-20161210.csv,212,Hessa Al Khalifa,25,Riffa,BHR,00:47:10,03:15:05,02:09:58,00:08:06,00:05:19,06:25:38
+ironman-70.3-bahrain-20161210.csv,213,Hannah Al Khalifa,26,---,BHR,00:40:56,02:57:30,02:01:42,00:06:29,00:02:07,05:48:44
+ironman-70.3-bahrain-20161210.csv,214,Nailah Al-Khalifa,25,Intl State,BHR,00:44:02,03:19:56,02:49:56,00:08:36,00:04:09,07:06:39
+ironman-70.3-bahrain-20161210.csv,215,Bernadette Carton,29,Dublin,IRL,00:42:51,03:09:08,02:00:25,00:06:32,00:03:46,06:02:42
+ironman-70.3-bahrain-20161210.csv,216,Jenna Denyes,29,---,CAN,00:55:55,03:42:53,02:42:01,00:12:13,00:08:49,07:41:51
+ironman-70.3-bahrain-20161210.csv,217,Geraldine Diaz,28,Qatar,PHL,00:49:06,03:02:39,02:32:11,00:07:48,00:06:13,06:37:57
+ironman-70.3-bahrain-20161210.csv,218,Fiona Dutton,26,AUH,GBR,00:45:18,03:16:46,02:12:46,00:07:48,00:03:43,06:26:21
+ironman-70.3-bahrain-20161210.csv,219,Jackie Fidler,29,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,220,Kristina Karle,29,AE,USA,00:40:39,03:07:27,02:12:08,00:08:43,00:04:20,06:13:17
+ironman-70.3-bahrain-20161210.csv,221,Mandana Latifi,29,---,CHE,00:27:15,03:09:18,---,00:04:52,---,DNF
+ironman-70.3-bahrain-20161210.csv,222,Raquel Nuvolini Wajngarten,27,Santa Catarina,BRA,00:33:40,02:38:29,01:41:01,00:06:03,00:02:41,05:01:54
+ironman-70.3-bahrain-20161210.csv,223,Carla Pregigueiro,29,Doha,ESP,00:31:12,02:56:32,01:52:29,00:04:45,00:02:06,05:27:04
+ironman-70.3-bahrain-20161210.csv,224,Devin Pruett,25,Kingdom of Saudi Arabia,USA,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,225,Mayuri Singh Sengar,29,Maharashtra,IND,01:03:59,03:24:25,02:41:14,00:07:32,00:05:07,07:22:17
+ironman-70.3-bahrain-20161210.csv,226,Sabrina Stadelmann,25,---,CHE,00:28:29,02:31:42,01:34:14,00:04:14,00:01:45,04:40:24
+ironman-70.3-bahrain-20161210.csv,227,Meaad Al Ansari,32,Bahrain,BHR,00:57:38,03:32:57,03:22:52,00:08:52,00:05:18,08:07:37
+ironman-70.3-bahrain-20161210.csv,228,Nouf Al Khalifa,34,Intl State,BHR,00:44:01,03:21:58,02:54:01,00:09:21,00:04:13,07:13:34
+ironman-70.3-bahrain-20161210.csv,229,Nayla Al Marzooqi,34,Bahrain,BHR,00:54:33,03:55:36,02:20:57,00:11:56,00:07:17,07:30:19
+ironman-70.3-bahrain-20161210.csv,230,Wafa Alobaidat,30,manama,BHR,00:55:29,03:57:25,02:44:39,00:12:16,00:06:05,07:55:54
+ironman-70.3-bahrain-20161210.csv,231,Louise Barbesgaard,32,AUH,DNK,00:51:49,03:01:18,02:35:13,00:09:58,00:07:16,06:45:34
+ironman-70.3-bahrain-20161210.csv,232,Kristina Barnett,34,MN,USA,00:38:28,03:03:33,01:55:55,00:14:55,00:03:48,05:56:39
+ironman-70.3-bahrain-20161210.csv,233,Carla Davies,30,Qatar,AUS,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,234,Gerda Maria,31,Qatar,ROU,00:33:13,03:25:25,02:04:17,00:06:18,00:03:31,06:12:44
+ironman-70.3-bahrain-20161210.csv,235,Deirdre Goltz,33,Doha,USA,00:42:11,03:31:41,02:36:39,00:07:40,00:05:35,07:03:46
+ironman-70.3-bahrain-20161210.csv,236,Jodi Knutson,31,FL,USA,00:33:50,02:52:34,02:12:40,00:07:47,00:07:17,05:54:08
+ironman-70.3-bahrain-20161210.csv,237,Rozanne Larsen,31,DC,USA,00:39:05,03:00:51,02:27:21,00:10:13,00:04:18,06:21:48
+ironman-70.3-bahrain-20161210.csv,238,Olga Lech,32,CA,USA,00:41:28,02:48:33,01:46:25,00:06:25,00:03:56,05:26:47
+ironman-70.3-bahrain-20161210.csv,239,Deena Shooka,33,N/a,GBR,00:45:02,03:42:29,02:25:05,00:09:29,00:03:35,07:05:40
+ironman-70.3-bahrain-20161210.csv,240,Elizabeth Stowell,34,EASTERN PROVINCE,GBR,00:45:16,03:11:50,01:58:22,00:09:36,00:07:23,06:12:27
+ironman-70.3-bahrain-20161210.csv,241,Tarja Strahlman,33,---,FIN,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,242,Mariam Turki,32,Manama,BHR,00:42:24,03:09:51,02:31:34,00:07:39,00:03:37,06:35:05
+ironman-70.3-bahrain-20161210.csv,243,Katharine Turney,34,AUH,GBR,00:40:38,02:46:00,02:15:22,00:09:25,00:05:23,05:56:48
+ironman-70.3-bahrain-20161210.csv,244,Dana Zubari,33,Manama,BHR,00:49:30,03:40:33,02:18:30,00:11:05,00:07:50,07:07:28
+ironman-70.3-bahrain-20161210.csv,245,Idrak Al Aquel,38,Manama,SAU,00:34:25,03:07:24,02:15:02,00:13:22,00:07:56,06:18:09
+ironman-70.3-bahrain-20161210.csv,246,Hessa Al Khalifa,37,Intl State,BHR,01:02:39,04:12:50,03:05:19,00:08:44,00:05:53,DNF
+ironman-70.3-bahrain-20161210.csv,247,Helen Al Uzaizi,34,DXB,JOR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,248,Amy Bird,36,Other,GBR,00:34:50,03:03:30,02:32:50,00:07:16,00:04:34,06:23:00
+ironman-70.3-bahrain-20161210.csv,249,Meghann Cleary,36,Kuwait,USA,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,250,Annie Crookes,39,DXB,GBR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,251,Roberta Delidais,38,AB,CAN,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,252,Shalaka Dhotre,36,Maharashtra,IND,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,253,Hadyah Fathallah,37,NA,BHR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,254,Anel Fourie,36,Dharan,ZAF,01:00:00,03:09:24,02:01:55,00:08:21,00:03:55,06:23:35
+ironman-70.3-bahrain-20161210.csv,255,Jennifer Geluk,37,Other,NZL,00:35:30,02:42:34,01:42:31,00:05:36,00:02:05,05:08:16
+ironman-70.3-bahrain-20161210.csv,256,AbielRem Gonzales,35,juffair,PHL,01:02:50,03:48:34,02:45:28,00:04:12,00:03:52,07:44:56
+ironman-70.3-bahrain-20161210.csv,257,Annabel Gorrie,36,DXB,GBR,00:44:37,02:44:46,01:50:16,00:06:56,00:03:32,05:30:07
+ironman-70.3-bahrain-20161210.csv,258,Penelope Hartley-Green,35,---,GBR,00:47:11,02:56:00,02:06:28,00:06:18,00:02:24,05:58:21
+ironman-70.3-bahrain-20161210.csv,259,Subathra Jeyaram,39,Al Shamali,IND,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,260,Lindsey Law,36,UT,USA,00:38:55,02:56:18,01:48:30,00:08:13,00:02:25,05:34:21
+ironman-70.3-bahrain-20161210.csv,261,Ann Lopez Aziz,35,---,SGP,00:44:08,03:34:27,02:31:35,00:08:34,00:06:59,07:05:43
+ironman-70.3-bahrain-20161210.csv,262,Nisha Anil Madgavkar,37,goa,IND,00:31:19,03:13:51,02:14:54,00:08:11,00:03:22,06:11:37
+ironman-70.3-bahrain-20161210.csv,263,Jacqueline Morton-Shepherd,39,Saar,ZAF,00:35:47,02:50:07,02:12:33,00:05:18,00:04:05,05:47:50
+ironman-70.3-bahrain-20161210.csv,264,Rebecca Pittam,35,AUH,GBR,00:42:33,02:49:51,02:05:38,00:09:46,00:02:59,05:50:47
+ironman-70.3-bahrain-20161210.csv,265,Lolyta Poniman,36,Qatar,MYS,00:49:38,03:06:58,02:47:01,00:06:58,00:04:07,06:54:42
+ironman-70.3-bahrain-20161210.csv,266,Radmila Ribeiro,36,Manama,ZAF,00:35:47,03:07:04,02:14:32,00:06:51,00:04:10,06:08:24
+ironman-70.3-bahrain-20161210.csv,267,Melina Timson-Katchis,37,DXB,CYP,00:33:04,02:54:49,02:23:14,00:07:22,00:03:04,06:01:33
+ironman-70.3-bahrain-20161210.csv,268,Brecken Watterson,39,CO,USA,00:38:27,02:52:28,01:43:10,00:10:35,00:03:31,05:28:11
+ironman-70.3-bahrain-20161210.csv,269,Meghan Allen,41,Bahrain,GBR,00:38:06,03:14:39,02:29:55,00:08:57,00:06:06,06:37:43
+ironman-70.3-bahrain-20161210.csv,270,Kirsten Baillie,43,AUH,GBR,00:39:38,03:07:03,01:59:52,00:07:44,00:04:05,05:58:22
+ironman-70.3-bahrain-20161210.csv,271,Kieran Ballard,40,DXB,ZAF,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,272,Paola Baquero,40,FUJ,COL,00:44:51,03:05:06,02:29:49,00:08:15,00:04:18,06:32:19
+ironman-70.3-bahrain-20161210.csv,273,Aoife Boyce,40,Qatar,IRL,00:40:36,02:53:50,01:52:59,00:05:59,00:02:17,05:35:41
+ironman-70.3-bahrain-20161210.csv,274,Aileen Breen,40,Co.kildare,IRL,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,275,Maria Alejandra Camacho,40,Northern governorate,VEN,00:43:05,03:16:21,02:09:37,00:06:54,00:04:04,06:20:01
+ironman-70.3-bahrain-20161210.csv,276,Ranjana Deopa,41,Delhi,IND,00:51:05,04:15:21,02:32:24,00:12:37,00:04:57,07:56:24
+ironman-70.3-bahrain-20161210.csv,277,Abby Fraser,42,Bahrain,AUS,00:37:12,03:16:05,02:08:52,00:07:23,00:05:52,06:15:24
+ironman-70.3-bahrain-20161210.csv,278,Olga Garland,42,Bahrain,FRA,00:42:57,02:48:34,01:48:34,00:05:47,00:02:05,05:27:57
+ironman-70.3-bahrain-20161210.csv,279,Rosie Guy,42,London,GBR,00:34:05,02:33:11,01:48:14,00:04:45,00:01:48,05:02:03
+ironman-70.3-bahrain-20161210.csv,280,Rana Hanafy,41,AlSharqiyah,EGY,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,281,Fiona Harrop,44,United Kingdom,GBR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,282,Sally Hart,40,Muscat,OMN,00:35:15,03:09:20,01:49:05,00:07:58,00:04:12,05:45:50
+ironman-70.3-bahrain-20161210.csv,283,Petra Horakova,42,ZA,CZE,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,284,Mary Looby,44,Al Markh,IRL,00:46:24,03:08:46,02:07:50,00:07:47,00:04:35,06:15:22
+ironman-70.3-bahrain-20161210.csv,285,Maille Mcgough,44,PA,USA,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,286,Sabrina Medici Matias,43,E.S.,BRA,00:36:31,02:55:30,02:20:49,00:10:29,00:06:47,06:10:06
+ironman-70.3-bahrain-20161210.csv,287,Christine Pagen,42,NY,USA,00:39:55,03:01:59,01:58:23,00:08:18,00:03:29,05:52:04
+ironman-70.3-bahrain-20161210.csv,288,Tatiana Riabushkina,44,---,RUS,00:54:22,03:20:48,02:42:41,00:11:23,00:05:39,07:14:53
+ironman-70.3-bahrain-20161210.csv,289,Karen Rigot,40,KSA,USA,00:37:18,03:16:50,01:57:26,00:08:19,00:05:00,06:04:53
+ironman-70.3-bahrain-20161210.csv,290,Lina Shehadeh,40,DXB,JOR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,291,Whitney Smith,40,TX,USA,00:51:21,03:14:59,02:03:18,00:06:46,00:05:11,06:21:35
+ironman-70.3-bahrain-20161210.csv,292,Judit Spiegl,41,DXB,HUN,00:34:16,02:45:34,01:58:54,00:04:48,00:02:48,05:26:20
+ironman-70.3-bahrain-20161210.csv,293,Svilena Stoilova,43,Zallaq Area,BGR,00:57:39,03:13:42,02:11:12,00:09:06,00:04:47,06:36:26
+ironman-70.3-bahrain-20161210.csv,294,Deborah Thompson,43,AE,USA,00:47:03,03:11:33,02:10:20,00:05:31,00:04:27,06:18:54
+ironman-70.3-bahrain-20161210.csv,295,Lindsay Wilson,43,Northern Governate,ZAF,00:42:22,03:39:45,02:06:16,00:08:29,00:06:45,06:43:37
+ironman-70.3-bahrain-20161210.csv,296,Karima Zitouni,40,manama,BHR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,297,Asa Backlund,48,Eastern Region,SWE,00:41:50,02:52:31,02:25:38,00:07:45,00:04:42,06:12:26
+ironman-70.3-bahrain-20161210.csv,298,Janine Bensouda,45,DXB,MAR,00:47:25,03:05:23,02:02:15,00:06:47,00:02:35,06:04:25
+ironman-70.3-bahrain-20161210.csv,299,Amy Burton,48,Doha,USA,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,300,Liza Drew,45,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,301,Clare Farrell,45,AUH,GBR,00:40:55,02:58:29,01:52:00,00:05:11,00:02:48,05:39:23
+ironman-70.3-bahrain-20161210.csv,302,Carina Forsberg,47,---,SWE,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,303,Sonja Hochleitner,47,DE,DEU,00:39:52,03:15:09,02:31:23,00:09:58,00:06:33,06:42:55
+ironman-70.3-bahrain-20161210.csv,304,Amanda Lenzlinger,47,Riyadh,CHE,00:55:47,03:27:04,02:36:28,00:08:32,00:04:28,07:12:19
+ironman-70.3-bahrain-20161210.csv,305,Kirsty Mckay,47,Isa Town,GBR,00:37:56,03:26:18,02:36:04,00:09:47,00:07:40,06:57:45
+ironman-70.3-bahrain-20161210.csv,306,Alison Mcritchie,49,---,GBR,00:53:29,03:33:59,02:35:55,00:11:05,00:04:26,07:18:54
+ironman-70.3-bahrain-20161210.csv,307,Samantha Muller,46,Budaiya,ZAF,00:48:05,03:22:43,02:19:05,00:08:35,00:03:58,06:42:26
+ironman-70.3-bahrain-20161210.csv,308,Joanne Norman,46,AUH,AUS,00:27:05,02:51:32,01:51:06,00:05:04,00:04:02,05:18:49
+ironman-70.3-bahrain-20161210.csv,309,Tina Olsson,45,arriyadh,USA,00:46:19,03:57:35,02:31:30,00:10:52,00:06:27,07:32:43
+ironman-70.3-bahrain-20161210.csv,310,Nada Prouty,46,FL,USA,00:46:28,04:02:42,01:54:14,00:08:31,00:04:06,06:56:01
+ironman-70.3-bahrain-20161210.csv,311,Claudine Roghi,48,Riyadh,FRA,00:34:57,03:20:21,01:47:26,00:10:21,00:03:28,05:56:33
+ironman-70.3-bahrain-20161210.csv,312,Cheryl Stewart,47,ON,ARG,00:38:40,03:10:32,02:32:00,00:08:24,00:04:45,06:34:21
+ironman-70.3-bahrain-20161210.csv,313,Sioned Taylor,46,DXB,GBR,00:38:20,02:41:04,01:45:51,00:05:17,00:02:09,05:12:41
+ironman-70.3-bahrain-20161210.csv,314,Tuire Amaral,50,Pirkanmaa,FIN,00:51:54,03:29:08,02:34:13,00:11:43,00:06:19,07:13:17
+ironman-70.3-bahrain-20161210.csv,315,Susan Bateman,49,AUH,GBR,00:39:20,03:11:59,02:03:39,00:06:59,00:03:14,06:05:11
+ironman-70.3-bahrain-20161210.csv,316,Shelley Griffin,52,somerset,GBR,00:38:55,03:20:37,02:38:46,00:09:17,00:04:48,06:52:23
+ironman-70.3-bahrain-20161210.csv,317,Sue Hall,50,Al Khobar,GBR,00:49:34,03:04:23,01:53:54,00:07:58,00:04:40,06:00:29
+ironman-70.3-bahrain-20161210.csv,318,Chitra Nadkarni,53,Maharashtra,IND,00:55:55,03:46:31,02:13:13,00:06:41,00:02:52,07:05:12
+ironman-70.3-bahrain-20161210.csv,319,Caroline Van Aartrijk,53,n/a,QAT,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,320,Anne Knecht Boyer,58,---,CAN,00:34:54,02:59:59,02:22:58,00:06:34,00:03:05,06:07:30
+ironman-70.3-bahrain-20161210.csv,321,Anne Morrissey,56,KE,IRL,00:34:26,02:56:43,01:52:41,00:08:32,00:02:47,05:35:09
+ironman-70.3-bahrain-20161210.csv,322,Katharine Budd,30,DXB,GBR,00:34:59,02:51:18,01:55:49,00:05:38,00:03:31,05:31:15
+ironman-70.3-bahrain-20161210.csv,323,Helle Vaaben,46,---,DNK,00:51:10,03:13:31,02:58:23,00:10:14,00:06:15,07:19:33
+ironman-70.3-bahrain-20161210.csv,324,Sara Alzayani,35,manama,BHR,00:49:23,03:50:22,02:27:40,00:09:47,00:04:25,07:21:37
+ironman-70.3-bahrain-20161210.csv,325,Alice Nattero,30,genova,ITA,00:32:35,02:46:28,01:38:02,00:05:45,00:02:26,05:05:16
+ironman-70.3-bahrain-20161210.csv,326,Brooke Neal,44,Dhahran,USA,00:44:01,03:43:47,02:21:40,00:12:33,00:08:59,07:11:00
+ironman-70.3-bahrain-20161210.csv,327,Alixe Turner,27,AUH,FRA,00:44:51,03:09:14,01:59:37,00:07:20,00:02:59,06:04:01
+ironman-70.3-bahrain-20161210.csv,360,Mohammed Belal,---,---,ARE,00:34:13,02:49:10,02:00:43,00:06:18,00:01:52,05:32:16
+ironman-70.3-bahrain-20161210.csv,361,Abdulaziz Albanwa,21,Kw,KWT,00:37:42,02:35:25,01:51:53,00:07:21,00:01:54,05:14:15
+ironman-70.3-bahrain-20161210.csv,362,Hamad Abdulrahman,---,---,BHR,00:28:43,02:27:08,01:50:35,00:04:06,00:01:52,04:52:24
+ironman-70.3-bahrain-20161210.csv,363,Abdelrahman Eladly,23,DXB,EGY,00:59:40,---,---,00:11:59,05:22:21,DNF
+ironman-70.3-bahrain-20161210.csv,364,Abdulla Faqihi,21,.,BHR,00:46:51,02:42:17,02:07:09,00:06:23,00:02:16,05:44:56
+ironman-70.3-bahrain-20161210.csv,365,Salman Fulad,20,Tubli,BHR,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,366,John Gittings,23,Jeddah,GBR,00:31:03,03:01:42,01:52:32,00:05:28,00:05:17,05:36:02
+ironman-70.3-bahrain-20161210.csv,367,Noraldeen Khalifa,---,---,BHR,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,368,Robert Mills,24,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,369,Omar Shaheen,---,---,ARE,00:52:18,02:50:16,02:25:49,00:06:46,00:03:30,06:18:39
+ironman-70.3-bahrain-20161210.csv,370,George Steele,24,Cumbria,GBR,00:30:46,02:55:10,01:36:52,00:05:38,00:02:05,05:10:31
+ironman-70.3-bahrain-20161210.csv,371,Evan Trotta,24,IN,USA,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,372,Rens Van Leeuwen,21,---,NLD,00:38:01,02:58:34,02:38:46,00:08:11,00:04:24,06:27:56
+ironman-70.3-bahrain-20161210.csv,373,Matthew Wikoff,19,AE,USA,00:36:02,03:25:34,01:52:31,00:08:38,00:04:22,06:07:07
+ironman-70.3-bahrain-20161210.csv,374,Michael Wooster,24,NC,USA,01:02:18,03:00:43,01:48:59,---,00:06:44,05:43:44
+ironman-70.3-bahrain-20161210.csv,375,Ali Ahmed,28,Manama,BHR,00:36:38,02:45:41,02:09:54,00:06:10,00:01:50,05:40:13
+ironman-70.3-bahrain-20161210.csv,376,Fahd Moustafa Abu Aisha,27,DXB,CAN,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,377,Khalifa Al Doseri,27,Bahrain,BHR,00:45:04,03:01:43,02:05:31,00:08:06,00:04:10,06:04:34
+ironman-70.3-bahrain-20161210.csv,378,Mohammed Al Hajeri,27,Arad,BHR,00:46:42,03:13:45,02:48:31,00:09:06,00:06:16,07:04:20
+ironman-70.3-bahrain-20161210.csv,379,Ahmed Al Madani,25,centre,BHR,00:39:19,02:51:17,01:49:59,00:05:29,00:02:26,05:28:30
+ironman-70.3-bahrain-20161210.csv,380,Mohammed Salah Al Sayed,26,Riffa,BHR,00:47:12,03:00:27,02:11:09,00:06:37,00:03:25,06:08:50
+ironman-70.3-bahrain-20161210.csv,381,Amer Al Sheaibani,28,Bahrain,BHR,00:37:52,02:47:00,02:07:20,00:07:02,00:03:10,05:42:24
+ironman-70.3-bahrain-20161210.csv,382,Mohahmed Alabdouli,---,---,ARE,00:42:43,---,---,00:05:32,---,DNF
+ironman-70.3-bahrain-20161210.csv,383,Mubarak Alajji,28,Doha,QAT,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,384,Hassan Alajmi,---,---,BHR,00:46:35,03:18:41,02:51:28,00:09:05,00:05:42,07:11:31
+ironman-70.3-bahrain-20161210.csv,385,Saud Alfaisal,29,Riyadh,SAU,00:42:52,02:48:31,02:07:36,00:08:41,00:04:54,05:52:34
+ironman-70.3-bahrain-20161210.csv,386,Hamad Aljalham,26,Qatar,QAT,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,387,Hassan Alkaff,28,e,YEM,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,388,Abdulrahman Alnanih,27,NY,SAU,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,389,Ebrahim Alromaihi,24,Doha,QAT,00:30:28,02:30:29,01:47:01,00:04:33,00:02:22,04:54:53
+ironman-70.3-bahrain-20161210.csv,390,Abdulmajeed Alshehab,26,eastern,SAU,00:55:49,02:47:07,02:08:20,00:07:23,00:02:48,06:01:27
+ironman-70.3-bahrain-20161210.csv,391,Ibrahim Altamimi,---,---,BHR,00:31:34,02:22:39,01:21:46,00:04:57,00:01:40,04:22:36
+ironman-70.3-bahrain-20161210.csv,392,zaid Altaweel,28,eastern province,SAU,00:48:40,02:55:07,02:17:16,00:06:05,00:03:44,06:10:52
+ironman-70.3-bahrain-20161210.csv,393,Robert Arnold,29,Stafgordshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,394,Timothy Bay,28,---,SGP,00:58:43,03:42:44,02:56:46,00:11:27,00:05:04,07:54:44
+ironman-70.3-bahrain-20161210.csv,395,Faisal Bin Hajar,---,---,ARE,00:42:50,02:30:21,01:47:42,00:05:21,00:02:25,05:08:39
+ironman-70.3-bahrain-20161210.csv,396,Khaled Gouda,---,---,BHR,00:34:09,02:23:43,01:42:29,00:04:38,00:02:26,04:47:25
+ironman-70.3-bahrain-20161210.csv,397,Yusuf Buqais,27,Muharraq,BHR,01:00:43,03:39:58,02:02:37,00:06:40,00:03:39,DNF
+ironman-70.3-bahrain-20161210.csv,398,Ahmed Alfahim,---,---,BHR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,399,Adam Bussens,28,Norfolk,GBR,00:48:17,03:10:18,02:01:50,00:06:54,00:02:51,06:10:10
+ironman-70.3-bahrain-20161210.csv,400,Omar Buti,25,East Riffa - Bukuwara,BHR,00:33:52,02:35:27,01:42:10,00:05:04,00:02:00,04:58:33
+ironman-70.3-bahrain-20161210.csv,401,Alexander Chikin,25,---,RUS,00:26:12,02:13:51,01:22:30,00:04:23,00:02:10,04:09:06
+ironman-70.3-bahrain-20161210.csv,402,Hady Elcott,26,noselection,BHR,00:44:23,03:09:26,02:01:33,00:06:37,00:03:04,06:05:03
+ironman-70.3-bahrain-20161210.csv,403,Mohamed Fadel,25,Alexandria,EGY,00:40:15,03:07:57,01:55:06,00:07:05,00:02:28,05:52:51
+ironman-70.3-bahrain-20161210.csv,404,Faisal Fadhel,29,Almahrraq,BHR,00:36:21,03:00:05,02:14:49,00:07:49,00:03:49,06:02:53
+ironman-70.3-bahrain-20161210.csv,405,Abdullah Farhan,26,---,ARE,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,406,Marvin Fernandez,28,---,PHL,00:41:09,02:42:39,01:55:08,00:08:12,00:03:55,05:31:03
+ironman-70.3-bahrain-20161210.csv,407,Arda Gülhan,28,Sisli,TUR,00:46:36,03:04:53,02:01:00,00:07:53,00:06:20,06:06:42
+ironman-70.3-bahrain-20161210.csv,408,Niels Halatsch,28,---,DEU,00:27:17,02:34:13,01:44:26,00:04:24,00:02:06,04:52:26
+ironman-70.3-bahrain-20161210.csv,409,Mohamed Hamada,29,Hawalli,EGY,00:29:11,02:32:57,01:37:46,00:04:20,00:01:58,04:46:12
+ironman-70.3-bahrain-20161210.csv,410,Jaryd Hamilton,28,QLD,NZL,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,411,Sameh Hegazi,29,N/A,BHR,00:43:30,02:52:07,02:31:37,00:07:29,00:03:21,06:18:04
+ironman-70.3-bahrain-20161210.csv,412,Joseph Holland,29,DC,USA,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,413,Nasser Al Jalahma,26,Manama,BHR,00:35:11,02:51:13,02:09:17,00:07:38,00:03:30,05:46:49
+ironman-70.3-bahrain-20161210.csv,414,Mustafa Janahi,28,Bahrain,BHR,00:38:19,02:50:05,01:45:34,00:06:35,00:02:50,05:23:23
+ironman-70.3-bahrain-20161210.csv,415,Stephane Jeegers,29,Muscat,BEL,00:41:10,03:08:58,02:05:13,00:08:31,00:04:25,06:08:17
+ironman-70.3-bahrain-20161210.csv,416,Alexey Keshishev,26,"V. Valuevo
+Filimonkovskoe",RUS,00:35:42,03:16:24,02:30:34,00:07:36,00:05:30,06:35:46
+ironman-70.3-bahrain-20161210.csv,417,Abed Khalid,25,MANAMA,BHR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,418,Ignacio Lopez,27,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,419,Michael Loseby,28,DXB,ZAF,00:39:43,02:50:26,01:35:32,00:05:39,00:04:06,05:15:26
+ironman-70.3-bahrain-20161210.csv,420,Bradley Pruett,28,Colorado,USA,00:43:55,03:52:13,02:46:07,00:14:59,00:05:05,07:42:19
+ironman-70.3-bahrain-20161210.csv,421,Raed Raffii,27,Capital,BHR,00:46:46,02:52:23,01:43:45,00:05:04,00:02:03,05:30:01
+ironman-70.3-bahrain-20161210.csv,422,Justin Sanak,26,AUH,USA,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,423,Bassam Shams,26,Seef,BHR,00:40:45,02:54:34,02:03:51,00:06:38,00:03:04,05:48:52
+ironman-70.3-bahrain-20161210.csv,424,Luis Silva,27,Jeddah,PRT,00:25:35,02:49:40,02:02:03,00:06:16,00:04:41,05:28:15
+ironman-70.3-bahrain-20161210.csv,425,Iain Smart,28,---,GBR,00:45:10,03:03:00,01:54:55,00:09:48,00:06:06,05:58:59
+ironman-70.3-bahrain-20161210.csv,426,Michael Strahlman,29,---,USA,00:41:12,03:05:50,01:58:55,00:06:52,00:02:17,05:55:06
+ironman-70.3-bahrain-20161210.csv,427,Ali Taqi,28,Bahrain,BHR,00:43:19,02:51:14,02:22:32,00:07:24,00:05:16,06:09:45
+ironman-70.3-bahrain-20161210.csv,428,Igor Timofeev,26,Saint-Peresburg,RUS,00:36:11,02:49:38,02:01:32,00:08:07,00:02:56,05:38:24
+ironman-70.3-bahrain-20161210.csv,429,Marcos Yosef,25,manama,USA,00:42:29,02:52:47,01:59:12,00:10:47,00:04:19,05:49:34
+ironman-70.3-bahrain-20161210.csv,430,Mohammed Yousif,27,Eastern province,SAU,00:49:48,---,---,00:14:43,05:24:17,DNF
+ironman-70.3-bahrain-20161210.csv,431,Matvei Zubov,25,---,RUS,00:34:48,02:54:59,02:07:25,00:18:37,00:06:28,06:02:17
+ironman-70.3-bahrain-20161210.csv,432,Gaziz Abdrassilov,32,Almaty,KAZ,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,433,Ali Abdullah,---,---,ARE,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,434,Hasan Ali Ahmed,33,Northern,BHR,00:51:32,03:29:47,02:43:55,00:12:56,00:08:57,07:27:07
+ironman-70.3-bahrain-20161210.csv,435,Mahmood Al Ansari,32,Bahrain,BHR,00:43:24,03:04:23,01:52:04,00:09:08,00:03:34,05:52:33
+ironman-70.3-bahrain-20161210.csv,436,Ahmed Alfalahi,34,Batinah South,OMN,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,437,Isa Al Khalifa,31,Bahrain,BHR,00:48:35,03:03:41,02:22:34,00:10:01,00:05:23,06:30:14
+ironman-70.3-bahrain-20161210.csv,438,Mohammed Al Obaidani,33,MCT,OMN,00:47:38,---,---,00:09:14,03:19:12,DNF
+ironman-70.3-bahrain-20161210.csv,439,Hassan Al Qassab,33,bahrain,BHR,00:36:30,02:56:02,01:57:36,00:07:42,00:02:56,05:40:46
+ironman-70.3-bahrain-20161210.csv,440,Mohammed Al Rowaili,33,North Government ,BHR,00:41:45,02:52:22,02:01:36,00:07:30,00:02:56,05:46:09
+ironman-70.3-bahrain-20161210.csv,441,Mohsen Alali,---,---,ARE,00:31:43,02:26:27,01:35:56,00:05:11,00:02:50,04:42:07
+ironman-70.3-bahrain-20161210.csv,442,Ibrahim Albrahim,30,EP,SAU,01:02:05,03:33:00,02:33:41,00:18:19,00:03:54,07:30:59
+ironman-70.3-bahrain-20161210.csv,443,Fahad Albuenain,32,Doha,QAT,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,444,Salem Aldoseery,---,---,BHR,00:33:37,02:21:48,01:33:34,00:04:54,00:02:25,04:36:18
+ironman-70.3-bahrain-20161210.csv,445,Sari Alhammadi,---,---,ARE,00:37:05,02:31:22,01:43:58,00:05:37,00:03:50,05:01:52
+ironman-70.3-bahrain-20161210.csv,446,Mohammed Alharbi,30,Riyadh,SAU,00:36:07,02:42:57,01:44:17,00:06:19,00:03:07,05:12:47
+ironman-70.3-bahrain-20161210.csv,447,Abdulrahman Alhosani,32,AUH,ARE,00:32:48,02:38:47,01:37:55,00:04:59,00:02:04,04:56:33
+ironman-70.3-bahrain-20161210.csv,448,Malik Ali,31,Reffa,BHR,00:57:59,03:39:10,02:59:20,00:11:33,00:07:25,07:55:27
+ironman-70.3-bahrain-20161210.csv,449,Abdulla Allqeti,---,---,ARE,00:29:46,02:22:24,01:28:13,00:04:52,00:02:17,04:27:32
+ironman-70.3-bahrain-20161210.csv,450,Mohammed Alali,---,---,BHR,00:32:39,02:21:36,01:24:40,00:03:52,00:01:41,04:24:28
+ironman-70.3-bahrain-20161210.csv,451,Saif Alsamhai,---,---,ARE,00:31:14,02:32:13,01:39:11,00:05:54,00:02:58,04:51:30
+ironman-70.3-bahrain-20161210.csv,452,Fawaz Alshaya,33,Kuwait,KWT,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,453,Abdullatif Althunyan,32,Eastern,SAU,00:37:30,02:48:04,02:22:25,00:06:45,00:03:28,05:58:12
+ironman-70.3-bahrain-20161210.csv,454,Dmitry Antonov,32,Moscow,RUS,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,455,Anthony Beaumont,32,AUH,GBR,00:53:09,02:54:20,02:11:29,00:06:34,00:03:45,06:09:17
+ironman-70.3-bahrain-20161210.csv,456,Luke Beling,32,DXB,ZAF,00:43:43,03:06:33,02:09:11,00:07:23,00:05:53,06:12:43
+ironman-70.3-bahrain-20161210.csv,457,Ahmed Kamal,33,manama,BHR,00:38:05,02:40:28,01:55:48,00:07:01,00:01:35,05:22:57
+ironman-70.3-bahrain-20161210.csv,458,Jaime Castaneda,33,DXB,ESP,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,459,Craig Connor,31,DXB,GBR,00:34:05,02:49:53,01:54:36,00:06:22,00:05:28,05:30:24
+ironman-70.3-bahrain-20161210.csv,460,Matthew Conroy,31,CT,USA,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,461,Camille Contant,33,AUH,FRA,00:46:36,02:48:21,01:58:00,00:05:30,00:03:09,05:41:36
+ironman-70.3-bahrain-20161210.csv,462,Joshua Cook,34,CO,USA,---,03:26:37,02:43:12,01:19:09,00:06:20,07:35:18
+ironman-70.3-bahrain-20161210.csv,463,Sangiliraj Dharmar,31,Bahrain,BHR,01:04:11,03:15:21,02:33:35,00:13:56,00:05:10,07:12:13
+ironman-70.3-bahrain-20161210.csv,464,Anthony Dontas,33,DXB,ZAF,00:47:29,03:04:35,02:27:46,00:06:41,00:02:40,06:29:11
+ironman-70.3-bahrain-20161210.csv,465,Samuel Ducroquet,33,FR,FRA,00:35:01,02:49:30,02:09:55,00:05:45,00:03:50,05:44:01
+ironman-70.3-bahrain-20161210.csv,466,Daniel Dyusenbaev,33,DXB,RUS,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,467,Georg Gautschi,31,---,CHE,00:37:11,02:18:17,01:43:44,00:06:28,00:02:54,04:48:34
+ironman-70.3-bahrain-20161210.csv,468,Mohammed Ghayath,31,Manama,BHR,00:55:39,03:39:39,02:37:27,00:11:00,00:05:54,07:29:39
+ironman-70.3-bahrain-20161210.csv,469,Pavel Golikov,30,Eastern province,RUS,00:33:33,02:35:03,01:38:59,00:04:04,00:02:10,04:53:49
+ironman-70.3-bahrain-20161210.csv,470,Guillermo Gonzalez,30,Doha,ESP,00:36:05,02:48:59,01:48:29,00:05:55,00:03:08,05:22:36
+ironman-70.3-bahrain-20161210.csv,471,Dmitry Govorov,34,Manama,RUS,01:04:45,03:01:33,02:28:09,00:09:01,00:32:37,07:16:05
+ironman-70.3-bahrain-20161210.csv,472,Mahmood Habib,30,Muqaba,BHR,00:49:07,03:12:45,02:40:48,00:11:22,00:04:57,06:58:59
+ironman-70.3-bahrain-20161210.csv,473,Markus Hagberg,31,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,474,Ahmed Hamidalddin,32,Central Region,SAU,---,02:50:33,01:46:07,00:52:27,00:04:16,05:33:23
+ironman-70.3-bahrain-20161210.csv,475,Mohamed Hassan,29,sitra,BHR,00:50:54,03:07:13,02:17:44,00:08:58,00:06:12,06:31:01
+ironman-70.3-bahrain-20161210.csv,476,Mohamed Alawi Isa,30,Bahrain,BHR,00:54:36,03:01:22,02:50:16,00:08:23,00:06:07,07:00:44
+ironman-70.3-bahrain-20161210.csv,477,Gareth Johns,33,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,478,Daniel Jones,31,Carmarthenshire,GBR,00:45:16,03:05:04,01:42:38,00:07:55,00:04:23,05:45:16
+ironman-70.3-bahrain-20161210.csv,479,Daniel Kaali,33,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,480,Eric Kennedy,34,---,ARG,00:38:07,02:58:23,02:41:53,00:06:13,00:05:02,06:29:38
+ironman-70.3-bahrain-20161210.csv,481,Dhiresh Kerai,34,---,GBR,01:04:36,04:04:30,02:24:02,00:11:51,00:04:35,07:49:34
+ironman-70.3-bahrain-20161210.csv,482,Dustin King,30,VA,USA,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,483,Manuel Inigo Laig,34,Qatar,PHL,00:38:52,02:53:26,02:08:02,00:07:02,00:03:12,05:50:34
+ironman-70.3-bahrain-20161210.csv,484,Andrew Learned,30,FL,USA,00:32:37,02:33:48,01:54:25,00:06:44,00:05:10,05:12:44
+ironman-70.3-bahrain-20161210.csv,485,Oliver Legaspi,34,QATAR,PHL,00:42:47,02:55:38,02:31:57,00:08:54,00:04:03,06:23:19
+ironman-70.3-bahrain-20161210.csv,486,Natalio Liares,34,DXB,PHL,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,487,orlando luis,34,DXB,ZAF,00:49:02,02:43:04,01:55:08,00:06:13,00:03:23,05:36:50
+ironman-70.3-bahrain-20161210.csv,488,Amir Mahyari,30,Other,USA,00:35:09,03:29:12,02:41:49,00:07:35,00:02:07,06:55:52
+ironman-70.3-bahrain-20161210.csv,489,Michael Manoly,31,---,EGY,00:46:45,02:50:39,02:14:50,00:10:24,00:04:37,06:07:15
+ironman-70.3-bahrain-20161210.csv,490,Brendan Mcdonald,34,DXB,GBR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,491,Dmitry Mishanin,34,RIYADH,RUS,00:29:33,02:23:15,01:38:53,00:06:32,00:02:16,04:40:29
+ironman-70.3-bahrain-20161210.csv,492,Alaudin Mohammad,29,Manama,BHR,01:00:48,02:57:53,02:07:52,00:07:18,00:06:55,06:20:46
+ironman-70.3-bahrain-20161210.csv,493,Bruno Morand,34,---,BRA,00:31:34,02:31:17,01:47:27,00:06:35,00:02:24,04:59:17
+ironman-70.3-bahrain-20161210.csv,494,Nasser Mutarrid,33,AL Riyadh,SAU,00:34:25,02:24:19,01:58:19,00:09:07,00:03:04,05:09:14
+ironman-70.3-bahrain-20161210.csv,495,Boris Najafov,34,n/a,AZE,00:34:03,02:59:41,02:10:49,00:06:34,00:04:20,05:55:27
+ironman-70.3-bahrain-20161210.csv,496,Roman Paramonov,33,---,RUS,00:29:37,02:07:41,01:17:28,00:05:34,00:02:03,04:02:23
+ironman-70.3-bahrain-20161210.csv,497,Darren Paul,32,--,GBR,00:51:45,02:54:39,01:50:34,00:09:15,00:03:30,05:49:43
+ironman-70.3-bahrain-20161210.csv,498,Joby Paul,34,Kerala,IND,00:57:33,03:38:54,02:04:49,00:10:00,00:05:36,06:56:52
+ironman-70.3-bahrain-20161210.csv,499,Bart Pauwels,34,---,BEL,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,500,Sam Pearson,31,Kent,GBR,00:39:55,03:02:21,02:15:15,00:06:44,00:03:32,06:07:47
+ironman-70.3-bahrain-20161210.csv,501,Julian Pletts,32,---,GBR,00:37:24,03:01:47,02:09:40,00:08:09,00:02:59,05:59:59
+ironman-70.3-bahrain-20161210.csv,502,Matthieu Prouillac,34,DXB,FRA,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,503,Saud Qannati,32,Aali,BHR,00:52:17,03:19:38,02:19:25,00:08:12,00:04:37,06:44:09
+ironman-70.3-bahrain-20161210.csv,504,Saad Rafia,31,Manama ,BHR,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,505,Owen Reid,30,---,USA,00:36:46,02:54:41,02:00:33,00:09:54,00:06:22,05:48:16
+ironman-70.3-bahrain-20161210.csv,506,David Rochat,33,DXB,CHE,00:33:12,02:27:33,01:43:57,00:04:58,00:03:45,04:53:25
+ironman-70.3-bahrain-20161210.csv,507,Ahmad Samra,32,DXB,SYR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,508,Giancarlo Savini,34,State Of Qatar,ITA,00:34:17,02:35:31,01:55:56,00:05:48,00:02:40,05:14:12
+ironman-70.3-bahrain-20161210.csv,509,Clint Seager,33,Saar,ZAF,01:03:36,03:13:20,02:25:13,00:09:28,00:06:24,06:58:01
+ironman-70.3-bahrain-20161210.csv,510,Oriol Silvestre,34,---,ESP,00:26:27,02:31:43,01:32:08,00:04:46,00:02:19,04:37:23
+ironman-70.3-bahrain-20161210.csv,511,Philip Smallman,32,DXB,ZAF,00:35:14,03:01:19,02:16:38,00:09:57,00:03:55,06:07:03
+ironman-70.3-bahrain-20161210.csv,512,Liam Smith,30,Somerset,GBR,---,02:40:13,02:03:49,00:43:21,00:03:38,05:31:01
+ironman-70.3-bahrain-20161210.csv,513,Morten Tanggaard Nielsen,34,---,DNK,00:55:57,02:36:10,02:03:22,00:09:02,00:03:03,05:47:34
+ironman-70.3-bahrain-20161210.csv,514,Michael Topping,31,lancs,GBR,00:46:40,02:58:05,02:23:53,00:08:55,00:05:03,06:22:36
+ironman-70.3-bahrain-20161210.csv,515,Ibrahim Touq,33,northen,BHR,00:44:05,02:53:00,02:09:24,00:07:35,00:04:23,05:58:27
+ironman-70.3-bahrain-20161210.csv,516,Joao Vinagre,30,oeiras,PRT,00:40:41,02:55:23,01:41:56,00:06:39,00:02:58,05:27:37
+ironman-70.3-bahrain-20161210.csv,517,Jason Von Berg,32,Gauteng,ZAF,00:29:21,02:49:47,01:50:42,00:07:02,00:03:22,05:20:14
+ironman-70.3-bahrain-20161210.csv,518,Ben Walton,34,DXB,GBR,00:29:45,04:07:56,01:26:54,00:04:38,00:04:13,06:13:26
+ironman-70.3-bahrain-20161210.csv,519,Mike Watkins,33,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,520,Vijitha Wijesuriya,31,---,LKA,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,521,D Oveckin,---,---,RUS,00:36:27,02:47:59,01:52:14,00:07:36,00:04:35,05:28:51
+ironman-70.3-bahrain-20161210.csv,522,Mohammed Al Khalifa,36,bahrain,BHR,00:52:28,03:13:28,01:59:51,00:10:27,00:09:35,06:25:49
+ironman-70.3-bahrain-20161210.csv,523,Sager Al Khalifa,36,Riffa,BHR,00:37:30,02:41:06,01:48:28,00:07:21,00:03:28,05:17:53
+ironman-70.3-bahrain-20161210.csv,524,Mohammed Al Kuwari,36,Qatar,QAT,00:49:55,03:09:12,02:23:36,00:15:28,00:09:46,06:47:57
+ironman-70.3-bahrain-20161210.csv,525,Ayman Matter,37,Bahrain,BHR,00:53:05,03:48:12,03:05:49,00:09:49,00:03:10,08:00:05
+ironman-70.3-bahrain-20161210.csv,526,Ahmed Al Malki,39,Muscat,OMN,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,527,Imran Alaradi,35,Outside USA and Canada,BHR,01:01:57,03:24:52,03:28:53,00:15:38,00:13:52,08:25:12
+ironman-70.3-bahrain-20161210.csv,528,Saif Aldoseri,---,---,BHR,00:44:23,02:57:06,01:51:31,00:08:09,00:03:19,05:44:28
+ironman-70.3-bahrain-20161210.csv,529,Ahmad Alfahim,36,DXB,ARE,00:29:44,02:24:36,01:40:28,00:04:48,00:02:19,04:41:55
+ironman-70.3-bahrain-20161210.csv,530,Khalid Al-Jalham,39,Qatar,QAT,00:54:49,03:10:32,02:29:55,00:09:40,00:08:51,06:53:47
+ironman-70.3-bahrain-20161210.csv,531,Nayef Almarzooqi,---,---,ARE,00:30:48,02:49:42,01:51:24,00:04:27,00:02:31,05:18:52
+ironman-70.3-bahrain-20161210.csv,532,Eissa Alnashmi,36,Mubarak alkabeer,KWT,00:37:49,02:56:24,02:19:01,00:05:36,00:04:22,06:03:12
+ironman-70.3-bahrain-20161210.csv,533,Jamal Alsebbah,---,---,BHR,00:39:04,02:51:02,01:31:45,00:07:38,00:03:19,05:12:48
+ironman-70.3-bahrain-20161210.csv,534,Rami Azab,35,Cairo,EGY,00:35:30,03:22:07,02:33:36,00:08:38,00:04:47,06:44:38
+ironman-70.3-bahrain-20161210.csv,535,Krzysztof Baczynski,37,---,POL,00:41:47,03:00:03,01:54:53,00:13:31,00:05:29,05:55:43
+ironman-70.3-bahrain-20161210.csv,536,Liam Bek,37,Lancashire,GBR,00:36:01,02:19:21,01:22:40,00:05:04,00:02:32,04:25:38
+ironman-70.3-bahrain-20161210.csv,537,Rajesh Bhanushali,39,Maharashtra,IND,01:00:17,03:18:05,02:16:17,00:21:07,00:08:15,07:04:01
+ironman-70.3-bahrain-20161210.csv,538,Darwin Bonagua,36,Qatar,PHL,00:41:00,02:55:57,01:54:44,00:06:32,00:02:58,05:41:11
+ironman-70.3-bahrain-20161210.csv,539,Ewoud Botha,35,Gauteng,ZAF,00:36:36,03:11:01,02:32:59,00:07:51,00:03:51,06:32:18
+ironman-70.3-bahrain-20161210.csv,540,Ryan Bowd,37,Gloucestershire,GBR,00:40:25,02:47:53,02:11:04,00:07:58,00:05:33,05:52:53
+ironman-70.3-bahrain-20161210.csv,541,Sultan Buhaza,36,muharaq,BHR,00:58:41,03:13:04,02:11:23,00:08:08,00:02:51,06:34:07
+ironman-70.3-bahrain-20161210.csv,542,Craig Burgoine,36,Saudi Arabia,GBR,---,02:50:41,01:56:39,00:45:00,00:02:58,05:35:18
+ironman-70.3-bahrain-20161210.csv,543,Fabian Campo,---,DXB,ESP,00:29:55,02:34:20,01:37:21,00:05:09,00:02:39,04:49:24
+ironman-70.3-bahrain-20161210.csv,544,Amer Chebaro,39,DXB,LBN,00:57:19,03:01:49,02:29:38,00:10:12,00:06:26,06:45:24
+ironman-70.3-bahrain-20161210.csv,545,Sandor Cserepes,38,---,HUN,00:45:35,02:58:28,01:59:20,00:07:06,00:01:55,05:52:24
+ironman-70.3-bahrain-20161210.csv,546,Gary Cummings,37,Other,GBR,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,547,Joe Dalton,38,None,IRL,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,548,William Davies,37,Qatar,GBR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,549,Viktor Didenko,38,Ukraine,UKR,00:31:03,02:22:11,---,00:04:31,---,DNF
+ironman-70.3-bahrain-20161210.csv,550,Julien Dube,37,---,FRA,00:33:03,02:33:06,01:46:39,00:05:46,00:03:02,05:01:36
+ironman-70.3-bahrain-20161210.csv,551,Reymond Kelvin Dula,36,DXB,PHL,00:35:11,02:40:27,02:13:45,00:08:19,00:06:38,05:44:20
+ironman-70.3-bahrain-20161210.csv,552,Bradley Dyck,38,AB,CAN,00:58:26,03:22:05,02:43:12,00:10:32,00:05:33,07:19:48
+ironman-70.3-bahrain-20161210.csv,553,Serik Dyusenbaev,35,DXB,RUS,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,554,Amer Ebrahim,37,Manama,BHR,00:41:26,02:49:23,01:48:50,00:06:09,00:02:52,05:28:40
+ironman-70.3-bahrain-20161210.csv,555,Shukri Husseini,37,DXB,JOR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,556,Cesar Augusto Espinoza Huerfano,35,souther governorate,VEN,00:47:06,03:02:42,02:03:32,00:09:30,00:05:00,06:07:50
+ironman-70.3-bahrain-20161210.csv,557,Cody Ewing,37,WV,USA,01:08:15,03:21:56,03:27:24,00:12:39,00:05:42,08:15:56
+ironman-70.3-bahrain-20161210.csv,558,Sjako Faas,37,---,NLD,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,559,Adrian Farrales,39,Mesaieed,PHL,01:00:13,02:39:10,02:23:36,00:06:59,00:03:42,06:13:40
+ironman-70.3-bahrain-20161210.csv,560,Charles Fraser,39,bahrain,NZL,00:38:25,02:47:25,01:59:07,00:07:14,00:03:59,05:36:10
+ironman-70.3-bahrain-20161210.csv,561,Joaquin Frutos,35,---,ESP,00:38:22,02:39:11,01:44:34,00:04:54,00:02:30,05:09:31
+ironman-70.3-bahrain-20161210.csv,562,gareth gallagher,35,fermanagh,IRL,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,563,Eugene Galvin,39,Dublin,SAU,00:42:58,03:12:48,01:58:06,00:06:58,00:03:00,06:03:50
+ironman-70.3-bahrain-20161210.csv,564,Simon Gardner,39,---,GBR,00:35:04,02:54:23,01:48:58,00:06:05,00:03:38,05:28:08
+ironman-70.3-bahrain-20161210.csv,565,Brendan Germishuys,37,Western Cape,ZAF,00:45:22,03:01:19,02:09:09,00:07:36,00:04:05,06:07:31
+ironman-70.3-bahrain-20161210.csv,566,David Gibbs,36,Gloucestershire,GBR,00:33:59,02:37:59,01:46:59,00:05:58,00:02:07,05:07:02
+ironman-70.3-bahrain-20161210.csv,567,Brandon Gibson,38,AE,USA,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,568,Rafael Giglio,36,Other,BRA,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,569,Armando Gonzalez,37,---,MEX,---,03:06:13,02:07:06,00:54:41,00:06:11,06:14:11
+ironman-70.3-bahrain-20161210.csv,570,Harry Goodson-Wickes,38,Other,GBR,00:36:21,02:40:24,01:59:39,00:06:01,00:03:14,05:25:39
+ironman-70.3-bahrain-20161210.csv,571,Steven Graham,36,Dublin,IRL,00:36:15,02:39:48,01:57:10,00:06:58,00:12:51,05:33:02
+ironman-70.3-bahrain-20161210.csv,572,Diego Grogovinas,36,AUH,ARG,00:35:00,02:50:46,01:47:00,00:05:09,00:02:41,05:20:36
+ironman-70.3-bahrain-20161210.csv,573,Pablo Guardiola Molla,35,RIYADH,PYF,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,574,Gareth Hall,38,QLD,GBR,00:36:13,02:26:59,01:34:32,00:04:39,00:03:02,04:45:25
+ironman-70.3-bahrain-20161210.csv,575,Peter Hallatt,35,Other,GBR,00:26:40,02:36:16,02:06:30,00:06:11,00:04:00,05:19:37
+ironman-70.3-bahrain-20161210.csv,576,Andy Hamilton,37,Cheshire,GBR,00:32:13,02:26:29,01:49:59,00:06:04,00:04:13,04:58:58
+ironman-70.3-bahrain-20161210.csv,577,Rashid Handal,---,---,BHR,00:45:51,03:18:37,02:51:24,00:09:45,00:05:43,07:11:20
+ironman-70.3-bahrain-20161210.csv,578,Mike Hankey,38,Eastern Province,USA,00:39:21,02:42:31,01:43:38,00:06:48,00:01:56,05:14:14
+ironman-70.3-bahrain-20161210.csv,579,Andrew Hart,38,Essex,GBR,00:34:22,02:38:41,01:35:55,00:04:51,00:01:58,04:55:47
+ironman-70.3-bahrain-20161210.csv,580,Craig Hartley,33,---,GBR,00:35:04,02:41:27,02:11:35,00:06:04,00:03:56,05:38:06
+ironman-70.3-bahrain-20161210.csv,581,Emiliano Herrera,36,AE,ARG,00:35:57,02:49:21,01:58:56,00:06:20,00:02:43,05:33:17
+ironman-70.3-bahrain-20161210.csv,582,Bradley Holliday,35,Muscat,ZAF,00:31:05,02:47:05,01:42:13,00:04:44,00:02:28,05:07:35
+ironman-70.3-bahrain-20161210.csv,583,Kenan Homsi,36,Riyadh,CAN,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,584,Mohd Aizal Ibrahim,35,Intl State,MYS,01:01:59,02:58:18,02:18:31,00:07:46,00:04:17,06:30:51
+ironman-70.3-bahrain-20161210.csv,585,Julius Imperial,38,AUH,PHL,00:37:46,02:53:33,01:50:49,00:06:31,00:04:21,05:33:00
+ironman-70.3-bahrain-20161210.csv,586,Simon Jones,35,Doha,QAT,00:32:12,02:46:32,01:46:28,00:06:27,00:03:59,05:15:38
+ironman-70.3-bahrain-20161210.csv,587,Oday Jumah,35,Dabouq,BHR,00:29:57,03:24:09,02:29:19,00:09:26,00:02:54,06:35:45
+ironman-70.3-bahrain-20161210.csv,588,Ali Khalaf,37,Manama,BHR,01:04:51,03:13:10,02:07:06,00:06:52,00:05:08,06:37:07
+ironman-70.3-bahrain-20161210.csv,589,Nawaf Khamis,---,---,BHR,00:30:32,03:04:58,02:38:48,00:07:43,00:02:49,06:24:50
+ironman-70.3-bahrain-20161210.csv,590,Ameya Khandge,39,Maharashtra,IND,00:52:54,03:25:03,02:05:30,00:08:55,00:08:05,06:40:27
+ironman-70.3-bahrain-20161210.csv,591,Alexander King,36,AUH,GBR,00:31:29,02:26:04,01:39:12,00:05:04,00:01:59,04:43:48
+ironman-70.3-bahrain-20161210.csv,592,Rico Langer,39,Qatar,DEU,00:41:02,03:08:25,01:54:04,00:11:18,00:03:48,05:58:37
+ironman-70.3-bahrain-20161210.csv,593,Anthony Manabat,37,Central,PHL,00:47:00,02:48:33,02:20:32,00:06:42,00:05:10,06:07:57
+ironman-70.3-bahrain-20161210.csv,594,Mohammad Mannaa,36,DXB,ARE,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,595,Yannick Martin,36,---,FRA,00:40:18,02:43:05,01:53:04,00:07:32,00:03:46,05:27:45
+ironman-70.3-bahrain-20161210.csv,596,Francisco Mateos Almeida,39,DXB,ESP,00:38:51,02:33:41,01:49:04,00:05:53,00:02:29,05:09:58
+ironman-70.3-bahrain-20161210.csv,597,Michael Mcdonald,35,Ireland,IRL,00:55:06,02:51:04,02:07:48,00:11:01,00:04:34,06:09:33
+ironman-70.3-bahrain-20161210.csv,598,Simon Mevel,36,Addis Ababa,FRA,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,599,Jeremy Mirasol,39,noselection,PHL,00:35:01,02:38:14,02:39:08,00:08:02,00:03:54,06:04:19
+ironman-70.3-bahrain-20161210.csv,600,Bilal Mohamed,36,Armagh,GBR,00:41:06,03:14:48,02:40:49,00:09:30,00:04:57,06:51:10
+ironman-70.3-bahrain-20161210.csv,601,Pedro Enrique Morales Rivero,37,---,VEN,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,602,Francis Morrissey,38,Tipperary,IRL,00:41:31,02:31:22,01:45:59,00:06:16,00:02:18,05:07:26
+ironman-70.3-bahrain-20161210.csv,603,Oliver Muller,35,---,BHR,00:30:57,02:28:26,01:47:27,00:06:44,00:03:27,04:57:01
+ironman-70.3-bahrain-20161210.csv,604,Dan Munro,35,BC,CAN,00:44:20,03:00:47,01:52:31,00:10:37,00:05:06,05:53:21
+ironman-70.3-bahrain-20161210.csv,605,Ahmed Nass,38,Manama,BHR,00:44:39,03:03:18,02:03:20,00:12:04,00:07:32,06:10:53
+ironman-70.3-bahrain-20161210.csv,606,Michael On,36,AUH,PHL,00:33:01,02:39:35,01:36:20,00:05:18,00:02:19,04:56:33
+ironman-70.3-bahrain-20161210.csv,607,Andrew O Reilly,35,BAHRAIN,IRL,00:35:31,02:35:01,01:35:12,00:05:45,00:03:12,04:54:41
+ironman-70.3-bahrain-20161210.csv,608,Stephen Palmer,38,Other,GBR,00:34:41,02:32:01,01:22:43,00:04:50,00:02:32,04:36:47
+ironman-70.3-bahrain-20161210.csv,609,Joan Pedret,39,---,ESP,00:30:20,02:35:06,01:29:04,00:04:42,00:02:09,04:41:21
+ironman-70.3-bahrain-20161210.csv,610,Marc Prudhomme,36,Mahooz,CAN,00:35:51,02:54:35,02:50:37,00:07:12,00:04:46,06:33:01
+ironman-70.3-bahrain-20161210.csv,611,Nicholas Ralph,39,Eastern Province,AUS,00:46:59,03:23:19,02:51:12,00:13:43,00:04:10,07:19:23
+ironman-70.3-bahrain-20161210.csv,612,gustavo rodriguez,39,eastern province,VEN,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,613,Titus Rosier,35,Eastern Province,NLD,00:49:53,03:11:39,02:13:23,00:08:29,00:04:21,06:27:45
+ironman-70.3-bahrain-20161210.csv,614,Moises Saez Sanchez,35,---,ESP,00:34:43,02:46:03,02:03:41,00:10:24,00:06:32,05:41:23
+ironman-70.3-bahrain-20161210.csv,615,Roberto Serrano,39,TX,USA,00:33:29,02:57:02,01:46:16,00:09:24,00:04:50,05:31:01
+ironman-70.3-bahrain-20161210.csv,616,Hussain Shameem,36,---,MDV,00:39:48,02:36:31,01:47:18,00:09:05,00:05:06,05:17:48
+ironman-70.3-bahrain-20161210.csv,617,Tomasz Skarupa,38,Riyadh,ITA,00:51:28,02:55:35,02:11:27,00:10:13,00:03:23,06:12:06
+ironman-70.3-bahrain-20161210.csv,618,Aljosa Skoko,35,Muharraq,HRV,00:37:45,02:52:30,02:12:22,00:10:25,00:04:54,05:57:56
+ironman-70.3-bahrain-20161210.csv,619,Ben Smith,38,TX,USA,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,620,Kristian Syson,39,00000,GBR,00:44:29,02:55:59,02:40:47,00:07:33,00:04:35,06:33:23
+ironman-70.3-bahrain-20161210.csv,621,Abdullah	taha	abdos@me.Com Taha,39,Jeddah,SAU,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,622,Gavin Tait,36,Eastern province,ZAF,00:36:11,02:37:26,01:52:37,00:06:24,00:02:32,05:15:10
+ironman-70.3-bahrain-20161210.csv,623,Justin Townsend,39,AZ,USA,00:34:22,02:58:41,01:56:42,00:11:01,00:08:11,05:48:57
+ironman-70.3-bahrain-20161210.csv,624,Tomokazu Toyoumi,39,Manama,JPN,01:07:19,02:44:46,01:54:16,00:09:50,00:05:13,06:01:24
+ironman-70.3-bahrain-20161210.csv,625,Scott Wilkins,39,Hertfordshire,GBR,00:32:28,02:27:45,01:44:42,00:09:23,00:03:08,04:57:26
+ironman-70.3-bahrain-20161210.csv,626,Igor Zhilenko,38,---,RUS,00:36:44,02:49:21,02:13:40,00:07:00,00:05:12,05:51:57
+ironman-70.3-bahrain-20161210.csv,627,Stan Zivanovich,36,CA,USA,00:42:33,03:02:01,01:51:59,00:08:50,00:04:03,05:49:26
+ironman-70.3-bahrain-20161210.csv,628,Abdulla Abdulsalam,39,Muharraq,BHR,00:43:12,02:43:51,02:09:22,00:07:04,00:04:30,05:47:59
+ironman-70.3-bahrain-20161210.csv,629,Kristoffer Ahlin,44,---,SWE,00:38:06,02:18:21,01:30:27,00:05:33,00:02:13,04:34:40
+ironman-70.3-bahrain-20161210.csv,630,Alper Akcan,40,Besiktas,TUR,00:35:55,02:31:05,01:47:09,00:05:59,00:03:10,05:03:18
+ironman-70.3-bahrain-20161210.csv,631,Has Al Akwa,41,EASTERN ,PAK,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,632,Bader Alkhalifa,42,Southern,BHR,00:37:48,03:57:43,02:04:28,00:07:23,00:04:20,06:51:42
+ironman-70.3-bahrain-20161210.csv,633,Hashem Alharbi,42,AUH,ARE,00:49:03,02:27:08,01:48:37,00:05:44,00:02:40,05:13:12
+ironman-70.3-bahrain-20161210.csv,634,Ebrahim Aljar,40,Bahrain,BHR,00:47:15,03:03:20,02:44:30,00:10:34,00:04:06,06:49:45
+ironman-70.3-bahrain-20161210.csv,635,Stephen Allen,42,Manama,GBR,00:34:25,02:34:06,01:55:42,00:06:20,00:03:11,05:13:44
+ironman-70.3-bahrain-20161210.csv,636,Nasser Almmohannadi,41,QATAR,QAT,00:49:37,02:44:47,01:50:32,00:08:46,00:03:44,05:37:26
+ironman-70.3-bahrain-20161210.csv,637,Wisam Alouch,40,DXB,SYR,00:36:50,02:41:52,01:56:27,00:07:04,00:04:40,05:26:53
+ironman-70.3-bahrain-20161210.csv,638,Humaid Alsabbagh,---,---,ARE,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,639,Mazen Arab,40,kuwait,LBN,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,640,Sinuhe Arroyo,41,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,641,Richard Backhouse,43,Other,GBR,00:39:33,02:52:37,01:54:48,00:08:02,00:03:57,05:38:57
+ironman-70.3-bahrain-20161210.csv,642,Luigi Badalato,43,AUH,ITA,00:38:44,02:54:04,01:57:49,00:07:41,00:05:22,05:43:40
+ironman-70.3-bahrain-20161210.csv,643,Warren Bailie,40,Gauteng,ZAF,00:38:05,02:57:10,02:42:39,00:08:18,00:02:57,06:29:09
+ironman-70.3-bahrain-20161210.csv,644,Maksim Barziankou,41,DXB,BLR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,645,Mohd Syafei Bin Ahmad,40,Doha,MYS,00:47:30,02:53:53,01:53:48,00:06:38,00:02:18,05:44:07
+ironman-70.3-bahrain-20161210.csv,646,Joey Cabaya,42,Manama,PHL,00:55:54,03:27:44,03:25:56,00:12:16,00:06:32,08:08:22
+ironman-70.3-bahrain-20161210.csv,647,Luis Campos,40,DXB,PRT,00:40:20,02:25:15,01:53:35,00:06:55,00:02:26,05:08:31
+ironman-70.3-bahrain-20161210.csv,648,Kevin Carscadden,43,Eastern Province,CAN,00:32:42,02:31:20,01:52:14,00:04:38,00:26:15,05:27:09
+ironman-70.3-bahrain-20161210.csv,649,Tommaso Cartacci,42,DXB,ITA,00:31:59,02:27:51,01:39:03,00:04:46,00:02:39,04:46:18
+ironman-70.3-bahrain-20161210.csv,650,Vicente Luis Catalan Bernia,43,---,ESP,00:45:02,02:45:41,01:38:30,00:06:01,00:02:39,05:17:53
+ironman-70.3-bahrain-20161210.csv,651,Nitin Chadha,41,Delhi,IND,00:42:09,03:08:53,01:53:33,00:18:10,00:08:53,06:11:38
+ironman-70.3-bahrain-20161210.csv,652,Sai Chan,41,SG,SGP,00:35:35,02:52:46,02:15:02,00:08:05,00:03:25,05:54:53
+ironman-70.3-bahrain-20161210.csv,653,David Charlier,44,---,GBR,00:38:54,02:34:25,01:39:55,00:05:30,00:02:38,05:01:22
+ironman-70.3-bahrain-20161210.csv,654,Renaud Cormier,44,---,FRA,00:28:58,02:16:19,01:43:51,00:05:52,00:03:20,04:38:20
+ironman-70.3-bahrain-20161210.csv,655,Simon Davies,43,Eastern Province,GBR,00:39:07,02:55:41,01:51:03,00:07:09,00:04:00,05:37:00
+ironman-70.3-bahrain-20161210.csv,656,Mark Dawson,41,DXB,GBR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,657,Paolo (Paul) Delicata,40,Kent,GBR,00:37:02,02:55:34,02:03:32,00:10:37,00:05:44,05:52:29
+ironman-70.3-bahrain-20161210.csv,658,Chris Denil,44,DXB,BEL,00:30:56,02:24:27,01:50:00,00:05:35,00:03:24,04:54:22
+ironman-70.3-bahrain-20161210.csv,659,Christopher Deptula,40,CA,USA,00:43:24,02:40:22,01:38:29,00:07:12,00:03:27,05:12:54
+ironman-70.3-bahrain-20161210.csv,660,Roberto Di Giovine,43,SC,USA,00:36:50,02:39:00,02:05:32,00:08:35,00:04:06,05:34:03
+ironman-70.3-bahrain-20161210.csv,661,Dan Dowding,44,---,GBR,00:35:48,02:30:01,01:39:13,00:07:14,00:02:51,04:55:07
+ironman-70.3-bahrain-20161210.csv,662,Stig Drejer,42,---,DNK,00:41:57,02:49:12,02:13:16,00:08:00,00:03:48,05:56:13
+ironman-70.3-bahrain-20161210.csv,663,Dennis Duarte,40,ZA,ZAF,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,664,Hanine El Ouali,43,---,SWE,00:42:55,02:47:22,02:02:47,00:06:23,00:03:35,05:43:02
+ironman-70.3-bahrain-20161210.csv,665,Michael English,41,Other,ZAF,00:34:40,02:40:56,01:53:30,00:08:09,00:02:38,05:19:53
+ironman-70.3-bahrain-20161210.csv,666,Don Francis,43,Al Waab ,USA,00:32:32,02:40:37,01:46:47,00:05:38,00:02:26,05:08:00
+ironman-70.3-bahrain-20161210.csv,667,Reden Garcia,44,Doha,PHL,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,668,Mohammed Ghuloom,43,Hamad Town ,BHR,00:42:09,02:55:35,02:04:13,00:06:32,00:03:35,05:52:04
+ironman-70.3-bahrain-20161210.csv,669,James Grantham,41,Lincolnshire,GBR,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,670,Stephen Griffiths,43,Muscat,GBR,00:36:02,02:40:59,01:39:50,00:07:42,00:02:50,05:07:23
+ironman-70.3-bahrain-20161210.csv,671,Shaker Haji,40,Manama,BHR,00:41:10,02:47:10,02:02:01,00:07:33,00:03:28,05:41:22
+ironman-70.3-bahrain-20161210.csv,672,Harry Harrington,43,London,GBR,00:38:53,02:54:13,02:03:12,00:08:58,00:05:06,05:50:22
+ironman-70.3-bahrain-20161210.csv,673,Darren Jones,40,Gwent,GBR,00:38:42,02:39:51,02:02:58,00:05:50,00:03:26,05:30:47
+ironman-70.3-bahrain-20161210.csv,674,Timothy Keating,42,Muscat,ZAF,00:37:35,03:08:00,02:16:20,00:08:40,00:04:26,06:15:01
+ironman-70.3-bahrain-20161210.csv,675,Daniel Kings,43,Wales,GBR,00:35:49,02:32:11,01:47:29,00:07:28,00:02:32,05:05:29
+ironman-70.3-bahrain-20161210.csv,676,Kolja Koracak,42,Seef,HRV,00:36:35,02:54:15,02:16:49,00:07:08,00:03:15,05:58:02
+ironman-70.3-bahrain-20161210.csv,677,Helton Kosturi,40,---,NOR,00:51:52,02:44:54,01:57:08,00:08:36,00:03:44,05:46:14
+ironman-70.3-bahrain-20161210.csv,678,Yasuo Kunikane,---,---,JPN,00:44:45,02:56:51,01:51:04,00:08:04,00:04:47,05:45:31
+ironman-70.3-bahrain-20161210.csv,679,Sanjay Mangla,44,New Delhi,IND,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,680,Gavin Marais,44,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,681,Michael Marston,44,RI,USA,00:37:57,02:58:42,02:23:26,00:07:22,00:04:05,06:11:32
+ironman-70.3-bahrain-20161210.csv,682,Justin Martin,44,WA,AUS,00:39:19,03:15:25,03:06:52,00:11:17,00:04:38,07:17:31
+ironman-70.3-bahrain-20161210.csv,683,David Mcnamara,43,West Yorkshire,GBR,00:35:28,02:43:04,02:20:13,00:08:55,00:04:30,05:52:10
+ironman-70.3-bahrain-20161210.csv,684,James Mowbray,40,Bucks,GBR,00:55:16,02:46:47,02:24:33,00:08:13,00:04:34,06:19:23
+ironman-70.3-bahrain-20161210.csv,685,Aldemar Munoz,40,DXB,COL,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,686,Konstantinos Mylonopoulos,40,Filothei,GRC,00:37:02,02:32:58,01:54:23,00:07:03,00:04:40,05:16:06
+ironman-70.3-bahrain-20161210.csv,687,Grant Nash,40,AUH,ZAF,00:34:19,02:39:36,02:22:53,00:07:58,00:03:22,05:48:08
+ironman-70.3-bahrain-20161210.csv,688,Andrew Neill,41,DXB,ZAF,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,689,Scott Oakes,43,---,NLD,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,690,Timothy O'Donnell,41,Sar,ZAF,00:29:51,02:20:00,01:45:27,00:04:42,00:02:30,04:42:30
+ironman-70.3-bahrain-20161210.csv,691,Mauricio Palomino,41,AL Khobar,COL,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,692,Gregg Petersen,44,DXB,ZAF,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,693,Fabrice Peyrin,42,PEARL,FRA,00:38:48,02:36:31,02:08:58,00:06:27,00:04:41,05:35:25
+ironman-70.3-bahrain-20161210.csv,694,Mattia Pipino,42,DXB,ITA,00:40:28,02:39:24,01:53:29,00:05:53,00:02:28,05:21:42
+ironman-70.3-bahrain-20161210.csv,695,Denis Polyakov,40,Moscow,RUS,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,696,Ziyad Rahim,42,Doha,CAN,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,697,Jesper Rexen,43,Other,DNK,00:47:16,03:42:24,03:04:04,00:15:58,00:12:28,08:02:10
+ironman-70.3-bahrain-20161210.csv,698,Justin Roberts,43,DXB,GBR,00:31:15,02:30:18,01:50:21,00:06:14,00:02:59,05:01:07
+ironman-70.3-bahrain-20161210.csv,699,Giulio Roman,43,ITALIA,ITA,00:30:49,02:27:14,01:29:00,00:04:30,00:02:10,04:33:43
+ironman-70.3-bahrain-20161210.csv,700,Soul Rowen,43,AE,USA,00:42:54,03:08:24,02:20:43,00:08:48,00:04:33,06:25:22
+ironman-70.3-bahrain-20161210.csv,701,Daniel Royle,43,Manama,GBR,00:46:44,03:25:37,03:15:48,00:10:22,00:04:42,07:43:13
+ironman-70.3-bahrain-20161210.csv,702,Mehmed Sahinagic,43,0,SWE,00:47:55,03:05:57,01:51:12,00:08:33,00:07:25,06:01:02
+ironman-70.3-bahrain-20161210.csv,703,Leroy Salih,43,optional,GBR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,704,Deogracias Sandoval,41,Qatar,PHL,00:51:39,03:06:49,02:06:04,00:08:16,00:04:39,06:17:27
+ironman-70.3-bahrain-20161210.csv,705,Daniel Scott,43,Dammam,AUS,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,706,Fahim Ahmed Shafiqi,41,saar,PAK,00:49:53,03:17:04,02:21:33,00:11:53,00:05:44,06:46:07
+ironman-70.3-bahrain-20161210.csv,707,Patrick Topp,43,Other,DNK,00:53:27,02:31:05,03:03:24,00:12:33,00:08:48,06:49:17
+ironman-70.3-bahrain-20161210.csv,708,Stephen Tucker,40,---,GBR,00:41:48,03:12:58,02:16:51,00:09:30,00:07:15,06:28:22
+ironman-70.3-bahrain-20161210.csv,709,Baris Sinan Ural,44,Manama,TUR,00:48:02,03:28:38,02:15:39,00:09:21,00:04:15,06:45:55
+ironman-70.3-bahrain-20161210.csv,710,Tom Vaughan,42,Al Markh ,GBR,00:28:45,02:35:24,01:38:30,00:05:44,00:03:14,04:51:37
+ironman-70.3-bahrain-20161210.csv,711,Grant Vinsen,40,AUK,NZL,00:34:10,02:26:14,01:48:23,00:05:38,00:02:16,04:56:41
+ironman-70.3-bahrain-20161210.csv,712,Clemens Von Skwarczinsky,42,Central Region,DEU,00:44:38,02:32:40,02:33:26,00:11:11,00:07:15,06:09:10
+ironman-70.3-bahrain-20161210.csv,713,Daniel Walker,44,---,GBR,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,714,Daniel Wood,43,Eastern Province,GBR,00:45:31,03:01:34,02:03:41,00:08:06,00:03:01,06:01:53
+ironman-70.3-bahrain-20161210.csv,715,Wojciech Woziwodzki,41,---,POL,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,716,Jamal Aldoseery,---,---,BHR,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,717,Contact Timing,---,---,BHR,00:33:06,03:17:21,02:23:33,00:06:29,00:04:18,06:24:47
+ironman-70.3-bahrain-20161210.csv,718,Nicola Ancarani,45,Italy,ITA,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,719,Allen Bandrowsky,46,NJ,USA,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,720,Ross Bateman,47,AUH,AUS,00:33:02,03:04:25,02:22:58,00:06:45,00:02:45,06:09:55
+ironman-70.3-bahrain-20161210.csv,721,Alan Bayliss,49,Wiltshire,GBR,00:33:12,02:33:31,01:48:23,00:06:08,00:03:14,05:04:28
+ironman-70.3-bahrain-20161210.csv,722,Johan Beckmann,46,Jeddah,SWE,00:46:11,03:14:47,02:07:52,00:18:33,00:12:56,06:40:19
+ironman-70.3-bahrain-20161210.csv,723,Lee Bennett,46,Qatar,GBR,00:36:01,02:26:31,01:34:11,00:05:06,00:02:28,04:44:17
+ironman-70.3-bahrain-20161210.csv,724,Lee Boyer,45,VA,USA,00:27:30,02:22:22,01:34:00,00:04:45,00:02:40,04:31:17
+ironman-70.3-bahrain-20161210.csv,725,Kev Braddell,---,Muharraq,GBR,00:48:42,03:08:29,02:32:43,00:09:54,00:03:40,06:43:28
+ironman-70.3-bahrain-20161210.csv,726,Douglas Briggs,47,Doha,GBR,00:39:26,02:41:54,01:31:13,00:06:22,00:02:41,05:01:36
+ironman-70.3-bahrain-20161210.csv,727,Libardo Bru,47,DXB,PAN,---,02:35:38,02:36:56,00:44:14,00:03:41,06:00:29
+ironman-70.3-bahrain-20161210.csv,728,Aaron Bruce,46,Cheshire,GBR,00:49:42,02:52:26,02:29:46,00:06:49,00:04:05,06:22:48
+ironman-70.3-bahrain-20161210.csv,729,Ewan Cameron,46,Qatar,GBR,00:32:58,02:30:36,01:38:02,00:04:26,00:01:57,04:47:59
+ironman-70.3-bahrain-20161210.csv,730,David Chambers,49,---,NZL,00:34:36,02:43:12,01:53:48,00:06:48,00:03:19,05:21:43
+ironman-70.3-bahrain-20161210.csv,731,Gary Clarke,45,---,SGP,00:31:17,02:39:20,02:11:15,00:07:55,00:04:12,05:33:59
+ironman-70.3-bahrain-20161210.csv,732,Bruce Collins,46,MI,USA,00:36:45,02:59:55,02:25:00,00:10:58,00:04:49,06:17:27
+ironman-70.3-bahrain-20161210.csv,733,Michael Cullwick,46,Durham,GBR,---,---,02:48:01,01:11:18,---,DNF
+ironman-70.3-bahrain-20161210.csv,734,Tomasz Czechowicz,46,---,POL,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,735,Khaled Dawas,46,---,PSE,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,736,Rex Deleon,45,CA,USA,00:46:12,03:08:48,02:31:55,00:07:52,00:05:31,06:40:18
+ironman-70.3-bahrain-20161210.csv,737,Gilles Paul Demers,46,QC,CAN,00:32:26,02:36:44,01:54:32,00:05:06,00:03:03,05:11:51
+ironman-70.3-bahrain-20161210.csv,738,Armando Domingo,45,Qatar,PHL,00:42:41,02:42:28,02:01:10,00:07:49,00:02:56,05:37:04
+ironman-70.3-bahrain-20161210.csv,739,Jurgen Dorr,48,"Indonesia
+Jakarta",DEU,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,740,Stefan Hochleitner,48,DE,DEU,00:44:49,02:35:29,01:50:18,00:06:49,00:03:10,05:20:35
+ironman-70.3-bahrain-20161210.csv,741,Markus Einiö,47,Etelä-suomi,FIN,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,742,Ivan Gomez,49,Surrey,VEN,00:36:36,02:35:10,01:43:47,00:08:13,00:05:17,05:09:03
+ironman-70.3-bahrain-20161210.csv,743,Neil Goulsbra,48,DXB,GBR,00:47:13,02:45:26,02:06:43,00:05:54,00:03:25,05:48:41
+ironman-70.3-bahrain-20161210.csv,744,Henrich Guntermann,46,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,745,Osamu Hashimoto,46,AlKhobar,JPN,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,746,David Homer,47,Eastern Province,AUS,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,747,Greg Hugo,46,Northern,ZAF,00:43:32,03:13:34,02:06:59,00:08:37,00:03:10,06:15:52
+ironman-70.3-bahrain-20161210.csv,748,Stephane Huriez,48,Riyadh,FRA,00:53:18,02:59:46,01:50:06,00:09:55,00:03:48,05:56:53
+ironman-70.3-bahrain-20161210.csv,749,Jameel Jassim,45,Jidhafs,BHR,00:39:21,02:35:19,01:57:12,00:09:46,00:02:43,05:24:21
+ironman-70.3-bahrain-20161210.csv,750,Jason Johnson,46,Cheshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,751,Paul Kenna,47,Muscat,GBR,00:42:07,03:12:27,02:08:02,00:09:03,00:04:42,06:16:21
+ironman-70.3-bahrain-20161210.csv,752,Robert Khoury,45,Doha,LBN,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,753,Andrew Kilshaw,49,DOHA,AUS,00:32:58,02:39:05,01:45:22,00:05:40,00:02:59,05:06:04
+ironman-70.3-bahrain-20161210.csv,754,Vladimir Kouznetsov,45,DC,USA,00:34:42,02:36:59,01:51:15,00:05:25,00:02:39,05:11:00
+ironman-70.3-bahrain-20161210.csv,755,Tarun Kumar,45,Maharashtra,IND,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,756,Rizalito Lampitoc,46,Middle East,PHL,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,757,Craig Lamshed,46,DXB,AUS,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,758,Chris Loseby,45,STAFFORDSHIRE,GBR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,759,Ivan Lowe,47,Doha,IRL,00:40:06,02:38:05,01:52:05,00:05:21,00:02:30,05:18:07
+ironman-70.3-bahrain-20161210.csv,760,Hesham Malallah,---,---,BHR,00:56:26,03:07:33,02:41:25,00:08:31,00:03:35,06:57:30
+ironman-70.3-bahrain-20161210.csv,761,Jackson Markley,48,Manama,USA,00:39:05,03:17:57,02:26:00,00:09:44,00:06:54,06:39:40
+ironman-70.3-bahrain-20161210.csv,762,Albert Megens,48,Other,NLD,00:42:05,02:28:17,01:47:37,00:05:46,00:02:33,05:06:18
+ironman-70.3-bahrain-20161210.csv,763,Peter Miller,47,Lincs,GBR,00:37:57,02:42:09,02:14:46,00:07:35,00:02:49,05:45:16
+ironman-70.3-bahrain-20161210.csv,764,Michael Mould,49,Riyadh,GBR,00:44:32,02:50:53,01:54:01,00:09:22,00:03:51,05:42:39
+ironman-70.3-bahrain-20161210.csv,765,Gerrit Muller,49,Manama,ZAF,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,766,Renato Navarro,48,DOHA,PHL,00:56:24,03:14:34,02:29:17,00:09:33,00:05:51,06:55:39
+ironman-70.3-bahrain-20161210.csv,767,Ollie Oliver,47,Hampshire,GBR,00:42:25,03:13:03,01:46:26,00:08:03,00:05:42,05:55:39
+ironman-70.3-bahrain-20161210.csv,768,Martin Prihoda,45,---,AUT,00:32:14,02:54:55,02:19:11,00:06:28,00:03:11,05:55:59
+ironman-70.3-bahrain-20161210.csv,769,Vladimir Riabushkin,47,Samarskaya oblast,RUS,00:30:57,03:20:44,02:41:01,00:34:29,00:07:34,07:14:45
+ironman-70.3-bahrain-20161210.csv,770,Ilya Riaby,49,---,RUS,00:45:10,03:07:58,02:07:35,00:08:16,00:04:26,06:13:25
+ironman-70.3-bahrain-20161210.csv,771,Paul Rowlett,46,MS,USA,00:45:11,02:48:04,02:03:28,00:07:53,00:03:48,05:48:24
+ironman-70.3-bahrain-20161210.csv,772,Christophe Sargis,47,Kingdom of Saudi Arabia,SAU,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,773,Gerrit Scharke,49,Riyadh,DEU,00:43:45,03:11:56,02:35:04,00:09:43,00:07:18,06:47:46
+ironman-70.3-bahrain-20161210.csv,774,Eymeric Segard,48,---,CHE,00:28:33,02:33:25,01:44:03,00:04:59,00:02:19,04:53:19
+ironman-70.3-bahrain-20161210.csv,775,Rolando Seprado,45,DXB,PHL,00:42:35,02:45:06,02:59:17,00:07:20,00:05:35,06:39:53
+ironman-70.3-bahrain-20161210.csv,776,Frank Shelton,47,SC,USA,00:38:04,03:30:16,02:34:22,00:08:25,00:06:37,06:57:44
+ironman-70.3-bahrain-20161210.csv,777,Pulin Shroff,46,Maharashtra,IND,00:59:10,03:26:03,01:56:57,00:10:46,00:05:09,06:38:05
+ironman-70.3-bahrain-20161210.csv,778,Brian Strong,48,Riyadh,CAN,00:46:50,02:55:09,02:20:01,00:07:59,00:07:04,06:17:03
+ironman-70.3-bahrain-20161210.csv,779,Ali Tabbal,48,DXB,LBN,00:27:59,02:21:14,01:34:41,00:04:45,00:02:05,04:30:44
+ironman-70.3-bahrain-20161210.csv,780,Nguyen Tran,47,TX,VNM,00:50:26,02:50:07,02:00:48,00:08:25,00:03:08,05:52:54
+ironman-70.3-bahrain-20161210.csv,781,Jarett West-Evans,49,Bahrain,ZAF,00:47:10,03:10:11,03:05:01,00:10:14,00:04:52,07:17:28
+ironman-70.3-bahrain-20161210.csv,782,David Andrew Williams,45,AUH,GBR,00:46:46,03:23:18,02:57:11,00:10:54,00:08:09,07:26:18
+ironman-70.3-bahrain-20161210.csv,783,Tom Yang,45,---,SGP,00:45:20,02:50:00,02:14:17,00:08:04,00:03:38,06:01:19
+ironman-70.3-bahrain-20161210.csv,784,Waleed Al Alawi,54,na,BHR,00:51:20,03:28:50,02:36:00,00:15:32,00:05:04,07:16:46
+ironman-70.3-bahrain-20161210.csv,785,Tarek Badawi,54,DE,JOR,00:38:51,02:46:43,02:08:31,00:10:04,00:03:51,05:48:00
+ironman-70.3-bahrain-20161210.csv,786,Jasim Bastaki,54,Bahrain,BHR,00:36:56,02:34:43,01:31:17,00:06:58,00:02:51,04:52:45
+ironman-70.3-bahrain-20161210.csv,787,Helmut Biehl,53,DE,DEU,00:54:38,03:29:02,02:45:10,00:11:12,00:05:46,07:25:48
+ironman-70.3-bahrain-20161210.csv,788,Sergey Chernikov,52,CH,CHE,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,789,Peter Dobbie,54,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,790,Scott Dorward,51,EASTERN PROVINCE,CAN,00:35:33,02:48:05,01:47:33,00:08:58,00:05:31,05:25:40
+ironman-70.3-bahrain-20161210.csv,791,Henry Dressler,52,Eastern,CAN,00:43:43,02:51:01,01:56:33,00:08:43,00:05:03,05:45:03
+ironman-70.3-bahrain-20161210.csv,792,Shaun Farrell,51,AUH,ZWE,00:32:11,02:57:11,02:49:03,00:08:30,00:07:43,06:34:38
+ironman-70.3-bahrain-20161210.csv,793,Ian Gladwin,50,Muscat,GBR,00:49:45,04:03:55,02:59:24,00:10:09,00:10:37,08:13:50
+ironman-70.3-bahrain-20161210.csv,794,Andreas Goldau,50,Doha,DEU,00:44:12,02:48:47,01:51:41,00:09:24,00:03:19,05:37:23
+ironman-70.3-bahrain-20161210.csv,795,Michael Goode,52,Central Governate,GBR,00:41:07,02:51:31,02:14:06,00:07:39,00:03:36,05:57:59
+ironman-70.3-bahrain-20161210.csv,796,Gilles Greuillet,50,riyadh,FRA,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,797,Simon Halford,51,Qatar,GBR,00:36:46,02:43:16,01:44:56,00:06:17,00:02:36,05:13:51
+ironman-70.3-bahrain-20161210.csv,798,Andy Hepworth,53,Eastern Province,GBR,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,799,Graeme Hornsby,52,---,GBR,00:34:01,02:57:26,02:05:57,00:08:35,00:04:38,05:50:37
+ironman-70.3-bahrain-20161210.csv,800,James Howard,53,---,GBR,00:36:55,02:49:25,01:52:33,00:08:24,00:04:58,05:32:15
+ironman-70.3-bahrain-20161210.csv,801,David Hunt,52,DXB,GBR,00:38:49,02:34:40,01:44:50,00:05:30,00:02:20,05:06:09
+ironman-70.3-bahrain-20161210.csv,802,Ryan Johnson,50,Al Batinah,BRB,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,803,Chris Knight,50,DXB,GBR,00:34:35,02:26:20,01:27:46,00:04:47,00:02:33,04:36:01
+ironman-70.3-bahrain-20161210.csv,804,Carlos Leon,52,FL,DOM,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,805,John Magalhaes,52,FR,BRA,00:31:01,02:45:28,01:48:00,00:05:38,00:03:16,05:13:23
+ironman-70.3-bahrain-20161210.csv,806,Colin Mason,50,Pembrokeshire,GBR,00:49:44,03:08:59,02:45:45,00:12:48,00:08:53,07:06:09
+ironman-70.3-bahrain-20161210.csv,807,Flavio Matias,50,Esprito Santo,BRA,00:31:36,02:35:03,01:58:15,00:07:20,00:03:27,05:15:41
+ironman-70.3-bahrain-20161210.csv,808,Bert Michels,50,Muscat,NLD,00:36:10,03:01:25,02:03:20,00:09:44,00:04:40,05:55:19
+ironman-70.3-bahrain-20161210.csv,809,Robert Ohanlon,51,DXB,NZL,00:41:10,02:53:09,01:53:25,00:08:06,00:03:22,05:39:12
+ironman-70.3-bahrain-20161210.csv,810,David Ohara,53,DXB,ARE,01:06:39,03:09:41,02:05:22,00:10:29,00:04:11,06:36:22
+ironman-70.3-bahrain-20161210.csv,811,Fabrice Petit,51,BH,FRA,00:48:25,02:53:33,02:10:31,00:09:03,00:03:18,06:04:50
+ironman-70.3-bahrain-20161210.csv,812,Moiz Rajkotwala,54,Maharashtra,IND,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,813,Mark Rogers,53,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,814,Rick Teubner,54,NM,USA,00:43:40,03:01:20,02:03:26,00:08:31,00:02:56,05:59:53
+ironman-70.3-bahrain-20161210.csv,815,Muratkhan Tokmadi,50,Almaty,KAZ,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,816,Volkov Vladimir,51,---,RUS,00:42:05,02:55:13,02:07:51,00:11:24,00:05:45,06:02:18
+ironman-70.3-bahrain-20161210.csv,817,Christopher Vosloo,50,Gauteng,ZAF,00:31:16,02:30:25,01:37:25,00:07:08,00:03:58,04:50:12
+ironman-70.3-bahrain-20161210.csv,818,Paul Watson,53,Durham,GBR,00:43:12,03:09:53,---,00:07:45,00:24:58,DNF
+ironman-70.3-bahrain-20161210.csv,819,Neil Wood,51,---,HKG,00:40:17,03:09:13,02:36:18,00:07:59,00:05:50,06:39:37
+ironman-70.3-bahrain-20161210.csv,820,Pedro Amaral,55,Cascais,PRT,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,821,Mike Atkinson,56,AE,USA,00:44:28,02:47:48,01:48:45,00:07:15,00:03:15,05:31:31
+ironman-70.3-bahrain-20161210.csv,822,Stephen Clark,59,Wiltshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,823,Christopher Harrop,55,Chester,GBR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,824,Mike Hart,56,Cumbria,OMN,00:43:26,02:52:15,02:01:53,00:09:37,00:03:57,05:51:08
+ironman-70.3-bahrain-20161210.csv,825,Hassan Jawad,56,Jidhafs town,BHR,00:54:08,03:10:59,02:38:44,00:10:27,00:08:09,07:02:27
+ironman-70.3-bahrain-20161210.csv,826,Alex Morris,57,---,GBR,00:45:35,02:44:09,02:06:02,00:07:03,00:02:26,05:45:15
+ironman-70.3-bahrain-20161210.csv,827,Lars Olvén,58,---,SWE,00:35:36,02:49:37,01:55:20,00:06:53,00:03:04,05:30:30
+ironman-70.3-bahrain-20161210.csv,828,Edwin Solomon,56,AE,USA,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,829,Karim Turki,57,00000,BHR,00:53:19,03:21:41,01:41:09,00:10:13,00:04:04,06:10:26
+ironman-70.3-bahrain-20161210.csv,830,Jurgen Fischer,61,DXB,CHE,00:38:36,02:26:47,02:36:36,00:11:12,00:06:10,05:59:21
+ironman-70.3-bahrain-20161210.csv,831,Neil Hewitt,60,Eastern Province,CAN,00:38:39,02:41:42,02:01:21,00:07:09,00:03:15,05:32:06
+ironman-70.3-bahrain-20161210.csv,832,Richard Vinsen,62,AUK,NZL,00:43:35,02:52:07,01:46:16,00:07:13,00:25:57,05:55:08
+ironman-70.3-bahrain-20161210.csv,833,Fouad Saliba,70,Rifa,BHR,00:59:26,03:28:11,02:36:59,00:15:51,00:04:47,07:25:14
+ironman-70.3-bahrain-20161210.csv,834,Isa Al Sobaiai,19,Riffa,BHR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,835,Hamad Al Khalifa,24,Al Mintagah al Wustá,BHR,00:47:12,03:02:13,02:18:00,00:08:10,00:02:07,06:17:42
+ironman-70.3-bahrain-20161210.csv,836,Ali Isa Al Khalifa,24,Riffa,BHR,00:54:04,03:19:05,02:43:36,00:09:05,00:04:11,07:10:01
+ironman-70.3-bahrain-20161210.csv,837,Ahmed Habib,29,Manama,BHR,00:42:47,02:48:05,01:58:19,00:09:00,00:02:22,05:40:33
+ironman-70.3-bahrain-20161210.csv,838,Daniel Hohls,32,Juffair,DEU,00:52:49,03:26:08,02:31:56,00:15:37,00:06:02,07:12:32
+ironman-70.3-bahrain-20161210.csv,839,Omar Tkeshelashvili,32,Georgia,GEO,00:40:15,02:58:42,01:59:00,00:07:21,00:02:41,05:47:59
+ironman-70.3-bahrain-20161210.csv,840,Fritz Joel Dela Cruz,34,Kuwait,PHL,00:46:31,02:54:41,02:01:39,00:08:55,00:04:06,05:55:52
+ironman-70.3-bahrain-20161210.csv,841,hayden ashfield,36,DXB,GBR,00:33:16,02:27:56,01:43:29,00:05:26,00:02:04,04:52:11
+ironman-70.3-bahrain-20161210.csv,842,Valikhan Ten,37,Almaty,KAZ,---,02:46:41,01:48:48,01:11:57,00:06:52,05:54:18
+ironman-70.3-bahrain-20161210.csv,843,Alexander Martin,39,DXB,PHL,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,844,George Baaklini,39,LBN ,LBN,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,845,Alan Gayton,42,Other,GBR,---,02:41:16,01:49:07,00:43:16,00:02:08,05:15:47
+ironman-70.3-bahrain-20161210.csv,846,Suleiman Al Alawi,44,Oman,OMN,00:32:12,02:35:37,01:42:20,00:06:31,00:02:41,04:59:21
+ironman-70.3-bahrain-20161210.csv,847,Reyad Malallah,50,Hawally ,KWT,00:39:58,03:06:43,02:24:07,00:10:40,00:09:31,06:30:59
+ironman-70.3-bahrain-20161210.csv,848,Hakan Posacioglu,50,turkey,TUR,00:29:09,02:46:37,02:05:18,00:06:27,00:03:13,05:30:44
+ironman-70.3-bahrain-20161210.csv,849,Daniel Longstaff,57,UT,USA,00:44:48,03:06:21,01:56:50,00:15:59,00:08:13,06:12:11
+ironman-70.3-bahrain-20161210.csv,850,Allan Lawrence,74,BERKSHIRE,GBR,00:45:37,03:36:24,02:56:50,00:09:49,00:07:24,07:36:04
+ironman-70.3-bahrain-20161210.csv,851,Benjamin Cranwell,27,DXB,GBR,00:32:01,03:01:59,02:09:00,00:06:51,00:05:40,05:55:31
+ironman-70.3-bahrain-20161210.csv,852,David Dubois,42,---,FRA,00:35:07,02:55:16,01:29:46,00:08:33,00:05:03,05:13:45
+ironman-70.3-bahrain-20161210.csv,853,Selcuk Borovali,46,TORBALI,TUR,00:41:35,02:58:34,02:12:55,00:10:24,00:04:29,06:07:57
+ironman-70.3-bahrain-20161210.csv,854,Abdulaziz Alhazeem,30,AZ,KWT,00:36:33,02:37:24,01:53:03,00:04:41,00:03:07,05:14:48
+ironman-70.3-bahrain-20161210.csv,855,Mohammed Javed,57,Manama,IND,00:57:01,02:53:11,02:01:00,00:08:38,00:03:11,06:03:01
+ironman-70.3-bahrain-20161210.csv,856,Sam Westhead,49,DXB,GBR,00:34:26,02:20:15,01:31:10,00:04:29,00:02:29,04:32:49
+ironman-70.3-bahrain-20161210.csv,857,Ahmed Al Harban,33,Doha,BHR,00:53:37,03:00:00,01:49:49,00:09:04,00:05:54,05:58:24
+ironman-70.3-bahrain-20161210.csv,858,Danilo Cinarelli,45,ge,ITA,00:29:38,02:36:15,01:29:34,00:06:20,00:01:51,04:43:38
+ironman-70.3-bahrain-20161210.csv,859,Guus Vogelzang,50,Northern Government,NLD,00:49:50,02:47:14,01:51:29,00:06:14,00:03:01,05:37:48
+ironman-70.3-bahrain-20161210.csv,860,Christopher Burrows,43,Essex,BHR,00:53:17,03:03:36,02:04:28,00:05:57,00:02:58,06:10:16
+ironman-70.3-bahrain-20161210.csv,861,Mubarak Alwoqayan,39,Kuwait ,KWT,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,862,Abulrahman Aldahmeli,26,Kuwait,KWT,00:36:53,02:39:27,01:48:26,00:05:14,00:02:33,05:12:33
+ironman-70.3-bahrain-20161210.csv,863,Cyriel Schenk,54,Manama,NLD,00:47:02,03:03:43,02:20:18,00:09:06,00:04:50,06:24:59
+ironman-70.3-bahrain-20161210.csv,864,Bader Al Bastaki,26,N/A,BHR,01:02:22,03:27:07,02:21:33,00:08:06,00:07:18,07:06:26
+ironman-70.3-bahrain-20161210.csv,865,Baris Devir,30,ALSANCAK,TUR,00:35:12,02:35:55,02:07:24,00:07:13,00:03:24,05:29:08
+ironman-70.3-bahrain-20161210.csv,866,Binatli Tugay,47,Europe,TUR,00:34:27,02:36:57,01:41:47,00:06:06,00:03:04,05:02:21
+ironman-70.3-bahrain-20161210.csv,867,Emre Tacir,43,beylikduzu,TUR,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,868,Frank Wechsel,42,---,DEU,00:33:14,02:22:30,01:46:56,00:06:12,00:02:48,04:51:40
+ironman-70.3-bahrain-20161210.csv,869,Michael Alfredo Faminial,29,Capital Governorate,PHL,---,04:25:28,02:54:40,---,00:09:25,07:29:33
+ironman-70.3-bahrain-20161210.csv,870,Brian Decker,37,AE,USA,00:39:38,03:19:39,03:08:55,00:11:22,00:06:00,07:25:34
+ironman-70.3-bahrain-20161210.csv,871,Ehsan Al Saati,33,Bahrain,BHR,00:45:19,02:54:06,01:55:01,00:10:19,00:02:56,05:47:41
+ironman-70.3-bahrain-20161210.csv,872,Abdallah Alireza,25,---,SAU,00:37:02,02:44:37,01:43:17,00:04:47,00:02:08,05:11:51
+ironman-70.3-bahrain-20161210.csv,873,Mohamed Lahna,34,CA,MAR,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,874,Abdullah Alrefae,32,Kuwait,KWT,00:36:59,03:39:02,02:36:06,00:08:13,00:06:23,07:06:43
+ironman-70.3-bahrain-20161210.csv,875,Otto Parson,34,IN,USA,00:40:46,03:12:21,02:05:02,00:10:20,00:03:00,06:11:29
+ironman-70.3-bahrain-20161210.csv,876,Abdul Aziz Al Busmait,27,Bahrain,BHR,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,877,Omar Abdul Razaq,20,Muharraq,BHR,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,878,Jacobo Solis,32,Riyadh,ESP,00:45:00,03:00:09,02:27:13,00:08:31,00:05:30,06:26:23
+ironman-70.3-bahrain-20161210.csv,879,Thani Alzarraa,33,Doha,QAT,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,880,Nooh Al Qashar,---,---,BHR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,881,Khaled Essam Gouda,---,---,BHR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,882,Mohamed Khaled Nabil,---,---,BHR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,883,Mohamed Belal Aliy,---,---,BHR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,884,Marwan Ali Matar Hassan,---,---,BHR,00:41:14,---,---,00:08:18,---,DNF
+ironman-70.3-bahrain-20161210.csv,885,Raed Al Dosari,---,---,BHR,01:04:55,03:31:23,02:19:04,00:11:59,00:07:35,07:14:56
+ironman-70.3-bahrain-20161210.csv,886,Nooh Ali Abdula Al Qashar,---,---,BHR,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,887,Jasim Al Mansoori,---,---,BHR,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,888,Ahmed Al Mansoori,---,---,BHR,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,889,Ahmed Al Mannaei,---,---,BHR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,890,Wafi Mohammed Al Mahmood,---,---,BHR,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,891,Ahmed Al Mannai,---,---,BHR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,892,Ivan Jones,---,---,GBR,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20161210.csv,893,Yusuf Alireza,46,---,BHR,00:36:09,02:39:04,01:53:28,00:10:36,00:04:20,05:23:37
+ironman-70.3-bahrain-20161210.csv,894,Henri Holm,46,DXB,FIN,00:35:31,02:26:23,01:47:51,00:06:41,00:04:19,05:00:45
+ironman-70.3-bahrain-20161210.csv,895,Hamad Al Mansoori,---,---,BHR,00:45:41,02:33:56,01:53:47,00:07:48,00:04:40,05:25:52
+ironman-70.3-bahrain-20161210.csv,896,Allan Leon,---,---,FRA,00:37:12,02:36:45,01:35:17,00:06:25,00:03:10,04:58:49
+ironman-70.3-bahrain-20161210.csv,897,Emilio Escartin Hernandez,---,---,BHR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20161210.csv,898,Shirin Gerami,28,---,IRN,00:34:07,02:55:42,01:52:00,00:05:41,00:03:00,05:30:30
+ironman-70.3-bahrain-20161210.csv,899,Eldar Eldarov,---,---,BHR,---,---,---,---,---,DQ

@@ -1,0 +1,816 @@
+#File=ironman-los-cabos-20151025.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-los-cabos-20151025.csv,49,Cesar Perez Cota,---,---,MEX,01:41:05,07:26:46,04:39:42,00:06:49,00:04:18,13:58:40
+ironman-los-cabos-20151025.csv,50,Jorge Pereira Dos Santos,---,---,USA,01:06:13,07:32:30,---,00:07:18,00:03:55,DNF
+ironman-los-cabos-20151025.csv,51,Daniel Ibarra Pina,---,---,MEX,01:18:35,07:25:40,05:29:17,00:05:10,00:03:34,14:22:16
+ironman-los-cabos-20151025.csv,52,Jesus Adrian Lopez Castro,---,---,MEX,01:16:20,06:48:51,05:00:50,00:10:44,00:06:39,13:23:24
+ironman-los-cabos-20151025.csv,53,Fernando Vargas De La Rosa,---,---,MEX,01:18:55,06:27:54,04:45:15,00:08:33,00:03:31,12:44:08
+ironman-los-cabos-20151025.csv,54,Hector Zavala,---,---,MEX,00:57:23,07:16:31,---,00:02:45,---,DNF
+ironman-los-cabos-20151025.csv,55,Erica Pacheco,35,VA,USA,01:09:31,06:42:16,04:35:55,00:04:03,00:02:18,12:34:03
+ironman-los-cabos-20151025.csv,57,Brett Cohen,37,NY,USA,01:28:18,06:37:07,04:29:41,00:14:36,00:12:41,13:02:23
+ironman-los-cabos-20151025.csv,58,Rodrigo Rubin,---,---,MEX,01:13:05,06:27:46,05:14:34,00:03:19,00:04:26,13:03:10
+ironman-los-cabos-20151025.csv,77,Lucio Blanco Montes,41,BAJA CALIFORNIA SUR,MEX,01:16:14,06:13:09,04:37:14,00:14:21,00:10:01,12:30:59
+ironman-los-cabos-20151025.csv,78,Ronn William Remai,---,---,MEX,01:20:07,07:43:46,05:23:40,00:10:25,00:05:35,14:43:33
+ironman-los-cabos-20151025.csv,79,Rodolfo Abraham Lopez Mendoza,---,DF,MEX,01:03:53,06:07:19,04:06:02,00:04:16,00:01:50,11:23:20
+ironman-los-cabos-20151025.csv,80,Alan P. Kelley,37,OR,USA,01:20:37,06:24:00,06:06:49,00:08:34,00:12:43,14:12:43
+ironman-los-cabos-20151025.csv,81,Jimi Young,46,MI,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,82,Alexander Espinoza Md,42,CA,USA,01:35:59,07:05:03,05:26:48,00:07:46,00:05:47,14:21:23
+ironman-los-cabos-20151025.csv,83,Mark Holt,53,CA,USA,01:10:54,---,---,00:20:16,---,DNF
+ironman-los-cabos-20151025.csv,84,John Werner,52,CA,USA,01:18:55,---,---,00:25:05,---,DNF
+ironman-los-cabos-20151025.csv,85,Rachel Byrne,36,NSW,AUS,01:17:55,---,---,00:13:52,---,DNF
+ironman-los-cabos-20151025.csv,86,Timo Heine,40,---,DEU,00:58:29,05:17:02,03:41:37,00:05:25,00:02:13,10:04:46
+ironman-los-cabos-20151025.csv,87,Harald Kohlhaas,---,---,DEU,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,88,Ben L Holliday,---,---,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,89,Carlos Gomez Fernandez,---,---,ESP,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,90,Tyler Wichmann,31,NC,USA,01:12:44,06:46:23,05:32:51,00:08:28,00:06:19,13:46:45
+ironman-los-cabos-20151025.csv,91,Jamie Legere,48,CA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,92,Luis Alvarez,53,Tlalpan,MEX,01:06:36,06:57:13,06:21:59,00:12:29,00:14:26,14:52:43
+ironman-los-cabos-20151025.csv,94,David Lee,44,NC,USA,00:56:26,---,---,00:05:00,03:45:08,DNF
+ironman-los-cabos-20151025.csv,95,Seth Greene,38,NC,USA,01:21:34,06:57:48,05:30:08,00:08:34,00:05:59,14:04:03
+ironman-los-cabos-20151025.csv,96,Pablo Belgeri,45,Huixquilucan,URY,01:11:37,07:39:47,06:48:01,00:08:13,00:11:06,15:58:44
+ironman-los-cabos-20151025.csv,97,Natalie Myatt,38,QLD,AUS,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,98,Cheri Lutz,47,NSW,AUS,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,99,Jacqueline Nunes,53,CO,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,100,Rob Lutz,47,NSW,AUS,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,101,Carlos Felipe Del Valle Chauvet,40,Intl State,MEX,01:14:46,08:32:53,06:41:23,00:10:58,00:13:19,16:53:19
+ironman-los-cabos-20151025.csv,102,Jürgen Mirschberger,50,---,DEU,01:10:14,06:33:40,04:16:35,00:03:16,00:05:22,12:09:07
+ironman-los-cabos-20151025.csv,103,Rodrigo Peï¿½a,34,---,CHL,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,104,Fredrik Zeeck,43,TX,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,105,Sean Edrington,41,CA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,106,Carlos Binder,34,---,CHL,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,107,Korrie Hicks,36,OR,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,108,Melik Hernandez,43,CA,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,109,Brian Linden,---,---,USA,01:27:11,08:29:15,06:04:46,00:09:18,00:07:14,16:17:44
+ironman-los-cabos-20151025.csv,110,Anthony Pinheiro,42,Rio de Janeiro,BRA,01:04:36,06:30:31,05:18:49,00:07:53,00:06:10,13:07:59
+ironman-los-cabos-20151025.csv,111,Wendy Wyskiel,53,CO,USA,01:31:25,---,---,00:08:53,---,DNF
+ironman-los-cabos-20151025.csv,112,Kyle Hamilton,39,CA,USA,01:16:29,---,---,00:03:26,---,DNF
+ironman-los-cabos-20151025.csv,113,Guido Santos Natale,57,---,ARG,01:32:43,06:56:40,04:26:12,00:07:48,00:06:24,13:09:47
+ironman-los-cabos-20151025.csv,114,Jaime Garcia G,49,Intl State,MEX,01:17:23,06:49:22,04:54:33,00:10:56,00:03:03,13:15:17
+ironman-los-cabos-20151025.csv,115,Maria Ribera,46,---,BOL,---,06:49:39,07:51:22,01:37:00,00:05:30,16:23:31
+ironman-los-cabos-20151025.csv,117,Amado Castro,---,---,MEX,01:28:24,07:00:37,---,00:15:51,00:16:42,DNF
+ironman-los-cabos-20151025.csv,118,Andrew Battman,---,---,GBR,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,119,Luis Antonio Duenas Romero,---,---,MEX,01:21:20,08:10:06,06:13:46,00:07:52,00:06:48,15:59:52
+ironman-los-cabos-20151025.csv,120,Nestor Esquivel,51,Intl State,ARG,01:38:55,---,---,00:05:45,---,DNF
+ironman-los-cabos-20151025.csv,121,Ted Houston,48,CA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,122,Matthew Houston,24,CA,USA,01:01:33,06:34:37,---,00:06:23,---,DNF
+ironman-los-cabos-20151025.csv,123,Sabrina Houston,24,CA,USA,01:03:50,07:21:28,04:49:21,00:06:33,00:04:53,13:26:05
+ironman-los-cabos-20151025.csv,124,Justin Bledsoe,37,TN,USA,01:16:24,06:08:16,---,00:07:21,00:07:32,DNF
+ironman-los-cabos-20151025.csv,125,Filippo Ciaccia,45,Milano,ITA,01:14:00,06:55:35,05:18:40,00:08:28,00:04:45,13:41:28
+ironman-los-cabos-20151025.csv,126,Elena Maria Adelaide De Preto,48,Milano,ITA,01:18:33,07:15:31,04:32:32,00:08:11,00:05:09,13:19:56
+ironman-los-cabos-20151025.csv,127,Kevin Stehr,47,SC,USA,01:08:56,07:01:44,04:57:35,00:11:02,00:07:53,13:27:10
+ironman-los-cabos-20151025.csv,128,Brook Wheeler,44,---,USA,01:15:34,07:35:25,06:00:56,00:13:07,00:10:38,15:15:40
+ironman-los-cabos-20151025.csv,129,Gerardo Loaiza,45,Maine,MEX,01:16:46,07:01:45,05:09:06,00:10:30,00:05:47,13:43:54
+ironman-los-cabos-20151025.csv,130,Arturo ORTIZ,-1,Intl State,MEX,01:18:55,07:21:36,05:26:47,00:11:52,00:08:20,14:27:30
+ironman-los-cabos-20151025.csv,131,Lars Hanschke,37,PUEBLA,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,132,Cirilo Flores Salamanca,44,---,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,133,Ruben De La Rosa,39,Intl State,MEX,01:09:08,06:06:42,---,00:07:52,00:05:06,DNF
+ironman-los-cabos-20151025.csv,134,Erika Lopez Veana,35,Puebla ,MEX,01:12:15,06:37:08,04:24:07,00:06:13,00:04:08,12:23:51
+ironman-los-cabos-20151025.csv,135,Gerardo Morales Revilla,---,---,MEX,01:03:55,06:24:09,03:54:44,00:06:41,00:04:47,11:34:16
+ironman-los-cabos-20151025.csv,136,Antonio Herrera Moguel,41,PUEBLA,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,137,Jason Dale,42,TN,USA,01:31:13,06:48:04,---,00:10:27,---,DNF
+ironman-los-cabos-20151025.csv,138,Timothy Shriver,43,NC,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,139,Andrew Jackson,37,UT,USA,01:41:21,06:19:00,05:37:16,00:08:50,00:07:14,13:53:41
+ironman-los-cabos-20151025.csv,140,Gabriel Aguilar Veana,43,---,MEX,---,---,---,---,---,DQ
+ironman-los-cabos-20151025.csv,141,Daniel De Miguel Lorenzo,34,---,ESP,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,142,Antonio Pariente,33,Nuevo Leon,MEX,01:09:15,07:47:52,05:34:13,00:19:18,00:22:15,15:12:53
+ironman-los-cabos-20151025.csv,143,John Pappas,45,AZ,CAN,01:05:07,05:48:51,04:13:15,00:04:01,00:02:33,11:13:47
+ironman-los-cabos-20151025.csv,144,Livis Jaquez,40,Nuevo Leon,MEX,01:09:37,06:15:02,04:04:01,00:06:49,00:03:53,11:39:22
+ironman-los-cabos-20151025.csv,145,Suzanne Martin,58,UT,USA,01:54:12,---,---,00:13:02,---,DNF
+ironman-los-cabos-20151025.csv,146,Jeremy Walker,---,---,USA,01:22:26,08:27:01,06:06:31,00:13:14,00:08:17,16:17:29
+ironman-los-cabos-20151025.csv,147,Alan Lau,40,---,GBR,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,148,Eduardo Munoz De La Garza,40,---,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,149,Cesar Corona,38,Queretaro,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,150,Rodrigo Bautista Solano,39,AL,MEX,01:14:18,07:19:07,05:08:44,00:05:58,00:08:51,13:56:58
+ironman-los-cabos-20151025.csv,151,Milt Drewer,40,VA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,153,Lou Sowers,54,WA,USA,01:05:23,07:33:08,05:55:11,00:10:16,00:08:16,14:52:14
+ironman-los-cabos-20151025.csv,154,Arthur Westphal,65,NJ,USA,01:23:10,07:48:08,05:11:34,00:17:58,00:13:30,14:54:20
+ironman-los-cabos-20151025.csv,155,Joerg Schuetz,48,---,DEU,01:15:16,05:30:30,04:43:09,00:05:40,00:02:31,11:37:06
+ironman-los-cabos-20151025.csv,156,Candice N. Alvarez,44,CA,USA,01:39:07,---,---,00:13:13,---,DNF
+ironman-los-cabos-20151025.csv,157,Michael Seidner,40,CA,USA,01:07:20,06:10:50,---,00:05:42,00:06:09,DNF
+ironman-los-cabos-20151025.csv,158,Matthew Wong,29,CA,USA,01:04:52,06:16:09,04:46:07,00:07:47,00:04:07,12:19:02
+ironman-los-cabos-20151025.csv,159,Jennifer Carroll,41,AL,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,160,Marvin Milian,36,CA,USA,01:15:34,07:59:06,05:33:50,00:13:36,00:10:27,15:12:33
+ironman-los-cabos-20151025.csv,161,Michael Nuñez Quesada,37,Intl State,CRI,01:03:42,06:21:50,04:32:37,00:08:54,00:09:30,12:16:33
+ironman-los-cabos-20151025.csv,162,Maryellen Brown,37,TX,USA,01:26:44,07:59:32,06:34:08,00:11:53,00:06:29,16:18:46
+ironman-los-cabos-20151025.csv,163,Sunny J Hoffman,---,---,USA,01:36:50,08:31:38,06:16:55,00:12:32,00:11:42,16:49:37
+ironman-los-cabos-20151025.csv,164,Gabriela Lazo,29,BENITO JUAREZ,MEX,01:04:41,06:27:33,04:53:29,00:07:25,00:03:38,12:36:46
+ironman-los-cabos-20151025.csv,165,Omar Escalante,38,---,MEX,01:20:49,08:10:52,06:15:51,00:10:39,00:15:41,16:13:52
+ironman-los-cabos-20151025.csv,166,Oscar Gonzalez,37,NY,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,167,Shawn Flannigan,44,TX,USA,01:26:21,08:03:24,06:22:51,00:08:55,00:06:32,16:08:03
+ironman-los-cabos-20151025.csv,169,Natalie Trevithick,41,CA,USA,01:17:03,06:52:58,06:12:13,00:09:03,00:04:46,14:36:03
+ironman-los-cabos-20151025.csv,170,Brian Amende,37,CA,USA,01:06:22,06:46:14,04:19:05,00:06:49,00:05:40,12:24:10
+ironman-los-cabos-20151025.csv,171,Randall Cooper,49,UT,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,172,Vipin Adhlakha,39,IN,USA,01:05:40,08:34:27,---,00:10:59,---,DNF
+ironman-los-cabos-20151025.csv,173,Jose Celorio,36,CA,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,174,Lindsay George Hammer,---,---,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,175,Kim Hettwer,48,NY,USA,01:44:58,07:38:52,05:10:20,00:08:22,00:03:59,14:46:31
+ironman-los-cabos-20151025.csv,176,Ricardo Castillo,39,AR,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,177,Renee Houser,40,CA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,178,Elmer Zapata,36,Lima,PER,01:22:00,06:50:24,05:04:43,00:08:31,00:08:50,13:34:28
+ironman-los-cabos-20151025.csv,179,Andre Nguyen,31,---,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,180,Kristine Reinhardt,50,CO,USA,01:44:34,---,---,00:11:21,---,DNF
+ironman-los-cabos-20151025.csv,181,Russ Pence,52,CO,USA,01:21:29,---,---,00:10:21,---,DNF
+ironman-los-cabos-20151025.csv,182,Catherine Matsalla,52,AB,CAN,01:09:22,06:14:09,04:36:53,00:04:05,00:02:01,12:06:30
+ironman-los-cabos-20151025.csv,183,Douglas Williams,---,---,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,184,Patrick Donovan,41,IL,USA,01:20:56,07:37:30,06:29:59,00:08:58,00:10:14,15:47:37
+ironman-los-cabos-20151025.csv,185,Ryan Seeriram,41,ON,CAN,01:34:39,07:06:58,06:36:57,00:06:38,00:06:54,15:32:06
+ironman-los-cabos-20151025.csv,186,Scott Weiss,43,CA,USA,01:34:14,08:03:45,05:10:45,00:14:12,00:07:43,15:10:39
+ironman-los-cabos-20151025.csv,187,Anthony Czysczon,44,IL,USA,01:21:58,07:19:24,06:04:25,00:07:57,00:06:20,15:00:04
+ironman-los-cabos-20151025.csv,188,Kevin Kelly,48,IL,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,189,Nollie Perez,45,ON,CAN,01:30:58,08:01:32,06:18:32,00:13:28,00:06:02,16:10:32
+ironman-los-cabos-20151025.csv,190,Jon Vermillion,53,CO,USA,01:49:15,07:05:19,05:53:58,00:09:16,00:05:21,15:03:09
+ironman-los-cabos-20151025.csv,191,Terry Sydenham,59,ON,CAN,02:06:36,---,---,00:14:35,---,DNF
+ironman-los-cabos-20151025.csv,192,Salvatore Bordo,41,mi,ITA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,193,Shawn Bogan,45,MO,USA,01:11:41,---,---,00:07:28,---,DNF
+ironman-los-cabos-20151025.csv,194,Lloyd Gillespie,35,MA,USA,01:11:16,06:23:11,05:39:05,00:04:31,00:09:22,13:27:25
+ironman-los-cabos-20151025.csv,195,Rainer Hensel,47,---,DEU,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,196,Laura Stevenson,48,FL,CAN,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,197,Ryan Heidorn,34,CA,USA,01:08:38,06:33:50,05:39:51,00:11:05,00:08:15,13:41:39
+ironman-los-cabos-20151025.csv,198,Morgan Dever,27,---,USA,01:07:20,07:07:47,04:52:34,00:09:02,00:03:40,13:20:23
+ironman-los-cabos-20151025.csv,199,Scott Haley,50,GA,USA,01:20:22,07:32:06,06:41:26,00:10:13,00:05:04,15:49:11
+ironman-los-cabos-20151025.csv,200,Jose Luis Luis Saavedra Escalona,---,---,MEX,01:20:45,---,---,---,---,DNF
+ironman-los-cabos-20151025.csv,201,Barry Collins,52,CA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,202,Mauricio Davila Ramirez,43,Intl State,MEX,01:24:57,06:42:55,04:41:44,00:15:08,00:10:12,13:14:56
+ironman-los-cabos-20151025.csv,203,Francisco Del Valle,---,---,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,204,Jesus Falcon,40,CA,MEX,02:01:02,---,---,00:07:02,---,DNF
+ironman-los-cabos-20151025.csv,205,Eduardo Rodríguez García,41,NL,MEX,01:26:35,06:07:17,04:44:39,00:06:09,00:07:13,12:31:53
+ironman-los-cabos-20151025.csv,206,Andrew Lidster,34,---,GBR,01:06:25,07:44:26,05:39:49,00:08:10,00:10:07,14:48:57
+ironman-los-cabos-20151025.csv,207,Ivan Lenz,43,---,CHE,01:05:00,05:38:34,03:28:42,00:04:43,00:03:41,10:20:40
+ironman-los-cabos-20151025.csv,208,Eddie Cournoyer,52,NC,USA,01:28:42,---,---,00:08:36,---,DNF
+ironman-los-cabos-20151025.csv,209,Ashanti Edith Aguilar,35,---,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,210,Jason Bunch,43,CA,USA,01:02:02,05:53:41,04:28:37,00:03:03,00:04:13,11:31:36
+ironman-los-cabos-20151025.csv,211,Max Lauren,---,---,FIN,01:30:12,06:27:09,04:16:48,00:05:02,00:07:51,12:27:02
+ironman-los-cabos-20151025.csv,212,Jalil Farah,41,ON,CAN,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,213,David Low,56,ON,CAN,01:33:56,07:07:22,05:15:05,00:13:13,00:11:19,14:20:55
+ironman-los-cabos-20151025.csv,214,Derek Porter,45,BC,CAN,01:40:58,07:36:53,06:03:23,00:13:22,00:11:33,15:46:09
+ironman-los-cabos-20151025.csv,215,Adriana Vico Carrasco,47,Miranda,VEN,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,216,Blake Nelson,20,WA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,217,Araceli Solis Tamez,34,TX,USA,01:06:57,07:15:06,---,00:08:17,00:04:39,DNF
+ironman-los-cabos-20151025.csv,218,Ignacio Soto,---,---,USA,01:56:17,---,---,00:15:07,---,DNF
+ironman-los-cabos-20151025.csv,219,Chad Ronnebaum,48,GA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,220,Antoine Pineau,43,---,FRA,01:16:19,06:12:41,06:41:25,00:09:29,00:07:09,14:27:03
+ironman-los-cabos-20151025.csv,221,Pieter Severein,39,---,GBR,01:17:29,08:04:22,06:10:04,00:12:33,00:09:01,15:53:29
+ironman-los-cabos-20151025.csv,222,Bertrand Mulot,45,FR,FRA,01:04:10,06:14:08,06:02:18,00:06:54,00:02:27,13:29:57
+ironman-los-cabos-20151025.csv,223,Vedran Kaluderovic,35,CA,USA,00:56:41,07:41:17,05:59:36,00:06:38,00:08:20,14:52:32
+ironman-los-cabos-20151025.csv,224,Matthew Whitcomb,43,CA,USA,01:19:40,06:24:58,03:52:02,00:09:11,00:06:00,11:51:51
+ironman-los-cabos-20151025.csv,225,Frank Callis,48,GA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,226,Chris Fiacco,44,MD,USA,01:10:05,07:52:36,05:31:16,00:06:12,00:06:55,14:47:04
+ironman-los-cabos-20151025.csv,227,Rick Armiger,44,MD,USA,01:11:05,06:16:05,04:45:16,00:06:44,00:05:39,12:24:49
+ironman-los-cabos-20151025.csv,228,Alan Priest,71,MI,USA,01:35:21,08:00:32,06:30:46,00:08:39,00:06:56,16:22:14
+ironman-los-cabos-20151025.csv,229,Natalie Kik-Brown,53,MI,USA,01:38:01,07:53:56,05:57:38,00:08:35,00:05:38,15:43:48
+ironman-los-cabos-20151025.csv,230,Todd Kinard,38,UT,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,231,Andy Williams,---,---,USA,01:15:40,06:20:40,05:26:03,00:11:07,00:06:47,13:20:17
+ironman-los-cabos-20151025.csv,232,Carlos Santiago,23,baja california,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,233,Rosa Irina Sigala Rodriguez,---,---,MEX,01:33:07,08:35:34,05:09:51,00:09:28,00:07:00,15:35:00
+ironman-los-cabos-20151025.csv,234,Teryn Warnke,30,AB,CAN,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,235,Ian Elm,38,AB,CAN,01:03:58,06:11:35,---,00:03:36,00:04:27,DNF
+ironman-los-cabos-20151025.csv,236,Ricardo Chavarria Fierro,40,DISTRITO FEDERAL,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,238,John Woolley,46,CO,USA,01:00:42,05:58:07,04:49:48,00:05:44,00:02:31,11:56:52
+ironman-los-cabos-20151025.csv,239,Jason Ingalls,46,CO,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,240,Bob Moser,44,CO,USA,01:25:44,07:02:06,04:46:46,00:13:17,00:09:52,13:37:45
+ironman-los-cabos-20151025.csv,241,Bridget Files-Herrin,---,---,USA,01:38:53,08:18:01,06:06:16,00:09:01,00:08:40,16:20:51
+ironman-los-cabos-20151025.csv,242,Kristin Fugate,---,---,USA,01:20:45,06:41:49,05:16:17,00:15:31,00:07:02,13:41:24
+ironman-los-cabos-20151025.csv,243,Terry Troy,40,VA,USA,01:22:06,06:44:57,05:13:09,00:14:52,00:06:20,13:41:24
+ironman-los-cabos-20151025.csv,244,Javier Vega,33,FL,CUB,01:25:56,08:26:31,05:00:47,00:07:42,00:04:41,15:05:37
+ironman-los-cabos-20151025.csv,245,Eduardo Barrios Barrientos,41,Mexico DF,MEX,01:02:40,---,---,00:07:01,---,DNF
+ironman-los-cabos-20151025.csv,246,John Thomas Cleveland Acuña,32,---,CHL,01:17:53,07:00:37,---,00:11:30,00:04:31,DNF
+ironman-los-cabos-20151025.csv,247,Christian Calderon Saavedra,46,---,CHL,01:51:12,07:37:48,05:53:17,00:14:38,00:05:13,15:42:08
+ironman-los-cabos-20151025.csv,248,Andres Maximiliano Rojas Palacios,---,---,CHL,01:04:29,06:14:04,04:37:53,00:07:13,00:03:48,12:07:27
+ironman-los-cabos-20151025.csv,249,Sandra Reyes Gallardo,---,---,CHL,01:20:26,07:34:18,04:58:14,00:10:53,00:06:58,14:10:49
+ironman-los-cabos-20151025.csv,250,Carlos Echeverria Luengo,---,---,CHL,01:14:05,05:48:22,04:06:34,00:06:41,00:05:26,11:21:08
+ironman-los-cabos-20151025.csv,251,Manueljose Conejeros,---,---,CHL,00:56:32,05:30:15,03:40:39,00:02:49,00:03:11,10:13:26
+ironman-los-cabos-20151025.csv,252,Amy Margolis,44,WA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,253,David Wilson,45,WA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,254,Juan Pablo Ojeda,44,---,CHL,01:13:14,06:47:22,04:44:13,00:10:39,00:12:01,13:07:29
+ironman-los-cabos-20151025.csv,255,Cyril Neirynck,45,QC,FRA,01:15:29,05:36:59,03:44:45,00:04:15,00:01:49,10:43:17
+ironman-los-cabos-20151025.csv,256,R.A Rondell,58,CA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,257,German Perez,43,---,CHL,01:23:59,07:06:18,04:47:35,00:13:14,00:13:13,13:44:19
+ironman-los-cabos-20151025.csv,258,Terrence Timko,69,PA,USA,01:38:47,---,---,00:15:46,---,DNF
+ironman-los-cabos-20151025.csv,259,Louis Jr Lavergne,45,QC,CAN,01:15:08,05:59:33,05:20:55,00:05:10,00:03:03,12:43:49
+ironman-los-cabos-20151025.csv,260,Ernesto Paredes,49,CA,USA,01:13:01,---,---,00:13:35,---,DNF
+ironman-los-cabos-20151025.csv,261,Michele Rosas,45,CA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,262,Jaime Corona,41,Nuevo Leon,MEX,01:01:03,07:26:01,06:58:34,00:08:28,00:08:26,15:42:32
+ironman-los-cabos-20151025.csv,263,William Marin,36,Miguel Hidalgo,VEN,01:12:25,07:03:12,04:34:36,00:16:24,00:10:57,13:17:34
+ironman-los-cabos-20151025.csv,264,Bertrand Van Isterdael,42,---,BEL,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,265,Rodrigo Salcedo,---,---,MEX,01:37:23,06:31:59,04:05:55,00:23:33,00:20:37,12:59:27
+ironman-los-cabos-20151025.csv,266,Ricardo Mendez,37,DF,MEX,01:12:25,07:00:03,04:43:29,00:05:32,00:06:45,13:08:14
+ironman-los-cabos-20151025.csv,267,Alejandra Patino Oviedo,36,Df,MEX,01:31:39,07:07:02,04:40:46,00:10:06,00:06:46,13:36:19
+ironman-los-cabos-20151025.csv,268,Barb Blakley,37,NY,USA,01:15:50,---,---,00:06:34,---,DNF
+ironman-los-cabos-20151025.csv,269,Simon Voz,46,---,BEL,01:12:51,05:52:30,03:41:30,00:04:40,00:01:59,10:53:30
+ironman-los-cabos-20151025.csv,270,Juan Aceves,---,---,MEX,01:25:28,07:26:35,05:32:30,00:12:32,00:08:55,14:46:00
+ironman-los-cabos-20151025.csv,271,Marco Sidler,34,CH,CHE,01:07:39,05:41:56,04:32:28,00:06:01,00:03:30,11:31:34
+ironman-los-cabos-20151025.csv,272,Robert Straavaldson,47,OR,USA,01:00:31,06:51:48,05:54:02,00:10:19,00:07:45,14:04:25
+ironman-los-cabos-20151025.csv,273,Jair Avansi,48,PR,BRA,01:28:06,07:02:50,05:03:52,00:11:17,00:10:03,13:56:08
+ironman-los-cabos-20151025.csv,274,Ryan Alfred,32,CA,USA,01:08:53,06:01:56,05:07:51,00:04:55,00:03:54,12:27:29
+ironman-los-cabos-20151025.csv,275,Matthew Clifford,28,CA,USA,01:03:01,06:05:09,05:13:28,00:03:53,00:01:59,12:27:30
+ironman-los-cabos-20151025.csv,276,Cullen Roche,---,---,USA,01:11:57,08:12:10,06:19:48,00:12:05,00:09:44,16:05:44
+ironman-los-cabos-20151025.csv,277,Alex Turan,45,CA,USA,01:09:18,06:20:06,05:18:26,00:08:42,00:12:12,13:08:44
+ironman-los-cabos-20151025.csv,278,Michelle Goulet,30,AB,CAN,01:22:23,07:54:10,05:04:17,00:07:41,00:05:48,14:34:19
+ironman-los-cabos-20151025.csv,279,Claudia Rodriguez Zinn,40,CA,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,280,Gerry Violette,49,RI,USA,01:15:33,---,---,00:07:06,---,DNF
+ironman-los-cabos-20151025.csv,281,Jessica Atherton,---,---,USA,01:37:11,07:40:11,06:26:17,00:07:37,00:05:08,15:56:24
+ironman-los-cabos-20151025.csv,282,Glenn Atherton,---,---,USA,01:31:20,08:30:09,---,00:08:55,00:07:08,DNF
+ironman-los-cabos-20151025.csv,283,Jennifer Lipscomb,33,CA,USA,01:21:56,07:33:25,06:20:43,00:06:07,00:05:28,15:27:39
+ironman-los-cabos-20151025.csv,284,Anne Turner,30,WA,USA,01:12:01,---,---,00:09:14,---,DNF
+ironman-los-cabos-20151025.csv,285,jeremy Turner,32,CA,USA,01:04:55,06:11:09,04:29:50,00:06:36,00:05:22,11:57:52
+ironman-los-cabos-20151025.csv,286,Kevil B. Murray,31,CA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,287,Katie Smith,38,IN,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,288,John Mikesch,42,AR,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,289,Ryan Grover,36,UT,USA,01:18:26,07:49:29,05:59:31,00:11:10,00:07:47,15:26:23
+ironman-los-cabos-20151025.csv,290,David Kornfield,32,WA,USA,01:03:40,05:41:39,04:27:46,00:03:02,00:02:57,11:19:04
+ironman-los-cabos-20151025.csv,291,Tiago Lessa,36,Rio de Janeiro,BRA,01:10:35,05:21:30,03:57:45,00:03:25,00:01:52,10:35:07
+ironman-los-cabos-20151025.csv,292,Matthew Dawes,42,---,GBR,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,293,Chad French,43,CA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,294,Maria Elena Denjoy,50,---,VEN,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,295,Victor Flematti,35,entre rios,ARG,01:04:22,05:46:34,04:26:31,00:03:44,00:01:53,11:23:04
+ironman-los-cabos-20151025.csv,296,Fernando Luis Diaz,50,---,VEN,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,297,Stefan Reupke,49,Puebla,DEU,01:25:51,07:45:19,04:47:19,00:14:38,00:11:20,14:24:27
+ironman-los-cabos-20151025.csv,298,Scott Kurtz,36,OH,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,299,Francisco Arrieta,---,---,MEX,01:08:35,06:11:06,06:23:19,00:05:49,00:04:32,13:53:21
+ironman-los-cabos-20151025.csv,300,Robert Gresl,52,CA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,301,Matthew Garth,---,---,USA,01:17:12,06:52:08,05:50:57,00:11:32,00:10:33,14:22:22
+ironman-los-cabos-20151025.csv,302,William Anderson,29,NY,USA,01:31:15,07:35:07,05:44:17,00:10:38,00:07:26,15:08:43
+ironman-los-cabos-20151025.csv,303,Michael Bennett,49,HI,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,304,Sheldon Wolitski,43,NC,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,305,Juvencio Moncayo,43,Intl State,MEX,01:38:23,08:16:22,---,00:16:31,00:14:47,DNF
+ironman-los-cabos-20151025.csv,306,Brooke Degnan,45,AK,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,307,Heather Alvarado,41,AK,USA,01:36:04,08:32:12,06:18:01,00:08:36,00:07:35,16:42:28
+ironman-los-cabos-20151025.csv,308,Javier Flores,48,CA,MEX,01:14:18,06:42:54,05:08:54,00:07:22,00:06:58,13:20:26
+ironman-los-cabos-20151025.csv,309,Jay Robert Boucher,49,BC,CAN,01:32:15,07:05:26,05:04:27,00:12:25,00:08:58,14:03:31
+ironman-los-cabos-20151025.csv,310,Marco Antonio Gutierrez,---,COAHUILA,MEX,01:35:28,06:58:19,06:24:21,00:16:10,00:12:10,15:26:28
+ironman-los-cabos-20151025.csv,311,Kaitlin White,---,---,USA,01:08:27,06:56:15,04:40:27,00:11:25,00:11:01,13:07:35
+ironman-los-cabos-20151025.csv,312,Jaclyn Engstrom,29,CO,USA,01:05:05,06:04:38,04:21:03,00:05:52,00:05:33,11:42:11
+ironman-los-cabos-20151025.csv,313,Maria Teresa Lopez Negrete Rivera,27,torreon,MEX,01:35:16,07:23:20,06:01:06,00:08:56,00:09:57,15:18:35
+ironman-los-cabos-20151025.csv,314,Zerlina Moulier,45,MS,USA,01:29:44,08:22:42,05:46:39,00:11:44,00:10:01,16:00:50
+ironman-los-cabos-20151025.csv,315,Jen Sieve,35,KS,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,316,Hernan Cabrera,48,Intl State,ARG,01:17:07,07:15:38,---,00:07:34,00:03:14,DNF
+ironman-los-cabos-20151025.csv,317,Jared Despain,38,NV,USA,01:07:51,05:38:31,04:32:13,00:08:42,00:05:01,11:32:18
+ironman-los-cabos-20151025.csv,318,Jacques Trottier,46,---,FRA,01:11:22,06:08:31,05:03:37,00:05:44,00:03:10,12:32:24
+ironman-los-cabos-20151025.csv,319,Brett Turner,29,CA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,320,Alex Bernal,32,NY,MEX,01:09:15,07:27:40,05:02:16,00:08:15,00:04:37,13:52:03
+ironman-los-cabos-20151025.csv,321,Joel Hamm,43,AB,CAN,01:13:58,06:23:28,04:23:47,00:07:54,00:06:05,12:15:12
+ironman-los-cabos-20151025.csv,322,Mauricio Gutierrez,46,Nuevo Leon,MEX,01:08:56,07:38:30,06:07:42,00:15:42,00:10:46,15:21:36
+ironman-los-cabos-20151025.csv,323,David Formanski,34,IL,USA,01:08:13,07:46:14,06:30:07,00:12:59,00:10:08,15:47:41
+ironman-los-cabos-20151025.csv,324,Casey Shull,40,CA,USA,01:21:02,06:58:31,06:27:09,00:14:23,00:09:16,15:10:21
+ironman-los-cabos-20151025.csv,325,Julia Williams,35,CA,USA,01:22:11,06:36:15,04:51:46,00:07:37,00:05:16,13:03:05
+ironman-los-cabos-20151025.csv,326,Fatima Fernandez,44,Guanajuato,MEX,01:18:41,06:39:57,04:10:39,00:05:02,00:02:23,12:16:42
+ironman-los-cabos-20151025.csv,327,Gaetan Jr Joyal,42,Québec,CAN,01:41:57,07:03:04,05:30:20,00:12:03,00:07:34,14:34:58
+ironman-los-cabos-20151025.csv,328,Lisanne Gadoury,42,Quebec,CAN,01:51:56,---,---,00:09:13,---,DNF
+ironman-los-cabos-20151025.csv,329,Alejandro Romero,31,León,MEX,01:28:40,06:12:45,04:38:41,00:13:19,00:09:30,12:42:55
+ironman-los-cabos-20151025.csv,330,Calopeto Gutierrez,34,leon,MEX,01:16:13,07:30:27,06:17:03,00:04:24,00:07:17,15:15:24
+ironman-los-cabos-20151025.csv,331,Alejandro Santy M,22,leon,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,332,Rafael Arria,47,Monterrey,MEX,01:21:10,06:39:54,04:06:23,00:04:07,00:05:53,12:17:27
+ironman-los-cabos-20151025.csv,333,Richelle Lavin,39,CA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,334,LUIS GONZALEZ,41,GUANAJUATO,MEX,01:16:24,07:40:42,05:28:49,00:16:39,00:15:02,14:57:36
+ironman-los-cabos-20151025.csv,335,Christopher Kunkel,34,TX,USA,01:08:54,06:45:23,05:18:57,00:07:27,00:07:09,13:27:50
+ironman-los-cabos-20151025.csv,336,Francisco Serrano Jr,29,CA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,337,Noelle Sheridan,40,CA,USA,01:22:06,06:32:09,04:07:26,00:06:52,00:02:57,12:11:30
+ironman-los-cabos-20151025.csv,338,Angel Rojas Dominguez,42,Guanajuato,MEX,01:09:36,06:37:27,04:09:47,00:06:34,00:06:38,12:10:02
+ironman-los-cabos-20151025.csv,339,Mark Hidalgo,---,---,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,340,Rodrigo Mendoza,37,LEON,MEX,01:09:09,06:39:09,04:24:36,00:16:32,00:12:42,12:42:08
+ironman-los-cabos-20151025.csv,341,Colin Botes,51,NC,USA,01:19:35,05:47:40,04:48:36,00:04:40,00:04:41,12:05:12
+ironman-los-cabos-20151025.csv,343,Monica Gonzalez,41,---,GTM,01:17:59,07:12:44,---,00:07:13,00:08:47,DNF
+ironman-los-cabos-20151025.csv,344,Alberto Astorga,37,DURANGO,MEX,01:42:57,06:03:26,05:22:17,00:08:57,00:06:47,13:24:24
+ironman-los-cabos-20151025.csv,345,Jimmy Gomez,48,---,COL,01:16:02,06:39:32,05:06:24,00:04:40,00:06:25,13:13:03
+ironman-los-cabos-20151025.csv,346,Ralf Lambert,52,DE,DEU,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,347,Simon Marshall,42,Other,GBR,01:10:44,05:44:09,04:37:53,00:04:02,00:05:31,11:42:19
+ironman-los-cabos-20151025.csv,348,Fabricio Diaz,---,---,MEX,01:35:39,08:24:12,06:14:39,00:21:57,00:14:50,16:51:17
+ironman-los-cabos-20151025.csv,349,Santiago Rafael Elizondo Ibarra,27,Nuevo leon,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,350,Alberto Drexel,---,---,MEX,01:04:34,07:31:06,06:34:29,00:08:52,00:05:50,15:24:51
+ironman-los-cabos-20151025.csv,351,Jose Medina,40,TX,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,352,Luz Ma Gonzalez,42,MÃ©xico,MEX,01:28:34,07:54:13,05:08:24,00:04:31,00:02:02,14:37:44
+ironman-los-cabos-20151025.csv,353,Daniel Sanchez,49,Aguascalientes,MEX,01:17:41,06:34:25,04:31:10,00:06:03,00:02:17,12:31:36
+ironman-los-cabos-20151025.csv,354,Roberto De La Torre,25,Intl State,MEX,01:27:47,08:00:47,05:28:20,00:16:42,00:09:44,15:23:20
+ironman-los-cabos-20151025.csv,355,Euvaldo Villaboim,34,MN,BRA,00:59:43,---,---,00:04:57,---,DNF
+ironman-los-cabos-20151025.csv,356,Jose Alberto Armenta Lozano,47,APO,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,357,Marty Rosenthal,48,CO,USA,01:18:13,---,---,00:14:43,---,DNF
+ironman-los-cabos-20151025.csv,358,Abraham Sabag,30,Coahuila,MEX,01:25:33,07:32:45,05:41:33,00:05:57,00:08:28,14:54:16
+ironman-los-cabos-20151025.csv,359,David Martinez,---,---,MEX,01:27:51,06:04:56,05:18:39,00:07:46,00:08:46,13:07:58
+ironman-los-cabos-20151025.csv,360,Alfonso Fernandez De Castro,25,---,MEX,01:14:41,07:00:09,05:05:04,00:07:14,00:12:10,13:39:18
+ironman-los-cabos-20151025.csv,361,Mark Dinnes,54,TX,USA,01:18:13,07:53:38,06:28:50,00:13:30,00:06:56,16:01:07
+ironman-los-cabos-20151025.csv,362,Pete Neubig,45,TX,USA,01:20:09,06:14:02,04:28:42,00:15:14,00:10:04,12:28:11
+ironman-los-cabos-20151025.csv,363,Philipp Mock,27,---,DEU,00:57:13,04:51:20,03:44:45,00:02:41,00:03:53,09:39:52
+ironman-los-cabos-20151025.csv,364,Pedro Vicente Castano Urrea,---,---,COL,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,365,Anabell Carranza,45,---,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,366,Diana Patricia Rodríguez Almanza,49,Pachuca Hidalgo,MEX,01:31:42,07:17:42,05:14:53,00:15:10,00:10:54,14:30:21
+ironman-los-cabos-20151025.csv,367,Morgan Kautz,32,IL,USA,01:05:02,07:17:12,04:40:49,00:07:39,00:05:15,13:15:57
+ironman-los-cabos-20151025.csv,368,Derk De Korver,32,CA,NLD,00:57:44,05:12:57,03:32:05,00:02:13,00:01:24,09:46:23
+ironman-los-cabos-20151025.csv,369,Rodrigo Recalde Larrea,39,CO,PRY,01:01:19,05:45:59,04:26:13,00:03:59,00:01:33,11:19:03
+ironman-los-cabos-20151025.csv,370,Nick Palmer,-1,---,USA,01:35:54,07:38:32,06:57:38,00:09:54,00:05:21,16:27:19
+ironman-los-cabos-20151025.csv,371,Sheila Mongeon,50,UT,USA,01:39:21,08:18:16,06:01:57,00:14:51,00:07:53,16:22:18
+ironman-los-cabos-20151025.csv,372,Jose Humberto Rodriguez Gutierrez,28,Guadalajara,MEX,01:11:35,06:33:30,07:01:39,00:08:45,00:12:59,15:08:28
+ironman-los-cabos-20151025.csv,373,Adrian Lopez,28,TX,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,374,Kirk Torres,41,CA,USA,01:09:13,06:52:06,05:18:01,00:07:23,00:07:45,13:34:28
+ironman-los-cabos-20151025.csv,375,Tony Rice,34,AZ,USA,01:10:51,05:52:12,03:56:58,00:04:34,00:03:22,11:07:57
+ironman-los-cabos-20151025.csv,376,Gerardo Calcaterra,47,SANTA FE,ARG,01:26:17,07:36:04,07:00:19,00:12:31,00:05:07,16:20:18
+ironman-los-cabos-20151025.csv,377,Jose Rodolfo Tijerina Leal,38,Nuevo León,MEX,01:32:04,07:22:12,06:08:37,00:08:45,00:09:46,15:21:24
+ironman-los-cabos-20151025.csv,378,Felipe Javier Guadarrama De Leon,38,Nuevo Leòn,MEX,01:33:06,07:27:48,05:21:26,00:10:16,00:09:23,14:41:59
+ironman-los-cabos-20151025.csv,379,Marcelo De Sa Mendes,---,---,BRA,01:13:56,06:49:05,04:11:47,00:12:30,00:08:47,12:36:05
+ironman-los-cabos-20151025.csv,380,Alexandra Lauzier,48,QC,CAN,01:15:16,07:12:49,05:25:46,00:05:18,00:04:53,14:04:02
+ironman-los-cabos-20151025.csv,381,Dan Schon,---,---,MEX,01:27:40,08:31:41,06:42:17,00:10:26,00:05:02,16:57:06
+ironman-los-cabos-20151025.csv,382,Kevin Hicks,43,PA,USA,01:22:51,---,---,00:08:50,---,DNF
+ironman-los-cabos-20151025.csv,383,Jose Antonio De Echavarri,---,---,MEX,01:20:30,06:58:20,04:18:13,00:13:50,00:12:34,13:03:27
+ironman-los-cabos-20151025.csv,384,Juan Benjamin Ruiz Moreno,---,CIUDAD DE MEXICO,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,386,Brad Henderson,51,PA,USA,01:09:25,06:35:10,04:49:30,00:07:27,00:06:28,12:48:00
+ironman-los-cabos-20151025.csv,387,Jaime Moreno,30,Durango,MEX,01:22:11,07:45:46,06:09:50,00:11:54,00:10:50,15:40:31
+ironman-los-cabos-20151025.csv,388,Sara Campbell,48,CA,USA,01:13:52,06:21:05,04:40:46,00:09:13,00:05:14,12:30:10
+ironman-los-cabos-20151025.csv,389,Roger Hardy,45,BC,CAN,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,390,Paulo Eustaquio Franca Junior,---,---,BRA,01:14:00,06:21:25,04:33:04,00:12:05,00:11:29,12:32:03
+ironman-los-cabos-20151025.csv,391,Luis Elizondo Williams,53,NL,MEX,01:09:00,06:04:03,03:58:52,00:07:14,00:06:23,11:25:32
+ironman-los-cabos-20151025.csv,392,Felipe Mojarro,41,Intl State,MEX,01:07:33,06:08:41,04:15:50,00:08:55,00:05:00,11:45:59
+ironman-los-cabos-20151025.csv,393,Victor Gonzalez,45,TX,USA,01:41:39,07:52:42,05:54:33,00:08:20,00:06:11,15:43:25
+ironman-los-cabos-20151025.csv,394,Hernan Illingworth,38,GUAYAS,ECU,01:11:55,06:25:32,05:00:50,00:06:04,00:06:31,12:50:52
+ironman-los-cabos-20151025.csv,395,Cristal Del Mar Hernandez Jimenez,32,LOS CABOS,MEX,01:09:32,06:48:09,04:02:06,00:05:07,00:07:04,12:11:58
+ironman-los-cabos-20151025.csv,396,Gary A. Boesenberg,---,---,USA,01:32:29,---,---,00:08:02,---,DNF
+ironman-los-cabos-20151025.csv,397,Luis Espinoza,40,Baja California Sur,MEX,01:04:34,05:27:55,04:53:26,00:04:35,00:03:17,11:33:47
+ironman-los-cabos-20151025.csv,398,Carl Lindgren,50,---,SWE,01:09:15,05:54:03,04:29:51,00:07:38,00:02:12,11:42:59
+ironman-los-cabos-20151025.csv,399,Stephane Sauvé,43,---,FRA,01:05:22,05:20:48,04:00:07,00:04:57,00:03:13,10:34:27
+ironman-los-cabos-20151025.csv,400,Francisco Fernandez,39,GT,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,401,Jorge Vivero,44,GUANAJUATO,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,402,Jorge E Orozco,---,---,MEX,01:13:52,05:54:24,06:52:38,00:05:39,00:07:30,14:14:03
+ironman-los-cabos-20151025.csv,403,Chris Floerchinger,41,MO,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,404,David Adan Rivas,---,---,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,405,Rafael Torres,41,Tamaulipas,MEX,01:14:43,08:22:12,06:44:01,00:07:23,00:06:53,16:35:12
+ironman-los-cabos-20151025.csv,406,Raul Cueva,32,Nuevo Leon,MEX,01:34:17,06:50:08,06:10:16,00:08:16,00:11:16,14:54:13
+ironman-los-cabos-20151025.csv,408,Guillermo Martinez,34,NL,MEX,01:21:19,---,---,00:11:23,---,DNF
+ironman-los-cabos-20151025.csv,409,Mariat Fernandez,62,CA,MEX,01:16:03,08:56:35,05:23:18,00:08:53,00:05:26,15:50:15
+ironman-los-cabos-20151025.csv,410,Jaime Mendoza Vega,47,Guadalajara,MEX,01:19:35,06:35:37,05:01:45,00:07:56,00:06:26,13:11:19
+ironman-los-cabos-20151025.csv,411,Kyle Hillier,31,NS,CAN,01:09:21,07:45:28,05:47:11,00:08:27,00:08:19,14:58:46
+ironman-los-cabos-20151025.csv,412,Antonio Garcia Medina,40,Intl State,MEX,01:17:51,06:58:01,05:31:28,00:04:49,00:04:34,13:56:43
+ironman-los-cabos-20151025.csv,413,Eduardo Rueda,42,nuevo leon,MEX,01:11:57,06:40:33,03:54:07,00:09:52,00:06:39,12:03:08
+ironman-los-cabos-20151025.csv,414,Lindy Fireline,42,FL,USA,01:26:41,08:55:15,06:08:20,00:09:14,00:06:46,16:46:16
+ironman-los-cabos-20151025.csv,415,Carl Eibl,55,CA,USA,01:05:35,06:08:20,---,00:07:19,00:03:27,DNF
+ironman-los-cabos-20151025.csv,416,Leoncio Sanchez,31,Puebla,MEX,01:13:31,05:50:59,03:50:41,00:04:08,00:03:25,11:02:44
+ironman-los-cabos-20151025.csv,417,Terry Criss,53,TX,USA,01:19:51,06:41:45,05:40:03,00:08:02,00:06:17,13:55:58
+ironman-los-cabos-20151025.csv,418,Jorge Vizcaíno,29,Sonora,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,419,Dario Andrade,41,---,CHL,01:11:27,06:39:04,05:36:34,00:07:34,00:13:36,13:48:15
+ironman-los-cabos-20151025.csv,420,Ruben Gutierrez,43,CA,USA,01:16:15,07:30:01,05:31:34,00:08:58,00:12:48,14:39:36
+ironman-los-cabos-20151025.csv,421,Edgar Najera Lopez,37,MORELOS,MEX,01:24:23,07:39:01,06:15:29,00:10:58,00:06:55,15:36:46
+ironman-los-cabos-20151025.csv,422,Kory Burke,38,CA,USA,01:17:35,08:32:06,06:05:05,00:17:26,00:06:29,16:18:41
+ironman-los-cabos-20151025.csv,423,Geir Helge Stormark,30,FL,NOR,01:07:02,05:57:07,05:58:41,00:06:09,00:11:52,13:20:51
+ironman-los-cabos-20151025.csv,424,Raul Gonzalez,50,AGUASCALIENTES,MEX,01:50:24,---,---,00:14:02,---,DNF
+ironman-los-cabos-20151025.csv,425,Enrique De Hoyos,38,NUEVO LEON,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,426,Jeremy Kelley,36,CA,USA,01:18:47,07:09:27,05:42:09,00:07:22,00:06:19,14:24:04
+ironman-los-cabos-20151025.csv,427,Ramiro Iglesias,26,NY,ESP,01:03:31,06:41:19,03:37:09,00:05:55,00:04:44,11:32:38
+ironman-los-cabos-20151025.csv,428,Alberto Villa Ramon,27,NY,ESP,01:03:44,05:53:57,03:59:30,00:08:41,00:04:01,11:09:53
+ironman-los-cabos-20151025.csv,429,Barett Gamble,42,---,CAN,01:14:05,07:28:28,05:20:25,00:08:16,00:06:01,14:17:15
+ironman-los-cabos-20151025.csv,430,Ryan Holley,22,CA,USA,00:57:32,07:39:15,05:07:42,00:06:03,00:05:23,13:55:55
+ironman-los-cabos-20151025.csv,431,Connor Mccarthy,27,CA,USA,01:16:41,06:51:56,05:51:03,00:13:01,00:10:31,14:23:12
+ironman-los-cabos-20151025.csv,432,Scott Mitchell,26,CA,USA,01:15:54,08:03:51,05:58:24,00:13:19,00:09:04,15:40:32
+ironman-los-cabos-20151025.csv,433,Carlos Portal,52,CA,MEX,01:22:27,06:29:26,05:01:37,00:08:27,00:05:03,13:07:00
+ironman-los-cabos-20151025.csv,434,Edgar Lopez,35,Jalisco,MEX,00:49:19,04:58:31,03:33:53,00:02:58,00:03:09,09:27:50
+ironman-los-cabos-20151025.csv,435,Tyler Hubbell,---,---,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,436,Saiid Karroum,43,---,USA,01:10:14,07:03:44,05:40:18,00:08:20,00:12:04,14:14:40
+ironman-los-cabos-20151025.csv,437,Ryan Grove,42,CA,USA,01:14:04,07:05:50,---,00:06:30,00:05:19,DNF
+ironman-los-cabos-20151025.csv,438,Belen Morejon,29,FL,ECU,01:09:22,07:35:02,05:05:44,00:08:00,00:08:41,14:06:49
+ironman-los-cabos-20151025.csv,439,Gustavo A. Darquea,44,Guayas,ECU,01:09:19,06:26:49,04:28:03,00:06:15,00:07:09,12:17:35
+ironman-los-cabos-20151025.csv,440,Rodrigo Nunez,31,Queretaro,MEX,01:28:18,07:57:09,05:28:04,00:11:16,00:07:45,15:12:32
+ironman-los-cabos-20151025.csv,441,Enrique Montero,---,Cartago,CRI,01:08:48,07:18:27,05:02:17,00:06:24,00:07:17,13:43:13
+ironman-los-cabos-20151025.csv,442,Martina Muff,30,CH,CHE,01:15:01,06:46:50,04:24:21,00:04:51,00:02:24,12:33:27
+ironman-los-cabos-20151025.csv,443,Oscar Gonzalez,37,Lomas de Chapultepec,MEX,01:28:05,---,---,00:09:52,---,DNF
+ironman-los-cabos-20151025.csv,444,Martin Sudut,---,---,USA,01:07:53,06:15:38,04:24:45,00:05:20,00:05:10,11:58:46
+ironman-los-cabos-20151025.csv,445,Patricia Lopez Uriarte,41,Puebla,MEX,01:37:54,08:06:13,05:40:59,00:06:15,00:06:43,15:38:04
+ironman-los-cabos-20151025.csv,446,Dennis Lindsay,49,ON,CAN,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,447,Lauren Krueger,32,AZ,USA,01:01:23,06:16:36,05:21:11,00:03:59,00:02:20,12:45:29
+ironman-los-cabos-20151025.csv,448,Jim Lynch,47,OK,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,449,David Corley,45,AZ,USA,01:12:10,07:15:00,05:53:23,00:07:32,00:04:56,14:33:01
+ironman-los-cabos-20151025.csv,450,Len Jennings,48,MO,USA,01:16:58,07:29:57,05:04:30,00:07:46,00:05:41,14:04:52
+ironman-los-cabos-20151025.csv,451,Chad Kinback,---,TX,USA,01:30:33,07:34:49,06:57:06,00:10:24,00:04:55,16:17:47
+ironman-los-cabos-20151025.csv,452,Ronald Esteban Hernandez Mora,44,San Jose,CRI,01:11:25,06:11:07,04:43:09,00:06:38,00:03:39,12:15:58
+ironman-los-cabos-20151025.csv,453,Carlos Andres Arcentales,---,---,ECU,01:13:21,07:13:08,04:45:48,00:10:45,00:06:59,13:30:01
+ironman-los-cabos-20151025.csv,454,Alex Frias,42,---,ECU,01:20:17,06:50:51,05:30:34,00:05:13,00:03:57,13:50:52
+ironman-los-cabos-20151025.csv,455,Luis Landeros Anguiano,37,Los Cabos,MEX,01:09:16,06:32:23,04:03:51,00:05:24,00:03:42,11:54:36
+ironman-los-cabos-20151025.csv,456,Anthony Beeson,40,CO,USA,01:05:30,05:35:17,---,00:03:45,00:04:57,DNF
+ironman-los-cabos-20151025.csv,457,Jo Fraser,45,NS,GBR,01:26:50,07:47:22,05:14:27,00:13:10,00:10:16,14:52:05
+ironman-los-cabos-20151025.csv,458,Stuart Cameron,47,NS,CAN,01:16:43,06:48:42,04:34:55,00:10:08,00:07:33,12:58:01
+ironman-los-cabos-20151025.csv,459,Francisco Javier Chavolla,---,---,MEX,01:27:46,06:44:11,05:14:07,00:04:44,00:04:10,13:34:58
+ironman-los-cabos-20151025.csv,460,Tyrelle Barnes,46,NC,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,461,Randy Furshman,---,---,USA,01:28:06,06:28:40,---,00:07:42,00:04:32,DNF
+ironman-los-cabos-20151025.csv,462,Gerardo Diaz,32,Intl State,MEX,01:18:45,07:46:27,07:03:22,00:09:09,00:07:15,16:24:58
+ironman-los-cabos-20151025.csv,463,Timothy Obrien,50,CA,USA,01:22:57,07:35:19,06:09:54,00:11:02,00:10:40,15:29:52
+ironman-los-cabos-20151025.csv,464,John Kammeyer,50,CA,USA,01:12:21,06:33:41,04:52:31,00:09:21,00:05:06,12:53:00
+ironman-los-cabos-20151025.csv,465,Diego Mendoza García,29,Naucalpan de Juárez,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,466,Jose Alberto Machado,36,SAN SALVADOR,SLV,01:06:12,08:11:36,05:40:16,00:07:48,00:11:11,15:17:03
+ironman-los-cabos-20151025.csv,467,Rodrigo Andres Canas,---,---,SLV,01:20:05,08:04:06,06:46:25,00:09:01,00:08:07,16:27:44
+ironman-los-cabos-20151025.csv,468,Abel Rosas,26,Jalisco,MEX,01:03:48,05:48:35,04:48:40,00:04:04,00:02:32,11:47:39
+ironman-los-cabos-20151025.csv,469,Rodrigo Flores Ochoa,40,Durango,MEX,01:25:16,06:24:56,04:35:50,00:08:00,00:04:50,12:38:52
+ironman-los-cabos-20151025.csv,470,Von Shenefelt,31,FL,USA,01:20:03,07:17:21,05:22:03,00:04:01,00:07:25,14:10:53
+ironman-los-cabos-20151025.csv,471,Jose Castillo Cernuda,50,Intl State,MEX,01:56:05,---,---,00:07:49,---,DNF
+ironman-los-cabos-20151025.csv,472,Arturo Williams,50,Nuevo Leon,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,473,Sean Valentine,44,CA,USA,00:57:20,05:54:12,03:59:08,00:04:23,00:02:11,10:57:14
+ironman-los-cabos-20151025.csv,474,Lauren Wiest,27,CA,USA,01:12:30,07:09:28,04:47:03,00:07:54,00:03:35,13:20:30
+ironman-los-cabos-20151025.csv,475,Rafael Zamora,---,---,MEX,01:19:19,06:53:39,05:21:38,00:10:39,00:14:48,14:00:03
+ironman-los-cabos-20151025.csv,476,Alejandro Irastorza,48,Intl State,ARG,02:01:29,05:38:36,04:50:32,00:13:23,00:08:03,12:52:03
+ironman-los-cabos-20151025.csv,477,Bruno De Souza Amaral,31,---,BRA,01:33:43,08:03:48,06:17:03,00:13:42,00:11:37,16:19:53
+ironman-los-cabos-20151025.csv,478,Mariana Luna,32,GUANAJUATO,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,479,Te Koi Smith,40,UT,CAN,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,482,Charles Lucas,27,CT,USA,01:08:56,06:41:49,04:15:52,00:04:20,00:07:27,12:18:24
+ironman-los-cabos-20151025.csv,483,Sergio Leonardo Rico Fernandez,39,Intl State,MEX,01:23:38,07:57:12,05:52:18,00:09:21,00:03:39,15:26:08
+ironman-los-cabos-20151025.csv,484,Hernan Nozot,40,Metepec,MEX,01:24:30,06:44:14,07:00:26,00:05:53,00:04:45,15:19:48
+ironman-los-cabos-20151025.csv,485,Pablo Cigaina,51,capital federal,ARG,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,486,Gerald Pascal,38,CA,USA,01:27:44,06:20:19,05:40:01,00:08:50,00:07:05,13:43:59
+ironman-los-cabos-20151025.csv,487,Aarón Noe Picazo Rubio,30,MX,MEX,01:40:37,08:12:18,05:19:43,00:05:58,00:05:20,15:23:56
+ironman-los-cabos-20151025.csv,488,Sandra Diaz,38,Durango,MEX,01:27:32,06:52:42,04:42:17,00:17:37,00:07:54,13:28:02
+ironman-los-cabos-20151025.csv,489,David Ahrens,45,CA,CAN,01:03:29,06:29:13,04:31:02,00:05:21,00:08:57,12:18:02
+ironman-los-cabos-20151025.csv,490,Jose Luis Gallegos Ruiz,46,DISTRITO FEDERAL,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,491,Ernesto De Gasperin Limon,30,Cordoba,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,492,Rene Manatt,36,CA,USA,01:12:20,06:44:23,05:16:14,00:05:40,00:02:35,13:21:12
+ironman-los-cabos-20151025.csv,493,Miguel Angel Gijon,33,Distriro Federal,MEX,---,---,---,---,---,DQ
+ironman-los-cabos-20151025.csv,494,David Liano,35,WA,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,495,Jürgen Haussecker,48,---,DEU,01:01:34,06:19:36,05:21:27,00:07:26,00:04:20,12:54:23
+ironman-los-cabos-20151025.csv,496,Bernhard Hradecky,36,---,AUT,00:57:48,05:17:18,03:46:35,00:04:22,00:02:18,10:08:21
+ironman-los-cabos-20151025.csv,497,James Rasmussen,29,UT,USA,01:39:58,06:35:51,04:22:14,00:04:08,00:03:44,12:45:55
+ironman-los-cabos-20151025.csv,498,Robert Johnston,50,BC,CAN,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,499,Luis Duran,36,Guanajuato,MEX,01:09:09,06:36:24,05:38:21,00:08:22,00:04:14,13:36:30
+ironman-los-cabos-20151025.csv,500,Jacobo Anaya,38,---,ESP,01:00:06,07:14:34,03:55:42,00:07:28,00:05:54,12:23:44
+ironman-los-cabos-20151025.csv,501,Gerardo Garfias Arvizu,55,DF,MEX,01:27:35,07:27:38,06:09:50,00:18:36,00:20:02,15:43:41
+ironman-los-cabos-20151025.csv,502,Maria Ines Reyna Medina,41,AGUASCALIENTES,MEX,01:18:23,06:14:55,04:12:51,00:04:53,00:05:03,11:56:05
+ironman-los-cabos-20151025.csv,503,Holly Durstin,47,CT,USA,01:29:16,08:16:43,05:41:13,00:09:02,00:09:58,15:46:12
+ironman-los-cabos-20151025.csv,504,Anya Hughes,36,CT,USA,01:39:42,08:25:15,06:29:49,00:07:11,00:03:49,16:45:46
+ironman-los-cabos-20151025.csv,505,Manrique Chinchilla Solano,39,---,CRI,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,506,Jesus Arce Jaimez,31,Intl State,MEX,01:30:29,06:01:53,---,00:07:55,00:07:24,DNF
+ironman-los-cabos-20151025.csv,507,Fred Francis Perono,34,TX,PHL,01:04:04,06:41:04,04:54:36,00:11:51,00:11:10,13:02:45
+ironman-los-cabos-20151025.csv,508,Olivier Pourteyron,39,---,FRA,00:57:44,05:23:57,03:31:04,00:02:48,00:03:03,09:58:36
+ironman-los-cabos-20151025.csv,509,Rafael Garcia,43,GUANAJUATO,MEX,01:09:09,---,---,00:17:00,---,DNF
+ironman-los-cabos-20151025.csv,510,Steven Ahrendt,54,PA,USA,01:00:14,08:28:06,---,00:04:40,---,DNF
+ironman-los-cabos-20151025.csv,511,AIDEE PIZANO,40,GUANAJUATO,MEX,01:29:15,07:43:51,04:50:03,00:16:07,00:11:58,14:31:14
+ironman-los-cabos-20151025.csv,512,Ryan Stafford,---,---,USA,01:32:36,07:53:38,05:42:50,00:12:10,00:04:57,15:26:11
+ironman-los-cabos-20151025.csv,513,Monica Torres,32,TX,USA,01:07:59,07:26:33,05:24:06,00:07:49,00:02:41,14:09:08
+ironman-los-cabos-20151025.csv,514,Rafael Arrieta Garcia,42,LEON,MEX,01:15:36,07:32:53,05:24:17,00:10:50,00:08:39,14:32:15
+ironman-los-cabos-20151025.csv,516,Alex Wall,27,NY,GBR,01:08:01,---,---,00:02:27,---,DNF
+ironman-los-cabos-20151025.csv,517,Mike Burbank,56,CA,USA,01:44:28,---,---,00:15:36,---,DNF
+ironman-los-cabos-20151025.csv,518,Renie Burbank,55,CA,USA,01:22:26,---,---,00:10:59,---,DNF
+ironman-los-cabos-20151025.csv,519,Alejandro Lopez Rojas,39,Guatemala ,GTM,01:29:27,07:47:21,05:39:50,00:12:39,00:11:27,15:20:44
+ironman-los-cabos-20151025.csv,520,Sergio Zilli,32,---,MEX,01:18:05,07:35:28,05:18:14,00:13:57,00:15:15,14:40:59
+ironman-los-cabos-20151025.csv,521,Luis Arias,30,Nuevo Leon,MEX,01:08:49,---,---,00:08:55,---,DNF
+ironman-los-cabos-20151025.csv,522,Jorge Menchaca,52,Coahuila,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,523,Maria Notarile Scrivan,44,CT,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,524,David Ortiz,36,coahuila,MEX,---,---,---,---,---,DQ
+ironman-los-cabos-20151025.csv,525,Abraham Martinez,50,IL,USA,01:39:43,08:09:05,---,00:13:02,00:06:57,DNF
+ironman-los-cabos-20151025.csv,526,Kevin How,---,---,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,527,Alex Johnson,26,IL,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,528,Alex Contreras,37,CDMX,MEX,01:37:11,07:11:02,04:48:08,00:14:29,00:08:01,13:58:51
+ironman-los-cabos-20151025.csv,529,Jose Luis Contreras,37,---,MEX,02:02:49,07:15:47,05:58:40,00:11:03,00:06:19,15:34:38
+ironman-los-cabos-20151025.csv,530,Oscar Huerta,40,Estado de Mexico,MEX,01:48:51,07:57:54,06:19:23,00:08:19,00:09:53,16:24:20
+ironman-los-cabos-20151025.csv,531,John Gachiani,36,IA,KEN,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,532,Daniel Ortiz,33,COAHUILA,MEX,01:42:40,---,---,00:10:03,---,DNF
+ironman-los-cabos-20151025.csv,533,Ricardo Sala,45,Saltillo,MEX,01:15:42,06:27:05,04:10:56,00:05:12,00:07:36,12:06:31
+ironman-los-cabos-20151025.csv,534,Mariano De Velasco Garza,33,Coahuila,MEX,01:15:03,07:21:58,06:24:58,00:11:23,00:13:37,15:26:59
+ironman-los-cabos-20151025.csv,535,Emmanuel Lopez,36,Puebla,MEX,01:12:53,05:59:11,05:01:07,00:06:06,00:03:29,12:22:46
+ironman-los-cabos-20151025.csv,536,Roque Calleja,29,Distrito federal,ESP,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,537,Martin Gaiss,46,CA,DEU,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,538,Ignacio Lopez Mancisidor,31,FL,ESP,00:58:44,05:28:34,03:47:02,00:02:42,00:02:47,10:19:49
+ironman-los-cabos-20151025.csv,539,Chris Harrison,31,Intl State,PER,00:58:47,05:47:53,04:10:57,00:05:31,00:03:38,11:06:46
+ironman-los-cabos-20151025.csv,540,Jose Harrisson,57,Lima,PER,01:51:11,---,---,00:12:20,---,DNF
+ironman-los-cabos-20151025.csv,541,Andres Gagliardi,30,Lima,PER,01:06:25,09:03:30,05:53:12,00:14:26,00:06:09,16:23:42
+ironman-los-cabos-20151025.csv,542,Claudia Cohen,44,Buenos aires,ARG,01:17:58,07:45:24,07:08:16,00:08:30,00:06:21,16:26:29
+ironman-los-cabos-20151025.csv,543,Luis Miguel Escobar Vega,37,Guadalajara,MEX,01:26:05,07:50:10,04:55:57,00:09:02,00:10:37,14:31:51
+ironman-los-cabos-20151025.csv,544,Hugo Montiel,28,TX,MEX,01:23:01,08:10:12,05:25:22,00:14:01,00:08:11,15:20:47
+ironman-los-cabos-20151025.csv,545,Crystal Harris,32,FL,USA,01:29:07,07:42:08,05:15:33,00:05:41,00:05:38,14:38:07
+ironman-los-cabos-20151025.csv,546,Mauricio Ferreira De Goes,42,MN,BRA,01:09:53,05:57:50,04:23:09,00:07:35,00:02:44,11:41:11
+ironman-los-cabos-20151025.csv,547,Ivan Ernesto Fuentes Garrido,---,---,MEX,01:29:56,08:06:30,05:50:47,00:18:49,00:09:03,15:55:05
+ironman-los-cabos-20151025.csv,548,Israel Herrera Sanabria,44,COAHUILA,MEX,01:35:41,07:14:17,05:24:31,00:13:05,00:14:44,14:42:18
+ironman-los-cabos-20151025.csv,549,Pat Redner,27,CA,USA,00:57:15,05:31:51,03:32:42,00:03:35,00:01:53,10:07:16
+ironman-los-cabos-20151025.csv,550,Manuel Revelles,48,Nuevo Leon,MEX,01:41:11,07:38:57,06:53:15,00:11:34,00:05:47,16:30:44
+ironman-los-cabos-20151025.csv,551,Maksims Zagoruiko,39,riga,UKR,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,552,Justin Johnson,38,IL,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,553,Ruben Cossio,---,---,MEX,01:13:39,07:09:57,06:35:27,00:06:11,00:06:31,15:11:45
+ironman-los-cabos-20151025.csv,554,Ana Graham,52,mexico,MEX,01:03:25,08:42:34,06:03:35,00:05:43,00:06:26,16:01:43
+ironman-los-cabos-20151025.csv,555,Antonio Soto,36,Nuevo Leon,MEX,01:05:37,06:39:35,05:22:20,00:09:52,00:07:06,13:24:30
+ironman-los-cabos-20151025.csv,556,Jen Caringal,30,CA,USA,01:35:56,08:10:19,06:38:05,00:09:36,00:08:23,16:42:19
+ironman-los-cabos-20151025.csv,557,Lucas Mette,31,IL,USA,01:54:31,---,---,00:09:03,---,DNF
+ironman-los-cabos-20151025.csv,558,Octavio Javier Aguado Ramirez,38,---,MEX,01:29:34,06:27:07,04:33:20,00:10:00,00:04:50,12:44:51
+ironman-los-cabos-20151025.csv,559,Jerson Martinez,---,---,MEX,01:17:18,07:29:52,05:19:20,00:09:55,00:06:43,14:23:08
+ironman-los-cabos-20151025.csv,560,Tobin Gatto,60,VA,USA,01:05:01,08:03:28,06:11:09,00:07:23,00:08:09,15:35:10
+ironman-los-cabos-20151025.csv,561,Steven Kohler,54,MA,USA,01:04:40,06:33:50,05:11:36,00:03:24,00:02:55,12:56:25
+ironman-los-cabos-20151025.csv,562,Marco Antonio Figueroa Irigoyen,36,NUEVO LEON,MEX,01:29:02,08:38:33,---,00:16:25,00:10:49,DNF
+ironman-los-cabos-20151025.csv,563,Ruben Hernandez,39,NUEVO LEON,MEX,01:04:17,06:53:11,05:23:33,00:05:36,00:08:28,13:35:05
+ironman-los-cabos-20151025.csv,564,Anja Hooton,47,ON,CAN,01:14:51,06:34:00,04:29:01,00:06:28,00:04:25,12:28:45
+ironman-los-cabos-20151025.csv,565,Carlos Cavazos,35,Monterrey,MEX,01:46:21,07:14:39,05:49:43,00:15:05,00:15:29,15:21:17
+ironman-los-cabos-20151025.csv,566,Ricardo Vazquez,---,---,MEX,01:16:43,07:54:40,04:33:24,00:18:32,00:21:20,14:24:39
+ironman-los-cabos-20151025.csv,567,Raul Maldonado,---,---,MEX,01:12:09,06:44:17,05:09:57,00:05:12,00:10:55,13:22:30
+ironman-los-cabos-20151025.csv,568,Antonio Martinez Vessi,47,Nuevo Leon,MEX,01:17:45,07:27:45,05:03:46,00:12:35,00:13:37,14:15:28
+ironman-los-cabos-20151025.csv,569,John Ordonez,51,CA,USA,01:15:04,08:03:33,06:51:57,00:07:51,00:07:57,16:26:22
+ironman-los-cabos-20151025.csv,570,Alberto Fazi,47,PU,ITA,01:03:43,---,---,00:05:18,---,DNF
+ironman-los-cabos-20151025.csv,571,Emmanuel Jaimes,37,Estado de Mexico,MEX,01:16:16,07:57:41,06:18:13,00:10:05,00:10:32,15:52:47
+ironman-los-cabos-20151025.csv,572,Marco Bustamante,31,TX,MEX,01:11:40,06:32:23,04:30:44,00:09:03,00:06:39,12:30:29
+ironman-los-cabos-20151025.csv,573,Alison Davies,40,ON,CAN,01:09:55,06:39:40,03:53:18,00:04:58,00:02:42,11:50:33
+ironman-los-cabos-20151025.csv,574,Karla Munguia,36,Intl State,MEX,01:20:47,07:04:30,05:47:21,00:04:42,00:04:24,14:21:44
+ironman-los-cabos-20151025.csv,575,Doug Christ,38,CA,USA,01:00:36,07:42:18,06:58:19,00:04:59,00:08:18,15:54:30
+ironman-los-cabos-20151025.csv,576,Tim Lychy,49,ON,CAN,01:08:25,05:36:55,03:44:43,00:03:50,00:02:36,10:36:29
+ironman-los-cabos-20151025.csv,577,Omar Perez Juarez,---,DISTRITO FEDERAL,MEX,01:30:00,06:27:28,04:58:55,00:04:32,00:05:21,13:06:16
+ironman-los-cabos-20151025.csv,578,Victor Javier Felix Hernandez,40,BCS,MEX,01:05:13,07:44:31,06:07:39,00:09:49,00:12:13,15:19:25
+ironman-los-cabos-20151025.csv,579,Pascal Cochard,51,---,FRA,01:26:20,05:42:49,03:55:19,00:03:54,00:05:05,11:13:27
+ironman-los-cabos-20151025.csv,580,Andrew Sellergren,29,CA,USA,01:04:18,05:27:09,---,00:06:44,00:03:37,DNF
+ironman-los-cabos-20151025.csv,581,Luis Alejandro Garcia Rangel,---,---,MEX,01:10:29,06:25:03,03:57:13,00:05:17,00:04:18,11:42:20
+ironman-los-cabos-20151025.csv,582,Ted Casterline,49,OR,USA,00:57:20,06:11:52,---,00:05:31,00:04:30,DNF
+ironman-los-cabos-20151025.csv,583,Benjamin Belmont,45,---,MEX,00:58:36,05:59:58,04:20:08,00:03:37,00:02:39,11:24:58
+ironman-los-cabos-20151025.csv,584,Andrew Hopper,46,ON,CAN,01:02:29,05:41:06,03:51:25,00:04:11,00:03:17,10:42:28
+ironman-los-cabos-20151025.csv,585,Lance Meilech,48,---,USA,01:12:53,08:02:51,05:35:39,00:18:51,00:11:21,15:21:35
+ironman-los-cabos-20151025.csv,586,Richard Blanco,47,CA,USA,01:00:24,05:20:33,03:50:28,00:03:18,00:04:03,10:18:46
+ironman-los-cabos-20151025.csv,587,Roberto Terrazas,---,---,USA,01:10:21,07:09:14,05:15:11,00:07:04,00:09:06,13:50:56
+ironman-los-cabos-20151025.csv,588,Guido Gaona,36,---,MEX,01:03:13,07:24:11,05:52:24,00:07:22,00:11:29,14:38:39
+ironman-los-cabos-20151025.csv,589,Ana Karina Rodriguez Rivera,39,Puebla,MEX,01:28:06,07:29:38,04:04:51,00:12:02,00:07:04,13:21:41
+ironman-los-cabos-20151025.csv,590,Shomeis Berger,---,---,MEX,01:07:31,05:54:56,04:25:46,00:04:48,00:05:23,11:38:24
+ironman-los-cabos-20151025.csv,591,Ligia Elena Castillo Aleman,26,Monterrey,MEX,01:34:42,06:58:38,05:48:04,00:06:57,00:06:46,14:35:07
+ironman-los-cabos-20151025.csv,592,Jorge Demerutis,37,Jalisco,MEX,01:04:04,06:15:43,04:37:42,00:04:45,00:03:07,12:05:21
+ironman-los-cabos-20151025.csv,593,Chad Coley,28,ON,CAN,01:06:05,06:05:10,04:38:27,00:04:24,00:04:04,11:58:10
+ironman-los-cabos-20151025.csv,594,Elisabeth Schwibs,33,---,DEU,01:34:34,06:40:51,05:12:37,00:12:28,00:05:13,13:45:43
+ironman-los-cabos-20151025.csv,595,Dave Lundberg,51,MN,USA,01:07:25,05:55:06,05:31:27,00:04:36,00:02:07,12:40:41
+ironman-los-cabos-20151025.csv,596,Amy Hite,39,MN,USA,01:11:45,06:22:37,04:38:13,00:05:06,00:03:01,12:20:42
+ironman-los-cabos-20151025.csv,597,Javier Rios Niebla,25,---,MEX,01:21:40,---,---,00:19:42,---,DNF
+ironman-los-cabos-20151025.csv,598,Debra Tuchner,48,ON,CAN,01:09:18,06:30:48,04:30:00,00:04:23,00:03:52,12:18:21
+ironman-los-cabos-20151025.csv,599,Nancy Devine,43,CO,USA,01:10:34,06:18:03,04:50:23,00:04:31,00:04:26,12:27:57
+ironman-los-cabos-20151025.csv,600,Manuel Sanchez,50,CO,USA,00:58:39,05:43:31,04:39:07,00:04:04,00:03:55,11:29:16
+ironman-los-cabos-20151025.csv,601,Esteban Estrada,43,Intl State,MEX,00:53:24,05:34:56,04:09:29,00:02:58,00:03:28,10:44:15
+ironman-los-cabos-20151025.csv,602,Graciela Mondragon,36,Intl State,MEX,01:10:25,06:51:04,05:24:10,00:06:19,00:04:25,13:36:23
+ironman-los-cabos-20151025.csv,604,Cédric Dutheil,31,Other,FRA,01:04:30,05:28:56,04:04:36,00:05:02,00:02:47,10:45:51
+ironman-los-cabos-20151025.csv,605,Carlos Hernandez,51,CA,MEX,02:12:39,08:05:41,05:43:15,00:08:51,00:08:54,16:19:20
+ironman-los-cabos-20151025.csv,606,Gerardo Mejia Arteaga,34,MORELOS,MEX,01:01:48,06:07:03,03:55:29,00:04:40,00:03:37,11:12:37
+ironman-los-cabos-20151025.csv,607,Azael Cuevas Rangel,34,México,MEX,01:24:53,06:45:54,04:59:14,00:11:05,00:06:55,13:28:01
+ironman-los-cabos-20151025.csv,608,Carlos Martinez,56,AB,CAN,01:23:40,06:59:57,05:58:08,00:08:27,00:06:01,14:36:13
+ironman-los-cabos-20151025.csv,609,Ivan Raymundo Garcia Anguiano,34,COLIMA,MEX,01:09:49,06:13:27,04:09:07,00:03:47,00:02:34,11:38:44
+ironman-los-cabos-20151025.csv,610,Gilberto Rivera Valdez,69,ESTADO DE MEXICO,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,611,Peter Russo,---,---,USA,00:57:07,05:15:37,04:12:02,00:03:52,00:03:20,10:31:58
+ironman-los-cabos-20151025.csv,612,Xochil Valencia Loera,33,JALISCO,MEX,00:57:47,06:28:15,04:17:59,00:04:18,00:04:30,11:52:49
+ironman-los-cabos-20151025.csv,613,Monica Palermo,37,IL,USA,01:26:05,---,---,00:17:19,---,DNF
+ironman-los-cabos-20151025.csv,614,Fernando Vargas Garibi,35,Jalisco,MEX,01:01:12,05:08:03,03:11:24,00:02:28,00:01:59,09:25:06
+ironman-los-cabos-20151025.csv,615,Ken Collins,45,WA,USA,---,---,---,---,---,DQ
+ironman-los-cabos-20151025.csv,616,Elias Rodriguez,45,Nuevo Leon,MEX,01:27:02,07:32:01,06:31:41,00:13:21,00:09:12,15:53:17
+ironman-los-cabos-20151025.csv,617,Marnie Collins,44,WA,USA,01:12:36,06:37:36,04:46:40,00:04:58,00:03:04,12:44:54
+ironman-los-cabos-20151025.csv,618,Jorge Armando Martinez Cervantes,---,---,MEX,01:15:34,06:31:37,04:26:57,00:03:26,00:04:16,12:21:50
+ironman-los-cabos-20151025.csv,619,Troy Villafarra,51,LA,USA,01:48:20,08:18:10,04:50:30,00:14:05,00:08:19,15:19:24
+ironman-los-cabos-20151025.csv,620,Tere Ambe Kibrit,49,Ciudad de México,MEX,01:18:19,06:54:48,04:43:27,00:08:50,00:07:43,13:13:07
+ironman-los-cabos-20151025.csv,621,Alfonso  Francisco Anda Palomares,---,---,MEX,01:32:49,06:39:16,05:01:09,00:10:36,00:13:00,13:36:50
+ironman-los-cabos-20151025.csv,622,Lina Ramos,50,---,USA,01:17:31,06:01:50,04:11:22,00:06:00,00:01:17,11:38:00
+ironman-los-cabos-20151025.csv,623,Oscar Haquet Guerrero,---,---,MEX,01:29:37,07:20:39,04:48:17,00:07:56,00:05:28,13:51:57
+ironman-los-cabos-20151025.csv,624,Diego Castaneda Cooper,---,---,MEX,01:00:34,06:26:29,04:39:57,00:04:53,00:10:51,12:22:44
+ironman-los-cabos-20151025.csv,626,Troy Cundari,54,CA,USA,01:04:10,05:40:04,04:05:52,00:05:35,00:06:29,11:02:10
+ironman-los-cabos-20151025.csv,627,Joanne Furu,63,MI,USA,01:35:24,08:00:29,05:30:21,00:08:49,00:07:51,15:22:54
+ironman-los-cabos-20151025.csv,628,Alfredo Pineda,30,DF,MEX,01:09:49,---,---,00:03:33,---,DNF
+ironman-los-cabos-20151025.csv,630,Daniel Bailey,---,---,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,631,Patricia Lopez,35,---,MEX,01:43:35,07:29:48,---,00:17:44,00:06:59,DNF
+ironman-los-cabos-20151025.csv,632,Samuel Vidales,41,Jalisco,MEX,01:43:34,07:29:50,---,00:17:43,00:08:37,DNF
+ironman-los-cabos-20151025.csv,633,Dean Sprague,52,CA,USA,01:06:05,06:03:05,05:00:45,00:05:26,00:05:27,12:20:48
+ironman-los-cabos-20151025.csv,634,Judd Rench,34,OR,USA,01:09:07,---,---,00:04:06,---,DNF
+ironman-los-cabos-20151025.csv,635,Gail Hughes,63,AZ,USA,01:21:28,08:14:46,---,00:12:12,---,DNF
+ironman-los-cabos-20151025.csv,636,Rigoberto Cabrera,33,CA,MEX,01:29:43,---,---,00:07:19,---,DNF
+ironman-los-cabos-20151025.csv,637,Kai Nakamura,41,CA,USA,01:34:03,06:38:04,04:43:20,00:08:27,00:09:26,13:13:20
+ironman-los-cabos-20151025.csv,638,Eric Anderson,25,IN,USA,01:13:48,05:52:22,04:28:33,00:05:41,00:05:43,11:46:07
+ironman-los-cabos-20151025.csv,639,Juan Pablo Cano De Urquidi,27,Durango,MEX,01:10:11,05:24:27,03:52:15,00:02:36,00:01:51,10:31:20
+ironman-los-cabos-20151025.csv,640,German Salazar,42,San José,CRI,01:30:54,07:29:00,05:32:09,00:09:53,00:10:58,14:52:54
+ironman-los-cabos-20151025.csv,641,Cristian Salazar,41,SAN JOSE,CRI,01:03:45,05:33:51,03:56:30,00:09:30,00:03:33,10:47:09
+ironman-los-cabos-20151025.csv,642,Bex Fink,33,WA,USA,01:36:52,---,---,00:05:52,---,DNF
+ironman-los-cabos-20151025.csv,643,John Marney,---,---,USA,---,---,---,---,---,DQ
+ironman-los-cabos-20151025.csv,644,Jay Kirkpatrick,43,AL,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,645,Jesus Rivera,38,AL,MEX,01:19:14,06:17:18,04:56:01,00:04:02,00:03:25,12:40:00
+ironman-los-cabos-20151025.csv,646,Michele Potter,49,MD,USA,01:17:34,07:48:13,05:26:34,00:11:02,00:14:16,14:57:39
+ironman-los-cabos-20151025.csv,647,Juan Jose Valdes,46,Coahuila,MEX,01:56:46,07:47:11,05:19:25,00:11:07,00:08:09,15:22:38
+ironman-los-cabos-20151025.csv,648,David Sharp,47,AZ,USA,01:03:46,---,---,00:07:29,---,DNF
+ironman-los-cabos-20151025.csv,649,Matthew Hansen,39,TX,USA,01:08:13,05:35:49,04:01:00,00:03:29,00:02:34,10:51:05
+ironman-los-cabos-20151025.csv,650,Jeffrey Lancaster,52,MD,USA,01:23:34,---,---,00:13:49,---,DNF
+ironman-los-cabos-20151025.csv,651,Mendez Victor,41,Intl State,MEX,01:20:44,06:25:46,04:19:18,00:05:21,00:04:16,12:15:25
+ironman-los-cabos-20151025.csv,652,Travis Miller,33,PA,USA,01:12:46,07:07:54,04:42:11,00:10:05,00:11:32,13:24:28
+ironman-los-cabos-20151025.csv,653,Andrea Lacour,28,TX,USA,01:31:16,08:14:17,06:17:14,00:12:38,00:17:09,16:32:34
+ironman-los-cabos-20151025.csv,654,Jürg Sigrist,36,---,CHE,00:59:31,05:24:39,03:54:34,00:04:23,00:02:57,10:26:04
+ironman-los-cabos-20151025.csv,655,Aaron Hutchinson,45,CA,USA,01:25:04,08:26:03,06:34:36,00:05:09,00:07:41,16:38:33
+ironman-los-cabos-20151025.csv,656,Michael White,60,KS,USA,01:15:48,06:10:04,06:09:41,00:02:48,00:01:53,13:40:14
+ironman-los-cabos-20151025.csv,657,Samantha D Wilson,---,---,USA,01:53:49,---,14:13:22,00:12:30,---,14:13:22
+ironman-los-cabos-20151025.csv,658,Guillermo Garcia,26,Rio Negro,ARG,01:03:45,05:34:27,03:34:27,00:02:18,00:01:49,10:16:46
+ironman-los-cabos-20151025.csv,659,Pablo Andrade,44,Azuay,ECU,01:16:36,07:31:26,05:47:40,00:08:06,00:06:19,14:50:07
+ironman-los-cabos-20151025.csv,660,Julie Kane,40,AK,USA,01:49:09,08:03:56,06:35:05,00:07:34,00:13:37,16:49:21
+ironman-los-cabos-20151025.csv,661,Agustin Martinez,43,MEXICO ,MEX,01:40:31,07:04:50,05:45:02,00:05:20,00:04:08,14:39:51
+ironman-los-cabos-20151025.csv,662,Jack Nunn,36,CA,USA,01:19:22,05:37:10,04:46:20,00:06:44,00:05:15,11:54:51
+ironman-los-cabos-20151025.csv,663,Liz Verheyden,31,Western Cape,BEL,00:58:02,05:59:45,03:39:41,00:03:15,00:02:30,10:43:13
+ironman-los-cabos-20151025.csv,664,Carlos Villarreal,38,Mexico df,MEX,01:17:16,06:22:38,04:57:12,00:10:08,00:10:15,12:57:29
+ironman-los-cabos-20151025.csv,666,Mitchell Hyra,53,CO,USA,01:15:08,06:06:38,06:17:58,00:05:32,00:04:09,13:49:25
+ironman-los-cabos-20151025.csv,667,Sandra Hyra,46,CO,USA,01:19:47,06:04:18,04:44:14,00:04:23,00:04:33,12:17:15
+ironman-los-cabos-20151025.csv,668,John Robertson,41,TX,USA,01:13:15,---,---,00:04:33,---,DNF
+ironman-los-cabos-20151025.csv,669,Elizabeth Marquez Santelices,40,Torreon,MEX,01:35:03,08:06:03,05:55:17,00:11:41,00:12:44,16:00:48
+ironman-los-cabos-20151025.csv,670,Sergio Penuelas Cruz,37,MEXICO,MEX,01:16:08,06:53:16,04:40:17,00:07:17,00:06:44,13:03:42
+ironman-los-cabos-20151025.csv,671,Juan García,36,Intl State,MEX,01:38:20,06:59:28,05:42:36,00:14:22,00:13:49,14:48:35
+ironman-los-cabos-20151025.csv,672,Melissa Cabodevila Santelices,29,Coahuila,MEX,01:30:55,06:56:18,04:38:45,00:06:26,00:04:13,13:16:37
+ironman-los-cabos-20151025.csv,673,Gerardo Pinon,47,Michoacan,MEX,00:59:50,06:16:16,04:47:49,00:10:15,00:05:03,12:19:13
+ironman-los-cabos-20151025.csv,674,Megan Mccluer,52,VA,USA,01:17:09,08:11:11,---,00:11:42,---,DNF
+ironman-los-cabos-20151025.csv,675,Jose Rivera Gonzalez,41,Nuevo Leon,MEX,01:10:14,05:47:59,03:33:29,00:06:54,00:04:33,10:43:09
+ironman-los-cabos-20151025.csv,676,Braulio A. Archundia Sanchez,32,Estado de Mexico,MEX,01:46:21,08:17:07,05:32:08,00:07:03,00:07:15,15:49:54
+ironman-los-cabos-20151025.csv,677,Julian Ramos,47,---,MEX,01:26:01,07:51:38,05:34:04,00:15:29,00:11:12,15:18:24
+ironman-los-cabos-20151025.csv,678,Robyn Cross,52,GA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,679,Gilberto Carrillo Diaz,49,saltillo,MEX,---,---,---,---,---,DQ
+ironman-los-cabos-20151025.csv,680,Ossiel Martinez,---,---,MEX,01:17:57,07:16:34,05:44:42,00:09:00,00:08:06,14:36:19
+ironman-los-cabos-20151025.csv,681,Sandy Grosvenor,57,MD,USA,01:13:25,06:37:03,04:51:05,00:05:06,00:03:00,12:49:39
+ironman-los-cabos-20151025.csv,682,Brian Mckinney,44,OK,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,683,Michelle Murphy,29,CA,USA,01:00:35,06:40:52,04:57:15,00:07:21,00:09:20,12:55:23
+ironman-los-cabos-20151025.csv,684,Brandon Perkins,46,OK,USA,01:28:28,---,---,00:05:43,---,DNF
+ironman-los-cabos-20151025.csv,685,Victor Arias,45,san juan,ARG,01:28:39,07:18:25,04:55:56,00:18:47,00:07:14,14:09:01
+ironman-los-cabos-20151025.csv,686,Juan P Elizondo Portilla,31,Distrito Federal,MEX,00:57:18,06:45:20,04:22:06,00:05:07,00:05:21,12:15:12
+ironman-los-cabos-20151025.csv,687,Shane Sarver,44,CA,USA,01:17:40,06:02:23,05:35:35,00:07:29,00:02:57,13:06:04
+ironman-los-cabos-20151025.csv,688,Oscar Alcober,---,---,ARG,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,689,Richard Loat,---,---,GBR,00:58:47,07:45:25,05:19:59,00:06:40,00:04:30,14:15:21
+ironman-los-cabos-20151025.csv,690,Jordan Blanco,44,CA,GBR,01:06:48,05:45:30,04:23:22,00:04:56,00:02:44,11:23:20
+ironman-los-cabos-20151025.csv,691,Eduardo Diaz,35,---,ESP,01:03:21,07:33:10,05:07:18,00:03:20,00:04:40,13:51:49
+ironman-los-cabos-20151025.csv,692,Kathi Cover,45,MD,USA,01:26:12,08:42:36,06:13:21,00:10:31,00:02:52,16:35:32
+ironman-los-cabos-20151025.csv,693,Mark Lash,53,MD,USA,01:20:49,07:33:53,06:08:24,00:14:00,00:11:51,15:28:57
+ironman-los-cabos-20151025.csv,694,Andreas Fabricius,32,---,SWE,01:09:23,06:00:33,04:17:47,00:03:55,00:03:30,11:35:08
+ironman-los-cabos-20151025.csv,695,Jorge Roman,---,---,ARG,01:19:28,07:39:29,05:32:26,00:18:08,00:08:02,14:57:33
+ironman-los-cabos-20151025.csv,696,Edgar Sanchez,---,---,MEX,01:39:39,06:37:47,04:51:27,00:06:28,00:07:00,13:22:21
+ironman-los-cabos-20151025.csv,697,Simon Whitelaw,24,PA,USA,00:57:26,06:02:42,04:36:40,00:08:42,00:04:28,11:49:58
+ironman-los-cabos-20151025.csv,698,Oscar Farias Menchaca,41,COAHUILA,MEX,01:22:02,07:18:41,05:44:46,00:06:49,00:05:05,14:37:23
+ironman-los-cabos-20151025.csv,699,Joe Constantino,---,---,USA,01:14:52,06:09:32,04:16:13,00:06:03,00:05:48,11:52:28
+ironman-los-cabos-20151025.csv,700,Adebel Martinez Flores,43,Coahuila,MEX,01:44:15,07:57:38,05:42:50,00:12:59,00:08:34,15:46:16
+ironman-los-cabos-20151025.csv,701,Austin Shafer,---,---,USA,01:22:42,07:42:27,06:22:30,00:06:23,00:05:06,15:39:08
+ironman-los-cabos-20151025.csv,702,Jose Reza Hernandez,---,---,MEX,01:08:51,07:41:26,05:37:22,00:09:50,00:12:11,14:49:40
+ironman-los-cabos-20151025.csv,703,Roberto Villarreal,---,---,MEX,01:22:25,06:09:06,05:26:00,00:09:00,00:14:05,13:20:36
+ironman-los-cabos-20151025.csv,704,Kaeli Flaczinski,23,CA,USA,01:25:07,---,---,00:07:10,---,DNF
+ironman-los-cabos-20151025.csv,705,Ana Fernandez,---,---,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,706,Ricardo Flores Jimenez,---,---,MEX,01:51:45,06:11:31,04:52:32,00:06:00,00:05:09,13:06:57
+ironman-los-cabos-20151025.csv,708,Luis Noyola,---,---,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,709,Juanjo Gonzalez,46,CA,MEX,01:49:14,08:17:36,06:13:06,00:14:54,00:11:09,16:45:59
+ironman-los-cabos-20151025.csv,710,Federico Lopez Ramirez,40,guanajuato,MEX,01:04:10,05:36:29,03:38:48,00:04:08,00:04:03,10:27:38
+ironman-los-cabos-20151025.csv,711,Steven Diven,57,TX,USA,01:13:32,07:28:20,05:48:39,00:08:22,00:09:54,14:48:47
+ironman-los-cabos-20151025.csv,712,Armando Doring,43,Distrito Federal,MEX,01:30:43,---,---,00:20:43,---,DNF
+ironman-los-cabos-20151025.csv,713,Ronald Lonergan,48,NJ,USA,01:17:50,---,---,00:09:03,---,DNF
+ironman-los-cabos-20151025.csv,714,David Gustavo Montalvo Hernandez,---,---,MEX,01:21:29,06:38:21,04:56:55,00:07:17,00:05:41,13:09:43
+ironman-los-cabos-20151025.csv,715,Ricardo Najera Lopez,47,chihuahua chih,MEX,01:49:16,---,---,00:11:23,---,DNF
+ironman-los-cabos-20151025.csv,716,Andrew Kline,27,---,USA,00:55:58,05:12:28,03:30:53,00:03:14,00:02:33,09:45:06
+ironman-los-cabos-20151025.csv,717,Luis Enrique Ortiz Zequera,39,Distrito Federal,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,718,Garth Petersen,55,CA,AUS,01:12:28,06:56:49,04:41:58,00:06:06,00:04:42,13:02:03
+ironman-los-cabos-20151025.csv,720,Brenda Gonzalez,---,---,MEX,01:26:50,07:43:00,05:37:37,00:16:15,00:07:37,15:11:19
+ironman-los-cabos-20151025.csv,721,Juan José Saldivar Nava,21,ES,MEX,01:38:29,07:40:54,05:04:52,00:04:21,00:04:35,14:33:11
+ironman-los-cabos-20151025.csv,722,Mauricio Tijerina,25,Monterrey ,MEX,01:26:29,07:18:31,05:59:10,00:13:34,00:08:30,15:06:14
+ironman-los-cabos-20151025.csv,723,Max Kalciyan,37,FL,ARM,01:16:40,05:30:30,03:39:49,00:05:11,00:01:13,10:33:23
+ironman-los-cabos-20151025.csv,724,Kevin Tanner,30,QLD,AUS,01:04:57,06:07:41,---,00:04:12,00:03:28,DNF
+ironman-los-cabos-20151025.csv,725,Miguel Angel Cavazos Caballero,42,Nuevo León,MEX,01:33:23,06:32:34,05:03:18,00:09:28,00:07:36,13:26:19
+ironman-los-cabos-20151025.csv,726,Brian Dunn,42,ME,USA,01:17:38,07:36:40,04:26:04,00:12:31,00:12:02,13:44:55
+ironman-los-cabos-20151025.csv,727,Luis Salinas Perez,---,---,MEX,01:09:57,06:24:11,04:39:01,00:08:06,00:14:18,12:35:33
+ironman-los-cabos-20151025.csv,728,Alejandra De Leon,41,MOnterrey,MEX,01:34:37,08:01:53,05:29:44,00:08:24,00:05:50,15:20:28
+ironman-los-cabos-20151025.csv,729,Carlos Trevino,33,Nuevo Leon,MEX,01:09:10,06:01:09,04:57:33,00:05:57,00:05:57,12:19:46
+ironman-los-cabos-20151025.csv,730,Jesus Cavazos,48,TX,MEX,01:24:54,06:25:31,04:39:57,00:10:51,00:06:50,12:48:03
+ironman-los-cabos-20151025.csv,731,Ignacio Llantada,---,---,MEX,01:30:32,07:52:58,04:59:21,00:15:33,00:10:05,14:48:29
+ironman-los-cabos-20151025.csv,732,Jorge Alejandro Martinez Lozano,46,nuevo leon,MEX,01:16:27,07:20:40,05:35:08,00:15:11,00:18:27,14:45:53
+ironman-los-cabos-20151025.csv,733,Sergio Chavez Navarro,34,Tabasco,MEX,01:12:05,07:24:08,04:14:12,00:09:44,00:11:44,13:11:53
+ironman-los-cabos-20151025.csv,734,Flemming Breiner,45,DK,DNK,01:09:28,05:49:32,04:09:29,00:05:45,00:02:50,11:17:04
+ironman-los-cabos-20151025.csv,735,Yolanda Iribarren,52,nuevo leon,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,736,Daniel Pichel,---,---,MEX,01:09:37,06:40:57,04:38:19,00:06:29,00:08:42,12:44:04
+ironman-los-cabos-20151025.csv,737,Jorge Blanco,37,Intl State,MEX,01:08:08,07:03:29,05:37:12,00:06:42,00:06:58,14:02:29
+ironman-los-cabos-20151025.csv,738,Luis A Alcalde Rivas,36,---,MEX,01:12:50,07:16:42,05:12:32,00:05:17,00:04:17,13:51:38
+ironman-los-cabos-20151025.csv,739,Jose Luis Cepeda Viramontes,47,NL,MEX,01:19:20,06:40:58,04:27:50,00:07:13,00:08:01,12:43:22
+ironman-los-cabos-20151025.csv,740,Luis Cabrera,---,---,MEX,01:00:36,06:15:44,04:08:26,00:07:58,00:05:41,11:38:25
+ironman-los-cabos-20151025.csv,741,Jorge Andres Brain Valenzuela,38,---,CHL,01:24:06,07:06:20,06:33:54,00:16:28,00:10:03,15:30:51
+ironman-los-cabos-20151025.csv,742,Christian Wilhelm,31,CA,USA,01:20:08,---,---,00:07:46,---,DNF
+ironman-los-cabos-20151025.csv,743,Roberto Marin Banda,---,---,MEX,01:04:34,06:33:43,04:48:13,00:10:29,00:04:10,12:41:09
+ironman-los-cabos-20151025.csv,744,Carlos De La Rosa Cortes,41,Intl State,MEX,01:33:42,06:50:55,07:39:20,00:09:57,00:11:29,16:25:23
+ironman-los-cabos-20151025.csv,745,Carlos Luis De La Garza Garza,39,MONTERREY,MEX,01:11:56,08:03:23,04:57:02,00:19:01,00:10:34,14:41:56
+ironman-los-cabos-20151025.csv,746,Jose Luis Leal Cruz,31,san pedro garza garcia,MEX,01:16:31,07:29:21,05:38:27,00:12:52,00:12:25,14:49:36
+ironman-los-cabos-20151025.csv,747,Karen Adams,---,---,AUS,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,748,Bill Claridge,60,MT,USA,01:31:14,07:12:49,05:55:17,00:09:58,00:06:10,14:55:28
+ironman-los-cabos-20151025.csv,749,Bianca Faulke,28,QLD,AUS,01:07:47,06:19:27,04:26:34,00:03:55,00:03:40,12:01:23
+ironman-los-cabos-20151025.csv,751,Miriam Cole,47,IL,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,753,Rex Field,57,TX,USA,02:04:05,---,---,00:10:16,---,DNF
+ironman-los-cabos-20151025.csv,754,Roberto Bautista Rodriguez,34,Benito Juarez,MEX,01:14:45,06:17:37,04:28:16,00:02:42,00:05:56,12:09:16
+ironman-los-cabos-20151025.csv,755,Ryan Springer,---,---,USA,01:16:06,07:22:51,05:29:12,00:10:48,00:06:37,14:25:34
+ironman-los-cabos-20151025.csv,756,Paul Whitman,43,TX,USA,01:26:46,06:32:42,05:31:55,00:04:31,00:07:49,13:43:43
+ironman-los-cabos-20151025.csv,757,Guillermo Murra Giacoman,47,COAHUILA,MEX,01:32:12,---,---,00:16:16,---,DNF
+ironman-los-cabos-20151025.csv,758,Roxana Karol,---,---,ARG,01:17:17,06:42:54,05:17:58,00:05:09,00:02:09,13:25:27
+ironman-los-cabos-20151025.csv,759,Rachel Melick,32,CA,USA,00:58:03,06:32:02,---,00:04:51,---,DNF
+ironman-los-cabos-20151025.csv,760,Javier Cantu Gomez,47,---,MEX,01:15:12,06:39:18,05:03:10,00:07:24,00:04:57,13:10:01
+ironman-los-cabos-20151025.csv,762,Roberto Gerardo Gutierrez Gonzalez,35,Jalisco,MEX,01:04:01,06:16:12,04:32:07,00:08:08,00:07:46,12:08:14
+ironman-los-cabos-20151025.csv,763,Shawn Wierick,33,AR,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,764,Jaime Williams,43,---,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,765,Keith Hutchinson,---,---,USA,01:09:07,05:59:28,03:49:42,00:05:47,00:05:40,11:09:44
+ironman-los-cabos-20151025.csv,766,Dagmar Frehoff,31,Monterrey,MEX,01:14:23,07:02:29,04:55:52,00:07:28,00:07:56,13:28:08
+ironman-los-cabos-20151025.csv,767,Edgar Carreon,---,NL,MEX,01:11:37,06:17:06,04:38:35,00:10:26,00:08:40,12:26:24
+ironman-los-cabos-20151025.csv,768,Ian Rappaport,23,CA,USA,01:08:40,06:41:40,04:43:01,00:04:10,00:04:47,12:42:18
+ironman-los-cabos-20151025.csv,769,Ramona Stein,52,AR,USA,01:29:28,08:01:03,05:28:57,00:12:54,00:07:38,15:20:00
+ironman-los-cabos-20151025.csv,770,Tim Jones,58,CA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,771,Erika Marcela Fernández Urby,40,"Torreón, Coahuila",MEX,01:22:45,07:52:08,---,00:09:53,00:08:06,DNF
+ironman-los-cabos-20151025.csv,772,Osvaldo Alvarado,44,Panama,PAN,01:20:56,08:05:23,06:42:13,00:09:41,00:06:22,16:24:35
+ironman-los-cabos-20151025.csv,773,Patrick Manley,47,FL,USA,01:05:01,06:43:10,06:54:12,00:06:55,00:04:06,14:53:24
+ironman-los-cabos-20151025.csv,774,Tommy Kuhn,53,CA,USA,01:52:28,08:10:51,---,00:10:40,00:15:18,DNF
+ironman-los-cabos-20151025.csv,775,Gerardo Reynoso,28,nuevo leon,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,776,Tina Zamora,41,CA,USA,01:15:40,06:06:04,04:40:50,00:04:40,00:02:46,12:10:00
+ironman-los-cabos-20151025.csv,777,Carlos Armenta,32,Nuevo León,MEX,01:37:37,06:52:43,05:07:51,00:06:51,00:06:22,13:51:24
+ironman-los-cabos-20151025.csv,778,Wayne Lee,39,TX,USA,01:28:08,07:41:13,05:29:12,00:13:11,00:12:39,15:04:23
+ironman-los-cabos-20151025.csv,779,Jarkko Turtiainen,35,Uusimaa,FIN,01:05:46,05:54:46,03:47:51,00:03:37,00:02:48,10:54:48
+ironman-los-cabos-20151025.csv,780,Miguel Angel Hernandez Martinez,27,Guerrero,MEX,01:46:13,---,---,00:08:52,---,DNF
+ironman-los-cabos-20151025.csv,781,Rose Hajjar,56,CA,USA,01:22:27,07:31:14,04:48:25,00:04:51,00:05:00,13:51:57
+ironman-los-cabos-20151025.csv,782,Marisol Franco Acevedo,28,Durango,MEX,01:06:48,05:57:02,03:41:19,00:02:56,00:01:21,10:49:26
+ironman-los-cabos-20151025.csv,784,Lawrence Wheatley,41,TX,USA,01:20:43,06:55:25,05:26:27,00:06:04,00:05:08,13:53:47
+ironman-los-cabos-20151025.csv,785,Carlos Ferreyra,33,Intl State,MEX,01:22:54,06:28:15,04:58:14,00:07:27,00:06:52,13:03:42
+ironman-los-cabos-20151025.csv,786,Dan Greenspun,35,PA,USA,01:08:50,06:45:25,05:10:16,00:08:57,00:12:10,13:25:38
+ironman-los-cabos-20151025.csv,787,Anne Clancy,32,CA,USA,01:00:10,06:36:38,04:22:48,00:04:08,00:03:35,12:07:19
+ironman-los-cabos-20151025.csv,788,Alana Kennedy-Nasser,40,TX,USA,01:11:43,06:02:31,04:00:51,00:06:24,00:03:40,11:25:09
+ironman-los-cabos-20151025.csv,789,Efrain Aquino,39,---,MEX,01:19:34,06:48:08,04:47:52,00:07:20,00:05:54,13:08:48
+ironman-los-cabos-20151025.csv,790,Luca Benedini,44,---,ITA,01:08:17,05:44:29,04:55:45,00:05:04,00:03:38,11:57:13
+ironman-los-cabos-20151025.csv,791,Adrian Martinez,44,SLP,MEX,01:21:51,07:14:03,05:48:04,00:07:26,00:04:42,14:36:06
+ironman-los-cabos-20151025.csv,793,Gabriel Della Mattia,45,Temperley,ARG,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,794,Simon Butterworth,68,CO,USA,01:10:08,06:37:16,05:09:36,00:07:41,00:08:20,13:13:01
+ironman-los-cabos-20151025.csv,795,Ricardo Saca,40,jalisco,MEX,01:04:45,05:52:35,04:44:35,00:06:14,00:08:09,11:56:18
+ironman-los-cabos-20151025.csv,796,Chris Potter,28,GA,USA,01:57:29,---,---,00:14:28,---,DNF
+ironman-los-cabos-20151025.csv,797,Lj Stephens,32,KS,USA,01:05:17,06:17:39,05:30:48,00:05:39,00:05:33,13:04:56
+ironman-los-cabos-20151025.csv,798,Shejtman Feliciano,47,FL,ARG,01:17:24,07:22:02,---,00:08:21,00:15:09,DNF
+ironman-los-cabos-20151025.csv,799,Pascal Fournier,53,---,FRA,01:22:59,06:51:41,04:40:28,00:03:59,00:05:12,13:04:19
+ironman-los-cabos-20151025.csv,800,Gregory Cavanagh,44,MA,USA,01:17:39,06:09:35,05:50:55,00:09:37,00:13:17,13:41:03
+ironman-los-cabos-20151025.csv,801,Jorge Coronado,43,Intl State,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,802,Edgar Armenta Monroy,43,Puebla,MEX,01:27:38,06:10:29,04:13:52,00:08:28,00:07:11,12:07:38
+ironman-los-cabos-20151025.csv,803,Petra Frost,45,BC,NLD,01:37:44,08:31:24,05:55:45,00:11:29,00:08:24,16:24:46
+ironman-los-cabos-20151025.csv,804,Mirthala Narvaez Moreno,40,Intl State,MEX,01:09:52,07:17:25,04:22:54,00:08:02,00:10:13,13:08:26
+ironman-los-cabos-20151025.csv,805,Miguel Linares,38,Intl State,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,806,Jeff Montgomery,31,WA,USA,01:14:44,07:01:54,05:26:18,00:08:56,00:08:15,14:00:07
+ironman-los-cabos-20151025.csv,807,Riaan Hamilton,39,CA,USA,01:04:40,05:39:03,05:19:22,00:08:44,00:08:00,12:19:49
+ironman-los-cabos-20151025.csv,808,Daniela Frausto,---,---,MEX,01:16:07,07:31:09,04:47:41,00:14:20,00:09:51,13:59:08
+ironman-los-cabos-20151025.csv,809,An Nguyen,31,CA,USA,01:13:22,07:47:42,05:18:24,00:09:01,00:06:44,14:35:13
+ironman-los-cabos-20151025.csv,810,Christian Wendenburg,43,TX,USA,01:18:25,06:27:26,04:58:00,00:04:41,00:04:34,12:53:06
+ironman-los-cabos-20151025.csv,811,Bulmaro Diaz Valenzuela,---,---,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,812,Librado Lopez Lopez,30,Baja California Sur,MEX,01:08:20,06:45:37,05:35:32,00:07:58,00:03:54,13:41:21
+ironman-los-cabos-20151025.csv,813,Hugo Macias,27,veracruz ,MEX,01:17:15,07:03:05,---,00:04:07,00:02:26,DNF
+ironman-los-cabos-20151025.csv,814,Arturo Lopez,44,AGS,MEX,01:18:54,08:15:09,---,00:08:29,00:06:47,DNF
+ironman-los-cabos-20151025.csv,815,Humberto Alardin,53,"Sinaloa, méxico",MEX,01:11:27,06:50:43,04:55:21,00:09:13,00:04:28,13:11:12
+ironman-los-cabos-20151025.csv,816,Alejandro Zamorano,40,EDO DE MEXICO,MEX,01:07:31,07:16:44,06:34:32,00:16:09,00:12:39,15:27:35
+ironman-los-cabos-20151025.csv,817,Guillermo Cruz Brödermann,32,ESTADO DE MEXICO,MEX,01:06:45,07:24:03,05:34:15,00:06:25,00:08:55,14:20:23
+ironman-los-cabos-20151025.csv,818,Luis Javier Talamantes Guerrero,37,Estado de mexico,MEX,01:22:19,06:40:25,05:12:26,00:08:26,00:08:45,13:32:21
+ironman-los-cabos-20151025.csv,819,Daniel Egbert,43,NC,USA,01:05:01,05:35:17,04:39:05,00:04:46,00:01:58,11:26:07
+ironman-los-cabos-20151025.csv,820,Karl Vance,35,MN,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,821,Daniel Sandoval,32,Mexico,MEX,01:12:50,07:28:52,05:01:08,00:07:32,00:08:29,13:58:51
+ironman-los-cabos-20151025.csv,822,Matt Borowski,36,TX,USA,01:05:56,05:53:37,05:19:45,00:06:06,00:04:44,12:30:08
+ironman-los-cabos-20151025.csv,823,Jeanne Debonis,50,OH,USA,00:59:53,06:19:12,---,00:03:38,00:04:51,DNF
+ironman-los-cabos-20151025.csv,824,Jason Zoeteman,45,AB,CAN,01:13:40,05:53:36,03:55:06,00:07:21,00:07:23,11:17:06
+ironman-los-cabos-20151025.csv,825,Jim Hall,39,TN,USA,01:12:01,05:40:44,05:04:01,00:06:57,00:05:26,12:09:09
+ironman-los-cabos-20151025.csv,826,Andrew Loeb,67,FL,USA,01:05:27,06:26:51,04:19:18,00:05:43,00:03:00,12:00:19
+ironman-los-cabos-20151025.csv,827,Pablo Mondragon,47,Estado de Mexico,MEX,01:06:20,06:15:09,05:50:27,00:06:17,00:04:00,13:22:13
+ironman-los-cabos-20151025.csv,828,Jerome Bach,40,---,FRA,01:07:50,05:52:57,---,00:04:00,00:05:29,DNF
+ironman-los-cabos-20151025.csv,829,Salvador Fragoso Diaz,37,Guanajuato,MEX,01:16:23,06:57:23,05:33:06,00:06:15,00:07:28,14:00:35
+ironman-los-cabos-20151025.csv,830,Simon Horton,47,CA,USA,01:05:50,06:09:32,04:25:11,00:04:52,00:03:13,11:48:38
+ironman-los-cabos-20151025.csv,831,Shizuka Baker,39,CA,USA,01:15:39,06:58:22,04:36:49,00:07:06,00:07:48,13:05:44
+ironman-los-cabos-20151025.csv,832,Van Damme Sanchez,20,Zacatecas,MEX,01:07:33,05:56:29,04:14:16,00:04:17,00:01:44,11:24:19
+ironman-los-cabos-20151025.csv,833,Christy Daniher,43,CO,USA,01:41:28,---,---,00:12:44,---,DNF
+ironman-los-cabos-20151025.csv,834,Dana Sutter,43,TX,USA,01:11:17,07:17:09,05:47:42,00:06:55,00:06:59,14:30:02
+ironman-los-cabos-20151025.csv,835,Chris Sutter,42,TX,USA,01:15:45,06:26:09,04:20:24,00:13:04,00:10:18,12:25:40
+ironman-los-cabos-20151025.csv,836,Matt Mccune,34,OH,USA,01:02:21,05:11:21,03:46:18,00:03:49,00:02:13,10:06:02
+ironman-los-cabos-20151025.csv,837,Joel Buth,46,AK,USA,01:06:01,06:02:45,04:14:22,00:07:03,00:03:04,11:33:15
+ironman-los-cabos-20151025.csv,838,Tyson Flaharty,30,AK,USA,01:12:25,05:44:55,04:55:34,00:06:23,00:04:05,12:03:22
+ironman-los-cabos-20151025.csv,839,Maggie Baird,27,AR,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,840,Debra Wierick,33,AR,USA,01:48:38,07:35:48,05:32:06,00:12:15,00:07:40,15:16:27
+ironman-los-cabos-20151025.csv,841,David Buckham,44,---,ZAF,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,842,Efren Quijano,32,Estado de México,MEX,01:30:00,07:58:08,05:33:14,00:15:14,00:12:32,15:29:08
+ironman-los-cabos-20151025.csv,843,Thomas Wilson,52,WA,USA,01:28:22,07:09:12,05:52:50,00:12:07,00:11:30,14:54:01
+ironman-los-cabos-20151025.csv,844,Yvonne Kinane-Wells,60,NV,USA,01:36:20,08:13:14,06:27:31,00:09:47,00:06:44,16:33:36
+ironman-los-cabos-20151025.csv,845,Patrick Lopes,35,QC,CAN,01:15:17,06:32:37,05:37:17,00:07:36,00:09:01,13:41:48
+ironman-los-cabos-20151025.csv,846,Carlos Hernandez Rivera,34,---,MEX,01:18:50,06:41:31,03:49:36,00:06:46,00:05:46,12:02:29
+ironman-los-cabos-20151025.csv,847,Ana Flores,37,Intl State,MEX,01:34:50,07:34:33,06:48:13,00:04:30,00:04:07,16:06:13
+ironman-los-cabos-20151025.csv,848,Maxime Vincent,39,QC,CAN,01:03:05,05:37:52,04:08:23,00:04:55,00:02:21,10:56:36
+ironman-los-cabos-20151025.csv,849,Rosa Isela Sagrero Rodriguez,38,Distrito Federal,MEX,01:09:16,06:00:06,03:59:38,00:03:21,00:04:23,11:16:44
+ironman-los-cabos-20151025.csv,850,Ryan Pearson,36,CA,USA,01:03:46,05:37:28,04:11:54,00:03:46,00:02:17,10:59:11
+ironman-los-cabos-20151025.csv,851,Jose Antonio Lopez Torre,32,LOS CABOS,MEX,01:33:37,06:48:53,05:00:44,00:11:37,00:10:05,13:44:56
+ironman-los-cabos-20151025.csv,852,Yesh Farfan,27,CA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,853,Gil Flores,50,---,MEX,01:22:46,07:45:41,04:29:10,00:06:48,00:03:28,13:47:53
+ironman-los-cabos-20151025.csv,854,Martin Barajas,32,TX,USA,01:22:45,08:35:07,05:38:33,00:12:53,00:10:40,15:59:58
+ironman-los-cabos-20151025.csv,855,Lindsey Kasnick,29,CA,USA,01:14:15,06:47:50,04:47:06,00:05:54,00:04:12,12:59:17
+ironman-los-cabos-20151025.csv,856,Roberto Gallegos,56,Chihuahua,MEX,01:34:25,06:42:46,05:24:41,00:05:02,00:05:16,13:52:10
+ironman-los-cabos-20151025.csv,857,Even Evensen,67,OR,USA,01:08:58,06:48:56,06:19:24,00:08:25,00:08:14,14:33:57
+ironman-los-cabos-20151025.csv,858,Genaro Fernandez,36,NY,MEX,01:16:03,08:54:36,05:23:18,00:10:25,00:05:51,15:50:13
+ironman-los-cabos-20151025.csv,859,Sarah Mindick,38,CA,USA,01:16:16,07:41:12,---,00:06:38,00:17:15,DNF
+ironman-los-cabos-20151025.csv,860,Efren Xavier Gallardo,---,---,MEX,01:08:36,07:32:00,05:47:54,00:08:13,00:09:56,14:46:39
+ironman-los-cabos-20151025.csv,861,Jeff Perham,35,FL,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,863,Carol Peters,65,BC,CAN,01:28:21,06:47:13,---,00:10:31,00:07:27,DNF
+ironman-los-cabos-20151025.csv,864,Ole Toft,38,Other,DNK,01:18:33,06:14:32,---,00:08:03,00:48:00,DNF
+ironman-los-cabos-20151025.csv,865,Horacio Mendez,39,Mexico,MEX,01:14:58,06:32:22,05:12:17,00:10:20,00:10:30,13:20:27
+ironman-los-cabos-20151025.csv,866,Jose Ignacio Sammartino,55,BUENOS AIRES,ARG,01:08:35,06:15:11,04:24:59,00:04:34,00:05:01,11:58:20
+ironman-los-cabos-20151025.csv,867,Daniel Iván Aguilar Díaz Flores,34,Torreon,MEX,01:27:48,---,---,00:09:55,---,DNF
+ironman-los-cabos-20151025.csv,868,Rodolfo Quezada,34,Baja California Sur,MEX,01:09:45,06:26:32,04:10:23,00:05:47,00:05:30,11:57:57
+ironman-los-cabos-20151025.csv,869,Stephan Schwarze,48,TX,DEU,01:00:50,05:37:43,04:28:49,00:03:28,00:03:17,11:14:07
+ironman-los-cabos-20151025.csv,870,Gabriel Alejandro Coria Cerezo,40,distrito federal,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,871,Marco Penagos,51,México,MEX,01:27:31,07:25:56,04:58:00,00:05:04,00:06:20,14:02:51
+ironman-los-cabos-20151025.csv,872,Edson Nevarez,39,Los Cabos,MEX,01:18:11,07:24:05,05:17:36,00:07:13,00:08:27,14:15:32
+ironman-los-cabos-20151025.csv,873,Lani Hay,40,DC,USA,01:26:55,06:31:06,07:04:13,00:15:45,00:10:44,15:28:43
+ironman-los-cabos-20151025.csv,874,Jennifer Rivera,27,IL,USA,01:46:14,08:18:13,05:32:47,00:06:18,00:03:56,15:47:28
+ironman-los-cabos-20151025.csv,875,Rurik Brana,42,Intl State,MEX,01:23:41,07:13:10,05:01:59,00:11:28,00:13:51,14:04:09
+ironman-los-cabos-20151025.csv,876,Mariano Sanchez,28,Coahuila,MEX,01:32:26,06:44:56,05:25:29,00:11:43,00:12:23,14:06:57
+ironman-los-cabos-20151025.csv,877,Justin Ewart,38,CA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,878,Dusty Hoffman,44,MO,USA,01:26:22,08:14:53,06:44:33,00:11:46,00:12:04,16:49:38
+ironman-los-cabos-20151025.csv,879,Bren Winbrock,24,CA,USA,01:03:35,05:47:20,03:36:15,00:07:06,00:06:44,10:41:00
+ironman-los-cabos-20151025.csv,880,Manuel Antonio Montellano,---,---,MEX,01:03:12,06:17:04,04:34:28,00:10:09,00:13:53,12:18:46
+ironman-los-cabos-20151025.csv,881,Jan Vingerhoets,45,NY,BEL,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,882,Lenin Ernesto Verdugo Olvera,35,BCS,MEX,01:26:28,07:09:16,06:21:10,00:08:15,00:10:46,15:15:55
+ironman-los-cabos-20151025.csv,883,Sam Cardona,44,NY,PRI,01:17:34,06:15:59,04:33:42,00:03:21,00:06:25,12:17:01
+ironman-los-cabos-20151025.csv,884,Felipe Ilizaliturri,---,---,MEX,02:12:57,06:50:55,04:48:49,00:06:33,00:05:48,14:05:02
+ironman-los-cabos-20151025.csv,885,valerie nossar,---,LIMA,PER,01:06:25,07:37:58,04:49:48,00:14:25,00:10:24,13:59:00
+ironman-los-cabos-20151025.csv,886,Marco Antonio Lavareda Santana,36,"Huixquilucan , Edo Mexico",MEX,01:09:14,07:16:58,05:37:53,00:08:02,00:08:59,14:21:06
+ironman-los-cabos-20151025.csv,887,Sonja Wieck,35,CA,USA,01:03:43,05:53:07,04:00:19,00:02:56,00:02:21,11:02:26
+ironman-los-cabos-20151025.csv,888,Rodrigo Velasco,30,Peru,PER,01:03:30,07:54:13,05:15:45,00:17:24,00:09:01,14:39:53
+ironman-los-cabos-20151025.csv,889,Emma Lucy Centeno Novelo,47,---,MEX,---,---,---,---,---,DQ
+ironman-los-cabos-20151025.csv,890,Heriberto De Santiago,---,JAL,MEX,---,---,---,---,---,DQ
+ironman-los-cabos-20151025.csv,891,Pia Scaroni,40,---,USA,01:05:20,05:28:00,04:29:53,00:04:59,00:01:55,11:10:07
+ironman-los-cabos-20151025.csv,892,Javier Carlos Fernandez,41,NUEVO LEON,MEX,01:15:53,07:15:59,06:22:43,00:08:24,00:07:52,15:10:51
+ironman-los-cabos-20151025.csv,893,Juan Calvillo,---,---,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,894,patrick mulderrig,44,---,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,895,Diane Anderson,60,CA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,896,Micheal Shawgo,37,CA,USA,01:26:48,---,---,00:16:18,---,DNF
+ironman-los-cabos-20151025.csv,897,Enrico Luzzatto,44,Other,ITA,00:59:40,05:54:47,03:45:21,00:03:31,00:05:45,10:49:04
+ironman-los-cabos-20151025.csv,898,Edie Cameto,---,---,USA,01:23:58,07:50:07,07:00:02,00:07:01,00:04:53,16:26:01
+ironman-los-cabos-20151025.csv,899,Eduardo Giordanengo,40,Córdoba,ARG,01:08:51,06:45:23,06:15:34,00:04:13,00:04:45,14:18:46
+ironman-los-cabos-20151025.csv,900,Edie Cameto,---,---,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,901,Carlos Pena,33,TX,MEX,01:15:37,06:49:15,04:40:38,00:07:47,00:06:24,12:59:41
+ironman-los-cabos-20151025.csv,902,Carlos Alberto Moran Rionda,41,guanajuato,MEX,01:36:12,07:15:44,04:21:41,00:11:26,00:03:25,13:28:28
+ironman-los-cabos-20151025.csv,903,James Harris,45,NH,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20151025.csv,904,Arturo Hernandez,56,Intl State,MEX,01:19:59,07:22:19,05:52:07,00:11:00,00:07:36,14:53:01

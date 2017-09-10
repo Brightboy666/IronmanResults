@@ -1,0 +1,595 @@
+#File=ironman-70.3-liuzhou-20170401.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-liuzhou-20170401.csv,1,Brad Kahlefeldt,37,NSW,AUS,00:19:50,02:13:55,01:25:29,00:02:45,00:02:49,04:04:48
+ironman-70.3-liuzhou-20170401.csv,2,Tim Don,39,Intl State,GBR,00:19:39,02:00:14,01:12:44,00:02:50,00:02:17,03:37:44
+ironman-70.3-liuzhou-20170401.csv,3,Justin Metzler,23,CO,USA,00:19:53,02:06:32,01:17:31,00:03:00,00:02:28,03:49:24
+ironman-70.3-liuzhou-20170401.csv,4,Brad Williams,31,---,USA,00:21:57,02:04:24,01:19:39,00:03:53,00:02:18,03:52:11
+ironman-70.3-liuzhou-20170401.csv,5,Jesse Thomas,37,OR,USA,00:20:45,02:02:49,01:11:34,00:03:12,00:02:39,03:40:59
+ironman-70.3-liuzhou-20170401.csv,6,Frederik Croneborg,36,---,SWE,00:20:58,02:15:45,01:17:47,00:03:05,00:02:55,04:00:30
+ironman-70.3-liuzhou-20170401.csv,7,Patrick Evoe,39,CO,USA,00:22:08,02:03:10,01:15:29,00:03:27,00:02:23,03:46:37
+ironman-70.3-liuzhou-20170401.csv,8,Ritchie Nicholls,29,Derry,GBR,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,9,Nick Baldwin,29,WA,SYC,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,10,Jacky Boisset,36,---,FRA,00:27:46,02:26:10,01:23:41,00:04:28,00:02:55,04:25:00
+ironman-70.3-liuzhou-20170401.csv,11,Jonathan Ciavattella,35,Intl State,ITA,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,12,Sebastien Jouffret,35,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,13,Ivan Kalashnikov,26,Intl State,RUS,00:19:44,02:08:13,01:14:12,00:03:20,00:02:36,03:48:05
+ironman-70.3-liuzhou-20170401.csv,14,Lukasz Kalaszczynski,33,---,POL,00:22:33,02:13:44,01:12:55,00:03:21,00:02:19,03:54:52
+ironman-70.3-liuzhou-20170401.csv,15,Alexander Polizzi,28,VIC,AUS,00:19:53,02:08:15,01:17:26,00:03:10,00:02:30,03:51:14
+ironman-70.3-liuzhou-20170401.csv,16,Daniil Sapunov,34,Kiev,UKR,00:20:03,02:08:01,01:14:33,00:03:13,00:02:32,03:48:22
+ironman-70.3-liuzhou-20170401.csv,18,Kaito Tohara,28,kanagawa,JPN,00:21:55,02:06:03,01:17:14,00:03:19,00:02:25,03:50:56
+ironman-70.3-liuzhou-20170401.csv,19,Eric Watson,27,WA,BHR,00:19:42,02:16:47,01:14:58,00:03:24,00:02:53,03:57:44
+ironman-70.3-liuzhou-20170401.csv,25,Radka Kahlefeldt,32,QLD,CZE,00:20:46,02:20:49,01:21:25,00:03:10,00:02:29,04:08:39
+ironman-70.3-liuzhou-20170401.csv,26,Jeanni Seymour,25,CO,ZAF,00:21:40,02:23:15,01:17:15,00:03:28,00:02:30,04:08:08
+ironman-70.3-liuzhou-20170401.csv,27,Sarah Piampiano,36,CA,USA,00:24:21,02:22:53,01:21:58,00:03:53,00:02:44,04:15:49
+ironman-70.3-liuzhou-20170401.csv,28,Amelia Rose Watkinson,25,AUK,NZL,00:22:57,02:23:10,01:25:37,00:03:53,00:02:19,04:17:56
+ironman-70.3-liuzhou-20170401.csv,29,Haley Chura,31,MT,USA,00:20:01,02:21:00,01:23:25,00:03:50,00:02:42,04:10:58
+ironman-70.3-liuzhou-20170401.csv,30,Sue Huse,43,MT,CAN,00:27:01,02:21:29,01:23:21,00:05:16,00:02:57,04:20:04
+ironman-70.3-liuzhou-20170401.csv,31,Anna Eberhardt,34,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,32,Sarah Lester,31,VIC,AUS,00:24:22,02:31:26,01:35:22,00:03:12,00:02:59,04:37:21
+ironman-70.3-liuzhou-20170401.csv,33,Maria Czesnik,40,---,POL,00:21:48,02:28:14,---,00:03:57,00:02:59,DNF
+ironman-70.3-liuzhou-20170401.csv,34,Myriam Guillot-Boisset,37,---,FRA,00:25:24,02:35:59,01:28:14,00:04:04,00:02:39,04:36:20
+ironman-70.3-liuzhou-20170401.csv,35,Monica Juhart,38,NSW,AUS,00:22:59,02:30:03,01:31:31,00:03:48,00:02:49,04:31:10
+ironman-70.3-liuzhou-20170401.csv,36,Paulina Kotfica,20,---,POL,00:23:04,02:25:42,01:23:58,00:03:22,00:02:40,04:18:46
+ironman-70.3-liuzhou-20170401.csv,37,Imke Oelerich,27,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,38,Immogen Simmonds,24,---,CHE,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,39,Jacqueline Thistleton,31,QLD,AUS,00:23:37,02:26:07,01:25:24,00:03:25,00:02:30,04:21:03
+ironman-70.3-liuzhou-20170401.csv,81,Vito Tagliente,43,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,82,Katrin Buchta,46,---,DEU,00:32:24,03:45:27,02:28:41,00:09:15,00:06:12,07:01:59
+ironman-70.3-liuzhou-20170401.csv,83,Boris Angerer,38,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,84,Gerald Lies,42,Tokyo,DEU,00:23:30,02:21:53,01:27:42,00:05:30,00:03:26,04:22:01
+ironman-70.3-liuzhou-20170401.csv,85,Chun Kit Tsang,33,---,HKG,00:27:51,02:29:43,01:22:08,00:05:50,00:03:32,04:29:04
+ironman-70.3-liuzhou-20170401.csv,89,Andy Wibowo,36,"DenpasarBali
+Bali",IDN,00:21:25,02:24:58,01:22:05,00:05:09,00:03:00,04:16:37
+ironman-70.3-liuzhou-20170401.csv,90,Alan Porteous,46,QLD,AUS,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,91,Taehwan Ahn,30,Busan,KOR,00:26:38,02:34:16,02:22:03,00:04:25,00:05:56,05:33:18
+ironman-70.3-liuzhou-20170401.csv,92,Youji Kim,25,Gyeongnam,KOR,00:25:31,02:36:43,01:56:54,00:04:16,00:03:43,05:07:07
+ironman-70.3-liuzhou-20170401.csv,93,Michael Passinger,54,---,DEU,00:25:38,02:24:38,01:32:38,00:04:03,00:02:51,04:29:48
+ironman-70.3-liuzhou-20170401.csv,94,Choo Ling Er,29,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,95,Lieberz Martin,40,---,HKG,00:23:07,02:18:25,01:28:43,00:03:55,00:02:52,04:17:02
+ironman-70.3-liuzhou-20170401.csv,96,Weiguo Xin,46,山东省,CHN,00:28:53,02:42:26,01:44:32,00:05:24,00:04:43,05:05:58
+ironman-70.3-liuzhou-20170401.csv,97,Patdhravut Wongtanaponsil,30,Suratthani,THA,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,98,Peter Wolkowicz,32,---,DEU,00:21:37,02:13:39,01:20:55,00:03:20,00:02:22,04:01:53
+ironman-70.3-liuzhou-20170401.csv,99,Janie White,58,AZ,USA,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,100,Nicole Gillies,50,NSW,AUS,00:30:23,02:50:31,01:53:52,00:06:53,00:05:32,05:27:11
+ironman-70.3-liuzhou-20170401.csv,101,Isabelle Boyer Moulin,42,---,FRA,00:23:16,02:30:18,01:41:54,00:04:27,00:03:10,04:43:05
+ironman-70.3-liuzhou-20170401.csv,102,Chinnang Ip,52,澳門,CHN,00:24:03,02:29:13,01:40:52,00:07:29,00:03:31,04:45:08
+ironman-70.3-liuzhou-20170401.csv,103,Ernesto Abeduh Delima,56,setagaya,MEX,00:28:06,02:31:03,01:42:32,00:05:46,00:04:08,04:51:35
+ironman-70.3-liuzhou-20170401.csv,104,Nicholas Clarry,44,Oxfordshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,105,Shoichi Asamoto,49,大阪府,JPN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,106,Martin Reynolds,49,---,GBR,00:27:37,02:29:01,01:44:01,00:06:18,00:03:54,04:50:51
+ironman-70.3-liuzhou-20170401.csv,107,Huuphoc Nguy,44,shanghai,FRA,00:30:08,02:30:11,01:34:59,00:06:31,00:03:15,04:45:04
+ironman-70.3-liuzhou-20170401.csv,108,Alex Sidorenko,36,Almaty,KAZ,00:27:59,02:24:20,01:24:58,00:04:43,00:03:09,04:25:09
+ironman-70.3-liuzhou-20170401.csv,109,Jenny Hart,50,NSW,AUS,00:28:32,02:49:39,01:36:31,00:06:02,00:04:45,05:05:29
+ironman-70.3-liuzhou-20170401.csv,110,Raynard Picard,37,Intl State,MEX,00:25:18,02:14:39,01:20:27,00:03:38,00:02:42,04:06:44
+ironman-70.3-liuzhou-20170401.csv,111,Patrick Danielsson,34,Bolzano,ITA,00:27:06,02:29:44,01:30:19,00:04:31,00:03:32,04:35:12
+ironman-70.3-liuzhou-20170401.csv,112,Alexander Bogdanov,33,Moscow,RUS,00:24:11,02:20:42,01:31:58,00:04:08,00:02:46,04:23:45
+ironman-70.3-liuzhou-20170401.csv,114,Miki Sasaki,53,Intl State,JPN,00:33:46,03:00:12,02:15:29,00:12:53,00:04:55,06:07:15
+ironman-70.3-liuzhou-20170401.csv,115,Mihai Alin Baractaru,27,Brasov,ROU,00:22:42,02:23:30,01:20:58,00:03:30,00:02:50,04:13:30
+ironman-70.3-liuzhou-20170401.csv,116,Artur Zawadzki,38,---,POL,00:24:50,02:18:24,01:33:36,00:05:13,00:02:55,04:24:58
+ironman-70.3-liuzhou-20170401.csv,117,Roberto De Pardi,48,Shanghai,ITA,00:25:48,02:28:44,01:28:03,00:04:49,00:06:09,04:33:33
+ironman-70.3-liuzhou-20170401.csv,118,Kevin Moats,62,GA,USA,00:24:53,02:23:02,01:35:57,00:04:50,00:03:38,04:32:20
+ironman-70.3-liuzhou-20170401.csv,119,Dorian Simon,45,---,DEU,00:25:45,02:22:33,01:26:37,00:06:09,00:03:09,04:24:13
+ironman-70.3-liuzhou-20170401.csv,120,Cobi Morales,42,FL,USA,00:23:37,02:23:09,01:23:32,00:03:39,00:02:39,04:16:36
+ironman-70.3-liuzhou-20170401.csv,121,Natalie Smith,35,WGN,NZL,00:22:17,02:46:03,01:33:26,00:04:42,00:02:50,04:49:18
+ironman-70.3-liuzhou-20170401.csv,122,Keish Doi,50,HI,USA,00:26:37,02:24:57,01:35:44,00:04:43,00:02:59,04:35:00
+ironman-70.3-liuzhou-20170401.csv,123,Pengcheng Li,25,SiChuan,CHN,00:23:14,02:24:27,01:18:00,00:05:05,00:02:38,04:13:24
+ironman-70.3-liuzhou-20170401.csv,124,Phil Saussus,56,---,BEL,00:27:57,02:33:06,01:42:21,00:06:21,00:03:26,04:53:11
+ironman-70.3-liuzhou-20170401.csv,125,Glenn Merkel,40,TX,USA,00:25:22,02:21:51,01:37:01,00:05:35,00:04:22,04:34:11
+ironman-70.3-liuzhou-20170401.csv,126,Alexandre Sybillain,47,shanghai,FRA,00:27:15,02:33:25,01:24:09,00:05:55,00:03:16,04:34:00
+ironman-70.3-liuzhou-20170401.csv,127,Anthony Trovato,45,WA,AUS,00:25:21,02:22:02,01:22:08,00:05:22,00:03:23,04:18:16
+ironman-70.3-liuzhou-20170401.csv,128,Mizobata Yuichi,43,osakafu,JPN,00:26:57,02:21:13,01:31:04,00:04:28,00:03:15,04:26:57
+ironman-70.3-liuzhou-20170401.csv,129,Shannon Florea,39,KY,USA,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,146,Wang Hongjian,30,Shanghai,CHN,00:28:32,02:33:21,01:32:53,00:04:48,00:03:39,04:43:13
+ironman-70.3-liuzhou-20170401.csv,147,Katrine Amtkjaer,37,Shanghai ,DNK,00:27:44,02:25:20,01:25:24,00:03:56,00:03:06,04:25:30
+ironman-70.3-liuzhou-20170401.csv,148,Peter Havas,43,---,HUN,00:31:02,02:24:35,01:39:10,00:06:29,00:04:06,04:45:22
+ironman-70.3-liuzhou-20170401.csv,157,Bryant Eggett,43,UT,USA,00:27:41,02:51:17,02:10:33,00:06:40,00:05:20,05:41:31
+ironman-70.3-liuzhou-20170401.csv,158,Filippo Nicosia,41,Rome,ITA,00:23:46,02:22:24,01:29:08,00:04:33,00:03:46,04:23:37
+ironman-70.3-liuzhou-20170401.csv,159,Nigel Wong,30,Other,AUS,00:29:05,02:18:28,01:30:22,00:04:16,00:02:50,04:25:01
+ironman-70.3-liuzhou-20170401.csv,160,Travis Gray,37,WA,AUS,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,161,Jan Bretschneider,44,AZ,DEU,00:22:58,02:13:56,01:29:54,00:04:16,00:03:07,04:14:11
+ironman-70.3-liuzhou-20170401.csv,162,Thomas Connolly,34,Macau,IRL,00:27:52,02:31:48,01:27:00,00:05:29,00:03:09,04:35:18
+ironman-70.3-liuzhou-20170401.csv,163,Su Yun,43,北京,CHN,00:26:58,02:22:27,01:31:12,00:04:55,00:03:21,04:28:53
+ironman-70.3-liuzhou-20170401.csv,164,Inge Prasetyo,36,"Jakarta
+DKI Jakarta",IDN,00:25:11,02:42:08,01:43:45,00:06:08,00:03:45,05:00:57
+ironman-70.3-liuzhou-20170401.csv,165,Sarah Virginia Costeira,26,"DKI Jakarta
+Jakarta",IND,00:28:33,02:46:40,01:41:18,00:06:35,00:04:32,05:07:38
+ironman-70.3-liuzhou-20170401.csv,166,Toivonen Janne,44,Shanghai,FIN,00:26:54,02:20:08,01:37:27,00:05:46,00:03:10,04:33:25
+ironman-70.3-liuzhou-20170401.csv,167,Yan Long Kai,28,安徽省,CHN,00:25:05,02:21:47,01:32:32,00:04:15,00:03:15,04:26:54
+ironman-70.3-liuzhou-20170401.csv,168,Hayashi Yuko,60,ACT,JPN,00:34:41,03:32:28,02:11:57,00:12:22,00:08:00,06:39:28
+ironman-70.3-liuzhou-20170401.csv,169,Michael Schubert,41,TN,USA,00:33:29,02:41:22,01:46:23,00:06:21,00:03:53,05:11:28
+ironman-70.3-liuzhou-20170401.csv,170,Thomas Mclnnes,56,Thalang,GBR,00:27:12,02:32:03,01:36:54,00:06:16,00:04:21,04:46:46
+ironman-70.3-liuzhou-20170401.csv,171,Chunxu Hu,29,北京,CHN,00:28:41,02:19:49,01:29:01,00:05:03,00:02:37,04:25:11
+ironman-70.3-liuzhou-20170401.csv,172,Ramon Puchades Lopez,37,---,ESP,00:25:27,02:46:49,01:46:20,00:05:56,00:03:03,05:07:35
+ironman-70.3-liuzhou-20170401.csv,173,Shuo Liu,40,QC,CAN,00:33:18,02:39:49,01:42:41,00:05:36,00:03:25,05:04:49
+ironman-70.3-liuzhou-20170401.csv,174,Byongdoo Kim,70,Intl State,KOR,00:55:07,03:24:57,02:33:40,00:16:29,00:07:14,07:17:27
+ironman-70.3-liuzhou-20170401.csv,175,Thomas Dreher,55,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,176,Jie Li,32,---,TWN,00:27:39,02:33:58,01:50:19,00:05:08,00:03:25,05:00:29
+ironman-70.3-liuzhou-20170401.csv,177,Robert Kushner,50,---,HKG,00:25:15,02:43:20,01:56:50,00:07:03,00:05:43,05:18:11
+ironman-70.3-liuzhou-20170401.csv,178,Jan Mengers,30,---,DEU,00:21:17,02:19:31,03:16:40,00:03:28,00:04:03,06:04:59
+ironman-70.3-liuzhou-20170401.csv,180,Mikael Amura,38,roma,ITA,00:25:29,02:26:04,01:31:37,00:04:47,00:03:42,04:31:39
+ironman-70.3-liuzhou-20170401.csv,181,Joanne Mclaughlan,48,QLD,AUS,00:25:49,02:37:37,01:48:55,00:05:00,00:03:25,05:00:46
+ironman-70.3-liuzhou-20170401.csv,182,Perrine Fages,36,Doha,FRA,00:30:22,02:42:33,01:41:38,00:05:59,00:03:33,05:04:05
+ironman-70.3-liuzhou-20170401.csv,183,David De Paula,42,---,FRA,00:27:53,02:20:53,01:26:09,00:04:59,00:02:53,04:22:47
+ironman-70.3-liuzhou-20170401.csv,184,Nicolas Jean-Marie Tanguy,39,SHANGHAI,FRA,00:22:22,02:32:05,01:31:20,00:04:19,00:03:05,04:33:11
+ironman-70.3-liuzhou-20170401.csv,185,James Shapcott,28,WA,NZL,00:24:35,02:19:39,01:24:38,00:03:31,00:02:26,04:14:49
+ironman-70.3-liuzhou-20170401.csv,186,Andrew Stevenson,38,Beijing,GBR,00:22:15,02:24:34,01:30:18,00:03:52,00:02:53,04:23:52
+ironman-70.3-liuzhou-20170401.csv,187,Baekwoon Kim,59,gyeonggi - do,KOR,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,188,Lynn Barlik,48,GA,USA,00:27:25,02:32:05,01:48:47,00:05:39,00:03:45,04:57:41
+ironman-70.3-liuzhou-20170401.csv,189,Masaaki Kurihara,29,Yamanashi,JPN,00:23:01,02:21:52,01:24:04,00:04:44,00:03:18,04:16:59
+ironman-70.3-liuzhou-20170401.csv,190,Tomoji Maru,61,Tokyo,JPN,00:28:36,02:49:27,01:40:34,00:06:52,00:03:34,05:09:03
+ironman-70.3-liuzhou-20170401.csv,191,Dong Cheng,43,辽宁,CHN,00:30:36,02:41:31,01:50:43,00:05:31,00:03:54,05:12:15
+ironman-70.3-liuzhou-20170401.csv,192,Juergen Soellner,54,---,DEU,00:26:06,02:34:50,01:43:23,00:05:01,00:03:21,04:52:41
+ironman-70.3-liuzhou-20170401.csv,193,Kwok Ning Lobo Lee,56,---,HKG,00:31:18,02:51:13,01:58:01,00:05:56,00:03:37,05:30:05
+ironman-70.3-liuzhou-20170401.csv,194,Radek Buszan,37,---,POL,00:22:41,02:20:23,01:28:48,00:04:33,00:02:45,04:19:10
+ironman-70.3-liuzhou-20170401.csv,195,Rolf Schlachter,54,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,197,"Jean-Guy, Michel Cornu",44,Shanghai,FRA,00:33:04,02:24:17,01:30:11,00:05:23,00:04:05,04:37:00
+ironman-70.3-liuzhou-20170401.csv,198,Alexey Panfilov,42,"Krasnogorsk
+",RUS,00:26:17,02:25:52,01:53:26,00:05:16,00:04:16,04:55:07
+ironman-70.3-liuzhou-20170401.csv,199,Bingning Ding,39,宁夏,CHN,00:30:21,02:30:57,01:31:38,00:04:32,00:03:15,04:40:43
+ironman-70.3-liuzhou-20170401.csv,200,Genjiro Wakayama,42,Tokyo,JPN,00:21:51,02:30:02,01:34:53,00:05:04,00:03:02,04:34:52
+ironman-70.3-liuzhou-20170401.csv,201,Jess Ripper,38,Hokkaido,JPN,00:23:01,02:16:40,01:27:25,00:04:12,00:02:57,04:14:15
+ironman-70.3-liuzhou-20170401.csv,202,Junyu Cao,29,重庆,CHN,00:25:01,02:31:09,01:29:43,00:05:05,00:03:29,04:34:27
+ironman-70.3-liuzhou-20170401.csv,203,Li Sheng,35,Chongqing,CHN,00:29:21,02:37:02,01:39:01,00:05:31,00:03:04,04:53:59
+ironman-70.3-liuzhou-20170401.csv,204,Lu Xing,26,---,CHN,00:36:07,03:01:48,01:47:24,00:07:36,00:04:56,05:37:51
+ironman-70.3-liuzhou-20170401.csv,205,Ashley Blair Mcintyre,42,---,AUS,00:24:41,02:30:49,01:43:36,00:07:15,00:04:34,04:50:55
+ironman-70.3-liuzhou-20170401.csv,206,Martin Rosenzweig,30,NSW,DEU,00:24:14,02:25:29,01:31:23,00:04:56,00:02:47,04:28:49
+ironman-70.3-liuzhou-20170401.csv,207,Maria Jose Martinez,40,---,ESP,00:27:58,02:47:29,02:06:12,00:05:07,00:03:31,05:30:17
+ironman-70.3-liuzhou-20170401.csv,209,Beili Bian,38,上海,CHN,00:24:12,03:01:23,01:53:49,00:06:39,00:04:07,05:30:10
+ironman-70.3-liuzhou-20170401.csv,210,Takeo Nakamichi,54,Intl State,JPN,00:28:16,02:36:26,01:36:13,00:06:30,00:04:23,04:51:48
+ironman-70.3-liuzhou-20170401.csv,211,Wei Lin,28,Guangdong,MAC,00:32:21,03:00:20,02:06:21,00:06:19,00:04:02,05:49:23
+ironman-70.3-liuzhou-20170401.csv,212,Stefano Moccia,48,Kenya,ITA,---,---,---,---,---,DQ
+ironman-70.3-liuzhou-20170401.csv,213,Koji Kamimura,47,岐阜県,JPN,00:32:05,02:49:56,01:59:19,00:11:42,00:03:46,05:36:48
+ironman-70.3-liuzhou-20170401.csv,214,Lanza Daniele,37,brescia,ITA,00:28:57,02:22:12,01:23:45,00:04:59,00:03:06,04:22:59
+ironman-70.3-liuzhou-20170401.csv,215,Liam Winston,47,---,IRL,00:25:36,02:26:55,01:29:25,00:04:28,00:02:54,04:29:18
+ironman-70.3-liuzhou-20170401.csv,216,Ling Zhang,37,Shanghai,CHN,00:33:15,02:35:58,01:54:36,00:08:18,00:03:58,05:16:05
+ironman-70.3-liuzhou-20170401.csv,217,Li Yutao,23,辽宁,CHN,00:21:34,03:01:23,02:07:47,00:05:56,00:07:36,05:44:16
+ironman-70.3-liuzhou-20170401.csv,218,Gaowei Li,37,---,CHN,00:24:35,02:25:33,01:30:23,00:05:30,00:02:59,04:29:00
+ironman-70.3-liuzhou-20170401.csv,219,Wai Kin Yeung,41,---,HKG,00:31:13,02:42:40,01:39:09,00:10:02,00:05:40,05:08:44
+ironman-70.3-liuzhou-20170401.csv,231,Hui Li,35,北京,CHN,00:37:16,03:01:10,01:51:20,00:09:12,00:07:13,05:46:11
+ironman-70.3-liuzhou-20170401.csv,232,Yu Zhang,35,北京,CHN,00:41:47,02:42:23,01:43:36,00:06:53,00:04:25,05:19:04
+ironman-70.3-liuzhou-20170401.csv,233,Heinrich Corinna,35,Beijing,DEU,00:31:17,03:00:38,02:07:21,00:07:55,00:06:36,05:53:47
+ironman-70.3-liuzhou-20170401.csv,234,Jingwen Chen,43,广东,CHN,00:32:09,03:09:00,02:02:56,00:08:45,00:04:28,05:57:18
+ironman-70.3-liuzhou-20170401.csv,235,Minggang Lu,44,江苏省,CHN,00:30:42,02:38:27,01:39:51,00:06:01,00:02:56,04:57:57
+ironman-70.3-liuzhou-20170401.csv,236,Grigory Savva,34,Moscow,RUS,00:27:52,02:32:00,01:32:09,00:04:47,00:03:08,04:39:56
+ironman-70.3-liuzhou-20170401.csv,237,骏 张,52,重庆市,CAN,00:31:59,02:55:37,01:47:51,00:05:15,00:04:16,05:24:58
+ironman-70.3-liuzhou-20170401.csv,238,Lars Bergmann,50,Shanghai,DNK,00:26:52,02:37:29,01:46:11,00:05:28,00:03:37,04:59:37
+ironman-70.3-liuzhou-20170401.csv,239,Zheng Wang,42,广东,CHN,00:32:43,02:47:17,02:01:16,00:06:04,00:04:23,05:31:43
+ironman-70.3-liuzhou-20170401.csv,240,Ayumu Kasai,41,Tokyo,JPN,00:31:42,02:35:36,01:34:46,00:06:50,00:05:02,04:53:56
+ironman-70.3-liuzhou-20170401.csv,241,Rieko Miyamoto,40,Tokyo,JPN,00:33:40,03:05:42,02:15:36,00:08:17,00:05:09,06:08:24
+ironman-70.3-liuzhou-20170401.csv,242,Shay Kastoriano,44,江苏,ISR,00:34:54,02:49:54,02:44:40,00:06:21,00:04:19,06:20:08
+ironman-70.3-liuzhou-20170401.csv,243,Yueh Kang Lin,40,---,TWN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,244,仁贵 蔡,34,广东,CHN,00:27:33,03:06:46,02:12:15,00:06:18,00:03:53,05:56:45
+ironman-70.3-liuzhou-20170401.csv,245,Philipp Hug,38,---,CHE,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,246,Zhi Qi,44,hebei,CHN,00:29:45,03:01:40,01:56:04,00:05:40,00:04:07,05:37:16
+ironman-70.3-liuzhou-20170401.csv,247,Christian Maxwell Sanderson,50,"
+Bali",GBR,00:25:50,02:20:12,01:33:27,00:05:25,00:03:22,04:28:16
+ironman-70.3-liuzhou-20170401.csv,248,Yuan Wu,42,北京,CHN,00:35:02,02:36:24,01:57:58,00:08:15,00:04:35,05:22:14
+ironman-70.3-liuzhou-20170401.csv,249,Wu Yundong,36,福建,CHN,00:27:48,02:36:16,01:52:49,00:06:25,00:04:16,05:07:34
+ironman-70.3-liuzhou-20170401.csv,250,敏 须,48,MN,USA,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,251,Yu Li,36,---,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,252,Ran Wang,41,GuangDong,CHN,00:28:47,02:35:08,01:49:48,00:06:47,00:02:58,05:03:28
+ironman-70.3-liuzhou-20170401.csv,253,Yu Xie,40,Jiang Xi,CHN,00:27:17,02:30:58,01:42:46,00:05:32,00:04:19,04:50:52
+ironman-70.3-liuzhou-20170401.csv,254,Fei Fu,38,北京,CHN,00:30:48,02:44:53,02:15:48,00:08:28,00:05:03,05:45:00
+ironman-70.3-liuzhou-20170401.csv,255,Masahiro Fujitani,40,Gifu,JPN,00:24:46,02:26:14,01:55:57,00:04:10,00:04:08,04:55:15
+ironman-70.3-liuzhou-20170401.csv,256,Muratkhan Tokmadi,50,Almaty,KAZ,00:27:57,02:30:20,01:44:41,00:07:53,00:04:25,04:55:16
+ironman-70.3-liuzhou-20170401.csv,257,Robyn Johns,44,NSW,AUS,00:33:44,02:54:28,02:00:00,00:06:13,00:04:40,05:39:05
+ironman-70.3-liuzhou-20170401.csv,258,Kam Tin Che,45,澳門,MAC,00:29:25,02:37:42,01:39:01,00:06:10,00:03:25,04:55:43
+ironman-70.3-liuzhou-20170401.csv,259,Myung Sik Hong,55,기흥구,KOR,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,260,Xuefeng Yan,41,Liao Ning,CHN,00:27:03,02:34:19,01:40:35,00:04:54,00:03:12,04:50:03
+ironman-70.3-liuzhou-20170401.csv,261,Lin Hai Gu,44,云南,CHN,00:32:49,02:37:03,01:33:07,00:09:20,00:06:17,04:58:36
+ironman-70.3-liuzhou-20170401.csv,262,Franck Vuaillat,40,---,FRA,00:28:04,02:42:13,01:39:37,00:04:06,00:04:16,04:58:16
+ironman-70.3-liuzhou-20170401.csv,263,Zhengwei Li,45,广东,CHN,00:31:54,02:32:26,01:43:25,00:06:47,00:04:22,04:58:54
+ironman-70.3-liuzhou-20170401.csv,264,Maciej Dowbor,38,---,POL,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,265,Volker Johannes Hembenger,59,---,DEU,00:28:52,02:35:34,01:39:13,00:07:22,00:03:59,04:55:00
+ironman-70.3-liuzhou-20170401.csv,266,Jian Liu,46,APO云南,CHN,00:33:11,02:42:21,02:30:49,00:07:39,00:05:12,05:59:12
+ironman-70.3-liuzhou-20170401.csv,267,Yingjun Chen,41,北京,CHN,00:29:36,02:33:43,01:39:58,00:07:06,00:04:52,04:55:15
+ironman-70.3-liuzhou-20170401.csv,268,Hiroaki Kobayashi,42,神奈川県,JPN,00:28:05,02:32:56,01:31:27,00:04:22,00:03:26,04:40:16
+ironman-70.3-liuzhou-20170401.csv,269,Olga Luksa,34,Latvia,LVA,00:26:34,02:42:52,01:45:00,00:04:47,00:03:59,05:03:12
+ironman-70.3-liuzhou-20170401.csv,270,Huisi Chen,28,广东省,CHN,00:35:12,03:21:07,02:41:33,00:06:31,00:04:29,06:48:52
+ironman-70.3-liuzhou-20170401.csv,271,Ji Qing Xia,30,上海市,CHN,00:22:53,02:53:44,01:51:33,00:05:52,00:03:39,05:17:41
+ironman-70.3-liuzhou-20170401.csv,272,Jun Fei He,30,重庆,CHN,00:29:17,02:43:27,01:56:29,00:05:32,00:03:53,05:18:38
+ironman-70.3-liuzhou-20170401.csv,273,Hong Wei Liang,43,广东省,CHN,00:39:14,03:08:34,02:14:28,00:13:35,00:06:45,06:22:36
+ironman-70.3-liuzhou-20170401.csv,274,Xiaogang Xin,35,湖北省,CHN,00:33:03,02:44:09,01:47:07,00:06:11,00:04:59,05:15:29
+ironman-70.3-liuzhou-20170401.csv,275,Wong Yee Keung,45,---,HKG,00:25:59,02:44:33,01:54:50,00:05:19,00:03:37,05:14:18
+ironman-70.3-liuzhou-20170401.csv,276,Chunshan Bai,42,China,CHN,00:37:05,02:51:50,01:31:47,00:07:38,00:04:17,05:12:37
+ironman-70.3-liuzhou-20170401.csv,277,Masanori Sakurai,51,OSAKA,JPN,00:29:14,02:53:39,02:31:46,00:07:05,00:04:55,06:06:39
+ironman-70.3-liuzhou-20170401.csv,278,Pascual Duco,28,---,CHL,00:24:27,02:19:56,01:40:43,00:03:43,00:02:36,04:31:25
+ironman-70.3-liuzhou-20170401.csv,279,Victor Saltykov,41,no,RUS,00:28:34,02:45:20,01:52:36,00:06:23,00:07:25,05:20:18
+ironman-70.3-liuzhou-20170401.csv,280,Toshikazu Imada,45,Tokyo,JPN,00:24:11,02:30:10,01:32:13,00:06:20,00:03:54,04:36:48
+ironman-70.3-liuzhou-20170401.csv,301,Tonik Leung,17,广东,CHN,00:35:40,02:55:45,02:09:14,00:14:59,00:05:33,06:01:11
+ironman-70.3-liuzhou-20170401.csv,302,Daijun Wang,22,通州区,CHN,00:35:23,03:05:15,02:30:59,00:13:19,00:05:50,06:30:46
+ironman-70.3-liuzhou-20170401.csv,303,Shenbing Xu,---,---,CHN,00:33:02,02:46:48,02:29:23,00:06:53,00:05:29,06:01:35
+ironman-70.3-liuzhou-20170401.csv,304,Chen Wei,23,北京市,CHN,00:21:27,02:31:17,01:40:12,00:05:21,00:03:37,04:41:54
+ironman-70.3-liuzhou-20170401.csv,305,Albert Lopez Deulofeu,24,---,ESP,00:24:19,02:30:10,01:35:08,00:04:26,00:02:33,04:36:36
+ironman-70.3-liuzhou-20170401.csv,306,Tommaso Nolli,23,abbiategrasso,ITA,00:25:21,02:29:18,01:47:19,00:05:13,00:02:33,04:49:44
+ironman-70.3-liuzhou-20170401.csv,307,Kewei Li,28,广西,CHN,00:24:33,02:47:03,02:28:38,00:06:29,00:04:21,05:51:04
+ironman-70.3-liuzhou-20170401.csv,308,Han Deng,24,广西,CHN,00:37:14,03:23:23,02:32:32,00:14:33,00:14:12,07:01:54
+ironman-70.3-liuzhou-20170401.csv,309,Tangkobe Hui,29,---,HKG,00:34:09,02:58:36,02:03:16,00:08:04,00:07:59,05:52:04
+ironman-70.3-liuzhou-20170401.csv,310,Arthur Hagwood,24,NC,USA,00:25:27,02:35:24,01:54:00,00:06:20,00:04:51,05:06:02
+ironman-70.3-liuzhou-20170401.csv,311,Shigong Wang,24,北京,CHN,00:33:56,02:52:00,01:56:45,00:07:45,00:03:06,05:33:32
+ironman-70.3-liuzhou-20170401.csv,312,Makoto Naitou,29,長崎県,JPN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,313,Li Haifeng,28,西城,CHN,00:39:52,03:40:26,02:16:50,00:11:22,00:05:27,06:53:57
+ironman-70.3-liuzhou-20170401.csv,314,Haimeng Wu,26,北京,CHN,00:40:03,02:39:27,02:49:11,00:05:30,00:05:39,06:19:50
+ironman-70.3-liuzhou-20170401.csv,315,Jiahua Zhu,26,广东省,CHN,00:26:22,03:25:01,02:38:05,00:09:54,00:05:21,06:44:43
+ironman-70.3-liuzhou-20170401.csv,316,Yang Li,28,安徽,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,317,Yun Qi Zhao,26,北京,CHN,00:28:20,03:23:40,03:11:32,00:07:32,00:08:18,07:19:22
+ironman-70.3-liuzhou-20170401.csv,318,Junjie Luo,27,广东省,CHN,00:37:50,03:28:49,02:31:49,00:10:42,00:05:03,06:54:13
+ironman-70.3-liuzhou-20170401.csv,319,Yun Yang,27,广东省,CHN,00:37:50,---,02:31:06,---,04:06:17,06:37:23
+ironman-70.3-liuzhou-20170401.csv,320,mingjing han,28,福建省厦门市,CHN,00:35:41,02:58:28,02:03:14,00:09:43,00:04:57,05:52:03
+ironman-70.3-liuzhou-20170401.csv,321,Francois-Xavier Dosne,28,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,322,Shuai Xiang,28,湖北省,CHN,00:34:39,02:29:46,01:56:20,00:06:26,00:03:15,05:10:26
+ironman-70.3-liuzhou-20170401.csv,323,Hanlong Zheng,25,北京市,CHN,00:33:49,02:31:07,01:40:24,00:06:00,00:05:39,04:56:59
+ironman-70.3-liuzhou-20170401.csv,324,Samuel Reeves,25,WA,AUS,00:25:30,02:23:59,01:56:42,00:04:25,00:03:17,04:53:53
+ironman-70.3-liuzhou-20170401.csv,325,Jianping Zhang,27,湖北省,CHN,00:34:13,02:26:32,01:32:53,00:04:07,00:04:08,04:41:53
+ironman-70.3-liuzhou-20170401.csv,326,Weili Xie,27,Shanghai,CHN,00:29:40,03:18:02,02:05:30,00:09:48,00:05:11,06:08:11
+ironman-70.3-liuzhou-20170401.csv,327,San Luis Wong Ting,24,---,TWN,00:31:17,02:40:02,01:58:02,00:05:39,00:03:51,05:18:51
+ironman-70.3-liuzhou-20170401.csv,328,Ruiqi Pan,27,广东,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,329,观 杜,25,海南省,CHN,00:30:05,02:26:55,01:36:49,00:09:29,00:04:43,04:48:01
+ironman-70.3-liuzhou-20170401.csv,330,Xiaodi Zeng,27,北京市,CHN,00:29:55,03:18:01,02:21:22,00:08:00,00:06:01,06:23:19
+ironman-70.3-liuzhou-20170401.csv,331,Yujun Liang,32,广西玉林市玉州区,CHN,00:34:24,03:22:54,02:37:04,00:11:13,00:05:44,06:51:19
+ironman-70.3-liuzhou-20170401.csv,332,wang kun,34,guangxi,CHN,00:29:47,02:39:29,01:47:26,00:09:23,00:03:40,05:09:45
+ironman-70.3-liuzhou-20170401.csv,333,连明 马,34,广东省,CHN,00:39:58,03:37:10,02:34:31,00:10:04,00:06:38,07:08:21
+ironman-70.3-liuzhou-20170401.csv,334,Jie Li,32,广东省,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,335,Zhong Yu,29,广西省,CHN,00:28:45,02:39:52,01:47:11,00:09:43,00:04:09,05:09:40
+ironman-70.3-liuzhou-20170401.csv,336,ze song liang,30,广西,CHN,00:33:04,02:56:25,01:50:42,00:13:34,00:04:13,05:37:58
+ironman-70.3-liuzhou-20170401.csv,337,Li Fengguo,31,Guangdong,CHN,00:40:29,03:15:32,02:45:35,00:15:40,00:09:24,07:06:40
+ironman-70.3-liuzhou-20170401.csv,338,Yuji Jiang,32,Guangdong,CHN,00:34:00,03:16:41,02:22:57,00:07:12,00:06:31,06:27:21
+ironman-70.3-liuzhou-20170401.csv,339,He Zhijing,33,湖南,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,340,Qiang Liu,34,广东,CHN,00:42:41,03:13:24,02:55:31,00:17:13,00:11:54,07:20:43
+ironman-70.3-liuzhou-20170401.csv,341,Chang Liu,34,Beijing,CHN,00:29:06,02:48:11,01:51:23,00:05:37,00:03:13,05:17:30
+ironman-70.3-liuzhou-20170401.csv,342,Cyrus Wong,29,广东,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,343,Jiahong Mai,31,广东省,CHN,00:39:41,03:03:35,02:14:50,00:11:41,00:06:35,06:16:22
+ironman-70.3-liuzhou-20170401.csv,344,Chen He,30,广西壮族自治区,CHN,00:31:35,02:59:06,02:01:23,00:11:56,00:07:31,05:51:31
+ironman-70.3-liuzhou-20170401.csv,345,Hui Yang,30,北京,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,346,Xiaoyang Xie,30,Shanghai,CHN,00:31:22,02:40:36,01:41:07,00:07:03,00:03:48,05:03:56
+ironman-70.3-liuzhou-20170401.csv,347,Jianwei Luo,29,四川省,CHN,00:32:52,02:37:10,01:59:43,00:13:37,00:04:16,05:27:38
+ironman-70.3-liuzhou-20170401.csv,348,Xiaoyue Fu,31,通州区,CHN,00:31:27,02:36:13,01:45:37,00:05:40,00:03:38,05:02:35
+ironman-70.3-liuzhou-20170401.csv,349,Tieshan Xiao,30,澄海,CHN,00:43:05,03:22:05,03:24:45,00:09:24,00:05:52,07:45:11
+ironman-70.3-liuzhou-20170401.csv,350,Lu Zhang,31,北京,CHN,00:22:04,02:53:46,01:59:22,00:05:42,00:04:58,05:25:52
+ironman-70.3-liuzhou-20170401.csv,351,Zhijun Chen,31,福建省,CHN,00:45:29,03:27:56,03:10:42,00:12:49,00:06:59,07:43:55
+ironman-70.3-liuzhou-20170401.csv,353,Participant Invited,31,浙江,CHN,00:31:57,03:04:22,02:03:19,00:09:07,00:04:52,05:53:37
+ironman-70.3-liuzhou-20170401.csv,354,Shiotani Koji,31,福岡県,JPN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,356,Fuxiang He,30,湖南省,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,357,He Yao Liang,31,广东省,CHN,00:38:06,02:57:42,02:04:23,00:08:08,00:07:37,05:55:56
+ironman-70.3-liuzhou-20170401.csv,358,Wang Gangui,30,重庆市,CHN,00:39:54,02:53:59,02:25:09,00:09:05,00:07:05,06:15:12
+ironman-70.3-liuzhou-20170401.csv,359,Zhaocheng Jia,29,Beijing,CHN,00:33:11,02:51:42,01:46:14,00:06:11,00:04:27,05:21:45
+ironman-70.3-liuzhou-20170401.csv,360,Sam Village,29,Barlow,GBR,00:22:18,02:14:46,01:23:23,00:03:52,00:04:21,04:08:40
+ironman-70.3-liuzhou-20170401.csv,361,Peter Edwards,30,Wrexham,GBR,00:36:03,03:24:19,02:36:39,00:11:30,00:10:11,06:58:42
+ironman-70.3-liuzhou-20170401.csv,362,Chao Wei,32,北京,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,363,Guangsen Guo,29,Guangdong,CHN,00:33:20,02:41:37,01:48:18,00:07:28,00:03:33,05:14:16
+ironman-70.3-liuzhou-20170401.csv,364,Chang He,33,宁夏回族自治区,CHN,00:27:51,03:03:51,01:58:19,00:09:41,00:08:27,05:48:09
+ironman-70.3-liuzhou-20170401.csv,365,Peirong Du,33,广东省,CHN,00:34:08,03:26:38,02:09:50,00:21:34,00:11:28,06:43:38
+ironman-70.3-liuzhou-20170401.csv,366,Dongjie Qin,32,河北,CHN,00:40:02,03:11:28,02:10:38,00:10:33,00:03:38,06:16:19
+ironman-70.3-liuzhou-20170401.csv,367,Fuchenyang Fu,31,广西,CHN,00:34:51,03:25:12,02:56:48,00:08:45,00:06:56,07:12:32
+ironman-70.3-liuzhou-20170401.csv,368,Mozhiwang Mo,33,广西,CHN,00:31:16,03:06:21,02:02:17,00:07:36,00:03:54,05:51:24
+ironman-70.3-liuzhou-20170401.csv,369,Qingwei Zang,31,云南省,CHN,00:31:51,02:55:56,01:42:06,00:11:44,00:06:16,05:27:53
+ironman-70.3-liuzhou-20170401.csv,370,蔡俊 蔡,30,贵州省,CHN,00:36:39,03:24:10,02:39:32,00:09:11,00:07:14,06:56:46
+ironman-70.3-liuzhou-20170401.csv,371,Kunyu Zhu,30,贵州,CHN,00:30:33,03:14:04,02:34:35,00:07:53,00:03:14,06:30:19
+ironman-70.3-liuzhou-20170401.csv,372,ali gulsen,34,Beijing,TUR,00:36:25,03:01:39,02:24:26,00:13:27,00:06:23,06:22:20
+ironman-70.3-liuzhou-20170401.csv,373,Nan Qin,29,广西省,CHN,00:34:32,03:11:30,02:19:03,00:17:06,00:07:36,06:29:47
+ironman-70.3-liuzhou-20170401.csv,374,Andrew Haigh,30,London,GBR,00:24:37,02:21:28,01:25:03,00:03:53,00:02:36,04:17:37
+ironman-70.3-liuzhou-20170401.csv,375,Geoffrey Lam,33,---,HKG,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,376,Vittorio Tentori,33,Shanghai,ITA,00:34:11,02:35:07,01:32:23,00:07:19,00:04:19,04:53:19
+ironman-70.3-liuzhou-20170401.csv,377,Weihua Chen,33,广西,CHN,00:45:34,04:25:30,03:14:25,00:12:47,00:08:36,DNF
+ironman-70.3-liuzhou-20170401.csv,378,Nan Zhu,33,北京,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,379,谢 威,33,北京,CHN,00:32:24,03:28:07,02:04:04,00:12:27,00:09:31,06:26:33
+ironman-70.3-liuzhou-20170401.csv,380,Ze Peng,33,湖南省,CHN,00:42:54,03:47:55,02:54:46,00:08:40,00:05:33,07:39:48
+ironman-70.3-liuzhou-20170401.csv,381,Ling Liao,31,四川,CHN,00:26:35,02:34:23,01:28:43,00:06:27,00:03:25,04:39:33
+ironman-70.3-liuzhou-20170401.csv,382,Weizhen Zhang,33,NSW,CHN,00:34:16,02:51:06,01:37:50,00:05:36,00:03:50,05:12:38
+ironman-70.3-liuzhou-20170401.csv,383,Jian Chen,30,江西省,CHN,00:37:13,03:31:33,02:41:37,00:08:29,00:07:07,07:05:59
+ironman-70.3-liuzhou-20170401.csv,384,Daniyar Omorov,33,Chui,KGZ,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,385,Haifeng Fang,33,Beijing,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,386,Lu Zhao,30,重庆市,CHN,00:27:34,02:34:12,01:29:41,00:05:23,00:03:57,04:40:47
+ironman-70.3-liuzhou-20170401.csv,387,You Lv,30,山东,CHN,00:41:38,03:12:10,01:43:00,00:07:12,00:06:05,05:50:05
+ironman-70.3-liuzhou-20170401.csv,388,Liao Zhipeng,35,广西,CHN,00:34:06,03:16:11,---,00:10:12,00:10:20,DNF
+ironman-70.3-liuzhou-20170401.csv,389,Suiqing Chen,36,广东,CHN,00:30:24,02:55:17,01:43:02,00:08:56,00:03:27,05:21:06
+ironman-70.3-liuzhou-20170401.csv,390,Bin Xu,38,广东省,CHN,00:33:53,03:32:42,02:57:41,00:16:17,00:05:44,07:26:17
+ironman-70.3-liuzhou-20170401.csv,391,Fan Xia,35,北京,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,392,Yuan Zheng,37,广西壮族自治区,CHN,00:39:35,03:17:39,02:21:42,00:11:12,00:06:53,06:37:01
+ironman-70.3-liuzhou-20170401.csv,393,Zhigang Li,34,广西,CHN,00:31:33,02:47:30,01:55:53,00:10:53,00:05:07,05:30:56
+ironman-70.3-liuzhou-20170401.csv,394,Dongwen Huang,38,AZ,CHN,00:29:04,02:46:41,01:54:20,00:07:28,00:05:03,05:22:36
+ironman-70.3-liuzhou-20170401.csv,395,Shiru Kong,35,广西,CHN,00:40:14,02:53:17,01:56:23,00:09:51,00:04:20,05:44:05
+ironman-70.3-liuzhou-20170401.csv,396,Qin Xiaoming,38,广西,CHN,00:26:16,03:04:48,02:08:58,00:05:59,00:05:28,05:51:29
+ironman-70.3-liuzhou-20170401.csv,397,Wen Feng,39,Beijing,CHN,00:35:11,02:59:35,02:04:31,00:09:02,00:06:42,05:55:01
+ironman-70.3-liuzhou-20170401.csv,398,Wang Hong,38,广西省宜州市,CHN,00:31:32,03:04:35,02:09:41,00:06:37,00:03:15,05:55:40
+ironman-70.3-liuzhou-20170401.csv,399,Tan Xiaohua,37,广西省,CHN,00:33:35,03:34:28,02:31:29,00:12:20,00:07:17,06:59:09
+ironman-70.3-liuzhou-20170401.csv,400,Lipeng Wang,38,北京,CHN,00:30:02,02:56:43,02:10:19,00:11:37,00:08:28,05:57:09
+ironman-70.3-liuzhou-20170401.csv,401,Shuo Zhang,34,北京,CHN,00:29:16,02:48:48,01:49:59,00:10:22,00:04:47,05:23:12
+ironman-70.3-liuzhou-20170401.csv,402,Alexander Poulis,38,England,GRC,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,403,Ruiqi Xiang,34,上海,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,404,Nan Ma,38,北京,CHN,00:31:57,03:07:12,02:18:25,00:11:09,00:05:57,06:14:40
+ironman-70.3-liuzhou-20170401.csv,405,Yu-Nan Tai,38,CA,TWN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,406,Eddie Lam,36,---,HKG,00:38:04,03:28:56,02:05:38,00:11:22,00:08:44,06:32:44
+ironman-70.3-liuzhou-20170401.csv,407,Maoguo Wang,36,广西,CHN,00:37:03,02:59:56,02:38:15,00:11:33,00:05:49,06:32:36
+ironman-70.3-liuzhou-20170401.csv,408,Jin Li,37,广东省,CHN,00:24:53,03:31:49,02:18:18,00:12:49,00:07:01,06:34:50
+ironman-70.3-liuzhou-20170401.csv,409,Jinquan Yang,38,广东省,CHN,00:32:59,03:04:48,02:00:15,00:11:03,00:06:12,05:55:17
+ironman-70.3-liuzhou-20170401.csv,410,Tong Li,37,广东省,CHN,00:33:45,02:51:53,02:05:25,00:06:36,00:04:42,05:42:21
+ironman-70.3-liuzhou-20170401.csv,411,Qiang Li,38,山东,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,412,Dongdong Liu,36,广东,CHN,00:23:57,02:37:37,01:49:21,00:04:24,00:04:02,04:59:21
+ironman-70.3-liuzhou-20170401.csv,413,Chaosheng Du,35,广西,CHN,00:39:41,03:27:42,02:41:34,00:09:30,00:06:47,07:05:14
+ironman-70.3-liuzhou-20170401.csv,414,Jens Weidner,39,Zhejiang,DEU,00:24:24,02:19:50,01:40:45,00:06:37,00:04:40,04:36:16
+ironman-70.3-liuzhou-20170401.csv,415,Song Wei,34,广西,CHN,00:41:35,---,---,---,---,DNF
+ironman-70.3-liuzhou-20170401.csv,416,Yi Ping Liu,34,Shanghai,CHN,00:36:48,02:47:42,02:06:07,00:06:48,00:05:04,05:42:29
+ironman-70.3-liuzhou-20170401.csv,417,Hailin Jia,34,安徽省,CHN,00:38:15,02:49:43,01:55:54,00:05:50,00:04:33,05:34:15
+ironman-70.3-liuzhou-20170401.csv,418,Sebastien Boiteux,37,Intl State,FRA,00:34:45,03:04:17,02:31:43,00:08:51,00:04:41,06:24:17
+ironman-70.3-liuzhou-20170401.csv,419,Pavel Artyushenko,39,Almaty,KAZ,00:21:23,02:18:09,01:24:00,00:03:47,00:02:57,04:10:16
+ironman-70.3-liuzhou-20170401.csv,420,Cheng Liu,35,广东,CHN,00:36:24,03:28:14,02:39:48,00:13:37,00:11:32,07:09:35
+ironman-70.3-liuzhou-20170401.csv,422,Frank Ziewers,38,Jiangsu,DEU,00:28:21,02:24:39,01:31:29,00:05:47,00:04:12,04:34:28
+ironman-70.3-liuzhou-20170401.csv,423,Jamie Gerrard,34,shanghai,GBR,00:25:49,03:30:22,---,00:08:04,---,DNF
+ironman-70.3-liuzhou-20170401.csv,424,Thomas Hitchings,38,---,GBR,00:29:45,02:02:45,---,00:07:00,---,DNF
+ironman-70.3-liuzhou-20170401.csv,425,Jeff O'Coin,35,ME,USA,00:29:30,02:54:21,02:04:27,00:06:27,00:05:28,05:40:13
+ironman-70.3-liuzhou-20170401.csv,426,Feng Yang,36,北京,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,427,Stefano Passarello,35,---,HKG,00:28:59,02:37:17,01:15:08,00:06:51,00:04:20,04:32:35
+ironman-70.3-liuzhou-20170401.csv,428,Jarek Barc,36,CO,POL,00:26:40,02:42:37,01:49:14,00:06:02,00:03:30,05:08:03
+ironman-70.3-liuzhou-20170401.csv,429,Zilong Zhang,34,江苏省常熟市,CHN,00:29:24,02:23:53,01:40:13,00:06:41,00:04:03,04:44:14
+ironman-70.3-liuzhou-20170401.csv,430,Milton Hsu,38,---,TWN,00:32:06,02:39:51,01:47:03,00:06:34,00:04:24,05:09:58
+ironman-70.3-liuzhou-20170401.csv,431,Derong Wang,36,广东省广州市白云区,CHN,00:34:30,03:35:35,02:51:00,00:11:38,00:07:12,07:19:55
+ironman-70.3-liuzhou-20170401.csv,432,Jiaqiang Deng,34,广东,CHN,00:29:32,02:41:14,01:36:21,00:08:57,00:05:46,05:01:50
+ironman-70.3-liuzhou-20170401.csv,433,Ceming Fu,34,海南省,CHN,00:36:39,02:59:55,02:36:07,00:09:03,00:08:02,06:29:46
+ironman-70.3-liuzhou-20170401.csv,434,Vincent Poncet,38,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,435,晓明 钱,34,江苏省,CHN,00:33:41,03:03:02,01:59:41,00:07:58,00:03:58,05:48:20
+ironman-70.3-liuzhou-20170401.csv,436,Roberts Luksa,34,LV,LVA,00:25:50,02:18:38,01:30:32,00:05:11,00:03:53,04:24:04
+ironman-70.3-liuzhou-20170401.csv,437,Iain Veitch,35,---,GBR,00:23:19,02:19:48,01:22:50,00:03:54,00:02:51,04:12:42
+ironman-70.3-liuzhou-20170401.csv,440,Jerry Hsieh,38,江苏,TWN,00:33:00,02:41:31,02:30:27,00:09:03,00:04:45,05:58:46
+ironman-70.3-liuzhou-20170401.csv,441,Zeguang Wu,38,广东,CHN,00:39:51,---,02:25:57,---,04:04:36,06:30:33
+ironman-70.3-liuzhou-20170401.csv,442,Haijun Fan,37,北京市,CHN,00:27:55,02:58:59,02:19:09,00:06:55,00:05:13,05:58:11
+ironman-70.3-liuzhou-20170401.csv,443,鹏 贾,35,北京,CHN,00:39:49,03:26:20,02:45:14,00:10:10,00:04:40,07:06:13
+ironman-70.3-liuzhou-20170401.csv,445,Jingjun Zhou,34,北京市,CHN,00:33:32,02:51:26,01:39:03,00:07:17,00:05:08,05:16:26
+ironman-70.3-liuzhou-20170401.csv,446,曾 奇武,34,贵州省,CHN,00:33:48,02:36:52,01:50:10,00:06:23,00:04:36,05:11:49
+ironman-70.3-liuzhou-20170401.csv,447,Mengyu Zhao,38,chongqing,CHN,00:46:45,03:31:43,02:26:42,00:09:54,00:04:09,06:59:13
+ironman-70.3-liuzhou-20170401.csv,448,Thibaut Cheytion,35,Tokyo,FRA,00:24:37,02:25:11,01:35:15,00:03:33,00:03:09,04:31:45
+ironman-70.3-liuzhou-20170401.csv,449,Min Zhu,37,四川,CHN,00:38:51,03:16:59,02:33:17,00:13:55,00:07:37,06:50:39
+ironman-70.3-liuzhou-20170401.csv,450,Mike Cuffaro,38,ON,CAN,00:39:33,03:42:47,03:26:13,00:10:54,00:07:13,08:06:40
+ironman-70.3-liuzhou-20170401.csv,451,Yang Zhang,34,Shanghai,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,452,Qianfeng Zhou,43,广东,CHN,00:33:53,02:52:25,02:05:39,00:09:29,00:05:02,05:46:28
+ironman-70.3-liuzhou-20170401.csv,453,Longxing Ha,42,北京,CHN,00:47:38,03:18:43,02:56:52,00:16:54,00:12:45,07:32:52
+ironman-70.3-liuzhou-20170401.csv,454,Zhiqin Zhong,40,广西壮族自治区,CHN,00:28:37,---,01:59:01,---,04:07:51,06:06:52
+ironman-70.3-liuzhou-20170401.csv,455,Qin Jianjun,41,广西,CHN,00:35:55,03:16:11,02:13:39,00:09:55,00:04:37,06:20:17
+ironman-70.3-liuzhou-20170401.csv,456,Barry Bao,39,Guangdong,CHN,00:29:26,02:49:03,02:01:25,00:09:21,00:04:29,05:33:44
+ironman-70.3-liuzhou-20170401.csv,457,坚 王,43,北京,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,458,Guojie Wei,40,广东省,CHN,00:25:41,03:47:43,02:15:26,00:10:52,00:08:22,06:48:04
+ironman-70.3-liuzhou-20170401.csv,459,Liu Haolin,42,广西省壮族自治区,CHN,00:33:50,03:19:15,02:20:48,00:09:10,00:04:37,06:27:40
+ironman-70.3-liuzhou-20170401.csv,460,Fernando Munoz,44,Guangdong,COL,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,461,Juan Jose Barahona Gonzalez,41,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,462,Liuzhang Yang,39,beijing,CHN,00:41:09,03:34:41,02:20:30,00:09:50,00:04:54,06:51:04
+ironman-70.3-liuzhou-20170401.csv,463,Dave Li,43,Guangdong,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,464,Xinyu Qin,42,广西,CHN,00:41:23,03:24:46,02:54:48,00:11:06,00:08:03,07:20:06
+ironman-70.3-liuzhou-20170401.csv,465,Charles Gray,39,UT,USA,00:36:17,03:31:19,02:56:52,00:09:33,00:04:55,07:18:56
+ironman-70.3-liuzhou-20170401.csv,466,Tao Liu,40,北京,CHN,00:31:09,02:59:22,01:53:56,00:07:12,00:04:31,05:36:10
+ironman-70.3-liuzhou-20170401.csv,467,Chia-Hsuan Cheng,41,---,TWN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,468,Jian Long Jiang,40,广东省,CHN,00:32:48,03:00:33,02:36:48,00:20:32,00:07:53,06:38:34
+ironman-70.3-liuzhou-20170401.csv,469,Li Xing Li,40,广东省东莞市清溪镇,CHN,00:34:40,03:21:05,02:15:56,00:13:09,00:10:46,06:35:36
+ironman-70.3-liuzhou-20170401.csv,470,Maris Babris,42,Latvia,LVA,00:32:45,02:24:32,01:32:14,00:04:15,00:02:58,04:36:44
+ironman-70.3-liuzhou-20170401.csv,471,Steven Purcell,42,---,HKG,00:25:35,02:24:50,01:21:38,00:05:10,00:03:45,04:20:58
+ironman-70.3-liuzhou-20170401.csv,472,Lei Zhu,42,北京,CHN,00:23:57,02:56:44,01:52:12,00:07:18,00:05:14,05:25:25
+ironman-70.3-liuzhou-20170401.csv,473,Runhong Huang,41,广东,CHN,00:35:45,03:08:56,02:19:57,00:12:07,00:08:20,06:25:05
+ironman-70.3-liuzhou-20170401.csv,474,weixian lu,40,---,CHN,00:30:34,02:48:58,01:54:06,00:07:03,00:03:51,05:24:32
+ironman-70.3-liuzhou-20170401.csv,475,Huadong Yang,42,广东省,CHN,00:39:11,03:07:49,02:37:09,00:11:44,00:05:59,06:41:52
+ironman-70.3-liuzhou-20170401.csv,476,WeiXiang Ren,40,广东省,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,477,jiang rong,41,福建,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,478,Zhe Yan,43,福建省,CHN,00:35:51,02:57:14,02:05:09,00:09:15,00:07:20,05:54:49
+ironman-70.3-liuzhou-20170401.csv,479,Romans Melderis,43,Latvia,LVA,00:22:12,02:16:44,01:33:46,00:04:08,00:03:00,04:19:50
+ironman-70.3-liuzhou-20170401.csv,480,Juergen Simon,39,Shanghai,DEU,00:34:56,03:32:39,02:54:24,00:10:42,00:07:49,07:20:30
+ironman-70.3-liuzhou-20170401.csv,481,jun ping zhang,39,广东,CHN,00:32:02,02:56:21,01:57:04,00:10:59,00:04:08,05:40:34
+ironman-70.3-liuzhou-20170401.csv,482,Feng Pan,42,guangdong,CHN,00:40:09,03:10:39,02:31:19,00:09:27,00:04:11,06:35:45
+ironman-70.3-liuzhou-20170401.csv,483,Mingwei Zhuang,40,福建省,CHN,00:41:58,03:18:28,03:16:08,00:11:56,00:06:05,07:34:35
+ironman-70.3-liuzhou-20170401.csv,484,Ka Wai Lam,39,---,HKG,00:33:35,02:53:47,02:05:36,00:08:59,00:06:54,05:48:51
+ironman-70.3-liuzhou-20170401.csv,485,Huiqiang Wu,40,上海,CHN,00:35:37,02:40:42,02:06:01,00:08:07,00:04:34,05:35:01
+ironman-70.3-liuzhou-20170401.csv,486,Qing Luo,44,广东省,CHN,00:39:24,03:57:19,02:03:10,00:13:46,00:10:12,07:03:51
+ironman-70.3-liuzhou-20170401.csv,487,Ismael Guerrero,42,Shanghai,ESP,00:30:26,02:56:20,02:11:41,00:08:58,00:05:27,05:52:52
+ironman-70.3-liuzhou-20170401.csv,488,Zhu Tan,43,Guangdong,CHN,00:37:58,02:48:24,02:23:01,00:09:25,00:05:26,06:04:14
+ironman-70.3-liuzhou-20170401.csv,489,Mark Blick,40,---,HKG,00:25:58,02:35:16,01:43:31,00:06:14,00:04:04,04:55:03
+ironman-70.3-liuzhou-20170401.csv,490,Fajin Hu,43,北京,CHN,00:35:13,03:02:52,02:29:28,00:14:37,00:06:55,06:29:05
+ironman-70.3-liuzhou-20170401.csv,491,Ariza Giammaria Douglas,44,Fuzhou,COL,00:33:49,02:47:20,02:02:50,00:09:47,00:08:01,05:41:47
+ironman-70.3-liuzhou-20170401.csv,492,Lianghua Zhou,40,北京,CHN,00:33:33,02:57:31,02:02:20,00:12:33,00:08:19,05:54:16
+ironman-70.3-liuzhou-20170401.csv,493,Jean Charles Jacquelin,42,Shanghai,FRA,00:31:38,02:52:39,01:57:00,00:06:50,00:04:33,05:32:40
+ironman-70.3-liuzhou-20170401.csv,494,Olivier Derbez,40,19B,FRA,00:27:15,02:26:10,01:34:08,00:04:27,00:03:20,04:35:20
+ironman-70.3-liuzhou-20170401.csv,496,Barry Lee,40,DXB,GBR,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,497,Bing Tang,43,广西,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,498,Xun Xing,42,Shanghai,CHN,00:35:24,03:05:39,02:17:57,00:09:19,00:05:47,06:14:06
+ironman-70.3-liuzhou-20170401.csv,499,Kai Zhang,44,贵州省,CHN,00:31:24,02:41:59,01:58:25,00:07:54,00:03:40,05:23:22
+ironman-70.3-liuzhou-20170401.csv,500,Zhen Liao,40,北京,CHN,00:37:01,03:15:59,02:18:11,00:10:17,00:11:52,06:33:20
+ironman-70.3-liuzhou-20170401.csv,501,Hayato Kawahara,39,Intl State,JPN,00:22:53,02:28:12,01:29:25,00:04:10,00:03:26,04:28:06
+ironman-70.3-liuzhou-20170401.csv,502,Bingxin Liang,43,广东,MAC,00:32:39,03:14:10,02:18:41,00:11:56,00:08:00,06:25:26
+ironman-70.3-liuzhou-20170401.csv,503,Zhao Hongwei,43,朝阳区,CHN,00:39:12,02:59:49,02:25:02,00:08:57,00:06:42,06:19:42
+ironman-70.3-liuzhou-20170401.csv,504,Chenchang Ting,40,---,TWN,00:31:14,02:30:37,01:44:37,00:05:07,00:03:25,04:55:00
+ironman-70.3-liuzhou-20170401.csv,505,Libo Dong,41,北京,CHN,00:38:48,02:57:59,02:07:04,00:07:55,00:06:34,05:58:20
+ironman-70.3-liuzhou-20170401.csv,506,Zhipeng Liu,41,北京,CHN,00:35:26,03:05:20,02:28:20,00:11:22,00:06:21,06:26:49
+ironman-70.3-liuzhou-20170401.csv,507,Jacek Rozek,36,---,POL,00:25:40,02:22:46,01:42:16,00:04:36,00:03:37,04:38:55
+ironman-70.3-liuzhou-20170401.csv,508,Tian Li,48,云南省,CHN,00:32:41,02:58:36,01:51:29,00:13:39,00:06:46,05:43:11
+ironman-70.3-liuzhou-20170401.csv,509,Zhenya Mei,44,Guangdong,CHN,00:34:09,03:07:20,02:11:57,00:09:01,00:06:08,06:08:35
+ironman-70.3-liuzhou-20170401.csv,510,Tom Kwan,47,广东,CHN,00:36:06,03:17:55,02:27:17,00:11:44,00:06:34,06:39:36
+ironman-70.3-liuzhou-20170401.csv,511,Weidong Qu,48,Beijing,CHN,00:28:44,02:54:55,02:10:34,00:09:01,00:07:58,05:51:12
+ironman-70.3-liuzhou-20170401.csv,512,Zhuochao Pang,47,北京,CHN,00:37:33,03:22:26,03:02:29,00:16:02,00:15:58,07:34:28
+ironman-70.3-liuzhou-20170401.csv,513,Wei Li,45,北京,CHN,00:43:56,03:07:35,01:56:02,00:10:29,00:06:00,06:04:02
+ironman-70.3-liuzhou-20170401.csv,514,Kazuhiro Ono,45,Intl State,JPN,00:24:51,02:37:42,01:41:45,00:09:16,00:04:43,04:58:17
+ironman-70.3-liuzhou-20170401.csv,516,Leonardo Mello,45,SP,BRA,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,517,Heng Hu,46,通州区,CHN,00:28:21,02:28:48,01:42:19,00:06:10,00:03:26,04:49:04
+ironman-70.3-liuzhou-20170401.csv,519,Hongtao Zhang,45,北京市,CHN,00:42:20,03:20:19,02:45:01,00:16:53,00:07:56,07:12:29
+ironman-70.3-liuzhou-20170401.csv,520,??Yuanhui Zhou,49,北京,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,521,Jianjun Xie,47,广东省,CHN,00:41:41,03:15:09,02:27:02,00:11:34,00:06:30,06:41:56
+ironman-70.3-liuzhou-20170401.csv,522,Jun Li,48,广东省,CHN,00:33:52,02:57:43,02:55:32,00:17:13,00:13:16,06:57:36
+ironman-70.3-liuzhou-20170401.csv,523,Xingpeng Song,46,广东省,CHN,00:37:39,03:04:48,01:55:28,00:13:24,00:06:54,05:58:13
+ironman-70.3-liuzhou-20170401.csv,524,Dewen Mei,47,北京,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,525,Selwyn Van Wyk,45,NSW,AUS,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,526,Changyou He,44,广东,CHN,00:33:41,03:06:20,02:18:02,00:12:01,00:03:31,06:13:35
+ironman-70.3-liuzhou-20170401.csv,527,Bo Chen,45,北京,CHN,00:41:04,03:00:05,01:49:38,00:08:47,00:05:31,05:45:05
+ironman-70.3-liuzhou-20170401.csv,528,Yu Pei,47,陕西,CHN,00:34:15,02:39:53,01:54:21,00:06:32,00:05:35,05:20:36
+ironman-70.3-liuzhou-20170401.csv,529,Sirieix Laurent,47,Shanghai,FRA,00:30:11,02:49:04,01:58:16,00:08:39,00:04:52,05:31:02
+ironman-70.3-liuzhou-20170401.csv,530,Tora Mira Francisco Javier,45,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,531,Hao Li,44,广东,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,532,Kazuo Akamine,45,fukuoka ken,JPN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,533,Ping Hou,46,云南,CHN,00:30:50,03:09:11,02:06:43,00:12:18,00:06:40,06:05:42
+ironman-70.3-liuzhou-20170401.csv,534,Chris Martin,44,---,DEU,00:28:25,02:27:40,01:36:14,00:05:49,00:03:20,04:41:28
+ironman-70.3-liuzhou-20170401.csv,535,Katsuya Yoshino,45,埼玉県,JPN,00:25:23,02:34:40,01:32:29,00:05:41,00:03:52,04:42:05
+ironman-70.3-liuzhou-20170401.csv,536,Floze David,46,Shanghai,FRA,00:28:43,02:51:45,02:03:26,00:07:40,00:04:36,05:36:10
+ironman-70.3-liuzhou-20170401.csv,537,wenyong Zhang,47,yunnan,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,538,Huamu Lin,46,福建,CHN,00:37:29,03:00:37,02:01:33,00:07:16,00:04:05,05:51:00
+ironman-70.3-liuzhou-20170401.csv,539,军 徐,45,北京,CHN,00:36:44,03:11:59,01:53:53,00:11:29,00:08:10,06:02:15
+ironman-70.3-liuzhou-20170401.csv,540,Alejandro Tripodoro,47,---,ARG,00:29:24,02:41:45,01:34:12,00:07:00,00:03:10,04:55:31
+ironman-70.3-liuzhou-20170401.csv,541,Sigifredo Quezada,47,Shanghai,MEX,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,542,Daulet Erzhigitov,46,South Kazakhstan,KAZ,00:28:22,02:52:42,01:56:28,00:07:24,00:05:56,05:30:52
+ironman-70.3-liuzhou-20170401.csv,543,纪勇 曾,45,海南省,CHN,00:38:00,02:50:51,01:55:08,00:07:52,00:04:37,05:36:28
+ironman-70.3-liuzhou-20170401.csv,544,Ruslan Arapov,46,Almaty,KAZ,00:30:18,02:50:06,02:36:18,00:10:03,00:13:41,06:20:26
+ironman-70.3-liuzhou-20170401.csv,545,Eyal Shimoni,48,China,ISR,00:26:44,02:52:05,02:16:04,00:07:26,00:04:57,05:47:16
+ironman-70.3-liuzhou-20170401.csv,546,Yong Pang,47,广州省广州市番禺区,CHN,00:38:36,03:17:12,02:18:00,00:12:36,00:07:10,06:33:34
+ironman-70.3-liuzhou-20170401.csv,547,Hong Huang,46,广东省,CHN,00:48:30,03:19:14,02:20:39,00:10:38,00:06:46,06:45:47
+ironman-70.3-liuzhou-20170401.csv,548,Xiao Jun Zhang,47,四川,CHN,00:39:51,03:24:25,02:06:17,00:15:34,00:07:55,06:34:02
+ironman-70.3-liuzhou-20170401.csv,549,Wensheng Jiang,49,sichuan,CHN,00:36:06,03:18:17,02:33:17,00:15:25,00:07:37,06:50:42
+ironman-70.3-liuzhou-20170401.csv,550,Kido Jun,45,福岡県,JPN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,552,Joseph Wong,45,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,553,Jianlin Li,49,广东,CHN,00:33:25,03:00:29,02:06:50,00:11:25,00:07:42,05:59:51
+ironman-70.3-liuzhou-20170401.csv,554,Xiyu Hu,53,湖北省,CHN,00:36:36,02:57:39,01:47:39,00:06:29,00:06:13,05:34:36
+ironman-70.3-liuzhou-20170401.csv,555,Paul Le Houillier,52,NC,USA,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,556,Jeremy Aniere,50,Beijing,AUS,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,557,Jian Zhou,49,四川,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,558,Yongheng Gu,53,Jiangsu Province,AND,00:31:42,03:03:57,02:05:07,00:05:54,00:04:56,05:51:36
+ironman-70.3-liuzhou-20170401.csv,559,Vladimir Alymov,50,---,RUS,00:29:28,02:40:38,01:44:09,00:07:40,00:03:34,05:05:29
+ironman-70.3-liuzhou-20170401.csv,560,Shih-Kang Hsu,51,江蘇省,TWN,00:33:51,02:48:56,02:17:25,00:08:46,00:04:37,05:53:35
+ironman-70.3-liuzhou-20170401.csv,561,Longcai Chen,52,山西省,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,562,Guo Zhen Deng,52,广东,CHN,00:40:15,03:03:56,02:17:26,00:15:45,00:06:43,06:24:05
+ironman-70.3-liuzhou-20170401.csv,563,Kwan Wah Yeung,52,广东省,CHN,00:34:13,02:06:47,05:43:59,00:15:08,---,DNF
+ironman-70.3-liuzhou-20170401.csv,564,Jinping Ruan,51,天津市,CHN,00:34:05,02:45:42,02:07:12,00:10:44,00:05:34,05:43:17
+ironman-70.3-liuzhou-20170401.csv,565,Wenjie Li,50,北京,CHN,00:40:08,03:16:40,02:09:01,00:06:23,00:04:47,06:16:59
+ironman-70.3-liuzhou-20170401.csv,566,Serik Yestay,49,kazakhstan,KAZ,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,567,Peter Ching Lung Kwan,51,Shanghai,GBR,00:48:19,03:22:34,02:43:59,00:08:35,00:05:35,07:09:02
+ironman-70.3-liuzhou-20170401.csv,568,Greg Terry,49,ID,USA,00:26:46,03:04:51,02:41:53,00:11:53,00:11:52,06:37:15
+ironman-70.3-liuzhou-20170401.csv,569,Wenbing Zhu,50,江苏,CHN,00:29:58,02:37:42,01:34:44,00:07:09,00:05:28,04:55:01
+ironman-70.3-liuzhou-20170401.csv,570,Junqiang Pang,53,广西壮族自治区,CHN,00:43:15,04:04:02,02:44:57,00:10:44,00:06:00,07:48:58
+ironman-70.3-liuzhou-20170401.csv,571,Kian Guan Lee,50,上海,MYS,00:40:16,03:01:32,02:15:36,00:16:26,00:06:22,06:20:12
+ironman-70.3-liuzhou-20170401.csv,572,Kazuteru Horiguchi,51,Hiroshima,JPN,00:27:06,02:29:54,01:59:57,00:07:11,00:05:48,05:09:56
+ironman-70.3-liuzhou-20170401.csv,573,Masashi Yuki,49,Aichi,JPN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,574,Hongbo Gao,51,重庆,CHN,00:26:13,02:59:46,02:06:45,00:06:24,00:04:14,05:43:22
+ironman-70.3-liuzhou-20170401.csv,575,Chi Wai Lee,58,---,HKG,00:38:28,02:47:49,02:07:28,00:08:58,00:04:41,05:47:24
+ironman-70.3-liuzhou-20170401.csv,576,Ritz Tokunaga,55,Kanagawa-ken,JPN,00:29:16,02:38:17,01:33:38,00:05:22,00:03:28,04:50:01
+ironman-70.3-liuzhou-20170401.csv,577,Ruhao Luo,54,广东省,CHN,00:35:10,03:10:11,02:35:14,00:11:58,00:11:52,06:44:25
+ironman-70.3-liuzhou-20170401.csv,578,Massimo Besozzi,59,Intl State,ITA,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,579,Yamada Yoshito,57,ISH,JPN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,580,Trevor Tully,55,---,IRL,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,581,John Blyther,57,"bali
+indonesia",GBR,00:26:56,02:48:21,01:51:19,00:08:13,00:05:56,05:20:45
+ironman-70.3-liuzhou-20170401.csv,582,Toru Takahashi,57,福岡県,JPN,00:36:36,03:16:58,02:19:28,00:16:29,00:11:52,06:41:23
+ironman-70.3-liuzhou-20170401.csv,583,Takehisa Suzuki,55,Tokyo,JPN,00:26:21,02:34:59,01:44:05,00:05:15,00:04:07,04:54:47
+ironman-70.3-liuzhou-20170401.csv,584,Fumifuto Umeda,59,FUKUOKA,JPN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,585,Mao He Tan,58,广东省,CHN,00:48:01,03:46:22,02:26:24,00:20:11,00:07:31,07:28:29
+ironman-70.3-liuzhou-20170401.csv,586,振业 王,54,海南省,CHN,00:32:44,03:22:37,02:31:10,00:10:49,00:06:28,06:43:48
+ironman-70.3-liuzhou-20170401.csv,587,Björn Lindberg,54,---,SWE,00:29:00,02:42:01,01:56:45,00:06:07,00:03:17,05:17:10
+ironman-70.3-liuzhou-20170401.csv,588,Alex Begg,54,CA,USA,00:22:01,02:18:41,01:40:49,00:05:15,00:03:53,04:30:39
+ironman-70.3-liuzhou-20170401.csv,589,Joon Oh Hwang,58,양천구,KOR,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,590,Chi Wai Wu,58,---,HKG,00:34:10,03:14:58,02:21:30,00:17:06,00:06:35,06:34:19
+ironman-70.3-liuzhou-20170401.csv,592,Thomas Greczmiel,55,---,DEU,00:27:36,02:34:24,02:11:49,00:06:33,00:03:52,05:24:14
+ironman-70.3-liuzhou-20170401.csv,593,Ping Xu,62,HeNan,CHN,00:32:31,02:54:55,02:02:52,00:06:18,00:04:09,05:40:45
+ironman-70.3-liuzhou-20170401.csv,594,Valerio Curridori,64,italy,ITA,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,595,Zhao Baohua,62,江苏,CHN,00:40:09,03:18:29,01:45:43,00:09:39,00:03:36,05:57:36
+ironman-70.3-liuzhou-20170401.csv,596,Guoxidong Guo,63,吉林省,CHN,00:42:27,03:37:47,02:30:48,00:27:41,00:08:39,07:27:22
+ironman-70.3-liuzhou-20170401.csv,597,Satosh Ishihara,66,Intl State,JPN,00:35:03,03:07:32,01:54:01,00:13:26,00:04:28,05:54:30
+ironman-70.3-liuzhou-20170401.csv,598,Xiangdong Wen,67,辽宁省,CHN,00:47:06,03:05:43,02:22:27,00:09:46,00:07:05,06:32:07
+ironman-70.3-liuzhou-20170401.csv,599,Gu Dawo,71,宁夏回族自治区,CHN,00:42:29,03:28:41,02:25:31,00:13:56,00:08:06,06:58:43
+ironman-70.3-liuzhou-20170401.csv,600,Jinduo Pei,70,辽宁,CHN,00:33:34,02:48:33,01:58:11,00:07:31,00:05:57,05:33:46
+ironman-70.3-liuzhou-20170401.csv,601,Tervmasa Akio,74,Tokyo,JPN,00:39:21,03:15:12,02:26:25,00:13:22,00:07:38,06:41:58
+ironman-70.3-liuzhou-20170401.csv,602,Xin Deng,23,四川,CHN,00:35:40,03:01:30,02:21:17,00:07:47,00:07:05,06:13:19
+ironman-70.3-liuzhou-20170401.csv,603,ZHIDUO LIU,29,广东,CHN,00:34:01,04:09:18,01:46:39,00:10:18,00:04:53,06:45:09
+ironman-70.3-liuzhou-20170401.csv,604,Bo Wang,31,福建,CHN,00:40:37,02:53:03,02:34:31,00:12:33,00:09:59,06:30:43
+ironman-70.3-liuzhou-20170401.csv,605,Hsieh Shen Yen Sam,32,---,TWN,00:20:20,02:16:58,01:28:54,00:03:33,00:03:15,04:13:00
+ironman-70.3-liuzhou-20170401.csv,606,Jing Miao,33,四川,CHN,00:35:41,03:23:41,02:25:32,00:14:06,00:08:07,06:47:07
+ironman-70.3-liuzhou-20170401.csv,608,Kodo Hiramatsu,36,Tokyo,JPN,00:21:39,02:47:31,01:26:39,00:03:30,00:04:30,04:43:49
+ironman-70.3-liuzhou-20170401.csv,610,Zihe Liu,40,山东省,CHN,00:35:37,02:45:37,02:04:33,00:05:26,00:03:07,05:34:20
+ironman-70.3-liuzhou-20170401.csv,612,Xingwu Xie,45,重庆市江北区,CHN,00:33:21,02:49:56,01:45:50,00:08:47,00:05:18,05:23:12
+ironman-70.3-liuzhou-20170401.csv,613,Cristian Duco,52,---,CHL,00:33:03,02:51:22,01:58:15,00:06:18,00:04:23,05:33:21
+ironman-70.3-liuzhou-20170401.csv,614,Shi Bo Liu,26,广东省,CHN,00:37:23,02:35:07,01:39:35,00:05:21,00:03:30,05:00:56
+ironman-70.3-liuzhou-20170401.csv,615,Ruilai Cui,54,北京,CHN,00:31:50,02:52:38,01:49:28,00:10:37,00:08:56,05:33:29
+ironman-70.3-liuzhou-20170401.csv,616,Yoshimi Imamura,57,SHIGA,JPN,00:35:34,02:52:22,01:41:25,00:08:47,00:06:15,05:24:23
+ironman-70.3-liuzhou-20170401.csv,617,Yaoping Wen,60,安徽省/合肥市,CHN,00:33:00,03:07:45,02:09:41,00:11:40,00:05:05,06:07:11
+ironman-70.3-liuzhou-20170401.csv,618,Esmaeil Shabani,44,FL,IRN,00:27:32,03:16:59,02:11:16,00:07:06,00:04:57,06:07:50
+ironman-70.3-liuzhou-20170401.csv,619,Haotian Wang,20,江苏,CHN,00:31:08,02:33:34,01:38:48,00:04:46,00:03:14,04:51:30
+ironman-70.3-liuzhou-20170401.csv,620,Dennis Chan,41,---,HKG,00:47:24,02:55:15,02:11:56,00:11:26,00:06:17,06:12:18
+ironman-70.3-liuzhou-20170401.csv,621,Edwin Wong,47,---,HKG,00:26:43,02:37:57,02:06:50,00:07:25,00:04:10,05:23:05
+ironman-70.3-liuzhou-20170401.csv,622,Xiao Long Luo,40,广东省,CHN,00:36:03,03:30:27,02:35:00,00:15:18,00:11:17,07:08:05
+ironman-70.3-liuzhou-20170401.csv,623,Wei Yin,32,广东省,CHN,00:33:56,03:14:28,01:55:31,00:09:24,00:07:28,06:00:47
+ironman-70.3-liuzhou-20170401.csv,624,Henry Thomas Wright,29,---,HKG,00:20:26,02:48:29,01:31:03,00:04:15,00:04:38,04:48:51
+ironman-70.3-liuzhou-20170401.csv,625,Jianhua Liang,40,广东省,CHN,00:36:30,03:19:53,02:06:17,00:12:39,00:05:23,06:20:42
+ironman-70.3-liuzhou-20170401.csv,626,Mathew Pears,31,---,GBR,00:20:57,02:19:07,01:33:09,00:04:02,00:02:54,04:20:09
+ironman-70.3-liuzhou-20170401.csv,627,Nan Liu,35,江苏省,CHN,00:35:57,02:51:51,02:02:39,00:10:28,00:04:06,05:45:01
+ironman-70.3-liuzhou-20170401.csv,628,Jindi Zhuo,29,广东省,CHN,00:32:51,02:49:18,01:32:10,00:05:36,00:03:18,05:03:13
+ironman-70.3-liuzhou-20170401.csv,629,Hongxuan Ji,44,北京市,CHN,00:36:10,03:03:11,02:29:23,00:13:37,00:06:36,06:28:57
+ironman-70.3-liuzhou-20170401.csv,630,Xiaogang Ni,29,东莞市莞城区步步高小区18栋,CHN,00:30:27,03:18:35,02:02:47,00:10:51,00:05:45,06:08:25
+ironman-70.3-liuzhou-20170401.csv,631,Kai Zhang,39,广东省,CHN,00:34:22,02:56:38,02:22:37,00:17:18,00:06:26,06:17:21
+ironman-70.3-liuzhou-20170401.csv,632,Jiancong Du,32,广东省,CHN,00:33:34,02:48:30,01:43:19,00:08:34,00:04:00,05:17:57
+ironman-70.3-liuzhou-20170401.csv,633,Maoqing Wang,42,广东省,CHN,00:35:22,03:04:14,02:06:34,00:11:43,00:06:25,06:04:18
+ironman-70.3-liuzhou-20170401.csv,634,Jiang Chang,43,山西,CHN,00:30:45,02:50:23,01:48:53,00:05:39,00:04:30,05:20:10
+ironman-70.3-liuzhou-20170401.csv,635,Zhiyu Li,42,GUANGXI,CHN,00:38:04,02:57:31,01:29:42,00:11:44,00:02:45,05:19:46
+ironman-70.3-liuzhou-20170401.csv,636,Jianlin Li,51,GUANGXI,CHN,00:32:11,03:02:49,02:31:03,00:08:05,00:06:23,06:20:31
+ironman-70.3-liuzhou-20170401.csv,637,Jintao Liao,43,GUANGXI,CHN,00:32:15,03:14:29,02:07:28,00:08:28,00:04:16,06:06:56
+ironman-70.3-liuzhou-20170401.csv,638,士书 覃,61,GUANGXI,CHN,00:32:10,03:09:48,02:33:51,00:09:00,00:04:39,06:29:28
+ironman-70.3-liuzhou-20170401.csv,639,Yong Li,41,GUANGXI,CHN,00:30:18,03:24:18,02:41:29,00:12:27,00:06:30,06:55:02
+ironman-70.3-liuzhou-20170401.csv,640,Wanguo Yan,50,GUANGXI,CHN,00:39:20,03:19:11,01:59:50,00:12:10,00:06:50,06:17:21
+ironman-70.3-liuzhou-20170401.csv,641,Lei Yang,35,北京市,CHN,00:35:42,03:42:37,---,00:11:00,---,DNF
+ironman-70.3-liuzhou-20170401.csv,642,Dao Rong Yan,---,---,CHN,00:29:13,02:45:40,01:24:15,00:05:44,00:04:33,DNF
+ironman-70.3-liuzhou-20170401.csv,643,Zhang Hu,---,---,USA,00:29:51,02:37:02,02:04:25,00:05:26,00:06:38,05:23:22
+ironman-70.3-liuzhou-20170401.csv,671,Wei Huang,22,重庆,CHN,00:33:39,03:09:44,02:13:51,00:06:48,00:04:08,06:08:10
+ironman-70.3-liuzhou-20170401.csv,672,WANQING YANG,23,上海,CHN,00:41:22,03:12:30,02:32:40,00:08:10,00:06:57,06:41:39
+ironman-70.3-liuzhou-20170401.csv,673,Lu Zhang,23,天津,CHN,00:43:12,03:22:02,03:10:40,00:14:47,00:05:39,07:36:20
+ironman-70.3-liuzhou-20170401.csv,674,Biyun Yang,28,北京市,CHN,00:44:22,03:21:51,02:47:53,00:13:21,00:10:17,07:17:44
+ironman-70.3-liuzhou-20170401.csv,675,Ling Li,28,广东,CHN,00:40:12,03:10:02,02:08:14,00:13:00,00:07:08,06:18:36
+ironman-70.3-liuzhou-20170401.csv,676,Zhao Jinwen,26,广西,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,677,Higashi Natsumi,28,長崎県,JPN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,678,Participant Invited,25,浙江省,CHN,00:29:32,02:38:52,01:55:37,00:05:17,00:06:12,05:15:30
+ironman-70.3-liuzhou-20170401.csv,679,Lei Pei,27,北京,CHN,00:35:29,03:03:48,02:36:17,00:08:49,00:08:00,06:32:23
+ironman-70.3-liuzhou-20170401.csv,680,Nina Lin,28,福建省,CHN,00:25:28,02:54:21,01:39:18,00:08:58,00:04:58,05:13:03
+ironman-70.3-liuzhou-20170401.csv,681,Marta Kucmierz,32,上海,POL,00:27:16,03:07:20,02:00:46,00:06:05,00:04:45,05:46:12
+ironman-70.3-liuzhou-20170401.csv,682,Jia Li,33,Shanghai,CHN,00:41:47,03:18:24,02:36:49,00:08:29,00:07:14,06:52:43
+ironman-70.3-liuzhou-20170401.csv,683,Deborah Bomstein,30,DXB,FRA,00:34:48,02:57:24,02:20:00,00:08:09,00:05:59,06:06:20
+ironman-70.3-liuzhou-20170401.csv,684,Jing Zhang,32,北京,CHN,00:40:21,03:30:56,02:45:05,00:08:38,00:06:43,07:11:43
+ironman-70.3-liuzhou-20170401.csv,685,Yunli Xu,31,广东,CHN,00:37:28,03:03:48,02:22:11,00:14:58,00:09:32,06:27:57
+ironman-70.3-liuzhou-20170401.csv,686,Xiaoyu Chen,31,广西壮族自治区,CHN,00:36:33,03:02:38,02:16:57,00:08:11,00:05:28,06:09:47
+ironman-70.3-liuzhou-20170401.csv,687,Feifei Yang,30,广东,CHN,00:42:05,03:10:34,02:05:03,00:10:58,00:04:40,06:13:20
+ironman-70.3-liuzhou-20170401.csv,688,Ran Zhang,29,北京,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,689,Li Ji,35,广东,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,690,Feng Gu,36,广西,CHN,00:35:46,03:43:04,02:24:25,00:18:06,00:05:24,07:06:45
+ironman-70.3-liuzhou-20170401.csv,692,Nagao Satomi,37,東京,JPN,00:28:58,02:51:51,01:30:47,00:08:06,00:05:16,05:04:58
+ironman-70.3-liuzhou-20170401.csv,693,Angel Ng,34,---,HKG,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,694,cheng ping,34,普陀区,CHN,00:36:33,03:29:32,02:25:36,00:08:07,00:06:00,06:45:48
+ironman-70.3-liuzhou-20170401.csv,695,Jia Liu,34,Beijing,CHN,00:39:43,03:07:59,02:44:20,00:10:16,00:08:28,06:50:46
+ironman-70.3-liuzhou-20170401.csv,696,Jimei Xue,34,广东,CHN,00:50:04,03:32:19,02:35:53,00:15:47,00:06:23,07:20:26
+ironman-70.3-liuzhou-20170401.csv,697,Qinfang He,37,广东省,CHN,00:38:36,03:06:43,02:09:01,00:16:36,00:05:38,06:16:34
+ironman-70.3-liuzhou-20170401.csv,699,Miao Yi Li,42,广东,CHN,00:34:07,03:36:25,02:28:36,00:14:10,00:10:32,07:03:50
+ironman-70.3-liuzhou-20170401.csv,700,Luo Pingping,43,广西壮族自治区,CHN,00:29:56,03:11:39,02:22:11,00:09:04,00:06:40,06:19:30
+ironman-70.3-liuzhou-20170401.csv,701,Yang Hui,39,湖南,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,702,Maria Teresa Angelin Aranalde Miguel,44,GUANXI,MEX,00:30:57,02:59:02,02:02:21,00:08:55,00:03:29,05:44:44
+ironman-70.3-liuzhou-20170401.csv,703,Flo Chretien,43,NY,USA,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,704,Marie Nguy,41,shanghai,FRA,00:40:04,03:26:17,02:20:10,00:09:40,00:07:06,06:43:17
+ironman-70.3-liuzhou-20170401.csv,705,W Ei Xia Y Ang,40,河南省,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,706,Rie Onodera,43,東京都,JPN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,707,Sidonie Kade,39,Beijing,DEU,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,708,Yanhong Liang,42,广东省,CHN,00:53:43,03:40:52,02:30:03,00:11:16,00:07:26,07:23:20
+ironman-70.3-liuzhou-20170401.csv,709,Zhihong Wang,44,湖南省,CHN,00:32:33,02:55:00,02:06:05,00:06:38,00:03:45,05:44:01
+ironman-70.3-liuzhou-20170401.csv,710,丰春 李,45,广东省,CHN,00:33:01,03:02:03,02:04:23,00:08:11,00:03:53,05:51:31
+ironman-70.3-liuzhou-20170401.csv,711,Juliana Davidson,49,NSW,AUS,00:31:43,02:49:05,01:49:55,00:06:35,00:05:04,05:22:22
+ironman-70.3-liuzhou-20170401.csv,712,Rosemary Chen,47,Guangdong,CHN,00:38:21,03:19:00,03:10:38,00:10:29,00:10:02,07:28:30
+ironman-70.3-liuzhou-20170401.csv,713,Liping Yin,45,Guangdong,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,714,Chiu Lan Chang,44,---,TWN,00:34:21,02:42:25,01:55:27,00:06:40,00:04:13,05:23:06
+ironman-70.3-liuzhou-20170401.csv,715,Tove Lieberz,51,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,716,Sian Welch,50,CA,USA,00:24:09,02:28:01,01:53:50,00:04:55,00:03:29,04:54:24
+ironman-70.3-liuzhou-20170401.csv,717,Yuhua Tao,53,山东,CHN,00:32:52,03:01:55,02:01:38,00:05:06,00:03:42,05:45:13
+ironman-70.3-liuzhou-20170401.csv,718,Narelle Talbot,53,NSW,AUS,00:23:59,02:51:18,01:44:18,00:06:12,00:03:41,05:09:28
+ironman-70.3-liuzhou-20170401.csv,719,Mina Nussboum,54,Israel,ISR,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,720,Lihua Yang,57,辽宁省,CHN,00:35:14,03:06:22,02:36:15,00:16:52,00:05:32,06:40:15
+ironman-70.3-liuzhou-20170401.csv,721,Janet Wendle,55,CA,USA,00:28:53,02:58:40,02:12:08,00:08:04,00:05:58,05:53:43
+ironman-70.3-liuzhou-20170401.csv,722,Yamaguchi Yumiko,61,GIFU,JPN,00:32:00,02:58:33,02:11:20,00:06:22,00:05:20,05:53:35
+ironman-70.3-liuzhou-20170401.csv,723,Laura Sophiea,61,GA,USA,00:27:18,02:37:27,02:05:49,00:07:48,00:04:26,05:22:48
+ironman-70.3-liuzhou-20170401.csv,724,昌子 宮内,61,東京都,JPN,00:33:15,03:02:29,02:24:05,00:10:30,00:07:35,06:17:54
+ironman-70.3-liuzhou-20170401.csv,725,Eleanor Dally,59,TKI,AUS,00:31:58,02:55:56,02:08:28,00:06:01,00:04:28,05:46:51
+ironman-70.3-liuzhou-20170401.csv,726,Christine Walsh,59,AB,CAN,00:31:13,03:04:06,02:24:47,00:07:22,00:04:35,06:12:03
+ironman-70.3-liuzhou-20170401.csv,728,Ippommatsu Shizuka,23,東京都,JPN,00:22:33,02:26:19,01:34:22,00:05:13,00:03:29,04:31:56
+ironman-70.3-liuzhou-20170401.csv,729,Ophelie Saussus,19,---,BEL,00:24:05,02:51:24,01:59:19,00:04:43,00:02:59,05:22:30
+ironman-70.3-liuzhou-20170401.csv,730,Rui Zhang,23,广东省,CHN,00:24:29,03:15:30,02:05:00,00:10:11,00:06:31,06:01:41
+ironman-70.3-liuzhou-20170401.csv,731,Janette Brady,49,VIC,AUS,00:26:41,02:50:32,01:56:32,00:05:15,00:03:22,05:22:22
+ironman-70.3-liuzhou-20170401.csv,732,Karpati Andrea,46,---,HUN,00:36:20,03:06:43,02:43:41,00:09:10,00:05:36,06:41:30
+ironman-70.3-liuzhou-20170401.csv,733,Wai Fun Liu,46,---,HKG,00:32:05,02:56:25,02:42:32,00:08:47,00:06:28,06:26:17
+ironman-70.3-liuzhou-20170401.csv,734,Hong Yan Su,29,湖北省,CHN,00:36:54,03:39:32,02:30:34,00:10:58,00:06:15,07:04:13
+ironman-70.3-liuzhou-20170401.csv,735,Kate Rutherford,44,---,HKG,00:22:24,02:28:15,01:29:35,00:03:40,00:02:22,04:26:16
+ironman-70.3-liuzhou-20170401.csv,736,Fan Bai,34,北京,CHN,---,---,---,---,---,DNS
+ironman-70.3-liuzhou-20170401.csv,737,Ying Xiao,46,云南省,CHN,00:36:00,03:38:42,02:19:40,00:12:07,00:05:27,06:51:56
+ironman-70.3-liuzhou-20170401.csv,738,Dehui Tan,51,重庆,CHN,00:35:14,03:25:24,01:56:09,00:08:36,00:07:11,06:12:34
+ironman-70.3-liuzhou-20170401.csv,739,Qingfei Zeng,58,GUANGXI,CHN,00:45:18,04:10:33,02:11:46,00:30:47,00:06:47,07:45:11
+ironman-70.3-liuzhou-20170401.csv,740,Jie Zhang,---,---,---,00:23:20,02:56:09,02:03:32,00:11:07,00:06:46,05:40:54

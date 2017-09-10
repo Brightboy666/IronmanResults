@@ -1,0 +1,271 @@
+#File=ironman-france-20120624.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-france-20120624.csv,1,Frederik Van Lierde,33,---,BEL,00:47:22,04:35:42,02:53:39,00:02:35,00:02:33,08:21:51
+ironman-france-20120624.csv,2,François Chabaud,40,---,FRA,00:48:53,04:48:21,03:02:02,00:03:10,00:02:57,08:45:23
+ironman-france-20120624.csv,4,Axel Zeebroek,33,---,BEL,00:47:24,04:56:43,03:06:52,00:02:40,00:03:04,08:56:43
+ironman-france-20120624.csv,5,Sergio Marques,31,Lisboa,PRT,00:55:26,05:02:02,02:45:39,00:03:10,00:02:38,08:48:55
+ironman-france-20120624.csv,6,Trevor Delsaut,27,---,FRA,00:55:29,05:06:51,02:54:45,00:03:04,00:02:50,09:02:59
+ironman-france-20120624.csv,9,Bruno Clerbout,35,---,BEL,00:51:34,05:01:10,02:48:16,00:02:57,00:02:57,08:46:54
+ironman-france-20120624.csv,10,Nicolas Fernandez,28,Intl State,FRA,00:51:38,05:01:39,---,00:02:38,00:03:16,DNF
+ironman-france-20120624.csv,11,Jose Jeuland,30,Intl State,FRA,00:50:35,05:02:23,02:54:30,00:02:46,00:03:38,08:53:52
+ironman-france-20120624.csv,13,Stefan Riesen,38,---,CHE,00:59:12,04:48:21,---,00:03:26,00:03:02,DNF
+ironman-france-20120624.csv,14,Anthony Pannier,28,---,FRA,00:47:22,04:50:06,03:35:43,00:02:41,00:03:17,09:19:09
+ironman-france-20120624.csv,15,Pierre Dorez,31,---,FRA,00:52:31,04:52:05,03:55:32,00:03:04,00:02:57,09:46:09
+ironman-france-20120624.csv,16,Christophe Hamard,38,---,FRA,00:55:27,05:39:56,---,00:03:42,---,DNF
+ironman-france-20120624.csv,17,Cedric Lassonde,35,---,FRA,---,---,---,---,---,DNS
+ironman-france-20120624.csv,18,Ludovic Le Guellec,30,---,FRA,00:59:41,05:25:09,03:34:12,00:03:25,00:03:01,10:05:28
+ironman-france-20120624.csv,20,Jonas Djurback,35,---,SWE,00:50:30,05:02:36,03:10:39,00:02:50,00:02:53,09:09:28
+ironman-france-20120624.csv,21,Rafael Gomes,---,---,PRT,00:55:25,05:22:48,03:15:08,00:03:15,00:03:14,09:39:50
+ironman-france-20120624.csv,22,Ivan Kharin,18,Russia,RUS,---,---,---,---,---,DNS
+ironman-france-20120624.csv,23,Sebastian Pedraza,39,Intl State,ITA,---,---,---,---,---,DNS
+ironman-france-20120624.csv,24,Ulrik Schaarup,30,---,DNK,00:59:48,05:02:58,04:54:07,00:03:52,00:02:51,11:03:36
+ironman-france-20120624.csv,25,Mike Schifferle,38,---,CHE,01:00:11,04:57:22,02:58:22,00:03:02,00:08:11,09:07:08
+ironman-france-20120624.csv,26,Till Schramm,27,---,DEU,00:57:21,---,---,00:02:58,---,DNF
+ironman-france-20120624.csv,27,Zoltan Senczyszyn,27,DE,DEU,01:12:55,---,---,00:03:57,---,DNF
+ironman-france-20120624.csv,28,Marcel Bischof,27,DE,DEU,00:57:16,04:59:23,03:12:07,00:03:15,00:02:55,09:14:56
+ironman-france-20120624.csv,29,Paul Amey,38,---,GBR,00:48:46,04:55:50,02:52:15,00:03:12,00:02:45,08:42:48
+ironman-france-20120624.csv,31,Tine Deckers,33,---,BEL,00:57:18,05:10:03,03:02:31,00:03:09,00:03:04,09:16:05
+ironman-france-20120624.csv,32,Martina Dogana,33,Intl State,ITA,00:59:42,05:38:54,03:10:33,00:03:11,00:02:49,09:55:09
+ironman-france-20120624.csv,33,Gina Crawford,31,Canterbury,NZL,00:52:10,05:20:04,03:07:14,00:03:22,00:03:35,09:26:25
+ironman-france-20120624.csv,34,Tamara Kozulina,36,Intl State,UKR,01:00:33,05:30:15,03:09:51,00:03:39,00:03:16,09:47:34
+ironman-france-20120624.csv,35,Kristin Moeller,28,---,DEU,01:02:47,05:27:58,03:00:29,00:03:30,00:02:23,09:37:07
+ironman-france-20120624.csv,36,Alexandra Louison,29,---,FRA,00:59:14,05:29:33,---,00:03:30,00:03:00,DNF
+ironman-france-20120624.csv,37,Beth Gerdes,32,CA,USA,00:59:48,05:44:05,03:08:32,00:03:09,00:02:52,09:58:26
+ironman-france-20120624.csv,38,Anne Basso,28,NC,FRA,00:55:18,05:39:06,03:48:16,00:03:27,00:03:05,10:29:12
+ironman-france-20120624.csv,39,Suzanne Blackborrow,36,VIC,AUS,01:01:02,05:51:12,---,00:03:43,00:05:12,DNF
+ironman-france-20120624.csv,51,Ruth Dooley,---,---,GBR,01:11:46,07:50:19,05:43:34,00:07:22,00:10:39,15:03:40
+ironman-france-20120624.csv,52,Vanessa Pereira,23,Intl State,PRT,01:02:49,05:47:34,03:40:59,00:04:21,00:04:30,10:40:13
+ironman-france-20120624.csv,53,Cristina Prat Dot,23,---,ESP,01:10:28,07:20:38,04:59:17,00:05:42,00:04:03,13:40:08
+ironman-france-20120624.csv,54,Helene Boeck,---,---,DNK,---,---,---,---,---,DNS
+ironman-france-20120624.csv,55,Katherine Brougham,28,---,GBR,01:12:41,06:22:38,03:29:20,00:05:48,00:04:09,11:14:36
+ironman-france-20120624.csv,56,Lindsey Cole,29,---,GBR,01:09:10,07:45:19,06:01:38,00:07:26,00:11:22,15:14:55
+ironman-france-20120624.csv,57,Oihana Garcia Labin,29,---,ESP,01:20:53,07:11:05,04:16:52,00:15:55,00:12:00,13:16:45
+ironman-france-20120624.csv,58,Amy Hibbert,28,VIC,GBR,01:10:07,06:20:43,03:58:42,00:06:36,00:05:47,11:41:55
+ironman-france-20120624.csv,59,Karen Kirschberg,27,---,DNK,01:34:48,07:37:42,04:30:35,00:06:30,00:07:25,13:57:00
+ironman-france-20120624.csv,60,Sarah Mølstad Knudsen,---,---,NOR,01:22:45,06:37:02,03:59:22,00:09:58,00:06:59,12:16:06
+ironman-france-20120624.csv,61,Mandt Mandt,27,DE,DEU,---,---,---,---,---,DNS
+ironman-france-20120624.csv,62,Kelly Nagy,27,AUK,USA,01:32:38,07:35:32,04:48:44,00:07:30,00:10:08,14:14:32
+ironman-france-20120624.csv,63,Anne Marie O'Toole,27,---,IRL,01:25:48,07:13:41,05:10:13,00:09:24,00:07:49,14:06:55
+ironman-france-20120624.csv,64,Annabelle Pirotte,27,---,BEL,00:58:01,05:50:40,04:50:35,00:03:45,00:05:15,11:48:16
+ironman-france-20120624.csv,65,Charlotte Stassin,29,BE,BEL,01:11:18,06:53:33,06:37:00,00:05:23,00:07:30,14:54:44
+ironman-france-20120624.csv,66,Audrey Syren,28,---,FRA,01:15:49,06:30:02,04:41:35,00:06:50,00:10:52,12:45:08
+ironman-france-20120624.csv,67,Claire Wells,29,---,GBR,01:18:04,06:45:01,05:34:34,00:09:11,00:11:02,13:57:52
+ironman-france-20120624.csv,68,Mette Sommer Fritze Andersen,---,---,DNK,01:26:46,07:26:12,03:59:45,00:10:28,00:15:14,13:18:25
+ironman-france-20120624.csv,69,Susannah Black,34,---,GBR,---,---,---,---,---,DNS
+ironman-france-20120624.csv,70,Katya Black,31,CA,USA,01:49:56,08:19:36,06:07:09,00:09:31,00:11:10,16:37:22
+ironman-france-20120624.csv,71,Clare Blackwell,---,---,USA,01:01:37,---,---,00:10:28,---,DNF
+ironman-france-20120624.csv,72,Gemma Bond,---,---,GBR,01:36:44,07:15:53,05:15:43,00:08:52,00:07:30,14:24:42
+ironman-france-20120624.csv,73,Andria Bouskos,30,CA,USA,01:22:20,07:06:56,04:48:19,00:07:48,00:07:19,13:32:42
+ironman-france-20120624.csv,74,Mylene Chalvin,---,---,FRA,01:14:55,06:23:29,04:04:54,00:07:46,00:06:20,11:57:24
+ironman-france-20120624.csv,75,Alison Criscitiello,31,MA,USA,01:27:22,08:31:16,05:09:18,00:10:35,00:08:26,15:26:57
+ironman-france-20120624.csv,76,Rachel Criscitiello,31,CA,USA,01:38:54,---,---,00:11:20,---,DNF
+ironman-france-20120624.csv,77,Christy Curtis,---,---,USA,00:58:28,07:40:40,04:59:42,00:08:24,00:07:40,13:54:54
+ironman-france-20120624.csv,78,Pauline Damiens,32,---,FRA,01:17:30,05:38:36,03:34:08,00:05:36,00:03:51,10:39:41
+ironman-france-20120624.csv,79,Peggy Dausson,31,---,FRA,01:43:01,08:05:17,---,00:09:20,00:08:19,DNF
+ironman-france-20120624.csv,80,Rebecca Fondermann,33,---,DEU,01:11:49,05:52:20,04:03:50,00:06:42,00:04:29,11:19:10
+ironman-france-20120624.csv,81,Rocio Gras Nieto,30,ES,ESP,01:18:14,06:19:10,04:07:24,00:06:55,00:04:57,11:56:40
+ironman-france-20120624.csv,82,Anne Halbauer,33,---,DEU,01:10:16,06:01:58,03:40:34,00:05:47,00:04:27,11:03:02
+ironman-france-20120624.csv,83,Emily Hardy,29,CA,USA,01:00:56,06:53:27,04:58:28,00:07:38,00:10:17,13:10:46
+ironman-france-20120624.csv,84,Corina Hengartner,34,Other,CHE,01:01:31,05:30:42,03:48:06,00:05:09,00:03:40,10:29:08
+ironman-france-20120624.csv,85,Jenni Kirk,33,CA,USA,01:18:52,07:34:38,04:45:44,00:08:05,00:09:46,13:57:05
+ironman-france-20120624.csv,86,Laura Lábodi,---,---,HUN,01:02:20,07:15:11,03:59:04,00:06:41,00:07:04,12:30:20
+ironman-france-20120624.csv,87,Julie Mcgee,31,CA,USA,01:22:19,07:45:07,05:10:17,00:12:41,00:09:19,14:39:43
+ironman-france-20120624.csv,88,Anouk Molliex,33,Warwickshire,FRA,01:09:42,06:26:43,04:26:52,00:07:17,00:04:30,12:15:04
+ironman-france-20120624.csv,89,Lyne Mouton,33,---,BEL,01:27:26,08:00:56,05:32:41,00:07:26,00:20:28,15:28:57
+ironman-france-20120624.csv,90,Nichola Pike,32,---,GBR,01:43:59,08:44:58,---,00:15:16,00:17:03,DNF
+ironman-france-20120624.csv,92,Annette Richter,33,DC,USA,01:00:53,07:43:18,---,00:06:58,---,DNF
+ironman-france-20120624.csv,93,Kirsty Robertson,---,---,AUS,01:26:58,08:08:34,05:25:09,00:07:11,00:13:07,15:20:59
+ironman-france-20120624.csv,94,Elisabeth Rondeau,---,---,FRA,01:20:57,07:01:59,05:31:16,00:12:56,00:10:52,14:18:00
+ironman-france-20120624.csv,95,Liz Ronson,33,---,AUS,---,---,---,---,---,DNS
+ironman-france-20120624.csv,96,Holley Sweeney,29,AL,USA,01:20:17,07:08:39,04:17:12,00:09:33,00:11:19,13:07:00
+ironman-france-20120624.csv,97,Rebekka Stübs,29,---,DEU,01:05:38,05:45:03,03:33:58,00:04:20,00:04:20,10:33:19
+ironman-france-20120624.csv,98,Maaike Van Vliet,30,NL,NLD,01:16:50,06:18:54,04:46:41,00:08:45,00:04:53,12:36:03
+ironman-france-20120624.csv,99,Andrea Waters,33,CA,USA,01:12:46,07:55:59,05:04:33,00:13:40,00:07:10,14:34:08
+ironman-france-20120624.csv,100,Helle Wehl,30,---,DNK,01:34:12,07:03:48,03:38:07,00:07:12,00:05:58,12:29:17
+ironman-france-20120624.csv,101,Liesbeth Werbrouck,---,---,BEL,01:17:59,06:32:28,04:35:09,00:08:06,00:07:56,12:41:38
+ironman-france-20120624.csv,102,Kimberly Yessian,33,IL,USA,01:05:23,07:18:20,05:59:31,00:06:27,00:06:55,14:36:36
+ironman-france-20120624.csv,103,Lucia Blanco Arriola,35,---,ESP,01:13:01,06:12:37,04:21:44,00:06:31,00:07:32,12:01:25
+ironman-france-20120624.csv,104,Abigail Bourgon,39,CA,USA,01:31:45,07:18:17,05:03:58,00:06:57,00:07:13,14:08:10
+ironman-france-20120624.csv,105,Alexandra Burger,37,---,CHE,01:17:06,05:51:49,03:29:42,00:05:09,00:03:08,10:46:54
+ironman-france-20120624.csv,106,Melanie Cayatte,37,---,FRA,01:28:11,07:49:59,05:26:49,00:07:47,00:07:33,15:00:19
+ironman-france-20120624.csv,107,Henni Christensen,37,DK,DNK,01:29:35,06:45:06,04:50:50,00:10:23,00:10:13,13:26:07
+ironman-france-20120624.csv,108,Mette Deichmann,39,---,DNK,01:31:45,06:33:40,04:11:33,00:07:55,00:06:48,12:31:41
+ironman-france-20120624.csv,109,Ludivine Delrieu,36,---,FRA,00:59:19,06:02:32,03:50:57,00:04:45,00:03:45,11:01:18
+ironman-france-20120624.csv,110,Nicola Dennes,38,Hampshire,GBR,01:38:12,---,---,00:10:52,---,DNF
+ironman-france-20120624.csv,111,Meredith Dolhare,38,NC,USA,---,---,---,---,---,DNS
+ironman-france-20120624.csv,112,Corinne Donnart-Colognese,---,---,FRA,01:41:40,07:07:01,04:55:45,00:06:01,00:06:36,13:57:03
+ironman-france-20120624.csv,113,Clare Duffield,---,---,IRL,01:22:26,07:04:19,03:52:59,00:10:13,00:08:02,12:37:59
+ironman-france-20120624.csv,114,Sarah Egan,37,---,AUS,01:24:57,07:45:26,04:05:14,00:06:19,00:05:55,13:27:51
+ironman-france-20120624.csv,115,Camilla Franks,38,---,SWE,01:38:34,07:08:01,04:50:48,00:09:40,00:10:54,13:57:57
+ironman-france-20120624.csv,116,Karen Giacomelli,---,---,FRA,01:14:12,06:11:26,05:02:53,00:03:39,00:08:16,12:40:26
+ironman-france-20120624.csv,117,Mette Groth,37,---,DNK,01:22:39,06:35:47,04:35:24,00:09:01,00:08:02,12:50:53
+ironman-france-20120624.csv,118,Alison Hamlett,---,---,GBR,01:19:01,07:42:10,04:13:33,00:09:23,00:08:07,13:32:14
+ironman-france-20120624.csv,119,Heini Kristiina Jaako-Blunder,37,---,FIN,01:06:08,06:04:48,04:15:55,00:04:51,00:03:41,11:35:23
+ironman-france-20120624.csv,120,Georgeina Kean,34,---,GBR,01:14:36,07:08:11,04:29:21,00:10:51,00:08:13,13:11:12
+ironman-france-20120624.csv,121,Nichola Swann,39,Antrim,GBR,01:32:02,07:42:34,04:14:23,00:11:53,00:11:49,13:52:41
+ironman-france-20120624.csv,122,Estelle-Marie Kieffer,36,Other,FRA,00:56:52,05:43:26,03:48:24,00:03:32,00:04:01,10:36:15
+ironman-france-20120624.csv,123,Sandra Le Mercier Czyzyszyn,---,---,FRA,01:02:51,06:07:11,03:58:45,00:05:15,00:05:13,11:19:15
+ironman-france-20120624.csv,124,Cécile Lennoz Gratin,38,---,FRA,01:20:39,06:02:54,03:49:35,00:05:29,00:04:27,11:23:04
+ironman-france-20120624.csv,125,Estelle Leroi,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20120624.csv,126,Stephanie Lhomme,38,---,FRA,01:18:22,06:27:28,04:29:07,00:06:38,00:06:43,12:28:18
+ironman-france-20120624.csv,127,Stephanie Ollivier,38,---,FRA,01:35:17,07:14:20,04:50:42,00:08:14,00:08:55,13:57:28
+ironman-france-20120624.csv,128,Nathalie Peillex,38,FR,FRA,01:01:22,05:37:33,03:51:24,00:05:19,00:03:43,10:39:21
+ironman-france-20120624.csv,129,Josephine Perry,36,---,GBR,01:17:16,06:19:31,05:17:23,00:06:53,00:06:46,13:07:49
+ironman-france-20120624.csv,130,Edith Reboullet,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20120624.csv,131,Vanessa Reid,37,---,GBR,01:46:14,08:38:00,---,00:19:59,00:17:02,DNF
+ironman-france-20120624.csv,132,Sonia Renaud,39,QC,CAN,01:51:54,---,---,00:16:45,---,DNF
+ironman-france-20120624.csv,133,Verene Roulin,36,CH,CHE,01:14:13,05:50:02,03:36:42,00:08:27,00:05:42,10:55:06
+ironman-france-20120624.csv,134,Caty Scott,36,NSW,AUS,---,---,---,---,---,DNS
+ironman-france-20120624.csv,135,Heidi Siddle,---,---,GBR,01:25:41,07:58:33,04:33:01,00:15:56,00:11:24,14:24:35
+ironman-france-20120624.csv,136,Yuka Suto,34,Kanagawa,JPN,01:26:00,08:33:21,05:33:58,00:11:29,00:06:02,15:50:50
+ironman-france-20120624.csv,137,Soazig Taillardat,38,---,FRA,01:20:48,06:41:28,04:27:11,00:07:40,00:08:38,12:45:45
+ironman-france-20120624.csv,138,Nathalie Trenel,---,---,FRA,00:59:21,08:03:49,05:15:13,00:07:17,00:06:21,14:32:01
+ironman-france-20120624.csv,139,Lauren Vigliotti,---,---,USA,01:34:38,08:58:52,04:32:54,00:13:27,00:08:26,15:28:17
+ironman-france-20120624.csv,140,Jette Amstrup,-3,---,DNK,01:10:07,06:18:37,04:45:55,00:08:14,00:12:00,12:34:53
+ironman-france-20120624.csv,141,Marion Birot,43,---,FRA,01:27:40,06:21:00,05:26:37,00:05:55,00:07:41,13:28:53
+ironman-france-20120624.csv,142,Lucy Carr,44,---,USA,01:24:49,06:12:30,03:47:54,00:05:31,00:04:27,11:35:11
+ironman-france-20120624.csv,143,Angela Coia Bell,---,---,GBR,01:05:43,06:27:13,04:15:04,00:06:13,00:05:54,12:00:07
+ironman-france-20120624.csv,144,Ilka Cordeiro,42,SERGIPE,BRA,01:09:52,07:23:26,04:20:53,00:09:13,00:08:57,13:12:21
+ironman-france-20120624.csv,145,Annette Corydon,41,DK,DNK,01:13:57,05:39:58,03:39:49,00:05:42,00:05:21,10:44:47
+ironman-france-20120624.csv,146,Laura Cove,44,NC,USA,01:29:14,07:31:33,05:07:11,00:11:01,00:11:29,14:30:28
+ironman-france-20120624.csv,147,Cara Louise Cunniff,40,---,GBR,01:21:03,08:25:16,05:10:53,00:11:24,00:08:04,15:16:40
+ironman-france-20120624.csv,148,Tracey Donnelly,---,---,GBR,01:31:07,07:24:13,06:14:23,00:08:35,00:08:48,15:27:06
+ironman-france-20120624.csv,149,Deborah Feltwell,---,---,GBR,01:34:22,07:36:55,05:14:34,00:10:31,00:08:53,14:45:15
+ironman-france-20120624.csv,150,Mel Floryszczak,---,---,DEU,01:10:40,06:34:58,---,00:05:33,00:15:02,DNF
+ironman-france-20120624.csv,151,Filomena Gomes,42,Setubal,PRT,01:29:38,07:04:01,04:18:18,00:08:05,00:07:56,13:07:58
+ironman-france-20120624.csv,152,Karen Heagney,---,---,AUS,01:03:28,06:57:00,04:35:50,00:07:16,00:08:48,12:52:22
+ironman-france-20120624.csv,153,Donna Hill,---,---,GBR,01:30:15,07:19:15,06:27:04,00:12:00,00:14:42,15:43:16
+ironman-france-20120624.csv,154,Louise Hogg,38,---,GBR,01:25:10,07:43:17,06:08:10,00:06:41,00:04:44,15:28:02
+ironman-france-20120624.csv,155,Eguzkiñe Inchaurbe,---,---,ESP,---,---,---,---,---,DNS
+ironman-france-20120624.csv,156,Ghislaine Kosal,44,Other,FRA,01:14:03,07:18:03,05:03:32,00:12:01,00:06:15,13:53:54
+ironman-france-20120624.csv,157,Fatema Legrand,40,CA,USA,01:42:46,07:46:43,05:32:05,00:09:53,00:10:13,15:21:40
+ironman-france-20120624.csv,158,Sonja Massing-Steiner,41,---,AUT,01:07:58,06:53:30,04:11:28,00:06:36,00:07:35,12:27:07
+ironman-france-20120624.csv,159,Clare Mccabe,40,AUH,GBR,01:17:51,07:01:55,03:48:25,00:07:20,00:05:50,12:21:21
+ironman-france-20120624.csv,160,Tracey Mccormick,43,CA,USA,01:24:22,07:05:27,05:22:14,00:08:07,00:08:00,14:08:10
+ironman-france-20120624.csv,161,Candice Mcdonald,41,---,GBR,01:06:24,06:38:03,04:48:23,00:05:29,00:05:08,12:43:27
+ironman-france-20120624.csv,162,Lianne Noble,---,---,GBR,01:49:32,07:58:02,05:32:57,00:07:48,00:07:23,15:35:42
+ironman-france-20120624.csv,163,Melissa Piercy,42,NC,USA,01:49:52,08:10:36,05:22:45,00:11:16,00:11:34,15:46:03
+ironman-france-20120624.csv,164,Sandrine Ripert,40,Provence-Alpes-Côte d'Azur,FRA,01:15:03,07:17:43,04:11:08,00:14:09,00:16:18,13:14:21
+ironman-france-20120624.csv,165,Stephanie Russell,40,MO,USA,01:47:04,07:28:24,04:49:33,00:08:00,00:09:07,14:22:08
+ironman-france-20120624.csv,166,Kate Saunder,39,---,AUS,01:09:46,06:23:13,04:12:55,00:07:06,00:07:13,12:00:13
+ironman-france-20120624.csv,167,Susanne Schäfer,---,---,DEU,01:10:41,06:18:25,05:19:52,00:10:05,00:13:38,13:12:41
+ironman-france-20120624.csv,168,Dominika Schuler,---,---,DEU,01:20:20,07:01:03,05:39:34,00:07:30,00:07:02,14:15:29
+ironman-france-20120624.csv,169,Nicole Simon,---,---,DEU,---,---,---,---,---,DNS
+ironman-france-20120624.csv,170,Linda Stiak,---,---,FRA,01:21:09,07:56:41,05:15:14,00:10:09,00:08:57,14:52:10
+ironman-france-20120624.csv,171,Ruth Tucker,40,United Kingdom,GBR,01:19:26,06:23:45,03:49:28,00:06:20,00:03:37,11:42:36
+ironman-france-20120624.csv,172,Geraldine Vitteaut,---,---,FRA,01:17:59,07:08:10,05:09:53,00:06:27,00:08:23,13:50:52
+ironman-france-20120624.csv,173,Abby Wilentz,39,FL,USA,01:38:24,07:25:06,05:21:23,00:12:14,00:14:00,14:51:07
+ironman-france-20120624.csv,174,Meekyoung Bae,49,Seoul,KOR,---,---,---,---,---,DNS
+ironman-france-20120624.csv,175,Limor Cabiri,---,---,ISR,01:27:54,07:09:06,04:31:08,00:10:02,00:09:23,13:27:33
+ironman-france-20120624.csv,176,Cheryl Cardello,47,NC,USA,01:06:04,06:56:08,04:21:11,00:12:23,00:11:47,12:47:33
+ironman-france-20120624.csv,177,Manuela Close,49,DE,DEU,01:03:30,06:32:57,---,00:05:36,00:05:27,DNF
+ironman-france-20120624.csv,178,Maria Cristina Colombara,44,Italia,ITA,01:11:15,06:12:06,04:00:01,00:05:07,00:03:51,11:32:20
+ironman-france-20120624.csv,179,Lynne Driscoll,44,VA,USA,---,---,---,---,---,DNS
+ironman-france-20120624.csv,180,Susie Ellis,48,VIC,AUS,01:21:55,06:12:47,04:06:44,00:06:24,00:03:20,11:51:10
+ironman-france-20120624.csv,181,Mariangela Emanuelli,44,AL,ITA,01:29:27,07:37:17,04:21:21,00:11:05,00:10:31,13:49:41
+ironman-france-20120624.csv,182,Dagmar Geiselhart,---,---,DEU,01:21:35,06:16:03,04:59:05,00:08:07,00:07:23,12:52:13
+ironman-france-20120624.csv,183,Sarah Haslam,---,---,GBR,01:23:00,07:15:37,04:41:13,00:07:46,00:09:31,13:37:07
+ironman-france-20120624.csv,184,Catherine Houseaux,47,---,FRA,01:08:30,05:41:04,03:32:59,00:05:42,00:04:58,10:33:13
+ironman-france-20120624.csv,185,Barbara Hutton,46,---,GBR,01:16:49,06:27:33,04:28:27,00:06:24,00:05:25,12:24:38
+ironman-france-20120624.csv,186,Florence Kasse,48,---,FRA,01:18:14,08:30:23,04:52:22,00:07:30,00:07:45,14:56:14
+ironman-france-20120624.csv,187,Yoshimi Kumazaki,46,Intl State,JPN,---,---,---,---,---,DNS
+ironman-france-20120624.csv,188,Catherine Lacrosse,45,---,USA,---,---,---,---,---,DNS
+ironman-france-20120624.csv,189,Anne Le Floch,---,---,FRA,01:21:41,06:58:30,05:19:09,00:07:53,00:11:10,13:58:23
+ironman-france-20120624.csv,190,Ann Leins,48,AB,CAN,01:20:24,07:18:30,04:42:56,00:09:26,00:08:24,13:39:40
+ironman-france-20120624.csv,191,Helen Livingstone,46,---,GBR,01:25:49,07:47:04,04:26:45,00:15:32,00:10:01,14:05:11
+ironman-france-20120624.csv,192,Sarah Mawhinney,48,shropshire,GBR,01:37:25,08:14:13,05:46:59,00:09:13,00:08:34,15:56:24
+ironman-france-20120624.csv,193,Francoise Moray,47,---,BEL,01:35:12,07:10:37,04:48:11,00:11:53,00:14:54,14:00:47
+ironman-france-20120624.csv,194,Ines Negron,47,OR,PRI,01:08:49,07:01:05,06:04:46,00:08:00,00:11:05,14:33:45
+ironman-france-20120624.csv,195,Diane Parperis,47,Lincolnshire,GBR,01:18:21,07:02:55,05:57:31,00:06:18,00:06:42,14:31:47
+ironman-france-20120624.csv,196,Nathalie Pezzagna,46,FR,FRA,01:26:43,06:36:29,04:35:09,00:06:58,00:08:52,12:54:11
+ironman-france-20120624.csv,197,Penelope Scott,---,---,GBR,---,---,---,---,---,DNS
+ironman-france-20120624.csv,198,Pippi Sprogøe,46,---,DNK,01:40:12,08:05:09,---,00:08:01,00:08:30,DNF
+ironman-france-20120624.csv,199,Susanne Stroyberg,47,---,DNK,01:18:54,06:17:00,04:11:09,00:09:49,00:09:11,12:06:03
+ironman-france-20120624.csv,200,Christine Suligoj,---,---,FRA,01:23:52,08:19:00,---,00:12:41,00:07:50,DNF
+ironman-france-20120624.csv,201,Claudia Zanotelli,---,---,CHE,01:40:57,07:20:56,06:25:32,00:11:16,00:11:05,15:49:46
+ironman-france-20120624.csv,202,Leslie Andrew,---,---,GBR,01:21:34,07:45:05,04:24:04,00:10:22,00:11:19,13:52:24
+ironman-france-20120624.csv,203,Veronique Bottaro,---,---,FRA,01:17:57,06:51:36,04:29:45,00:09:56,00:08:00,12:57:14
+ironman-france-20120624.csv,204,Diane Chaney,49,---,GBR,01:05:32,07:08:04,04:53:34,00:07:41,00:08:41,13:23:32
+ironman-france-20120624.csv,205,Lisbeth Crafack,52,---,DNK,01:30:53,06:51:18,05:41:02,00:08:40,00:10:17,14:22:10
+ironman-france-20120624.csv,206,Claudine Durero,50,---,FRA,01:33:59,07:36:08,04:49:57,00:07:54,00:07:21,14:15:19
+ironman-france-20120624.csv,207,Vera Gillaux,49,---,BRA,01:12:06,06:33:23,04:16:23,00:10:46,00:09:13,12:21:51
+ironman-france-20120624.csv,208,Karen Haley,---,---,GBR,01:37:24,07:38:57,04:34:34,00:08:29,00:06:03,14:05:27
+ironman-france-20120624.csv,209,Margaret Hepworth,49,ID,USA,01:01:50,06:23:53,04:35:45,00:06:20,00:04:57,12:12:45
+ironman-france-20120624.csv,210,Nicole Joly,51,---,BEL,01:35:04,---,---,00:10:49,---,DNF
+ironman-france-20120624.csv,211,Aneth Landais,---,---,FRA,01:39:41,07:01:27,05:03:38,00:10:06,00:14:53,14:09:45
+ironman-france-20120624.csv,212,Marianne Sutra,51,---,FRA,01:15:45,06:38:06,05:05:11,00:05:45,00:04:45,13:09:32
+ironman-france-20120624.csv,213,Elizabeth Mary Model,52,BC,CAN,01:20:55,07:59:34,05:16:35,00:08:20,00:07:43,14:53:07
+ironman-france-20120624.csv,214,Nina Peles,---,---,USA,---,---,---,---,---,DNS
+ironman-france-20120624.csv,215,Valérie Sinko,50,---,FRA,01:07:51,05:54:56,04:27:01,00:07:11,00:06:07,11:43:06
+ironman-france-20120624.csv,216,Nelly Wojtasinski,53,Other,FRA,01:21:35,06:20:59,04:46:22,00:06:48,00:05:50,12:41:34
+ironman-france-20120624.csv,217,Remke Den Bremer,54,NL,NLD,01:18:27,06:52:05,04:30:06,00:09:06,00:10:10,12:59:54
+ironman-france-20120624.csv,218,Ann Gilbert,55,MT,USA,01:06:43,07:32:59,05:37:03,00:06:38,00:10:44,14:34:07
+ironman-france-20120624.csv,219,Elinor Krock,56,---,SWE,01:24:37,06:23:37,04:17:31,00:08:16,00:05:53,12:19:54
+ironman-france-20120624.csv,220,Gaye Mckean,55,---,AUS,01:26:19,06:34:39,04:25:34,00:06:15,00:05:12,12:37:59
+ironman-france-20120624.csv,221,Nelly Westrelin,55,FR,FRA,01:32:10,07:42:37,04:56:26,00:16:30,00:14:28,14:42:11
+ironman-france-20120624.csv,222,Sally Davies,60,---,GBR,01:28:59,07:56:38,05:17:15,00:12:05,00:12:48,15:07:45
+ironman-france-20120624.csv,223,Joanne Furu,59,MI,USA,01:52:42,08:21:53,05:00:30,00:07:02,00:06:31,15:28:38
+ironman-france-20120624.csv,224,Marisa Meredith,---,---,ESP,01:23:10,08:07:47,05:56:46,00:09:01,00:09:02,15:45:46
+ironman-france-20120624.csv,225,Elizabeth Thompson,59,ON,CAN,01:24:49,08:37:38,---,00:10:40,00:07:07,DNF
+ironman-france-20120624.csv,251,Wilfrid Senni,39,---,FRA,01:10:23,06:02:52,---,00:04:31,---,DNF
+ironman-france-20120624.csv,252,Adrian Adalid Morilla,22,---,ESP,01:24:52,07:25:15,05:14:29,00:10:06,00:08:50,14:23:32
+ironman-france-20120624.csv,253,Nathan Adams,22,Hampshire,GBR,01:56:18,08:05:40,04:58:20,00:12:11,00:08:50,15:21:19
+ironman-france-20120624.csv,254,Patrick Archer,23,London,AUS,01:01:35,06:58:26,04:52:24,00:07:06,00:08:25,13:07:56
+ironman-france-20120624.csv,255,Pierre Bes,---,---,FRA,01:21:21,06:04:54,03:51:53,00:08:50,00:07:10,11:34:08
+ironman-france-20120624.csv,256,Charly Bresson,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20120624.csv,256,Charly Bresson,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20120624.csv,257,Sacha Cavelier,23,QC,FRA,01:03:30,05:31:56,03:49:47,00:05:08,00:04:14,10:34:35
+ironman-france-20120624.csv,258,Andréas Courtial,20,FR,FRA,01:18:56,06:37:08,04:54:53,00:06:25,00:10:14,13:07:36
+ironman-france-20120624.csv,259,Julian Eleouet,23,---,FRA,00:56:56,05:29:39,---,00:03:42,00:03:39,DNF
+ironman-france-20120624.csv,260,Marius Førsund,---,---,NOR,---,---,---,---,---,DNS
+ironman-france-20120624.csv,261,Thibaut Frumento,22,---,FRA,---,---,---,---,---,DNS
+ironman-france-20120624.csv,262,Chris Gale,21,---,GBR,01:06:31,---,---,00:07:29,---,DNF
+ironman-france-20120624.csv,263,FERRAN GIMENEZ NAVARRO,23,---,ESP,01:17:18,05:57:25,04:59:13,00:05:05,00:06:54,12:25:55
+ironman-france-20120624.csv,264,Michael Hofstetter,---,---,CHE,01:08:27,05:25:27,04:21:50,00:05:14,00:07:03,11:08:01
+ironman-france-20120624.csv,265,Nicolas Houyoux,24,---,BEL,01:00:01,05:16:56,03:22:18,00:03:16,00:03:15,09:45:46
+ironman-france-20120624.csv,266,Borys Hudowicz,---,---,POL,01:18:05,08:08:40,05:02:01,00:13:25,00:12:00,14:54:11
+ironman-france-20120624.csv,267,Anders Aalborg Jacobsen,---,---,DNK,01:09:57,05:28:17,03:48:06,00:08:22,00:05:47,10:40:29
+ironman-france-20120624.csv,268,Haris Khan,22,---,GBR,01:11:38,06:37:30,04:45:33,00:09:51,00:09:16,12:53:48
+ironman-france-20120624.csv,269,Michael Knudsen,24,Other,DNK,02:01:45,07:24:44,05:47:39,00:09:30,00:11:22,15:35:00
+ironman-france-20120624.csv,270,Nicolas Lehu,---,---,FRA,01:02:39,05:36:26,04:13:07,00:05:49,00:05:35,11:03:36
+ironman-france-20120624.csv,271,Ross Lenzi,---,---,USA,01:00:59,06:29:21,05:14:02,00:05:47,00:14:30,13:04:39
+ironman-france-20120624.csv,272,Geoffrey Marcos,21,---,FRA,01:32:24,06:32:05,04:38:17,00:09:31,00:05:30,12:57:47
+ironman-france-20120624.csv,273,Dimitri Martin,---,---,FRA,01:26:48,06:34:42,04:04:06,00:08:34,00:08:01,12:22:11
+ironman-france-20120624.csv,274,Marc Martinez Miralles,21,---,ESP,00:57:42,05:48:39,03:32:26,00:04:29,00:06:56,10:30:12
+ironman-france-20120624.csv,275,James Muscart,21,---,GBR,01:15:57,07:02:19,04:50:11,00:07:29,00:08:23,13:24:19
+ironman-france-20120624.csv,276,Samy M'Zari,---,---,FRA,01:08:23,06:55:41,04:33:57,00:04:15,00:05:29,12:47:45
+ironman-france-20120624.csv,277,Thomas Nares,22,---,FRA,01:34:28,---,---,00:06:05,---,DNF
+ironman-france-20120624.csv,278,Benoît Outters,---,---,FRA,01:10:46,05:20:07,03:53:22,00:05:35,00:04:42,10:34:32
+ironman-france-20120624.csv,279,Peter Dohn Pedersen,24,---,DNK,01:10:16,05:55:06,04:48:46,00:06:00,00:04:39,12:04:47
+ironman-france-20120624.csv,280,Albert Pogorschelske,20,---,ESP,01:42:57,---,---,00:09:57,---,DNF
+ironman-france-20120624.csv,281,Eduardo Riera,---,---,ESP,---,---,---,---,---,DNS
+ironman-france-20120624.csv,282,Jonas Spriet,---,---,FRA,01:02:57,06:09:59,04:59:35,00:04:03,00:07:20,12:23:54
+ironman-france-20120624.csv,283,Will Stover,21,---,GBR,01:06:37,06:23:47,05:35:32,00:06:46,00:07:12,13:19:54
+ironman-france-20120624.csv,284,Gareth Scott Swanson,22,North Yorkshire,GBR,01:20:22,06:48:38,05:50:29,00:08:06,00:12:55,14:20:30
+ironman-france-20120624.csv,285,Nicolas Thermy,20,---,FRA,01:04:40,05:33:50,04:08:41,00:04:28,00:04:50,10:56:29
+ironman-france-20120624.csv,286,George Tilbury,---,---,GBR,01:18:03,07:30:06,05:57:18,00:09:24,00:06:55,15:01:46
+ironman-france-20120624.csv,287,Cyril Vere,---,---,FRA,01:12:48,06:00:05,04:16:16,00:06:07,00:05:07,11:40:23
+ironman-france-20120624.csv,288,Nicholas Wood,23,---,GBR,01:11:52,06:37:34,05:33:19,00:07:36,00:05:58,13:36:19
+ironman-france-20120624.csv,289,Manuel Zapata Jr,21,DF,MEX,01:14:07,07:30:59,06:47:31,00:11:05,00:10:57,15:54:39
+ironman-france-20120624.csv,290,Valentin Zasypkin,24,Intl State,RUS,01:06:30,05:46:37,04:10:02,00:05:16,00:04:02,11:12:27
+ironman-france-20120624.csv,291,Nicolas Abassit,29,FR,FRA,01:17:38,06:12:57,---,00:06:19,00:09:29,DNF
+ironman-france-20120624.csv,292,Cyrille Abjean-Uguen,---,---,FRA,01:08:06,06:25:29,---,00:05:27,00:06:46,DNF
+ironman-france-20120624.csv,293,Olivé Sala Aleix,---,---,ESP,01:07:14,06:05:26,03:45:13,00:05:52,00:08:54,11:12:39
+ironman-france-20120624.csv,294,Sébastien Amice,---,---,FRA,01:16:02,06:35:48,05:34:43,00:05:42,00:06:49,13:39:04
+ironman-france-20120624.csv,295,Anthony Anne,---,---,FRA,01:21:19,05:58:20,03:47:52,00:10:15,00:09:35,11:27:21
+ironman-france-20120624.csv,296,Damien Anquez,---,---,FRA,01:02:05,06:26:34,05:04:13,00:05:06,00:05:28,12:43:26
+ironman-france-20120624.csv,297,Morgan Aubert,28,---,FRA,00:57:44,05:23:24,03:22:30,00:03:24,00:03:51,09:50:53
+ironman-france-20120624.csv,298,Carlos Aznar Gallego,29,---,ESP,01:02:03,05:10:54,03:01:38,00:03:37,00:02:34,09:20:46
+ironman-france-20120624.csv,299,Nicolas Bailey Noval,28,ES,ESP,01:13:31,06:51:06,04:30:31,00:06:20,00:05:51,12:47:19
+ironman-france-20120624.csv,300,Norman Banick,24,---,DEU,01:05:22,05:30:05,04:11:24,00:05:10,00:05:29,10:57:30
+ironman-france-20120624.csv,301,Jared Bashford,26,---,AUS,01:24:22,06:45:43,04:38:52,00:04:48,00:07:56,13:01:41
+ironman-france-20120624.csv,302,Davide Belfiore,29,---,ITA,01:15:34,05:58:05,03:50:19,00:06:38,00:04:11,11:14:47
+ironman-france-20120624.csv,303,Jean-Christophe Bellemere,---,---,FRA,01:09:14,06:43:25,04:23:07,00:10:06,00:09:33,12:35:25
+ironman-france-20120624.csv,304,Jean-Philippe Benedik,29,FR,FRA,01:29:13,05:47:09,03:43:08,00:12:31,00:07:34,11:19:35
+ironman-france-20120624.csv,305,Michael Bestvina,27,CA,USA,01:03:44,06:39:33,04:40:51,00:05:54,00:06:15,12:36:17
+ironman-france-20120624.csv,306,Sebastien Bilyj,---,---,FRA,01:46:15,07:24:57,05:43:05,00:09:54,00:10:39,15:14:50
+ironman-france-20120624.csv,307,Nicolas Boschung,25,---,CHE,01:07:27,05:16:28,04:07:22,00:06:01,00:03:55,10:41:13
+ironman-france-20120624.csv,308,Benoit Bouchard,---,---,FRA,00:51:54,06:13:39,05:52:28,00:03:22,00:06:02,13:07:25
+ironman-france-20120624.csv,309,Julien Bouix,28,---,FRA,01:06:10,05:47:22,03:47:46,00:04:33,00:03:01,10:48:52
+ironman-france-20120624.csv,310,Julien Boulain,28,---,FRA,01:06:12,05:13:40,03:11:15,00:03:20,00:03:02,09:37:29
+ironman-france-20120624.csv,311,Alexis Bourbon,---,---,FRA,01:11:19,05:47:34,04:17:36,00:07:01,00:05:18,11:28:48

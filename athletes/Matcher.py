@@ -21,31 +21,42 @@ class FindAthletes(object):
         upcoming_athletes = CSV2AthleteList(self.input_csv).df()
         upcoming_athletes = upcoming_athletes[upcoming_athletes['Division'] == self.division]
 
+        #TMP TODO REMOVE
+        import re
+        upcoming_athletes = upcoming_athletes[upcoming_athletes['Full Name'].str.contains("Scott|Justin", flags=re.IGNORECASE)]
+
         print("Finding race results for {}".format(self.division))
         prev_results = self.get_results_for_ag("TODO FIGURE OUT DIVISION PARAMS")
 
         print("Finding matches")
 
         def fuzzy_match(x):
-            m = process.extractOne(x['name'], choices=upcoming_athletes['Full Name'], scorer=fuzz.ratio, score_cutoff=80)
+            m = process.extractOne(x['Full Name'], choices=prev_results['name'], scorer=fuzz.ratio, score_cutoff=80)
+
+            if "JUSTIN SCOTT" in x['Full Name']:
+                print(x['Full Name'])
 
             if m is None:
-                x['Match'] = 0
-                x['Match Name'] = ""
+                match_score = 0
+                match_name = ""
             else:
-                x['Match'] = m[1]
-                x['Match Name'] = m[0]
+                match_score = m[1]
+                match_name = m[0]
 
-        #prev_results.apply(fuzzy_match, axis=1)
+            x['Score'] = match_score
+            x['Match Name'] = match_name
 
-        prev_results.apply(fuzzy_match, axis=1)
+            return x
+
+
+        r = upcoming_athletes.apply(fuzzy_match, axis=1)
 
         print(prev_results[prev_results['Match']>80])
 
 
     def get_results_for_ag(self, todo_params):
         resultsDir = '../races/results'
-        files = (x for x in os.listdir(resultsDir) if str(x).endswith(".csv"))
+        files = (x for x in os.listdir(resultsDir) if str(x).endswith(".csv") and "timberman" in str(x))
 
         div_list = []
 
@@ -70,7 +81,7 @@ class FindAthletes(object):
                 tmp_df['age'] = tmp_df['age'].astype(int)
 
                 #Filtering the age range
-                div_df = tmp_df[tmp_df['age'].between(35, 39)]
+                div_df = tmp_df[tmp_df['age'].between(32, 39)]
                 div_list.append(div_df)
 
                 #print(div_df)
@@ -84,8 +95,10 @@ class FindAthletes(object):
         a['overallTime'] = pd.to_timedelta(a['overallTime'])
 
         #b = df[a['overallTime'] < pd.Timedelta('04:50:00')]
-        b = a.ix[((a['overallTime'] < pd.Timedelta('10:45:00')) & (a['overallTime'] > pd.Timedelta('07:20:00')))]
-        c = a.ix[((a['overallTime'] < pd.Timedelta('4:45:00')) & (a['overallTime'] > pd.Timedelta('3:20:00')))]
+        #Having big windows right now to have more name matches to test fuzzy matching
+        #TODO Have filters as a configurable item
+        b = a.ix[((a['overallTime'] < pd.Timedelta('11:45:00')) & (a['overallTime'] > pd.Timedelta('07:20:00')))]
+        c = a.ix[((a['overallTime'] < pd.Timedelta('5:45:00')) & (a['overallTime'] > pd.Timedelta('3:20:00')))]
         d = pd.concat([b, c])
 
         return d

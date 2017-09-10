@@ -1,0 +1,704 @@
+#File=ironman-70.3-lanzarote-20160924.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-lanzarote-20160924.csv,1,Victor Del Corral,36,---,ESP,00:30:08,02:31:55,---,00:02:22,00:01:36,DNF
+ironman-70.3-lanzarote-20160924.csv,2,Thomas Hellriegel,45,---,DEU,00:26:15,02:31:20,01:32:56,00:03:19,00:02:09,04:36:01
+ironman-70.3-lanzarote-20160924.csv,3,Domenico Passuello,38,Intl State,ITA,00:27:08,02:25:21,01:18:44,00:02:48,00:01:40,04:15:43
+ironman-70.3-lanzarote-20160924.csv,4,Stephen Bayliss,37,Intl State,GBR,00:25:01,02:32:34,01:25:27,00:02:13,00:01:18,04:26:36
+ironman-70.3-lanzarote-20160924.csv,5,Kenneth Vandendriessche,25,---,BEL,00:27:01,02:25:58,01:15:45,00:02:47,00:01:14,04:12:47
+ironman-70.3-lanzarote-20160924.csv,6,Thomas Strange,22,---,DNK,00:25:03,02:29:30,01:24:33,00:02:32,00:01:45,04:23:25
+ironman-70.3-lanzarote-20160924.csv,7,Pieter Heemeryck,26,---,BEL,00:25:11,02:23:16,01:16:07,00:02:11,00:01:35,04:08:22
+ironman-70.3-lanzarote-20160924.csv,8,Swen Sundberg,42,Eastern Cape,DEU,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,9,Raul Lecuona Gil Roldan,30,---,ESP,00:25:10,02:34:28,02:13:48,00:02:45,00:02:29,05:18:43
+ironman-70.3-lanzarote-20160924.csv,10,Alain Djouad-Guibert,39,Maroc,MAR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,11,Lucy Gossage,36,Intl State,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,12,Martina Dogana,37,Intl State,ITA,00:32:18,03:10:33,01:37:36,00:02:57,00:02:21,05:25:47
+ironman-70.3-lanzarote-20160924.csv,13,Alice Hector,34,Intl State,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,14,Lisa Huetthaler,33,---,AUT,00:28:38,02:45:26,01:28:58,00:02:21,00:01:41,04:47:06
+ironman-70.3-lanzarote-20160924.csv,15,Jenny Schulz,32,---,DEU,00:32:12,02:51:54,01:27:04,00:02:47,00:01:48,04:55:47
+ironman-70.3-lanzarote-20160924.csv,16,Brooke Brown,37,ON,CAN,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,17,Mareen Hufe,38,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,18,Lina-Kristin Schink,32,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,19,Judith Corachan Vaquera,32,---,ESP,00:28:23,02:49:10,01:29:02,00:02:58,00:01:28,04:51:04
+ironman-70.3-lanzarote-20160924.csv,20,Stephanie Jones,38,SC,USA,00:34:48,02:59:10,01:38:14,00:04:14,00:02:24,05:18:53
+ironman-70.3-lanzarote-20160924.csv,21,Kelsey Withrow,34,CA,USA,00:26:01,02:55:19,01:34:58,00:03:29,00:01:58,05:01:46
+ironman-70.3-lanzarote-20160924.csv,22,Line Thams,26,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,23,Jil Gloesener,24,Intl State,LUX,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,24,Sarah Bonner,29,ON,CAN,00:33:05,03:05:23,01:33:46,00:02:29,00:01:51,05:16:36
+ironman-70.3-lanzarote-20160924.csv,25,Valerie Belanger,27,QC,CAN,00:36:35,02:47:31,01:28:51,00:02:58,00:02:04,04:58:00
+ironman-70.3-lanzarote-20160924.csv,26,Anna Wiese,32,---,POL,00:32:34,02:58:10,01:35:31,00:02:34,00:01:36,05:10:27
+ironman-70.3-lanzarote-20160924.csv,27,Frankie Sanjana,32,---,GBR,00:31:59,03:05:08,01:41:51,00:03:14,00:02:38,05:24:51
+ironman-70.3-lanzarote-20160924.csv,28,Maria Czesnik,39,---,POL,00:26:11,02:50:26,01:29:23,00:03:05,00:01:31,04:50:37
+ironman-70.3-lanzarote-20160924.csv,29,Paulina Kotfica,20,---,POL,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,30,Rayco Marrero Avero,35,---,ESP,00:26:51,02:30:41,01:20:30,00:02:26,00:01:56,04:22:26
+ironman-70.3-lanzarote-20160924.csv,31,Pau Botella Tarres,25,---,ESP,00:30:12,02:56:52,---,00:03:07,---,DNF
+ironman-70.3-lanzarote-20160924.csv,32,Hannes Callebaut,23,---,BEL,00:25:05,02:36:41,01:24:27,00:02:29,00:01:35,04:30:20
+ironman-70.3-lanzarote-20160924.csv,33,Marcus Herbst,28,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,34,Marc Unger,29,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,35,Federico Incardona,31,Intl State,ITA,00:26:56,02:36:43,01:24:31,00:02:34,00:01:41,04:32:27
+ironman-70.3-lanzarote-20160924.csv,36,Josep Torres Riera,23,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,37,Cameron Good,29,NSW,AUS,00:25:02,02:35:08,01:22:09,00:02:25,00:02:13,04:26:58
+ironman-70.3-lanzarote-20160924.csv,38,Cyril Pochon,37,---,FRA,00:26:09,02:48:51,01:30:56,00:02:30,00:02:06,04:50:33
+ironman-70.3-lanzarote-20160924.csv,39,José Estrangeiro,28,Intl State,PRT,00:26:04,02:35:30,01:17:55,00:02:39,00:01:36,04:23:45
+ironman-70.3-lanzarote-20160924.csv,40,Sanne Swolfs,28,---,BEL,00:26:50,02:29:49,01:20:14,00:03:17,00:01:26,04:21:38
+ironman-70.3-lanzarote-20160924.csv,41,Gergo Badar,26,---,HUN,00:26:45,02:35:23,01:20:13,00:02:09,00:01:32,04:26:03
+ironman-70.3-lanzarote-20160924.csv,42,Neil Peters,26,Luxembourg,LUX,00:24:55,02:36:12,01:23:30,00:02:26,00:01:26,04:28:30
+ironman-70.3-lanzarote-20160924.csv,43,Johannes Moldan,28,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,44,Guillaume Doree,26,---,FRA,00:26:12,02:49:50,01:26:54,00:03:00,00:02:10,04:48:08
+ironman-70.3-lanzarote-20160924.csv,45,Ruben Aragon,28,---,ESP,00:27:02,03:01:27,01:44:43,00:02:43,00:02:05,05:18:02
+ironman-70.3-lanzarote-20160924.csv,46,Colin Norris,29,---,GBR,00:26:42,02:35:56,01:19:34,00:03:01,00:01:55,04:27:10
+ironman-70.3-lanzarote-20160924.csv,47,Urs Müller,32,---,CHE,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,48,Cameron Wurf,33,TAS,AUS,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,49,Zbyszek Gucwa,---,---,POL,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,50,Toumy Degham,36,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,51,Kini Carrasco,51,---,ESP,00:50:48,03:53:48,01:53:15,00:10:56,00:04:31,06:53:19
+ironman-70.3-lanzarote-20160924.csv,52,Toni Franco Salas,42,ES,ESP,00:36:53,03:38:40,02:13:23,00:06:13,00:04:45,06:39:56
+ironman-70.3-lanzarote-20160924.csv,53,Marcos Pellicer Suazo,40,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,54,Andrea Sulzer,37,---,CHE,00:33:29,03:24:16,01:51:03,00:04:38,00:01:55,05:55:24
+ironman-70.3-lanzarote-20160924.csv,55,Alison Rose-Quirie,56,---,GBR,00:35:33,03:50:11,01:59:03,00:04:01,00:02:30,06:31:19
+ironman-70.3-lanzarote-20160924.csv,56,Linni Tiller,56,---,NOR,00:39:24,03:36:55,02:00:47,00:04:55,00:02:57,06:25:00
+ironman-70.3-lanzarote-20160924.csv,57,Mark Millar,36,Lisburn,IRL,00:31:52,02:44:51,01:33:51,00:04:06,00:01:42,04:56:24
+ironman-70.3-lanzarote-20160924.csv,58,Roger Schärli,38,---,CHE,00:31:59,02:55:41,01:45:51,00:03:57,00:01:55,05:19:26
+ironman-70.3-lanzarote-20160924.csv,59,Tobias Lückert,42,---,DEU,00:28:48,03:02:16,01:45:57,00:03:32,00:02:21,05:22:56
+ironman-70.3-lanzarote-20160924.csv,60,Javier Herrero Tiñana,42,---,ESP,00:33:05,02:58:40,01:33:02,00:04:29,00:02:05,05:11:22
+ironman-70.3-lanzarote-20160924.csv,61,Andrew Rose,42,VA,USA,00:33:55,03:23:01,01:42:53,00:06:27,00:03:58,05:50:16
+ironman-70.3-lanzarote-20160924.csv,62,Dirk Logghe,50,---,BEL,00:30:53,03:05:39,01:39:34,00:05:22,00:02:37,05:24:07
+ironman-70.3-lanzarote-20160924.csv,63,Marc Albert D Hooge,50,Luxembourg,LUX,00:34:49,03:05:28,01:45:24,00:05:29,00:03:19,05:34:31
+ironman-70.3-lanzarote-20160924.csv,64,Rene Delbaere,58,---,BEL,00:30:21,03:08:57,01:49:20,00:04:07,00:02:58,05:35:46
+ironman-70.3-lanzarote-20160924.csv,65,Keith Greenough,66,Intl State,GBR,00:37:33,03:42:41,02:07:31,00:05:55,00:03:46,06:37:28
+ironman-70.3-lanzarote-20160924.csv,66,Bahar Saygili,30,34340,TUR,00:30:53,03:22:41,01:43:25,00:04:06,00:02:05,05:43:12
+ironman-70.3-lanzarote-20160924.csv,67,Pauline Marchal,32,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,68,Clare Lait,38,---,GBR,00:29:57,03:13:19,01:49:37,00:03:52,00:02:05,05:38:52
+ironman-70.3-lanzarote-20160924.csv,69,Luisa Scandola,40,LC,ITA,00:40:25,03:35:08,02:04:59,00:05:34,00:03:41,06:29:50
+ironman-70.3-lanzarote-20160924.csv,70,Sonja Schleis,44,---,DEU,00:42:12,03:27:09,02:11:05,00:06:22,00:03:49,06:30:38
+ironman-70.3-lanzarote-20160924.csv,71,Keely Mancini,48,QLD,AUS,00:36:08,03:35:51,02:24:16,00:05:42,00:04:21,06:46:20
+ironman-70.3-lanzarote-20160924.csv,72,Glynis Greenough,63,Intl State,GBR,00:42:27,04:24:13,02:10:53,00:08:50,00:04:11,07:30:35
+ironman-70.3-lanzarote-20160924.csv,73,Pierre Audoubert,23,FR,FRA,00:35:26,03:15:01,01:46:53,00:03:51,00:01:49,05:43:01
+ironman-70.3-lanzarote-20160924.csv,74,Javier Cano Morales,30,---,ESP,00:33:57,03:08:13,01:46:43,00:03:59,00:02:08,05:35:02
+ironman-70.3-lanzarote-20160924.csv,75,Castor Benitez-Inglott Bellini,31,---,ESP,00:36:22,03:05:17,01:35:38,00:03:56,00:02:36,05:23:50
+ironman-70.3-lanzarote-20160924.csv,76,Patrick Wolicki,31,---,DEU,00:35:36,03:15:49,01:58:41,00:05:00,00:01:59,05:57:06
+ironman-70.3-lanzarote-20160924.csv,77,Jean-Pierre Blazek,36,---,CHE,00:31:48,03:03:18,01:38:56,00:05:01,00:02:19,05:21:24
+ironman-70.3-lanzarote-20160924.csv,78,Mike Latsch,37,---,DEU,00:35:28,03:05:31,01:39:58,00:06:10,00:02:17,05:29:26
+ironman-70.3-lanzarote-20160924.csv,79,Duncan Mackay,41,Isle of Man,GBR,00:38:18,03:42:57,02:02:59,00:08:00,00:04:28,06:36:44
+ironman-70.3-lanzarote-20160924.csv,80,Joeri Erler,42,---,BEL,00:32:37,03:08:01,01:50:24,00:04:13,00:02:15,05:37:31
+ironman-70.3-lanzarote-20160924.csv,81,Joris Rome,43,BE,BEL,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,82,Jos Balk,44,---,NLD,00:36:23,03:15:14,02:08:43,00:05:57,00:02:53,06:09:11
+ironman-70.3-lanzarote-20160924.csv,83,Jason Davies,46,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,84,Minsok Pak,47,Other,USA,00:33:06,03:09:31,01:39:01,00:04:17,00:02:50,05:28:46
+ironman-70.3-lanzarote-20160924.csv,85,Dennis Kampschreur,47,---,NLD,00:39:44,03:23:40,02:32:41,00:06:48,00:03:24,06:46:19
+ironman-70.3-lanzarote-20160924.csv,86,Johan Pauwels,48,---,BEL,00:30:06,02:59:11,01:46:53,00:03:29,00:02:15,05:21:56
+ironman-70.3-lanzarote-20160924.csv,87,Wesley Absolom,49,Essex,GBR,00:35:53,03:27:05,01:50:50,00:04:21,00:02:18,06:00:30
+ironman-70.3-lanzarote-20160924.csv,88,Sean Finn,51,Cork,IRL,00:37:21,03:13:54,01:58:08,00:04:07,00:03:18,05:56:51
+ironman-70.3-lanzarote-20160924.csv,89,Peter Lloyd,51,---,GBR,00:34:12,03:08:25,01:57:00,00:04:27,00:03:07,05:47:13
+ironman-70.3-lanzarote-20160924.csv,90,Hugh Gibbs,52,Kent,GBR,00:35:23,03:00:43,01:51:31,00:04:26,00:02:34,05:34:40
+ironman-70.3-lanzarote-20160924.csv,91,Christian Wolf,53,---,DEU,00:37:05,03:01:11,01:53:37,00:04:38,00:02:48,05:39:20
+ironman-70.3-lanzarote-20160924.csv,92,Roger Sheridan,55,north Devon,GBR,00:30:13,03:11:04,01:56:46,00:05:17,00:02:59,05:46:21
+ironman-70.3-lanzarote-20160924.csv,93,Charlotte Seguret,30,---,FRA,00:39:28,04:38:34,02:14:44,00:07:16,00:02:55,07:42:59
+ironman-70.3-lanzarote-20160924.csv,94,Khadiga Amin,31,egypt,EGY,00:37:35,03:47:57,02:07:12,00:04:49,00:02:53,06:40:27
+ironman-70.3-lanzarote-20160924.csv,95,Kate Allan,31,Berkshire ,GBR,00:35:26,02:53:37,01:53:36,00:04:42,00:02:26,05:29:50
+ironman-70.3-lanzarote-20160924.csv,96,Sabrina Petrovicki,32,---,DEU,00:42:24,04:13:31,02:26:16,00:06:20,00:03:35,07:32:07
+ironman-70.3-lanzarote-20160924.csv,97,Beeke Jandt,33,---,DEU,00:44:54,03:49:12,01:49:51,00:06:01,00:05:28,06:35:28
+ironman-70.3-lanzarote-20160924.csv,98,Ingrid Arning,57,---,ESP,00:40:12,04:15:01,02:21:22,00:07:44,00:04:27,07:28:49
+ironman-70.3-lanzarote-20160924.csv,99,Ingrid De Boer,61,---,BEL,00:36:55,04:10:52,02:23:34,00:05:46,00:03:11,07:20:19
+ironman-70.3-lanzarote-20160924.csv,100,Hilary Walker,63,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,101,Timo Kuhlmann,25,---,DEU,00:31:49,02:35:00,01:16:58,00:03:02,00:01:59,04:28:50
+ironman-70.3-lanzarote-20160924.csv,102,Ricardo Samaniego De La Fuente,26,DF,MEX,00:36:43,03:35:39,01:55:08,00:05:44,00:04:58,06:18:14
+ironman-70.3-lanzarote-20160924.csv,103,Javier Valle,27,London,ESP,00:36:51,03:22:55,01:43:13,00:05:21,00:02:09,05:50:30
+ironman-70.3-lanzarote-20160924.csv,104,Stephen Collins,32,cork,IRL,00:44:26,03:27:13,01:52:35,00:04:31,00:03:17,06:12:04
+ironman-70.3-lanzarote-20160924.csv,105,Jonathan Pulido,34,London,GBR,00:43:20,03:33:51,02:07:45,00:06:57,00:03:25,06:35:19
+ironman-70.3-lanzarote-20160924.csv,106,Espen Skaufel,34,---,NOR,00:38:06,03:18:36,01:42:55,00:05:35,00:02:33,05:47:47
+ironman-70.3-lanzarote-20160924.csv,107,Ryan Rudge,36,---,GBR,00:34:26,03:18:38,01:58:42,00:04:56,00:03:35,06:00:20
+ironman-70.3-lanzarote-20160924.csv,108,Antonio Perez Comas,37,---,ESP,00:33:41,03:04:44,01:37:26,00:04:41,00:01:35,05:22:08
+ironman-70.3-lanzarote-20160924.csv,109,Kenny De Wit,38,---,BEL,00:39:21,04:00:25,02:23:09,00:05:26,00:04:39,07:13:01
+ironman-70.3-lanzarote-20160924.csv,110,Kameni Joao Ebner Salvatierra,37,Perugia,ITA,00:37:19,03:11:58,01:41:46,00:05:02,00:03:39,05:39:48
+ironman-70.3-lanzarote-20160924.csv,111,Marcos Rosa,38,Gauteng,ZAF,00:34:59,03:03:51,01:47:08,00:03:52,00:01:45,05:31:36
+ironman-70.3-lanzarote-20160924.csv,112,Neil Reid,39,---,GBR,00:32:32,02:55:14,01:41:35,00:03:59,00:01:49,05:15:10
+ironman-70.3-lanzarote-20160924.csv,113,Chris Goodall,40,Hampshire,GBR,00:36:59,03:06:34,01:44:19,00:03:57,00:03:29,05:35:20
+ironman-70.3-lanzarote-20160924.csv,114,Manuel Àngel González Toledo,41,---,ESP,00:27:22,02:51:47,01:40:59,00:03:50,00:02:08,05:06:08
+ironman-70.3-lanzarote-20160924.csv,115,Craig Hughes,41,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,116,Carlos Belarra Arenas,42,---,ARG,00:27:27,02:52:19,01:31:45,00:03:17,00:02:01,04:56:50
+ironman-70.3-lanzarote-20160924.csv,117,Kris Bevers,45,---,BEL,00:39:33,03:31:44,02:08:29,00:04:37,00:04:00,06:28:25
+ironman-70.3-lanzarote-20160924.csv,118,Ivano Canavesi,45,milano,ITA,00:31:09,03:28:24,01:50:19,00:03:22,00:02:40,05:55:56
+ironman-70.3-lanzarote-20160924.csv,119,Vincent Natali,45,WA,USA,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,120,Jon Land,48,---,NOR,00:36:47,03:33:04,01:59:40,00:05:30,00:02:57,06:18:01
+ironman-70.3-lanzarote-20160924.csv,121,Folkert Behrends,50,---,DEU,00:28:11,02:49:22,01:35:09,00:03:00,00:01:38,04:57:21
+ironman-70.3-lanzarote-20160924.csv,122,Ludger Bräutigam,50,---,DEU,00:32:15,03:16:10,02:06:24,00:06:39,00:03:46,06:05:16
+ironman-70.3-lanzarote-20160924.csv,123,Jürgen Schäfer,50,---,DEU,00:41:39,03:32:55,01:57:14,00:06:53,00:05:32,06:24:14
+ironman-70.3-lanzarote-20160924.csv,124,Stefan Niederbacher,52,---,CHE,00:39:22,03:16:31,01:56:33,00:05:58,00:02:32,06:00:58
+ironman-70.3-lanzarote-20160924.csv,125,Garrie Prosser,52,Lancashire,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,126,Simon Verzijl,51,---,NLD,00:34:20,03:19:44,01:57:55,00:05:11,00:02:18,05:59:31
+ironman-70.3-lanzarote-20160924.csv,127,Christopher H Gair,55,Angus,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,128,Hans-Jürgen Bartz,56,---,DEU,00:40:07,---,---,00:05:29,---,DNF
+ironman-70.3-lanzarote-20160924.csv,129,David Lane,57,Somerset,GBR,00:36:11,03:28:32,---,00:04:09,00:03:22,DNF
+ironman-70.3-lanzarote-20160924.csv,130,Claude Girardin,61,---,CHE,00:38:21,03:04:22,01:57:39,00:04:42,00:02:32,05:47:37
+ironman-70.3-lanzarote-20160924.csv,131,Patrick Fecheyr-Lippens,61,---,BEL,00:39:49,03:48:43,01:54:41,00:05:04,00:03:47,06:32:06
+ironman-70.3-lanzarote-20160924.csv,132,Dick Simons,63,---,NLD,00:38:05,03:30:36,02:11:24,00:06:05,00:03:52,06:30:03
+ironman-70.3-lanzarote-20160924.csv,133,Matthew Cook,36,---,ZAF,00:30:36,03:17:30,01:59:34,00:03:51,00:02:53,05:54:27
+ironman-70.3-lanzarote-20160924.csv,134,Almudena Abad Nosti,18,ES,ESP,00:33:35,04:07:25,02:04:29,00:04:02,00:03:00,06:52:34
+ironman-70.3-lanzarote-20160924.csv,135,Maiken Buch Christensen,18,DK,DNK,00:48:27,03:58:17,02:08:12,00:06:28,00:04:18,07:05:44
+ironman-70.3-lanzarote-20160924.csv,136,Marine Navarro,20,FR,FRA,00:38:50,03:54:34,02:22:16,00:05:13,00:03:11,07:04:07
+ironman-70.3-lanzarote-20160924.csv,137,Annika Müller,22,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,138,Ellie Bishop,24,Greater London,GBR,00:42:08,03:39:05,01:40:37,00:04:12,00:02:04,06:08:07
+ironman-70.3-lanzarote-20160924.csv,139,Lilly Mcnabb,23,---,GBR,00:37:10,03:20:33,01:49:17,00:03:54,00:02:31,05:53:26
+ironman-70.3-lanzarote-20160924.csv,140,Michelle-Vivien Thiel,24,Saarland,DEU,00:35:11,03:33:54,02:05:11,00:04:48,00:03:20,06:22:26
+ironman-70.3-lanzarote-20160924.csv,141,Christie Tilley,23,Berkshire,GBR,00:37:24,03:42:26,02:13:38,00:04:54,00:02:38,06:41:03
+ironman-70.3-lanzarote-20160924.csv,142,Hannah Witchalls,24,Hertfordshire,GBR,00:43:24,04:37:20,01:52:34,00:07:12,00:02:20,07:22:53
+ironman-70.3-lanzarote-20160924.csv,143,Ester Jiménez Moreno,25,ES,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,144,Victoria Bramley,25,Nottinghamshire,GBR,00:31:53,03:36:39,02:00:25,00:05:09,00:02:35,06:16:42
+ironman-70.3-lanzarote-20160924.csv,145,Sabrina Stadelmann,25,---,CHE,00:28:53,03:07:31,01:35:02,00:03:07,00:01:51,05:16:25
+ironman-70.3-lanzarote-20160924.csv,146,Carolina Granfors,26,Jakobstad,FIN,00:33:43,03:04:20,01:48:51,00:03:28,00:01:33,05:31:58
+ironman-70.3-lanzarote-20160924.csv,147,Irene Fagherazzi,27,Italia,ITA,00:38:26,03:24:59,01:58:25,00:06:45,00:02:46,06:11:23
+ironman-70.3-lanzarote-20160924.csv,148,Cheryl Robinson,28,Cheshire,GBR,00:36:24,04:45:44,02:15:29,00:08:21,00:02:57,07:48:56
+ironman-70.3-lanzarote-20160924.csv,149,Alice Rossi,28,---,ITA,00:44:49,04:06:08,02:04:31,00:07:31,00:04:51,07:07:52
+ironman-70.3-lanzarote-20160924.csv,150,Lore Timmermans,28,---,BEL,00:40:08,04:12:58,02:18:34,00:05:37,00:04:20,07:21:40
+ironman-70.3-lanzarote-20160924.csv,151,Elaine Wong,28,lancashire,GBR,00:43:15,04:15:07,02:04:47,00:09:03,00:02:01,07:14:15
+ironman-70.3-lanzarote-20160924.csv,152,Marie Bessadi,29,APO,FRA,00:37:36,03:49:51,02:06:43,00:07:52,00:04:49,06:46:53
+ironman-70.3-lanzarote-20160924.csv,153,Elena Tuzza,28,rovigo,ITA,00:37:20,03:17:14,01:58:29,00:05:15,00:02:33,06:00:53
+ironman-70.3-lanzarote-20160924.csv,155,Camilla Hornbæk Petersen,30,---,DNK,00:53:35,04:07:54,02:43:35,00:06:34,00:04:05,07:55:45
+ironman-70.3-lanzarote-20160924.csv,156,Inge Keymolen,29,---,BEL,00:33:09,03:45:19,02:01:55,00:05:02,00:02:36,06:28:02
+ironman-70.3-lanzarote-20160924.csv,157,Annelies Vandewalle,31,---,BEL,00:37:42,04:07:32,03:14:08,00:06:33,00:03:56,08:09:54
+ironman-70.3-lanzarote-20160924.csv,158,Maria Gomez-Lobo,31,ES,ESP,00:37:20,04:46:42,02:26:02,00:11:41,00:05:27,08:07:14
+ironman-70.3-lanzarote-20160924.csv,159,Loida Herrera Ramos,32,ES,ESP,00:44:32,04:22:32,02:23:16,00:07:42,00:04:02,07:42:06
+ironman-70.3-lanzarote-20160924.csv,160,Miriam Muñoz,32,ES,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,161,Clare Llewellyn,32,herts,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,162,Petra Vymetalova,32,Gloucestershire,CZE,00:35:02,03:08:46,01:44:19,00:03:52,00:01:54,05:33:55
+ironman-70.3-lanzarote-20160924.csv,163,Gemma Sauret Vidal,32,ES,ESP,00:39:57,04:09:37,02:05:24,00:06:03,00:02:54,07:03:57
+ironman-70.3-lanzarote-20160924.csv,164,Cecilia Scarrone,33,Buenos Aires ,ARG,00:44:47,04:20:06,02:16:19,00:06:11,00:03:01,07:30:26
+ironman-70.3-lanzarote-20160924.csv,165,Nicola Anderson,32,---,ZAF,00:42:39,03:40:54,01:55:58,00:06:22,00:04:04,06:29:59
+ironman-70.3-lanzarote-20160924.csv,166,Charlotte Hewer,33,Uk,GBR,00:39:20,04:01:27,02:17:53,00:05:06,00:03:38,07:07:26
+ironman-70.3-lanzarote-20160924.csv,167,Maria Kjelme,33,---,NOR,00:43:59,04:14:35,02:24:41,00:06:55,00:03:37,07:33:49
+ironman-70.3-lanzarote-20160924.csv,168,Sarah Scott,34,Norfolk,GBR,01:08:06,---,---,00:08:52,---,DNF
+ironman-70.3-lanzarote-20160924.csv,169,Maria Cruz Palma Romero,35,ES,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,170,Louise Beasley,35,---,GBR,00:36:32,03:48:50,02:07:46,00:04:09,00:02:02,06:39:21
+ironman-70.3-lanzarote-20160924.csv,171,Marika Fontanari,35,ITALIA,ITA,00:34:53,04:04:56,02:07:02,00:06:07,00:04:17,06:57:17
+ironman-70.3-lanzarote-20160924.csv,172,Tamar Gonzalez,35,---,ESP,00:33:24,03:18:55,01:41:27,00:04:03,00:01:42,05:39:33
+ironman-70.3-lanzarote-20160924.csv,173,Marianne Armstrong,36,Norfolk,GBR,00:51:54,05:00:28,---,00:07:42,---,DNF
+ironman-70.3-lanzarote-20160924.csv,174,Melissa Cook,36,---,ZAF,00:43:18,04:28:42,02:41:07,00:07:38,00:03:41,08:04:28
+ironman-70.3-lanzarote-20160924.csv,175,Isabel Del Barrio Izquierdo,36,---,ESP,00:32:59,03:25:44,01:56:58,00:04:55,00:02:36,06:03:13
+ironman-70.3-lanzarote-20160924.csv,176,Ely Morgado,35,Surrey,BRA,00:47:06,04:14:18,02:25:02,00:06:10,00:03:11,07:35:48
+ironman-70.3-lanzarote-20160924.csv,177,Yolanda Lendinez Quiros,37,ES,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,178,Alexandra Bérubé-Poliquin,37,QC,CAN,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,179,Adiam Sertziu,37,APO,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,180,Nieves Esgueva Avizanda,38,---,ESP,00:55:07,---,---,00:12:23,---,DNF
+ironman-70.3-lanzarote-20160924.csv,181,Claire Duncan,38,---,GBR,00:40:12,04:29:46,02:39:34,00:09:33,00:05:58,08:05:05
+ironman-70.3-lanzarote-20160924.csv,182,Donna Falconer,38,Surrey,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,183,Kerstin Harrer,38,DE,DEU,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,184,Rachel Mangan,38,---,GBR,00:33:12,03:51:03,02:14:55,00:07:37,00:04:53,06:51:42
+ironman-70.3-lanzarote-20160924.csv,185,Lindeke Smeets,38,---,NLD,00:37:57,04:14:33,01:57:46,00:10:09,00:03:43,07:04:09
+ironman-70.3-lanzarote-20160924.csv,186,Katrien Decannière,38,BE,BEL,00:37:20,03:33:03,02:06:23,00:05:56,00:02:02,06:24:46
+ironman-70.3-lanzarote-20160924.csv,187,Celine Mcphillips,39,Louth,IRL,00:33:22,03:34:32,02:13:21,00:04:26,00:03:06,06:28:48
+ironman-70.3-lanzarote-20160924.csv,188,Elisa Aguilar Lopez,39,ES,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,189,Claire Hardy,40,Lincs,GBR,00:43:11,03:48:48,02:14:04,00:05:11,00:02:36,06:53:53
+ironman-70.3-lanzarote-20160924.csv,190,Allison Ragosa-Buckley,40,---,GBR,00:40:02,04:31:11,02:38:30,00:08:32,00:05:45,08:04:02
+ironman-70.3-lanzarote-20160924.csv,191,Lucia Staub,40,---,CHE,00:37:39,04:19:00,02:23:30,00:09:12,00:04:14,07:33:36
+ironman-70.3-lanzarote-20160924.csv,192,Noemí García Avizanda,40,---,ESP,00:41:39,04:19:22,02:21:12,00:07:56,00:06:55,07:37:05
+ironman-70.3-lanzarote-20160924.csv,193,Berta Puente Blanco,41,---,ESP,00:37:43,04:01:11,02:06:29,00:07:49,00:03:56,06:57:10
+ironman-70.3-lanzarote-20160924.csv,194,Pilar Pelaez Serrano,42,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,195,Dácil Hernández Hernández,42,---,ESP,00:31:14,03:17:27,01:37:06,00:03:02,00:02:06,05:30:57
+ironman-70.3-lanzarote-20160924.csv,196,Joanne Irving,42,Conwy,GBR,00:51:48,04:09:00,02:36:43,00:05:44,00:03:53,07:47:09
+ironman-70.3-lanzarote-20160924.csv,197,Alessia Scarpa,41,VE,ITA,00:36:29,03:42:21,01:55:48,00:04:42,00:03:08,06:22:30
+ironman-70.3-lanzarote-20160924.csv,198,Maria Remedios Carrasco Tavero,43,ES,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,199,Tinna Otero,42,DE,USA,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,200,Angela Ackerley,45,---,GBR,00:39:42,03:35:00,02:13:52,00:04:02,00:02:43,06:35:20
+ironman-70.3-lanzarote-20160924.csv,201,Anja Jedynak,44,DE,DEU,00:38:21,03:26:42,01:56:48,00:04:26,00:02:38,06:08:57
+ironman-70.3-lanzarote-20160924.csv,202,Anneloes Zuiderveen,44,---,NLD,00:42:38,03:44:51,02:06:57,00:06:17,00:04:04,06:44:49
+ironman-70.3-lanzarote-20160924.csv,203,Hilde De Paepe,46,BE,BEL,00:40:16,04:02:57,02:28:38,00:06:20,00:06:10,07:24:23
+ironman-70.3-lanzarote-20160924.csv,204,Martine Naber,45,---,NLD,00:44:38,03:31:18,02:14:30,00:07:24,00:03:37,06:41:28
+ironman-70.3-lanzarote-20160924.csv,205,Gillian Wilson,45,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,206,Sandra Cedrés Santana,48,---,ESP,00:39:38,04:02:41,02:08:40,00:07:38,00:03:52,07:02:31
+ironman-70.3-lanzarote-20160924.csv,207,Tove Guldhav,48,---,NOR,00:45:02,03:52:06,02:23:30,00:04:55,00:03:22,07:08:56
+ironman-70.3-lanzarote-20160924.csv,208,Jacqueline Rabou,49,---,NLD,00:38:02,03:50:53,02:18:33,00:07:59,00:04:14,06:59:43
+ironman-70.3-lanzarote-20160924.csv,209,Trudi Sheridan,48,Devon,GBR,00:49:13,04:41:05,02:35:03,00:08:37,00:06:59,08:20:59
+ironman-70.3-lanzarote-20160924.csv,210,Sarah Adlam,49,---,GBR,00:37:13,03:59:31,02:18:53,00:04:22,00:03:17,07:03:17
+ironman-70.3-lanzarote-20160924.csv,211,Alexandra Fellmann,51,---,DEU,00:39:56,03:39:44,02:00:39,00:05:01,00:03:15,06:28:37
+ironman-70.3-lanzarote-20160924.csv,212,Andrea Jakobljevich,50,---,AUT,00:35:06,03:51:38,01:59:50,00:04:15,00:03:02,06:33:53
+ironman-70.3-lanzarote-20160924.csv,213,Mercedes Cabrera Hernã¡ndez,52,---,ESP,00:43:19,04:03:44,02:14:44,00:06:54,00:03:03,07:11:47
+ironman-70.3-lanzarote-20160924.csv,214,Carole Huberty,53,---,BEL,00:38:05,04:22:07,02:30:27,00:07:29,00:04:35,07:42:45
+ironman-70.3-lanzarote-20160924.csv,215,Winsome Levy,53,Surrey,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,216,Andrea Schenck,53,DE,DEU,00:42:44,04:13:02,02:12:46,00:06:24,00:03:24,07:18:22
+ironman-70.3-lanzarote-20160924.csv,217,Sue Turley,53,Suffolk,GBR,00:43:41,04:41:33,02:43:09,00:08:04,00:05:03,08:21:31
+ironman-70.3-lanzarote-20160924.csv,218,Beate Vogt,56,Middlesex,DEU,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,219,Luke Campbell,18,Wiltshire,GBR,00:31:37,03:36:19,01:47:15,00:05:50,00:02:35,06:03:38
+ironman-70.3-lanzarote-20160924.csv,220,David Lopez,19,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,221,Marius Dettmer,20,---,DEU,00:33:19,03:25:55,01:59:36,00:04:14,00:02:44,06:05:50
+ironman-70.3-lanzarote-20160924.csv,222,Finley Thompson,20,Lincolnshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,223,Alexander Printschitsch Hernandez,21,---,ESP,00:29:27,03:14:11,01:46:21,00:04:33,00:02:45,05:37:20
+ironman-70.3-lanzarote-20160924.csv,224,Ali Al Khalifa,21,-,BHR,00:46:36,03:30:49,02:25:24,00:06:58,00:05:27,06:55:17
+ironman-70.3-lanzarote-20160924.csv,225,Marco Valerio Corato,21,Vicenza,ITA,00:32:02,02:58:20,01:34:28,00:03:46,00:02:11,05:10:50
+ironman-70.3-lanzarote-20160924.csv,226,Lucas Germonprez,20,BE,BEL,00:33:48,03:41:46,02:11:05,00:05:24,00:03:53,06:35:59
+ironman-70.3-lanzarote-20160924.csv,227,Matthias Hörmann,21,AT,AUT,00:56:14,04:17:38,02:06:14,00:14:00,00:04:30,07:38:36
+ironman-70.3-lanzarote-20160924.csv,228,Zachary Pywell,22,lincs,GBR,00:28:56,02:43:31,01:34:20,00:03:24,00:01:26,04:51:39
+ironman-70.3-lanzarote-20160924.csv,229,Malte Schloemer,22,---,DEU,00:29:03,04:44:42,02:10:33,00:04:05,00:03:59,07:32:25
+ironman-70.3-lanzarote-20160924.csv,230,Antón Arrien De Lecea,23,---,ESP,00:40:29,04:00:56,02:02:44,00:09:17,00:03:06,06:56:34
+ironman-70.3-lanzarote-20160924.csv,231,Samir Irastorza Lamarty,23,---,ESP,00:31:49,03:17:42,01:42:34,00:05:34,00:02:07,05:39:47
+ironman-70.3-lanzarote-20160924.csv,232,Jacobo Sánchez Méndez,23,---,ESP,00:38:27,04:11:39,02:07:44,00:11:19,00:04:16,07:13:26
+ironman-70.3-lanzarote-20160924.csv,233,Domingo Vilavert Umpierrez,22,---,ESP,00:33:20,02:55:10,01:44:59,00:04:05,00:03:02,05:20:37
+ironman-70.3-lanzarote-20160924.csv,234,Marcos Borges Pintado,24,---,ESP,00:33:40,02:57:34,01:32:31,00:04:53,00:01:32,05:10:12
+ironman-70.3-lanzarote-20160924.csv,235,Benjamin Bird,24,APO,GBR,00:34:02,03:30:11,01:57:44,00:05:11,00:04:10,06:11:20
+ironman-70.3-lanzarote-20160924.csv,236,Nicolas Daniel,24,---,FRA,00:31:20,03:04:58,01:43:10,00:04:07,00:02:37,05:26:14
+ironman-70.3-lanzarote-20160924.csv,237,Tomas España,24,ireland,ESP,00:48:56,03:59:51,02:09:19,00:09:16,00:03:55,07:11:18
+ironman-70.3-lanzarote-20160924.csv,238,Jens Weckler,24,---,DEU,00:33:22,03:07:32,01:57:41,00:04:53,00:02:05,05:45:35
+ironman-70.3-lanzarote-20160924.csv,239,Aurélien Broccardo,25,FR,FRA,00:33:23,03:15:15,02:23:30,00:04:42,00:03:12,06:20:04
+ironman-70.3-lanzarote-20160924.csv,240,Symen De Jong,25,---,NLD,00:28:22,03:14:44,02:10:12,00:03:39,00:01:54,05:58:52
+ironman-70.3-lanzarote-20160924.csv,241,Christian Maurer,25,DE,DEU,00:34:01,03:22:34,01:51:49,00:05:11,00:04:01,05:57:38
+ironman-70.3-lanzarote-20160924.csv,242,Robert Walker,25,Fife,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,243,Joaquin Gonzalez Nevado,26,ES,ESP,00:27:20,02:55:12,01:45:22,00:03:10,00:02:38,05:13:44
+ironman-70.3-lanzarote-20160924.csv,244,Ignacio Herrero Martin-Berrocal,26,---,ESP,00:31:14,02:53:19,01:25:57,00:03:23,00:01:53,04:55:48
+ironman-70.3-lanzarote-20160924.csv,245,Jonatan Martínez Jimenez,26,---,ESP,00:32:17,02:56:50,01:38:11,00:03:23,00:02:10,05:12:54
+ironman-70.3-lanzarote-20160924.csv,246,Jorge Luis Navarrete Moreno,25,ES,MEX,00:41:16,04:28:16,03:17:29,00:08:50,00:07:34,08:43:27
+ironman-70.3-lanzarote-20160924.csv,247,David Santacruz Peña,25,---,ESP,00:29:07,03:26:25,02:33:55,00:04:20,00:07:11,06:41:01
+ironman-70.3-lanzarote-20160924.csv,248,José Luís Suárez Díaz,26,---,ESP,00:38:10,03:58:07,02:11:20,00:07:10,00:05:15,07:00:03
+ironman-70.3-lanzarote-20160924.csv,249,Ernesto Vallejo Ormo,26,ES,ESP,00:33:08,03:16:37,01:45:20,00:05:26,00:02:50,05:43:23
+ironman-70.3-lanzarote-20160924.csv,250,Christos Argyropoulos,26,Bucharest,GRC,00:38:13,03:31:55,02:16:43,00:06:11,00:03:59,06:37:02
+ironman-70.3-lanzarote-20160924.csv,251,Ian Crilly,26,---,IRL,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,252,Christiaan Govaerts,26,BE,BEL,00:30:35,02:54:04,01:52:21,00:04:13,00:02:22,05:23:38
+ironman-70.3-lanzarote-20160924.csv,253,Morten Krusaa,25,---,DNK,00:32:08,02:55:53,01:44:01,00:03:08,00:02:03,05:17:15
+ironman-70.3-lanzarote-20160924.csv,254,Sam Pictor,25,Wiltshire,GBR,00:29:45,02:40:55,01:26:39,00:03:32,00:01:22,04:42:15
+ironman-70.3-lanzarote-20160924.csv,255,Moises Botonero Rubio,27,ES,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,256,Miguel Cea López,27,ES,ESP,00:38:37,03:29:23,01:56:54,00:06:38,00:02:49,06:14:23
+ironman-70.3-lanzarote-20160924.csv,257,Víctor Giménez Barbosa,27,ES,ESP,00:37:45,04:19:13,02:54:34,00:06:20,00:08:39,08:06:33
+ironman-70.3-lanzarote-20160924.csv,258,Andres Polledo,27,---,ESP,00:30:15,02:44:47,01:32:49,00:04:25,00:02:13,04:54:31
+ironman-70.3-lanzarote-20160924.csv,259,Dimitri Dubois,27,BE,BEL,00:39:42,03:57:07,01:51:45,00:10:13,00:05:04,06:43:52
+ironman-70.3-lanzarote-20160924.csv,260,Neil Graham,27,---,GBR,00:37:40,03:01:12,01:43:39,00:05:07,00:02:07,05:29:47
+ironman-70.3-lanzarote-20160924.csv,261,Luke Jones,26,Nottinghamshire,GBR,00:44:55,03:49:02,02:15:19,00:07:42,00:04:19,07:01:17
+ironman-70.3-lanzarote-20160924.csv,262,Ronny Stiller,26,---,DEU,00:29:55,02:33:47,01:40:39,00:03:09,00:01:56,04:49:28
+ironman-70.3-lanzarote-20160924.csv,263,Vincent Van De Walle,26,BE,BEL,00:39:26,04:32:58,02:31:23,00:13:12,00:06:37,08:03:38
+ironman-70.3-lanzarote-20160924.csv,264,Manuel Díaz Pallares,28,ES,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,265,Pablo Herrera,28,---,ESP,00:37:27,03:24:58,01:27:59,00:06:03,00:02:58,05:39:27
+ironman-70.3-lanzarote-20160924.csv,266,Manuel Suarez Prat,28,ES,BOL,00:35:08,04:06:19,02:24:45,00:06:33,00:03:23,07:16:09
+ironman-70.3-lanzarote-20160924.csv,267,Matthieu Daniel,28,---,FRA,00:39:26,03:28:17,01:50:44,00:04:06,00:02:06,06:04:41
+ironman-70.3-lanzarote-20160924.csv,268,Dhiren Gami,28,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,269,Sean Kennedy,28,---,GBR,00:42:21,03:24:58,02:01:08,00:04:26,00:03:50,06:16:45
+ironman-70.3-lanzarote-20160924.csv,270,Andrzej Kostanski,28,---,POL,00:33:45,03:14:49,01:58:58,00:08:53,00:04:04,06:00:31
+ironman-70.3-lanzarote-20160924.csv,271,Otso Lahtinen,27,UUSIMAA,FIN,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,272,Maksim Ozerov,27,Moskovskaya oblast,RUS,00:37:54,03:35:54,01:39:01,00:04:21,00:02:50,06:00:01
+ironman-70.3-lanzarote-20160924.csv,273,Axel Peeters,27,---,BEL,00:33:36,04:15:25,02:22:16,00:06:00,00:03:46,07:21:06
+ironman-70.3-lanzarote-20160924.csv,274,Ricardo Francisco Ramos Guillén,27,---,ESP,00:33:54,04:21:44,02:15:59,00:08:17,00:07:04,07:27:00
+ironman-70.3-lanzarote-20160924.csv,275,Travis Richings,28,---,GBR,00:31:20,03:14:36,01:54:14,00:04:49,00:02:25,05:47:25
+ironman-70.3-lanzarote-20160924.csv,276,Sebastian Schmitz,27,---,DEU,00:44:32,03:59:55,02:16:56,00:07:09,00:03:59,07:12:33
+ironman-70.3-lanzarote-20160924.csv,277,Filip Van Craenenbroeck,27,---,BEL,00:24:53,02:37:40,01:26:37,00:02:34,00:01:39,04:33:25
+ironman-70.3-lanzarote-20160924.csv,278,Luis Encinas Martinez,29,---,ESP,00:31:33,03:34:09,01:48:06,00:06:35,00:03:05,06:03:30
+ironman-70.3-lanzarote-20160924.csv,279,Rafael Gil- Albarellos Jiménez,29,ES,ESP,00:34:19,03:08:30,01:39:49,00:04:59,00:02:05,05:29:44
+ironman-70.3-lanzarote-20160924.csv,280,Santi Llauger,29,ES,ESP,00:31:49,03:20:24,01:46:31,00:06:20,00:02:56,05:48:01
+ironman-70.3-lanzarote-20160924.csv,281,Sebensui Martín Rodríguez,29,ES,ESP,00:32:28,03:48:22,02:09:58,00:05:06,00:03:15,06:39:11
+ironman-70.3-lanzarote-20160924.csv,282,Damian Martinez Baz,29,---,ESP,00:31:50,03:37:29,01:54:46,00:05:36,00:03:34,06:13:17
+ironman-70.3-lanzarote-20160924.csv,283,Luis Perez Aliaga,29,---,ESP,00:36:35,03:06:09,01:32:41,00:05:27,00:02:34,05:23:27
+ironman-70.3-lanzarote-20160924.csv,284,Pau Sanchez Garcia,29,---,ESP,00:36:32,03:47:44,01:40:17,00:04:52,00:01:35,06:11:01
+ironman-70.3-lanzarote-20160924.csv,285,Danny Scaletta,28,ES,ITA,00:35:18,03:12:03,01:47:08,00:03:51,00:02:09,05:40:31
+ironman-70.3-lanzarote-20160924.csv,286,Sergio Vicente Corral,29,---,ESP,00:48:18,03:52:00,02:12:11,00:12:02,00:05:46,07:10:18
+ironman-70.3-lanzarote-20160924.csv,287,Andy Gray,29,---,GBR,00:27:51,02:47:31,01:34:42,00:03:03,00:01:51,04:55:00
+ironman-70.3-lanzarote-20160924.csv,288,Kyle Halls,28,Staffs,GBR,00:33:32,03:17:13,01:43:26,00:03:46,00:02:08,05:40:07
+ironman-70.3-lanzarote-20160924.csv,289,Grigory Lazarev,---,Moscow,RUS,00:39:14,03:37:05,01:35:08,00:03:44,00:01:48,05:57:01
+ironman-70.3-lanzarote-20160924.csv,290,Bastien Pla,28,---,FRA,00:31:19,02:53:29,01:40:20,00:03:43,00:02:18,05:11:11
+ironman-70.3-lanzarote-20160924.csv,291,Tycho Roksnoer,28,---,NLD,00:31:28,04:40:22,02:41:01,00:10:33,00:08:23,08:11:49
+ironman-70.3-lanzarote-20160924.csv,292,Mario A Salvador Sutton,29,---,ARG,00:35:08,03:21:22,01:40:08,00:03:17,00:02:21,05:42:18
+ironman-70.3-lanzarote-20160924.csv,293,Daniele Sartori,29,ITALIA,ITA,00:33:47,03:22:21,01:42:36,00:05:45,00:03:33,05:48:04
+ironman-70.3-lanzarote-20160924.csv,294,Georgy Seleznev,29,Moscow,RUS,00:35:25,03:56:52,02:10:19,00:05:02,00:03:45,06:51:25
+ironman-70.3-lanzarote-20160924.csv,295,Hector Tabares Negrin,28,---,ESP,00:34:46,03:02:46,01:43:56,00:04:28,00:02:19,05:28:17
+ironman-70.3-lanzarote-20160924.csv,296,Aitor Toxu Navarro Hita,29,---,ESP,00:39:50,02:45:18,01:38:29,00:04:41,00:02:24,05:10:43
+ironman-70.3-lanzarote-20160924.csv,297,Jérémie Vinko,29,---,FRA,00:31:10,02:51:39,01:35:30,00:03:39,00:01:39,05:03:39
+ironman-70.3-lanzarote-20160924.csv,298,Borja Aldeguer Pallares,30,ES,ESP,00:42:50,04:26:31,02:16:48,00:09:27,00:04:04,07:39:43
+ironman-70.3-lanzarote-20160924.csv,299,Germán Copete Cuenca,30,---,ESP,00:39:31,03:04:13,01:36:33,00:04:15,00:03:57,05:28:32
+ironman-70.3-lanzarote-20160924.csv,300,Luis De Mesa Rincon,30,---,ESP,00:31:07,03:10:16,01:52:15,00:05:46,00:03:40,05:43:06
+ironman-70.3-lanzarote-20160924.csv,301,Llorenc Gabriel Medina,30,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,302,Antonio Pastor Barrón,30,---,ESP,00:31:56,03:06:25,01:34:15,00:07:31,00:03:03,05:23:12
+ironman-70.3-lanzarote-20160924.csv,303,Josep Ribes Duch,30,ES,ESP,00:44:58,04:09:43,02:53:00,00:09:02,00:09:49,08:06:33
+ironman-70.3-lanzarote-20160924.csv,304,Brais Zunzunegui Tenreiro,30,ES,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,305,Erik Bakker,30,NL,NLD,00:39:29,03:26:05,01:54:00,00:07:16,00:03:55,06:10:47
+ironman-70.3-lanzarote-20160924.csv,306,James Dytham,29,Northumberland,GBR,00:34:54,03:14:24,01:48:53,00:04:33,00:02:05,05:44:50
+ironman-70.3-lanzarote-20160924.csv,307,Alessandro Fagherazzi,30,BL,ITA,00:29:19,03:05:50,01:29:08,00:03:29,00:02:05,05:09:54
+ironman-70.3-lanzarote-20160924.csv,308,Eugenio Falcioni,30,---,ITA,00:38:20,04:44:12,02:30:47,00:13:45,00:05:32,08:12:38
+ironman-70.3-lanzarote-20160924.csv,309,Tom Flowerdew,---,---,GBR,00:49:08,04:30:38,02:28:29,00:09:02,00:07:35,08:04:52
+ironman-70.3-lanzarote-20160924.csv,310,Tommy Gan,29,Manchester,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,311,Stuart Lonie,30,Lanarkshire,GBR,00:39:23,03:30:27,01:55:03,00:08:31,00:02:31,06:15:57
+ironman-70.3-lanzarote-20160924.csv,312,Stephen Robertson,30,---,GBR,00:34:31,03:29:00,01:59:07,00:04:17,00:02:43,06:09:40
+ironman-70.3-lanzarote-20160924.csv,313,Michael Schütt,30,---,DEU,00:24:55,02:47:18,01:29:45,00:02:41,00:01:40,04:46:21
+ironman-70.3-lanzarote-20160924.csv,314,Patrice Walter,30,---,DEU,00:32:32,03:10:00,01:31:16,00:04:36,00:02:46,05:21:12
+ironman-70.3-lanzarote-20160924.csv,315,Borja Delgado Diaz,31,ES,ESP,00:34:17,03:27:14,01:43:52,00:04:59,00:03:16,05:53:40
+ironman-70.3-lanzarote-20160924.csv,316,David Lorenzo García,31,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,317,Javier Mateo Garcia,31,---,ESP,00:30:17,03:03:27,01:48:08,00:04:16,00:02:17,05:28:27
+ironman-70.3-lanzarote-20160924.csv,318,Sergio Viveros Guzmán,31,---,ESP,00:32:04,03:33:53,01:54:54,00:05:26,00:02:33,06:08:52
+ironman-70.3-lanzarote-20160924.csv,319,Paul Corless,31,Cheshire,GBR,00:36:22,04:44:40,02:15:30,00:08:22,00:04:01,07:48:56
+ironman-70.3-lanzarote-20160924.csv,320,Wojciech Fudala,31,Mazowieckie,POL,00:41:31,03:33:26,02:44:03,00:05:02,00:03:01,07:07:06
+ironman-70.3-lanzarote-20160924.csv,321,Enrico Lambiase,30,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,322,Cyprien Poulain,30,FR,FRA,00:31:58,03:23:17,01:51:36,00:03:57,00:02:35,05:53:24
+ironman-70.3-lanzarote-20160924.csv,323,Jim Simons,31,NL,NLD,00:39:08,03:34:36,02:16:02,00:09:55,00:04:43,06:44:26
+ironman-70.3-lanzarote-20160924.csv,324,Daan Van Boven,30,---,NLD,00:42:22,03:39:29,02:50:57,00:10:37,00:07:44,07:31:11
+ironman-70.3-lanzarote-20160924.csv,325,Juan Carlos Vicente Corral,31,---,ESP,00:47:12,03:55:33,02:23:59,00:09:36,00:03:33,07:19:54
+ironman-70.3-lanzarote-20160924.csv,326,Pablo Amade,32,---,ESP,00:43:05,04:02:31,02:12:53,00:08:03,00:04:43,07:11:17
+ironman-70.3-lanzarote-20160924.csv,327,Tanausu Castellano,31,---,ESP,00:29:54,02:38:38,01:25:49,00:03:08,00:02:00,04:39:31
+ironman-70.3-lanzarote-20160924.csv,328,Alvaro Ibañez Junquera,31,---,ESP,00:37:48,03:12:30,02:08:07,00:05:50,00:02:21,06:06:38
+ironman-70.3-lanzarote-20160924.csv,329,Julian Viveros Guzman,32,---,ESP,00:40:45,04:02:25,02:15:10,00:07:00,00:03:31,07:08:53
+ironman-70.3-lanzarote-20160924.csv,330,Juan Caubet Fernández,32,ES,ESP,00:34:13,03:10:02,02:11:39,00:04:23,00:03:12,06:03:31
+ironman-70.3-lanzarote-20160924.csv,331,Tony Donovan,32,Cork,IRL,00:40:40,04:02:57,01:55:57,00:06:09,00:03:59,06:49:44
+ironman-70.3-lanzarote-20160924.csv,332,Jacob Ferrer Tejera,32,---,ESP,00:30:51,02:48:00,---,00:02:55,00:01:33,DNF
+ironman-70.3-lanzarote-20160924.csv,333,Richard Kinnersley,32,Berkshire,GBR,00:28:43,02:52:26,01:35:17,00:03:23,00:02:34,05:02:26
+ironman-70.3-lanzarote-20160924.csv,334,Barry Morrison,31,Cork,IRL,00:44:51,03:36:55,02:07:10,00:06:03,00:06:58,06:41:58
+ironman-70.3-lanzarote-20160924.csv,335,Dawid Panek,32,Surrey,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,336,Sergio Rivera Medina,32,---,ESP,00:33:17,03:09:39,01:40:29,00:04:47,00:02:28,05:30:43
+ironman-70.3-lanzarote-20160924.csv,337,Dario Sanchez Leon,32,---,ESP,00:32:09,02:52:07,01:43:03,00:03:33,00:01:42,05:12:36
+ironman-70.3-lanzarote-20160924.csv,338,Matteo Zavaglia,31,Como,ITA,00:41:12,03:32:05,01:49:23,00:03:54,00:02:41,06:09:17
+ironman-70.3-lanzarote-20160924.csv,339,Alejandro Collado Carmona,33,---,ESP,00:35:26,03:26:08,01:40:28,00:07:40,00:03:16,05:53:00
+ironman-70.3-lanzarote-20160924.csv,340,Félix Fernández López,33,ES,ESP,00:40:40,03:44:04,02:35:43,00:08:37,00:03:25,07:12:31
+ironman-70.3-lanzarote-20160924.csv,341,Pablo Hernán Ocaña,32,---,ESP,00:35:29,03:34:28,01:45:51,00:05:27,00:03:07,06:04:23
+ironman-70.3-lanzarote-20160924.csv,342,Daniel Maldonado Conde,33,---,ESP,00:45:36,04:36:39,---,00:09:48,---,DNF
+ironman-70.3-lanzarote-20160924.csv,343,Diego Ovide Valdes,33,ES,ESP,00:31:00,02:40:56,01:25:36,00:03:26,00:01:54,04:42:54
+ironman-70.3-lanzarote-20160924.csv,344,Josu Quesada Artiles,33,---,ESP,00:30:34,03:13:51,01:52:52,00:04:52,00:03:08,05:45:18
+ironman-70.3-lanzarote-20160924.csv,345,Matteo Bertoni,33,Luxembourg,ITA,00:42:31,03:45:24,02:16:55,00:11:29,00:04:32,07:00:53
+ironman-70.3-lanzarote-20160924.csv,346,Edouard Bretsztajn,33,---,FRA,00:38:55,03:45:18,01:53:09,00:05:08,00:03:14,06:25:46
+ironman-70.3-lanzarote-20160924.csv,347,Julio Cobos Boza,33,---,ESP,00:34:43,03:49:33,01:56:22,00:07:10,00:04:35,06:32:26
+ironman-70.3-lanzarote-20160924.csv,348,Philipp Fichtenkamm,33,---,DEU,00:33:27,03:20:24,01:55:27,00:06:02,00:03:19,05:58:41
+ironman-70.3-lanzarote-20160924.csv,349,Iain Katz,33,Northumberland,GBR,00:32:07,03:47:06,01:59:40,00:03:46,00:03:02,06:25:42
+ironman-70.3-lanzarote-20160924.csv,350,Christian Kröhnke,33,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,351,Antonio Martin Alonso,32,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,352,Maikel Moreno Medina,32,---,ESP,00:31:03,03:03:07,01:39:50,00:04:25,00:02:33,05:21:00
+ironman-70.3-lanzarote-20160924.csv,353,Dmitry Nemkov,33,ME,RUS,00:37:28,03:17:49,01:41:39,00:06:20,00:03:24,05:46:42
+ironman-70.3-lanzarote-20160924.csv,354,Juanma Pinto Romero,33,---,ESP,00:46:08,04:17:26,02:07:50,00:07:15,00:03:18,07:22:00
+ironman-70.3-lanzarote-20160924.csv,355,Juha Soralahti,33,Fin,FIN,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,356,Carlos Cárdenas Martínez,34,ES,ESP,00:43:14,04:15:11,02:22:10,00:09:32,00:05:01,07:35:10
+ironman-70.3-lanzarote-20160924.csv,357,Antonio Lozano Chaves,34,FR,ESP,00:38:56,03:20:09,01:51:05,00:04:37,00:02:05,05:56:55
+ironman-70.3-lanzarote-20160924.csv,358,Guillermo Supelano Eslait,34,ES,COL,00:38:28,03:29:19,01:59:59,00:05:21,00:05:22,06:18:32
+ironman-70.3-lanzarote-20160924.csv,359,Constantin Apostol,33,Iasi,ROU,00:55:19,03:42:53,02:13:56,00:05:20,00:05:51,07:03:21
+ironman-70.3-lanzarote-20160924.csv,360,Asemidán Barreto Camacho,33,---,ESP,00:31:47,03:47:42,01:37:53,00:06:35,00:03:53,06:07:52
+ironman-70.3-lanzarote-20160924.csv,361,Benjamin Bonetti,34,West Sussex,GBR,00:32:00,03:57:00,02:19:38,00:06:19,00:03:39,06:58:39
+ironman-70.3-lanzarote-20160924.csv,362,Mike Cedres Montelongo,34,---,ESP,00:35:13,03:18:53,01:38:27,00:03:58,00:02:05,05:38:37
+ironman-70.3-lanzarote-20160924.csv,363,Stefaan Defever,34,BE,BEL,00:42:59,03:46:03,02:11:37,00:06:50,00:04:30,06:52:01
+ironman-70.3-lanzarote-20160924.csv,364,Lyndon Gill,34,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,365,Des Mullett,34,Wexford,IRL,00:35:34,03:08:29,01:47:19,00:03:41,00:02:04,05:37:09
+ironman-70.3-lanzarote-20160924.csv,366,Davy Penet,34,BE,BEL,00:37:02,03:40:46,02:16:38,00:06:46,00:03:17,06:44:31
+ironman-70.3-lanzarote-20160924.csv,367,Josã© Manuel Solano Santolaria,34,---,ESP,00:36:57,03:52:19,02:03:42,00:05:49,00:03:28,06:42:17
+ironman-70.3-lanzarote-20160924.csv,368,Jason Want,34,Cornwall,GBR,00:42:20,03:17:05,02:24:47,00:04:34,00:04:31,06:33:19
+ironman-70.3-lanzarote-20160924.csv,369,Nils Wolski,34,---,DEU,00:38:22,03:18:22,01:52:46,00:04:05,00:01:35,05:55:12
+ironman-70.3-lanzarote-20160924.csv,370,Kit Wong,33,Cheshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,371,Davide Zorza,34,CO,ITA,00:29:11,03:11:26,02:07:30,00:03:59,00:02:34,05:54:42
+ironman-70.3-lanzarote-20160924.csv,372,Borja Basagoiti,35,---,ESP,00:43:44,03:54:06,02:02:23,00:06:19,00:02:48,06:49:22
+ironman-70.3-lanzarote-20160924.csv,373,Rafael Cobo Gutiérrez,35,---,ESP,00:35:35,03:30:50,01:59:34,00:06:53,00:03:10,06:16:04
+ironman-70.3-lanzarote-20160924.csv,374,Javier Coca Robinot,35,---,ESP,00:36:02,04:22:50,02:04:39,00:06:40,00:04:09,07:14:21
+ironman-70.3-lanzarote-20160924.csv,375,Jonathan Delgado Arocha,35,ES,ESP,00:39:52,03:38:22,01:55:45,00:05:30,00:02:43,06:22:13
+ironman-70.3-lanzarote-20160924.csv,376,Daniel Gómez Hernández,35,---,ESP,00:26:29,02:42:14,01:29:34,00:03:05,00:01:23,04:42:47
+ironman-70.3-lanzarote-20160924.csv,377,Oscar Hernandez Arteaga,34,ES,ESP,00:33:47,04:06:58,02:17:27,00:06:25,00:03:58,07:08:36
+ironman-70.3-lanzarote-20160924.csv,378,Nicolï¿½s Leiva Godoy,35,---,CHL,00:34:05,03:09:51,01:57:36,00:04:25,00:03:18,05:49:18
+ironman-70.3-lanzarote-20160924.csv,379,Rayco Rivero Garcia,34,ES,ESP,00:35:09,03:24:01,01:58:48,00:05:36,00:04:50,06:08:25
+ironman-70.3-lanzarote-20160924.csv,380,Jose Antonio Ruiz Alonso,35,ES,ESP,00:36:40,03:40:19,02:30:51,00:04:34,00:02:23,06:54:49
+ironman-70.3-lanzarote-20160924.csv,381,Eduardo Zafra Peciña,34,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,382,Thommi Biesgen,35,DE,DEU,00:41:17,03:50:39,02:18:16,00:07:23,00:05:41,07:03:19
+ironman-70.3-lanzarote-20160924.csv,383,Grant Campbell,34,derbyshire,GBR,00:43:22,04:31:38,02:30:01,00:07:24,00:03:33,07:56:01
+ironman-70.3-lanzarote-20160924.csv,384,David Fraga Paredes,35,---,ESP,00:31:21,02:56:52,01:35:35,00:03:44,00:01:43,05:09:17
+ironman-70.3-lanzarote-20160924.csv,385,Ruben Hernandez,35,---,ESP,00:33:18,03:31:28,01:58:48,00:04:26,00:02:46,06:10:49
+ironman-70.3-lanzarote-20160924.csv,386,Nick Leach,35,Merseyside,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,387,Xavier Martinot,34,---,FRA,00:37:44,04:31:59,02:12:32,00:08:59,00:05:45,07:37:01
+ironman-70.3-lanzarote-20160924.csv,388,Andrea Olivi,35,italia,ITA,00:41:02,03:12:19,02:01:03,00:06:30,00:02:10,06:03:06
+ironman-70.3-lanzarote-20160924.csv,389,Francesco Paolo Rapino,35,italia,ITA,00:37:31,03:23:06,01:50:23,00:05:07,00:02:11,05:58:21
+ironman-70.3-lanzarote-20160924.csv,390,Paul Savage,35,Louth,IRL,00:39:48,03:16:07,01:42:04,00:05:38,00:03:19,05:46:59
+ironman-70.3-lanzarote-20160924.csv,391,Panicos Shangaris,37,London,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,392,Michael Shum,34,Cheshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,393,Andrew Thornton,34,---,GBR,00:41:13,03:50:46,02:58:43,00:08:47,00:04:18,07:43:48
+ironman-70.3-lanzarote-20160924.csv,394,Aarã³n Betancor Sã¡nchez,35,---,ESP,00:39:45,03:39:32,02:12:04,00:10:03,00:06:25,06:47:52
+ironman-70.3-lanzarote-20160924.csv,395,Carlos Cuerpo Caballero,35,---,ESP,00:38:38,03:26:56,02:00:08,00:05:45,00:02:26,06:13:55
+ironman-70.3-lanzarote-20160924.csv,396,Samuel Diaz Lopez,36,---,ESP,00:43:17,03:57:17,02:05:47,00:08:47,00:04:34,06:59:44
+ironman-70.3-lanzarote-20160924.csv,397,Antonio Gamarra,35,ES,ITA,00:37:12,03:09:57,01:50:07,00:05:36,00:02:37,05:45:32
+ironman-70.3-lanzarote-20160924.csv,399,Brad Dornbusch,36,East Yorkshire,NZL,00:30:54,03:11:13,01:49:17,00:04:30,00:03:01,05:38:57
+ironman-70.3-lanzarote-20160924.csv,400,Bjorn Janson,36,NL,NLD,00:41:05,03:42:16,01:54:39,00:07:30,00:02:51,06:28:22
+ironman-70.3-lanzarote-20160924.csv,401,Frédéric Manguin,36,---,FRA,00:39:43,04:19:00,02:38:55,00:09:30,00:05:31,07:52:42
+ironman-70.3-lanzarote-20160924.csv,402,Marek Pamula,36,Dublin,POL,00:38:40,03:31:35,02:18:34,00:04:21,00:02:20,06:35:31
+ironman-70.3-lanzarote-20160924.csv,403,Tom Pattison,36,northumberland,GBR,00:34:32,03:10:12,01:52:45,00:03:54,00:02:30,05:43:56
+ironman-70.3-lanzarote-20160924.csv,404,Stuart Robinson,36,Cornwall,GBR,00:32:34,03:41:30,02:10:27,00:04:33,00:04:13,06:33:19
+ironman-70.3-lanzarote-20160924.csv,405,Ruben Romero Rodriguez,36,---,ESP,00:31:26,03:04:52,01:44:16,00:03:59,00:01:42,05:26:18
+ironman-70.3-lanzarote-20160924.csv,406,Ivan Sheridan,35,Ireland,IRL,00:33:42,03:02:06,01:33:43,00:03:40,00:02:11,05:15:25
+ironman-70.3-lanzarote-20160924.csv,407,Harley Upham,36,---,GBR,00:50:24,04:08:50,02:49:25,00:05:18,00:03:48,07:57:47
+ironman-70.3-lanzarote-20160924.csv,408,Pieter Van Eldonk,35,NL,NLD,00:42:30,03:56:53,02:37:45,00:07:08,00:06:13,07:30:31
+ironman-70.3-lanzarote-20160924.csv,409,Kevin Vandervoort,36,---,BEL,00:32:35,02:53:37,01:36:02,00:04:17,00:02:04,05:08:37
+ironman-70.3-lanzarote-20160924.csv,410,Josã© Marã­a Castellano,37,---,ESP,00:33:05,03:11:37,01:56:27,00:05:23,00:02:21,05:48:55
+ironman-70.3-lanzarote-20160924.csv,411,Juan Fernández Vidal,37,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,412,Fernando Garnica Yllera,36,---,ESP,00:43:21,04:14:37,02:20:56,00:08:09,00:04:49,07:31:55
+ironman-70.3-lanzarote-20160924.csv,413,Ulíses Hernandez Martín,37,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,414,Ramiro Salas,36,ES,ITA,00:35:13,03:37:36,02:38:34,00:05:20,00:02:31,06:59:16
+ironman-70.3-lanzarote-20160924.csv,415,Sergio Tizon Gallego,37,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,416,Alexis Callero Hernandez,37,---,ESP,00:32:36,03:00:58,01:36:49,00:03:55,00:02:24,05:16:45
+ironman-70.3-lanzarote-20160924.csv,417,Kevin Davie,36,Fife,GBR,00:41:53,03:33:12,01:49:18,00:06:14,00:04:39,06:15:20
+ironman-70.3-lanzarote-20160924.csv,418,Iván Díaz Gutiérrez,37,---,ESP,00:38:15,04:04:45,02:07:29,00:11:14,00:06:19,07:08:06
+ironman-70.3-lanzarote-20160924.csv,419,Timo Diefenbacher,37,DE,DEU,00:29:05,03:14:39,01:59:18,00:04:00,00:03:02,05:50:07
+ironman-70.3-lanzarote-20160924.csv,420,Daniel Forer,37,---,ZAF,00:38:03,03:28:10,02:07:09,00:04:56,00:02:39,06:20:58
+ironman-70.3-lanzarote-20160924.csv,421,Mark Honeyman,37,---,GBR,00:35:03,03:43:06,02:22:40,00:07:52,00:05:21,06:54:04
+ironman-70.3-lanzarote-20160924.csv,422,David Mcgarrigle,37,---,IRL,00:35:14,03:20:34,01:55:42,00:05:03,00:02:46,05:59:22
+ironman-70.3-lanzarote-20160924.csv,423,Alberto Jonathan Mendez De Herrra,36,---,ESP,00:35:41,03:04:10,01:35:41,00:04:35,00:02:33,05:22:41
+ironman-70.3-lanzarote-20160924.csv,424,Andrea Molteni,37,---,ITA,00:33:07,03:13:54,02:18:53,00:05:16,00:03:41,06:14:54
+ironman-70.3-lanzarote-20160924.csv,425,Ivan Carlos Rodriguez Caraballo,37,---,ESP,00:42:32,03:57:17,02:15:59,00:06:06,00:04:33,07:06:28
+ironman-70.3-lanzarote-20160924.csv,426,Toon Van Lier,37,---,BEL,00:34:28,03:25:54,01:53:06,00:05:01,00:03:01,06:01:31
+ironman-70.3-lanzarote-20160924.csv,427,David Vaz Villamarin,36,---,ESP,00:42:06,03:49:12,01:49:35,00:06:33,00:03:28,06:30:56
+ironman-70.3-lanzarote-20160924.csv,428,Florian Waldmüller,36,DE,DEU,00:40:43,03:23:21,02:00:40,00:07:21,00:02:03,06:14:10
+ironman-70.3-lanzarote-20160924.csv,429,Asier Alberdi Cano,37,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,430,Andres Alvarado,38,---,VEN,00:38:34,03:29:35,01:58:22,00:05:46,00:04:19,06:16:38
+ironman-70.3-lanzarote-20160924.csv,431,Pedro Cabrera Arencibia,38,ES,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,432,Juan Miguel Calleja,38,ES,ESP,00:32:57,03:40:44,01:54:39,00:05:04,00:02:36,06:16:01
+ironman-70.3-lanzarote-20160924.csv,433,Alexandre Almeida,38,---,PRT,00:38:13,03:44:43,02:20:30,00:08:34,00:04:06,06:56:08
+ironman-70.3-lanzarote-20160924.csv,434,Alexander Buirski,38,AUH,AUS,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,435,Pablo Goldenberg,37,ES,ESP,00:46:25,04:00:46,02:18:20,00:06:31,00:03:53,07:15:57
+ironman-70.3-lanzarote-20160924.csv,436,Pierre Hellal,38,FR,FRA,00:39:36,03:14:24,01:48:16,00:04:37,00:02:31,05:49:25
+ironman-70.3-lanzarote-20160924.csv,437,Josã© Angel Lemes Clavijo,38,---,ESP,00:34:03,02:54:32,01:32:56,00:03:21,00:01:56,05:06:50
+ironman-70.3-lanzarote-20160924.csv,438,Gibert Leygonie,37,---,GBR,00:37:59,03:43:18,01:52:03,00:08:18,00:04:35,06:26:14
+ironman-70.3-lanzarote-20160924.csv,439,Akio Madono,38,Tokyo,JPN,00:43:25,03:43:45,02:34:02,00:07:27,00:05:21,07:14:02
+ironman-70.3-lanzarote-20160924.csv,440,Georgios Theophilou,37,---,CYP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,441,Gareth Wilson,38,---,GBR,00:30:42,03:50:35,02:06:26,00:04:51,00:03:55,06:36:31
+ironman-70.3-lanzarote-20160924.csv,442,Krzysztof Witaszewski,38,Mazowieckie,POL,00:36:33,03:22:18,02:07:08,00:05:44,00:02:48,06:14:33
+ironman-70.3-lanzarote-20160924.csv,443,Alberto Calvo Dargel,39,---,ESP,00:44:52,04:10:30,02:01:02,00:07:09,00:03:10,07:06:45
+ironman-70.3-lanzarote-20160924.csv,444,Miguel Herrera Pacheco,39,ES,VEN,00:39:21,03:45:08,01:57:53,00:07:51,00:03:43,06:33:58
+ironman-70.3-lanzarote-20160924.csv,445,Sergio Hidalgo Herrera,39,ES,ESP,00:32:18,03:15:05,02:01:27,00:04:20,00:01:45,05:54:58
+ironman-70.3-lanzarote-20160924.csv,446,Gonzalo Lorenzo Alonso,39,---,ESP,00:38:30,03:40:04,01:51:34,00:06:59,00:04:30,06:21:40
+ironman-70.3-lanzarote-20160924.csv,447,Jorge Marrero Ibáñez,39,---,ESP,00:34:14,03:04:21,01:52:10,00:05:52,00:03:19,05:39:58
+ironman-70.3-lanzarote-20160924.csv,448,Jose Luis Ocaña Ortega,38,---,ESP,00:35:40,03:13:31,02:01:50,00:04:59,00:02:50,05:58:52
+ironman-70.3-lanzarote-20160924.csv,449,Alfredo Zapata,38,---,ESP,00:50:46,04:11:53,02:27:54,00:07:18,00:05:37,07:43:29
+ironman-70.3-lanzarote-20160924.csv,450,Kenneth Banke,39,DK,DNK,00:40:18,03:13:55,01:39:46,00:06:38,00:02:44,05:43:22
+ironman-70.3-lanzarote-20160924.csv,451,Simone Castaldo,39,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,452,Asif Dar,39,---,GBR,00:53:22,04:14:29,02:19:33,00:10:30,00:07:47,07:45:42
+ironman-70.3-lanzarote-20160924.csv,453,Jean François Dor,38,---,FRA,00:45:00,04:14:58,02:06:06,00:06:02,00:03:31,07:15:39
+ironman-70.3-lanzarote-20160924.csv,454,Leandro Fanfani,39,italia,ITA,00:31:27,03:18:01,01:46:51,00:04:06,00:02:28,05:42:54
+ironman-70.3-lanzarote-20160924.csv,455,Craig Gair,39,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,456,Benjamin Makumba,39,---,BEL,00:35:32,03:34:24,02:01:51,00:06:34,00:04:10,06:22:32
+ironman-70.3-lanzarote-20160924.csv,457,Emanuel Strueber,38,---,DEU,00:31:55,03:15:36,01:41:43,00:04:32,00:02:08,05:35:56
+ironman-70.3-lanzarote-20160924.csv,458,Valentin Manuel Tome Dominguez,39,---,ESP,00:37:16,03:26:39,01:39:33,00:07:22,00:03:23,05:54:15
+ironman-70.3-lanzarote-20160924.csv,459,Franck Vuaillat,39,---,FRA,00:36:03,03:32:20,01:57:09,00:03:49,00:03:21,06:12:45
+ironman-70.3-lanzarote-20160924.csv,460,Cesar Borges Alvarez,39,---,ESP,00:32:59,03:44:17,02:18:45,00:05:22,00:04:33,06:45:57
+ironman-70.3-lanzarote-20160924.csv,461,Jose Iniguez,40,ES,FRA,00:29:51,02:50:56,01:35:34,00:03:41,00:02:26,05:02:30
+ironman-70.3-lanzarote-20160924.csv,462,Eduardo Sánchez Campos,40,---,ESP,00:31:41,03:39:16,02:00:49,00:06:26,00:02:33,06:20:46
+ironman-70.3-lanzarote-20160924.csv,463,Orazio Bonavida,40,TREVISO,ITA,00:30:16,02:55:53,01:44:45,00:03:08,00:01:47,05:15:51
+ironman-70.3-lanzarote-20160924.csv,464,Moises Javier Gutierrez Gonzalez,39,---,ESP,00:33:09,02:49:55,01:50:34,00:03:54,00:02:23,05:19:56
+ironman-70.3-lanzarote-20160924.csv,465,Gerfried Weisensteiner,44,---,AUT,00:37:42,03:53:48,02:09:29,00:04:51,00:03:24,06:49:15
+ironman-70.3-lanzarote-20160924.csv,466,Raul Martin De La Montaña,40,---,ESP,00:36:01,04:22:31,---,00:06:52,00:04:16,DNF
+ironman-70.3-lanzarote-20160924.csv,467,Andrew Ruffer,40,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,468,Martin Shipp,40,Surrey,GBR,00:34:26,03:31:10,02:11:24,00:06:06,00:03:15,06:26:23
+ironman-70.3-lanzarote-20160924.csv,469,Trevor Storey,40,London,IRL,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,470,Kevin Synott,39,Clare,IRL,00:33:36,03:02:55,01:41:06,00:04:35,00:02:41,05:24:56
+ironman-70.3-lanzarote-20160924.csv,471,Ivo Van Ee,40,---,NLD,00:47:34,03:54:12,02:06:16,00:08:03,00:03:30,06:59:37
+ironman-70.3-lanzarote-20160924.csv,472,Mihai Voicu,40,Ilfov,ROU,00:37:15,03:43:45,02:33:22,00:08:10,00:05:05,07:07:39
+ironman-70.3-lanzarote-20160924.csv,473,Daniel Cardoso De Sa,40,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,474,Carlos Cuenca Gimenez,40,---,ESP,00:37:37,03:30:18,01:44:07,00:06:18,00:02:35,06:00:56
+ironman-70.3-lanzarote-20160924.csv,475,Jaime Sampol Brazis,41,---,ESP,00:33:16,03:12:56,01:52:12,00:05:40,00:02:43,05:46:49
+ironman-70.3-lanzarote-20160924.csv,476,Matteo Alberti,41,LC,ITA,00:33:13,03:23:18,01:39:51,00:04:06,00:02:18,05:42:48
+ironman-70.3-lanzarote-20160924.csv,477,Gianluca Biondi,41,LC,ITA,00:33:40,03:30:08,01:44:40,00:05:17,00:02:54,05:56:40
+ironman-70.3-lanzarote-20160924.csv,478,Jonathan Brunyee,41,---,GBR,00:39:51,03:11:44,01:50:50,00:05:27,00:03:58,05:51:51
+ironman-70.3-lanzarote-20160924.csv,479,William Byrne,41,co dublin,IRL,00:31:16,03:07:00,01:42:56,00:05:42,00:02:50,05:29:45
+ironman-70.3-lanzarote-20160924.csv,480,Marcus Cockburn,41,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,481,Jan Jeppesen,41,DK,DNK,00:36:27,03:31:18,02:07:52,00:05:58,00:03:08,06:24:45
+ironman-70.3-lanzarote-20160924.csv,482,Manfredi Lai,41,Italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,483,Joe Lathan,40,---,GBR,00:36:14,03:22:45,01:58:13,00:04:40,00:02:20,06:04:15
+ironman-70.3-lanzarote-20160924.csv,484,Ralph Metten,41,---,NLD,00:35:36,03:30:37,01:49:16,00:03:59,00:02:34,06:02:03
+ironman-70.3-lanzarote-20160924.csv,485,Candido Vicente Misa Romero,41,---,ESP,00:40:14,04:10:33,02:35:10,00:06:16,00:05:17,07:37:31
+ironman-70.3-lanzarote-20160924.csv,486,Tony Monte,41,Chieti,ITA,00:35:08,04:01:52,02:30:31,00:06:56,00:08:56,07:23:25
+ironman-70.3-lanzarote-20160924.csv,487,Miguel Angel Morales Canales,40,---,ESP,00:29:44,03:09:19,01:38:54,00:04:48,00:02:09,05:24:57
+ironman-70.3-lanzarote-20160924.csv,488,Marco Moser,41,---,DEU,00:33:43,02:59:05,01:41:08,00:04:30,00:01:54,05:20:22
+ironman-70.3-lanzarote-20160924.csv,489,Alessandro Murgia,41,Italia,ITA,00:40:10,04:06:39,02:07:10,00:09:09,00:05:17,07:08:28
+ironman-70.3-lanzarote-20160924.csv,490,Gabriele Rossi,41,Italia,ITA,00:44:33,04:28:01,02:39:21,00:11:24,00:05:25,08:08:46
+ironman-70.3-lanzarote-20160924.csv,491,Thomas Roth,41,---,CHE,00:39:53,03:23:37,02:01:40,00:05:37,00:03:51,06:14:41
+ironman-70.3-lanzarote-20160924.csv,492,Andrew Scowcroft,41,manchester,GBR,00:36:44,03:38:49,01:59:16,00:07:19,00:03:57,06:26:07
+ironman-70.3-lanzarote-20160924.csv,493,Hugo Berenguer,42,ES,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,494,Marco Ruano,42,---,ESP,00:48:06,03:53:59,02:06:55,00:06:14,00:02:51,06:58:06
+ironman-70.3-lanzarote-20160924.csv,495,Fabrizio Brambilla,42,italia,ITA,00:34:12,03:40:10,02:29:47,00:04:02,00:02:27,06:50:39
+ironman-70.3-lanzarote-20160924.csv,496,Matt Coe,42,DXB,ARE,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,497,Emilio Jose Hernandez Dominguez,42,---,ESP,00:40:04,03:26:05,01:48:13,00:07:46,00:03:58,06:06:07
+ironman-70.3-lanzarote-20160924.csv,498,Paul Hetherton,42,Leics,GBR,00:31:30,03:23:59,01:58:12,00:04:41,00:04:08,06:02:33
+ironman-70.3-lanzarote-20160924.csv,499,Derek Kenny,42,Dublin,IRL,00:39:42,04:28:16,02:37:50,00:09:09,00:08:02,08:03:01
+ironman-70.3-lanzarote-20160924.csv,500,Eamonn Noonan,42,Intl State,IRL,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,501,Jérôme Rey,42,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,502,Alexander Rodríguez Álvarez,42,---,ESP,00:42:52,04:23:33,02:51:44,00:09:43,00:03:55,08:11:50
+ironman-70.3-lanzarote-20160924.csv,503,Gabriel Sierra Senso,42,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,504,Richard Stockton,42,Leicestershire,GBR,00:43:09,04:14:25,02:10:20,00:08:10,00:04:19,07:20:24
+ironman-70.3-lanzarote-20160924.csv,505,Christian Wolf,42,DE,DEU,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,506,Javier Alcalde Pro,42,---,ESP,00:33:37,03:37:31,01:41:19,00:06:11,00:04:16,06:02:56
+ironman-70.3-lanzarote-20160924.csv,507,David González Cortés,43,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,508,Juan Manuel Rodríguez Martos,43,---,ESP,00:37:11,03:50:55,01:58:14,00:07:07,00:02:47,06:36:16
+ironman-70.3-lanzarote-20160924.csv,509,Angel Sanz Contreras,43,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,510,Hendrik Abeln,43,DE,DEU,00:26:55,02:59:33,01:38:15,00:03:08,00:02:10,05:10:03
+ironman-70.3-lanzarote-20160924.csv,511,Andrew Ackerley,43,England,GBR,00:34:43,02:56:51,01:31:58,00:03:36,00:01:30,05:08:39
+ironman-70.3-lanzarote-20160924.csv,512,Lars Buberge,43,DE,DEU,00:37:11,03:03:25,01:43:06,00:07:00,00:02:47,05:33:31
+ironman-70.3-lanzarote-20160924.csv,513,Santiago De Ganzo Sanabria,43,---,ESP,00:38:48,03:48:08,02:06:31,00:05:51,00:04:14,06:43:33
+ironman-70.3-lanzarote-20160924.csv,514,Richard Frith,43,Surrey,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,515,Gareth Jenkins,43,---,GBR,00:33:39,03:25:07,01:46:21,00:06:34,00:03:03,05:54:45
+ironman-70.3-lanzarote-20160924.csv,516,Anthony Le Naour,43,---,CHE,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,517,Andre Marhauer,43,---,DEU,00:34:16,03:12:12,01:51:10,00:06:14,00:02:46,05:46:39
+ironman-70.3-lanzarote-20160924.csv,518,Hector Mouneu,43,---,MEX,00:36:49,03:47:35,02:24:38,00:05:02,00:04:52,06:58:58
+ironman-70.3-lanzarote-20160924.csv,519,José Valentin Perez Rodríguez,43,---,ESP,00:36:24,03:05:27,01:39:04,00:04:22,00:02:08,05:27:27
+ironman-70.3-lanzarote-20160924.csv,520,Mat Powell,42,Berkshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,521,Fernando Rodrã­guez Camacho,42,---,ESP,00:27:30,02:50:51,01:27:33,00:03:12,00:02:12,04:51:20
+ironman-70.3-lanzarote-20160924.csv,522,Xander Smith,43,NL,NLD,00:35:02,03:35:43,02:14:40,00:05:47,00:06:24,06:37:38
+ironman-70.3-lanzarote-20160924.csv,523,Martin Thomsen,43,DK,DNK,00:37:38,03:18:41,---,00:04:28,00:02:11,DNF
+ironman-70.3-lanzarote-20160924.csv,524,Gregory Van Overloop,43,---,BEL,00:47:05,03:46:46,02:16:01,00:05:18,00:02:38,06:57:49
+ironman-70.3-lanzarote-20160924.csv,525,Domingo Antonio Vega Robaina,43,---,ESP,00:38:39,03:40:37,02:02:21,00:07:00,00:04:04,06:32:42
+ironman-70.3-lanzarote-20160924.csv,526,Antonio Gomez Gonzalez,44,---,ESP,00:36:42,03:27:54,01:35:17,00:04:36,00:02:50,05:47:20
+ironman-70.3-lanzarote-20160924.csv,527,Manuel Liñán,44,---,ESP,00:47:24,04:09:00,02:08:02,00:06:38,00:04:35,07:15:42
+ironman-70.3-lanzarote-20160924.csv,528,Fernando Timón,44,---,ESP,00:41:14,03:58:11,02:10:10,00:07:50,00:04:01,07:01:28
+ironman-70.3-lanzarote-20160924.csv,529,Jose Joaquin Acosta Arango,44,---,ESP,00:31:46,03:18:29,01:46:16,00:05:13,00:02:15,05:44:01
+ironman-70.3-lanzarote-20160924.csv,530,Maciej Belski,44,---,POL,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,531,Guillermo Bracons Diaz,44,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,532,Nathan Browne,44,---,GBR,00:47:19,04:52:47,02:34:12,00:09:37,00:04:01,08:27:58
+ironman-70.3-lanzarote-20160924.csv,533,Sven De Meester,44,BE,BEL,00:44:30,03:48:10,02:13:57,00:08:59,00:04:17,06:59:55
+ironman-70.3-lanzarote-20160924.csv,534,Gerardo Fernández Febles,43,---,ESP,00:37:10,04:05:43,02:08:35,00:09:03,00:05:04,07:05:37
+ironman-70.3-lanzarote-20160924.csv,535,Gregorio Fulginiti,44,---,ITA,00:38:02,03:43:34,03:07:54,00:05:15,00:04:34,07:39:21
+ironman-70.3-lanzarote-20160924.csv,536,Fernando Gamero,44,Dublin,ESP,00:44:24,04:28:02,02:35:42,00:06:33,00:06:59,08:01:42
+ironman-70.3-lanzarote-20160924.csv,537,Oliver Helfen,44,DE,DEU,00:50:25,03:35:25,02:09:42,00:08:03,00:04:23,06:48:00
+ironman-70.3-lanzarote-20160924.csv,538,Phillip Liley,43,Bucks,GBR,00:38:43,03:33:14,01:55:18,00:11:45,00:05:41,06:24:43
+ironman-70.3-lanzarote-20160924.csv,539,Greville Lucking,44,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,540,Kevin Muller,43,---,GBR,00:31:18,03:53:31,01:52:40,00:05:02,00:03:19,06:25:51
+ironman-70.3-lanzarote-20160924.csv,541,Tobias Norkowski,44,---,DEU,00:32:29,03:17:25,01:57:40,00:06:08,00:02:49,05:56:33
+ironman-70.3-lanzarote-20160924.csv,542,Darren Orchard,43,---,GBR,00:29:13,02:51:21,01:30:16,00:03:30,00:01:31,04:55:52
+ironman-70.3-lanzarote-20160924.csv,543,Gavin Postlethwaite,44,SURREY,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,544,Vincent Servais,44,---,BEL,00:31:30,02:53:15,01:50:25,00:04:04,00:02:24,05:21:39
+ironman-70.3-lanzarote-20160924.csv,545,Marc Smith,44,ireland,IRL,00:40:38,03:51:37,01:55:30,00:06:49,00:04:25,06:39:01
+ironman-70.3-lanzarote-20160924.csv,546,Peter O'Malley,47,---,IRL,00:43:11,04:05:41,01:54:07,00:08:46,00:04:24,06:56:09
+ironman-70.3-lanzarote-20160924.csv,547,Miguel Alberdi Cano,45,---,ESP,00:37:33,03:37:24,01:49:26,00:05:11,00:02:17,06:11:53
+ironman-70.3-lanzarote-20160924.csv,548,Pedro Medina Sáenz,45,ES,ESP,00:37:06,03:51:33,02:14:22,00:06:39,00:04:03,06:53:45
+ironman-70.3-lanzarote-20160924.csv,549,Armando Prados Fortes,44,ES,ESP,00:40:21,03:58:46,02:10:44,00:07:27,00:04:36,07:01:55
+ironman-70.3-lanzarote-20160924.csv,550,Jesus Prieto Romero,45,ES,ESP,00:30:32,03:21:25,02:03:13,00:05:03,00:03:12,06:03:28
+ironman-70.3-lanzarote-20160924.csv,551,Rafael Prieto-Moreno Guerrero,45,ES,ESP,00:38:58,03:56:20,02:25:34,00:07:31,00:03:30,07:11:55
+ironman-70.3-lanzarote-20160924.csv,552,Eduardo Rodriguez,45,---,ESP,00:36:12,03:28:27,02:08:42,00:06:25,00:05:28,06:25:16
+ironman-70.3-lanzarote-20160924.csv,553,Leroy Brown,45,---,GBR,00:40:27,03:18:42,01:41:36,00:04:10,00:02:56,05:47:52
+ironman-70.3-lanzarote-20160924.csv,554,Toby Cole,45,Intl State,GBR,00:33:37,03:22:18,01:37:25,00:03:52,00:01:44,05:38:58
+ironman-70.3-lanzarote-20160924.csv,555,Ken Demiddel,44,---,BEL,00:31:06,02:58:07,01:56:05,00:05:11,00:02:18,05:32:49
+ironman-70.3-lanzarote-20160924.csv,556,Francis Hendrickx,45,---,BEL,00:36:00,03:36:57,01:48:45,00:05:55,00:03:59,06:11:38
+ironman-70.3-lanzarote-20160924.csv,557,Mark Jeffrey,45,---,GBR,00:41:42,04:16:51,02:27:03,00:07:12,00:04:38,07:37:27
+ironman-70.3-lanzarote-20160924.csv,558,James Keen,45,Hampshire,GBR,00:34:06,03:23:28,01:48:39,00:05:04,00:02:47,05:54:06
+ironman-70.3-lanzarote-20160924.csv,559,James Mcmahon,45,---,IRL,00:42:33,03:46:56,02:07:42,00:07:13,00:07:11,06:51:37
+ironman-70.3-lanzarote-20160924.csv,560,Luis Mirabal,45,---,ESP,00:37:22,03:08:58,01:32:14,00:04:38,00:02:41,05:25:56
+ironman-70.3-lanzarote-20160924.csv,561,Pascal Roelandt,44,---,BEL,00:42:36,03:52:19,02:29:32,00:05:18,00:03:13,07:12:59
+ironman-70.3-lanzarote-20160924.csv,562,Iñigo Barbolla Bizueta,46,ES,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,563,Javier Cardenas Martinez,45,---,ESP,00:52:41,04:30:20,03:02:47,00:10:15,00:06:40,08:42:44
+ironman-70.3-lanzarote-20160924.csv,564,Manu Herguedas,45,ES,ESP,00:42:25,04:01:50,02:01:48,00:11:49,00:07:56,07:05:50
+ironman-70.3-lanzarote-20160924.csv,565,Ako Pavía,46,---,ESP,00:29:12,03:05:31,01:46:50,00:04:47,00:01:56,05:28:18
+ironman-70.3-lanzarote-20160924.csv,566,Javier Valdes,46,ES,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,567,Peter Andries,46,BE,BEL,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,568,Nicholas Baddour,46,---,LBN,00:31:16,03:20:08,01:43:36,00:04:22,00:03:37,05:43:02
+ironman-70.3-lanzarote-20160924.csv,569,Pete Campbell,46,---,GBR,00:36:41,04:13:22,02:33:25,00:07:33,00:06:03,07:37:06
+ironman-70.3-lanzarote-20160924.csv,570,Giuliano Galli,46,ITALY,ITA,00:46:57,04:13:27,02:26:18,00:07:20,00:04:58,07:39:02
+ironman-70.3-lanzarote-20160924.csv,571,Martin Herrmann,46,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,572,Russell Kingston,46,Worcs,GBR,00:34:18,02:59:34,01:42:54,00:04:31,00:02:12,05:23:31
+ironman-70.3-lanzarote-20160924.csv,573,Stephen Locker,45,---,GBR,00:36:30,03:03:22,02:04:50,00:03:58,00:03:12,05:51:53
+ironman-70.3-lanzarote-20160924.csv,574,Mario Massarelli,45,ES,ESP,00:39:52,04:13:14,02:13:09,00:10:59,00:06:35,07:23:51
+ironman-70.3-lanzarote-20160924.csv,575,Filipe Pereira,46,Lisboa ,PRT,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,576,Lee Pringle,46,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,577,Peter Zuber,46,---,CHE,00:35:45,03:35:25,02:14:20,00:05:27,00:03:56,06:34:56
+ironman-70.3-lanzarote-20160924.csv,578,Gonzalo J. Macias Diaz,47,---,ESP,00:47:11,03:45:00,01:47:38,00:05:42,00:03:19,06:28:51
+ironman-70.3-lanzarote-20160924.csv,579,Peter Achton,47,---,DNK,00:41:20,03:49:49,02:16:01,00:06:05,00:05:03,06:58:20
+ironman-70.3-lanzarote-20160924.csv,580,Regulo Andrade,47,---,ESP,00:51:09,03:40:42,01:50:18,00:07:22,00:02:23,06:31:56
+ironman-70.3-lanzarote-20160924.csv,581,Antoine Flori,47,---,NLD,00:27:30,02:50:31,02:00:29,00:03:05,00:02:36,05:24:13
+ironman-70.3-lanzarote-20160924.csv,582,Stephen Rowland,47,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,583,Javier Sánchez,46,---,ESP,00:31:56,03:35:29,01:55:14,00:05:04,00:03:59,06:11:44
+ironman-70.3-lanzarote-20160924.csv,584,Nick Sarris,47,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,585,Enea Strozzi,47,Italia,ITA,00:37:25,03:26:16,01:53:48,00:06:33,00:03:10,06:07:14
+ironman-70.3-lanzarote-20160924.csv,586,Ivan Jose Ardines Caicoya,48,---,ESP,00:37:32,03:16:16,01:46:08,00:08:10,00:03:57,05:52:05
+ironman-70.3-lanzarote-20160924.csv,587,Ernest Ros Cortada,47,---,ESP,00:39:02,03:41:56,02:49:26,00:08:08,00:05:25,07:23:59
+ironman-70.3-lanzarote-20160924.csv,588,Ximo Rubert Alemán,48,---,ESP,00:30:09,03:37:58,01:43:43,00:04:39,00:03:16,05:59:47
+ironman-70.3-lanzarote-20160924.csv,589,Pablo Vior,47,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,590,Jose Antonio Serrano Perez,48,---,ESP,00:36:28,03:57:38,01:57:29,00:07:58,00:04:16,06:43:52
+ironman-70.3-lanzarote-20160924.csv,591,Laurent Chevalier,48,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,592,Gianluca Cogoi,48,TREVISO,ITA,00:37:41,03:08:39,01:35:59,00:04:23,00:02:04,05:28:48
+ironman-70.3-lanzarote-20160924.csv,593,Dean Gee,48,APO,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,594,Michi Gratzer,48,AT,AUT,00:29:07,02:57:00,01:56:04,00:03:56,00:02:05,05:28:14
+ironman-70.3-lanzarote-20160924.csv,595,Kurt Hattas,47,BE,BEL,00:32:33,02:59:34,01:43:26,00:04:36,00:02:25,05:22:36
+ironman-70.3-lanzarote-20160924.csv,596,Tim Malpass,48,Kemt,GBR,00:34:45,03:29:25,02:00:28,00:05:12,00:02:07,06:11:59
+ironman-70.3-lanzarote-20160924.csv,597,Stefano Mangiavacchi,47,SIENA,ITA,00:44:23,03:28:40,01:57:56,00:06:57,00:04:55,06:22:53
+ironman-70.3-lanzarote-20160924.csv,598,Walter Milani,47,Intl State,ITA,00:32:00,03:04:36,01:47:14,00:03:13,00:02:12,05:29:17
+ironman-70.3-lanzarote-20160924.csv,599,Sergey Mosin,48,moscow,RUS,00:52:08,04:02:22,02:22:01,00:11:39,00:05:29,07:33:40
+ironman-70.3-lanzarote-20160924.csv,600,Lee Loughran,40,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,601,Scott Page,48,---,GBR,00:34:35,04:19:29,---,00:05:37,---,DNF
+ironman-70.3-lanzarote-20160924.csv,602,Eymeric Segard,48,---,CHE,00:28:09,03:16:36,01:57:42,00:03:23,00:02:19,05:48:11
+ironman-70.3-lanzarote-20160924.csv,603,Kevin Wallace,48,UK,GBR,00:40:30,03:46:55,---,00:05:53,00:04:40,DNF
+ironman-70.3-lanzarote-20160924.csv,604,Andreas Walser,48,---,CHE,00:31:00,03:12:54,02:00:27,00:03:58,00:04:01,05:52:22
+ironman-70.3-lanzarote-20160924.csv,605,Agustín Martín Verdún,48,---,ESP,00:44:41,03:42:56,02:28:18,00:05:50,00:03:19,07:05:05
+ironman-70.3-lanzarote-20160924.csv,606,Mark Arnell,48,Kent,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,607,Jason Chubb,49,Devon,GBR,00:31:52,02:53:02,01:36:16,00:04:14,00:02:04,05:07:29
+ironman-70.3-lanzarote-20160924.csv,608,Jurgen De Boever,48,---,BEL,00:36:37,03:05:43,01:38:25,00:04:24,00:02:13,05:27:23
+ironman-70.3-lanzarote-20160924.csv,609,Andreas Fellmann,48,---,DEU,00:38:09,03:45:52,01:57:51,00:06:08,00:03:11,06:31:12
+ironman-70.3-lanzarote-20160924.csv,610,João Fonseca,48,Porto,PRT,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,611,Rodion Kohlhoff,48,---,DEU,00:35:17,04:00:14,02:03:03,00:05:50,00:03:47,06:48:12
+ironman-70.3-lanzarote-20160924.csv,612,Anthony Richardson,48,Northumberland,GBR,00:36:48,03:19:54,02:02:43,00:06:04,00:03:38,06:09:09
+ironman-70.3-lanzarote-20160924.csv,613,Paul Andrew Rodburn,49,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,614,Franciscus Van Asperen,49,ZA,ZAF,01:00:15,03:34:40,02:13:19,00:12:12,00:08:38,07:09:07
+ironman-70.3-lanzarote-20160924.csv,615,Shinji Yasuzawa,49,Intl State,JPN,00:44:26,04:15:13,02:53:15,00:06:13,00:06:29,08:05:37
+ironman-70.3-lanzarote-20160924.csv,616,Felix Andres Garca,50,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,617,Miguel Lopez Arias,50,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,618,William Armour,50,---,GBR,00:49:07,04:03:27,02:53:27,00:08:26,00:04:53,07:59:22
+ironman-70.3-lanzarote-20160924.csv,619,Silvio Bonfiglio,49,Italy,ITA,00:39:20,03:10:38,01:39:47,00:04:46,00:02:13,05:36:46
+ironman-70.3-lanzarote-20160924.csv,620,Thierry Boulet,50,FR,FRA,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,621,Alessandro Clivio,49,ITALIA,ITA,00:35:10,02:59:34,01:46:21,00:04:42,00:02:37,05:28:26
+ironman-70.3-lanzarote-20160924.csv,622,Eric Held,50,FR,FRA,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,623,Andrew Maxted,49,---,GBR,00:33:30,03:12:36,01:57:07,00:04:41,00:02:26,05:50:22
+ironman-70.3-lanzarote-20160924.csv,624,Luis Encinas Lazaro,51,ES,ESP,00:38:46,04:26:19,02:40:21,00:07:52,00:04:01,07:57:21
+ironman-70.3-lanzarote-20160924.csv,625,Rob Atkin,51,---,GBR,00:39:33,04:40:15,02:50:07,00:08:01,00:04:14,08:22:12
+ironman-70.3-lanzarote-20160924.csv,626,Eduardo Barreau,50,Cairo,CHL,00:50:17,03:58:11,02:19:52,00:08:54,00:07:01,07:24:17
+ironman-70.3-lanzarote-20160924.csv,627,Paul Dorrell,51,Limerick,IRL,00:43:22,03:33:24,02:12:53,00:09:28,00:05:59,06:45:08
+ironman-70.3-lanzarote-20160924.csv,628,Fabio Panciera,51,VE,ITA,00:36:43,03:39:06,01:57:58,00:05:42,00:04:45,06:24:16
+ironman-70.3-lanzarote-20160924.csv,629,Didier Plouviez,50,FR,FRA,00:43:08,04:16:53,02:38:33,00:07:52,00:06:06,07:52:35
+ironman-70.3-lanzarote-20160924.csv,630,Tom Reiss,51,---,DEU,00:37:56,03:35:33,01:47:04,00:07:23,00:02:54,06:10:52
+ironman-70.3-lanzarote-20160924.csv,631,Graeme Smith,51,---,GBR,00:39:16,03:50:36,02:13:15,00:06:51,00:02:58,06:52:58
+ironman-70.3-lanzarote-20160924.csv,632,Lee Witchalls,51,Herts,GBR,00:48:57,04:28:36,02:16:20,00:07:48,00:03:00,07:44:43
+ironman-70.3-lanzarote-20160924.csv,633,Jesper Bo Andersen,52,DK,DNK,00:42:24,03:33:00,02:13:23,00:07:30,00:08:59,06:45:17
+ironman-70.3-lanzarote-20160924.csv,634,Piet Germonprez,51,---,BEL,00:32:28,03:41:50,02:11:05,00:06:40,00:03:54,06:35:59
+ironman-70.3-lanzarote-20160924.csv,635,Colin Irving,51,Conwy,GBR,00:39:54,03:59:43,02:15:10,00:07:35,00:03:30,07:05:54
+ironman-70.3-lanzarote-20160924.csv,636,Alejandro Martinez Espinosa,52,Perugia,ESP,00:37:40,04:51:21,02:50:31,00:12:00,00:06:56,08:38:31
+ironman-70.3-lanzarote-20160924.csv,637,Paul Peeters,51,---,BEL,00:33:57,03:12:42,01:49:49,00:04:56,00:02:49,05:44:14
+ironman-70.3-lanzarote-20160924.csv,638,Brian Sharkey,52,London,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,639,Bijan Tahanzadeh,52,Surrey,IRN,00:35:01,04:14:21,---,00:18:16,00:06:09,DNF
+ironman-70.3-lanzarote-20160924.csv,640,John Ardron,52,---,GBR,00:39:39,03:29:31,02:12:11,00:03:44,00:03:39,06:28:46
+ironman-70.3-lanzarote-20160924.csv,641,Patrick De Ketelaere,53,BE,BEL,00:46:20,04:24:21,02:42:37,00:08:48,00:07:44,08:09:54
+ironman-70.3-lanzarote-20160924.csv,642,Jonathan Evison,53,---,GBR,00:36:59,03:41:26,01:53:35,00:04:53,00:05:03,06:21:58
+ironman-70.3-lanzarote-20160924.csv,643,Jean Jacques Lafitte,52,---,FRA,00:42:59,03:50:39,02:57:49,00:06:01,00:04:31,07:42:01
+ironman-70.3-lanzarote-20160924.csv,644,Joop Oskam,53,NL,NLD,00:42:43,04:01:55,02:10:21,00:06:56,00:04:44,07:06:40
+ironman-70.3-lanzarote-20160924.csv,645,Pedro Juan Perez Florido,53,---,ESP,00:39:59,03:38:55,01:53:38,00:05:11,00:03:17,06:21:01
+ironman-70.3-lanzarote-20160924.csv,646,Adam Prentis,53,---,GBR,00:37:36,03:36:31,01:40:47,00:05:21,00:02:32,06:02:49
+ironman-70.3-lanzarote-20160924.csv,647,Frederic Bertrand,53,FR,FRA,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,648,Rick Cunningham,54,---,GBR,00:44:35,03:57:04,02:13:25,00:08:09,00:04:35,07:07:50
+ironman-70.3-lanzarote-20160924.csv,649,Jean-Paul Dubois,54,BE,BEL,00:39:36,03:56:55,01:51:44,00:10:26,00:05:10,06:43:53
+ironman-70.3-lanzarote-20160924.csv,650,Andy Evans,53,Devon,GBR,00:42:16,04:26:37,02:31:22,00:06:06,00:04:23,07:50:46
+ironman-70.3-lanzarote-20160924.csv,651,Paul Hardcastle,54,kent,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,652,Dave Muir,53,---,GBR,00:30:57,03:04:20,01:45:25,00:03:55,00:02:03,05:26:43
+ironman-70.3-lanzarote-20160924.csv,653,Patrick Van De Walle,54,---,BEL,00:42:05,04:32:56,02:31:23,00:10:36,00:06:35,08:03:38
+ironman-70.3-lanzarote-20160924.csv,654,Christopher Bramley,55,---,GBR,00:35:22,03:25:40,02:02:24,00:04:53,00:02:49,06:11:11
+ironman-70.3-lanzarote-20160924.csv,655,Geert De Bruyne,55,---,BEL,00:41:43,04:11:35,02:15:36,00:10:13,00:05:13,07:24:23
+ironman-70.3-lanzarote-20160924.csv,656,Jean Louis Foissy Mendes,55,FR,FRA,00:42:53,03:32:31,02:03:25,00:05:51,00:02:48,06:27:30
+ironman-70.3-lanzarote-20160924.csv,657,Norbert Haeusler,55,AT,AUT,00:34:43,03:28:32,02:02:43,00:05:07,00:03:19,06:14:26
+ironman-70.3-lanzarote-20160924.csv,658,Michael Leick,55,---,DEU,00:40:03,03:31:35,02:29:07,00:04:38,00:02:36,06:48:00
+ironman-70.3-lanzarote-20160924.csv,659,Michael Van Der Gucht,54,---,BEL,00:36:37,03:25:07,01:51:07,00:05:00,00:02:34,06:00:28
+ironman-70.3-lanzarote-20160924.csv,660,Coen Van Schijndel,55,---,NLD,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,661,Robin Waters,55,ES,GBR,00:39:40,03:36:11,02:06:07,00:06:56,00:05:42,06:34:38
+ironman-70.3-lanzarote-20160924.csv,662,Javier Garces Herrero,56,ES,ESP,00:46:51,04:04:21,02:24:32,00:08:12,00:04:12,07:28:09
+ironman-70.3-lanzarote-20160924.csv,663,Ernesto Moretti,56,santa fe,ARG,00:34:00,03:49:23,01:54:04,00:04:29,00:02:43,06:24:40
+ironman-70.3-lanzarote-20160924.csv,664,Neil Bradshaw,56,---,GBR,00:46:38,03:41:12,02:09:07,00:09:57,00:04:25,06:51:20
+ironman-70.3-lanzarote-20160924.csv,665,Simon Osborne,56,---,GBR,00:34:32,03:15:17,01:54:27,00:03:29,00:04:16,05:52:04
+ironman-70.3-lanzarote-20160924.csv,666,Marc Timmermans,55,BE,BEL,00:47:16,04:04:44,02:18:33,00:06:40,00:04:24,07:21:39
+ironman-70.3-lanzarote-20160924.csv,667,Miguel Rojo Huysmans,57,---,ESP,00:39:28,03:12:42,01:52:53,00:07:00,00:02:17,05:54:22
+ironman-70.3-lanzarote-20160924.csv,668,Dirkjan Doijen,57,---,NLD,00:33:44,03:27:54,02:07:09,00:05:43,00:04:33,06:19:05
+ironman-70.3-lanzarote-20160924.csv,669,Dean Hardie,57,Dyfed,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,670,Michael Quincey,58,kent,GBR,00:41:29,04:41:44,02:38:40,00:08:16,00:04:43,08:14:52
+ironman-70.3-lanzarote-20160924.csv,671,Abelardo Suarez,59,Santa Cruz,BOL,00:53:19,04:12:04,02:53:42,00:11:32,00:03:53,08:14:32
+ironman-70.3-lanzarote-20160924.csv,672,Chris Dawson,58,---,GBR,00:55:13,04:23:50,02:48:00,00:08:31,00:04:29,08:20:06
+ironman-70.3-lanzarote-20160924.csv,673,Art Van Leeuwen,59,Cork,IRL,00:53:26,04:37:43,---,00:08:55,00:05:29,DNF
+ironman-70.3-lanzarote-20160924.csv,674,Hans-Eberhard Wolff,59,---,DEU,00:28:56,03:25:05,02:03:14,00:06:27,00:03:17,06:07:01
+ironman-70.3-lanzarote-20160924.csv,675,Eloy Redondo,60,ES,ESP,00:39:47,03:38:45,02:12:46,00:07:06,00:04:21,06:42:48
+ironman-70.3-lanzarote-20160924.csv,676,Mathieu Bussels,60,---,BEL,00:36:19,03:34:37,02:05:07,00:09:50,00:07:29,06:33:25
+ironman-70.3-lanzarote-20160924.csv,677,Jeff Parris,59,North Yorkshire,GBR,00:49:20,03:52:58,02:01:46,00:08:07,00:03:21,06:55:34
+ironman-70.3-lanzarote-20160924.csv,678,Roland Shaw,60,Norfolk,GBR,00:37:50,03:28:48,01:54:06,00:04:03,00:02:31,06:07:19
+ironman-70.3-lanzarote-20160924.csv,679,Trevor Simmons,61,---,GBR,00:36:39,03:41:49,---,00:07:41,00:07:29,DNF
+ironman-70.3-lanzarote-20160924.csv,680,Gareth Stephens,61,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,681,Geoff Taylor,60,---,GBR,00:40:05,03:30:45,02:21:51,00:08:42,00:02:59,06:44:24
+ironman-70.3-lanzarote-20160924.csv,682,Graham Evans,62,Neath Port Talbot,GBR,00:36:24,03:50:18,01:59:48,00:06:23,00:03:42,06:36:38
+ironman-70.3-lanzarote-20160924.csv,683,James Aitkenhead,63,North Ayrshire,GBR,00:42:20,04:08:44,03:08:11,00:08:34,00:08:28,08:16:18
+ironman-70.3-lanzarote-20160924.csv,684,Michael Keymolen,63,---,BEL,00:37:48,04:45:16,02:34:57,00:08:03,00:04:33,08:10:39
+ironman-70.3-lanzarote-20160924.csv,685,Georges Bertrand,63,---,BEL,00:43:41,04:08:03,02:26:10,00:07:18,00:04:07,07:29:20
+ironman-70.3-lanzarote-20160924.csv,686,Ueli Kurth,63,---,CHE,00:37:51,04:07:58,02:45:56,00:07:09,00:05:45,07:44:42
+ironman-70.3-lanzarote-20160924.csv,687,Stewart Ingram,65,Norfolk,GBR,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,688,Richard Vegricht,68,---,AUT,00:41:56,04:25:01,03:03:11,00:09:58,00:06:00,08:26:09
+ironman-70.3-lanzarote-20160924.csv,689,Pierre Beccamel,77,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20160924.csv,690,Ivan Fernandez Ponferrada,30,ES,ESP,00:36:50,03:42:02,01:37:21,00:05:06,00:03:22,06:04:44
+ironman-70.3-lanzarote-20160924.csv,691,Gabriele Fasano,44,VENEZIA,ITA,00:36:46,03:23:31,01:45:33,00:05:21,00:03:09,05:54:21
+ironman-70.3-lanzarote-20160924.csv,692,Stephen Perry,36,Wicklow,IRL,00:37:33,03:17:43,01:43:49,00:05:20,00:03:19,05:47:46
+ironman-70.3-lanzarote-20160924.csv,693,Vinny Veness,46,somerset,GBR,00:28:11,02:55:05,01:40:17,00:03:57,00:02:35,05:10:08
+ironman-70.3-lanzarote-20160924.csv,694,Henk Heemskerk,50,---,NLD,00:32:31,03:07:33,01:58:18,00:06:54,00:05:12,05:50:29
+ironman-70.3-lanzarote-20160924.csv,695,Lorcan Fisher,31,Na,IRL,00:37:24,03:17:06,01:48:48,00:03:34,00:02:23,05:49:17
+ironman-70.3-lanzarote-20160924.csv,696,Julia Kitzinger,38,---,AUT,00:36:55,03:31:51,02:09:26,00:05:51,00:02:53,06:26:58
+ironman-70.3-lanzarote-20160924.csv,697,Michaela Nicht,38,---,DEU,00:36:50,03:12:01,01:39:11,00:03:32,00:01:49,05:33:25
+ironman-70.3-lanzarote-20160924.csv,698,René Peters,38,Surrey,NZL,00:35:16,03:11:59,02:00:54,00:04:52,00:04:15,05:57:18
+ironman-70.3-lanzarote-20160924.csv,699,Terry Jones,64,West Glamorgan,GBR,00:32:51,04:21:44,02:35:09,00:05:16,00:04:07,07:39:09
+ironman-70.3-lanzarote-20160924.csv,700,Nico Domínguez García,33,---,ESP,00:28:57,02:39:14,01:25:20,00:02:57,00:01:47,04:38:17
+ironman-70.3-lanzarote-20160924.csv,701,Peter Tanner,51,---,CHE,00:33:55,03:09:26,01:48:47,00:04:18,00:03:12,05:39:41
+ironman-70.3-lanzarote-20160924.csv,702,Tom Ward,40,Glos,GBR,00:27:01,02:53:27,01:29:02,00:03:15,00:02:11,04:54:58
+ironman-70.3-lanzarote-20160924.csv,703,Paul Deaken Thompson,49,Intl State,GBR,00:29:42,03:41:48,02:17:18,00:07:04,00:04:14,06:40:08
+ironman-70.3-lanzarote-20160924.csv,705,Alex De Boer,---,---,NLD,00:35:18,03:31:15,01:56:20,00:04:47,00:03:59,06:11:41

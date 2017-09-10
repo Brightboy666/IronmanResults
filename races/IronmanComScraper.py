@@ -191,7 +191,6 @@ def outputRaceResults(url):
                 writer.writerow(['#HighestBibChecked='+str(maxBib)])
     except Exception as e:
             logger.exception(e)#"Unknown Error with "+url +". ")
-
                
 #Visits the home page for each race and then traverses the
 #DOM to grab all links to previous results            

@@ -1,0 +1,1110 @@
+#File=ironman-wisconsin-20030907.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-wisconsin-20030907.csv,1,Heather Gollnick,---,WI,USA,00:51:45,05:22:48,03:24:30,00:05:07,00:02:18,09:46:28
+ironman-wisconsin-20030907.csv,2,Mary Uhl,---,NM,USA,00:54:45,05:32:55,03:32:47,00:04:17,00:01:55,10:06:39
+ironman-wisconsin-20030907.csv,3,Sheri Fraser,---,ON,CAN,00:57:27,05:35:10,04:05:02,00:05:15,00:02:22,10:45:16
+ironman-wisconsin-20030907.csv,4,Amanda Gillam,---,CO,USA,01:00:22,05:38:37,03:38:47,00:05:24,00:02:31,10:25:41
+ironman-wisconsin-20030907.csv,5,Sara Gross,---,---,GBR,00:56:57,---,---,00:05:05,---,DNF
+ironman-wisconsin-20030907.csv,6,Claudia Hille,37,---,DEU,01:07:00,05:59:16,05:14:03,00:04:37,00:03:28,12:28:24
+ironman-wisconsin-20030907.csv,7,Teri Albertazzi,---,AZ,USA,01:02:32,05:31:21,---,00:05:39,00:03:01,DNF
+ironman-wisconsin-20030907.csv,8,Robin Oswald,---,CA,USA,00:53:35,05:57:51,03:36:15,00:05:22,00:02:45,10:35:48
+ironman-wisconsin-20030907.csv,9,Desiree Ficker,---,CO,USA,00:51:53,05:20:06,---,00:04:47,00:02:49,DNF
+ironman-wisconsin-20030907.csv,10,Lori-Lynn Leach,---,GC,ESP,00:52:21,05:32:19,03:48:28,00:04:46,00:02:36,10:20:30
+ironman-wisconsin-20030907.csv,11,Rhonda Guzda,---,---,CAN,01:09:15,05:38:22,03:59:36,00:05:27,00:04:13,10:56:53
+ironman-wisconsin-20030907.csv,12,Marie Danais,---,QC,CAN,00:52:12,05:41:42,04:05:49,00:04:39,00:03:22,10:47:44
+ironman-wisconsin-20030907.csv,21,Torbjorn Sindballe,---,---,DNK,00:49:50,04:48:05,03:16:28,00:04:34,00:01:59,09:00:56
+ironman-wisconsin-20030907.csv,22,Petr Vabrousek,29,Intl State,CZE,00:51:49,05:06:28,03:03:54,00:04:13,00:02:13,09:08:37
+ironman-wisconsin-20030907.csv,23,Peter Kotland,---,SC,USA,00:55:42,05:24:04,03:19:09,00:06:07,00:02:09,09:47:11
+ironman-wisconsin-20030907.csv,24,James Bonney,---,TX,USA,00:46:16,05:05:10,---,00:04:52,00:03:07,DNF
+ironman-wisconsin-20030907.csv,25,Cj Castle,---,CA,USA,00:52:05,05:08:01,---,00:04:42,00:01:54,DNF
+ironman-wisconsin-20030907.csv,26,Joseph Company,---,IN,USA,01:01:23,05:29:09,05:01:58,00:05:33,00:03:51,11:41:54
+ironman-wisconsin-20030907.csv,27,Wim De Doncker,---,---,BEL,00:54:30,05:15:09,04:25:15,00:05:01,00:02:05,10:42:00
+ironman-wisconsin-20030907.csv,28,Juergen Hauber,---,---,DEU,00:58:44,05:14:25,03:09:05,00:05:11,00:02:17,09:29:42
+ironman-wisconsin-20030907.csv,29,Justin Henkel,---,WI,USA,01:02:53,05:10:51,---,00:05:58,00:02:15,DNF
+ironman-wisconsin-20030907.csv,30,Tim Luchinske,32,CO,USA,00:52:24,05:07:48,03:36:36,00:04:39,00:02:23,09:43:50
+ironman-wisconsin-20030907.csv,31,Courtney Ogden,---,CO,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,32,Uwe Widmann,---,---,DEU,00:49:53,04:45:40,03:21:10,00:04:15,00:01:52,09:02:50
+ironman-wisconsin-20030907.csv,33,John Robertson,---,NC,USA,00:57:33,05:28:50,---,00:06:12,00:05:02,DNF
+ironman-wisconsin-20030907.csv,34,Travis Keane,---,TX,USA,00:52:00,05:34:18,---,00:04:42,00:02:12,DNF
+ironman-wisconsin-20030907.csv,35,Kevin Konczak,---,CO,USA,00:57:01,05:36:51,---,00:05:36,00:02:49,DNF
+ironman-wisconsin-20030907.csv,36,Michael Mccormack,---,CA,USA,00:51:58,05:06:39,---,00:05:30,00:03:12,DNF
+ironman-wisconsin-20030907.csv,37,Brad Seng,---,CO,USA,00:58:45,05:31:20,03:23:08,00:05:46,00:02:19,10:01:18
+ironman-wisconsin-20030907.csv,38,Christophe Buquet,---,---,FRA,00:56:16,05:11:39,03:10:51,00:05:42,00:02:14,09:26:42
+ironman-wisconsin-20030907.csv,39,Volker Nalito,---,---,DEU,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,40,Gordon Henderson,---,ON,CAN,00:52:08,05:17:55,03:45:59,00:04:51,00:02:04,10:02:57
+ironman-wisconsin-20030907.csv,41,Chuckie Veylupek,---,CA,USA,00:50:09,05:17:31,05:25:10,00:04:44,00:04:21,11:41:55
+ironman-wisconsin-20030907.csv,42,Dave Harju,---,QC,CAN,00:50:23,04:46:23,03:12:32,00:04:02,00:02:06,08:55:26
+ironman-wisconsin-20030907.csv,43,Jared Berg,---,MN,USA,00:51:45,05:05:08,04:09:00,00:04:40,00:02:21,10:12:54
+ironman-wisconsin-20030907.csv,51,Vanessa A. Curtis,---,WI,USA,01:10:24,06:09:57,04:19:01,00:07:05,00:03:21,11:49:48
+ironman-wisconsin-20030907.csv,52,Maren J. Dunn,---,MO,USA,01:11:22,07:27:00,06:04:17,00:17:31,00:20:48,15:20:58
+ironman-wisconsin-20030907.csv,53,Stephanie Grant,---,SC,USA,01:24:21,07:32:26,---,00:07:52,00:12:01,DNF
+ironman-wisconsin-20030907.csv,54,Jennifer A. Johnson,---,OK,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,55,Rebecca Moore,---,VA,USA,01:12:35,06:47:11,05:34:13,00:07:52,00:06:22,13:48:13
+ironman-wisconsin-20030907.csv,56,Jennifer Mullholand,---,IL,USA,01:40:01,08:08:14,---,00:08:57,00:10:14,DNF
+ironman-wisconsin-20030907.csv,57,Justus Peters,---,NE,USA,01:18:44,07:47:00,06:22:00,00:11:06,00:06:59,15:45:49
+ironman-wisconsin-20030907.csv,58,Jill M. Pritchard,---,GA,USA,01:14:34,08:34:09,06:17:50,00:10:34,00:08:09,16:25:16
+ironman-wisconsin-20030907.csv,59,Abby R. Rosenberg,---,CA,USA,01:08:36,06:09:51,06:49:35,00:06:14,00:03:17,14:17:33
+ironman-wisconsin-20030907.csv,60,Teresa Tarbuck,---,OR,USA,01:15:58,07:45:12,05:16:58,00:13:25,00:10:19,14:41:52
+ironman-wisconsin-20030907.csv,61,Erin Teeter,---,MO,USA,01:08:33,06:25:23,05:23:09,00:07:52,00:06:54,13:11:51
+ironman-wisconsin-20030907.csv,62,Sami J. Barmada,---,MO,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,63,Clay Bell,---,WI,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,64,Brian Bell,---,NE,USA,00:56:11,05:12:17,03:41:20,00:05:19,00:02:22,09:57:29
+ironman-wisconsin-20030907.csv,65,Matthew R. Bielen,---,DC,USA,01:08:37,08:02:04,05:20:43,00:11:01,00:12:39,14:55:04
+ironman-wisconsin-20030907.csv,66,Steven Butler,---,IL,USA,01:19:22,07:21:18,05:25:44,00:11:52,00:11:42,14:29:58
+ironman-wisconsin-20030907.csv,67,Phillip Butler,---,IL,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,68,Andrew Carney,---,IA,USA,01:12:30,05:55:41,05:04:55,00:06:53,00:03:37,12:23:36
+ironman-wisconsin-20030907.csv,69,Michael Casper,---,WI,USA,01:30:32,07:29:58,06:17:30,00:15:26,00:33:04,16:06:30
+ironman-wisconsin-20030907.csv,70,Ryan T. Cayer,---,CA,USA,01:46:00,---,---,00:08:28,---,DNF
+ironman-wisconsin-20030907.csv,71,Jairo Flores,---,MI,USA,01:28:42,06:21:50,06:43:04,00:09:06,00:06:33,14:49:15
+ironman-wisconsin-20030907.csv,72,William E. Gavigan,---,SC,USA,01:07:03,---,---,00:06:21,---,DNF
+ironman-wisconsin-20030907.csv,73,Randy D. Gibbs,---,IL,USA,01:32:44,08:20:22,06:16:31,00:08:06,00:05:26,16:23:09
+ironman-wisconsin-20030907.csv,74,Nathan Lampi,---,WI,USA,01:34:57,07:50:51,06:17:28,00:11:01,00:12:13,16:06:30
+ironman-wisconsin-20030907.csv,75,Andrew Lockton,---,CA,USA,01:00:48,06:15:56,04:10:37,00:05:27,00:03:44,11:36:32
+ironman-wisconsin-20030907.csv,76,Byron Lubenkov,---,IL,USA,01:03:48,07:16:12,06:05:21,00:09:04,00:09:28,14:43:53
+ironman-wisconsin-20030907.csv,77,Chris Lucarz,---,MA,USA,00:50:11,06:25:18,04:51:14,00:06:22,00:04:02,12:17:07
+ironman-wisconsin-20030907.csv,78,Tom Mctaggart,---,NJ,USA,01:12:57,08:17:14,06:41:39,00:09:58,00:07:13,16:29:01
+ironman-wisconsin-20030907.csv,79,Gary P. Moore,---,TX,USA,01:38:11,07:05:18,05:49:07,00:08:19,00:08:39,14:49:34
+ironman-wisconsin-20030907.csv,80,Keoni Nguyen,---,MO,USA,01:35:21,07:31:01,07:00:01,00:08:06,00:11:46,16:26:15
+ironman-wisconsin-20030907.csv,81,Alan Oelkers,---,OR,USA,01:18:20,06:30:10,05:12:40,00:09:56,00:07:51,13:18:57
+ironman-wisconsin-20030907.csv,82,Christopher J. Panoff,---,TX,USA,01:12:28,07:24:20,06:57:33,00:06:32,00:05:24,15:46:17
+ironman-wisconsin-20030907.csv,83,Matthew R. Parlee,---,IN,USA,01:02:59,05:55:53,---,00:08:04,00:06:04,DNF
+ironman-wisconsin-20030907.csv,84,Andrew R. Peterson,---,WI,USA,01:18:22,06:00:34,05:21:09,00:06:03,00:02:19,12:48:27
+ironman-wisconsin-20030907.csv,85,Derek Sbrogna,---,MA,USA,01:13:24,06:04:51,05:20:30,00:09:25,00:05:35,12:53:45
+ironman-wisconsin-20030907.csv,86,Charles Smittkamp,---,IL,USA,01:13:59,06:48:39,06:51:39,00:08:33,00:07:46,15:10:36
+ironman-wisconsin-20030907.csv,87,Daniel Stephens,---,IL,USA,01:01:25,06:11:37,04:02:19,00:06:14,00:04:15,11:25:50
+ironman-wisconsin-20030907.csv,88,John Welter,---,MN,USA,01:29:54,07:38:31,06:17:32,00:16:00,00:24:32,16:06:29
+ironman-wisconsin-20030907.csv,89,Brett Kohlhardt,18,CA,USA,01:15:21,05:53:32,04:55:41,00:11:58,00:04:51,12:21:23
+ironman-wisconsin-20030907.csv,95,Anson B. Stephens,---,FL,USA,01:14:18,06:05:42,06:43:03,00:08:21,00:07:00,14:18:24
+ironman-wisconsin-20030907.csv,96,Volker Nalito,---,---,DEU,01:04:15,05:19:10,04:01:50,00:05:14,00:02:25,10:32:54
+ironman-wisconsin-20030907.csv,97,Kelli Messick,---,CO,USA,01:24:41,06:32:37,05:21:21,00:08:05,00:07:52,13:34:36
+ironman-wisconsin-20030907.csv,98,Hideyo Nada,---,---,JPN,01:42:35,07:58:28,06:06:41,00:12:28,00:11:15,16:11:27
+ironman-wisconsin-20030907.csv,101,Jason N. Young,---,OH,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,102,Jordan Haggard,19,CA,USA,00:52:02,05:37:58,03:57:36,00:04:52,00:03:07,10:35:35
+ironman-wisconsin-20030907.csv,103,Eric Jovanovich,19,WI,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,104,Benjamin Napper,---,CO,USA,01:14:48,06:00:23,04:10:13,00:06:01,00:03:21,11:34:46
+ironman-wisconsin-20030907.csv,105,Peter Wulff,19,KY,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,106,Robert Dalton,---,MA,USA,01:27:25,06:56:44,05:43:27,00:10:15,00:11:41,14:29:32
+ironman-wisconsin-20030907.csv,107,Karl R. Dettmann,---,WI,USA,01:03:23,07:08:28,07:07:29,00:12:29,00:09:30,15:41:19
+ironman-wisconsin-20030907.csv,108,Scott Diehl,---,CO,USA,01:01:08,05:56:01,04:03:20,00:07:31,00:04:31,11:12:31
+ironman-wisconsin-20030907.csv,109,Jeffrey Falcone,---,CO,USA,01:07:34,06:15:27,05:07:42,00:07:04,00:05:45,12:43:32
+ironman-wisconsin-20030907.csv,110,Erik C. Fritz,---,WI,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,111,Mason Jones,---,CO,USA,01:04:27,05:54:08,04:29:21,00:10:20,00:07:11,11:45:27
+ironman-wisconsin-20030907.csv,112,Nicholas Mcculloch,20,MN,USA,01:07:04,06:15:27,---,00:09:00,00:06:35,DNF
+ironman-wisconsin-20030907.csv,113,Christopher Sarasin,---,MI,USA,01:00:04,06:45:13,05:27:47,00:09:13,00:06:08,13:28:25
+ironman-wisconsin-20030907.csv,114,Darcy D. Shaw,---,WI,USA,01:46:33,07:55:44,06:12:55,00:15:53,00:18:28,16:29:33
+ironman-wisconsin-20030907.csv,115,Nate Smith,---,IA,USA,01:08:44,05:33:06,06:05:45,00:05:59,00:02:38,12:56:12
+ironman-wisconsin-20030907.csv,116,Brad M. Welnick,---,WI,USA,00:59:45,06:27:49,04:43:21,00:10:42,00:05:52,12:27:29
+ironman-wisconsin-20030907.csv,117,Jesse S. Adams,---,WI,USA,00:58:05,05:54:56,04:29:42,00:06:31,00:07:24,11:36:38
+ironman-wisconsin-20030907.csv,118,Luke Anderson,22,IA,USA,00:49:56,05:40:49,04:39:00,00:05:39,00:03:31,11:18:55
+ironman-wisconsin-20030907.csv,119,Blake J. Becker,---,WI,USA,00:59:40,05:44:59,03:43:41,00:04:48,00:01:49,10:34:57
+ironman-wisconsin-20030907.csv,120,Michael Chmielewski,---,CO,USA,01:02:41,05:57:45,04:00:00,00:11:00,00:08:13,11:19:39
+ironman-wisconsin-20030907.csv,121,Peter Christoff,---,OH,USA,01:02:48,05:24:05,04:23:14,00:06:18,00:03:24,10:59:49
+ironman-wisconsin-20030907.csv,122,Joseph C. Dagen,---,MI,USA,01:07:41,07:01:37,05:31:30,00:07:17,00:04:17,13:52:22
+ironman-wisconsin-20030907.csv,123,David Douglas,---,CO,USA,01:11:40,06:40:13,06:59:59,00:10:15,00:10:40,15:12:47
+ironman-wisconsin-20030907.csv,124,Clifton Galeria,---,CO,USA,01:09:03,06:51:41,06:48:37,00:11:05,00:12:21,15:12:47
+ironman-wisconsin-20030907.csv,125,Matthew P. Hany,---,IL,USA,01:12:23,06:36:35,05:34:54,00:10:00,00:08:04,13:41:56
+ironman-wisconsin-20030907.csv,126,Prichard Keely,---,CO,USA,00:51:47,05:46:11,04:07:33,00:06:21,00:03:51,10:55:43
+ironman-wisconsin-20030907.csv,127,Michael B. Mclean,---,WI,USA,01:02:27,06:13:24,---,00:07:42,00:04:31,DNF
+ironman-wisconsin-20030907.csv,128,Justin Peltzer,---,WI,USA,01:17:11,07:03:51,05:29:48,00:07:48,00:10:41,14:09:19
+ironman-wisconsin-20030907.csv,129,Zach S. Ruble,---,IN,USA,00:51:45,05:35:24,---,00:05:39,00:03:45,DNF
+ironman-wisconsin-20030907.csv,130,Brad M. White,---,MI,USA,00:50:27,05:37:25,04:57:49,00:06:04,00:03:18,11:35:03
+ironman-wisconsin-20030907.csv,131,Matt A. Zehner,---,PA,USA,01:15:46,06:32:31,05:49:54,00:10:32,00:08:46,13:57:29
+ironman-wisconsin-20030907.csv,132,Michael Dobelmann,---,MN,USA,02:01:09,06:58:20,05:12:57,00:09:05,00:09:41,14:31:12
+ironman-wisconsin-20030907.csv,133,Francis Donovan,---,WI,USA,00:56:55,05:37:35,04:36:58,00:05:35,00:03:34,11:20:37
+ironman-wisconsin-20030907.csv,134,Christopher Gaitens,---,PA,USA,01:10:00,05:55:40,05:10:29,00:07:16,00:05:03,12:28:28
+ironman-wisconsin-20030907.csv,135,Lukas F. Hedberg,---,MN,USA,01:11:53,05:45:30,05:42:51,00:07:21,00:04:07,12:51:42
+ironman-wisconsin-20030907.csv,136,Joshua Hudson,---,CO,USA,01:11:42,06:51:18,06:48:38,00:08:38,00:12:31,15:12:47
+ironman-wisconsin-20030907.csv,137,Lucas W. Kraut,---,IL,USA,01:29:01,---,---,00:09:12,---,DNF
+ironman-wisconsin-20030907.csv,138,Bud Mccauley,22,WI,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,139,Jason Olson,22,WI,USA,01:11:45,05:49:47,04:35:02,00:07:18,00:03:19,11:47:11
+ironman-wisconsin-20030907.csv,140,Jeff D. Rhodes,---,HI,USA,01:05:41,06:38:23,05:02:16,00:08:29,00:03:52,12:58:41
+ironman-wisconsin-20030907.csv,141,Keith Smoly,---,CO,USA,01:05:11,06:42:46,06:18:46,00:10:56,00:13:54,14:31:33
+ironman-wisconsin-20030907.csv,142,Jason Brozek,23,WI,USA,01:40:46,07:06:05,06:44:15,00:08:16,00:10:18,15:49:40
+ironman-wisconsin-20030907.csv,143,David E. Steinbach,---,WI,USA,01:51:56,---,---,00:16:52,---,DNF
+ironman-wisconsin-20030907.csv,144,Michael Budahn,23,MN,USA,00:57:24,05:58:53,06:54:17,00:05:59,00:03:02,13:59:35
+ironman-wisconsin-20030907.csv,145,Bradley Goldstein,---,VA,USA,01:02:36,06:47:54,06:32:50,00:07:15,00:04:11,14:34:46
+ironman-wisconsin-20030907.csv,146,Josh Gray,23,MO,USA,00:57:17,06:23:04,06:18:52,00:07:22,00:08:53,13:55:28
+ironman-wisconsin-20030907.csv,147,Andrew M. Kepper,---,WI,USA,01:04:36,06:18:32,04:32:18,00:09:52,00:08:20,12:13:38
+ironman-wisconsin-20030907.csv,148,David P. Kouba,---,TX,USA,01:06:13,06:27:58,06:49:47,00:06:52,00:06:47,14:37:37
+ironman-wisconsin-20030907.csv,149,Jeremy Mullins,23,WV,USA,01:30:10,07:15:50,07:20:07,00:12:44,00:12:04,16:30:55
+ironman-wisconsin-20030907.csv,150,Steven W. Parkes,---,IL,USA,01:24:47,07:27:36,06:58:11,00:09:38,00:11:39,16:11:51
+ironman-wisconsin-20030907.csv,151,Kevin Peterman,23,OH,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,152,Aaron Smith,---,MN,USA,01:59:48,07:12:09,06:16:18,00:08:05,00:10:14,15:46:34
+ironman-wisconsin-20030907.csv,153,Eric D. Thompson,---,PA,USA,01:06:06,06:13:03,05:04:45,00:09:01,00:08:19,12:41:14
+ironman-wisconsin-20030907.csv,154,Tim D. Urbine,---,IL,USA,01:41:19,08:15:24,06:25:12,00:13:43,00:13:29,16:49:07
+ironman-wisconsin-20030907.csv,155,Michael Wegner,23,WI,USA,01:29:35,06:55:05,06:11:07,00:12:04,00:10:22,14:58:13
+ironman-wisconsin-20030907.csv,156,Eric S. Wynn,---,UT,USA,01:13:59,05:20:51,06:13:33,00:07:10,00:45:07,13:40:40
+ironman-wisconsin-20030907.csv,157,Michael Yoho,---,IL,USA,01:59:28,---,---,00:09:40,---,DNF
+ironman-wisconsin-20030907.csv,158,Matthew D. Aro,---,WI,USA,01:13:12,05:38:27,04:35:07,00:07:07,00:07:21,11:41:14
+ironman-wisconsin-20030907.csv,159,Philip A. Bzdusek,---,WI,USA,00:59:59,05:14:44,03:36:24,00:06:20,00:02:52,10:00:19
+ironman-wisconsin-20030907.csv,160,Steven Fredrickson,---,IL,USA,01:09:13,06:45:53,05:37:39,00:07:57,00:07:53,13:48:35
+ironman-wisconsin-20030907.csv,161,Kevin Hogan,---,WI,USA,01:32:38,08:28:43,06:26:04,00:09:25,00:13:52,16:50:42
+ironman-wisconsin-20030907.csv,162,Ashley Honey,---,AZ,USA,00:50:12,06:08:02,06:15:39,00:05:37,00:06:32,13:26:02
+ironman-wisconsin-20030907.csv,163,Adam G. King,---,WI,USA,00:57:13,05:59:28,05:23:31,00:05:19,00:03:59,12:29:30
+ironman-wisconsin-20030907.csv,164,Joe Kurian,---,WI,USA,01:00:45,05:22:17,04:01:41,00:06:40,00:02:44,10:34:07
+ironman-wisconsin-20030907.csv,165,Anthony W. Leiton,---,WI,USA,01:10:37,05:55:55,05:32:55,00:06:44,00:05:06,12:51:17
+ironman-wisconsin-20030907.csv,166,Jesse Olson,---,MN,USA,01:33:52,07:32:03,06:39:51,00:11:35,00:10:59,16:08:20
+ironman-wisconsin-20030907.csv,167,Eerik Randsalu,---,ON,CAN,01:10:11,05:51:08,04:42:31,00:06:49,00:07:43,11:58:22
+ironman-wisconsin-20030907.csv,168,Matthew A. Thell,---,MN,USA,01:16:36,06:41:55,05:30:52,00:10:19,00:10:07,13:49:49
+ironman-wisconsin-20030907.csv,169,Simon Walter-Hansen,24,MN,USA,01:26:47,05:52:26,04:51:40,00:05:32,00:01:51,12:18:16
+ironman-wisconsin-20030907.csv,170,Nick White,24,IA,USA,00:56:52,05:43:41,04:19:34,00:06:01,00:03:29,11:09:37
+ironman-wisconsin-20030907.csv,171,Jonathon P. Avery,---,ON,CAN,00:56:00,06:17:00,05:49:45,00:07:50,00:11:04,13:21:39
+ironman-wisconsin-20030907.csv,172,Chad R. Brown,---,WI,USA,01:14:14,06:50:59,06:18:54,00:09:40,00:08:46,14:42:33
+ironman-wisconsin-20030907.csv,173,Joshua J. Cagle,---,MN,USA,01:11:57,06:16:43,---,00:08:51,00:07:37,DNF
+ironman-wisconsin-20030907.csv,174,Timothy A. Candy,---,NE,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,175,Wilson Chang,25,CA,USA,01:15:07,06:21:36,05:45:08,00:08:33,00:05:03,13:35:27
+ironman-wisconsin-20030907.csv,176,Robert R. Christy,---,PA,USA,00:52:11,06:39:46,04:47:03,00:05:06,00:03:27,12:27:33
+ironman-wisconsin-20030907.csv,177,Jeremy W. Donatell,---,WI,USA,01:07:17,05:26:24,05:40:44,00:09:04,00:05:40,12:29:09
+ironman-wisconsin-20030907.csv,178,Scott Farrell,25,WI,USA,01:30:46,06:05:59,06:27:24,00:07:10,00:03:27,14:14:46
+ironman-wisconsin-20030907.csv,179,Casey C. Foltz,---,WI,USA,01:40:42,07:08:58,06:42:41,00:09:35,00:07:48,15:49:44
+ironman-wisconsin-20030907.csv,180,Jeffrey B. Freidhof,---,IA,USA,01:37:31,06:41:35,05:26:58,00:08:29,00:06:13,14:00:46
+ironman-wisconsin-20030907.csv,181,Kyle Handley,25,WI,USA,01:02:35,05:25:48,03:37:06,00:06:42,00:03:56,10:16:07
+ironman-wisconsin-20030907.csv,182,Edward J. Hartwig,---,LA,USA,01:11:39,06:50:50,06:35:34,00:06:32,00:06:29,14:51:04
+ironman-wisconsin-20030907.csv,183,Ben M. Jordan,---,MN,USA,01:37:00,08:25:37,03:58:20,00:09:18,00:18:01,14:28:16
+ironman-wisconsin-20030907.csv,184,Dean J. Lehmkuhler,---,MN,USA,01:07:15,06:40:18,06:56:46,00:10:34,00:10:35,15:05:28
+ironman-wisconsin-20030907.csv,185,Matthew R. Long,---,MO,USA,01:07:06,05:56:58,05:21:41,00:07:20,00:07:28,12:40:33
+ironman-wisconsin-20030907.csv,186,Thomas R. Lutz,---,WI,USA,01:07:50,06:09:29,04:13:17,00:09:16,00:04:38,11:44:30
+ironman-wisconsin-20030907.csv,187,Farrell J. Malone,---,WI,USA,01:08:49,05:37:22,04:56:23,00:06:54,00:04:18,11:53:46
+ironman-wisconsin-20030907.csv,188,Phillip J. Mishka,---,IL,USA,00:58:33,05:44:42,03:59:11,00:05:37,00:03:06,10:51:09
+ironman-wisconsin-20030907.csv,189,Luke C. Nelson,---,MN,USA,01:14:47,05:37:07,03:46:22,00:05:19,00:02:48,10:46:23
+ironman-wisconsin-20030907.csv,190,Binh Nguyen,---,CA,USA,00:56:01,---,---,00:09:03,---,DNF
+ironman-wisconsin-20030907.csv,191,Matthew Pross,25,IA,USA,01:19:09,07:20:38,05:39:55,00:09:10,00:08:25,14:37:17
+ironman-wisconsin-20030907.csv,192,Patrick Reedy,---,CO,USA,01:08:40,06:21:53,05:03:38,00:08:45,00:05:13,12:48:09
+ironman-wisconsin-20030907.csv,193,Brian Rossi,25,IL,USA,01:09:41,07:29:05,06:17:44,00:07:26,00:12:57,15:16:53
+ironman-wisconsin-20030907.csv,194,Thomas Scanland,---,IL,USA,01:15:37,05:45:14,04:38:57,00:07:24,00:04:15,11:51:27
+ironman-wisconsin-20030907.csv,195,Brian Webb,---,WI,USA,01:17:37,06:44:03,05:14:48,00:13:54,00:11:23,13:41:45
+ironman-wisconsin-20030907.csv,196,Eladio Arvelo,26,CA,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,197,Keith Beach,26,NY,USA,01:08:43,06:04:50,04:41:13,00:09:12,00:06:20,12:10:18
+ironman-wisconsin-20030907.csv,198,Hunter Boshell,26,WV,USA,01:27:58,07:04:10,07:27:48,00:14:56,00:23:43,16:38:35
+ironman-wisconsin-20030907.csv,199,Stephen M. Bouey,---,CO,USA,01:05:03,06:21:34,04:18:21,00:10:29,00:07:50,12:03:17
+ironman-wisconsin-20030907.csv,200,Alejandro Canasi,26,CA,MEX,00:56:12,06:24:57,06:09:44,00:09:12,00:05:32,13:45:37
+ironman-wisconsin-20030907.csv,201,Aaron V. Christiansen,---,MO,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,202,Joseph L. Christoffersen,---,IN,USA,00:56:54,06:22:55,03:52:45,00:07:00,00:04:34,11:24:08
+ironman-wisconsin-20030907.csv,203,Mauricio Cortes,26,---,USA,01:07:20,06:23:36,04:15:33,00:08:20,00:07:00,12:01:49
+ironman-wisconsin-20030907.csv,204,Mark A. Damveld,---,MI,USA,01:31:01,06:51:59,05:51:56,00:09:16,00:05:16,14:29:28
+ironman-wisconsin-20030907.csv,205,Matthew Eagan,---,CO,USA,00:58:00,06:05:05,---,00:06:00,00:08:17,DNF
+ironman-wisconsin-20030907.csv,206,Kevin Foy,26,MO,USA,01:09:10,06:30:07,04:35:32,00:10:57,00:08:05,12:33:51
+ironman-wisconsin-20030907.csv,207,Russell C. Frame,---,WI,USA,01:39:36,08:03:32,---,00:08:47,00:11:39,DNF
+ironman-wisconsin-20030907.csv,208,John F. Janiszewski Ii,---,IL,USA,01:09:58,05:39:06,05:01:28,00:11:35,00:05:24,12:07:31
+ironman-wisconsin-20030907.csv,209,Patrick Leger,---,QC,CAN,01:08:57,06:10:51,05:01:04,00:06:12,00:13:47,12:40:51
+ironman-wisconsin-20030907.csv,210,Daniel Mcguigan,---,NSW,AUS,00:58:37,05:17:47,04:14:28,00:05:42,00:02:02,10:38:36
+ironman-wisconsin-20030907.csv,211,Ryan Mclaughlin,26,IL,USA,01:03:17,06:54:06,06:58:22,00:09:27,00:15:08,15:20:20
+ironman-wisconsin-20030907.csv,212,Daniel J. Mendel,---,MN,USA,01:22:21,07:15:46,06:53:55,00:09:13,00:09:12,15:50:27
+ironman-wisconsin-20030907.csv,213,Nersesse Nersessian,---,CA,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,214,Anejandro Ochoa,---,JAL,MEX,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,215,Jacob Oergel,26,MD,USA,01:06:54,06:34:27,04:46:18,00:09:11,00:07:04,12:43:54
+ironman-wisconsin-20030907.csv,216,Travis M. Ohly,---,MN,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,217,Brian Puent,26,OH,USA,01:13:56,05:39:53,05:51:41,00:09:30,00:05:22,13:00:22
+ironman-wisconsin-20030907.csv,218,Joshua E. Saak,---,MO,USA,00:58:56,06:01:37,03:35:56,00:07:37,00:05:27,10:49:33
+ironman-wisconsin-20030907.csv,219,Matthew Southcott,26,WI,USA,01:18:43,06:43:52,05:28:47,00:07:52,00:05:35,13:44:49
+ironman-wisconsin-20030907.csv,220,Paul C. Thomas,---,IL,USA,01:03:12,05:53:55,05:23:26,00:06:50,00:05:26,12:32:49
+ironman-wisconsin-20030907.csv,221,Yohei Yamada,26,IL,USA,00:54:52,06:16:34,04:48:32,00:05:19,00:04:43,12:10:00
+ironman-wisconsin-20030907.csv,222,Dan J. Arlandson,---,MN,USA,01:05:55,05:22:39,03:46:57,00:06:14,00:02:42,10:24:27
+ironman-wisconsin-20030907.csv,223,Nick Sharrow,---,WI,USA,00:58:29,06:30:00,06:28:27,00:07:54,00:09:56,14:14:46
+ironman-wisconsin-20030907.csv,224,Michael Baldinger,27,IL,USA,00:52:07,05:46:33,05:49:59,00:05:24,00:02:51,12:36:54
+ironman-wisconsin-20030907.csv,225,Leonard Barry,27,WI,USA,02:11:35,07:17:19,05:32:59,00:14:12,00:09:24,15:25:29
+ironman-wisconsin-20030907.csv,226,Nicolas Bergeron,27,QC,CAN,01:08:00,05:44:35,---,00:06:55,00:03:57,DNF
+ironman-wisconsin-20030907.csv,227,Nathan Berkley,27,TN,USA,01:09:11,06:04:38,05:25:47,00:07:00,00:04:34,12:51:10
+ironman-wisconsin-20030907.csv,228,Peter J. Bzdusek,---,WI,USA,00:56:08,06:01:32,04:12:22,00:06:56,00:05:23,11:22:21
+ironman-wisconsin-20030907.csv,229,Brian E. Christopherson,---,MN,USA,01:21:26,06:25:00,05:30:29,00:10:15,00:07:29,13:34:39
+ironman-wisconsin-20030907.csv,230,Greg P. Corasiniti,---,KS,USA,01:12:22,06:47:10,05:27:18,00:07:23,00:08:10,13:42:23
+ironman-wisconsin-20030907.csv,231,Benjamin M. De Bray,---,ON,CAN,00:52:23,05:33:02,---,00:05:44,00:04:07,DNF
+ironman-wisconsin-20030907.csv,232,Jeremy A. Dubow,---,IL,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,233,Ralph A. Ellis,---,MI,USA,01:25:49,07:38:37,06:58:28,00:09:53,00:12:17,16:25:04
+ironman-wisconsin-20030907.csv,234,Carlos Flores,---,MI,USA,01:11:12,06:03:27,08:09:19,00:08:14,00:13:52,15:46:04
+ironman-wisconsin-20030907.csv,235,John B. Gerster,---,NY,USA,01:15:15,06:35:14,05:29:06,00:08:30,00:05:00,13:33:05
+ironman-wisconsin-20030907.csv,236,Chris Hall,---,CO,USA,00:58:41,05:16:34,04:10:16,00:05:52,00:02:16,10:33:39
+ironman-wisconsin-20030907.csv,237,Mark D. Harms,---,WI,USA,00:59:43,05:24:52,04:23:19,00:06:04,00:01:59,10:55:57
+ironman-wisconsin-20030907.csv,238,Craig A. Harrison,---,IL,USA,01:08:06,05:55:52,04:31:51,00:07:32,00:04:28,11:47:49
+ironman-wisconsin-20030907.csv,239,Aaron Highfill,---,TN,USA,01:17:14,07:00:47,---,00:08:42,00:12:51,DNF
+ironman-wisconsin-20030907.csv,240,Sam C. Hoxie,---,MN,USA,01:13:35,06:37:37,04:46:44,00:07:08,00:03:49,12:48:53
+ironman-wisconsin-20030907.csv,241,Darin Hurd,27,IL,USA,01:05:58,07:03:10,06:10:46,00:10:17,00:11:45,14:41:56
+ironman-wisconsin-20030907.csv,242,Tim Leung,27,WI,USA,01:23:45,07:45:19,06:38:47,00:12:34,00:12:19,16:12:44
+ironman-wisconsin-20030907.csv,243,Joel Mccauley,27,WI,USA,01:05:15,---,---,00:07:06,---,DNF
+ironman-wisconsin-20030907.csv,244,Sergio Millan,27,---,MEX,01:10:29,---,---,00:07:50,---,DNF
+ironman-wisconsin-20030907.csv,245,Jaime A. Moreno,---,JALI,MEX,01:10:37,06:04:23,05:29:34,00:08:54,00:06:36,13:00:04
+ironman-wisconsin-20030907.csv,246,Joe Parker,27,WI,USA,00:56:47,06:05:12,04:44:46,00:06:19,00:05:22,11:58:26
+ironman-wisconsin-20030907.csv,247,John N. Renzelman,---,IL,USA,01:14:51,05:59:49,05:48:39,00:07:37,00:04:29,13:15:25
+ironman-wisconsin-20030907.csv,248,Matthew J. Stewart,---,VA,USA,01:05:38,05:46:39,04:46:40,00:07:04,00:05:23,11:51:24
+ironman-wisconsin-20030907.csv,249,Nathan O. Stitziel,---,IL,USA,01:05:44,06:38:31,04:49:42,00:09:26,00:05:59,12:49:22
+ironman-wisconsin-20030907.csv,250,Bradley J. Taylor,---,MI,USA,01:10:53,06:10:37,06:21:01,00:08:25,00:07:42,13:58:38
+ironman-wisconsin-20030907.csv,251,Juan C. Vazquez,---,JAL,MEX,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,252,Benjamin L. Wacker,---,MN,USA,01:23:52,06:53:50,05:39:27,00:12:45,00:09:47,14:19:41
+ironman-wisconsin-20030907.csv,253,Marc R. Wilson,---,MO,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,254,George Worrell,27,FL,USA,00:50:01,05:11:28,04:48:51,00:04:54,00:02:25,10:57:39
+ironman-wisconsin-20030907.csv,255,Morgan Rhule,---,PA,USA,01:16:33,06:31:16,06:17:57,00:07:44,00:05:48,14:19:18
+ironman-wisconsin-20030907.csv,256,Justin D. Bonnett,---,MN,USA,01:08:31,05:58:51,04:22:18,00:10:30,00:04:58,11:45:08
+ironman-wisconsin-20030907.csv,257,George A. Braden,---,WI,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,258,David W. Brummel,---,MN,USA,01:14:12,06:21:41,05:21:48,00:11:35,00:08:11,13:17:27
+ironman-wisconsin-20030907.csv,259,Randy Clark,28,NH,USA,01:14:43,06:34:14,07:02:33,00:08:42,00:05:14,15:05:26
+ironman-wisconsin-20030907.csv,260,Chris Cook,28,---,CAN,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,261,Michael T. Dendinger,---,AZ,USA,01:13:36,07:08:30,05:48:12,00:15:16,00:11:54,14:37:28
+ironman-wisconsin-20030907.csv,262,Richard Diamond,28,CO,USA,01:13:15,06:40:07,06:33:56,00:09:16,00:07:24,14:43:58
+ironman-wisconsin-20030907.csv,263,Trevor Funk,28,MB,CAN,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,264,Travis S. Gardner,---,WI,USA,01:08:03,07:59:56,06:43:34,00:29:23,00:13:52,16:34:48
+ironman-wisconsin-20030907.csv,265,Ryan L. Griessmeyer,---,WI,USA,01:08:18,06:40:47,05:50:24,00:11:17,00:09:35,14:00:21
+ironman-wisconsin-20030907.csv,266,Timothy Hanifin,28,IL,USA,01:34:14,06:50:25,05:06:35,00:12:59,00:12:37,13:56:50
+ironman-wisconsin-20030907.csv,267,Andrew C. Hanson,---,WI,USA,01:04:50,06:24:23,05:05:12,00:08:25,00:08:43,12:51:33
+ironman-wisconsin-20030907.csv,268,Nicolas Jafarieh,28,DC,USA,01:40:30,07:17:09,05:04:55,00:09:07,00:08:06,14:19:47
+ironman-wisconsin-20030907.csv,269,Marc W. Juarez,---,IL,USA,01:02:54,06:42:16,05:07:24,00:10:10,00:07:34,13:10:18
+ironman-wisconsin-20030907.csv,270,Jeff Juergens,28,OH,USA,00:49:56,06:34:20,---,00:06:44,---,DNF
+ironman-wisconsin-20030907.csv,271,Allen R. Kienbaum,---,WI,USA,01:09:45,06:47:31,06:35:18,00:06:45,00:04:44,14:44:03
+ironman-wisconsin-20030907.csv,272,Kevin Koolar,28,IL,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,273,Gerald P. Kubiak,---,NE,USA,01:05:57,06:18:52,07:32:19,00:07:09,00:19:14,15:23:31
+ironman-wisconsin-20030907.csv,274,James A. Lamastra,---,OH,USA,00:51:36,05:36:35,04:06:25,00:06:40,00:02:23,10:43:39
+ironman-wisconsin-20030907.csv,275,Chris Lumbard,28,MI,USA,01:18:25,06:23:27,05:10:42,00:09:10,00:13:04,13:14:48
+ironman-wisconsin-20030907.csv,276,Michael J. Lutz,---,WI,USA,01:02:28,05:41:00,05:29:13,00:06:51,00:02:29,12:22:01
+ironman-wisconsin-20030907.csv,277,Ryan Ness,28,OR,USA,01:04:49,05:35:36,03:50:36,00:05:52,00:02:12,10:39:05
+ironman-wisconsin-20030907.csv,278,Keith W. Norsym,---,IL,USA,01:19:28,06:22:14,---,00:08:28,00:06:30,DNF
+ironman-wisconsin-20030907.csv,279,Sean O'Day,28,WI,USA,01:17:21,06:24:55,04:42:09,00:08:08,00:06:32,12:39:05
+ironman-wisconsin-20030907.csv,280,Samuel C. Othus,---,WA,USA,01:09:19,05:48:22,05:01:35,00:07:28,00:04:39,12:11:23
+ironman-wisconsin-20030907.csv,281,Ron Peck,28,WI,USA,01:08:33,06:06:05,04:17:03,00:09:10,00:05:47,11:46:38
+ironman-wisconsin-20030907.csv,282,Aaron J. Pidde,---,MN,USA,01:08:11,06:12:16,---,00:08:57,00:08:28,DNF
+ironman-wisconsin-20030907.csv,283,Ryan J. Robinson,---,KS,USA,01:07:53,06:25:56,06:27:02,00:07:45,00:06:55,14:15:31
+ironman-wisconsin-20030907.csv,284,Travis K. Schroll,---,IL,USA,01:08:25,06:08:22,---,00:07:47,00:05:58,DNF
+ironman-wisconsin-20030907.csv,285,Jason Silber,28,IL,USA,01:17:58,06:38:14,05:18:23,00:10:39,00:06:06,13:31:20
+ironman-wisconsin-20030907.csv,286,Jonathan W. Spitzer,---,VA,USA,01:14:52,05:57:44,03:49:34,00:08:04,00:05:44,11:15:58
+ironman-wisconsin-20030907.csv,287,Andrew Taft,28,CO,USA,01:00:21,05:31:23,05:14:38,00:06:20,00:02:37,11:55:19
+ironman-wisconsin-20030907.csv,288,Jeff S. Tanguay,---,MI,USA,01:31:07,06:32:56,05:43:34,00:11:19,00:07:18,14:06:14
+ironman-wisconsin-20030907.csv,289,Jonathan S. Tenney,---,IL,USA,01:07:51,05:51:05,03:56:26,00:08:45,00:06:58,11:11:05
+ironman-wisconsin-20030907.csv,290,Bryan G. Turner,---,---,GBR,00:57:24,06:14:57,05:30:35,00:07:10,00:03:54,12:54:00
+ironman-wisconsin-20030907.csv,291,Brian Walczak,---,IL,USA,01:52:02,06:05:52,04:59:42,00:11:24,00:06:06,13:15:06
+ironman-wisconsin-20030907.csv,292,Anthony J. Wilkerson,---,IN,USA,01:20:58,07:24:43,07:07:31,00:13:27,00:09:06,16:15:45
+ironman-wisconsin-20030907.csv,293,Brennan R. Young,---,IL,USA,01:32:55,06:12:03,05:21:56,00:10:21,00:09:40,13:26:55
+ironman-wisconsin-20030907.csv,294,Adam C. Zucco,---,IL,USA,00:54:32,05:36:51,---,00:06:40,00:04:05,DNF
+ironman-wisconsin-20030907.csv,295,Steve Gangemi,---,NC,USA,00:59:15,05:45:29,06:11:53,00:06:09,00:03:24,13:06:10
+ironman-wisconsin-20030907.csv,296,Garrett Olson,---,IL,USA,01:14:04,06:57:50,04:57:28,00:08:12,00:09:19,13:26:53
+ironman-wisconsin-20030907.csv,297,David Stakel,---,GA,USA,01:12:40,06:04:38,04:27:58,00:07:37,00:05:12,11:58:05
+ironman-wisconsin-20030907.csv,298,Gregory Bender,29,NY,USA,01:08:48,06:20:25,04:52:39,00:11:26,00:07:33,12:40:51
+ironman-wisconsin-20030907.csv,299,Todd Bovo,---,UT,USA,01:07:43,06:25:35,07:10:36,00:06:28,00:08:43,14:59:05
+ironman-wisconsin-20030907.csv,300,Anthony J. Cece,---,MI,USA,01:04:51,05:33:24,05:05:26,00:08:10,00:05:41,11:57:32
+ironman-wisconsin-20030907.csv,301,J.D. Clockadale,29,GA,USA,01:05:06,05:54:39,05:15:18,00:06:49,00:05:54,12:27:46
+ironman-wisconsin-20030907.csv,302,Dan E. Cohen,---,MN,USA,00:58:21,05:26:25,04:55:23,00:05:35,00:02:49,11:28:33
+ironman-wisconsin-20030907.csv,303,Ryan K. Cooper,---,WI,USA,01:16:46,07:05:58,05:35:04,00:12:05,00:11:51,14:21:44
+ironman-wisconsin-20030907.csv,304,Phillip C. Cutti,---,CA,USA,01:03:31,06:05:39,06:22:37,00:06:39,00:03:14,13:41:40
+ironman-wisconsin-20030907.csv,305,Josh N. Daly,---,IL,USA,01:16:28,07:07:56,05:06:59,00:15:06,00:11:44,13:58:13
+ironman-wisconsin-20030907.csv,306,Alain J. Deleon,---,WI,USA,01:56:13,07:07:03,06:37:02,00:15:04,00:07:25,16:02:47
+ironman-wisconsin-20030907.csv,307,George W. Economos,29,IL,USA,01:27:43,07:45:32,06:38:47,00:12:33,00:12:54,16:17:29
+ironman-wisconsin-20030907.csv,308,Darin Eisinger,29,IA,USA,00:57:26,05:17:21,03:54:27,00:06:06,00:03:13,10:18:33
+ironman-wisconsin-20030907.csv,309,Patrick J. Elder,---,IL,USA,00:49:19,06:17:43,06:40:24,00:07:25,00:06:56,14:01:47
+ironman-wisconsin-20030907.csv,310,Jason Ford,29,AZ,USA,01:16:22,06:38:46,04:47:39,00:07:43,00:05:47,12:56:17
+ironman-wisconsin-20030907.csv,311,Kirk Framke,---,CO,USA,00:49:55,05:18:08,03:20:11,00:04:51,00:02:40,09:35:45
+ironman-wisconsin-20030907.csv,312,Kevin Grogan,---,AL,USA,01:02:07,05:33:37,03:33:53,00:06:07,00:02:33,10:18:17
+ironman-wisconsin-20030907.csv,313,Jerome K. Harrison,---,IL,USA,01:02:17,05:27:21,04:34:41,00:06:02,00:02:11,11:12:32
+ironman-wisconsin-20030907.csv,314,Dave Hubbard,29,WI,USA,01:19:08,06:05:02,04:37:39,00:11:57,00:07:57,12:21:43
+ironman-wisconsin-20030907.csv,315,Brian D. Huebner,---,WI,USA,01:09:05,05:26:59,03:47:21,00:05:40,00:02:21,10:31:26
+ironman-wisconsin-20030907.csv,316,Michael Ignaffo,---,MI,USA,01:08:13,05:58:21,06:08:07,00:05:32,00:03:07,13:23:20
+ironman-wisconsin-20030907.csv,317,Jeremy L. Johnson,---,MN,USA,01:14:41,07:18:35,06:28:47,00:09:39,00:06:43,15:18:25
+ironman-wisconsin-20030907.csv,318,Scott Kaslusky,29,CT,USA,00:53:29,05:49:02,04:34:49,00:05:57,00:03:54,11:27:11
+ironman-wisconsin-20030907.csv,319,Tim Laird,29,---,USA,01:13:11,05:31:19,04:03:13,00:06:24,00:02:48,10:56:55
+ironman-wisconsin-20030907.csv,320,David Macayaon,---,CA,USA,01:10:25,06:07:31,05:22:21,00:08:24,00:10:40,12:59:21
+ironman-wisconsin-20030907.csv,321,Steve E. Mann,---,MN,USA,01:10:42,05:47:38,04:19:52,00:07:38,00:03:15,11:29:05
+ironman-wisconsin-20030907.csv,322,Timothy F. Mcnamara,---,NY,USA,01:21:00,06:04:21,03:59:42,00:09:11,00:05:42,11:39:56
+ironman-wisconsin-20030907.csv,323,Dan C. Morwood,---,MB,CAN,01:07:26,05:10:19,03:27:37,00:05:00,00:02:04,09:52:26
+ironman-wisconsin-20030907.csv,324,Brian Parker,29,GA,USA,01:12:56,06:57:15,---,00:08:46,00:14:10,DNF
+ironman-wisconsin-20030907.csv,325,Mike Parker,29,IL,USA,01:10:40,06:58:24,06:04:56,00:11:03,00:13:00,14:38:03
+ironman-wisconsin-20030907.csv,326,Andrew J. Penca,---,IN,USA,01:13:30,07:26:36,05:47:38,00:15:26,00:21:31,15:04:41
+ironman-wisconsin-20030907.csv,327,Jorge H. Perez,---,JALI,MEX,01:02:47,06:32:06,05:25:40,00:06:46,00:06:53,13:14:12
+ironman-wisconsin-20030907.csv,328,Brian C. Resac,---,IL,USA,01:11:45,05:53:29,06:52:12,00:07:37,00:14:38,14:19:41
+ironman-wisconsin-20030907.csv,329,Christopher T. Rihn,---,PA,USA,01:26:43,07:46:13,06:02:33,00:12:45,00:11:35,15:39:49
+ironman-wisconsin-20030907.csv,330,Michael H. Rubin,---,IL,USA,00:53:38,05:36:06,04:32:37,00:05:34,00:03:10,11:11:05
+ironman-wisconsin-20030907.csv,331,Ryan F. Saline,---,MN,USA,01:13:16,06:30:45,07:20:21,00:10:37,00:12:54,15:27:53
+ironman-wisconsin-20030907.csv,332,Greg D. Sanborn,---,MO,USA,01:16:46,---,---,00:08:43,---,DNF
+ironman-wisconsin-20030907.csv,333,Michael Saraniero,29,VA,USA,01:09:17,06:23:33,04:40:42,00:08:45,00:04:34,12:26:51
+ironman-wisconsin-20030907.csv,334,Brian Scott,19,IL,USA,00:53:35,05:18:17,03:37:19,00:05:40,00:02:27,09:57:18
+ironman-wisconsin-20030907.csv,335,Ryan Senator,29,GA,USA,00:58:05,05:42:59,03:55:57,00:08:31,00:02:55,10:48:27
+ironman-wisconsin-20030907.csv,336,Jason R. Shaw,---,OK,USA,01:12:13,05:55:52,05:07:46,00:07:58,00:09:16,12:33:05
+ironman-wisconsin-20030907.csv,337,John L. Simpson,---,IL,USA,00:58:15,06:15:10,05:42:09,00:05:42,00:10:23,13:11:39
+ironman-wisconsin-20030907.csv,338,William D. Stableforth,---,DERB,GBR,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,339,Sean M. Stucke,---,MN,USA,00:50:12,06:00:45,05:52:25,00:06:04,00:05:07,12:54:33
+ironman-wisconsin-20030907.csv,340,Matthew Sullivan,29,MN,USA,01:06:53,06:34:43,05:01:57,00:09:07,00:05:43,12:58:23
+ironman-wisconsin-20030907.csv,341,Michael Talleur,29,MO,USA,01:00:18,05:41:27,04:37:50,00:07:22,00:07:44,11:34:41
+ironman-wisconsin-20030907.csv,342,Gregg Trapp,29,MO,USA,01:07:45,06:11:17,05:47:19,00:05:46,00:02:26,13:14:33
+ironman-wisconsin-20030907.csv,343,Christopher J. Weber,---,IL,USA,01:25:14,06:49:19,06:32:18,00:07:04,00:06:33,15:00:28
+ironman-wisconsin-20030907.csv,344,Ronald S. Weber,---,IL,USA,01:18:53,06:48:52,06:59:42,00:09:57,00:05:59,15:23:23
+ironman-wisconsin-20030907.csv,345,Zack Weber,29,IL,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,346,Rob Wojtak,29,IL,USA,01:13:16,07:02:34,06:09:50,00:07:52,00:08:55,14:42:27
+ironman-wisconsin-20030907.csv,347,Chad M. Wolbers,---,IA,USA,00:59:49,06:21:49,05:37:04,00:08:20,00:06:35,13:13:37
+ironman-wisconsin-20030907.csv,348,James A. Zwack,---,MN,USA,01:05:16,05:33:28,---,00:06:36,00:03:38,DNF
+ironman-wisconsin-20030907.csv,349,Chris Tanguay,---,IN,USA,01:11:51,06:34:11,04:40:00,00:08:50,00:05:23,12:40:15
+ironman-wisconsin-20030907.csv,350,Bertrand Vanisterdael,---,FL,USA,01:42:58,06:24:28,05:43:45,00:08:55,00:08:53,14:08:59
+ironman-wisconsin-20030907.csv,351,Alfonso Barra Vega,30,---,MEX,01:13:10,06:58:21,05:33:35,00:07:25,00:08:05,14:00:36
+ironman-wisconsin-20030907.csv,352,David A. Bennin,---,WI,USA,00:59:17,05:50:33,04:09:50,00:08:55,00:06:54,11:15:29
+ironman-wisconsin-20030907.csv,353,Matt Berner,30,MI,USA,01:13:44,06:02:35,05:33:15,00:07:21,00:04:45,13:01:40
+ironman-wisconsin-20030907.csv,354,Anthony E. Bertram,---,WI,USA,01:21:49,06:50:54,06:24:28,00:10:21,00:08:58,14:56:30
+ironman-wisconsin-20030907.csv,355,Mark Beversdorf,30,WI,USA,01:04:56,05:26:34,---,00:06:03,00:02:30,DNF
+ironman-wisconsin-20030907.csv,356,Craig Bewick,30,IL,USA,00:55:56,05:43:18,05:50:21,00:05:41,00:04:12,12:39:28
+ironman-wisconsin-20030907.csv,357,Richard Bollinger,---,NC,USA,01:10:04,06:08:58,07:07:30,00:07:47,00:08:38,14:42:57
+ironman-wisconsin-20030907.csv,358,Eric D. Bronder,---,AK,USA,01:27:26,06:54:11,06:19:29,00:11:38,00:06:08,14:58:52
+ironman-wisconsin-20030907.csv,359,Thomas E. Carroll,---,CA,USA,00:56:17,07:08:46,---,00:07:07,00:12:05,DNF
+ironman-wisconsin-20030907.csv,360,Dylan M. Carson,---,DC,USA,01:18:20,06:04:47,04:31:05,00:09:35,00:07:10,12:10:57
+ironman-wisconsin-20030907.csv,361,Alain Charlebois,---,QC,CAN,00:51:51,05:39:04,04:03:45,00:04:54,00:01:33,10:41:07
+ironman-wisconsin-20030907.csv,362,Barnaby A. Clark,---,CA,USA,01:02:07,05:36:04,07:30:38,00:05:04,00:03:26,14:17:19
+ironman-wisconsin-20030907.csv,363,Douglas S. Clayton,---,IL,USA,01:04:05,06:11:32,06:21:36,00:09:43,00:09:14,13:56:10
+ironman-wisconsin-20030907.csv,364,Grant Coisman,30,WI,USA,01:41:50,06:28:50,06:04:22,00:10:29,00:09:07,14:34:38
+ironman-wisconsin-20030907.csv,365,Shane E. Cook,---,IL,USA,01:04:54,07:41:37,---,00:12:50,00:15:51,DNF
+ironman-wisconsin-20030907.csv,366,Andrew D. Cooper,---,KS,USA,01:11:52,05:59:44,---,00:07:19,00:07:18,DNF
+ironman-wisconsin-20030907.csv,367,Chad M. Cronin,---,MN,USA,01:06:09,07:02:15,05:07:02,00:12:32,00:06:24,13:34:22
+ironman-wisconsin-20030907.csv,368,Eric Dempster,30,VA,USA,01:08:04,05:55:27,04:29:09,00:10:02,00:10:49,11:53:31
+ironman-wisconsin-20030907.csv,369,Eric Deshaies,30,QC,CAN,01:05:48,05:29:04,03:53:50,00:05:38,00:02:25,10:36:45
+ironman-wisconsin-20030907.csv,370,Timothy Devries,---,MI,USA,01:14:27,07:57:26,05:57:20,00:09:22,00:12:45,15:31:20
+ironman-wisconsin-20030907.csv,371,Sean P. Dukelow,---,ON,CAN,01:23:40,06:14:40,04:43:31,00:09:12,00:06:07,12:37:10
+ironman-wisconsin-20030907.csv,372,Kevin W. Dusek,---,IL,USA,00:58:06,06:43:24,04:43:23,00:07:39,00:04:29,12:37:01
+ironman-wisconsin-20030907.csv,373,Robert Frink,30,NC,USA,01:06:05,05:45:57,---,00:05:03,00:03:43,DNF
+ironman-wisconsin-20030907.csv,374,Tom Govey,30,WA,USA,01:14:14,---,---,00:06:31,---,DNF
+ironman-wisconsin-20030907.csv,375,Jeremy N. Grall,---,TN,USA,01:28:32,07:22:07,06:22:51,00:09:43,00:12:59,15:36:12
+ironman-wisconsin-20030907.csv,376,Chip Griffen,30,IL,USA,01:07:57,05:39:35,04:51:53,00:06:43,00:02:53,11:49:01
+ironman-wisconsin-20030907.csv,377,Jeff Haas,30,WI,USA,01:15:42,07:26:08,06:56:01,00:10:07,00:11:20,15:59:18
+ironman-wisconsin-20030907.csv,378,John L. Hanson,---,IA,USA,01:12:38,06:11:39,04:30:02,00:09:19,00:07:44,12:11:22
+ironman-wisconsin-20030907.csv,379,Jason G. Jardine,---,MI,USA,01:05:42,05:52:41,05:04:06,00:06:26,00:04:51,12:13:46
+ironman-wisconsin-20030907.csv,380,Michael Jorgensen,30,IL,USA,01:11:35,05:42:03,04:27:16,00:07:24,00:04:26,11:32:44
+ironman-wisconsin-20030907.csv,381,Anne Kilpatrick,---,GA,USA,01:17:49,07:05:57,05:04:26,00:07:03,00:04:27,13:39:42
+ironman-wisconsin-20030907.csv,382,Gregory King,30,NC,USA,01:16:13,05:50:43,04:34:00,00:08:45,00:04:46,11:54:27
+ironman-wisconsin-20030907.csv,383,Dana Klubertanz,---,WI,USA,01:10:53,06:01:45,06:45:08,00:09:36,00:05:13,14:12:35
+ironman-wisconsin-20030907.csv,384,David B. Koehler,---,WI,USA,01:18:57,06:18:21,05:59:01,00:08:59,00:05:43,13:51:01
+ironman-wisconsin-20030907.csv,385,Tim D. Kranz,---,WI,USA,01:13:38,08:02:42,05:00:51,00:10:54,00:13:04,14:41:09
+ironman-wisconsin-20030907.csv,386,Kevin Krapf,30,WI,USA,01:13:00,07:53:20,06:26:37,00:10:17,00:26:22,16:09:36
+ironman-wisconsin-20030907.csv,387,Kenneth A. Landolt,---,WI,USA,01:14:44,06:45:27,05:56:55,00:09:20,00:11:15,14:17:41
+ironman-wisconsin-20030907.csv,388,Eric J. Lanners,---,MN,USA,01:08:07,06:02:11,04:34:04,00:10:11,00:07:09,12:01:42
+ironman-wisconsin-20030907.csv,389,Ryan A. Larson,---,WI,USA,01:06:46,05:38:32,---,00:11:02,00:05:28,DNF
+ironman-wisconsin-20030907.csv,390,Rodne J. Lecouteur,---,MI,USA,01:09:42,06:20:52,05:14:11,00:08:02,00:07:28,13:00:15
+ironman-wisconsin-20030907.csv,391,Brandon J. Lee,---,IA,USA,01:18:49,---,---,00:11:47,---,DNF
+ironman-wisconsin-20030907.csv,392,Kenneth R. Loder,---,IA,USA,01:18:49,07:07:20,06:08:34,00:11:47,00:07:30,14:54:00
+ironman-wisconsin-20030907.csv,393,Pierre Dane Lorio,---,GA,USA,01:21:05,06:47:33,05:16:19,00:08:08,00:06:37,13:39:42
+ironman-wisconsin-20030907.csv,394,Rick Lowes,30,---,CAN,01:18:40,06:42:27,05:31:09,00:10:21,00:08:18,13:50:55
+ironman-wisconsin-20030907.csv,395,Eiichi Matsuda,---,---,JPN,01:02:42,05:40:05,04:03:56,00:06:54,00:03:43,10:57:20
+ironman-wisconsin-20030907.csv,396,Patrick Mcgarry,30,IL,USA,01:20:32,07:09:34,06:41:39,00:11:58,00:12:45,15:36:28
+ironman-wisconsin-20030907.csv,397,Mark M. Mehler,---,WI,USA,01:26:06,05:39:07,04:35:00,00:12:08,00:07:18,11:59:39
+ironman-wisconsin-20030907.csv,398,Nigel Morgan,30,NC,USA,00:56:27,05:26:27,---,00:05:32,00:03:52,DNF
+ironman-wisconsin-20030907.csv,399,Theodore Parker,30,CA,USA,01:09:13,05:54:43,05:09:45,00:10:21,00:06:27,12:30:29
+ironman-wisconsin-20030907.csv,400,Brett R. Petersen,---,IL,USA,01:02:50,05:40:14,04:36:29,00:07:56,00:03:48,11:31:17
+ironman-wisconsin-20030907.csv,401,George M. Petts,---,---,USA,01:47:07,---,---,00:10:39,---,DNF
+ironman-wisconsin-20030907.csv,402,Chad Plautz,30,IL,USA,01:03:36,06:36:46,05:38:32,00:11:49,00:11:04,13:41:47
+ironman-wisconsin-20030907.csv,403,Brian M. Polka,---,IL,USA,01:06:22,06:19:34,06:57:28,00:11:12,00:08:40,14:43:16
+ironman-wisconsin-20030907.csv,404,Andrew Putzy,30,MN,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,405,Douglas Schein,30,IL,USA,01:23:51,06:18:02,04:21:34,00:07:34,00:03:19,12:14:20
+ironman-wisconsin-20030907.csv,406,David Sexton,30,MN,USA,00:53:46,06:12:31,---,00:05:52,00:05:26,DNF
+ironman-wisconsin-20030907.csv,407,Michael Smith,---,AZ,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,408,Matthew J. Sorokin,---,EAST,GBR,01:04:40,06:23:03,---,00:07:16,00:07:49,DNF
+ironman-wisconsin-20030907.csv,409,Michael Stobart,---,CT,USA,01:26:10,---,---,00:08:28,---,DNF
+ironman-wisconsin-20030907.csv,410,Eric L. Tessmer,---,MN,USA,01:11:09,06:04:42,06:20:55,00:08:11,00:05:09,13:50:06
+ironman-wisconsin-20030907.csv,411,Christophe Vandaele,30,NY,USA,01:13:05,06:01:58,05:16:03,00:06:26,00:05:55,12:43:27
+ironman-wisconsin-20030907.csv,412,John A. Wellens,30,WI,USA,01:05:52,05:54:02,04:51:59,00:07:57,00:05:15,12:05:05
+ironman-wisconsin-20030907.csv,413,Luke A. Wilson,---,KS,USA,01:13:11,06:25:38,04:36:16,00:08:01,00:05:31,12:28:37
+ironman-wisconsin-20030907.csv,414,Kenneth Corwen,---,NY,USA,01:17:26,06:42:11,05:13:11,00:11:07,00:09:27,13:33:22
+ironman-wisconsin-20030907.csv,415,Carlos Sandoval,---,NL,MEX,01:04:38,05:25:11,---,00:05:49,00:02:50,DNF
+ironman-wisconsin-20030907.csv,416,Chris Schulten,---,CT,USA,01:08:55,05:17:53,04:44:50,00:06:07,00:03:41,11:21:26
+ironman-wisconsin-20030907.csv,417,Dan S. Ackerstein,---,WI,USA,01:10:57,06:17:10,05:46:24,00:10:08,00:06:57,13:31:36
+ironman-wisconsin-20030907.csv,418,Kurt J. Amann,---,WI,USA,01:23:58,06:30:50,07:18:18,00:08:27,00:05:09,15:26:42
+ironman-wisconsin-20030907.csv,419,Michael S. Armstrong,---,TX,USA,01:07:54,06:01:18,04:47:45,00:06:35,00:04:38,12:08:10
+ironman-wisconsin-20030907.csv,420,Jason Blocksom,31,IN,USA,01:19:48,06:14:12,06:45:23,00:10:07,00:07:01,14:36:31
+ironman-wisconsin-20030907.csv,421,Scott Brown,31,MN,USA,01:00:17,06:00:45,05:14:25,00:05:42,00:03:16,12:24:25
+ironman-wisconsin-20030907.csv,422,David Burns,31,CA,USA,01:06:56,06:00:31,04:53:22,00:09:01,00:04:06,12:13:56
+ironman-wisconsin-20030907.csv,423,Matthew Collister,---,OH,USA,01:17:47,05:45:14,05:01:32,00:11:06,00:04:56,12:20:35
+ironman-wisconsin-20030907.csv,424,Brooks Cotgreave,31,MD,USA,01:12:18,07:05:43,05:55:31,00:07:21,00:04:58,14:25:51
+ironman-wisconsin-20030907.csv,425,Michael Dahlhauser,---,IA,USA,01:15:00,07:01:16,06:52:53,00:10:45,00:09:11,15:29:05
+ironman-wisconsin-20030907.csv,426,Doug E. Day,---,IL,USA,00:49:44,05:29:07,03:48:42,00:07:06,00:03:32,10:18:11
+ironman-wisconsin-20030907.csv,427,Steven Dietrich,31,MN,USA,01:13:42,06:04:48,05:04:40,00:08:40,00:04:47,12:36:37
+ironman-wisconsin-20030907.csv,428,Adam Elhofy,31,IL,USA,01:24:04,07:31:10,06:32:05,00:11:21,00:14:47,15:53:27
+ironman-wisconsin-20030907.csv,429,Josh M. Friedman,---,CO,USA,01:00:02,06:07:15,04:29:57,00:07:02,00:04:16,11:48:32
+ironman-wisconsin-20030907.csv,430,Eric Furcht,31,MN,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,431,James Gracey,---,TX,USA,01:05:22,05:21:57,04:10:40,00:08:21,00:02:14,10:48:34
+ironman-wisconsin-20030907.csv,432,Steve C. Gray,---,IL,USA,01:15:39,05:48:58,04:30:31,00:06:44,00:03:43,11:45:35
+ironman-wisconsin-20030907.csv,433,Martin Hagen,31,WI,USA,01:11:20,06:03:29,05:43:05,00:06:47,00:04:20,13:09:01
+ironman-wisconsin-20030907.csv,434,Neil Hailstone,31,CO,USA,01:05:59,06:07:39,05:15:33,00:07:27,00:06:05,12:42:43
+ironman-wisconsin-20030907.csv,435,Charles B. Hatcher,---,WI,USA,01:20:19,07:34:50,06:07:30,00:11:21,00:13:22,15:27:22
+ironman-wisconsin-20030907.csv,436,Calvin Horn,31,MN,USA,01:26:51,08:32:10,06:27:49,00:09:39,00:08:39,16:45:08
+ironman-wisconsin-20030907.csv,437,Eric Jensen,31,MN,USA,01:04:59,07:32:09,06:42:21,00:05:47,00:11:23,15:36:39
+ironman-wisconsin-20030907.csv,438,Franqui Jimenez-Marrero,---,MA,USA,01:00:25,05:26:05,04:30:41,00:06:29,00:02:35,11:06:15
+ironman-wisconsin-20030907.csv,439,Carlo C. Jurani,---,MO,USA,01:16:10,07:00:03,06:38:06,00:09:59,00:06:28,15:10:46
+ironman-wisconsin-20030907.csv,440,Sean Kaneski,31,MN,USA,01:02:08,05:11:57,03:29:37,00:05:12,00:01:54,09:50:48
+ironman-wisconsin-20030907.csv,441,Jeff Keebler,31,WI,USA,01:16:41,07:11:16,06:25:21,00:12:13,00:20:11,15:25:42
+ironman-wisconsin-20030907.csv,442,Eric Kies,31,IA,USA,01:18:46,05:57:16,06:10:57,00:08:07,00:05:34,13:40:40
+ironman-wisconsin-20030907.csv,443,Shawn H. Kneevers,---,WI,USA,01:00:28,05:52:43,06:13:12,00:06:50,00:03:54,13:17:07
+ironman-wisconsin-20030907.csv,444,Jeffrey B. Larson,---,WI,USA,01:11:31,06:22:43,05:34:30,00:06:44,00:05:00,13:20:28
+ironman-wisconsin-20030907.csv,445,Brent W. Leach,---,IL,USA,01:21:16,06:54:05,07:08:16,00:10:56,00:09:36,15:44:09
+ironman-wisconsin-20030907.csv,446,Carlos Malinao,31,CA,USA,01:27:51,08:24:26,06:22:19,00:10:44,00:08:07,16:33:27
+ironman-wisconsin-20030907.csv,447,Tyler B. Marsh,---,IA,USA,01:27:44,06:26:33,04:09:02,00:10:16,00:08:31,12:22:06
+ironman-wisconsin-20030907.csv,448,Timothy M. Martersteck,---,UT,USA,01:03:50,05:38:50,---,00:06:29,00:03:15,DNF
+ironman-wisconsin-20030907.csv,449,Ryan Mayotte,31,IL,USA,01:08:50,06:17:05,04:44:34,00:08:40,00:05:27,12:24:36
+ironman-wisconsin-20030907.csv,450,Tony E. Nurse,---,ON,CAN,01:06:33,05:43:48,04:55:38,00:07:40,00:03:03,11:56:42
+ironman-wisconsin-20030907.csv,451,Steven Oliver,31,IL,USA,01:26:53,08:34:17,06:01:06,00:09:21,00:13:23,16:25:00
+ironman-wisconsin-20030907.csv,452,Sean Olssen,31,IN,USA,01:09:48,06:15:02,04:54:06,00:07:14,00:07:16,12:33:26
+ironman-wisconsin-20030907.csv,453,Mike Osullivan,---,IL,USA,01:25:19,07:44:24,06:31:21,00:11:35,00:12:18,16:04:57
+ironman-wisconsin-20030907.csv,454,Anthony Otero,31,IL,USA,01:07:01,05:52:00,04:31:34,00:07:32,00:03:12,11:41:19
+ironman-wisconsin-20030907.csv,455,Stephen D. Pasco,---,WV,USA,01:18:19,08:32:36,---,00:09:45,---,DNF
+ironman-wisconsin-20030907.csv,456,Eric Plantenberg,---,WI,USA,01:15:42,06:10:10,06:05:42,00:11:53,00:13:26,13:56:53
+ironman-wisconsin-20030907.csv,457,Anthony J. Polusny,---,MN,USA,01:00:05,07:36:57,---,00:08:00,00:09:55,DNF
+ironman-wisconsin-20030907.csv,458,Declan Rainsford,31,NY,USA,01:06:05,06:13:47,06:12:29,00:11:22,00:08:09,13:51:52
+ironman-wisconsin-20030907.csv,459,Lonnie Renda,31,IL,USA,01:19:55,06:34:07,05:36:25,00:09:08,00:05:42,13:45:17
+ironman-wisconsin-20030907.csv,460,Paul B. Richardson,---,IN,USA,01:05:49,---,---,00:09:46,---,DNF
+ironman-wisconsin-20030907.csv,461,Luis A. Rodriguez,---,D.F.,MEX,01:15:17,06:54:34,04:25:40,00:11:51,00:10:06,12:57:28
+ironman-wisconsin-20030907.csv,462,John G. Ruckdaschel,---,MN,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,463,Derek T. Scheer,---,WI,USA,00:56:49,07:30:08,07:40:48,00:09:36,00:23:12,16:40:33
+ironman-wisconsin-20030907.csv,464,John J. Shelp,---,MN,USA,00:57:50,05:54:01,05:02:16,00:06:34,00:08:12,12:08:53
+ironman-wisconsin-20030907.csv,465,R Seiji Shinsako,31,IL,USA,01:25:18,06:14:22,04:39:01,00:07:44,00:04:33,12:30:58
+ironman-wisconsin-20030907.csv,466,Scott R. Stirrett,---,IL,USA,01:09:05,06:20:39,05:46:50,00:07:49,00:07:09,13:31:32
+ironman-wisconsin-20030907.csv,467,Joe D. Stout,---,WI,USA,00:57:39,05:49:50,04:56:09,00:09:48,00:05:38,11:59:04
+ironman-wisconsin-20030907.csv,468,Kris Swarthout,31,MN,USA,01:09:16,05:38:38,05:01:51,00:06:13,00:03:45,11:59:43
+ironman-wisconsin-20030907.csv,469,David W. Trowbridge,---,KY,USA,01:24:49,08:18:04,06:20:25,00:07:13,00:07:09,16:17:40
+ironman-wisconsin-20030907.csv,470,Jon D. Van Roo,---,WI,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,471,David J. Weber,---,WI,USA,00:59:48,05:25:49,03:34:15,00:07:00,00:03:21,10:10:13
+ironman-wisconsin-20030907.csv,472,Daniel P. Werle,---,TN,USA,01:03:58,05:56:31,---,00:06:10,00:05:52,DNF
+ironman-wisconsin-20030907.csv,473,Matthew J. Zinno,---,IA,USA,01:00:03,05:49:22,04:34:17,00:05:58,00:04:05,11:33:45
+ironman-wisconsin-20030907.csv,474,Harry Barnes,---,IL,USA,01:06:20,06:02:32,---,00:08:57,00:06:42,DNF
+ironman-wisconsin-20030907.csv,475,Todd Glass,32,MO,USA,01:06:19,06:15:08,06:30:51,00:07:33,00:06:46,14:06:37
+ironman-wisconsin-20030907.csv,476,Kai Peters,---,CA,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,477,Craig Aamodt,32,MN,USA,01:11:37,06:15:18,06:35:02,00:10:16,00:07:26,14:19:39
+ironman-wisconsin-20030907.csv,478,Miguel Angel S. Aguilar,---,D.F.,MEX,01:23:46,06:44:39,04:25:02,00:08:08,00:04:38,12:46:13
+ironman-wisconsin-20030907.csv,479,Erik R. Alstrup,---,ON,CAN,01:57:21,08:09:08,05:42:17,00:14:26,00:17:54,16:21:06
+ironman-wisconsin-20030907.csv,480,Seanan Tsunami Alyasiri,---,IL,USA,01:18:33,07:33:23,05:49:05,00:15:56,00:13:42,15:10:39
+ironman-wisconsin-20030907.csv,481,Rick Armiger,32,MD,USA,01:10:19,06:01:59,05:18:57,00:08:27,00:06:19,12:46:01
+ironman-wisconsin-20030907.csv,482,Andrew S. Biglow,---,CO,USA,00:58:22,05:36:46,03:31:09,00:04:47,00:02:04,10:13:08
+ironman-wisconsin-20030907.csv,483,Jason K. Blake,---,IL,USA,01:00:38,05:55:27,---,00:07:24,00:05:58,DNF
+ironman-wisconsin-20030907.csv,484,Daniel W. Brady,---,MI,USA,01:12:55,06:38:31,05:26:35,00:08:13,00:06:41,13:32:55
+ironman-wisconsin-20030907.csv,485,Jeff Brock,32,IA,USA,01:10:24,06:23:16,05:35:01,00:11:26,00:07:48,13:27:55
+ironman-wisconsin-20030907.csv,486,Joe Bush,32,OH,USA,00:55:52,05:38:25,04:35:08,00:06:18,00:03:46,11:19:29
+ironman-wisconsin-20030907.csv,487,Mark C. Carey,---,MO,USA,00:55:53,05:30:05,05:16:59,00:04:46,00:02:47,11:50:30
+ironman-wisconsin-20030907.csv,488,Joseph Cerenzia,32,SC,USA,01:05:46,05:49:54,05:27:25,00:07:07,00:03:48,12:34:00
+ironman-wisconsin-20030907.csv,489,John M. Cicela,---,IL,USA,01:12:44,06:29:58,05:00:54,00:09:11,00:05:38,12:58:25
+ironman-wisconsin-20030907.csv,490,Daniel J. Clapp,---,MI,USA,01:16:44,05:38:57,05:18:17,00:09:48,00:06:20,12:30:06
+ironman-wisconsin-20030907.csv,491,Carlos Coarasa,32,---,MEX,01:14:16,06:03:27,04:17:33,00:10:15,00:04:04,11:49:35
+ironman-wisconsin-20030907.csv,492,David J. Coombs,---,AR,USA,01:14:08,06:54:58,06:59:24,00:09:55,00:12:06,15:30:31
+ironman-wisconsin-20030907.csv,493,Tom Cronin,---,MN,USA,01:02:07,06:19:17,03:52:03,00:08:08,00:05:04,11:26:39
+ironman-wisconsin-20030907.csv,494,Jeff J. Degroot,---,MI,USA,01:00:54,05:35:47,04:10:12,00:06:43,00:04:25,10:58:01
+ironman-wisconsin-20030907.csv,495,Danny Delgado,32,IL,USA,01:01:46,05:54:47,04:33:53,00:06:15,00:03:03,11:39:44
+ironman-wisconsin-20030907.csv,496,Ian Dewar,---,WI,USA,01:04:45,05:26:59,05:09:06,00:06:12,00:03:49,11:50:51
+ironman-wisconsin-20030907.csv,497,Jason Digman,32,MN,USA,01:27:15,05:48:45,04:57:03,00:08:43,00:05:15,12:27:01
+ironman-wisconsin-20030907.csv,498,Mike Dinardo,32,MN,USA,01:22:07,07:00:25,06:44:59,00:12:52,00:12:36,15:32:59
+ironman-wisconsin-20030907.csv,499,Stephen J. Eastwood,---,ON,CAN,01:14:28,06:51:31,04:54:03,00:10:25,00:08:01,13:18:28
+ironman-wisconsin-20030907.csv,500,Gregor Elskamp,---,---,DEU,00:53:34,05:12:56,03:48:13,00:05:30,00:02:23,10:02:36
+ironman-wisconsin-20030907.csv,501,John A. Erdelyi,---,MN,USA,00:57:19,05:59:46,04:50:40,00:06:53,00:06:42,12:01:20
+ironman-wisconsin-20030907.csv,502,Reto Frei,32,WI,USA,01:17:48,07:11:19,06:46:42,00:14:02,00:11:39,15:41:30
+ironman-wisconsin-20030907.csv,503,Kevin L. Gearin,---,MI,USA,01:27:40,07:08:15,06:23:01,00:10:29,00:08:18,15:17:43
+ironman-wisconsin-20030907.csv,504,Michael Gotzler,---,IL,USA,01:03:27,05:27:56,03:31:01,00:06:14,00:02:23,10:11:01
+ironman-wisconsin-20030907.csv,505,David Guzik,---,WI,USA,01:05:14,05:33:43,03:40:30,00:06:21,00:03:34,10:29:22
+ironman-wisconsin-20030907.csv,506,Scott Hoyt,32,MN,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,507,Scott Krizek,32,WI,USA,01:05:37,06:57:17,04:52:26,00:09:20,00:09:03,13:13:43
+ironman-wisconsin-20030907.csv,508,Ken E. Legan,---,MN,USA,01:27:00,---,---,00:10:04,---,DNF
+ironman-wisconsin-20030907.csv,509,David Lent,32,NY,USA,01:08:22,06:58:36,---,00:06:49,---,DNF
+ironman-wisconsin-20030907.csv,510,Andy R. Lowe,---,OH,USA,01:00:18,05:16:52,---,00:05:46,00:03:21,DNF
+ironman-wisconsin-20030907.csv,511,Steve Malik,32,OH,USA,01:33:59,06:18:34,06:03:31,00:07:20,00:06:23,14:09:47
+ironman-wisconsin-20030907.csv,512,Neyl Marquez,32,IL,USA,01:05:17,06:22:55,07:48:21,00:06:28,00:03:19,15:26:20
+ironman-wisconsin-20030907.csv,513,Sean T. Mars,---,WI,USA,01:12:02,06:49:42,05:56:01,00:11:33,00:10:57,14:20:15
+ironman-wisconsin-20030907.csv,514,Rafael Martinez,32,CT,USA,01:09:59,05:40:30,05:44:40,00:07:51,00:04:59,12:47:59
+ironman-wisconsin-20030907.csv,515,Bruce Martin-Wright,32,WI,USA,01:27:16,06:54:16,04:53:52,00:09:34,00:12:15,13:37:13
+ironman-wisconsin-20030907.csv,516,Doug Mccullough,---,IN,USA,01:07:48,05:48:04,---,00:07:30,00:06:03,DNF
+ironman-wisconsin-20030907.csv,517,Tom O. Moe,---,WI,USA,01:00:20,06:08:26,05:51:35,00:09:23,00:11:41,13:21:25
+ironman-wisconsin-20030907.csv,518,Patrick M. Moore,---,CA,USA,01:04:03,06:58:58,05:15:34,00:10:05,00:15:25,13:44:05
+ironman-wisconsin-20030907.csv,519,Chad Mullikin,32,VA,USA,01:11:29,07:15:37,05:16:24,00:11:16,00:08:12,14:02:58
+ironman-wisconsin-20030907.csv,520,Dan Nagle,32,WI,USA,01:11:03,06:54:43,07:47:46,00:07:35,00:10:32,16:11:39
+ironman-wisconsin-20030907.csv,521,Christopher J. Nei,---,MN,USA,01:19:11,06:05:42,05:14:03,00:07:42,00:06:20,12:52:58
+ironman-wisconsin-20030907.csv,522,Jason Nicolai,32,MI,USA,01:20:49,05:48:29,04:15:29,00:09:16,00:06:41,11:40:44
+ironman-wisconsin-20030907.csv,523,Lars-Oluf G. Nielsen,---,WI,USA,01:24:16,07:00:44,06:00:09,00:10:32,00:10:57,14:46:38
+ironman-wisconsin-20030907.csv,524,Michael T. Olson,---,MN,USA,01:08:37,05:46:14,---,00:07:03,00:07:04,DNF
+ironman-wisconsin-20030907.csv,525,Patrick D. Owens,---,IL,USA,01:03:43,06:42:00,05:35:47,00:07:07,00:06:20,13:34:57
+ironman-wisconsin-20030907.csv,526,Frank Pattison,---,OH,USA,00:56:00,05:22:02,03:09:52,00:05:04,00:02:09,09:35:07
+ironman-wisconsin-20030907.csv,527,Kevin G. Patton,---,GA,USA,01:03:26,05:56:30,05:00:32,00:06:19,00:03:59,12:10:46
+ironman-wisconsin-20030907.csv,528,Daniel R. Phillips,---,IL,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,529,David R. Pietig,---,IL,USA,01:20:02,06:58:04,05:53:09,00:09:47,00:08:26,14:29:28
+ironman-wisconsin-20030907.csv,530,Jason C. Pretty,---,NF,CAN,01:13:25,06:34:14,05:38:32,00:08:47,00:07:16,13:42:14
+ironman-wisconsin-20030907.csv,531,Michael D. Reisner,---,MT,USA,01:26:18,06:22:00,06:34:22,00:08:45,00:05:47,14:37:12
+ironman-wisconsin-20030907.csv,532,Matthew R. Renfro-Sargent,---,WI,USA,01:11:43,07:00:50,06:41:46,00:10:27,00:13:32,15:18:18
+ironman-wisconsin-20030907.csv,533,Dirk Rettig,---,WI,USA,01:01:31,05:18:27,05:04:52,00:08:18,00:05:20,11:38:28
+ironman-wisconsin-20030907.csv,534,Scott A. Roehrborn,---,WI,USA,01:09:28,05:52:11,04:04:37,00:06:35,00:04:04,11:16:55
+ironman-wisconsin-20030907.csv,535,Scott R. Rookus,---,MI,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,536,Douglas Rosenberg,32,WA,USA,01:21:26,06:13:37,06:30:04,00:07:44,00:04:42,14:17:33
+ironman-wisconsin-20030907.csv,537,Eric S. Sarno,---,WI,USA,01:06:15,06:33:02,04:58:33,00:10:11,00:06:46,12:54:47
+ironman-wisconsin-20030907.csv,538,Jim Scott,32,---,CAN,01:08:32,05:45:47,04:29:40,00:06:32,00:02:59,11:33:30
+ironman-wisconsin-20030907.csv,539,Thomas J. Sells,---,WI,USA,01:07:13,06:07:06,05:49:35,00:06:49,00:03:58,13:14:41
+ironman-wisconsin-20030907.csv,540,Matthew J. Sherrick,---,WI,USA,01:31:11,06:33:12,05:14:01,00:09:16,00:07:10,13:34:50
+ironman-wisconsin-20030907.csv,541,Robert B. Skinner,---,MO,USA,01:21:39,07:16:42,---,00:11:03,00:21:31,DNF
+ironman-wisconsin-20030907.csv,542,Kevin Skurski,---,NC,USA,01:14:09,06:06:28,05:43:21,00:08:31,00:04:16,13:16:45
+ironman-wisconsin-20030907.csv,543,Peter J. Spencer,---,MN,USA,01:04:23,05:56:43,05:56:49,00:09:16,00:04:45,13:11:56
+ironman-wisconsin-20030907.csv,544,Jay Steele,32,MI,USA,01:08:18,05:56:30,05:20:31,00:09:21,00:04:50,12:39:30
+ironman-wisconsin-20030907.csv,545,Eric Stetz,32,MN,USA,01:14:17,07:51:36,06:42:40,00:11:09,00:21:37,16:21:19
+ironman-wisconsin-20030907.csv,546,Steven R. Stobart,---,OH,USA,01:04:04,06:05:28,04:05:21,00:06:50,00:04:06,11:25:49
+ironman-wisconsin-20030907.csv,547,Tetsuya Takatsuji,---,OSAK,JPN,01:11:34,06:09:48,07:06:02,00:07:05,00:09:27,14:43:56
+ironman-wisconsin-20030907.csv,548,Ted Thome,32,IL,USA,00:56:52,05:24:37,05:20:11,00:05:40,00:02:26,11:49:46
+ironman-wisconsin-20030907.csv,549,Daniel Tinney,32,FL,USA,01:09:33,05:23:08,05:02:36,00:06:00,00:03:39,11:44:56
+ironman-wisconsin-20030907.csv,550,Douglas S. Trumpey,---,IN,USA,00:56:06,05:41:35,04:33:15,00:05:58,00:07:42,11:24:36
+ironman-wisconsin-20030907.csv,551,Troy W. Van Dyke,---,IL,USA,01:01:04,05:59:34,04:46:54,00:07:05,00:07:55,12:02:32
+ironman-wisconsin-20030907.csv,552,Nelsen R. Wahlstrom,---,WI,USA,01:13:10,05:37:27,04:48:12,00:19:45,00:05:48,12:04:22
+ironman-wisconsin-20030907.csv,553,Daniel H. Westfahl,---,WI,USA,00:55:35,06:25:59,05:42:18,00:08:02,00:09:09,13:21:03
+ironman-wisconsin-20030907.csv,554,Robert Bennett,---,IN,USA,01:06:01,05:49:49,05:48:24,00:07:41,00:04:59,12:56:54
+ironman-wisconsin-20030907.csv,555,Niall Okelly,---,NC,USA,01:18:51,06:28:48,04:53:08,00:09:10,00:07:57,12:57:54
+ironman-wisconsin-20030907.csv,556,David B. Slikker,---,MD,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,557,Kurt Albertson,33,GA,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,558,Mike Arntson,33,MN,USA,01:35:28,07:41:16,05:57:09,00:09:11,00:11:24,15:34:28
+ironman-wisconsin-20030907.csv,559,David Ashcraft,33,IL,USA,00:59:25,05:38:33,05:38:09,00:06:48,00:05:05,12:28:00
+ironman-wisconsin-20030907.csv,560,Don Asher,33,OH,USA,01:12:24,06:31:02,05:24:41,00:07:54,00:06:54,13:22:55
+ironman-wisconsin-20030907.csv,561,Jim Aspinall,33,IL,USA,01:16:39,06:38:13,04:55:49,00:07:58,00:05:54,13:04:33
+ironman-wisconsin-20030907.csv,562,Mike Birkett,---,MI,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,563,Gregory J. Bock,---,MI,USA,01:18:33,05:59:08,04:57:36,00:06:58,00:05:03,12:27:18
+ironman-wisconsin-20030907.csv,564,Brent A. Boock,---,WI,USA,00:48:02,05:30:35,06:30:56,00:05:57,00:03:13,12:58:43
+ironman-wisconsin-20030907.csv,565,Eric Burns,33,AZ,USA,01:16:17,---,---,00:07:07,---,DNF
+ironman-wisconsin-20030907.csv,566,Harrill S. Campbell,---,OH,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,567,Carlos Cerda,---,JAL,MEX,01:00:10,06:13:42,05:36:17,00:07:21,00:06:34,13:04:04
+ironman-wisconsin-20030907.csv,568,Jeff Clark,33,WI,USA,01:03:27,05:58:09,06:25:28,00:06:39,00:05:25,13:39:08
+ironman-wisconsin-20030907.csv,569,Mark A. Clark,---,MI,USA,01:16:03,06:25:46,06:07:38,00:10:44,00:09:19,14:09:30
+ironman-wisconsin-20030907.csv,570,Paul A. Dawe,---,NF,CAN,01:12:27,07:25:22,07:34:00,00:11:24,00:10:35,16:33:48
+ironman-wisconsin-20030907.csv,571,Brian J. De Santis,---,IL,USA,01:04:54,06:36:29,06:45:44,00:10:36,00:13:10,14:50:53
+ironman-wisconsin-20030907.csv,572,Herbert J. Deiters,---,IL,USA,01:07:09,06:33:48,05:32:38,00:08:11,00:05:32,13:27:18
+ironman-wisconsin-20030907.csv,573,Erik Diamond,33,NY,USA,01:06:08,06:35:14,05:12:07,00:08:58,00:05:22,13:07:49
+ironman-wisconsin-20030907.csv,574,Marc Direzza,33,CO,USA,01:37:35,07:03:20,05:29:33,00:10:14,00:08:39,14:29:21
+ironman-wisconsin-20030907.csv,575,David A. Dosier,---,AL,USA,01:24:17,06:30:11,05:45:01,00:09:08,00:04:29,13:53:06
+ironman-wisconsin-20030907.csv,576,Stephen Dragoni,33,---,USA,01:14:36,07:22:20,06:14:11,00:15:15,00:21:26,15:27:48
+ironman-wisconsin-20030907.csv,577,Daniel S. Fannin,---,MO,USA,01:20:57,06:33:03,05:34:00,00:11:11,00:08:00,13:47:11
+ironman-wisconsin-20030907.csv,578,William K. Fleck,---,OR,USA,00:56:58,05:53:33,05:51:31,00:06:02,00:05:00,12:53:04
+ironman-wisconsin-20030907.csv,579,Jeffrey J. Fleig,---,WI,USA,01:09:40,06:35:34,---,00:06:38,---,DNF
+ironman-wisconsin-20030907.csv,580,Vincent E. Fochtman,---,MI,USA,01:30:04,08:01:29,---,00:09:29,00:11:06,DNF
+ironman-wisconsin-20030907.csv,581,David D. Fuller,---,WI,USA,00:50:11,05:47:18,04:30:05,00:08:15,00:07:49,11:23:38
+ironman-wisconsin-20030907.csv,582,Steve D. Goodman,---,IL,USA,01:26:53,07:23:10,06:33:00,00:10:43,00:15:52,15:49:38
+ironman-wisconsin-20030907.csv,583,David C. Grace,---,WI,USA,01:12:19,06:37:36,05:21:25,00:07:53,00:06:51,13:26:04
+ironman-wisconsin-20030907.csv,584,Bob Groene,33,WI,USA,01:06:24,05:41:55,05:51:25,00:08:41,00:04:13,12:52:38
+ironman-wisconsin-20030907.csv,585,John Hare,33,MD,USA,01:11:59,07:06:53,---,00:10:22,00:05:39,DNF
+ironman-wisconsin-20030907.csv,586,Mark Hayward,33,IL,USA,01:07:43,06:06:58,04:12:16,00:09:23,00:06:53,11:43:13
+ironman-wisconsin-20030907.csv,587,Dale Heaton,33,MN,USA,01:12:55,06:20:06,06:00:50,00:09:15,00:07:48,13:50:54
+ironman-wisconsin-20030907.csv,588,Luis F. Hernandez,---,JALI,MEX,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,589,Derek Heys,33,CO,USA,01:02:15,05:49:56,04:50:03,00:05:36,00:02:21,11:50:11
+ironman-wisconsin-20030907.csv,590,Troy M. Holmes,---,WI,USA,01:29:05,06:53:38,06:28:38,00:12:11,00:09:17,15:12:49
+ironman-wisconsin-20030907.csv,591,Jeff Hunt,---,MI,USA,01:15:17,07:16:42,05:49:51,00:09:14,00:10:02,14:41:06
+ironman-wisconsin-20030907.csv,592,Jonathan T. Irlbeck,---,TX,USA,01:20:43,06:45:18,05:48:49,00:09:09,00:06:57,14:10:56
+ironman-wisconsin-20030907.csv,593,Jody T. Jachna,---,MO,USA,01:30:48,07:14:26,05:57:25,00:15:14,00:12:51,15:10:44
+ironman-wisconsin-20030907.csv,594,Craig M. Jackson,---,WI,USA,01:13:20,06:10:56,---,00:07:17,---,DNF
+ironman-wisconsin-20030907.csv,595,Jonathan D. Jensen,---,MN,USA,01:06:57,06:03:50,---,00:06:50,00:03:29,DNF
+ironman-wisconsin-20030907.csv,596,Jon J. Jirschele,---,WI,USA,01:30:51,---,---,00:14:11,---,DNF
+ironman-wisconsin-20030907.csv,597,Joe Kelzer,33,WI,USA,01:59:12,07:18:36,06:03:02,00:12:37,00:11:27,15:44:54
+ironman-wisconsin-20030907.csv,598,Ran Korolik,---,NJ,USA,00:49:57,06:37:48,04:20:51,00:08:08,00:03:39,12:00:23
+ironman-wisconsin-20030907.csv,599,Jay Kuderka,33,CA,USA,01:12:21,05:49:39,04:27:20,00:09:57,00:02:41,11:41:58
+ironman-wisconsin-20030907.csv,600,Thomas Larson,33,WI,USA,01:02:53,05:24:55,03:40:40,00:06:06,00:01:42,10:16:16
+ironman-wisconsin-20030907.csv,601,Frank K. Liao,---,IL,USA,01:19:27,06:52:52,04:40:38,00:10:04,00:05:57,13:08:58
+ironman-wisconsin-20030907.csv,602,Wade A. Loberger,---,WI,USA,01:14:18,06:06:52,---,00:10:32,00:07:15,DNF
+ironman-wisconsin-20030907.csv,603,Tim Lott,33,MN,USA,01:13:03,06:45:06,03:43:13,00:07:13,00:02:38,11:51:13
+ironman-wisconsin-20030907.csv,604,Sean Marling,33,WI,USA,01:07:03,05:47:22,06:33:32,00:05:57,00:04:20,13:38:14
+ironman-wisconsin-20030907.csv,605,James A. Matz,---,IL,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,606,Christopher T. Mayfield,---,CT,USA,00:50:31,05:39:06,05:06:20,00:06:23,00:02:21,11:44:41
+ironman-wisconsin-20030907.csv,607,Bill A. Mccann,---,IL,USA,01:09:24,05:33:42,04:16:14,00:06:41,00:02:48,11:08:49
+ironman-wisconsin-20030907.csv,608,Van Mccarty,33,CA,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,609,John Martin,36,IL,USA,01:06:06,05:52:20,04:51:56,00:08:08,00:09:31,12:08:01
+ironman-wisconsin-20030907.csv,610,Manus P. Mcdevitt,---,WI,USA,01:07:47,06:14:01,05:38:15,00:08:37,00:04:59,13:13:39
+ironman-wisconsin-20030907.csv,611,Thomas Mcdougall,33,Ayrshire,GBR,01:05:38,06:57:38,04:44:56,00:10:38,00:12:20,13:11:10
+ironman-wisconsin-20030907.csv,612,Thomas Meiser,---,CO,USA,00:57:22,05:24:08,03:52:35,00:06:30,00:02:12,10:22:47
+ironman-wisconsin-20030907.csv,613,Duston D. Morris,---,MO,USA,01:13:19,06:54:03,05:05:50,00:11:37,00:10:11,13:35:00
+ironman-wisconsin-20030907.csv,614,Kenneth L. Ng,---,IL,USA,01:16:54,06:59:14,---,00:09:06,---,DNF
+ironman-wisconsin-20030907.csv,615,John Otterson,---,WI,USA,01:14:29,06:27:21,04:50:24,00:06:47,00:04:49,12:43:50
+ironman-wisconsin-20030907.csv,616,Geoffrey Payne,33,CT,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,617,Brock J. Payton,---,CA,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,618,Doug Peterson,33,IL,USA,01:09:37,06:48:59,---,00:11:29,00:09:44,DNF
+ironman-wisconsin-20030907.csv,619,Alex Piquer,33,FL,USA,01:04:33,06:37:15,---,00:07:58,00:09:38,DNF
+ironman-wisconsin-20030907.csv,620,Mike Sells,33,WI,USA,01:00:07,06:08:28,04:57:20,00:07:17,00:03:13,12:16:25
+ironman-wisconsin-20030907.csv,621,Ray Sidney,---,CA,USA,01:24:04,06:23:26,05:49:32,00:09:04,00:05:42,13:51:48
+ironman-wisconsin-20030907.csv,622,Kent Smith,33,MN,USA,01:13:50,06:34:12,06:07:33,00:09:04,00:09:35,14:14:14
+ironman-wisconsin-20030907.csv,623,Michael Smyth,38,IL,USA,01:19:39,06:20:35,04:43:22,00:07:13,00:05:11,12:36:00
+ironman-wisconsin-20030907.csv,624,T.J. Smith,---,MN,USA,01:15:01,05:34:19,05:52:44,00:06:34,00:04:00,12:52:38
+ironman-wisconsin-20030907.csv,625,Kyle Stevens,33,HI,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,626,Edward J. Stygar,---,IL,USA,01:07:52,06:36:49,06:01:38,00:09:17,00:11:51,14:07:27
+ironman-wisconsin-20030907.csv,627,John W. Sweetwood,---,IL,USA,01:14:20,06:57:40,05:51:31,00:07:21,00:08:51,14:19:43
+ironman-wisconsin-20030907.csv,628,Brad Temple,33,WI,USA,01:07:51,06:27:34,---,00:11:41,00:07:59,DNF
+ironman-wisconsin-20030907.csv,629,Luis A. Torres,---,WI,USA,01:05:53,06:08:52,06:03:53,00:09:29,00:06:49,13:34:56
+ironman-wisconsin-20030907.csv,630,Andrew J. Unglaube,---,MN,USA,01:14:16,07:45:31,04:32:46,00:13:57,00:08:45,13:55:15
+ironman-wisconsin-20030907.csv,631,Pablo Vazquez Vazquez,---,JALI,MEX,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,632,Carlos Villa,33,---,MEX,01:02:49,06:09:07,04:27:49,00:07:33,00:04:57,11:52:15
+ironman-wisconsin-20030907.csv,633,Brian Walters,33,MI,USA,01:12:58,06:10:09,04:20:59,00:11:20,00:11:06,12:06:32
+ironman-wisconsin-20030907.csv,634,John Wardrop,---,IL,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,635,Randall Woods,33,IL,USA,01:08:47,05:48:22,04:31:19,00:06:36,00:03:04,11:38:08
+ironman-wisconsin-20030907.csv,636,Joe Wrona,33,CO,USA,01:10:36,05:53:35,07:24:00,00:09:16,00:05:24,14:42:51
+ironman-wisconsin-20030907.csv,637,Kohji Yamamoto,---,KAGA,JPN,01:16:34,08:07:35,06:10:46,00:18:17,00:34:49,16:28:01
+ironman-wisconsin-20030907.csv,638,Dick L. Young,---,MN,USA,01:06:17,06:03:46,04:40:03,00:09:06,00:05:19,12:04:31
+ironman-wisconsin-20030907.csv,639,Christopher Baradel,---,GA,USA,01:16:20,06:35:18,05:21:07,00:10:30,00:12:28,13:35:43
+ironman-wisconsin-20030907.csv,640,John-Paul Lujan,---,IL,USA,01:12:43,07:06:15,06:19:07,00:09:32,00:13:19,15:00:56
+ironman-wisconsin-20030907.csv,641,Grant A. Adams,---,MI,USA,01:16:01,08:18:34,06:37:46,00:12:27,00:14:32,16:39:20
+ironman-wisconsin-20030907.csv,642,Sam Alongi,34,CA,USA,01:16:18,07:42:00,05:27:03,00:13:12,00:09:15,14:47:48
+ironman-wisconsin-20030907.csv,643,Thor J. Anderson,---,WI,USA,01:08:26,05:50:31,04:45:42,00:07:37,00:03:50,11:56:06
+ironman-wisconsin-20030907.csv,644,Chris Arnold,34,MO,USA,01:34:21,06:26:48,07:17:25,00:06:34,00:04:09,15:29:17
+ironman-wisconsin-20030907.csv,645,Chad Austin,---,MN,USA,01:30:22,06:56:17,05:44:40,00:10:03,00:08:55,14:30:17
+ironman-wisconsin-20030907.csv,646,Michael Balluff,34,TN,USA,01:50:40,---,---,00:10:56,---,DNF
+ironman-wisconsin-20030907.csv,647,Christopher B. Beach,---,IL,USA,01:13:14,06:59:00,---,00:11:57,00:10:56,DNF
+ironman-wisconsin-20030907.csv,648,Jonathan Bennett,34,MI,USA,01:08:16,05:20:34,05:10:21,00:06:27,00:02:20,11:47:58
+ironman-wisconsin-20030907.csv,649,Dan Blaney-Koen,34,IL,USA,01:11:46,05:51:29,05:00:57,00:10:27,00:07:14,12:21:53
+ironman-wisconsin-20030907.csv,650,Mark A. Borst,---,IL,USA,01:02:11,06:51:25,06:31:37,00:07:20,00:08:56,14:41:29
+ironman-wisconsin-20030907.csv,651,Frederick L. Bradley,---,WI,USA,01:11:55,06:08:42,06:14:45,00:08:36,00:07:13,13:51:11
+ironman-wisconsin-20030907.csv,652,Thomas C. Brunold,---,WI,USA,00:59:42,05:03:25,03:20:10,00:06:04,00:02:42,09:32:03
+ironman-wisconsin-20030907.csv,653,Brad Buchanan,34,PA,USA,01:07:28,05:47:16,04:14:44,00:08:20,00:03:10,11:20:58
+ironman-wisconsin-20030907.csv,654,Minh Q. Bui,---,TX,USA,01:17:27,06:34:04,05:50:47,00:14:01,00:06:02,14:02:21
+ironman-wisconsin-20030907.csv,655,Vincent Burton,---,IN,USA,01:25:16,08:26:33,06:41:49,00:13:11,00:10:08,16:56:57
+ironman-wisconsin-20030907.csv,656,John Bye,34,NJ,USA,01:12:45,06:51:07,06:22:43,00:10:16,00:08:04,14:44:55
+ironman-wisconsin-20030907.csv,657,Steve M. Cain,---,IL,USA,01:14:45,06:27:05,04:34:53,00:07:57,00:04:32,12:29:12
+ironman-wisconsin-20030907.csv,658,John Curtin,---,WI,USA,01:19:15,06:12:18,05:33:06,00:06:55,00:05:10,13:16:44
+ironman-wisconsin-20030907.csv,659,Michael Dalke,---,TX,USA,01:31:01,06:23:59,04:48:29,00:07:04,00:06:10,12:56:43
+ironman-wisconsin-20030907.csv,660,Steven E. Dean,---,NY,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,661,Philip A. Derchak,---,IN,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,662,Michael Esterl,34,WI,USA,01:17:44,06:03:03,05:56:57,00:08:00,00:06:34,13:32:18
+ironman-wisconsin-20030907.csv,663,Jim A. Everett,---,MI,USA,01:16:21,06:24:34,06:46:10,00:08:55,00:04:38,14:40:38
+ironman-wisconsin-20030907.csv,664,Jeff J. Fieldhack,---,WI,USA,00:53:33,05:27:35,---,00:04:39,00:02:01,DNF
+ironman-wisconsin-20030907.csv,665,Jeffrey Fitzer,34,IL,USA,01:17:56,06:55:46,05:47:57,00:11:05,00:08:08,14:20:52
+ironman-wisconsin-20030907.csv,666,Ruben Flores,34,Queretaro,MEX,01:21:52,06:11:19,04:29:12,00:08:11,00:03:23,12:13:57
+ironman-wisconsin-20030907.csv,667,Philip S. Forbrich,---,OK,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,668,David Free,34,IL,USA,01:08:02,06:17:08,06:59:00,00:09:17,00:06:28,14:39:55
+ironman-wisconsin-20030907.csv,669,Rad Goeke,34,CO,USA,01:05:43,07:35:55,05:50:01,00:11:55,00:12:49,14:56:23
+ironman-wisconsin-20030907.csv,670,David A. Hadcock,---,WI,USA,01:47:52,07:42:16,04:56:05,00:09:36,00:10:05,14:45:54
+ironman-wisconsin-20030907.csv,671,Chris Halioris,34,KY,USA,01:13:29,06:06:11,05:41:57,00:09:59,00:05:06,13:16:42
+ironman-wisconsin-20030907.csv,672,Dean W. Hewson,---,IL,USA,01:00:16,05:33:54,---,00:05:50,00:02:55,DNF
+ironman-wisconsin-20030907.csv,673,Paul Hietala,34,MN,USA,01:26:19,06:25:43,05:02:33,00:08:02,00:08:08,13:10:45
+ironman-wisconsin-20030907.csv,674,David M. Holden,---,MN,USA,00:50:19,05:26:47,03:54:39,00:06:09,00:02:15,10:20:09
+ironman-wisconsin-20030907.csv,675,Donald C. Howlett,---,IN,USA,01:20:39,07:44:18,06:03:33,00:11:12,00:10:46,15:30:28
+ironman-wisconsin-20030907.csv,676,John Jordens,34,WI,USA,01:09:57,06:11:01,04:58:07,00:10:07,00:08:35,12:37:47
+ironman-wisconsin-20030907.csv,677,David La Duc,34,CA,USA,01:22:32,06:29:54,05:37:02,00:09:55,00:08:58,13:48:21
+ironman-wisconsin-20030907.csv,678,James Larweth,---,IL,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,679,Paul E. Marek,---,MI,USA,01:18:43,06:10:32,05:35:36,00:10:17,00:10:52,13:26:00
+ironman-wisconsin-20030907.csv,680,Daryl G. Mcnutt,---,WA,USA,01:26:29,06:19:13,05:32:58,00:08:13,00:06:59,13:33:52
+ironman-wisconsin-20030907.csv,681,Michael Miller,---,IN,USA,01:14:35,05:57:38,05:25:56,00:06:40,00:06:35,12:51:24
+ironman-wisconsin-20030907.csv,682,Skip Miller,34,CO,USA,00:59:56,06:34:49,06:28:06,00:10:50,00:07:57,14:21:38
+ironman-wisconsin-20030907.csv,683,Christopher J. Moody,---,TX,USA,01:04:21,05:32:03,04:28:30,00:05:42,00:03:30,11:14:06
+ironman-wisconsin-20030907.csv,684,Tony Orrico,34,IL,USA,01:18:42,06:56:35,06:21:24,00:07:47,00:10:31,14:54:59
+ironman-wisconsin-20030907.csv,685,Tom Pahnke,34,WI,USA,01:15:30,06:06:41,04:58:09,00:09:14,00:04:53,12:34:27
+ironman-wisconsin-20030907.csv,686,Jerry J. Pianto,---,IL,USA,01:02:55,05:27:02,---,00:05:42,00:04:17,DNF
+ironman-wisconsin-20030907.csv,687,Ruben Pichardo,34,Qro,MEX,01:01:48,05:50:30,---,00:05:53,00:04:10,DNF
+ironman-wisconsin-20030907.csv,688,Steve Pushka,---,UT,USA,00:59:51,05:31:19,04:16:34,00:06:04,00:03:43,10:57:31
+ironman-wisconsin-20030907.csv,689,Kirk Regular,34,---,CAN,01:14:33,06:51:42,04:53:28,00:08:58,00:07:34,13:16:15
+ironman-wisconsin-20030907.csv,690,Gregory Robida Jr,---,OH,USA,01:13:43,06:12:39,04:10:55,00:10:02,00:05:29,11:52:48
+ironman-wisconsin-20030907.csv,691,Paul D. Rogan,---,MB,CAN,01:21:05,07:03:11,05:11:56,00:09:29,00:14:46,14:00:27
+ironman-wisconsin-20030907.csv,692,Jeff Rotenberger,34,WI,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,693,Geoff Scott,34,IL,USA,01:07:58,05:39:30,04:45:31,00:09:42,00:04:10,11:46:51
+ironman-wisconsin-20030907.csv,694,Steve Shepherd,---,NC,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,695,Ted Shue,34,WI,USA,01:15:27,06:11:02,04:24:34,00:11:25,00:04:35,12:07:03
+ironman-wisconsin-20030907.csv,696,Keith Shuflit,34,IL,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,697,Tim Slater,---,MI,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,698,Michael Sweeney,34,MN,USA,00:53:52,06:01:01,05:49:55,00:08:03,00:07:35,13:00:26
+ironman-wisconsin-20030907.csv,699,Takeo Toriumi,---,TOKU,JPN,01:31:29,---,---,00:09:49,---,DNF
+ironman-wisconsin-20030907.csv,700,Bryan Vaughn,34,CA,USA,01:06:11,06:15:12,04:54:34,00:10:28,00:08:14,12:34:39
+ironman-wisconsin-20030907.csv,701,Edward Walker,34,OH,USA,01:05:40,05:18:03,03:39:51,00:06:17,00:02:23,10:12:14
+ironman-wisconsin-20030907.csv,702,Jason Weisberg,34,NY,USA,01:20:43,06:59:10,05:15:28,00:07:27,00:06:23,13:49:11
+ironman-wisconsin-20030907.csv,703,Robert Whitcher,34,TX,USA,01:11:26,05:35:37,06:57:04,00:07:06,00:04:05,13:55:18
+ironman-wisconsin-20030907.csv,704,Michael R. Whittaker,---,VA,USA,01:13:04,06:28:22,05:07:55,00:11:06,00:13:01,13:13:28
+ironman-wisconsin-20030907.csv,705,Chris B. Woelfel,---,TX,USA,01:02:16,05:44:41,04:43:03,00:07:43,00:04:41,11:42:24
+ironman-wisconsin-20030907.csv,706,John Zarling,34,MI,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,707,Mark Ammel,---,WI,USA,01:26:08,08:02:43,---,00:14:53,00:24:29,DNF
+ironman-wisconsin-20030907.csv,708,John Baker,---,KY,USA,00:55:49,05:43:08,06:01:41,00:06:02,00:03:35,12:50:15
+ironman-wisconsin-20030907.csv,709,Emil Jensen,---,IL,USA,01:16:36,06:57:45,06:19:25,00:12:45,00:14:10,15:00:41
+ironman-wisconsin-20030907.csv,710,Mark Kozlowski,---,CO,USA,01:20:47,06:06:36,05:21:10,00:07:15,00:05:44,13:01:32
+ironman-wisconsin-20030907.csv,711,Derek Minter,---,GA,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,712,Michael P. Peters,---,CA,USA,01:07:47,05:21:10,04:23:38,00:06:04,00:02:48,11:01:27
+ironman-wisconsin-20030907.csv,713,Bruce Walsh,---,PA,USA,01:08:33,06:52:26,05:25:00,00:07:51,00:05:13,13:39:03
+ironman-wisconsin-20030907.csv,714,Michael J. Adams,---,MN,USA,01:08:46,06:16:32,05:33:40,00:09:19,00:08:32,13:16:49
+ironman-wisconsin-20030907.csv,715,Sazli K. Basha,---,MALA,MAR,01:33:31,08:00:18,06:42:00,00:11:04,00:09:00,16:35:53
+ironman-wisconsin-20030907.csv,716,Dale Benedict,35,KY,USA,01:25:22,07:01:53,05:30:44,00:10:07,00:10:29,14:18:35
+ironman-wisconsin-20030907.csv,717,Brad L. Birkholz,---,WI,USA,01:05:53,06:28:27,---,00:07:16,00:12:04,DNF
+ironman-wisconsin-20030907.csv,718,Kyle Boschen,35,CO,USA,01:08:27,05:46:31,05:14:32,00:06:41,00:03:47,12:19:58
+ironman-wisconsin-20030907.csv,719,Dudley R. Carlson,---,VA,USA,01:16:50,07:00:37,05:38:54,00:09:58,00:15:08,14:21:27
+ironman-wisconsin-20030907.csv,720,Joe M. Casica,---,IL,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,721,Helton Cerqueira,---,MN,USA,01:13:09,07:55:01,---,00:10:45,---,DNF
+ironman-wisconsin-20030907.csv,722,Michael P. Chu,---,IL,USA,01:26:02,08:00:44,06:35:09,00:09:26,00:07:39,16:19:00
+ironman-wisconsin-20030907.csv,723,Steve Clegg,35,IL,USA,01:07:48,06:21:27,---,00:08:57,00:05:53,DNF
+ironman-wisconsin-20030907.csv,724,Jeffrey A. Collins,---,WI,USA,01:08:30,05:44:37,05:19:12,00:13:29,00:11:55,12:37:43
+ironman-wisconsin-20030907.csv,725,Stephen M. Davis,35,MI,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,726,Nick Dessev,35,IL,USA,01:14:55,06:35:53,04:28:56,00:10:01,00:07:56,12:37:41
+ironman-wisconsin-20030907.csv,727,Rav Dighe,35,---,GBR,01:14:56,06:21:39,06:42:39,00:09:39,00:04:26,14:33:19
+ironman-wisconsin-20030907.csv,728,Paul G. Duckett,---,FL,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,729,Steve Emmert,35,IL,USA,01:20:43,06:27:05,03:59:49,00:08:16,00:04:30,12:00:23
+ironman-wisconsin-20030907.csv,730,Michael W. Fehrenbacher,---,IL,USA,01:10:13,06:40:41,---,00:10:00,00:14:44,DNF
+ironman-wisconsin-20030907.csv,731,Kenny Goldman,35,IL,USA,01:09:40,06:08:21,05:04:40,00:06:36,00:05:31,12:34:48
+ironman-wisconsin-20030907.csv,732,Russ Good,35,AZ,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,733,Michael Gray,35,WA,USA,01:18:08,06:08:48,---,00:10:48,00:07:58,DNF
+ironman-wisconsin-20030907.csv,734,Jim Hagelie,35,IA,USA,01:22:28,06:11:12,---,00:09:47,00:05:37,DNF
+ironman-wisconsin-20030907.csv,735,Joe D. Hendrix,---,IA,USA,01:13:51,06:30:02,06:37:30,00:12:29,00:08:18,14:42:10
+ironman-wisconsin-20030907.csv,736,Tony Hinkle,35,IN,USA,01:44:57,05:23:06,---,00:12:52,---,DNF
+ironman-wisconsin-20030907.csv,737,Evan B. Jones,---,MN,USA,01:22:03,06:44:28,06:27:08,00:09:08,00:08:58,14:51:45
+ironman-wisconsin-20030907.csv,738,James A. Jones,---,WI,USA,01:20:12,---,---,00:14:25,---,DNF
+ironman-wisconsin-20030907.csv,739,Todd Juhlin,35,CO,USA,00:55:56,05:38:05,04:12:17,00:06:53,00:05:24,10:58:35
+ironman-wisconsin-20030907.csv,740,Brian P. Kelly,---,CA,USA,01:07:31,05:51:00,---,00:06:50,00:05:28,DNF
+ironman-wisconsin-20030907.csv,741,Neil Knickerbocker,35,TN,USA,01:12:50,06:41:16,06:09:47,00:09:40,00:08:23,14:21:56
+ironman-wisconsin-20030907.csv,742,John H. Kwon,---,MA,USA,01:10:21,07:00:17,05:18:41,00:09:45,00:08:54,13:47:58
+ironman-wisconsin-20030907.csv,743,Craig Lanza,35,WI,USA,00:51:44,05:34:21,03:49:48,00:05:39,00:02:46,10:24:18
+ironman-wisconsin-20030907.csv,744,Larry Lanza,35,WI,USA,00:55:36,05:34:34,04:37:37,00:05:01,00:02:59,11:15:47
+ironman-wisconsin-20030907.csv,745,Michael J. Lappin,---,CO,USA,01:04:33,05:55:21,---,00:06:31,00:12:11,DNF
+ironman-wisconsin-20030907.csv,746,Scott Lewandowski,35,IL,USA,01:31:46,08:10:23,06:10:02,00:10:50,00:08:06,16:11:07
+ironman-wisconsin-20030907.csv,747,Dwayne Loyek,35,---,CAN,01:07:11,05:46:44,05:43:28,00:06:52,00:04:42,12:48:57
+ironman-wisconsin-20030907.csv,748,Bret Lucas,35,---,USA,00:57:46,---,---,00:05:40,---,DNF
+ironman-wisconsin-20030907.csv,749,Jose L. Martinez,---,JALI,MEX,01:16:09,06:43:44,06:01:19,00:09:31,00:06:10,14:16:53
+ironman-wisconsin-20030907.csv,750,Kevin J. Maxstadt,---,SC,USA,01:09:07,06:34:47,05:06:56,00:08:49,00:08:42,13:08:21
+ironman-wisconsin-20030907.csv,751,Michael Mcnally,35,GA,USA,01:13:22,05:45:02,04:22:35,00:06:53,00:03:45,11:31:37
+ironman-wisconsin-20030907.csv,752,Jeff Mihelich,35,IL,USA,01:10:17,06:25:52,05:09:36,00:08:13,00:07:26,13:01:24
+ironman-wisconsin-20030907.csv,753,Pablo Mondragon,---,DF,MEX,01:09:56,06:28:26,05:23:18,00:09:06,00:05:13,13:15:59
+ironman-wisconsin-20030907.csv,754,Daniel Morihiro,35,CA,USA,01:14:05,06:30:53,04:52:08,00:07:35,00:04:03,12:48:44
+ironman-wisconsin-20030907.csv,755,Garrett Mulrooney,35,MN,USA,01:20:00,06:08:00,05:44:17,00:11:23,00:07:28,13:31:08
+ironman-wisconsin-20030907.csv,756,Brandon Ost,35,IL,USA,01:20:40,---,---,00:14:28,---,DNF
+ironman-wisconsin-20030907.csv,757,Kevin Padgett,35,TX,USA,01:07:10,---,---,00:07:17,---,DNF
+ironman-wisconsin-20030907.csv,758,Craig Pallot,35,CA,USA,01:31:03,06:45:57,06:43:44,00:10:37,00:06:29,15:17:50
+ironman-wisconsin-20030907.csv,759,Joe Price,35,IN,USA,01:21:23,07:31:30,05:52:00,00:13:26,00:11:37,15:09:56
+ironman-wisconsin-20030907.csv,760,Joel Rhyner,35,WI,USA,01:05:11,06:13:00,05:08:05,00:09:40,00:08:13,12:44:09
+ironman-wisconsin-20030907.csv,761,Jeffrey P. Rookus,---,MI,USA,01:20:29,06:57:09,---,00:10:28,00:06:47,DNF
+ironman-wisconsin-20030907.csv,762,Christopher Rubeck,35,NY,USA,01:20:16,07:34:37,05:03:15,00:11:52,00:09:55,14:19:55
+ironman-wisconsin-20030907.csv,763,Andy Rusk,35,AZ,USA,01:02:17,06:25:51,07:30:26,00:07:30,00:04:44,15:10:48
+ironman-wisconsin-20030907.csv,764,Keith A. Smith,---,NC,USA,01:24:22,06:32:09,05:38:16,00:08:28,00:06:46,13:50:01
+ironman-wisconsin-20030907.csv,765,Bob Summers,---,NY,USA,01:06:21,---,---,00:07:37,---,DNF
+ironman-wisconsin-20030907.csv,766,Tad D. Swanson,---,MN,USA,01:09:14,07:06:09,05:14:54,00:11:07,00:08:56,13:50:20
+ironman-wisconsin-20030907.csv,767,Donald S. Thorn,---,NY,USA,01:11:07,08:50:25,---,00:15:43,---,DNF
+ironman-wisconsin-20030907.csv,768,Joe Villarreal,35,IN,USA,01:13:41,06:51:08,05:46:20,00:10:34,00:09:57,14:11:40
+ironman-wisconsin-20030907.csv,769,Daniel Walter,35,CO,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,770,Brett S. Whyte,---,MN,USA,01:06:51,05:31:29,04:59:51,00:07:26,00:04:10,11:49:47
+ironman-wisconsin-20030907.csv,771,Michael Wilmot,35,FL,USA,01:20:03,06:53:20,06:27:37,00:08:58,00:09:01,14:58:59
+ironman-wisconsin-20030907.csv,772,Steven Wittemann,35,WI,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,773,Alec Litowitz,---,IL,USA,01:13:19,05:43:09,04:15:59,00:07:21,00:05:35,11:25:23
+ironman-wisconsin-20030907.csv,774,Todd W. Arthur,---,IL,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,775,Felipe J. Basich,---,JALI,MEX,01:08:15,06:12:30,04:48:17,00:07:15,00:02:36,12:18:53
+ironman-wisconsin-20030907.csv,776,Perry A. Benes,---,WI,USA,01:31:35,---,---,00:13:02,---,DNF
+ironman-wisconsin-20030907.csv,777,George B. Brophy,---,WI,USA,00:59:40,05:29:42,04:09:36,00:06:34,00:02:43,10:48:15
+ironman-wisconsin-20030907.csv,778,Brad Brozek,36,WI,USA,01:00:19,---,---,00:09:27,---,DNF
+ironman-wisconsin-20030907.csv,779,John Collet,36,IL,USA,01:01:10,05:41:07,05:46:58,00:05:10,00:02:24,12:36:49
+ironman-wisconsin-20030907.csv,780,Jay Cowan,36,MN,USA,01:29:46,07:57:02,05:36:44,00:10:32,00:05:34,15:19:38
+ironman-wisconsin-20030907.csv,781,Jochen Dembeck,---,---,DEU,01:02:10,05:21:53,04:26:19,00:05:49,00:02:46,10:58:57
+ironman-wisconsin-20030907.csv,782,Steven F. Doepke,---,IL,USA,01:20:23,06:11:13,03:59:14,00:09:49,00:04:08,11:44:47
+ironman-wisconsin-20030907.csv,783,Brad Edmister,36,IA,USA,01:02:51,06:07:49,05:39:30,00:06:13,00:04:21,13:00:44
+ironman-wisconsin-20030907.csv,784,Phillip Fritts,---,IL,USA,01:14:27,06:08:36,05:29:56,00:06:44,00:04:24,13:04:07
+ironman-wisconsin-20030907.csv,785,Harvin Furman,36,MN,USA,01:05:48,06:10:04,04:38:06,00:10:22,00:05:38,12:09:58
+ironman-wisconsin-20030907.csv,786,Stephen J. Gaffield,---,WI,USA,01:04:51,06:08:53,04:26:26,00:07:38,00:06:15,11:54:03
+ironman-wisconsin-20030907.csv,787,David Gale,36,IL,USA,01:07:50,05:33:03,04:05:56,00:06:55,00:02:24,10:56:08
+ironman-wisconsin-20030907.csv,788,Richard Gugliemino,36,IL,USA,01:17:26,07:06:04,06:32:41,00:09:34,00:11:23,15:17:08
+ironman-wisconsin-20030907.csv,789,Joseph Hagen,36,WI,USA,01:14:37,05:29:11,---,00:09:18,00:06:17,DNF
+ironman-wisconsin-20030907.csv,790,Craig Hanken,36,IA,USA,01:06:02,05:42:38,05:16:29,00:09:27,00:12:48,12:27:24
+ironman-wisconsin-20030907.csv,791,Kristopher P. Hartner,---,IL,USA,01:12:12,05:39:43,04:10:26,00:06:53,00:03:29,11:12:43
+ironman-wisconsin-20030907.csv,792,Jonathan Hausman,36,CA,USA,01:31:55,06:15:00,04:35:22,00:08:58,00:06:50,12:38:05
+ironman-wisconsin-20030907.csv,793,Joseph Hensel,36,WI,USA,01:18:29,05:40:00,07:14:48,00:05:30,00:03:23,14:22:10
+ironman-wisconsin-20030907.csv,794,William M. Hosking,---,IL,USA,01:07:53,07:17:39,04:44:49,00:09:53,00:06:53,13:27:07
+ironman-wisconsin-20030907.csv,795,Joe Hostyn,36,---,CAN,01:06:01,05:20:01,03:56:24,00:06:01,00:03:47,10:32:14
+ironman-wisconsin-20030907.csv,796,Jackie A. Jensen,---,MN,USA,01:24:11,07:02:23,05:44:01,00:11:53,00:10:25,14:32:53
+ironman-wisconsin-20030907.csv,797,Todd Jensen,36,WI,USA,01:09:10,05:26:43,---,00:06:26,00:03:39,DNF
+ironman-wisconsin-20030907.csv,798,Stacy B. Joannes,---,WI,USA,01:03:31,08:35:11,06:28:03,00:09:27,00:14:05,16:30:17
+ironman-wisconsin-20030907.csv,799,David C. Johnson,---,NC,USA,01:11:39,05:54:40,05:22:25,00:06:49,00:07:21,12:42:54
+ironman-wisconsin-20030907.csv,800,Daniel Julie,---,WI,USA,01:32:24,06:47:53,05:18:25,00:14:19,00:09:06,14:02:07
+ironman-wisconsin-20030907.csv,801,James Kearns,36,IL,USA,01:05:24,05:57:30,05:33:56,00:06:09,00:03:00,12:45:59
+ironman-wisconsin-20030907.csv,802,Michael P. Kern,---,IN,USA,01:04:04,05:18:02,04:47:29,00:06:15,00:02:28,11:18:18
+ironman-wisconsin-20030907.csv,803,Stephen Kolakowski,36,FL,USA,01:12:45,06:24:42,05:34:49,00:08:45,00:10:11,13:31:12
+ironman-wisconsin-20030907.csv,804,Kenneth A. Kollasch Jr.,---,IN,USA,01:13:07,05:57:55,05:17:11,00:08:34,00:06:19,12:43:06
+ironman-wisconsin-20030907.csv,805,Jake Kosek,36,CA,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,806,David Kotarba,36,IL,USA,01:30:58,07:41:32,06:29:36,00:13:14,00:18:16,16:13:36
+ironman-wisconsin-20030907.csv,807,Vik Krishnan,36,IL,USA,01:26:39,07:22:18,05:52:08,00:15:16,00:12:13,15:08:34
+ironman-wisconsin-20030907.csv,808,Volker Kronm³ller,---,BW,DEU,01:05:07,05:56:43,05:13:17,00:07:29,00:03:50,12:26:26
+ironman-wisconsin-20030907.csv,809,Mike Lacy,---,MI,USA,01:14:59,07:18:41,07:22:09,00:11:48,00:09:31,16:17:08
+ironman-wisconsin-20030907.csv,810,Phillip J. Lageschulte,---,IL,USA,01:07:55,05:47:11,04:10:38,00:06:53,00:03:51,11:16:28
+ironman-wisconsin-20030907.csv,811,John L. Lahti,---,WI,USA,01:16:36,06:00:38,04:57:32,00:11:17,00:07:39,12:33:42
+ironman-wisconsin-20030907.csv,812,Bradley J. Lake,---,WI,USA,01:10:06,05:37:53,05:07:15,00:07:30,00:04:27,12:07:11
+ironman-wisconsin-20030907.csv,813,John S. Lancaster,---,WI,USA,01:08:47,06:16:35,04:42:59,00:08:38,00:04:50,12:21:49
+ironman-wisconsin-20030907.csv,814,Paul Langer,36,MN,USA,01:22:16,06:39:10,04:03:28,00:09:54,00:08:45,12:23:33
+ironman-wisconsin-20030907.csv,815,Scott Latell,36,NC,USA,01:08:59,05:34:34,05:26:16,00:06:54,00:03:28,12:20:11
+ironman-wisconsin-20030907.csv,816,David A. Linn,---,TX,USA,01:23:35,06:28:17,05:22:30,00:10:33,00:10:37,13:35:32
+ironman-wisconsin-20030907.csv,817,Simon A. Lovell,---,WI,USA,01:20:33,06:04:45,04:20:50,00:13:45,00:12:06,12:11:59
+ironman-wisconsin-20030907.csv,818,Juergen Malleier,36,Österreich,AUT,01:01:28,05:27:35,---,00:05:52,00:02:37,DNF
+ironman-wisconsin-20030907.csv,819,Angelo Marinakis,36,VT,USA,01:16:46,07:38:36,04:49:14,00:12:01,00:10:08,14:06:45
+ironman-wisconsin-20030907.csv,820,Steve Matson,36,MN,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,821,David W. Mccartney,---,IL,USA,01:25:49,06:55:09,---,00:11:36,00:10:14,DNF
+ironman-wisconsin-20030907.csv,822,Joe A. Meyer,---,KY,USA,00:54:44,06:15:32,04:51:29,00:06:39,00:04:57,12:13:21
+ironman-wisconsin-20030907.csv,823,Bruce T. Miller,---,AK,USA,01:04:26,06:18:25,06:46:45,00:06:50,00:06:22,14:22:48
+ironman-wisconsin-20030907.csv,824,Mark S. Miller,---,CA,USA,01:20:00,06:12:28,05:49:01,00:08:21,00:04:48,13:34:38
+ironman-wisconsin-20030907.csv,825,Jeff Mills,36,IN,USA,01:09:55,06:25:50,05:19:32,00:14:24,00:07:00,13:16:41
+ironman-wisconsin-20030907.csv,826,William J. Nelson,---,WI,USA,01:00:45,05:52:34,04:26:17,00:09:05,00:07:24,11:36:05
+ironman-wisconsin-20030907.csv,827,Scott R. Norton,---,WI,USA,01:22:37,06:54:52,---,00:12:04,00:11:46,DNF
+ironman-wisconsin-20030907.csv,828,Charles A. Parsons,---,MN,USA,01:01:20,05:39:05,04:10:56,00:06:46,00:03:13,11:01:20
+ironman-wisconsin-20030907.csv,829,Steve Patton,36,WI,USA,00:56:19,05:50:34,04:49:50,00:06:28,00:04:07,11:47:18
+ironman-wisconsin-20030907.csv,830,Joe W. Prestigiacomo,---,WI,USA,01:06:29,06:06:56,04:28:20,00:08:59,00:06:29,11:57:13
+ironman-wisconsin-20030907.csv,831,Joe Richard,36,ID,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,832,Dave Richter,36,IL,USA,01:01:43,05:35:25,04:40:05,00:07:00,00:04:50,11:29:03
+ironman-wisconsin-20030907.csv,833,Parker J. Rios,---,WI,USA,01:10:08,06:08:46,04:10:34,00:09:33,00:05:00,11:44:01
+ironman-wisconsin-20030907.csv,834,Rick Rodgers,36,MN,USA,01:12:25,05:44:02,05:10:06,00:09:07,00:06:30,12:22:10
+ironman-wisconsin-20030907.csv,835,Jose Romano,---,DF,MEX,01:24:14,07:43:22,05:33:43,00:12:06,00:10:26,15:03:51
+ironman-wisconsin-20030907.csv,836,Kevin Saedi,36,IL,USA,01:25:37,08:30:27,06:00:57,00:07:39,00:12:33,16:17:13
+ironman-wisconsin-20030907.csv,837,Thomas Sanders,36,TX,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,838,James R. Schulenberg,---,AZ,USA,01:17:34,06:04:14,05:21:12,00:09:30,00:06:26,12:58:56
+ironman-wisconsin-20030907.csv,839,Finlay Shackleton,---,ON,CAN,01:15:38,05:58:54,04:11:22,00:06:53,00:04:12,11:36:59
+ironman-wisconsin-20030907.csv,840,Scott Smith,---,IN,USA,01:26:58,07:33:57,06:12:50,00:11:00,00:12:05,15:36:50
+ironman-wisconsin-20030907.csv,841,Scott A. Stopak,---,NE,USA,01:11:34,06:29:21,---,00:07:23,00:21:28,DNF
+ironman-wisconsin-20030907.csv,842,Michael R. Terry,---,IL,USA,01:02:12,05:34:00,07:05:14,00:05:46,00:04:21,13:51:33
+ironman-wisconsin-20030907.csv,843,Anthony P. Thiry,---,WI,USA,01:09:26,07:33:28,06:12:20,00:12:12,00:16:38,15:24:04
+ironman-wisconsin-20030907.csv,844,Gary Thorne,36,AB,CAN,01:09:49,05:52:13,04:32:12,00:06:53,00:04:23,11:45:30
+ironman-wisconsin-20030907.csv,845,Leo Tyska,36,IL,USA,01:20:15,06:52:08,05:20:24,00:06:57,00:07:06,13:46:50
+ironman-wisconsin-20030907.csv,846,Doug D. Vander Weide,---,IA,USA,01:00:06,05:13:48,04:06:15,00:05:51,00:02:23,10:28:23
+ironman-wisconsin-20030907.csv,847,Steve Vrchota,36,MN,USA,01:24:21,07:09:25,06:53:53,00:15:36,00:16:07,15:59:22
+ironman-wisconsin-20030907.csv,848,Mathieu E. Weiner,---,PA,USA,01:15:01,05:58:24,04:14:15,00:06:50,00:04:08,11:38:38
+ironman-wisconsin-20030907.csv,849,Robert Wentland,36,IL,USA,01:00:43,06:36:40,05:26:39,00:06:44,00:14:14,13:25:00
+ironman-wisconsin-20030907.csv,850,Patrick J. White,---,IL,USA,01:07:28,05:32:40,04:01:51,00:07:51,00:03:01,10:52:51
+ironman-wisconsin-20030907.csv,851,Thomas Woyte,36,FL,USA,01:35:03,---,---,00:18:34,---,DNF
+ironman-wisconsin-20030907.csv,852,David A. Mortensen,---,NE,USA,01:02:54,05:22:25,04:07:30,00:06:36,00:03:26,10:42:51
+ironman-wisconsin-20030907.csv,853,Ronald K. Ahrens,---,WI,USA,01:37:40,08:29:47,---,00:15:54,00:43:06,DNF
+ironman-wisconsin-20030907.csv,854,Jeff Baker,---,IL,USA,01:09:47,06:55:14,06:10:03,00:07:48,00:06:54,14:29:46
+ironman-wisconsin-20030907.csv,855,Kurt W. Becker,---,MN,USA,00:53:51,06:11:36,05:06:52,00:06:09,00:05:06,12:23:34
+ironman-wisconsin-20030907.csv,856,Tom Blum,37,WI,USA,01:10:55,06:15:17,05:52:34,00:09:38,00:06:09,13:34:33
+ironman-wisconsin-20030907.csv,857,Daniel L. Braak,---,MI,USA,01:05:59,07:48:09,06:46:23,00:09:52,00:09:04,15:59:27
+ironman-wisconsin-20030907.csv,858,Dirk B. Br³ggemann,---,BW,DEU,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,859,Harold M. Buck,---,IN,USA,01:15:03,08:10:31,06:40:14,00:11:34,00:08:31,16:25:53
+ironman-wisconsin-20030907.csv,860,Jay Capers,37,NY,USA,01:16:55,06:41:23,07:31:47,00:08:26,00:07:03,15:45:34
+ironman-wisconsin-20030907.csv,861,Paul J. Clementi,---,IL,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,862,Russell G. Clopine,---,MO,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,863,Christopher M. Crowley,---,IL,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,864,Richard T. Dean  Jr,---,MI,USA,01:13:30,06:18:58,04:35:17,00:09:40,00:04:59,12:22:24
+ironman-wisconsin-20030907.csv,865,Juan C. Diaz,---,CHIH,MEX,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,866,Bradley K. Douglass,---,TX,USA,01:04:55,06:04:04,04:08:23,00:06:47,00:04:39,11:28:48
+ironman-wisconsin-20030907.csv,867,Rich Eicher,37,IA,USA,01:35:30,07:11:14,05:18:33,00:09:26,00:07:02,14:21:45
+ironman-wisconsin-20030907.csv,868,Mark Fisher,37,---,CAN,01:18:30,05:51:12,04:37:50,00:08:08,00:03:27,11:59:07
+ironman-wisconsin-20030907.csv,869,Marc Grove,37,---,USA,01:16:57,06:43:04,05:06:46,00:09:19,00:05:30,13:21:36
+ironman-wisconsin-20030907.csv,870,Kurt Haas,37,NY,USA,01:46:24,07:28:26,04:21:58,00:11:37,00:10:43,13:59:08
+ironman-wisconsin-20030907.csv,871,Eric Hanson,22,WI,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,872,Troy E. Harper,---,SC,USA,01:33:32,06:45:34,05:39:55,00:08:52,00:07:10,14:15:03
+ironman-wisconsin-20030907.csv,873,John D. Hearne,---,IN,USA,00:57:06,06:03:00,04:34:00,00:06:36,00:06:19,11:47:01
+ironman-wisconsin-20030907.csv,874,Chris Herb,37,CA,USA,01:37:25,06:54:51,---,00:07:53,---,DNF
+ironman-wisconsin-20030907.csv,875,Mike R. Hodge,---,IA,USA,01:14:23,06:43:13,05:20:45,00:11:49,00:14:01,13:44:11
+ironman-wisconsin-20030907.csv,876,Stephen Hoffman,37,WI,USA,01:18:00,06:37:38,06:01:52,00:11:51,00:12:26,14:21:47
+ironman-wisconsin-20030907.csv,877,Todd A. Jankowski,---,WI,USA,00:58:59,07:26:27,05:16:10,00:08:24,00:08:46,13:58:46
+ironman-wisconsin-20030907.csv,878,Timothy E. Josephs,---,WI,USA,01:18:25,06:26:42,04:54:51,00:08:24,00:06:03,12:54:25
+ironman-wisconsin-20030907.csv,879,Peter A. Kosiba,---,CA,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,880,Gary K. Kostbade,---,IN,USA,01:16:13,07:20:47,06:17:22,00:11:59,00:10:54,15:17:15
+ironman-wisconsin-20030907.csv,881,Morice Labossiere,37,MB,CAN,01:31:38,08:15:54,06:42:22,00:09:00,00:07:26,16:46:20
+ironman-wisconsin-20030907.csv,882,Sean Larock,37,WI,USA,02:16:52,---,---,00:13:41,---,DNF
+ironman-wisconsin-20030907.csv,883,Robert A. Levinstein,---,IA,USA,01:12:21,09:05:56,---,00:09:19,---,DNF
+ironman-wisconsin-20030907.csv,884,Tim Mcleod,37,MO,USA,01:08:00,06:25:20,05:37:59,00:07:18,00:07:55,13:26:32
+ironman-wisconsin-20030907.csv,885,Neil G. Mesch,---,IL,USA,01:15:24,---,---,00:12:41,---,DNF
+ironman-wisconsin-20030907.csv,886,Jordan Metzl,---,NY,USA,01:19:59,06:27:20,04:43:15,00:08:37,00:07:41,12:46:52
+ironman-wisconsin-20030907.csv,887,Tim F. Meyers,---,OH,USA,01:00:39,05:39:42,06:06:58,00:06:00,00:03:06,12:56:25
+ironman-wisconsin-20030907.csv,888,Paul Mitchell,37,Intl State,GBR,01:15:05,05:57:51,04:57:22,00:07:38,00:04:49,12:22:45
+ironman-wisconsin-20030907.csv,889,Mr. Alexander S. Obordo,---,IL,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,890,Michael Pierson,37,WI,USA,01:00:33,05:24:19,05:50:32,00:05:30,00:03:51,12:24:45
+ironman-wisconsin-20030907.csv,891,Kevin Pilarski,37,MN,USA,01:24:27,06:25:53,05:16:06,00:11:24,00:10:00,13:27:50
+ironman-wisconsin-20030907.csv,892,Thomas R. Poehling,---,WI,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,893,Jeffrey S. Polenske,---,WI,USA,01:05:32,05:51:36,05:04:13,00:08:07,00:08:09,12:17:37
+ironman-wisconsin-20030907.csv,894,William A. Pruett,---,TX,USA,01:10:38,07:38:03,07:22:34,00:10:59,00:07:46,16:30:00
+ironman-wisconsin-20030907.csv,895,Perry A. Ralenkotter,---,KY,USA,01:07:46,---,---,00:07:55,---,DNF
+ironman-wisconsin-20030907.csv,896,Richard Rischman,---,WI,USA,01:03:29,06:04:57,03:41:57,00:06:23,00:03:15,11:00:01
+ironman-wisconsin-20030907.csv,897,David J. Ritz,---,MN,USA,01:02:25,06:21:48,05:06:51,00:08:32,00:06:33,12:46:09
+ironman-wisconsin-20030907.csv,898,Michael C. Santo,---,CO,USA,01:03:08,07:15:25,06:44:43,00:14:45,00:10:55,15:28:56
+ironman-wisconsin-20030907.csv,899,Andrew L. Schaffner,---,IL,USA,00:57:29,07:57:03,07:04:43,00:18:24,00:19:52,16:37:31
+ironman-wisconsin-20030907.csv,900,Paul Scrivens,37,WI,USA,01:27:59,06:18:37,06:18:39,00:09:21,00:07:16,14:21:52
+ironman-wisconsin-20030907.csv,901,Jim Skirboll,37,PA,USA,00:57:10,06:14:52,06:33:32,00:10:55,00:07:38,14:04:07
+ironman-wisconsin-20030907.csv,902,Paul R. Slagle,---,IL,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,903,Michael K. Stec,---,IL,USA,01:04:40,06:02:52,---,00:07:20,00:04:09,DNF
+ironman-wisconsin-20030907.csv,904,Cesar Valverde,37,IL,USA,01:08:41,06:26:43,04:39:33,00:09:50,00:05:23,12:30:10
+ironman-wisconsin-20030907.csv,905,J.B. Van Hollen,37,WI,USA,01:16:50,07:04:12,06:27:45,00:08:56,00:08:01,15:05:44
+ironman-wisconsin-20030907.csv,906,Joseph A. Van Veen,---,ON,CAN,01:22:23,07:24:13,05:52:55,00:11:20,00:07:23,14:58:14
+ironman-wisconsin-20030907.csv,907,Felix S. Villaverde,---,CO,USA,01:29:10,07:41:26,07:00:58,00:09:22,00:16:29,16:37:25
+ironman-wisconsin-20030907.csv,908,Michael L. Woldt,---,WI,USA,01:38:34,07:18:28,06:34:56,00:12:49,00:16:35,16:01:22
+ironman-wisconsin-20030907.csv,909,Richard Cane,38,MO,USA,00:58:57,05:46:00,04:08:13,00:11:01,00:06:50,11:11:01
+ironman-wisconsin-20030907.csv,910,Patrick O'Connor,---,CA,USA,01:15:54,06:11:56,04:43:51,00:09:21,00:05:07,12:26:09
+ironman-wisconsin-20030907.csv,911,Jerry Slusher,---,IL,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,912,Robbie Allen,38,VA,USA,00:46:16,05:59:18,04:55:36,00:05:17,00:03:49,11:50:16
+ironman-wisconsin-20030907.csv,913,Frank Alvarez,38,WI,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,914,Bruce Atencio,38,NM,USA,01:20:44,07:22:34,06:25:23,00:10:19,00:11:49,15:30:49
+ironman-wisconsin-20030907.csv,915,Scott Babos,38,IL,USA,01:38:23,---,---,00:13:03,---,DNF
+ironman-wisconsin-20030907.csv,916,Jim R. Barron,---,MI,USA,01:15:06,07:15:48,06:22:38,00:14:14,00:08:47,15:16:33
+ironman-wisconsin-20030907.csv,917,Paul E. Bergquist,---,IL,USA,01:07:39,06:14:52,05:14:06,00:07:18,00:05:15,12:49:10
+ironman-wisconsin-20030907.csv,918,Joel A. Berquam,---,NC,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,919,Tim O. Carey,---,WI,USA,00:51:09,05:56:16,05:34:02,00:08:26,00:15:43,12:45:36
+ironman-wisconsin-20030907.csv,920,John K. Cheney,---,IL,USA,01:28:08,08:12:05,06:19:02,00:09:37,00:09:42,16:18:34
+ironman-wisconsin-20030907.csv,921,Kevin Cooper,38,VA,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,922,Chris C. Cronin,---,MI,USA,01:05:00,05:26:29,03:43:52,00:06:40,00:07:10,10:29:11
+ironman-wisconsin-20030907.csv,923,Jean-Francois Dionne,---,QC,CAN,01:00:27,05:23:48,04:01:34,00:06:30,00:02:17,10:34:36
+ironman-wisconsin-20030907.csv,924,Brian Earnest,38,WI,USA,01:18:58,06:54:55,05:47:04,00:12:23,00:14:03,14:27:23
+ironman-wisconsin-20030907.csv,925,Peter J. Ekberg,---,MN,USA,01:04:01,05:32:35,04:29:16,00:06:35,00:03:46,11:16:13
+ironman-wisconsin-20030907.csv,926,Matthew S. Evans,---,CA,USA,01:20:11,06:25:34,05:38:55,00:09:42,00:05:57,13:40:19
+ironman-wisconsin-20030907.csv,927,Dan P. Fillenwarth,---,IN,USA,01:17:18,06:36:08,05:04:32,00:11:30,00:10:01,13:19:29
+ironman-wisconsin-20030907.csv,928,Paul F. Fritz,---,NV,USA,00:57:16,06:36:04,05:00:33,00:10:14,00:06:02,12:50:09
+ironman-wisconsin-20030907.csv,929,Douglas W. Gardner,---,TX,USA,01:02:56,06:23:00,06:03:15,00:06:31,00:07:36,13:43:18
+ironman-wisconsin-20030907.csv,930,James J. Gibson,---,WI,USA,02:17:07,---,---,00:11:06,---,DNF
+ironman-wisconsin-20030907.csv,931,Tom Grant,38,TX,USA,01:07:02,08:07:35,06:46:30,00:09:42,00:12:07,16:22:56
+ironman-wisconsin-20030907.csv,932,Phil Gushue,38,NL,CAN,01:33:06,08:33:23,05:29:39,00:13:42,00:08:26,15:58:16
+ironman-wisconsin-20030907.csv,933,Nick Hansen,38,CO,USA,00:54:24,06:01:39,05:44:40,00:06:12,00:05:56,12:52:51
+ironman-wisconsin-20030907.csv,934,Peter A. Hanson,---,MN,USA,00:56:53,05:30:36,05:00:31,00:07:40,00:03:55,11:39:35
+ironman-wisconsin-20030907.csv,935,Mike Hazelton,38,CA,USA,01:06:34,06:14:33,05:38:15,00:07:18,00:05:51,13:12:31
+ironman-wisconsin-20030907.csv,936,Bill Honeck,38,CT,USA,01:09:55,07:33:41,---,00:09:08,---,DNF
+ironman-wisconsin-20030907.csv,937,Kendrick M. Howard,---,CO,USA,01:18:53,07:22:11,07:10:36,00:13:52,00:18:11,16:23:43
+ironman-wisconsin-20030907.csv,938,John D. Jacobson,---,WI,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,939,Lee Joiner,38,TX,USA,01:03:51,06:56:02,05:21:28,00:13:12,00:12:08,13:46:41
+ironman-wisconsin-20030907.csv,940,Charles A. Julson,---,MN,USA,01:12:20,07:16:15,05:12:16,00:12:09,00:14:29,14:07:29
+ironman-wisconsin-20030907.csv,941,Michael Kanute,---,IL,USA,01:01:19,06:09:01,---,00:07:07,00:11:22,DNF
+ironman-wisconsin-20030907.csv,942,Mike T. Karbouski,---,WI,USA,01:03:33,05:54:32,04:06:29,00:06:34,00:04:25,11:15:33
+ironman-wisconsin-20030907.csv,943,Hugh P. Kelleghan,---,IL,USA,01:19:36,07:32:39,06:04:47,00:09:18,00:14:23,15:20:43
+ironman-wisconsin-20030907.csv,944,Joseph P. Kenney,---,IL,USA,01:14:24,06:40:20,04:57:11,00:08:47,00:06:29,13:07:11
+ironman-wisconsin-20030907.csv,945,Daniel Knapp,38,VA,USA,01:12:19,07:12:22,06:25:37,00:09:53,00:16:35,15:16:46
+ironman-wisconsin-20030907.csv,946,Michael Long,38,IL,USA,01:20:27,06:47:20,05:14:07,00:10:42,00:07:38,13:40:14
+ironman-wisconsin-20030907.csv,947,Tony Lugo,38,PR,USA,01:12:27,05:46:01,05:28:28,00:07:17,00:03:15,12:37:28
+ironman-wisconsin-20030907.csv,948,Chad Mckenney,38,MN,USA,01:16:21,06:09:36,04:07:20,00:09:54,00:04:39,11:47:50
+ironman-wisconsin-20030907.csv,949,Brad E. Meixner,---,WI,USA,01:18:38,07:33:02,07:08:55,00:08:29,00:14:57,16:24:01
+ironman-wisconsin-20030907.csv,950,Jeffery A. Miller,---,MN,USA,01:20:35,07:24:21,04:12:35,00:06:41,00:02:47,13:06:59
+ironman-wisconsin-20030907.csv,951,Van R. Moffatt,---,MN,USA,01:13:37,07:19:46,---,00:09:45,---,DNF
+ironman-wisconsin-20030907.csv,952,Julian M. Murphy,---,IL,USA,01:08:04,06:22:20,---,00:06:39,00:09:42,DNF
+ironman-wisconsin-20030907.csv,953,Yoshiro Nagata,38,Tokyo,JPN,01:11:15,05:51:17,04:45:14,00:09:05,00:09:32,12:06:23
+ironman-wisconsin-20030907.csv,954,John Ohara,---,MN,USA,00:53:39,05:40:03,04:36:52,00:05:50,00:04:05,11:20:29
+ironman-wisconsin-20030907.csv,955,Craig S. Olson,---,IA,USA,01:04:52,05:36:08,04:31:04,00:06:06,00:04:57,11:23:07
+ironman-wisconsin-20030907.csv,956,Brian Peck,38,IA,USA,01:24:37,06:29:54,05:38:49,00:10:59,00:08:42,13:53:01
+ironman-wisconsin-20030907.csv,957,Ian A. Pickett,---,BEDS,GBR,01:05:29,07:24:51,07:21:27,00:10:15,00:07:09,16:09:11
+ironman-wisconsin-20030907.csv,958,Joe Pulliam,38,OR,USA,01:18:56,06:58:09,04:58:26,00:07:32,00:11:15,13:34:18
+ironman-wisconsin-20030907.csv,959,Richard Rignell,38,MN,USA,01:09:34,07:50:48,06:30:33,00:12:46,00:15:39,15:59:20
+ironman-wisconsin-20030907.csv,960,Eric W. Schmitz,---,CA,USA,01:14:55,06:08:29,05:00:01,00:07:53,00:06:19,12:37:37
+ironman-wisconsin-20030907.csv,961,James J. Schneider,---,WI,USA,01:20:01,06:12:31,04:22:08,00:08:38,00:06:55,12:10:13
+ironman-wisconsin-20030907.csv,962,Timothy Sells,38,CO,USA,01:02:33,05:50:17,05:22:24,00:07:15,00:04:55,12:27:24
+ironman-wisconsin-20030907.csv,963,Gearoid Sexton,38,WI,USA,01:22:30,06:19:31,05:54:15,00:10:24,00:08:02,13:54:42
+ironman-wisconsin-20030907.csv,964,Gary Singleton,38,IL,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,965,Jaegan Smith,38,---,CAN,01:08:02,06:05:50,04:35:14,00:08:51,00:05:47,12:03:44
+ironman-wisconsin-20030907.csv,966,John Stich,38,MN,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,967,Tom Sullivan Jr.,38,IN,USA,01:08:07,06:13:30,04:43:18,00:07:36,00:03:42,12:16:13
+ironman-wisconsin-20030907.csv,968,Matt K. Vander Sys,---,MI,USA,01:34:03,06:09:02,04:39:50,00:08:29,00:06:51,12:38:15
+ironman-wisconsin-20030907.csv,969,Jeffrey M. Virlee,---,WI,USA,01:23:11,06:28:58,06:11:16,00:09:50,00:11:51,14:25:06
+ironman-wisconsin-20030907.csv,970,Bill M. Wallace,---,IL,USA,00:56:54,---,---,00:07:59,---,DNF
+ironman-wisconsin-20030907.csv,971,Greg Waters,---,WI,USA,01:28:10,06:33:17,05:07:30,00:08:26,00:07:19,13:24:42
+ironman-wisconsin-20030907.csv,972,Bradley K. Wells,---,WI,USA,01:21:28,06:50:28,05:50:51,00:11:21,00:10:30,14:24:38
+ironman-wisconsin-20030907.csv,973,Scott Willson,---,KS,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,974,Ward Wojciehowski,38,WI,USA,01:17:41,06:33:23,05:42:17,00:09:39,00:04:56,13:47:56
+ironman-wisconsin-20030907.csv,975,Naoto Yoshimura,---,IBAR,JPN,01:03:52,05:23:01,03:24:55,00:06:08,00:01:55,09:59:51
+ironman-wisconsin-20030907.csv,976,Steve Younker,---,IA,USA,01:22:04,06:03:45,04:12:59,00:11:57,00:09:14,11:59:59
+ironman-wisconsin-20030907.csv,977,David Ragland,---,GA,USA,01:02:30,05:50:31,05:28:19,00:06:41,00:05:45,12:33:46
+ironman-wisconsin-20030907.csv,978,Bill Rongaus,---,CA,USA,01:28:40,07:08:53,05:29:49,00:12:02,00:09:18,14:28:42
+ironman-wisconsin-20030907.csv,979,Mark Andersen,39,IL,USA,01:45:20,---,---,00:17:42,---,DNF
+ironman-wisconsin-20030907.csv,980,Emilio Apey,39,IL,USA,01:21:04,07:10:37,---,00:09:47,---,DNF
+ironman-wisconsin-20030907.csv,981,Scott A. Arne,---,IL,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,982,Curt A. Beutler,---,WI,USA,01:04:30,06:09:22,05:54:57,00:07:27,00:06:53,13:23:09
+ironman-wisconsin-20030907.csv,983,Jeff Bird,39,IL,USA,01:15:33,06:30:59,06:47:50,00:12:59,00:08:56,14:56:17
+ironman-wisconsin-20030907.csv,984,Brad Bledsoe,39,MO,USA,01:26:10,06:26:51,05:56:04,00:10:07,00:08:19,14:07:31
+ironman-wisconsin-20030907.csv,985,Rhett Bonner,39,MN,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,986,Richard L. Bulman,---,ME,USA,01:15:20,06:46:01,04:17:40,00:13:22,00:09:35,12:41:58
+ironman-wisconsin-20030907.csv,987,Gregory Cardelli,39,IL,USA,01:46:15,06:37:00,04:07:06,00:09:34,00:10:11,12:50:06
+ironman-wisconsin-20030907.csv,988,Rick W. Choy,---,ON,CAN,01:21:09,06:31:00,06:43:27,00:08:13,00:08:30,14:52:19
+ironman-wisconsin-20030907.csv,989,Darrell Croft,39,TN,USA,01:30:42,07:41:18,04:49:59,00:13:05,00:06:38,14:21:42
+ironman-wisconsin-20030907.csv,990,Joseph Cruz,---,WI,USA,01:29:04,---,---,00:13:48,---,DNF
+ironman-wisconsin-20030907.csv,991,James J. Czarniak,---,IL,USA,01:17:29,07:19:41,06:54:48,00:11:26,00:15:52,15:59:16
+ironman-wisconsin-20030907.csv,992,Shawn Deboer,39,WI,USA,01:16:15,06:13:28,05:51:16,00:07:57,00:06:01,13:34:57
+ironman-wisconsin-20030907.csv,993,Rudolf R. Delgado,---,CA,USA,01:02:22,05:35:42,04:10:24,00:05:35,00:02:43,10:56:46
+ironman-wisconsin-20030907.csv,994,Brian S. Dennis,---,WI,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,995,David M. Dickirson,---,WI,USA,01:19:34,06:56:41,05:05:46,00:10:00,00:08:29,13:40:30
+ironman-wisconsin-20030907.csv,996,Michael R. Donner,---,IL,USA,01:07:05,05:45:01,05:06:31,00:06:58,00:05:03,12:10:38
+ironman-wisconsin-20030907.csv,997,Jeff Eberwein,38,IL,USA,01:15:21,07:00:50,05:20:39,00:09:39,00:08:57,13:55:26
+ironman-wisconsin-20030907.csv,998,Thomas Estka,---,IL,USA,01:21:38,05:44:54,---,00:10:08,00:13:52,DNF
+ironman-wisconsin-20030907.csv,999,John C. Fell,---,IL,USA,01:01:48,07:29:39,06:35:17,00:08:24,00:07:19,15:22:27
+ironman-wisconsin-20030907.csv,1000,Raymond Britt,42,---,USA,01:08:54,05:32:10,03:48:47,00:06:27,00:02:06,10:38:24
+ironman-wisconsin-20030907.csv,1001,Michael T. Fox,---,IL,USA,01:05:13,06:10:18,04:41:18,00:07:55,00:05:44,12:10:28
+ironman-wisconsin-20030907.csv,1002,Alan J. Frank,---,WI,USA,01:20:08,07:39:03,06:56:21,00:12:49,00:14:39,16:23:00
+ironman-wisconsin-20030907.csv,1003,Fernando Garcia,---,DF,MEX,01:22:46,07:11:28,05:25:26,00:12:58,00:10:35,14:23:13
+ironman-wisconsin-20030907.csv,1004,Jon W. Grimes,---,IN,USA,01:20:14,06:56:56,05:31:24,00:10:09,00:07:21,14:06:04
+ironman-wisconsin-20030907.csv,1005,Roger Hammer,---,WI,USA,01:04:34,05:26:36,03:48:36,00:07:05,00:02:43,10:29:34
+ironman-wisconsin-20030907.csv,1006,Tom Hardies,39,IL,USA,01:05:45,06:10:51,03:45:16,00:06:14,00:04:52,11:12:58
+ironman-wisconsin-20030907.csv,1007,Daniel R. Harris,---,WI,USA,01:18:21,06:00:06,04:39:26,00:08:12,00:06:14,12:12:19
+ironman-wisconsin-20030907.csv,1008,Tom Huffman,39,CA,USA,01:04:11,06:08:50,---,00:07:10,---,DNF
+ironman-wisconsin-20030907.csv,1009,Mark L. Huhn,---,IL,USA,01:20:09,07:24:44,05:44:49,00:13:30,00:11:57,14:55:09
+ironman-wisconsin-20030907.csv,1010,Neville Jewell,39,"Douglas, Isle of Man",GBR,01:04:31,05:54:09,---,00:06:31,00:10:03,DNF
+ironman-wisconsin-20030907.csv,1011,Bob K. Joers,---,WI,USA,00:57:08,07:42:16,05:36:51,00:07:20,00:06:45,14:30:20
+ironman-wisconsin-20030907.csv,1012,Kenneth W. Johnson,---,IL,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,1013,Hernandez T. Jorge A.,---,DIST,MEX,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,1014,Robert Kinney,39,TN,USA,01:13:42,---,---,00:16:05,---,DNF
+ironman-wisconsin-20030907.csv,1015,Warren A. Knoll,---,WI,USA,01:18:52,05:49:42,06:35:12,00:07:35,00:07:27,13:58:48
+ironman-wisconsin-20030907.csv,1016,Mark A. Kochanski,---,WI,USA,01:13:02,06:37:10,06:34:31,00:09:05,00:06:13,14:40:01
+ironman-wisconsin-20030907.csv,1017,Terry S. Labinski,---,WI,USA,00:57:01,05:09:01,03:09:34,00:05:14,00:02:09,09:22:59
+ironman-wisconsin-20030907.csv,1018,John Langford,39,TX,USA,01:11:29,06:29:36,06:30:28,00:08:31,00:06:08,14:26:12
+ironman-wisconsin-20030907.csv,1019,Daniel R. Ledbetter Jr,---,CA,USA,01:21:43,06:41:58,06:00:35,00:10:34,00:07:26,14:22:16
+ironman-wisconsin-20030907.csv,1020,Eric Maercklein,39,NC,USA,01:08:42,06:08:53,05:14:05,00:12:00,00:09:55,12:53:35
+ironman-wisconsin-20030907.csv,1021,Michael Mallon,39,NY,USA,01:27:46,07:49:37,04:26:53,00:08:55,00:04:24,13:57:35
+ironman-wisconsin-20030907.csv,1022,James D. Masucci,---,MO,USA,01:06:23,05:38:45,05:20:26,00:05:50,00:02:29,12:13:53
+ironman-wisconsin-20030907.csv,1023,Rob Mcgill,39,ON,CAN,01:07:39,06:01:02,04:53:49,00:08:04,00:04:50,12:15:24
+ironman-wisconsin-20030907.csv,1024,Craig Mcsavaney,39,CO,USA,01:10:50,06:54:36,04:55:05,00:07:46,00:06:45,13:15:02
+ironman-wisconsin-20030907.csv,1025,Mike B. Mooney,---,IL,USA,01:08:54,06:01:20,05:11:30,00:09:20,00:07:29,12:38:33
+ironman-wisconsin-20030907.csv,1026,Richard D. Olstad,---,SD,USA,01:27:24,08:11:23,06:37:14,00:13:24,00:12:32,16:41:57
+ironman-wisconsin-20030907.csv,1027,Michael P. Pearson,---,NF,CAN,01:02:56,06:03:11,03:58:30,00:06:17,00:03:42,11:14:36
+ironman-wisconsin-20030907.csv,1028,Carlos Pena,---,DF,MEX,01:06:28,05:51:26,04:09:59,00:06:58,00:03:12,11:18:03
+ironman-wisconsin-20030907.csv,1029,David P. Petkovsek,---,IL,USA,01:08:04,05:44:44,05:23:39,00:09:13,00:06:05,12:31:45
+ironman-wisconsin-20030907.csv,1030,Rob Rhoades,---,MD,USA,01:10:03,08:04:38,05:38:08,00:08:50,00:09:19,15:10:58
+ironman-wisconsin-20030907.csv,1031,Paul Riegle,39,MI,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,1032,David Ripley,39,IN,USA,01:20:16,06:45:43,05:32:07,00:11:26,00:09:01,13:58:33
+ironman-wisconsin-20030907.csv,1033,Claytin F. Sabourin,---,WI,USA,01:03:59,05:32:36,04:20:28,00:06:25,00:03:49,11:07:17
+ironman-wisconsin-20030907.csv,1034,Richard M. Sadiq,---,WI,USA,01:16:30,05:34:28,04:24:19,00:07:57,00:04:01,11:27:15
+ironman-wisconsin-20030907.csv,1035,Pablo A. Sanchez,---,JALI,MEX,01:14:37,05:47:23,04:59:59,00:08:17,00:04:55,12:15:11
+ironman-wisconsin-20030907.csv,1036,Scott J. Savage,---,OH,USA,01:07:38,05:54:58,04:09:20,00:06:42,00:04:03,11:22:41
+ironman-wisconsin-20030907.csv,1037,Christopher F. Scalise,---,IN,USA,01:07:43,05:54:09,---,00:08:06,00:05:11,DNF
+ironman-wisconsin-20030907.csv,1038,Lyle P. Schaffer,---,NY,USA,01:26:51,07:31:04,07:09:04,00:07:11,00:13:26,16:27:36
+ironman-wisconsin-20030907.csv,1039,Rob Shearer,39,IL,USA,01:33:40,08:30:14,---,00:12:02,00:18:54,DNF
+ironman-wisconsin-20030907.csv,1040,Gregg C. Steinhaus,---,WI,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,1041,Scott Varwig,39,IL,USA,01:13:48,06:37:03,---,00:07:39,00:04:17,DNF
+ironman-wisconsin-20030907.csv,1042,Gregory J. Volz,---,KY,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,1043,Ken J. White,---,IA,USA,01:29:37,06:52:44,07:15:53,00:07:29,00:04:09,15:49:52
+ironman-wisconsin-20030907.csv,1044,Michael S. Willis,---,IN,USA,01:17:00,08:32:46,05:53:33,00:10:45,00:08:23,16:02:27
+ironman-wisconsin-20030907.csv,1045,Erik K. Winberg,---,WI,USA,01:04:19,05:22:11,04:56:28,00:08:37,00:04:28,11:36:03
+ironman-wisconsin-20030907.csv,1046,John Klasing,---,IL,USA,00:57:18,06:13:59,05:08:54,00:06:45,00:07:05,12:34:01
+ironman-wisconsin-20030907.csv,1047,Michael Ring,---,WI,USA,01:04:12,05:38:58,06:25:25,00:07:26,00:03:41,13:19:42
+ironman-wisconsin-20030907.csv,1048,Mauricio Aceves,40,---,MEX,01:13:22,07:01:24,04:39:09,00:08:03,00:06:43,13:08:41
+ironman-wisconsin-20030907.csv,1049,Pete Alfino,40,CO,USA,01:13:53,06:13:44,04:47:42,00:09:31,00:07:43,12:32:33
+ironman-wisconsin-20030907.csv,1050,Jeff Anders L. Anders,---,WI,USA,01:06:16,05:48:58,---,00:07:38,00:05:59,DNF
+ironman-wisconsin-20030907.csv,1051,Jon Anderson,40,MI,USA,01:05:56,05:35:20,05:15:48,00:07:14,00:04:11,12:08:29
+ironman-wisconsin-20030907.csv,1052,Michael J. Anderson,---,WI,USA,01:08:39,05:49:57,05:34:18,00:07:18,00:03:13,12:43:25
+ironman-wisconsin-20030907.csv,1053,Scott D. Birklid,---,MN,USA,00:54:26,---,---,00:07:19,---,DNF
+ironman-wisconsin-20030907.csv,1054,Alexander Blackburn,40,MN,USA,01:52:34,08:08:09,06:16:38,00:10:38,00:18:55,16:46:54
+ironman-wisconsin-20030907.csv,1055,Bob Brooker,40,IA,USA,01:02:46,06:00:20,---,00:07:32,01:11:15,DNF
+ironman-wisconsin-20030907.csv,1056,Dave Bruning,40,IL,USA,01:16:38,05:51:50,05:24:12,00:07:51,00:04:41,12:45:12
+ironman-wisconsin-20030907.csv,1057,Bob Burke,40,IL,USA,01:36:11,07:37:42,05:42:18,00:09:55,00:10:20,15:16:26
+ironman-wisconsin-20030907.csv,1058,David Carlins,40,IL,USA,01:13:32,05:58:40,04:21:05,00:10:44,00:08:12,11:52:13
+ironman-wisconsin-20030907.csv,1059,Chris Chambers,40,ME,USA,01:08:35,05:53:41,04:10:42,00:06:41,00:04:49,11:24:28
+ironman-wisconsin-20030907.csv,1060,Gary P. Clark,---,WI,USA,01:15:27,06:23:25,05:13:12,00:12:17,00:11:09,13:15:30
+ironman-wisconsin-20030907.csv,1061,Martin D. Collins,---,OH,USA,01:28:34,07:03:35,05:26:11,00:10:22,00:08:47,14:17:29
+ironman-wisconsin-20030907.csv,1062,Peter W. Coons,---,WI,USA,01:16:44,05:39:27,05:22:45,00:08:27,00:04:52,12:32:15
+ironman-wisconsin-20030907.csv,1063,Donald Cummings,-2,IL,USA,00:58:32,06:36:47,05:12:01,00:07:58,00:13:02,13:08:20
+ironman-wisconsin-20030907.csv,1064,Terry L. Dietzler,---,GA,USA,01:21:53,06:57:09,05:07:25,00:12:11,00:09:37,13:48:15
+ironman-wisconsin-20030907.csv,1065,Paul A. Enders,---,WI,USA,01:21:31,06:32:28,05:47:15,00:09:08,00:08:43,13:59:05
+ironman-wisconsin-20030907.csv,1066,Scott P. Fleming,---,WI,USA,01:42:08,07:25:23,06:41:42,00:11:07,00:13:46,16:14:06
+ironman-wisconsin-20030907.csv,1067,John E. Forslund,---,WI,USA,01:17:24,06:55:05,06:19:39,00:13:01,00:06:42,14:51:51
+ironman-wisconsin-20030907.csv,1068,Todd E. Freber,---,WI,USA,01:19:02,06:42:48,05:02:52,00:12:28,00:16:36,13:33:46
+ironman-wisconsin-20030907.csv,1069,Ross J. Freese,---,MO,USA,00:51:38,05:39:08,---,00:05:42,00:05:03,DNF
+ironman-wisconsin-20030907.csv,1070,Bryan Fuhr,40,MN,USA,01:18:38,06:34:20,04:21:02,00:16:19,00:07:27,12:37:46
+ironman-wisconsin-20030907.csv,1071,Kenneth A. Gandy,---,IN,USA,01:20:02,07:24:55,05:44:07,00:12:20,00:16:22,14:57:46
+ironman-wisconsin-20030907.csv,1072,Miguel Garcia Hernandez,40,Intl State,MEX,01:02:35,05:55:49,04:39:55,00:06:39,00:03:09,11:48:07
+ironman-wisconsin-20030907.csv,1073,Gordon Gerson,40,CO,USA,01:08:30,06:51:53,04:34:12,00:08:42,00:06:42,12:49:59
+ironman-wisconsin-20030907.csv,1074,Randy Grimes,40,GA,USA,00:55:43,06:26:01,06:16:30,00:07:39,00:04:56,13:50:49
+ironman-wisconsin-20030907.csv,1075,Jeffrey Haidu,---,IL,USA,01:18:47,06:12:13,05:33:09,00:08:25,00:06:34,13:19:08
+ironman-wisconsin-20030907.csv,1076,Jay Handy,40,MO,USA,01:21:20,---,06:26:39,00:15:32,10:44:47,17:11:26
+ironman-wisconsin-20030907.csv,1077,Jeffrey S. Hanson,---,MN,USA,01:39:31,06:30:36,---,00:08:17,00:07:41,DNF
+ironman-wisconsin-20030907.csv,1078,Mark Hiskes,40,IN,USA,01:02:30,05:42:28,04:14:00,00:07:46,00:03:35,11:10:19
+ironman-wisconsin-20030907.csv,1079,Thomas S. Hooyer,---,WI,USA,01:09:44,05:53:26,04:47:17,00:06:44,00:04:46,12:01:57
+ironman-wisconsin-20030907.csv,1080,John J. Hopkins,---,MI,USA,01:10:01,05:43:06,04:00:18,00:08:22,00:04:25,11:06:12
+ironman-wisconsin-20030907.csv,1081,Jeffrey M. Hovorka,---,IL,USA,01:30:05,06:55:23,06:06:41,00:07:30,00:07:31,14:47:10
+ironman-wisconsin-20030907.csv,1082,Scott L. Johnson,---,WI,USA,00:53:49,06:11:24,04:51:52,00:05:32,00:04:49,12:07:26
+ironman-wisconsin-20030907.csv,1083,Kevin J. Jokisch,---,MO,USA,01:08:49,05:55:18,04:23:25,00:07:38,00:05:00,11:40:10
+ironman-wisconsin-20030907.csv,1084,Kirby J. Koochin,---,BC,CAN,01:07:52,06:22:25,05:02:48,00:09:05,00:07:24,12:49:34
+ironman-wisconsin-20030907.csv,1085,Douglas W. Kroll,---,IL,USA,01:50:33,07:53:21,05:51:16,00:10:49,00:09:47,15:55:46
+ironman-wisconsin-20030907.csv,1086,Doug M. Lamott,---,ID,USA,01:06:04,05:50:41,05:09:36,00:08:37,00:06:37,12:21:35
+ironman-wisconsin-20030907.csv,1087,Dan Lehman,40,NC,USA,01:10:35,05:38:26,06:25:29,00:06:19,00:05:06,13:25:55
+ironman-wisconsin-20030907.csv,1088,Dale R. Lillevold,---,MN,USA,01:26:26,08:03:23,05:47:52,00:11:59,00:08:26,15:38:06
+ironman-wisconsin-20030907.csv,1089,Gregory S. Litwicki,---,MO,USA,01:13:16,06:55:04,05:26:42,00:11:48,00:08:25,13:55:15
+ironman-wisconsin-20030907.csv,1090,Robert Mallin,40,IL,USA,01:16:56,07:17:21,07:19:51,00:14:02,00:15:39,16:23:49
+ironman-wisconsin-20030907.csv,1091,Ken Mckinnon,40,CA,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,1092,Ross Monks,40,NC,USA,00:57:20,06:01:45,06:14:33,00:08:52,00:08:20,13:30:50
+ironman-wisconsin-20030907.csv,1093,Kirk A. Morabito,---,IL,USA,01:25:14,07:10:34,05:44:16,00:10:36,00:11:08,14:41:48
+ironman-wisconsin-20030907.csv,1094,Joe S. Olsen,---,SD,USA,01:12:38,06:29:49,04:54:22,00:09:36,00:08:41,12:55:06
+ironman-wisconsin-20030907.csv,1095,Frederick P. Pappas,---,WI,USA,---,---,---,---,---,DNS
+ironman-wisconsin-20030907.csv,1096,Axel Redemann,40,CA,USA,00:53:41,05:31:52,03:59:46,00:06:17,00:04:03,10:35:39
+ironman-wisconsin-20030907.csv,1097,Alan J. Reinicke,---,WI,USA,01:10:29,06:14:12,04:08:23,00:11:07,00:08:34,11:52:45
+ironman-wisconsin-20030907.csv,1098,Steven W. Rick,---,WI,USA,01:12:41,05:32:50,05:02:24,00:08:15,00:03:17,11:59:27
+ironman-wisconsin-20030907.csv,1099,Jeffry Rozak,40,IL,USA,01:02:12,06:20:29,---,00:08:18,00:07:43,DNF
+ironman-wisconsin-20030907.csv,1100,Joseph B. Ryan,---,NE,USA,01:03:34,07:42:08,06:22:51,00:10:47,00:16:42,15:36:02
+ironman-wisconsin-20030907.csv,1101,Al Sanders,40,IL,USA,01:15:35,06:54:58,05:17:04,00:08:22,00:09:23,13:45:22
+ironman-wisconsin-20030907.csv,1102,Todd Saxton,40,IN,USA,01:10:34,07:24:47,05:44:04,00:21:48,00:16:30,14:57:43
+ironman-wisconsin-20030907.csv,1103,Barry Schliesmann,40,IL,USA,01:08:03,05:31:53,04:12:51,00:05:46,00:02:13,11:00:46
+ironman-wisconsin-20030907.csv,1104,John Schohl,40,AZ,USA,01:28:35,06:56:37,05:36:19,00:10:08,00:08:25,14:20:04
+ironman-wisconsin-20030907.csv,1105,Stephen Schug,---,---,DEU,01:09:21,05:42:39,04:49:34,00:07:09,00:04:15,11:52:58
+ironman-wisconsin-20030907.csv,1106,John R. Shafer,---,NM,USA,01:07:21,05:56:58,05:13:12,00:07:31,00:04:33,12:29:35
+ironman-wisconsin-20030907.csv,1107,Dirk C. Shelley,---,IL,USA,01:18:41,07:19:15,06:29:23,00:10:43,00:09:38,15:27:40
+ironman-wisconsin-20030907.csv,1108,Mike Smith,54,TX,USA,01:28:09,06:54:23,05:10:15,00:09:49,00:08:16,13:50:52
+ironman-wisconsin-20030907.csv,1109,Stephen J. Snyder,40,IL,USA,01:26:17,---,---,00:14:22,---,DNF
+ironman-wisconsin-20030907.csv,1110,Jon J. Stahl,---,AK,USA,00:56:39,05:38:06,03:47:29,00:05:24,00:02:48,10:30:26
+ironman-wisconsin-20030907.csv,1111,Jeff Staten,40,OK,USA,01:07:54,05:46:50,04:19:47,00:08:12,00:05:30,11:28:13
+ironman-wisconsin-20030907.csv,1112,Michael Stell,40,IL,USA,01:18:49,07:03:22,06:16:53,00:12:20,00:14:25,15:05:49
+ironman-wisconsin-20030907.csv,1113,David Nierenberg,---,CO,USA,01:16:43,05:46:00,04:28:31,00:07:34,00:03:56,11:42:44
+ironman-wisconsin-20030907.csv,1114,Gregg E. Szilagyi,---,IL,USA,01:10:24,06:28:18,06:42:40,00:08:06,00:08:55,14:38:23
+ironman-wisconsin-20030907.csv,1115,Keith R. Thompson,---,WI,USA,02:02:43,---,---,00:10:08,---,DNF
+ironman-wisconsin-20030907.csv,1116,Paul Trilling,40,WI,USA,01:48:06,---,---,00:10:55,---,DNF
+ironman-wisconsin-20030907.csv,1117,Jeffrey J. Vanzummeren,---,OH,USA,00:58:03,05:52:27,04:15:34,00:08:02,00:04:28,11:18:34
+ironman-wisconsin-20030907.csv,1118,Roy Voigt,40,IL,USA,01:07:05,06:23:03,05:21:51,00:09:19,00:09:33,13:10:51
+ironman-wisconsin-20030907.csv,1119,Jeff Wandschneider,40,WI,USA,01:01:58,06:17:04,05:06:00,00:10:43,00:07:30,12:43:15
+ironman-wisconsin-20030907.csv,1120,Mark S. Wood,---,AB,CAN,01:08:48,05:45:48,03:41:46,00:07:46,00:05:17,10:49:25
+ironman-wisconsin-20030907.csv,1121,Christopher Raynal,---,---,USA,01:19:05,06:04:22,04:41:26,00:09:53,00:05:48,12:20:34
+ironman-wisconsin-20030907.csv,1122,Mark E. Albedyll,---,WA,USA,01:09:50,06:08:31,06:22:07,00:08:45,00:06:32,13:55:45
+ironman-wisconsin-20030907.csv,1123,Kevin M. Alcock,---,IL,USA,00:57:58,05:40:55,04:50:20,00:06:25,00:02:57,11:38:35
+ironman-wisconsin-20030907.csv,1124,Matthew B. Alschuler,---,IL,USA,01:20:07,07:58:30,05:32:44,00:11:28,00:09:09,15:11:58
+ironman-wisconsin-20030907.csv,1125,Gregory Alverson,---,OH,USA,01:09:22,06:00:57,04:26:35,00:05:52,00:03:07,11:45:53
+ironman-wisconsin-20030907.csv,1126,Paul Barrows,41,NY,USA,01:17:09,07:18:58,06:14:41,00:11:34,00:13:39,15:16:01
+ironman-wisconsin-20030907.csv,1127,Thomas R. Benson,---,MN,USA,01:14:47,05:46:56,04:35:27,00:08:46,00:04:37,11:50:33
+ironman-wisconsin-20030907.csv,1128,Darren G. Berreth,---,AB,CAN,01:04:29,06:08:51,03:57:19,00:05:55,00:04:51,11:21:25
+ironman-wisconsin-20030907.csv,1129,Jeffrey Boigenzahn,41,CO,USA,01:14:34,06:03:15,04:51:27,00:07:35,00:06:50,12:23:41
+ironman-wisconsin-20030907.csv,1130,Steve Boshold,---,IL,USA,01:09:29,06:37:03,04:28:00,00:10:49,00:09:01,12:34:22

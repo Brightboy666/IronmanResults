@@ -1,0 +1,956 @@
+#File=ironman-70.3-phuket-20121202.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-phuket-20121202.csv,1,Chris Mccormack,---,---,AUS,00:25:30,02:18:37,01:17:40,00:01:29,00:01:24,04:04:40
+ironman-70.3-phuket-20121202.csv,2,Chris Lieto,40,CA,USA,00:25:25,02:17:47,01:37:51,00:01:33,00:01:33,04:24:09
+ironman-70.3-phuket-20121202.csv,3,Cameron Brown,40,AUK,NZL,00:27:11,02:41:31,01:26:53,00:01:40,00:01:41,04:38:56
+ironman-70.3-phuket-20121202.csv,4,Massimo Cigana,38,Intl State,ITA,00:29:21,---,---,00:01:37,---,DNF
+ironman-70.3-phuket-20121202.csv,5,Ruedi Wild,30,---,CHE,00:25:06,02:18:57,01:20:15,00:01:39,00:01:20,04:07:17
+ironman-70.3-phuket-20121202.csv,6,Frederik Croneborg,32,---,SWE,00:26:09,02:22:46,01:22:17,00:01:39,00:01:25,04:14:16
+ironman-70.3-phuket-20121202.csv,7,Alejandro Santamaria Perez,35,---,ESP,00:28:38,02:30:13,01:36:23,00:01:20,00:01:22,04:37:56
+ironman-70.3-phuket-20121202.csv,8,Alberto Casadei,26,Intl State,ITA,00:24:48,02:19:00,01:21:10,00:01:45,00:01:23,04:08:06
+ironman-70.3-phuket-20121202.csv,9,Matty White,---,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,10,Justin Granger,41,---,AUS,00:27:48,02:30:30,01:27:34,00:01:49,00:01:33,04:29:14
+ironman-70.3-phuket-20121202.csv,11,Sam Hsieh,27,---,TWN,00:25:02,02:30:20,01:32:44,00:01:44,00:01:18,04:31:08
+ironman-70.3-phuket-20121202.csv,12,Kodo Hiramatsu,32,Tokyo,JPN,00:26:25,02:56:35,01:21:18,00:01:42,00:02:24,04:48:24
+ironman-70.3-phuket-20121202.csv,13,Daiki Masuda,32,KANAGAWA,JPN,00:27:52,02:27:49,01:21:58,00:01:42,00:01:36,04:20:57
+ironman-70.3-phuket-20121202.csv,14,Evgeniy Nikitin,---,---,RUS,00:26:11,02:48:54,---,00:02:15,00:03:03,DNF
+ironman-70.3-phuket-20121202.csv,15,Simon Agoston,35,Surat Thani,THA,00:25:08,02:27:26,01:23:54,00:01:39,00:01:43,04:19:50
+ironman-70.3-phuket-20121202.csv,21,Melissa Hauschildt,---,---,AUS,00:29:50,02:27:27,01:23:23,00:01:33,00:01:17,04:23:30
+ironman-70.3-phuket-20121202.csv,22,Leanda Cave,---,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,23,Radka Vodickova,---,---,CZE,00:26:55,02:34:20,01:27:32,00:01:33,00:01:26,04:31:46
+ironman-70.3-phuket-20121202.csv,24,Tamsin Lewis,33,---,GBR,00:29:10,02:39:42,01:31:14,00:01:40,00:01:07,04:42:53
+ironman-70.3-phuket-20121202.csv,25,Belinda Granger,42,---,AUS,00:28:10,02:35:25,01:34:52,00:01:51,00:01:35,04:41:53
+ironman-70.3-phuket-20121202.csv,26,Kat Baker,25,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,27,Shiao-Yu Li,35,---,TWN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,29,Tim Meyer,---,---,---,00:27:07,02:20:29,01:16:57,00:01:34,00:01:25,04:07:32
+ironman-70.3-phuket-20121202.csv,31,Abdulla Al Shamlan,24,Riffa,BHR,00:49:00,04:13:53,02:45:57,00:05:44,00:06:28,08:01:02
+ironman-70.3-phuket-20121202.csv,32,Nicholas De Bouillane,24,---,THA,00:35:31,02:56:19,01:48:11,00:03:09,00:01:52,05:25:02
+ironman-70.3-phuket-20121202.csv,33,Nicholas Donias,22,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,34,Danny Easterby,24,AB,CAN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,35,Brad Haag,22,OR,USA,00:31:35,02:55:10,01:57:03,00:02:17,00:01:39,05:27:44
+ironman-70.3-phuket-20121202.csv,36,Takashi Iwabuchi,24,Intl State,JPN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,37,Tirapich Jotisuta,---,---,THA,00:50:03,03:55:22,03:26:18,00:06:09,00:04:52,08:22:44
+ironman-70.3-phuket-20121202.csv,38,Genevieve Kelly,23,DC,USA,00:44:19,03:48:40,02:28:06,00:04:41,00:02:32,07:08:18
+ironman-70.3-phuket-20121202.csv,39,Kamil Klamann,24,NY,GBR,00:31:49,03:16:29,02:03:12,00:03:32,00:03:21,05:58:23
+ironman-70.3-phuket-20121202.csv,40,Bertrand Lambelin,24,---,FRA,00:34:50,02:54:23,01:58:54,00:02:52,00:02:20,05:33:19
+ironman-70.3-phuket-20121202.csv,41,Richard Lawrie,22,Eastern Cape,ZAF,00:30:54,02:52:34,01:37:26,00:01:45,00:01:32,05:04:11
+ironman-70.3-phuket-20121202.csv,42,Taigh Marshall,24,---,ZAF,00:32:50,03:05:43,02:27:22,00:03:19,00:03:12,06:12:26
+ironman-70.3-phuket-20121202.csv,43,David Mcclenaghan,23,KwaZulu-Natal,ZAF,00:32:22,02:54:25,02:06:54,00:02:52,00:03:07,05:39:40
+ironman-70.3-phuket-20121202.csv,44,Petr Zinzikor,---,---,THA,00:43:20,03:01:12,02:23:45,00:02:01,00:04:28,06:14:46
+ironman-70.3-phuket-20121202.csv,45,Chanat Phusakul,---,---,THA,00:32:56,03:23:36,02:50:24,00:03:25,00:04:25,06:54:46
+ironman-70.3-phuket-20121202.csv,46,Daryl Purches,23,NSW,AUS,00:31:29,02:28:11,01:41:35,00:02:48,00:01:28,04:45:31
+ironman-70.3-phuket-20121202.csv,47,Javier Salas,21,---,MEX,00:35:36,03:19:10,01:59:40,00:03:10,00:02:49,06:00:25
+ironman-70.3-phuket-20121202.csv,48,Rob Taylor,22,---,AUS,00:33:00,02:37:31,01:43:52,00:02:28,00:01:48,04:58:39
+ironman-70.3-phuket-20121202.csv,49,Will Ward,24,---,SGP,00:38:04,03:01:30,01:58:18,00:06:32,00:03:00,05:47:24
+ironman-70.3-phuket-20121202.csv,50,Yi Wei,24,---,USA,00:50:30,03:16:47,02:12:19,00:05:36,00:02:26,06:27:38
+ironman-70.3-phuket-20121202.csv,51,Kuan Jung Wu,24,---,TWN,00:28:07,02:36:57,01:47:52,00:01:45,00:02:42,04:57:23
+ironman-70.3-phuket-20121202.csv,52,Greg Abbott,28,Lancashire,AUS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,53,Saleh Alduwaisan,29,AL,KWT,00:39:48,03:07:54,02:38:25,00:02:48,00:02:10,06:31:05
+ironman-70.3-phuket-20121202.csv,54,Fahad Alhasan,28,Manama,BHR,00:52:52,04:11:18,02:45:50,00:06:05,00:06:58,08:03:03
+ironman-70.3-phuket-20121202.csv,55,Sulaiman Khalid Almukhaizeem,---,---,KWT,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,56,Rohan Anand,28,---,IND,00:43:30,03:05:09,01:59:01,00:04:37,00:03:53,05:56:10
+ironman-70.3-phuket-20121202.csv,57,Dheepesh Bhatt,29,---,IND,00:39:11,04:01:55,02:38:28,00:06:43,00:08:49,07:35:06
+ironman-70.3-phuket-20121202.csv,58,Mohammad Nasruddin Bin Suandy,28,---,SGP,00:41:10,02:55:52,01:52:25,00:02:44,00:02:26,05:34:37
+ironman-70.3-phuket-20121202.csv,59,Husain Bushehri,29,Mubarak Al-Kabeer,KWT,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,60,Nick Carling,27,QLD,AUS,00:37:50,02:35:11,01:28:43,00:02:13,00:01:29,04:45:26
+ironman-70.3-phuket-20121202.csv,61,Joanna Carman,29,---,AUS,00:30:38,02:50:34,01:39:43,00:01:51,00:01:10,05:03:56
+ironman-70.3-phuket-20121202.csv,62,Matt Carman,28,SA,AUS,00:32:36,02:35:33,01:39:22,00:01:58,00:01:30,04:50:59
+ironman-70.3-phuket-20121202.csv,63,Jean Christophe Cavanna,25,---,SGP,00:33:35,02:41:24,01:34:21,00:02:24,00:01:27,04:53:11
+ironman-70.3-phuket-20121202.csv,64,Mark Ee Yu Cheong,29,---,MYS,00:42:15,02:56:21,02:21:22,00:02:13,00:01:50,06:04:01
+ironman-70.3-phuket-20121202.csv,65,David Clary,26,AP,USA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,66,Arno Cronje,28,---,ZAF,00:31:57,02:55:56,02:15:13,00:04:57,00:03:35,05:51:38
+ironman-70.3-phuket-20121202.csv,67,Nasirudin Daud,27,---,SGP,00:44:01,02:59:27,02:09:10,00:03:08,00:03:43,05:59:29
+ironman-70.3-phuket-20121202.csv,68,Chungking Fang,27,TW,TWN,00:40:59,02:41:45,02:04:23,00:02:32,00:02:06,05:31:45
+ironman-70.3-phuket-20121202.csv,69,Grzegorz Florkow,29,---,THA,00:40:53,03:01:07,01:50:22,00:03:33,00:02:30,05:38:25
+ironman-70.3-phuket-20121202.csv,70,Gabriele Frascona,28,Italia,ITA,00:43:16,02:37:19,01:46:21,00:02:38,00:02:25,05:11:59
+ironman-70.3-phuket-20121202.csv,71,Yuta Funamoto,29,大阪府,JPN,00:39:06,02:50:58,01:55:45,00:03:11,00:03:07,05:32:07
+ironman-70.3-phuket-20121202.csv,72,Jeffrey Gloger,29,QLD,AUS,00:34:18,02:45:40,01:48:53,00:03:15,00:02:28,05:14:34
+ironman-70.3-phuket-20121202.csv,73,Jack Greenwood,27,---,HKG,00:30:45,02:47:42,01:56:59,00:02:38,00:01:44,05:19:48
+ironman-70.3-phuket-20121202.csv,74,Hunter Grunden,28,AP,USA,00:40:36,02:56:41,01:53:58,00:03:24,00:02:42,05:37:21
+ironman-70.3-phuket-20121202.csv,75,Haszaidi Hassan,26,---,MYS,01:02:47,03:16:32,02:33:44,00:04:26,00:04:20,07:01:49
+ironman-70.3-phuket-20121202.csv,76,Anwar Jawhar,26,---,KWT,00:34:33,02:43:44,01:43:48,00:01:43,00:02:14,05:06:02
+ironman-70.3-phuket-20121202.csv,77,David Johnson,29,AP,USA,00:41:04,03:49:38,03:35:51,00:05:17,00:04:44,08:16:34
+ironman-70.3-phuket-20121202.csv,78,Konstantin J. Karnaukhov,---,Stary Oskol,RUS,00:52:49,03:47:12,02:24:29,00:06:30,00:02:12,07:13:12
+ironman-70.3-phuket-20121202.csv,79,Pan Seng Kha Khrang,27,WIL,MYS,00:38:50,03:08:23,02:17:56,00:02:27,00:02:44,06:10:20
+ironman-70.3-phuket-20121202.csv,80,Sandhosh Kumar,29,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,81,Scott Lampshire,26,SA,AUS,00:31:40,02:38:31,01:45:13,00:02:00,00:02:15,04:59:39
+ironman-70.3-phuket-20121202.csv,82,Boris Lipatov,26,---,RUS,---,03:57:10,02:11:54,00:59:20,00:05:58,07:14:22
+ironman-70.3-phuket-20121202.csv,83,Kuang Wu Liu,27,---,TWN,00:38:50,02:43:57,02:04:10,00:02:32,00:02:16,05:31:45
+ironman-70.3-phuket-20121202.csv,84,Chang Liu,29,Beijing,CHN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,85,Andrew Macrae,26,Durham,GBR,00:32:52,02:34:32,02:12:20,00:01:33,00:01:49,05:23:06
+ironman-70.3-phuket-20121202.csv,86,Luke Martin,29,NSW,AUS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,87,Ben Ferris,29,---,AUS,00:33:20,02:32:07,01:33:17,00:02:14,00:01:34,04:42:32
+ironman-70.3-phuket-20121202.csv,88,Clinton Millar,29,QLD,AUS,00:34:17,02:45:21,01:50:39,00:02:26,00:01:49,05:14:32
+ironman-70.3-phuket-20121202.csv,89,Guy Moore,28,---,CHN,00:37:07,03:10:01,02:09:09,00:04:08,00:04:54,06:05:19
+ironman-70.3-phuket-20121202.csv,90,Matt Morris,26,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,91,Phillip Nguyen,28,Ho Chi Minh City,VNM,---,04:20:37,02:48:14,01:13:39,00:04:07,08:26:37
+ironman-70.3-phuket-20121202.csv,92,Matt Novak,28,MO,THA,00:30:24,---,---,00:02:47,---,DNF
+ironman-70.3-phuket-20121202.csv,93,Ooi Matt,29,VIC,AUS,00:35:28,03:00:43,02:17:42,00:02:26,00:01:49,05:58:08
+ironman-70.3-phuket-20121202.csv,94,Matthew Edward Park,---,VIC,AUS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,95,Jeremy Peh,26,---,SGP,00:41:43,03:22:02,02:34:43,00:03:37,00:03:07,06:45:12
+ironman-70.3-phuket-20121202.csv,96,Joseph Pellatt,---,---,THA,00:43:53,04:10:12,02:51:51,00:05:28,00:03:00,07:54:24
+ironman-70.3-phuket-20121202.csv,97,Chanuan Phusakul,---,---,THA,00:31:23,03:32:53,03:15:28,00:03:20,00:03:04,07:26:08
+ironman-70.3-phuket-20121202.csv,98,Werner Pienaar,25,---,AUS,00:43:55,---,01:04:05,00:04:43,05:13:56,06:18:01
+ironman-70.3-phuket-20121202.csv,99,Vaudran Pierre,---,Phnom Penh,KHM,00:37:05,03:02:47,02:08:41,00:04:42,00:04:03,05:57:18
+ironman-70.3-phuket-20121202.csv,100,Grant Preddy,25,ACT,AUS,00:32:23,02:51:38,01:44:43,00:02:24,00:01:34,05:12:42
+ironman-70.3-phuket-20121202.csv,101,Haojun Qiu,28,---,CHN,00:39:12,03:17:22,02:45:55,00:03:14,00:03:24,06:49:07
+ironman-70.3-phuket-20121202.csv,102,Luke Searson,29,---,ZAF,00:36:51,02:55:55,02:07:32,00:04:39,00:02:36,05:47:33
+ironman-70.3-phuket-20121202.csv,103,Faris Siddek,29,---,SGP,00:43:50,03:17:46,02:44:44,00:03:04,00:03:28,06:52:52
+ironman-70.3-phuket-20121202.csv,104,HAMRITPAL SINGH SIDHU,25,Singapore,SGP,00:55:01,04:11:38,02:51:06,00:07:12,00:10:03,08:15:00
+ironman-70.3-phuket-20121202.csv,105,Aaron Siwoku,29,---,THA,00:30:49,03:00:40,02:09:56,00:02:18,00:01:38,05:45:21
+ironman-70.3-phuket-20121202.csv,106,Muhammad Arib,29,---,SGP,00:57:03,03:39:59,02:41:00,00:07:05,00:04:41,07:29:48
+ironman-70.3-phuket-20121202.csv,107,Ting Huang-Lin,27,TW,TWN,00:44:11,02:51:03,01:51:58,00:02:09,00:02:24,05:31:45
+ironman-70.3-phuket-20121202.csv,108,Cristiano Todaro,---,---,ITA,00:42:05,02:38:37,01:41:38,00:01:43,00:01:21,05:05:24
+ironman-70.3-phuket-20121202.csv,109,Leonid Tokmantsev,28,Sverdlovskaya oblast,RUS,00:36:38,02:50:15,01:34:21,00:03:13,00:03:08,05:07:35
+ironman-70.3-phuket-20121202.csv,110,Shang-Yang Tsou,29,---,TWN,00:35:11,03:07:55,02:47:39,00:02:52,00:05:50,06:39:27
+ironman-70.3-phuket-20121202.csv,111,Lauren Upton,26,---,ZAF,00:34:57,03:23:18,02:15:12,00:03:47,00:02:29,06:19:43
+ironman-70.3-phuket-20121202.csv,112,Christopher Vadas,29,QLD,AUS,00:32:34,02:40:21,01:31:29,00:02:21,00:01:30,04:48:15
+ironman-70.3-phuket-20121202.csv,113,Vivek Vashishta,27,---,IND,00:43:28,03:14:36,02:35:14,00:04:29,00:04:42,06:42:29
+ironman-70.3-phuket-20121202.csv,114,Daniel Ralph Wecke,28,---,IDN,00:49:17,03:29:39,02:18:15,00:07:21,00:07:01,06:51:33
+ironman-70.3-phuket-20121202.csv,115,Lancelot Wong,29,CA,USA,00:47:36,03:29:25,02:57:48,00:09:04,00:05:48,07:29:41
+ironman-70.3-phuket-20121202.csv,116,Wang Xiaolong,29,---,CHN,00:47:27,---,---,00:03:51,03:14:52,DNF
+ironman-70.3-phuket-20121202.csv,117,Shinsuke Yamamoto,29,---,SGP,00:46:15,03:22:52,02:21:26,00:08:14,00:05:24,06:44:11
+ironman-70.3-phuket-20121202.csv,118,Jacob Yeoh,27,---,MYS,00:39:32,03:03:36,01:52:27,00:03:12,00:02:15,05:41:02
+ironman-70.3-phuket-20121202.csv,119,Shahrom Abdullah,33,---,MYS,00:36:57,02:35:42,01:43:09,00:02:40,00:02:21,05:00:49
+ironman-70.3-phuket-20121202.csv,120,Sager Al Khalifa,32,Riffa,BHR,00:36:53,03:01:31,02:22:14,00:03:07,00:02:15,06:06:00
+ironman-70.3-phuket-20121202.csv,121,Tariq Algosaibi,32,---,BHR,00:39:03,03:18:19,02:03:48,00:04:39,00:04:05,06:09:54
+ironman-70.3-phuket-20121202.csv,122,Abdulmohsen Algosaibi,30,---,BHR,00:44:40,03:23:48,02:17:21,00:06:08,00:04:33,06:36:30
+ironman-70.3-phuket-20121202.csv,123,Zaid Almutawa,---,---,KWT,00:40:38,02:58:39,02:21:14,00:03:55,00:02:08,06:06:34
+ironman-70.3-phuket-20121202.csv,124,Tariq Amin,30,Manama,BHR,00:37:30,03:31:38,02:38:30,00:03:41,00:06:25,06:57:44
+ironman-70.3-phuket-20121202.csv,125,Aj Anderson,32,---,THA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,126,Robyn Baguley,30,---,AUS,00:39:51,03:26:41,02:12:15,00:04:40,00:04:43,06:28:10
+ironman-70.3-phuket-20121202.csv,127,Erica Bearss,34,BC,CAN,00:50:24,04:01:25,02:35:45,00:07:22,00:11:50,07:46:46
+ironman-70.3-phuket-20121202.csv,128,Maximilian Beilharz,32,DXB,ARE,00:42:01,02:49:43,---,00:03:20,00:03:10,DNF
+ironman-70.3-phuket-20121202.csv,129,Antoine Berte,32,---,TWN,00:36:08,02:44:10,01:46:04,00:04:21,00:02:05,05:12:48
+ironman-70.3-phuket-20121202.csv,130,Bachir Binebine,32,London,SGP,00:44:49,03:27:18,02:56:34,00:06:04,00:03:33,07:18:18
+ironman-70.3-phuket-20121202.csv,131,Simon Bisbo,33,---,CHN,00:44:59,03:19:41,02:35:07,00:05:55,00:05:18,06:51:00
+ironman-70.3-phuket-20121202.csv,132,Erik Bohm,33,---,NLD,00:34:27,02:37:49,01:35:36,00:01:57,00:02:42,04:52:31
+ironman-70.3-phuket-20121202.csv,133,Christian Bohrer,32,---,DEU,00:33:45,03:00:33,02:08:37,00:03:21,00:04:32,05:50:48
+ironman-70.3-phuket-20121202.csv,134,Miguel Bonte,32,---,HKG,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,135,Thomas Bord,30,---,HKG,00:39:52,02:51:52,01:47:18,00:04:55,00:02:59,05:26:56
+ironman-70.3-phuket-20121202.csv,136,Mohamed Bouzoubaa,30,---,SGP,00:45:52,03:53:00,02:18:41,00:06:37,00:03:14,07:07:24
+ironman-70.3-phuket-20121202.csv,137,Dane Cantwell,33,Pok Fu Lam,HKG,00:28:14,02:31:12,01:42:33,00:01:50,00:01:19,04:45:08
+ironman-70.3-phuket-20121202.csv,138,John Cattrall,31,---,THA,00:38:30,03:02:52,03:43:39,00:04:42,00:10:03,07:39:46
+ironman-70.3-phuket-20121202.csv,139,Prawit Chaivong,32,OI,THA,00:50:53,03:31:43,02:43:18,00:06:15,00:03:09,07:15:18
+ironman-70.3-phuket-20121202.csv,140,Da Jie Cheng,34,---,CHN,00:35:02,02:57:11,01:39:41,00:02:32,00:01:20,05:15:46
+ironman-70.3-phuket-20121202.csv,141,Frederik Croneborg,32,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,142,Hadleigh Crysell,31,---,CHN,00:35:54,---,---,00:04:05,---,DNF
+ironman-70.3-phuket-20121202.csv,143,Matthew Davies,33,RCT,GBR,00:32:40,02:34:04,01:30:06,00:02:44,00:01:44,04:41:18
+ironman-70.3-phuket-20121202.csv,144,Carlo Thomas De Leon,31,Metro Manila,PHL,00:41:41,03:13:49,02:39:28,00:03:30,00:04:42,06:43:10
+ironman-70.3-phuket-20121202.csv,145,Michael Deiderich,33,AP,USA,00:45:24,02:58:15,02:05:25,00:04:27,00:03:34,05:57:05
+ironman-70.3-phuket-20121202.csv,146,Eduardo Diaz Sancha,---,---,KHM,00:31:58,03:03:37,02:02:54,00:03:12,00:01:41,05:43:22
+ironman-70.3-phuket-20121202.csv,147,Andrej Dobes,38,---,SGP,00:39:22,03:39:55,---,00:10:19,00:18:25,DNF
+ironman-70.3-phuket-20121202.csv,148,Soratat Dusitrojanawong,32,---,THA,00:42:21,03:23:27,02:56:11,00:05:47,00:04:50,07:12:36
+ironman-70.3-phuket-20121202.csv,149,Spencer Edwards,33,WA,THA,00:42:57,03:31:51,02:54:58,00:05:42,00:04:59,07:20:27
+ironman-70.3-phuket-20121202.csv,150,Charlie Elliott,32,London,QAT,00:32:42,02:40:01,01:24:42,00:01:59,00:01:34,04:40:58
+ironman-70.3-phuket-20121202.csv,151,Dominik K. Erne,31,CH,CHE,00:48:12,03:09:14,01:54:50,00:05:42,00:02:52,06:00:50
+ironman-70.3-phuket-20121202.csv,152,Damon Fenner,33,---,SGP,00:45:12,03:05:28,01:40:39,00:05:34,00:02:57,05:39:50
+ironman-70.3-phuket-20121202.csv,153,David Finnegan,31,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,154,Florent Fordos,31,---,CHN,00:42:35,02:54:15,02:19:01,00:04:01,00:03:11,06:03:03
+ironman-70.3-phuket-20121202.csv,155,George Galindo,32,AZ,USA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,156,Scott Gerrie,33,---,AUS,00:35:27,03:02:16,---,00:03:23,00:02:47,DNF
+ironman-70.3-phuket-20121202.csv,157,Ben Greenfield,30,WA,USA,00:30:41,02:30:14,01:28:18,00:01:26,00:01:11,04:31:50
+ironman-70.3-phuket-20121202.csv,158,James Hayward,33,---,ARE,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,159,Simon Hempel,33,---,HKG,00:41:51,02:55:39,02:07:15,00:03:24,00:02:47,05:50:56
+ironman-70.3-phuket-20121202.csv,160,Jeremy Hill,33,NSW,AUS,00:37:45,02:40:23,01:46:53,00:03:05,00:01:57,05:10:03
+ironman-70.3-phuket-20121202.csv,161,Anthony Holdsworth,31,--------,GBR,00:36:08,02:49:52,02:03:57,00:05:20,00:03:34,05:38:51
+ironman-70.3-phuket-20121202.csv,162,Bi-Jen Hsueh,33,---,TWN,00:46:36,03:47:25,03:31:54,00:05:18,00:03:08,08:14:21
+ironman-70.3-phuket-20121202.csv,163,Nick Hutchings,---,---,GBR,00:44:46,03:29:05,02:03:09,00:04:46,00:03:20,06:25:06
+ironman-70.3-phuket-20121202.csv,164,Gareth Ingham,33,---,HKG,00:39:55,03:02:59,02:27:13,00:05:13,00:04:18,06:19:38
+ironman-70.3-phuket-20121202.csv,165,Daisuke Iwai,31,Other,JPN,01:02:07,03:45:17,02:47:48,00:03:21,00:03:16,07:41:49
+ironman-70.3-phuket-20121202.csv,166,Cordell Jacks,32,Manitoba,KHM,00:36:44,03:16:49,---,00:04:30,00:04:29,DNF
+ironman-70.3-phuket-20121202.csv,167,Simon Jackson,32,NSW,AUS,00:41:40,02:57:41,02:14:47,00:04:09,00:03:45,06:02:02
+ironman-70.3-phuket-20121202.csv,168,Jaray Jearanai,---,Phuket,THA,00:31:43,02:35:53,01:26:01,00:01:52,00:01:31,04:37:00
+ironman-70.3-phuket-20121202.csv,169,Marcin Jekot,34,Gauteng,ZAF,00:35:38,02:48:21,02:18:01,00:03:26,00:10:35,05:56:01
+ironman-70.3-phuket-20121202.csv,170,Rogan Jenkin,30,Gauteng,ZAF,00:37:34,02:44:24,01:43:12,00:03:31,00:02:25,05:11:06
+ironman-70.3-phuket-20121202.csv,171,Christian Johansen,31,Fujian,CHN,00:39:11,03:06:37,02:27:42,00:05:06,00:03:14,06:21:50
+ironman-70.3-phuket-20121202.csv,172,Travis Johnston,33,NSW,AUS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,173,Simon Jones,31,Doha,QAT,00:34:05,03:10:42,01:56:25,00:05:01,00:03:22,05:49:35
+ironman-70.3-phuket-20121202.csv,174,Noorhakem Kamil,33,---,SGP,00:46:13,03:09:36,02:45:42,00:03:33,00:06:14,06:51:18
+ironman-70.3-phuket-20121202.csv,175,Alan Kenny,32,Tipperary,THA,00:36:06,02:31:33,01:18:52,00:01:54,00:01:22,04:29:47
+ironman-70.3-phuket-20121202.csv,176,Kamontat Korkeaw,---,---,THA,00:46:38,03:13:43,---,00:04:07,00:02:52,DNF
+ironman-70.3-phuket-20121202.csv,177,Albert Kruger,30,---,ZAF,00:50:14,---,02:22:44,00:09:24,05:13:56,07:36:40
+ironman-70.3-phuket-20121202.csv,178,Jason Lammers,31,---,ZAF,00:34:10,02:59:05,02:12:11,00:04:37,00:05:58,05:56:01
+ironman-70.3-phuket-20121202.csv,179,Brian Lassiter,30,AP,USA,00:52:47,03:31:19,02:11:56,00:06:45,00:03:58,06:46:45
+ironman-70.3-phuket-20121202.csv,180,Mohd Ridzwan Leman,---,SINGAPORE,SGP,00:49:15,03:28:07,02:17:07,00:03:07,00:03:16,06:40:52
+ironman-70.3-phuket-20121202.csv,181,Jovi Lo,32,---,TWN,00:36:28,03:07:14,02:45:33,00:02:43,00:04:27,06:36:25
+ironman-70.3-phuket-20121202.csv,182,Steve Loh,33,SG,SGP,00:48:07,03:02:00,02:29:34,00:04:05,00:04:03,06:27:49
+ironman-70.3-phuket-20121202.csv,183,Jacques Lubbe,30,---,ZAF,00:39:02,03:25:00,02:32:37,00:07:28,00:05:30,06:49:37
+ironman-70.3-phuket-20121202.csv,184,Phillip Maskiewicz,34,CA,USA,00:31:21,---,---,00:02:16,---,DNF
+ironman-70.3-phuket-20121202.csv,185,Richard Mcdowell,33,---,GBR,00:41:35,02:35:31,01:32:16,00:02:49,00:01:35,04:53:46
+ironman-70.3-phuket-20121202.csv,186,Md Ismael Md Samid,31,---,BRN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,187,Trent Mears,31,QLD,VNM,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,188,Adrian Mewse,32,---,CHE,00:31:59,03:00:27,01:50:54,00:03:17,00:02:38,05:29:15
+ironman-70.3-phuket-20121202.csv,189,Michihiro Mogi,33,ISH,THA,00:44:21,03:09:00,02:35:07,00:05:39,00:03:20,06:37:27
+ironman-70.3-phuket-20121202.csv,190,Matthew Morgan,34,Gauteng,ZAF,00:43:03,03:00:32,02:26:27,00:05:20,00:03:07,06:18:29
+ironman-70.3-phuket-20121202.csv,191,Gerd Muetze,32,---,DEU,00:39:43,02:52:04,02:05:49,00:03:21,00:03:32,05:44:29
+ironman-70.3-phuket-20121202.csv,192,Markus Neumann,---,---,DEU,00:36:29,02:48:15,01:42:46,00:03:10,00:02:02,05:12:42
+ironman-70.3-phuket-20121202.csv,193,Huy Nguyen-Tuong,34,---,ARE,00:44:51,03:15:09,02:21:09,00:05:32,00:03:33,06:30:14
+ironman-70.3-phuket-20121202.csv,194,Matthew Nunn,30,Selangor,MYS,00:43:10,03:20:48,02:21:24,00:03:45,00:02:52,06:31:59
+ironman-70.3-phuket-20121202.csv,195,Michael Odachowski,33,---,AUS,00:50:19,03:19:33,02:25:15,00:05:42,00:05:11,06:46:00
+ironman-70.3-phuket-20121202.csv,196,Mohamad Adnan Omar,34,Brunei Muara,BRN,00:44:49,03:51:31,02:24:02,00:05:04,00:04:16,07:09:42
+ironman-70.3-phuket-20121202.csv,197,James Ong,33,---,MYS,00:46:41,02:58:27,02:58:22,00:04:18,00:05:27,06:53:15
+ironman-70.3-phuket-20121202.csv,198,Jared Owen,30,AP,JPN,00:50:44,03:17:05,02:22:11,00:05:31,00:06:13,06:41:44
+ironman-70.3-phuket-20121202.csv,199,Ryan Peter Palazzi,---,hamilton island,AUS,00:26:50,02:40:15,01:38:11,00:01:56,00:02:12,04:49:24
+ironman-70.3-phuket-20121202.csv,200,Anan Panphuech,---,Bangkok,THA,00:46:30,03:10:41,02:06:40,00:02:54,00:01:44,06:08:29
+ironman-70.3-phuket-20121202.csv,201,Suradech Pattanakiatichai,34,---,THA,00:49:38,02:52:56,02:35:09,00:06:26,00:02:40,06:26:49
+ironman-70.3-phuket-20121202.csv,202,Patrik Pizzali,32,---,SGP,00:39:37,03:10:27,02:07:23,00:05:39,00:02:42,06:05:48
+ironman-70.3-phuket-20121202.csv,203,Joshua Rapp,30,NY,USA,00:38:26,02:41:20,01:29:09,00:02:31,00:01:57,04:53:23
+ironman-70.3-phuket-20121202.csv,204,Bashar Rashdan,33,bahrain,BHR,00:54:17,03:23:52,02:58:16,00:07:19,00:04:49,07:28:33
+ironman-70.3-phuket-20121202.csv,205,Jeffrey Reece,32,TX,CHN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,206,Alexandre Reinert,31,Other,HKG,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,207,Marko Ristic,33,Other,SRB,00:40:15,03:01:26,02:51:40,00:04:43,00:06:00,06:44:04
+ironman-70.3-phuket-20121202.csv,208,Italo Esselin Filho,31,GOIAS,BRA,00:27:29,02:41:47,01:36:19,00:02:26,00:01:43,04:49:44
+ironman-70.3-phuket-20121202.csv,209,Paul Robinson,34,-,THA,00:34:25,02:41:43,01:50:31,00:02:35,00:04:29,05:13:43
+ironman-70.3-phuket-20121202.csv,210,Ernest Roda,33,SG,THA,00:36:21,03:00:50,02:30:34,00:04:26,00:04:35,06:16:46
+ironman-70.3-phuket-20121202.csv,211,Antonio Rodriguez Castellanos,34,---,ESP,00:36:47,02:56:10,01:53:36,00:03:47,00:02:55,05:33:15
+ironman-70.3-phuket-20121202.csv,212,Fran Romero,33,---,THA,00:45:33,02:57:09,02:01:11,00:04:41,00:02:04,05:50:38
+ironman-70.3-phuket-20121202.csv,213,Paul Rosenberg,33,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,214,Amit Samarth,32,Maharashtra,IND,00:58:02,02:59:13,01:45:45,00:03:27,00:03:45,05:50:12
+ironman-70.3-phuket-20121202.csv,215,Nathan Sandford,32,QLD,AUS,00:35:29,02:43:35,01:35:33,00:03:03,00:01:50,04:59:30
+ironman-70.3-phuket-20121202.csv,216,Glen Scholz,34,NT,AUS,00:37:47,02:50:17,02:02:53,00:02:01,00:02:00,05:34:58
+ironman-70.3-phuket-20121202.csv,217,Ryan Shephard,32,---,AUS,00:41:17,03:00:24,01:46:08,00:03:22,00:02:10,05:33:21
+ironman-70.3-phuket-20121202.csv,218,Geoff Simmons,34,NC,USA,00:35:24,02:56:12,02:05:38,00:03:27,00:03:13,05:43:54
+ironman-70.3-phuket-20121202.csv,219,Eric Sjoberg,34,VA,USA,00:47:01,03:14:14,02:14:15,00:08:52,00:03:30,06:27:52
+ironman-70.3-phuket-20121202.csv,220,Brett Smyth,31,---,ARE,00:35:07,02:58:11,01:59:39,00:03:17,00:02:34,05:38:48
+ironman-70.3-phuket-20121202.csv,221,Lucas Spargo,31,VIC,AUS,00:27:56,02:31:52,01:36:41,00:01:53,00:01:30,04:39:52
+ironman-70.3-phuket-20121202.csv,222,Khom Srirach,30,---,THA,00:40:11,02:56:55,02:27:37,00:04:05,00:03:09,06:11:57
+ironman-70.3-phuket-20121202.csv,223,Luke Staddon,33,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,224,Andreas Starl,32,DE,DEU,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,225,Callum Starr,30,---,AUS,00:52:34,03:58:19,03:17:22,00:08:51,00:09:31,08:26:37
+ironman-70.3-phuket-20121202.csv,226,Ming Jen Su,30,---,TWN,00:44:52,03:25:21,02:41:25,00:04:43,00:04:39,07:01:00
+ironman-70.3-phuket-20121202.csv,227,Jed Sundwall,34,CA,USA,00:39:01,03:43:16,02:23:38,00:08:22,00:09:45,07:04:02
+ironman-70.3-phuket-20121202.csv,228,Paul Tadini,31,Italy (IT),ITA,00:36:34,02:51:26,01:52:25,00:03:08,00:02:13,05:25:46
+ironman-70.3-phuket-20121202.csv,229,Natchanan Thanacholvilai,---,Bangkok,THA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,230,Yves Tomballe,32,---,SGP,00:42:51,03:11:56,01:55:50,00:04:33,00:02:42,05:57:52
+ironman-70.3-phuket-20121202.csv,231,Daniel Van Zyl,32,---,ARE,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,232,Martin Thomas Veale,---,---,GBR,00:41:21,02:44:13,01:43:47,00:03:22,00:01:47,05:14:30
+ironman-70.3-phuket-20121202.csv,233,Iain Veitch,30,---,HKG,00:30:49,02:29:25,01:32:46,00:01:53,00:01:02,04:35:55
+ironman-70.3-phuket-20121202.csv,234,Lloyd Wallace,32,---,THA,00:32:54,03:29:53,02:20:09,00:04:27,00:03:00,06:30:23
+ironman-70.3-phuket-20121202.csv,235,Roy Wallace,31,WA,AUS,00:43:19,03:07:24,02:11:00,00:06:04,00:03:18,06:11:05
+ironman-70.3-phuket-20121202.csv,236,Marcus Westling,34,N/A,SGP,00:45:20,03:19:49,02:46:55,00:04:37,00:04:00,07:00:41
+ironman-70.3-phuket-20121202.csv,237,Andy Wibowo,32,"DenpasarBali
+Bali",IDN,00:26:42,---,---,00:02:22,---,DNF
+ironman-70.3-phuket-20121202.csv,238,Florian Wimmer,31,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,239,Troy Wright,34,QLD,AUS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,240,Alex Xu,34,---,SGP,00:42:19,03:27:33,02:52:52,00:05:40,00:06:13,07:14:37
+ironman-70.3-phuket-20121202.csv,241,Bradley Young,33,HCM,VNM,00:48:34,---,02:03:41,00:11:46,05:18:41,07:22:22
+ironman-70.3-phuket-20121202.csv,242,Youns El Khalifa,33,---,FRA,00:44:06,03:52:00,02:34:06,00:07:27,00:09:07,07:26:46
+ironman-70.3-phuket-20121202.csv,243,Daniel Abelarde,39,---,PHL,00:51:38,03:29:55,03:25:49,00:03:40,00:04:54,07:55:56
+ironman-70.3-phuket-20121202.csv,244,Pascal Aeschilimann,39,---,SGP,00:44:55,02:54:00,01:54:22,00:04:36,00:02:31,05:40:24
+ironman-70.3-phuket-20121202.csv,245,Albert Altanya,35,jakarta,IDN,00:45:15,---,---,---,---,DNF
+ironman-70.3-phuket-20121202.csv,246,Oscar Antonio,37,CA,USA,00:43:58,03:42:44,02:15:56,00:10:00,00:05:15,06:57:53
+ironman-70.3-phuket-20121202.csv,247,Gennady Atroshchenko,35,---,DNK,00:38:18,02:53:28,01:54:05,00:03:12,00:02:33,05:31:36
+ironman-70.3-phuket-20121202.csv,248,Avnish Bajaj,37,---,THA,00:43:29,03:31:36,02:56:55,00:04:00,00:03:07,07:19:07
+ironman-70.3-phuket-20121202.csv,249,Augusto Banusing,39,iloilo,PHL,00:51:25,03:31:32,03:09:27,00:04:04,00:02:56,07:39:24
+ironman-70.3-phuket-20121202.csv,250,Andreas Behrens,39,---,SGP,00:37:46,02:56:29,02:19:55,00:03:00,00:03:18,06:00:28
+ironman-70.3-phuket-20121202.csv,251,Matthias Berger,35,---,THA,00:36:32,02:49:57,02:04:44,00:03:43,00:02:33,05:37:29
+ironman-70.3-phuket-20121202.csv,252,Adrian Berry,35,---,GBR,00:36:56,02:40:03,01:33:55,00:02:47,00:02:35,04:56:16
+ironman-70.3-phuket-20121202.csv,253,Jasmine Brawn,35,---,ARE,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,254,Charles Breen,36,Tokyo,JPN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,255,Lee Buckerfield,37,---,SGP,00:46:06,03:31:32,02:28:11,00:04:44,00:02:52,06:53:25
+ironman-70.3-phuket-20121202.csv,256,Robert Bueckel,---,---,DEU,00:48:26,03:10:42,02:32:28,00:05:17,00:03:39,06:40:32
+ironman-70.3-phuket-20121202.csv,257,Mr.Bunjong Buranathawornsom,38,none,THA,00:49:31,03:24:48,02:24:33,00:07:05,00:05:50,06:51:47
+ironman-70.3-phuket-20121202.csv,258,Jamie Campbell,---,---,SGP,00:29:28,04:40:45,---,00:02:50,---,DNF
+ironman-70.3-phuket-20121202.csv,259,David Cervantes,35,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,260,Jakub Charaszkiewicz,35,Intl State,POL,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,261,Matthew Clugston,36,TX,SGP,00:39:06,03:08:46,02:37:23,00:03:59,00:03:32,06:32:46
+ironman-70.3-phuket-20121202.csv,262,Andy Cole,38,Beijing,CHN,00:49:19,02:49:02,02:10:08,00:08:15,00:04:30,06:01:14
+ironman-70.3-phuket-20121202.csv,263,Nicholas Cox,38,CH,LAO,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,264,Filipe Da Lomba,36,Gauteng,ZAF,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,265,Simon Vincent Donato,7,---,CAN,00:41:52,02:48:26,01:45:51,00:04:45,00:02:22,05:23:16
+ironman-70.3-phuket-20121202.csv,266,Etienne Faure,38,Other,SGP,00:37:48,02:49:26,01:44:39,00:02:49,00:02:05,05:16:47
+ironman-70.3-phuket-20121202.csv,267,Jarand Fjeld,37,---,MYS,00:40:41,02:36:31,01:50:17,00:03:09,00:03:01,05:13:39
+ironman-70.3-phuket-20121202.csv,268,Fredrik Forsberg,36,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,269,Graeme Fox,35,Gauteng,ZAF,00:42:22,03:16:13,03:25:56,00:06:29,00:06:29,07:37:29
+ironman-70.3-phuket-20121202.csv,270,Frederic Le Carnec,36,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,271,Nick Froude,35,---,SGP,00:38:10,03:21:01,---,00:03:56,00:03:30,DNF
+ironman-70.3-phuket-20121202.csv,272,Te-Shen Gan,35,---,MYS,00:40:39,03:40:37,02:19:45,00:06:24,00:03:02,06:50:27
+ironman-70.3-phuket-20121202.csv,273,Martin Giacchetta,35,---,ESP,00:30:45,02:49:26,02:01:28,00:02:13,00:06:59,05:30:51
+ironman-70.3-phuket-20121202.csv,274,Adrian Glättli,39,---,CHE,00:37:58,02:41:00,01:51:29,00:02:23,00:02:20,05:15:10
+ironman-70.3-phuket-20121202.csv,275,Antoine Goncalves,37,---,FRA,00:43:23,03:21:56,02:27:17,00:06:09,00:03:09,06:41:54
+ironman-70.3-phuket-20121202.csv,276,Christopher Grover,36,---,SGP,00:48:30,03:00:59,02:14:14,00:02:55,00:03:23,06:10:01
+ironman-70.3-phuket-20121202.csv,277,Wolfgang Gruber,36,DE,DEU,00:38:09,02:56:26,02:45:20,00:02:13,00:03:09,06:25:17
+ironman-70.3-phuket-20121202.csv,278,Alistair Haigh-Smith,38,---,HKG,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,279,zulkifle hassan,38,---,MYS,00:55:00,03:48:54,03:03:02,00:05:01,00:04:29,07:56:26
+ironman-70.3-phuket-20121202.csv,280,Edward Hawkins,37,Johor,ARE,00:31:19,02:53:10,01:35:36,00:02:37,00:03:36,05:06:18
+ironman-70.3-phuket-20121202.csv,281,Brent Healy,37,---,SGP,00:35:05,02:42:48,01:42:54,00:02:34,00:02:27,05:05:48
+ironman-70.3-phuket-20121202.csv,282,Kyle Hegarty,36,---,SGP,00:37:08,03:03:25,02:10:08,00:04:24,00:03:39,05:58:44
+ironman-70.3-phuket-20121202.csv,283,Bela Hegedus,37,---,FRA,00:40:37,03:18:26,02:37:49,00:03:05,00:03:15,06:43:12
+ironman-70.3-phuket-20121202.csv,284,Christian Henn,36,DXB,ARE,00:35:49,02:50:03,01:53:55,00:02:12,00:02:26,05:24:25
+ironman-70.3-phuket-20121202.csv,285,Jensen Hjorth,37,---,SGP,00:37:16,03:02:01,02:11:01,00:03:21,00:03:16,05:56:55
+ironman-70.3-phuket-20121202.csv,286,Zhong Huang,35,---,SGP,00:50:07,03:05:34,02:00:23,00:04:16,00:03:10,06:03:30
+ironman-70.3-phuket-20121202.csv,287,Mark Hughes,36,Gloucestershire,GBR,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,288,Jimpei Ishii,37,NIIGATA,JPN,00:47:06,02:57:04,01:58:18,00:03:42,00:04:00,05:50:10
+ironman-70.3-phuket-20121202.csv,289,Matt James,38,---,THA,00:36:18,03:17:34,02:28:42,00:04:02,00:02:41,06:29:17
+ironman-70.3-phuket-20121202.csv,290,Pongsahnath Jaranahut,---,Bangkok,THA,00:53:36,03:20:58,02:42:42,00:05:59,00:06:10,07:09:25
+ironman-70.3-phuket-20121202.csv,291,Jia Liu,37,---,CHN,00:43:06,03:18:30,02:06:06,00:05:48,00:01:55,06:15:25
+ironman-70.3-phuket-20121202.csv,292,Miguel Jodas,39,São Paulo,BRA,00:35:17,03:10:01,02:44:25,00:05:46,00:05:02,06:40:31
+ironman-70.3-phuket-20121202.csv,293,Mark Jones,35,VIC,AUS,00:30:15,02:42:05,01:51:02,00:03:44,00:03:05,05:10:11
+ironman-70.3-phuket-20121202.csv,294,Chih Hao Kao,35,---,TWN,00:49:15,03:02:32,02:09:15,00:03:25,00:02:45,06:07:12
+ironman-70.3-phuket-20121202.csv,295,Nawid Kashani,36,---,DEU,00:37:15,02:39:44,01:47:51,00:02:40,00:01:52,05:09:22
+ironman-70.3-phuket-20121202.csv,296,Mr.Chaiporn Klomdee,---,Phuket,THA,01:00:41,03:43:06,03:06:18,00:05:40,00:03:09,07:58:54
+ironman-70.3-phuket-20121202.csv,297,dennis konings,37,ES,ESP,00:30:49,02:43:49,02:00:37,00:02:34,00:01:38,05:19:27
+ironman-70.3-phuket-20121202.csv,298,Riccardo Kuhar,36,Hvar,HRV,00:34:54,02:44:54,02:06:48,00:02:31,00:01:47,05:30:54
+ironman-70.3-phuket-20121202.csv,299,ต้น หงส์แดง,38,APO,THA,00:48:17,03:11:29,02:23:23,00:03:38,00:03:03,06:29:50
+ironman-70.3-phuket-20121202.csv,300,Asunit Larpchaloen,---,---,THA,00:48:37,03:08:50,02:02:35,00:06:26,00:02:49,06:09:17
+ironman-70.3-phuket-20121202.csv,301,Paul Leenutaphong,36,---,THA,00:34:44,03:23:13,02:16:32,00:03:45,00:02:42,06:20:56
+ironman-70.3-phuket-20121202.csv,302,Gregory Leon,36,NY,USA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,303,Julien Lepeu,35,---,HKG,00:38:35,02:58:50,01:52:31,00:02:39,00:02:33,05:35:08
+ironman-70.3-phuket-20121202.csv,304,Teck Liew,39,---,THA,00:58:20,03:42:16,02:25:17,00:05:14,00:03:42,07:14:49
+ironman-70.3-phuket-20121202.csv,305,Renny Ling,39,---,TWN,00:42:17,03:19:46,02:19:49,00:02:59,00:04:16,06:29:07
+ironman-70.3-phuket-20121202.csv,306,Simon Little,34,---,HKG,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,307,Nicholas Longcroft,37,---,HKG,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,308,Michael Longley,35,---,THA,00:50:00,03:55:26,02:25:00,00:06:52,00:04:41,07:21:59
+ironman-70.3-phuket-20121202.csv,309,Arkadiusz Lubinski,---,---,THA,00:41:03,02:38:03,01:39:24,00:02:09,00:01:23,05:02:02
+ironman-70.3-phuket-20121202.csv,310,Rasmus Sandfeld Lynglund,---,Skagen,DNK,00:29:17,02:38:43,01:44:39,00:03:06,00:02:25,04:58:10
+ironman-70.3-phuket-20121202.csv,311,Damien Maccord,---,---,MYS,00:55:28,03:53:55,---,00:04:24,00:03:18,DNF
+ironman-70.3-phuket-20121202.csv,312,Jason Machin,35,---,THA,00:35:31,03:27:30,02:40:50,00:07:01,00:05:44,06:56:36
+ironman-70.3-phuket-20121202.csv,313,Erwann Mahe,37,---,THA,00:32:50,02:35:24,01:39:01,00:03:01,00:01:48,04:52:04
+ironman-70.3-phuket-20121202.csv,314,James Mak,39,---,HKG,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,315,Nuk Manusook,---,Nonthaburi,THA,00:43:41,04:10:58,03:00:31,00:07:15,00:05:54,08:08:19
+ironman-70.3-phuket-20121202.csv,316,Mandla Mapondera,36,Gauteng,ZAF,00:54:04,---,---,00:06:39,---,DNF
+ironman-70.3-phuket-20121202.csv,317,Lai Hsiao  Chun,35,TW,TWN,00:37:11,03:25:51,02:24:41,00:01:51,00:02:51,06:32:25
+ironman-70.3-phuket-20121202.csv,318,Leighton Matheson,37,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,319,David Mayes,35,---,THA,00:39:00,03:01:37,02:06:39,00:03:39,00:02:28,05:53:23
+ironman-70.3-phuket-20121202.csv,320,Lachlan Mckelvie,39,---,GBR,00:44:19,03:11:24,02:33:10,00:03:32,00:02:35,06:35:00
+ironman-70.3-phuket-20121202.csv,321,Ralph Mcmillan,38,QLD,THA,00:40:20,03:06:29,01:58:45,00:02:42,00:02:31,05:50:47
+ironman-70.3-phuket-20121202.csv,322,Mohamad Azim Md Idris,---,Kuala Lumpur,MYS,00:39:40,02:47:24,01:48:14,00:03:48,00:02:42,05:21:48
+ironman-70.3-phuket-20121202.csv,323,Nath Metineewongse,---,Bangkok,THA,00:52:43,03:27:39,02:18:01,00:04:37,00:03:59,06:46:59
+ironman-70.3-phuket-20121202.csv,324,Paul Miller,36,Singapore,SGP,00:43:47,03:19:25,---,00:04:14,00:02:36,DNF
+ironman-70.3-phuket-20121202.csv,325,Scott Mison,36,WA,AUS,00:34:47,02:33:08,01:56:43,00:02:44,00:02:30,05:09:52
+ironman-70.3-phuket-20121202.csv,326,Yoshinari Miyata,35,---,JPN,00:50:46,03:53:32,02:09:21,00:07:04,00:04:32,07:05:15
+ironman-70.3-phuket-20121202.csv,327,Johan Moolman,36,DXB,ARE,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,328,Raymond John Moreno,39,---,PHL,00:38:16,03:09:57,02:51:59,00:04:24,00:03:47,06:48:23
+ironman-70.3-phuket-20121202.csv,329,Bryce Munro,37,---,HKG,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,330,Kosuke Murakami,38,Tokyo,JPN,00:47:29,03:47:55,02:39:32,00:07:59,00:11:11,07:34:06
+ironman-70.3-phuket-20121202.csv,331,Supalerk Nakarat,39,---,THA,00:42:31,03:11:20,02:25:00,00:04:02,00:04:28,06:27:21
+ironman-70.3-phuket-20121202.csv,332,Yasuaki Nakaya,37,---,JPN,00:44:20,03:20:19,01:52:29,00:09:02,00:05:52,06:12:02
+ironman-70.3-phuket-20121202.csv,333,Patrick Edwin Naude,---,Eastern cape,ZAF,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,334,Filippo Neri,38,---,KOR,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,335,Lap Huan Ng,39,SG,SGP,00:44:33,03:14:11,02:25:55,00:05:55,00:05:09,06:35:43
+ironman-70.3-phuket-20121202.csv,336,Lookpetch Nielsen,34,---,THA,00:39:35,02:46:35,02:27:06,00:03:44,00:04:36,06:01:36
+ironman-70.3-phuket-20121202.csv,338,Mitsuaki Okamura,39,神奈川県,JPN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,339,Olivier Buanec,36,---,FRA,00:32:25,02:42:57,01:28:03,00:01:47,00:01:41,04:46:53
+ironman-70.3-phuket-20121202.csv,340,Andrii Onistrat,39,APO,UKR,00:36:38,03:10:08,01:40:23,00:02:21,00:02:38,05:32:08
+ironman-70.3-phuket-20121202.csv,341,Janet Otto,38,Gauteng,ZAF,00:43:07,03:39:55,02:19:51,00:05:58,00:04:54,06:53:45
+ironman-70.3-phuket-20121202.csv,342,Norihiro Ouchi,38,東京都,JPN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,343,Rob Palmer,39,---,SGP,00:34:53,02:30:29,01:31:20,00:01:54,00:01:32,04:40:08
+ironman-70.3-phuket-20121202.csv,344,Lapipat Pangphuthipong,---,Bangkok,THA,00:52:55,03:19:24,02:28:01,00:04:03,00:03:28,06:47:51
+ironman-70.3-phuket-20121202.csv,345,Jamie Partington,36,---,THA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,346,Jonathan Pereira,36,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,347,Bing Phung,36,AB,CAN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,348,Lawrence Polkinghorne,39,Western Cape,ZAF,00:37:50,03:20:03,02:12:24,00:10:56,00:04:52,06:26:05
+ironman-70.3-phuket-20121202.csv,349,Raphael Paulo Port,---,Winter Garden,USA,00:40:40,03:13:31,02:46:10,00:04:16,00:05:12,06:49:49
+ironman-70.3-phuket-20121202.csv,350,Sitti Prasitpeanchai,---,ayuthaya,THA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,351,Nicholas Steven Price,---,Singapore,SGP,00:43:34,03:18:10,01:59:33,00:04:00,00:03:19,06:08:36
+ironman-70.3-phuket-20121202.csv,352,Mattt Pritchard,39,14,MYS,00:38:13,02:52:38,---,00:03:04,00:02:15,DNF
+ironman-70.3-phuket-20121202.csv,353,Michael Pua,39,---,SGP,00:52:45,03:19:30,02:31:56,00:04:46,00:04:31,06:53:28
+ironman-70.3-phuket-20121202.csv,354,Supunya Riamprasert,---,Thailand,THA,00:43:07,02:56:14,02:00:15,00:02:49,00:02:07,05:44:32
+ironman-70.3-phuket-20121202.csv,355,Tony Radovan,36,---,PHL,00:45:31,03:10:37,02:39:31,00:02:58,00:02:13,06:40:50
+ironman-70.3-phuket-20121202.csv,356,Anatoly Riabov,39,---,RUS,00:48:51,02:49:16,01:56:07,00:06:24,00:03:25,05:44:03
+ironman-70.3-phuket-20121202.csv,357,Ukrit Rittidej,---,Chachoengsao,THA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,358,Robert Jonah Rivera,37,Paranaque City,PHL,00:55:25,03:24:55,02:43:24,00:05:30,00:03:25,07:12:39
+ironman-70.3-phuket-20121202.csv,359,Shannon Rowe,36,---,AUS,00:41:07,03:06:07,02:42:48,00:06:24,00:04:30,06:40:56
+ironman-70.3-phuket-20121202.csv,360,Djörn Rump,39,---,NLD,00:34:08,03:28:19,03:14:38,00:07:27,00:07:15,07:31:47
+ironman-70.3-phuket-20121202.csv,361,Jose Salvado,35,---,THA,00:44:52,03:12:16,02:02:27,00:05:26,00:03:47,06:08:48
+ironman-70.3-phuket-20121202.csv,362,Ben Sanders,36,NT,AUS,00:34:47,02:38:42,01:41:23,00:02:29,00:02:14,04:59:35
+ironman-70.3-phuket-20121202.csv,363,Marcelo Seguin,36,Doha,QAT,00:39:03,02:52:50,01:46:14,00:02:28,00:02:02,05:22:37
+ironman-70.3-phuket-20121202.csv,364,Roberto Serrano,35,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,365,Jason Skillicorn,39,---,HKG,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,366,Vack Somchit,38,---,THA,00:38:21,03:27:28,02:25:16,00:05:00,00:03:36,06:39:41
+ironman-70.3-phuket-20121202.csv,367,Nicolas Sondaz,38,antioquia,MYS,00:36:52,02:40:07,01:36:46,00:01:48,00:01:29,04:57:02
+ironman-70.3-phuket-20121202.csv,368,Hai Tao Sun,34,Beijing,CHN,00:44:19,02:54:59,01:55:40,00:03:16,00:02:29,05:40:43
+ironman-70.3-phuket-20121202.csv,369,James Sutton,37,---,HKG,00:32:50,02:35:37,01:43:45,00:03:07,00:02:37,04:57:56
+ironman-70.3-phuket-20121202.csv,370,Taweevut Suvajanakorn,38,Nakhonsawan,THA,00:48:39,03:17:27,02:33:17,00:05:24,00:03:20,06:48:07
+ironman-70.3-phuket-20121202.csv,371,Samarth Suvajarachai,36,Bangkok,THA,00:47:06,04:36:45,03:20:22,00:09:29,00:09:35,09:03:17
+ironman-70.3-phuket-20121202.csv,372,Jessadin Suwanbubpa,39,Bangkok,THA,00:45:46,03:52:59,03:10:52,00:07:41,00:05:29,08:02:47
+ironman-70.3-phuket-20121202.csv,373,Kok Aik Tan,38,WA,MYS,00:37:43,03:07:25,02:17:59,00:04:51,00:02:45,06:10:43
+ironman-70.3-phuket-20121202.csv,374,Wichit Taowun,---,Phuket,THA,00:43:52,03:15:33,02:10:19,00:03:16,00:01:33,06:14:33
+ironman-70.3-phuket-20121202.csv,375,Mark Thompson,38,APO,JPN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,376,Graham Toms,38,Western Cape,ZAF,00:30:01,02:41:04,01:52:35,00:03:26,00:02:22,05:09:28
+ironman-70.3-phuket-20121202.csv,377,Tomoya Tsuruta,35,---,SGP,00:33:09,02:42:20,01:43:18,00:02:40,00:02:16,05:03:43
+ironman-70.3-phuket-20121202.csv,378,Dave Turner,37,---,MYS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,379,Viraphat Udomwattinnachot,36,---,THA,00:52:12,03:23:52,02:40:35,00:03:06,00:04:03,07:03:48
+ironman-70.3-phuket-20121202.csv,380,Noppanunt Utamaphethai,37,TX,THA,00:35:00,02:59:02,01:48:13,00:05:22,00:02:33,05:30:10
+ironman-70.3-phuket-20121202.csv,381,Tan Vanasup,35,---,THA,00:41:19,03:15:16,02:27:32,00:04:39,00:02:27,06:31:13
+ironman-70.3-phuket-20121202.csv,382,Ben Ward,38,AK,USA,00:59:42,03:13:30,02:04:20,00:04:11,00:04:07,06:25:50
+ironman-70.3-phuket-20121202.csv,383,Alexander Weltermann,38,---,DEU,00:35:30,02:39:47,01:46:06,00:03:33,00:02:29,05:07:25
+ironman-70.3-phuket-20121202.csv,384,Matty White,35,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,385,Kota Yoshimura,36,---,JPN,00:43:10,03:17:43,02:18:35,00:07:15,00:03:54,06:30:37
+ironman-70.3-phuket-20121202.csv,386,Adrian Young,---,---,AUS,00:37:24,---,01:32:44,00:02:54,05:08:32,06:41:16
+ironman-70.3-phuket-20121202.csv,387,Mark Zaglas,39,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,388,Alexander Zhukov,36,Moscow,RUS,00:40:24,02:51:41,01:41:51,00:01:59,00:01:14,05:17:09
+ironman-70.3-phuket-20121202.csv,389,Urs Albrecht,43,---,CHE,00:35:17,02:52:04,02:00:28,00:03:03,00:03:14,05:34:06
+ironman-70.3-phuket-20121202.csv,390,Yaser Almanaseer,43,---,USA,00:55:53,03:38:49,03:08:25,00:06:30,00:05:24,07:55:01
+ironman-70.3-phuket-20121202.csv,391,Daniela Paoli,43,São Paulo,BRA,00:41:15,03:07:14,02:20:55,00:04:40,00:02:21,06:16:25
+ironman-70.3-phuket-20121202.csv,392,David Almendral,42,Intl State,PHL,00:38:05,02:55:26,02:05:19,00:03:02,00:02:25,05:44:17
+ironman-70.3-phuket-20121202.csv,393,Manfred Ambil,42,DE,DEU,00:49:46,03:16:55,02:22:19,00:05:43,00:05:09,06:39:52
+ironman-70.3-phuket-20121202.csv,394,Ang Ching Hui,42,---,SGP,00:42:23,03:03:06,02:19:40,00:05:14,00:03:47,06:14:10
+ironman-70.3-phuket-20121202.csv,395,Brock Armstrong,41,---,CAN,00:37:57,00:53:00,---,00:05:36,---,DNF
+ironman-70.3-phuket-20121202.csv,396,Neville Azzopardi,40,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,397,Warren Barr,44,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,398,Damian Baynes,42,SA,MYS,00:36:16,02:42:40,02:11:11,00:02:52,00:02:09,05:35:08
+ironman-70.3-phuket-20121202.csv,399,Neelmani Bhardwaj,40,---,OMN,00:49:33,03:23:47,02:47:15,00:05:16,00:03:27,07:09:18
+ironman-70.3-phuket-20121202.csv,400,Kelvin Blacklock,---,---,GBR,00:41:42,02:50:42,02:03:34,00:04:12,00:02:09,05:42:19
+ironman-70.3-phuket-20121202.csv,401,Martin Bond,40,DXB,ARE,00:37:37,03:01:08,02:11:28,00:04:58,00:02:50,05:58:01
+ironman-70.3-phuket-20121202.csv,402,Nicolas Bottero,40,FR,BHR,00:38:28,03:05:02,01:56:18,00:06:19,00:03:22,05:49:29
+ironman-70.3-phuket-20121202.csv,403,Warwick Bourguignon,44,QLD,AUS,00:40:56,03:05:32,02:30:51,00:03:31,00:02:21,06:23:11
+ironman-70.3-phuket-20121202.csv,404,Kevin Brawn,44,Selangor,ARE,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,405,Anthony Brewer,43,---,THA,00:37:09,03:01:08,02:13:46,00:04:05,00:04:35,06:00:43
+ironman-70.3-phuket-20121202.csv,406,Rostislav Bzhevskii,40,Sankt-Petersburg,RUS,00:35:49,02:53:49,01:46:12,00:03:12,00:02:55,05:21:57
+ironman-70.3-phuket-20121202.csv,407,Bobby Calabritto,41,Intl State,IDN,00:33:29,02:49:01,02:03:27,00:03:02,00:02:35,05:31:34
+ironman-70.3-phuket-20121202.csv,408,Xavier Caminada,42,Other,BHR,00:38:17,03:08:50,02:10:09,00:05:11,00:03:09,06:05:36
+ironman-70.3-phuket-20121202.csv,409,Scott Campbell,40,QLD,ARE,00:37:15,03:23:21,03:06:12,00:06:55,00:04:10,07:17:53
+ironman-70.3-phuket-20121202.csv,410,Ernesto Caraveo,40,AP,USA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,411,Phusit Chaichum,---,---,THA,00:37:12,02:41:48,02:02:34,00:01:55,00:02:22,05:25:51
+ironman-70.3-phuket-20121202.csv,412,Korntuan Chaiyasut,39,Bangkok,THA,00:43:36,03:22:22,02:31:27,00:07:05,00:03:07,06:47:37
+ironman-70.3-phuket-20121202.csv,413,Chawaldit Kitpong,43,Nonthaburi,THA,00:51:32,03:27:06,02:27:43,00:05:52,00:05:52,06:58:05
+ironman-70.3-phuket-20121202.csv,414,Cheong Sacha,41,---,HKG,00:42:22,---,01:40:18,00:01:57,03:06:22,04:46:40
+ironman-70.3-phuket-20121202.csv,415,Dmitry Chichkanov,40,---,RUS,00:46:22,03:07:28,01:54:15,00:04:20,00:03:43,05:56:08
+ironman-70.3-phuket-20121202.csv,416,Tatsuya Chigusa,40,tokyo,IDN,00:42:39,03:03:14,01:55:35,00:03:47,00:03:59,05:49:14
+ironman-70.3-phuket-20121202.csv,417,Sehyon Cho,40,---,KOR,00:40:43,03:05:24,02:02:23,00:02:59,00:03:13,05:54:42
+ironman-70.3-phuket-20121202.csv,418,John Coffeng,41,Hong Kong,HKG,00:36:26,02:50:48,01:51:01,00:03:15,00:02:05,05:23:35
+ironman-70.3-phuket-20121202.csv,419,Robert Cookson,40,---,SGP,00:54:40,03:32:20,02:25:31,00:03:33,00:05:03,07:01:07
+ironman-70.3-phuket-20121202.csv,420,Paulo Costa,39,DXB,ARE,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,421,Stuart Daniels,41,bangkok,THA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,422,Borys Darmas,40,---,GBR,00:37:26,03:02:36,01:55:52,00:03:43,00:02:49,05:42:26
+ironman-70.3-phuket-20121202.csv,423,Christopher Day,43,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,424,Clint De Haas,43,---,ZAF,00:38:31,02:55:51,01:58:49,00:04:29,00:03:21,05:41:01
+ironman-70.3-phuket-20121202.csv,425,Dirk-Jan De Jong,44,---,NLD,00:29:50,02:34:40,01:34:31,00:01:44,00:01:21,04:42:06
+ironman-70.3-phuket-20121202.csv,426,Ghislain De Rengervé,41,---,MYS,00:40:17,03:01:10,01:57:11,00:04:31,00:02:36,05:45:45
+ironman-70.3-phuket-20121202.csv,427,Juan Delgado,42,---,HKG,00:34:39,03:00:14,01:58:58,00:03:34,00:01:44,05:39:09
+ironman-70.3-phuket-20121202.csv,428,Arnaud Demarti,42,---,KHM,00:37:01,02:55:47,01:47:24,00:04:55,00:02:52,05:27:59
+ironman-70.3-phuket-20121202.csv,429,Rob Depinto,41,---,HKG,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,430,Massimo Desanti,40,---,ITA,00:36:56,02:42:18,02:12:21,00:03:06,00:02:48,05:37:29
+ironman-70.3-phuket-20121202.csv,431,Juergen Doerr,44,---,PHL,00:36:54,02:44:44,02:04:02,00:02:46,00:01:43,05:30:09
+ironman-70.3-phuket-20121202.csv,432,Victor Dos Reis,42,Eastern Cape,ZAF,00:38:09,02:49:37,01:39:44,00:04:47,00:02:52,05:15:09
+ironman-70.3-phuket-20121202.csv,433,Tory Eckhardt,40,phuket,THA,00:37:31,02:57:20,02:29:07,00:02:40,00:02:49,06:09:27
+ironman-70.3-phuket-20121202.csv,434,Jean Eichaker,42,---,SGP,00:32:55,02:35:20,01:34:25,00:02:19,00:01:18,04:46:17
+ironman-70.3-phuket-20121202.csv,435,Dominic Ellis,40,---,CHN,00:42:33,03:07:01,02:16:23,00:09:52,00:05:43,06:21:32
+ironman-70.3-phuket-20121202.csv,436,Iftach Enav,43,Intl State,ISR,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,437,Ping Kong Eu,---,Singapore,SGP,00:46:40,03:23:56,02:57:51,00:04:57,00:02:53,07:16:17
+ironman-70.3-phuket-20121202.csv,438,Colin Evans,40,---,SGP,00:41:06,02:52:25,02:15:37,00:05:14,00:05:45,06:00:07
+ironman-70.3-phuket-20121202.csv,439,Juan Falck,42,SG,SGP,00:51:01,03:27:13,02:24:25,00:07:25,00:05:03,06:55:07
+ironman-70.3-phuket-20121202.csv,440,Martin Flüeler,40,---,CHE,00:33:04,02:47:02,01:36:23,00:03:19,00:01:40,05:01:28
+ironman-70.3-phuket-20121202.csv,441,Robert Flynn,41,BC,SGP,00:38:43,03:15:17,02:06:19,00:04:36,00:02:22,06:07:17
+ironman-70.3-phuket-20121202.csv,442,Francesco Fontanot,44,Rimini,ITA,00:41:53,03:00:32,02:09:19,00:06:06,00:03:50,06:01:40
+ironman-70.3-phuket-20121202.csv,443,William Forwood,41,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,444,Naoki Fujimoto,44,---,IDN,00:42:57,03:21:25,02:23:02,00:02:41,00:04:18,06:34:23
+ironman-70.3-phuket-20121202.csv,445,Antonio Galloso,44,Free State,ITA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,446,Daniel Geary,43,---,SGP,00:32:49,02:57:08,02:12:22,00:04:00,00:03:54,05:50:13
+ironman-70.3-phuket-20121202.csv,447,Mark Glossoti,41,---,SGP,00:30:48,02:35:26,01:36:07,00:02:20,00:02:18,04:46:59
+ironman-70.3-phuket-20121202.csv,448,Andreas Grob,40,---,SGP,00:36:08,02:43:18,01:48:34,00:02:53,00:02:07,05:13:00
+ironman-70.3-phuket-20121202.csv,449,Sara-Lise Haith,43,---,ARE,00:47:06,03:53:34,03:01:00,00:05:43,00:06:01,07:53:24
+ironman-70.3-phuket-20121202.csv,450,Darren Hancock,43,VIC,AUS,00:38:47,03:14:26,02:21:45,00:02:25,00:03:26,06:20:49
+ironman-70.3-phuket-20121202.csv,451,Mazlan Hassan,41,---,SGP,00:49:30,03:06:46,02:12:48,00:03:21,00:02:29,06:14:54
+ironman-70.3-phuket-20121202.csv,452,Hussian Hassanali,42,Singapore,SGP,00:51:28,03:15:37,02:25:21,00:06:23,00:04:29,06:43:18
+ironman-70.3-phuket-20121202.csv,453,Dawn Herbert,43,Eastern Cape,ZAF,00:41:21,03:06:09,02:05:10,00:04:24,00:03:37,06:00:41
+ironman-70.3-phuket-20121202.csv,454,Keith Higginson,41,KwaZulu-Natal,ZAF,00:30:22,03:22:30,02:30:01,00:05:57,00:08:28,06:37:18
+ironman-70.3-phuket-20121202.csv,455,Spencer Hogg,42,DXB,ARE,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,456,Hermann Holst,43,---,HKG,00:33:32,02:47:26,---,00:03:18,00:02:28,DNF
+ironman-70.3-phuket-20121202.csv,457,Mark Horn,44,Busan,THA,00:33:49,03:04:40,02:15:32,00:04:53,00:03:47,06:02:41
+ironman-70.3-phuket-20121202.csv,458,Kok Hoong How,42,---,MYS,00:43:23,---,---,00:05:32,05:06:44,DNF
+ironman-70.3-phuket-20121202.csv,459,Kenneth Hubbard,44,Dubai,ARE,00:48:59,02:56:29,02:25:11,00:05:33,00:03:42,06:19:54
+ironman-70.3-phuket-20121202.csv,460,Kyle Hunter,43,OR,USA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,461,Hiroaki Ine,40,ISH,JPN,00:37:02,02:42:04,01:44:54,00:03:16,00:02:48,05:10:04
+ironman-70.3-phuket-20121202.csv,462,Hasan Itani,41,DXB,ARE,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,463,Patrick Jelfs,41,---,SGP,00:36:30,02:52:18,02:30:50,00:04:21,00:03:29,06:07:28
+ironman-70.3-phuket-20121202.csv,464,Sam Johnson,44,OK,USA,00:51:17,03:21:24,02:41:59,00:05:16,00:03:53,07:03:49
+ironman-70.3-phuket-20121202.csv,465,Ayad Kamal,43,---,BHR,00:50:52,03:48:26,03:20:58,00:06:07,00:02:37,08:09:00
+ironman-70.3-phuket-20121202.csv,466,Mohammed Faiz Kamaludin,40,---,MYS,01:03:36,03:45:51,02:45:13,00:03:59,00:04:53,07:43:32
+ironman-70.3-phuket-20121202.csv,467,Shay Kastoriano,40,江苏,CHN,00:47:09,04:03:37,02:20:59,00:05:18,00:02:48,07:19:51
+ironman-70.3-phuket-20121202.csv,468,Chikahiro Kawase,44,---,THA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,469,Suphot Kawinvasin,---,Bangkok,THA,---,03:31:19,02:39:11,00:55:46,00:04:40,07:10:56
+ironman-70.3-phuket-20121202.csv,470,Ka Chin Khor,40,---,MYS,00:42:48,03:18:06,02:19:38,00:06:04,00:06:25,06:33:01
+ironman-70.3-phuket-20121202.csv,471,Chris Kimpton,40,---,THA,00:42:05,03:58:19,03:07:44,00:03:09,00:03:50,07:55:07
+ironman-70.3-phuket-20121202.csv,472,Tanate Kittipornpanit,41,VIC,THA,00:49:21,03:09:19,02:50:27,00:04:30,00:03:03,06:56:40
+ironman-70.3-phuket-20121202.csv,473,Jean-Francois Klentzi,43,---,THA,00:42:40,03:04:18,02:31:17,00:04:07,00:03:00,06:25:22
+ironman-70.3-phuket-20121202.csv,474,Steve Knabl,40,---,SGP,00:39:38,02:48:08,02:06:53,00:04:36,00:03:11,05:42:26
+ironman-70.3-phuket-20121202.csv,475,Dirk Kollmann,41,Bangkok,THA,00:40:59,03:15:12,02:41:33,00:09:55,00:06:27,06:54:06
+ironman-70.3-phuket-20121202.csv,476,Satoshi Kondou,41,東京都,JPN,00:49:07,03:00:40,02:27:49,00:06:43,00:03:17,06:27:36
+ironman-70.3-phuket-20121202.csv,477,Chumphol Krootkaew,42,Samutprakarn,THA,00:43:54,03:12:26,02:17:28,00:06:40,00:03:36,06:24:04
+ironman-70.3-phuket-20121202.csv,478,Lars Kuettel,40,---,CHE,00:36:36,02:46:18,02:05:48,00:03:09,00:02:07,05:33:58
+ironman-70.3-phuket-20121202.csv,479,Konstantin Kuzmin,40,---,RUS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,480,Laurent Opportune,43,FR,THA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,481,Bruno Lebeda,43,---,HKG,00:38:12,02:35:47,01:42:33,00:02:02,00:01:29,05:00:03
+ironman-70.3-phuket-20121202.csv,482,Kok Khee Lee,44,ACT,MYS,00:43:03,03:15:21,02:34:05,00:04:24,00:03:05,06:39:58
+ironman-70.3-phuket-20121202.csv,483,Giles Leonard,40,---,PHL,---,03:23:43,02:25:26,00:55:21,00:04:21,06:48:51
+ironman-70.3-phuket-20121202.csv,484,Simon Leslie,44,---,GBR,00:52:36,04:51:54,02:21:56,00:08:07,00:06:29,08:21:02
+ironman-70.3-phuket-20121202.csv,485,Patrik Li,41,---,CHE,00:32:09,02:35:44,01:20:39,00:03:07,00:01:24,04:33:03
+ironman-70.3-phuket-20121202.csv,486,Hee Keat Ling,40,---,MYS,00:40:41,03:07:03,02:11:00,00:05:09,00:03:09,06:07:02
+ironman-70.3-phuket-20121202.csv,487,Drew Lloyd,47,NC,AUS,00:35:44,03:06:10,02:13:37,00:05:57,00:04:38,06:06:06
+ironman-70.3-phuket-20121202.csv,488,Darren Loftus,43,---,ARE,00:35:25,02:48:06,02:28:51,00:02:20,00:01:56,05:56:38
+ironman-70.3-phuket-20121202.csv,489,Simon Longhurst,42,WA,AUS,00:38:43,02:52:02,01:58:35,00:02:22,00:05:34,05:37:16
+ironman-70.3-phuket-20121202.csv,490,James Lynch,43,Kent,ARE,00:47:57,03:28:43,02:27:40,00:07:23,00:06:14,06:57:57
+ironman-70.3-phuket-20121202.csv,491,Martin Malleier,44,---,MYS,00:32:04,02:39:15,01:35:48,00:03:20,00:03:12,04:53:39
+ironman-70.3-phuket-20121202.csv,492,Joey Marcelo,40,NCR,PHL,00:52:18,03:40:09,02:29:36,00:03:49,00:02:56,07:08:48
+ironman-70.3-phuket-20121202.csv,493,Simon Marshall,40,Other,ARE,00:34:52,02:46:52,01:35:03,00:02:42,00:02:49,05:02:18
+ironman-70.3-phuket-20121202.csv,494,Dorian Massieux,44,---,THA,00:41:02,02:53:42,01:57:11,00:03:23,00:02:20,05:37:38
+ironman-70.3-phuket-20121202.csv,495,Minoru Matsumoto,43,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,496,Paul Miles,41,Other,ARE,00:33:03,02:35:38,01:33:11,00:03:17,00:02:44,04:47:53
+ironman-70.3-phuket-20121202.csv,497,Azli Noor,42,Selangor,MYS,00:51:43,03:24:38,02:17:47,00:03:24,00:01:57,06:39:29
+ironman-70.3-phuket-20121202.csv,498,Yoichi Nakajima,---,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,499,Nicolas Barbati,41,---,FRA,00:31:27,02:40:32,01:34:36,00:02:41,00:01:58,04:51:14
+ironman-70.3-phuket-20121202.csv,500,Nattapong Nithi-Uthai,40,---,THA,00:39:48,03:27:15,02:42:41,00:05:33,00:03:45,06:59:02
+ironman-70.3-phuket-20121202.csv,501,Julin Oapirat,42,Intl State,THA,00:35:43,03:01:52,01:19:49,00:03:13,00:01:48,05:02:25
+ironman-70.3-phuket-20121202.csv,502,Kazuki Okada,41,Bangkok,THA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,503,Michael Olivier,42,KwaZulu-Natal,ZAF,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,504,Julian Ostheim,43,---,HKG,00:43:24,03:08:34,02:20:12,00:06:52,00:04:49,06:23:51
+ironman-70.3-phuket-20121202.csv,505,Alex Otto,41,Gauteng,ZAF,00:34:55,02:28:03,01:31:28,00:04:01,00:01:43,04:40:10
+ironman-70.3-phuket-20121202.csv,506,Jordan Ouida,40,NY,USA,00:37:37,---,01:42:55,00:02:51,05:07:14,06:50:09
+ironman-70.3-phuket-20121202.csv,507,Stephen Owen,43,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,508,Edgar Pang,40,---,KHM,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,509,Junhyung Park,43,---,KOR,00:55:21,03:24:19,02:13:08,00:06:22,00:02:31,06:41:41
+ironman-70.3-phuket-20121202.csv,510,Jonathon Partin,41,AP,USA,00:34:59,02:47:36,02:19:17,00:04:18,00:02:59,05:49:09
+ironman-70.3-phuket-20121202.csv,511,Lars Pedersen,42,---,SWE,00:51:21,03:01:38,02:17:51,00:04:18,00:03:50,06:18:58
+ironman-70.3-phuket-20121202.csv,512,Jun Pei,41,---,CHN,00:43:06,03:06:47,02:02:02,00:02:31,00:02:31,05:56:57
+ironman-70.3-phuket-20121202.csv,513,Alexis Pepall,42,---,HKG,00:39:03,---,---,00:03:04,---,DNF
+ironman-70.3-phuket-20121202.csv,514,John Pesci,41,---,HKG,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,515,Maurizio Piattoli,43,ITA,ITA,00:46:49,02:54:08,01:52:15,00:05:54,00:03:16,05:42:22
+ironman-70.3-phuket-20121202.csv,516,Grant Pitt,41,---,ZAF,00:33:49,02:48:35,02:05:59,00:03:47,00:02:31,05:34:41
+ironman-70.3-phuket-20121202.csv,517,Christopher Pollard,41,Other,HKG,00:33:33,02:29:52,01:38:03,00:02:33,00:01:18,04:45:19
+ironman-70.3-phuket-20121202.csv,518,Ronald Poonsaengsathit,44,Intl State,THA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,519,Mark Porter,43,---,ARE,00:56:47,03:43:11,02:27:48,00:05:18,00:04:30,07:17:34
+ironman-70.3-phuket-20121202.csv,520,Kongpan Pramoj,40,Bangkok,THA,00:38:17,02:56:17,02:00:28,00:03:36,00:02:48,05:41:26
+ironman-70.3-phuket-20121202.csv,521,John Purves,44,---,AUS,00:33:59,03:01:00,01:53:08,00:03:56,00:02:03,05:34:06
+ironman-70.3-phuket-20121202.csv,522,Jean Philippe Michel Emmanuel Race,---,Kuala Lumpur,MYS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,523,Jon Rhodes,43,TX,ARE,00:44:35,03:30:41,02:48:42,00:06:58,00:04:39,07:15:35
+ironman-70.3-phuket-20121202.csv,524,Torsten Richter,40,DE,IDN,00:46:35,03:08:13,02:06:56,00:03:03,00:01:45,06:06:32
+ironman-70.3-phuket-20121202.csv,525,Paul Ritchie,44,---,THA,00:38:18,03:15:12,02:45:51,00:05:26,00:03:59,06:48:46
+ironman-70.3-phuket-20121202.csv,526,Chris Robinson,41,---,VNM,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,527,Brian Rogers,43,Intl State,KHM,00:49:01,03:02:34,02:49:03,00:03:16,00:01:56,06:45:50
+ironman-70.3-phuket-20121202.csv,528,Fernando Aguilar Rosello,---,---,ESP,00:36:45,03:00:56,---,00:03:34,00:02:41,DNF
+ironman-70.3-phuket-20121202.csv,529,Christopher Huang,40,---,HKG,00:43:02,03:23:53,02:09:07,00:03:26,00:05:05,06:24:33
+ironman-70.3-phuket-20121202.csv,530,Glenn Sadler,40,---,AUS,00:38:13,02:33:29,01:44:06,00:02:36,00:01:45,05:00:09
+ironman-70.3-phuket-20121202.csv,531,Vikas Sagar,44,Gauteng,ZAF,00:48:10,03:44:50,02:48:38,00:09:20,00:05:45,07:36:43
+ironman-70.3-phuket-20121202.csv,532,Danny Salter,43,QLD,AUS,00:32:20,02:37:28,01:33:26,00:04:18,00:02:21,04:49:53
+ironman-70.3-phuket-20121202.csv,533,Jaime Santos,43,---,PHL,00:38:02,03:26:12,03:01:18,00:04:35,00:05:06,07:15:13
+ironman-70.3-phuket-20121202.csv,534,Zach Owens,33,WA,CHN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,535,Songkrod Sataratpayoon,---,phetchburi,THA,01:09:05,04:11:37,03:19:54,00:06:44,00:04:32,08:51:52
+ironman-70.3-phuket-20121202.csv,536,Shane Scanlon,40,QLD,THA,00:43:34,02:55:08,02:21:32,00:05:17,00:02:25,06:07:56
+ironman-70.3-phuket-20121202.csv,537,Marvin Schroeder,44,UT,USA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,538,Michael Schulze-Finkenburg,40,---,DEU,00:31:39,02:53:29,01:46:38,00:03:43,00:02:22,05:17:51
+ironman-70.3-phuket-20121202.csv,539,Daniel Schwalb,41,---,THA,00:39:24,03:55:08,02:14:00,00:02:39,00:02:09,06:53:20
+ironman-70.3-phuket-20121202.csv,540,Paul Scott,40,Hertfordshire,GBR,00:44:18,03:43:07,03:12:26,00:08:05,00:04:15,07:52:11
+ironman-70.3-phuket-20121202.csv,541,Andrew Seiz,42,---,HKG,00:49:34,03:32:35,02:26:13,00:04:48,00:03:03,06:56:13
+ironman-70.3-phuket-20121202.csv,542,Cannatella Serge,41,---,FRA,00:39:50,03:16:40,---,00:03:51,---,DNF
+ironman-70.3-phuket-20121202.csv,543,Harry Sikkema,41,NL,IDN,00:31:02,02:36:59,01:32:34,00:03:11,00:01:39,04:45:25
+ironman-70.3-phuket-20121202.csv,544,Tyrone Sinnamon,41,Other,ARE,00:38:21,03:24:05,02:12:01,00:05:03,00:05:16,06:24:46
+ironman-70.3-phuket-20121202.csv,545,Chiow Chun Soh,43,---,MYS,00:39:27,03:44:05,02:34:06,00:09:42,00:05:52,07:13:12
+ironman-70.3-phuket-20121202.csv,546,Marc Solesse,42,---,HKG,00:35:32,02:54:05,02:13:30,00:04:35,00:03:41,05:51:23
+ironman-70.3-phuket-20121202.csv,547,Jano Soto,42,---,USA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,548,Matthew Sparks,42,CA,USA,00:40:18,02:50:06,02:04:11,00:04:12,00:02:57,05:41:44
+ironman-70.3-phuket-20121202.csv,549,Robert Spellmeyer,44,---,BHR,00:40:18,03:31:03,02:22:35,00:07:06,00:05:22,06:46:24
+ironman-70.3-phuket-20121202.csv,550,Thomas Spiak,43,AK,USA,00:46:40,03:27:05,02:41:25,00:05:48,00:03:32,07:04:30
+ironman-70.3-phuket-20121202.csv,551,Stefan Spies,42,---,DEU,00:33:41,02:43:37,01:37:30,00:03:20,00:02:05,05:00:13
+ironman-70.3-phuket-20121202.csv,552,Farn Sritrairatana,---,Bangkok,THA,00:42:11,04:06:09,03:05:11,00:06:50,00:02:50,08:03:11
+ironman-70.3-phuket-20121202.csv,553,Geoffrey Michael Stecyk,42,---,MYS,00:43:49,03:52:58,03:16:08,00:06:00,00:05:47,08:04:42
+ironman-70.3-phuket-20121202.csv,554,Nigel Stevenson,41,---,HKG,00:38:23,03:52:58,01:44:06,00:05:08,00:05:08,06:25:43
+ironman-70.3-phuket-20121202.csv,555,Suksun Subannarat,---,---,THA,00:56:40,03:43:24,02:37:47,00:04:41,00:04:00,07:26:32
+ironman-70.3-phuket-20121202.csv,556,Kittiphat Suthisamphat,---,BANGKOK,THA,00:46:10,02:59:08,02:44:36,00:03:42,00:04:13,06:37:49
+ironman-70.3-phuket-20121202.csv,557,Ali Tabbal,44,DXB,ARE,00:37:24,02:49:07,02:01:12,00:04:16,00:02:35,05:34:34
+ironman-70.3-phuket-20121202.csv,558,Collin Tan,44,SG,SGP,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,559,Matt Tench,40,---,SGP,00:36:33,02:49:53,01:45:15,00:04:26,00:02:43,05:18:50
+ironman-70.3-phuket-20121202.csv,560,Chris Thynne,40,VIC,AUS,00:35:04,02:52:04,01:52:50,00:02:18,00:01:47,05:24:03
+ironman-70.3-phuket-20121202.csv,561,Kraisorn Toschana,---,Patumthani,THA,00:53:03,03:47:35,03:17:16,00:10:53,00:05:35,08:14:22
+ironman-70.3-phuket-20121202.csv,562,Bang Trinh,40,---,VNM,00:38:14,02:55:58,02:03:56,00:02:25,00:02:44,05:43:17
+ironman-70.3-phuket-20121202.csv,563,Jonathan Tyrrell,42,Samut Sakhon,GBR,00:38:44,02:52:37,02:12:07,00:05:13,00:03:20,05:52:01
+ironman-70.3-phuket-20121202.csv,564,Pieter Van Duijvenbode,41,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,565,Neil Van Heerden,40,---,THA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,566,Prakan Visittikun,41,---,THA,00:46:26,03:28:58,02:54:06,00:05:13,00:03:48,07:18:31
+ironman-70.3-phuket-20121202.csv,567,Thomas Vonach,40,AT,AUT,00:29:24,02:32:11,01:24:53,00:01:50,00:01:59,04:30:17
+ironman-70.3-phuket-20121202.csv,568,Michael Vorderleitner,---,Phuket,THA,00:48:45,03:07:26,02:04:59,00:02:24,00:01:39,06:05:13
+ironman-70.3-phuket-20121202.csv,569,Firdaus Wahid,---,SG,SGP,00:50:00,03:39:05,02:54:41,00:07:42,00:06:03,07:37:31
+ironman-70.3-phuket-20121202.csv,570,Fuhan Wang,41,Shanghai,CHN,00:50:32,04:02:00,03:04:25,00:04:06,00:06:44,08:07:47
+ironman-70.3-phuket-20121202.csv,571,Anthony Warner,43,Kent,SGP,00:53:53,03:42:37,03:02:23,00:05:18,00:06:04,07:50:15
+ironman-70.3-phuket-20121202.csv,572,Jerome Joseph Wenninger Jr,40,AP,USA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,573,Tuu Wichienphan,41,---,THA,00:44:09,03:24:15,02:39:38,00:04:36,00:02:51,06:55:29
+ironman-70.3-phuket-20121202.csv,574,Gary Williams,43,Al Khobar,SAU,00:34:03,02:51:00,01:58:08,00:05:32,00:02:39,05:31:22
+ironman-70.3-phuket-20121202.csv,575,Christopher Wilson,42,---,HKG,00:49:52,02:51:33,01:29:22,00:03:55,00:02:14,05:16:56
+ironman-70.3-phuket-20121202.csv,576,Wade Wollin,40,---,HKG,00:47:45,03:51:32,02:38:01,00:05:25,00:03:39,07:26:22
+ironman-70.3-phuket-20121202.csv,577,Joseph Wong,41,---,SGP,00:42:39,03:09:57,02:13:24,00:03:43,00:03:33,06:13:16
+ironman-70.3-phuket-20121202.csv,578,Richard Yong,42,---,HKG,00:40:27,02:42:14,01:58:49,00:03:33,00:03:19,05:28:22
+ironman-70.3-phuket-20121202.csv,579,Stuart Young,40,---,AUS,00:51:11,03:36:21,02:02:24,00:03:29,00:03:36,06:37:01
+ironman-70.3-phuket-20121202.csv,580,Sarmad Zok,44,---,ARE,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,581,Andras Zsilák-Makra,39,---,MYS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,582,John Aamodt,49,---,CHN,00:50:02,03:22:54,02:30:40,00:06:11,00:05:07,06:54:54
+ironman-70.3-phuket-20121202.csv,583,Marc Abecassis,48,---,HKG,00:33:58,02:49:36,02:06:07,00:03:09,00:01:42,05:34:32
+ironman-70.3-phuket-20121202.csv,584,Farouk Abrahams,45,Gauteng,ZAF,00:50:51,03:20:10,02:45:53,00:05:43,00:03:24,07:06:01
+ironman-70.3-phuket-20121202.csv,585,Teeradej Bhrompathama,45,Chon Buri,THA,00:50:38,03:00:08,02:43:55,00:03:01,00:04:30,06:42:12
+ironman-70.3-phuket-20121202.csv,586,Clinton Brons,45,---,CAN,00:44:12,03:15:28,02:41:44,00:09:29,00:06:50,06:57:43
+ironman-70.3-phuket-20121202.csv,587,Rory Buisson,47,Other,GBR,00:34:39,02:52:36,02:04:50,00:03:37,00:02:34,05:38:16
+ironman-70.3-phuket-20121202.csv,588,"Mark ,Min-Chen Cheng",48,---,TWN,00:50:45,03:14:52,02:51:05,00:05:48,00:09:20,07:11:50
+ironman-70.3-phuket-20121202.csv,589,Ieeseong Cho,47,---,KOR,00:52:58,03:56:26,01:50:19,00:07:59,00:07:46,06:55:28
+ironman-70.3-phuket-20121202.csv,590,Guy Coghlan,46,SURREY,ARE,00:33:54,02:58:55,02:06:20,00:04:27,00:03:19,05:46:55
+ironman-70.3-phuket-20121202.csv,591,Terry Cole,48,OH,USA,00:38:48,02:52:18,02:06:43,00:03:55,00:03:01,05:44:45
+ironman-70.3-phuket-20121202.csv,592,Erik Coppens,48,---,BEL,00:40:38,03:08:38,02:41:05,00:04:16,00:04:16,06:38:53
+ironman-70.3-phuket-20121202.csv,593,Mark Cross,48,---,IDN,00:38:43,03:17:46,02:26:50,00:02:45,00:03:02,06:29:06
+ironman-70.3-phuket-20121202.csv,594,Adam Cunneen,49,---,JPN,00:48:33,03:24:22,02:49:47,00:06:32,00:04:58,07:14:12
+ironman-70.3-phuket-20121202.csv,595,Rüdiger Darsow,46,---,ARE,00:37:10,03:03:27,01:59:53,00:05:40,00:03:49,05:49:59
+ironman-70.3-phuket-20121202.csv,596,Guy Dru Drury,44,Dorset,CHN,00:38:06,02:54:01,01:49:19,00:04:46,00:03:15,05:29:27
+ironman-70.3-phuket-20121202.csv,597,Gavin Dwyer,45,---,AUS,00:46:23,03:00:30,02:15:02,00:08:06,00:05:33,06:15:34
+ironman-70.3-phuket-20121202.csv,598,Takeshi Ebisawa,---,ISHIKWAWKEN,JPN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,599,Antonino Fajardo,48,Intl State,PHL,00:55:07,03:44:16,02:38:13,00:04:42,00:04:21,07:26:39
+ironman-70.3-phuket-20121202.csv,600,Ivan Ferraroni,48,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,601,Olivier Fleurot,46,---,CHE,00:38:37,02:49:36,02:24:04,00:04:01,00:03:20,05:59:38
+ironman-70.3-phuket-20121202.csv,602,Garry Ford,49,CT,USA,01:07:59,03:39:46,02:26:49,00:05:56,00:04:38,07:25:08
+ironman-70.3-phuket-20121202.csv,603,Craig Garland,---,QLD,AUS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,604,Dagmar Geier,48,---,DEU,00:31:15,03:39:42,02:10:05,00:08:08,00:03:09,06:32:19
+ironman-70.3-phuket-20121202.csv,605,Günter Grasmugg,47,---,AUT,00:33:36,02:35:22,01:39:44,00:02:26,00:01:37,04:52:45
+ironman-70.3-phuket-20121202.csv,606,Timothy Greaton,45,---,HKG,00:36:00,02:54:02,02:09:53,00:04:53,00:02:26,05:47:14
+ironman-70.3-phuket-20121202.csv,607,Zirngibl Günther,47,---,DEU,00:42:18,02:44:19,01:54:23,00:03:24,00:02:45,05:27:09
+ironman-70.3-phuket-20121202.csv,608,Gary Hardman,49,---,AUS,00:31:13,02:44:28,01:47:16,00:02:34,00:02:17,05:07:48
+ironman-70.3-phuket-20121202.csv,609,Joseph Henry,45,---,THA,00:42:32,03:07:36,02:20:23,00:03:37,00:01:30,06:15:38
+ironman-70.3-phuket-20121202.csv,610,Koichi Higasa,45,---,JPN,00:37:58,03:10:07,02:36:43,00:05:41,00:05:02,06:35:31
+ironman-70.3-phuket-20121202.csv,611,Guy Higgs,45,Other,GBR,00:35:37,02:51:10,02:10:54,00:03:14,00:02:31,05:43:26
+ironman-70.3-phuket-20121202.csv,612,Beate Kleindienst,46,---,DEU,00:34:06,02:58:41,01:42:50,00:04:27,00:03:14,05:23:18
+ironman-70.3-phuket-20121202.csv,613,David Hunt,47,---,ARE,00:44:33,02:59:20,01:59:28,00:03:25,00:02:09,05:48:55
+ironman-70.3-phuket-20121202.csv,614,Wayne Hutchins,47,---,SGP,00:47:35,04:00:13,02:56:27,00:09:12,00:03:33,07:57:00
+ironman-70.3-phuket-20121202.csv,615,Hideki Ikeba,46,ISH,THA,00:44:25,03:45:16,02:11:26,00:05:47,00:03:06,06:50:00
+ironman-70.3-phuket-20121202.csv,616,Taegyo Jung,48,---,KOR,00:45:33,03:23:18,02:24:43,00:04:31,00:02:20,06:40:25
+ironman-70.3-phuket-20121202.csv,617,Hideki Kamoshida,49,Kanagawa,JPN,01:03:24,03:53:35,03:05:07,00:08:30,00:09:12,08:19:48
+ironman-70.3-phuket-20121202.csv,618,Kazuhiro Kaneko,45,---,THA,00:37:17,02:51:00,01:58:03,00:03:27,00:04:28,05:34:15
+ironman-70.3-phuket-20121202.csv,619,Sunari Kateni,45,---,SGP,00:50:05,03:30:21,02:54:22,00:06:36,00:07:12,07:28:36
+ironman-70.3-phuket-20121202.csv,620,Kawai Yuhkichi,45,東京都,JPN,00:44:04,03:31:56,03:20:21,00:09:02,00:03:39,07:49:02
+ironman-70.3-phuket-20121202.csv,621,Mark Kearney,45,---,SGP,00:42:26,03:18:12,02:50:50,00:05:04,00:04:48,07:01:20
+ironman-70.3-phuket-20121202.csv,622,Michael Klose,49,Phuket,DEU,00:41:55,03:00:02,02:09:08,00:03:13,00:02:53,05:57:11
+ironman-70.3-phuket-20121202.csv,623,Kyoya Kondo,45,---,THA,00:47:07,03:16:15,02:34:16,00:07:03,00:04:21,06:49:02
+ironman-70.3-phuket-20121202.csv,624,Alan Kuipers-Chan,46,---,AUS,00:36:39,02:55:14,02:14:34,00:05:04,00:03:07,05:54:38
+ironman-70.3-phuket-20121202.csv,625,Kris Larsson,47,---,HKG,00:50:49,03:51:09,02:33:27,00:09:13,00:07:02,07:31:40
+ironman-70.3-phuket-20121202.csv,626,Nicolas  lebard,45,---,MYS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,627,Sheng-Ming Lee,45,---,TWN,00:46:50,03:22:47,02:42:05,00:06:54,00:05:34,07:04:10
+ironman-70.3-phuket-20121202.csv,628,Sung Chun Lee,46,---,KOR,00:59:48,03:48:59,02:27:33,00:06:36,00:04:34,07:27:30
+ironman-70.3-phuket-20121202.csv,629,Leone Richard,47,GU,GUM,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,630,Massimiliano Lo Curto,45,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,631,Emilio Lomi,49,MI,ITA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,632,Julian Lourens,45,---,ARE,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,633,Steve Lumley,47,---,MYS,00:32:45,02:42:39,01:39:56,00:02:30,00:01:54,04:59:44
+ironman-70.3-phuket-20121202.csv,634,Allan Malcolm,46,Wilayah Persekutuan,MYS,00:47:00,03:45:47,03:02:18,00:05:21,00:03:24,07:43:50
+ironman-70.3-phuket-20121202.csv,635,Catherine Mcmaster,49,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,636,Paul Mcmaster,49,---,AUS,00:45:31,03:15:12,02:31:51,00:06:08,00:02:50,06:41:32
+ironman-70.3-phuket-20121202.csv,637,Tsuyoashi Mikami,48,APO,JPN,00:40:23,02:45:32,01:51:38,00:04:35,00:02:11,05:24:19
+ironman-70.3-phuket-20121202.csv,638,Chris Miller,49,CA,USA,00:50:53,03:57:28,---,00:12:29,00:11:55,DNF
+ironman-70.3-phuket-20121202.csv,639,Mermillod Millo,48,---,FRA,00:32:06,02:35:33,01:38:54,00:04:33,00:02:20,04:53:26
+ironman-70.3-phuket-20121202.csv,640,Sang-Pill Moon,45,서울,KOR,00:47:37,03:31:04,03:27:56,00:05:52,00:05:10,07:57:39
+ironman-70.3-phuket-20121202.csv,641,Tatsuo Murao,48,ISH,JPN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,642,Nasr Najib,47,---,RUS,00:45:59,---,---,00:04:16,---,DNF
+ironman-70.3-phuket-20121202.csv,643,Teerayuth Namkanisorn,45,---,THA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,644,Roy Nasr,48,Other,ARE,00:30:43,02:36:07,01:41:59,00:02:05,00:01:48,04:52:42
+ironman-70.3-phuket-20121202.csv,645,Tanno Norihito,47,kanagawakenn,JPN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,646,Rich Nowak,47,---,CHN,00:42:03,02:57:59,02:18:11,00:04:22,00:02:36,06:05:11
+ironman-70.3-phuket-20121202.csv,647,Werner Oberweis,45,Luxembourg,LUX,00:34:03,02:40:43,01:36:41,00:03:43,00:01:59,04:57:09
+ironman-70.3-phuket-20121202.csv,648,Jacques Olckers,44,---,SAU,00:39:29,03:18:17,03:14:16,00:05:07,00:03:21,07:20:30
+ironman-70.3-phuket-20121202.csv,649,David Oliver,45,---,CHN,00:40:59,---,---,---,---,DNF
+ironman-70.3-phuket-20121202.csv,650,Chana Panchalard,---,---,THA,00:38:16,02:50:41,02:02:34,00:04:03,00:02:48,05:38:22
+ironman-70.3-phuket-20121202.csv,651,Songwuth Panyaopart,---,Chonburi,THA,00:49:59,03:08:08,03:01:52,00:04:19,00:05:28,07:09:46
+ironman-70.3-phuket-20121202.csv,652,Christopher Parker,45,---,THA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,653,Richard Julian Parkinson,45,Other,SGP,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,654,Paolo Patelli,49,---,CHE,00:35:32,02:49:19,01:57:44,00:03:30,00:03:06,05:29:11
+ironman-70.3-phuket-20121202.csv,655,Jeremy Paul,45,---,SGP,00:42:39,03:14:35,02:05:19,00:03:52,00:03:33,06:09:58
+ironman-70.3-phuket-20121202.csv,656,Richard Payne,48,Gauteng,ZAF,00:39:18,02:46:50,01:47:55,00:04:54,00:02:20,05:21:17
+ironman-70.3-phuket-20121202.csv,657,Tanes Petchkul,---,Phuket,THA,00:41:02,03:05:15,01:55:21,00:05:28,00:02:52,05:49:58
+ironman-70.3-phuket-20121202.csv,658,Pittet Siegfried,46,TX,THA,00:38:24,02:48:02,01:58:23,00:02:48,00:02:19,05:29:56
+ironman-70.3-phuket-20121202.csv,659,Paul Preen,46,---,THA,00:43:13,04:04:27,02:55:57,00:05:32,00:06:28,07:55:37
+ironman-70.3-phuket-20121202.csv,660,Phil Prosser,49,WA,AUS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,661,Wichan Puangmaha,47,samutprakarn,THA,00:49:07,03:32:38,02:39:58,00:04:06,00:03:16,07:09:05
+ironman-70.3-phuket-20121202.csv,662,Ratt Ratana Apiromyakij,46,Thailand,THA,00:50:34,03:31:51,02:39:17,00:05:18,00:03:49,07:10:49
+ironman-70.3-phuket-20121202.csv,663,John Raymond,---,NSW,AUS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,664,Ascanio Rodorigo,49,Rimini,ITA,00:58:08,03:21:29,02:31:55,00:06:12,00:03:58,07:01:42
+ironman-70.3-phuket-20121202.csv,665,Wichian Rungpraserdkun,---,_______,THA,00:44:15,03:04:00,02:10:40,00:05:38,00:03:35,06:08:08
+ironman-70.3-phuket-20121202.csv,667,Christian Maxwell Sanderson,46,"
+Bali",IDN,00:34:07,02:43:47,02:11:23,00:02:44,00:01:49,05:33:50
+ironman-70.3-phuket-20121202.csv,668,Michael Schmidt,45,---,DEU,00:40:53,02:58:48,02:12:11,00:03:50,00:02:47,05:58:29
+ironman-70.3-phuket-20121202.csv,669,Claus Schuermann,46,---,HKG,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,670,Michael Schwan,48,---,THA,00:39:27,02:40:22,01:42:39,00:05:53,00:04:21,05:12:42
+ironman-70.3-phuket-20121202.csv,671,William Spencer,47,CO,USA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,672,Mikael Sribhadung,47,SE,THA,---,03:56:18,02:45:17,01:10:45,00:07:35,07:59:55
+ironman-70.3-phuket-20121202.csv,673,Yingyong Subannarat,---,---,THA,00:48:12,03:24:45,02:08:52,00:03:46,00:02:52,06:28:27
+ironman-70.3-phuket-20121202.csv,674,Takashi Murakoshi,49,---,HKG,00:40:03,03:16:40,02:50:00,00:05:40,00:04:15,06:56:38
+ironman-70.3-phuket-20121202.csv,675,Thumporn Teasirivet,46,---,THA,00:41:28,03:10:37,02:37:45,00:04:58,00:03:06,06:37:54
+ironman-70.3-phuket-20121202.csv,676,Mr.Santi Tienwang,46,"Nonthaburi,",THA,00:46:13,05:00:57,03:04:45,00:06:02,00:05:20,09:03:17
+ironman-70.3-phuket-20121202.csv,677,Peter Tierney,46,---,SGP,00:36:23,03:20:37,02:16:05,00:07:37,00:07:35,06:28:17
+ironman-70.3-phuket-20121202.csv,678,John Tomnay,47,---,SGP,00:39:09,---,01:42:19,---,03:27:41,05:10:00
+ironman-70.3-phuket-20121202.csv,679,Dominic Toole,45,QLD,AUS,00:33:33,02:43:43,01:44:27,00:03:31,00:01:50,05:07:04
+ironman-70.3-phuket-20121202.csv,680,Paul Philip Trebilcock,---,---,CAN,00:40:45,03:12:48,02:09:41,00:05:36,00:05:52,06:14:42
+ironman-70.3-phuket-20121202.csv,681,Teera Tungmunpugdepong,---,---,THA,00:47:42,03:42:09,02:57:07,00:04:46,00:03:14,07:34:58
+ironman-70.3-phuket-20121202.csv,682,Graeme Turner,45,VIC,AUS,00:40:10,03:04:45,---,00:04:28,---,DNF
+ironman-70.3-phuket-20121202.csv,683,Andrei Tyoschin,45,JS,CHN,00:40:00,02:49:25,01:45:35,00:02:57,00:01:16,05:19:13
+ironman-70.3-phuket-20121202.csv,684,Vudthikorn Udol,---,Chonburi,THA,00:42:37,02:44:54,02:03:34,00:03:13,00:03:14,05:37:32
+ironman-70.3-phuket-20121202.csv,685,สันติ อุดมวงษ์กุล,47,KHONKAEN / THAILAND,THA,01:06:06,03:39:32,02:51:24,00:07:54,00:06:26,07:51:22
+ironman-70.3-phuket-20121202.csv,686,Ueki Yasutaka,47,ISH,JPN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,687,Koki Watanabe,45,osaka,JPN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,688,Marcel Weijers,46,WA,AUS,00:30:55,02:43:02,02:50:08,00:03:27,00:02:11,06:09:43
+ironman-70.3-phuket-20121202.csv,689,Andrew Wilding,49,SG,GBR,00:48:43,03:39:43,02:28:59,00:07:30,00:05:51,07:10:46
+ironman-70.3-phuket-20121202.csv,690,Nicholas Wodtke,46,---,SGP,00:38:57,03:25:11,01:58:19,00:04:19,00:03:50,06:10:36
+ironman-70.3-phuket-20121202.csv,691,Shih Chi Yeh,45,---,TWN,00:49:42,04:01:30,03:08:33,00:06:49,00:04:52,08:11:26
+ironman-70.3-phuket-20121202.csv,692,Paol Yu,---,Phuket,THA,00:44:29,03:02:36,02:05:06,00:04:14,00:02:40,05:59:05
+ironman-70.3-phuket-20121202.csv,693,Sandro Angelastri,54,---,CHE,00:31:27,02:29:07,01:40:50,00:02:06,00:01:21,04:44:51
+ironman-70.3-phuket-20121202.csv,694,Carlo Bacalla,50,---,PHL,01:01:03,03:49:45,02:49:04,00:07:41,00:04:04,07:51:37
+ironman-70.3-phuket-20121202.csv,695,Jeff Barley,53,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,696,Powell Cappel,52,CA,SGP,00:38:55,03:31:07,02:52:44,00:06:52,00:05:58,07:15:36
+ironman-70.3-phuket-20121202.csv,697,Corrado Carlini,51,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,698,Suvit Chatuchinda,50,---,THA,00:50:32,02:49:23,02:15:49,00:03:40,00:04:34,06:03:58
+ironman-70.3-phuket-20121202.csv,699,Jaehyung Choi,52,Intl State,KOR,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,700,Andrew Church,51,KwaZulu-Natal,ZAF,00:39:56,03:09:20,02:16:18,00:06:36,00:05:47,06:17:57
+ironman-70.3-phuket-20121202.csv,701,Henry Clark,50,DXB,ARE,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,702,Gonzalo Clemente,50,CA,VEN,00:40:42,03:30:58,---,00:04:58,---,DNF
+ironman-70.3-phuket-20121202.csv,703,Prayoon Deesuksaeng,---,Nakhonsawan,THA,00:41:33,03:16:02,03:10:07,00:04:28,00:04:17,07:16:27
+ironman-70.3-phuket-20121202.csv,704,Brian Easterby,54,AB,CAN,00:39:46,03:06:23,02:18:14,00:09:07,00:03:52,06:17:22
+ironman-70.3-phuket-20121202.csv,705,Barry Easterby,54,AB,CAN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,706,Kevin Fergusson,53,SA,AUS,00:29:40,02:26:50,01:34:25,00:02:50,00:01:30,04:35:15
+ironman-70.3-phuket-20121202.csv,707,Neil Franks,54,---,SGP,00:43:34,03:04:59,02:20:16,00:03:18,00:03:11,06:15:18
+ironman-70.3-phuket-20121202.csv,708,Gerald Geier,51,Intl State,DEU,00:24:13,03:03:37,02:28:16,00:04:50,00:04:56,06:05:52
+ironman-70.3-phuket-20121202.csv,709,Bob Green,49,---,CHN,00:44:49,03:26:04,02:22:52,00:04:14,00:02:41,06:40:40
+ironman-70.3-phuket-20121202.csv,710,Natthapong Grittikulapat,---,Bangkok,THA,00:46:39,03:04:51,02:26:10,00:04:04,00:02:13,06:23:57
+ironman-70.3-phuket-20121202.csv,711,Anton Grove,50,---,ARE,00:35:17,03:04:06,02:02:32,00:03:58,00:02:03,05:47:56
+ironman-70.3-phuket-20121202.csv,712,Lukas Haerder,50,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,713,Rosendo Hernandez,54,---,THA,00:50:01,03:12:16,02:31:24,00:05:45,00:03:14,06:42:40
+ironman-70.3-phuket-20121202.csv,714,Desmond Hill,52,Macau,CHN,00:37:14,02:51:09,01:49:04,00:03:20,00:02:22,05:23:09
+ironman-70.3-phuket-20121202.csv,715,Gerry Steinberg,52,Free State,DEU,00:40:39,02:49:09,01:45:47,00:02:27,00:02:08,05:20:10
+ironman-70.3-phuket-20121202.csv,716,Natapol Horsakul,---,Kanchanaburi,THA,00:41:02,03:06:33,02:33:05,00:04:28,00:04:46,06:29:54
+ironman-70.3-phuket-20121202.csv,717,Rolf Robert Kambli,---,Minato Ku,JPN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,718,Hyungsoo Kim,53,---,KOR,00:52:39,03:32:06,02:08:01,00:07:14,00:03:57,06:43:57
+ironman-70.3-phuket-20121202.csv,719,Don Lam,51,---,SGP,00:49:28,03:31:06,02:59:10,00:05:56,00:06:29,07:32:09
+ironman-70.3-phuket-20121202.csv,720,Laurent Denis,50,---,REU,00:32:51,02:49:39,02:32:05,00:04:12,00:03:34,06:02:21
+ironman-70.3-phuket-20121202.csv,721,Anuporn Lulitananda,---,Bangkok,THA,00:39:39,---,---,00:06:33,---,DNF
+ironman-70.3-phuket-20121202.csv,722,Denis Mahot,49,Other,FRA,00:34:59,02:42:17,01:36:05,00:03:29,00:02:56,04:59:46
+ironman-70.3-phuket-20121202.csv,723,Witthaya Maneejakr,53,Intl State,THA,00:40:37,03:24:47,02:47:49,00:03:13,00:03:37,07:00:03
+ironman-70.3-phuket-20121202.csv,724,Steven Mansell,50,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,725,Dario Martena,51,Italia,ITA,00:36:01,03:01:13,02:15:42,00:03:54,00:02:39,05:59:29
+ironman-70.3-phuket-20121202.csv,726,James Mcintosh,54,WA,USA,00:53:06,03:17:18,03:06:54,00:05:10,00:04:48,07:27:16
+ironman-70.3-phuket-20121202.csv,727,Isami Mitsuhashi,50,---,JPN,00:55:31,03:34:34,02:37:39,00:03:22,00:05:03,07:16:09
+ironman-70.3-phuket-20121202.csv,728,Mizukusa Koji,50,愛知県,THA,00:49:06,03:27:04,02:22:08,00:05:58,00:05:42,06:49:58
+ironman-70.3-phuket-20121202.csv,729,Stevie Morgan,52,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,730,Bill Murray,50,IL,USA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,731,Kijong Nam,52,---,KOR,00:43:01,03:36:10,02:45:08,00:05:49,00:03:16,07:13:24
+ironman-70.3-phuket-20121202.csv,732,Somsak Naraviojn,51,Bangkok,THA,---,03:55:05,02:47:48,01:09:10,00:04:06,07:56:09
+ironman-70.3-phuket-20121202.csv,733,Mark Nelson,51,bangkok,THA,00:33:42,03:00:31,02:46:26,00:02:44,00:02:27,06:25:50
+ironman-70.3-phuket-20121202.csv,734,Teresa O'Brien,50,CA,USA,00:40:47,04:19:43,03:22:56,00:06:27,00:20:09,08:50:02
+ironman-70.3-phuket-20121202.csv,735,Alex Oviedo,53,AP,GUM,00:43:08,03:25:11,02:15:22,00:04:39,00:02:59,06:31:19
+ironman-70.3-phuket-20121202.csv,736,Kristian Page,-2,---,THA,00:32:20,02:45:15,---,00:04:27,00:03:38,DNF
+ironman-70.3-phuket-20121202.csv,737,Mr.Wongkasem Pasuwan,51,none,THA,00:57:58,04:22:44,---,00:10:52,00:08:24,DNF
+ironman-70.3-phuket-20121202.csv,738,Sylvain Perret,50,---,THA,00:40:21,03:01:32,02:10:24,00:05:16,00:03:17,06:00:50
+ironman-70.3-phuket-20121202.csv,739,Mr.Suchat Pongprucg,53,Bangkok,THA,00:55:37,03:27:06,02:40:05,00:04:53,00:02:27,07:10:08
+ironman-70.3-phuket-20121202.csv,740,Kanitsorn Prayoonvivat,---,BANGKOK,THA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,741,Veerachai Ratanapapat,---,---,THA,00:49:11,03:59:41,---,00:08:06,00:07:22,DNF
+ironman-70.3-phuket-20121202.csv,742,Harold Roberts,54,---,---,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,743,Paul Rohwer,52,NSW,AUS,00:37:16,03:02:19,---,00:03:54,00:03:20,DNF
+ironman-70.3-phuket-20121202.csv,744,Noel Rossouw,54,Other,ARE,00:36:44,02:57:10,01:33:25,00:05:19,00:02:16,05:14:54
+ironman-70.3-phuket-20121202.csv,745,Karl Sherry,50,norfolk,GBR,00:34:05,02:49:40,01:40:42,00:04:26,00:03:15,05:12:08
+ironman-70.3-phuket-20121202.csv,746,Wichak Sirisae,53,Bangkok,THA,01:02:32,04:27:09,---,00:07:58,---,DNF
+ironman-70.3-phuket-20121202.csv,747,Juergen Soellner,50,---,DEU,00:35:54,02:44:43,01:39:35,00:03:02,00:01:44,05:04:58
+ironman-70.3-phuket-20121202.csv,748,John Sullivan,50,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,749,Christian Vang,51,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,750,Visarut Visanuvimol,---,Bangkok,THA,00:35:41,02:52:55,02:03:57,00:04:02,00:02:22,05:38:57
+ironman-70.3-phuket-20121202.csv,751,Andrew Walsh,50,KwaZulu-Natal,ZAF,00:44:37,02:55:46,01:49:24,00:05:03,00:02:15,05:37:05
+ironman-70.3-phuket-20121202.csv,752,Ching-Ya Yu,52,---,TWN,00:53:46,04:24:06,---,00:07:32,00:04:13,DNF
+ironman-70.3-phuket-20121202.csv,753,Kriangsak Atthawattana,---,_______&,THA,00:51:33,03:22:59,02:22:47,00:03:52,00:03:03,06:44:14
+ironman-70.3-phuket-20121202.csv,754,Roy Baerwolf,56,---,USA,00:56:00,03:50:47,---,00:09:46,00:33:15,DNF
+ironman-70.3-phuket-20121202.csv,755,David Bishop,56,WA,AUS,00:38:14,03:01:28,01:51:26,00:04:20,00:02:45,05:38:13
+ironman-70.3-phuket-20121202.csv,756,John Chauvin,57,LA,USA,00:34:57,02:53:40,01:58:04,00:03:50,00:02:53,05:33:24
+ironman-70.3-phuket-20121202.csv,757,John Douma,56,---,THA,00:36:40,02:47:50,01:53:39,00:02:49,00:01:58,05:22:56
+ironman-70.3-phuket-20121202.csv,758,Klaus Dr. Marquardt,56,---,DEU,00:38:42,02:42:18,01:46:11,00:02:36,00:02:17,05:12:04
+ironman-70.3-phuket-20121202.csv,759,Stéphane Gerard,56,---,BEL,00:41:24,03:42:15,03:20:27,00:05:23,00:04:13,07:53:42
+ironman-70.3-phuket-20121202.csv,760,Adrian Halkes,55,---,HKG,00:54:45,03:08:14,02:15:14,00:03:54,00:03:57,06:26:04
+ironman-70.3-phuket-20121202.csv,761,Lee Harkleroad,58,IL,USA,00:44:35,03:38:37,03:18:16,00:03:28,00:06:12,07:51:08
+ironman-70.3-phuket-20121202.csv,762,Buncha Lebkruth,---,_______&,THA,00:48:03,03:54:56,03:58:03,00:06:19,00:07:45,08:55:06
+ironman-70.3-phuket-20121202.csv,763,Hyo Sun Lee,56,---,KOR,00:45:52,00:04:51,---,00:06:48,---,DNF
+ironman-70.3-phuket-20121202.csv,764,Tao-Yang Lo,59,---,TWN,00:44:04,03:43:24,02:46:39,00:05:39,00:13:17,07:33:03
+ironman-70.3-phuket-20121202.csv,765,Chris Moll,54,QLD,AUS,00:45:56,03:15:49,02:16:44,00:05:27,00:04:05,06:28:01
+ironman-70.3-phuket-20121202.csv,766,Jahari (Joe Brown) Omar,56,---,SGP,00:54:30,03:57:08,03:04:02,00:06:06,00:06:12,08:07:58
+ironman-70.3-phuket-20121202.csv,767,Pier Luca,---,---,ITA,00:37:49,03:10:21,02:12:04,00:04:32,00:03:44,06:08:30
+ironman-70.3-phuket-20121202.csv,768,Brian Peace,55,---,THA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,769,Sean Rooney,59,QLD,SGP,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,770,Beat Scherrer,56,---,CHE,00:38:41,02:58:46,02:50:32,00:04:37,00:02:52,06:35:28
+ironman-70.3-phuket-20121202.csv,771,Doug Schildwachter,58,---,CAN,00:54:26,03:39:19,03:17:12,00:05:43,00:04:02,08:00:42
+ironman-70.3-phuket-20121202.csv,772,Joe Tanaka,58,Aichi,JPN,00:35:17,02:50:58,01:57:06,00:03:39,00:03:08,05:30:08
+ironman-70.3-phuket-20121202.csv,773,Angelo Tavares,57,Macau,MAC,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,774,Soichi Uchida,57,---,JPN,00:52:51,03:26:45,02:24:55,00:05:20,00:03:09,06:53:00
+ironman-70.3-phuket-20121202.csv,775,Uwe Warncke,57,---,THA,00:45:07,03:08:48,---,00:04:59,00:04:18,DNF
+ironman-70.3-phuket-20121202.csv,776,Hideo Yoshimizu,56,---,JPN,00:41:39,03:20:33,01:44:40,00:03:55,00:02:27,05:53:14
+ironman-70.3-phuket-20121202.csv,777,Hans Bock,60,---,SGP,00:45:38,03:58:51,03:08:12,00:04:52,00:04:10,08:01:43
+ironman-70.3-phuket-20121202.csv,778,Hermann Hefti,64,CH,CHE,00:42:36,02:49:07,01:51:55,00:02:20,00:02:26,05:28:24
+ironman-70.3-phuket-20121202.csv,779,Moriyuki Mori,60,---,JPN,00:50:12,03:14:43,02:16:58,00:06:43,00:01:41,06:30:17
+ironman-70.3-phuket-20121202.csv,780,Yukio Naito,61,---,JPN,01:00:38,04:00:49,02:39:05,00:07:27,00:04:52,07:52:51
+ironman-70.3-phuket-20121202.csv,781,Kenichi Ogahara,61,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,782,Jinseng Ong,63,Petchaburi,THA,01:02:26,---,03:05:39,00:15:05,05:00:48,08:06:27
+ironman-70.3-phuket-20121202.csv,783,Jean Perrin,63,---,THA,00:52:40,02:57:45,02:03:41,00:03:12,00:03:01,06:00:19
+ironman-70.3-phuket-20121202.csv,784,Sam Pritchard,62,Intl State,GBR,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,785,Viroj Rerksiripong,---,Samutprakarn,THA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,786,David Smith,60,ON,CAN,00:37:18,02:55:10,02:28:58,00:03:44,00:02:50,06:08:00
+ironman-70.3-phuket-20121202.csv,787,Robert Ban Seng Tan,---,singapore,SGP,01:01:22,03:40:44,02:37:39,00:05:52,00:04:17,07:29:54
+ironman-70.3-phuket-20121202.csv,788,Masashi Ando,65,Aichi,JPN,00:50:54,03:12:05,02:29:17,00:05:24,00:04:01,06:41:41
+ironman-70.3-phuket-20121202.csv,789,Kasem Charoenpanich,64,---,THA,01:03:13,03:48:37,02:59:30,00:05:26,00:07:54,08:04:40
+ironman-70.3-phuket-20121202.csv,790,Antonie De Wilde,66,---,IDN,00:53:44,03:58:49,03:28:20,00:08:18,00:10:19,08:39:30
+ironman-70.3-phuket-20121202.csv,791,Ampol Phongphiphat,---,Petchaburi,THA,01:02:02,03:58:48,03:30:29,00:05:58,00:04:53,08:42:10
+ironman-70.3-phuket-20121202.csv,792,Hartmut Sugg,65,---,DEU,00:47:59,03:15:17,02:04:27,00:08:25,00:05:09,06:21:17
+ironman-70.3-phuket-20121202.csv,793,Boonsom Wongruchu,---,---,THA,00:50:22,03:27:10,03:05:33,00:07:30,00:03:47,07:34:22
+ironman-70.3-phuket-20121202.csv,794,Shuwen Chang,22,---,SGP,00:34:39,03:21:33,01:54:20,00:02:43,00:01:55,05:55:10
+ironman-70.3-phuket-20121202.csv,795,Po-Shao Hsieh,23,---,TWN,00:31:41,03:00:14,01:45:43,00:02:49,00:02:11,05:22:38
+ironman-70.3-phuket-20121202.csv,796,Meifang Lin,---,Singapore,SGP,00:49:22,04:17:49,02:47:59,00:04:53,00:04:44,08:04:47
+ironman-70.3-phuket-20121202.csv,797,Monika Luberadzka,24,---,POL,00:38:49,03:29:07,02:21:59,00:03:34,00:02:29,06:35:58
+ironman-70.3-phuket-20121202.csv,798,Choo Ling Er,25,---,SGP,00:38:03,02:53:44,01:51:26,00:02:56,00:01:47,05:27:56
+ironman-70.3-phuket-20121202.csv,799,Lengelle Elodie,29,---,FRA,00:35:51,02:49:31,02:20:02,00:03:36,00:01:53,05:50:53
+ironman-70.3-phuket-20121202.csv,800,Marta Jekot,29,---,ZAF,00:38:57,03:12:43,02:11:04,00:03:04,00:01:40,06:07:28
+ironman-70.3-phuket-20121202.csv,801,Yolanda Mace,26,---,SGP,00:40:18,03:19:18,02:18:33,00:04:15,00:02:14,06:24:38
+ironman-70.3-phuket-20121202.csv,802,Leah Mink,27,CT,USA,00:59:59,03:39:45,01:57:46,00:05:58,00:04:38,06:48:06
+ironman-70.3-phuket-20121202.csv,803,Muncharin Phannarawong,29,Bangkok,THA,---,04:06:45,02:51:55,01:01:07,00:05:10,08:04:57
+ironman-70.3-phuket-20121202.csv,804,Fabiana Pizzali,29,CH,SGP,00:38:55,03:11:35,01:59:21,00:04:21,00:01:41,05:55:53
+ironman-70.3-phuket-20121202.csv,805,Julia Poutilina,28,---,RUS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,806,Jessica Rampone,28,CA,USA,00:38:30,04:26:33,03:13:07,00:14:47,00:10:05,08:43:02
+ironman-70.3-phuket-20121202.csv,807,Marta Salgado,28,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,808,Emily Thompson,27,AK,USA,00:49:20,03:32:53,02:20:21,00:04:18,00:03:08,06:50:00
+ironman-70.3-phuket-20121202.csv,809,Claire Walton,28,merseyside,MYS,00:37:31,02:53:13,01:41:12,00:04:02,00:01:41,05:17:39
+ironman-70.3-phuket-20121202.csv,810,Tamara Baker,30,---,KHM,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,811,Lisa Bommer,30,CA,USA,00:41:38,03:37:44,02:35:32,00:03:58,00:03:51,07:02:43
+ironman-70.3-phuket-20121202.csv,812,Kate Braybrook,32,TX,AUS,00:37:40,03:02:57,01:59:36,00:03:27,00:02:04,05:45:44
+ironman-70.3-phuket-20121202.csv,813,Samantha Cadwallader,34,---,ARE,00:32:38,03:06:08,01:54:57,00:04:22,00:01:56,05:40:01
+ironman-70.3-phuket-20121202.csv,814,Jin Lin Chan,30,---,MYS,00:36:25,03:29:42,02:18:14,00:06:16,00:02:58,06:33:35
+ironman-70.3-phuket-20121202.csv,815,Nevenka Cuk,33,---,HRV,00:28:41,02:58:23,01:55:10,00:02:26,00:02:18,05:26:58
+ironman-70.3-phuket-20121202.csv,816,Emma Dearsley,31,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,817,Virginie Didier,30,---,SGP,00:50:29,03:36:10,02:22:46,00:04:44,00:02:33,06:56:42
+ironman-70.3-phuket-20121202.csv,818,Furitani Akane,31,愛知県,JPN,00:30:18,03:21:13,02:16:23,00:08:58,00:04:01,06:20:53
+ironman-70.3-phuket-20121202.csv,819,Kylie Scholz,30,NT,AUS,00:33:45,02:48:27,01:53:20,00:02:16,00:01:31,05:19:19
+ironman-70.3-phuket-20121202.csv,820,Kate Gazzard,---,QLD,AUS,00:31:36,02:59:30,01:46:02,00:02:36,00:01:55,05:21:39
+ironman-70.3-phuket-20121202.csv,821,Alexis Girin,34,SG,THA,00:38:12,03:02:38,01:58:50,00:05:49,00:03:25,05:48:54
+ironman-70.3-phuket-20121202.csv,822,Meredith Grunden,32,AP,USA,00:37:19,03:18:22,01:45:51,00:03:41,00:02:37,05:47:50
+ironman-70.3-phuket-20121202.csv,823,Jesse Izdepski,33,AP,THA,00:39:52,03:13:20,01:44:28,00:03:24,00:04:02,05:45:06
+ironman-70.3-phuket-20121202.csv,824,Jana Jaruskova,31,Praha zapad,CZE,00:47:37,03:27:51,02:28:06,00:03:41,00:03:19,06:50:34
+ironman-70.3-phuket-20121202.csv,825,Vanessa Johnston,30,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,826,Michelle Miller,30,WA,GUM,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,827,Jackie Naude,32,KwaZulu-Natal,ZAF,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,828,Nampetch Porntharukcharoen,34,BKK,THA,00:42:31,03:05:44,01:56:47,00:04:27,00:02:40,05:52:09
+ironman-70.3-phuket-20121202.csv,829,Natalie Powell,33,---,ZAF,00:42:55,04:11:58,02:50:40,00:04:22,00:04:36,07:54:31
+ironman-70.3-phuket-20121202.csv,830,Karly Redwood,32,---,AUS,00:39:48,03:48:30,02:25:14,00:06:29,00:04:05,07:04:06
+ironman-70.3-phuket-20121202.csv,831,Naomi Shephard,30,---,AUS,00:32:58,03:00:52,01:57:10,00:03:34,00:01:38,05:36:12
+ironman-70.3-phuket-20121202.csv,832,Christina Sjoberg,31,VA,USA,00:39:09,03:14:17,02:14:14,00:04:43,00:03:28,06:15:51
+ironman-70.3-phuket-20121202.csv,833,Jocelyn Smith,31,WA,AUS,00:36:22,02:56:47,01:52:07,00:04:14,00:01:41,05:31:11
+ironman-70.3-phuket-20121202.csv,834,Vanessa Soulavy,33,FL,VEN,00:35:50,03:00:52,01:55:40,00:03:15,00:02:10,05:37:47
+ironman-70.3-phuket-20121202.csv,835,Tamara Spargo,32,VIC,AUS,00:42:21,03:12:19,01:40:36,00:04:35,00:03:51,05:43:42
+ironman-70.3-phuket-20121202.csv,836,Mariana Stoltz,32,---,ZAF,00:47:36,03:29:42,03:06:27,00:06:05,00:06:54,07:36:44
+ironman-70.3-phuket-20121202.csv,837,Lucy Thompson,29,NT,AUS,00:40:57,03:20:15,02:17:06,00:04:51,00:04:41,06:27:50
+ironman-70.3-phuket-20121202.csv,838,Katrina Abelarde,37,---,PHL,00:53:00,04:08:29,02:35:40,00:05:20,00:05:26,07:47:55
+ironman-70.3-phuket-20121202.csv,839,Lauren Cannell,36,TAS,AUS,00:45:52,03:22:34,02:16:35,00:04:26,00:03:34,06:33:01
+ironman-70.3-phuket-20121202.csv,840,Nickey Barnard,39,---,ZAF,00:30:14,02:50:09,01:47:15,00:02:02,00:01:36,05:11:16
+ironman-70.3-phuket-20121202.csv,841,Emiliano Bernardini,36,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,842,ANDREA BESS,35,CA,BRA,00:36:21,02:50:43,01:39:21,00:02:54,00:02:03,05:11:22
+ironman-70.3-phuket-20121202.csv,843,Martina Schmidt,35,---,DEU,00:39:08,03:07:05,02:01:27,00:05:07,00:02:04,05:54:51
+ironman-70.3-phuket-20121202.csv,844,Amanda Borlotti,36,Other,ARE,00:52:08,03:51:50,02:32:28,00:08:42,00:08:37,07:33:45
+ironman-70.3-phuket-20121202.csv,845,Carlos Da Fonseca,35,---,NLD,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,846,Marinda Engelbrecht,39,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,847,Robin Harris,39,---,HKG,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,848,Andria Hayes,39,AK,USA,00:48:52,03:20:20,02:15:37,00:04:18,00:04:14,06:33:21
+ironman-70.3-phuket-20121202.csv,849,Gemma Hollis,37,TX,SGP,00:38:02,03:18:32,02:13:34,00:02:18,00:02:09,06:14:35
+ironman-70.3-phuket-20121202.csv,850,Stephen Hull,38,---,HKG,00:44:22,03:28:40,02:19:48,00:10:15,00:02:12,06:45:17
+ironman-70.3-phuket-20121202.csv,851,Peeraporn Jaroonchaikanakij,38,bangkok,THA,00:42:51,03:42:52,02:32:26,00:06:22,00:04:10,07:08:41
+ironman-70.3-phuket-20121202.csv,852,Hee Chul Jwa,39,---,KOR,00:40:34,03:02:51,02:18:08,00:03:17,00:03:02,06:07:52
+ironman-70.3-phuket-20121202.csv,853,Christine Kohler Neri,38,---,KOR,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,854,Shiao-Yu Li,35,---,TWN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,855,Sara Louise Mccosh,---,Pracha Utit Road,THA,00:42:20,03:11:45,02:49:30,00:03:40,00:04:07,06:51:22
+ironman-70.3-phuket-20121202.csv,856,Wencke Linsel,---,---,DEU,00:39:11,03:21:59,01:52:39,00:04:04,00:01:53,05:59:46
+ironman-70.3-phuket-20121202.csv,857,Angela Locke,38,---,SGP,00:54:14,03:38:26,02:55:47,00:05:19,00:04:57,07:38:43
+ironman-70.3-phuket-20121202.csv,858,Massimiliano Mancosu,39,---,CHN,00:39:46,03:06:14,02:25:08,00:03:44,00:02:41,06:17:33
+ironman-70.3-phuket-20121202.csv,859,Andrea Memminger,36,---,DEU,00:36:02,03:01:18,01:47:33,00:02:28,00:01:52,05:29:13
+ironman-70.3-phuket-20121202.csv,860,Trista Mennen,35,NC,MYS,00:34:39,04:19:12,03:01:47,00:05:10,00:07:30,08:08:18
+ironman-70.3-phuket-20121202.csv,861,Jeneane Paxson,35,---,SGP,00:41:12,03:23:46,02:21:13,00:03:41,00:02:20,06:32:12
+ironman-70.3-phuket-20121202.csv,862,Katheryn Polkinghorne,37,---,ZAF,00:36:09,03:20:07,02:13:23,00:04:31,00:03:54,06:18:04
+ironman-70.3-phuket-20121202.csv,863,Gordon Robson,36,DXB,GBR,00:42:04,02:53:06,02:06:03,00:03:16,00:02:36,05:47:05
+ironman-70.3-phuket-20121202.csv,864,Jessica Roed,38,---,SGP,00:34:27,02:57:40,02:02:14,00:03:21,00:02:09,05:39:51
+ironman-70.3-phuket-20121202.csv,865,Per Cato Roed,36,---,SGP,00:32:29,02:52:17,---,00:03:12,00:02:44,DNF
+ironman-70.3-phuket-20121202.csv,866,Kate Rutherford,39,---,HKG,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,867,Meike Salvado,35,---,THA,00:49:07,03:39:00,02:26:41,00:06:03,00:04:51,07:05:42
+ironman-70.3-phuket-20121202.csv,868,Julie Savoie,38,---,HKG,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,869,Linda Scattolin,37,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,870,Aisling Seberry,---,---,THA,00:56:25,04:17:53,03:27:17,00:05:38,00:04:26,08:51:39
+ironman-70.3-phuket-20121202.csv,871,Lina Shehadeh,35,DXB,JOR,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,872,Victoria Shubina,38,Saint-Petersburg,RUS,00:34:44,02:47:28,01:52:21,00:02:09,00:01:51,05:18:33
+ironman-70.3-phuket-20121202.csv,873,Yvonne Siew,39,Selangor,MYS,00:52:27,04:03:09,03:23:11,00:06:42,00:06:55,08:32:24
+ironman-70.3-phuket-20121202.csv,874,Sara Davis,36,NC,USA,00:40:57,03:20:16,02:14:43,00:04:11,00:03:06,06:23:13
+ironman-70.3-phuket-20121202.csv,875,Tassawan Sirivongs,37,Bangkok,THA,00:34:37,---,01:17:35,---,05:27:00,06:44:35
+ironman-70.3-phuket-20121202.csv,876,Mari Stasco,38,AK,USA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,877,Lesley Li Lian Tan,35,---,MYS,00:45:21,03:22:26,02:11:39,00:03:38,00:02:20,06:25:24
+ironman-70.3-phuket-20121202.csv,878,Julie Uebel,37,QLD,AUS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,879,Virginia Vasconcelos,37,GO,BRA,00:37:33,02:59:37,01:50:27,00:02:40,00:01:45,05:32:02
+ironman-70.3-phuket-20121202.csv,880,Meshelle Araceli Villanueva,39,Mandaluyong  City,PHL,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,881,Cindy Wells,37,---,ZAF,00:43:13,03:28:59,01:57:15,00:07:29,00:06:04,06:23:00
+ironman-70.3-phuket-20121202.csv,882,Alex Welsh,37,---,HKG,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,883,Robert Czeschka,---,---,VEN,00:39:16,03:17:27,02:22:39,00:03:53,00:04:13,06:27:28
+ironman-70.3-phuket-20121202.csv,884,Sarah Wheeler,---,---,---,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,885,Norlinda Zainuddin,37,Singapore,SGP,01:01:11,03:53:31,02:33:03,00:05:39,00:05:02,07:38:26
+ironman-70.3-phuket-20121202.csv,886,Stephanie Adkinson,42,OH,USA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,887,Siok Bee Ong,41,---,MYS,00:54:57,03:32:41,02:25:08,00:05:45,00:03:43,07:02:14
+ironman-70.3-phuket-20121202.csv,888,Melissa Blank,42,---,AUS,00:37:44,03:27:08,02:22:10,00:03:05,00:03:47,06:33:54
+ironman-70.3-phuket-20121202.csv,889,Kirsten Cadle,43,WA,AUS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,890,Dominique Caminada,40,---,BHR,00:51:21,04:29:21,02:37:25,00:06:14,00:07:33,08:11:54
+ironman-70.3-phuket-20121202.csv,891,Karen Fairley,42,---,HKG,00:33:50,03:03:34,02:00:56,00:04:27,00:02:56,05:45:43
+ironman-70.3-phuket-20121202.csv,892,Liz Fancutt,40,---,AUS,00:32:53,02:36:55,01:47:22,00:02:18,00:02:16,05:01:44
+ironman-70.3-phuket-20121202.csv,893,Beatrice Joliot,42,---,SGP,00:41:45,03:03:39,01:59:30,00:03:50,00:02:22,05:51:06
+ironman-70.3-phuket-20121202.csv,894,Anja Kunze,40,---,DEU,00:34:26,03:02:09,01:57:19,00:03:12,00:01:37,05:38:43
+ironman-70.3-phuket-20121202.csv,895,Carmen Leong,43,Selangor,MYS,00:47:36,03:20:37,02:00:41,00:03:00,00:02:34,06:14:28
+ironman-70.3-phuket-20121202.csv,896,Surya Wahana Lie,43,Intl State,IDN,00:42:43,03:51:27,02:53:35,00:06:19,00:05:11,07:39:15
+ironman-70.3-phuket-20121202.csv,897,Regina Lombard,40,---,ARE,00:52:58,03:22:06,02:23:56,00:03:55,00:02:19,06:45:14
+ironman-70.3-phuket-20121202.csv,898,Rebecca Mckee,40,AK,USA,00:37:01,---,---,00:02:24,---,DNF
+ironman-70.3-phuket-20121202.csv,899,Mari Okamoto,41,Tokyo,JPN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,900,Kaoru Parkinson,42,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,901,Charlotte Rayner,41,---,GBR,00:48:08,03:46:22,02:39:55,00:03:26,00:03:01,07:20:52
+ironman-70.3-phuket-20121202.csv,902,Emmanuel John Roccas,---,Edenvale,ZAF,00:41:20,03:00:14,02:17:07,00:03:01,00:03:04,06:04:46
+ironman-70.3-phuket-20121202.csv,903,Alison Siepker,41,NC,USA,00:49:34,03:57:21,03:08:04,00:06:04,00:06:27,08:07:30
+ironman-70.3-phuket-20121202.csv,904,Siriporn Sothikul,---,Bangkok,THA,00:42:18,03:19:48,02:09:41,00:03:16,00:02:09,06:17:12
+ironman-70.3-phuket-20121202.csv,905,Edith Niederfringer,---,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,906,Kirsty Thompson,40,Western Cape,ZAF,00:36:47,02:44:50,01:57:30,00:03:51,00:02:05,05:25:03
+ironman-70.3-phuket-20121202.csv,907,Rebecca Thorburn,41,Phuket,THA,00:32:54,02:59:25,01:57:54,00:03:25,00:02:11,05:35:49
+ironman-70.3-phuket-20121202.csv,908,Pablo Trovero,44,FL,ARG,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,909,Marcel Wespi,43,Intl State,CHE,00:33:10,02:40:40,01:53:32,00:01:50,00:01:58,05:11:10
+ironman-70.3-phuket-20121202.csv,910,David Wright,43,---,ZAF,00:37:40,03:04:02,02:17:07,00:02:57,00:03:00,06:04:46
+ironman-70.3-phuket-20121202.csv,911,Min-Amy Xu,44,MN,USA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,912,Somsakul Aramwatanapong,45,Bangkok,THA,00:54:04,03:57:12,02:09:32,00:06:15,00:01:48,07:08:51
+ironman-70.3-phuket-20121202.csv,913,Elena Borghese,47,---,ITA,00:35:48,03:20:42,02:30:12,00:03:15,00:02:51,06:32:48
+ironman-70.3-phuket-20121202.csv,914,Michel Borst,46,---,SGP,00:41:24,03:16:46,02:18:43,00:05:28,00:03:22,06:25:43
+ironman-70.3-phuket-20121202.csv,915,Sharon Clements,48,NC,CHN,00:41:34,03:36:06,02:01:59,00:03:50,00:02:28,06:25:57
+ironman-70.3-phuket-20121202.csv,916,Britta Olson Dempsey,---,Sterling,USA,00:43:13,03:37:16,03:12:56,00:05:43,00:03:58,07:43:06
+ironman-70.3-phuket-20121202.csv,917,Viktoria Hadley,45,---,ARE,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,918,Beate Kleindienst,46,---,DEU,00:39:56,03:00:19,02:01:50,00:03:45,00:02:53,05:48:43
+ironman-70.3-phuket-20121202.csv,919,Joey-Lynn Musselman,46,BC,SGP,00:35:34,03:03:38,01:55:09,00:03:05,00:01:40,05:39:06
+ironman-70.3-phuket-20121202.csv,920,Julie Rossouw,48,Other,ARE,00:38:48,03:12:50,02:10:36,00:05:19,00:02:08,06:09:41
+ironman-70.3-phuket-20121202.csv,921,Andrea Steffens,47,---,ITA,00:38:31,03:26:33,02:05:02,00:03:50,00:02:47,06:16:43
+ironman-70.3-phuket-20121202.csv,922,Stenin Yurly,49,Moscow,RUS,00:40:15,02:57:19,01:56:36,00:03:55,00:02:34,05:40:39
+ironman-70.3-phuket-20121202.csv,923,Laura Walsh,48,AB,HKG,00:35:13,02:44:33,01:46:49,00:02:49,00:01:32,05:10:56
+ironman-70.3-phuket-20121202.csv,924,Akiyo Yamada,48,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,925,Manida Zinmerman,46,CA,THA,00:48:43,---,---,00:04:54,---,DNF
+ironman-70.3-phuket-20121202.csv,926,John Auriac,51,QLD,AUS,00:35:46,02:39:53,01:39:19,00:02:42,00:01:24,04:59:04
+ironman-70.3-phuket-20121202.csv,927,Bev Baker,51,Gauteng,ZAF,00:37:42,03:14:55,02:16:04,00:04:28,00:02:57,06:16:06
+ironman-70.3-phuket-20121202.csv,928,Herv� Breton,50,FR,FRA,00:58:10,03:22:45,03:02:01,00:08:51,00:04:22,07:36:09
+ironman-70.3-phuket-20121202.csv,929,Junghwa Choi,50,---,KOR,00:49:43,03:51:46,02:34:31,00:05:36,00:05:00,07:26:36
+ironman-70.3-phuket-20121202.csv,930,Dominiek Desmet,53,BANGKOK,THA,00:53:01,03:24:29,02:21:05,00:05:48,00:04:23,06:48:46
+ironman-70.3-phuket-20121202.csv,931,Catherine Fullford,52,QLD,AUS,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,932,Andrew Garrett,50,DXB,ARE,00:33:01,02:49:05,01:55:40,00:02:31,00:01:28,05:21:45
+ironman-70.3-phuket-20121202.csv,933,Denise Mitchell,50,---,SAU,00:45:09,03:09:43,02:00:21,00:03:24,00:02:42,06:01:19
+ironman-70.3-phuket-20121202.csv,934,Lynda Sharp,51,Bangkok,THA,00:39:03,03:08:14,02:03:19,00:03:28,00:02:00,05:56:04
+ironman-70.3-phuket-20121202.csv,935,John Svensson,50,WA,USA,00:36:35,02:34:27,01:44:33,00:02:15,00:02:46,05:00:36
+ironman-70.3-phuket-20121202.csv,936,Terry Todd,54,Western Cape,ZAF,00:38:55,03:03:25,02:03:57,00:03:37,00:01:26,05:51:20
+ironman-70.3-phuket-20121202.csv,937,Pablo Vazquez-Reina Vazquez,50,---,ESP,00:36:11,03:01:54,02:16:47,00:03:37,00:03:48,06:02:17
+ironman-70.3-phuket-20121202.csv,938,Ian Wright,51,---,GBR,---,02:49:52,02:06:43,00:48:21,00:02:43,05:47:39
+ironman-70.3-phuket-20121202.csv,939,Christopher Bray,58,---,SGP,00:43:50,03:23:17,02:35:59,00:05:24,00:03:56,06:52:26
+ironman-70.3-phuket-20121202.csv,940,Curridori Valerio,59,italy,ITA,00:40:55,02:45:46,01:42:04,00:03:44,00:02:03,05:14:32
+ironman-70.3-phuket-20121202.csv,941,D'Arcy Honeycutt,56,ND,USA,00:46:37,03:28:21,02:32:29,00:06:11,00:03:02,06:56:40
+ironman-70.3-phuket-20121202.csv,942,Ana Leitao,57,Intl State,MAC,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,943,Debra Moll,56,QLD,AUS,00:55:15,03:46:28,02:23:13,00:06:41,00:03:43,07:15:20
+ironman-70.3-phuket-20121202.csv,944,Ellyn Brown,60,AK,USA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,945,Pawut Mohmai,---,---,THA,00:45:29,02:59:43,02:07:57,00:03:59,00:04:06,06:01:14
+ironman-70.3-phuket-20121202.csv,946,Patrice Robustelli,34,Intl State,THA,00:31:46,02:37:51,01:44:15,00:02:33,00:02:32,04:58:57
+ironman-70.3-phuket-20121202.csv,947,Thomas Chevrier,40,Intl State,SGP,00:43:05,03:35:18,03:13:00,00:08:49,00:07:29,07:47:41
+ironman-70.3-phuket-20121202.csv,948,Nicholas Scalco,41,LA,USA,00:43:17,04:23:34,---,00:10:44,---,DNF
+ironman-70.3-phuket-20121202.csv,949,Brendan Mckee,46,AK,USA,00:52:14,02:47:52,02:05:08,00:03:43,00:03:43,05:52:40
+ironman-70.3-phuket-20121202.csv,950,Praiwan Imkeaw,---,---,THA,00:42:28,02:55:12,01:52:30,00:04:02,00:02:57,05:37:09
+ironman-70.3-phuket-20121202.csv,951,Sudjai Intanai,---,---,THA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,952,Pattarachai Sansing,---,---,THA,00:35:44,02:42:51,01:49:10,00:02:43,00:01:51,05:12:19
+ironman-70.3-phuket-20121202.csv,953,Chana Phanchalard,---,---,THA,---,---,---,---,---,DNS
+ironman-70.3-phuket-20121202.csv,954,Johannes Rabl,---,---,THA,00:34:42,02:45:05,01:58:09,00:02:10,00:01:50,05:21:56
+ironman-70.3-phuket-20121202.csv,955,Teerayuth Koommit,---,---,THA,00:50:35,03:47:33,03:23:01,00:04:25,00:02:53,08:08:27
+ironman-70.3-phuket-20121202.csv,956,Apisit Kahapana,---,---,THA,00:42:54,03:08:27,02:24:44,00:04:55,00:02:37,06:23:37
+ironman-70.3-phuket-20121202.csv,957,Chalem Phromchan,---,---,THA,00:48:05,03:11:10,02:30:21,00:03:51,00:04:41,06:38:08
+ironman-70.3-phuket-20121202.csv,959,Clare Atkinson,---,---,---,00:48:32,03:45:20,02:03:17,00:04:29,00:03:53,06:45:31
+ironman-70.3-phuket-20121202.csv,960,Jamie Meyer,---,---,SGP,00:37:13,02:48:44,01:53:04,00:04:54,00:02:16,05:26:11
+ironman-70.3-phuket-20121202.csv,969,Konstantin Azyavin,---,---,RUS,00:39:52,03:43:43,---,00:06:47,00:05:28,DNF
+ironman-70.3-phuket-20121202.csv,969,Konstantin Azyavin,---,---,RUS,00:39:52,03:43:43,---,00:06:47,00:05:28,DNF

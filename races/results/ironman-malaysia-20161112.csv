@@ -1,0 +1,885 @@
+#File=ironman-malaysia-20161112.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-malaysia-20161112.csv,1,Frederik Croneborg,36,---,SWE,00:52:36,04:42:02,03:01:22,00:01:48,00:01:24,08:39:12
+ironman-malaysia-20161112.csv,2,Harry Wiltshire,33,Intl State,GBR,00:48:41,04:48:13,03:16:06,00:01:32,00:01:28,08:56:00
+ironman-malaysia-20161112.csv,4,Alberto Casadei,30,Intl State,ITA,00:48:49,05:02:04,03:05:37,00:02:00,00:02:07,09:00:37
+ironman-malaysia-20161112.csv,6,Kaito Tohara,27,kanagawa,JPN,00:53:21,04:48:45,02:57:29,00:01:49,00:01:42,08:43:06
+ironman-malaysia-20161112.csv,7,Antony Costes,26,---,FRA,00:48:52,04:48:58,04:27:45,00:01:56,00:01:45,10:09:16
+ironman-malaysia-20161112.csv,8,Ritchie Nicholls,29,Derry,GAB,00:52:37,04:59:05,03:09:46,00:01:42,00:01:49,09:04:59
+ironman-malaysia-20161112.csv,9,Jeremy Jurkiewicz,28,---,FRA,00:48:45,04:45:55,03:08:55,00:01:41,00:01:44,08:47:00
+ironman-malaysia-20161112.csv,10,Balazs Csoke,33,TX,HUN,00:48:41,05:14:01,03:09:41,00:01:43,00:02:38,09:16:44
+ironman-malaysia-20161112.csv,11,Nick Baldwin,28,WA,SYC,00:55:15,04:41:30,03:13:14,00:01:46,00:01:47,08:53:32
+ironman-malaysia-20161112.csv,12,Henry Beck,31,---,DEU,00:49:59,05:15:45,---,00:02:15,00:04:03,DNF
+ironman-malaysia-20161112.csv,15,Mitch Dean,37,NSW,AUS,00:49:03,04:47:05,---,00:02:07,00:03:52,DNF
+ironman-malaysia-20161112.csv,16,Eneko Elosegi,33,---,ESP,01:01:16,05:01:13,04:00:28,00:01:59,00:02:07,10:07:03
+ironman-malaysia-20161112.csv,17,Nicolas Hemet,38,---,FRA,00:57:33,---,---,00:02:12,---,DNF
+ironman-malaysia-20161112.csv,18,Guillaume Jeannin,34,---,FRA,00:55:17,04:54:23,---,00:01:55,00:01:56,DNF
+ironman-malaysia-20161112.csv,22,Urs Müller,33,---,CHE,00:53:49,04:55:55,03:27:20,00:01:50,00:02:20,09:21:14
+ironman-malaysia-20161112.csv,23,Marek Nemcik,41,Intl State,SVK,01:15:20,06:12:19,04:55:39,00:03:58,00:04:26,12:31:42
+ironman-malaysia-20161112.csv,24,Younghwan Oh,36,Intl State,KOR,01:03:20,05:05:22,03:19:10,00:02:18,00:02:27,09:32:37
+ironman-malaysia-20161112.csv,25,Ryan Palazzi,36,QLD,AUS,00:52:40,04:56:17,---,00:01:49,00:02:45,DNF
+ironman-malaysia-20161112.csv,26,Daniil Sapunov,34,Kiev,UKR,00:48:51,04:47:29,02:59:50,00:02:07,00:06:43,08:45:00
+ironman-malaysia-20161112.csv,27,Jonathan Shearon,36,AZ,USA,00:55:22,04:48:55,---,00:01:47,00:02:34,DNF
+ironman-malaysia-20161112.csv,29,Josef Svoboda,39,Intl State,CZE,01:15:42,06:11:47,04:16:16,00:04:09,00:04:17,11:52:11
+ironman-malaysia-20161112.csv,30,Darby Thomas,33,Intl State,FIN,01:00:11,04:41:38,03:36:52,00:02:08,00:01:49,09:22:38
+ironman-malaysia-20161112.csv,31,Thiago Vinhal,33,Intl State,BRA,00:51:23,04:44:11,02:59:08,00:02:22,00:02:41,08:39:45
+ironman-malaysia-20161112.csv,32,Marcel Zamora Perez,38,Intl State,ESP,00:52:36,04:45:08,03:10:37,00:01:40,00:02:49,08:52:50
+ironman-malaysia-20161112.csv,41,Diana Riesler,32,---,DEU,00:58:50,05:01:33,03:21:37,00:01:59,00:01:35,09:25:34
+ironman-malaysia-20161112.csv,44,Shiao-Yu Li,39,---,TWN,01:05:28,05:31:13,03:40:13,00:02:27,00:01:50,10:21:11
+ironman-malaysia-20161112.csv,45,Mareen Hufe,38,---,DEU,01:00:37,05:06:25,03:24:30,00:02:17,00:01:35,09:35:24
+ironman-malaysia-20161112.csv,46,Tine Holst,36,---,DNK,01:05:24,05:13:10,03:19:16,00:01:59,00:01:59,09:41:48
+ironman-malaysia-20161112.csv,47,Brooke Brown,37,ON,CAN,01:07:05,---,---,00:07:00,---,DNF
+ironman-malaysia-20161112.csv,49,Erin Green,35,ID,USA,01:01:01,05:33:18,03:31:03,00:02:41,00:03:51,10:11:54
+ironman-malaysia-20161112.csv,50,Leslie Dimichele Miller,31,VA,USA,00:57:53,05:25:57,04:16:19,00:02:22,00:01:58,10:44:29
+ironman-malaysia-20161112.csv,51,Maki Nishiuchi,41,Intl State,JPN,00:57:45,05:39:25,03:53:17,00:02:03,00:02:24,10:34:54
+ironman-malaysia-20161112.csv,53,Lina-Kristin Schink,33,---,DEU,01:11:47,05:29:10,03:40:19,00:02:18,00:01:39,10:25:13
+ironman-malaysia-20161112.csv,54,Laura Siddall,36,CA,GBR,01:00:33,05:05:57,03:27:09,00:02:24,00:01:48,09:37:51
+ironman-malaysia-20161112.csv,101,Mohammed Sharif Jallad,24,AUH,JOR,01:24:13,07:34:09,05:50:51,00:06:56,00:08:45,15:04:54
+ironman-malaysia-20161112.csv,102,Albert Lopez Deulofeu,23,---,ESP,01:08:39,05:58:55,04:46:56,00:05:12,00:06:02,12:05:44
+ironman-malaysia-20161112.csv,103,Hojuan Atsushi,22,滋賀県,JPN,00:58:21,06:20:04,05:09:22,00:03:21,00:04:35,12:35:43
+ironman-malaysia-20161112.csv,104,Pankaj Ravalu,19,Maharashtra,IND,01:13:39,05:46:05,04:42:52,00:03:10,00:04:46,11:50:32
+ironman-malaysia-20161112.csv,105,Ronald Liong,24,"
+DKI Jakarta",IDN,01:30:33,07:07:36,05:05:24,00:04:03,00:06:34,13:54:10
+ironman-malaysia-20161112.csv,106,Sherman Tan,24,---,SGP,01:15:06,07:24:24,04:58:54,00:04:51,00:06:34,13:49:49
+ironman-malaysia-20161112.csv,107,Eu Hen Seah,20,Wilayah Persekutuan Kuala Lumpur,MYS,01:25:16,07:56:00,06:53:40,00:11:14,00:10:04,16:36:14
+ironman-malaysia-20161112.csv,108,Victor Kung Chi Wai,20,---,MYS,01:16:26,07:41:49,05:55:41,00:07:30,00:13:22,15:14:48
+ironman-malaysia-20161112.csv,109,Noel Eliezer Navarro,24,NCR,PHL,01:29:48,---,---,00:07:05,---,DNF
+ironman-malaysia-20161112.csv,111,Masaki Kurita,21,東京都,JPN,01:19:32,06:14:56,05:40:47,00:07:05,00:05:12,13:27:32
+ironman-malaysia-20161112.csv,112,Muhamad Syafiq Rusli,21,Malaysia,MYS,01:46:39,07:10:09,05:44:07,00:05:15,00:11:03,14:57:13
+ironman-malaysia-20161112.csv,113,Jacob Lemholt,22,---,DNK,01:07:49,05:23:28,03:54:08,00:03:29,00:02:29,10:31:23
+ironman-malaysia-20161112.csv,114,Wataru Oshiro,21,東京都,JPN,01:03:10,06:42:44,05:33:57,00:05:42,00:06:08,13:31:41
+ironman-malaysia-20161112.csv,115,Hironori Kanzaki,23,Tokyo,JPN,01:12:44,07:49:40,06:42:14,00:08:27,00:10:50,16:03:55
+ironman-malaysia-20161112.csv,116,Hayato Akazawa,22,東京都,JPN,01:10:18,06:42:57,07:48:29,00:06:43,00:14:50,16:03:17
+ironman-malaysia-20161112.csv,117,Chee Yong Lim,19,Kedah (Alor Star),MYS,01:20:20,06:05:42,04:18:31,00:06:00,00:06:45,11:57:18
+ironman-malaysia-20161112.csv,118,Kazuya Matsui,22,ISH,JPN,01:28:31,07:41:40,---,00:05:22,00:07:45,DNF
+ironman-malaysia-20161112.csv,119,Ram Sahai Yadav,24,Maharashtra,IND,01:51:39,08:06:41,04:52:04,00:07:26,00:04:50,15:02:40
+ironman-malaysia-20161112.csv,120,Shaun Wood,24,London,GBR,01:03:21,05:41:33,04:15:06,00:03:20,00:02:42,11:06:02
+ironman-malaysia-20161112.csv,121,Daniel Haack,22,---,DNK,01:14:23,05:27:24,04:16:09,00:04:49,00:05:24,11:08:09
+ironman-malaysia-20161112.csv,122,Khairul Nizam Azizan,21,LANGKAWI,MYS,02:07:43,07:45:30,06:23:11,00:05:23,00:09:49,16:31:36
+ironman-malaysia-20161112.csv,123,Yuki Udaka,24,愛媛県,JPN,01:20:44,06:31:16,04:54:37,00:03:48,00:05:24,12:55:49
+ironman-malaysia-20161112.csv,124,Dennis Wei Min Lim,24,---,SGP,01:05:24,05:47:32,04:04:47,00:03:28,00:04:06,11:05:17
+ironman-malaysia-20161112.csv,125,Norfazzreen Sanusi,20,PERAK,MYS,01:13:07,06:06:06,06:28:59,00:05:25,00:05:05,13:58:42
+ironman-malaysia-20161112.csv,126,Akiko Inaba,23,神奈川県,JPN,01:03:33,07:34:42,04:48:50,00:06:48,00:11:29,13:45:22
+ironman-malaysia-20161112.csv,127,Karlie Jennings,23,QLD,AUS,00:58:00,05:56:28,04:21:38,00:03:09,00:03:38,11:22:53
+ironman-malaysia-20161112.csv,128,Natsuki Kamijo,23,東京,JPN,01:12:38,06:34:35,04:52:29,00:07:43,00:03:37,12:51:02
+ironman-malaysia-20161112.csv,129,Yusuke Terada,29,東京,JPN,01:13:00,05:57:01,03:55:49,00:04:10,00:02:07,11:12:07
+ironman-malaysia-20161112.csv,130,Ryan Agustyan,28,"Jawa Barat
+Jakarta Barat",IDN,01:38:19,06:38:21,05:11:46,00:04:00,00:11:05,13:43:31
+ironman-malaysia-20161112.csv,131,Nowawi Osman,29,---,MYS,01:35:21,06:18:00,04:45:00,00:04:46,00:12:25,12:55:32
+ironman-malaysia-20161112.csv,132,Carlo Maniebo,27,Metro Manila,PHL,01:17:17,06:21:01,05:01:31,00:04:44,00:02:37,12:47:10
+ironman-malaysia-20161112.csv,133,AMMAR ZAKWAN ABDUL NASSER,26,---,MYS,01:37:55,06:27:37,04:42:33,00:09:43,00:20:34,13:18:22
+ironman-malaysia-20161112.csv,134,Hariz Hazmi Izham,25,---,MYS,01:40:05,08:09:54,06:32:19,00:04:52,00:05:48,16:32:58
+ironman-malaysia-20161112.csv,135,Hasan Alsudani,26,Najaf,IRQ,01:25:47,08:14:38,06:22:42,00:05:38,00:05:44,16:14:29
+ironman-malaysia-20161112.csv,136,Mohamad Afiq Zulkifli,28,---,MYS,01:34:09,07:31:52,05:53:45,00:12:31,00:22:06,15:34:23
+ironman-malaysia-20161112.csv,137,Ameer Azhar Fadzilan,27,---,MYS,01:28:06,07:44:52,---,00:08:02,00:25:57,DNF
+ironman-malaysia-20161112.csv,138,Minh Anh Tran Dinh,28,Vietnam,VNM,01:32:37,08:25:42,06:38:45,00:09:35,00:07:17,16:53:56
+ironman-malaysia-20161112.csv,139,Zhen Sheng Tang,29,---,MYS,01:30:38,09:09:04,---,00:07:38,---,DNF
+ironman-malaysia-20161112.csv,140,Christopher John Veriven,27,---,MYS,01:44:02,08:10:55,---,00:11:36,00:06:45,DNF
+ironman-malaysia-20161112.csv,141,Yahya Yusof,29,---,MYS,01:33:43,07:15:41,06:40:27,00:06:04,00:07:54,15:43:49
+ironman-malaysia-20161112.csv,142,TAN YEE HONG,27,---,MYS,01:26:45,07:14:22,07:01:55,00:08:12,00:15:11,16:06:25
+ironman-malaysia-20161112.csv,143,Dave Kennett,29,NSW,AUS,00:58:27,05:07:23,03:30:48,00:03:20,00:02:34,09:42:32
+ironman-malaysia-20161112.csv,144,Chris Weeks,27,Dorset,GBR,01:02:03,05:36:46,04:24:23,00:04:07,00:05:43,11:13:02
+ironman-malaysia-20161112.csv,145,Wilson Lee,27,---,MYS,01:08:49,---,---,00:05:24,---,DNF
+ironman-malaysia-20161112.csv,146,Nicholas De Bouillane,28,---,FRA,01:02:30,05:31:39,03:50:56,00:03:32,00:03:22,10:31:59
+ironman-malaysia-20161112.csv,147,Jonathan Saunders,27,rome,GBR,01:03:30,06:01:31,04:40:31,00:04:56,00:11:35,12:02:03
+ironman-malaysia-20161112.csv,148,Muhd Al Amin Kamarudin,29,---,MYS,01:40:48,07:08:03,07:08:02,00:10:18,00:16:49,16:24:00
+ironman-malaysia-20161112.csv,149,Ahmad Aizat Khalil,29,Kelantan,MYS,01:41:24,07:54:06,---,00:08:50,00:18:46,DNF
+ironman-malaysia-20161112.csv,150,Evgeniy Nikitin,27,russia,RUS,00:55:22,---,04:15:51,00:02:46,06:46:17,11:02:08
+ironman-malaysia-20161112.csv,151,Boris Klimes,27,---,SWE,01:06:41,05:15:24,03:35:52,00:03:52,00:02:12,10:04:01
+ironman-malaysia-20161112.csv,152,Philipp Widmann,29,---,DEU,00:57:57,05:01:37,03:30:33,00:02:37,00:01:54,09:34:38
+ironman-malaysia-20161112.csv,153,Jie Chen,29,浙江,CHN,01:34:56,07:24:06,---,00:06:57,00:10:09,DNF
+ironman-malaysia-20161112.csv,154,Martin Valachovic,28,DXB,SVK,01:28:05,07:48:49,06:59:26,00:07:47,00:10:18,16:34:25
+ironman-malaysia-20161112.csv,158,Boon Kiang Chan,28,---,SGP,01:12:17,05:54:59,04:28:45,00:06:10,00:04:50,11:47:01
+ironman-malaysia-20161112.csv,159,Hudhaifah Muhammad Faiq,27,---,MYS,01:47:21,07:06:33,06:06:28,00:08:35,00:20:06,15:29:03
+ironman-malaysia-20161112.csv,160,Pajapon Romin,29,---,THA,01:37:26,06:14:06,05:24:40,00:08:27,00:05:35,13:30:14
+ironman-malaysia-20161112.csv,161,Mohamed Hafizi Mohamed,29,---,MYS,01:32:13,08:12:44,04:40:29,00:06:50,00:07:24,DNF
+ironman-malaysia-20161112.csv,162,Declan Teo,28,---,SGP,01:35:06,07:57:57,05:12:03,00:06:31,00:10:57,15:02:34
+ironman-malaysia-20161112.csv,163,Ian Oliver Ii Atendido,28,Metro Manila,PHL,01:25:32,05:41:41,06:06:50,00:08:25,00:07:15,13:29:43
+ironman-malaysia-20161112.csv,164,Richard Elgar,29,---,GBR,01:08:14,05:57:55,03:51:54,00:03:22,00:03:03,11:04:28
+ironman-malaysia-20161112.csv,165,Ahmad Huzaifah,28,---,MYS,01:37:08,06:06:11,04:59:13,00:05:47,00:11:40,12:59:59
+ironman-malaysia-20161112.csv,166,Zulhelmi Abu Hasan,29,Selangor,MYS,01:52:08,07:02:29,06:31:55,00:06:00,00:09:03,15:41:35
+ironman-malaysia-20161112.csv,167,Ryutaro Tokairin,29,Miyagi,JPN,01:18:59,06:53:58,05:30:02,00:10:47,00:11:24,14:05:10
+ironman-malaysia-20161112.csv,168,baolati yeerjianati,26,Beijing,CHN,01:10:30,05:45:58,03:34:39,00:04:20,00:03:11,10:38:38
+ironman-malaysia-20161112.csv,169,Shevonne Herath,26,---,LKA,02:21:09,---,---,00:08:03,---,DNF
+ironman-malaysia-20161112.csv,170,Chakkrapong Wangthanarungrot,25,Kamphaeng Phet,THA,01:37:23,08:07:25,06:31:43,00:07:30,00:05:17,16:29:18
+ironman-malaysia-20161112.csv,172,Anthony Cadario,25,---,FRA,01:01:41,05:08:39,03:15:07,00:03:03,00:02:21,09:30:51
+ironman-malaysia-20161112.csv,173,Uwai Masanori,25,東京都,JPN,01:43:01,07:02:40,05:16:36,00:06:54,00:04:43,14:13:54
+ironman-malaysia-20161112.csv,174,Chia Lee Koo,28,Penang ,MYS,01:34:11,06:41:05,06:39:27,00:04:50,00:07:23,15:06:56
+ironman-malaysia-20161112.csv,175,Ahmad Syazrin Muhammad,28,KUALA LUMPUR,MYS,02:03:14,07:22:49,06:31:26,00:07:09,00:14:54,16:19:32
+ironman-malaysia-20161112.csv,176,Jacky Lo,29,---,SGP,01:56:40,07:25:53,05:03:12,00:11:13,00:16:22,14:53:20
+ironman-malaysia-20161112.csv,177,Tomasz Domagala,28,---,POL,00:58:54,05:49:34,---,00:02:59,00:05:35,DNF
+ironman-malaysia-20161112.csv,178,Lai Jenn Chyuan,29,SARAWAK,MYS,01:26:04,06:34:28,05:31:41,00:06:53,00:11:40,13:50:46
+ironman-malaysia-20161112.csv,179,Weng Hong Leong,27,---,MYS,02:08:28,05:01:06,---,00:08:53,---,DNF
+ironman-malaysia-20161112.csv,180,Chan Shen,26,Setiawangsa,MYS,01:26:25,06:28:44,05:57:54,00:05:06,00:02:06,14:00:15
+ironman-malaysia-20161112.csv,181,Mohd Ikhwan Mohd Mokhlis,27,Port Klang,MYS,01:33:51,07:28:31,06:53:23,00:05:38,00:14:39,16:16:02
+ironman-malaysia-20161112.csv,182,Tomoaki Kikuchi,28,東京都,JPN,01:01:08,05:18:01,04:00:55,00:03:14,00:02:19,10:25:37
+ironman-malaysia-20161112.csv,183,Kantachai Chayapirom,28,Nontaburi,THA,01:24:15,05:59:26,04:25:43,00:05:17,00:05:57,12:00:38
+ironman-malaysia-20161112.csv,184,Mohd Fahmi Adnan,28,Kedah,MYS,01:41:03,06:25:03,05:20:10,00:07:33,00:07:15,13:41:04
+ironman-malaysia-20161112.csv,185,Suriansyah Suhadeng,29,Kuala Lumpur,MYS,01:16:16,07:13:26,05:54:29,00:05:29,00:11:05,14:40:45
+ironman-malaysia-20161112.csv,186,Muhamad Asyraf Zamzuri,28,KUALA LUMPUR,MYS,01:25:55,06:13:51,05:43:36,00:08:02,00:08:24,13:39:48
+ironman-malaysia-20161112.csv,187,Jun Zhen Benjamin Chee,18,---,MYS,01:33:17,06:39:13,06:30:53,00:10:06,00:09:56,15:03:25
+ironman-malaysia-20161112.csv,188,Tyler Gillespie,29,CA,USA,01:07:38,06:26:40,04:11:28,00:09:13,00:08:36,12:03:35
+ironman-malaysia-20161112.csv,189,John Stoddart,27,Sussex,GBR,01:00:42,05:38:49,03:50:34,00:04:39,00:03:58,10:38:42
+ironman-malaysia-20161112.csv,190,Michael Knudsen,28,Other,DNK,01:24:41,06:31:16,05:41:24,00:05:11,00:03:14,13:45:46
+ironman-malaysia-20161112.csv,191,Jun Tean Lau,25,---,MYS,01:40:05,08:41:37,06:03:26,00:13:01,00:09:48,DNF
+ironman-malaysia-20161112.csv,192,Taufik Zakaria,28,---,MYS,01:23:30,06:50:58,06:16:25,00:08:12,00:17:37,14:56:42
+ironman-malaysia-20161112.csv,193,Hayato Osaka,25,東京都,JPN,01:08:12,05:37:15,04:49:15,00:03:37,00:03:45,11:42:04
+ironman-malaysia-20161112.csv,195,Kasper Bay,29,---,DNK,01:13:34,05:23:53,04:18:00,00:03:19,00:02:57,11:01:43
+ironman-malaysia-20161112.csv,196,Muhamad Syafiq Khalid,27,Selangor,MYS,02:04:15,07:26:59,07:08:45,00:05:27,00:10:14,16:55:40
+ironman-malaysia-20161112.csv,197,Jian Li,26,---,CHN,01:27:58,05:58:12,05:13:27,00:04:29,00:08:08,12:52:14
+ironman-malaysia-20161112.csv,198,Shah Radzuan Shahbani,26,---,MYS,01:31:00,---,---,00:04:23,03:41:32,DNF
+ironman-malaysia-20161112.csv,199,Ignacio Herrero Martin-Berrocal,26,---,ESP,01:05:23,05:24:08,03:25:56,00:02:03,00:02:09,09:59:39
+ironman-malaysia-20161112.csv,200,Tian Chow Wei,28,---,MYS,01:13:22,07:07:04,06:31:17,00:04:50,00:08:28,15:05:01
+ironman-malaysia-20161112.csv,201,Sangwon Son,26,CA,KOR,01:22:06,06:03:07,05:32:32,00:04:26,00:03:48,13:05:59
+ironman-malaysia-20161112.csv,202,Fariz Atraz Fauzi,26,Selangor,MYS,01:18:45,06:16:48,05:59:07,00:08:30,00:09:56,13:53:06
+ironman-malaysia-20161112.csv,203,Angelika Hummel,29,DE,DEU,01:25:02,07:22:34,05:03:37,00:05:46,00:10:15,14:07:14
+ironman-malaysia-20161112.csv,204,Ella Davies,28,VIC,AUS,01:13:30,06:28:38,04:10:39,00:03:41,00:03:25,11:59:53
+ironman-malaysia-20161112.csv,205,Puteri Nabilah Megat Idris,27,---,MYS,01:46:29,07:50:08,---,00:08:52,00:10:03,DNF
+ironman-malaysia-20161112.csv,206,Chris Ang Poh Yin,28,---,MYS,01:50:24,07:30:26,06:22:18,00:11:42,00:05:03,15:59:53
+ironman-malaysia-20161112.csv,207,Samantha Lee,28,Perak,MYS,01:31:34,06:49:11,04:56:10,00:06:28,00:03:45,13:27:08
+ironman-malaysia-20161112.csv,208,Jamie Goh,28,---,SGP,01:41:24,08:32:04,06:09:07,00:06:28,00:06:33,16:35:36
+ironman-malaysia-20161112.csv,209,Anand Marar,---,Gujarat,IND,01:33:32,08:03:51,05:55:23,00:13:12,00:06:49,15:52:47
+ironman-malaysia-20161112.csv,210,Wai Hoe Chew,33,Kuala Lumpur,MYS,01:33:51,06:55:15,05:46:28,00:08:10,00:05:06,14:28:50
+ironman-malaysia-20161112.csv,211,Jin Ren Low,30,SELANGOR,MYS,01:56:02,---,---,00:07:52,---,DNF
+ironman-malaysia-20161112.csv,212,Thomas Haibel,33,---,DEU,01:06:08,05:18:26,03:29:23,00:03:59,00:05:24,10:03:20
+ironman-malaysia-20161112.csv,213,Alan Yap,34,---,SGP,01:56:09,08:02:56,06:06:33,00:13:00,00:09:38,16:28:16
+ironman-malaysia-20161112.csv,214,Richard Lee,33,ACT,MYS,01:50:50,08:01:41,06:41:21,00:13:07,00:07:22,16:54:21
+ironman-malaysia-20161112.csv,215,Yen Hsiang Chiao,31,---,TWN,01:29:44,07:15:02,04:42:55,00:09:30,00:14:00,13:51:11
+ironman-malaysia-20161112.csv,216,Huong Wen See,---,Pulau Pinang,MYS,01:29:16,07:18:30,05:50:04,00:08:11,00:09:48,14:55:49
+ironman-malaysia-20161112.csv,217,Aaron Fleming,33,New Zealand,NZL,01:34:34,07:22:45,05:55:32,00:07:05,00:05:49,15:05:45
+ironman-malaysia-20161112.csv,218,Tan KianSeng,32,---,MYS,01:35:43,07:24:55,06:24:43,00:06:56,00:07:03,15:39:20
+ironman-malaysia-20161112.csv,219,Imanol Sagarzazu,31,---,ESP,01:00:57,05:12:29,03:14:15,00:02:20,00:02:45,09:32:46
+ironman-malaysia-20161112.csv,220,Anton Samokhvalov,30,no,RUS,01:03:53,04:58:30,03:15:22,00:03:20,00:02:59,09:24:04
+ironman-malaysia-20161112.csv,221,Siegfried Feliciano,32,---,PHL,01:30:40,07:40:57,06:32:35,00:13:40,00:12:38,16:10:30
+ironman-malaysia-20161112.csv,222,Kristian Cabahug,34,Cebu,PHL,01:21:20,06:20:57,05:16:59,00:05:48,00:07:15,13:12:19
+ironman-malaysia-20161112.csv,224,Ashan Weerakkody,30,WA,AUS,00:53:46,05:13:52,03:28:33,00:03:18,00:02:26,09:41:55
+ironman-malaysia-20161112.csv,225,Loy Teik Peng,32,PENANG,MYS,01:15:11,06:48:57,05:47:32,00:08:00,00:05:50,14:05:30
+ironman-malaysia-20161112.csv,226,Roy Huang,33,---,SGP,01:27:58,06:37:34,05:49:55,00:07:11,00:08:05,14:10:43
+ironman-malaysia-20161112.csv,227,Phil Thompson,31,NSW,AUS,01:00:51,05:57:31,04:27:47,00:03:38,00:02:59,11:32:46
+ironman-malaysia-20161112.csv,228,Nick Suharto,---,---,MYS,01:16:38,06:28:25,06:00:52,00:07:26,00:10:53,14:04:14
+ironman-malaysia-20161112.csv,229,Benjamin Chew,33,---,MYS,01:24:09,06:06:25,04:11:19,00:03:16,00:03:24,11:48:33
+ironman-malaysia-20161112.csv,230,Alvin Ang,34,SG,SGP,01:20:43,07:35:14,06:05:09,00:06:22,00:06:50,15:14:18
+ironman-malaysia-20161112.csv,232,Mark Organ,31,---,GBR,01:27:22,07:11:18,03:46:41,00:05:58,00:06:44,12:38:03
+ironman-malaysia-20161112.csv,233,Yasutaka Nakamura,32,---,JPN,01:50:26,07:33:50,06:03:30,00:05:27,00:07:32,15:40:45
+ironman-malaysia-20161112.csv,234,Yasunobu Jutori,32,Tokyo,JPN,01:34:41,07:22:12,04:59:41,00:07:54,00:07:24,14:11:52
+ironman-malaysia-20161112.csv,235,Tetsuya Habe,31,東京都,JPN,01:15:33,06:50:32,03:51:48,00:07:16,00:05:35,12:10:44
+ironman-malaysia-20161112.csv,236,Kim Sui Wan,31,N. Sembilan,MYS,01:32:00,07:30:50,05:48:31,00:10:40,00:07:26,15:09:27
+ironman-malaysia-20161112.csv,237,Aku Oja,34,Uusimaa,FIN,01:11:42,05:03:58,03:39:18,00:03:04,00:02:10,10:00:12
+ironman-malaysia-20161112.csv,238,Jose Juan Anton,30,---,ESP,01:08:00,05:23:40,03:50:20,00:02:52,00:03:53,10:28:45
+ironman-malaysia-20161112.csv,239,Arifbillah Idris,---,Selangor,MYS,01:38:40,06:13:05,05:08:10,00:07:28,00:08:40,13:16:03
+ironman-malaysia-20161112.csv,240,Ryosuke Ohhata,34,TOKYO,JPN,00:56:26,05:20:24,04:13:23,00:02:49,00:03:22,10:36:24
+ironman-malaysia-20161112.csv,241,Paul Walshe,33,---,IRL,01:27:36,05:54:35,05:34:39,00:13:40,00:03:53,13:14:23
+ironman-malaysia-20161112.csv,242,Calvin Seak,30,---,MYS,---,---,---,---,---,DNS
+ironman-malaysia-20161112.csv,243,Dario Karl,30,DXB,DEU,01:10:23,07:16:39,06:23:16,00:07:37,00:10:10,15:08:05
+ironman-malaysia-20161112.csv,244,Terapong Manutpolsakul,31,Samutprakarn,THA,01:41:21,07:50:14,---,00:08:31,---,DNF
+ironman-malaysia-20161112.csv,245,Hai Salleh,30,---,MYS,01:04:51,07:07:14,06:43:26,00:06:19,00:11:39,15:13:29
+ironman-malaysia-20161112.csv,246,Ram Shankar Yadav,33,---,IND,01:47:34,07:33:22,04:35:11,00:07:25,00:04:56,14:08:28
+ironman-malaysia-20161112.csv,247,Vladimir Razuvaev,34,Moscow,RUS,01:25:03,05:55:59,04:53:03,00:05:59,00:04:58,12:25:02
+ironman-malaysia-20161112.csv,248,Kiet Fei Wong,33,---,MYS,01:26:04,06:45:11,05:15:53,00:06:30,00:13:35,13:47:13
+ironman-malaysia-20161112.csv,249,Stephen Davis,34,Surrey,GBR,01:16:09,05:47:18,05:31:04,00:05:33,00:04:38,12:44:42
+ironman-malaysia-20161112.csv,250,Ngee Wei Seng,34,---,MYS,01:22:14,06:04:10,05:21:04,00:04:39,00:06:09,12:58:16
+ironman-malaysia-20161112.csv,251,Mike Collins,32,Hampshire,GBR,01:24:13,06:00:56,04:03:53,00:07:00,00:06:07,11:42:09
+ironman-malaysia-20161112.csv,253,Muhammad Farghaly,29,---,EGY,01:57:27,08:30:55,05:45:17,00:10:40,00:07:57,DNF
+ironman-malaysia-20161112.csv,254,Lim Zee Ping,30,---,MYS,01:40:10,06:33:40,06:28:52,00:08:50,00:11:41,15:03:13
+ironman-malaysia-20161112.csv,255,Prachayon Nitiwattananon,29,Bangkok,THA,01:46:24,08:01:56,06:06:19,00:10:13,00:03:07,16:07:59
+ironman-malaysia-20161112.csv,256,C.K.Seow Jimie,33,---,MYS,01:38:19,06:34:55,05:05:35,00:07:20,00:08:23,13:34:32
+ironman-malaysia-20161112.csv,257,Tu Hoang,32,Da Nang,VNM,01:30:55,06:55:21,05:46:32,00:05:04,00:07:50,14:25:42
+ironman-malaysia-20161112.csv,258,Jackal Chin,33,Selangor,MYS,01:40:14,06:52:29,06:16:19,00:09:21,00:19:31,15:17:54
+ironman-malaysia-20161112.csv,259,Manuel Henry Ii Villacruz,34,---,PHL,01:21:32,07:02:17,04:37:23,00:05:30,00:03:22,13:10:04
+ironman-malaysia-20161112.csv,260,Handi Gunawan,32,"
+Central Java",IDN,01:31:55,06:22:18,04:55:39,00:06:57,00:07:45,13:04:34
+ironman-malaysia-20161112.csv,261,Guillaume Duflou,34,---,FRA,01:10:26,05:50:38,04:20:02,00:04:01,00:05:37,11:30:44
+ironman-malaysia-20161112.csv,262,Timothy Cooper,32,VIC,AUS,00:58:42,05:22:22,05:47:55,00:04:28,00:02:56,12:16:23
+ironman-malaysia-20161112.csv,263,Jovial Chan Jin Lin,33,---,MYS,01:18:30,07:26:12,06:03:21,00:15:06,00:15:09,15:18:18
+ironman-malaysia-20161112.csv,264,Kenny Tan Kian Yong,32,Selangor,MYS,01:22:50,07:06:19,06:22:35,00:13:22,00:27:19,15:32:25
+ironman-malaysia-20161112.csv,265,Ben Aldous,32,WA,AUS,01:09:47,06:28:34,04:16:13,00:05:53,00:06:17,12:06:44
+ironman-malaysia-20161112.csv,266,Mohd Faisal Mohd Razif,30,---,MYS,02:02:50,07:31:31,07:10:43,00:07:32,00:13:18,DNF
+ironman-malaysia-20161112.csv,268,Boon Bin Ng,32,---,MYS,01:41:48,08:06:35,06:49:32,00:08:01,00:08:21,16:54:17
+ironman-malaysia-20161112.csv,269,Nobuyuki Shimizu,33,tokyo,JPN,01:11:18,05:47:48,03:56:14,00:03:50,00:02:08,11:01:18
+ironman-malaysia-20161112.csv,270,Ryota Nishida,32,大阪府,JPN,01:11:24,05:42:48,04:01:56,00:03:36,00:02:32,11:02:16
+ironman-malaysia-20161112.csv,271,Kevin Siah,33,QLD,MYS,01:08:01,06:16:49,04:23:51,00:02:43,00:01:29,11:52:53
+ironman-malaysia-20161112.csv,272,Andrew Tan Dao Wei,30,---,SGP,01:23:32,07:04:19,05:26:08,00:07:02,00:06:36,14:07:37
+ironman-malaysia-20161112.csv,273,James Elgar,31,---,GBR,01:02:53,05:21:36,03:21:36,00:02:51,00:01:48,09:50:44
+ironman-malaysia-20161112.csv,274,Kunihiro Okamura,32,東京都,JPN,01:41:33,06:59:44,05:40:32,00:11:25,00:11:16,14:44:30
+ironman-malaysia-20161112.csv,275,Carlos Brito,30,QLD,MEX,01:21:24,06:42:49,05:31:44,00:08:13,00:06:45,13:50:55
+ironman-malaysia-20161112.csv,276,James Buchanan,33,DXB,GBR,01:08:52,05:30:54,04:48:46,00:04:06,00:04:46,11:37:24
+ironman-malaysia-20161112.csv,277,Fernando Rieken,34,---,USA,01:30:15,08:22:55,05:44:03,00:11:56,00:10:00,15:59:09
+ironman-malaysia-20161112.csv,278,Lee Joseph Sarmiento,30,philippines,PHL,01:27:42,06:34:26,05:27:10,00:07:40,00:06:46,13:43:44
+ironman-malaysia-20161112.csv,279,Bartlomiej Osior,33,Mazury,POL,01:13:12,05:52:54,03:39:45,00:05:12,00:06:09,10:57:12
+ironman-malaysia-20161112.csv,280,Daichi Takewaki,32,東京都,JPN,00:55:35,05:18:40,04:00:57,00:02:31,00:02:45,10:20:28
+ironman-malaysia-20161112.csv,281,Cn Ng,34,"puchong, selangor",MYS,01:58:31,07:00:42,06:05:06,00:16:58,00:08:06,15:29:23
+ironman-malaysia-20161112.csv,282,Oliver Griffiths,34,---,GBR,01:11:19,05:56:19,03:30:51,00:05:29,00:03:52,10:47:50
+ironman-malaysia-20161112.csv,283,Mohd Fadzli Mohamed Nazir,30,---,MYS,01:21:56,07:44:33,07:09:32,00:09:20,00:28:28,16:53:49
+ironman-malaysia-20161112.csv,284,Chun How Lee,31,---,MYS,01:36:34,---,---,00:05:43,---,DNF
+ironman-malaysia-20161112.csv,285,Jason Walker,32,---,GBR,01:10:02,05:41:02,04:05:01,00:03:01,00:02:13,11:01:19
+ironman-malaysia-20161112.csv,286,Andy Lordianto,30,"Jakarta
+Jakarta",IDN,01:09:54,07:05:59,06:50:17,00:02:22,00:07:15,15:15:47
+ironman-malaysia-20161112.csv,287,Boon Giap Ng,30,---,MYS,01:30:18,07:16:02,06:24:06,00:11:47,00:09:55,15:32:08
+ironman-malaysia-20161112.csv,288,Ben Regan,33,CA,USA,00:59:10,05:35:02,04:37:26,00:03:18,00:05:10,11:20:06
+ironman-malaysia-20161112.csv,289,Sai Yee Soong,31,---,MYS,01:28:43,08:21:12,06:02:27,00:07:51,00:04:54,16:05:07
+ironman-malaysia-20161112.csv,290,Syukran Yusof,33,---,MYS,01:55:23,07:59:08,06:42:46,00:05:36,00:06:15,16:49:08
+ironman-malaysia-20161112.csv,291,Teh Boon Wah,34,---,MYS,02:08:14,---,---,00:11:35,10:51:18,DNF
+ironman-malaysia-20161112.csv,292,Jose Maria Lopez Morales,34,---,ESP,01:12:23,05:47:15,03:32:19,00:03:33,00:04:50,10:40:20
+ironman-malaysia-20161112.csv,294,Pedro Morales,32,WKO,MEX,01:27:04,06:38:34,04:07:44,00:04:41,00:02:46,12:20:49
+ironman-malaysia-20161112.csv,295,Carlo Chiong,30,misamis oriental,PHL,01:19:03,06:09:17,04:29:38,00:06:26,00:05:33,12:09:57
+ironman-malaysia-20161112.csv,296,Kok Fatt Loo,33,---,MYS,02:03:32,07:48:09,05:22:39,00:09:56,00:12:13,DNF
+ironman-malaysia-20161112.csv,297,Nick Bensley,33,VIC,AUS,00:57:59,04:27:48,03:44:53,00:03:38,00:01:35,09:15:53
+ironman-malaysia-20161112.csv,298,Tee cheehui,30,---,MYS,01:23:43,07:03:33,05:29:27,00:05:57,00:05:29,14:08:09
+ironman-malaysia-20161112.csv,299,Zulfadzli Zubir,33,---,MYS,01:58:27,08:20:23,04:27:18,00:11:29,00:08:57,DNF
+ironman-malaysia-20161112.csv,300,Bryan Ng,33,selangor ,MYS,01:26:07,06:05:58,05:17:04,00:03:25,00:03:10,12:55:44
+ironman-malaysia-20161112.csv,301,Luke Parr,33,---,AUS,01:02:03,05:50:16,04:13:34,00:03:02,00:03:04,11:11:59
+ironman-malaysia-20161112.csv,302,Afiq Syazwan Mohd Shahru,29,Kuala Lumpur,MYS,01:24:02,06:00:29,04:38:41,00:05:27,00:03:59,12:12:38
+ironman-malaysia-20161112.csv,303,Andras Vastag,31,SG,HUN,01:19:10,07:06:39,06:54:50,00:07:06,00:08:12,15:35:57
+ironman-malaysia-20161112.csv,304,Joseph Kennedy Salcedo,30,Quezon City,PHL,01:23:38,06:48:01,06:01:00,00:05:14,00:04:36,14:22:29
+ironman-malaysia-20161112.csv,305,Wan Zulhamli Wan Abdul Rahman,34,---,MYS,01:55:03,07:00:00,05:33:56,00:05:38,00:09:06,14:43:43
+ironman-malaysia-20161112.csv,306,Hun Seng Henry Yong,33,SG,SGP,02:04:54,07:17:27,06:51:08,00:07:34,00:05:12,16:26:15
+ironman-malaysia-20161112.csv,307,Hong Yet Heng,33,---,MYS,01:34:11,07:21:35,06:35:59,00:06:39,00:05:33,15:43:57
+ironman-malaysia-20161112.csv,308,Chun Kit Tsang,33,---,HKG,01:09:56,05:42:17,04:22:51,00:02:25,00:02:38,11:20:07
+ironman-malaysia-20161112.csv,309,Leong Nine Hai,33,---,MYS,01:43:06,07:48:52,06:39:58,00:15:11,00:21:39,16:48:46
+ironman-malaysia-20161112.csv,310,Gilles Dieudonne,32,---,BEL,01:11:36,06:26:56,04:06:28,00:10:05,00:10:12,12:05:17
+ironman-malaysia-20161112.csv,311,Eugene Lee,31,---,MYS,01:27:33,05:59:50,04:18:20,00:07:28,00:05:23,11:58:34
+ironman-malaysia-20161112.csv,312,Nicholas Micallef,30,Malta,MLT,01:16:21,05:55:58,04:33:15,00:05:28,00:03:36,11:54:38
+ironman-malaysia-20161112.csv,313,Beng Chuan Lim,34,APO,MYS,01:46:11,06:37:06,06:24:55,00:06:16,00:05:19,14:59:47
+ironman-malaysia-20161112.csv,314,Bin Iuan Chan,30,Perak,MYS,01:37:57,06:37:22,05:16:36,00:09:30,00:07:59,13:49:24
+ironman-malaysia-20161112.csv,315,Kosuke Matsuda,30,神奈川県,JPN,01:03:25,06:21:38,05:53:35,00:06:21,00:06:36,13:31:35
+ironman-malaysia-20161112.csv,316,Samuel Dell,32,WA,GBR,01:01:51,05:01:20,03:39:24,00:03:00,00:03:55,09:49:30
+ironman-malaysia-20161112.csv,317,Andrea De Paola,33,Italia,ITA,01:30:44,07:49:34,06:53:36,00:05:57,00:06:00,16:25:51
+ironman-malaysia-20161112.csv,318,Cher Yong Heng,31,---,SGP,01:23:03,06:31:01,04:51:07,00:06:11,00:05:19,12:56:41
+ironman-malaysia-20161112.csv,319,René Nowak,32,Baden-Württemberg,DEU,01:28:21,06:48:40,05:01:37,00:06:08,00:06:44,13:31:30
+ironman-malaysia-20161112.csv,320,Luis Fernando Gotaco,31,MANILA,PHL,01:48:24,07:35:51,06:38:18,00:09:14,00:08:01,16:19:48
+ironman-malaysia-20161112.csv,321,Ronald Molit,34,Rizal,PHL,00:59:14,05:29:58,04:50:57,00:03:24,00:01:56,11:25:29
+ironman-malaysia-20161112.csv,322,Rodel Catindig,32,LAGUNA,PHL,01:42:24,08:32:47,---,00:15:56,00:03:18,DNF
+ironman-malaysia-20161112.csv,324,Abel Liu Nam Han,30,---,MHL,01:23:53,07:15:34,---,00:07:18,00:25:20,DNF
+ironman-malaysia-20161112.csv,325,Muhammad Ghazali,30,---,MYS,01:35:21,06:27:31,06:18:17,00:06:14,00:04:30,14:31:53
+ironman-malaysia-20161112.csv,326,Ratanawut Nalumpoon,30,---,THA,01:41:02,08:24:37,06:23:15,00:07:08,00:08:31,16:44:33
+ironman-malaysia-20161112.csv,327,Jerry Mantilla,34,DXB,PHL,01:17:57,06:15:58,04:54:18,00:04:13,00:06:39,12:39:05
+ironman-malaysia-20161112.csv,328,Jarrod Draper,34,VIC,AUS,01:05:26,---,---,00:04:43,---,DNF
+ironman-malaysia-20161112.csv,329,Yuta Funamoto,33,大阪府,JPN,01:22:23,---,---,00:04:58,---,DNF
+ironman-malaysia-20161112.csv,330,Karol Puklus,32,Kosice,SVK,01:30:53,06:35:21,06:34:40,00:10:30,00:08:45,15:00:09
+ironman-malaysia-20161112.csv,331,Mohd Hafdzuan Adzmi,34,Kajang,MYS,01:30:03,06:53:43,04:55:48,00:07:07,00:10:13,13:36:54
+ironman-malaysia-20161112.csv,332,ingit anand,32,Gujarat,IND,01:18:45,07:09:34,04:58:02,00:07:58,00:08:26,13:42:45
+ironman-malaysia-20161112.csv,333,Johan Nyberg,33,---,SWE,01:03:19,05:33:04,03:44:55,00:03:11,00:05:07,10:29:36
+ironman-malaysia-20161112.csv,334,Mehul Ved,31,Maharashtra,IND,01:28:09,08:33:35,05:35:49,00:08:40,00:06:58,15:53:11
+ironman-malaysia-20161112.csv,335,Marcus Raatz,32,---,DEU,01:14:14,05:19:02,03:46:19,00:02:58,00:02:43,10:25:16
+ironman-malaysia-20161112.csv,336,Roberto Molina Fernández,33,ES,ESP,01:06:30,06:02:18,04:30:48,00:03:41,00:04:29,11:47:46
+ironman-malaysia-20161112.csv,337,Pochara Thimasan,30,Nonthaburi,THA,01:12:11,06:34:18,04:47:11,00:06:42,00:07:16,12:47:38
+ironman-malaysia-20161112.csv,338,Chee Kian Liaw,32,JOHOR,MYS,01:37:42,07:27:36,05:58:41,00:11:21,00:08:23,15:23:43
+ironman-malaysia-20161112.csv,340,Nikolai Jenkins,34,---,SGP,01:01:57,05:23:27,03:32:54,00:03:07,00:03:11,10:04:36
+ironman-malaysia-20161112.csv,342,Beata Pokrzywinska-Osior,30,Wydminy,POL,01:47:39,07:59:59,05:11:02,00:08:47,00:07:33,15:15:00
+ironman-malaysia-20161112.csv,343,Shirliza Ann Anak Sedai,30,SELANGOR,MYS,01:39:21,08:07:07,06:42:58,00:10:38,00:09:36,16:49:40
+ironman-malaysia-20161112.csv,344,Zoe Clark,34,VIC,AUS,01:13:08,06:01:53,03:56:54,00:03:58,00:04:11,11:20:04
+ironman-malaysia-20161112.csv,345,Purimpan Theerapaksakun,32,Bangkok,THA,01:45:35,07:51:41,05:48:30,00:11:32,00:05:15,15:42:33
+ironman-malaysia-20161112.csv,346,Kittiwarang Kitipongpithaya,31,---,THA,02:15:52,---,---,00:08:29,---,DNF
+ironman-malaysia-20161112.csv,347,Celine Yap,30,---,MYS,01:39:25,07:55:38,06:51:49,00:10:44,00:07:26,16:45:02
+ironman-malaysia-20161112.csv,348,Eunjung Jo,30,관악구,KOR,01:29:27,06:50:59,04:03:48,00:04:26,00:07:13,12:35:53
+ironman-malaysia-20161112.csv,349,Kerryn Minehan,33,VIC,AUS,01:09:23,---,---,00:04:16,---,DNF
+ironman-malaysia-20161112.csv,350,Seranica Williamson,30,WA,AUS,01:35:57,06:33:22,04:15:37,00:08:39,00:08:05,12:41:40
+ironman-malaysia-20161112.csv,351,Wany Bee,31,Selangor,MYS,01:29:45,06:39:34,05:57:29,00:07:37,00:08:42,14:23:07
+ironman-malaysia-20161112.csv,352,Hafiza Othman,32,Selangor,MYS,01:36:27,06:32:49,06:04:50,00:07:46,00:08:35,14:30:27
+ironman-malaysia-20161112.csv,354,Pan Seng Kha Khrang,31,WIL,MMR,01:16:01,06:53:05,05:20:33,00:03:28,00:06:09,13:39:16
+ironman-malaysia-20161112.csv,355,Jos Bretherick,34,NSW,ZAF,00:56:44,05:50:01,04:04:30,00:02:58,00:02:51,10:57:04
+ironman-malaysia-20161112.csv,356,Katelyn Kearney,32,CA,USA,01:23:01,07:36:03,04:50:00,00:06:03,00:04:18,13:59:25
+ironman-malaysia-20161112.csv,357,Kelly Stokes,34,---,GBR,01:04:59,05:52:16,04:07:34,00:03:31,00:03:27,11:11:47
+ironman-malaysia-20161112.csv,358,Noppadol Peerakavee,39,Bangkok,THA,01:44:38,07:09:23,05:14:24,00:11:48,00:06:34,14:26:47
+ironman-malaysia-20161112.csv,359,Lawrence Boon Kwang Cham,35,---,MYS,01:19:12,06:19:00,05:19:47,00:09:09,00:09:58,13:17:06
+ironman-malaysia-20161112.csv,360,Edrickson Ravalo,38,Misamis Oriental,PHL,01:27:00,07:18:50,06:43:54,00:07:26,00:07:42,15:44:52
+ironman-malaysia-20161112.csv,361,Joe Ye Chern,36,---,MYS,01:31:22,06:20:39,05:10:43,00:05:26,00:06:29,13:14:39
+ironman-malaysia-20161112.csv,362,Shey Sin Jacky Chang,36,---,MYS,01:38:23,06:46:34,05:05:51,00:08:28,00:07:52,13:47:08
+ironman-malaysia-20161112.csv,363,Mohd Faizul Yaakob,35,10 - SELANGOR,MYS,01:55:34,07:45:34,06:27:36,00:11:30,00:13:18,16:33:32
+ironman-malaysia-20161112.csv,364,Kenneth Amiel Taylor,37,Bukidnon,PHL,01:16:20,06:31:32,04:44:55,00:05:04,00:06:58,12:44:49
+ironman-malaysia-20161112.csv,365,Johnny Sia,39,---,MYS,02:05:08,---,---,00:13:57,---,DNF
+ironman-malaysia-20161112.csv,366,Dave Williamson,37,SA,AUS,01:03:53,05:44:44,03:55:48,00:02:26,00:03:13,10:50:04
+ironman-malaysia-20161112.csv,368,Victor Lim Yu Chee,36,---,MYS,01:53:03,08:00:08,06:25:58,00:09:22,00:06:38,16:35:09
+ironman-malaysia-20161112.csv,369,Rickard Wallén,36,---,SWE,01:10:26,05:15:22,03:41:16,00:03:40,00:02:45,10:13:29
+ironman-malaysia-20161112.csv,371,Kin Thong Chong,36,Johor,MYS,01:36:15,06:18:12,04:45:39,00:06:28,00:10:06,12:56:40
+ironman-malaysia-20161112.csv,372,Kim Quarnström,36,---,SWE,01:18:10,06:24:25,05:27:20,00:06:15,00:07:50,13:24:00
+ironman-malaysia-20161112.csv,373,Jose Alejandro Rubio,35,ES,ESP,---,---,---,---,---,DNS
+ironman-malaysia-20161112.csv,374,Toto Ong,38,---,MYS,01:29:29,06:25:34,05:04:54,00:02:55,00:03:06,13:05:58
+ironman-malaysia-20161112.csv,375,Arturo Rangel,39,sarawak,MEX,01:16:47,06:27:55,04:44:37,00:06:40,00:08:12,12:44:11
+ironman-malaysia-20161112.csv,376,Kim Tatt Lee,38,Penang,MYS,01:30:02,06:22:32,04:46:15,00:08:52,00:09:00,12:56:41
+ironman-malaysia-20161112.csv,377,Tsumugi Akiba,39,---,JPN,01:10:28,06:03:23,06:28:45,00:03:51,00:06:06,13:52:33
+ironman-malaysia-20161112.csv,378,Jesus Gerardo Magsaysay,37,Metro Manila,PHL,01:24:25,07:40:36,07:01:44,00:06:32,00:05:51,16:19:08
+ironman-malaysia-20161112.csv,379,Deepak Raj,39,QLD,IND,01:12:21,05:36:22,03:52:09,00:04:47,00:03:44,10:49:23
+ironman-malaysia-20161112.csv,380,Christian Sierra,36,---,PHL,01:51:30,07:52:48,06:00:05,00:11:25,00:14:34,16:10:22
+ironman-malaysia-20161112.csv,381,Aun Yeong Tan,36,selangor,MYS,01:20:08,06:30:28,05:45:45,00:05:10,00:10:04,13:51:35
+ironman-malaysia-20161112.csv,382,Jack Hon,36,---,MYS,01:23:40,06:51:44,---,00:09:07,00:08:09,DNF
+ironman-malaysia-20161112.csv,383,Yc Tan,34,Penang,MYS,01:57:43,07:13:28,06:19:26,00:07:10,00:06:10,15:43:57
+ironman-malaysia-20161112.csv,384,Dany Papi,37,Luxemburg,LUX,01:10:08,05:27:57,04:19:31,00:04:12,00:03:34,11:05:22
+ironman-malaysia-20161112.csv,386,Jordan Meintjes,37,Other,ZAF,01:13:59,06:53:22,06:55:19,00:06:18,00:08:10,15:17:08
+ironman-malaysia-20161112.csv,387,Jun Chung Lee,26,Wilayah Persekutuan,MYS,01:37:36,07:21:13,06:58:22,00:06:30,00:06:58,16:10:39
+ironman-malaysia-20161112.csv,388,Valikhan Ten,37,Almaty,KAZ,01:53:33,06:52:33,05:06:38,00:07:34,00:07:41,DNF
+ironman-malaysia-20161112.csv,389,Bachtiar Effendy,36,"North Sumatra
+Medan",IDN,01:27:17,07:08:48,06:40:10,00:13:17,00:13:50,15:43:22
+ironman-malaysia-20161112.csv,390,Chin Guan Ooi,38,---,MYS,01:34:07,06:27:54,04:53:38,00:11:01,00:04:36,13:11:16
+ironman-malaysia-20161112.csv,391,Manuel Augusto Vivanco Maldonado,39,---,ESP,00:56:36,05:38:06,03:30:56,00:03:28,00:03:49,10:12:55
+ironman-malaysia-20161112.csv,392,Mok Mon Yew,37,SELANGOR,MYS,01:22:07,07:53:26,06:51:40,00:06:25,00:18:05,16:31:43
+ironman-malaysia-20161112.csv,393,John Paul Gaba,38,Metro Manila,PHL,02:00:32,08:05:52,---,00:11:07,00:06:53,DNF
+ironman-malaysia-20161112.csv,394,Yoshihiro Wada,37,愛知県,JPN,01:08:16,---,---,00:03:42,---,DNF
+ironman-malaysia-20161112.csv,395,Chris Braithwaite,38,AUK,NZL,01:02:43,05:22:58,04:07:17,00:02:46,00:02:13,10:37:57
+ironman-malaysia-20161112.csv,396,Luke Hurford,36,Hokkaido,AUS,01:23:15,05:38:50,04:00:31,00:03:58,00:02:57,11:09:31
+ironman-malaysia-20161112.csv,397,Marvin Mariano,38,bohol,PHL,01:38:22,06:34:05,04:56:17,00:05:08,00:04:52,13:18:44
+ironman-malaysia-20161112.csv,398,Daisuke Sakakibara,35,---,JPN,01:37:34,07:48:53,06:21:49,00:08:57,00:12:43,16:09:56
+ironman-malaysia-20161112.csv,399,Wai Lun Mak,35,---,HKG,01:23:18,07:11:37,04:59:57,00:07:07,00:06:56,13:48:55
+ironman-malaysia-20161112.csv,401,Liew mun Seng,37,---,MYS,01:18:20,06:52:48,06:25:38,00:06:55,00:04:42,14:48:23
+ironman-malaysia-20161112.csv,402,Yap Chi Mun,36,Wilayah Persekutuan,MYS,01:35:53,07:06:32,05:48:21,00:11:57,00:07:03,14:49:46
+ironman-malaysia-20161112.csv,403,Say Chin Ng,37,---,MYS,01:31:48,07:00:34,06:02:03,00:12:56,00:07:42,14:55:03
+ironman-malaysia-20161112.csv,404,Pilant Veerananont,37,Thailand,THA,01:30:19,08:11:40,06:26:36,00:10:21,00:12:38,16:31:34
+ironman-malaysia-20161112.csv,405,Val Anthony Uy,36,ACT,PHL,01:47:47,07:18:16,06:12:54,00:06:23,00:05:52,15:31:12
+ironman-malaysia-20161112.csv,406,Vincent Poncet,38,---,SGP,01:46:00,06:54:48,05:53:25,00:10:32,00:19:11,15:03:56
+ironman-malaysia-20161112.csv,407,Mohd Azman Mansor,---,---,MYS,01:41:18,08:25:06,---,00:12:14,00:07:09,DNF
+ironman-malaysia-20161112.csv,408,Mohamad Zaki Musa,38,---,MYS,01:24:30,06:03:39,05:09:57,00:07:13,00:07:35,12:52:54
+ironman-malaysia-20161112.csv,409,Kenny Kew,---,---,MYS,01:44:11,08:20:54,06:08:59,00:09:30,00:07:28,16:31:02
+ironman-malaysia-20161112.csv,410,Mark Yeo,39,---,SGP,01:31:56,08:50:30,---,00:11:57,00:17:06,DNF
+ironman-malaysia-20161112.csv,411,Cesar Lobato,37,buenos aires,ARG,01:12:09,06:28:18,05:15:03,00:02:50,00:03:51,13:02:11
+ironman-malaysia-20161112.csv,412,Martin Polesny,36,Czech Republic,CZE,00:58:44,05:06:27,03:44:06,00:02:48,00:02:20,09:54:25
+ironman-malaysia-20161112.csv,413,Christiaan Plieger,35,---,NLD,01:17:30,06:19:00,05:49:36,00:04:26,00:02:25,13:32:57
+ironman-malaysia-20161112.csv,414,Hazarul Faskah Harun,35,---,MYS,01:26:33,06:49:23,05:56:47,00:12:08,00:09:50,14:34:41
+ironman-malaysia-20161112.csv,415,Steven Mun Yung Kwun,37,---,MYS,01:33:44,07:19:08,07:24:30,00:09:52,00:07:12,16:34:26
+ironman-malaysia-20161112.csv,416,Ishii Yasuhiro,37,Osaka,JPN,01:36:01,06:40:01,06:29:32,00:12:26,00:11:54,15:09:54
+ironman-malaysia-20161112.csv,417,Aik Ee Ng,35,---,SGP,01:31:53,06:12:00,05:01:25,00:06:59,00:03:52,12:56:09
+ironman-malaysia-20161112.csv,418,Matthew Montague,39,QLD,AUS,01:08:36,06:23:48,04:26:13,00:04:37,00:06:55,12:10:09
+ironman-malaysia-20161112.csv,419,Leong Chin Wei,38,Selangor,MYS,01:43:25,07:38:09,06:39:15,00:10:47,00:13:35,16:25:11
+ironman-malaysia-20161112.csv,420,Emeric Fernandez,35,Metro Manila,PHL,01:35:35,06:59:20,05:14:15,00:12:57,00:08:16,14:10:23
+ironman-malaysia-20161112.csv,422,Colin O'shea,37,---,IRL,00:55:30,05:11:44,03:45:49,00:03:04,00:02:30,09:58:37
+ironman-malaysia-20161112.csv,423,Wooi Sing Choo,36,Penang,MYS,01:21:20,06:04:32,04:18:20,00:02:58,00:02:00,11:49:10
+ironman-malaysia-20161112.csv,424,Peng Fei Kim,36,---,MYS,01:43:32,07:01:17,07:48:16,00:09:26,00:07:16,16:49:47
+ironman-malaysia-20161112.csv,425,Hooi Leng Chuan,36,---,MYS,01:38:03,06:42:59,06:58:41,00:05:15,00:09:10,15:34:08
+ironman-malaysia-20161112.csv,427,Søren Raunholt,39,---,DNK,01:19:01,---,---,00:04:01,---,DNF
+ironman-malaysia-20161112.csv,428,Brad Wright,38,QLD,AUS,01:02:54,05:10:33,04:23:55,00:02:48,00:03:11,10:43:21
+ironman-malaysia-20161112.csv,429,Nakamichi Yuya,39,Yamanashiken,JPN,01:32:30,07:33:53,---,00:04:51,00:05:23,DNF
+ironman-malaysia-20161112.csv,430,Boonchoon Ng,36,TOKYO,MYS,01:33:03,07:06:26,06:49:59,00:15:50,00:09:40,15:54:58
+ironman-malaysia-20161112.csv,431,Adrian Whittaker,37,WA,AUS,01:15:51,05:13:58,04:03:26,00:03:03,00:01:23,10:37:41
+ironman-malaysia-20161112.csv,432,Eduardo Roquero,39,Quezon City,PHL,01:22:31,06:34:13,04:52:18,00:03:35,00:03:39,12:56:16
+ironman-malaysia-20161112.csv,433,Ahmad Shahir Mawardi,36,Kuala Lumpur,MYS,01:48:04,07:55:22,05:25:59,00:09:34,00:11:03,15:30:02
+ironman-malaysia-20161112.csv,434,Muhaimin Ahmad,35,Selangor Darul Ehsan,MYS,01:33:39,06:45:10,07:09:47,00:05:59,00:06:29,15:41:04
+ironman-malaysia-20161112.csv,435,Sam Egerton,38,---,GBR,01:36:51,06:33:39,05:23:53,00:06:40,00:07:16,13:48:19
+ironman-malaysia-20161112.csv,436,Lam Dang Ngoc,38,Hanoi,VNM,01:41:28,07:30:55,06:58:03,00:13:02,00:09:02,16:32:30
+ironman-malaysia-20161112.csv,437,Goh Yong Choon,37,---,MYS,01:32:03,05:57:46,05:35:29,00:06:20,00:05:46,13:17:24
+ironman-malaysia-20161112.csv,438,Takuya Furukawa,38,愛媛県,JPN,01:33:29,07:36:37,05:16:53,00:07:29,00:05:12,14:39:40
+ironman-malaysia-20161112.csv,439,Patrick Muckian,39,n Ireland,IRL,01:04:22,05:16:24,03:29:11,00:03:25,00:02:53,09:56:15
+ironman-malaysia-20161112.csv,440,Stephen Liew,36,SELANGOR,MYS,01:20:41,06:15:56,05:15:51,00:04:11,00:04:56,13:01:35
+ironman-malaysia-20161112.csv,441,Greg Porter,39,VIC,AUS,01:06:07,05:35:02,04:29:08,00:04:28,00:03:22,11:18:07
+ironman-malaysia-20161112.csv,442,Wee Choon How,36,Kelantan ,MYS,01:25:41,06:42:24,05:39:36,00:04:27,00:06:18,13:58:26
+ironman-malaysia-20161112.csv,443,Christian Weyland,38,n/a,LUX,01:08:36,04:59:37,03:46:11,00:02:56,00:02:34,09:59:54
+ironman-malaysia-20161112.csv,444,Tom Ryan,36,VIC,AUS,01:07:57,05:53:19,04:51:55,00:05:13,00:04:39,12:03:03
+ironman-malaysia-20161112.csv,445,abu amar darus,36,---,MYS,01:44:15,07:24:16,06:08:15,00:04:45,00:11:20,15:32:51
+ironman-malaysia-20161112.csv,446,Retzel Orquiza,37,Metro Manila,PHL,01:17:43,06:12:54,04:34:46,00:04:21,00:03:05,12:12:49
+ironman-malaysia-20161112.csv,447,Hoong Keng Hoh,35,Selangor,MYS,01:36:24,06:46:49,06:45:10,00:05:58,00:11:26,DNF
+ironman-malaysia-20161112.csv,448,Shane Kent,36,QLD,AUS,01:11:32,05:24:33,03:57:55,00:04:20,00:02:59,10:41:19
+ironman-malaysia-20161112.csv,449,Yee Tee Law,38,---,MYS,01:53:37,07:40:47,07:11:29,00:09:26,00:09:56,DNF
+ironman-malaysia-20161112.csv,450,Thomas Nteliopoylos,39,Other,GRC,01:29:12,05:54:44,03:57:54,00:03:41,00:02:57,11:28:28
+ironman-malaysia-20161112.csv,451,Jonas Reinhammar,37,---,SWE,01:21:13,05:42:39,03:43:00,00:02:51,00:01:47,10:51:30
+ironman-malaysia-20161112.csv,452,Seng Keong Ye,39,Penang,MYS,01:36:22,06:25:03,05:23:41,00:06:31,00:07:09,13:38:46
+ironman-malaysia-20161112.csv,453,Kah Keat Khoo,34,SELANGOR,MYS,01:29:13,06:54:54,05:41:33,00:10:31,00:42:13,14:58:24
+ironman-malaysia-20161112.csv,454,Ravi Michael Victorio,37,Misamis oriental,PHL,01:41:16,06:54:36,04:56:43,00:10:32,00:08:24,13:51:31
+ironman-malaysia-20161112.csv,455,yingjie chen,38,广东,CHN,01:24:56,06:56:15,05:20:50,00:07:34,00:05:21,13:54:56
+ironman-malaysia-20161112.csv,456,Nicolas Philippe,38,---,FRA,01:03:29,05:38:48,03:45:10,00:02:48,00:03:00,10:33:15
+ironman-malaysia-20161112.csv,457,Shuhei Kamoto,36,Bangkok,THA,01:30:27,07:14:50,06:50:51,00:08:42,00:08:09,15:52:59
+ironman-malaysia-20161112.csv,458,Foo Yee Won,36,---,MYS,01:23:34,06:55:04,05:46:20,00:11:32,00:08:23,14:24:53
+ironman-malaysia-20161112.csv,459,Eddy Moreau,37,---,FRA,01:07:31,05:59:07,06:13:22,00:04:38,00:04:33,13:29:11
+ironman-malaysia-20161112.csv,460,Mohamad Sujairi,39,PUTRAJAYA,MYS,01:55:58,07:50:17,06:29:43,00:06:15,00:05:01,16:27:14
+ironman-malaysia-20161112.csv,462,John Nelson,38,NSW,AUS,01:19:56,06:41:14,06:41:21,00:05:31,00:06:04,14:54:06
+ironman-malaysia-20161112.csv,463,Alexander Chin Kai Yueh,37,QLD,MYS,01:41:02,07:07:41,05:41:44,00:15:09,00:12:56,14:58:32
+ironman-malaysia-20161112.csv,464,Heng Sing Teh,34,Johor,MYS,01:33:25,06:47:42,06:00:23,00:05:23,00:06:42,14:33:35
+ironman-malaysia-20161112.csv,465,Rhys Davie,39,VIC,AUS,01:04:02,05:25:30,04:13:49,00:03:39,00:04:41,10:51:41
+ironman-malaysia-20161112.csv,466,Eduard Sadurní,39,---,ESP,01:16:02,05:47:18,03:47:58,00:03:00,00:03:36,10:57:54
+ironman-malaysia-20161112.csv,467,Mohd Amran Bin Abd Ghani Mohd Amran Bin Abd Ghani,36,---,MYS,01:08:21,05:17:37,03:37:06,00:03:29,00:02:31,10:09:04
+ironman-malaysia-20161112.csv,468,Yak Guan Lai,39,INTL,MYS,01:22:34,06:47:22,06:50:17,00:08:35,00:08:53,15:17:41
+ironman-malaysia-20161112.csv,469,Bernhard Hradecky,37,---,AUT,01:00:26,---,---,00:03:43,---,DNF
+ironman-malaysia-20161112.csv,470,Sir Joseph Amarado Cruz,36,---,PHL,01:40:08,08:30:38,06:20:59,00:09:32,00:04:21,16:45:38
+ironman-malaysia-20161112.csv,471,Adam Leitch,35,Other,GBR,01:11:26,06:17:04,05:43:14,00:04:59,00:09:33,13:26:16
+ironman-malaysia-20161112.csv,473,Ariel Basan,38,Bukidnon,PHL,01:25:24,06:33:09,05:30:07,00:08:20,00:09:45,13:46:45
+ironman-malaysia-20161112.csv,474,Daniel Leon,37,WA,VEN,01:26:30,07:16:14,05:50:00,00:13:09,00:15:43,15:01:36
+ironman-malaysia-20161112.csv,475,Renn Chan Ooi,38,Malaysia,MYS,01:38:02,07:31:19,05:38:44,00:13:55,00:11:07,15:13:07
+ironman-malaysia-20161112.csv,476,Takao Yamazaki,37,Ibaraki-ken,JPN,01:05:22,05:35:07,03:27:19,00:03:26,00:02:06,10:13:20
+ironman-malaysia-20161112.csv,477,Hua Qun Melvin Lee,34,---,SGP,01:33:03,06:53:49,05:43:51,00:04:27,00:10:21,14:25:31
+ironman-malaysia-20161112.csv,478,Desmond Ng,37,---,SGP,01:30:13,06:45:57,04:53:20,00:07:52,00:10:51,13:28:13
+ironman-malaysia-20161112.csv,479,Itti Thebtaranonth,36,Bangkok,THA,01:28:55,07:47:01,06:48:25,00:09:55,00:08:02,16:22:18
+ironman-malaysia-20161112.csv,480,Kian Voon Lim,36,---,MYS,01:36:58,07:07:25,05:36:06,00:07:27,00:08:00,14:35:56
+ironman-malaysia-20161112.csv,481,Aik Kwang Han,35,Selangor,MYS,01:38:34,07:16:36,06:52:31,00:09:26,00:08:41,16:05:48
+ironman-malaysia-20161112.csv,482,Tew Enn Chian,38,Selangor,MYS,01:36:45,06:39:34,06:24:27,00:08:34,00:15:20,15:04:40
+ironman-malaysia-20161112.csv,483,Lek Ming Khaw,37,---,MYS,02:14:33,---,---,00:17:03,---,DNF
+ironman-malaysia-20161112.csv,484,Adam Koebel,34,Manila,CAN,01:08:30,06:04:29,04:42:08,00:04:55,00:03:58,12:04:00
+ironman-malaysia-20161112.csv,485,Dave Lommen,39,---,NLD,01:12:22,06:01:23,03:54:09,00:04:12,00:03:05,11:15:11
+ironman-malaysia-20161112.csv,486,Paul Banday,34,---,PHL,01:33:45,06:36:06,05:04:46,00:06:18,00:05:50,13:26:45
+ironman-malaysia-20161112.csv,487,Ferdinand Capco,37,---,PHL,01:18:14,06:15:28,04:29:37,00:05:48,00:06:29,12:15:36
+ironman-malaysia-20161112.csv,488,Victor Osokin,37,St.Petersburg,RUS,01:10:54,05:11:07,03:45:41,00:03:06,00:02:14,10:13:02
+ironman-malaysia-20161112.csv,489,Leow Kean Tat,---,---,MYS,01:48:03,06:56:14,07:32:16,00:10:09,00:08:07,16:34:49
+ironman-malaysia-20161112.csv,490,Yuen Wai Hong,38,Selangor Darul Ehsan,MYS,01:27:57,07:28:01,05:55:35,00:10:21,00:07:20,15:09:14
+ironman-malaysia-20161112.csv,491,Thong Chen Lim,39,PULAU PINANG,MYS,01:34:41,06:25:42,05:37:54,00:06:52,00:05:07,13:50:16
+ironman-malaysia-20161112.csv,492,Froinand Fajardo,35,---,PHL,01:26:26,08:21:35,06:32:13,00:14:35,00:12:00,16:46:49
+ironman-malaysia-20161112.csv,493,Tomohisa Nagano,35,QLD,JPN,01:41:15,---,---,00:09:31,---,DNF
+ironman-malaysia-20161112.csv,494,Ket Voon Liew,35,---,MYS,01:32:41,07:05:49,06:13:07,00:08:38,00:17:17,15:17:32
+ironman-malaysia-20161112.csv,495,Mikihiro Nakayama,38,ISH,JPN,01:28:03,06:25:05,04:59:27,00:05:32,00:04:07,13:02:14
+ironman-malaysia-20161112.csv,497,Khim Bok Tan,38,---,MYS,01:19:48,06:34:19,04:59:33,00:07:25,00:05:36,13:06:41
+ironman-malaysia-20161112.csv,498,Vianney Dujardin,37,---,FRA,01:12:41,05:45:07,04:06:46,00:05:39,00:03:54,11:14:07
+ironman-malaysia-20161112.csv,499,Usmadi Bin Nen,37,---,MYS,01:21:29,06:32:23,04:46:57,00:04:37,00:04:39,12:50:05
+ironman-malaysia-20161112.csv,500,Richard Acero,38,australia,PHL,01:28:37,08:15:45,06:46:53,00:04:20,00:04:43,16:40:18
+ironman-malaysia-20161112.csv,502,Michael  Leslie,39,Other,AUS,01:31:02,07:04:48,06:29:37,00:06:39,00:06:03,15:18:09
+ironman-malaysia-20161112.csv,503,Zee Lim,36,Johor,MYS,01:42:26,07:10:07,05:44:03,00:11:24,00:14:57,15:02:57
+ironman-malaysia-20161112.csv,504,Sam  Ng,36,---,MYS,01:05:28,06:44:29,04:37:30,00:04:40,00:08:02,12:40:09
+ironman-malaysia-20161112.csv,505,Norman Masã¨,35,TN,ITA,00:59:06,05:14:47,04:19:50,00:02:44,00:02:22,10:38:49
+ironman-malaysia-20161112.csv,506,Thomas Schlohmann,35,---,DEU,01:01:01,05:27:11,03:46:30,00:02:18,00:02:33,10:19:33
+ironman-malaysia-20161112.csv,507,Soren Mellerup,35,---,DNK,01:00:31,05:08:42,03:45:49,00:03:29,00:03:21,10:01:52
+ironman-malaysia-20161112.csv,508,Herberto Jr. Sebastian,34,Intl State,PHL,01:29:31,06:46:18,04:52:23,00:04:37,00:04:20,13:17:09
+ironman-malaysia-20161112.csv,509,Hannes Marek,36,---,DEU,01:06:50,05:17:33,03:46:05,00:03:20,00:02:30,10:16:18
+ironman-malaysia-20161112.csv,510,Kieron Paterson,39,NSW,AUS,01:03:29,05:32:11,03:37:53,00:03:47,00:01:52,10:19:12
+ironman-malaysia-20161112.csv,511,Chin Keat Teng,35,Kedah,MYS,01:41:01,---,---,00:06:06,---,DNF
+ironman-malaysia-20161112.csv,512,Thierry Dondlinger,38,Luxemburg,LUX,01:04:33,05:16:31,03:31:40,00:03:35,00:04:18,10:00:37
+ironman-malaysia-20161112.csv,513,Ryota Sunagawa,34,Kanaagwa,JPN,01:38:43,06:20:21,04:05:46,00:04:33,00:02:55,12:12:18
+ironman-malaysia-20161112.csv,514,Raymond Flores,36,Nueva ecija,PHL,01:52:35,07:24:34,06:38:03,00:11:27,00:10:50,16:17:29
+ironman-malaysia-20161112.csv,515,Fujita Kunihiko,38,aichi-ken,JPN,01:27:17,07:10:01,07:22:52,00:07:50,00:11:34,16:19:34
+ironman-malaysia-20161112.csv,516,Mohamad Sabri,38,---,MYS,01:51:03,07:39:09,06:23:31,00:09:42,00:18:32,16:21:57
+ironman-malaysia-20161112.csv,517,Suzuki Ryusukeo,37,静岡県,JPN,01:26:59,06:44:17,05:35:37,00:12:25,00:08:51,14:08:09
+ironman-malaysia-20161112.csv,518,foo wooi jack,36,---,MYS,01:30:30,07:34:00,06:50:30,00:11:31,00:05:22,16:11:53
+ironman-malaysia-20161112.csv,520,Prasad Shinde,34,Maharashtra,IND,01:47:48,07:26:37,04:55:55,00:10:39,00:06:51,14:27:50
+ironman-malaysia-20161112.csv,521,Rosman Jalal,38,---,MYS,01:37:00,07:37:48,06:22:59,00:05:09,00:15:13,15:58:09
+ironman-malaysia-20161112.csv,524,Wayne Eliot,35,WA,AUS,01:01:33,06:18:00,04:58:30,00:04:41,00:08:18,12:31:02
+ironman-malaysia-20161112.csv,525,Soichiro Hanyu,37,Tokyo,JPN,01:08:43,05:26:06,03:51:32,00:04:29,00:02:04,10:32:54
+ironman-malaysia-20161112.csv,526,Mitchell Nova,39,Intl State,MEX,01:15:03,05:48:17,04:13:28,00:06:58,00:03:57,11:27:43
+ironman-malaysia-20161112.csv,527,Felipe Sajulga,35,Bukidnon,PHL,01:05:07,05:18:50,03:27:22,00:03:04,00:02:38,09:57:01
+ironman-malaysia-20161112.csv,528,Yhee Fei Hoa,35,Penang,MYS,01:44:08,06:51:18,05:15:33,00:11:52,00:08:43,14:11:34
+ironman-malaysia-20161112.csv,529,Alvin Cheong,38,---,SGP,01:37:18,08:05:43,05:51:54,00:10:42,00:07:03,15:52:40
+ironman-malaysia-20161112.csv,530,Eric Lo,39,---,HKG,01:27:38,06:28:53,05:16:19,00:07:44,00:10:05,13:30:39
+ironman-malaysia-20161112.csv,531,Roehl Tj Macapagal,39,NCR,PHL,01:23:51,07:34:21,06:53:31,00:07:33,00:09:02,16:08:18
+ironman-malaysia-20161112.csv,532,Bergamo Enzo,36,Italia,ITA,01:04:49,05:04:00,03:39:03,00:03:28,00:02:28,09:53:48
+ironman-malaysia-20161112.csv,533,Fu Han,38,浙江省,CHN,01:32:32,06:55:39,04:53:58,00:08:21,00:07:02,13:37:32
+ironman-malaysia-20161112.csv,534,Masashi Ikeda,37,京都府,JPN,01:36:48,07:10:51,06:03:55,00:07:07,00:05:41,15:04:22
+ironman-malaysia-20161112.csv,535,Elmo Clarabal,36,Manila,PHL,01:18:43,06:07:52,04:13:47,00:03:05,00:02:19,11:45:46
+ironman-malaysia-20161112.csv,536,Jonathan Cheah,34,KL/WP,MYS,01:31:45,06:53:11,04:43:38,00:08:19,00:07:35,13:24:28
+ironman-malaysia-20161112.csv,537,James Crosby,37,---,GBR,01:18:50,07:00:07,05:58:20,00:06:37,00:14:28,14:38:22
+ironman-malaysia-20161112.csv,538,Ryan Low,36,---,MYS,01:40:27,07:05:45,05:16:22,00:08:40,00:09:44,14:20:58
+ironman-malaysia-20161112.csv,539,Mohamad Fadhilullah Tudun Haji Hassan,34,Brunei-Muara,BRN,01:27:12,---,---,00:11:24,---,DNF
+ironman-malaysia-20161112.csv,540,Yun Ping Ngee,37,---,MYS,02:04:16,---,---,00:08:31,10:47:44,DNF
+ironman-malaysia-20161112.csv,541,Olivier Mangeant,39,shanghai,FRA,01:17:48,06:24:06,04:09:10,00:03:31,00:05:44,12:00:19
+ironman-malaysia-20161112.csv,542,Bing Liang,36,Beijing,CHN,01:24:31,07:21:26,06:18:07,00:11:01,00:09:53,15:24:58
+ironman-malaysia-20161112.csv,543,Yap Hui,39,---,MYS,01:34:46,07:31:00,06:29:11,00:08:24,00:06:00,15:49:21
+ironman-malaysia-20161112.csv,544,Kitsanee Bone,35,Nonthaburi,THA,01:39:24,08:19:50,05:52:07,00:06:24,00:04:27,16:02:12
+ironman-malaysia-20161112.csv,545,Mei Chei Yu,39,Selangor Darul Ehsan,MYS,01:47:24,08:02:10,06:32:57,00:07:05,00:06:28,16:36:04
+ironman-malaysia-20161112.csv,546,Laarni Paredes,37,Laguna,PHL,01:33:07,07:04:33,05:39:54,00:03:59,00:04:32,14:26:05
+ironman-malaysia-20161112.csv,548,Yuriko Orihara,36,Saitama,JPN,01:00:49,06:49:04,04:30:09,00:04:58,00:05:17,12:30:17
+ironman-malaysia-20161112.csv,549,Harum Delima Haug,35,WP,MYS,01:21:07,07:29:30,05:47:02,00:03:32,00:03:15,14:44:26
+ironman-malaysia-20161112.csv,550,Lesley Li Lian Tan,39,---,MYS,01:33:54,06:50:23,05:16:48,00:05:48,00:03:08,13:50:01
+ironman-malaysia-20161112.csv,551,Phaik Ean Lim,37,---,MYS,02:02:24,07:53:53,06:28:06,00:14:36,00:11:22,16:50:21
+ironman-malaysia-20161112.csv,552,Emma-Jane Hughes,38,---,IRL,01:10:40,05:50:24,04:05:17,00:03:11,00:02:29,11:12:01
+ironman-malaysia-20161112.csv,553,Jasmine Tan,36,---,SGP,01:48:01,08:27:00,---,00:15:50,00:10:02,DNF
+ironman-malaysia-20161112.csv,554,Jewell Narzoles,39,DXB,PHL,01:20:31,07:11:44,05:02:10,00:06:01,00:04:56,13:45:22
+ironman-malaysia-20161112.csv,555,Noor Diana Syam Hazari,37,Selangor,MYS,02:01:23,08:13:23,---,00:08:50,00:06:20,DNF
+ironman-malaysia-20161112.csv,556,Tetty Juliana Sujono,39,SG,SGP,01:55:14,08:10:55,06:42:16,00:08:03,00:07:10,DNF
+ironman-malaysia-20161112.csv,557,Mei See Chin,38,---,MYS,01:25:53,06:14:46,04:12:32,00:05:30,00:03:46,12:02:27
+ironman-malaysia-20161112.csv,558,Perrine Fages,36,Doha,FRA,01:23:14,06:06:39,04:03:35,00:04:41,00:03:01,11:41:10
+ironman-malaysia-20161112.csv,559,Nur Syahariah Jusoh,39,W.P. Kuala Lumpur,MYS,01:59:10,07:14:56,06:00:51,00:10:35,00:08:09,15:33:41
+ironman-malaysia-20161112.csv,560,EIKO ONO,39,MIYAZAKI,JPN,01:14:47,06:46:54,05:34:24,00:04:31,00:04:41,13:45:17
+ironman-malaysia-20161112.csv,562,Miow Chin Lim,38,---,MYS,01:28:06,07:40:02,05:24:27,00:06:06,00:03:46,14:42:27
+ironman-malaysia-20161112.csv,563,Junsuke Fujito,44,---,JPN,01:18:56,06:54:42,05:18:51,00:06:30,00:05:14,13:44:13
+ironman-malaysia-20161112.csv,564,Allan Wong Kee Kwang,40,---,MYS,01:15:33,06:05:37,04:38:11,00:10:15,00:09:55,12:19:31
+ironman-malaysia-20161112.csv,565,Seng Tian Lim,41,Selangor,MYS,01:36:13,07:17:05,06:08:45,00:07:48,00:06:37,15:16:28
+ironman-malaysia-20161112.csv,566,Syukran Mohamed,---,Selangor,MYS,01:39:15,07:19:38,05:37:59,00:11:17,00:12:21,15:00:30
+ironman-malaysia-20161112.csv,567,Affendy Nanyan,---,---,MYS,02:13:29,07:30:21,06:54:42,00:09:16,00:07:49,16:55:37
+ironman-malaysia-20161112.csv,568,Ary Sutoyo,40,"
+Indonesia",IDN,01:35:35,06:41:03,05:07:40,00:11:50,00:09:09,13:45:17
+ironman-malaysia-20161112.csv,569,ryuichi shirai,43,愛知県,JPN,01:00:31,06:14:38,04:05:45,00:03:41,00:04:47,11:29:22
+ironman-malaysia-20161112.csv,570,Terry Ng,40,---,MYS,01:27:16,06:34:26,05:07:45,00:08:31,00:05:49,13:23:47
+ironman-malaysia-20161112.csv,571,Shinichi Tatsuta,39,Hyogo,JPN,01:28:57,07:39:44,06:10:43,00:10:02,00:08:00,15:37:26
+ironman-malaysia-20161112.csv,573,Izuddin Ishak,39,---,MYS,01:44:36,07:32:08,06:49:13,00:08:38,00:15:18,16:29:53
+ironman-malaysia-20161112.csv,574,Sebastian Scholz,40,---,DEU,01:14:36,05:46:10,04:03:56,00:05:06,00:05:47,11:15:35
+ironman-malaysia-20161112.csv,575,Fauzi Othman,---,Selangor,MYS,01:26:13,07:15:31,05:40:37,00:06:06,00:10:00,14:38:27
+ironman-malaysia-20161112.csv,576,Tony Persson,40,Federal territory of Kuala Lumpur,SWE,01:12:51,05:22:36,03:55:32,00:02:33,00:02:47,10:36:19
+ironman-malaysia-20161112.csv,577,Alexander Ushakov,44,Moscow region,RUS,01:11:14,06:13:09,05:13:52,00:03:32,00:03:26,12:45:13
+ironman-malaysia-20161112.csv,578,Jeremy Turner,40,DXB,GBR,01:28:07,06:34:57,04:41:48,00:07:23,00:06:39,12:58:54
+ironman-malaysia-20161112.csv,579,Sopon Pinjutarat,41,nonthaburi,THA,01:49:34,07:25:21,06:43:46,00:14:02,00:16:57,16:29:40
+ironman-malaysia-20161112.csv,580,Alex Albergaria,43,---,PRT,01:09:29,05:33:44,03:45:33,00:03:55,00:03:09,10:35:50
+ironman-malaysia-20161112.csv,582,Song Huat Tang,44,Penang,MYS,01:33:53,---,---,00:15:58,---,DNF
+ironman-malaysia-20161112.csv,583,Faizol Ramli,43,---,MYS,01:47:50,07:46:36,06:50:58,00:12:27,00:13:17,16:51:08
+ironman-malaysia-20161112.csv,584,Ahmad Irfan Mohamed Khalid,41,---,SGP,01:36:50,07:45:39,06:44:05,00:05:38,00:05:23,16:17:35
+ironman-malaysia-20161112.csv,585,Michael Pearson,41,---,GBR,01:22:45,07:06:57,05:03:28,00:10:04,00:08:23,13:51:37
+ironman-malaysia-20161112.csv,586,Keng Hong Wong,43,---,SGP,01:19:21,06:50:40,05:44:18,00:07:28,00:06:21,14:08:08
+ironman-malaysia-20161112.csv,589,Yozo Fujisawa,40,Tokyo,JPN,01:41:20,06:54:59,04:44:08,00:08:17,00:07:03,13:35:47
+ironman-malaysia-20161112.csv,590,Damien Leonardi,42,---,FRA,00:53:16,05:32:24,04:08:35,00:04:29,00:06:17,10:45:01
+ironman-malaysia-20161112.csv,591,Iman Santoso,42,"West Java
+West Java",IDN,01:53:22,07:16:44,06:30:44,00:14:32,00:16:42,16:12:04
+ironman-malaysia-20161112.csv,592,Holger Mueller,43,---,DEU,01:58:28,06:44:09,05:18:45,00:19:58,00:20:18,14:41:38
+ironman-malaysia-20161112.csv,593,Ban Keat Tan,40,---,MYS,01:54:56,08:10:22,04:23:10,00:05:32,00:06:30,DNF
+ironman-malaysia-20161112.csv,594,Shah M Zain,42,Sabah,MYS,01:39:25,07:12:10,06:16:02,00:06:08,00:08:43,15:22:28
+ironman-malaysia-20161112.csv,595,Andreas Hadjikoumis,42,Limassol,CYP,01:33:53,05:51:58,04:28:02,00:05:37,00:04:10,12:03:40
+ironman-malaysia-20161112.csv,597,Peter Kniz,42,Slovakia,SVK,01:02:15,05:49:35,03:43:55,00:05:43,00:04:31,10:45:59
+ironman-malaysia-20161112.csv,598,Saravana Gengappan,40,---,MYS,01:38:05,07:31:01,05:15:12,00:08:12,00:05:23,14:37:53
+ironman-malaysia-20161112.csv,599,Michael English,41,Other,ZAF,01:16:10,06:21:27,05:33:04,00:08:08,00:06:28,13:25:17
+ironman-malaysia-20161112.csv,600,Hock Thye Khor,40,Penang,MYS,01:44:20,08:02:13,06:22:15,00:13:58,00:08:42,16:31:28
+ironman-malaysia-20161112.csv,601,Aktar Abdul Rahman,43,Kedah,MYS,01:45:49,07:26:30,06:41:48,00:12:27,00:28:03,16:34:37
+ironman-malaysia-20161112.csv,602,Allan Alagao,43,Pasig City,PHL,01:36:31,08:19:12,06:31:41,00:10:07,00:11:53,16:49:24
+ironman-malaysia-20161112.csv,603,Muhammad Hafiz Wong Bin Abdullah,43,---,MYS,01:13:09,05:36:17,05:04:48,00:03:09,00:02:48,12:00:11
+ironman-malaysia-20161112.csv,604,Ahmad Azwat Bakty Ab Rahim,41,---,MYS,01:46:10,---,---,00:14:06,---,DNF
+ironman-malaysia-20161112.csv,605,Yeonggil Kim,42,daejon,KOR,01:40:45,07:17:33,06:25:53,00:10:28,00:12:06,15:46:45
+ironman-malaysia-20161112.csv,606,Robert Dorrestyn,44,TX,USA,01:08:11,---,---,00:06:07,---,DNF
+ironman-malaysia-20161112.csv,608,Nattapong Nithi-Uthai,44,---,THA,01:19:02,07:55:53,---,00:07:32,00:07:02,DNF
+ironman-malaysia-20161112.csv,609,Steven Thesman,44,"11610
+DKI
+Jakarta Barat",IDN,01:39:26,06:26:26,04:56:32,00:08:34,00:07:16,13:18:14
+ironman-malaysia-20161112.csv,610,Razali Razlan,43,Selangor,MYS,01:31:18,07:34:26,06:51:21,00:05:42,00:11:57,16:14:44
+ironman-malaysia-20161112.csv,611,Owen Baker,39,NSW,AUS,01:08:10,05:22:45,05:24:14,00:02:18,00:02:12,11:59:39
+ironman-malaysia-20161112.csv,612,Michael Ti-In,41,---,SGP,02:26:15,07:24:20,06:14:02,00:05:16,00:07:15,DNF
+ironman-malaysia-20161112.csv,613,Alexander Gröbli,44,---,CHE,01:11:57,05:10:09,03:43:46,00:03:25,00:02:20,10:11:37
+ironman-malaysia-20161112.csv,614,Nicholas Burt,44,NSW,AUS,00:57:52,05:02:36,03:23:30,00:04:04,00:02:27,09:30:29
+ironman-malaysia-20161112.csv,615,Christophe Terzi,43,---,FRA,01:02:11,05:25:34,03:53:30,00:03:02,00:03:54,10:28:11
+ironman-malaysia-20161112.csv,616,Siak Koon Yap,42,---,MYS,01:55:34,06:47:17,06:19:10,00:12:31,00:09:35,15:24:07
+ironman-malaysia-20161112.csv,617,Chee Keen Chong,40,---,MYS,01:29:36,07:54:16,---,00:10:48,---,DNF
+ironman-malaysia-20161112.csv,618,Silvestre Hortizuela,42,---,SGP,01:17:04,06:01:17,05:12:47,00:04:59,00:04:10,12:40:17
+ironman-malaysia-20161112.csv,619,Gerry Alvianto,41,"jakarta barat
+INDONESIA",IDN,01:26:32,06:28:50,04:52:22,00:10:00,00:07:46,13:05:30
+ironman-malaysia-20161112.csv,620,Ueda Daisuke,43,大阪府,JPN,01:18:28,06:27:04,04:02:09,00:04:11,00:03:13,11:55:05
+ironman-malaysia-20161112.csv,621,Gael Couturier,43,Veneto,MCO,01:26:59,06:48:16,06:06:31,00:10:31,01:19:10,15:51:27
+ironman-malaysia-20161112.csv,622,Tang Foo Hou,40,---,SGP,01:42:10,07:00:39,04:14:04,00:10:59,00:15:13,13:23:05
+ironman-malaysia-20161112.csv,623,Dusan Tomco,40,CZE,CZE,01:03:57,05:31:09,03:47:32,00:02:56,00:04:02,10:29:36
+ironman-malaysia-20161112.csv,624,Makoto Imaeda,43,aichi,JPN,00:59:15,05:40:17,04:16:27,00:01:51,00:05:25,11:03:15
+ironman-malaysia-20161112.csv,625,Kousuke Itoh,40,東京都,JPN,01:24:27,07:21:39,05:21:58,00:09:21,00:09:22,14:26:47
+ironman-malaysia-20161112.csv,626,Luis Diogo Silva Santos,41,---,PRT,00:58:28,05:18:55,03:45:16,00:02:49,00:05:35,10:11:03
+ironman-malaysia-20161112.csv,627,Chee Wei Fong,40,---,MYS,01:33:46,06:25:57,04:50:09,00:07:14,00:03:56,13:01:02
+ironman-malaysia-20161112.csv,630,Shuping Lin,44,广东省,CHN,01:29:25,07:26:52,04:44:08,00:11:40,00:06:33,13:58:38
+ironman-malaysia-20161112.csv,631,Tsz Wai Wong,44,---,HKG,01:33:41,06:56:19,05:31:23,00:06:02,00:05:14,14:12:39
+ironman-malaysia-20161112.csv,632,Shrikant Deshpande,42,Karnataka,IND,01:38:08,07:38:25,05:34:09,00:09:27,00:08:42,15:08:51
+ironman-malaysia-20161112.csv,633,Sooi Yew Ang,44,---,MYS,01:32:49,07:21:00,05:48:46,00:08:40,00:13:37,15:04:52
+ironman-malaysia-20161112.csv,634,Lay Chee Hwee,40,---,MYS,01:36:11,08:01:31,05:55:19,00:14:45,00:08:51,15:56:37
+ironman-malaysia-20161112.csv,635,Leslie Er Loong Lim,44,---,SGP,01:45:29,07:54:27,06:48:39,00:08:37,00:11:56,16:49:08
+ironman-malaysia-20161112.csv,636,David Zimmermann,43,---,CHE,01:21:26,05:30:07,04:01:34,00:03:58,00:03:44,11:00:49
+ironman-malaysia-20161112.csv,637,Brian Saxton,40,---,GBR,01:31:13,06:43:35,05:00:34,00:08:01,00:10:09,13:33:32
+ironman-malaysia-20161112.csv,638,Bernt Erik Westre,40,---,NOR,01:16:11,05:41:39,03:51:40,00:04:03,00:03:43,10:57:16
+ironman-malaysia-20161112.csv,639,Nacha Wongthaworn,43,Bangkok,THA,01:20:39,07:01:56,06:21:05,00:08:35,00:10:04,15:02:19
+ironman-malaysia-20161112.csv,640,Jian Meng,40,北京,CHN,02:07:00,08:18:42,---,00:09:37,00:10:48,DNF
+ironman-malaysia-20161112.csv,641,Izham Che Abdul Hamid,40,Kedah,MYS,01:42:30,07:17:05,04:33:24,00:06:19,00:07:45,13:47:03
+ironman-malaysia-20161112.csv,642,Thanawat Nak-Rong,41,Bangkok,THA,01:42:06,07:20:22,06:15:52,00:10:57,00:14:10,15:43:27
+ironman-malaysia-20161112.csv,643,David De Paula,41,---,FRA,01:21:42,05:52:15,---,00:03:51,00:04:36,DNF
+ironman-malaysia-20161112.csv,644,Whun Chee Andy Tan,44,---,SGP,01:48:32,06:57:58,05:37:22,00:09:35,00:09:00,14:42:27
+ironman-malaysia-20161112.csv,645,Ka Chin Khor,44,---,MYS,01:19:56,06:23:19,04:42:50,00:11:42,00:10:13,12:48:00
+ironman-malaysia-20161112.csv,646,Wai Kei Cheung,44,---,HKG,01:03:41,07:00:07,05:27:04,00:05:54,00:09:37,13:46:23
+ironman-malaysia-20161112.csv,647,Jira Vanichkirati,43,Bangkok,THA,01:45:14,07:55:12,06:09:20,00:28:13,00:19:45,16:37:44
+ironman-malaysia-20161112.csv,648,Ngin Ping,41,---,SGP,01:38:51,08:13:40,06:34:28,00:09:48,00:13:04,16:49:51
+ironman-malaysia-20161112.csv,649,Tiong Edwin,44,---,MYS,01:39:12,07:10:35,06:01:29,00:12:38,00:09:28,15:13:22
+ironman-malaysia-20161112.csv,650,steven ong,43,---,MYS,01:41:58,06:47:58,05:36:23,00:08:13,00:10:39,14:25:11
+ironman-malaysia-20161112.csv,652,Michael Yeung,43,---,HKG,01:12:15,06:36:53,05:41:51,00:04:39,00:05:37,13:41:15
+ironman-malaysia-20161112.csv,654,Jason Cook,40,QLD,AUS,01:03:23,05:23:34,05:10:38,00:03:57,00:04:16,11:45:48
+ironman-malaysia-20161112.csv,655,Leighton Matheson,41,---,NZL,01:01:50,05:06:20,04:03:52,00:02:44,00:02:56,10:17:42
+ironman-malaysia-20161112.csv,656,Hatta Affendy Abu Bakar,41,SELANGOR,MYS,01:31:06,06:57:01,05:50:29,00:09:29,00:07:34,14:35:39
+ironman-malaysia-20161112.csv,657,John Lim,41,---,SGP,01:52:44,---,---,00:15:03,---,DNF
+ironman-malaysia-20161112.csv,658,Roy Tay,42,---,SGP,01:35:03,06:42:09,04:01:49,00:06:39,00:06:40,12:32:20
+ironman-malaysia-20161112.csv,659,Peter Ansted,41,NSW,AUS,01:16:06,05:53:55,05:15:35,00:03:41,00:02:32,12:31:49
+ironman-malaysia-20161112.csv,660,Sebastien Clain,42,---,FRA,01:12:22,05:36:08,04:23:25,00:04:47,00:03:46,11:20:28
+ironman-malaysia-20161112.csv,661,Chris Dalton,43,Selangor ,GBR,01:28:36,06:41:59,04:59:49,00:10:12,00:09:25,13:30:01
+ironman-malaysia-20161112.csv,662,Kannan Murugasan,42,---,MYS,01:43:27,---,---,00:15:21,---,DNF
+ironman-malaysia-20161112.csv,663,Murakami Tadahiro,44,愛知県,JPN,01:31:55,06:51:47,05:24:35,00:08:18,00:13:04,14:09:39
+ironman-malaysia-20161112.csv,664,Darrin Jones,44,---,AUS,01:10:06,05:16:08,04:37:10,00:04:39,00:03:22,11:11:25
+ironman-malaysia-20161112.csv,665,Matteo Andreis,40,Other,ITA,00:59:43,05:36:30,03:56:42,00:02:58,00:02:07,10:38:00
+ironman-malaysia-20161112.csv,666,ching khooi ng,44,---,MYS,01:26:24,06:45:58,06:07:43,00:08:01,00:11:53,14:39:59
+ironman-malaysia-20161112.csv,667,Hashem Alharbi,42,AUH,ARE,02:12:30,06:23:22,05:27:07,00:06:39,00:09:10,14:18:48
+ironman-malaysia-20161112.csv,668,Jimmy Khee Yu Low,40,---,MYS,01:48:05,07:04:55,05:30:57,00:09:24,00:08:32,14:41:53
+ironman-malaysia-20161112.csv,669,Sewan Kim,42,CA,KOR,01:12:14,08:09:15,---,00:07:22,---,DNF
+ironman-malaysia-20161112.csv,670,Shoji Iwabuchi,42,ISH,JPN,01:03:03,06:33:20,05:19:01,00:06:01,00:06:01,13:07:26
+ironman-malaysia-20161112.csv,671,Chan Chee Foong,40,---,MYS,01:48:18,07:06:24,06:13:30,00:07:17,00:08:54,15:24:23
+ironman-malaysia-20161112.csv,672,Julius Lim,41,PENANG,MYS,01:21:26,06:05:00,04:30:42,00:03:23,00:07:21,12:07:52
+ironman-malaysia-20161112.csv,673,Manfung Mak,42,Guangdong,HKG,01:40:45,07:13:46,05:48:34,00:15:33,00:08:49,15:07:27
+ironman-malaysia-20161112.csv,674,Chuk Chuen Yong,44,---,SGP,01:23:49,07:10:57,06:22:34,00:05:21,00:04:58,15:07:39
+ironman-malaysia-20161112.csv,675,Shigetaka Sasame,43,千葉県,JPN,01:10:24,06:15:12,05:58:01,00:04:54,00:03:08,13:31:39
+ironman-malaysia-20161112.csv,677,Abdul Kadir Abdul Karim,43,Selangor,MYS,01:42:21,07:33:33,05:40:34,00:12:11,00:16:53,15:25:32
+ironman-malaysia-20161112.csv,678,Kenneth Heney,40,DXB,GBR,01:01:55,06:33:08,04:14:17,00:03:47,00:01:46,11:54:53
+ironman-malaysia-20161112.csv,679,Choon Yuen Lim,41,---,MYS,01:27:27,07:39:07,05:45:06,00:09:24,00:07:53,15:08:57
+ironman-malaysia-20161112.csv,680,Abdul Muhaimin Othaman,40,Kedah,MYS,01:39:12,06:42:09,06:32:50,00:06:45,00:11:02,15:11:58
+ironman-malaysia-20161112.csv,681,Goh Alex,43,---,SGP,02:07:50,06:20:35,04:06:25,00:08:55,00:05:56,12:49:41
+ironman-malaysia-20161112.csv,682,Jerome Araullo,43,rizal,PHL,01:56:44,08:31:02,06:10:50,---,00:03:26,16:42:02
+ironman-malaysia-20161112.csv,684,Phidet Chawaldit,41,nonthaburi,THA,01:17:22,07:26:49,05:55:30,00:09:32,00:13:02,15:02:15
+ironman-malaysia-20161112.csv,685,Janne Pentti,42,Ylojarvi,FIN,01:30:54,06:42:52,05:16:09,00:05:17,00:06:52,13:42:04
+ironman-malaysia-20161112.csv,686,Hsien Ming Swee,40,---,SGP,01:34:17,08:20:29,06:08:46,00:14:27,00:17:12,16:35:11
+ironman-malaysia-20161112.csv,687,Xiaolin Wang,41,Yunnan,CHN,01:23:02,05:41:20,04:07:32,00:06:46,00:04:57,11:23:37
+ironman-malaysia-20161112.csv,688,Lloyd Henry,41,DC,VIR,01:25:07,06:18:17,06:26:22,00:05:34,00:05:29,14:20:49
+ironman-malaysia-20161112.csv,689,Navin Munkhem,42,Bangkok,THA,01:32:28,07:36:58,06:53:33,00:09:44,00:10:29,16:23:12
+ironman-malaysia-20161112.csv,690,Jamie Meng Liew Saw,42,Wilayah Persekutuan,MYS,01:24:47,07:19:15,06:55:55,00:10:13,00:09:17,15:59:27
+ironman-malaysia-20161112.csv,692,Masamichi Miura,41,Fukuoka,JPN,01:30:31,06:57:59,06:14:13,00:12:13,00:12:47,15:07:43
+ironman-malaysia-20161112.csv,693,Chong Yiow Loong,40,Selangor,MYS,01:46:10,07:27:29,06:40:23,00:07:00,00:10:44,16:11:46
+ironman-malaysia-20161112.csv,694,Georg Berger,42,---,AUT,01:14:04,06:07:28,04:22:47,00:04:24,00:04:00,11:52:43
+ironman-malaysia-20161112.csv,695,Liaw Hock Guan,42,---,MYS,01:56:59,06:54:14,06:05:54,00:07:41,00:07:10,15:11:58
+ironman-malaysia-20161112.csv,696,Bert Grobben,42,---,SGP,01:52:35,07:15:23,06:30:02,00:07:48,00:10:39,15:56:27
+ironman-malaysia-20161112.csv,697,Robert Plachciak,44,---,GBR,01:25:13,06:20:49,05:15:52,00:07:43,00:04:52,13:14:29
+ironman-malaysia-20161112.csv,698,Seow Wah Teo,40,---,SGP,01:39:57,07:27:35,06:30:10,00:09:42,00:10:20,15:57:44
+ironman-malaysia-20161112.csv,699,Takayuki Hoshuyama,44,Tokyo,JPN,01:09:44,07:37:01,05:10:57,00:11:47,00:17:17,14:26:46
+ironman-malaysia-20161112.csv,700,Jose Mari Cagurangan,41,Cavite,PHL,01:34:51,07:28:45,06:56:03,00:09:57,00:11:41,16:21:17
+ironman-malaysia-20161112.csv,701,Alvin Hock San Ang,42,---,MYS,02:10:20,07:37:01,06:28:42,00:14:47,00:10:32,16:41:22
+ironman-malaysia-20161112.csv,702,Edwin Ng Heng Chye,40,---,MYS,01:23:56,07:18:58,06:19:43,00:11:47,00:09:03,15:23:27
+ironman-malaysia-20161112.csv,703,Shigenobu Hayashi,44,Intl State,JPN,01:07:49,05:41:44,03:44:57,00:04:00,00:02:57,10:41:27
+ironman-malaysia-20161112.csv,704,Nerio Ii Zamora,40,Bohol,PHL,01:20:15,06:31:28,06:19:58,00:04:27,00:07:35,14:23:43
+ironman-malaysia-20161112.csv,705,Mohd Syubli Mohd Nordin,43,---,MYS,01:56:53,07:05:04,06:19:12,00:05:55,00:13:47,15:40:51
+ironman-malaysia-20161112.csv,706,Sin Hoo Ooi,40,Penang,MYS,01:34:46,06:27:36,04:16:29,00:07:14,00:06:29,12:32:34
+ironman-malaysia-20161112.csv,707,Chartchai Mahaworamakorn,43,Bangkok,THA,02:01:18,08:11:35,04:30:24,00:11:32,00:11:59,DNF
+ironman-malaysia-20161112.csv,708,Kien Seong Lim,41,---,MYS,02:02:45,07:12:12,06:57:21,00:07:37,00:08:26,16:28:21
+ironman-malaysia-20161112.csv,709,Surin Songtangsuntikul,40,Chonburi,THA,01:55:37,07:58:57,05:24:24,00:10:11,00:06:50,15:35:59
+ironman-malaysia-20161112.csv,710,Saw Ping Ng,40,Penang,MYS,01:31:07,06:52:07,04:33:13,00:06:30,00:03:00,13:05:57
+ironman-malaysia-20161112.csv,711,Chee Kiong Ong,42,Selangor,MYS,01:38:43,07:18:17,06:32:00,00:10:19,00:12:54,15:52:13
+ironman-malaysia-20161112.csv,713,Shi Yong Jeremy Tan,40,---,SGP,01:35:51,07:14:41,05:18:36,00:09:04,00:09:24,14:27:36
+ironman-malaysia-20161112.csv,714,Tuck Wai Choong,42,Wilayah Persekutuan,MYS,01:34:49,07:04:57,07:26:36,00:06:52,00:06:31,16:19:45
+ironman-malaysia-20161112.csv,716,Mohamad Fadzil Abdul Muis,44,Selangor,MYS,01:35:56,06:29:45,04:33:41,00:10:16,00:06:48,12:56:26
+ironman-malaysia-20161112.csv,717,Ee Chong Ng,40,---,MYS,01:24:11,06:40:13,05:48:27,00:06:50,00:06:19,14:06:00
+ironman-malaysia-20161112.csv,718,Jee Koon Eng,44,---,SGP,01:15:04,07:11:07,05:37:36,00:06:09,00:05:52,14:15:48
+ironman-malaysia-20161112.csv,719,Clarke Wan,42,---,SGP,01:28:22,06:38:13,05:52:13,00:05:51,00:06:45,14:11:24
+ironman-malaysia-20161112.csv,720,Salvador Alarcon Alacio,42,---,ESP,01:02:12,05:20:02,03:34:53,00:03:33,00:03:20,10:04:00
+ironman-malaysia-20161112.csv,721,Hideyuki Asakawa,---,神奈川県,JPN,01:06:02,06:24:17,05:04:36,00:04:10,00:07:30,12:46:35
+ironman-malaysia-20161112.csv,722,Franck Mathieu,44,FR,FRA,01:20:18,09:18:44,---,00:06:12,---,DNF
+ironman-malaysia-20161112.csv,724,Rainer Virve,40,APO,EST,01:10:54,05:31:17,03:53:51,00:04:18,00:06:26,10:46:46
+ironman-malaysia-20161112.csv,725,Simon Florian Schneider,40,---,DEU,01:28:07,06:08:28,05:20:39,00:05:20,00:08:18,13:10:52
+ironman-malaysia-20161112.csv,726,Jeffery Lim Swee Eu,44,Selangor,MYS,01:41:39,08:04:08,06:29:38,00:10:09,00:11:15,16:36:49
+ironman-malaysia-20161112.csv,727,Mee Han,42,---,MYS,01:36:09,07:44:22,06:25:20,00:06:14,00:06:37,15:58:42
+ironman-malaysia-20161112.csv,728,Tania Hoffmann,41,Lux,LUX,01:18:14,06:28:58,04:00:26,00:03:58,00:02:33,11:54:09
+ironman-malaysia-20161112.csv,729,Lynn Law Lay Eng,44,Pulau Pinang,MYS,01:53:38,07:39:59,05:55:17,00:11:01,00:10:17,15:50:12
+ironman-malaysia-20161112.csv,730,Mei Lin Tan,40,---,MYS,01:30:13,07:23:18,06:29:31,00:09:17,00:10:54,15:43:13
+ironman-malaysia-20161112.csv,731,Joey Loe Yu Pheng,41,Pulau Pinang,MYS,01:50:03,---,---,00:09:40,---,DNF
+ironman-malaysia-20161112.csv,732,Simone Boehm,42,DE,DEU,01:12:58,06:18:59,04:20:41,00:03:43,00:02:45,11:59:06
+ironman-malaysia-20161112.csv,733,Michelle Gemmell,44,QLD,AUS,01:14:28,05:52:21,04:47:10,00:03:31,00:03:40,12:01:10
+ironman-malaysia-20161112.csv,734,Emma Cook,41,QLD,AUS,01:19:04,06:18:50,04:55:22,00:05:01,00:04:12,12:42:29
+ironman-malaysia-20161112.csv,735,Risa Nanao,39,Tokyo,JPN,01:39:53,07:22:30,05:13:07,00:08:36,00:05:30,14:29:36
+ironman-malaysia-20161112.csv,737,Brooke Miller,40,VIC,AUS,01:17:10,06:10:06,05:07:42,00:03:56,00:03:28,12:42:22
+ironman-malaysia-20161112.csv,738,Sakuna Usanawasin,44,Chinburi,THA,02:01:19,07:46:38,05:13:56,00:09:15,00:06:03,15:17:11
+ironman-malaysia-20161112.csv,739,Meredith Bochmann,40,Queensland,AUS,01:14:15,06:13:35,03:55:07,00:04:47,00:04:43,11:32:27
+ironman-malaysia-20161112.csv,740,Bon Fong Tan,44,---,MYS,01:55:46,08:05:48,06:02:56,00:07:02,00:07:06,16:18:38
+ironman-malaysia-20161112.csv,741,Chiho Miura,41,Tokyo,JPN,01:21:03,06:12:50,04:25:56,00:04:54,00:05:54,12:10:37
+ironman-malaysia-20161112.csv,742,FoongMC Karen,42,PENANG,MYS,01:36:27,07:24:57,05:34:45,---,00:06:50,14:42:59
+ironman-malaysia-20161112.csv,743,Alicja Medak,43,Other,POL,01:15:52,06:35:31,03:55:25,00:03:37,00:05:27,11:55:52
+ironman-malaysia-20161112.csv,744,Simone Mayer,41,---,DEU,01:11:03,06:11:25,04:12:48,00:03:37,00:01:55,11:40:48
+ironman-malaysia-20161112.csv,745,Yaownat Thammapattapong,42,---,THA,01:41:12,08:12:43,06:37:53,00:10:01,00:07:59,16:49:48
+ironman-malaysia-20161112.csv,746,Tine Fischer-Nielsen,41,---,DNK,01:12:53,06:00:45,03:59:00,00:02:59,00:03:12,11:18:49
+ironman-malaysia-20161112.csv,747,Lezette Albarote,41,Laguna,PHL,01:26:13,06:18:49,03:58:48,00:05:29,00:03:28,11:52:47
+ironman-malaysia-20161112.csv,748,Natalie Edwards,41,NSW,AUS,01:04:09,06:33:11,05:35:19,00:03:38,00:05:16,13:21:33
+ironman-malaysia-20161112.csv,749,Geok Pheng Tan,43,---,SGP,01:39:59,08:33:40,---,00:09:37,00:09:14,DNF
+ironman-malaysia-20161112.csv,750,Chisono Akai,43,Kanagawa Pref.,JPN,02:02:09,08:09:42,06:19:50,00:09:44,00:05:11,16:46:36
+ironman-malaysia-20161112.csv,751,Sharina Shafei,41,---,MYS,---,---,---,---,---,DNS
+ironman-malaysia-20161112.csv,753,Luciana Bermudez Martins,40,---,ESP,01:02:24,05:58:53,04:04:14,00:02:24,00:03:11,11:11:06
+ironman-malaysia-20161112.csv,754,Mia Fogel,44,---,SWE,01:10:27,06:37:21,04:56:29,00:03:00,00:03:05,12:50:22
+ironman-malaysia-20161112.csv,755,Megan Gray,44,---,AUS,01:06:37,06:00:29,04:48:51,00:03:55,00:03:54,12:03:46
+ironman-malaysia-20161112.csv,756,Anna Turnseck-James,41,NT,AUS,01:13:28,06:10:49,04:30:10,00:04:43,00:03:08,12:02:18
+ironman-malaysia-20161112.csv,757,Rie Sakurai,42,奈良,JPN,01:31:27,06:59:59,05:04:07,00:13:16,00:09:34,13:58:23
+ironman-malaysia-20161112.csv,758,Panorkwan Toparkngarm,41,Khon kaen,THA,01:30:44,07:48:23,05:35:57,00:10:08,00:06:19,15:11:31
+ironman-malaysia-20161112.csv,759,Annick Vande Kerckhove,40,---,BEL,01:11:34,06:27:17,04:58:01,00:03:40,00:02:49,12:43:21
+ironman-malaysia-20161112.csv,760,Jon Merwood,48,NZ,NZL,01:18:59,06:18:38,05:31:16,00:08:14,00:14:29,13:31:36
+ironman-malaysia-20161112.csv,761,Kok Mun Loi,46,---,MYS,01:28:10,07:40:17,07:01:07,00:12:27,00:09:07,16:31:08
+ironman-malaysia-20161112.csv,762,Yew Boon Fu,46,---,MYS,01:21:57,07:04:52,06:05:48,00:06:55,00:05:39,14:45:11
+ironman-malaysia-20161112.csv,763,Richard Tang,44,selangor,MYS,01:20:19,06:18:27,05:41:54,00:03:51,00:05:08,13:29:39
+ironman-malaysia-20161112.csv,764,Juan Jose Martin Mendez,46,---,ESP,01:01:57,05:48:35,04:59:53,00:05:54,00:04:56,12:01:15
+ironman-malaysia-20161112.csv,765,Marcel Nauer,45,---,CHE,01:07:20,05:27:59,03:57:41,00:03:53,00:03:38,10:40:31
+ironman-malaysia-20161112.csv,766,Yew Hock Rudin Leong,46,---,SGP,01:34:02,07:37:56,05:22:55,00:08:53,00:16:27,15:00:13
+ironman-malaysia-20161112.csv,767,Chee Meng Chan,47,---,SGP,01:43:37,07:43:17,06:29:44,00:12:25,00:10:57,16:20:00
+ironman-malaysia-20161112.csv,768,Hideki Ota,45,Intl State,JPN,01:05:21,05:26:37,03:43:58,00:04:59,00:03:58,10:24:53
+ironman-malaysia-20161112.csv,769,Rafal Medak,45,London,POL,01:05:59,05:43:19,04:06:58,00:03:44,00:06:33,11:06:33
+ironman-malaysia-20161112.csv,770,Masayoshi Furuya,47,東京都,JPN,01:13:57,06:21:59,05:35:42,00:03:29,00:05:29,13:20:36
+ironman-malaysia-20161112.csv,771,Mauro Giaconia,45,Other,ITA,00:56:49,05:41:56,04:41:55,00:02:55,00:03:01,11:26:36
+ironman-malaysia-20161112.csv,772,Alvin Yeo,45,---,SGP,01:40:49,07:17:09,06:11:29,00:14:14,00:09:13,15:32:54
+ironman-malaysia-20161112.csv,773,Victor Tan,49,Pulau Pinang,MYS,01:57:22,06:48:12,06:42:15,00:09:10,00:09:31,15:46:30
+ironman-malaysia-20161112.csv,775,Quentin William Howell,49,Perak,MYS,01:36:12,07:28:34,07:00:21,00:09:00,00:07:48,16:21:55
+ironman-malaysia-20161112.csv,776,Hiroshi Ogawa,46,Intl State,JPN,01:21:42,05:58:00,03:50:48,00:04:39,00:04:22,11:19:31
+ironman-malaysia-20161112.csv,777,Andreas Hvass,46,Surat Thani,SWE,01:21:39,07:30:27,06:56:39,00:07:35,00:12:52,16:09:12
+ironman-malaysia-20161112.csv,778,Kok Keong Ooi,45,Penang,MYS,01:34:35,06:35:43,05:01:30,00:10:12,00:06:31,13:28:31
+ironman-malaysia-20161112.csv,779,Johan Van Den Eynde,46,---,BEL,01:01:03,05:19:38,04:19:20,00:03:17,00:03:27,10:46:45
+ironman-malaysia-20161112.csv,780,Kristian Röhl,49,---,DNK,01:38:57,06:30:52,07:07:28,00:06:10,00:05:54,15:29:21
+ironman-malaysia-20161112.csv,782,Byeongkweon Kim,45,Other,KOR,01:38:07,07:54:26,---,00:07:47,00:06:49,DNF
+ironman-malaysia-20161112.csv,783,Ralph Glatz,49,VIC,AUS,01:10:56,05:24:44,04:37:38,00:04:58,00:04:59,11:23:15
+ironman-malaysia-20161112.csv,784,Rudolph Mester,47,NSW,AUS,01:11:31,06:22:07,05:29:38,00:08:12,00:06:40,13:18:08
+ironman-malaysia-20161112.csv,785,Kanagarajah Nadarajah,48,---,SGP,01:28:23,06:29:21,04:59:05,00:06:29,00:06:10,13:09:28
+ironman-malaysia-20161112.csv,788,Kenkent Ng Kok Hiong,45,---,MYS,01:26:41,07:24:12,06:26:59,00:09:15,00:11:25,15:38:32
+ironman-malaysia-20161112.csv,789,Renaud Rego De Sebes,46,---,FRA,01:05:36,---,---,00:02:41,---,DNF
+ironman-malaysia-20161112.csv,790,Fan Chie Chung,48,Selangor,MYS,01:19:50,07:01:22,06:54:43,00:10:48,00:11:31,15:38:14
+ironman-malaysia-20161112.csv,791,Teh Ah Mong,45,---,MYS,01:27:25,06:45:57,04:50:00,00:10:42,00:13:37,13:27:41
+ironman-malaysia-20161112.csv,792,Cheong Keat Wong,46,---,MYS,02:00:26,---,---,00:05:15,---,DNF
+ironman-malaysia-20161112.csv,793,Katsuyuki Takiguchi,46,千葉県,JPN,01:25:21,06:19:03,04:46:34,00:09:48,00:07:58,12:48:44
+ironman-malaysia-20161112.csv,794,Johan Fogel,49,---,SWE,01:11:11,05:26:24,03:54:42,00:02:22,00:02:18,10:36:57
+ironman-malaysia-20161112.csv,795,Tj Jimenez,49,Metro Manila,PHL,01:48:43,08:00:44,06:29:53,00:15:06,00:15:02,16:49:28
+ironman-malaysia-20161112.csv,796,Bakar Wahid,46,Kedah,MYS,01:22:38,08:19:06,---,00:08:14,00:13:46,DNF
+ironman-malaysia-20161112.csv,797,Tokuki Yasuda,47,兵庫県,JPN,01:19:08,06:17:10,04:27:22,00:09:10,00:05:52,12:18:42
+ironman-malaysia-20161112.csv,798,A Muzzamir Ismail,45,---,SGP,01:41:43,07:29:17,06:32:25,00:10:07,00:16:05,16:09:37
+ironman-malaysia-20161112.csv,799,Frank Hesse,44,Selangor,FRA,01:26:02,05:51:00,04:06:56,00:06:25,00:05:47,11:36:10
+ironman-malaysia-20161112.csv,800,Noriyuki Akiba,45,Tokyo,JPN,00:59:00,05:18:23,03:34:34,00:03:46,00:02:20,09:58:03
+ironman-malaysia-20161112.csv,801,Vassilis Babanikas,44,---,GRC,01:05:00,05:30:08,03:36:20,00:04:11,00:03:52,10:19:31
+ironman-malaysia-20161112.csv,803,Emoto Hiroaki,47,ISH,JPN,01:47:36,08:39:50,---,00:07:53,---,DNF
+ironman-malaysia-20161112.csv,804,Anslem Tan,47,Sabah,MYS,01:27:56,---,09:45:56,---,03:46:39,13:32:35
+ironman-malaysia-20161112.csv,805,Lee Peng Chuah,46,---,SGP,01:14:44,07:25:08,06:22:45,00:06:47,00:07:44,15:17:08
+ironman-malaysia-20161112.csv,806,Chee See Cheng,45,alor star kedah,MYS,01:51:47,06:15:45,05:52:00,00:08:33,00:10:09,14:18:14
+ironman-malaysia-20161112.csv,807,Henrik Veigel,45,---,DEU,01:06:57,05:20:44,03:53:46,00:04:29,00:02:45,10:28:41
+ironman-malaysia-20161112.csv,808,Tsuyoshi Sawada,46,---,JPN,00:58:26,06:00:35,04:06:46,00:03:29,00:04:37,11:13:53
+ironman-malaysia-20161112.csv,809,Yen Hun Kang,45,SG,SGP,01:25:59,07:06:36,05:32:11,00:07:45,00:11:39,14:24:10
+ironman-malaysia-20161112.csv,810,Jean-Francois Klentzi,47,---,FRA,01:29:32,05:54:30,04:25:01,00:07:38,00:05:02,12:01:43
+ironman-malaysia-20161112.csv,811,Harris Fadzillah Abdul Hamid,27,Kluang,MYS,01:56:23,08:13:19,04:42:31,00:11:40,00:05:47,DNF
+ironman-malaysia-20161112.csv,812,Takehide Kamogawa,46,APO,JPN,00:58:13,06:14:39,05:46:24,00:03:28,00:03:29,13:06:13
+ironman-malaysia-20161112.csv,813,Gerard Reyes,44,Metro Manila,PHL,01:24:57,07:19:50,05:11:25,00:09:45,00:08:15,14:14:12
+ironman-malaysia-20161112.csv,814,Markus Nübel,47,---,DEU,01:09:51,05:32:47,03:41:50,00:03:05,00:02:09,10:29:42
+ironman-malaysia-20161112.csv,815,In Lee,45,Osaka,JPN,02:03:37,07:36:56,06:02:50,00:10:29,00:08:20,16:02:12
+ironman-malaysia-20161112.csv,816,Kok Meng Ng,46,---,MYS,01:37:19,08:03:22,06:28:58,00:14:04,00:15:05,16:38:48
+ironman-malaysia-20161112.csv,817,Masashi Yamada,49,大阪,JPN,01:35:29,06:49:59,04:58:13,00:11:46,00:06:02,13:41:29
+ironman-malaysia-20161112.csv,818,Kraipit Waree,47,Bangkok,THA,01:38:55,08:01:13,06:26:02,00:12:06,00:08:07,16:26:23
+ironman-malaysia-20161112.csv,819,Kazuhiro Kaneko,49,---,THA,01:19:14,06:18:25,04:47:58,00:06:37,00:05:51,12:38:05
+ironman-malaysia-20161112.csv,820,Hirofumi Ohshima,46,東京都,JPN,01:02:24,05:39:57,03:59:10,00:04:47,00:04:47,10:51:05
+ironman-malaysia-20161112.csv,821,Hisanaga Yanagisawa,48,Tokyo,JPN,01:19:48,---,---,00:06:05,---,DNF
+ironman-malaysia-20161112.csv,823,Ahmadul Tahir,46,---,MYS,01:08:22,06:51:03,04:27:07,00:03:29,00:03:05,12:33:06
+ironman-malaysia-20161112.csv,824,Reid Hamilton,47,WA,NZL,01:21:26,07:39:42,07:30:22,00:06:29,00:04:02,16:42:01
+ironman-malaysia-20161112.csv,825,Hidenori Nagatomo,49,Tokyo,JPN,01:14:47,06:31:27,05:12:32,00:05:44,00:05:07,13:09:37
+ironman-malaysia-20161112.csv,826,Andrew Low Boon Kiat,46,---,MYS,01:46:20,07:32:22,06:13:40,00:09:07,00:09:55,15:51:24
+ironman-malaysia-20161112.csv,827,Todd Gilmore,45,Ho Chi Minh City,CAN,01:05:12,05:15:27,03:32:34,00:03:15,00:02:07,09:58:35
+ironman-malaysia-20161112.csv,829,Boon Kiat Low,46,Federal Territory,MYS,01:33:25,06:16:16,06:25:46,00:05:45,00:08:50,14:30:02
+ironman-malaysia-20161112.csv,830,Miroslav Mikula,48,Czech Republic,CZE,01:22:10,05:26:25,03:23:35,00:03:33,00:05:27,10:21:10
+ironman-malaysia-20161112.csv,831,Weng Kwong Woo,45,Selangor,MYS,01:33:09,07:20:15,06:31:49,00:06:45,00:13:03,15:45:01
+ironman-malaysia-20161112.csv,832,Rene Syrbe,48,DE,DEU,01:07:24,05:46:25,04:14:55,00:03:16,00:02:13,11:14:13
+ironman-malaysia-20161112.csv,833,Jürgen Haussecker,49,---,DEU,01:03:04,06:14:43,06:21:12,00:04:45,00:03:55,13:47:39
+ironman-malaysia-20161112.csv,834,Reujenson Lista,47,Intl State,PHL,01:27:17,06:40:13,05:45:01,00:03:39,00:04:05,14:00:15
+ironman-malaysia-20161112.csv,835,Mazlan Hassan,45,---,SGP,01:41:33,06:40:32,05:03:41,00:06:33,00:12:18,13:44:37
+ironman-malaysia-20161112.csv,836,Byung-Ki Ko,45,Kyonggi-do,KOR,01:14:52,05:24:04,03:18:02,00:04:10,00:02:34,10:03:42
+ironman-malaysia-20161112.csv,837,Teoh Hua Yong,49,Selangor,MYS,01:27:56,06:36:00,05:23:20,00:18:46,00:15:54,14:01:56
+ironman-malaysia-20161112.csv,838,Samsul Adnan,43,---,MYS,01:52:13,---,---,00:18:32,10:49:39,DNF
+ironman-malaysia-20161112.csv,839,Johnnie Tay Keng Soon,46,Singapore,SGP,01:39:10,07:11:54,04:47:48,00:04:07,00:03:45,13:46:44
+ironman-malaysia-20161112.csv,840,Toru Kiya,47,Osaka,JPN,01:05:33,06:03:59,03:53:21,00:11:07,00:06:34,11:20:34
+ironman-malaysia-20161112.csv,841,Toshikazu Imada,45,Tokyo,JPN,01:02:21,05:46:53,03:53:41,00:04:51,00:04:22,10:52:08
+ironman-malaysia-20161112.csv,842,Dedy Bunyamin,46,"
+jakarta",IDN,01:22:29,06:19:49,04:43:54,00:08:16,00:06:55,12:41:23
+ironman-malaysia-20161112.csv,843,Simon Wood,48,---,GBR,01:08:37,05:30:47,04:16:46,00:04:24,00:04:43,11:05:17
+ironman-malaysia-20161112.csv,844,Masahiro Ujiie,45,MIYAGI,JPN,01:09:06,05:27:07,03:40:38,00:04:18,00:03:46,10:24:55
+ironman-malaysia-20161112.csv,845,Nobuaki Ito,46,TOKYO,JPN,01:21:40,06:34:41,05:38:54,00:06:27,00:09:33,13:51:15
+ironman-malaysia-20161112.csv,846,TOSHIO SHIBAYA,48,TOKYOTO,JPN,01:20:15,---,---,00:07:39,---,DNF
+ironman-malaysia-20161112.csv,847,Heng Fatt Yim,46,---,MYS,01:45:01,06:46:05,04:29:27,00:09:21,00:08:26,13:18:20
+ironman-malaysia-20161112.csv,848,Sing Kit Choy,47,---,MYS,01:40:26,07:22:50,05:55:33,00:13:45,00:07:11,15:19:45
+ironman-malaysia-20161112.csv,849,Ong soo heng,46,Kerian,MYS,01:38:18,07:25:59,05:40:43,00:16:19,00:09:57,15:11:16
+ironman-malaysia-20161112.csv,850,Peter Russell,47,Other,GBR,01:15:45,05:51:17,04:04:28,00:07:56,00:04:06,11:23:32
+ironman-malaysia-20161112.csv,851,Craig Brighouse,48,---,NZL,01:06:58,05:42:26,03:51:31,00:03:05,00:02:11,10:46:11
+ironman-malaysia-20161112.csv,852,Kok Peng Tan,49,---,MYS,01:17:48,06:29:59,05:34:14,00:05:31,00:08:00,13:35:32
+ironman-malaysia-20161112.csv,853,Swee Ann Kang,49,---,SGP,01:39:46,07:49:50,06:37:07,00:14:22,00:12:19,16:33:24
+ironman-malaysia-20161112.csv,854,Yin Sang Yau,47,---,SGP,01:33:44,06:46:28,04:20:36,00:09:04,00:09:54,12:59:46
+ironman-malaysia-20161112.csv,855,Toshinari Ota,45,ACT,JPN,01:31:37,07:13:56,06:21:34,00:08:52,00:10:13,15:26:12
+ironman-malaysia-20161112.csv,856,Emmanuel Mondero,47,NCR,PHL,01:26:10,06:16:21,04:48:48,00:05:41,00:04:12,12:41:12
+ironman-malaysia-20161112.csv,857,Gim-Siong Ong,48,---,SGP,01:35:44,06:59:16,05:47:03,00:09:27,00:28:02,14:59:32
+ironman-malaysia-20161112.csv,859,Azman Sulaiman,47,Wilayah Persekutuan,MYS,01:48:50,08:36:01,05:23:22,00:08:58,00:05:47,DNF
+ironman-malaysia-20161112.csv,860,Attila Meretei,46,NH,USA,01:14:56,---,---,00:08:50,---,DNF
+ironman-malaysia-20161112.csv,862,Khairul Faizi Annuar,47,Perak,MYS,01:42:10,08:03:35,05:49:06,00:10:20,00:11:50,DNF
+ironman-malaysia-20161112.csv,863,Darren Dillon,47,QLD,AUS,01:08:46,05:43:26,03:59:59,00:03:41,00:03:14,10:59:06
+ironman-malaysia-20161112.csv,864,Justin Ong,48,---,SGP,01:45:23,08:22:18,03:16:29,00:09:02,00:17:02,DNF
+ironman-malaysia-20161112.csv,865,Bouye Joseph Letigio,46,Bukidnon,PHL,01:33:29,06:26:34,05:24:02,00:04:35,00:09:50,13:38:30
+ironman-malaysia-20161112.csv,867,Vatin Chalermdamrichai,45,Bangkok,THA,01:39:10,08:43:56,06:07:06,00:07:10,00:06:34,16:43:56
+ironman-malaysia-20161112.csv,868,Kim Young Ju,46,정촌면,KOR,01:23:40,06:13:29,06:14:17,00:09:15,00:08:37,14:09:18
+ironman-malaysia-20161112.csv,869,Malcolm Rose,44,DXB,GBR,01:21:06,06:41:16,05:08:03,00:08:52,00:10:34,13:29:51
+ironman-malaysia-20161112.csv,870,James Middleditch,46,---,SGP,01:10:35,05:02:46,03:15:29,00:02:54,00:02:35,09:34:19
+ironman-malaysia-20161112.csv,871,Dai Matsui,48,---,JPN,01:04:20,06:02:36,04:46:54,00:03:34,00:03:28,12:00:52
+ironman-malaysia-20161112.csv,872,Andrew Schleis,45,---,USA,01:08:10,07:04:50,06:57:48,00:04:49,00:06:20,15:21:57
+ironman-malaysia-20161112.csv,873,Roger Hastie,46,---,AUS,01:01:51,05:28:33,03:36:59,00:03:24,00:02:13,10:13:00
+ironman-malaysia-20161112.csv,875,Kok Lam Tan,47,---,MYS,01:37:29,06:19:33,07:12:13,00:12:24,00:18:29,15:40:08
+ironman-malaysia-20161112.csv,876,Daniel Chong,48,---,SGP,01:43:52,08:14:18,04:57:08,00:14:07,00:14:41,15:24:06
+ironman-malaysia-20161112.csv,877,Christian Strasser,45,---,CHE,01:07:19,05:51:16,04:32:14,00:03:33,00:03:14,11:37:36
+ironman-malaysia-20161112.csv,878,Beh Chai Eu,48,Kedah,MYS,01:44:39,06:31:25,05:50:17,00:13:26,00:11:32,14:31:19
+ironman-malaysia-20161112.csv,879,Naohiro Maeda,46,大阪府,JPN,01:29:24,08:19:18,06:26:30,00:12:25,00:09:19,16:36:56
+ironman-malaysia-20161112.csv,880,Soon Keat Ong,47,---,MYS,01:26:37,06:49:13,05:45:23,00:08:42,00:06:57,14:16:52
+ironman-malaysia-20161112.csv,881,Oo Weng Chong,48,Selangor,MYS,01:38:04,07:37:02,07:18:02,00:08:54,00:03:34,16:45:36
+ironman-malaysia-20161112.csv,882,Maik Becker,46,---,DEU,01:05:58,05:58:00,05:21:22,00:03:23,00:06:36,12:35:19
+ironman-malaysia-20161112.csv,883,Sante Scartozzi,48,---,AUS,01:27:11,---,---,00:08:17,---,DNF
+ironman-malaysia-20161112.csv,884,Todd Martin,46,QLD,AUS,01:15:27,05:36:29,03:50:04,00:02:28,00:02:27,10:46:55
+ironman-malaysia-20161112.csv,885,Atsushi Imai,45,静岡県,JPN,---,---,---,---,---,DNS
+ironman-malaysia-20161112.csv,886,John Trotter,49,New Territories,HKG,01:38:59,---,---,00:11:40,---,DNF
+ironman-malaysia-20161112.csv,887,Arkav Juliandri,46,"DKI Jakarta
+DKI Jakarta",IDN,01:46:09,08:30:25,06:21:50,00:08:48,00:08:33,16:55:45
+ironman-malaysia-20161112.csv,888,Yutaka Kochiya,48,大阪府,JPN,01:24:13,06:47:41,06:00:00,00:07:59,00:05:49,14:25:42
+ironman-malaysia-20161112.csv,889,Martin Reynolds,48,---,GBR,01:08:07,05:38:30,04:01:14,00:03:43,00:03:05,10:54:39
+ironman-malaysia-20161112.csv,890,Holger Lorenz,47,---,DEU,00:58:25,05:06:34,05:04:40,00:02:52,00:03:35,11:16:06
+ironman-malaysia-20161112.csv,891,Mark Kearney,49,---,GBR,01:25:54,06:59:56,06:12:53,00:06:41,00:09:22,14:54:46
+ironman-malaysia-20161112.csv,892,Azran Osman Rani,44,---,MYS,01:27:49,06:41:48,05:08:07,00:09:02,00:05:03,13:31:49
+ironman-malaysia-20161112.csv,893,Masaichi Aoyagi,49,神奈川県,JPN,01:31:09,06:57:09,05:00:24,00:10:35,00:08:13,13:47:30
+ironman-malaysia-20161112.csv,895,Aznan Abdul Aziz,45,---,MYS,01:47:31,08:05:53,06:10:41,00:18:57,00:13:10,16:36:12
+ironman-malaysia-20161112.csv,896,Hendra Ghifari,46,"DKI Jakarta
+NA",IDN,01:35:22,06:56:38,05:41:21,00:07:51,00:13:42,14:34:54
+ironman-malaysia-20161112.csv,897,Takashi Fukuda,47,Tokyo,JPN,01:19:26,06:03:32,04:36:48,00:06:08,00:04:56,12:10:50
+ironman-malaysia-20161112.csv,898,Peter Goldberg,47,---,AUS,01:20:58,05:56:48,04:31:47,00:03:49,00:03:38,11:57:00
+ironman-malaysia-20161112.csv,899,Michael Gay,44,FL,USA,01:27:11,06:26:32,05:08:24,00:08:40,00:07:46,13:18:33
+ironman-malaysia-20161112.csv,900,Carmen Leong,47,Selangor,MYS,01:35:35,06:35:09,04:39:20,00:04:35,00:03:50,12:58:29
+ironman-malaysia-20161112.csv,901,Kim Dorling,45,WKO,NZL,01:28:18,06:12:55,04:36:39,00:04:06,00:01:21,12:23:19
+ironman-malaysia-20161112.csv,902,Chika Fujita,46,Kanagawa-ken,JPN,01:35:15,07:21:47,06:14:51,00:08:25,00:05:39,15:25:57
+ironman-malaysia-20161112.csv,903,Maria Kolosova,48,---,RUS,01:43:20,07:08:58,04:09:31,00:03:54,00:04:38,13:10:21
+ironman-malaysia-20161112.csv,904,Margy Britton,48,QLD,AUS,01:38:07,07:25:20,05:45:22,00:09:39,00:06:46,15:05:14
+ironman-malaysia-20161112.csv,905,Yukiko Sasahara,47,Tokyo,JPN,01:42:22,07:26:39,06:01:25,00:09:20,00:04:11,15:23:57
+ironman-malaysia-20161112.csv,906,Nik Raiha Meriam Kosai Nik Mahmood,46,selangor,MYS,01:48:31,08:03:47,06:28:06,00:09:48,00:08:28,16:38:40
+ironman-malaysia-20161112.csv,907,Kaoru Suzuki,46,Tokyo,JPN,01:03:37,06:03:10,04:21:31,00:03:55,00:04:25,11:36:38
+ironman-malaysia-20161112.csv,908,Rozinah Ahmad,49,---,MYS,01:35:14,---,---,00:18:13,---,DNF
+ironman-malaysia-20161112.csv,909,Chai Eian Tan,47,Kuala Lumpur,MYS,01:40:17,06:51:07,05:15:35,00:09:33,00:04:39,14:01:11
+ironman-malaysia-20161112.csv,910,Wei Wei Lee,45,---,MYS,01:59:31,08:00:17,05:19:53,00:09:52,00:06:20,DNF
+ironman-malaysia-20161112.csv,911,Abigail Facey,46,---,SGP,01:33:04,08:19:39,05:16:44,00:12:50,00:11:32,15:33:49
+ironman-malaysia-20161112.csv,912,Monique Strange,46,DXB,AUS,01:20:25,06:32:35,05:44:54,00:08:22,00:08:11,13:54:27
+ironman-malaysia-20161112.csv,914,Celine Lo Sin Inn,47,---,MYS,01:58:15,07:12:53,05:46:56,00:08:54,00:06:31,15:13:29
+ironman-malaysia-20161112.csv,915,Mari Okamoto,45,Tokyo,JPN,01:21:59,08:19:25,06:41:24,00:12:57,00:15:06,16:50:51
+ironman-malaysia-20161112.csv,916,Vanessa Lodge,45,---,AUS,01:28:16,06:23:54,04:28:47,00:05:27,00:03:35,12:29:59
+ironman-malaysia-20161112.csv,917,Anne Lavandon,45,---,FRA,01:21:58,06:10:19,04:18:31,00:03:28,00:02:26,11:56:42
+ironman-malaysia-20161112.csv,918,Andrew Garrett,54,DXB,AUS,01:05:20,05:48:45,04:08:03,00:03:13,00:01:59,11:07:20
+ironman-malaysia-20161112.csv,919,Satoshi Oda,51,Tokyo,JPN,01:13:58,06:29:16,03:57:05,00:05:01,00:05:19,11:50:39
+ironman-malaysia-20161112.csv,920,Masaaki Toji,50,Bangkok,JPN,01:18:29,06:48:40,05:07:13,00:11:55,00:08:30,13:34:47
+ironman-malaysia-20161112.csv,921,Thin Chee Leong,55,batu caves,MYS,01:40:11,07:42:49,05:36:54,00:16:42,00:18:40,15:35:16
+ironman-malaysia-20161112.csv,922,Tsutomu Gushi,51,Nara-ken,JPN,01:46:26,06:44:30,04:43:27,00:16:39,00:12:33,13:43:35
+ironman-malaysia-20161112.csv,923,Anand Balaram Patil,53,Intl State,IND,01:34:58,07:14:21,05:22:39,00:11:55,00:10:23,14:34:16
+ironman-malaysia-20161112.csv,924,Hiroyuki Shimizu,53,Kanagawa,JPN,01:26:22,06:52:33,04:36:38,00:09:36,00:09:07,13:14:16
+ironman-malaysia-20161112.csv,925,Hiroaki Baba,54,Tokyo,JPN,01:43:12,07:08:08,06:11:43,00:11:40,00:11:00,15:25:43
+ironman-malaysia-20161112.csv,926,Hoo Ching Cheong,51,---,MYS,01:28:13,07:01:27,05:05:01,00:08:02,00:06:46,13:49:29
+ironman-malaysia-20161112.csv,927,Ian Isaac,53,QLD,AUS,01:15:29,06:48:28,08:14:39,00:08:01,00:04:36,16:31:13
+ironman-malaysia-20161112.csv,928,Angus Amran,52,---,MYS,01:16:46,08:49:42,05:53:19,00:08:41,00:18:37,16:27:05
+ironman-malaysia-20161112.csv,929,Che Mansor Khamis,54,Kedah,MYS,01:36:51,07:00:37,07:02:08,00:04:48,00:06:21,15:50:45
+ironman-malaysia-20161112.csv,930,Wichan Puangmaha,51,samutprakarn,THA,01:39:53,07:39:52,05:53:25,00:05:58,00:06:52,15:26:00
+ironman-malaysia-20161112.csv,931,Khazali Harun,51,Kedah,MYS,01:31:19,06:53:31,06:54:13,00:05:58,00:09:11,15:34:12
+ironman-malaysia-20161112.csv,932,Clarence Chan,51,---,SGP,01:47:54,08:03:11,06:02:42,00:15:55,00:33:50,16:43:32
+ironman-malaysia-20161112.csv,933,Len Kuan Fan,52,Selangor,MYS,01:57:27,07:18:27,05:41:38,00:15:50,00:10:28,15:23:50
+ironman-malaysia-20161112.csv,934,Simon Cross,50,Malaysia,GBR,01:17:45,05:40:13,05:14:03,00:04:18,00:05:49,12:22:08
+ironman-malaysia-20161112.csv,937,Mark Fowell,54,Derbyshire,GBR,01:25:47,05:52:04,04:49:07,00:06:10,00:03:43,12:16:51
+ironman-malaysia-20161112.csv,938,Hirotaka Hikoi,50,Kanagawa,JPN,01:11:48,05:54:30,03:35:23,00:02:41,00:02:29,10:46:51
+ironman-malaysia-20161112.csv,939,Ueki Yasutaka,51,ISH,JPN,01:19:02,05:57:46,04:32:39,00:06:55,00:05:01,12:01:23
+ironman-malaysia-20161112.csv,940,William Veto,54,Metro Manila,PHL,01:21:50,06:51:16,06:46:26,00:10:54,00:18:29,15:28:55
+ironman-malaysia-20161112.csv,941,Jose Manuel Fernandez Ruiz,54,---,ESP,01:04:19,05:43:58,04:23:34,00:04:51,00:04:01,11:20:43
+ironman-malaysia-20161112.csv,942,Hiroshi Kawaraya,---,Akita,JPN,01:05:47,05:43:12,04:05:18,00:04:49,00:05:42,11:04:48
+ironman-malaysia-20161112.csv,943,Peter Fritz,50,AB,CAN,01:28:58,06:38:36,05:10:18,00:08:47,00:06:53,13:33:32
+ironman-malaysia-20161112.csv,944,Erik Sã¸e-Pedersen,51,---,DNK,01:21:46,05:32:59,03:48:13,00:03:52,00:05:18,10:52:08
+ironman-malaysia-20161112.csv,945,Hideharu Okamura,52,TOCHIGI-Prefecture,JPN,01:21:28,06:39:07,05:09:48,00:05:01,00:05:49,13:21:13
+ironman-malaysia-20161112.csv,946,Mitsuhiro Mori,53,東京都,JPN,01:37:09,08:21:30,06:09:58,00:12:04,00:06:53,16:27:34
+ironman-malaysia-20161112.csv,947,Greg Murphy,51,---,CAN,01:35:20,07:43:12,07:18:58,00:10:17,00:17:33,DNF
+ironman-malaysia-20161112.csv,948,Ichiro Saito,49,Kuala Lumpur,JPN,01:22:08,06:17:35,04:18:56,00:08:16,00:08:01,12:14:56
+ironman-malaysia-20161112.csv,949,Lee Boonkwong,50,---,MYS,01:57:25,07:36:45,06:16:06,00:16:06,00:18:07,16:24:29
+ironman-malaysia-20161112.csv,950,Thierry Bayle,50,WP,FRA,01:21:42,06:34:03,05:05:11,00:06:07,00:08:59,13:16:02
+ironman-malaysia-20161112.csv,951,Chin Khang Wong,51,---,MYS,01:43:37,07:24:10,06:02:39,00:04:18,00:07:06,15:21:50
+ironman-malaysia-20161112.csv,952,Serge Barras,52,---,FRA,01:26:52,07:48:22,04:33:34,00:06:16,00:04:24,13:59:28
+ironman-malaysia-20161112.csv,953,Masahide Nakamura,50,hokkaido,JPN,01:39:33,08:00:04,06:21:43,00:12:04,00:06:09,16:19:33
+ironman-malaysia-20161112.csv,954,Darren Fox,50,VIC,AUS,01:20:34,06:16:23,05:22:16,00:06:25,00:06:09,13:11:47
+ironman-malaysia-20161112.csv,955,Jiro Takikawa,53,kanagawa,JPN,01:27:49,06:37:41,06:09:28,00:04:11,00:12:29,14:31:38
+ironman-malaysia-20161112.csv,956,M. Azhar Jamak,50,---,SGP,01:44:32,07:45:09,06:28:34,00:11:06,00:19:00,16:28:21
+ironman-malaysia-20161112.csv,957,Cornelius Koh,51,---,MYS,01:40:41,07:04:30,06:49:23,00:05:44,00:06:02,15:46:20
+ironman-malaysia-20161112.csv,959,Angus Wippell,50,---,SGP,01:00:34,05:37:42,03:50:28,00:03:34,00:02:15,10:34:33
+ironman-malaysia-20161112.csv,960,Eddy Ou,53,NH,USA,01:24:30,06:43:59,05:09:50,00:08:43,00:05:44,13:32:46
+ironman-malaysia-20161112.csv,961,Akio Yamauchi,54,Tokyo,JPN,01:24:11,05:27:48,03:35:03,00:06:39,00:04:23,10:38:04
+ironman-malaysia-20161112.csv,962,David Gorrez,51,Kuala Lumpur,USA,01:53:50,07:51:26,06:12:25,00:12:02,00:06:54,16:16:37
+ironman-malaysia-20161112.csv,963,Leow Beng Hock,52,Penang,MYS,01:47:38,07:03:16,05:38:00,00:08:19,00:07:34,14:44:47
+ironman-malaysia-20161112.csv,964,Kenetsu Abe,53,Intl State,JPN,01:18:01,06:00:12,03:58:03,00:05:00,00:03:40,11:24:56
+ironman-malaysia-20161112.csv,965,Juswil Adriani Sjaiful,51,---,MYS,02:09:18,07:17:07,05:43:31,00:04:32,00:09:02,15:23:30
+ironman-malaysia-20161112.csv,966,Yumiko Kawakami,52,kanagawa,JPN,01:27:57,06:55:35,04:53:35,00:05:30,00:05:04,13:27:41
+ironman-malaysia-20161112.csv,967,Atsuko Tsukamoto,52,Chiba,JPN,01:39:55,07:11:21,04:48:56,00:09:05,00:04:37,13:53:54
+ironman-malaysia-20161112.csv,968,Young Sook Lee,51,경기도,KOR,01:26:26,08:15:20,---,00:10:53,---,DNF
+ironman-malaysia-20161112.csv,970,Yuhua Tao,52,山东,CHN,01:27:48,06:49:48,05:14:55,00:03:47,00:03:03,13:39:21
+ironman-malaysia-20161112.csv,971,Akiko Minagawa,51,Miyagi,JPN,01:27:07,06:52:13,05:36:51,00:07:29,00:06:10,14:09:50
+ironman-malaysia-20161112.csv,972,Ooi Cheng Luan,50,Selangor,MYS,01:49:45,07:22:41,06:00:37,00:10:22,00:08:14,15:31:39
+ironman-malaysia-20161112.csv,973,Dee Boys,51,DXB,AUS,01:14:48,06:16:10,05:31:08,00:03:09,00:04:10,13:09:25
+ironman-malaysia-20161112.csv,974,Allison Ratcliffe,51,WA,AUS,01:11:17,06:20:21,04:55:42,00:05:07,00:06:30,12:38:57
+ironman-malaysia-20161112.csv,975,Yuki Ando,51,Ibaraki,JPN,01:26:20,06:49:04,04:40:48,00:03:41,00:04:00,13:03:53
+ironman-malaysia-20161112.csv,976,Katsuyuki Hotta,58,大分県,JPN,01:22:40,07:21:29,06:57:36,00:07:58,00:14:34,16:04:17
+ironman-malaysia-20161112.csv,978,Frank Riedel,58,---,DEU,01:45:23,07:34:47,06:06:49,00:09:21,00:11:21,15:47:41
+ironman-malaysia-20161112.csv,979,Ong Boon Hin,57,NSW,MYS,01:37:51,07:23:38,07:00:30,00:06:41,00:09:24,16:18:04
+ironman-malaysia-20161112.csv,980,Christopher Rowe,56,"Jakarta
+Jakarta ",NZL,01:35:04,---,---,00:14:51,---,DNF
+ironman-malaysia-20161112.csv,981,Chin Kwok Foo,55,Johor,MYS,01:42:15,07:39:11,06:13:53,00:11:55,00:11:44,15:58:58
+ironman-malaysia-20161112.csv,982,Patrick C Santos,56,GU,GUM,01:37:10,07:46:11,06:10:22,00:10:31,00:05:47,15:50:01
+ironman-malaysia-20161112.csv,983,Takuji Shotani,56,Hyogo,JPN,02:08:20,---,---,00:11:38,---,DNF
+ironman-malaysia-20161112.csv,984,Montulet Stephan,56,---,BEL,01:12:47,06:22:40,06:05:33,00:06:03,00:07:17,13:54:20
+ironman-malaysia-20161112.csv,985,Kunihiro Imai,55,Osaka,JPN,01:27:18,05:38:42,03:34:59,00:06:57,00:03:24,10:51:20
+ironman-malaysia-20161112.csv,986,Tatsuya Tsukagoshi,57,Kanagawa,JPN,01:18:17,06:19:09,04:19:59,00:06:51,00:07:01,12:11:17
+ironman-malaysia-20161112.csv,987,Paul Williams,56,VIC,AUS,01:21:06,07:13:34,06:21:20,00:09:08,00:08:29,15:13:37
+ironman-malaysia-20161112.csv,988,Ken Raupach,55,NSW,AUS,01:26:48,05:27:00,04:11:09,00:04:30,00:04:42,11:14:09
+ironman-malaysia-20161112.csv,989,Dominique Wauthy,58,---,BEL,01:18:36,06:28:15,05:56:50,00:04:57,00:05:30,13:54:08
+ironman-malaysia-20161112.csv,990,Piet Landuyt,55,---,BEL,01:21:11,06:33:37,04:41:23,00:07:12,00:08:41,12:52:04
+ironman-malaysia-20161112.csv,991,Yamada Yoshito,56,ISH,JPN,01:16:22,06:24:20,---,00:04:04,00:02:48,DNF
+ironman-malaysia-20161112.csv,992,Matthew Davies,58,VIC,AUS,01:11:05,06:40:13,04:51:30,00:06:02,00:05:34,12:54:24
+ironman-malaysia-20161112.csv,993,Shunsuke Natori,54,北海道,JPN,01:24:30,06:55:26,05:51:50,00:15:22,00:10:48,14:37:56
+ironman-malaysia-20161112.csv,994,Simon Bostock,58,Warwks,GBR,01:28:20,08:27:47,---,00:07:52,00:08:01,DNF
+ironman-malaysia-20161112.csv,995,Joen Yen Lee,58,---,SGP,01:57:29,08:05:51,---,00:13:01,00:19:05,DNF
+ironman-malaysia-20161112.csv,996,Tuck Cheong Pang,56,---,SGP,01:32:05,08:33:02,06:39:20,00:06:52,00:14:21,DNF
+ironman-malaysia-20161112.csv,997,Chun Kil,57,경기도,KOR,01:20:48,06:18:46,05:50:37,00:07:18,00:05:22,13:42:51
+ironman-malaysia-20161112.csv,998,Iain De Joux,57,BOHOL,PHL,02:01:09,07:33:39,---,00:12:38,---,DNF
+ironman-malaysia-20161112.csv,999,Peter Bryan,59,---,GBR,01:17:20,06:56:49,06:15:35,00:08:39,00:07:58,14:46:21
+ironman-malaysia-20161112.csv,1000,Lutz Richter,56,---,DEU,01:20:24,06:07:10,04:31:32,00:05:49,00:05:30,12:10:25
+ironman-malaysia-20161112.csv,1000,Lutz Richter,56,---,DEU,01:20:24,06:07:10,04:31:32,00:05:49,00:05:30,12:10:25

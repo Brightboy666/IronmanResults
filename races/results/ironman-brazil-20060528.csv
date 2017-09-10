@@ -1,0 +1,1223 @@
+#File=ironman-brazil-20060528.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-brazil-20060528.csv,1,Olaf Sabatschus,---,---,DEU,00:48:56,04:37:17,02:59:15,---,---,08:25:28
+ironman-brazil-20060528.csv,2,Oscar Galindez,---,---,ARG,00:49:05,04:32:07,02:54:05,---,---,08:15:18
+ironman-brazil-20060528.csv,5,Ivan Albano Junior,---,SP,BRA,00:53:59,04:47:19,03:03:41,---,---,08:45:00
+ironman-brazil-20060528.csv,6,Juan Bautista Mutti,---,---,ARG,00:54:19,04:55:30,---,---,---,DNF
+ironman-brazil-20060528.csv,7,Alexander Loiola Gomes,---,PR,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,8,Daniel De Oliveira Lopes,---,SP,BRA,01:13:05,06:37:57,05:18:32,---,---,13:09:36
+ironman-brazil-20060528.csv,9,Carlos Navarrete,32,---,MEX,01:04:41,05:33:08,03:55:19,---,---,10:33:10
+ironman-brazil-20060528.csv,10,Vagner Juliano Camargo Dos Santos,---,SP,BRA,01:14:06,06:32:22,04:25:19,---,---,12:11:48
+ironman-brazil-20060528.csv,11,Vinicius Dias Santana,---,MG,BRA,00:47:13,04:59:42,03:05:32,---,---,08:52:28
+ironman-brazil-20060528.csv,12,Carlos Alberto Dinelly Filho,---,AM,BRA,00:56:18,05:27:52,03:23:42,---,---,09:47:52
+ironman-brazil-20060528.csv,13,Paulo Guimarães Júnior,---,DF,BRA,00:51:49,05:12:11,03:53:51,---,---,09:57:52
+ironman-brazil-20060528.csv,14,Gordon Henderson,34,ON,CAN,00:52:07,04:56:23,03:22:24,---,---,09:10:54
+ironman-brazil-20060528.csv,15,Jeff Shilt,---,---,USA,01:03:18,05:11:45,03:39:18,---,---,09:54:22
+ironman-brazil-20060528.csv,17,Eduardo Sturla,---,---,ARG,00:48:53,04:48:30,03:01:41,---,---,08:39:06
+ironman-brazil-20060528.csv,18,Valdeir Ferreira Dos Santos,---,TO,BRA,00:52:09,05:38:04,04:14:31,---,---,10:44:45
+ironman-brazil-20060528.csv,19,Raynard Shayne Tissink,---,---,ZAF,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,20,Freddy Lampret,27,---,ZAF,00:48:57,05:06:04,03:31:33,---,---,09:26:34
+ironman-brazil-20060528.csv,21,Alex Pedersen,36,---,DNK,00:59:12,04:48:06,---,---,---,DNF
+ironman-brazil-20060528.csv,22,Brent Lorenzen,34,AZ,USA,00:50:52,04:53:45,03:08:50,---,---,08:53:27
+ironman-brazil-20060528.csv,23,Newton Adriano Weber,---,PR,BRA,00:54:43,05:36:44,04:37:09,---,---,11:08:37
+ironman-brazil-20060528.csv,24,Sebastian Pedraza,---,---,ITA,00:48:50,04:46:21,03:10:33,---,---,08:45:45
+ironman-brazil-20060528.csv,25,Ezequiel Morales,32,---,ARG,00:48:46,05:03:10,03:04:55,---,---,08:56:52
+ironman-brazil-20060528.csv,26,Luke Bell,---,---,AUS,00:45:26,04:33:10,02:57:10,---,---,08:15:47
+ironman-brazil-20060528.csv,27,Marcus Ornellas,---,RJ,BRA,00:47:15,04:50:45,03:36:20,---,---,09:14:21
+ironman-brazil-20060528.csv,28,Frederico Luiz Monteiro,---,SP,BRA,00:47:20,---,---,---,---,DNF
+ironman-brazil-20060528.csv,29,Terence Kerrigan,38,NJ,USA,00:58:58,04:57:50,03:20:37,---,---,09:17:26
+ironman-brazil-20060528.csv,30,William Contreras,33,AZ,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,31,Fabio Carvalho,26,Intl State,BRA,00:45:47,04:52:18,03:00:36,---,---,08:38:41
+ironman-brazil-20060528.csv,32,Stephen Bayliss,27,Intl State,GBR,00:45:45,04:47:48,03:01:26,---,---,08:35:00
+ironman-brazil-20060528.csv,33,Gordo Byrn,---,---,CAN,00:48:53,04:56:09,02:51:51,---,---,08:36:53
+ironman-brazil-20060528.csv,34,Torbjorn Sindballe,---,---,DNK,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,35,Antonio Filho Manssur,---,---,BRA,00:51:29,05:06:48,03:18:27,---,---,09:16:45
+ironman-brazil-20060528.csv,41,Joanna Sue Zeiger,---,---,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,42,Fernanda Keller,---,RJ,BRA,00:54:38,05:21:08,03:35:51,---,---,09:51:38
+ironman-brazil-20060528.csv,43,Silvia Helena Fusco,---,SP,BRA,00:58:10,05:38:07,03:50:05,---,---,10:26:23
+ironman-brazil-20060528.csv,44,Natasha Filliol,---,---,CAN,00:51:44,05:41:23,03:42:29,---,---,10:15:37
+ironman-brazil-20060528.csv,45,Lisbeth Kristensen,---,---,DNK,00:51:43,04:58:40,03:30:22,---,---,09:20:46
+ironman-brazil-20060528.csv,46,Rose Marie Moreira,---,RJ,BRA,01:22:39,---,---,---,---,DNF
+ironman-brazil-20060528.csv,47,Anne-Marie Dupont,---,---,BEL,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,48,Ruthy Vesler,---,---,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,49,Tatiana Merhy,---,PR,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,50,Rita Correia,---,RJ,BRA,00:57:34,05:40:24,03:45:55,---,---,10:23:54
+ironman-brazil-20060528.csv,51,Barbara Buenahora,---,---,ARG,00:57:43,05:16:57,03:14:54,---,---,09:29:35
+ironman-brazil-20060528.csv,52,Marianne Ruetschi,36,---,CHE,00:53:52,05:35:49,03:39:54,---,---,10:09:36
+ironman-brazil-20060528.csv,54,Paula Gabriela Salazar,---,---,CHL,01:00:11,05:44:10,03:37:59,---,---,10:22:20
+ironman-brazil-20060528.csv,55,Marcia Moreira Ferreira,---,RJ,BRA,01:01:14,06:07:17,03:51:28,---,---,10:59:59
+ironman-brazil-20060528.csv,56,Lesley Grice,36,---,CAN,01:05:09,05:47:26,03:47:20,---,---,10:39:57
+ironman-brazil-20060528.csv,57,Kátia Farias Ruschel,---,PR,BRA,00:53:23,05:45:33,---,---,---,DNF
+ironman-brazil-20060528.csv,58,Monica Byrn,---,---,USA,00:45:58,05:21:47,03:44:08,---,---,09:51:54
+ironman-brazil-20060528.csv,59,Hillary Biscay,---,---,USA,00:47:50,05:22:13,03:24:14,---,---,09:34:18
+ironman-brazil-20060528.csv,60,Bella Comerford,---,---,USA,00:54:42,05:12:18,03:32:12,---,---,09:39:13
+ironman-brazil-20060528.csv,61,Heather Jorris,37,TX,USA,00:56:56,05:42:59,03:35:05,---,---,10:15:01
+ironman-brazil-20060528.csv,62,Paulo Sergio Rosa Costa,---,---,---,00:58:50,05:24:18,03:17:02,---,---,09:40:11
+ironman-brazil-20060528.csv,63,Rodrigo Eichler,---,RJ,BRA,01:10:01,05:34:02,03:33:56,---,---,10:18:00
+ironman-brazil-20060528.csv,64,João Paulo Falleiros Dos Santos Diniz,---,SP,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,65,Nilton Da Silva Branco,---,SC,BRA,01:08:27,06:16:40,04:37:10,---,---,12:02:17
+ironman-brazil-20060528.csv,66,Andre Luiz Gomes Dantas Paranhos,---,DF,BRA,01:20:53,08:04:13,05:25:22,---,---,14:50:28
+ironman-brazil-20060528.csv,67,Luciana Ferreira Paranhos Dantas,---,DF,BRA,01:19:48,07:37:38,04:49:37,---,---,13:47:04
+ironman-brazil-20060528.csv,68,Aguilar Sanchez Miguel Angel,---,---,MEX,01:14:22,05:54:47,04:10:50,---,---,11:19:59
+ironman-brazil-20060528.csv,69,Alexandre Velasques Carvalho,---,RJ,BRA,01:12:59,06:42:55,04:41:51,---,---,12:37:46
+ironman-brazil-20060528.csv,70,Pedro Paulo Ribeiro,---,SP,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,71,Sergio Augusto Martino Meniconi,---,SP,BRA,00:51:45,05:29:31,04:03:50,---,---,10:25:07
+ironman-brazil-20060528.csv,72,Marcos Jair Portugal,---,PR,BRA,01:09:17,05:53:17,04:22:57,---,---,11:25:32
+ironman-brazil-20060528.csv,73,André Daniel Pereira Pinto,---,PR,BRA,00:51:34,05:48:05,03:39:26,---,---,10:19:06
+ironman-brazil-20060528.csv,74,Ricardo Gomes De Castro Soares,---,PR,BRA,01:06:31,06:56:39,04:39:12,---,---,12:42:24
+ironman-brazil-20060528.csv,75,Marcos Fabio Carvalho,---,PR,BRA,00:59:58,05:37:31,03:48:27,---,---,10:25:56
+ironman-brazil-20060528.csv,76,Alexandre A. Giglioli,---,SP,BRA,00:45:55,05:25:24,---,---,---,DNF
+ironman-brazil-20060528.csv,77,Eduardo Souza Do Amaral,---,RJ,BRA,01:23:45,06:23:29,04:49:22,---,---,12:36:37
+ironman-brazil-20060528.csv,78,Francisco Blumenschein,---,---,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,79,Izabela Antunes,---,RJ,BRA,01:17:27,07:15:50,04:25:47,---,---,12:59:06
+ironman-brazil-20060528.csv,80,Carlos Alberto Eufrasio Gonçalves,---,SP,BRA,01:17:24,06:19:44,04:21:29,---,---,11:58:38
+ironman-brazil-20060528.csv,81,Sandro Domingues Correa,---,RS,BRA,01:00:39,06:13:34,04:20:28,---,---,11:34:41
+ironman-brazil-20060528.csv,82,Michel Maruyama Nascimento Gomes,---,RJ,BRA,01:09:21,07:10:58,06:11:46,---,---,14:32:06
+ironman-brazil-20060528.csv,83,Duane Braga Do Carmo,---,DF,BRA,01:03:21,06:06:39,03:50:37,---,---,11:00:37
+ironman-brazil-20060528.csv,84,Alessandra Horta Correa Barbosa,---,RJ,BRA,01:09:19,06:10:35,05:09:59,---,---,12:29:53
+ironman-brazil-20060528.csv,85,Martìn Cebrero,---,---,ARG,00:59:53,05:54:25,03:21:34,---,---,10:15:53
+ironman-brazil-20060528.csv,86,Wissthon Rodrigues,---,RS,BRA,01:03:30,05:30:17,03:26:00,---,---,09:59:48
+ironman-brazil-20060528.csv,87,Jose Correia Pinto Filho,---,CE,BRA,00:54:26,05:32:44,03:48:58,---,---,10:16:08
+ironman-brazil-20060528.csv,88,Renan Braga Filho,---,CE,BRA,01:02:49,06:30:46,06:13:53,---,---,13:47:28
+ironman-brazil-20060528.csv,89,Flavio Neves Bittencourt De Sá,---,DF,BRA,00:55:02,07:01:29,04:56:28,---,---,12:53:01
+ironman-brazil-20060528.csv,90,Eliziário Dos Santos,---,SP,BRA,01:32:22,08:44:01,04:08:57,---,---,14:25:21
+ironman-brazil-20060528.csv,91,Philippe Yven,---,---,BEL,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,92,Marco Antonio Ribarolli Parizotto,---,SP,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,94,Jorge Lindemberg Lima Romão,---,ES,BRA,01:37:24,07:08:02,05:51:37,---,---,14:37:03
+ironman-brazil-20060528.csv,95,Adrian Anibal Poggi,---,---,ARG,00:59:52,05:56:35,04:32:31,---,---,11:28:59
+ironman-brazil-20060528.csv,96,Abayuba Rodriguez,---,---,URY,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,97,Sergio Luis Dias,---,RS,BRA,00:57:39,05:32:11,03:45:21,---,---,10:15:13
+ironman-brazil-20060528.csv,98,Robson Figueiredo Rodrigues,---,DF,BRA,01:09:11,06:23:54,04:12:56,---,---,11:46:02
+ironman-brazil-20060528.csv,99,Raphael Raposo De Barros Falcão,---,RJ,BRA,01:00:08,05:46:47,04:14:36,---,---,11:01:32
+ironman-brazil-20060528.csv,100,Luiz Wanderley Tavares,---,SP,BRA,01:04:11,05:14:35,03:13:10,---,---,09:31:57
+ironman-brazil-20060528.csv,101,Marcelo Moreno,---,SP,BRA,00:55:23,05:24:36,04:04:15,---,---,10:24:15
+ironman-brazil-20060528.csv,102,Claudia Galletti,35,---,ARG,01:12:31,06:44:13,04:11:03,---,---,12:07:48
+ironman-brazil-20060528.csv,103,Kassra Goudarzi,27,VA,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,104,Michelle Ryan,35,TX,USA,01:14:58,06:05:20,04:17:32,---,---,11:37:51
+ironman-brazil-20060528.csv,105,Jim Joseph Ryan,---,---,USA,01:03:39,05:52:05,03:33:17,---,---,10:29:01
+ironman-brazil-20060528.csv,106,Michael Glenn Orchard,---,---,CAN,01:02:09,05:25:50,04:39:09,---,---,11:07:10
+ironman-brazil-20060528.csv,107,Louis Burr,56,CA,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,108,Carl Eng-Tiong Chan,---,---,SGP,00:59:45,08:20:38,06:01:08,---,---,15:21:32
+ironman-brazil-20060528.csv,109,Scott Head,32,TX,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,110,Vicente Mello,---,SP,BRA,00:49:29,05:26:44,03:46:00,---,---,10:02:13
+ironman-brazil-20060528.csv,111,Alex Sandro Santos,---,SC,BRA,01:27:33,08:37:46,---,---,---,DNF
+ironman-brazil-20060528.csv,112,Pedro Paulo Guerra De Medeiros,---,GO,BRA,00:53:57,05:08:13,03:34:56,---,---,09:37:07
+ironman-brazil-20060528.csv,113,Marcelo Seligman,---,RS,BRA,01:05:47,06:06:02,04:28:31,---,---,11:40:21
+ironman-brazil-20060528.csv,114,Renato Mazzonetto Valler Filho,---,SP,BRA,00:53:59,05:43:55,04:52:25,---,---,11:30:20
+ironman-brazil-20060528.csv,115,Roberto Debiassi,36,Buenos Aires,ARG,00:56:32,05:30:58,03:49:28,---,---,10:16:59
+ironman-brazil-20060528.csv,116,Marcelo Gianzanti Melo,---,---,BRA,00:57:36,06:08:41,04:04:58,---,---,11:11:16
+ironman-brazil-20060528.csv,117,Wilson Mauro Patat Filho,---,SP,BRA,01:13:18,06:40:18,05:13:14,---,---,13:06:51
+ironman-brazil-20060528.csv,118,Claudio Miler Leal Oliveira,---,SP,BRA,00:56:17,05:43:20,03:45:41,---,---,10:25:19
+ironman-brazil-20060528.csv,119,Marc Weißner,33,---,DEU,00:54:03,04:59:13,03:19:51,---,---,09:13:08
+ironman-brazil-20060528.csv,120,Miguel Perez,23,MD,USA,01:21:58,07:17:48,05:33:29,---,---,14:13:16
+ironman-brazil-20060528.csv,121,Matthew Bielen,27,VA,USA,01:04:43,07:45:11,05:06:05,---,---,13:56:00
+ironman-brazil-20060528.csv,122,Sergio M. Dias,---,RS,BRA,01:25:01,06:50:19,05:51:34,---,---,14:06:56
+ironman-brazil-20060528.csv,123,Mauricio Fragale,---,RJ,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,124,Bruno Zambrano Guimaraes,---,SP,BRA,01:22:50,07:26:31,05:43:16,---,---,14:32:38
+ironman-brazil-20060528.csv,125,Luciano Cavalcanti Valle,---,RJ,BRA,00:54:45,05:43:52,03:47:27,---,---,10:26:05
+ironman-brazil-20060528.csv,126,Epaminondas Camargo Madeira,---,SP,BRA,01:12:53,06:57:05,05:18:16,---,---,13:28:14
+ironman-brazil-20060528.csv,127,Anil Samoilenko Menon,---,---,USA,01:09:18,06:54:17,06:26:49,---,---,14:30:25
+ironman-brazil-20060528.csv,128,Cristoforo Roditti,33,---,ECU,01:19:08,06:59:40,05:22:02,---,---,13:40:50
+ironman-brazil-20060528.csv,129,Jefferson José Maciel Vilela,---,SP,BRA,01:09:20,06:33:20,05:19:07,---,---,13:01:48
+ironman-brazil-20060528.csv,130,Alex Sandro Tavares Barbosa,---,SP,BRA,01:03:47,05:29:28,03:51:40,---,---,10:24:56
+ironman-brazil-20060528.csv,131,Antonio Ubiraraja Bezerra Leite,---,RJ,BRA,01:14:51,06:45:09,04:17:41,---,---,12:17:42
+ironman-brazil-20060528.csv,132,Maurício José Bertuzzi,---,SC,BRA,01:05:51,05:53:46,03:58:24,---,---,10:58:02
+ironman-brazil-20060528.csv,133,Cristina Macedo Leme,---,-----,BRA,01:08:31,06:17:34,04:26:38,---,---,11:52:43
+ironman-brazil-20060528.csv,134,Carlos Eduardo Da Costa,---,RJ,BRA,01:22:30,07:06:35,04:26:01,---,---,12:55:07
+ironman-brazil-20060528.csv,135,Luiz Renato R. Machado Gomes,---,SP,BRA,01:02:50,06:03:17,04:17:49,---,---,11:23:58
+ironman-brazil-20060528.csv,136,Claudio Da Silva Feliciano,---,SP,BRA,00:54:27,06:03:20,04:41:10,---,---,11:38:58
+ironman-brazil-20060528.csv,137,Denis Tavares Barbosa,---,SP,BRA,01:16:05,06:21:25,04:57:23,---,---,12:34:54
+ironman-brazil-20060528.csv,138,Jurgen Bailom,36,FL,AUT,01:32:54,07:27:02,05:44:27,---,---,14:44:24
+ironman-brazil-20060528.csv,139,Rogério Gouveia Del Nero,---,---,BRA,01:08:51,05:51:30,04:05:26,---,---,11:05:48
+ironman-brazil-20060528.csv,140,Peter J White,---,---,USA,01:15:47,06:10:30,04:55:26,---,---,12:21:43
+ironman-brazil-20060528.csv,141,Marcio Miguez Da Rocha Leão,---,RJ,BRA,01:08:07,06:31:57,03:47:36,---,---,11:27:42
+ironman-brazil-20060528.csv,142,Waldemar Ribeiro Filho,---,SP,BRA,01:02:20,06:28:29,---,---,---,DNF
+ironman-brazil-20060528.csv,143,Chris Watkins,48,CA,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,144,Fernando Haetinger Toigo,---,---,BRA,01:20:03,06:10:40,03:50:20,---,---,11:21:03
+ironman-brazil-20060528.csv,145,Henderson Da Silva Andrade,---,DF,BRA,01:15:10,06:26:33,05:34:30,---,---,13:16:13
+ironman-brazil-20060528.csv,146,Luiz Henrique Barcelos,---,RJ,BRA,01:20:57,06:56:25,04:35:39,---,---,12:53:02
+ironman-brazil-20060528.csv,147,John Joseph Donlon,---,---,USA,00:55:36,06:18:47,05:01:39,---,---,12:16:04
+ironman-brazil-20060528.csv,148,Jorge Lacerda,---,SC,BRA,01:48:42,07:03:26,04:02:38,---,---,12:54:47
+ironman-brazil-20060528.csv,149,Cory Mortensen,36,MN,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,150,Cintia Vieira Marques,---,RS,BRA,01:27:24,---,---,---,---,DNF
+ironman-brazil-20060528.csv,151,Todd Joseph Cielo,---,---,USA,01:07:21,06:25:59,05:45:46,---,---,13:19:07
+ironman-brazil-20060528.csv,152,Chip Kazmier,36,FL,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,153,Nadji Larbi,37,---,BRA,01:12:33,06:43:38,04:06:44,---,---,12:02:57
+ironman-brazil-20060528.csv,154,Geoffrey Kinka,54,PA,USA,01:10:02,07:06:06,06:39:17,---,---,14:55:26
+ironman-brazil-20060528.csv,155,Alexandre Batista Pinto,---,SP,BRA,01:08:55,06:20:17,04:02:08,---,---,11:31:21
+ironman-brazil-20060528.csv,156,Sherri Swartz,44,NC,USA,01:25:37,06:27:46,05:21:35,---,---,13:14:59
+ironman-brazil-20060528.csv,157,Valdir Pavão,---,---,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,158,Brandi Choplin,30,NC,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,159,Suzie Talley,---,---,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,160,Marsha Vaile,57,FL,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,161,Scott Andrew Strode,---,---,USA,00:59:46,05:27:46,04:35:01,---,---,11:02:34
+ironman-brazil-20060528.csv,162,Augusto Guilherme De Holleben Filho,---,SC,BRA,01:18:20,07:42:10,05:06:49,---,---,14:07:20
+ironman-brazil-20060528.csv,163,Randy Douglas Gibbs,---,---,USA,01:34:55,09:01:16,05:44:51,---,---,16:21:02
+ironman-brazil-20060528.csv,164,Stephen Reid,26,---,GBR,01:22:27,06:58:17,04:12:11,---,---,12:32:56
+ironman-brazil-20060528.csv,165,João Mendes Succar,---,RJ,BRA,00:57:17,05:52:21,05:30:42,---,---,12:20:21
+ironman-brazil-20060528.csv,166,Brian Quigley,25,PA,USA,01:07:12,05:35:42,04:18:40,---,---,11:01:34
+ironman-brazil-20060528.csv,167,Marcelo Vandresen,---,SC,BRA,01:01:35,06:44:02,05:04:01,---,---,12:49:40
+ironman-brazil-20060528.csv,168,Paulo Ribeiro Calil,---,SP,BRA,01:05:57,06:34:10,04:58:54,---,---,12:39:01
+ironman-brazil-20060528.csv,169,Silvia Branco,---,SC,BRA,01:21:56,06:47:24,04:48:08,---,---,12:57:29
+ironman-brazil-20060528.csv,170,Jose Mendes R. Neto,---,SP,BRA,01:20:06,07:24:50,05:44:03,---,---,14:28:59
+ironman-brazil-20060528.csv,171,Marcia L. P. Mendes,---,SP,BRA,01:04:58,08:33:26,06:12:09,---,---,15:50:34
+ironman-brazil-20060528.csv,172,Marco Antonio Dos Santos,---,SP,BRA,01:36:57,07:06:17,04:54:19,---,---,13:37:34
+ironman-brazil-20060528.csv,173,Rodrigo Medeiros,---,SC,BRA,01:13:54,07:09:52,05:21:23,---,---,13:45:10
+ironman-brazil-20060528.csv,174,Carlos De Souza Gasparini,---,SP,BRA,01:15:41,06:38:48,05:33:07,---,---,13:27:37
+ironman-brazil-20060528.csv,175,Arash Sabet,24,MO,USA,01:29:13,06:42:14,03:44:17,---,---,11:55:45
+ironman-brazil-20060528.csv,176,Alvaro Oscar Brignol Tavares,---,RS,BRA,01:16:42,06:32:37,04:16:38,---,---,12:05:59
+ironman-brazil-20060528.csv,177,Michael Bier,37,MN,USA,01:32:37,06:40:27,04:38:15,---,---,12:51:20
+ironman-brazil-20060528.csv,178,Jenny Moore,44,MN,USA,01:07:59,06:24:34,04:43:28,---,---,12:16:02
+ironman-brazil-20060528.csv,179,Sandro R Barros,---,---,USA,01:01:09,06:26:47,05:12:59,---,---,12:40:55
+ironman-brazil-20060528.csv,180,Martin Susevich,22,---,ISR,01:09:17,06:30:40,04:54:17,---,---,12:34:15
+ironman-brazil-20060528.csv,181,Raimundo Nonato Diniz Rodrigues Filho,---,GO,BRA,01:25:12,06:10:39,03:42:53,---,---,11:18:46
+ironman-brazil-20060528.csv,182,Pedro Nikolay Vargas Vieira,---,RJ,BRA,00:56:48,05:42:01,04:46:46,---,---,11:25:35
+ironman-brazil-20060528.csv,183,Dave Edwards,39,TX,USA,01:23:58,06:41:11,04:48:56,---,---,12:54:06
+ironman-brazil-20060528.csv,184,Matthias Zimmermann,40,---,DEU,01:09:12,05:16:18,03:27:27,---,---,09:52:58
+ironman-brazil-20060528.csv,185,Walcyr Bandeira,34,Goias,BRA,00:54:19,05:12:14,03:35:58,---,---,09:42:32
+ironman-brazil-20060528.csv,186,Ana Paula Ribeiro,---,GO,BRA,01:05:02,06:31:04,04:57:27,---,---,12:33:34
+ironman-brazil-20060528.csv,187,Eve L Pearson,---,---,USA,01:26:35,07:33:39,05:15:08,---,---,14:15:22
+ironman-brazil-20060528.csv,188,Res Bichsel,63,AB,CAN,01:29:44,06:53:40,07:01:43,---,---,15:25:08
+ironman-brazil-20060528.csv,189,Adwalter De Angeli,---,ES,BRA,01:00:54,06:31:11,04:42:44,---,---,12:14:50
+ironman-brazil-20060528.csv,190,Rodrigo Muller Saboia,---,PR,BRA,01:05:33,07:12:49,05:08:59,---,---,13:27:21
+ironman-brazil-20060528.csv,191,Raul Sainz Alvarez,22,JALISCO,MEX,01:11:33,06:52:01,03:42:38,---,---,11:46:12
+ironman-brazil-20060528.csv,192,Luiz Carlos Cassemiro,48,DF,BRA,01:17:39,06:14:14,04:05:45,---,---,11:37:40
+ironman-brazil-20060528.csv,193,Michel Chedid Junior,---,SP,BRA,01:21:07,07:01:41,04:44:00,---,---,13:06:48
+ironman-brazil-20060528.csv,194,Roberto Luiz Rodrigues,---,SC,BRA,01:07:42,06:03:58,04:42:03,---,---,11:53:43
+ironman-brazil-20060528.csv,195,Carlos Daniel Schuster,---,---,ARG,01:40:22,07:16:09,05:49:37,---,---,14:46:09
+ironman-brazil-20060528.csv,196,Britt James Petty,---,---,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,197,Miguel Enrique Arroyo Ramos,---,---,PRI,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,198,German Raul Ufret,---,---,PRI,01:17:02,06:23:20,04:32:17,---,---,12:12:39
+ironman-brazil-20060528.csv,199,Patrick Provenaz,49,---,FRA,01:02:06,05:21:51,04:06:49,---,---,10:30:47
+ironman-brazil-20060528.csv,200,Dale Heaton,35,MN,IRL,01:12:43,05:49:07,04:30:23,---,---,11:32:15
+ironman-brazil-20060528.csv,201,Tomas Allende,38,---,ARG,00:57:04,05:59:30,04:04:53,---,---,11:01:28
+ironman-brazil-20060528.csv,202,Rodrigo Cerqueira,---,RJ,BRA,00:57:38,05:45:01,04:16:04,---,---,10:58:44
+ironman-brazil-20060528.csv,203,Christian Jais,27,---,DEU,01:01:49,05:17:00,05:07:13,---,---,11:26:03
+ironman-brazil-20060528.csv,204,Juan Berrospi,---,SP,PER,01:17:53,07:12:22,04:18:01,---,---,12:48:17
+ironman-brazil-20060528.csv,205,Michael Uhlmann,40,---,CHE,01:19:31,07:09:22,05:00:18,---,---,13:29:12
+ironman-brazil-20060528.csv,206,Kenton Thaxter Eldridge,---,---,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,207,Alexsandro Aguiar Lucas,---,ES,BRA,01:00:36,06:30:10,06:29:42,---,---,14:00:29
+ironman-brazil-20060528.csv,208,William Theron Mclarty,---,---,USA,01:00:17,06:05:03,04:38:41,---,---,11:44:02
+ironman-brazil-20060528.csv,209,Clark W. Mower,---,---,USA,01:01:03,05:19:01,04:21:49,---,---,10:41:55
+ironman-brazil-20060528.csv,210,Claudinei Simões Pires,---,SP,BRA,00:53:41,05:00:05,03:51:45,---,---,09:45:32
+ironman-brazil-20060528.csv,211,Marcelo Ruas,---,SP,BRA,01:00:16,05:49:14,04:28:24,---,---,11:17:54
+ironman-brazil-20060528.csv,212,Andreas Yamagata,30,Rj,BRA,00:57:47,06:03:45,04:27:26,---,---,11:29:00
+ironman-brazil-20060528.csv,213,Shawn Michael Mchugh,---,---,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,214,Bren Christoph Conner,---,---,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,215,Jim Crowley,44,CA,USA,01:07:24,06:32:42,05:58:01,---,---,13:38:08
+ironman-brazil-20060528.csv,216,Romeu Garcia Botelho Junior,---,SP,BRA,01:17:14,---,---,---,---,DNF
+ironman-brazil-20060528.csv,217,Joseph Wood,37,AL,USA,01:23:20,06:55:31,04:28:06,---,---,12:46:59
+ironman-brazil-20060528.csv,218,Roberto S. Parseghian,---,SP,BRA,01:02:17,05:52:04,03:34:26,---,---,10:28:48
+ironman-brazil-20060528.csv,219,Pedro Alvarez,---,SP,BRA,01:29:06,07:56:04,06:25:44,---,---,15:50:55
+ironman-brazil-20060528.csv,220,Stephan Garcia Andrade Silva,---,SP,BRA,01:12:02,06:46:09,05:25:48,---,---,13:24:00
+ironman-brazil-20060528.csv,221,Thomas M. Thorum,---,---,USA,00:44:51,05:08:37,03:52:28,---,---,09:45:57
+ironman-brazil-20060528.csv,222,Mariano Barni,39,FL,ARG,01:13:11,07:54:11,06:34:18,---,---,15:41:41
+ironman-brazil-20060528.csv,223,Sheila Jean Plemich,---,---,HRV,01:33:43,06:56:57,05:44:57,---,---,14:15:37
+ironman-brazil-20060528.csv,224,Carlos Renato Nascimento Ferreira,---,ES,BRA,01:12:51,06:33:41,05:05:57,---,---,12:52:29
+ironman-brazil-20060528.csv,225,Jorge Galindo,48,Veracruz,MEX,01:22:12,06:45:26,05:15:58,---,---,13:23:37
+ironman-brazil-20060528.csv,226,Guilherme Zambrana,---,SC,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,227,Francisco Rodrigues Kirchgassner,---,PR,BRA,01:06:24,06:17:02,04:11:59,---,---,11:35:26
+ironman-brazil-20060528.csv,228,Paulo Vieira De Souza,---,SP,BRA,01:21:41,06:09:10,04:23:36,---,---,11:54:28
+ironman-brazil-20060528.csv,229,Simon Derham,38,Intl State,GBR,00:58:54,05:54:34,04:02:02,---,---,10:55:31
+ironman-brazil-20060528.csv,230,Luís Fernando Pinto Gregório,---,SP,BRA,01:05:18,06:28:34,04:46:59,---,---,12:20:52
+ironman-brazil-20060528.csv,231,Richard Wygand,---,RJ,BRA,01:00:01,05:39:22,04:50:23,---,---,11:29:48
+ironman-brazil-20060528.csv,232,Bryan Bower,48,---,USA,01:52:46,07:25:11,05:26:49,---,---,14:44:47
+ironman-brazil-20060528.csv,233,Eric Sauvageau,31,OH,CAN,01:08:29,06:16:39,04:35:58,---,---,12:01:08
+ironman-brazil-20060528.csv,234,Tyrell J Heaton,---,---,USA,01:14:45,06:11:37,05:52:53,---,---,13:19:15
+ironman-brazil-20060528.csv,235,Orival Andries Junior,---,SP,BRA,00:54:14,06:36:25,04:19:58,---,---,11:50:37
+ironman-brazil-20060528.csv,236,Alex Fernandez Turnes,---,RJ,BRA,01:24:00,06:29:24,04:50:55,---,---,12:44:20
+ironman-brazil-20060528.csv,237,Pete Adams,41,FL,USA,01:43:06,07:34:43,06:09:53,---,---,15:27:43
+ironman-brazil-20060528.csv,238,Roberto Dib Bittar,---,GO,BRA,01:03:12,06:18:08,04:46:43,---,---,12:08:04
+ironman-brazil-20060528.csv,239,Mark Sherrod,32,IL,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,240,Francisco De Assis Leite De Oliveira,---,CE,BRA,01:19:42,06:46:55,03:59:10,---,---,12:05:48
+ironman-brazil-20060528.csv,241,Marcelo De Castro Duarte,---,SP,BRA,01:03:27,06:38:21,05:15:55,---,---,12:57:44
+ironman-brazil-20060528.csv,242,Rafael Leitão Teixeira Pinho,---,CE,BRA,00:59:21,05:14:43,04:06:38,---,---,10:20:43
+ironman-brazil-20060528.csv,243,Érico Emanuel Tieppo Da Silveira,---,RS,BRA,01:12:56,06:06:08,05:09:40,---,---,12:28:45
+ironman-brazil-20060528.csv,244,Rosalia De Camargo Bicudo De Castro,---,RJ,BRA,01:00:57,06:04:21,03:44:24,---,---,10:49:43
+ironman-brazil-20060528.csv,245,Todd Mcgrath,31,PA,USA,01:00:55,05:23:25,03:31:03,---,---,09:55:24
+ironman-brazil-20060528.csv,246,Eric Kahl,34,FL,USA,00:56:06,05:40:54,04:06:43,---,---,10:43:43
+ironman-brazil-20060528.csv,247,Wilson Chamma Neto,---,RJ,BRA,01:16:35,07:14:30,05:47:16,---,---,14:18:22
+ironman-brazil-20060528.csv,248,Marcus Mussa,---,SP,BRA,01:15:09,06:59:48,05:14:49,---,---,13:29:47
+ironman-brazil-20060528.csv,249,Brent R Schmitt,---,---,USA,01:00:55,05:56:21,04:18:46,---,---,11:16:03
+ironman-brazil-20060528.csv,250,Peter Dayton Harsch,---,---,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,251,Michelle L Patterson,---,---,USA,01:08:32,06:05:27,04:27:16,---,---,11:41:16
+ironman-brazil-20060528.csv,252,David Peter Kluge,---,---,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,253,David Barbic,26,QC,CAN,01:03:29,06:44:17,06:05:31,---,---,13:53:17
+ironman-brazil-20060528.csv,254,Timothy Douglas Lees,---,---,USA,01:07:49,06:43:05,05:08:24,---,---,12:59:19
+ironman-brazil-20060528.csv,255,Sergio Di Nizo Drago,---,SP,BRA,01:08:10,07:06:19,04:55:30,---,---,13:10:01
+ironman-brazil-20060528.csv,256,Daniel Abramides,---,SP,BRA,01:00:15,06:50:49,06:15:53,---,---,14:06:58
+ironman-brazil-20060528.csv,257,Bryan G. Mcguire,---,---,USA,01:24:19,06:19:52,04:40:18,---,---,12:24:30
+ironman-brazil-20060528.csv,258,Aritz Kortabarria,106,---,ESP,01:02:00,05:32:35,03:18:06,---,---,09:52:42
+ironman-brazil-20060528.csv,259,Stoecklin Markus,---,---,CHE,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,260,Kenneth Carino,41,---,PRI,00:57:38,06:03:12,04:14:09,---,---,11:15:00
+ironman-brazil-20060528.csv,261,Marcela Adriani Carli,---,PR,BRA,01:18:03,07:27:11,04:41:49,---,---,13:27:03
+ironman-brazil-20060528.csv,262,Andreas Will,---,---,DEU,01:27:51,05:37:52,03:57:08,---,---,11:02:52
+ironman-brazil-20060528.csv,263,Oliver Schuler,43,---,DEU,01:15:07,05:15:10,03:45:19,---,---,10:15:38
+ironman-brazil-20060528.csv,264,GEHNERT Jean-Christophe,46,---,FRA,00:57:22,06:08:29,04:07:48,---,---,11:13:40
+ironman-brazil-20060528.csv,265,John Bergen,36,WA,USA,00:57:15,05:16:41,03:50:10,---,---,10:04:07
+ironman-brazil-20060528.csv,266,Fernanda Clemente Schiliró,---,SP,BRA,01:02:26,05:41:41,04:04:51,---,---,10:48:59
+ironman-brazil-20060528.csv,267,Carlos Breeden,36,TX,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,268,Fred William Millard,---,---,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,269,Valerie Gonzales,59,BC,CAN,01:45:11,06:55:16,05:22:23,---,---,14:02:51
+ironman-brazil-20060528.csv,270,Maria Isabel Guitti,---,---,BRA,01:24:31,07:54:38,05:38:47,---,---,14:57:57
+ironman-brazil-20060528.csv,271,Fernando Moncayo Castillo,---,---,ECU,01:03:26,06:53:56,04:47:31,---,---,12:44:54
+ironman-brazil-20060528.csv,272,Atilio Balmelli Ruiz,38,Lima,PER,01:05:48,06:12:23,04:39:21,---,---,11:57:33
+ironman-brazil-20060528.csv,273,Andre Maule,34,TX,BRA,01:05:52,06:47:07,06:29:51,---,---,14:22:51
+ironman-brazil-20060528.csv,274,Giovanni Leone,---,---,ITA,02:01:49,07:41:48,06:49:41,---,---,16:33:19
+ironman-brazil-20060528.csv,275,Hernan Altamar,34,MD,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,276,Misty Fowler Brown,---,---,USA,01:09:44,06:33:54,04:36:37,---,---,12:20:16
+ironman-brazil-20060528.csv,277,Rodolfo Parra,---,SP,BRA,01:00:33,06:41:14,---,---,---,DNF
+ironman-brazil-20060528.csv,278,Luciano Cavalcante Pinheiro,---,CE,BRA,01:21:37,06:56:44,05:11:45,---,---,13:30:07
+ironman-brazil-20060528.csv,279,Christian Osvaldo Raspanti,---,---,ARG,00:59:56,05:22:23,04:06:25,---,---,10:28:45
+ironman-brazil-20060528.csv,280,Tony Troccoli,41,CA,USA,02:07:40,07:06:12,06:13:22,---,---,15:27:15
+ironman-brazil-20060528.csv,281,Tania Socorro Amorim Soares,---,CE,BRA,01:34:47,08:43:32,06:20:13,---,---,16:38:33
+ironman-brazil-20060528.csv,282,Randy Weintraub,40,NY,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,283,Christophe Jouffret,---,---,FRA,00:54:32,05:09:31,03:35:36,---,---,09:39:40
+ironman-brazil-20060528.csv,284,Nathalie Jouffret,---,---,FRA,01:15:10,06:59:50,04:49:40,---,---,13:04:40
+ironman-brazil-20060528.csv,285,John T. Marshall,---,---,USA,01:00:56,05:13:35,03:34:40,---,---,09:49:13
+ironman-brazil-20060528.csv,286,Jon Pauole,36,WA,USA,00:48:51,05:27:55,03:41:47,---,---,09:58:34
+ironman-brazil-20060528.csv,287,Bryan Grimes Mordecai,---,---,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,288,Juan Padro,31,NC,USA,00:59:34,05:41:58,03:36:03,---,---,10:17:36
+ironman-brazil-20060528.csv,289,Federico Meier,44,lima,PER,01:34:46,06:10:53,06:08:59,---,---,13:54:38
+ironman-brazil-20060528.csv,290,Joseph A Hammes,---,---,USA,01:30:55,05:40:41,04:12:27,---,---,11:24:04
+ironman-brazil-20060528.csv,291,Edmundo Manuel Edmundo,---,---,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,292,John D Mooney,---,---,USA,01:22:10,06:33:20,04:59:52,---,---,12:55:24
+ironman-brazil-20060528.csv,293,Renata De Arruda Farah,---,---,BRA,01:12:59,06:27:57,05:29:24,---,---,13:10:21
+ironman-brazil-20060528.csv,294,Mark Rinaldi,---,CA,USA,01:39:00,06:44:52,05:30:21,---,---,13:54:14
+ironman-brazil-20060528.csv,295,Theresa Puccio,36,NY,USA,01:40:07,07:02:18,04:56:47,---,---,13:39:13
+ironman-brazil-20060528.csv,296,José Carlos Gonzales,---,SP,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,297,Maria Lucia Feitosa Gonçalves,---,SP,BRA,01:11:16,07:15:59,04:24:42,---,---,12:51:57
+ironman-brazil-20060528.csv,298,Vanuza Maciel,36,Paraná,BRA,01:05:05,06:04:15,04:12:52,---,---,11:22:12
+ironman-brazil-20060528.csv,299,Ronaldo Parra,---,SP,BRA,01:09:10,06:09:33,04:27:25,---,---,11:46:08
+ironman-brazil-20060528.csv,300,Claudio Lima Massari,---,RJ,BRA,01:31:13,07:14:42,05:11:53,---,---,13:57:49
+ironman-brazil-20060528.csv,301,Roger Lincoln Jovem Mandes,---,RJ,BRA,01:18:19,08:02:54,05:16:07,---,---,14:37:21
+ironman-brazil-20060528.csv,302,Luiz Fernando Azeredo Da Silva,---,RJ,BRA,01:17:35,06:52:45,05:56:04,---,---,14:06:26
+ironman-brazil-20060528.csv,303,Dino Bikini Model Lucas,---,---,USA,01:22:45,06:06:25,04:22:29,---,---,11:51:41
+ironman-brazil-20060528.csv,304,Ricardo Ivan Davila,---,---,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,305,Jodi Joye,47,SC,USA,01:07:34,06:06:37,04:30:16,---,---,11:44:28
+ironman-brazil-20060528.csv,306,James Palmer Strain,---,---,USA,00:56:05,05:56:45,04:31:53,---,---,11:24:45
+ironman-brazil-20060528.csv,307,Fernando Lordelo De Salles Gomes,---,SP,BRA,01:07:51,06:33:49,05:24:42,---,---,13:06:23
+ironman-brazil-20060528.csv,308,Rodrigo Langeani,---,SP,BRA,00:55:40,05:39:57,04:18:29,---,---,10:54:08
+ironman-brazil-20060528.csv,309,Jorge Daniel Pickering,---,---,ARG,01:16:40,06:29:39,05:40:05,---,---,13:26:26
+ironman-brazil-20060528.csv,310,Álvaro Correia Sobreira,---,CE,BRA,01:04:35,05:56:24,04:20:36,---,---,11:21:36
+ironman-brazil-20060528.csv,311,Sandro Occhilupo,32,---,CHE,00:51:56,05:40:48,05:04:13,---,---,11:36:58
+ironman-brazil-20060528.csv,312,Alan Carlisle,76,CA,USA,01:24:58,07:37:28,07:11:06,---,---,16:13:33
+ironman-brazil-20060528.csv,313,Tatsuya Inoue,34,---,JPN,01:12:02,06:19:06,03:51:10,---,---,11:22:19
+ironman-brazil-20060528.csv,314,Fernando Dominguez,53,PR,USA,01:17:06,07:49:44,05:35:54,---,---,14:42:45
+ironman-brazil-20060528.csv,315,Herve Odent,38,---,FRA,00:57:21,05:22:49,03:31:07,---,---,09:51:18
+ironman-brazil-20060528.csv,316,Matias Corral,37,---,ARG,01:08:54,05:55:36,04:35:42,---,---,11:40:13
+ironman-brazil-20060528.csv,317,Paulo Roberto Avila,---,SP,BRA,01:07:32,06:16:47,04:01:50,---,---,11:26:10
+ironman-brazil-20060528.csv,318,Marcos Paula Leite,---,SP,BRA,01:20:07,06:59:57,06:02:54,---,---,14:22:59
+ironman-brazil-20060528.csv,319,Lauro Antonio Camargo,---,SP,BRA,01:10:25,07:00:45,05:28:39,---,---,13:39:50
+ironman-brazil-20060528.csv,320,Jose Roberto Ferreira Jorge,41,Sao Paulo,BRA,01:01:45,06:34:46,05:06:24,---,---,12:42:56
+ironman-brazil-20060528.csv,321,Erick Benevides De Vasconcelos,---,CE,BRA,01:16:55,06:25:15,05:04:19,---,---,12:46:30
+ironman-brazil-20060528.csv,322,José Eduardo Ferreira Do Amaral,---,PR,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,323,Luis Henrique Evangelista Vieira,---,GO,BRA,01:24:08,08:34:37,06:54:47,---,---,16:53:32
+ironman-brazil-20060528.csv,324,Marcos Paulo Tondinelli Bongiolo,---,PR,BRA,01:04:54,06:40:07,04:43:52,---,---,12:28:54
+ironman-brazil-20060528.csv,325,Hedla Lopes,47,CE,BRA,00:54:41,06:04:34,04:50:38,---,---,11:49:54
+ironman-brazil-20060528.csv,326,Ricardo Nilson,---,RS,BRA,00:54:58,05:20:55,03:13:58,---,---,09:29:53
+ironman-brazil-20060528.csv,327,Gaetano Gabriel Goldoni,---,---,PAN,01:03:52,05:34:58,04:36:34,---,---,11:15:26
+ironman-brazil-20060528.csv,328,Hugo Dalla Bernardina Daher,---,ES,BRA,00:56:15,05:52:34,05:04:19,---,---,11:53:09
+ironman-brazil-20060528.csv,329,Priscila Arana De Souza,---,SP,BRA,01:09:51,06:32:49,05:08:43,---,---,12:51:24
+ironman-brazil-20060528.csv,330,Francisco J. Monserrate,---,---,USA,01:09:22,06:22:35,04:44:11,---,---,12:16:09
+ironman-brazil-20060528.csv,331,Nicole Cely,---,---,USA,01:24:23,07:14:38,06:08:57,---,---,14:48:00
+ironman-brazil-20060528.csv,332,Enrique Sanchez,34,---,MEX,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,333,Maurel Sebastien,35,---,FRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,334,Fernando Rosset,---,SP,BRA,01:23:52,---,---,---,---,DNF
+ironman-brazil-20060528.csv,335,Alexandre Vendramim,---,SP,BRA,01:03:38,06:56:37,05:01:02,---,---,13:01:17
+ironman-brazil-20060528.csv,336,Jose Henrique Miyasiro De Abreu,---,SP,BRA,00:51:28,---,---,---,---,DNF
+ironman-brazil-20060528.csv,337,Bruno Stuani,---,SP,BRA,01:18:11,06:25:32,05:17:36,---,---,13:01:20
+ironman-brazil-20060528.csv,338,Rodrigo Moreira,---,SP,BRA,01:33:57,07:41:40,06:35:38,---,---,15:51:16
+ironman-brazil-20060528.csv,339,Erin Murray,29,GA,USA,01:20:40,06:42:20,05:14:27,---,---,13:17:28
+ironman-brazil-20060528.csv,340,Mike Gaw,36,GA,USA,01:08:55,06:12:52,04:28:14,---,---,11:50:02
+ironman-brazil-20060528.csv,341,Seth J. Coblentz,---,---,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,342,Matthew Rose,31,GA,USA,00:48:42,05:23:54,03:34:27,---,---,09:47:04
+ironman-brazil-20060528.csv,343,Alexandre Setubal De Luna Freire,---,RJ,BRA,01:03:50,06:20:22,04:18:15,---,---,11:42:28
+ironman-brazil-20060528.csv,344,Renato Cabral Dos Santos,---,MG,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,345,Roberto Degan Penteado,---,SP,BRA,00:59:58,06:09:38,03:49:17,---,---,10:58:54
+ironman-brazil-20060528.csv,346,Claudio Luiz Bolanho,---,SP,BRA,01:19:31,---,---,---,---,DNF
+ironman-brazil-20060528.csv,347,Sergio Luiz De Miranda Melo,---,MA,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,348,Luiz Renato Topan,---,MG,BRA,00:47:24,05:21:35,03:34:15,---,---,09:43:15
+ironman-brazil-20060528.csv,349,Ronald Luis Frias,---,---,MEX,00:57:52,06:30:47,05:04:49,---,---,12:33:29
+ironman-brazil-20060528.csv,350,Albert Bossy Azpelicueta,---,---,ESP,00:56:19,05:48:08,04:00:59,---,---,10:45:26
+ironman-brazil-20060528.csv,351,Rui Bulamah Spinelli,---,SP,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,352,Marcelo Feola,30,Other,BRA,01:04:02,07:06:40,04:56:40,---,---,13:07:22
+ironman-brazil-20060528.csv,353,Francisco Pinto,31,---,CHL,00:58:42,05:53:50,03:50:41,---,---,10:43:14
+ironman-brazil-20060528.csv,354,Michael Donovan,28,NJ,USA,00:53:57,05:42:09,04:39:57,---,---,11:16:05
+ironman-brazil-20060528.csv,355,Jean Louis Dos Santos,---,CE,BRA,01:03:35,06:06:39,04:34:26,---,---,11:44:41
+ironman-brazil-20060528.csv,356,Josemar Oliveira Alves,---,AL,BRA,01:13:18,06:06:59,04:36:56,---,---,11:57:14
+ironman-brazil-20060528.csv,357,Benjamin Lloyd,35,NY,GBR,00:59:22,05:15:55,03:28:31,---,---,09:43:49
+ironman-brazil-20060528.csv,358,Walter Burk,49,---,CHE,00:59:19,05:37:30,04:14:39,---,---,10:51:30
+ironman-brazil-20060528.csv,359,Shigeru Sakahara,53,---,JPN,01:31:09,07:07:47,06:41:09,---,---,15:20:06
+ironman-brazil-20060528.csv,360,Cleuber Lodovico,---,PR,BRA,01:07:02,05:17:56,03:25:40,---,---,09:50:40
+ironman-brazil-20060528.csv,361,Andy Gunn,---,---,GBR,01:01:23,06:03:29,04:42:46,---,---,11:47:39
+ironman-brazil-20060528.csv,362,Leandro Stipanich,---,SP,BRA,01:11:14,07:20:59,04:48:26,---,---,13:20:40
+ironman-brazil-20060528.csv,363,Marcos Aurelio Fernandes Costa,---,RS,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,364,Élcio Pinhati,---,SP,BRA,01:19:09,06:23:00,04:40:15,---,---,12:22:25
+ironman-brazil-20060528.csv,365,Roberto Ruschel,---,SP,BRA,00:54:36,06:21:03,04:40:45,---,---,11:56:25
+ironman-brazil-20060528.csv,366,Fabrizio Eklan Ribas Bourguignon,---,SP,BRA,01:12:18,06:39:19,06:34:24,---,---,14:26:02
+ironman-brazil-20060528.csv,367,Viveka Hannele Kaitila,---,SP,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,368,Axel Arnaldo Vasquez,---,---,GTM,01:28:46,06:28:14,03:45:43,---,---,11:42:44
+ironman-brazil-20060528.csv,369,Charles Edward Decker,---,---,USA,00:59:53,05:38:31,04:12:53,---,---,10:51:17
+ironman-brazil-20060528.csv,370,Alvaro Jose Caro,---,---,MEX,01:19:06,08:06:00,---,---,---,DNF
+ironman-brazil-20060528.csv,371,Johann Michelon,---,---,AUT,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,372,Pascal Lauffer,40,NY,USA,01:06:38,05:46:32,03:33:24,---,---,10:26:35
+ironman-brazil-20060528.csv,373,Philippe Christen,28,---,CHE,01:05:01,05:54:00,04:25:29,---,---,11:24:30
+ironman-brazil-20060528.csv,374,Mark Guyer,28,FL,USA,01:23:02,07:08:50,05:33:02,---,---,14:04:56
+ironman-brazil-20060528.csv,375,Laura Farina,21,FL,USA,01:11:20,06:27:26,04:31:41,---,---,12:10:27
+ironman-brazil-20060528.csv,376,Christophe Kolly,34,---,CHE,00:52:55,05:28:06,04:48:36,---,---,11:09:38
+ironman-brazil-20060528.csv,377,Will Kelty,39,CA,USA,01:15:27,06:04:16,04:30:57,---,---,11:50:41
+ironman-brazil-20060528.csv,378,Douglas Bunder,---,SP,BRA,01:06:36,05:59:48,04:24:29,---,---,11:30:54
+ironman-brazil-20060528.csv,379,Ricardo Vianna,---,ES,BRA,01:12:06,06:47:57,---,---,---,DNF
+ironman-brazil-20060528.csv,380,Marcio Cesar Cespede,---,SP,BRA,01:18:36,06:51:56,04:25:24,---,---,12:35:57
+ironman-brazil-20060528.csv,381,André Josetti De Souza Guarischi,---,RJ,BRA,01:04:01,05:42:11,03:34:21,---,---,10:20:34
+ironman-brazil-20060528.csv,382,Marcos Paulo De Oliveira,---,DF,BRA,00:59:05,05:12:50,03:47:24,---,---,09:59:20
+ironman-brazil-20060528.csv,383,Alexandre Moura Pacheco,---,DF,BRA,01:01:36,05:44:58,04:33:17,---,---,11:19:53
+ironman-brazil-20060528.csv,384,João José De Queiroz Neto,---,DF,BRA,01:09:11,05:55:01,03:56:06,---,---,11:00:19
+ironman-brazil-20060528.csv,385,Biagio Santoro,---,DF,BRA,01:09:14,05:43:16,04:34:29,---,---,11:27:01
+ironman-brazil-20060528.csv,386,Alexis . J. Amador,---,---,USA,01:18:43,07:05:07,04:38:44,---,---,13:02:34
+ironman-brazil-20060528.csv,387,Tamas Fekete,62,DE,DEU,01:13:27,06:23:27,04:09:56,---,---,11:46:51
+ironman-brazil-20060528.csv,388,Joao Ricardo Almeida Grossi,---,PR,BRA,01:09:09,06:16:42,04:54:01,---,---,12:19:53
+ironman-brazil-20060528.csv,389,Pedro Ferraz Paciornik,---,PR,BRA,01:08:04,---,---,---,---,DNF
+ironman-brazil-20060528.csv,390,Antonio Perez De Mello,---,RJ,BRA,01:03:03,06:01:47,04:38:39,---,---,11:43:29
+ironman-brazil-20060528.csv,391,Sidney Togumi,---,SP,BRA,01:08:16,06:10:00,04:15:15,---,---,11:33:32
+ironman-brazil-20060528.csv,392,Eduardo Barbosa Zucatti Fonseca,---,GO,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,393,Christine J Mackrides,---,---,USA,00:56:24,06:01:37,04:04:11,---,---,11:02:12
+ironman-brazil-20060528.csv,394,Rafael Teixeira Dos Santos,---,SP,BRA,01:22:14,06:43:30,04:16:46,---,---,12:22:31
+ironman-brazil-20060528.csv,395,Paulo Crivano De Moraes,---,AC,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,396,Mauricio Hissa,---,RJ,BRA,01:17:42,06:21:14,05:41:15,---,---,13:20:12
+ironman-brazil-20060528.csv,397,Bruno Ferreira Viana,---,RJ,BRA,01:06:31,06:51:18,04:25:48,---,---,12:23:38
+ironman-brazil-20060528.csv,398,Daryan Swanson,33,CT,USA,01:05:27,06:02:32,05:10:04,---,---,12:18:04
+ironman-brazil-20060528.csv,399,Martin Henrich,28,---,DEU,00:53:37,05:21:28,03:46:43,---,---,10:01:49
+ironman-brazil-20060528.csv,400,Daniel Meyer,---,SC,BRA,01:07:17,05:29:55,04:04:22,---,---,10:41:36
+ironman-brazil-20060528.csv,401,Bruno Cezar Lavinas Dangelo,---,SP,BRA,01:02:46,05:38:59,03:41:50,---,---,10:23:36
+ironman-brazil-20060528.csv,402,Norberto José Rebollo,---,---,ARG,01:59:46,07:37:06,06:25:26,---,---,16:02:19
+ironman-brazil-20060528.csv,403,Leonardo Emílio Da Silva,---,GO,BRA,01:28:45,06:11:49,04:06:47,---,---,11:47:21
+ironman-brazil-20060528.csv,404,Roberto Ferreira De Souza,---,SP,BRA,01:02:12,06:56:46,05:34:43,---,---,13:33:42
+ironman-brazil-20060528.csv,405,Eduardo Brunetti,---,SP,BRA,01:18:10,07:57:26,06:24:35,---,---,15:40:11
+ironman-brazil-20060528.csv,406,Rangel Tarosso,---,PR,BRA,01:35:00,07:17:35,04:40:44,---,---,13:33:20
+ironman-brazil-20060528.csv,407,Kevin William Morgan,---,---,USA,01:16:01,07:31:25,05:49:13,---,---,14:36:40
+ironman-brazil-20060528.csv,408,Andrew Chafer,38,SC,AUS,01:09:16,05:43:31,03:51:48,---,---,10:44:36
+ironman-brazil-20060528.csv,409,Scott Thompson,35,Essex,GBR,01:01:37,05:31:57,04:20:57,---,---,10:54:32
+ironman-brazil-20060528.csv,410,Peggy Wise,53,FL,USA,01:27:51,07:22:04,04:56:56,---,---,13:46:53
+ironman-brazil-20060528.csv,411,Agustin Galvalisi,45,---,ARG,01:22:19,06:35:29,04:48:55,---,---,12:46:44
+ironman-brazil-20060528.csv,412,Thiago Lapagesse Da Costa,---,SC,BRA,01:12:08,06:11:36,05:31:00,---,---,12:54:45
+ironman-brazil-20060528.csv,413,Julie Ann Doheney,---,---,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,414,Edgar Stelle Junior,---,PR,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,415,Gilvan De Oliveira Gomes,---,SP,BRA,01:06:23,05:16:43,04:01:14,---,---,10:24:21
+ironman-brazil-20060528.csv,416,Danielle Paiva Magalhães S. De Oliveira,---,SP,BRA,01:06:24,07:03:14,04:35:53,---,---,12:45:32
+ironman-brazil-20060528.csv,417,Leandro De Paula Martins Constant,---,SP,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,418,Marta Guimarães Cavalcanti,---,RJ,BRA,01:46:43,08:16:23,06:23:02,---,---,16:26:08
+ironman-brazil-20060528.csv,419,Nilton Jose Cardoso,---,SP,BRA,00:59:18,06:08:00,04:02:25,---,---,11:09:43
+ironman-brazil-20060528.csv,420,Stephane Grandjean,36,---,CHE,01:00:18,05:16:08,03:15:48,---,---,09:32:14
+ironman-brazil-20060528.csv,421,Waldemaro José Ferreira,---,SC,BRA,01:09:11,06:26:17,04:07:56,---,---,11:43:25
+ironman-brazil-20060528.csv,422,Luiz Lopes Junior,---,SP,BRA,01:04:03,06:03:17,05:08:40,---,---,12:16:02
+ironman-brazil-20060528.csv,423,Walton Valerio Boechat,---,SP,BRA,00:57:31,05:34:28,03:59:47,---,---,10:31:47
+ironman-brazil-20060528.csv,424,Euvaldo Loureiro Gregory Villaboim,---,SP,BRA,00:54:49,05:46:27,04:37:54,---,---,11:19:11
+ironman-brazil-20060528.csv,425,Robson Marcos De Paula,---,DF,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,426,Johanna Ewa Maria Gustafsson,---,---,SWE,01:18:04,06:15:23,04:40:11,---,---,12:13:40
+ironman-brazil-20060528.csv,427,Mccoy Weymouth,37,DE,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,428,Fabricio Cervantes De Aquino,---,RJ,BRA,01:14:29,06:56:11,05:10:25,---,---,13:21:06
+ironman-brazil-20060528.csv,429,Andres Javier Bertoldi,---,---,ARG,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,430,Wagner Jose Gomes Pereira,---,SP,BRA,01:23:54,06:46:36,05:07:32,---,---,13:18:03
+ironman-brazil-20060528.csv,431,Vagner Franco,---,SP,BRA,01:01:53,06:59:51,04:35:31,---,---,12:37:15
+ironman-brazil-20060528.csv,432,Alex Sodre,---,SP,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,433,Alessandra Andréa Fattori Dias,---,PR,BRA,01:02:24,08:33:32,05:54:28,---,---,15:30:26
+ironman-brazil-20060528.csv,434,Frederico De Mello Allende Toledo,---,SP,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,435,Ana Silvia Paller,42,Sao Paulo,BRA,01:12:14,06:53:55,04:53:29,---,---,12:59:40
+ironman-brazil-20060528.csv,436,Noboru Tsukahara,58,Chiba,JPN,01:18:24,07:58:03,06:51:39,---,---,16:08:07
+ironman-brazil-20060528.csv,437,Jonas Ekstam,42,---,SWE,01:21:03,07:03:48,04:36:04,---,---,13:00:56
+ironman-brazil-20060528.csv,438,Dana Marie Lewis,---,---,USA,01:34:58,08:05:32,07:10:34,---,---,16:51:05
+ironman-brazil-20060528.csv,439,Lou Chizlett,39,FL,USA,01:39:47,06:33:50,06:22:44,---,---,14:36:22
+ironman-brazil-20060528.csv,440,Carlos Alberto De Miranda Heffner,---,RS,BRA,01:11:26,06:12:55,04:38:18,---,---,12:02:39
+ironman-brazil-20060528.csv,441,Vitor Carrara,---,SP,BRA,00:51:43,05:17:19,03:59:46,---,---,10:08:49
+ironman-brazil-20060528.csv,442,Ricardo Pasetto Leser,---,SP,BRA,01:27:25,07:11:08,05:03:01,---,---,13:41:34
+ironman-brazil-20060528.csv,443,Paulo César Pedrazzini Dos Santos,---,SP,BRA,01:04:03,06:14:01,04:27:21,---,---,11:45:26
+ironman-brazil-20060528.csv,444,Claudio Corrêa Nader,---,PR,BRA,01:02:44,06:11:58,05:09:53,---,---,12:24:36
+ironman-brazil-20060528.csv,445,Roberto Melchior Soares Dos Santos,---,SP,BRA,01:55:44,08:14:37,06:27:37,---,---,16:38:00
+ironman-brazil-20060528.csv,446,Carlos Eduardo O. Garcia,---,DF,BRA,01:09:27,06:20:17,05:33:46,---,---,13:03:30
+ironman-brazil-20060528.csv,447,Tiago Schervinski,---,SP,BRA,00:59:12,05:20:48,03:33:23,---,---,09:53:24
+ironman-brazil-20060528.csv,448,Mariana Strauss,26,---,ARG,01:05:08,06:21:39,04:43:51,---,---,12:10:39
+ironman-brazil-20060528.csv,449,Rafael Regis Cavicchioli,---,SP,BRA,01:16:47,06:02:56,03:46:13,---,---,11:05:58
+ironman-brazil-20060528.csv,450,Luis Vicente Damato,---,SP,BRA,01:04:13,05:15:45,03:50:16,---,---,10:10:16
+ironman-brazil-20060528.csv,451,Chad Neal Correll,---,---,USA,01:06:37,06:10:09,05:11:43,---,---,12:28:30
+ironman-brazil-20060528.csv,452,Vincent Blok,43,Intl State,PER,01:14:32,06:35:08,05:55:08,---,---,13:44:48
+ironman-brazil-20060528.csv,453,Jason Rita,40,DE,USA,01:18:53,05:41:02,04:25:46,---,---,11:25:42
+ironman-brazil-20060528.csv,454,Lisa Wei-Haas,46,OK,USA,01:09:07,06:14:58,05:14:33,---,---,12:38:39
+ironman-brazil-20060528.csv,455,Esteban Lopez,39,FL,USA,00:54:41,05:25:57,04:00:37,---,---,10:21:16
+ironman-brazil-20060528.csv,456,Glenn Mccarroll,45,NC,USA,00:56:49,05:37:23,04:45:28,---,---,11:19:41
+ironman-brazil-20060528.csv,457,Patricia Soden,44,FL,USA,01:39:22,08:04:32,05:20:51,---,---,15:04:46
+ironman-brazil-20060528.csv,458,Rivan Salvador Aguiar,---,MG,BRA,01:18:40,07:16:45,05:27:21,---,---,14:02:47
+ironman-brazil-20060528.csv,459,Emerson Da Rosa,---,RS,BRA,01:09:34,06:33:25,04:38:45,---,---,12:21:45
+ironman-brazil-20060528.csv,460,Christian Basto Lima Wellisch,---,RJ,BRA,01:02:19,06:03:03,04:25:35,---,---,11:30:58
+ironman-brazil-20060528.csv,461,Fabio Pascual Llopis,---,SP,BRA,01:08:52,06:25:10,03:57:54,---,---,11:31:57
+ironman-brazil-20060528.csv,462,José Claudio Monteiro De Brito Filho,---,PA,BRA,01:08:48,07:12:28,06:17:52,---,---,14:39:09
+ironman-brazil-20060528.csv,463,Eduardo Braz,22,---,BRA,00:51:49,06:00:47,03:58:17,---,---,10:50:55
+ironman-brazil-20060528.csv,464,Paulo De Heraclito Lima,---,RJ,BRA,01:12:04,05:40:39,04:17:13,---,---,11:09:58
+ironman-brazil-20060528.csv,465,Gustavo Filipi Milis Cani,---,SC,BRA,01:08:50,06:59:29,---,---,---,DNF
+ironman-brazil-20060528.csv,466,Patrick Wellisch,---,RJ,BRA,01:09:48,07:28:59,05:19:08,---,---,13:57:55
+ironman-brazil-20060528.csv,467,Ana Catarina Nogueira Da Costa Silva,---,DF,BRA,01:01:52,06:17:29,04:21:41,---,---,11:41:03
+ironman-brazil-20060528.csv,468,Emerson Migliorini,---,SP,BRA,01:02:14,06:14:54,04:20:58,---,---,11:38:07
+ironman-brazil-20060528.csv,469,Christian Filli,36,TX,BRA,01:07:20,06:06:31,04:14:35,---,---,11:28:28
+ironman-brazil-20060528.csv,470,Leonardo Simões Zica,---,MG,BRA,00:56:11,05:33:31,---,---,---,DNF
+ironman-brazil-20060528.csv,471,Alexandre Queiroz Silva,---,SP,BRA,01:02:13,06:22:57,04:12:44,---,---,11:37:55
+ironman-brazil-20060528.csv,472,Ricardo Soares Caiuby,---,SP,BRA,01:04:22,06:21:43,---,---,---,DNF
+ironman-brazil-20060528.csv,473,Adriano Cives Seabra,---,RJ,BRA,01:07:29,06:07:50,05:05:52,---,---,12:21:11
+ironman-brazil-20060528.csv,474,Christy Cole Miller,---,---,USA,01:33:22,07:52:42,05:20:54,---,---,14:47:00
+ironman-brazil-20060528.csv,475,Jon Treku Larrañaga,---,---,ESP,00:45:45,05:19:36,03:41:45,---,---,09:47:07
+ironman-brazil-20060528.csv,476,Klaus Martin Fritz Reuter,---,---,DEU,01:01:55,05:25:27,03:39:27,---,---,10:06:49
+ironman-brazil-20060528.csv,477,Steven W. Oliver,---,---,USA,01:19:17,06:41:34,04:27:38,---,---,12:28:29
+ironman-brazil-20060528.csv,478,Amy Nicole Oliver,---,---,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,479,Inge Wiersema,34,CA,NLD,01:09:29,06:36:22,04:48:30,---,---,12:34:22
+ironman-brazil-20060528.csv,480,Mun C Leu,---,---,USA,01:34:38,07:12:40,05:18:45,---,---,14:06:04
+ironman-brazil-20060528.csv,481,Eduardo Sovierzoski,---,PR,BRA,01:01:54,06:10:07,04:21:48,---,---,11:33:50
+ironman-brazil-20060528.csv,482,Jorge Luiz Baldasso,---,MS,BRA,01:33:17,08:12:54,06:16:13,---,---,16:02:25
+ironman-brazil-20060528.csv,483,Claudia Maria Regis Fernandes,---,RJ,BRA,01:24:27,08:59:22,---,---,---,DNF
+ironman-brazil-20060528.csv,484,Oliver Veit,27,DE,DEU,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,485,Brittany Anne Botheras,---,---,USA,01:12:28,06:46:26,04:44:01,---,---,12:42:57
+ironman-brazil-20060528.csv,486,Javier Pineda,30,FL,USA,00:59:01,05:38:33,04:52:24,---,---,11:29:58
+ironman-brazil-20060528.csv,487,Siobhan Budge-Johnson,24,HI,USA,01:19:10,07:16:47,05:55:40,---,---,14:31:38
+ironman-brazil-20060528.csv,488,Carey Robert Wells,---,---,USA,01:08:12,05:40:42,03:47:04,---,---,10:35:59
+ironman-brazil-20060528.csv,489,Joanne Isabel Harwood,---,---,USA,01:15:59,06:42:01,04:09:20,---,---,12:07:21
+ironman-brazil-20060528.csv,490,Andrey Ivanov Parvanov,---,---,BGR,01:11:37,05:46:18,04:29:43,---,---,11:27:39
+ironman-brazil-20060528.csv,491,Thomas Cimino,38,---,CHL,01:23:26,06:48:40,05:01:39,---,---,13:13:46
+ironman-brazil-20060528.csv,492,Joao Arthur Costa Chaves,---,SP,BRA,00:54:52,05:43:41,03:38:20,---,---,10:16:54
+ironman-brazil-20060528.csv,493,Rodrigo Mariotoni,---,SP,BRA,01:02:07,07:11:04,---,---,---,DNF
+ironman-brazil-20060528.csv,494,Cleomar Da Conceição Feliciano,---,SP,BRA,01:11:40,06:22:23,04:31:48,---,---,12:05:52
+ironman-brazil-20060528.csv,495,Paulo Pereira Brandao,---,CE,BRA,01:03:24,06:05:43,04:18:30,---,---,11:27:37
+ironman-brazil-20060528.csv,496,Ana Lucia Bertholdi Piacentini,---,PR,BRA,01:12:57,07:14:40,04:57:14,---,---,13:24:53
+ironman-brazil-20060528.csv,497,Eugen Carisch,38,ZH,CHE,01:08:19,05:17:27,03:56:28,---,---,10:22:14
+ironman-brazil-20060528.csv,498,Maria Gorete De Melo,---,SC,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,499,Marcelo Soares Silva,---,SP,BRA,00:57:27,05:43:24,03:57:29,---,---,10:38:21
+ironman-brazil-20060528.csv,500,Richard Soares,---,ES,BRA,01:05:54,06:06:32,04:22:13,---,---,11:34:39
+ironman-brazil-20060528.csv,501,Milena Marques Soares,---,CE,BRA,01:17:44,07:16:26,04:48:05,---,---,13:22:16
+ironman-brazil-20060528.csv,502,Christian Chambarelli Melo,---,RJ,BRA,00:57:45,06:08:10,04:49:01,---,---,11:54:57
+ironman-brazil-20060528.csv,503,Frederico Schiliró,---,SP,BRA,00:54:28,06:08:10,04:36:00,---,---,11:38:40
+ironman-brazil-20060528.csv,504,Izabella Pimentel,---,RJ,BRA,00:57:35,06:05:58,---,---,---,DNF
+ironman-brazil-20060528.csv,505,Leonardo Thommen Dias Campos,---,GO,BRA,01:05:46,06:17:07,03:47:50,---,---,11:10:43
+ironman-brazil-20060528.csv,506,Roberto Azevedo Jr,---,SP,BRA,01:08:28,05:53:38,05:34:36,---,---,12:36:42
+ironman-brazil-20060528.csv,507,Caio Rogerio Simão,---,SP,BRA,01:19:56,06:19:04,04:34:38,---,---,12:13:39
+ironman-brazil-20060528.csv,508,Ricardo Costa Val Do Rosário,---,MG,BRA,01:14:07,06:17:33,04:20:16,---,---,11:51:58
+ironman-brazil-20060528.csv,509,Alexandre Prado Bergamo,---,SP,BRA,01:01:24,06:00:19,04:54:00,---,---,11:55:44
+ironman-brazil-20060528.csv,510,Pedro Ivan Mantovani,---,PR,BRA,01:09:24,06:20:19,05:25:18,---,---,12:55:01
+ironman-brazil-20060528.csv,511,Fernando Sigui,33,FL,SLV,01:18:11,07:22:54,06:04:03,---,---,14:45:09
+ironman-brazil-20060528.csv,512,Alexandre Amador Andrade,---,RJ,BRA,01:07:53,06:09:43,04:22:46,---,---,11:40:23
+ironman-brazil-20060528.csv,513,Luiz Andre Villarinho Jr.,---,GO,BRA,01:13:06,06:46:00,03:57:24,---,---,11:56:31
+ironman-brazil-20060528.csv,514,Nelson Amaral,---,SC,BRA,01:08:18,06:26:36,04:23:20,---,---,11:58:16
+ironman-brazil-20060528.csv,515,Marco Aurélio Magalhães,---,CE,BRA,01:07:42,06:12:41,04:21:11,---,---,11:41:35
+ironman-brazil-20060528.csv,516,João Carlos Camilo  Carlini Neto,---,PE,BRA,01:11:12,06:14:32,04:53:56,---,---,12:19:41
+ironman-brazil-20060528.csv,517,Fernando Cremonini,---,SP,BRA,01:04:06,05:28:09,04:05:46,---,---,10:38:01
+ironman-brazil-20060528.csv,518,Christian Storck,32,---,GBR,01:01:17,05:41:03,03:32:48,---,---,10:15:08
+ironman-brazil-20060528.csv,519,Adam Lee,31,CA,USA,01:39:38,07:01:43,05:47:22,---,---,14:28:44
+ironman-brazil-20060528.csv,520,Nancy Ann Maria Stuparich,---,---,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,521,Celio Joao Manfredini Filho,---,SP,BRA,01:21:27,06:04:34,04:42:55,---,---,12:08:57
+ironman-brazil-20060528.csv,522,Marcelo Simões Junqueira,---,SP,BRA,01:00:52,06:53:50,04:33:55,---,---,12:28:38
+ironman-brazil-20060528.csv,523,Flávio De Almeida Prado Mendes,---,SP,BRA,01:07:56,07:00:18,05:24:30,---,---,13:32:46
+ironman-brazil-20060528.csv,524,Giancarlo Nicola De Santis Matarazzo,---,SP,BRA,01:02:16,---,---,---,---,DNF
+ironman-brazil-20060528.csv,525,Carlos Eduardo De B. Sene,---,SP,BRA,01:18:55,06:46:22,05:52:13,---,---,13:57:31
+ironman-brazil-20060528.csv,526,Antonio Henrique Coelho,---,PA,BRA,01:17:39,06:23:36,04:36:23,---,---,12:17:38
+ironman-brazil-20060528.csv,527,Nilson Lopes Souto,---,SP,BRA,01:21:43,06:23:48,03:59:32,---,---,11:45:05
+ironman-brazil-20060528.csv,528,Alexei Von Zuben,---,SP,BRA,01:02:03,05:14:41,03:46:12,---,---,10:02:57
+ironman-brazil-20060528.csv,529,Guido Geraldo Eugenio,---,SP,BRA,01:15:26,07:07:58,04:00:06,---,---,12:23:30
+ironman-brazil-20060528.csv,530,James Love,34,NM,USA,01:15:08,06:38:28,05:21:28,---,---,13:15:06
+ironman-brazil-20060528.csv,531,Carla Van Rooijen,---,---,NLD,01:12:55,05:48:50,03:39:43,---,---,10:41:29
+ironman-brazil-20060528.csv,532,Jon Elosegui,36,---,ESP,00:54:21,05:13:03,03:08:34,---,---,09:15:59
+ironman-brazil-20060528.csv,533,Aitzol Arregi,35,Other,ESP,00:59:07,06:10:27,03:28:01,---,---,10:37:36
+ironman-brazil-20060528.csv,534,Andrew Thomas Davis,---,---,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,535,Roberto Tadao,---,RJ,BRA,00:51:50,05:28:05,03:32:27,---,---,09:52:23
+ironman-brazil-20060528.csv,536,Suzy Ivete De Souza,---,SC,BRA,01:17:40,08:06:09,06:20:32,---,---,15:44:21
+ironman-brazil-20060528.csv,537,Gustavo Bello Zaiantchick,---,SP,BRA,01:05:08,06:08:37,04:10:52,---,---,11:24:37
+ironman-brazil-20060528.csv,538,Heitor José Canalle De Souza,---,PR,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,539,Delfim Quintas,---,SP,BRA,00:58:06,05:04:09,04:14:15,---,---,10:16:32
+ironman-brazil-20060528.csv,540,Gisela Luppi Noivo Aroceno,---,RR,BRA,01:17:26,07:33:06,04:42:29,---,---,13:33:02
+ironman-brazil-20060528.csv,541,James Alberto Ferraz Alvim,---,SP,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,542,Regiane Isaac Dos Santos Garcia,---,SP,BRA,01:22:33,07:33:25,04:21:14,---,---,13:17:12
+ironman-brazil-20060528.csv,543,Rodrigo Machado Lucianetti,---,SC,BRA,01:09:58,06:31:19,06:12:44,---,---,13:54:01
+ironman-brazil-20060528.csv,544,Gabriel A Della Mattia,---,---,ARG,00:55:35,05:40:20,04:51:13,---,---,11:27:10
+ironman-brazil-20060528.csv,545,Luiz Fernando Faria,---,RS,BRA,01:06:09,05:48:07,03:49:08,---,---,10:43:25
+ironman-brazil-20060528.csv,546,Jorge Alberto De Assis Pacheco,---,SP,BRA,01:07:04,05:46:19,03:35:56,---,---,10:29:20
+ironman-brazil-20060528.csv,547,Hilton Coutinho Da Silva Júnior,---,SP,BRA,01:04:25,06:20:07,03:58:33,---,---,11:23:06
+ironman-brazil-20060528.csv,548,Rui Yudi Sato Pereira,---,SP,BRA,00:58:53,06:31:34,06:07:53,---,---,13:38:21
+ironman-brazil-20060528.csv,549,Jose Valdoir De Vargas Jr,---,RS,BRA,01:14:54,06:39:23,05:24:04,---,---,13:18:23
+ironman-brazil-20060528.csv,550,Eduardo Victor Rocha Durand,---,RJ,BRA,01:02:38,05:33:31,03:54:07,---,---,10:30:17
+ironman-brazil-20060528.csv,551,Marcelo De Castro E Leão Borges,---,ES,BRA,01:15:33,06:55:26,08:30:55,---,---,16:41:55
+ironman-brazil-20060528.csv,552,John Luis Macedo,40,FL,USA,00:56:18,06:18:57,04:31:42,---,---,11:46:57
+ironman-brazil-20060528.csv,553,Theodor Krebber,45,---,DEU,01:01:19,05:33:42,03:44:00,---,---,10:19:02
+ironman-brazil-20060528.csv,554,Stephan Kreft,50,---,NLD,01:12:46,06:24:39,---,---,---,DNF
+ironman-brazil-20060528.csv,555,Harvey Zoller,43,FL,USA,01:07:36,05:30:45,04:10:52,---,---,10:49:14
+ironman-brazil-20060528.csv,556,Jeffrey A Holmquist,---,---,USA,01:02:34,06:23:12,04:41:00,---,---,12:06:46
+ironman-brazil-20060528.csv,557,Edward Wong,30,CA,USA,01:36:30,06:08:10,05:25:33,---,---,13:10:14
+ironman-brazil-20060528.csv,558,Edilson Batista De Oliveira,---,PR,BRA,01:07:01,---,---,---,---,DNF
+ironman-brazil-20060528.csv,559,Breno Persona Machado Gomes,---,SP,BRA,01:10:37,06:10:19,04:03:28,---,---,11:24:25
+ironman-brazil-20060528.csv,560,Nielsen Pereira,39,---,BRA,01:07:40,06:37:16,04:41:29,---,---,12:26:25
+ironman-brazil-20060528.csv,561,Cesar Tomaz De Almeida Vieira,---,DF,BRA,01:10:19,07:23:35,05:53:48,---,---,14:27:43
+ironman-brazil-20060528.csv,562,Cristiano Duarte Moura,---,MG,BRA,01:01:06,05:59:55,04:28:29,---,---,11:29:31
+ironman-brazil-20060528.csv,563,Leandro Balduino,---,SP,BRA,00:59:29,06:41:09,04:53:33,---,---,12:34:12
+ironman-brazil-20060528.csv,564,Claudia Ricci Ramos,---,RJ,BRA,01:02:22,06:04:22,04:32:30,---,---,11:39:16
+ironman-brazil-20060528.csv,565,Luiz Cláudio Camara Gonçalves,---,SP,BRA,00:55:46,05:20:06,03:41:19,---,---,09:57:12
+ironman-brazil-20060528.csv,566,Léo Mauro Xavier Filho,---,SC,BRA,01:11:04,06:58:01,04:57:58,---,---,13:07:03
+ironman-brazil-20060528.csv,567,Lucas B. Demeterco,---,PR,BRA,00:53:13,---,---,---,---,DNF
+ironman-brazil-20060528.csv,568,Diego Heredia,33,---,ARG,01:07:05,06:45:03,04:44:42,---,---,12:36:51
+ironman-brazil-20060528.csv,569,Ralph Porto,---,RJ,BRA,00:59:34,05:36:17,03:05:55,---,---,09:41:47
+ironman-brazil-20060528.csv,570,Carla Di Pierro,---,SP,BRA,00:57:31,05:48:32,04:08:25,---,---,10:54:28
+ironman-brazil-20060528.csv,571,Etienne Steenkamp,40,---,ZAF,01:09:04,06:15:13,05:12:30,---,---,12:36:47
+ironman-brazil-20060528.csv,572,Jose Eduardo Ibrahim,---,SP,BRA,01:12:20,05:57:09,04:39:59,---,---,11:49:29
+ironman-brazil-20060528.csv,573,Sidnei Barbosa De Assis,---,DF,BRA,01:08:59,06:08:41,03:55:18,---,---,11:12:59
+ironman-brazil-20060528.csv,574,Sergio Augusto De Vilhena Santoro Junior,---,SP,BRA,01:23:32,07:10:00,06:11:17,---,---,14:44:51
+ironman-brazil-20060528.csv,575,Alberto Koranyi Ribeiro,---,RJ,BRA,01:01:09,06:31:24,04:50:25,---,---,12:22:58
+ironman-brazil-20060528.csv,576,Ricardo M Arrarte,---,---,PER,01:02:36,06:05:49,04:07:49,---,---,11:16:15
+ironman-brazil-20060528.csv,577,Esteban Amador,38,FL,ECU,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,578,Flavio Edreira,---,GO,BRA,00:51:50,06:29:29,06:08:10,---,---,13:29:30
+ironman-brazil-20060528.csv,579,Cosme José Monteiro,---,PR,BRA,01:10:38,06:15:39,03:14:49,---,---,10:41:08
+ironman-brazil-20060528.csv,580,Rogerio Capellari,---,RS,BRA,00:59:33,05:17:22,03:51:38,---,---,10:08:34
+ironman-brazil-20060528.csv,581,Bruno Nobrega,---,DF,BRA,00:54:39,05:44:43,03:56:44,---,---,10:36:07
+ironman-brazil-20060528.csv,582,Alexandre Nogueira Lopes Da Cunha,---,RS,BRA,01:06:03,06:04:13,04:00:45,---,---,11:11:02
+ironman-brazil-20060528.csv,583,Rodrigo Albuquerque,27,Intl State,BRA,01:08:41,06:08:16,04:35:43,---,---,11:52:41
+ironman-brazil-20060528.csv,584,Harysson Gomes,29,DF,BRA,00:58:04,06:04:14,06:43:57,---,---,13:46:16
+ironman-brazil-20060528.csv,585,Mark Anthony Hassell,---,---,USA,01:00:53,05:31:26,03:58:48,---,---,10:31:08
+ironman-brazil-20060528.csv,586,Joseba Iriondo Orbegozo,---,---,ESP,01:02:48,05:33:04,03:49:32,---,---,10:25:25
+ironman-brazil-20060528.csv,587,Elicé Torres Batista,---,DF,BRA,01:10:10,05:49:04,04:08:46,---,---,11:08:01
+ironman-brazil-20060528.csv,588,Thierry Hubaut,44,---,FRA,01:00:21,05:28:22,04:15:27,---,---,10:44:11
+ironman-brazil-20060528.csv,589,Jimmy Long,---,---,USA,01:11:51,07:15:41,05:49:18,---,---,14:16:51
+ironman-brazil-20060528.csv,590,Toon Anh Ngo,---,---,VNM,01:42:44,07:17:32,07:01:37,---,---,16:01:54
+ironman-brazil-20060528.csv,591,Jose Antonio Bengoa,---,---,ESP,01:01:06,05:21:26,04:08:28,---,---,10:31:00
+ironman-brazil-20060528.csv,592,Marcos Kepper,---,PR,BRA,01:00:59,06:25:54,05:49:23,---,---,13:16:18
+ironman-brazil-20060528.csv,593,Pedro Luz Maia,---,---,BRA,01:02:25,06:02:34,04:40:58,---,---,11:45:58
+ironman-brazil-20060528.csv,594,William Anthony Vince,---,---,USA,01:12:19,05:59:36,04:33:23,---,---,11:45:20
+ironman-brazil-20060528.csv,595,Suzanne Whitfield Vince,---,---,USA,01:25:03,07:50:12,05:25:48,---,---,14:41:04
+ironman-brazil-20060528.csv,596,Edward Jonathan Luff,---,---,CAN,00:59:41,06:08:02,04:47:40,---,---,11:55:24
+ironman-brazil-20060528.csv,597,Horacio Luis Barredo,---,---,ARG,01:00:46,06:42:51,04:34:46,---,---,12:18:23
+ironman-brazil-20060528.csv,598,Fernando Luis Massucco,33,Buenos Aires,ARG,01:22:39,06:28:26,03:57:27,---,---,11:48:33
+ironman-brazil-20060528.csv,599,Adam Daniel Ashmann,---,---,USA,01:07:54,06:26:20,05:49:57,---,---,13:24:12
+ironman-brazil-20060528.csv,600,Robert Gibbons,46,NC,USA,01:04:25,06:23:58,05:46:24,---,---,13:14:48
+ironman-brazil-20060528.csv,601,Dale Ohara,---,---,USA,01:00:12,05:17:36,03:51:54,---,---,10:09:43
+ironman-brazil-20060528.csv,602,Leonidas Ortega,38,---,ECU,01:43:18,08:37:14,06:09:25,---,---,16:29:57
+ironman-brazil-20060528.csv,603,Troy Altomare,36,FL,USA,01:04:25,06:41:04,04:59:07,---,---,12:44:37
+ironman-brazil-20060528.csv,604,Mauro Roberto Giorchino,---,SP,BRA,00:54:12,05:53:09,05:39:21,---,---,12:26:42
+ironman-brazil-20060528.csv,605,Mario Jose De Mello Soares,---,PR,BRA,01:06:28,06:01:29,04:06:40,---,---,11:14:38
+ironman-brazil-20060528.csv,606,Antonio Pessoa Picanço,---,PA,BRA,01:28:48,07:24:53,05:34:10,---,---,14:27:52
+ironman-brazil-20060528.csv,607,Haritz Kortajarena Iribar,---,---,ESP,01:02:58,05:35:18,03:15:39,---,---,09:53:56
+ironman-brazil-20060528.csv,608,Joy Secritario,42,HI,CHN,01:22:18,07:14:19,05:24:46,---,---,14:01:24
+ironman-brazil-20060528.csv,609,Arnaldo Laporte Junior,---,PR,BRA,01:01:07,06:18:52,03:37:20,---,---,10:57:20
+ironman-brazil-20060528.csv,610,Philippe Gondre,---,---,FRA,01:05:32,06:00:27,03:46:38,---,---,10:52:38
+ironman-brazil-20060528.csv,611,Neilson Luiz Ribeiro Modro,---,SC,BRA,01:16:41,06:06:17,05:03:09,---,---,12:26:07
+ironman-brazil-20060528.csv,612,David Albert Quelch,---,---,USA,01:11:16,05:53:02,04:28:26,---,---,11:32:45
+ironman-brazil-20060528.csv,613,João Marcelo De Moraes Dantas,---,SP,BRA,00:57:34,---,---,---,---,DNF
+ironman-brazil-20060528.csv,614,Richard Debrot,40,IL,CHE,01:10:58,05:36:26,04:32:45,---,---,11:20:10
+ironman-brazil-20060528.csv,615,Catherine Morgan,32,CA,USA,01:18:39,07:05:45,06:25:49,---,---,14:50:14
+ironman-brazil-20060528.csv,616,Brian Mohler,31,FL,USA,01:10:55,05:44:33,04:24:27,---,---,11:19:56
+ironman-brazil-20060528.csv,617,Marcela Godoy,29,---,CHL,00:59:26,06:12:50,04:20:24,---,---,11:32:42
+ironman-brazil-20060528.csv,618,Marco Aurelio Ferreira Dias,---,RJ,BRA,00:54:23,---,---,---,---,DNF
+ironman-brazil-20060528.csv,619,Francisco José Ferreira De Abreu,---,RJ,BRA,01:05:08,---,---,---,---,DNF
+ironman-brazil-20060528.csv,620,Eugenio Lucio Souza Furioso,---,DF,BRA,00:57:29,05:12:36,04:23:21,---,---,10:33:26
+ironman-brazil-20060528.csv,621,Jim Tanaka,---,SP,BRA,01:04:11,06:54:02,05:37:31,---,---,13:35:44
+ironman-brazil-20060528.csv,622,Paulo Fernando Rodrigues Da Cal,---,RJ,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,623,José Luis França Pereira,---,SP,BRA,01:07:13,07:09:32,05:18:55,---,---,13:35:41
+ironman-brazil-20060528.csv,624,Mikel Cervera,31,ES,ESP,01:01:58,05:44:17,04:33:19,---,---,11:19:35
+ironman-brazil-20060528.csv,625,Fiona Gray,---,---,CAN,01:01:47,05:35:51,03:37:53,---,---,10:15:32
+ironman-brazil-20060528.csv,626,Heraldo Stefanon,42,CA,BRA,00:59:32,06:00:30,04:38:59,---,---,11:39:02
+ironman-brazil-20060528.csv,627,Franck Escomel,36,---,FRA,00:57:39,05:47:09,04:28:27,---,---,11:13:16
+ironman-brazil-20060528.csv,628,Heike Scheef,41,---,CHE,01:16:13,06:02:11,04:30:41,---,---,11:49:06
+ironman-brazil-20060528.csv,629,Fabien Escomel,34,Other,FRA,00:59:36,05:17:59,---,---,---,DNF
+ironman-brazil-20060528.csv,630,Brandon Whitby,36,ON,CAN,00:53:49,05:12:13,03:46:09,---,---,09:52:12
+ironman-brazil-20060528.csv,631,Roger Haybittle,---,SP,BRA,01:01:13,06:18:02,05:09:46,---,---,12:29:02
+ironman-brazil-20060528.csv,632,Jean Paul Suilhard,---,---,FRA,01:09:59,06:12:51,04:55:26,---,---,12:18:17
+ironman-brazil-20060528.csv,633,Ademar Rodrigues Carneiro,---,PR,BRA,01:24:09,07:20:07,05:09:50,---,---,13:54:07
+ironman-brazil-20060528.csv,634,Sergio Renault Gomes,---,---,BRA,00:57:24,05:24:07,03:30:57,---,---,09:52:28
+ironman-brazil-20060528.csv,635,Luis Gustavo Gaboardi,---,SP,BRA,00:53:46,05:30:50,04:27:56,---,---,10:52:33
+ironman-brazil-20060528.csv,636,Carole Torreano,57,FL,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,637,Valentim Laguna Del Arco Filho,---,SP,BRA,01:07:39,05:39:18,04:01:49,---,---,10:48:46
+ironman-brazil-20060528.csv,638,Daniel Perius,---,SP,BRA,00:55:24,05:16:25,04:01:43,---,---,10:13:33
+ironman-brazil-20060528.csv,639,Luiz Otavio Almeida Bueno E Silva,---,RJ,BRA,01:09:28,05:57:15,05:43:27,---,---,12:50:11
+ironman-brazil-20060528.csv,640,Carlos André Senna Trindade,---,RS,BRA,00:54:46,05:32:27,04:17:52,---,---,10:45:05
+ironman-brazil-20060528.csv,641,Marco Aurélio  Da Cruz Meneghetti,---,SP,BRA,01:00:38,06:23:49,04:14:50,---,---,11:39:18
+ironman-brazil-20060528.csv,642,Francisco Pereira Da Costa,---,RJ,BRA,01:12:21,06:02:33,04:59:33,---,---,12:14:29
+ironman-brazil-20060528.csv,643,Jorge Luis Torres,---,---,PRI,01:32:59,07:59:13,05:31:22,---,---,15:03:35
+ironman-brazil-20060528.csv,644,Jennifer Samway,38,FL,USA,01:10:53,06:28:55,04:06:30,---,---,11:46:19
+ironman-brazil-20060528.csv,645,Ignacio Larrabide,---,RJ,BRA,00:58:47,06:06:30,04:33:12,---,---,11:38:30
+ironman-brazil-20060528.csv,646,Alexandre Santos Lima,---,SP,BRA,01:16:25,06:47:51,04:22:17,---,---,12:26:35
+ironman-brazil-20060528.csv,647,Flavia Pedreira Rocha,---,DF,BRA,01:08:43,06:01:18,04:04:14,---,---,11:14:15
+ironman-brazil-20060528.csv,648,Bill Kubes,38,CA,USA,01:14:12,06:14:48,04:57:09,---,---,12:26:09
+ironman-brazil-20060528.csv,649,Mario Petrelli Filho,---,SC,BRA,01:10:44,06:37:16,04:39:09,---,---,12:27:10
+ironman-brazil-20060528.csv,650,Ricardo Gabriel Paya,---,---,ARG,01:17:54,06:17:45,03:55:53,---,---,11:31:33
+ironman-brazil-20060528.csv,651,Germán Rodríguez,---,---,PER,00:55:20,06:03:39,04:11:51,---,---,11:10:51
+ironman-brazil-20060528.csv,652,Lars Frederiksen,31,---,DNK,01:09:55,05:47:29,04:38:10,---,---,11:35:35
+ironman-brazil-20060528.csv,653,Marina Font,36,FL,ARG,01:13:16,06:23:43,04:48:38,---,---,12:25:38
+ironman-brazil-20060528.csv,654,Otto Tylkowski,61,---,DEU,01:34:49,06:32:08,04:41:52,---,---,12:48:50
+ironman-brazil-20060528.csv,655,Cesar Matos,---,PR,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,656,Marcos Vinicius Zakalusny,---,PR,BRA,01:07:18,06:17:59,04:42:46,---,---,12:08:04
+ironman-brazil-20060528.csv,657,Robert Lee Kiss,---,---,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,658,Paula De Salles Penteado Proença,---,SP,BRA,01:21:46,06:39:41,06:12:40,---,---,14:14:08
+ironman-brazil-20060528.csv,659,Lucas De Castro Leite,---,MG,BRA,00:47:49,05:41:04,04:01:17,---,---,10:30:10
+ironman-brazil-20060528.csv,660,Claudio Kock,---,SC,BRA,01:00:11,05:35:05,03:25:21,---,---,10:00:37
+ironman-brazil-20060528.csv,661,Andre Luis Cytrynbaum,---,RJ,BRA,01:06:37,07:08:16,06:20:43,---,---,14:35:37
+ironman-brazil-20060528.csv,662,Lara Battalini,---,---,ITA,01:07:24,06:28:14,04:52:51,---,---,12:28:29
+ironman-brazil-20060528.csv,663,Rafael Gadotti,---,RR,BRA,01:03:28,05:54:51,04:17:17,---,---,11:15:37
+ironman-brazil-20060528.csv,664,Carol Caturelli,---,SP,BRA,00:50:51,06:26:23,03:49:46,---,---,11:07:01
+ironman-brazil-20060528.csv,665,Joao Iran De Vasconcelos Filho,---,CE,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,666,Augusto Aderaldo Neto,---,SP,BRA,01:01:35,05:46:43,03:56:32,---,---,10:44:50
+ironman-brazil-20060528.csv,667,Romero Nunes Da Silva Filho,---,PR,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,668,Alícia De Faria Pavarini,---,RJ,BRA,01:13:53,06:40:48,05:13:50,---,---,13:08:32
+ironman-brazil-20060528.csv,669,Marcio Dos Reis Oliveira,---,SP,BRA,01:29:57,07:08:22,05:18:45,---,---,13:57:05
+ironman-brazil-20060528.csv,670,Marcelo Hideki Takahashi,---,SP,BRA,01:09:19,07:20:59,06:11:22,---,---,14:41:41
+ironman-brazil-20060528.csv,671,Rangel Rossi,---,SP,BRA,01:07:10,06:27:33,04:17:52,---,---,11:52:35
+ironman-brazil-20060528.csv,672,Carlos Eduardo Pires Tempel,---,PR,BRA,01:07:43,05:52:33,03:50:52,---,---,10:51:09
+ironman-brazil-20060528.csv,673,Florencia Castillo,---,---,USA,01:11:03,06:05:37,04:25:35,---,---,11:42:16
+ironman-brazil-20060528.csv,674,Lance Maiss,40,NV,USA,01:08:47,06:13:58,04:24:19,---,---,11:47:05
+ironman-brazil-20060528.csv,675,Susan Wallis,53,FL,USA,01:11:13,06:50:31,04:24:26,---,---,12:26:12
+ironman-brazil-20060528.csv,676,Nabil A Kazi,---,---,USA,01:39:45,07:31:57,05:38:47,---,---,14:50:31
+ironman-brazil-20060528.csv,677,Beatrix Blattmann,32,AZ,USA,00:57:30,05:34:41,03:55:08,---,---,10:27:20
+ironman-brazil-20060528.csv,678,Jaime De Andrade Filho,---,SP,BRA,01:17:29,06:29:53,03:59:53,---,---,11:47:16
+ironman-brazil-20060528.csv,679,Guilherme Monteiro Cavalcanti,---,SP,BRA,00:56:56,05:45:36,03:52:19,---,---,10:34:52
+ironman-brazil-20060528.csv,680,Marcelo Henrique Cerqueira José,---,SP,BRA,01:09:28,06:39:52,04:40:27,---,---,12:29:48
+ironman-brazil-20060528.csv,681,Rubens Ornelas,---,GO,BRA,01:07:02,05:47:59,04:25:00,---,---,11:20:02
+ironman-brazil-20060528.csv,682,Tammie L Picklesimer,---,---,USA,01:21:40,06:33:18,04:53:57,---,---,12:48:56
+ironman-brazil-20060528.csv,683,Jorge Enrique Luhan Ii,---,---,USA,01:01:57,05:44:19,04:40:02,---,---,11:26:20
+ironman-brazil-20060528.csv,684,Marcelo Nunes Marques,---,RS,BRA,01:04:09,05:58:22,04:06:07,---,---,11:08:39
+ironman-brazil-20060528.csv,685,Ronivaldo Gregorio Da Silva,---,PR,BRA,01:25:46,06:39:33,04:29:19,---,---,12:34:39
+ironman-brazil-20060528.csv,686,Mauro Veiga Conceicao,---,PR,BRA,01:13:50,06:17:42,04:27:55,---,---,11:59:29
+ironman-brazil-20060528.csv,687,Luciano Machado Blank,---,SC,BRA,01:14:04,06:36:44,04:06:07,---,---,11:56:57
+ironman-brazil-20060528.csv,688,Carlos Alberto De Almeida Lisboa,---,SP,BRA,01:14:46,06:58:39,04:50:46,---,---,13:04:12
+ironman-brazil-20060528.csv,689,Sérgio Minoru Terada,---,SP,BRA,01:21:42,06:29:10,05:12:43,---,---,13:03:37
+ironman-brazil-20060528.csv,690,Neil Scott Carrington,---,---,USA,01:18:37,07:33:23,06:54:28,---,---,15:46:28
+ironman-brazil-20060528.csv,691,Fabio Dorival Victorelli,---,PR,BRA,01:22:24,07:40:19,06:37:33,---,---,15:40:16
+ironman-brazil-20060528.csv,692,Manuel Couso,---,---,ARG,01:23:12,06:52:50,05:14:36,---,---,13:30:40
+ironman-brazil-20060528.csv,693,Roberto Maluf Mari,---,SP,BRA,01:14:02,05:52:12,04:21:32,---,---,11:27:47
+ironman-brazil-20060528.csv,694,Joao Paulo Teixeira Da Costa,---,RJ,BRA,00:54:40,05:13:41,03:35:19,---,---,09:43:41
+ironman-brazil-20060528.csv,695,Givaldo Hilario Triunfo,---,SP,BRA,01:18:48,06:24:11,03:42:12,---,---,11:25:13
+ironman-brazil-20060528.csv,696,Maria Claudia Rodrig Bastos,---,SP,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,697,Alfredo Daniel Pisani,---,---,ARG,01:17:43,07:16:08,05:07:55,---,---,13:41:47
+ironman-brazil-20060528.csv,698,Alejandro De Beer,---,---,ARG,01:02:54,06:28:49,04:26:40,---,---,11:58:24
+ironman-brazil-20060528.csv,699,Bryan Matthew Shiflett,---,---,USA,00:56:12,05:34:02,---,---,---,DNF
+ironman-brazil-20060528.csv,700,Luciano Petri Feitosa,---,CE,BRA,01:01:55,05:38:23,04:57:46,---,---,11:38:04
+ironman-brazil-20060528.csv,701,Bruno Cavalcanti Hohmann,---,PR,BRA,01:04:06,06:39:04,03:56:42,---,---,11:39:53
+ironman-brazil-20060528.csv,702,Luis Ricardo Cima,---,SP,BRA,01:11:30,06:26:59,04:50:44,---,---,12:29:15
+ironman-brazil-20060528.csv,703,Bruno Tissot,---,PR,BRA,00:55:44,06:26:24,05:16:58,---,---,12:39:06
+ironman-brazil-20060528.csv,704,Quintino Cordeiro,---,---,PRT,01:07:09,05:55:05,04:12:42,---,---,11:14:57
+ironman-brazil-20060528.csv,705,Francisco Lucidio De Queiroz Junior,---,CE,BRA,01:04:54,06:08:30,05:12:55,---,---,12:26:21
+ironman-brazil-20060528.csv,706,Fabio Barbagli,---,SP,BRA,00:51:31,05:49:39,03:40:01,---,---,10:21:11
+ironman-brazil-20060528.csv,707,Augusto Cesar Pocas,36,Intl State,BRA,01:02:20,05:56:59,04:29:55,---,---,11:29:15
+ironman-brazil-20060528.csv,708,Gerson Luiz Döll,---,PR,BRA,01:03:39,05:33:13,03:56:20,---,---,10:33:13
+ironman-brazil-20060528.csv,709,Jiri Mracek,45,CO,CZE,01:20:14,06:40:04,05:09:38,---,---,13:09:58
+ironman-brazil-20060528.csv,710,Bruno Luiz Ribeiro Da Silveira Filho,---,RJ,BRA,01:10:20,06:25:52,05:12:01,---,---,12:48:13
+ironman-brazil-20060528.csv,711,Eduardo Koff Acordi,---,RS,BRA,01:09:20,06:23:08,04:55:13,---,---,12:27:42
+ironman-brazil-20060528.csv,712,Carlos Eugenio Reino,---,DF,BRA,01:04:04,05:58:11,04:28:16,---,---,11:30:31
+ironman-brazil-20060528.csv,713,Carlos Alberto Szalankiewicz,---,---,USA,01:01:27,05:35:35,04:12:56,---,---,10:50:00
+ironman-brazil-20060528.csv,714,Dawn Larson,56,ON,CAN,01:17:13,08:03:51,05:51:00,---,---,15:12:04
+ironman-brazil-20060528.csv,715,Christian Felipe Calderon Saavedra,---,---,CHL,01:38:10,06:56:23,04:26:13,---,---,13:00:46
+ironman-brazil-20060528.csv,716,Joaquin Silva,38,---,ARG,01:05:09,05:31:32,04:08:38,---,---,10:45:20
+ironman-brazil-20060528.csv,717,Peter A Walton,---,---,USA,01:10:11,07:07:47,04:40:12,---,---,12:58:11
+ironman-brazil-20060528.csv,718,Geoffrey Farrell,44,CA,USA,01:02:41,06:32:31,04:23:33,---,---,11:58:46
+ironman-brazil-20060528.csv,719,Roberto Gerardo Ruiz,---,---,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,720,Cory Borup,47,UT,USA,01:19:37,06:56:07,06:12:00,---,---,14:27:45
+ironman-brazil-20060528.csv,721,Lynette Borup,43,UT,USA,01:12:11,06:25:28,04:22:16,---,---,11:59:57
+ironman-brazil-20060528.csv,722,Stefan Hornnke,32,---,USA,01:16:31,06:54:53,05:15:56,---,---,13:27:22
+ironman-brazil-20060528.csv,723,Juan Carlos Roa,---,---,CHL,00:56:17,05:10:18,03:46:55,---,---,09:53:31
+ironman-brazil-20060528.csv,724,Klaus Schmidt,51,---,DEU,01:40:55,07:28:06,06:50:04,---,---,15:59:06
+ironman-brazil-20060528.csv,725,Eugenio Lhuillier,40,TX,CHL,01:15:12,06:16:30,03:43:03,---,---,11:14:45
+ironman-brazil-20060528.csv,726,Vincent Casella,---,---,USA,01:23:39,06:59:26,05:55:37,---,---,14:18:44
+ironman-brazil-20060528.csv,727,Thierry Begeyn,41,---,BEL,01:08:30,05:33:37,03:29:13,---,---,10:11:21
+ironman-brazil-20060528.csv,728,Dean J Brooks,---,---,USA,01:09:32,06:43:23,05:31:10,---,---,13:24:06
+ironman-brazil-20060528.csv,729,John William Hook,---,---,AUS,01:27:57,07:51:14,06:24:35,---,---,15:43:47
+ironman-brazil-20060528.csv,730,Paul Marlett Johnson,---,---,USA,01:09:31,06:46:26,06:32:47,---,---,14:28:45
+ironman-brazil-20060528.csv,731,Pedro Ricardo Moreno,---,---,PAN,01:46:04,07:28:21,05:43:44,---,---,14:58:10
+ironman-brazil-20060528.csv,732,Stephane Debuchy,36,FR,FRA,01:10:22,05:51:20,04:07:07,---,---,11:08:50
+ironman-brazil-20060528.csv,733,Marcelo Vallim,---,SP,BRA,01:05:23,06:41:56,05:22:41,---,---,13:10:00
+ironman-brazil-20060528.csv,734,Arthur Manoel Pires,---,SC,BRA,01:03:34,05:38:00,03:51:26,---,---,10:33:02
+ironman-brazil-20060528.csv,735,Daniel Olivieri Silva,---,SP,BRA,01:11:13,06:37:01,03:33:12,---,---,11:21:27
+ironman-brazil-20060528.csv,736,Francisco Sartore Mendes Perez,28,---,BRA,01:05:35,05:53:15,03:56:45,---,---,10:55:36
+ironman-brazil-20060528.csv,737,Eduardo Gonzalez,---,-----,BRA,00:55:50,05:28:21,03:34:56,---,---,09:59:08
+ironman-brazil-20060528.csv,738,Walner Daros Dos Santos,---,SP,BRA,01:28:23,07:10:13,04:13:06,---,---,12:51:43
+ironman-brazil-20060528.csv,739,Felipe Dayrell Silvestre,---,MG,BRA,00:45:52,05:36:17,03:23:32,---,---,09:45:42
+ironman-brazil-20060528.csv,740,Rafael Cabral Ribeiro Da Silva,---,RJ,BRA,01:01:47,06:28:58,04:20:14,---,---,11:51:00
+ironman-brazil-20060528.csv,741,Flávio Augusto Milhomem,---,DF,BRA,01:09:13,06:41:21,05:43:04,---,---,13:33:38
+ironman-brazil-20060528.csv,742,Rodrigo Luiz Bossi Zeggio,---,SC,BRA,01:01:21,06:08:46,05:28:48,---,---,12:38:57
+ironman-brazil-20060528.csv,743,Tullius Taham Belo Xavier,---,SP,BRA,01:33:02,07:35:58,04:43:55,---,---,13:52:56
+ironman-brazil-20060528.csv,744,Rogério Scheibe Filho,---,PR,BRA,01:04:36,06:08:20,04:03:00,---,---,11:15:56
+ironman-brazil-20060528.csv,745,Alexandre Augusto De Oliveira,---,SP,BRA,01:09:36,06:52:51,04:34:05,---,---,12:36:33
+ironman-brazil-20060528.csv,746,Caio Fernando Raymundo,---,SP,BRA,01:05:36,06:31:32,04:13:59,---,---,11:51:08
+ironman-brazil-20060528.csv,747,Fernando Gabe Beltrami,---,RS,BRA,01:01:07,06:40:29,05:26:33,---,---,13:08:10
+ironman-brazil-20060528.csv,748,Marcos Hallack,---,MG,BRA,00:47:21,05:17:35,03:55:08,---,---,10:00:05
+ironman-brazil-20060528.csv,749,Rafael Moreno,---,SP,BRA,00:45:47,05:26:41,03:47:48,---,---,10:00:17
+ironman-brazil-20060528.csv,750,Juan Claudio Tristan,---,---,ARG,01:17:21,06:03:29,04:07:24,---,---,11:28:15
+ironman-brazil-20060528.csv,751,Olivier Blanc,41,NY,USA,01:12:22,06:20:06,04:05:56,---,---,11:38:25
+ironman-brazil-20060528.csv,752,Pablo Alejandro Safrana Zuniga,---,---,CHL,00:54:48,05:08:10,03:30:33,---,---,09:33:32
+ironman-brazil-20060528.csv,753,Jay Paul,---,---,USA,00:55:48,07:09:34,---,---,---,DNF
+ironman-brazil-20060528.csv,754,Shoko Paul,42,HI,JPN,01:16:35,06:21:05,04:58:09,---,---,12:35:50
+ironman-brazil-20060528.csv,755,Carlos Antonio Raulino,---,SC,BRA,01:15:43,06:43:30,04:05:53,---,---,12:05:07
+ironman-brazil-20060528.csv,756,João Cavallin,---,SP,BRA,01:05:42,07:02:18,05:07:33,---,---,13:15:34
+ironman-brazil-20060528.csv,757,Esdras Calland De Sousa Rosa,---,DF,BRA,01:23:39,07:28:05,05:45:59,---,---,14:37:44
+ironman-brazil-20060528.csv,758,Ryan Elliott,23,CA,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,759,Javier Adolfo Petry,---,---,ARG,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,760,Jonatan Teruo Yamazaki,---,SP,BRA,01:15:30,07:21:53,05:15:33,---,---,13:52:56
+ironman-brazil-20060528.csv,761,Alexandre Antônio Da Costa,---,RJ,BRA,01:01:26,05:47:57,04:23:57,---,---,11:13:21
+ironman-brazil-20060528.csv,762,Marcelo Ferreira Chagas,---,SP,BRA,01:19:48,07:33:42,05:35:55,---,---,14:29:27
+ironman-brazil-20060528.csv,763,Mauricio Cesar Leal Vieira,---,PE,BRA,01:13:26,06:45:35,05:02:39,---,---,13:01:40
+ironman-brazil-20060528.csv,764,Ricardo Machado Ferla,---,SP,BRA,00:59:08,05:48:42,05:32:48,---,---,12:20:40
+ironman-brazil-20060528.csv,765,Aldo Ferreira Neto,---,DF,BRA,01:18:48,06:54:06,04:54:59,---,---,13:07:54
+ironman-brazil-20060528.csv,766,Haroldo Laranjeira Junior,---,SP,BRA,00:58:28,06:39:17,06:08:03,---,---,13:45:49
+ironman-brazil-20060528.csv,767,Mauricio Garcia,35,Intl State,GTM,01:08:09,06:50:33,05:00:41,---,---,12:59:25
+ironman-brazil-20060528.csv,768,Helga Maria Alvarado,---,---,GTM,01:12:25,06:18:50,04:41:10,---,---,12:12:26
+ironman-brazil-20060528.csv,769,Benjamin Cornell,34,CA,USA,01:02:01,05:20:58,03:40:11,---,---,10:03:11
+ironman-brazil-20060528.csv,770,Érika Arruda Navarro Amaral,---,CE,BRA,01:07:14,06:38:23,04:33:18,---,---,12:18:56
+ironman-brazil-20060528.csv,771,Shari Mcintyre,46,QLD,AUS,01:12:05,07:37:23,05:31:50,---,---,14:21:18
+ironman-brazil-20060528.csv,772,Julie Bes Nicholls,---,---,AUS,01:29:15,07:28:40,04:56:58,---,---,13:54:54
+ironman-brazil-20060528.csv,773,Sandra Klingberg,41,QLD,AUS,01:14:23,07:02:33,05:03:18,---,---,13:20:16
+ironman-brazil-20060528.csv,774,Alen Daniel Ataide Brandizzi,---,ES,BRA,01:08:43,06:46:39,05:14:26,---,---,13:09:49
+ironman-brazil-20060528.csv,775,Edney Batista,---,SP,BRA,00:48:51,05:24:31,03:37:42,---,---,09:51:06
+ironman-brazil-20060528.csv,776,Lucas Antonetti,32,Intl State,ARG,01:03:16,05:55:07,04:17:24,---,---,11:15:47
+ironman-brazil-20060528.csv,777,Edson Olimpio De Oliveira,---,SP,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,778,Marcelo Ramon Vallejo,---,---,ARG,01:03:04,05:46:19,04:26:21,---,---,11:15:46
+ironman-brazil-20060528.csv,779,Sergio Edgardo Conde,---,---,ARG,01:07:19,05:40:11,03:35:16,---,---,10:22:47
+ironman-brazil-20060528.csv,780,Pateiro Ricardo Manuel,---,---,ARG,00:57:27,05:49:18,04:29:58,---,---,11:16:45
+ironman-brazil-20060528.csv,781,Asako Shimazu,38,HI,JPN,01:19:19,07:37:07,06:06:54,---,---,15:03:21
+ironman-brazil-20060528.csv,782,Ryon Gerald Talbot,---,---,USA,01:14:03,05:21:10,04:36:00,---,---,11:11:13
+ironman-brazil-20060528.csv,783,Fabio Vieira,---,SP,BRA,01:03:30,---,---,---,---,DNF
+ironman-brazil-20060528.csv,784,Valeria Menezes Rosati,---,SC,BRA,01:07:31,06:31:28,04:36:20,---,---,12:15:20
+ironman-brazil-20060528.csv,785,Oscar Gallo,49,Buenos Aires,ARG,01:00:29,05:48:05,03:49:43,---,---,10:38:17
+ironman-brazil-20060528.csv,786,Hector Fontanella,53,---,ARG,01:44:50,08:02:13,05:25:42,---,---,15:12:47
+ironman-brazil-20060528.csv,787,Luis Mirabelli,39,Buenos Aires,ARG,01:11:33,06:17:28,04:45:44,---,---,12:14:47
+ironman-brazil-20060528.csv,788,Gustavo Martin Pascaud,---,---,ARG,01:05:53,05:51:41,04:30:15,---,---,11:27:49
+ironman-brazil-20060528.csv,789,Paul Alan Grosenstein,---,---,USA,01:09:41,06:00:33,04:43:55,---,---,11:54:11
+ironman-brazil-20060528.csv,790,Cynthia Louise Carey,---,---,USA,01:09:18,06:25:56,04:44:05,---,---,12:19:19
+ironman-brazil-20060528.csv,791,Antonio De Souza Barroso Netto,---,SP,BRA,01:18:33,06:41:31,04:21:49,---,---,12:21:54
+ironman-brazil-20060528.csv,792,Andrew Denton,---,RJ,BRA,01:10:36,06:13:16,05:15:31,---,---,12:39:24
+ironman-brazil-20060528.csv,793,Raúl Javier Amil,---,---,ARG,01:10:24,05:45:30,03:36:08,---,---,10:32:03
+ironman-brazil-20060528.csv,794,Ian Dewar,34,CA,USA,01:01:39,05:45:13,05:09:06,---,---,11:55:59
+ironman-brazil-20060528.csv,795,Alfredo Follonier,29,---,ARG,00:53:38,05:44:50,03:53:21,---,---,10:31:50
+ironman-brazil-20060528.csv,796,Par Johan Lans,---,---,USA,01:20:39,06:15:07,05:01:23,---,---,12:37:10
+ironman-brazil-20060528.csv,797,Jason L Puerto,---,---,BLZ,01:25:52,06:39:04,04:08:08,---,---,12:13:05
+ironman-brazil-20060528.csv,798,Luciane Tiyomi Yajima,---,SP,BRA,01:10:14,05:54:06,04:20:46,---,---,11:25:07
+ironman-brazil-20060528.csv,799,Alexandre Nuernberg,---,PR,BRA,01:10:05,07:16:05,04:24:36,---,---,12:50:47
+ironman-brazil-20060528.csv,800,Luysien Coelho Marques Silveira,---,DF,BRA,01:15:57,07:01:52,05:19:39,---,---,13:37:29
+ironman-brazil-20060528.csv,801,Cristina Leal,---,RJ,BRA,01:46:50,08:37:00,---,---,---,DNF
+ironman-brazil-20060528.csv,802,Ricardo Nóbrega Troian,---,SC,BRA,00:59:12,07:01:48,04:54:55,---,---,12:55:56
+ironman-brazil-20060528.csv,803,Alvaro Ballejo Fiuza De Castro,---,SP,BRA,01:17:15,06:38:35,05:51:30,---,---,13:47:21
+ironman-brazil-20060528.csv,804,Samuel José Ferraz Da Silva Junior,---,SP,BRA,01:08:32,05:50:30,04:54:02,---,---,11:53:05
+ironman-brazil-20060528.csv,805,Fernando Galante,---,SP,BRA,01:07:53,06:13:20,04:09:13,---,---,11:30:27
+ironman-brazil-20060528.csv,806,Edward Buck,46,PA,USA,01:07:23,06:08:44,04:11:06,---,---,11:27:14
+ironman-brazil-20060528.csv,807,Andres Amione,33,Intl State,ARG,01:03:31,06:07:29,03:51:10,---,---,11:02:10
+ironman-brazil-20060528.csv,808,Flavio Porto Nicola,---,---,BRA,01:29:29,06:23:56,04:46:24,---,---,12:39:50
+ironman-brazil-20060528.csv,809,Gustavo Adolfo Letamendi,---,---,ARG,00:55:09,05:36:17,04:00:04,---,---,10:31:30
+ironman-brazil-20060528.csv,810,Juan Ignacio Figueroa,---,---,ARG,01:09:59,05:39:43,04:03:32,---,---,10:53:14
+ironman-brazil-20060528.csv,811,Karina Marmanillo,---,---,PER,01:24:41,07:59:10,04:39:41,---,---,14:03:33
+ironman-brazil-20060528.csv,812,Alejandro Cesar Novoa,---,---,ARG,00:54:31,05:26:04,03:26:49,---,---,09:47:25
+ironman-brazil-20060528.csv,813,João Marcelo Faiad,---,PR,BRA,01:08:48,06:00:23,06:07:01,---,---,13:16:14
+ironman-brazil-20060528.csv,814,Andres Eduardo Bassini,---,---,ARG,01:24:16,07:00:55,04:13:57,---,---,12:39:10
+ironman-brazil-20060528.csv,815,Michel Christophe Uteau Berríos,---,---,CHL,00:51:51,05:11:45,03:34:39,---,---,09:38:16
+ironman-brazil-20060528.csv,816,Jose Carlos Barbagli,---,SP,BRA,01:10:14,06:37:58,04:36:35,---,---,12:24:48
+ironman-brazil-20060528.csv,817,Noelle François,---,SP,BRA,01:16:51,07:16:25,05:06:05,---,---,13:39:22
+ironman-brazil-20060528.csv,818,Evandro Abreu De Souza,---,SC,BRA,00:59:28,05:37:28,04:28:02,---,---,11:04:59
+ironman-brazil-20060528.csv,819,Roberto Peña Bianchi,---,SP,BRA,01:01:48,05:49:19,04:10:56,---,---,11:02:03
+ironman-brazil-20060528.csv,820,Antonio Ferreira da Silva Neto,27,TX,BRA,00:50:49,05:07:09,03:20:46,---,---,09:18:46
+ironman-brazil-20060528.csv,821,Rubens Bianchi Junior,---,SP,BRA,01:05:26,06:07:30,04:25:21,---,---,11:38:18
+ironman-brazil-20060528.csv,822,Paulo Pagan De Lara,---,SP,BRA,01:02:04,05:48:02,05:43:09,---,---,12:33:16
+ironman-brazil-20060528.csv,823,Reinaldo Abunassen Bassit,---,SP,BRA,00:57:19,05:38:55,03:34:29,---,---,10:10:44
+ironman-brazil-20060528.csv,824,Daniel Faria Bagatini,---,RS,BRA,00:57:23,06:14:25,04:13:29,---,---,11:25:18
+ironman-brazil-20060528.csv,825,Eduardo Garay,---,RJ,BRA,01:01:51,05:57:45,04:31:13,---,---,11:30:50
+ironman-brazil-20060528.csv,826,Pettras Federico De Felício E Franco,---,GO,BRA,01:31:20,06:04:38,04:21:18,---,---,11:57:17
+ironman-brazil-20060528.csv,827,Pedro Hugo Fernandes Teixeira,---,RJ,BRA,01:15:07,06:47:27,04:47:33,---,---,12:50:07
+ironman-brazil-20060528.csv,828,Samuel Araujo Silva,---,SP,BRA,01:00:30,06:03:58,03:26:15,---,---,10:30:45
+ironman-brazil-20060528.csv,829,Andrea Lima Franch Carloni,---,RJ,BRA,01:17:49,06:58:18,04:58:14,---,---,13:14:22
+ironman-brazil-20060528.csv,830,Dawn Clark,41,FL,USA,01:04:12,06:43:02,05:59:56,---,---,13:47:11
+ironman-brazil-20060528.csv,831,Carlos Mauricio Testoni,35,---,ARG,00:57:36,05:26:38,03:55:59,---,---,10:20:14
+ironman-brazil-20060528.csv,832,Andy Myers,---,---,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,833,Ahres Rachid,43,---,FRA,01:11:59,05:33:43,03:53:17,---,---,10:39:00
+ironman-brazil-20060528.csv,834,Kassianna Rosso,27,PR,USA,01:17:56,05:31:43,04:18:05,---,---,11:07:46
+ironman-brazil-20060528.csv,835,Jorge Omar Giovannelli,---,---,ARG,01:15:58,06:19:29,05:03:50,---,---,12:39:17
+ironman-brazil-20060528.csv,836,Marcos Maximiliano López,---,---,ARG,01:05:40,05:14:45,03:44:00,---,---,10:04:25
+ironman-brazil-20060528.csv,837,Michel Dacar,---,SP,BRA,01:22:03,05:47:26,04:23:13,---,---,11:32:43
+ironman-brazil-20060528.csv,838,Evandro Simoes De Queiroz,---,SP,BRA,00:58:09,05:51:37,04:22:11,---,---,11:11:58
+ironman-brazil-20060528.csv,839,Carlos Alberto Sangiorgio,---,SP,BRA,01:08:03,05:57:33,04:54:53,---,---,12:00:29
+ironman-brazil-20060528.csv,840,Fernando Duarte Panissoli,---,SC,BRA,01:08:57,07:00:48,03:58:00,---,---,12:07:46
+ironman-brazil-20060528.csv,841,Loreno Antunes Neto,---,SC,BRA,01:18:10,06:26:12,03:47:29,---,---,11:31:52
+ironman-brazil-20060528.csv,842,Daniel Weil,40,---,CHE,00:56:09,05:21:10,03:09:02,---,---,09:26:22
+ironman-brazil-20060528.csv,843,Tarso Dellinghausen,---,RS,BRA,01:08:12,06:05:19,03:58:32,---,---,11:12:04
+ironman-brazil-20060528.csv,844,Ricardo Mazza,---,SC,BRA,01:09:08,05:18:00,03:51:28,---,---,10:18:36
+ironman-brazil-20060528.csv,845,Ricardo José Scatolin,---,SP,BRA,01:09:39,05:50:31,04:05:23,---,---,11:05:34
+ironman-brazil-20060528.csv,846,Maximilian Frederick Leisner,---,PR,BRA,00:54:46,06:44:48,---,---,---,DNF
+ironman-brazil-20060528.csv,847,Ferré René,---,---,FRA,01:14:34,05:19:39,03:45:30,---,---,10:19:45
+ironman-brazil-20060528.csv,848,Richard T Mclellan,---,---,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,849,Douet Jean Marie,---,---,FRA,01:21:10,05:51:05,04:14:23,---,---,11:26:38
+ironman-brazil-20060528.csv,850,José Maria Graner,---,SP,BRA,01:20:17,06:56:13,05:16:01,---,---,13:32:33
+ironman-brazil-20060528.csv,851,Doug Grant Wallace,---,---,AUS,01:18:08,06:11:50,04:02:00,---,---,11:31:59
+ironman-brazil-20060528.csv,852,Matias Larraburu,29,buenos aires,ARG,01:00:10,05:23:31,04:05:12,---,---,10:28:54
+ironman-brazil-20060528.csv,853,Daniel Baldi,46,---,URY,01:44:47,06:55:14,05:27:04,---,---,14:07:05
+ironman-brazil-20060528.csv,854,Keith Wayne Jones,---,---,CAN,01:23:07,06:23:35,05:03:02,---,---,12:49:45
+ironman-brazil-20060528.csv,855,Germán Darío Cabos,---,---,ARG,01:14:30,06:01:52,03:55:14,---,---,11:11:37
+ironman-brazil-20060528.csv,856,Hernán Gabriel Ibáñez,---,---,ARG,00:59:09,05:59:52,04:09:55,---,---,11:08:57
+ironman-brazil-20060528.csv,857,Juan Antonio Ordosgoyty,---,---,ARG,01:16:14,06:57:39,06:31:36,---,---,14:45:30
+ironman-brazil-20060528.csv,858,Mario Miguel Padin,---,---,ARG,01:03:30,06:21:39,04:09:21,---,---,11:34:31
+ironman-brazil-20060528.csv,859,Juan Manuel Chaves,---,---,ARG,01:37:47,06:52:15,04:30:20,---,---,13:00:23
+ironman-brazil-20060528.csv,860,Leonardo Boscato,---,---,ARG,01:05:32,06:32:20,04:54:03,---,---,12:31:56
+ironman-brazil-20060528.csv,861,Maximiliano Alejandro Rodrigo Montes,---,---,ARG,00:59:38,06:27:21,04:13:22,---,---,11:40:22
+ironman-brazil-20060528.csv,862,Laurent Ferreira,38,---,FRA,01:03:35,05:16:34,03:38:56,---,---,09:59:06
+ironman-brazil-20060528.csv,863,Carlos Paco Gonzalez,---,---,ARG,01:05:15,05:33:08,04:20:08,---,---,10:58:31
+ironman-brazil-20060528.csv,864,Yan Hollerbach Cardoso Ferreira,---,SP,BRA,00:55:30,06:08:23,04:52:49,---,---,11:56:43
+ironman-brazil-20060528.csv,865,Raul Ricardo Valles,---,---,ARG,00:57:27,05:19:31,03:19:51,---,---,09:36:50
+ironman-brazil-20060528.csv,866,Rodrigo Frazao,---,RJ,BRA,01:11:58,06:42:44,05:13:54,---,---,13:08:37
+ironman-brazil-20060528.csv,867,Giorgio Rabolini,---,RS,BRA,00:57:36,05:46:42,03:34:38,---,---,10:18:57
+ironman-brazil-20060528.csv,868,Pablo Esteban Veron,38,---,ARG,00:58:00,06:03:39,04:15:22,---,---,11:17:03
+ironman-brazil-20060528.csv,869,Marcelo Carlos Di Tullio,---,---,ARG,01:17:29,06:52:55,05:14:02,---,---,13:24:27
+ironman-brazil-20060528.csv,870,Brendan John Stanford,---,---,AUS,00:48:36,05:36:23,04:07:51,---,---,10:32:52
+ironman-brazil-20060528.csv,871,Uilian Barbosa Ribeiro,---,SP,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,872,Cristian Wendler,25,---,CHL,00:56:41,05:57:41,04:01:38,---,---,10:56:01
+ironman-brazil-20060528.csv,873,Scott E Clark,---,---,USA,01:07:48,05:27:23,04:35:48,---,---,11:10:59
+ironman-brazil-20060528.csv,874,Sueli Anderson Braz,---,SP,BRA,01:17:34,05:53:26,03:43:01,---,---,10:54:02
+ironman-brazil-20060528.csv,875,Bruce Grant Glazier,---,SP,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,876,Anir Luis Bizarro Lopes,---,RS,BRA,01:03:36,---,---,---,---,DNF
+ironman-brazil-20060528.csv,877,Ignacio Galarraga,36,Intl State,ARG,01:04:02,05:45:08,03:59:55,---,---,10:49:07
+ironman-brazil-20060528.csv,878,Gustavo Simões De Almeida,---,-----,BRA,00:55:27,05:41:15,03:44:58,---,---,10:21:41
+ironman-brazil-20060528.csv,879,Claudio Lacerda Pinto,---,-----,BRA,01:08:48,06:00:56,---,---,---,DNF
+ironman-brazil-20060528.csv,880,Luis Augusto Fernandes Amorim,---,SP,BRA,00:58:01,06:14:53,06:00:53,---,---,13:13:47
+ironman-brazil-20060528.csv,881,Mike Marsteller,23,PA,USA,01:05:23,05:31:25,03:57:00,---,---,10:33:49
+ironman-brazil-20060528.csv,882,Allastair Mouat,40,NZ,NZL,01:15:26,06:28:02,05:18:29,---,---,13:01:58
+ironman-brazil-20060528.csv,883,Jessica Lynn Swere,---,---,USA,01:38:54,07:42:53,05:26:17,---,---,14:48:05
+ironman-brazil-20060528.csv,884,Eduardo Daniel Banga,---,---,ARG,01:12:17,06:07:37,04:25:49,---,---,11:45:44
+ironman-brazil-20060528.csv,885,Vlademir Victor Venegas,---,---,CHL,01:09:16,06:10:54,04:45:30,---,---,12:05:41
+ironman-brazil-20060528.csv,886,Luiz Carlos Araújo Nunes,---,SP,BRA,00:54:34,06:07:50,04:33:04,---,---,11:35:29
+ironman-brazil-20060528.csv,887,Raul Furtado Pereira,---,RJ,BRA,00:51:53,05:36:12,04:39:15,---,---,11:07:21
+ironman-brazil-20060528.csv,888,Edgardo Diaz Opazo,---,---,CHL,00:51:20,05:12:30,03:26:51,---,---,09:30:42
+ironman-brazil-20060528.csv,889,José Evaristo Alcón,---,---,ARG,01:05:22,06:23:48,04:54:53,---,---,12:24:03
+ironman-brazil-20060528.csv,890,Patrick Swere,35,FL,USA,01:14:08,06:21:54,04:03:43,---,---,11:39:47
+ironman-brazil-20060528.csv,891,Lucas Manuel Sarmiento,---,---,ARG,01:03:10,06:01:57,04:11:24,---,---,11:16:33
+ironman-brazil-20060528.csv,892,Patricia Beatriz Giuliano,---,---,ARG,01:13:03,06:02:44,04:05:17,---,---,11:21:05
+ironman-brazil-20060528.csv,893,Matias Javier Flynn,---,---,ARG,01:01:46,05:33:12,03:48:32,---,---,10:23:31
+ironman-brazil-20060528.csv,894,Vladimir Figari,35,Intl State,PER,01:00:07,05:09:34,03:15:04,---,---,09:24:46
+ironman-brazil-20060528.csv,895,Aida Milinarsky,58,---,CHL,01:53:02,07:59:26,06:17:31,---,---,16:10:00
+ironman-brazil-20060528.csv,896,Sergio Hernan Fuentes Pezoa,59,CL,CHL,01:08:27,07:15:00,05:25:12,---,---,13:48:39
+ironman-brazil-20060528.csv,897,Roberto Papa Nitrini,---,SP,BRA,01:00:06,05:58:02,04:13:50,---,---,11:11:58
+ironman-brazil-20060528.csv,898,Leonardo Sava,---,RJ,BRA,01:02:29,06:53:55,04:24:45,---,---,12:21:10
+ironman-brazil-20060528.csv,899,Daniel Alberto Maringolo,---,---,ARG,01:30:35,06:20:27,05:24:46,---,---,13:15:49
+ironman-brazil-20060528.csv,900,Pablo Adrian Bentivoglio,---,---,ARG,01:12:02,05:50:15,04:13:23,---,---,11:15:40
+ironman-brazil-20060528.csv,901,Felipe Munita,37,---,CHL,01:06:56,06:37:35,04:30:06,---,---,12:14:37
+ironman-brazil-20060528.csv,902,Aldo Antonio Baglietto,---,---,PER,01:08:57,05:47:49,03:54:26,---,---,10:51:13
+ironman-brazil-20060528.csv,903,Luis Figueroa Chaparro,37,---,CHL,01:03:48,06:51:13,04:28:49,---,---,12:23:51
+ironman-brazil-20060528.csv,904,Daniel De Montreuil Iturri,---,---,PER,00:57:32,05:34:33,03:54:50,---,---,10:26:57
+ironman-brazil-20060528.csv,905,Jaime Becerra,36,Maine,MEX,00:59:27,05:45:03,04:51:31,---,---,11:36:02
+ironman-brazil-20060528.csv,906,Gabriel Rubacha,40,BA,ARG,01:07:00,06:20:14,04:04:50,---,---,11:32:05
+ironman-brazil-20060528.csv,907,Gaston Bonjour,45,Intl State,URY,01:09:07,05:52:30,03:53:31,---,---,10:55:08
+ironman-brazil-20060528.csv,908,Rainer Wolf Duero,---,---,DEU,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,909,Fabio Mattos Rodrigues,---,SP,BRA,01:03:47,06:26:13,03:48:48,---,---,11:18:49
+ironman-brazil-20060528.csv,910,Gerardo Daniel Gordó,---,---,ARG,01:01:22,05:40:49,04:15:59,---,---,10:58:10
+ironman-brazil-20060528.csv,911,Sergio Boucault,---,SP,BRA,01:04:01,06:42:25,04:46:25,---,---,12:32:52
+ironman-brazil-20060528.csv,912,Daniel Costa Freitas,---,DF,BRA,01:33:31,08:11:41,05:45:26,---,---,15:30:39
+ironman-brazil-20060528.csv,913,Gabriel Osvaldo Matocq,---,---,ARG,01:17:43,06:48:56,05:13:25,---,---,13:20:04
+ironman-brazil-20060528.csv,914,Michael Roe,38,CA,USA,01:03:56,06:11:18,05:39:34,---,---,12:54:49
+ironman-brazil-20060528.csv,915,Simon Kawa,45,Ciudad de México,MEX,01:08:07,05:57:31,04:04:07,---,---,11:09:46
+ironman-brazil-20060528.csv,916,David Stanley Mercer,---,---,USA,00:56:08,06:33:24,04:56:39,---,---,12:26:11
+ironman-brazil-20060528.csv,917,David A. Green,---,---,USA,00:57:43,05:21:53,04:15:43,---,---,10:35:20
+ironman-brazil-20060528.csv,918,Marcelo Juan Fernandez,---,---,ARG,01:16:27,06:50:12,04:29:53,---,---,12:36:32
+ironman-brazil-20060528.csv,919,Steve Farris,47,TX,USA,01:18:37,06:38:07,05:38:51,---,---,13:35:36
+ironman-brazil-20060528.csv,920,Carlos Ruiz,---,---,ESP,00:54:34,05:25:01,03:45:17,---,---,10:04:53
+ironman-brazil-20060528.csv,921,Rodrigo Tosta,27,Rio de Janeiro,BRA,01:07:33,06:04:42,04:27:01,---,---,11:39:18
+ironman-brazil-20060528.csv,922,Federico Armando Campos,---,---,ARG,00:59:48,06:20:33,04:14:15,---,---,11:34:37
+ironman-brazil-20060528.csv,923,Carlo Duca,42,---,ITA,01:22:21,06:46:45,05:18:08,---,---,13:27:15
+ironman-brazil-20060528.csv,924,Ezequiel Manuel Moreno,---,---,ARG,00:55:42,05:51:20,03:56:35,---,---,10:43:37
+ironman-brazil-20060528.csv,925,Newton Braga Moura,---,MG,BRA,00:51:46,05:05:15,03:38:12,---,---,09:35:14
+ironman-brazil-20060528.csv,926,Lorena Dora,106,---,ARG,01:02:54,07:04:29,04:44:53,---,---,12:52:17
+ironman-brazil-20060528.csv,927,Santiago Moyano,33,---,URY,00:54:21,05:21:46,03:44:29,---,---,10:00:37
+ironman-brazil-20060528.csv,928,Sebastian Ezcurra,34,---,ARG,01:07:44,05:20:11,04:05:57,---,---,10:33:53
+ironman-brazil-20060528.csv,929,Tania Louise Ann Delahunty,---,---,NZL,01:27:58,07:21:30,05:30:10,---,---,14:19:39
+ironman-brazil-20060528.csv,930,Mark Langely Pratt,---,---,NZL,01:11:11,06:32:56,05:12:33,---,---,12:56:40
+ironman-brazil-20060528.csv,931,Martin Payotte,---,---,ARG,01:11:29,06:17:36,04:59:40,---,---,12:28:47
+ironman-brazil-20060528.csv,932,Rigueiro Martin,---,---,ARG,01:01:42,05:33:10,03:44:54,---,---,10:19:48
+ironman-brazil-20060528.csv,933,Marcelo Ferreira Sahão,---,SP,BRA,01:12:30,05:58:44,03:43:25,---,---,10:54:40
+ironman-brazil-20060528.csv,934,Lourenço Sampaio Da Mara,---,SC,BRA,00:53:02,06:12:24,04:35:32,---,---,11:40:59
+ironman-brazil-20060528.csv,935,Kener De Oliveira Assis,---,RJ,BRA,01:47:27,08:17:33,06:33:48,---,---,16:38:49
+ironman-brazil-20060528.csv,936,Ovidio Abel Lopez,---,---,ARG,01:18:22,07:03:08,05:37:39,---,---,13:59:10
+ironman-brazil-20060528.csv,937,Eduardo Manrique,32,ARGENTINA,ARG,00:57:36,05:56:38,04:17:29,---,---,11:11:45
+ironman-brazil-20060528.csv,938,Felix Jose Echenique,---,---,ARG,01:23:32,06:40:27,04:24:35,---,---,12:28:34
+ironman-brazil-20060528.csv,939,Horacio Oroná,---,---,ARG,01:16:46,05:58:52,04:35:09,---,---,11:50:48
+ironman-brazil-20060528.csv,940,Daniel Oscar Russi Coll,---,---,ARG,01:19:34,08:15:43,05:51:35,---,---,15:26:52
+ironman-brazil-20060528.csv,941,Michel Pereira Gonçalves Da Silva,---,PR,BRA,01:03:08,06:42:31,04:46:11,---,---,12:31:51
+ironman-brazil-20060528.csv,942,Aldonei Dias Dos Reis,---,PR,BRA,00:54:53,06:03:24,04:46:40,---,---,11:44:58
+ironman-brazil-20060528.csv,943,Marcelo Augusto De Oliveira Filho,---,PR,BRA,01:02:55,07:00:12,04:19:38,---,---,12:22:47
+ironman-brazil-20060528.csv,944,Hianco Rosa,---,SC,BRA,01:09:22,06:00:37,03:59:05,---,---,11:09:05
+ironman-brazil-20060528.csv,945,Fabio Luis Tavares Da Silva,---,SP,BRA,01:17:48,06:57:10,04:58:29,---,---,13:13:27
+ironman-brazil-20060528.csv,946,Bernardo Salgado,---,SP,BRA,00:56:57,05:52:25,04:19:49,---,---,11:09:13
+ironman-brazil-20060528.csv,947,Erik Lakatos,30,---,PER,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,948,Cristian Marcos Fernandez,---,---,ARG,01:15:53,06:30:26,04:52:24,---,---,12:38:44
+ironman-brazil-20060528.csv,949,Enrique Mario Fernandez Puentes,---,---,ARG,01:15:36,06:30:42,05:01:53,---,---,12:48:12
+ironman-brazil-20060528.csv,950,John Turlington,29,TX,USA,01:10:45,06:09:01,03:41:44,---,---,11:01:31
+ironman-brazil-20060528.csv,951,Diovani Castoldi Lencina,---,SC,BRA,01:25:18,06:53:39,05:02:53,---,---,13:21:52
+ironman-brazil-20060528.csv,952,Julio Cesar A Paim Vieira,---,SP,BRA,01:01:53,06:32:56,04:48:02,---,---,12:22:52
+ironman-brazil-20060528.csv,953,Dejair Brichesi,---,SP,BRA,01:40:08,07:09:05,04:30:31,---,---,13:19:44
+ironman-brazil-20060528.csv,954,Aguinaldo Jose Soares,---,SP,BRA,01:49:04,07:41:17,04:37:02,---,---,14:07:24
+ironman-brazil-20060528.csv,955,Karlo Antonio Kowalczuck,---,PR,BRA,00:57:23,05:25:56,03:52:10,---,---,10:15:29
+ironman-brazil-20060528.csv,956,Carlos Eduardo Barreto Zahran,---,SP,BRA,00:56:02,---,---,---,---,DNF
+ironman-brazil-20060528.csv,957,Mario Celso Puglielli Da Cunha Junior,---,PR,BRA,01:06:44,06:59:24,04:53:42,---,---,12:59:51
+ironman-brazil-20060528.csv,958,André Barbosa Lops,---,SC,BRA,00:56:06,09:01:47,---,---,---,DNF
+ironman-brazil-20060528.csv,959,Andres Alberto Bello,---,---,ARG,00:56:51,05:32:13,03:29:07,---,---,09:58:11
+ironman-brazil-20060528.csv,960,Marina Brunero,45,---,ARG,01:18:14,06:39:44,04:37:41,---,---,12:35:41
+ironman-brazil-20060528.csv,961,Claudia Junqueira,43,FL,BRA,01:07:53,06:35:34,03:46:46,---,---,11:30:13
+ironman-brazil-20060528.csv,962,Enrique Selame,51,---,CHL,01:15:15,06:17:08,04:12:38,---,---,11:45:02
+ironman-brazil-20060528.csv,963,Ariel Martin Etchechury,---,---,ARG,01:17:03,06:16:58,03:35:29,---,---,11:09:31
+ironman-brazil-20060528.csv,964,Juan Manuel Galarraga,28,Buenos Aires,ARG,00:58:58,05:14:44,03:39:50,---,---,09:53:33
+ironman-brazil-20060528.csv,965,Raul Picone,57,---,ARG,01:15:29,06:15:56,03:52:51,---,---,11:24:17
+ironman-brazil-20060528.csv,966,Luiz Ricardo De Queiroz Cassiano,---,SC,BRA,01:16:39,07:32:16,---,---,---,DNF
+ironman-brazil-20060528.csv,967,Karin Kenzler Facciolla,---,SP,BRA,01:09:03,06:14:04,04:17:43,---,---,11:40:50
+ironman-brazil-20060528.csv,968,Raul Mesquita De Freitas,38,Intl State,BRA,00:58:39,05:42:58,03:33:03,---,---,10:14:42
+ironman-brazil-20060528.csv,969,Christoph  Sonnack,30,Deutschland,DEU,00:59:11,05:06:56,03:11:07,---,---,09:17:16
+ironman-brazil-20060528.csv,970,Jose Francisco Fay,41,---,BRA,01:14:43,06:09:49,04:37:41,---,---,12:02:14
+ironman-brazil-20060528.csv,971,Marcelo Reali Nogueira,33,CA,BRA,01:07:54,06:35:42,05:04:32,---,---,12:48:08
+ironman-brazil-20060528.csv,972,Gustavo Rolando Perri,---,---,ARG,00:56:16,05:23:31,03:29:51,---,---,09:49:39
+ironman-brazil-20060528.csv,973,Gustavo Daniel Ibarra,31,Chubut,ARG,00:57:31,05:37:08,03:29:12,---,---,10:03:51
+ironman-brazil-20060528.csv,974,Alejandro Fernández,32,Maldonado,URY,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,975,Stephen C Wyle,---,---,USA,01:27:04,07:11:35,06:46:27,---,---,15:25:08
+ironman-brazil-20060528.csv,976,Marc Verstraete,37,---,BEL,01:02:53,05:59:06,04:30:27,---,---,11:32:27
+ironman-brazil-20060528.csv,977,Alejandro Jose Trigila,---,---,ARG,00:56:44,05:57:39,04:26:35,---,---,11:20:59
+ironman-brazil-20060528.csv,978,Raul Marcelo Muñoz,---,---,CHL,01:20:55,06:08:25,04:00:22,---,---,11:29:44
+ironman-brazil-20060528.csv,979,Charly - Carlos Parlack,---,---,ARG,00:54:53,06:18:19,05:02:38,---,---,12:15:52
+ironman-brazil-20060528.csv,980,Carlos Valdivia,48,---,CHL,01:13:52,07:21:54,03:51:34,---,---,12:27:21
+ironman-brazil-20060528.csv,981,Ryan Clark Korsgard,---,---,USA,01:12:31,06:07:06,04:00:19,---,---,11:19:57
+ironman-brazil-20060528.csv,982,Ricardo Otani,---,SP,BRA,01:09:47,06:25:59,04:40:55,---,---,12:16:42
+ironman-brazil-20060528.csv,983,Marcos Seabra,---,TO,BRA,00:50:58,06:28:44,05:01:40,---,---,12:21:23
+ironman-brazil-20060528.csv,984,André Caliman,---,PR,BRA,01:01:10,06:23:35,04:17:23,---,---,11:42:09
+ironman-brazil-20060528.csv,985,Lindolfo Dos Anjos Pessoa Neto,---,BA,BRA,01:11:10,06:36:22,04:45:01,---,---,12:32:34
+ironman-brazil-20060528.csv,986,Tatiana Santos Queiroz,---,DF,BRA,01:03:08,05:51:04,03:48:20,---,---,10:42:34
+ironman-brazil-20060528.csv,987,Cabral Rogenilson Bertanha,---,RJ,BRA,00:51:26,05:46:25,04:21:09,---,---,10:59:01
+ironman-brazil-20060528.csv,988,Andres Darricau,30,---,ARG,00:56:17,05:34:19,03:59:37,---,---,10:30:14
+ironman-brazil-20060528.csv,989,Flavio Bruzzone,31,---,URY,01:07:28,06:47:09,04:32:18,---,---,12:26:56
+ironman-brazil-20060528.csv,990,Pablo Fabian Cervantes,---,---,ARG,01:17:45,06:38:58,04:11:04,---,---,12:07:48
+ironman-brazil-20060528.csv,991,Sylvia Reyes,36,CL,CHL,01:22:09,06:15:08,03:57:27,---,---,11:34:45
+ironman-brazil-20060528.csv,992,Frank J Carino,---,---,USA,01:12:21,06:27:26,05:01:42,---,---,12:41:29
+ironman-brazil-20060528.csv,993,Dan Ruiz,33,NY,USA,01:07:37,06:03:51,04:40:07,---,---,11:51:36
+ironman-brazil-20060528.csv,994,Afonso Celso Dias Ferreira Junior,---,DF,BRA,01:04:08,---,---,---,---,DNF
+ironman-brazil-20060528.csv,995,Mauricio Hidalgo,---,SP,BRA,01:02:29,06:13:56,04:02:40,---,---,11:19:06
+ironman-brazil-20060528.csv,996,Eder Dias Abrahão,---,SC,BRA,01:29:05,07:00:27,05:05:45,---,---,13:35:18
+ironman-brazil-20060528.csv,997,Tiago Rafael Onzi,---,SC,BRA,01:11:44,06:17:25,04:21:56,---,---,11:51:06
+ironman-brazil-20060528.csv,998,Celio Garcia Junior,---,SP,BRA,00:58:12,07:13:29,04:48:38,---,---,13:00:20
+ironman-brazil-20060528.csv,999,Fernando Cini Freitas,---,SC,BRA,01:01:21,05:27:10,03:44:10,---,---,10:12:42
+ironman-brazil-20060528.csv,1000,Cesar Jorge,---,SP,BRA,01:07:21,05:29:10,03:34:21,---,---,10:10:53
+ironman-brazil-20060528.csv,1001,Tito Rovilson Angelucci Filho,---,SP,BRA,01:06:04,05:42:26,04:20:48,---,---,11:09:19
+ironman-brazil-20060528.csv,1002,Luis Fernando Kira,---,---,ARG,01:25:00,06:55:21,04:58:30,---,---,13:18:52
+ironman-brazil-20060528.csv,1003,Christian Frederick Roth,---,---,USA,01:04:56,05:24:25,04:16:39,---,---,10:46:01
+ironman-brazil-20060528.csv,1004,Pablo Hugo Kalbermann,---,---,URY,01:10:50,06:40:40,04:56:51,---,---,12:48:22
+ironman-brazil-20060528.csv,1005,Claudio Billig,54,---,URY,01:41:28,07:13:15,04:22:17,---,---,13:17:01
+ironman-brazil-20060528.csv,1006,Diego Alonso,31,---,URY,00:59:47,06:16:43,03:50:51,---,---,11:07:22
+ironman-brazil-20060528.csv,1007,Horacio Carlos Rodriguez,---,---,ARG,01:28:13,07:05:46,06:43:12,---,---,15:17:12
+ironman-brazil-20060528.csv,1008,Alejandro Daniel Martinez,---,---,ARG,01:10:56,05:26:12,03:58:30,---,---,10:35:39
+ironman-brazil-20060528.csv,1009,Shawn Standridge,31,OH,USA,01:19:35,05:34:42,03:11:13,---,---,10:05:30
+ironman-brazil-20060528.csv,1010,Shannon Standridge,31,OH,USA,01:10:18,05:54:00,06:58:14,---,---,14:02:33
+ironman-brazil-20060528.csv,1011,Gustavo De Araujo Perazzolo,---,RS,BRA,01:06:04,06:52:50,05:56:42,---,---,13:55:37
+ironman-brazil-20060528.csv,1012,Dimas Antonio Drago Payer,---,ES,BRA,01:26:03,07:55:18,06:48:41,---,---,16:10:04
+ironman-brazil-20060528.csv,1013,Evandro Toigo,---,RS,BRA,00:57:41,05:33:13,04:37:19,---,---,11:08:14
+ironman-brazil-20060528.csv,1014,Fernando Geraldi,---,SP,BRA,01:35:58,09:01:39,06:09:02,---,---,16:46:39
+ironman-brazil-20060528.csv,1015,Gerson Luis Kozak,---,PR,BRA,01:22:16,06:16:45,05:17:34,---,---,12:56:36
+ironman-brazil-20060528.csv,1016,Juan Francisco Horacio Aparicio,---,---,ARG,00:52:04,05:34:04,03:28:27,---,---,09:54:36
+ironman-brazil-20060528.csv,1017,Renato Ometto,---,SP,BRA,01:07:26,06:09:29,05:11:07,---,---,12:28:03
+ironman-brazil-20060528.csv,1018,André Ruzzarin,---,RS,BRA,01:02:49,06:18:50,04:52:25,---,---,12:14:06
+ironman-brazil-20060528.csv,1019,Luis Carlos Steimer,---,RS,BRA,01:01:01,05:46:22,03:47:09,---,---,10:34:33
+ironman-brazil-20060528.csv,1020,Alex Gastin Valverde,---,RS,BRA,00:58:32,05:32:59,05:01:29,---,---,11:33:00
+ironman-brazil-20060528.csv,1021,Fábio Bronze Moreira,---,PR,BRA,00:59:43,06:22:17,04:45:12,---,---,12:07:13
+ironman-brazil-20060528.csv,1022,Marcelo Verderoce Vieira,---,PR,BRA,01:03:06,05:54:23,04:03:37,---,---,11:01:07
+ironman-brazil-20060528.csv,1023,Vanessa Cabrini,---,PR,BRA,00:52:03,05:58:09,05:26:05,---,---,12:16:18
+ironman-brazil-20060528.csv,1024,Mario Esses,---,RJ,BRA,01:21:21,06:31:30,05:21:31,---,---,13:14:24
+ironman-brazil-20060528.csv,1025,Ricardo Daniel Molina,---,---,ARG,01:14:26,07:01:21,04:34:39,---,---,12:50:27
+ironman-brazil-20060528.csv,1026,Pablo Daniel Picciuolo,---,---,ARG,01:08:29,06:48:22,04:59:41,---,---,12:56:34
+ironman-brazil-20060528.csv,1027,Alejandro Juan Ricardo Flores,---,---,ARG,01:23:36,06:33:17,04:25:05,---,---,12:21:59
+ironman-brazil-20060528.csv,1028,Nick Morales,39,MN,USA,00:56:15,06:16:59,05:59:29,---,---,13:12:44
+ironman-brazil-20060528.csv,1029,Mark Davies,35,WA,USA,01:01:00,05:41:13,05:40:49,---,---,12:23:03
+ironman-brazil-20060528.csv,1030,Jorge Leonardo Jorge Giampietro,---,---,ARG,01:17:23,06:37:20,06:20:01,---,---,14:14:45
+ironman-brazil-20060528.csv,1031,Cesar Aguirre,44,---,PER,01:23:01,06:41:11,05:28:47,---,---,13:33:00
+ironman-brazil-20060528.csv,1032,Adrian Dario Benedetti,---,---,ARG,01:24:56,07:07:58,05:31:51,---,---,14:04:46
+ironman-brazil-20060528.csv,1033,Hisashi Takagi,56,岐阜県,JPN,01:30:46,07:32:44,06:11:05,---,---,15:14:37
+ironman-brazil-20060528.csv,1034,Carol A. Hassell,---,---,USA,01:05:24,06:06:49,04:47:25,---,---,11:59:40
+ironman-brazil-20060528.csv,1035,Adrian Chistik,31,---,ARG,01:01:31,05:57:02,03:50:50,---,---,10:49:25
+ironman-brazil-20060528.csv,1036,Claudio Nieto,28,Other,CHL,00:51:03,05:31:15,04:17:46,---,---,10:40:04
+ironman-brazil-20060528.csv,1037,Marcelo Fernando Brizuela,---,---,ARG,01:24:46,06:58:58,05:25:33,---,---,13:49:18
+ironman-brazil-20060528.csv,1038,Luis Alberto Samanamud Bazo,---,---,PER,01:06:28,06:11:18,04:59:08,---,---,12:16:55
+ironman-brazil-20060528.csv,1039,Mae Anne Resurreccion,---,---,USA,01:21:53,06:18:41,04:20:08,---,---,12:00:43
+ironman-brazil-20060528.csv,1040,Kevin Lee Neal,---,---,USA,00:59:20,05:15:13,03:39:52,---,---,09:54:26
+ironman-brazil-20060528.csv,1041,Sarah Caputo,25,CT,USA,01:22:32,06:25:51,04:12:19,---,---,12:00:43
+ironman-brazil-20060528.csv,1042,Alejandro I. Ulloa,---,---,CHL,01:33:06,06:32:01,03:45:29,---,---,11:50:38
+ironman-brazil-20060528.csv,1043,Florencia Giusti,34,Buenos Aires,ARG,01:04:03,05:53:30,03:49:07,---,---,10:46:41
+ironman-brazil-20060528.csv,1044,Thomaz H. Soubihe Filho,---,SP,BRA,01:01:48,05:47:38,04:19:55,---,---,11:09:22
+ironman-brazil-20060528.csv,1045,Weslley Silva Fonseca,---,MG,BRA,01:03:36,06:06:13,03:42:13,---,---,10:52:03
+ironman-brazil-20060528.csv,1046,Rafael Benites Telles,---,SC,BRA,01:04:04,06:18:50,04:52:25,---,---,12:15:20
+ironman-brazil-20060528.csv,1047,Marcos De Faria Pavarini,---,SP,BRA,01:17:22,06:32:27,05:00:30,---,---,12:50:21
+ironman-brazil-20060528.csv,1048,Eduardo Akira Cruz Shikasho,---,SP,BRA,00:48:48,05:15:05,03:53:30,---,---,09:57:24
+ironman-brazil-20060528.csv,1049,Ricardo Cumplido,45,---,CHL,00:54:46,05:33:50,03:43:38,---,---,10:12:15
+ironman-brazil-20060528.csv,1050,Iván Núñez Peirano,---,---,CHL,01:28:16,06:52:42,05:06:32,---,---,13:27:31
+ironman-brazil-20060528.csv,1051,Martin Patrick Macdonnell,---,---,USA,01:00:17,06:50:17,05:02:38,---,---,12:53:13
+ironman-brazil-20060528.csv,1052,Stephen Parker,37,FL,USA,01:40:51,07:30:52,04:45:41,---,---,13:57:24
+ironman-brazil-20060528.csv,1053,Guillermo Oscar De Diego,---,---,ARG,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,1054,Guido Kovalskys,37,---,BRA,00:59:39,05:37:07,05:34:58,---,---,12:11:45
+ironman-brazil-20060528.csv,1055,Paulo Sergio Rodrigues Medeiros,---,PR,BRA,01:03:26,06:12:10,03:53:29,---,---,11:09:06
+ironman-brazil-20060528.csv,1056,Ricardo Mateus,---,SP,BRA,01:11:54,06:07:13,04:22:31,---,---,11:41:39
+ironman-brazil-20060528.csv,1057,Henrique Villela,---,RJ,BRA,01:04:29,05:58:01,04:32:01,---,---,11:34:33
+ironman-brazil-20060528.csv,1058,Eduardo Vani Fernandes,---,SP,BRA,01:02:11,05:30:53,03:56:40,---,---,10:29:44
+ironman-brazil-20060528.csv,1059,Alyne Bertoni Curi,---,RJ,BRA,01:14:20,06:38:45,05:23:16,---,---,13:16:22
+ironman-brazil-20060528.csv,1060,Jorge Adrian Piccagli,---,---,ARG,01:23:57,06:39:43,04:37:03,---,---,12:40:44
+ironman-brazil-20060528.csv,1061,Jankowski Richard,32,---,FRA,01:00:11,06:03:00,06:07:23,---,---,13:10:36
+ironman-brazil-20060528.csv,1062,Ribaut Alain,38,---,FRA,01:17:31,06:03:19,03:54:40,---,---,11:15:31
+ironman-brazil-20060528.csv,1063,Leonardo Victor Dealesandro,---,---,ARG,01:05:22,06:33:29,05:51:47,---,---,13:30:39
+ironman-brazil-20060528.csv,1064,Ruben Dario Pedraza,---,---,ARG,01:05:43,05:54:59,04:17:24,---,---,11:18:07
+ironman-brazil-20060528.csv,1065,Marcelo Domingo Torres,---,---,ARG,01:13:17,06:45:24,03:54:47,---,---,11:53:29
+ironman-brazil-20060528.csv,1066,Alejandro Fabian De La Vega,---,---,ARG,01:02:27,05:21:41,03:34:15,---,---,09:58:23
+ironman-brazil-20060528.csv,1067,Gustavo Daniel Daise,---,SC,BRA,01:25:02,05:36:35,04:28:03,---,---,11:29:42
+ironman-brazil-20060528.csv,1068,Carlos Alberto Guaytima,---,---,ARG,01:18:08,06:30:41,04:40:14,---,---,12:29:04
+ironman-brazil-20060528.csv,1069,Carolina Rios,---,---,ARG,01:41:42,07:45:19,05:34:55,---,---,15:01:58
+ironman-brazil-20060528.csv,1070,Vander Pereira De Araujo,---,SP,BRA,01:20:39,05:36:09,04:39:23,---,---,11:36:12
+ironman-brazil-20060528.csv,1071,Fernando Javier Soria,---,---,ARG,01:13:01,05:43:56,04:39:42,---,---,11:36:40
+ironman-brazil-20060528.csv,1072,Fabian Beltran,---,---,ARG,01:09:38,05:20:59,03:21:21,---,---,09:51:59
+ironman-brazil-20060528.csv,1073,Pablo Triolo,---,---,ARG,00:56:52,05:24:03,03:50:13,---,---,10:11:09
+ironman-brazil-20060528.csv,1074,Martin Acosta,---,---,ARG,01:02:41,05:35:01,03:53:49,---,---,10:31:32
+ironman-brazil-20060528.csv,1075,Eduardo Yamil Miller,---,---,ARG,01:00:39,05:22:11,04:00:57,---,---,10:23:49
+ironman-brazil-20060528.csv,1076,Franco Leonardo Prandi,---,---,ARG,01:04:37,05:15:54,03:34:27,---,---,09:54:59
+ironman-brazil-20060528.csv,1077,Juan Manuel Sorroche,---,---,ARG,01:02:47,---,---,---,---,DNF
+ironman-brazil-20060528.csv,1078,Fabiana M.Lombardini,---,---,ARG,01:25:09,06:53:10,04:02:52,---,---,12:21:13
+ironman-brazil-20060528.csv,1079,Eduardo Luis Minvielle,49,Buenos Aires,ARG,01:17:41,06:36:27,04:01:05,---,---,11:55:14
+ironman-brazil-20060528.csv,1080,José Tomás Ghergo,---,---,ARG,01:12:29,06:51:34,04:42:33,---,---,12:46:36
+ironman-brazil-20060528.csv,1081,Sergio Gustavo Rodríguez,---,---,ARG,01:02:04,05:27:39,03:41:23,---,---,10:11:06
+ironman-brazil-20060528.csv,1082,Ezequiel Martinez Preciado,---,---,ARG,01:06:54,05:15:53,04:04:22,---,---,10:27:09
+ironman-brazil-20060528.csv,1083,Diego Federico Dominguez,---,---,ARG,01:13:30,06:09:35,03:49:39,---,---,11:12:45
+ironman-brazil-20060528.csv,1084,Dario Javier Capeletti,---,---,ARG,01:02:47,05:40:26,03:47:37,---,---,10:30:51
+ironman-brazil-20060528.csv,1085,Mariano Galera,---,---,ARG,01:09:03,05:48:03,03:48:17,---,---,10:45:24
+ironman-brazil-20060528.csv,1086,Mariano Gladich,---,---,ARG,01:11:21,05:42:25,04:45:20,---,---,11:39:07
+ironman-brazil-20060528.csv,1087,Nestor Mauro,---,---,ARG,01:22:01,06:16:48,04:31:14,---,---,12:10:04
+ironman-brazil-20060528.csv,1088,Ricardo Herrera,---,---,ARG,01:00:28,06:09:10,04:20:57,---,---,11:30:35
+ironman-brazil-20060528.csv,1089,Veronica Benvenuto,---,---,ARG,01:25:10,07:20:38,04:50:10,---,---,13:35:59
+ironman-brazil-20060528.csv,1090,Fabio Naveiro,---,---,ARG,01:04:45,05:54:17,04:16:01,---,---,11:15:03
+ironman-brazil-20060528.csv,1091,Horacio Etcheverry,---,---,ARG,01:17:00,07:36:34,04:50:37,---,---,13:44:12
+ironman-brazil-20060528.csv,1092,Marcelo Lanzilotta,---,---,ARG,01:19:11,06:37:15,04:03:05,---,---,11:59:32
+ironman-brazil-20060528.csv,1093,Lorenzo Gimenez,---,---,ARG,01:03:51,06:17:00,04:10:47,---,---,11:31:40
+ironman-brazil-20060528.csv,1094,Miguel Angel Caldara,---,---,ARG,01:17:59,06:39:18,05:27:06,---,---,13:24:24
+ironman-brazil-20060528.csv,1095,Victor Oliveira Ferreira De Almeida,---,PR,BRA,01:08:05,05:55:46,04:12:12,---,---,11:16:04
+ironman-brazil-20060528.csv,1096,Jeferson Da Silva Figueiredo,---,SC,BRA,01:34:17,07:28:06,05:31:12,---,---,14:33:36
+ironman-brazil-20060528.csv,1097,Paul Benford,39,ON,CAN,01:10:06,06:29:37,04:41:10,---,---,12:20:54
+ironman-brazil-20060528.csv,1098,Bodil Arlander,42,CA,USA,01:03:48,05:42:50,04:06:23,---,---,10:53:02
+ironman-brazil-20060528.csv,1099,Nicolas Venier,27,cordoba,ARG,00:54:37,05:52:48,04:21:19,---,---,11:08:45
+ironman-brazil-20060528.csv,1100,Maurício Letzow,29,Paraná,BRA,00:54:50,---,---,---,---,DNF
+ironman-brazil-20060528.csv,1101,Laurent Pierre Alain Yves Wettstein,---,---,CHE,01:00:56,06:01:40,04:22:24,---,---,11:25:00
+ironman-brazil-20060528.csv,1102,Brochier Eric,46,---,FRA,01:15:42,05:55:17,03:44:54,---,---,10:55:53
+ironman-brazil-20060528.csv,1103,Michael Breslin,---,SP,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,1104,Rodrigo Gabriel De Miranda,---,SC,BRA,01:14:09,06:37:42,03:53:43,---,---,11:45:35
+ironman-brazil-20060528.csv,1105,Victor Marcelo Monteiro Alves Pereira,---,RJ,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,1106,Juliano Z Ciruelos,---,PR,BRA,00:54:09,05:08:20,03:24:31,---,---,09:27:01
+ironman-brazil-20060528.csv,1107,Sylvio Medeiros Junior,---,SP,BRA,01:03:54,06:14:36,04:35:45,---,---,11:54:16
+ironman-brazil-20060528.csv,1108,Ricardo Macedo Lino,---,SP,BRA,00:59:10,06:05:11,03:54:17,---,---,10:58:38
+ironman-brazil-20060528.csv,1109,Jonathas Muller De Melo,---,SC,BRA,00:54:34,05:22:32,03:16:35,---,---,09:33:41
+ironman-brazil-20060528.csv,1110,César Augusto Guedes Da Conceição,---,RJ,BRA,01:18:12,06:44:21,04:57:09,---,---,12:59:43
+ironman-brazil-20060528.csv,1111,Andre Borges De Freitas,---,SP,BRA,01:28:49,08:15:43,06:52:06,---,---,16:36:39
+ironman-brazil-20060528.csv,1112,Carlos Nunes,---,DF,BRA,01:11:53,05:53:16,04:35:25,---,---,11:40:35
+ironman-brazil-20060528.csv,1113,Andre De Castilho,40,CA,BRA,00:59:57,06:17:25,04:56:25,---,---,12:13:48
+ironman-brazil-20060528.csv,1114,Lowell Keith,37,NY,USA,01:06:49,05:35:25,03:38:28,---,---,10:20:43
+ironman-brazil-20060528.csv,1115,Pablo Gabriel Arrua,---,---,URY,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,1116,Nilson Carlos De Oliveira,---,RJ,BRA,01:03:38,06:19:06,04:36:19,---,---,11:59:05
+ironman-brazil-20060528.csv,1117,Pablo Villaescusa González,---,---,ESP,01:24:55,07:06:03,06:15:35,---,---,14:46:34
+ironman-brazil-20060528.csv,1118,Cintia Cani Gama,---,ES,BRA,01:11:15,06:08:26,04:32:35,---,---,11:52:17
+ironman-brazil-20060528.csv,1119,Rodrigo Tiradentes Montechiari,---,RJ,BRA,01:06:51,06:15:57,05:27:06,---,---,12:49:55
+ironman-brazil-20060528.csv,1120,Marcello Matarazzo Falcão,---,SP,BRA,01:12:41,05:59:50,04:24:50,---,---,11:37:22
+ironman-brazil-20060528.csv,1121,Sérgio Renato Diniz,---,PR,BRA,00:57:12,05:11:39,03:44:58,---,---,09:53:50
+ironman-brazil-20060528.csv,1122,Mario Sergio Novaes Do Prado Carvalho,---,RJ,BRA,01:37:05,08:12:55,05:49:31,---,---,15:39:32
+ironman-brazil-20060528.csv,1123,José De Almeida Pimentel Junior,---,DF,BRA,01:17:33,06:23:59,04:23:51,---,---,12:05:24
+ironman-brazil-20060528.csv,1124,Aldo Ernesto Andrade Junior,---,DF,BRA,01:09:06,06:11:45,04:12:50,---,---,11:33:42
+ironman-brazil-20060528.csv,1125,Guilherme Maciel Amorim,---,DF,BRA,01:05:40,05:56:55,03:59:45,---,---,11:02:21
+ironman-brazil-20060528.csv,1126,Cleber Itamar Rodrigues,---,SC,BRA,01:05:45,05:18:20,03:27:23,---,---,09:51:29
+ironman-brazil-20060528.csv,1127,Antonio Carlos Barboza De Oliveira,---,SP,BRA,01:26:30,07:02:15,04:35:18,---,---,13:04:04
+ironman-brazil-20060528.csv,1128,Adir Buschmann,---,SC,BRA,01:39:54,08:04:38,07:09:47,---,---,16:54:20
+ironman-brazil-20060528.csv,1129,José Henrique Ramos Borghi,---,SP,BRA,01:00:08,06:03:27,04:45:25,---,---,11:49:00
+ironman-brazil-20060528.csv,1130,Carlos Washington Teixeira Lobão,---,DF,BRA,01:00:01,06:01:43,03:53:43,---,---,10:55:28
+ironman-brazil-20060528.csv,1131,Maximiliano Morales,29,---,ARG,00:57:26,05:24:22,03:36:20,---,---,09:58:10
+ironman-brazil-20060528.csv,1132,Marcelo Dos Santos Stellet,---,---,BRA,00:54:24,05:43:36,04:23:33,---,---,11:01:33
+ironman-brazil-20060528.csv,1133,Hugo Gonzalez,41,FL,USA,01:06:52,05:46:11,03:57:54,---,---,10:50:59
+ironman-brazil-20060528.csv,1134,Mark E. Barnarad,---,---,USA,01:13:59,06:40:52,04:49:41,---,---,12:44:33
+ironman-brazil-20060528.csv,1135,Pablo Enrique Rubio-Ponce,---,---,HND,00:55:13,05:42:39,03:31:02,---,---,10:08:56
+ironman-brazil-20060528.csv,1136,Jesus Del Santo Campa,39,---,ESP,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,1137,Pablo Gustavo Re,---,---,ARG,01:13:00,05:48:39,04:25:24,---,---,11:27:05
+ironman-brazil-20060528.csv,1138,Nicolas Aquistapace,34,Intl State,ARG,01:08:44,06:53:25,04:44:23,---,---,12:46:32
+ironman-brazil-20060528.csv,1139,Fabian Jesus Berdun,---,---,ARG,01:29:20,06:18:55,05:22:08,---,---,13:10:23
+ironman-brazil-20060528.csv,1140,Pablo Emilio Brunelli,35,Intl State,ARG,00:55:39,05:08:09,04:10:18,---,---,10:14:07
+ironman-brazil-20060528.csv,1141,Claudio Luis Consoni,---,---,ARG,01:00:38,05:33:52,04:09:21,---,---,10:43:53
+ironman-brazil-20060528.csv,1142,Ramon Naveyra,37,---,ARG,01:07:41,05:57:43,03:40:12,---,---,10:45:37
+ironman-brazil-20060528.csv,1143,Jorge Pablo Loto,---,---,ARG,01:03:58,06:09:29,03:57:23,---,---,11:10:50
+ironman-brazil-20060528.csv,1144,Eduardo Daniel Fresno,---,---,ARG,01:29:52,06:47:59,05:12:49,---,---,13:30:41
+ironman-brazil-20060528.csv,1145,Fernando Chiquito Garcia,---,---,ARG,01:06:55,06:27:30,04:51:51,---,---,12:26:16
+ironman-brazil-20060528.csv,1146,Michael G. Meuli,---,---,USA,01:12:11,06:43:47,06:47:58,---,---,14:43:57
+ironman-brazil-20060528.csv,1147,Kim Rose Hill,---,---,USA,01:16:35,06:50:08,04:16:10,---,---,12:22:53
+ironman-brazil-20060528.csv,1148,Luciano Daniel Genaro Cicchitti,---,---,ARG,01:01:32,05:34:01,03:52:29,---,---,10:28:02
+ironman-brazil-20060528.csv,1149,Ricardo Ariel Scarpa,---,---,ARG,00:59:48,05:58:57,03:58:19,---,---,10:57:05
+ironman-brazil-20060528.csv,1150,Mauricio Eduardo Beinat,---,---,ARG,00:57:15,05:50:51,---,---,---,DNF
+ironman-brazil-20060528.csv,1151,Ricardo Javier Fariña,---,---,ARG,01:01:24,05:28:47,03:44:47,---,---,10:14:58
+ironman-brazil-20060528.csv,1152,Heba Soliman,40,CA,USA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,1153,Leonardo Fabián Conti,---,---,ARG,00:59:50,05:44:48,04:10:12,---,---,10:54:51
+ironman-brazil-20060528.csv,1154,Cristian Pezoa Paredes,---,---,CHL,01:10:17,06:25:09,04:12:36,---,---,11:48:03
+ironman-brazil-20060528.csv,1155,Oscar Alberto D´urso,---,---,ARG,00:49:21,07:28:32,05:30:38,---,---,13:48:32
+ironman-brazil-20060528.csv,1156,Dillon Paul,23,TX,USA,01:09:25,04:46:51,04:08:49,---,---,10:05:06
+ironman-brazil-20060528.csv,1157,Cristiano Jose Solak,---,---,BRA,00:53:20,05:43:04,04:32:10,---,---,11:08:35
+ironman-brazil-20060528.csv,1158,Danny Montoya,33,NM,USA,01:02:29,05:40:05,03:45:41,---,---,10:28:16
+ironman-brazil-20060528.csv,1159,Richard Muller,56,---,CHL,01:22:24,06:38:30,04:24:10,---,---,12:25:05
+ironman-brazil-20060528.csv,1160,De Marchi Giampiero,---,---,ITA,01:22:22,07:45:45,04:52:15,---,---,14:00:23
+ironman-brazil-20060528.csv,1161,Patricia Bertolucci,40,---,BRA,01:03:19,05:51:39,04:23:05,---,---,11:18:03
+ironman-brazil-20060528.csv,1162,Ruben Augusto Montefalcone,---,---,ARG,01:22:23,06:42:26,06:30:47,---,---,14:35:37
+ironman-brazil-20060528.csv,1163,Joao Dionisio Amoedo,---,---,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,1164,Fernando - Aparo,---,---,ARG,01:05:37,06:00:40,03:36:29,---,---,10:42:48
+ironman-brazil-20060528.csv,1165,Matias Germàn Albide,---,---,ARG,01:00:16,05:56:58,04:56:53,---,---,11:54:09
+ironman-brazil-20060528.csv,1166,Manuela Portas Vilaseca,---,RJ,BRA,01:12:30,05:53:30,04:28:32,---,---,11:34:33
+ironman-brazil-20060528.csv,1167,Jose Luiz De Souza,---,PR,BRA,01:17:35,06:53:29,05:21:54,---,---,13:32:58
+ironman-brazil-20060528.csv,1168,Mario Martins Da Silva Junior,---,SC,BRA,01:04:09,05:57:23,04:13:36,---,---,11:15:08
+ironman-brazil-20060528.csv,1169,Andrei Candemil De Oliveira,---,SC,BRA,01:02:20,06:06:24,07:04:16,---,---,14:13:01
+ironman-brazil-20060528.csv,1170,Jose Rosa Das Neves,---,PR,BRA,01:09:15,06:20:43,03:44:51,---,---,11:14:49
+ironman-brazil-20060528.csv,1171,Manoel Alberto Lopes Dias,---,BA,BRA,01:06:18,05:43:03,03:55:04,---,---,10:44:26
+ironman-brazil-20060528.csv,1172,Áureo Adriano Silva,---,SP,BRA,01:33:03,06:29:48,04:05:56,---,---,12:08:48
+ironman-brazil-20060528.csv,1173,Diego Luis Bortolussi,---,---,ARG,01:09:18,06:26:34,04:40:54,---,---,12:16:48
+ironman-brazil-20060528.csv,1174,Rodolphe Retrain,---,---,FRA,01:11:02,06:22:04,---,---,---,DNF
+ironman-brazil-20060528.csv,1175,Marcus Altmann,---,---,AUS,00:55:37,05:24:12,04:12:20,---,---,10:32:10
+ironman-brazil-20060528.csv,1176,Fred Dreier,---,---,USA,00:47:16,05:25:13,03:46:12,---,---,09:58:41
+ironman-brazil-20060528.csv,1177,Mauro Antonio Miele,---,SP,BRA,01:17:42,06:19:22,04:05:41,---,---,11:42:45
+ironman-brazil-20060528.csv,1178,Evandro Cezar Dos Santos,---,SC,BRA,01:12:04,06:14:08,04:20:23,---,---,11:46:35
+ironman-brazil-20060528.csv,1179,Cesar Dalquano,27,Paraná,BRA,00:59:49,05:39:34,03:43:45,---,---,10:23:08
+ironman-brazil-20060528.csv,1180,Marcos Antonio Araujo Do Nascimento,---,BA,BRA,01:03:28,05:56:10,03:41:14,---,---,10:40:54
+ironman-brazil-20060528.csv,1181,Claudio Jose Lago Marques,---,---,MEX,01:09:39,06:24:10,04:05:23,---,---,11:39:12
+ironman-brazil-20060528.csv,1182,Jose Anderson Gonçalves,---,SP,BRA,00:55:25,05:54:24,03:53:29,---,---,10:43:19
+ironman-brazil-20060528.csv,1183,Francisco Rosa Neto,---,SC,BRA,01:31:50,---,---,---,---,DNF
+ironman-brazil-20060528.csv,1184,Cristiano De Aquino Iwersen,---,SC,BRA,01:17:01,07:00:54,06:07:30,---,---,14:25:25
+ironman-brazil-20060528.csv,1185,Paulo Roberto França Gonçalves,---,GO,BRA,01:17:16,07:06:07,05:34:10,---,---,13:57:34
+ironman-brazil-20060528.csv,1186,Carla Maria Giorgi Ferreira,---,SP,BRA,01:18:50,07:06:13,04:08:50,---,---,12:33:53
+ironman-brazil-20060528.csv,1187,Plácido Aderaldo Castelo Neto,---,CE,BRA,01:15:07,07:42:24,06:40:32,---,---,15:38:04
+ironman-brazil-20060528.csv,1188,Mauricio Gomes,---,SP,BRA,00:55:38,05:39:37,04:16:34,---,---,10:51:50
+ironman-brazil-20060528.csv,1189,José Eduardo De Souza,---,SP,BRA,00:59:39,05:45:49,04:33:16,---,---,11:18:45
+ironman-brazil-20060528.csv,1190,Bruno Oliveira,---,RJ,BRA,01:09:54,07:10:14,04:31:28,---,---,12:51:36
+ironman-brazil-20060528.csv,1191,Jose Luiz De Barros Lopes,---,RJ,BRA,01:00:24,05:28:55,03:51:43,---,---,10:21:03
+ironman-brazil-20060528.csv,1192,Jose Antonio Fidelis,---,PR,BRA,01:04:04,05:30:44,04:00:01,---,---,10:34:49
+ironman-brazil-20060528.csv,1193,Alexandre Carrijo Franco,---,DF,BRA,01:07:07,06:10:55,04:01:11,---,---,11:19:14
+ironman-brazil-20060528.csv,1194,Carlos Alberto Passini Junior,---,SP,BRA,01:06:57,06:08:42,04:03:59,---,---,11:19:38
+ironman-brazil-20060528.csv,1195,Frederico Guilherme Kastrup,---,SP,BRA,00:59:40,05:52:25,04:43:49,---,---,11:35:54
+ironman-brazil-20060528.csv,1196,Diogo Octavio Nebias,---,SP,BRA,01:06:28,06:09:44,04:00:11,---,---,11:16:24
+ironman-brazil-20060528.csv,1197,Luis Antonio Pereira De Lima,---,SC,BRA,00:56:48,05:37:19,03:53:32,---,---,10:27:40
+ironman-brazil-20060528.csv,1198,Gustavo Moniz,---,MG,BRA,00:57:27,05:47:59,05:09:16,---,---,11:54:42
+ironman-brazil-20060528.csv,1199,Alisson Tracz Pereira,---,PR,BRA,01:14:33,06:19:24,---,---,---,DNF
+ironman-brazil-20060528.csv,1200,Kai-Uwe Lindner,---,---,DEU,01:13:23,06:09:13,05:49:06,---,---,13:11:44
+ironman-brazil-20060528.csv,1201,Reinhold Garnitschnig,48,---,AUT,00:57:32,05:37:43,03:22:52,---,---,09:58:08
+ironman-brazil-20060528.csv,1202,Marcelo Machado Rego,---,RJ,BRA,01:25:31,07:41:11,05:55:06,---,---,15:01:49
+ironman-brazil-20060528.csv,1203,Serafin Dos Anjos Silva,---,RS,BRA,01:25:02,07:26:14,05:15:39,---,---,14:06:56
+ironman-brazil-20060528.csv,1204,Ronan Pavoni,33,Panama,ARG,00:53:25,05:02:37,03:22:18,---,---,09:18:21
+ironman-brazil-20060528.csv,1205,Patricio Nicolás Witte,---,---,ARG,01:09:14,05:44:11,03:43:44,---,---,10:37:11
+ironman-brazil-20060528.csv,1206,Mauro Julio Steinhausen,---,SC,BRA,01:02:10,06:16:11,04:17:37,---,---,11:35:59
+ironman-brazil-20060528.csv,1207,Franco Javier Cammarota Gerosa,---,RS,BRA,00:47:23,05:25:09,03:35:50,---,---,09:48:23
+ironman-brazil-20060528.csv,1208,Claudio Cappellano,---,SP,BRA,01:17:46,06:54:00,04:22:16,---,---,12:34:03
+ironman-brazil-20060528.csv,1209,Patricia De Almeida Souza,---,SP,BRA,01:16:41,07:13:08,06:21:26,---,---,14:51:16
+ironman-brazil-20060528.csv,1210,Rosely De Paula Rodrigues,---,RJ,BRA,01:34:50,08:41:17,06:02:55,---,---,16:19:04
+ironman-brazil-20060528.csv,1211,Gerson Luis Machado,---,SC,BRA,01:39:51,07:36:25,04:58:05,---,---,14:14:22
+ironman-brazil-20060528.csv,1212,João Astolfo Rabitto,---,---,BRA,01:03:54,06:53:34,05:04:06,---,---,13:01:35
+ironman-brazil-20060528.csv,1213,Samantha Sheridan,---,SP,BRA,---,---,---,---,---,DNS
+ironman-brazil-20060528.csv,1214,Pedro Morganti,---,---,BRA,00:56:17,05:52:34,05:37:04,---,---,12:25:56
+ironman-brazil-20060528.csv,1215,Kevin Purcell,---,---,USA,00:57:34,05:25:52,04:12:22,---,---,10:35:49
+ironman-brazil-20060528.csv,1216,Charles Rothermel,---,SC,BRA,01:15:39,05:56:45,03:42:14,---,---,10:54:39
+ironman-brazil-20060528.csv,1217,Wagner Comodoro,---,CE,BRA,01:18:56,05:42:03,---,---,---,DNF
+ironman-brazil-20060528.csv,1218,Júlio Cesar De Lima Fernandes,---,SC,BRA,01:02:09,05:51:40,03:49:42,---,---,10:43:31
+ironman-brazil-20060528.csv,1219,Celso Francisco Pinto Junior,---,SP,BRA,01:07:17,05:54:30,04:44:02,---,---,11:45:50
+ironman-brazil-20060528.csv,1220,Mario Neder De Araújo,---,RJ,BRA,01:21:14,07:07:52,05:08:09,---,---,13:37:16
+ironman-brazil-20060528.csv,1221,Rodrigo De Faria,---,GO,BRA,00:59:19,06:05:56,05:22:32,---,---,12:27:48
+ironman-brazil-20060528.csv,1222,Leonardo Colo Mourglia,---,---,ARG,01:05:31,05:53:27,04:00:25,---,---,10:59:23
+ironman-brazil-20060528.csv,1223,Edmundo Caetano,---,SP,BRA,00:55:07,05:44:21,---,---,---,DNF
+ironman-brazil-20060528.csv,1224,Jorge Henna,---,SP,BRA,01:20:42,07:22:27,05:39:08,---,---,14:22:18
+ironman-brazil-20060528.csv,1225,Jorge Gerin Gabriel,---,SP,BRA,01:03:19,07:00:26,05:51:57,---,---,13:55:42
+ironman-brazil-20060528.csv,1226,Luis Eduardo De Souza,---,SC,BRA,01:11:16,07:15:44,06:18:49,---,---,14:45:50
+ironman-brazil-20060528.csv,1227,Luciano Jose Nascimento,---,SP,BRA,00:59:59,06:52:56,06:11:26,---,---,14:04:22
+ironman-brazil-20060528.csv,1228,Erval Fenilli Neto,---,---,---,01:13:53,06:22:22,05:03:50,---,---,12:40:05
+ironman-brazil-20060528.csv,1229,Susana Schnarndorf,---,---,---,01:01:08,06:28:53,04:35:20,---,---,12:05:22
+ironman-brazil-20060528.csv,1230,Boris Steglich,---,---,---,01:17:25,05:44:41,04:10:07,---,---,11:12:15
+ironman-brazil-20060528.csv,1230,Boris Steglich,---,---,---,01:17:25,05:44:41,04:10:07,---,---,11:12:15

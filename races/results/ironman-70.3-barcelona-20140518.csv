@@ -1,0 +1,815 @@
+#File=ironman-70.3-barcelona-20140518.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-barcelona-20140518.csv,1,Terenzo Bozzone,29,AUK,NZL,00:23:15,02:26:54,01:16:34,00:01:37,00:00:43,04:09:03
+ironman-70.3-barcelona-20140518.csv,2,Sylvain Sudrie,32,---,FRA,00:23:15,02:22:18,01:14:46,00:01:38,00:00:46,04:02:43
+ironman-70.3-barcelona-20140518.csv,3,Per Bittner,29,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,4,Victor Del Corral,34,---,ESP,00:26:07,02:26:27,01:13:55,00:01:30,00:00:41,04:08:40
+ironman-70.3-barcelona-20140518.csv,5,Domenico Passuello,36,Intl State,ITA,00:26:06,02:28:08,01:15:15,00:01:54,00:00:45,04:12:08
+ironman-70.3-barcelona-20140518.csv,6,Sebastian Pedraza,41,Intl State,ITA,00:26:17,02:37:45,01:29:01,00:01:56,00:00:48,04:35:47
+ironman-70.3-barcelona-20140518.csv,8,Jan Van Berkel,28,---,CHE,00:23:17,02:22:01,01:20:37,00:01:53,00:00:45,04:08:33
+ironman-70.3-barcelona-20140518.csv,9,Markus Fachbach,---,---,DEU,00:23:20,02:27:21,01:21:02,00:01:39,00:00:47,04:14:09
+ironman-70.3-barcelona-20140518.csv,10,Will Clarke,29,Leicestershire,GBR,00:23:12,02:27:11,01:13:24,00:01:36,00:00:40,04:06:03
+ironman-70.3-barcelona-20140518.csv,11,Rasmus Petraeus,24,---,DNK,00:22:49,02:36:41,01:29:37,00:01:44,00:00:48,04:31:39
+ironman-70.3-barcelona-20140518.csv,12,Raul Amatriain Arraiza,---,---,ESP,00:26:01,02:32:36,01:13:54,00:01:52,00:00:39,04:15:02
+ironman-70.3-barcelona-20140518.csv,13,Alberto Aruffo,55,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,14,Patrick Bohan,---,---,ESP,00:38:19,03:06:40,01:57:14,00:04:35,00:00:58,05:47:46
+ironman-70.3-barcelona-20140518.csv,17,Niels Brandt-Jørgensen,30,---,DNK,00:27:54,02:34:46,01:16:42,00:02:09,00:00:44,04:22:15
+ironman-70.3-barcelona-20140518.csv,19,Richard Calle,33,Intl State,ESP,00:24:58,02:30:10,01:17:49,00:01:34,00:00:53,04:15:24
+ironman-70.3-barcelona-20140518.csv,20,Antonio Jose Cardona Garcia,---,Spain,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,21,Javier Castro,30,---,ESP,00:34:12,02:53:45,01:27:10,00:02:26,00:00:43,04:58:16
+ironman-70.3-barcelona-20140518.csv,22,Raúl Horacio Doldán,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,30,Michael Louys,27,---,BEL,00:28:00,02:41:45,01:22:05,00:01:48,00:00:44,04:34:22
+ironman-70.3-barcelona-20140518.csv,31,Matthias Mehr,40,Berlin,DEU,00:41:43,03:02:46,01:53:17,00:04:05,00:00:58,05:42:49
+ironman-70.3-barcelona-20140518.csv,32,Joan Monguillot,33,---,ESP,00:25:41,02:41:10,01:20:03,00:01:57,00:00:46,04:29:37
+ironman-70.3-barcelona-20140518.csv,33,Christian Nitschke,29,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,34,Bruno Pais,32,Intl State,PRT,00:23:14,02:27:14,01:14:12,00:01:32,00:00:41,04:06:53
+ironman-70.3-barcelona-20140518.csv,36,Santi Pellejero,41,---,ESP,00:23:10,02:43:49,01:31:15,00:01:47,00:00:47,04:40:48
+ironman-70.3-barcelona-20140518.csv,37,Arnau Figueras,---,Intl State,ESP,00:29:38,02:45:53,---,00:01:51,00:00:59,DNF
+ironman-70.3-barcelona-20140518.csv,38,Miguel Ivan Rodríguez Bermúdez,35,---,ESP,00:27:55,02:47:17,01:28:58,00:01:49,00:00:45,04:46:44
+ironman-70.3-barcelona-20140518.csv,41,David Rovira Doñate,---,---,ESP,00:27:50,02:55:26,01:29:20,00:02:03,00:00:48,04:55:27
+ironman-70.3-barcelona-20140518.csv,42,Tom Vander Hoogerstraete,26,---,BEL,00:23:11,---,---,00:01:38,---,DNF
+ironman-70.3-barcelona-20140518.csv,43,Lluis Vila Aguilar,30,---,ESP,00:27:59,02:46:27,01:18:45,00:02:00,00:00:47,04:35:58
+ironman-70.3-barcelona-20140518.csv,44,Andrej Vistica,30,Intl State,HRV,00:27:35,02:31:09,01:18:52,00:01:51,00:00:47,04:20:14
+ironman-70.3-barcelona-20140518.csv,45,Egoitz Zalakain,33,---,ESP,00:27:18,02:31:17,01:20:11,00:01:56,00:00:47,04:21:29
+ironman-70.3-barcelona-20140518.csv,46,Michael Ruenz,27,---,DEU,00:26:40,02:34:58,01:22:13,00:02:00,00:00:50,04:26:41
+ironman-70.3-barcelona-20140518.csv,47,Mads Vittrup-Pedersen,29,---,DNK,00:26:39,02:35:31,01:15:00,00:01:42,00:00:43,04:19:35
+ironman-70.3-barcelona-20140518.csv,48,Carlos Galindo,---,---,ESP,00:23:18,02:47:58,01:23:21,00:01:36,00:00:44,04:36:57
+ironman-70.3-barcelona-20140518.csv,50,Patrick Lange,27,---,DEU,00:23:17,02:31:49,01:13:25,00:01:30,00:00:41,04:10:42
+ironman-70.3-barcelona-20140518.csv,53,Martin Iraizoz Blanco,28,ES,ESP,00:27:40,02:36:25,01:35:40,00:01:55,00:00:53,04:42:33
+ironman-70.3-barcelona-20140518.csv,55,Diana Riesler,29,---,DEU,00:30:15,02:51:24,01:34:58,00:01:46,00:00:50,04:59:13
+ironman-70.3-barcelona-20140518.csv,56,Katja Konschak,35,---,DEU,00:26:29,---,01:23:25,00:02:18,03:30:16,04:53:41
+ironman-70.3-barcelona-20140518.csv,57,Tine Holst,34,---,DNK,00:33:50,---,01:34:15,00:02:17,03:30:33,05:04:48
+ironman-70.3-barcelona-20140518.csv,58,Alexandra Louison,31,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,59,Anna Rovira,33,Intl State,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,61,Camilla Pedersen,30,---,DNK,00:26:20,02:41:11,01:26:17,00:01:38,00:00:50,04:36:16
+ironman-70.3-barcelona-20140518.csv,62,Helena Herrero Gomez,37,---,ESP,00:31:28,03:06:13,01:26:26,00:02:39,00:01:06,05:07:52
+ironman-70.3-barcelona-20140518.csv,101,Fanny Bourdin,---,---,FRA,00:37:08,03:23:25,02:12:10,00:04:53,00:01:24,06:19:00
+ironman-70.3-barcelona-20140518.csv,102,Caroline Brasleret,29,FR,FRA,00:33:57,03:15:45,02:02:42,00:03:18,00:01:08,05:56:50
+ironman-70.3-barcelona-20140518.csv,103,Irene Rodríguez Güell,29,ES,ESP,00:34:44,03:14:59,01:47:33,00:04:12,00:01:03,05:42:31
+ironman-70.3-barcelona-20140518.csv,104,Bea Rodriguez Rodriguez,---,---,ESP,00:49:51,03:55:27,02:10:09,00:08:28,00:01:32,07:05:27
+ironman-70.3-barcelona-20140518.csv,105,Raquel Martin Fernandez,---,---,ESP,00:32:20,03:26:12,02:09:23,00:02:41,00:01:08,06:11:44
+ironman-70.3-barcelona-20140518.csv,106,Laura Homs Garcia,---,---,ESP,00:35:51,03:27:59,02:10:05,00:03:38,00:01:12,06:18:45
+ironman-70.3-barcelona-20140518.csv,107,Chelo Serrano Javaloyas,34,---,ESP,00:57:26,04:05:55,02:28:42,00:04:33,00:01:10,07:37:46
+ironman-70.3-barcelona-20140518.csv,108,Murielle Medard,34,---,FRA,00:39:38,03:14:03,01:57:00,00:03:58,00:01:23,05:56:02
+ironman-70.3-barcelona-20140518.csv,109,Nerea Velasco Ereño,---,---,ESP,00:38:55,03:49:45,02:15:51,00:04:25,00:01:33,06:50:29
+ironman-70.3-barcelona-20140518.csv,110,Regina Anna Mola Gibert,---,---,ESP,00:32:05,03:06:09,01:44:04,00:03:36,00:00:58,05:26:52
+ironman-70.3-barcelona-20140518.csv,111,Muriel Guilbaud,---,---,FRA,00:32:13,04:08:31,02:29:56,00:05:37,00:01:54,07:18:11
+ironman-70.3-barcelona-20140518.csv,112,Yohan Richy,---,---,FRA,00:32:31,03:31:13,02:24:20,00:03:25,00:01:17,06:32:46
+ironman-70.3-barcelona-20140518.csv,113,Thomas Bouisson,23,FR,FRA,00:28:15,02:55:00,01:43:00,00:02:25,00:00:53,05:09:33
+ironman-70.3-barcelona-20140518.csv,114,Adrian Adalid Morilla,23,---,ESP,00:40:17,03:30:21,02:23:20,00:06:30,00:01:25,06:41:53
+ironman-70.3-barcelona-20140518.csv,115,Alberto Montes Oliva,25,ES,ESP,00:28:59,03:03:42,01:54:00,00:02:14,00:01:03,05:29:58
+ironman-70.3-barcelona-20140518.csv,116,Robin Cochennec,---,---,FRA,00:38:31,03:16:17,02:03:28,00:04:21,00:01:22,06:03:59
+ironman-70.3-barcelona-20140518.csv,117,Jonathan Hernandez Novo,---,---,ESP,00:29:44,03:10:56,01:29:48,00:02:56,00:00:54,05:14:18
+ironman-70.3-barcelona-20140518.csv,118,Juan Antonio Rodriguez Galan,---,---,ESP,00:32:22,---,---,00:03:07,04:32:13,DNF
+ironman-70.3-barcelona-20140518.csv,119,Florian Rampon,---,---,FRA,00:40:19,03:10:46,01:59:33,00:04:48,00:01:05,05:56:31
+ironman-70.3-barcelona-20140518.csv,120,Manuel Parras Cifuentes,---,---,ESP,00:40:20,04:01:15,02:13:41,00:11:06,00:01:31,07:07:53
+ironman-70.3-barcelona-20140518.csv,121,Romain Forel,27,---,FRA,00:33:43,02:51:53,01:39:03,00:03:35,00:00:56,05:09:10
+ironman-70.3-barcelona-20140518.csv,122,Guillaume Brocco,28,---,FRA,00:27:28,02:37:19,01:21:57,00:02:08,00:00:45,04:29:37
+ironman-70.3-barcelona-20140518.csv,123,Javier Cavero Sáez,27,---,ESP,00:36:27,02:56:36,01:47:43,00:03:22,00:00:59,05:25:07
+ironman-70.3-barcelona-20140518.csv,124,Alexis Rocher,---,---,FRA,00:32:14,03:20:23,01:59:55,00:04:11,00:01:07,05:57:50
+ironman-70.3-barcelona-20140518.csv,125,Miguel Pã©rez Ramos,28,---,ESP,00:35:54,03:12:47,01:50:28,00:03:19,00:00:58,05:43:26
+ironman-70.3-barcelona-20140518.csv,126,David Bosch Peñarroja,29,ES,ESP,00:36:50,03:16:01,01:54:19,00:05:05,00:01:09,05:53:24
+ironman-70.3-barcelona-20140518.csv,127,Joel Clewett,29,SUSSEX,GBR,00:32:24,03:01:55,01:47:02,00:04:06,00:01:12,05:26:39
+ironman-70.3-barcelona-20140518.csv,128,Marc Rovira Doñate,29,---,ESP,00:31:01,---,01:32:49,00:02:07,03:27:50,05:00:39
+ironman-70.3-barcelona-20140518.csv,129,Jeremy Gallopin,---,---,FRA,00:39:41,03:09:59,02:05:10,00:05:32,00:01:20,06:01:42
+ironman-70.3-barcelona-20140518.csv,130,Jonathan Gallopin,29,---,FRA,00:31:58,02:51:51,01:39:30,00:03:55,00:01:05,05:08:19
+ironman-70.3-barcelona-20140518.csv,131,Sid Benkhelfallah,30,FR,FRA,00:33:03,03:03:36,01:38:48,00:04:02,00:00:57,05:20:26
+ironman-70.3-barcelona-20140518.csv,132,Marc Hervas Gomez,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,133,Morgan Aubert,30,---,FRA,00:28:45,02:43:21,01:23:00,00:01:51,00:00:44,04:37:41
+ironman-70.3-barcelona-20140518.csv,134,Oriol Pareja Carrillo,30,ES,ESP,00:28:17,02:57:00,01:37:36,00:02:53,00:00:53,05:06:39
+ironman-70.3-barcelona-20140518.csv,135,Alberto Diaz Lopez,31,ES,ESP,00:36:52,02:59:35,01:35:05,00:03:37,00:00:56,05:16:05
+ironman-70.3-barcelona-20140518.csv,136,Rémy Berard,32,---,FRA,00:35:44,03:03:05,01:38:32,00:03:41,00:00:59,05:22:01
+ironman-70.3-barcelona-20140518.csv,137,Olivier Ravenet Gerres,---,---,FRA,00:30:22,03:00:19,01:39:54,00:03:30,00:00:54,05:14:59
+ironman-70.3-barcelona-20140518.csv,138,Rod Dekanel,32,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,139,Delabasse Benjamin,---,---,BEL,00:30:40,02:57:11,01:49:01,00:03:20,00:01:00,05:21:12
+ironman-70.3-barcelona-20140518.csv,140,Javi Vallespí Cañadillas,33,ES,ESP,00:30:34,03:32:16,01:46:54,00:03:21,00:01:18,05:54:23
+ironman-70.3-barcelona-20140518.csv,141,Jaume Perez Valdivia,---,---,ESP,00:39:53,03:19:00,01:56:25,00:05:16,00:01:30,06:02:04
+ironman-70.3-barcelona-20140518.csv,142,Albert Garces,33,ES,ESP,00:29:10,02:40:11,01:25:23,00:02:29,00:00:49,04:38:02
+ironman-70.3-barcelona-20140518.csv,143,Sebastien Morin,---,---,FRA,00:34:58,02:58:11,01:50:03,00:04:13,00:01:09,05:28:34
+ironman-70.3-barcelona-20140518.csv,144,Javier Lorente,34,ES,ESP,00:37:42,03:08:21,01:51:46,00:04:11,00:01:10,05:43:10
+ironman-70.3-barcelona-20140518.csv,145,Dersu Lerma Sevilla,34,---,ESP,00:32:03,03:02:31,01:29:15,00:02:48,00:01:11,05:07:48
+ironman-70.3-barcelona-20140518.csv,146,Claret Rosset Hidalgo,---,---,ESP,00:32:50,02:54:36,01:39:55,00:03:58,00:00:57,05:12:16
+ironman-70.3-barcelona-20140518.csv,147,Didier Larriere,---,---,FRA,00:30:48,02:54:42,01:37:26,00:03:34,00:00:57,05:07:27
+ironman-70.3-barcelona-20140518.csv,148,Samuel Guichard,---,---,FRA,00:35:47,02:56:31,01:45:49,00:04:05,00:00:59,05:23:11
+ironman-70.3-barcelona-20140518.csv,149,Nicolas Philippon,34,---,FRA,00:33:32,03:01:12,01:47:54,00:02:47,00:01:03,05:26:28
+ironman-70.3-barcelona-20140518.csv,150,Raül Acezat Sancho,---,---,ESP,00:34:25,03:34:17,02:05:22,00:05:40,00:01:25,06:21:09
+ironman-70.3-barcelona-20140518.csv,151,Anton Pareja Carrillo,34,---,ESP,00:31:15,03:14:29,01:58:09,00:03:26,00:00:56,05:48:15
+ironman-70.3-barcelona-20140518.csv,152,Romain Reynaud,---,---,FRA,00:37:10,02:58:47,01:47:24,00:03:02,00:00:56,05:27:19
+ironman-70.3-barcelona-20140518.csv,153,Joan Herms,34,ES,ESP,00:39:37,03:17:25,01:38:52,00:05:11,00:01:18,05:42:23
+ironman-70.3-barcelona-20140518.csv,154,Cyril Pochon,35,---,FRA,00:26:33,02:41:35,01:21:53,00:02:11,00:00:51,04:33:03
+ironman-70.3-barcelona-20140518.csv,155,Sergio Giner Zafra,---,---,ESP,00:32:47,03:01:36,01:37:55,00:02:33,00:00:56,05:15:47
+ironman-70.3-barcelona-20140518.csv,156,Hervé Rimbaud,35,FR,FRA,00:24:34,03:05:50,01:58:05,00:03:06,00:01:13,05:32:48
+ironman-70.3-barcelona-20140518.csv,157,Xabier Amparan Corrales,35,---,ESP,00:28:40,02:39:08,01:31:02,00:02:29,00:00:56,04:42:15
+ironman-70.3-barcelona-20140518.csv,158,Sebastien Colliard,---,---,FRA,00:38:48,03:21:41,02:22:47,00:04:59,00:01:25,06:29:40
+ironman-70.3-barcelona-20140518.csv,159,David Fernández Álvarez,35,---,ESP,00:31:57,02:48:27,01:45:52,00:04:56,00:01:09,05:12:21
+ironman-70.3-barcelona-20140518.csv,160,Yvon Stortz,---,---,FRA,00:32:47,03:03:50,01:38:15,00:04:37,00:01:03,05:20:32
+ironman-70.3-barcelona-20140518.csv,161,Toni Martinez Marcos,---,---,ESP,00:38:09,03:11:49,01:47:08,00:04:59,00:01:05,05:43:10
+ironman-70.3-barcelona-20140518.csv,162,Thomas Gauthier,35,---,FRA,00:30:31,03:01:58,01:32:32,00:03:17,00:00:56,05:09:14
+ironman-70.3-barcelona-20140518.csv,163,Nicolas Berger,---,---,FRA,00:32:06,02:57:22,01:43:36,00:03:30,00:01:05,05:17:39
+ironman-70.3-barcelona-20140518.csv,164,Cedric Hautefaye,---,---,FRA,00:37:04,02:59:40,01:39:29,00:03:40,00:01:02,05:20:55
+ironman-70.3-barcelona-20140518.csv,165,Olivier Caratis,---,---,FRA,00:42:05,03:14:38,01:57:16,00:05:00,00:01:07,06:00:06
+ironman-70.3-barcelona-20140518.csv,166,Dani Campos Huertas,36,ES,ESP,00:34:04,02:50:35,01:28:38,00:03:09,00:00:50,04:57:16
+ironman-70.3-barcelona-20140518.csv,167,Ignasi Santafé Venteo,36,---,ESP,00:32:17,03:13:09,01:56:01,00:02:39,00:00:57,05:45:03
+ironman-70.3-barcelona-20140518.csv,168,Dimitri Stous,36,---,FRA,00:34:49,02:51:19,01:29:28,00:03:17,00:00:50,04:59:43
+ironman-70.3-barcelona-20140518.csv,169,Jerome Dumas,---,---,FRA,00:34:31,03:14:07,01:43:32,00:03:28,00:01:08,05:36:46
+ironman-70.3-barcelona-20140518.csv,170,Jean-Francois Gaurat,---,---,FRA,00:42:20,03:21:50,02:02:13,00:04:51,00:01:11,06:12:25
+ironman-70.3-barcelona-20140518.csv,171,Florian Fabre,36,---,FRA,00:33:32,03:32:53,02:13:21,00:04:24,00:01:50,06:26:00
+ironman-70.3-barcelona-20140518.csv,172,Jaume Gracia I Alcàcer,---,---,ESP,00:35:57,03:06:09,01:55:00,00:04:24,00:01:23,05:42:53
+ironman-70.3-barcelona-20140518.csv,173,Jérôme Boujon,---,---,FRA,00:30:49,02:59:32,01:46:50,00:04:39,00:01:21,05:23:11
+ironman-70.3-barcelona-20140518.csv,174,Marc Baquero Fàbregas,37,---,ESP,00:32:11,03:17:17,01:37:16,00:03:35,00:00:54,05:31:13
+ironman-70.3-barcelona-20140518.csv,175,Antonio Lorente Sanchez,---,---,ESP,00:40:03,03:14:46,02:00:03,00:03:49,00:01:16,05:59:57
+ironman-70.3-barcelona-20140518.csv,176,Jose Carlos Rivas Rivas,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,177,Mickael Letellier,---,---,FRA,00:32:12,02:52:18,01:35:47,00:03:02,00:00:52,05:04:11
+ironman-70.3-barcelona-20140518.csv,178,Juan Luis Rodriguez Mateos,---,---,ESP,00:37:54,03:28:59,02:09:44,00:04:30,00:01:52,06:22:59
+ironman-70.3-barcelona-20140518.csv,179,Jaume Salvador López,---,---,ESP,00:31:15,02:54:32,01:34:02,00:03:27,00:00:56,05:04:12
+ironman-70.3-barcelona-20140518.csv,180,Stéphane Cottereau,38,FR,FRA,00:28:53,---,01:27:38,00:02:58,03:27:56,04:55:34
+ironman-70.3-barcelona-20140518.csv,181,Sergio Extremera Ruiz,---,---,ESP,00:33:16,03:03:35,01:45:03,00:03:20,00:00:58,05:26:12
+ironman-70.3-barcelona-20140518.csv,182,Raul Ruiz Perez,38,ES,ESP,00:35:06,03:01:42,01:43:54,00:03:05,00:00:58,05:24:45
+ironman-70.3-barcelona-20140518.csv,183,Jordi Martinez Santiago,38,ES,ESP,00:28:54,03:08:58,01:30:50,00:03:17,00:01:07,05:13:06
+ironman-70.3-barcelona-20140518.csv,184,Jerôme Andre,---,---,FRA,00:37:10,03:10:01,02:15:12,00:05:15,00:01:13,06:08:51
+ironman-70.3-barcelona-20140518.csv,185,Christophe Guiguet,---,---,FRA,00:41:32,03:23:46,02:14:13,00:04:05,00:01:11,06:24:47
+ironman-70.3-barcelona-20140518.csv,186,Albert Camps  Serra,---,---,ESP,00:35:07,02:45:24,01:35:08,00:05:16,00:00:57,05:01:52
+ironman-70.3-barcelona-20140518.csv,187,Dani Miró,---,---,ESP,00:39:55,03:28:20,01:57:59,00:05:18,00:01:08,06:12:40
+ironman-70.3-barcelona-20140518.csv,188,Fabien Le Goff,40,FR,FRA,00:31:18,02:58:25,01:50:23,00:03:59,00:01:10,05:25:15
+ironman-70.3-barcelona-20140518.csv,189,Cyril Mellet,41,FR,FRA,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,190,Sebastien Emery,40,FR,FRA,00:28:57,---,01:28:40,00:02:26,03:27:13,04:55:53
+ironman-70.3-barcelona-20140518.csv,191,Daniele Saba,40,---,ITA,00:35:55,03:07:56,01:54:26,00:02:59,00:01:05,05:42:21
+ironman-70.3-barcelona-20140518.csv,192,Franck Lefevre,---,---,FRA,00:39:57,03:34:34,02:29:13,00:07:13,00:01:31,06:52:28
+ironman-70.3-barcelona-20140518.csv,193,Romuald Granade,41,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,194,Nicolas Proust,---,---,FRA,00:36:03,02:55:08,02:00:26,00:02:29,00:01:08,05:35:14
+ironman-70.3-barcelona-20140518.csv,195,Miguel Angel Ruiz Cuadra,41,---,ESP,00:31:00,---,01:39:13,00:03:46,03:27:46,05:06:59
+ironman-70.3-barcelona-20140518.csv,196,Javier Sierra Siles,41,ES,ESP,00:34:19,02:52:48,01:40:31,00:03:30,00:00:54,05:12:02
+ironman-70.3-barcelona-20140518.csv,197,Oriol Fogueras Bayarri,41,---,ESP,00:41:29,03:41:51,02:20:44,00:06:18,00:01:27,06:51:49
+ironman-70.3-barcelona-20140518.csv,198,Christian Larif,---,---,FRA,00:40:18,03:13:09,02:03:36,00:04:14,00:01:23,06:02:40
+ironman-70.3-barcelona-20140518.csv,199,Eric Roblin,---,---,FRA,00:41:24,02:54:28,01:25:54,00:05:06,00:00:57,05:07:49
+ironman-70.3-barcelona-20140518.csv,200,Daniel Carrera Gomez,41,---,ESP,00:38:44,03:03:38,01:34:34,00:04:52,00:01:08,05:22:56
+ironman-70.3-barcelona-20140518.csv,201,Sébastien Clavier,---,---,FRA,00:39:27,03:11:52,01:40:15,00:05:50,00:00:56,05:38:20
+ironman-70.3-barcelona-20140518.csv,202,Charles-Henri Perrocheau,42,---,FRA,00:32:13,02:57:28,01:37:12,00:02:16,00:00:49,05:09:58
+ironman-70.3-barcelona-20140518.csv,203,Calum Maccuish,43,---,GBR,00:34:54,03:16:32,01:57:06,00:04:02,00:01:13,05:53:47
+ironman-70.3-barcelona-20140518.csv,204,Javier Navarro García,---,---,ESP,00:32:39,02:55:39,01:36:50,00:03:17,00:00:57,05:09:22
+ironman-70.3-barcelona-20140518.csv,205,Oscar Bartolomé Lafuente,---,---,ESP,00:29:00,03:01:29,01:35:24,00:03:36,00:00:59,05:10:28
+ironman-70.3-barcelona-20140518.csv,206,Gabi Pozo Junquero,43,ES,ESP,00:32:08,---,01:57:48,00:03:49,03:27:54,05:25:42
+ironman-70.3-barcelona-20140518.csv,207,Aubin Aubin Christophe,---,---,FRA,00:41:28,04:15:25,02:48:56,00:06:44,00:01:37,07:54:10
+ironman-70.3-barcelona-20140518.csv,208,François Robineau,43,FR,FRA,00:30:23,03:00:22,01:55:42,00:02:53,00:01:06,05:30:26
+ironman-70.3-barcelona-20140518.csv,209,Laurent Petermann,43,---,FRA,00:29:48,02:49:52,01:27:26,00:02:50,00:00:54,04:50:50
+ironman-70.3-barcelona-20140518.csv,210,Antonio Guerrero Dominguez,---,---,ESP,00:33:54,---,---,00:05:22,---,DNF
+ironman-70.3-barcelona-20140518.csv,211,Enric Subiña Coll,---,---,ESP,00:40:08,03:10:56,02:00:18,00:04:04,00:01:18,05:56:44
+ironman-70.3-barcelona-20140518.csv,212,Lionnel Montpied,44,---,FRA,00:38:21,02:56:18,01:53:08,00:04:01,00:01:07,05:32:55
+ironman-70.3-barcelona-20140518.csv,213,Christian Counil,44,---,FRA,00:36:18,03:08:15,01:38:49,00:03:23,00:00:52,05:27:37
+ironman-70.3-barcelona-20140518.csv,214,Laurent Mondet,---,---,FRA,00:45:41,03:45:03,02:32:10,00:04:32,00:01:36,07:09:02
+ironman-70.3-barcelona-20140518.csv,215,Eric Chereau,---,---,FRA,00:42:30,03:08:52,02:12:04,00:06:16,00:01:29,06:11:11
+ironman-70.3-barcelona-20140518.csv,216,Baret Vincent,---,---,FRA,00:36:00,02:54:08,02:20:23,00:05:04,00:01:05,05:56:40
+ironman-70.3-barcelona-20140518.csv,217,Yannick Buisson,---,---,FRA,00:44:47,03:21:21,01:41:59,00:06:29,00:01:23,05:55:59
+ironman-70.3-barcelona-20140518.csv,218,Franck Garnier,---,---,FRA,00:32:26,03:32:09,02:02:34,00:03:44,00:01:33,06:12:26
+ironman-70.3-barcelona-20140518.csv,219,Louis Baquero,---,---,FRA,00:31:51,03:16:27,02:02:11,00:03:55,00:01:03,05:55:27
+ironman-70.3-barcelona-20140518.csv,220,Myles Rapley,46,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,221,Emmanuel Focheux,---,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,222,Christophe Pasquier,47,---,FRA,00:37:04,03:01:03,01:53:45,00:03:21,00:01:00,05:36:13
+ironman-70.3-barcelona-20140518.csv,223,Jean Christophe Montaliu,48,---,FRA,00:31:57,02:54:32,01:36:44,00:03:05,00:00:55,05:07:13
+ironman-70.3-barcelona-20140518.csv,224,Didier Brouzes,49,---,FRA,00:38:01,03:18:53,02:00:04,00:06:02,00:01:19,06:04:19
+ironman-70.3-barcelona-20140518.csv,225,William Scheffer,---,---,FRA,00:31:54,02:50:25,01:33:38,00:03:12,00:00:55,05:00:04
+ironman-70.3-barcelona-20140518.csv,226,Patrick Bourrel,---,---,FRA,00:35:00,02:50:32,01:34:27,00:05:11,00:01:00,05:06:10
+ironman-70.3-barcelona-20140518.csv,227,Lesoeur Lesoeur,---,---,FRA,00:30:49,02:53:54,01:45:01,00:04:04,00:01:12,05:15:00
+ironman-70.3-barcelona-20140518.csv,228,Philippe Ruffet-Bon-Corps,52,---,FRA,00:37:48,02:57:28,01:47:12,00:05:25,00:01:00,05:28:53
+ironman-70.3-barcelona-20140518.csv,229,Peter Huybrechts,---,---,FRA,00:42:42,03:24:00,02:00:42,00:04:41,00:01:14,06:13:19
+ironman-70.3-barcelona-20140518.csv,230,Gil Lopez Domenech,---,---,ESP,00:35:25,03:08:59,01:42:44,00:03:04,00:01:32,05:31:44
+ironman-70.3-barcelona-20140518.csv,231,Bruno Bossa,42,FR,FRA,00:32:51,03:03:45,01:43:17,00:04:24,00:01:15,05:25:32
+ironman-70.3-barcelona-20140518.csv,232,Carles Romera,32,ES,ESP,00:38:27,03:07:20,01:45:27,00:04:08,00:00:56,05:36:18
+ironman-70.3-barcelona-20140518.csv,233,Alberto Torrico,---,---,ESP,00:27:46,03:31:43,02:13:46,00:05:20,00:01:33,06:20:08
+ironman-70.3-barcelona-20140518.csv,234,Víctor Aparicio Palomar,---,---,ESP,00:38:06,03:03:09,01:42:21,00:04:34,00:01:03,05:29:13
+ironman-70.3-barcelona-20140518.csv,235,Severino Frederic,---,---,FRA,00:31:57,03:03:30,01:42:16,00:03:24,00:01:04,05:22:11
+ironman-70.3-barcelona-20140518.csv,236,Manuel Broto,32,ES,ESP,00:33:20,02:55:15,01:41:19,00:03:00,00:00:52,05:13:46
+ironman-70.3-barcelona-20140518.csv,237,Francesc Xavier Simo Pereira,41,ES,ESP,00:40:34,03:33:26,02:07:45,00:07:30,00:01:57,06:31:12
+ironman-70.3-barcelona-20140518.csv,238,Didier Icard,44,---,FRA,00:38:05,03:02:52,01:56:25,00:04:28,00:01:09,05:42:59
+ironman-70.3-barcelona-20140518.csv,239,Jaume Teres Costa,52,---,ESP,00:33:26,03:09:44,01:41:11,00:04:39,00:01:16,05:30:16
+ironman-70.3-barcelona-20140518.csv,240,Stéphane BOURGOIS,37,---,FRA,00:36:09,03:05:03,02:12:17,00:04:03,00:01:15,05:58:47
+ironman-70.3-barcelona-20140518.csv,241,Arnaud Rouquette,37,FR,FRA,00:46:57,02:57:43,01:50:24,00:06:06,00:01:12,05:42:22
+ironman-70.3-barcelona-20140518.csv,242,Guillaume Duforest,---,---,FRA,00:32:05,---,01:38:00,00:03:17,03:28:35,05:06:35
+ironman-70.3-barcelona-20140518.csv,251,Valentine Filleul,21,---,FRA,00:35:04,02:59:54,01:50:45,00:04:10,00:01:01,05:30:54
+ironman-70.3-barcelona-20140518.csv,252,Elisa Chisci,---,---,ITA,00:37:58,03:12:17,02:05:34,00:05:55,00:01:10,06:02:54
+ironman-70.3-barcelona-20140518.csv,253,Judit Zaragoza Rodriguez,---,---,ESP,00:32:08,03:17:03,02:10:33,00:02:22,00:01:09,06:03:15
+ironman-70.3-barcelona-20140518.csv,254,Neus Vidal Puchades,---,---,ESP,00:33:45,03:06:05,01:47:16,00:03:00,00:01:00,05:31:06
+ironman-70.3-barcelona-20140518.csv,255,Esther Vidal Pajares,25,ES,ESP,00:37:39,03:24:16,02:00:40,00:02:43,00:01:10,06:06:28
+ironman-70.3-barcelona-20140518.csv,256,Anni Toppila,---,---,FIN,00:35:47,03:39:36,02:12:12,00:03:58,00:01:27,06:33:00
+ironman-70.3-barcelona-20140518.csv,257,Natàlia Rey Carreras,---,---,ESP,00:33:52,03:00:49,01:47:50,00:02:29,00:00:56,05:25:56
+ironman-70.3-barcelona-20140518.csv,258,Marie Llacer,27,FR,FRA,00:37:52,03:17:05,01:55:40,00:03:31,00:01:10,05:55:18
+ironman-70.3-barcelona-20140518.csv,259,SANDRA HERNANDEZ,28,---,ESP,00:33:58,03:38:48,01:48:43,00:03:49,00:01:10,06:06:28
+ironman-70.3-barcelona-20140518.csv,260,Raquel Gutiérrez Abad,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,261,Flo Dirks,---,---,NLD,00:47:59,03:55:38,01:58:38,00:08:30,00:01:42,06:52:27
+ironman-70.3-barcelona-20140518.csv,262,Barbara Dirks,---,---,NLD,00:46:58,03:55:38,02:10:30,00:09:32,00:01:42,07:04:20
+ironman-70.3-barcelona-20140518.csv,263,Ada Carrasco Jiménez,29,ES,ESP,00:35:40,03:10:06,01:45:49,00:03:45,00:01:13,05:36:33
+ironman-70.3-barcelona-20140518.csv,264,Louise Basty,---,---,FRA,00:36:00,03:23:54,02:00:11,00:04:56,00:01:20,06:06:21
+ironman-70.3-barcelona-20140518.csv,265,Mireia Arrillaga Murelaga,---,---,ESP,00:29:29,03:05:28,01:41:25,00:02:07,00:00:54,05:19:23
+ironman-70.3-barcelona-20140518.csv,266,Astrid Álvarez,28,ES,ESP,00:35:45,03:32:39,01:49:52,00:04:20,00:01:22,06:03:58
+ironman-70.3-barcelona-20140518.csv,267,Sandra Vicente,30,ES,ESP,00:36:24,03:57:47,01:57:25,00:04:52,00:01:22,06:37:50
+ironman-70.3-barcelona-20140518.csv,268,Sandie Themsen,---,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,269,Rachele Sonnino,---,---,ITA,00:35:24,03:17:27,02:00:57,00:05:56,00:01:06,06:00:50
+ironman-70.3-barcelona-20140518.csv,270,Ludivine Sanz,---,---,FRA,00:30:34,03:22:37,01:57:12,00:04:01,00:01:12,05:55:36
+ironman-70.3-barcelona-20140518.csv,271,Meritxell Ros Domènech,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,272,Vera Petrova,---,---,RUS,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,273,Cristina Moreno Gonzã¡lez,31,---,ESP,00:36:11,03:20:34,01:53:22,00:04:54,00:01:19,05:56:20
+ironman-70.3-barcelona-20140518.csv,274,Jannie Mark,34,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,275,Nelly Manzanera,---,---,FRA,00:43:28,03:50:43,02:32:00,00:06:23,00:01:54,07:14:28
+ironman-70.3-barcelona-20140518.csv,276,Marie-Louise Mannesson,33,SE,SWE,00:42:41,03:42:45,01:52:04,00:07:51,00:01:42,06:27:03
+ironman-70.3-barcelona-20140518.csv,277,Karina Holmsted Kieffer,33,---,DNK,00:36:52,03:06:49,02:01:08,00:05:09,00:01:18,05:51:16
+ironman-70.3-barcelona-20140518.csv,278,Anna-Maria Kahkonen,32,Uusimaa,FIN,00:38:18,03:35:55,01:51:36,00:03:55,00:01:09,06:10:53
+ironman-70.3-barcelona-20140518.csv,279,Anna Jackson,---,---,GBR,00:32:01,03:26:54,02:01:21,00:02:57,00:01:09,06:04:22
+ironman-70.3-barcelona-20140518.csv,280,Ani Hernandez Roldan,---,---,ESP,00:43:27,03:29:33,02:06:10,00:05:05,00:01:13,06:25:28
+ironman-70.3-barcelona-20140518.csv,281,Tatiana Chantant,33,---,FRA,00:44:38,03:44:13,02:05:50,00:05:15,00:01:17,06:41:13
+ironman-70.3-barcelona-20140518.csv,282,Gabriella Bucci,---,---,ESP,00:36:14,03:53:56,02:10:27,00:03:48,00:02:27,06:46:52
+ironman-70.3-barcelona-20140518.csv,283,Alicia Bamford,---,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,284,Janne Holstein Pehrson,32,---,DNK,00:41:09,03:39:16,02:17:49,00:04:16,00:01:53,06:44:23
+ironman-70.3-barcelona-20140518.csv,285,Silvia Abella Romeu,24,---,ESP,00:48:06,04:28:07,02:29:15,00:06:20,00:01:22,07:53:10
+ironman-70.3-barcelona-20140518.csv,286,Clara Soms Ureña,---,---,ESP,00:36:13,03:10:12,01:54:08,00:03:30,00:01:04,05:45:07
+ironman-70.3-barcelona-20140518.csv,287,Kirsten Smith,---,---,GBR,00:33:39,03:32:53,02:02:54,00:03:58,00:01:12,06:14:36
+ironman-70.3-barcelona-20140518.csv,288,Silvia Serra Lluveras,---,---,ESP,00:36:08,03:41:12,02:08:54,00:04:08,00:01:26,06:31:48
+ironman-70.3-barcelona-20140518.csv,289,Sandra Sardina Fuentes,37,ES,ESP,00:37:56,03:14:03,02:00:23,00:04:18,00:01:23,05:58:03
+ironman-70.3-barcelona-20140518.csv,290,Ailine Roland,35,CH,CHE,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,291,Anne Sophie Remy,37,---,FRA,00:31:28,03:16:41,01:42:07,00:02:51,00:00:59,05:34:06
+ironman-70.3-barcelona-20140518.csv,292,Eva Pérez Trujillo,---,---,ESP,00:39:36,03:37:13,02:00:16,00:05:23,00:01:07,06:23:35
+ironman-70.3-barcelona-20140518.csv,293,Loli Parriego Martínez,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,294,Elina Myllymäki,38,---,FIN,00:43:07,04:24:36,02:19:01,00:05:43,00:01:19,07:33:46
+ironman-70.3-barcelona-20140518.csv,295,Montse López Ribas,---,---,ESP,00:40:19,04:18:39,02:46:42,00:03:26,00:01:08,07:50:14
+ironman-70.3-barcelona-20140518.csv,296,Sanna Lassila,36,Uusimaa,---,00:38:39,03:34:39,01:54:49,00:04:30,00:01:26,06:14:03
+ironman-70.3-barcelona-20140518.csv,297,Elisa García Córcoles,---,---,ESP,00:38:23,03:31:42,01:58:22,00:04:00,00:01:17,06:13:44
+ironman-70.3-barcelona-20140518.csv,298,Ana Frutos,34,---,ESP,00:39:52,03:52:18,02:44:07,00:06:29,00:02:02,07:24:48
+ironman-70.3-barcelona-20140518.csv,299,Mirela Fernanda Galvão Paraná,---,---,BRA,00:35:52,---,---,00:06:59,---,DNF
+ironman-70.3-barcelona-20140518.csv,300,Lola Espinosa Raya,---,---,ESP,00:46:31,03:56:57,02:15:11,00:06:37,00:01:22,07:06:38
+ironman-70.3-barcelona-20140518.csv,301,Ana Carolina Dugoni,38,---,ESP,00:47:49,04:27:19,02:26:25,00:07:13,00:01:26,07:50:12
+ironman-70.3-barcelona-20140518.csv,302,Daniela Di,35,DE,DEU,00:33:57,03:05:07,01:47:32,00:02:20,00:00:54,05:29:50
+ironman-70.3-barcelona-20140518.csv,303,Camila Damo Benvegnu Piragine,---,---,BRA,00:38:43,04:10:19,02:04:28,00:08:07,00:01:31,07:03:08
+ironman-70.3-barcelona-20140518.csv,304,Mielke Christine,---,---,FRA,00:34:04,03:20:15,01:46:50,00:03:49,00:01:10,05:46:08
+ironman-70.3-barcelona-20140518.csv,305,Amanda Buch,38,ES,ESP,00:39:09,03:24:47,01:56:06,00:04:14,00:01:28,06:05:44
+ironman-70.3-barcelona-20140518.csv,306,Alejandra Brea Orengo,38,---,ESP,00:38:40,03:40:14,01:52:41,00:04:39,00:01:16,06:17:30
+ironman-70.3-barcelona-20140518.csv,307,Aline Bosch Mathias,---,---,ESP,00:39:00,04:00:52,02:28:27,00:04:05,00:02:22,07:14:46
+ironman-70.3-barcelona-20140518.csv,308,Petra Bilthof,35,---,NLD,00:43:01,03:34:00,01:48:07,00:06:20,00:01:13,06:12:41
+ironman-70.3-barcelona-20140518.csv,309,Mireia Sanchez Salamí,42,ES,ESP,00:31:34,03:37:39,01:52:37,00:03:38,00:01:16,06:06:44
+ironman-70.3-barcelona-20140518.csv,310,Laia Salvador,42,ES,ESP,00:36:35,03:38:59,01:56:07,00:03:38,00:01:16,06:16:35
+ironman-70.3-barcelona-20140518.csv,311,Isabelle Roux,41,---,FRA,00:37:28,03:42:38,02:21:25,00:05:10,00:01:47,06:48:28
+ironman-70.3-barcelona-20140518.csv,312,Paula Roig,43,---,ESP,00:41:28,03:36:08,02:23:16,00:05:04,00:01:20,06:47:16
+ironman-70.3-barcelona-20140518.csv,313,Nathalie Rebeyrole,39,---,FRA,00:35:37,03:03:21,01:35:50,00:03:37,00:01:00,05:19:25
+ironman-70.3-barcelona-20140518.csv,314,Carmen Medina Fernández,44,---,ESP,00:35:55,03:37:13,01:59:25,00:03:32,00:01:17,06:17:22
+ironman-70.3-barcelona-20140518.csv,315,Rosa Meca,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,316,Delphine Manzanera,---,---,FRA,00:35:48,03:20:36,02:05:35,00:05:04,00:01:02,06:08:05
+ironman-70.3-barcelona-20140518.csv,317,Maya Kogan,42,---,ISR,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,318,Fiona Hillary,41,---,IRL,00:48:24,04:52:17,02:47:00,00:07:02,00:01:53,08:36:36
+ironman-70.3-barcelona-20140518.csv,319,Eva Helms,44,---,DEU,00:33:21,03:01:31,01:43:46,00:02:17,00:00:58,05:21:53
+ironman-70.3-barcelona-20140518.csv,320,Stéphanie Gerard,42,---,FRA,00:33:49,03:44:12,02:08:36,00:04:08,00:01:14,06:31:59
+ironman-70.3-barcelona-20140518.csv,321,Marta Galvez,---,---,ESP,00:37:45,03:31:10,01:44:46,00:04:27,00:01:08,05:59:16
+ironman-70.3-barcelona-20140518.csv,322,Montse Galbany,41,---,ESP,00:35:43,---,---,00:04:25,---,DNF
+ironman-70.3-barcelona-20140518.csv,323,Julie Facello,---,---,FRA,00:46:19,04:18:27,02:22:05,00:08:41,00:01:32,07:37:04
+ironman-70.3-barcelona-20140518.csv,324,Aurore Diaz,40,---,FRA,00:31:00,03:26:50,02:24:50,00:03:18,00:01:22,06:27:20
+ironman-70.3-barcelona-20140518.csv,325,Sophie Caillens,41,---,FRA,00:37:28,03:38:40,02:08:00,00:05:24,00:01:12,06:30:44
+ironman-70.3-barcelona-20140518.csv,326,Lourdes Bujaldón Carreño,---,---,ESP,00:38:13,03:34:34,02:07:34,00:05:47,00:01:15,06:27:23
+ironman-70.3-barcelona-20140518.csv,327,Florence Bruel,---,---,FRA,00:33:10,03:04:01,01:40:49,00:03:00,00:01:09,05:22:09
+ironman-70.3-barcelona-20140518.csv,328,Isabelle Artusio,---,---,FRA,01:01:03,03:34:22,01:58:26,00:04:05,00:01:49,06:39:45
+ironman-70.3-barcelona-20140518.csv,329,Rikke Andersen,40,---,DNK,00:38:38,03:45:17,02:16:21,00:10:35,00:01:38,06:52:29
+ironman-70.3-barcelona-20140518.csv,330,Aileen Kelly,44,---,GBR,00:41:06,03:40:26,01:53:33,00:05:22,00:01:12,06:21:39
+ironman-70.3-barcelona-20140518.csv,331,Lourdes Torres Baumgartner,46,ES,ESP,00:43:57,04:01:15,02:46:13,00:06:37,00:02:27,07:40:29
+ironman-70.3-barcelona-20140518.csv,332,Flo Tellez Gonzalez,47,---,ESP,00:42:12,03:39:55,01:55:29,00:04:25,00:01:24,06:23:25
+ironman-70.3-barcelona-20140518.csv,333,Sophie Taupin,---,---,FRA,00:36:14,04:02:39,02:28:40,00:06:06,00:01:36,07:15:15
+ironman-70.3-barcelona-20140518.csv,334,Tatiana Santamaria,---,---,ESP,00:37:14,03:40:08,02:35:24,00:03:53,00:01:24,06:58:03
+ironman-70.3-barcelona-20140518.csv,335,Neus Pujol Sureda,---,---,ESP,00:38:56,04:10:42,02:10:52,00:06:44,00:01:25,07:08:39
+ironman-70.3-barcelona-20140518.csv,336,Véronique Pellegry,46,FR,FRA,00:38:18,03:51:31,02:00:48,00:05:50,00:01:35,06:38:02
+ironman-70.3-barcelona-20140518.csv,337,Barbara Peeters,47,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,338,Beatriz Molero Beltran,47,ES,ESP,00:38:27,---,---,00:04:29,---,DNF
+ironman-70.3-barcelona-20140518.csv,339,Anke Heines,49,---,DEU,00:37:18,03:37:23,02:08:18,00:04:01,00:01:08,06:28:08
+ironman-70.3-barcelona-20140518.csv,340,Eugenia Gonzalez,44,---,ESP,00:36:18,03:41:50,02:16:16,00:03:53,00:01:10,06:39:27
+ironman-70.3-barcelona-20140518.csv,341,Emi Dosta,45,ES,ESP,00:38:15,03:32:57,02:03:54,00:04:47,00:01:09,06:21:02
+ironman-70.3-barcelona-20140518.csv,342,Mouchet Chantal,---,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,343,Catriona Bruce,47,---,GBR,00:33:31,03:27:45,02:06:13,00:04:35,00:01:21,06:13:25
+ironman-70.3-barcelona-20140518.csv,344,Anne Brette,48,---,FRA,00:44:03,04:01:57,02:20:57,00:06:25,00:01:48,07:15:10
+ironman-70.3-barcelona-20140518.csv,345,Mar Bonilla Millan,45,---,ESP,00:37:16,03:58:32,01:57:59,00:05:46,00:01:20,06:40:53
+ironman-70.3-barcelona-20140518.csv,346,Karen Watson,---,---,GBR,00:41:46,03:47:12,02:35:23,00:05:12,00:01:27,07:11:00
+ironman-70.3-barcelona-20140518.csv,347,Montse Rovira Zurriaga,46,ES,ESP,00:37:22,03:46:05,02:10:26,00:05:39,00:01:11,06:40:43
+ironman-70.3-barcelona-20140518.csv,348,Jane Moncrieff,---,---,GBR,00:40:53,04:25:03,---,00:05:01,00:03:06,DNF
+ironman-70.3-barcelona-20140518.csv,349,Sylvie Henry,51,---,FRA,00:47:33,04:23:58,02:22:17,00:09:09,00:01:54,07:44:51
+ironman-70.3-barcelona-20140518.csv,350,Kristin Henderson,49,CO,GBR,00:35:48,03:05:09,01:45:57,00:03:44,00:01:22,05:32:00
+ironman-70.3-barcelona-20140518.csv,351,Lesley Booth,---,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,352,Marie-Hélène Rouch,56,---,FRA,00:38:04,---,---,00:05:46,---,DNF
+ironman-70.3-barcelona-20140518.csv,353,Lisa Cockburn,54,---,TTO,00:41:48,03:46:44,02:08:59,00:08:26,00:01:48,06:47:45
+ironman-70.3-barcelona-20140518.csv,354,Ghislaine Caminotto,54,FR,FRA,00:48:51,04:26:48,02:38:42,00:05:34,00:01:50,08:01:45
+ironman-70.3-barcelona-20140518.csv,355,Francoise Haudry,61,---,FRA,00:35:46,03:22:35,02:17:48,00:04:11,00:01:26,06:21:46
+ironman-70.3-barcelona-20140518.csv,356,Elena De La Peña Ambite,---,---,ESP,00:42:06,05:08:02,02:29:37,00:08:18,00:02:08,08:30:11
+ironman-70.3-barcelona-20140518.csv,357,Victoria Marhuenda,23,ES,ESP,00:41:10,04:33:01,02:29:22,00:06:11,00:01:49,07:51:33
+ironman-70.3-barcelona-20140518.csv,358,Valeria Boi,37,---,ITA,00:38:08,03:47:25,02:22:33,00:06:17,00:01:47,06:56:10
+ironman-70.3-barcelona-20140518.csv,359,Lena Holmgren,32,SE,SWE,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,360,Alexandra Gisbert Lucea,24,---,ESP,00:42:16,04:15:05,02:04:48,00:06:31,00:01:37,07:10:17
+ironman-70.3-barcelona-20140518.csv,361,Céline Philippe,38,---,FRA,00:37:13,03:13:45,01:48:33,00:04:56,00:01:15,05:45:42
+ironman-70.3-barcelona-20140518.csv,362,Maria Jose Martinez,37,---,ESP,00:43:51,04:21:01,02:30:38,00:05:50,00:02:00,07:43:20
+ironman-70.3-barcelona-20140518.csv,381,Iñigo Yoldi Amorena,---,---,ESP,00:32:44,03:03:48,01:38:32,00:03:31,00:00:58,05:19:33
+ironman-70.3-barcelona-20140518.csv,382,Javier Yagüe Gil,---,---,ESP,00:36:08,02:50:55,01:32:56,00:05:24,00:00:53,05:06:16
+ironman-70.3-barcelona-20140518.csv,383,Jamie Wood,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,384,Tim Willems,33,---,BEL,00:35:21,---,---,00:04:54,---,DNF
+ironman-70.3-barcelona-20140518.csv,385,Xavi Vives Vila,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,386,Carlos Vives Gaseni,32,---,ESP,00:30:12,02:53:31,01:27:18,00:03:12,00:01:05,04:55:18
+ironman-70.3-barcelona-20140518.csv,387,Sergio Vivas Tapia,---,---,ESP,00:33:54,03:15:35,01:46:06,00:05:00,00:01:01,05:41:36
+ironman-70.3-barcelona-20140518.csv,388,Oriol Vidal Cayro,33,---,ESP,00:31:15,02:51:00,01:52:08,00:03:33,00:00:56,05:18:52
+ironman-70.3-barcelona-20140518.csv,389,Danny Verdoorn,34,---,NLD,00:37:17,03:00:34,01:40:55,00:06:36,00:01:14,05:26:36
+ironman-70.3-barcelona-20140518.csv,390,Xavi Valverde,32,---,ESP,00:32:39,03:01:48,01:41:49,00:03:31,00:01:09,05:20:56
+ironman-70.3-barcelona-20140518.csv,391,Ferran Vallverdú,31,---,ESP,00:43:41,03:32:59,02:09:39,00:08:08,00:01:17,06:35:44
+ironman-70.3-barcelona-20140518.csv,392,Juan Jose Valero Puertas,---,---,ESP,00:34:40,03:03:10,01:51:12,00:04:26,00:01:11,05:34:39
+ironman-70.3-barcelona-20140518.csv,393,Santiago Ulldemolins Martinez,---,---,ESP,00:31:19,03:34:13,01:55:20,00:05:37,00:01:30,06:07:59
+ironman-70.3-barcelona-20140518.csv,394,Ofer Tzarfaty,32,Israel,ISR,00:45:57,03:33:09,02:24:18,00:06:13,00:01:39,06:51:16
+ironman-70.3-barcelona-20140518.csv,395,Rubén Torres García,30,---,ESP,00:36:28,03:53:27,02:09:56,00:05:50,00:01:51,06:47:32
+ironman-70.3-barcelona-20140518.csv,396,Agustin Toribio Cabrera,32,---,ESP,00:33:59,02:48:14,01:39:41,00:04:25,00:00:50,05:07:09
+ironman-70.3-barcelona-20140518.csv,397,Franky Tolra Lopez,---,---,ESP,00:29:49,02:54:37,---,00:03:10,00:01:18,DNF
+ironman-70.3-barcelona-20140518.csv,398,Marc Tarroch Garcia,---,---,ESP,00:33:17,02:54:04,01:47:51,00:04:05,00:01:13,05:20:30
+ironman-70.3-barcelona-20140518.csv,399,Pierre-Yves Tachon,30,---,FRA,00:34:00,02:53:52,01:41:42,00:02:21,00:00:55,05:12:50
+ironman-70.3-barcelona-20140518.csv,400,Michal Szatkowski,32,---,GBR,00:34:05,02:54:49,01:36:08,00:03:36,00:00:54,05:09:32
+ironman-70.3-barcelona-20140518.csv,401,Edwin Sutton,31,cork,IRL,00:32:13,02:49:10,01:31:33,00:03:12,00:00:50,04:56:58
+ironman-70.3-barcelona-20140518.csv,402,Alexander Spiridonov,30,Moscow,RUS,00:38:07,03:18:58,02:02:19,00:05:50,00:01:15,06:06:29
+ironman-70.3-barcelona-20140518.csv,403,Julien Sola,29,---,FRA,00:29:04,02:40:41,01:23:23,00:02:09,00:00:51,04:36:08
+ironman-70.3-barcelona-20140518.csv,404,Roman Sokolov,32,Ivanovo,RUS,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,405,Oscar Serrano Trinidad,33,---,ESP,00:35:56,03:11:08,01:55:11,00:04:40,00:01:08,05:48:03
+ironman-70.3-barcelona-20140518.csv,406,Daniel Serrano Coll,29,ES,ESP,00:32:38,03:14:09,01:48:22,00:03:49,00:01:14,05:40:12
+ironman-70.3-barcelona-20140518.csv,407,Dani Serra Schlösser,29,---,ESP,00:43:05,04:21:20,02:39:15,00:08:03,00:02:13,07:53:56
+ironman-70.3-barcelona-20140518.csv,408,Marc Serra Marimón,---,---,ESP,00:31:54,03:16:40,01:53:14,00:03:04,00:01:13,05:46:05
+ironman-70.3-barcelona-20140518.csv,409,Csaba Serfeze,31,AT,AUT,00:32:12,02:51:26,01:28:34,00:02:54,00:00:59,04:56:05
+ironman-70.3-barcelona-20140518.csv,410,Jesús Sepúlveda Mata,31,ES,ESP,00:35:41,02:45:05,01:40:42,00:06:38,00:01:08,05:09:14
+ironman-70.3-barcelona-20140518.csv,411,Alejandro Seijo Lopez,31,ES,ESP,00:53:55,04:10:08,02:02:36,00:07:30,00:02:15,07:16:24
+ironman-70.3-barcelona-20140518.csv,412,Christian Andre Schmitt,---,---,DEU,00:35:56,02:58:38,01:40:05,00:03:32,00:00:49,05:19:00
+ironman-70.3-barcelona-20140518.csv,413,Jordi Sauquillo Guerra,29,ES,ESP,00:33:10,03:14:34,02:28:36,00:03:36,00:01:20,06:21:16
+ironman-70.3-barcelona-20140518.csv,414,Dino Sarpi,33,London,GBR,00:27:22,03:10:23,01:51:57,00:06:13,00:01:00,05:36:55
+ironman-70.3-barcelona-20140518.csv,415,Bruno Sánchez Garrido,33,---,ESP,00:38:59,04:58:10,02:34:04,00:08:42,00:01:38,08:21:33
+ironman-70.3-barcelona-20140518.csv,416,Jordi Sanchez Garcã­a,29,---,ESP,00:33:13,02:57:19,01:48:43,00:02:56,00:00:59,05:23:10
+ironman-70.3-barcelona-20140518.csv,417,Jesús Sales Aparicio,---,---,ESP,00:33:50,03:28:00,02:11:56,00:05:31,00:01:13,06:20:30
+ironman-70.3-barcelona-20140518.csv,418,Nico Sabbe,29,---,BEL,00:36:05,02:43:00,01:39:26,00:03:56,00:00:52,05:03:19
+ironman-70.3-barcelona-20140518.csv,419,Hannu Rytkönen,33,Uusimaa,FIN,00:34:12,03:00:51,01:47:07,00:04:42,00:01:02,05:27:54
+ironman-70.3-barcelona-20140518.csv,420,Iván Rupérez Serrano,---,---,ESP,00:42:47,03:03:40,01:42:35,00:08:00,00:01:13,05:38:15
+ironman-70.3-barcelona-20140518.csv,421,Carlos Ruiz Sierra,31,---,ESP,00:39:44,04:08:14,02:19:02,00:07:01,00:01:57,07:15:58
+ironman-70.3-barcelona-20140518.csv,422,Alberto Ruiz Rodriguez,33,ES,ESP,00:34:20,03:01:48,01:53:33,00:03:12,00:01:08,05:34:01
+ironman-70.3-barcelona-20140518.csv,423,Endika Ruiz,---,---,ESP,00:38:57,03:29:02,01:52:52,00:05:19,00:01:14,06:07:24
+ironman-70.3-barcelona-20140518.csv,424,Josep Rubio-Palau,32,---,ESP,00:35:43,03:22:20,01:42:25,00:07:31,00:01:06,05:49:05
+ironman-70.3-barcelona-20140518.csv,425,Ruben Rozas Estor,32,ES,ESP,00:38:02,03:45:16,01:45:48,00:07:55,00:01:18,06:18:19
+ironman-70.3-barcelona-20140518.csv,426,John Ross,30,---,GBR,00:29:11,02:58:49,01:53:18,00:02:34,00:01:15,05:25:07
+ironman-70.3-barcelona-20140518.csv,427,Daniel Rosa Lobato,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,428,Jonatan Romero Muñoz,33,ES,ESP,00:38:23,03:41:49,02:07:19,00:05:43,00:01:11,06:34:25
+ironman-70.3-barcelona-20140518.csv,430,Ivan Rojo Perez,---,---,ESP,00:37:28,03:35:45,02:10:26,00:09:14,00:01:42,06:34:35
+ironman-70.3-barcelona-20140518.csv,431,Marc Roca Muntet,---,---,ESP,00:40:24,03:33:44,02:35:38,00:07:42,00:01:43,06:59:11
+ironman-70.3-barcelona-20140518.csv,432,Fernando Rivas Martin,---,---,ESP,00:33:49,03:19:18,02:08:58,00:06:27,00:01:21,06:09:53
+ironman-70.3-barcelona-20140518.csv,433,Christian Reina Muñoz,30,---,ESP,00:35:26,04:13:31,02:06:22,00:06:00,00:01:04,07:02:23
+ironman-70.3-barcelona-20140518.csv,434,Alberto Racionero Melguizo,33,ES,ESP,00:34:35,03:20:19,01:56:33,00:07:56,00:01:45,06:01:08
+ironman-70.3-barcelona-20140518.csv,435,Albert Puig,33,---,ESP,00:31:09,03:14:31,02:01:26,00:04:49,00:00:59,05:52:54
+ironman-70.3-barcelona-20140518.csv,436,Jordi Planas Martinez,---,---,ESP,00:36:51,03:08:33,01:42:29,00:04:21,00:01:05,05:33:19
+ironman-70.3-barcelona-20140518.csv,437,Jean-Pierre Picarel,---,---,FRA,00:37:01,03:46:30,01:56:48,00:10:06,00:02:46,06:33:11
+ironman-70.3-barcelona-20140518.csv,438,Victor Perez Villalta,32,---,ESP,00:36:10,03:19:15,01:52:09,00:04:01,00:01:26,05:53:01
+ironman-70.3-barcelona-20140518.csv,439,Alonso Perez Redondo,---,---,ESP,00:34:10,03:16:11,02:04:48,00:03:43,00:01:02,05:59:54
+ironman-70.3-barcelona-20140518.csv,440,Xavi Perdiguer,32,---,ESP,00:33:05,03:22:58,01:47:22,00:05:07,00:01:11,05:49:43
+ironman-70.3-barcelona-20140518.csv,441,Guillaume Peirone,32,FR,FRA,00:37:01,03:25:15,01:48:29,00:06:00,00:01:34,05:58:19
+ironman-70.3-barcelona-20140518.csv,442,Morten Pehrson,---,---,DNK,00:35:28,03:17:37,01:46:59,00:04:28,00:00:59,05:45:31
+ironman-70.3-barcelona-20140518.csv,443,Ferran Pegenaute,33,ES,ESP,00:44:40,03:58:13,02:26:24,00:07:36,00:01:35,07:18:28
+ironman-70.3-barcelona-20140518.csv,444,Lars Pedersen,30,---,ESP,00:32:08,03:14:48,02:07:10,00:03:38,00:01:41,05:59:25
+ironman-70.3-barcelona-20140518.csv,445,Bart Pauwels,32,---,BEL,00:41:22,03:01:59,01:40:00,00:04:56,00:01:05,05:29:22
+ironman-70.3-barcelona-20140518.csv,446,James Patterson,29,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,447,Gabriel Pascual Gonzalez,---,---,ESP,00:38:49,03:14:39,01:58:18,00:03:42,00:01:08,05:56:36
+ironman-70.3-barcelona-20140518.csv,448,David Pardo Garcia,---,---,ESP,00:29:25,03:48:43,02:23:58,00:05:56,00:01:32,06:49:34
+ironman-70.3-barcelona-20140518.csv,449,Paolo Paladini,31,Italia,ITA,00:34:15,02:53:04,01:29:49,00:03:50,00:00:58,05:01:56
+ironman-70.3-barcelona-20140518.csv,450,Sergio Ortigosa Marcos,---,---,ESP,00:38:44,03:10:06,01:40:04,00:05:57,00:01:04,05:35:55
+ironman-70.3-barcelona-20140518.csv,451,Albert Olivé,30,ES,ESP,00:32:53,03:13:15,01:52:11,00:04:05,00:01:17,05:43:41
+ironman-70.3-barcelona-20140518.csv,452,Xavi Olivares Mendez,32,ES,ESP,00:36:05,03:07:22,02:11:46,00:07:10,00:01:14,06:03:37
+ironman-70.3-barcelona-20140518.csv,453,Bernard Ockerse,31,DE,DEU,00:37:07,04:12:54,02:43:14,00:05:23,00:02:07,07:40:45
+ironman-70.3-barcelona-20140518.csv,454,Ciaran O Connor,34,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,455,Diego Nieves Margalef,---,---,ESP,00:37:56,03:34:52,02:11:08,00:06:23,00:01:09,06:31:28
+ironman-70.3-barcelona-20140518.csv,456,Kasper Horn Nielsen,---,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,457,Mohamed Nazeeb,---,---,---,00:42:09,03:37:35,02:02:54,00:06:00,00:01:17,06:29:55
+ironman-70.3-barcelona-20140518.csv,458,Ferran Navarro Ramirez,---,---,ESP,00:32:14,02:58:18,01:38:06,00:02:14,00:00:54,05:11:46
+ironman-70.3-barcelona-20140518.csv,459,Alfons Navarro Delgado,34,ES,ESP,00:30:12,02:50:39,01:40:41,00:02:55,00:00:57,05:05:24
+ironman-70.3-barcelona-20140518.csv,460,Jordi Muñiz Molina,---,---,ESP,00:37:38,03:00:53,01:38:19,00:06:34,00:01:03,05:24:27
+ironman-70.3-barcelona-20140518.csv,461,Alejandro Moreno Astorga,30,ES,ESP,00:34:15,03:02:09,01:38:37,00:05:11,00:01:10,05:21:22
+ironman-70.3-barcelona-20140518.csv,462,Frank Moeller,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,463,David Milán Oliva,---,---,ESP,00:39:07,03:01:55,01:49:05,00:04:41,00:01:10,05:35:58
+ironman-70.3-barcelona-20140518.csv,464,Adrián Meza,31,ES,VEN,00:36:21,03:37:52,02:12:32,00:04:05,00:01:12,06:32:02
+ironman-70.3-barcelona-20140518.csv,465,Oliver Meseguer Ruiz,30,---,ESP,00:36:20,03:23:41,02:02:23,00:04:38,00:01:09,06:08:11
+ironman-70.3-barcelona-20140518.csv,466,Gary Mcglinn,33,Cork,IRL,00:38:22,03:21:05,02:34:54,00:07:02,00:01:26,06:42:49
+ironman-70.3-barcelona-20140518.csv,467,Andrew Maud,30,DXB,NZL,00:29:09,03:13:40,01:49:12,00:02:55,00:01:11,05:36:07
+ironman-70.3-barcelona-20140518.csv,468,Sergi Mascarell,---,---,ESP,00:39:32,03:11:07,01:57:37,00:05:39,00:01:06,05:55:01
+ironman-70.3-barcelona-20140518.csv,469,Miki Martinez Nogales,33,---,ESP,00:38:05,03:16:37,02:10:57,00:04:42,00:01:28,06:11:49
+ironman-70.3-barcelona-20140518.csv,470,Pedro Martinez Fernandez,32,ES,ESP,00:36:02,03:15:24,01:45:27,00:06:33,00:01:37,05:45:03
+ironman-70.3-barcelona-20140518.csv,471,Alberto Martin Juan,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,472,Sergi Martin Gomez,34,---,ESP,00:33:52,02:49:49,01:43:08,00:04:14,00:01:02,05:12:05
+ironman-70.3-barcelona-20140518.csv,473,Sergi Marti Cera,---,---,ESP,00:32:11,02:52:58,01:38:55,00:02:42,00:01:25,05:08:11
+ironman-70.3-barcelona-20140518.csv,474,Marc Majoral Antich,31,ES,ESP,00:33:01,03:05:34,01:50:00,00:04:37,00:00:57,05:34:09
+ironman-70.3-barcelona-20140518.csv,475,David Luna,32,---,ESP,00:36:38,03:27:06,01:52:31,00:07:22,00:01:32,06:05:09
+ironman-70.3-barcelona-20140518.csv,476,Carles Lorca Moscoso,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,477,David Lopez Pardo,---,---,ESP,00:40:51,03:26:45,01:51:24,00:05:54,00:01:05,06:05:59
+ironman-70.3-barcelona-20140518.csv,478,Alberto López Ginés,30,---,ESP,00:32:18,03:02:49,01:40:30,00:05:19,00:00:49,05:21:45
+ironman-70.3-barcelona-20140518.csv,479,Mauro Llorens Codinach,---,---,ESP,00:30:01,02:47:06,01:28:51,00:04:31,00:00:53,04:51:22
+ironman-70.3-barcelona-20140518.csv,480,Osmo Liimatainen,32,---,FIN,00:32:45,02:47:37,01:29:23,00:02:37,00:00:47,04:53:09
+ironman-70.3-barcelona-20140518.csv,481,Igor Leonovich,29,Sankt_Petersburg,RUS,00:46:15,03:13:58,02:07:11,00:07:59,00:01:12,06:16:35
+ironman-70.3-barcelona-20140518.csv,482,Mikel Laka Urquidi,---,---,ESP,00:33:09,03:11:53,01:54:24,00:04:02,00:01:06,05:44:34
+ironman-70.3-barcelona-20140518.csv,483,Andoni Labaca Lizarazu,30,ES,ESP,00:28:06,02:52:26,01:40:39,00:03:31,00:00:56,05:05:38
+ironman-70.3-barcelona-20140518.csv,484,Martin Linus Knudsen,34,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,485,Robert Juanola Juanola,---,---,ESP,00:39:54,02:49:13,01:37:20,00:03:25,00:00:56,05:10:48
+ironman-70.3-barcelona-20140518.csv,486,Mernissi Jawad,---,---,MAR,00:36:47,03:18:24,01:40:03,00:04:13,00:01:37,05:41:04
+ironman-70.3-barcelona-20140518.csv,487,Julien Jaumot,---,---,FRA,00:50:51,04:01:04,02:11:30,00:06:20,00:01:45,07:11:30
+ironman-70.3-barcelona-20140518.csv,488,Isaac Iglesias Molist,32,---,ESP,00:33:12,02:56:31,01:52:00,00:03:49,00:01:00,05:26:32
+ironman-70.3-barcelona-20140518.csv,489,Robin Hutchison,---,---,GBR,00:32:37,03:02:29,01:56:40,00:04:35,00:01:03,05:37:24
+ironman-70.3-barcelona-20140518.csv,490,Francisco Hurtado Montuenga,---,---,ESP,00:40:35,03:09:10,01:45:57,00:04:59,00:01:10,05:41:51
+ironman-70.3-barcelona-20140518.csv,491,Albert Huguet Cos,---,---,ESP,00:42:06,03:56:08,02:20:36,00:05:15,00:02:04,07:06:09
+ironman-70.3-barcelona-20140518.csv,492,Eduardo Huarte Gisbert,33,ES,ESP,00:34:18,02:57:51,01:49:51,00:05:49,00:01:07,05:28:56
+ironman-70.3-barcelona-20140518.csv,493,Julien Hervouet,---,---,FRA,00:33:40,03:44:37,02:23:31,00:05:45,00:01:21,06:48:54
+ironman-70.3-barcelona-20140518.csv,494,Jose Hernandez,32,FL,USA,00:34:59,02:56:44,01:38:11,00:03:38,00:01:06,05:14:38
+ironman-70.3-barcelona-20140518.csv,495,Antoni Herena,31,---,ESP,00:31:35,02:54:14,01:34:51,00:05:21,00:00:58,05:06:59
+ironman-70.3-barcelona-20140518.csv,496,Nicolas Herbau,31,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,497,Kristian James Henry,32,West Midlands,FRA,00:35:40,03:30:54,02:05:22,00:05:11,00:01:19,06:18:26
+ironman-70.3-barcelona-20140518.csv,498,Anders Hansen,29,---,DNK,00:41:23,03:37:37,02:41:05,00:06:26,00:01:37,07:08:08
+ironman-70.3-barcelona-20140518.csv,499,Xavi Guiteras Fite,---,---,ESP,00:43:53,03:21:49,02:16:05,00:06:24,00:01:07,06:29:18
+ironman-70.3-barcelona-20140518.csv,500,Luis Guijarro Rubinat,---,---,ESP,00:37:58,03:09:56,02:12:07,00:04:41,00:01:00,06:05:42
+ironman-70.3-barcelona-20140518.csv,501,Andres Guerrero,31,ES,ESP,00:33:10,02:57:39,01:43:22,00:04:07,00:00:52,05:19:10
+ironman-70.3-barcelona-20140518.csv,502,David González,33,---,ESP,00:37:54,03:22:16,01:50:36,00:06:48,00:01:18,05:58:52
+ironman-70.3-barcelona-20140518.csv,503,Miguel Ángel González Cano,---,---,ESP,00:29:37,02:49:51,01:26:11,00:03:15,00:00:53,04:49:47
+ironman-70.3-barcelona-20140518.csv,504,Pablo Rodríguez,32,ES,ESP,00:32:52,03:23:46,02:21:29,00:13:46,00:01:52,06:33:45
+ironman-70.3-barcelona-20140518.csv,505,Paulo Merighi Godoy,32,São Paulo,BRA,00:33:00,03:11:25,01:44:55,00:04:19,00:01:01,05:34:40
+ironman-70.3-barcelona-20140518.csv,506,Etienne Girel,33,FR,FRA,00:33:37,02:54:38,01:40:14,00:03:50,00:01:06,05:13:25
+ironman-70.3-barcelona-20140518.csv,507,Matthias Gilles,33,DE,DEU,00:42:49,03:08:54,01:53:42,00:05:32,00:01:09,05:52:06
+ironman-70.3-barcelona-20140518.csv,508,Marc Gili I Subirós,---,---,ESP,00:35:41,03:38:27,02:17:35,00:05:24,00:01:16,06:38:23
+ironman-70.3-barcelona-20140518.csv,509,Marc Gil Ruiz,30,---,ESP,00:31:05,02:47:57,01:29:21,00:03:07,00:00:57,04:52:27
+ironman-70.3-barcelona-20140518.csv,510,Jose Antonio Garcia Tello,31,ES,ESP,00:31:54,03:08:45,02:06:46,00:03:55,00:01:25,05:52:45
+ironman-70.3-barcelona-20140518.csv,511,Pedro Luciano García Morales,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,512,Laurent Gambotti,32,---,ESP,00:33:59,03:01:19,01:47:21,00:03:56,00:01:04,05:27:39
+ironman-70.3-barcelona-20140518.csv,513,Arturo Gálvez González,---,---,ESP,00:36:26,03:10:03,02:01:52,00:04:26,00:01:06,05:53:53
+ironman-70.3-barcelona-20140518.csv,514,Daniel Galindo Moles,---,---,ESP,00:36:06,03:06:19,01:51:45,00:05:32,00:01:06,05:40:48
+ironman-70.3-barcelona-20140518.csv,516,Forini Frederic,---,---,FRA,00:33:51,02:52:47,01:41:36,00:04:18,00:01:02,05:13:34
+ironman-70.3-barcelona-20140518.csv,517,Gabriele Frascona,29,Italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,518,Ivan Forns Landete,---,---,ESP,00:42:58,03:10:56,02:01:11,00:05:40,00:01:22,06:02:07
+ironman-70.3-barcelona-20140518.csv,519,Alexis Fontanet Gómez,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,520,Jordi Florensa Gamundi,32,ES,ESP,00:41:12,03:41:11,02:22:03,00:09:21,00:01:10,06:54:57
+ironman-70.3-barcelona-20140518.csv,521,Luis Ferrer,31,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,522,Sergi Fernandez Rodriguez,31,---,ESP,00:33:56,03:07:25,01:46:25,00:04:21,00:01:05,05:33:12
+ironman-70.3-barcelona-20140518.csv,523,Alberto Fernandez Diez,---,---,ESP,00:37:10,03:11:08,02:01:30,00:07:14,00:01:05,05:58:07
+ironman-70.3-barcelona-20140518.csv,524,Niall Fallon,30,Westmeath,IRL,00:33:39,03:37:17,02:29:19,00:07:52,00:02:04,06:50:11
+ironman-70.3-barcelona-20140518.csv,525,Santiago Fajardo,29,D.C.,COL,00:38:36,03:20:25,01:50:14,00:04:35,00:01:05,05:54:55
+ironman-70.3-barcelona-20140518.csv,526,Benji Esteve Kay,33,ES,ESP,00:30:09,03:06:42,01:57:45,00:03:05,00:01:04,05:38:45
+ironman-70.3-barcelona-20140518.csv,527,Marçal Esparch Borrell,32,ES,ESP,00:37:25,03:02:43,01:50:25,00:05:40,00:01:06,05:37:19
+ironman-70.3-barcelona-20140518.csv,528,Carlos España Gadea,34,ES,ESP,00:35:06,03:14:54,01:51:35,00:04:21,00:01:24,05:47:20
+ironman-70.3-barcelona-20140518.csv,529,Pablo Escribano Martínez,---,---,ESP,00:35:55,03:09:26,01:41:06,00:04:35,00:01:10,05:32:12
+ironman-70.3-barcelona-20140518.csv,530,Víctor Escartín Quintero,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,531,Gökhan Erc Yes,32,APO,TUR,00:38:31,03:18:13,01:54:59,00:06:38,00:01:14,05:59:35
+ironman-70.3-barcelona-20140518.csv,532,Ivan Enrique Pla,---,---,ESP,00:34:52,03:05:07,01:41:37,00:04:57,00:01:13,05:27:46
+ironman-70.3-barcelona-20140518.csv,534,Sebastien Elsair,---,---,FRA,00:35:48,03:37:39,01:56:31,00:07:02,00:01:07,06:18:07
+ironman-70.3-barcelona-20140518.csv,535,Javier Elizalde Heredia,---,---,ESP,00:31:39,03:13:00,01:47:00,00:04:12,00:01:08,05:36:59
+ironman-70.3-barcelona-20140518.csv,536,Paul Durand,31,---,FRA,00:34:11,02:54:48,01:43:35,00:04:03,00:01:01,05:17:38
+ironman-70.3-barcelona-20140518.csv,537,Xavier Duran Carvajal,30,---,ESP,00:32:13,03:00:57,01:52:00,00:05:41,00:01:06,05:31:57
+ironman-70.3-barcelona-20140518.csv,538,Dudzinski Stephan,---,---,FRA,00:46:08,03:25:04,02:10:04,00:06:41,00:01:27,06:29:24
+ironman-70.3-barcelona-20140518.csv,539,Luis Diaz Lopez,---,---,ESP,00:33:45,03:14:34,01:10:03,00:04:44,00:01:17,05:04:23
+ironman-70.3-barcelona-20140518.csv,540,Carles Debon Utiel,---,---,ESP,00:33:51,02:52:19,01:36:10,00:03:58,00:00:52,05:07:10
+ironman-70.3-barcelona-20140518.csv,541,Diego De Luna Sanchez,34,---,ESP,00:32:02,03:11:49,01:48:45,00:06:19,00:01:14,05:40:09
+ironman-70.3-barcelona-20140518.csv,542,Durand Damien,---,---,FRA,00:29:02,02:47:46,01:39:37,00:02:45,00:00:59,05:00:09
+ironman-70.3-barcelona-20140518.csv,543,Paul Cunningham,30,---,IRL,00:44:12,03:13:25,01:48:31,00:04:30,00:00:56,05:51:34
+ironman-70.3-barcelona-20140518.csv,544,Darren Cullen,33,Kildare,IRL,00:39:01,03:13:23,01:59:33,00:05:32,00:01:28,05:58:57
+ironman-70.3-barcelona-20140518.csv,545,Pablo Cueto Gomez,29,---,ESP,00:32:03,02:53:56,01:29:54,00:03:04,00:01:09,05:00:06
+ironman-70.3-barcelona-20140518.csv,546,David Conejo Recio,---,---,ESP,00:38:32,03:46:48,02:05:13,00:06:45,00:01:02,06:38:20
+ironman-70.3-barcelona-20140518.csv,547,Raul Coll Nogue,---,---,ESP,00:27:28,---,01:33:03,00:03:03,03:21:49,04:54:52
+ironman-70.3-barcelona-20140518.csv,548,Raúl Cifuentes León,29,ES,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,549,Rémi Chantant,33,---,FRA,00:31:01,02:53:33,02:08:59,00:04:10,00:01:22,05:39:05
+ironman-70.3-barcelona-20140518.csv,550,Tom Carver,31,---,GBR,00:39:58,03:21:12,02:04:26,00:03:55,00:01:16,06:10:47
+ironman-70.3-barcelona-20140518.csv,551,Ben Cartwright,33,---,GBR,00:38:16,03:03:51,01:24:51,00:06:13,00:01:02,05:14:13
+ironman-70.3-barcelona-20140518.csv,552,Thomas Carpentier,31,FR,FRA,00:31:09,02:57:15,01:30:03,00:02:44,00:01:02,05:02:13
+ironman-70.3-barcelona-20140518.csv,553,Joaquim Carlús Martín,---,---,ESP,00:35:00,02:47:09,01:24:59,00:03:34,00:00:58,04:51:40
+ironman-70.3-barcelona-20140518.csv,554,Raül Capdevila Vizcaino,---,---,ESP,00:33:36,03:11:53,02:17:52,00:04:34,00:01:09,06:09:04
+ironman-70.3-barcelona-20140518.csv,555,Xavier Capdevila Estevez,---,---,ESP,00:32:30,03:25:50,01:51:03,00:04:59,00:01:05,05:55:27
+ironman-70.3-barcelona-20140518.csv,556,Raul Cameo,31,---,ESP,00:35:01,03:22:02,02:02:21,00:06:23,00:01:40,06:07:27
+ironman-70.3-barcelona-20140518.csv,557,Paul Cail,33,---,ESP,00:34:21,03:00:00,01:30:15,00:05:18,00:00:53,05:10:47
+ironman-70.3-barcelona-20140518.csv,558,Husain Bushehri,30,Mubarak Al-Kabeer,KWT,00:37:07,03:09:21,02:09:31,00:05:46,00:01:24,06:03:09
+ironman-70.3-barcelona-20140518.csv,559,Sergey Bukin,---,---,RUS,00:38:59,03:28:11,01:55:15,00:04:39,00:01:23,06:08:27
+ironman-70.3-barcelona-20140518.csv,560,Neil Buckman,33,---,GBR,00:36:01,02:56:44,01:36:44,00:03:53,00:01:06,05:14:28
+ironman-70.3-barcelona-20140518.csv,562,Christopher Board,---,---,GBR,00:38:03,03:44:57,02:17:32,00:06:00,00:01:34,06:48:06
+ironman-70.3-barcelona-20140518.csv,563,Victor Blasco Perez,---,---,ESP,00:30:07,02:59:44,01:41:18,00:02:50,00:01:11,05:15:10
+ironman-70.3-barcelona-20140518.csv,564,Pau Blasco Cervera,30,ES,ESP,00:39:01,03:32:23,01:58:30,00:06:57,00:01:26,06:18:17
+ironman-70.3-barcelona-20140518.csv,565,Olivier Binet,---,---,FRA,00:32:09,02:51:51,01:27:56,00:04:10,00:01:11,04:57:17
+ironman-70.3-barcelona-20140518.csv,566,Michael Bille,---,DEN,DNK,00:35:52,03:22:13,---,00:05:38,00:01:40,DNF
+ironman-70.3-barcelona-20140518.csv,567,Andrew Besant,---,---,GBR,00:35:44,03:20:37,02:20:48,00:05:56,00:01:30,06:24:35
+ironman-70.3-barcelona-20140518.csv,568,Philippe Berthe,30,BE,BEL,00:34:35,03:00:28,01:55:20,00:03:14,00:01:14,05:34:51
+ironman-70.3-barcelona-20140518.csv,569,Franck Béon,32,NY,FRA,00:43:47,04:00:18,02:07:41,00:08:54,00:01:25,07:02:05
+ironman-70.3-barcelona-20140518.csv,570,Martin Beaulieu-Gravel,---,---,CAN,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,571,David Barranco Sanchez,30,---,ESP,00:42:16,03:03:57,01:59:38,00:07:02,00:01:17,05:54:10
+ironman-70.3-barcelona-20140518.csv,572,Javier Ayúcar Undiano,---,---,ESP,00:36:26,03:16:58,02:23:05,00:06:36,00:01:20,06:24:25
+ironman-70.3-barcelona-20140518.csv,573,Joaquim Ayats Garriga,---,---,ESP,00:40:35,03:01:24,02:06:22,00:07:47,00:01:16,05:57:24
+ironman-70.3-barcelona-20140518.csv,574,Andoni Archanco Ardanaz,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,575,Gabriel Anton Torres,30,ES,ESP,00:36:48,03:08:50,01:44:27,00:04:23,00:01:14,05:35:42
+ironman-70.3-barcelona-20140518.csv,576,Roger Antich Bribian,34,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,577,Ramón Andújar Cervera,32,---,ESP,00:29:35,02:54:37,01:30:42,00:02:44,00:01:03,04:58:41
+ironman-70.3-barcelona-20140518.csv,578,Claus Andreasen,33,DK,DNK,00:32:36,03:03:45,01:57:35,00:03:20,00:00:59,05:38:15
+ironman-70.3-barcelona-20140518.csv,579,Gaizka Álvarez Aguilera,32,---,ESP,00:39:43,03:51:30,02:03:31,00:07:02,00:01:32,06:43:18
+ironman-70.3-barcelona-20140518.csv,580,Adrián Alcalá San Martín,30,---,ESP,00:39:57,03:01:39,01:55:39,00:04:15,00:01:05,05:42:35
+ironman-70.3-barcelona-20140518.csv,581,Albert Alcala Roldan,---,---,ESP,00:37:44,03:45:09,02:06:42,00:06:08,00:01:31,06:37:14
+ironman-70.3-barcelona-20140518.csv,582,Agusti Albiol Uriz,33,ES,ESP,00:33:38,03:16:59,01:49:36,00:05:00,00:01:06,05:46:19
+ironman-70.3-barcelona-20140518.csv,583,Francisco Admirable Giménez,---,---,ESP,00:36:20,03:29:16,02:02:50,00:06:16,00:01:19,06:16:01
+ironman-70.3-barcelona-20140518.csv,584,Eduardo Abarca Sarria,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,585,Jordi Bonet Nieto,---,---,ESP,00:32:39,02:50:29,01:29:48,00:04:02,00:01:01,04:57:59
+ironman-70.3-barcelona-20140518.csv,586,José María Pérez Andaluz,32,ES,ESP,00:46:03,03:19:53,02:00:54,00:07:04,00:01:39,06:15:33
+ironman-70.3-barcelona-20140518.csv,587,André Guimaraes,31,PT,PRT,00:32:50,02:48:52,01:24:41,00:02:51,00:00:47,04:50:01
+ironman-70.3-barcelona-20140518.csv,589,Zhongyi Chen,30,SG,SGP,00:38:56,03:54:24,02:00:40,00:05:22,00:01:43,06:41:05
+ironman-70.3-barcelona-20140518.csv,590,Stefano Colombo,32,---,ESP,00:35:23,03:32:44,02:03:49,00:03:19,00:01:37,06:16:52
+ironman-70.3-barcelona-20140518.csv,591,Joan Garriga Sola,---,---,ESP,00:38:29,03:13:59,01:56:31,00:04:26,00:01:00,05:54:25
+ironman-70.3-barcelona-20140518.csv,592,Oliver Nygaard,32,---,DNK,00:34:49,03:11:24,01:46:13,00:04:19,00:01:27,05:38:12
+ironman-70.3-barcelona-20140518.csv,593,Adam Gomez,32,IL,USA,00:39:23,04:00:54,02:09:30,00:06:30,00:01:46,06:58:03
+ironman-70.3-barcelona-20140518.csv,594,Bojan Atanassow,31,---,DEU,00:36:27,02:56:16,01:38:04,00:04:12,00:00:54,05:15:53
+ironman-70.3-barcelona-20140518.csv,595,Michaël Martin,30,---,FRA,00:35:19,03:02:24,01:55:38,00:03:56,00:01:13,05:38:30
+ironman-70.3-barcelona-20140518.csv,598,David Perez Terrado,30,---,ESP,00:39:26,03:22:03,02:08:01,00:03:44,00:01:04,06:14:18
+ironman-70.3-barcelona-20140518.csv,621,Lluis Zapata Fenor,36,ES,ESP,00:33:43,03:12:01,01:51:19,00:04:12,00:01:12,05:42:27
+ironman-70.3-barcelona-20140518.csv,622,Jose Gines Zamora Burgues,---,---,ESP,00:33:00,03:15:17,01:56:52,00:04:13,00:01:03,05:50:25
+ironman-70.3-barcelona-20140518.csv,623,Josep Xampró Eneriz,---,---,ESP,00:34:41,02:59:20,01:46:40,00:02:35,00:01:34,05:24:50
+ironman-70.3-barcelona-20140518.csv,624,Scott Wilkins,37,Hertfordshire,GBR,00:36:56,03:08:03,02:04:42,00:05:57,00:01:11,05:56:49
+ironman-70.3-barcelona-20140518.csv,625,Kristian Warhurst,---,---,GBR,00:36:52,02:45:14,01:39:29,00:03:11,00:00:54,05:05:40
+ironman-70.3-barcelona-20140518.csv,626,Shane Walsh,35,Waterford,IRL,00:41:14,03:04:51,02:00:11,00:03:32,00:01:04,05:50:52
+ironman-70.3-barcelona-20140518.csv,627,Jordi Viura Oriol,---,---,ESP,00:31:24,03:14:54,02:06:59,00:06:26,00:01:16,06:00:59
+ironman-70.3-barcelona-20140518.csv,628,Jonatan Villalonga Villegas,36,---,ESP,00:30:42,02:50:53,01:40:00,00:04:09,00:01:04,05:06:48
+ironman-70.3-barcelona-20140518.csv,629,Daniel Vílchez Fernández,---,---,ESP,00:43:56,03:21:02,02:01:03,00:06:15,00:01:28,06:13:44
+ironman-70.3-barcelona-20140518.csv,630,Andres Vila Perez,---,---,ESP,00:36:08,03:17:18,01:46:37,00:06:30,00:01:11,05:47:44
+ironman-70.3-barcelona-20140518.csv,631,Joan Vidilla,---,---,ESP,00:40:11,03:20:42,01:50:00,00:08:09,00:01:57,06:00:59
+ironman-70.3-barcelona-20140518.csv,632,Juan Carlos Vidaller Lasierra,---,---,ESP,00:45:15,03:49:53,01:56:29,00:04:37,00:02:11,06:38:25
+ironman-70.3-barcelona-20140518.csv,633,Oriol Velasco Santamaria,35,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,634,Carlo Van Lienden,35,NL,NLD,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,635,Albert Valbuena Rodriguez,34,---,ESP,00:30:29,03:12:54,01:36:49,00:04:40,00:01:01,05:25:53
+ironman-70.3-barcelona-20140518.csv,636,Oscar Utrilla Fernandez,---,---,ESP,00:38:14,03:26:54,02:05:58,00:05:34,00:01:04,06:17:44
+ironman-70.3-barcelona-20140518.csv,637,Gerard Ugena Saiz-Bustamante,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,638,Xavier Turon Miranda,36,---,ESP,00:43:22,03:30:03,01:47:46,00:06:37,00:01:12,06:09:00
+ironman-70.3-barcelona-20140518.csv,639,Cyril Trouilhas,---,---,FRA,00:41:14,03:05:23,01:36:58,00:05:02,00:01:31,05:30:08
+ironman-70.3-barcelona-20140518.csv,640,Antonio Torres Rodriguez,---,---,ESP,00:40:37,03:06:55,01:44:40,00:04:55,00:01:08,05:38:15
+ironman-70.3-barcelona-20140518.csv,641,Martí Torrebella Naspleda,---,---,ESP,00:33:44,03:11:40,01:37:22,00:04:43,00:01:06,05:28:35
+ironman-70.3-barcelona-20140518.csv,642,Alejandro Toro Tomas,---,---,ESP,00:37:49,03:03:21,01:49:05,00:04:39,00:01:01,05:35:55
+ironman-70.3-barcelona-20140518.csv,643,Erik Torner Altimira,35,---,ESP,00:37:19,03:36:14,02:11:05,00:06:42,00:01:46,06:33:06
+ironman-70.3-barcelona-20140518.csv,644,Boudewijn Tonies,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,645,Alberto Tombo Gonzalez,---,---,ESP,00:31:53,03:10:46,02:01:42,00:03:21,00:01:08,05:48:50
+ironman-70.3-barcelona-20140518.csv,646,Kenneth Thonsgaard,38,---,DNK,00:30:43,---,01:23:00,00:02:16,03:18:02,04:41:02
+ironman-70.3-barcelona-20140518.csv,647,Ivan Teba Almansa,36,---,ESP,00:36:28,03:00:50,01:35:34,00:04:52,00:01:13,05:18:57
+ironman-70.3-barcelona-20140518.csv,648,Enric Tamarit Borges,34,---,ESP,00:33:59,03:01:00,01:50:27,00:07:07,00:01:12,05:33:45
+ironman-70.3-barcelona-20140518.csv,649,Miguel Ángel Tabarés Morago,34,---,ESP,00:32:39,03:11:31,02:05:10,00:06:54,00:01:15,05:57:29
+ironman-70.3-barcelona-20140518.csv,650,Alex Suñer Moreno,39,ES,ESP,00:39:17,03:18:02,01:45:03,00:05:56,00:01:11,05:49:29
+ironman-70.3-barcelona-20140518.csv,651,Antonio Solis Jimenez,---,---,ESP,00:36:38,02:54:27,01:45:15,00:04:23,00:01:05,05:21:48
+ironman-70.3-barcelona-20140518.csv,652,Marc Soler Blasco,36,---,ESP,00:34:07,03:15:27,01:52:21,00:04:18,00:01:01,05:47:14
+ironman-70.3-barcelona-20140518.csv,653,Selwyn Smith,38,London,GBR,00:31:53,02:52:39,01:41:30,00:03:04,00:01:06,05:10:12
+ironman-70.3-barcelona-20140518.csv,654,Jeffrey Thomas Sleichter,34,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,655,Esteve Serra Moya,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,656,Daniel Segovia Bujons,39,---,ESP,00:43:35,03:17:15,01:47:43,00:06:03,00:01:02,05:55:38
+ironman-70.3-barcelona-20140518.csv,657,Jordi Segade Quintela,36,---,ESP,00:32:58,03:06:54,01:52:56,00:05:22,00:01:15,05:39:25
+ironman-70.3-barcelona-20140518.csv,658,Colin Sébastien,---,---,FRA,00:36:03,03:04:58,02:09:24,00:05:09,00:01:11,05:56:45
+ironman-70.3-barcelona-20140518.csv,659,Jorge Schenone,39,ES,ESP,00:44:03,03:43:22,02:16:05,00:05:22,00:01:42,06:50:34
+ironman-70.3-barcelona-20140518.csv,660,Jerome Save,36,---,FRA,00:26:59,02:36:01,01:25:50,00:02:45,00:00:55,04:32:30
+ironman-70.3-barcelona-20140518.csv,661,Anthony Saura,---,---,FRA,00:34:50,02:58:45,01:54:58,00:03:56,00:01:00,05:33:29
+ironman-70.3-barcelona-20140518.csv,662,Aniol Saques Joaniquet,39,ES,ESP,00:36:58,03:18:46,02:24:53,00:07:06,00:01:31,06:29:14
+ironman-70.3-barcelona-20140518.csv,663,Germán Sanz Castrillo,38,ES,ESP,00:29:38,03:15:32,01:40:39,00:02:26,00:00:53,05:29:08
+ironman-70.3-barcelona-20140518.csv,664,Alejandro Santiago Varela,35,ES,NLD,00:34:53,03:24:49,01:51:49,00:07:38,00:01:59,06:01:08
+ironman-70.3-barcelona-20140518.csv,665,Raimon Sanjaume I Farrés,38,---,ESP,00:33:45,02:49:23,01:39:34,00:03:05,00:00:49,05:06:36
+ironman-70.3-barcelona-20140518.csv,666,Michael Sand,38,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,667,Israel Sanchez Ramos,---,---,ESP,00:29:47,02:55:17,01:51:35,00:04:47,00:01:03,05:22:29
+ironman-70.3-barcelona-20140518.csv,668,Daniel Sanchez Cobo,---,---,ESP,00:38:18,02:50:57,01:47:27,00:05:31,00:01:03,05:23:16
+ironman-70.3-barcelona-20140518.csv,669,Oscar Sanchez Campos,---,---,ESP,00:45:18,03:48:14,01:49:02,00:05:07,00:01:48,06:29:29
+ironman-70.3-barcelona-20140518.csv,670,Alex Salvador Mir,---,---,ESP,00:36:43,03:55:58,02:35:57,00:06:20,00:01:30,07:16:28
+ironman-70.3-barcelona-20140518.csv,671,Xavier Salazar Santiago,35,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,672,Iñaki Saizar Portu,---,---,ESP,00:27:55,02:55:27,01:29:01,00:03:14,00:00:56,04:56:33
+ironman-70.3-barcelona-20140518.csv,673,Luc Saint-Martin,36,---,GBR,00:37:25,03:18:51,02:05:34,00:03:10,00:01:09,06:06:09
+ironman-70.3-barcelona-20140518.csv,674,Antoine Saint Loubert,---,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,675,Francisco Javier Sáez Márquez,37,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,676,Luis Angel Foz Molins,38,---,ESP,00:31:48,02:55:18,01:24:04,00:04:26,00:00:50,04:56:26
+ironman-70.3-barcelona-20140518.csv,677,Sergei Rozhkov,---,---,RUS,00:37:09,03:45:32,01:58:48,00:07:29,00:01:35,06:30:33
+ironman-70.3-barcelona-20140518.csv,678,Jordi Royes Yubero,36,ES,ESP,00:29:31,02:50:50,01:33:40,00:02:25,00:01:02,04:57:28
+ironman-70.3-barcelona-20140518.csv,679,Juan Alberto Rolon,38,ES,ESP,00:33:57,03:16:40,01:39:07,00:06:01,00:01:14,05:36:59
+ironman-70.3-barcelona-20140518.csv,680,Chema Rodriguez Navas,---,---,ESP,00:38:39,03:27:46,02:09:25,00:04:03,00:01:07,06:21:00
+ironman-70.3-barcelona-20140518.csv,681,Jorge Rodrã­guez Jimã©nez,36,---,ESP,00:34:24,03:46:39,---,00:03:27,00:02:57,DNF
+ironman-70.3-barcelona-20140518.csv,682,Dani Rodriguez Garcia,38,ES,ESP,00:35:43,03:07:19,01:56:44,00:06:04,00:01:10,05:47:00
+ironman-70.3-barcelona-20140518.csv,683,Diego Rodriguez Catalán,35,---,ESP,00:36:45,03:17:08,01:49:17,00:04:38,00:01:11,05:48:59
+ironman-70.3-barcelona-20140518.csv,684,Oscar Argueta,37,---,ESP,00:38:11,03:15:03,01:37:22,00:04:38,00:01:14,05:36:28
+ironman-70.3-barcelona-20140518.csv,685,Daniel Rodrigalvarez Morente,38,ES,ESP,00:32:06,03:18:52,01:57:58,00:05:13,00:01:08,05:55:17
+ironman-70.3-barcelona-20140518.csv,686,Ángel Rodero Tárraga,36,ES,ESP,00:52:55,03:34:52,02:00:21,00:04:56,00:01:43,06:34:47
+ironman-70.3-barcelona-20140518.csv,687,Pere Roca Ros,34,ES,ESP,00:37:26,03:18:35,02:05:31,00:07:16,00:01:11,06:09:59
+ironman-70.3-barcelona-20140518.csv,688,Jordi Rius Roman,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,689,Tino Ripollès,---,---,ESP,00:38:10,03:26:35,01:54:02,00:05:42,00:01:13,06:05:42
+ironman-70.3-barcelona-20140518.csv,690,Jaume Riera Boher,35,---,ESP,00:37:14,03:20:39,02:07:13,00:05:19,00:01:18,06:11:43
+ironman-70.3-barcelona-20140518.csv,691,Joan Ribas,35,---,ESP,00:32:02,02:53:13,01:56:02,00:02:57,00:00:57,05:25:11
+ironman-70.3-barcelona-20140518.csv,692,Daniel Reyero Gil,38,---,ESP,00:34:05,03:33:00,01:56:29,00:06:42,00:01:53,06:12:09
+ironman-70.3-barcelona-20140518.csv,693,Jordi Ramon Sedo,38,---,ESP,00:35:10,03:29:45,01:58:29,00:04:50,00:01:13,06:09:27
+ironman-70.3-barcelona-20140518.csv,694,Carlos Quevedo,---,---,ESP,00:33:44,03:39:44,01:57:12,00:06:41,00:01:16,06:18:37
+ironman-70.3-barcelona-20140518.csv,695,Luis Quesada Salcedo,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,696,Francesc Puertas Peralta,37,ES,ESP,00:37:35,03:42:08,02:01:08,00:07:02,00:01:25,06:29:18
+ironman-70.3-barcelona-20140518.csv,697,Jose Antonio Prieto Garcia,36,---,ESP,00:34:36,03:01:57,01:44:02,00:06:25,00:01:25,05:28:25
+ironman-70.3-barcelona-20140518.csv,698,Santiago Pozo Palau,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,699,Graham Power,---,---,IRL,00:35:30,03:27:23,02:09:36,00:04:39,00:01:18,06:18:26
+ironman-70.3-barcelona-20140518.csv,700,Alexander Popov,36,MO,RUS,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,701,Miguel Polo Rubio,---,---,ESP,00:29:13,02:53:55,01:37:18,00:02:14,00:01:00,05:03:40
+ironman-70.3-barcelona-20140518.csv,702,Sergi Polo Gutierrez,---,---,ESP,00:31:52,02:54:37,01:32:29,00:03:03,00:00:55,05:02:56
+ironman-70.3-barcelona-20140518.csv,703,Jérémy Plancque,35,FR,FRA,00:31:12,02:51:41,01:44:05,00:03:19,00:01:14,05:11:31
+ironman-70.3-barcelona-20140518.csv,704,Albert Planas Martínez,35,---,ESP,00:35:56,03:10:19,01:47:58,00:04:25,00:01:01,05:39:39
+ironman-70.3-barcelona-20140518.csv,705,Alex Pla Lorente,---,---,ESP,00:33:03,02:50:04,02:08:43,00:04:08,00:00:59,05:36:57
+ironman-70.3-barcelona-20140518.csv,706,Danilo Pinto,37,italia,ITA,00:36:40,03:15:48,01:49:45,00:05:05,00:01:32,05:48:50
+ironman-70.3-barcelona-20140518.csv,707,Bosco Pineda Lleó,35,---,ESP,00:32:22,03:08:37,02:03:37,00:04:51,00:01:24,05:50:51
+ironman-70.3-barcelona-20140518.csv,708,Richard Piedras Mele,---,---,ESP,00:38:03,02:58:21,02:01:56,00:06:18,00:01:15,05:45:53
+ironman-70.3-barcelona-20140518.csv,709,Xavier Perich Herrero,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,710,Kike Periago Rodríguez,37,---,ESP,00:39:50,03:13:42,01:51:06,00:03:52,00:01:19,05:49:49
+ironman-70.3-barcelona-20140518.csv,711,Joan Pérez Sànchez,36,ES,ESP,00:40:34,04:12:13,02:23:33,00:05:36,00:01:21,07:23:17
+ironman-70.3-barcelona-20140518.csv,712,Jose Mª Perez De Miguel Castro,---,---,ESP,00:31:47,02:44:19,01:23:03,00:02:31,00:00:49,04:42:29
+ironman-70.3-barcelona-20140518.csv,713,Alvaro Pereira Jimenez,37,---,ESP,00:43:54,03:00:00,01:41:39,00:04:19,00:01:11,05:31:03
+ironman-70.3-barcelona-20140518.csv,714,Christian Perdok,35,---,DEU,00:34:03,---,---,00:06:01,---,DNF
+ironman-70.3-barcelona-20140518.csv,715,Mick Patterson,39,Dublin,IRL,00:36:19,03:24:20,02:07:41,00:05:44,00:01:27,06:15:31
+ironman-70.3-barcelona-20140518.csv,716,Jose Luis Paricio Martinez,35,---,ESP,00:40:17,03:16:44,01:55:23,00:05:33,00:01:33,05:59:30
+ironman-70.3-barcelona-20140518.csv,717,Antonio Paraiso González,---,---,ESP,00:39:10,02:51:33,01:47:49,00:06:30,00:01:17,05:26:19
+ironman-70.3-barcelona-20140518.csv,718,Boris Panin,---,---,RUS,00:53:42,03:58:38,02:25:39,00:07:05,00:01:52,07:26:56
+ironman-70.3-barcelona-20140518.csv,719,Tomas Lluch,37,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,720,Eloi Pala,35,---,ESP,00:34:21,03:06:37,01:58:47,00:05:20,00:01:09,05:46:14
+ironman-70.3-barcelona-20140518.csv,721,Emrah Ozpeynirci,38,NL,NLD,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,722,Dmitrii Osminin,---,---,RUS,00:39:53,03:32:21,02:15:21,00:08:17,00:01:58,06:37:50
+ironman-70.3-barcelona-20140518.csv,723,Jose Eugenio Ortiz Muñoz,---,---,ESP,00:35:08,---,01:25:46,00:06:04,03:19:25,04:45:11
+ironman-70.3-barcelona-20140518.csv,724,David Ortiz Martínez,35,---,ESP,00:39:57,03:10:46,01:48:40,00:08:33,00:01:38,05:49:34
+ironman-70.3-barcelona-20140518.csv,725,José Luis Ortega Egea,---,---,ESP,00:38:24,03:35:09,02:08:43,00:03:20,00:01:17,06:26:53
+ironman-70.3-barcelona-20140518.csv,726,Jose Ortega Castellano,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,727,Oscar Ordoyo,---,---,ESP,00:32:33,03:14:00,01:37:11,00:04:49,00:01:14,05:29:47
+ironman-70.3-barcelona-20140518.csv,728,Rory O'Neill,---,---,IRL,00:37:21,02:53:13,01:33:10,00:03:20,00:00:57,05:08:01
+ironman-70.3-barcelona-20140518.csv,729,Oscar Olivares,35,---,ESP,00:33:53,03:25:41,02:19:00,00:04:22,00:01:21,06:24:17
+ironman-70.3-barcelona-20140518.csv,730,Sergio Navarro Redondo,---,---,ESP,00:35:11,03:12:31,01:47:36,00:07:22,00:01:13,05:43:53
+ironman-70.3-barcelona-20140518.csv,731,Javier Murcia Corcoles,34,---,ESP,00:33:03,02:59:13,01:38:47,00:03:12,00:01:21,05:15:36
+ironman-70.3-barcelona-20140518.csv,732,Daniel Muñoz Ruiz,---,---,ESP,00:39:38,03:04:20,01:54:28,00:06:15,00:01:28,05:46:09
+ironman-70.3-barcelona-20140518.csv,733,Noel Muñoz Nadal,---,---,ESP,00:35:15,02:52:28,01:36:19,00:04:25,00:01:14,05:09:41
+ironman-70.3-barcelona-20140518.csv,734,Antonio Muñoz Martinez,---,---,ESP,00:37:48,03:35:13,02:13:08,00:06:01,00:01:19,06:33:29
+ironman-70.3-barcelona-20140518.csv,735,Raul Moya Blasco,34,---,ESP,00:36:07,03:09:57,01:53:22,00:05:51,00:01:09,05:46:26
+ironman-70.3-barcelona-20140518.csv,736,Marc Montolio Cortes,---,---,ESP,00:35:05,03:37:15,02:07:05,00:06:53,00:01:47,06:28:05
+ironman-70.3-barcelona-20140518.csv,737,Ben Montilla,---,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,738,Michael Monsieur,36,---,BEL,00:38:41,03:10:00,01:35:56,00:03:58,00:01:09,05:29:44
+ironman-70.3-barcelona-20140518.csv,739,Hector Molina Gimenez,---,---,ESP,00:35:12,03:17:48,02:21:08,00:06:22,00:01:22,06:21:52
+ironman-70.3-barcelona-20140518.csv,740,Manuel Molina Cedres,36,---,ESP,00:32:03,03:32:35,02:20:16,00:07:12,00:02:03,06:34:09
+ironman-70.3-barcelona-20140518.csv,741,Cyrille Molène,35,---,FRA,00:43:10,03:07:25,02:07:10,00:05:16,00:01:24,06:04:25
+ironman-70.3-barcelona-20140518.csv,742,Nicolas Mesnil,36,FR,FRA,00:39:14,03:13:20,02:07:21,00:05:51,00:01:09,06:06:55
+ironman-70.3-barcelona-20140518.csv,743,Carlos A. Mesa Cardenas,---,---,ESP,00:45:37,02:59:15,01:56:30,00:05:10,00:01:07,05:47:39
+ironman-70.3-barcelona-20140518.csv,744,Aleksey Menyaylo,38,---,RUS,00:39:21,04:04:17,02:34:31,00:07:50,00:02:14,07:28:13
+ironman-70.3-barcelona-20140518.csv,745,Christian Méndez Jaro,35,ES,ESP,00:31:40,02:53:47,01:35:28,00:04:30,00:00:56,05:06:21
+ironman-70.3-barcelona-20140518.csv,746,Xavi Mena Pons,37,Barcelona,ESP,00:39:40,03:24:27,02:15:57,00:05:55,00:01:28,06:27:27
+ironman-70.3-barcelona-20140518.csv,747,Eamonn Mcnamara,38,Limerick,IRL,00:40:38,03:53:04,02:54:22,00:06:49,00:02:00,07:36:53
+ironman-70.3-barcelona-20140518.csv,748,Mirko Mattoccia,35,roma,ITA,00:29:14,02:45:16,01:21:56,00:02:07,00:00:51,04:39:24
+ironman-70.3-barcelona-20140518.csv,749,Josep Mateu Yubero,---,---,ESP,00:37:55,03:04:15,01:40:26,00:04:38,00:01:10,05:28:24
+ironman-70.3-barcelona-20140518.csv,750,Arturo Cesar Mateos Parreño,37,---,ESP,00:36:23,03:43:07,02:35:30,00:06:42,00:01:38,07:03:20
+ironman-70.3-barcelona-20140518.csv,751,Alex Martinez Prats,35,ES,ESP,00:35:42,03:57:50,00:43:33,00:07:44,00:02:14,05:27:03
+ironman-70.3-barcelona-20140518.csv,752,Luis Martínez Moya,---,---,ESP,00:35:48,03:44:52,02:33:39,00:07:14,00:01:46,07:03:19
+ironman-70.3-barcelona-20140518.csv,753,Josep Martínez García,38,ES,ESP,00:37:18,03:09:53,01:55:09,00:04:51,00:01:23,05:48:34
+ironman-70.3-barcelona-20140518.csv,754,Carlos Martinez Aretxabala,35,---,ESP,00:34:58,03:10:05,01:44:54,00:06:25,00:01:16,05:37:38
+ironman-70.3-barcelona-20140518.csv,755,Olivier Martinez,---,---,FRA,00:38:01,03:13:10,02:15:22,00:05:20,00:01:35,06:13:28
+ironman-70.3-barcelona-20140518.csv,756,Jose Pedro Martin Escolar,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,757,Gustavo Martin,36,---,CHE,00:33:06,02:59:02,01:33:07,00:04:25,00:00:58,05:10:38
+ironman-70.3-barcelona-20140518.csv,758,Marc Martí,38,ES,ESP,00:35:14,03:29:40,02:04:49,00:07:27,00:02:03,06:19:13
+ironman-70.3-barcelona-20140518.csv,759,Jose Miguel Márquez Martínez,37,ES,ESP,00:37:25,03:15:35,01:55:09,00:05:58,00:01:01,05:55:08
+ironman-70.3-barcelona-20140518.csv,760,Sergio Marín Broto,---,---,ESP,00:31:20,03:06:16,01:28:17,00:05:01,00:00:53,05:11:47
+ironman-70.3-barcelona-20140518.csv,761,Mirco Mancini,36,Intl State,ITA,00:38:24,03:04:44,01:43:29,00:08:32,00:01:08,05:36:17
+ironman-70.3-barcelona-20140518.csv,762,Loïc Magnanon,36,---,FRA,00:37:02,03:08:08,01:44:29,00:03:30,00:01:02,05:34:11
+ironman-70.3-barcelona-20140518.csv,763,Ignacio Maeztu Zapateria,37,ES,ESP,00:27:07,02:37:47,01:24:20,00:03:01,00:01:10,04:33:25
+ironman-70.3-barcelona-20140518.csv,764,Sergio Madrid Ortiz,---,---,ESP,00:33:30,03:02:59,01:46:30,00:06:43,00:01:30,05:31:12
+ironman-70.3-barcelona-20140518.csv,765,Yannick Machecourt,38,FR,FRA,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,766,Roger Lozano Esteban,---,---,ESP,00:37:12,03:36:21,02:22:23,00:08:00,00:01:49,06:45:45
+ironman-70.3-barcelona-20140518.csv,767,Ramã³n Lã³pez Mendizabal,39,ES,ESP,00:35:00,03:19:45,01:41:17,00:07:01,00:01:14,05:44:17
+ironman-70.3-barcelona-20140518.csv,768,Lino Lopez Dosouto,38,ES,ESP,00:32:04,03:12:31,01:34:30,00:05:14,00:01:11,05:25:30
+ironman-70.3-barcelona-20140518.csv,769,Tomas Lopez,34,---,ESP,00:33:37,03:17:48,01:55:09,00:05:23,00:01:16,05:53:13
+ironman-70.3-barcelona-20140518.csv,770,Hector Llorens Mestre,37,---,ESP,00:37:24,03:13:50,01:47:16,00:07:12,00:01:11,05:46:53
+ironman-70.3-barcelona-20140518.csv,771,David Llibre,37,---,ESP,00:39:48,---,---,00:06:44,---,DNF
+ironman-70.3-barcelona-20140518.csv,772,Guillaume Ligneau,---,---,FRA,00:36:10,03:24:43,02:01:06,00:06:27,00:01:25,06:09:51
+ironman-70.3-barcelona-20140518.csv,773,Alfred Lieury Boher,35,---,ESP,00:37:22,03:27:34,01:51:08,00:08:24,00:01:11,06:05:39
+ironman-70.3-barcelona-20140518.csv,774,Genis Leyva Cuevas,39,---,ESP,00:34:06,03:11:09,01:53:15,00:04:09,00:01:07,05:43:46
+ironman-70.3-barcelona-20140518.csv,775,Lluis Lazaro Lahuerta,37,---,ESP,00:39:16,03:42:35,02:01:55,00:06:08,00:01:53,06:31:47
+ironman-70.3-barcelona-20140518.csv,776,Ferran Lahuerta Tamames,---,---,ESP,00:37:38,03:22:12,02:07:51,00:08:20,00:01:15,06:17:16
+ironman-70.3-barcelona-20140518.csv,777,Gerard Kirwan,39,dublin 16,IRL,00:40:25,03:04:54,01:50:37,00:04:17,00:01:21,05:41:34
+ironman-70.3-barcelona-20140518.csv,778,Mattias Kieffer,34,---,DNK,00:33:11,02:50:39,01:30:47,00:04:14,00:00:59,04:59:50
+ironman-70.3-barcelona-20140518.csv,779,Tim Kessler,34,DE,DEU,00:34:00,02:41:38,01:36:59,00:03:56,00:00:54,04:57:27
+ironman-70.3-barcelona-20140518.csv,780,Sami Kahkonen,34,Uusimaa,FIN,00:35:39,03:27:39,02:27:37,00:05:08,00:01:29,06:37:32
+ironman-70.3-barcelona-20140518.csv,781,Albert Juncosa Del Llano,35,---,ESP,00:30:24,02:46:01,01:26:44,00:02:08,00:00:52,04:46:09
+ironman-70.3-barcelona-20140518.csv,782,Marcel Janer,36,ES,ESP,00:33:18,03:05:36,01:50:15,00:03:01,00:01:26,05:33:36
+ironman-70.3-barcelona-20140518.csv,783,Oscar Izquierdo Vallejo,---,---,ESP,00:39:05,03:50:32,02:02:04,00:06:25,00:02:20,06:40:26
+ironman-70.3-barcelona-20140518.csv,784,Ferran Izabal Portulas,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,785,Iban Iturri Urkia,34,ES,ESP,00:35:07,02:45:44,01:31:03,00:04:28,00:01:01,04:57:23
+ironman-70.3-barcelona-20140518.csv,786,Victor Ibañez Fernzandez,---,---,ESP,00:32:35,03:25:58,02:12:14,00:06:08,00:00:47,06:17:42
+ironman-70.3-barcelona-20140518.csv,787,Yohann Husson,35,FR,FRA,00:33:49,02:58:10,01:46:57,00:05:27,00:00:57,05:25:20
+ironman-70.3-barcelona-20140518.csv,788,Miguel Huelamo,34,---,GRC,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,789,Philip Holford,35,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,790,Bruno Hock,---,---,BEL,00:33:54,02:57:45,01:42:10,00:03:50,00:01:05,05:18:44
+ironman-70.3-barcelona-20140518.csv,791,Juan Antonio Hernandez Roldan,37,---,ESP,00:36:36,02:55:07,01:30:23,00:02:49,00:00:53,05:05:48
+ironman-70.3-barcelona-20140518.csv,792,Rodrigo Hernández Giménez,37,ES,ESP,00:43:01,03:29:10,01:48:59,00:06:47,00:01:26,06:09:23
+ironman-70.3-barcelona-20140518.csv,793,Bo Hansen,37,DK,DNK,00:29:54,---,01:40:33,00:02:49,03:19:39,05:00:12
+ironman-70.3-barcelona-20140518.csv,794,Rafa Gonzalvez,37,ES,ESP,00:35:26,03:07:36,02:00:03,00:06:20,00:01:21,05:50:46
+ironman-70.3-barcelona-20140518.csv,795,Toni González Muñoz,36,ES,ESP,00:37:26,03:10:06,01:36:25,00:06:02,00:01:05,05:31:04
+ironman-70.3-barcelona-20140518.csv,796,Joel Gomez Fargas,34,---,ESP,00:28:11,02:50:00,01:27:28,00:03:19,00:00:50,04:49:48
+ironman-70.3-barcelona-20140518.csv,797,Josep Gomez Capel,39,ES,ESP,00:42:36,03:50:29,01:59:02,00:09:53,00:02:18,06:44:18
+ironman-70.3-barcelona-20140518.csv,798,Nestor Giner Llorens,---,---,ESP,00:38:31,03:24:31,02:11:09,00:04:34,00:01:18,06:20:03
+ironman-70.3-barcelona-20140518.csv,799,Ricardo Gimenez Serrano,37,---,ESP,00:29:53,02:53:28,01:40:33,00:03:36,00:00:54,05:08:24
+ironman-70.3-barcelona-20140518.csv,800,Isaac García Toro,36,ES,ESP,00:34:09,---,---,00:04:23,04:40:14,DNF
+ironman-70.3-barcelona-20140518.csv,801,Miguel Angel Garcia Parra,---,---,ESP,00:36:24,03:47:19,02:21:39,00:09:02,00:01:39,06:56:03
+ironman-70.3-barcelona-20140518.csv,802,Rubén García Martín,---,---,ESP,00:32:24,03:17:21,01:43:49,00:05:06,00:01:15,05:39:55
+ironman-70.3-barcelona-20140518.csv,803,Jose Carlos García López,---,---,ESP,00:37:20,03:30:29,01:45:23,00:05:28,00:01:00,05:59:40
+ironman-70.3-barcelona-20140518.csv,804,Juan Garcia Hernandez,---,---,ESP,00:36:39,03:22:13,01:52:55,00:03:29,00:01:44,05:57:00
+ironman-70.3-barcelona-20140518.csv,805,Javier Garcia Climent,37,ES,ESP,00:35:40,03:30:07,01:58:18,00:06:40,00:01:13,06:11:58
+ironman-70.3-barcelona-20140518.csv,806,Josep Garces Gomez,---,---,ESP,00:33:20,03:08:31,01:37:02,00:04:57,00:01:07,05:24:57
+ironman-70.3-barcelona-20140518.csv,807,Jesus Galvan Rodriguez,38,ES,ESP,00:36:53,03:26:13,01:53:30,00:06:40,00:01:07,06:04:23
+ironman-70.3-barcelona-20140518.csv,808,Ruben  galicia,35,---,ESP,00:30:41,02:53:12,01:53:13,00:04:13,00:01:08,05:22:27
+ironman-70.3-barcelona-20140518.csv,809,Jorge Fuentes González,---,---,ESP,00:36:19,02:50:15,01:37:56,00:03:37,00:01:05,05:09:12
+ironman-70.3-barcelona-20140518.csv,810,Gonzalo Fruto Gomez,---,---,ESP,00:33:22,03:05:23,01:39:19,00:04:29,00:01:04,05:23:37
+ironman-70.3-barcelona-20140518.csv,811,Rafel Fraile Antolin,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,812,Roberto Ferraiuolo,---,---,ITA,00:31:19,02:55:39,01:46:17,00:03:24,00:01:40,05:18:19
+ironman-70.3-barcelona-20140518.csv,813,Christian Fernandez Samprieto,---,---,ESP,00:32:08,03:21:39,01:57:55,00:04:24,00:01:13,05:57:19
+ironman-70.3-barcelona-20140518.csv,814,Espérance Fenzy,---,---,FRA,00:33:14,03:00:35,01:53:33,00:04:18,00:00:58,05:32:38
+ironman-70.3-barcelona-20140518.csv,815,Papot Fabrice,---,---,FRA,00:36:32,03:06:09,01:40:45,00:05:46,00:01:19,05:30:31
+ironman-70.3-barcelona-20140518.csv,816,Jordi Extremera,35,ES,ESP,00:29:29,02:57:51,01:59:48,00:02:56,00:00:56,05:31:00
+ironman-70.3-barcelona-20140518.csv,817,Jordi Martinez,39,AND,AND,00:35:01,02:55:03,01:39:17,00:04:00,00:01:08,05:14:29
+ironman-70.3-barcelona-20140518.csv,818,Hartmann Estruch,36,---,ESP,00:38:20,03:24:59,01:48:04,00:05:12,00:01:16,05:57:51
+ironman-70.3-barcelona-20140518.csv,819,Ricard Estrada Gil,---,---,ESP,00:39:44,03:11:42,01:44:53,00:03:47,00:01:19,05:41:25
+ironman-70.3-barcelona-20140518.csv,820,Juan Esteve,35,---,ESP,00:33:00,03:08:10,01:46:24,00:03:56,00:01:12,05:32:42
+ironman-70.3-barcelona-20140518.csv,821,Iván Esquíroz Márquez,38,---,ESP,00:33:51,03:24:27,01:43:35,00:04:44,00:01:18,05:47:55
+ironman-70.3-barcelona-20140518.csv,822,Hector Espi,---,---,IRL,00:36:09,03:24:49,02:19:33,00:05:00,00:01:34,06:27:05
+ironman-70.3-barcelona-20140518.csv,823,Toni Escudero Lorente,38,ES,ESP,00:34:27,03:08:14,01:49:39,00:04:52,00:01:12,05:38:24
+ironman-70.3-barcelona-20140518.csv,824,Damien Dufaur,36,FR,FRA,00:31:32,02:59:06,01:33:22,00:03:05,00:01:10,05:08:15
+ironman-70.3-barcelona-20140518.csv,825,Juan Carlos Duarte Angarita,34,---,ESP,00:50:36,04:30:45,02:16:51,00:10:08,00:01:40,07:50:00
+ironman-70.3-barcelona-20140518.csv,826,Josep Domingo Enrich,35,ES,ESP,00:39:08,03:15:30,02:13:58,00:10:03,00:01:33,06:20:12
+ironman-70.3-barcelona-20140518.csv,827,Manel Doménech Arasanz,---,---,ESP,00:29:20,03:09:08,01:46:35,00:04:42,00:01:33,05:31:18
+ironman-70.3-barcelona-20140518.csv,828,Petr Dolgov,---,---,RUS,00:37:04,03:35:45,02:08:38,00:06:30,00:02:33,06:30:30
+ironman-70.3-barcelona-20140518.csv,829,Miguel Díez Pascual,---,---,ESP,00:44:39,04:14:08,02:01:30,00:07:10,00:01:33,07:09:00
+ironman-70.3-barcelona-20140518.csv,830,Sebastien Didelet,38,FR,FRA,00:33:18,03:03:32,---,00:04:19,00:01:21,DNF
+ironman-70.3-barcelona-20140518.csv,831,Marcos Diaz Jimenez,36,ES,ESP,00:43:25,03:20:08,02:19:26,00:05:54,00:01:21,06:30:14
+ironman-70.3-barcelona-20140518.csv,832,Shane Devlin,35,Meath,IRL,00:36:20,02:59:30,01:52:44,00:04:18,00:01:04,05:33:56
+ironman-70.3-barcelona-20140518.csv,833,Santiago Del Rio,39,---,ESP,00:36:01,03:33:43,02:04:34,00:05:31,00:01:35,06:21:24
+ironman-70.3-barcelona-20140518.csv,834,Alejandro De Larrechea,37,ES,ESP,00:25:51,03:12:18,01:51:55,00:03:36,00:01:09,05:34:49
+ironman-70.3-barcelona-20140518.csv,835,Jaume De Diago Callao,---,---,ESP,00:38:12,02:55:14,01:37:55,00:05:47,00:01:13,05:18:21
+ironman-70.3-barcelona-20140518.csv,836,Miguel De Bernardo,---,---,ESP,00:40:14,04:18:42,02:29:05,00:06:51,00:01:34,07:36:26
+ironman-70.3-barcelona-20140518.csv,837,Marc De Antonio Fiol,37,---,ESP,00:38:18,03:10:23,01:48:30,00:04:31,00:01:09,05:42:51
+ironman-70.3-barcelona-20140518.csv,838,Guillaume Daoust,37,---,FRA,00:29:49,02:53:06,01:45:37,00:03:18,00:01:02,05:12:52
+ironman-70.3-barcelona-20140518.csv,839,Gassner Daniel,---,---,LIE,00:29:06,03:08:29,01:39:10,00:04:00,00:01:28,05:22:13
+ironman-70.3-barcelona-20140518.csv,840,Daniel Cruz Mencia,39,---,ESP,00:31:46,02:56:56,01:32:09,00:02:53,00:00:55,05:04:39
+ironman-70.3-barcelona-20140518.csv,841,Josep Costa Margenet,37,---,ESP,00:36:11,03:02:51,01:51:03,00:04:04,00:00:56,05:35:05
+ironman-70.3-barcelona-20140518.csv,842,Xavier Cortés Lecha,37,---,ESP,00:46:57,03:45:56,02:18:54,00:03:35,00:01:11,06:56:33
+ironman-70.3-barcelona-20140518.csv,843,Tiago Cordas,34,---,PRT,00:31:47,03:00:20,01:44:09,00:02:53,00:01:03,05:20:12
+ironman-70.3-barcelona-20140518.csv,844,Marcel Coolen,---,---,NLD,00:52:06,03:32:34,02:22:07,00:07:07,00:02:16,06:56:10
+ironman-70.3-barcelona-20140518.csv,845,Juanjo Constans Vallejo,---,---,ESP,00:43:11,03:25:46,01:43:30,00:05:31,00:01:05,05:59:03
+ironman-70.3-barcelona-20140518.csv,846,Francisco Colle Pereira,---,---,ESP,00:32:58,02:55:11,02:32:22,00:04:00,00:00:56,06:05:27
+ironman-70.3-barcelona-20140518.csv,847,Ivan Clavijos,38,---,ESP,00:42:19,03:58:03,02:04:25,00:04:48,00:01:09,06:50:44
+ironman-70.3-barcelona-20140518.csv,848,Jaume Chiva,36,ES,ESP,00:37:18,03:06:05,01:54:08,00:05:23,00:01:03,05:43:57
+ironman-70.3-barcelona-20140518.csv,849,Jaume Celada Roura,36,ES,ESP,00:34:12,02:56:05,01:31:48,00:04:58,00:00:56,05:07:59
+ironman-70.3-barcelona-20140518.csv,850,Andrés Castro,35,---,ESP,00:38:18,03:41:27,02:18:56,00:06:43,00:01:35,06:46:59
+ironman-70.3-barcelona-20140518.csv,851,Angel Castillejo,38,---,ESP,00:31:49,02:47:52,01:26:00,00:02:24,00:00:48,04:48:53
+ironman-70.3-barcelona-20140518.csv,852,Mauro Castells Tapies,---,---,ESP,00:52:38,04:43:24,---,00:05:32,00:02:12,DNF
+ironman-70.3-barcelona-20140518.csv,853,Joan Ramon Castello,36,ES,ESP,00:34:04,02:54:41,01:37:32,00:03:54,00:00:59,05:11:10
+ironman-70.3-barcelona-20140518.csv,854,Albert Caroz Segura,---,---,ESP,00:42:12,03:46:03,02:41:04,00:06:22,00:02:23,07:18:04
+ironman-70.3-barcelona-20140518.csv,855,Jordi Cañon Mallen,---,---,ESP,00:52:15,04:04:23,02:26:33,00:07:11,00:02:16,07:32:38
+ironman-70.3-barcelona-20140518.csv,856,Aleix Canals Comas,---,---,ESP,00:37:31,03:08:29,02:07:21,00:05:55,00:01:20,06:00:36
+ironman-70.3-barcelona-20140518.csv,857,Ferran Canals,---,---,ESP,00:36:40,03:13:22,01:58:06,00:03:44,00:01:05,05:52:57
+ironman-70.3-barcelona-20140518.csv,858,Alberto Jose Campos Flores,39,---,ESP,00:38:54,03:28:31,02:07:39,00:04:59,00:01:21,06:21:24
+ironman-70.3-barcelona-20140518.csv,859,Joan Calvera Porta,---,---,ITA,00:38:00,03:22:26,02:03:37,00:03:32,00:01:09,06:08:44
+ironman-70.3-barcelona-20140518.csv,860,Bjorn Callens,---,---,BEL,00:33:47,03:10:49,01:35:44,00:04:02,00:00:59,05:25:21
+ironman-70.3-barcelona-20140518.csv,861,Sergei Buzov,---,---,RUS,00:39:07,03:33:07,02:03:31,00:08:23,00:01:36,06:25:44
+ironman-70.3-barcelona-20140518.csv,862,Sergio Burgos Urbano,36,---,ESP,00:38:46,03:29:59,01:57:40,00:06:56,00:01:33,06:14:54
+ironman-70.3-barcelona-20140518.csv,863,Arnaitz Burgoa,37,---,ESP,00:29:10,02:40:34,01:27:19,00:02:44,00:00:49,04:40:36
+ironman-70.3-barcelona-20140518.csv,864,Eduard Briz,37,ES,ESP,00:41:52,03:31:45,02:29:54,00:04:13,00:01:26,06:49:10
+ironman-70.3-barcelona-20140518.csv,865,Christophe Braun,37,---,BEL,00:29:15,02:56:04,01:33:11,00:03:43,00:01:10,05:03:23
+ironman-70.3-barcelona-20140518.csv,866,Marc Brachet,---,---,FRA,00:41:25,03:36:11,02:00:42,00:04:59,00:01:31,06:24:48
+ironman-70.3-barcelona-20140518.csv,868,Ruben Botia Garcia,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,869,Amadeu Bosch Brillas,35,---,ESP,00:37:21,02:59:38,01:30:34,00:04:11,00:01:13,05:12:57
+ironman-70.3-barcelona-20140518.csv,870,Joan Borrell Ventura,---,---,ESP,00:31:19,03:03:45,02:08:56,00:03:29,00:01:21,05:48:50
+ironman-70.3-barcelona-20140518.csv,871,Ricardo Borrajo Canal,35,ES,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,872,Joan Bonet Martos,35,---,ESP,00:30:44,03:17:00,02:26:37,00:05:09,00:01:18,06:20:48
+ironman-70.3-barcelona-20140518.csv,873,Jordi Boer,39,---,NLD,00:41:54,03:20:03,02:16:45,00:04:06,00:01:07,06:23:55
+ironman-70.3-barcelona-20140518.csv,874,Josep Blasco,34,ES,ESP,00:34:19,02:44:47,01:38:25,00:04:36,00:01:17,05:03:24
+ironman-70.3-barcelona-20140518.csv,875,Nicolas Blanc,36,FR,FRA,00:36:08,03:11:43,01:47:16,00:05:32,00:01:22,05:42:01
+ironman-70.3-barcelona-20140518.csv,876,Daris Andres Bistevins Rodriguez,---,---,ESP,00:36:43,03:13:54,01:59:13,00:06:05,00:01:20,05:57:15
+ironman-70.3-barcelona-20140518.csv,877,Evgeniy Birin,34,Jurmala,LVA,00:34:38,03:28:01,01:43:34,00:03:44,00:01:16,05:51:13
+ironman-70.3-barcelona-20140518.csv,878,Bernard Stephane,38,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,879,Carles Berge Atserias,36,ES,ESP,00:42:40,03:28:25,02:10:00,00:05:59,00:01:16,06:28:20
+ironman-70.3-barcelona-20140518.csv,880,Juan Antonio Berdun Ortiz,35,---,ESP,00:35:31,03:19:57,01:55:44,00:04:34,00:01:37,05:57:23
+ironman-70.3-barcelona-20140518.csv,881,Martin Bell,---,---,GBR,00:36:16,03:18:19,02:05:51,00:06:14,00:01:36,06:08:16
+ironman-70.3-barcelona-20140518.csv,882,Onay Bayram,36,Marmara,TUR,00:39:24,03:06:08,01:59:36,00:06:32,00:01:29,05:53:09
+ironman-70.3-barcelona-20140518.csv,883,Ramon Barrios Alegre,36,---,ESP,00:39:16,03:15:44,01:42:42,00:03:53,00:01:09,05:42:44
+ironman-70.3-barcelona-20140518.csv,884,Roger Barranco Pons,---,---,ESP,00:33:58,03:05:58,02:02:41,00:02:45,00:01:02,05:46:24
+ironman-70.3-barcelona-20140518.csv,885,Domingo Baños Caballero,38,ES,ESP,00:39:17,03:00:15,01:43:01,00:05:39,00:00:56,05:29:08
+ironman-70.3-barcelona-20140518.csv,886,Ricard Balagué Cava,36,---,ESP,00:33:43,02:53:18,01:41:51,00:05:37,00:01:02,05:15:31
+ironman-70.3-barcelona-20140518.csv,887,Emre Bagdat,37,---,TUR,00:40:22,03:48:27,02:17:34,00:09:09,00:01:35,06:57:07
+ironman-70.3-barcelona-20140518.csv,888,Lluis Badosa,---,---,ESP,00:33:59,03:34:02,02:07:24,00:04:36,00:01:26,06:21:27
+ironman-70.3-barcelona-20140518.csv,889,Mariano Badia Cebada,37,ES,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,890,Toni Azor Alvarez,---,---,ESP,00:34:15,02:53:18,01:35:35,00:03:33,00:00:57,05:07:38
+ironman-70.3-barcelona-20140518.csv,891,Unai Ayerdi Conde,---,---,ESP,00:33:41,03:19:24,01:48:26,00:05:49,00:01:11,05:48:31
+ironman-70.3-barcelona-20140518.csv,892,Aitor Ayerdi Conde,---,---,ESP,00:35:06,03:17:49,01:48:53,00:04:45,00:01:23,05:47:56
+ironman-70.3-barcelona-20140518.csv,893,Javier Ávila Jarrín,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,894,Pekka Autere,34,Uusimaa,FIN,00:33:14,02:58:51,01:36:35,00:03:38,00:00:54,05:13:12
+ironman-70.3-barcelona-20140518.csv,895,Carlos Aula Casellas,35,---,ESP,00:32:16,02:57:56,01:43:46,00:03:34,00:00:59,05:18:31
+ironman-70.3-barcelona-20140518.csv,896,Marcel Muñoz,36,---,ESP,00:33:29,03:15:32,01:49:35,00:03:55,00:01:10,05:43:41
+ironman-70.3-barcelona-20140518.csv,897,Jordi Aranda Gonzalez,---,---,ESP,00:42:30,03:24:03,01:55:12,00:04:43,00:01:09,06:07:37
+ironman-70.3-barcelona-20140518.csv,899,Paulo Antunes,---,---,PRT,00:24:44,02:42:06,01:23:31,00:02:13,00:00:50,04:33:24
+ironman-70.3-barcelona-20140518.csv,900,Raul Anguita Fernández,37,ES,ESP,00:29:35,03:06:10,01:42:06,00:04:57,00:01:06,05:23:54
+ironman-70.3-barcelona-20140518.csv,901,Sergi Andres Duran,36,---,ESP,00:45:33,04:05:12,---,00:05:36,00:02:03,DNF
+ironman-70.3-barcelona-20140518.csv,902,Ivan Andrada,34,---,ESP,00:47:37,03:34:42,02:49:07,00:07:38,00:01:53,07:20:57
+ironman-70.3-barcelona-20140518.csv,903,David Amor Expósito,---,---,ESP,00:39:45,03:11:23,01:54:19,00:05:39,00:01:27,05:52:33
+ironman-70.3-barcelona-20140518.csv,904,Salvador Amat Partegàs,---,---,ESP,00:41:28,02:53:09,01:34:25,00:04:38,00:01:00,05:14:40
+ironman-70.3-barcelona-20140518.csv,905,Jordi Altimiras Freixer,---,---,ESP,00:45:31,03:38:40,02:06:54,00:08:27,00:01:31,06:41:03
+ironman-70.3-barcelona-20140518.csv,906,Frank Alonso Paillisse,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,907,Tamer Al-Kassimi Vargas,34,ES,ESP,00:35:48,03:31:00,02:05:53,00:03:34,00:01:12,06:17:27
+ironman-70.3-barcelona-20140518.csv,908,Enric Escamilla,36,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,909,Patrick Albert I Campreciós,---,---,ESP,00:43:32,03:13:54,01:57:07,00:06:21,00:01:24,06:02:18
+ironman-70.3-barcelona-20140518.csv,910,Carlos Alavedra Cayuela,---,---,ESP,00:42:40,03:35:06,01:48:54,00:06:06,00:01:31,06:14:17
+ironman-70.3-barcelona-20140518.csv,911,Grégory Aillet,38,---,FRA,00:40:06,03:18:30,01:50:53,00:04:45,00:01:16,05:55:30
+ironman-70.3-barcelona-20140518.csv,912,Luís Abadía Pérez,---,---,ESP,00:41:23,03:09:10,01:55:28,00:04:43,00:01:07,05:51:51
+ironman-70.3-barcelona-20140518.csv,913,Nacho Abad Lopez,35,---,ESP,00:38:48,03:15:14,02:11:46,00:05:28,00:01:24,06:12:40
+ironman-70.3-barcelona-20140518.csv,914,Quique Rodriguez Gracia,36,ES,ESP,00:37:42,03:12:43,02:08:37,00:05:43,00:01:26,06:06:11
+ironman-70.3-barcelona-20140518.csv,915,Iban Rosinach Buira,39,---,ESP,00:38:08,03:38:05,02:05:20,00:05:12,00:01:11,06:27:56
+ironman-70.3-barcelona-20140518.csv,917,Max Zarges,38,---,DEU,00:29:18,03:06:47,01:45:36,00:04:01,00:01:00,05:26:42
+ironman-70.3-barcelona-20140518.csv,918,Sergio González Santos,35,ES,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,919,Josep Maria Garcia Riera,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-barcelona-20140518.csv,920,José Luis Moreno Ramírez,---,---,ESP,00:35:58,03:01:29,01:35:46,00:02:52,00:00:59,05:17:04
+ironman-70.3-barcelona-20140518.csv,921,Francesc Pociello Pecellin,37,---,ESP,00:41:55,03:47:27,02:47:16,00:06:36,00:02:30,07:25:44
+ironman-70.3-barcelona-20140518.csv,922,Pere Xampeny,37,ES,ESP,00:37:29,03:09:25,01:49:30,00:03:03,00:01:00,05:40:27
+ironman-70.3-barcelona-20140518.csv,923,Eusebio Carasusan,37,---,ESP,00:37:23,03:21:48,01:53:21,00:05:13,00:01:11,05:58:56
+ironman-70.3-barcelona-20140518.csv,924,David Saus,37,ES,ESP,00:35:16,03:11:09,01:43:28,00:05:41,00:01:11,05:36:45
+ironman-70.3-barcelona-20140518.csv,925,Raul Martinez Pastor,34,ES,ESP,00:37:23,03:11:48,01:52:43,00:05:43,00:01:29,05:49:06
+ironman-70.3-barcelona-20140518.csv,926,Peter Sant,34,---,DNK,00:33:48,02:41:12,01:32:32,00:04:25,00:01:22,04:53:19
+ironman-70.3-barcelona-20140518.csv,927,David Cala Aranda,35,---,ESP,00:41:34,03:48:20,01:55:43,00:09:30,00:02:20,06:37:27
+ironman-70.3-barcelona-20140518.csv,928,Geoffray Albalate,38,FR,FRA,00:31:14,03:24:32,01:44:18,00:04:37,00:01:22,05:46:03

@@ -1,0 +1,873 @@
+#File=ironman-los-cabos-20140330.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-los-cabos-20140330.csv,1,Trevor Delsaut,29,---,FRA,00:49:52,---,---,00:02:38,---,DNF
+ironman-los-cabos-20140330.csv,2,Daniel Fontana,38,Milano,ITA,00:47:43,04:39:53,02:55:06,00:02:35,00:00:58,08:26:15
+ironman-los-cabos-20140330.csv,3,Matt Russell,31,FL,USA,00:51:34,04:51:41,02:54:51,00:02:36,00:01:38,08:42:20
+ironman-los-cabos-20140330.csv,4,Tj Tollakson,33,IA,USA,00:47:40,04:40:13,---,00:02:44,00:02:10,DNF
+ironman-los-cabos-20140330.csv,6,Patrick Evoe,36,CO,USA,00:51:46,04:46:26,02:58:18,00:02:44,00:00:59,08:40:13
+ironman-los-cabos-20140330.csv,7,Gregory Close,30,NY,USA,00:58:24,---,---,00:03:12,---,DNF
+ironman-los-cabos-20140330.csv,8,Matthew Curbeau,27,MA,USA,01:01:11,05:04:09,03:47:34,00:04:09,00:02:18,09:59:21
+ironman-los-cabos-20140330.csv,9,Petr Vabrousek,40,Intl State,CZE,00:53:10,04:49:53,03:10:57,00:03:36,00:02:02,08:59:38
+ironman-los-cabos-20140330.csv,10,Jan Van Berkel,28,---,CHE,00:47:46,04:36:25,03:18:30,00:02:30,00:01:20,08:46:31
+ironman-los-cabos-20140330.csv,11,Mike Schifferle,40,---,CHE,00:57:07,04:45:37,03:17:43,00:03:13,00:02:38,09:06:18
+ironman-los-cabos-20140330.csv,12,Derek Garcia,29,ID,USA,00:49:51,04:43:03,03:12:50,00:02:42,00:01:27,08:49:53
+ironman-los-cabos-20140330.csv,13,Stephen Bayliss,35,Intl State,GBR,00:45:37,04:42:08,03:01:10,00:02:22,00:01:02,08:32:19
+ironman-los-cabos-20140330.csv,15,Dan Mcintosh,29,CO,USA,00:49:51,04:50:53,05:05:16,00:02:58,00:01:00,10:49:58
+ironman-los-cabos-20140330.csv,16,Brent Mcburney,34,Other,USA,00:54:19,05:10:07,---,00:03:13,00:01:23,DNF
+ironman-los-cabos-20140330.csv,17,Domenico Passuello,36,Intl State,ITA,00:51:43,04:35:54,03:02:46,00:02:37,00:01:18,08:34:18
+ironman-los-cabos-20140330.csv,18,Swen Sundberg,40,Eastern Cape,DEU,00:49:51,04:43:06,03:00:59,00:02:45,00:01:36,08:38:17
+ironman-los-cabos-20140330.csv,19,Jim Lubinski,35,CA,USA,00:58:10,05:11:53,02:54:49,00:03:02,00:01:16,09:09:10
+ironman-los-cabos-20140330.csv,20,Josef Svoboda,37,Intl State,CZE,01:07:39,06:28:02,04:24:04,00:04:31,00:05:02,12:09:18
+ironman-los-cabos-20140330.csv,22,Doug Maclean,34,MA,USA,00:53:08,05:03:32,03:09:26,00:03:36,00:03:32,09:13:14
+ironman-los-cabos-20140330.csv,23,Allan Alfonso Villanueva Flores,---,---,MEX,00:51:41,05:16:01,03:51:26,00:02:31,00:12:50,10:14:29
+ironman-los-cabos-20140330.csv,25,Scott Defilippis,34,CA,USA,00:51:47,05:18:27,04:34:13,00:03:00,00:02:30,10:49:57
+ironman-los-cabos-20140330.csv,27,James Duff,37,NC,MEX,00:49:52,05:06:30,03:52:41,00:02:46,00:02:35,09:54:24
+ironman-los-cabos-20140330.csv,28,Ezequiel Morales,40,Rio de Janeiro,USA,00:51:15,04:58:28,---,00:03:19,00:04:27,DNF
+ironman-los-cabos-20140330.csv,29,Martin Lamontagne Lacasse,---,---,ARG,00:49:49,05:04:43,03:11:52,00:02:47,00:02:56,09:12:07
+ironman-los-cabos-20140330.csv,35,Linsey Corbin,---,---,USA,00:53:11,05:06:17,03:12:03,00:03:30,00:01:42,09:16:43
+ironman-los-cabos-20140330.csv,36,Carrie Lester,33,QLD,AUS,00:52:49,05:05:03,03:24:42,00:03:02,00:00:59,09:26:35
+ironman-los-cabos-20140330.csv,37,Lisa Roberts,35,AZ,USA,01:01:55,05:10:14,03:02:43,00:04:05,00:01:43,09:20:40
+ironman-los-cabos-20140330.csv,38,Beth Shutt,34,MA,USA,00:55:53,05:16:57,03:14:27,00:03:35,00:01:36,09:32:28
+ironman-los-cabos-20140330.csv,39,Katharina Grohmann,26,---,DEU,01:13:10,05:23:57,03:20:50,00:03:20,00:01:02,10:02:19
+ironman-los-cabos-20140330.csv,40,Alyssa Godesky,28,VA,USA,01:01:43,05:35:48,03:39:49,00:03:29,00:01:40,10:22:29
+ironman-los-cabos-20140330.csv,41,Ashley Clifford,27,FL,USA,00:51:45,05:37:22,03:12:13,00:03:08,00:01:29,09:45:57
+ironman-los-cabos-20140330.csv,42,Kristina Wiegand,44,Intl State,DEU,01:02:06,06:02:44,04:34:17,00:03:55,00:03:00,11:46:02
+ironman-los-cabos-20140330.csv,43,Haley Chura,28,MT,USA,00:47:57,05:23:16,03:17:27,00:03:38,00:01:17,09:33:35
+ironman-los-cabos-20140330.csv,44,Katy Evans,31,CO,USA,00:47:59,05:25:55,03:19:47,00:03:18,00:00:57,09:37:56
+ironman-los-cabos-20140330.csv,45,Karen Thibodeau,34,BC,CAN,00:52:41,05:17:20,---,00:02:53,00:01:33,DNF
+ironman-los-cabos-20140330.csv,46,Sara Gross,38,BC,CAN,00:56:50,05:41:54,---,00:03:24,00:03:24,DNF
+ironman-los-cabos-20140330.csv,47,Molly Roohi,32,VA,USA,01:05:09,05:31:11,03:26:02,00:03:26,00:03:22,10:09:10
+ironman-los-cabos-20140330.csv,50,Saleta Castro,27,---,ESP,00:55:49,05:25:38,03:54:23,00:03:02,00:02:12,10:21:04
+ironman-los-cabos-20140330.csv,51,Caroline Gregory,34,---,USA,00:52:44,05:51:35,03:24:13,00:03:12,00:01:08,10:12:52
+ironman-los-cabos-20140330.csv,52,Mackenzie Madison,27,OR,USA,00:56:50,05:31:43,---,00:04:19,00:01:28,DNF
+ironman-los-cabos-20140330.csv,53,Anne Basso,30,NC,FRA,00:56:44,05:32:35,---,00:03:45,00:02:15,DNF
+ironman-los-cabos-20140330.csv,54,Kathleen Calkins,38,CA,USA,00:52:53,05:26:32,03:20:03,00:03:09,00:01:50,09:44:27
+ironman-los-cabos-20140330.csv,71,Dave Hunnius,39,IL,USA,01:01:00,05:23:09,03:39:14,00:06:36,00:03:51,10:13:50
+ironman-los-cabos-20140330.csv,73,Mark Cowderoy,41,ON,CAN,01:33:48,07:18:42,07:12:58,00:13:02,00:17:43,16:36:13
+ironman-los-cabos-20140330.csv,74,Bruno Stoob,65,Puebla,MEX,02:16:57,07:18:05,06:16:19,00:06:12,00:08:14,16:05:47
+ironman-los-cabos-20140330.csv,75,Dennis Budd,62,AZ,USA,01:22:12,07:51:56,05:12:15,00:10:37,00:04:22,14:41:22
+ironman-los-cabos-20140330.csv,76,Alan Lynn Tarkington,74,CA,USA,01:14:54,07:00:15,07:27:07,00:18:01,00:07:06,16:07:23
+ironman-los-cabos-20140330.csv,77,John Curtis,68,Ontario,CAN,01:30:39,08:39:38,06:25:05,00:09:22,00:06:25,16:51:09
+ironman-los-cabos-20140330.csv,78,Alberto Salazar-Valadez,60,D.F.,MEX,01:25:53,07:33:35,06:03:14,00:14:36,00:05:23,15:22:41
+ironman-los-cabos-20140330.csv,79,Luciano Nardi,38,Intl State,ARG,01:05:46,06:26:06,04:40:31,00:09:53,00:04:19,12:26:35
+ironman-los-cabos-20140330.csv,80,Richard Weinbrandt,69,WY,USA,01:06:48,08:05:28,05:29:07,00:10:22,00:05:38,14:57:23
+ironman-los-cabos-20140330.csv,81,Christian Wendenburg,41,TX,USA,01:23:06,05:56:53,04:19:16,00:08:32,00:03:28,11:51:15
+ironman-los-cabos-20140330.csv,82,Bob Rapp,63,TX,USA,01:23:45,07:58:09,06:50:43,00:14:38,00:12:45,16:40:00
+ironman-los-cabos-20140330.csv,85,Jorge Lopez,41,Intl State,MEX,01:42:01,07:16:28,06:47:36,00:10:35,00:04:29,16:01:09
+ironman-los-cabos-20140330.csv,87,Jorge S Nchez-Aldana Fern Ndez,41,Intl State,MEX,01:22:23,07:10:08,06:00:07,00:13:22,00:05:52,14:51:52
+ironman-los-cabos-20140330.csv,89,Ruben Pichardo,45,Queretaro,MEX,01:01:54,06:23:21,04:19:15,00:08:10,00:04:46,11:57:26
+ironman-los-cabos-20140330.csv,90,Jose Renato M. Toledo Jr.,40,Minas Gerais,BRA,01:07:08,06:11:23,05:22:00,00:07:54,00:03:38,12:52:03
+ironman-los-cabos-20140330.csv,91,Carlos Rodriguez,---,JALISCO,MEX,01:09:32,07:03:17,05:20:44,00:07:23,00:07:33,13:48:29
+ironman-los-cabos-20140330.csv,92,Miguel Mendoza,41,Jalisco,MEX,01:23:04,---,---,00:14:21,---,DNF
+ironman-los-cabos-20140330.csv,93,Brian Stockbrugger,43,NY,CAN,01:06:33,05:41:25,04:39:48,00:05:27,00:03:08,11:36:21
+ironman-los-cabos-20140330.csv,94,Joy Braun,39,FL,USA,01:10:59,07:06:19,05:20:46,00:06:31,00:01:58,13:46:33
+ironman-los-cabos-20140330.csv,95,Garrett Fowler,25,CA,USA,01:00:28,05:33:07,---,00:05:38,00:04:04,DNF
+ironman-los-cabos-20140330.csv,97,Beth Curtis,33,CO,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20140330.csv,99,Kai Nakamura,39,CA,USA,01:26:32,06:34:52,04:55:32,00:10:41,00:06:24,13:14:01
+ironman-los-cabos-20140330.csv,101,Jimi Young,44,MI,USA,01:07:00,05:31:20,03:44:29,00:05:08,00:01:50,10:29:47
+ironman-los-cabos-20140330.csv,102,Amy Cox-Petersen,49,CA,USA,01:12:17,08:02:21,06:02:24,00:17:03,00:13:19,15:47:24
+ironman-los-cabos-20140330.csv,103,Kaysha Gurell,29,VA,USA,01:22:13,07:38:21,05:59:23,00:08:03,00:08:13,15:16:13
+ironman-los-cabos-20140330.csv,104,Kelli Trudel,45,TX,USA,01:27:02,07:38:52,05:48:57,00:07:44,00:04:50,15:07:25
+ironman-los-cabos-20140330.csv,105,Jason Hughes,38,FL,USA,01:18:17,07:42:42,06:03:35,00:16:38,00:11:05,15:32:17
+ironman-los-cabos-20140330.csv,106,Daniel Bailey,55,VA,USA,01:44:42,08:11:41,---,00:11:40,00:05:00,DNF
+ironman-los-cabos-20140330.csv,108,Jack Daly,65,CA,USA,01:33:11,07:29:29,06:18:30,00:11:34,00:08:46,15:41:30
+ironman-los-cabos-20140330.csv,109,Kelsey Googel,---,BR,CAN,01:06:33,08:04:08,05:01:43,00:09:13,00:06:41,14:28:18
+ironman-los-cabos-20140330.csv,110,Lizabeth Danek,52,OR,USA,01:03:19,---,---,00:09:02,---,DNF
+ironman-los-cabos-20140330.csv,113,Scott Bradfield,42,FL,USA,01:30:03,08:14:00,06:06:25,00:13:34,00:08:00,16:12:02
+ironman-los-cabos-20140330.csv,114,William Schmidt,40,FL,USA,01:11:15,07:13:43,05:23:06,00:13:51,00:08:37,14:10:32
+ironman-los-cabos-20140330.csv,115,Mark Skelte,58,OR,USA,01:04:13,06:16:52,---,00:08:13,00:04:51,DNF
+ironman-los-cabos-20140330.csv,116,Holger Mueller,41,---,DEU,01:33:41,06:33:00,05:22:25,00:14:19,00:12:32,13:55:57
+ironman-los-cabos-20140330.csv,117,Kim Colapinto Weirath,52,CA,USA,01:06:31,06:39:09,04:38:02,00:07:19,00:07:19,12:38:20
+ironman-los-cabos-20140330.csv,118,Timothy Henkel,49,CA,USA,01:10:10,06:56:38,04:57:56,00:10:56,00:03:20,13:19:00
+ironman-los-cabos-20140330.csv,119,Steve Pulver,59,CA,USA,01:06:58,05:31:53,04:35:44,00:05:13,00:01:44,11:21:32
+ironman-los-cabos-20140330.csv,120,Ken Whiting,58,CA,USA,01:24:53,07:30:38,05:45:33,00:24:56,00:17:59,15:23:59
+ironman-los-cabos-20140330.csv,121,Gabriel Morfin,41,São paulo,BRA,01:41:13,08:22:35,06:04:37,00:09:43,00:09:39,16:27:47
+ironman-los-cabos-20140330.csv,122,Mike Booth,48,OR,USA,01:07:40,06:19:10,05:12:00,00:07:49,00:05:18,12:51:57
+ironman-los-cabos-20140330.csv,123,Anderw Booth,22,OR,USA,01:22:54,07:18:40,03:39:49,00:09:14,00:07:55,12:38:32
+ironman-los-cabos-20140330.csv,124,Rafael Galvan,31,CA,USA,01:07:47,06:03:59,04:11:12,00:07:24,00:03:48,11:34:10
+ironman-los-cabos-20140330.csv,125,Emily Smith,40,CO,USA,01:34:43,07:45:11,05:22:08,00:08:02,00:03:15,14:53:19
+ironman-los-cabos-20140330.csv,127,Kenneth Collins,44,WA,USA,00:57:30,---,---,00:03:47,---,DNF
+ironman-los-cabos-20140330.csv,128,Marnie Collins,43,WA,USA,01:11:17,06:11:33,04:50:06,00:04:33,00:01:56,12:19:25
+ironman-los-cabos-20140330.csv,132,Mark Wilgar,48,---,AUS,00:57:39,06:23:29,03:54:15,00:24:55,00:01:47,11:42:05
+ironman-los-cabos-20140330.csv,134,kari bradley,41,UT,USA,01:11:47,06:40:37,06:09:38,00:05:56,00:04:41,14:12:39
+ironman-los-cabos-20140330.csv,136,Eric Burns,44,AZ,VIR,01:24:09,07:03:43,07:55:07,00:11:10,00:06:10,16:40:19
+ironman-los-cabos-20140330.csv,137,Rod Caborn,---,CA,USA,01:17:54,07:16:12,04:21:50,00:15:06,00:19:28,13:30:30
+ironman-los-cabos-20140330.csv,138,Jon Sisk,51,CA,USA,01:02:55,06:18:00,05:06:14,00:10:37,00:13:29,12:51:15
+ironman-los-cabos-20140330.csv,139,Aida Wasilewski,53,CA,USA,01:14:17,06:26:28,---,00:04:57,00:02:13,DNF
+ironman-los-cabos-20140330.csv,142,Kayla Kielar,31,CA,USA,00:56:39,05:48:54,03:53:26,00:03:50,00:02:18,10:45:07
+ironman-los-cabos-20140330.csv,143,Joseph Huy,44,CA,USA,01:14:16,05:55:44,05:34:11,00:07:18,00:10:50,13:02:19
+ironman-los-cabos-20140330.csv,144,Jason Hardy-Smith,42,CA,USA,01:21:52,06:39:46,05:08:25,00:07:32,00:07:02,13:24:37
+ironman-los-cabos-20140330.csv,145,Jerry Slater,47,NV,USA,01:18:20,07:17:47,---,00:08:24,---,DNF
+ironman-los-cabos-20140330.csv,146,Hailey Manning,33,CA,USA,00:56:38,05:34:01,03:34:35,00:03:50,00:01:39,10:10:43
+ironman-los-cabos-20140330.csv,147,Tomas Valena,61,QLD,AUS,01:17:20,06:05:52,03:54:34,00:05:41,00:02:04,11:25:31
+ironman-los-cabos-20140330.csv,148,Adam Hill,34,CA,USA,01:10:49,05:34:03,03:52:57,00:05:04,00:02:25,10:45:18
+ironman-los-cabos-20140330.csv,149,Christopher Domoney,64,lancashire,GBR,01:17:24,06:53:16,04:34:54,00:06:12,00:03:54,12:55:40
+ironman-los-cabos-20140330.csv,151,Marcus Booster Ziemann,41,---,DEU,01:06:35,05:57:30,04:38:14,00:07:21,00:02:13,11:51:53
+ironman-los-cabos-20140330.csv,152,James Sims,69,OR,USA,01:30:30,07:29:51,05:04:25,00:12:03,00:05:12,14:22:01
+ironman-los-cabos-20140330.csv,153,Dominic Vernengo,42,IN,USA,01:12:12,06:15:12,04:44:35,00:10:19,00:06:25,12:28:43
+ironman-los-cabos-20140330.csv,154,Sean Mccarthy,47,OR,USA,01:14:09,06:14:59,04:31:36,00:09:10,00:05:58,12:15:52
+ironman-los-cabos-20140330.csv,156,Bruno Eberhardt,---,---,BRA,01:04:36,05:50:32,04:03:17,00:03:38,00:06:22,11:08:25
+ironman-los-cabos-20140330.csv,159,Kenneth Blakeley,57,CA,USA,00:57:59,05:49:03,04:33:13,00:04:19,00:03:48,11:28:22
+ironman-los-cabos-20140330.csv,160,Liv Holmberg,50,CA,NOR,---,---,---,---,---,DNS
+ironman-los-cabos-20140330.csv,161,Allen Worral,41,TN,USA,01:10:36,06:28:35,05:50:31,00:07:19,00:07:24,13:44:25
+ironman-los-cabos-20140330.csv,162,Eric Barkey,---,CA,USA,01:20:15,06:06:34,06:17:24,00:08:08,00:05:20,13:57:41
+ironman-los-cabos-20140330.csv,163,Chris Jannuzzi,46,CA,USA,01:06:53,06:36:11,06:00:40,00:08:54,00:05:13,13:57:51
+ironman-los-cabos-20140330.csv,164,Chris Bonney,48,CA,USA,01:00:57,07:06:56,05:50:05,00:05:16,00:05:39,14:08:53
+ironman-los-cabos-20140330.csv,165,Michael Olshan,31,NY,USA,01:19:49,07:35:32,05:17:20,00:09:33,00:07:21,14:29:35
+ironman-los-cabos-20140330.csv,166,Barry Vince,48,CA,USA,01:18:44,06:51:39,04:49:18,00:12:17,00:05:50,13:17:48
+ironman-los-cabos-20140330.csv,167,Kelly Hunnius,39,IL,USA,01:33:20,07:33:10,05:39:20,00:13:41,00:09:33,15:09:04
+ironman-los-cabos-20140330.csv,168,Fernando Zamora,67,Intl State,CRI,01:15:38,08:00:43,---,00:10:17,00:12:38,DNF
+ironman-los-cabos-20140330.csv,169,Flavio Aguilera,60,CA,USA,01:14:59,06:47:32,05:16:14,00:07:17,00:03:00,13:29:02
+ironman-los-cabos-20140330.csv,171,Shigy Suzuki,55,CA,USA,01:05:45,05:52:03,07:21:29,00:06:13,00:04:37,14:30:07
+ironman-los-cabos-20140330.csv,172,Romy Suzuki,52,CA,USA,01:29:37,08:01:12,05:36:09,00:08:55,00:04:30,15:20:23
+ironman-los-cabos-20140330.csv,173,Jack Harris,18,BR,CAN,01:15:16,07:51:50,06:48:48,00:18:53,00:15:24,16:30:11
+ironman-los-cabos-20140330.csv,174,Diana Vizcaino,43,CA,USA,01:32:10,07:47:31,05:10:43,00:09:49,00:11:44,14:51:57
+ironman-los-cabos-20140330.csv,176,Diana Sankovic,37,CA,USA,01:14:10,06:34:48,04:58:58,00:07:35,00:05:29,13:01:00
+ironman-los-cabos-20140330.csv,177,Roberto Garcia,37,APO,CRI,---,---,---,---,---,DNS
+ironman-los-cabos-20140330.csv,178,Omar Jimenez,54,FL,CRI,01:11:58,05:25:34,04:05:50,00:06:13,00:05:36,10:55:11
+ironman-los-cabos-20140330.csv,179,Mark Burns,57,CA,USA,01:19:52,08:02:13,05:42:18,00:19:14,00:10:58,15:34:35
+ironman-los-cabos-20140330.csv,180,Humberto Barroeta,44,---,MEX,01:21:54,07:15:28,05:43:22,00:12:33,00:08:14,14:41:31
+ironman-los-cabos-20140330.csv,181,Sean Obrien,---,CA,USA,00:58:23,05:31:18,04:04:20,00:04:28,00:01:12,10:39:41
+ironman-los-cabos-20140330.csv,182,Osvaldo Marchena,45,---,NLD,01:17:25,06:05:13,05:22:42,00:08:12,00:04:16,12:57:48
+ironman-los-cabos-20140330.csv,183,Jeffrey Chapman,---,TE,USA,01:20:47,06:42:15,04:24:50,00:06:10,00:02:42,12:36:44
+ironman-los-cabos-20140330.csv,184,Terence Zimmermann,27,MN,USA,01:16:24,07:34:21,04:49:11,00:11:58,00:03:57,13:55:51
+ironman-los-cabos-20140330.csv,185,Bob Goyette,49,NH,USA,01:20:38,06:07:42,05:06:07,00:07:57,00:06:51,12:49:15
+ironman-los-cabos-20140330.csv,186,Thomas Thorsteinson,---,---,BMU,01:10:05,07:29:45,06:14:21,00:13:52,00:13:59,15:22:02
+ironman-los-cabos-20140330.csv,187,Murray Legge,62,ON,CAN,01:11:54,06:44:33,---,00:06:32,00:02:52,DNF
+ironman-los-cabos-20140330.csv,189,Andrew Mudge,22,TX,USA,01:03:56,05:49:00,04:17:34,00:07:00,00:03:49,11:21:19
+ironman-los-cabos-20140330.csv,191,Lou Jimenez,---,CA,USA,00:58:22,05:55:40,04:59:31,00:05:02,00:04:38,12:03:13
+ironman-los-cabos-20140330.csv,192,Sherry Rennard,52,CA,USA,01:09:18,05:45:15,03:46:02,00:03:36,00:02:45,10:46:56
+ironman-los-cabos-20140330.csv,193,Peter Rennard,59,CA,USA,01:12:46,07:20:15,05:56:02,00:05:25,00:01:44,14:36:12
+ironman-los-cabos-20140330.csv,194,Michael Myette,42,CA,USA,01:03:44,05:35:37,05:37:15,00:04:26,00:03:57,12:24:59
+ironman-los-cabos-20140330.csv,195,Bubba Watts,---,NO,USA,00:58:23,05:54:28,05:09:36,00:08:33,00:03:20,12:14:20
+ironman-los-cabos-20140330.csv,196,Brenda Gustin,53,CA,USA,01:12:20,06:06:37,04:26:35,00:06:51,00:06:13,11:58:36
+ironman-los-cabos-20140330.csv,197,Arrasate Juan,62,---,CHL,01:06:46,06:11:35,04:43:56,00:06:35,00:03:48,12:12:40
+ironman-los-cabos-20140330.csv,198,Greg Hanson,40,CA,USA,01:01:33,06:15:34,04:46:15,00:05:46,00:09:53,12:19:01
+ironman-los-cabos-20140330.csv,199,Josef Cuneo,36,CA,USA,01:05:56,05:54:47,04:49:15,00:06:08,00:01:43,11:57:49
+ironman-los-cabos-20140330.csv,200,Brian Amende,36,CA,USA,01:04:29,06:19:04,04:05:34,00:04:55,00:03:33,11:37:35
+ironman-los-cabos-20140330.csv,202,Alfonso Orozco Waters,45,Alvaro Obregon,MEX,01:15:22,06:02:09,04:55:16,00:12:40,00:07:05,12:32:32
+ironman-los-cabos-20140330.csv,203,Rodrigo Orozco Waters,43,Mexico City,MEX,01:12:04,06:42:14,04:43:05,00:09:22,00:04:02,12:50:47
+ironman-los-cabos-20140330.csv,204,William Rossiter,37,CA,USA,01:02:13,05:38:12,03:49:30,00:03:37,00:02:03,10:35:35
+ironman-los-cabos-20140330.csv,205,Shawn Toenyes,43,---,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20140330.csv,206,Sherman Criner,47,NC,USA,01:27:05,07:58:24,06:09:25,00:12:46,00:04:38,15:52:18
+ironman-los-cabos-20140330.csv,207,Sebastien Brogan,20,QC,CAN,01:29:06,08:05:22,06:18:36,00:15:55,00:08:19,16:17:18
+ironman-los-cabos-20140330.csv,208,Alejandro Novoa,---,---,CHL,01:09:36,06:15:46,04:53:50,00:04:35,00:05:47,12:29:34
+ironman-los-cabos-20140330.csv,209,Rodrigo Valenzuela,41,---,CHL,01:03:13,05:48:24,03:34:31,00:03:26,00:01:49,10:31:23
+ironman-los-cabos-20140330.csv,211,Enrique Soto,51,---,CHL,01:05:58,05:57:42,04:38:12,00:05:39,00:03:56,11:51:27
+ironman-los-cabos-20140330.csv,212,Pablo Camilleri,39,---,ARG,01:07:06,06:18:01,04:45:54,00:04:51,00:04:02,12:19:54
+ironman-los-cabos-20140330.csv,213,Jose Antonio Gutierrez Garza,---,---,MEX,01:25:49,07:46:56,05:31:40,00:11:34,00:08:09,15:04:08
+ironman-los-cabos-20140330.csv,214,Peter Vaughan,60,NSW,AUS,01:16:06,07:12:23,06:21:22,00:14:39,00:08:29,15:12:59
+ironman-los-cabos-20140330.csv,215,Karin Kramer,54,FL,USA,01:22:20,07:18:13,06:13:33,00:12:02,00:06:50,15:12:58
+ironman-los-cabos-20140330.csv,217,Junior Tremblay,41,QC,CAN,01:15:24,06:26:31,04:51:49,00:14:44,00:04:46,12:53:14
+ironman-los-cabos-20140330.csv,218,Stephane Gratton,45,Quebec,CAN,01:10:52,06:33:12,---,00:10:39,00:06:42,DNF
+ironman-los-cabos-20140330.csv,219,John Houseman,---,CA,USA,01:09:29,06:49:04,04:52:35,00:07:53,00:14:43,13:13:44
+ironman-los-cabos-20140330.csv,220,Rafa De Vito,35,Buenos Aires,ARG,01:23:37,07:34:17,05:31:28,00:10:33,00:10:12,14:50:07
+ironman-los-cabos-20140330.csv,221,Troy Cundari,52,CA,USA,00:58:28,05:55:23,04:01:41,00:03:48,00:05:07,11:04:27
+ironman-los-cabos-20140330.csv,224,Patricio Foster,32,Army Asia,ARG,01:00:58,05:34:47,03:15:52,00:04:38,00:02:19,09:58:34
+ironman-los-cabos-20140330.csv,226,Mike Hebebrand,48,CA,USA,01:06:51,---,---,00:10:31,---,DNF
+ironman-los-cabos-20140330.csv,228,Chad Cartwright,41,TX,USA,01:35:49,07:34:47,07:11:21,00:07:01,00:12:03,16:41:01
+ironman-los-cabos-20140330.csv,229,Andres Garcia,30,---,CRI,---,---,---,---,---,DNS
+ironman-los-cabos-20140330.csv,230,Clint Balfanz,40,MN,USA,01:17:25,06:19:50,04:35:40,00:10:21,00:07:46,12:31:02
+ironman-los-cabos-20140330.csv,231,Darren Gill,45,CA,USA,00:58:59,05:14:32,04:29:00,00:04:46,00:02:33,10:49:50
+ironman-los-cabos-20140330.csv,232,Polly Gill,43,CA,USA,01:10:35,05:57:09,03:53:41,00:03:50,00:02:14,11:07:29
+ironman-los-cabos-20140330.csv,235,John Greenway,48,---,USA,01:10:38,06:42:11,05:59:26,00:10:18,00:05:53,14:08:26
+ironman-los-cabos-20140330.csv,236,Ryan Schaefer,31,AZ,USA,01:20:20,07:19:01,06:19:47,00:14:04,00:10:57,15:24:09
+ironman-los-cabos-20140330.csv,237,Felipe Manalich,33,---,CHL,00:58:08,05:30:39,03:36:54,00:04:32,00:06:14,10:16:27
+ironman-los-cabos-20140330.csv,238,Alan Mcleod,52,CO,USA,01:29:18,---,---,00:17:14,---,DNF
+ironman-los-cabos-20140330.csv,240,Bob Bastiaans,65,CO,USA,01:41:59,---,---,00:12:17,---,DNF
+ironman-los-cabos-20140330.csv,241,Joe Hysong,52,IN,USA,01:12:59,06:58:36,05:01:13,00:10:59,00:08:13,13:32:00
+ironman-los-cabos-20140330.csv,242,Tyler Long,36,CA,USA,00:56:39,06:02:00,---,00:07:22,00:08:25,DNF
+ironman-los-cabos-20140330.csv,243,Federico Campos,41,Córdoba ,ARG,01:01:07,---,---,00:05:33,---,DNF
+ironman-los-cabos-20140330.csv,244,Gonzalo Valenzuela,46,---,CHL,01:00:37,05:55:43,03:55:10,00:03:55,00:03:48,10:59:13
+ironman-los-cabos-20140330.csv,245,Jon Lovett,40,IN,USA,01:11:40,06:52:55,05:50:37,00:08:52,00:05:39,14:09:43
+ironman-los-cabos-20140330.csv,246,Roger Light,49,CA,USA,01:18:25,05:53:15,05:04:16,00:07:18,00:06:09,12:29:23
+ironman-los-cabos-20140330.csv,247,Francisco Chavez,43,---,CHL,01:03:50,05:43:07,03:36:52,00:04:49,00:04:22,10:33:00
+ironman-los-cabos-20140330.csv,249,Don Richkas,60,CA,USA,01:35:26,07:01:37,05:14:32,00:08:29,00:03:32,14:03:36
+ironman-los-cabos-20140330.csv,250,Hermes Arambulo,35,Central,PRY,01:12:14,06:44:54,05:26:46,00:06:01,00:02:28,13:32:23
+ironman-los-cabos-20140330.csv,251,Javier Salas,22,---,MEX,01:01:20,06:54:18,05:34:19,00:10:01,00:05:34,13:45:32
+ironman-los-cabos-20140330.csv,254,Klaus Schlechner,44,CA,USA,01:39:15,08:10:40,06:32:17,00:12:44,00:06:50,16:41:46
+ironman-los-cabos-20140330.csv,255,Matias Conalbi,---,---,ARG,01:25:26,06:33:46,05:25:22,00:13:21,00:06:09,13:44:04
+ironman-los-cabos-20140330.csv,259,Pedro Arriagada,61,NH,CHL,01:12:10,06:38:43,06:02:43,00:07:13,00:05:23,14:06:12
+ironman-los-cabos-20140330.csv,260,Carlus Pereira,31,---,BRA,01:06:54,06:23:50,04:25:59,00:05:32,00:03:10,12:05:25
+ironman-los-cabos-20140330.csv,261,Juan Vergara,---,FL,BRA,01:06:18,05:51:00,04:20:21,00:04:18,00:02:07,11:24:04
+ironman-los-cabos-20140330.csv,263,Jose Samayoa,51,La Libertad,SLV,01:05:42,06:25:11,04:50:13,00:05:57,00:08:31,12:35:34
+ironman-los-cabos-20140330.csv,264,Bruce Regensburg,70,BC,CAN,01:13:13,07:41:49,04:57:59,00:11:13,00:11:10,14:15:24
+ironman-los-cabos-20140330.csv,265,Kim Lerbekmo,37,AB,CAN,01:51:02,07:29:49,06:59:27,00:11:34,00:08:47,16:40:39
+ironman-los-cabos-20140330.csv,266,Trevor Durie,37,AB,CAN,02:02:15,07:45:00,06:36:50,00:08:33,00:08:01,16:40:39
+ironman-los-cabos-20140330.csv,268,Brent Richards,62,BC,CAN,01:20:34,07:50:12,07:04:41,00:14:06,00:11:06,16:40:39
+ironman-los-cabos-20140330.csv,269,Ladislao Diaz,---,---,CHL,01:10:17,06:15:03,05:15:31,00:12:36,00:05:05,12:58:32
+ironman-los-cabos-20140330.csv,271,Andres Aviles,---,---,CHL,01:19:34,09:02:39,---,00:12:14,---,DNF
+ironman-los-cabos-20140330.csv,272,Carlos Martinez,54,AB,CAN,01:19:18,06:51:17,05:35:56,00:09:11,00:04:57,14:00:39
+ironman-los-cabos-20140330.csv,273,Jordan Waxman,49,NJ,USA,00:57:43,06:23:04,04:03:42,00:06:32,00:03:35,11:34:36
+ironman-los-cabos-20140330.csv,274,Julie Walmsley,---,BR,CAN,01:29:02,08:06:30,05:44:41,00:13:10,00:09:53,15:43:16
+ironman-los-cabos-20140330.csv,275,Eduardo Jose Rodriguez Herrera,---,---,GTM,01:13:23,06:47:40,05:37:45,00:08:37,00:04:42,13:52:07
+ironman-los-cabos-20140330.csv,276,Javiera Gainza,28,---,CHL,01:13:37,06:45:02,04:35:54,00:07:59,00:05:26,12:47:58
+ironman-los-cabos-20140330.csv,277,Cesar Opazo,39,---,CHL,00:53:41,06:21:12,05:16:51,00:07:43,00:08:31,12:47:58
+ironman-los-cabos-20140330.csv,278,Marc Arseneau,45,NB,CAN,01:00:25,05:49:59,04:21:14,00:05:23,00:02:46,11:19:47
+ironman-los-cabos-20140330.csv,281,Fabiano Tiraboschi,41,CA,BRA,01:24:10,07:48:02,06:09:54,00:15:35,00:09:34,15:47:15
+ironman-los-cabos-20140330.csv,282,Chris Driver,36,AZ,USA,00:58:19,05:29:25,04:35:42,00:05:40,00:01:49,11:10:55
+ironman-los-cabos-20140330.csv,283,Mauricio Donoso Silva,54,---,CHL,01:07:18,06:16:03,06:04:43,00:05:50,00:04:57,13:38:51
+ironman-los-cabos-20140330.csv,284,Mistie Starkey,36,TX,USA,01:52:02,07:33:00,05:59:12,00:26:06,00:16:39,16:06:59
+ironman-los-cabos-20140330.csv,285,Carlod Alberto Valdivia Castillo,56,---,CHL,01:12:24,06:00:04,04:41:26,00:07:17,00:03:58,12:05:09
+ironman-los-cabos-20140330.csv,286,Claudio Fuentes,60,Other,CHL,01:22:21,06:51:06,04:50:11,00:06:47,00:05:15,13:15:40
+ironman-los-cabos-20140330.csv,287,Matias Krausse,---,---,ARG,01:06:43,05:54:51,04:11:57,00:06:02,00:03:54,11:23:27
+ironman-los-cabos-20140330.csv,290,Ciro Gonzalez,25,Nuevo Leon,MEX,01:35:28,07:53:20,04:44:13,00:11:13,00:08:23,14:32:37
+ironman-los-cabos-20140330.csv,291,Marcelo Gallegos,---,---,CHL,01:10:53,05:39:49,03:42:06,00:04:54,00:03:40,10:41:22
+ironman-los-cabos-20140330.csv,292,Dale Bookout,---,AR,USA,01:06:24,05:39:50,04:56:39,00:09:31,00:08:19,12:00:43
+ironman-los-cabos-20140330.csv,293,Ivan Peña,33,---,CHL,01:22:47,06:49:26,04:50:38,00:08:08,00:14:28,13:25:27
+ironman-los-cabos-20140330.csv,295,Jorge Luis Bravo Carreño,51,---,CHL,---,---,---,---,---,DQ
+ironman-los-cabos-20140330.csv,298,Judy Orlandella,47,CA,USA,01:10:57,06:40:48,04:32:07,00:05:09,00:05:02,12:34:03
+ironman-los-cabos-20140330.csv,299,Julio Calisto,---,---,CHL,01:29:27,---,---,00:12:16,---,DNF
+ironman-los-cabos-20140330.csv,300,Becca Jones,---,WA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20140330.csv,301,Todd Jones,46,WA,USA,01:20:57,07:02:27,06:48:59,00:10:06,00:09:31,15:32:00
+ironman-los-cabos-20140330.csv,302,Robert Cwiekowski,---,AR,USA,01:06:19,06:56:57,04:53:26,00:06:57,00:08:11,13:11:50
+ironman-los-cabos-20140330.csv,303,Brian Sullivan,44,SC,USA,01:36:09,08:41:14,---,00:16:47,---,DNF
+ironman-los-cabos-20140330.csv,304,Ricardo Guzman,33,---,CHL,01:02:50,05:33:58,05:06:22,00:05:43,00:03:25,11:52:18
+ironman-los-cabos-20140330.csv,305,Ximena Martinez Oportus,---,---,CHL,---,---,---,---,---,DNS
+ironman-los-cabos-20140330.csv,306,Mario Sepulveda,34,---,CHL,---,---,---,---,---,DNS
+ironman-los-cabos-20140330.csv,307,Brian Connors,34,UT,USA,01:06:16,---,---,00:06:21,---,DNF
+ironman-los-cabos-20140330.csv,309,Elissa Driver,30,AZ,USA,01:11:14,06:54:50,06:02:53,00:07:32,00:08:40,14:25:09
+ironman-los-cabos-20140330.csv,312,Zac Scott,34,WA,USA,01:11:04,07:07:20,06:24:02,00:09:43,00:06:45,14:58:54
+ironman-los-cabos-20140330.csv,314,Steffen Schmitz,---,WA,USA,01:43:46,06:28:56,---,00:10:16,---,DNF
+ironman-los-cabos-20140330.csv,316,Yoanka Armendariz,41,CA,USA,01:09:52,07:01:53,05:16:01,00:03:46,00:04:19,13:35:51
+ironman-los-cabos-20140330.csv,317,Mathew Paz,34,CA,USA,00:53:54,05:07:39,03:33:41,00:04:00,00:02:19,09:41:33
+ironman-los-cabos-20140330.csv,318,Michael Boehnke,47,WA,USA,01:17:42,07:21:16,05:09:12,00:12:08,00:10:07,14:10:25
+ironman-los-cabos-20140330.csv,319,Kirk Lauer,34,ID,USA,01:11:54,08:03:42,---,00:16:03,00:08:07,DNF
+ironman-los-cabos-20140330.csv,320,Stephan Schwarze,46,TX,DEU,01:00:00,05:23:03,03:31:52,00:04:33,00:02:01,10:01:29
+ironman-los-cabos-20140330.csv,321,Cesar Henriques,45,---,BRA,00:56:20,05:54:18,04:57:00,00:06:17,00:03:48,11:57:43
+ironman-los-cabos-20140330.csv,324,Christian Soliz Manning,46,---,BOL,01:17:47,08:19:50,06:32:41,00:13:00,00:13:33,16:36:51
+ironman-los-cabos-20140330.csv,325,Pedro Rosas,35,BAJA CALIFORNA,MEX,01:05:37,05:48:21,04:46:34,00:04:59,00:02:20,11:47:51
+ironman-los-cabos-20140330.csv,326,Martin Gruebele,50,IL,USA,01:13:53,05:50:51,04:06:51,00:06:14,00:06:01,11:23:50
+ironman-los-cabos-20140330.csv,327,Joselin Pablo Gonzalez,45,CL,CHL,01:17:44,07:05:22,05:46:41,00:07:18,00:05:31,14:22:36
+ironman-los-cabos-20140330.csv,328,Aurelio Rios Dulansky,37,---,CHL,01:12:59,06:28:41,05:37:55,00:05:13,00:04:15,13:29:03
+ironman-los-cabos-20140330.csv,329,Josh Aylesworth,37,AZ,USA,01:28:14,---,---,00:12:38,---,DNF
+ironman-los-cabos-20140330.csv,330,Alejandro Orrego,48,---,CHL,01:16:13,05:58:50,04:44:19,00:04:38,00:03:27,12:07:27
+ironman-los-cabos-20140330.csv,331,Lis Heckmann,74,FL,USA,01:54:11,---,---,00:17:28,---,DNF
+ironman-los-cabos-20140330.csv,332,Mike Llerandi,50,CO,USA,00:54:31,---,---,00:06:37,---,DNF
+ironman-los-cabos-20140330.csv,333,Elizabeth O'Connor,48,NJ,USA,01:26:05,---,---,00:07:55,---,DNF
+ironman-los-cabos-20140330.csv,334,Katie Bolton,32,AL,USA,01:14:50,07:11:33,05:21:44,00:14:42,00:06:34,14:09:23
+ironman-los-cabos-20140330.csv,335,Joseph Bolton,27,AL,USA,01:38:24,06:40:32,06:52:36,00:12:30,00:06:15,15:30:17
+ironman-los-cabos-20140330.csv,336,Hernan Suarez,42,FL,BOL,01:26:04,08:00:59,06:48:56,00:10:29,00:10:03,16:36:31
+ironman-los-cabos-20140330.csv,338,Paulo Montes,---,---,MEX,01:08:49,06:08:21,05:32:45,00:06:22,00:04:50,13:01:07
+ironman-los-cabos-20140330.csv,340,Kira Krombach,31,CA,USA,01:06:11,06:18:35,04:42:47,00:06:05,00:08:34,12:22:12
+ironman-los-cabos-20140330.csv,342,Taro Shirato,48,Intl State,JPN,00:54:18,05:32:46,03:30:51,00:04:00,00:02:54,10:04:49
+ironman-los-cabos-20140330.csv,344,John Wragg,63,ON,CAN,01:08:02,06:47:37,07:14:26,00:08:27,00:11:09,15:29:41
+ironman-los-cabos-20140330.csv,345,Carlos Alberto Beltran,57,CAPITAL FEDERAL,ARG,01:18:37,06:44:09,05:19:09,00:13:41,00:13:12,13:48:48
+ironman-los-cabos-20140330.csv,347,Aaron Garrett,39,SC,USA,01:04:09,06:12:13,04:14:07,00:08:01,00:06:23,11:44:53
+ironman-los-cabos-20140330.csv,348,Thomas Schultz,36,SC,USA,01:29:40,07:56:36,06:08:29,00:09:11,00:03:49,15:47:45
+ironman-los-cabos-20140330.csv,349,Erik Reaves,36,GA,USA,01:12:34,06:48:07,05:30:22,00:12:29,00:07:41,13:51:13
+ironman-los-cabos-20140330.csv,350,Joe Matsui,---,Tokyo,JPN,01:16:54,06:35:16,04:37:53,00:07:35,00:04:19,12:41:57
+ironman-los-cabos-20140330.csv,351,Alexis Rosado Moreno,39,PR,PRI,---,---,---,---,---,DQ
+ironman-los-cabos-20140330.csv,352,Wilson Martínez,42,PR,PRI,01:16:42,07:50:04,05:14:27,00:12:37,00:06:07,14:39:57
+ironman-los-cabos-20140330.csv,353,Tj Neveldine,42,VA,USA,01:23:26,07:53:35,06:31:45,00:14:40,00:09:02,16:12:28
+ironman-los-cabos-20140330.csv,354,Greg Cherne,39,NC,USA,01:08:05,06:55:56,06:42:54,00:07:16,00:07:22,15:01:33
+ironman-los-cabos-20140330.csv,355,Albert Morales,57,PR,PRI,01:38:33,08:34:36,05:37:27,00:13:40,00:09:35,16:13:51
+ironman-los-cabos-20140330.csv,357,Efrain Gonzalez,35,PR,PRI,01:08:13,07:31:54,05:25:51,00:06:26,00:04:22,14:16:46
+ironman-los-cabos-20140330.csv,358,Alexis Ventura,---,---,PRI,01:10:10,07:35:07,06:18:37,00:09:04,00:08:54,15:21:52
+ironman-los-cabos-20140330.csv,360,Leslie Zavala,33,MEXICO,MEX,01:06:03,05:46:59,03:59:15,00:04:33,00:01:18,10:58:08
+ironman-los-cabos-20140330.csv,361,Jerzy Florek,54,IL,USA,01:14:39,07:42:28,04:54:50,00:17:16,00:14:12,14:23:25
+ironman-los-cabos-20140330.csv,362,Angel Perez,---,---,PRI,01:28:28,08:39:51,---,00:08:41,00:02:40,DNF
+ironman-los-cabos-20140330.csv,363,Jacques Taxil,50,Intl State,FRA,01:19:07,07:00:35,06:10:56,00:08:58,00:08:33,14:48:09
+ironman-los-cabos-20140330.csv,364,Gerard Sperduto,57,FR,FRA,01:06:52,06:40:48,05:51:16,00:06:56,00:06:23,13:52:15
+ironman-los-cabos-20140330.csv,365,Alfonsina Peppa,---,ESP,ESP,01:10:46,06:00:09,04:32:42,00:05:06,00:01:15,11:49:58
+ironman-los-cabos-20140330.csv,367,Genaro Fernandez,34,NY,MEX,01:19:55,07:16:27,05:18:44,00:12:56,00:05:50,14:13:52
+ironman-los-cabos-20140330.csv,368,Mariat Fernandez,61,CA,MEX,01:19:55,07:57:44,04:31:02,00:12:56,00:12:15,14:13:52
+ironman-los-cabos-20140330.csv,369,Alan Rieck,33,TX,USA,01:26:15,07:14:17,06:07:56,00:20:24,00:12:50,15:21:42
+ironman-los-cabos-20140330.csv,371,Jose Esteves,67,PR,PRI,01:40:04,---,---,00:09:44,---,DNF
+ironman-los-cabos-20140330.csv,372,Bill Morrison,63,BC,CAN,01:18:15,07:08:39,05:20:06,00:11:58,00:13:13,14:12:11
+ironman-los-cabos-20140330.csv,373,Sarah Allen,56,NM,USA,01:29:50,08:16:27,06:49:22,00:11:04,00:05:58,16:52:41
+ironman-los-cabos-20140330.csv,374,Mariana Castelo,45,---,ARG,01:17:28,06:14:05,03:58:33,00:06:03,00:01:39,11:37:48
+ironman-los-cabos-20140330.csv,375,George Hart,42,GA,USA,01:18:32,07:11:57,05:34:04,00:15:26,00:18:16,14:38:15
+ironman-los-cabos-20140330.csv,376,Jose Carlo Linaldi,35,---,MEX,01:07:20,06:47:02,04:51:40,00:04:01,00:05:46,12:55:49
+ironman-los-cabos-20140330.csv,377,Black Vera,28,---,MEX,01:14:15,06:56:37,05:06:24,00:08:29,00:05:55,13:31:40
+ironman-los-cabos-20140330.csv,379,Damon Cherne,40,NC,USA,01:54:18,---,---,00:12:12,---,DNF
+ironman-los-cabos-20140330.csv,381,Eric Nixon,43,FL,USA,00:57:29,07:04:15,05:42:12,00:06:07,00:08:07,13:58:10
+ironman-los-cabos-20140330.csv,382,Gustavo Alfonso Lezama,47,PUEBLA,MEX,01:00:56,05:50:26,03:59:06,00:05:22,00:02:26,10:58:16
+ironman-los-cabos-20140330.csv,383,Robert Brink,28,CT,USA,00:54:38,05:18:45,03:45:27,00:04:58,00:01:33,10:05:21
+ironman-los-cabos-20140330.csv,384,Jason Sanford,33,ID,USA,01:06:18,06:43:07,05:39:14,00:08:13,00:05:03,13:41:55
+ironman-los-cabos-20140330.csv,385,Jose A Lebron,40,PR,PRI,01:13:51,06:10:07,04:17:28,00:06:25,00:03:02,11:50:53
+ironman-los-cabos-20140330.csv,386,Juan Carlos Arocho,35,PR,PRI,01:18:34,07:18:04,06:33:44,00:15:20,00:11:33,15:37:15
+ironman-los-cabos-20140330.csv,387,Kurt Preston,48,TX,USA,01:03:57,05:40:54,06:00:02,00:03:17,00:05:50,12:54:00
+ironman-los-cabos-20140330.csv,388,J. Bryan Bartlett,48,FL,USA,01:05:38,06:19:17,05:55:46,00:08:28,00:06:26,13:35:35
+ironman-los-cabos-20140330.csv,389,Daniel Lamontagne,40,quebec,CAN,01:13:57,---,---,00:06:56,---,DNF
+ironman-los-cabos-20140330.csv,390,Miguel Temblador Torres,41,mexico city,MEX,01:21:47,07:07:53,04:48:00,00:11:19,00:09:22,13:38:21
+ironman-los-cabos-20140330.csv,391,Harold Garner,46,NC,USA,01:06:38,07:04:41,05:32:06,00:07:02,00:04:29,13:54:56
+ironman-los-cabos-20140330.csv,392,Bill Jesel,38,GA,USA,01:20:49,07:06:43,05:59:13,00:14:11,00:12:32,14:53:28
+ironman-los-cabos-20140330.csv,393,Igor Yakushko,36,NY,USA,01:14:59,05:54:33,04:07:19,00:05:20,00:01:37,11:23:48
+ironman-los-cabos-20140330.csv,394,Jennifer Hutchison,46,FL,USA,01:11:36,06:15:30,05:50:02,00:09:26,00:09:01,13:35:35
+ironman-los-cabos-20140330.csv,395,Steven Pivnik,44,NJ,USA,01:21:24,07:00:09,05:03:10,00:09:32,00:04:42,13:38:57
+ironman-los-cabos-20140330.csv,396,Nicola Dennes,40,Hampshire,GBR,01:16:52,07:44:37,05:07:54,00:10:14,00:11:17,14:30:54
+ironman-los-cabos-20140330.csv,398,Mauricio Eastman,---,---,CHL,01:17:49,06:31:32,04:59:17,00:09:21,00:04:39,13:02:38
+ironman-los-cabos-20140330.csv,399,John Hessian,44,VA,USA,00:59:06,05:13:59,03:31:34,00:05:57,00:02:13,09:52:49
+ironman-los-cabos-20140330.csv,400,Johnny Harrison,54,AL,USA,01:05:42,05:36:28,04:28:35,00:07:00,00:02:54,11:20:39
+ironman-los-cabos-20140330.csv,401,Lisa Harrison,50,AL,USA,01:11:53,06:23:00,05:19:14,00:07:53,00:06:17,13:08:17
+ironman-los-cabos-20140330.csv,403,Ezra Becker,28,CA,USA,00:53:15,05:23:00,04:15:54,00:04:57,00:01:59,10:39:05
+ironman-los-cabos-20140330.csv,405,Aya Hasegawa,40,Tokyo,JPN,01:17:58,07:09:17,04:27:58,00:12:08,00:03:39,13:11:00
+ironman-los-cabos-20140330.csv,406,Christian Howard,40,ON,GBR,01:03:31,06:19:19,04:52:25,00:06:32,00:05:11,12:26:58
+ironman-los-cabos-20140330.csv,407,Robert Declercq,38,FL,USA,00:56:40,05:58:04,03:41:40,00:08:20,00:07:32,10:52:16
+ironman-los-cabos-20140330.csv,408,Cesar Sanchez,---,---,MEX,01:18:46,06:45:45,05:42:58,00:09:47,00:06:44,14:04:00
+ironman-los-cabos-20140330.csv,409,Charles Brown,38,CA,USA,00:50:21,05:50:53,04:26:57,00:03:27,00:03:40,11:15:18
+ironman-los-cabos-20140330.csv,411,Brian Acosta,42,CA,USA,01:11:23,05:49:17,04:16:45,00:04:58,00:05:56,11:28:19
+ironman-los-cabos-20140330.csv,412,Rodolfo Abraham Lopez Mendoza,---,DF,MEX,01:06:06,06:16:13,03:55:09,00:04:37,00:03:44,11:25:49
+ironman-los-cabos-20140330.csv,414,Andrew Duffe,39,AE,USA,01:00:43,05:13:08,03:37:55,00:06:15,00:02:54,10:00:55
+ironman-los-cabos-20140330.csv,415,Nathan Miller,32,VA,USA,01:02:17,05:18:17,03:21:37,00:04:01,00:02:02,09:48:14
+ironman-los-cabos-20140330.csv,416,Leslie Dimichele Miller,29,VA,USA,00:56:39,05:41:10,03:37:23,00:04:32,00:01:36,10:21:20
+ironman-los-cabos-20140330.csv,418,Hugo Renteria,29,---,MEX,01:11:12,07:18:46,06:18:28,00:09:39,00:07:35,15:05:40
+ironman-los-cabos-20140330.csv,419,Diego Rivas,---,---,MEX,01:03:11,06:24:52,05:23:46,00:05:05,00:09:28,13:06:22
+ironman-los-cabos-20140330.csv,420,Karen Dayan,55,FL,USA,01:19:04,06:36:44,04:46:05,00:07:27,00:03:30,12:52:50
+ironman-los-cabos-20140330.csv,421,Alexander Vermehren,33,---,CHL,---,---,---,---,---,DQ
+ironman-los-cabos-20140330.csv,422,Manuel Verduzco,40,Intl State,MEX,01:23:27,08:04:38,05:43:13,00:10:48,00:09:04,15:31:10
+ironman-los-cabos-20140330.csv,423,Esteban Martinez Varela,---,---,MEX,01:11:17,07:05:36,04:49:12,00:10:19,00:10:56,13:27:20
+ironman-los-cabos-20140330.csv,424,Eric Stockall,53,MI,USA,01:17:59,07:29:31,06:38:53,00:08:43,00:04:07,15:39:13
+ironman-los-cabos-20140330.csv,425,Guy Leibstein,44,NY,USA,01:11:01,05:35:49,05:03:08,00:04:01,00:02:10,11:56:09
+ironman-los-cabos-20140330.csv,429,Christian Beuffe,34,Intl State,MEX,01:10:37,07:10:30,05:11:08,00:12:21,00:08:03,13:52:39
+ironman-los-cabos-20140330.csv,430,Ashley Halsey,61,MD,USA,01:24:25,06:28:42,06:24:15,00:12:24,00:09:28,14:39:14
+ironman-los-cabos-20140330.csv,431,Daniel Ruiz Salguero,---,---,MEX,01:16:48,07:26:21,05:58:03,00:12:34,00:09:45,15:03:31
+ironman-los-cabos-20140330.csv,432,Ramiro Fede Cabrera,33,Intl State,ARG,00:56:45,06:25:24,06:43:28,00:07:31,00:06:54,14:20:02
+ironman-los-cabos-20140330.csv,434,Alisa Duncan,46,OK,USA,01:22:05,07:39:39,---,00:13:36,00:07:53,DNF
+ironman-los-cabos-20140330.csv,435,Julie Jerue,36,FL,USA,00:58:08,05:49:29,04:04:44,00:05:45,00:06:17,11:04:23
+ironman-los-cabos-20140330.csv,436,Luis Fernando Pelcastre Rabanal,21,---,MEX,00:55:45,05:42:29,03:25:44,00:05:43,00:03:41,10:13:22
+ironman-los-cabos-20140330.csv,438,Carlos Rodriguez,---,---,MEX,---,---,---,---,---,DNS
+ironman-los-cabos-20140330.csv,439,Carlos Ariza,46,---,COL,01:46:50,07:13:15,05:38:26,00:06:33,00:13:03,14:58:07
+ironman-los-cabos-20140330.csv,440,Conway Bolt,52,FL,USA,01:36:24,08:10:15,06:11:55,00:14:56,00:06:37,16:20:07
+ironman-los-cabos-20140330.csv,441,Michael Tuttle,56,FL,USA,01:29:46,07:27:54,04:52:52,00:11:16,00:04:46,14:06:34
+ironman-los-cabos-20140330.csv,442,Michael Tuttle,28,FL,USA,01:16:19,08:01:33,06:25:34,00:10:39,00:04:00,15:58:05
+ironman-los-cabos-20140330.csv,443,Larry Vasquez,29,SD,DOM,01:10:29,06:16:41,06:15:33,00:09:09,00:04:55,13:56:47
+ironman-los-cabos-20140330.csv,446,Jannelle Allen,37,CO,USA,01:05:47,06:26:35,04:25:47,00:05:15,00:03:43,12:07:07
+ironman-los-cabos-20140330.csv,448,Lasse Hofman,31,---,DNK,00:56:26,05:18:53,03:50:14,00:03:55,00:01:53,10:11:21
+ironman-los-cabos-20140330.csv,449,Jeppe Hofman,27,---,DNK,00:56:29,05:17:00,03:41:08,00:03:32,00:01:37,09:59:46
+ironman-los-cabos-20140330.csv,450,Humberto Benet,29,---,MEX,01:17:06,06:58:24,05:47:35,00:10:55,00:07:09,14:21:09
+ironman-los-cabos-20140330.csv,454,Victor Cuevas,---,---,MEX,01:18:27,08:05:43,05:37:41,00:19:34,00:13:43,15:35:08
+ironman-los-cabos-20140330.csv,455,Freddy Bailys,50,FL,USA,01:13:38,06:33:38,06:07:41,00:07:05,00:06:12,14:08:14
+ironman-los-cabos-20140330.csv,456,John Southey,43,GA,USA,01:45:56,06:54:43,---,00:08:23,00:08:10,DNF
+ironman-los-cabos-20140330.csv,458,Mathieu Mignardot,29,---,FRA,01:11:02,05:27:22,03:47:30,00:05:26,00:02:18,10:33:38
+ironman-los-cabos-20140330.csv,459,Kevin Kunkel,42,VA,USA,01:05:40,05:17:38,04:28:56,00:04:27,00:02:14,10:58:55
+ironman-los-cabos-20140330.csv,460,Michael De Laet,26,TX,BEL,01:10:09,05:35:09,03:57:44,00:05:21,00:02:35,10:50:58
+ironman-los-cabos-20140330.csv,461,Stuart Blagbrough,40,---,GBR,01:10:12,06:01:24,03:40:50,00:13:09,00:02:22,11:07:57
+ironman-los-cabos-20140330.csv,462,Claus Bruder,57,Intl State,CHE,01:06:53,06:07:26,---,00:06:46,00:04:55,DNF
+ironman-los-cabos-20140330.csv,463,Tracy Anderson,49,KS,USA,01:02:18,06:03:26,04:39:31,00:13:16,00:09:01,12:07:32
+ironman-los-cabos-20140330.csv,464,Jacob Jarosz,26,VA,USA,01:30:18,08:43:33,---,00:14:21,00:05:42,DNF
+ironman-los-cabos-20140330.csv,465,Chris Harrison,29,Intl State,PER,00:59:42,05:44:49,04:01:07,00:04:55,00:03:19,10:53:52
+ironman-los-cabos-20140330.csv,466,Robin Clarke,50,TX,USA,01:18:15,08:08:28,06:28:27,00:10:11,00:11:46,16:17:07
+ironman-los-cabos-20140330.csv,467,Alfredo Zapata,---,---,ARG,01:14:47,06:43:39,04:27:02,00:08:13,00:04:18,12:37:59
+ironman-los-cabos-20140330.csv,468,Silvia Gasanego,48,BUENOS AIRES,ARG,01:17:20,07:10:56,05:03:32,00:08:15,00:03:35,13:43:38
+ironman-los-cabos-20140330.csv,469,Claudia Paez,50,Buenos Aires,ARG,01:17:18,06:56:01,05:01:41,00:06:29,00:03:43,13:25:12
+ironman-los-cabos-20140330.csv,470,Oliver Bohlman,44,---,USA,01:03:11,05:31:20,04:02:52,00:06:10,00:02:02,10:45:35
+ironman-los-cabos-20140330.csv,472,Joe Litsey,44,MN,USA,01:08:54,05:55:16,04:45:30,00:06:33,00:02:57,11:59:10
+ironman-los-cabos-20140330.csv,473,Humberto Alardin,52,"Sinaloa, méxico",MEX,01:10:56,07:01:51,05:22:58,00:13:18,00:06:46,13:55:49
+ironman-los-cabos-20140330.csv,476,Rodney Strate,49,CA,USA,00:50:35,06:14:15,04:52:17,00:06:17,00:05:09,12:08:33
+ironman-los-cabos-20140330.csv,477,Jeffrey Lancaster,51,MD,USA,01:18:42,07:01:07,06:37:44,00:10:33,00:07:38,15:15:44
+ironman-los-cabos-20140330.csv,480,Barry Dmitruk,53,ON,CAN,01:00:17,05:41:30,03:52:59,00:04:18,00:02:33,10:41:37
+ironman-los-cabos-20140330.csv,481,Dan Bralye,36,---,DNK,01:32:56,05:12:07,05:00:48,00:04:34,00:03:17,11:53:42
+ironman-los-cabos-20140330.csv,482,Joby Gutierrez,40,CA,USA,01:05:33,05:20:46,03:10:03,00:04:11,00:01:24,09:41:57
+ironman-los-cabos-20140330.csv,483,Will Guzick,---,CA,USA,01:35:17,06:04:18,03:31:00,00:07:25,00:01:51,11:19:51
+ironman-los-cabos-20140330.csv,485,Melinda Nag,33,TX,USA,01:18:56,07:44:42,06:33:19,00:07:51,00:05:08,15:49:56
+ironman-los-cabos-20140330.csv,486,Kim Arline,47,CO,USA,01:25:38,06:35:24,04:56:09,00:08:23,00:05:07,13:10:41
+ironman-los-cabos-20140330.csv,487,Tania Goldschmied,41,CDMX,MEX,01:04:57,07:42:16,04:45:27,00:06:58,00:03:36,13:43:14
+ironman-los-cabos-20140330.csv,488,Jean Louis Brunet,45,CDMX,MEX,01:09:54,05:53:46,03:50:10,00:04:49,00:02:22,11:01:01
+ironman-los-cabos-20140330.csv,489,Brian Phillips,39,Other,USA,01:05:56,05:18:11,03:43:10,00:04:30,00:02:07,10:13:54
+ironman-los-cabos-20140330.csv,491,Elmar Fladischer,37,NC,AUT,01:13:25,05:47:59,03:40:19,00:05:36,00:03:14,10:50:33
+ironman-los-cabos-20140330.csv,492,Jennifer Ward,45,CO,USA,01:17:51,06:11:49,03:51:08,00:06:00,00:02:33,11:29:21
+ironman-los-cabos-20140330.csv,493,Nicholas Buchholz,---,CA,USA,01:15:26,06:58:44,05:17:21,00:09:43,00:06:17,13:47:31
+ironman-los-cabos-20140330.csv,494,Jordan The,24,CA,USA,01:07:35,06:40:23,05:50:33,00:05:52,00:03:19,13:47:42
+ironman-los-cabos-20140330.csv,495,Caroline Wilson,45,CA,USA,01:17:55,06:29:55,03:59:33,00:05:26,00:01:44,11:54:33
+ironman-los-cabos-20140330.csv,496,Gabriel Saade,26,FL,USA,01:13:43,06:13:04,04:52:03,00:06:50,00:04:57,12:30:37
+ironman-los-cabos-20140330.csv,497,Lon Breitenbach,44,TX,USA,00:50:35,05:41:32,03:35:01,00:05:42,00:02:38,10:15:28
+ironman-los-cabos-20140330.csv,498,Sanish Mondkar,40,CA,USA,01:32:04,07:34:16,05:13:27,00:12:45,00:14:41,14:47:13
+ironman-los-cabos-20140330.csv,499,Renata Begic,45,QC,CAN,01:24:29,---,---,00:09:51,---,DNF
+ironman-los-cabos-20140330.csv,500,Circe Rocio Saucedo Llarena,28,jalisco,MEX,00:58:28,06:18:50,05:03:30,00:04:54,00:02:26,12:28:08
+ironman-los-cabos-20140330.csv,501,Lisa Plunkett,48,CO,USA,01:12:31,06:54:36,04:54:23,00:05:15,00:05:15,13:12:00
+ironman-los-cabos-20140330.csv,503,Justin Samples,31,ID,USA,00:57:27,05:15:21,03:38:03,00:04:18,00:01:45,09:56:54
+ironman-los-cabos-20140330.csv,504,John Johnsen,56,NC,USA,01:09:06,06:07:10,04:47:55,00:04:39,00:03:55,12:12:45
+ironman-los-cabos-20140330.csv,505,Jason Petterson,26,WA,USA,01:16:18,06:55:08,05:53:46,00:16:12,00:03:27,14:24:51
+ironman-los-cabos-20140330.csv,506,Malcolm Toyad,---,AL,CAN,01:23:08,07:26:53,05:27:22,00:21:41,00:16:55,14:55:59
+ironman-los-cabos-20140330.csv,507,Bert Blevins,42,TX,USA,01:23:25,05:58:01,05:42:00,00:09:09,00:04:52,13:17:27
+ironman-los-cabos-20140330.csv,508,Lucio Blanco Montes,---,---,MEX,01:16:24,05:35:35,04:46:53,00:11:08,00:07:29,11:57:29
+ironman-los-cabos-20140330.csv,509,Nicholas Tyson,---,MA,USA,00:58:20,06:23:58,03:50:55,00:06:19,00:04:00,11:23:32
+ironman-los-cabos-20140330.csv,511,Juan Ascencio,---,---,MEX,01:19:31,06:44:15,04:47:51,00:13:54,00:09:43,13:15:14
+ironman-los-cabos-20140330.csv,512,Shawn Hnatko,42,CA,USA,00:58:00,05:21:11,03:54:09,00:05:08,00:02:11,10:20:39
+ironman-los-cabos-20140330.csv,513,Javier Teres,42,Intl State,MEX,01:17:16,06:05:57,05:49:46,00:17:31,00:12:02,13:42:32
+ironman-los-cabos-20140330.csv,514,Wade Reed,40,OH,USA,01:03:46,06:08:26,04:34:22,00:03:56,00:01:50,11:52:20
+ironman-los-cabos-20140330.csv,515,Seth Coblentz,39,FL,USA,01:02:25,05:11:27,04:08:45,00:04:39,00:03:46,10:31:02
+ironman-los-cabos-20140330.csv,516,Jenn Jacobs,33,PA,USA,01:03:02,06:36:00,---,00:05:51,00:04:12,DNF
+ironman-los-cabos-20140330.csv,517,Daniel Montes De Oca,30,---,MEX,01:15:16,06:59:49,05:36:08,00:06:40,00:00:53,13:58:46
+ironman-los-cabos-20140330.csv,518,David Pennington,---,BR,CAN,01:18:01,06:29:13,05:03:43,00:08:27,00:05:55,13:05:19
+ironman-los-cabos-20140330.csv,519,Peter Anderson,46,ME,USA,01:21:14,07:19:35,05:42:45,00:12:30,00:07:27,14:43:31
+ironman-los-cabos-20140330.csv,520,Jorge Ayala,41,CA,MEX,01:53:34,---,---,00:09:44,---,DNF
+ironman-los-cabos-20140330.csv,521,Todd Crandell,47,OH,USA,01:10:52,07:34:38,05:43:02,00:08:17,00:07:49,14:44:38
+ironman-los-cabos-20140330.csv,523,Andre Alcantara,48,SP,BRA,01:00:47,05:46:40,04:04:45,00:06:12,00:05:48,11:04:12
+ironman-los-cabos-20140330.csv,524,Mike Andrews,43,KY,USA,01:36:16,06:39:22,06:32:35,00:14:30,00:17:51,15:20:34
+ironman-los-cabos-20140330.csv,525,Todd Guilford,41,KY,USA,01:25:12,06:25:03,05:31:04,00:06:55,00:06:02,13:34:16
+ironman-los-cabos-20140330.csv,527,Kim Long Le,---,CA,USA,01:37:58,08:44:39,---,00:12:16,---,DNF
+ironman-los-cabos-20140330.csv,528,David Lebrat,32,---,FRA,00:54:15,05:14:27,03:21:55,00:04:11,00:01:49,09:36:37
+ironman-los-cabos-20140330.csv,529,Nick Grundman,31,MN,USA,01:04:28,05:23:07,04:15:42,00:03:49,00:02:33,10:49:39
+ironman-los-cabos-20140330.csv,531,Vicente Jonguitud,40,Queretaro,MEX,01:06:46,05:45:26,03:56:19,00:06:34,00:04:59,11:00:04
+ironman-los-cabos-20140330.csv,532,Andrew Duggan,45,CA,USA,01:06:35,06:05:54,03:58:21,00:04:31,00:03:03,11:18:24
+ironman-los-cabos-20140330.csv,533,Suzanne Fox,30,MN,USA,01:00:58,05:49:40,03:41:42,00:05:25,00:02:50,10:40:35
+ironman-los-cabos-20140330.csv,534,Marta Lewinski,40,MN,USA,01:11:12,06:37:31,---,00:06:52,00:04:36,DNF
+ironman-los-cabos-20140330.csv,535,Ingrid Lindelöw Berntson,50,---,SWE,00:59:37,06:39:59,05:05:50,00:04:51,00:05:03,12:55:20
+ironman-los-cabos-20140330.csv,536,Erik Berntson,52,---,SWE,01:16:54,06:47:47,05:13:01,00:06:51,00:05:18,13:29:51
+ironman-los-cabos-20140330.csv,537,Casey Fannin,32,TX,USA,01:12:12,05:24:49,04:12:24,00:04:44,00:01:34,10:55:43
+ironman-los-cabos-20140330.csv,538,Danny Williams,46,TX,USA,01:11:52,06:06:08,05:05:12,00:08:40,00:04:25,12:36:17
+ironman-los-cabos-20140330.csv,540,Steve Olondo,---,ID,USA,01:10:24,07:08:05,05:10:09,00:08:23,00:04:56,13:41:57
+ironman-los-cabos-20140330.csv,541,William Tape,---,CA,USA,01:06:59,07:45:22,06:28:01,00:09:27,00:05:15,15:35:04
+ironman-los-cabos-20140330.csv,542,Bree Tape,---,CA,USA,01:20:51,07:33:49,06:29:26,00:07:26,00:03:32,15:35:04
+ironman-los-cabos-20140330.csv,545,Matthew Palmer,---,CA,USA,01:20:07,08:06:05,---,00:13:00,00:11:18,DNF
+ironman-los-cabos-20140330.csv,546,James England,36,CA,USA,01:03:36,05:53:13,04:07:16,00:08:14,00:05:34,11:17:53
+ironman-los-cabos-20140330.csv,547,Brian Post,33,OH,USA,00:56:47,05:16:29,03:22:44,00:05:06,00:03:16,09:44:22
+ironman-los-cabos-20140330.csv,548,Guido Zgraggen,32,WA,CHE,01:02:51,05:34:56,03:52:44,00:04:30,00:01:35,10:36:36
+ironman-los-cabos-20140330.csv,549,Ralf Schuh,48,---,DEU,01:22:17,06:20:06,04:17:47,00:07:10,00:06:45,12:14:05
+ironman-los-cabos-20140330.csv,550,Jean Pierre Robert,52,Intl State,MEX,01:12:06,07:04:39,05:07:21,00:08:50,00:05:41,13:38:37
+ironman-los-cabos-20140330.csv,551,Heather Frank,43,WI,USA,01:18:51,---,---,00:06:42,---,DNF
+ironman-los-cabos-20140330.csv,553,Steve Hodges,63,ID,USA,01:20:50,07:11:16,04:50:06,00:08:37,00:03:06,13:33:55
+ironman-los-cabos-20140330.csv,554,Cecilia Weber,59,ID,USA,01:28:51,07:11:55,06:12:18,00:08:42,00:05:56,15:07:42
+ironman-los-cabos-20140330.csv,556,K Erik Friess,48,CA,USA,01:21:42,07:24:55,06:21:50,00:12:47,00:14:19,15:35:33
+ironman-los-cabos-20140330.csv,557,Daniel Friess,42,CA,USA,01:16:13,07:24:19,05:57:13,00:09:10,00:09:11,14:56:06
+ironman-los-cabos-20140330.csv,558,Israel Hernandez,42,---,MEX,01:32:35,06:37:11,04:34:25,00:12:40,00:12:30,13:09:21
+ironman-los-cabos-20140330.csv,559,Maricela Espinobarros,---,---,MEX,02:13:15,---,---,00:14:01,---,DNF
+ironman-los-cabos-20140330.csv,560,Diego Ortiz-Solis,34,---,MEX,01:30:01,07:23:27,07:05:44,00:10:14,00:09:07,16:18:33
+ironman-los-cabos-20140330.csv,563,Gerardo Toledo,47,CA,MEX,01:13:34,06:36:49,06:18:13,00:05:42,00:05:00,14:19:18
+ironman-los-cabos-20140330.csv,565,James 5035448380,44,OR,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20140330.csv,566,Ernesto Felix,49,Intl State,MEX,01:30:21,06:56:27,04:34:01,00:15:08,00:04:50,13:20:47
+ironman-los-cabos-20140330.csv,567,Patrick Nesbitt,29,Alberta,CAN,01:06:50,05:59:53,03:35:46,00:04:12,00:02:59,10:49:40
+ironman-los-cabos-20140330.csv,568,Mike Blackburn,48,MI,USA,01:11:00,06:15:21,04:34:48,00:04:36,00:02:17,12:08:02
+ironman-los-cabos-20140330.csv,569,Jasmin Pienimäki,21,kouvola,FIN,00:56:41,06:24:56,05:31:18,00:03:32,00:01:38,12:58:05
+ironman-los-cabos-20140330.csv,570,Jose Luis Garcia,46,CA,MEX,01:12:19,06:43:14,05:06:12,00:10:06,00:08:32,13:20:23
+ironman-los-cabos-20140330.csv,571,Adam Carlson,31,CA,USA,00:56:54,05:12:16,03:16:58,00:03:43,00:01:20,09:31:11
+ironman-los-cabos-20140330.csv,572,Aldo Ayala,44,CA,MEX,01:21:51,07:37:15,06:00:43,00:10:37,00:08:59,15:19:25
+ironman-los-cabos-20140330.csv,574,Sanaa Cody,36,TX,USA,01:19:28,07:00:10,05:14:29,00:09:32,00:04:35,13:48:14
+ironman-los-cabos-20140330.csv,575,Nicholas Johanson,34,CA,USA,01:13:44,05:47:32,04:05:11,00:08:25,00:04:29,11:19:21
+ironman-los-cabos-20140330.csv,576,Herb Perez,53,TX,USA,01:27:26,07:17:11,06:06:33,00:10:52,00:06:39,15:08:41
+ironman-los-cabos-20140330.csv,577,Rene Franken,---,---,ABW,01:18:01,06:30:28,04:56:38,00:14:44,00:09:54,13:09:45
+ironman-los-cabos-20140330.csv,578,Paul Schmude,39,MI,USA,01:20:42,07:00:33,04:42:13,00:14:08,00:09:48,13:27:24
+ironman-los-cabos-20140330.csv,579,Joyce Langridge,57,BC,CAN,---,---,---,---,---,DNS
+ironman-los-cabos-20140330.csv,580,Paul Mcconachy,39,NC,AUS,01:07:56,06:05:48,04:51:58,00:07:09,00:06:30,12:19:21
+ironman-los-cabos-20140330.csv,582,Aaron Gardiner,37,---,CAN,00:50:22,05:33:46,04:22:44,00:04:58,00:03:20,10:55:10
+ironman-los-cabos-20140330.csv,583,Jose Postigo,43,Estado de Mexico,MEX,01:20:42,07:21:06,06:17:53,00:10:40,00:10:55,15:21:16
+ironman-los-cabos-20140330.csv,584,Graham Cooper,44,CA,USA,00:57:23,05:22:24,03:20:39,00:05:43,00:02:02,09:48:11
+ironman-los-cabos-20140330.csv,588,Ann Weinstock,52,CA,USA,01:21:50,06:28:25,05:04:32,00:08:42,00:05:36,13:09:05
+ironman-los-cabos-20140330.csv,589,Keith Rogers,40,AL,USA,01:20:23,07:56:01,06:39:19,00:18:28,00:16:03,16:30:14
+ironman-los-cabos-20140330.csv,590,Stefan Apitz,50,CA,USA,01:18:05,06:48:31,06:40:58,00:10:57,00:03:52,15:02:23
+ironman-los-cabos-20140330.csv,591,Eric Reavis,41,CA,USA,01:02:17,06:22:12,---,00:05:23,00:05:21,DNF
+ironman-los-cabos-20140330.csv,592,Maria Carnicella,---,PE,USA,---,---,---,---,---,DQ
+ironman-los-cabos-20140330.csv,593,Patrick Keteldijk,33,---,ABW,01:20:08,06:58:32,05:29:24,00:11:15,00:06:23,14:05:42
+ironman-los-cabos-20140330.csv,594,Herb Spicer,58,MD,USA,01:00:55,05:57:23,---,00:05:48,00:06:47,DNF
+ironman-los-cabos-20140330.csv,595,Alan Priest,---,MI,USA,01:43:41,07:59:26,05:59:30,00:08:52,00:08:10,15:59:39
+ironman-los-cabos-20140330.csv,596,Leah Kadetz,40,GA,USA,01:27:17,06:51:02,05:30:42,00:09:34,00:02:45,14:01:20
+ironman-los-cabos-20140330.csv,597,Shelley Nelson,34,CO,USA,---,---,---,---,---,DQ
+ironman-los-cabos-20140330.csv,599,Sayuri Imanishi,52,Intl State,JPN,01:36:34,07:22:35,04:51:57,00:10:13,00:06:26,14:07:45
+ironman-los-cabos-20140330.csv,600,Katsuya Imanishi,52,Intl State,JPN,01:24:11,06:39:04,04:10:33,00:08:31,00:07:18,12:29:37
+ironman-los-cabos-20140330.csv,601,Ellen Bransford,26,TN,USA,01:11:05,07:06:42,04:53:51,00:06:53,00:05:12,13:23:43
+ironman-los-cabos-20140330.csv,602,Luis Gerardo Jimenez,---,DF,MEX,01:25:20,06:23:09,04:34:10,00:08:07,00:08:46,12:39:32
+ironman-los-cabos-20140330.csv,604,Francisco Leal,---,BCS,MEX,01:06:38,06:03:55,04:25:31,00:09:53,00:07:49,11:53:46
+ironman-los-cabos-20140330.csv,605,Andrew Heideman,34,FL,USA,00:54:32,05:21:17,04:31:31,00:04:32,00:02:25,10:54:17
+ironman-los-cabos-20140330.csv,606,Timothy Ferguson,50,B.C.,CAN,01:06:32,05:41:23,04:19:01,00:06:17,00:03:07,11:16:20
+ironman-los-cabos-20140330.csv,607,Leanne Johnson,34,CA,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20140330.csv,608,Dean Johnson,---,CA,GBR,01:02:47,05:28:08,03:22:23,00:03:38,00:02:01,09:58:57
+ironman-los-cabos-20140330.csv,609,Mark Mccullough,45,MI,USA,01:02:11,06:19:29,04:41:25,00:08:07,00:06:04,12:17:16
+ironman-los-cabos-20140330.csv,610,Daniel O'Day,49,FL,USA,01:13:27,07:35:46,06:54:38,00:09:29,00:10:36,16:03:56
+ironman-los-cabos-20140330.csv,611,Rikako Takei,51,CA,USA,01:09:21,06:10:20,03:52:10,00:04:59,00:04:56,11:21:46
+ironman-los-cabos-20140330.csv,612,Paul Kulas,52,IA,USA,01:08:08,07:24:21,---,00:11:53,00:17:29,DNF
+ironman-los-cabos-20140330.csv,614,Ben Bruno,43,MN,USA,01:07:03,06:03:53,05:01:58,00:04:42,00:02:51,12:20:27
+ironman-los-cabos-20140330.csv,615,Rafael Motta,---,---,BRA,01:34:48,06:38:17,---,00:03:59,00:09:15,DNF
+ironman-los-cabos-20140330.csv,616,Adam Stahl,40,CT,USA,01:55:57,07:21:07,06:16:54,00:09:30,00:07:11,15:50:39
+ironman-los-cabos-20140330.csv,617,Adrian Castro,---,---,MEX,01:12:25,06:28:26,04:29:14,00:09:27,00:04:24,12:23:56
+ironman-los-cabos-20140330.csv,618,Ted Papenhagen,44,CA,USA,01:11:57,07:00:05,05:34:45,00:29:33,00:32:21,14:48:41
+ironman-los-cabos-20140330.csv,619,Brett Papenhagen,46,GA,USA,01:15:12,07:12:50,06:07:51,00:26:25,00:19:30,15:21:48
+ironman-los-cabos-20140330.csv,620,Daniel Ibarra,44,Distrito Federal,MEX,01:17:36,06:23:19,04:52:29,00:10:52,00:05:36,12:49:52
+ironman-los-cabos-20140330.csv,621,Fernando Vargas De La Rosa,42,D.F.,MEX,01:20:43,05:44:42,04:29:03,00:10:07,00:03:00,11:47:35
+ironman-los-cabos-20140330.csv,623,Inigo Garcia Manzanares,---,---,MEX,01:29:31,08:36:06,06:25:52,00:14:53,00:05:41,16:52:03
+ironman-los-cabos-20140330.csv,625,Michael Bier,45,MN,USA,01:42:27,07:29:40,07:04:43,00:12:15,00:09:20,16:38:25
+ironman-los-cabos-20140330.csv,626,Peter Eberle,45,CA,USA,---,---,---,---,---,DQ
+ironman-los-cabos-20140330.csv,627,Susan Riggio,52,NJ,USA,01:16:11,06:17:58,04:31:09,00:04:32,00:02:00,12:11:50
+ironman-los-cabos-20140330.csv,628,Rick Martin,42,NM,USA,01:06:29,06:45:12,05:39:07,00:10:05,00:04:51,13:45:44
+ironman-los-cabos-20140330.csv,630,Joseph Bradfield,56,FL,USA,01:18:02,07:28:09,07:50:11,00:12:24,00:07:41,16:56:27
+ironman-los-cabos-20140330.csv,633,Myrna Hooper,43,WI,USA,01:32:25,07:29:12,05:16:45,00:10:16,00:05:13,14:33:51
+ironman-los-cabos-20140330.csv,634,Kelly Lerbekmo,39,IL,CAN,01:27:41,07:10:33,06:02:20,00:07:29,00:04:32,14:52:35
+ironman-los-cabos-20140330.csv,635,Bryan Becker,36,CA,USA,01:33:42,07:23:54,05:38:01,00:08:34,00:06:32,14:50:43
+ironman-los-cabos-20140330.csv,636,Kenji Doya,52,Okinawa,JPN,01:09:07,05:38:53,03:57:29,00:05:22,00:03:45,10:54:36
+ironman-los-cabos-20140330.csv,637,Hideki Toyokawa,46,Kanagawa,JPN,01:09:57,05:42:54,03:51:50,00:04:07,00:02:00,10:50:48
+ironman-los-cabos-20140330.csv,638,Alejandro Perez Rayon,39,Estado de Mexico,MEX,01:12:43,06:47:41,05:21:42,00:08:15,00:03:31,13:33:52
+ironman-los-cabos-20140330.csv,639,David Stransky,26,AK,USA,01:16:39,07:29:00,04:51:53,00:07:44,00:10:33,13:55:49
+ironman-los-cabos-20140330.csv,640,Jeremy Wells,---,PE,USA,01:14:51,07:22:11,04:58:42,00:09:46,00:07:58,13:53:28
+ironman-los-cabos-20140330.csv,641,Nagaoka Satoshi,55,Okinawa,JPN,01:17:44,07:09:05,06:09:36,00:09:33,00:07:18,14:53:16
+ironman-los-cabos-20140330.csv,642,Chris Beuer,32,MO,USA,01:02:59,06:06:55,04:28:47,00:07:11,00:03:18,11:49:10
+ironman-los-cabos-20140330.csv,643,Miguel Angel Mejia,---,---,MEX,---,---,---,---,---,DQ
+ironman-los-cabos-20140330.csv,644,Rich Stanbaugh,47,MI,USA,01:17:58,07:02:40,04:52:11,00:11:24,00:05:58,13:30:11
+ironman-los-cabos-20140330.csv,645,Christopher Watson,41,NH,USA,01:19:46,07:00:43,06:13:09,00:09:23,00:05:29,14:48:30
+ironman-los-cabos-20140330.csv,646,Pablo Cevallos,40,---,ECU,01:26:43,06:12:44,04:16:01,00:07:23,00:06:53,12:09:44
+ironman-los-cabos-20140330.csv,647,Alejandro Fritz,31,Intl State,MEX,01:05:37,06:47:29,05:24:24,00:08:10,00:03:14,13:28:54
+ironman-los-cabos-20140330.csv,648,Eric Maguire,31,CA,USA,01:11:38,06:35:39,04:26:54,00:22:22,00:17:01,12:53:34
+ironman-los-cabos-20140330.csv,649,John Kremenesky,---,CA,USA,01:18:05,07:28:10,05:41:50,00:14:52,00:19:02,15:01:59
+ironman-los-cabos-20140330.csv,650,Martin Coulombe,30,QC,CAN,01:36:01,07:09:25,05:49:26,00:12:37,00:15:12,15:02:41
+ironman-los-cabos-20140330.csv,651,Bernard Maillet,52,AB,CAN,00:58:27,06:03:12,04:51:33,00:05:37,00:06:00,12:04:49
+ironman-los-cabos-20140330.csv,652,Gary Maser,36,NJ,USA,01:21:21,06:50:08,05:25:38,00:10:06,00:04:52,13:52:05
+ironman-los-cabos-20140330.csv,653,Jesus Arce Jaimez,29,Intl State,MEX,01:26:57,07:36:02,05:13:29,00:13:21,00:08:07,14:37:56
+ironman-los-cabos-20140330.csv,654,Brendon O'Flanagan,36,---,USA,00:54:03,05:54:47,04:52:57,00:03:15,00:02:35,11:47:37
+ironman-los-cabos-20140330.csv,656,Keli Engleson,34,PA,USA,01:20:40,08:08:44,06:19:59,00:10:26,00:10:10,16:09:59
+ironman-los-cabos-20140330.csv,657,Tony Truong,35,CA,USA,01:17:16,06:13:01,05:28:53,00:09:17,00:03:49,13:12:16
+ironman-los-cabos-20140330.csv,658,Neil Carrington,43,KY,USA,01:42:39,---,---,00:14:19,---,DNF
+ironman-los-cabos-20140330.csv,659,James Meyer,36,SD,USA,00:55:46,04:56:54,04:22:48,00:03:22,00:02:41,10:21:31
+ironman-los-cabos-20140330.csv,660,Danielle Genung,40,AB,CAN,01:21:01,07:16:49,06:04:08,00:08:37,00:12:01,15:02:36
+ironman-los-cabos-20140330.csv,661,Jeff Genung,45,AB,CAN,01:00:53,05:38:48,04:32:23,00:04:56,00:06:04,11:23:04
+ironman-los-cabos-20140330.csv,662,Missy Lestrange,61,CA,USA,01:06:04,06:53:59,05:23:46,00:08:08,00:05:33,13:37:30
+ironman-los-cabos-20140330.csv,663,Chris Oversby,43,WA,USA,01:10:29,07:18:47,06:32:14,00:08:04,00:08:47,15:18:21
+ironman-los-cabos-20140330.csv,664,Pedro Reis,29,GO,BRA,00:58:49,05:30:11,03:54:24,00:03:33,00:02:04,10:29:01
+ironman-los-cabos-20140330.csv,665,Bridget Kotarak,36,WI,USA,01:01:59,06:14:27,03:49:39,00:04:10,00:01:21,11:11:36
+ironman-los-cabos-20140330.csv,666,Kevin Danahy,38,DE,USA,00:54:30,05:45:07,03:36:05,00:04:30,00:05:27,10:25:39
+ironman-los-cabos-20140330.csv,667,Yuki Toyokawa,40,Intl State,JPN,01:17:19,07:24:43,03:34:44,00:09:53,00:05:17,12:31:56
+ironman-los-cabos-20140330.csv,668,Alejandro Torre,36,TX,MEX,00:50:18,05:05:20,03:15:06,00:02:59,00:01:39,09:15:22
+ironman-los-cabos-20140330.csv,669,Emanuele Ciotti,33,italia,ITA,00:50:30,05:06:49,03:18:55,00:03:45,00:01:48,09:21:47
+ironman-los-cabos-20140330.csv,670,Jorge Garcia Felix,41,AZ,MEX,01:30:42,07:07:46,07:38:50,00:12:02,00:13:56,16:43:16
+ironman-los-cabos-20140330.csv,671,Marina Scheithauer,32,TN,USA,01:16:44,08:01:42,04:39:35,00:07:38,00:02:43,14:08:22
+ironman-los-cabos-20140330.csv,672,Jose Andrade,---,---,MEX,01:33:58,07:42:46,05:54:41,00:13:31,00:10:30,15:35:26
+ironman-los-cabos-20140330.csv,673,Jaimie Roth,54,AB,CAN,00:57:58,05:21:09,04:17:32,00:04:55,00:02:28,10:44:02
+ironman-los-cabos-20140330.csv,674,Jonathan Roth,25,AB,CAN,00:53:17,---,---,00:03:25,---,DNF
+ironman-los-cabos-20140330.csv,675,Mark Lavin,36,SD,USA,00:59:22,05:27:16,03:50:11,00:04:32,00:03:29,10:24:50
+ironman-los-cabos-20140330.csv,677,Jason Lentzke,30,AZ,USA,00:59:12,05:24:18,03:32:03,00:04:43,00:02:01,10:02:17
+ironman-los-cabos-20140330.csv,678,Marc Flageole,46,Quebec,CAN,00:56:56,05:17:38,03:24:41,00:03:07,00:01:27,09:43:49
+ironman-los-cabos-20140330.csv,679,Enrique Galaviz,36,Colima,MEX,01:29:15,06:56:41,05:08:49,00:07:35,00:06:59,13:49:19
+ironman-los-cabos-20140330.csv,680,Mike Mcdonough,41,NV,USA,01:16:58,06:54:59,05:06:40,00:10:24,00:05:12,13:34:13
+ironman-los-cabos-20140330.csv,681,Serge Tessier,39,AB,CAN,00:58:03,05:17:49,03:55:00,00:04:35,00:01:33,10:17:00
+ironman-los-cabos-20140330.csv,682,Cara Samples,33,OR,USA,01:13:19,05:57:54,03:57:15,00:05:32,00:02:38,11:16:38
+ironman-los-cabos-20140330.csv,683,Fred Sheppard,40,CA,USA,01:25:07,06:39:56,05:07:24,00:11:04,00:32:58,13:56:29
+ironman-los-cabos-20140330.csv,684,Lisa Chin,---,CA,USA,01:12:39,07:56:40,---,00:08:39,00:11:19,DNF
+ironman-los-cabos-20140330.csv,685,Kelly Quistad,29,CA,USA,01:02:58,07:05:52,05:21:55,00:06:51,00:03:32,13:41:08
+ironman-los-cabos-20140330.csv,686,Joseph Camillo,46,MA,USA,01:17:28,06:37:55,04:52:05,00:15:15,00:10:19,13:13:02
+ironman-los-cabos-20140330.csv,687,Patrick Begin,40,QC,CAN,00:59:20,05:30:39,03:56:09,00:05:05,00:03:19,10:34:32
+ironman-los-cabos-20140330.csv,688,Roberto Bautista Rodriguez,32,Benito Juarez,MEX,01:10:25,06:05:04,05:13:30,00:04:52,00:03:43,12:37:34
+ironman-los-cabos-20140330.csv,690,Fabien Pottier,29,---,FRA,01:11:28,05:39:34,---,00:08:55,00:06:55,DNF
+ironman-los-cabos-20140330.csv,691,Marco Gimenes,41,Goiás,BRA,01:04:16,05:04:30,03:25:34,00:04:15,00:03:01,09:41:36
+ironman-los-cabos-20140330.csv,692,Rafael Diaz Mora,38,Puebla,MEX,01:26:52,07:28:18,05:39:34,00:11:45,00:09:02,14:55:31
+ironman-los-cabos-20140330.csv,693,Edgar Higareda,---,---,MEX,01:31:31,06:24:54,04:28:18,00:08:42,00:05:05,12:38:30
+ironman-los-cabos-20140330.csv,694,Fabiano Santos,36,Other,BRA,00:50:18,05:19:00,04:20:01,00:03:49,00:02:10,10:35:18
+ironman-los-cabos-20140330.csv,695,Jennifer Phillips,27,CA,ECU,01:20:15,07:11:18,04:44:49,00:12:41,00:04:42,13:33:45
+ironman-los-cabos-20140330.csv,696,Sally Sawyer,54,NV,USA,01:18:00,08:28:39,06:38:08,00:15:19,00:03:30,16:43:36
+ironman-los-cabos-20140330.csv,697,Karen Smith,45,Intl State,BMU,00:58:25,05:36:46,03:41:43,00:04:09,00:01:56,10:22:59
+ironman-los-cabos-20140330.csv,699,Simon Biltcliffe,---,---,GBR,01:23:42,07:00:58,06:28:54,00:16:13,00:05:36,15:15:23
+ironman-los-cabos-20140330.csv,700,Terry Nugent,52,CO,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20140330.csv,701,Alejandro Torres Luna,---,---,MEX,01:21:05,07:16:23,05:45:08,00:13:37,00:09:19,14:45:32
+ironman-los-cabos-20140330.csv,704,Benoit Baulain,32,FR,FRA,00:50:21,05:18:52,03:40:21,00:04:05,00:02:38,09:56:17
+ironman-los-cabos-20140330.csv,705,Howard Glass,73,FL,USA,01:36:58,08:16:54,06:04:36,00:11:36,00:06:17,16:16:21
+ironman-los-cabos-20140330.csv,706,Omar Perez Juarez,---,DISTRITO FEDERAL,MEX,01:30:00,06:39:46,05:01:20,00:05:44,00:04:57,13:21:47
+ironman-los-cabos-20140330.csv,707,Cristiano Piquet,36,FL,USA,00:57:51,07:15:09,05:59:05,00:10:17,00:26:24,14:48:46
+ironman-los-cabos-20140330.csv,708,Tom Radomski,48,NJ,USA,01:18:46,07:26:57,06:18:25,00:08:26,00:11:45,15:24:19
+ironman-los-cabos-20140330.csv,709,Gabriel Juri,50,colima,ARG,01:26:56,07:27:54,05:34:08,00:07:40,00:03:42,14:40:20
+ironman-los-cabos-20140330.csv,710,Tj Nuccio,32,CA,USA,01:06:22,05:51:48,03:51:36,00:04:08,00:02:15,10:56:09
+ironman-los-cabos-20140330.csv,711,Abdel K Fustok,73,TX,USA,01:33:39,07:29:29,06:05:56,00:21:20,00:07:08,15:37:32
+ironman-los-cabos-20140330.csv,712,Herman Estrada,41,Intl State,MEX,01:10:55,06:35:14,05:32:16,00:09:40,00:04:50,13:32:55
+ironman-los-cabos-20140330.csv,713,Michael Honicker,35,VA,USA,01:04:43,05:54:55,03:16:31,00:04:29,00:01:53,10:22:31
+ironman-los-cabos-20140330.csv,714,Damien Greathead,33,CA,AUS,01:09:08,07:15:01,05:11:00,00:09:30,00:09:23,13:54:02
+ironman-los-cabos-20140330.csv,715,Eduardo Arriola,42,---,PRY,01:04:12,05:53:44,04:20:24,00:03:42,00:04:41,11:26:43
+ironman-los-cabos-20140330.csv,717,Van Mccarty,43,CA,USA,01:04:20,05:25:54,03:33:27,00:07:31,00:02:17,10:13:29
+ironman-los-cabos-20140330.csv,718,Bill Bishop,36,IL,USA,00:46:23,05:35:44,---,00:03:06,00:02:01,DNF
+ironman-los-cabos-20140330.csv,719,Tom Trauger,50,NV,USA,00:57:48,05:11:44,03:35:32,00:03:29,00:01:42,09:50:15
+ironman-los-cabos-20140330.csv,720,Jacqui Giuliano,27,IL,USA,01:10:08,05:41:41,03:10:24,00:03:46,00:02:46,10:08:45
+ironman-los-cabos-20140330.csv,721,Ryan Giuliano,29,IL,USA,00:57:49,05:01:47,03:18:07,00:03:57,00:02:05,09:23:45
+ironman-los-cabos-20140330.csv,722,Mark Simpson,64,FL,USA,01:28:19,06:48:18,05:22:09,00:13:41,00:06:39,13:59:06
+ironman-los-cabos-20140330.csv,723,Susie Bowers,54,TX,USA,01:20:23,06:53:21,06:36:19,00:08:06,00:04:20,15:02:29
+ironman-los-cabos-20140330.csv,724,Lauren Schrichten,29,CA,USA,01:02:11,05:40:52,04:28:35,00:04:17,00:01:00,11:16:55
+ironman-los-cabos-20140330.csv,727,Jason Tuffs,44,CA,USA,01:09:52,05:49:08,03:51:19,00:05:46,00:03:09,10:59:14
+ironman-los-cabos-20140330.csv,728,Paul Fomalont,43,---,CHE,01:29:50,06:15:02,05:09:21,00:07:49,00:02:11,13:04:13
+ironman-los-cabos-20140330.csv,729,Hugo Garcia,47,estado de mexico,MEX,---,---,---,---,---,DQ
+ironman-los-cabos-20140330.csv,730,Luisa Fumagalli,41,Intl State,ITA,01:03:10,06:09:15,03:54:14,00:04:56,00:01:17,11:12:52
+ironman-los-cabos-20140330.csv,731,Stephen Lynchh,47,IL,USA,01:06:13,05:56:31,04:36:59,00:05:11,00:06:43,11:51:37
+ironman-los-cabos-20140330.csv,732,Mitchell Hyra,51,CO,USA,01:13:19,05:36:37,04:05:40,00:05:46,00:02:14,11:03:36
+ironman-los-cabos-20140330.csv,733,Sandra Hyra,44,CO,USA,01:18:13,06:03:54,04:41:48,00:06:52,00:03:07,12:13:54
+ironman-los-cabos-20140330.csv,734,Armando Ruben Grande	amador,52,quintana roo,MEX,01:10:16,08:02:10,---,00:11:41,00:10:34,DNF
+ironman-los-cabos-20140330.csv,735,Rodolfo Aranda,---,---,CHL,01:02:03,06:07:44,05:58:36,00:04:37,00:02:18,13:15:18
+ironman-los-cabos-20140330.csv,737,Miguel Perez Nogueras,---,---,ESP,01:12:14,05:55:50,05:27:28,00:10:27,00:10:30,12:56:29
+ironman-los-cabos-20140330.csv,738,Myrna Morales,32,---,MEX,01:23:51,07:43:42,04:34:08,00:11:37,00:08:47,14:02:05
+ironman-los-cabos-20140330.csv,739,Rodrigo Alarcon Romero,32,---,CHL,01:43:40,---,---,00:08:41,---,DNF
+ironman-los-cabos-20140330.csv,740,Mike Bowers,55,TX,USA,01:13:31,06:47:19,05:45:27,00:06:26,00:03:10,13:55:53
+ironman-los-cabos-20140330.csv,741,Tina Wilson,---,CA,USA,01:17:48,07:09:16,05:32:51,00:11:21,00:10:15,14:21:31
+ironman-los-cabos-20140330.csv,742,Nicole Lauren Nasher,---,FL,USA,01:16:22,06:36:45,05:11:50,00:12:02,00:05:58,13:22:57
+ironman-los-cabos-20140330.csv,743,Jose Manuel Francos Tapia,40,---,MEX,01:06:25,06:10:20,04:39:50,00:08:36,00:05:37,12:10:48
+ironman-los-cabos-20140330.csv,744,Alejandro Cesar Sandoval Ramirez,39,QC,CAN,01:13:42,05:58:26,03:48:34,00:07:55,00:01:56,11:10:33
+ironman-los-cabos-20140330.csv,745,Sebastien Guerin,39,---,FRA,01:21:04,06:59:15,07:06:50,00:08:44,00:08:02,15:43:55
+ironman-los-cabos-20140330.csv,746,Cindy Cook,42,MN,USA,01:19:11,07:18:39,05:15:13,00:05:27,00:02:33,14:01:03
+ironman-los-cabos-20140330.csv,747,Persefoni Vordokas,25,FL,GRC,01:27:38,07:39:48,---,00:12:10,00:08:09,DNF
+ironman-los-cabos-20140330.csv,748,Sam Boyd,61,TN,USA,01:14:05,06:24:47,05:37:43,00:07:15,00:07:56,13:31:46
+ironman-los-cabos-20140330.csv,750,Carolina Ponce,41,FL,ECU,01:07:01,05:47:17,03:44:27,00:06:17,00:01:03,10:46:05
+ironman-los-cabos-20140330.csv,751,Matthew Smith,49,OH,USA,00:57:48,06:57:25,---,00:09:23,00:06:22,DNF
+ironman-los-cabos-20140330.csv,752,Jose Antonio Moreno,---,EDO.MEX,MEX,00:54:12,05:48:57,04:18:01,00:03:35,00:03:30,11:08:15
+ironman-los-cabos-20140330.csv,753,Lina Ramos,49,---,USA,01:12:33,05:59:54,04:35:21,00:05:10,00:01:05,11:54:03
+ironman-los-cabos-20140330.csv,754,Javier Aramburu Yzaga,---,---,PER,01:02:37,05:44:30,04:25:17,00:04:25,00:03:13,11:20:02
+ironman-los-cabos-20140330.csv,755,Juan Pondal-Kleber,46,FL,VEN,01:10:53,07:09:11,06:28:10,00:10:40,00:05:24,15:04:18
+ironman-los-cabos-20140330.csv,756,Lee Harkleroad,59,IL,USA,01:32:14,07:26:04,06:41:32,00:13:18,00:11:54,16:05:02
+ironman-los-cabos-20140330.csv,757,Carlos Miguel Gagliardi,42,Lima,PER,01:08:18,06:10:09,04:31:18,00:04:16,00:04:20,11:58:21
+ironman-los-cabos-20140330.csv,758,David Liano,34,WA,MEX,01:37:46,06:38:48,04:56:43,00:10:10,00:08:48,13:32:15
+ironman-los-cabos-20140330.csv,759,Elizhec Lopez,29,---,MEX,01:30:31,08:47:13,06:02:10,00:15:36,00:08:21,16:43:51
+ironman-los-cabos-20140330.csv,760,Olivier Spagnol,44,---,FRA,01:02:34,05:05:26,03:08:07,00:03:31,00:03:23,09:23:01
+ironman-los-cabos-20140330.csv,762,Andres Pineda,35,FL,SLV,01:10:03,05:47:41,04:23:11,00:04:26,00:03:23,11:28:44
+ironman-los-cabos-20140330.csv,763,Meagan Bradley,36,FL,USA,00:53:50,05:59:51,04:35:26,00:04:35,00:02:14,11:35:56
+ironman-los-cabos-20140330.csv,764,Duncan Seay,47,CA,NZL,01:06:49,05:42:13,03:40:38,00:07:01,00:03:39,10:40:20
+ironman-los-cabos-20140330.csv,765,Andres Paez,34,CA,USA,01:17:47,07:03:39,---,00:14:58,00:11:36,DNF
+ironman-los-cabos-20140330.csv,766,Jan Schmitt,48,CA,DEU,01:13:38,07:30:39,06:49:13,00:12:53,00:06:45,15:53:08
+ironman-los-cabos-20140330.csv,767,Robert Dorrestyn,41,TX,USA,00:56:11,06:01:31,05:21:53,00:03:42,00:03:22,12:26:39
+ironman-los-cabos-20140330.csv,769,Jose Graca,39,HI,BRA,00:56:07,05:11:22,03:36:05,00:03:40,00:02:10,09:49:24
+ironman-los-cabos-20140330.csv,770,Gabriel Brinkman,37,DF,MEX,01:05:21,05:47:49,04:27:32,00:04:47,00:02:42,11:28:11
+ironman-los-cabos-20140330.csv,771,Josu Gurtubay,21,Estado de México,MEX,01:12:51,07:03:11,05:25:20,00:06:01,00:04:04,13:51:27
+ironman-los-cabos-20140330.csv,772,Emmanuel Jaimes,36,Estado de Mexico,MEX,01:24:37,---,---,00:12:18,---,DNF
+ironman-los-cabos-20140330.csv,773,Arturo Hernandez,55,Intl State,MEX,01:13:53,07:28:28,05:37:32,00:11:36,00:08:16,14:39:45
+ironman-los-cabos-20140330.csv,775,Oscar Igancio Huerta Garcia,---,---,MEX,01:37:06,07:43:11,06:28:59,00:08:59,00:18:22,16:16:37
+ironman-los-cabos-20140330.csv,776,Saul Gil,---,---,MEX,01:31:02,07:09:57,05:03:44,00:05:25,00:11:44,14:01:52
+ironman-los-cabos-20140330.csv,777,Cesar Toral,30,---,MEX,01:27:35,07:08:01,05:04:02,00:12:35,00:05:01,13:57:14
+ironman-los-cabos-20140330.csv,778,Elias Orozco,26,Jalisco,MEX,01:10:50,06:05:28,04:03:26,00:05:35,00:08:25,11:33:44
+ironman-los-cabos-20140330.csv,779,Bernardo Volnie,---,---,MEX,01:20:27,07:12:37,06:17:17,00:18:08,00:09:45,15:18:14
+ironman-los-cabos-20140330.csv,780,Ana Gomez,---,---,MEX,01:17:24,07:27:17,06:01:12,00:21:12,00:11:09,15:18:14
+ironman-los-cabos-20140330.csv,781,Maria Amador,---,---,MEX,01:16:26,07:09:25,04:17:09,00:07:14,00:07:56,12:58:10
+ironman-los-cabos-20140330.csv,782,Kristofer Bower,37,CH,USA,01:05:55,05:31:59,04:58:05,00:06:11,00:02:48,11:44:58
+ironman-los-cabos-20140330.csv,783,Helen Viehr,32,CH,DEU,01:06:23,06:08:38,04:20:03,00:06:01,00:03:53,11:44:58
+ironman-los-cabos-20140330.csv,784,Michael Egan,47,CA,USA,01:05:52,06:45:19,05:26:30,00:09:10,00:04:39,13:31:30
+ironman-los-cabos-20140330.csv,785,Valeria Rosati,49,Intl State,BRA,01:02:42,05:56:10,03:49:08,00:03:28,00:01:42,10:53:10
+ironman-los-cabos-20140330.csv,786,Tobias Winnemoeller,34,---,DEU,00:56:43,05:18:57,03:23:13,00:03:59,00:02:23,09:45:15
+ironman-los-cabos-20140330.csv,787,Jesus Trujillo Alcala,---,DF,MEX,01:13:51,07:02:12,05:08:13,00:09:40,00:09:09,13:43:05
+ironman-los-cabos-20140330.csv,788,Peter Brechbuehler,60,---,CHE,01:10:12,05:46:45,04:26:55,00:04:49,00:02:25,11:31:06
+ironman-los-cabos-20140330.csv,789,Stéphanie Hess,30,CH,CHE,01:04:31,05:54:07,04:21:33,00:04:20,00:02:00,11:26:31
+ironman-los-cabos-20140330.csv,790,John Chung,43,CA,USA,00:54:02,07:33:00,06:16:23,00:10:07,00:11:46,15:05:18
+ironman-los-cabos-20140330.csv,792,Carlos Huerta,---,---,MEX,01:45:26,07:43:45,06:41:59,00:14:17,00:13:59,16:39:26
+ironman-los-cabos-20140330.csv,793,Luis Espinoza,38,Baja California Sur,MEX,01:05:40,06:07:57,05:30:18,00:07:41,00:04:38,12:56:14
+ironman-los-cabos-20140330.csv,794,Rhonda Mareina,58,---,USA,01:04:25,06:07:24,05:03:44,00:06:56,00:05:50,12:28:19
+ironman-los-cabos-20140330.csv,795,Alfredo Marron,43,Intl State,MEX,01:10:37,06:10:27,04:20:18,00:07:14,00:05:03,11:53:39
+ironman-los-cabos-20140330.csv,796,Santiago Vacas,38,Distrito Federal,MEX,01:20:47,07:26:40,05:35:39,00:08:21,00:07:24,14:38:51
+ironman-los-cabos-20140330.csv,797,Edgar Lopez,34,Jalisco,MEX,00:50:18,05:06:49,---,00:04:10,00:02:39,DNF
+ironman-los-cabos-20140330.csv,798,Simone Dailey,---,---,GBR,00:57:21,05:17:16,03:33:01,00:05:17,00:02:16,09:55:11
+ironman-los-cabos-20140330.csv,799,Linda Blakely,40,Other,GBR,01:08:40,06:18:59,03:57:35,00:04:58,00:02:07,11:32:19
+ironman-los-cabos-20140330.csv,800,Jorge Sanchez Gonzalez,29,CIUDAD DE MÉXICO,MEX,01:08:21,06:10:44,04:31:05,00:05:53,00:02:23,11:58:26
+ironman-los-cabos-20140330.csv,801,Abraham Hernandez Bello,---,D.F.,MEX,01:16:58,06:54:20,04:56:24,00:08:29,00:03:28,13:19:39
+ironman-los-cabos-20140330.csv,802,Mario San Vicente,34,WY,MEX,00:59:04,06:21:07,04:25:16,00:04:53,00:05:42,11:56:02
+ironman-los-cabos-20140330.csv,803,Luis Daniel Romo,27,GTO,MEX,01:10:35,06:15:12,04:21:55,00:11:03,00:07:14,12:05:59
+ironman-los-cabos-20140330.csv,804,Raul Sainz Alvarez,30,JALISCO,MEX,01:18:03,06:28:46,03:54:54,00:07:32,00:07:55,11:57:10
+ironman-los-cabos-20140330.csv,807,Kevin Leung,38,GA,USA,01:32:23,07:10:55,06:32:48,00:10:05,00:09:34,15:35:45
+ironman-los-cabos-20140330.csv,808,George Novo,44,FL,USA,01:06:41,06:17:14,05:01:47,00:10:53,00:11:44,12:48:19
+ironman-los-cabos-20140330.csv,809,Espen Kateraas,44,CA,USA,01:06:17,05:30:42,04:43:07,00:05:11,00:02:41,11:27:58
+ironman-los-cabos-20140330.csv,810,Arturo Petrikowski Montane,30,Intl State,MEX,01:08:32,06:31:54,---,00:07:15,00:09:53,DNF
+ironman-los-cabos-20140330.csv,813,Hugo Guini,60,Buenos Aires,ARG,01:06:46,06:38:10,05:46:42,00:07:02,00:14:10,13:52:50
+ironman-los-cabos-20140330.csv,814,Alexis Baird,30,CA,USA,01:14:48,06:24:52,04:11:55,00:07:49,00:03:03,12:02:27
+ironman-los-cabos-20140330.csv,817,Perry Larson,51,CO,USA,01:09:01,06:17:17,05:41:38,00:08:18,00:09:47,13:26:01
+ironman-los-cabos-20140330.csv,818,Zahira Rivas,---,---,MEX,01:03:57,06:58:43,05:27:30,00:05:06,00:05:16,13:40:32
+ironman-los-cabos-20140330.csv,819,Daniel Cervera Ramirez,35,Mexico,MEX,01:07:06,06:42:07,05:19:24,00:06:38,00:07:47,13:23:02
+ironman-los-cabos-20140330.csv,820,Arturo Rojas,42,---,MEX,01:16:55,05:31:04,03:55:38,00:08:19,00:04:43,10:56:39
+ironman-los-cabos-20140330.csv,821,Donn Ritchie,63,CA,USA,01:05:59,05:52:57,04:21:42,00:05:47,00:03:34,11:29:59
+ironman-los-cabos-20140330.csv,822,Eric Blakie,60,Intl State,GBR,01:07:10,06:11:49,04:58:26,00:09:13,00:08:12,12:34:50
+ironman-los-cabos-20140330.csv,824,Barbara Mezaki,51,CA,USA,01:24:46,07:33:12,05:17:04,00:13:22,00:08:25,14:36:49
+ironman-los-cabos-20140330.csv,825,Rene Rodarte,59,CA,USA,01:30:21,06:53:09,05:10:29,00:14:27,00:05:52,13:54:18
+ironman-los-cabos-20140330.csv,826,Wade Humphrey,48,CA,USA,01:22:02,06:56:50,06:09:20,00:11:17,00:07:08,14:46:37
+ironman-los-cabos-20140330.csv,827,Francisco Ortega,---,---,MEX,01:39:25,07:53:22,04:53:23,00:12:09,00:07:58,14:46:17
+ironman-los-cabos-20140330.csv,828,Kris Yow,39,ID,USA,01:55:57,---,---,00:10:48,---,DNF
+ironman-los-cabos-20140330.csv,830,Ellen Hart,55,CO,USA,01:11:51,05:53:38,04:04:46,00:05:17,00:02:36,11:18:08
+ironman-los-cabos-20140330.csv,831,Diana Greenwood,51,CA,USA,01:03:10,06:19:11,04:46:03,00:06:00,00:06:05,12:20:29
+ironman-los-cabos-20140330.csv,832,Miguel Angel Tinaut,---,---,ESP,01:11:22,05:39:40,---,00:08:04,00:04:24,DNF
+ironman-los-cabos-20140330.csv,833,Roberto Florencia,43,TX,MEX,01:01:04,05:44:39,03:49:37,00:04:41,00:02:05,10:42:06
+ironman-los-cabos-20140330.csv,834,Luis Butron,37,Intl State,MEX,00:58:05,05:24:52,04:03:50,00:03:26,00:01:51,10:32:04
+ironman-los-cabos-20140330.csv,835,Steph Neufeld,34,AB,CAN,01:25:01,05:50:48,03:58:57,00:05:12,00:02:08,11:22:06
+ironman-los-cabos-20140330.csv,836,Humberto Ochoa,42,CA,USA,01:35:25,07:03:13,04:38:14,00:06:05,00:07:38,13:30:35
+ironman-los-cabos-20140330.csv,837,javier arroyo,28,Queretaro,MEX,01:22:00,05:44:08,03:14:45,00:04:56,00:03:54,10:29:43
+ironman-los-cabos-20140330.csv,838,Jaime Vives Torres,---,---,MEX,00:56:57,05:52:27,04:50:08,00:05:20,00:03:48,11:48:40
+ironman-los-cabos-20140330.csv,839,Sean Carline,36,OR,USA,01:12:14,06:15:40,04:28:30,00:06:21,00:06:23,12:09:08
+ironman-los-cabos-20140330.csv,840,Jano Soto,44,---,MEX,00:58:18,05:11:04,03:46:44,00:04:22,00:01:35,10:02:03
+ironman-los-cabos-20140330.csv,841,Arthur Marcondes Ferraz Silva,34,sp,BRA,00:50:26,05:08:32,03:22:23,00:03:03,00:01:29,09:25:53
+ironman-los-cabos-20140330.csv,842,Kerrie Wlad,42,CO,CAN,01:09:20,05:57:04,03:44:43,00:05:07,00:01:18,10:57:32
+ironman-los-cabos-20140330.csv,843,John Krzyminski,26,OH,USA,01:16:42,05:52:16,04:21:22,00:06:57,00:03:15,11:40:32
+ironman-los-cabos-20140330.csv,844,Bob Littrell,56,CA,USA,01:02:47,05:45:06,04:40:47,00:06:49,00:03:21,11:38:50
+ironman-los-cabos-20140330.csv,846,Steven Mudgett,57,TX,USA,00:59:29,05:22:18,03:50:03,00:04:23,00:03:39,10:19:52
+ironman-los-cabos-20140330.csv,847,Pia Scaroni,38,---,USA,01:06:21,05:38:07,04:03:07,00:05:35,00:01:49,10:54:59
+ironman-los-cabos-20140330.csv,849,Alejandro Brito,---,---,MEX,01:20:42,07:07:44,06:21:09,00:15:05,00:06:44,15:11:24
+ironman-los-cabos-20140330.csv,850,Eric Perron,39,VT,USA,01:20:18,---,---,01:05:24,---,DNF
+ironman-los-cabos-20140330.csv,851,Robert Maar,40,IN,USA,01:10:06,05:56:02,05:21:36,00:06:34,00:03:10,12:37:28
+ironman-los-cabos-20140330.csv,852,Joseluis Scerri,40,---,COL,01:16:44,06:21:35,04:19:50,00:06:02,00:02:54,12:07:05
+ironman-los-cabos-20140330.csv,854,Guillermo Montoya,38,Cundinamarca,COL,00:57:45,05:39:35,03:36:36,00:03:16,00:02:19,10:19:31
+ironman-los-cabos-20140330.csv,855,Sarim Ahmed,32,AZ,USA,02:02:13,08:17:27,05:41:08,00:10:13,00:04:05,16:15:06
+ironman-los-cabos-20140330.csv,856,Raul Martes,44,ES,ESP,01:12:32,06:35:41,05:27:04,00:14:48,00:07:50,13:37:55
+ironman-los-cabos-20140330.csv,857,Greg Chiarello,---,GA,USA,01:14:01,06:32:25,05:35:09,00:07:01,00:03:48,13:32:24
+ironman-los-cabos-20140330.csv,859,Lori Gladstone,45,CA,USA,01:16:24,07:08:20,04:48:29,00:07:05,00:06:02,13:26:20
+ironman-los-cabos-20140330.csv,860,Ryan Rehmeier,39,IA,USA,01:05:42,06:01:58,05:10:39,00:10:38,00:07:34,12:36:31
+ironman-los-cabos-20140330.csv,861,Jose Ibanez,---,---,VEN,01:08:05,05:27:30,03:45:43,00:05:12,00:02:14,10:28:44
+ironman-los-cabos-20140330.csv,862,Carmen Centeno,45,Miranda ,VEN,01:21:47,06:26:12,04:20:55,00:09:47,00:03:12,12:21:53
+ironman-los-cabos-20140330.csv,863,Mario Garza,---,---,MEX,01:30:17,07:39:33,04:44:31,00:11:34,00:09:43,14:15:38
+ironman-los-cabos-20140330.csv,864,Ricardo Gallegos Mathey,42,Mexico City,MEX,01:15:32,09:07:43,---,00:08:53,00:16:14,DNF
+ironman-los-cabos-20140330.csv,865,JORGE BOHMER,43,Valle,COL,00:58:50,06:01:39,04:33:46,00:08:04,00:04:37,11:46:56
+ironman-los-cabos-20140330.csv,866,Eduardo Manrique,40,ARGENTINA,ARG,00:59:21,---,---,00:05:40,---,DNF
+ironman-los-cabos-20140330.csv,867,Scott Boyles,48,NC,USA,---,---,---,---,---,DQ
+ironman-los-cabos-20140330.csv,868,Doug Christ,36,CA,USA,01:00:39,05:55:12,---,00:04:53,00:08:15,DNF
+ironman-los-cabos-20140330.csv,869,Sam Cox,54,TN,USA,01:21:50,06:41:38,---,00:08:34,00:08:16,DNF
+ironman-los-cabos-20140330.csv,870,Garth Miller,40,Oxfordshire,AUS,01:29:05,07:32:19,05:57:25,00:10:38,00:08:35,15:18:02
+ironman-los-cabos-20140330.csv,871,Monica Sanchez,41,ES,USA,01:25:14,05:54:21,03:50:45,00:04:32,00:02:16,11:17:08
+ironman-los-cabos-20140330.csv,873,Juan Craveri,45,CABA,ARG,01:16:04,06:32:40,05:30:56,00:07:18,00:08:26,13:35:24
+ironman-los-cabos-20140330.csv,874,Oscar Puentes Gutierrez,---,BS,MEX,01:21:58,06:51:55,05:04:14,00:10:31,00:04:06,13:32:44
+ironman-los-cabos-20140330.csv,875,Andres Rodriguez,42,tabasco,MEX,01:17:49,07:00:43,06:13:46,00:10:13,00:07:18,14:49:49
+ironman-los-cabos-20140330.csv,876,Juan Pablo Cano De Urquidi,25,Durango,MEX,01:06:12,05:15:09,03:24:37,00:03:14,00:02:10,09:51:22
+ironman-los-cabos-20140330.csv,877,Susan Fox,---,OREGON,USA,00:57:51,06:02:44,05:11:53,00:05:55,00:07:37,12:26:00
+ironman-los-cabos-20140330.csv,878,Elizabeth Nyitray,31,GA,DOM,00:59:03,05:51:00,04:13:10,00:04:43,00:01:16,11:09:12
+ironman-los-cabos-20140330.csv,879,Jacques Van Leeuwen,55,Other,NLD,00:56:38,05:38:18,04:02:29,00:04:21,00:03:01,10:44:47
+ironman-los-cabos-20140330.csv,880,Pedro Lopez Martinez,---,---,MEX,01:02:35,06:15:04,05:21:20,00:06:59,00:03:41,12:49:39
+ironman-los-cabos-20140330.csv,881,Martha Lucia Torres Garcia,35,Valle del Cauca,COL,01:04:45,06:13:43,04:14:18,00:06:44,00:07:09,11:46:39
+ironman-los-cabos-20140330.csv,882,Edward Dailey,44,IL,USA,01:19:48,05:51:26,04:24:30,00:05:20,00:03:46,11:44:50
+ironman-los-cabos-20140330.csv,883,Gianmarco Mosto,33,ES,PER,00:47:42,06:06:55,04:13:41,00:05:21,00:03:45,11:17:24
+ironman-los-cabos-20140330.csv,884,Diego Velarde,27,Lima,PER,01:10:51,06:53:01,04:37:36,00:07:50,00:06:12,12:55:30
+ironman-los-cabos-20140330.csv,885,Firas Katabi,40,IL,USA,01:44:11,07:54:16,06:27:04,00:08:31,00:05:51,16:19:53
+ironman-los-cabos-20140330.csv,887,Terrence Harbort,41,QLD,AUS,01:08:48,06:44:12,04:50:52,00:09:48,00:07:39,13:01:19
+ironman-los-cabos-20140330.csv,888,Ricardo Mazzini,28,CA,PER,00:58:19,---,---,00:06:48,---,DNF
+ironman-los-cabos-20140330.csv,889,Gary Gates,54,TX,USA,01:08:05,05:47:47,---,00:06:45,00:04:20,DNF
+ironman-los-cabos-20140330.csv,890,Matthew Mlachak,28,VA,USA,01:00:45,05:34:54,03:44:10,00:04:35,00:01:49,10:26:13
+ironman-los-cabos-20140330.csv,891,Greg Warner,54,CA,USA,00:57:21,06:09:49,04:20:27,00:08:38,00:05:40,11:41:55
+ironman-los-cabos-20140330.csv,892,Alex Rosero,36,valle,COL,00:54:16,06:13:24,04:18:52,00:05:36,00:05:52,11:38:00
+ironman-los-cabos-20140330.csv,893,Pavel Eduardo Tanasescu Catano,39,DISTRITO FEDERAL,MEX,01:23:03,05:54:24,04:51:17,00:09:18,00:05:40,12:23:42
+ironman-los-cabos-20140330.csv,894,Corey Gardiner,30,CO,USA,01:13:04,07:28:03,06:23:58,00:12:16,00:05:29,15:22:50
+ironman-los-cabos-20140330.csv,895,Fernando Villicana,39,---,MEX,01:32:30,07:45:23,05:30:47,00:16:12,00:12:41,15:17:33
+ironman-los-cabos-20140330.csv,896,Gabriel Montoya Bravo Arenas,28,---,PER,01:07:46,06:57:21,05:09:16,00:05:40,00:05:30,13:25:33
+ironman-los-cabos-20140330.csv,898,James Stephenson,44,NY,USA,01:00:04,06:11:08,04:44:53,00:05:21,00:06:07,12:07:33
+ironman-los-cabos-20140330.csv,900,Roy Disney,55,CA,USA,01:16:41,06:51:23,05:46:28,00:07:48,00:03:08,14:05:28
+ironman-los-cabos-20140330.csv,901,Connor Disney,18,CA,USA,01:10:01,05:47:40,04:26:18,00:06:38,00:02:49,11:33:26
+ironman-los-cabos-20140330.csv,906,Mauricio Tena,---,NC,MEX,00:55:27,05:42:31,03:39:32,00:03:50,00:02:53,10:24:13
+ironman-los-cabos-20140330.csv,907,Ramiro De Jesus Piedra,---,---,MEX,01:18:03,06:18:29,05:46:17,00:09:47,00:08:11,13:40:47
+ironman-los-cabos-20140330.csv,909,John Adams,25,TX,USA,01:07:01,06:03:42,05:11:32,00:06:55,00:04:59,12:34:09
+ironman-los-cabos-20140330.csv,910,Philippe Martin,48,London,FRA,01:03:14,05:17:23,03:57:03,00:05:40,00:03:39,10:26:59
+ironman-los-cabos-20140330.csv,911,Samuel Rivera Diaz,---,BCS,MEX,01:12:10,05:54:06,04:24:02,00:04:22,00:04:20,11:39:00
+ironman-los-cabos-20140330.csv,912,Darrell Ollice,---,HA,USA,01:11:11,06:55:29,05:24:07,00:06:07,00:08:03,13:44:57
+ironman-los-cabos-20140330.csv,913,Bruno Fregolente Lazoretti,29,São Paulo,BRA,00:49:12,05:05:53,03:29:51,00:03:13,00:01:52,09:30:01
+ironman-los-cabos-20140330.csv,914,Rigoberto Acevedo Leyva,---,---,MEX,---,---,---,---,---,DQ
+ironman-los-cabos-20140330.csv,915,Alejandra Hay,32,Intl State,MEX,01:04:58,06:51:31,04:31:00,00:07:04,00:03:32,12:38:05
+ironman-los-cabos-20140330.csv,916,Arturo Andrade,44,---,MEX,01:14:26,06:47:15,05:02:00,00:10:12,00:07:23,13:21:16
+ironman-los-cabos-20140330.csv,917,Alejandro Guerrero Azuela,37,Irapuato gto ,MEX,01:03:16,06:04:03,04:12:05,00:04:40,00:03:12,11:27:16
+ironman-los-cabos-20140330.csv,918,Claudia Barboza Gonzalez,47,GUANAJUATO,MEX,01:27:24,06:54:42,04:51:42,00:10:16,00:02:29,13:26:33
+ironman-los-cabos-20140330.csv,919,Wilbert Uribe,---,---,MEX,01:58:52,06:59:02,05:41:28,00:10:22,00:05:08,14:54:52
+ironman-los-cabos-20140330.csv,920,Alejandro Rangel Ziehl,41,---,MEX,01:23:38,08:17:03,05:54:55,00:09:23,00:06:56,15:51:55
+ironman-los-cabos-20140330.csv,921,Ben Coy,29,CA,USA,00:56:49,05:31:33,04:15:39,00:04:24,00:02:14,10:50:39
+ironman-los-cabos-20140330.csv,922,Brad Evans,38,NY,USA,01:27:20,07:16:52,06:09:20,00:13:53,00:14:34,15:21:59
+ironman-los-cabos-20140330.csv,923,Eduardo Castillo Ramirez,49,---,MEX,01:17:48,06:25:58,07:22:14,00:08:08,00:04:35,15:18:43
+ironman-los-cabos-20140330.csv,924,Matthew Madalinski,26,TX,USA,01:05:50,06:15:30,04:03:59,00:10:06,00:05:03,11:40:28
+ironman-los-cabos-20140330.csv,926,Carlos Fernandez Suchil,42,Intl State,MEX,01:06:00,06:31:36,07:15:03,00:08:14,00:12:48,15:13:41
+ironman-los-cabos-20140330.csv,927,Allan Couch,43,TN,USA,01:16:33,05:55:40,05:04:22,00:06:30,00:10:24,12:33:29
+ironman-los-cabos-20140330.csv,929,Mauro Ciarrocchi,50,---,ITA,00:55:37,05:31:02,03:29:12,00:07:25,00:03:12,10:06:28
+ironman-los-cabos-20140330.csv,930,Chris Montross,53,CA,USA,00:54:14,05:27:20,03:48:30,00:06:20,00:03:04,10:19:28
+ironman-los-cabos-20140330.csv,931,Eduardo Gonzalez Rizo,46,guanajuato,MEX,01:20:46,07:10:00,05:31:01,00:12:07,00:06:46,14:20:40
+ironman-los-cabos-20140330.csv,932,Angel Montanez,39,Baja California,MEX,01:14:05,06:47:52,04:54:20,00:10:05,00:06:09,13:12:31
+ironman-los-cabos-20140330.csv,933,Michael Minardi,48,TX,USA,01:02:30,05:18:43,03:46:15,00:05:31,00:03:20,10:16:19
+ironman-los-cabos-20140330.csv,934,Janice Helle,57,AB,CAN,01:12:07,06:51:52,05:11:45,00:05:45,00:02:54,13:24:23
+ironman-los-cabos-20140330.csv,935,Jessica Rangel,33,IL,USA,01:06:24,06:41:47,03:46:46,00:08:21,00:04:37,11:47:55
+ironman-los-cabos-20140330.csv,936,Jim Ryan,---,TX,USA,01:00:08,05:50:14,03:37:56,00:05:01,00:03:32,10:36:51
+ironman-los-cabos-20140330.csv,937,Juan Valencia,34,Antioquia,COL,00:50:21,05:04:33,03:21:20,00:04:11,00:01:36,09:22:01
+ironman-los-cabos-20140330.csv,938,Ross Young,48,TX,USA,01:08:56,05:48:12,05:02:07,00:09:56,00:06:50,12:16:01
+ironman-los-cabos-20140330.csv,939,Lucien Dirksz,45,FL,ABW,01:21:43,06:44:02,07:05:29,00:10:18,00:06:04,15:27:36
+ironman-los-cabos-20140330.csv,940,Luis Alvarez,51,Tlalpan,MEX,01:06:27,07:02:17,06:28:44,00:08:45,00:16:41,15:02:54
+ironman-los-cabos-20140330.csv,941,William Curry,48,PA,USA,01:18:25,07:37:29,06:40:20,00:12:59,00:09:18,15:58:31
+ironman-los-cabos-20140330.csv,942,Walter Arnold,62,FL,USA,01:02:45,06:31:42,05:10:31,00:04:41,00:04:06,12:53:45
+ironman-los-cabos-20140330.csv,943,Guillermo Amezcua,---,GUERRERO,MEX,00:57:19,05:56:33,04:35:02,00:08:09,00:03:45,11:40:48
+ironman-los-cabos-20140330.csv,944,Guadalupe Amezcua Padilla,---,Guerrero,MEX,01:08:00,06:59:07,05:43:09,00:10:39,00:04:18,14:05:13
+ironman-los-cabos-20140330.csv,945,German Madrazo,39,TX,MEX,01:13:06,05:57:39,04:15:59,00:10:32,00:03:11,11:40:27
+ironman-los-cabos-20140330.csv,946,Gaurav Parekh,50,AZ,USA,01:04:21,08:01:41,06:14:51,00:11:55,00:10:41,15:43:29
+ironman-los-cabos-20140330.csv,947,Erik Wilde,46,CA,DEU,01:09:52,05:12:18,04:09:42,00:06:54,00:02:25,10:41:11
+ironman-los-cabos-20140330.csv,948,Eloy Moreno-Padilla,---,---,MEX,01:02:56,06:40:19,05:21:31,00:06:57,00:03:08,13:14:51
+ironman-los-cabos-20140330.csv,949,Jesus Mendez,---,CA,USA,01:49:43,07:43:23,06:11:57,00:07:29,00:09:38,16:02:10
+ironman-los-cabos-20140330.csv,951,Michael Berger,60,GA,USA,01:16:08,06:20:43,04:20:52,00:04:49,00:01:12,12:03:44
+ironman-los-cabos-20140330.csv,952,Jeff Joyner,35,VA,USA,00:57:24,05:10:36,03:39:54,00:03:55,00:01:43,09:53:32
+ironman-los-cabos-20140330.csv,953,Dominic Rohan-Gates,29,---,GBR,01:00:40,05:05:53,03:11:44,00:05:13,00:01:43,09:25:13
+ironman-los-cabos-20140330.csv,954,Kevin Steinbuch,40,CA,USA,01:13:05,06:02:04,04:33:40,00:04:54,00:06:08,11:59:51
+ironman-los-cabos-20140330.csv,955,Manuela Kronenberg,36,CH,CHE,01:11:05,06:10:33,03:57:04,00:03:54,00:01:57,11:24:33
+ironman-los-cabos-20140330.csv,956,Orion Mims,42,NY,USA,01:10:12,06:24:28,04:12:05,00:10:36,00:05:18,12:02:39
+ironman-los-cabos-20140330.csv,957,Roberto Cuella,46,---,USA,01:21:06,06:55:37,05:39:56,00:11:45,00:09:33,14:17:57
+ironman-los-cabos-20140330.csv,958,Brian Wainwright,33,GA,USA,01:16:44,05:39:07,04:25:09,00:07:56,00:02:37,11:31:33
+ironman-los-cabos-20140330.csv,960,Ioannis Kossenas,35,chios,GRC,00:57:29,06:05:11,04:21:15,00:04:23,00:01:24,11:29:42
+ironman-los-cabos-20140330.csv,961,Marco Zamora,---,---,MEX,01:52:50,07:43:15,06:09:23,00:17:59,00:15:40,16:19:07
+ironman-los-cabos-20140330.csv,962,Babette Geer,---,KA,USA,01:45:16,07:22:23,04:17:46,00:14:11,00:13:54,13:53:30
+ironman-los-cabos-20140330.csv,963,Edgardo Pascual Pelaez,---,MO,MEX,01:09:59,06:32:50,04:16:50,00:06:33,00:04:54,12:11:06
+ironman-los-cabos-20140330.csv,964,James Canete,36,CA,USA,01:06:01,06:23:33,06:47:53,00:07:28,00:08:53,14:33:48
+ironman-los-cabos-20140330.csv,965,Lauren Hunt,---,TE,USA,01:19:43,08:27:13,05:40:23,00:09:10,00:09:53,15:46:22
+ironman-los-cabos-20140330.csv,966,Carlos Gutierrez,---,---,MEX,01:34:21,08:12:39,06:30:00,00:15:55,00:05:56,16:38:51
+ironman-los-cabos-20140330.csv,967,Jaime Becerra Sanchez,44,---,MEX,00:57:27,06:44:57,---,00:04:36,00:03:38,DNF
+ironman-los-cabos-20140330.csv,968,Monserrat Morales Lopez,---,---,MEX,01:14:16,07:29:41,---,00:05:57,00:06:28,DNF
+ironman-los-cabos-20140330.csv,969,Tim Sheeper,50,CA,USA,00:53:54,05:07:29,04:21:56,00:04:12,00:03:13,10:30:44
+ironman-los-cabos-20140330.csv,970,Ian Hersey,51,HI,USA,01:06:08,05:43:07,04:51:06,00:04:59,00:03:31,11:48:51
+ironman-los-cabos-20140330.csv,971,Cliff Ward,48,Tokyo-to,JPN,01:20:32,08:12:01,06:14:54,00:13:11,00:08:08,16:08:46
+ironman-los-cabos-20140330.csv,972,Carlos Cervantes,---,DISTRITO FEDERAL,MEX,01:42:07,07:28:20,06:00:32,00:10:25,00:11:34,15:32:58
+ironman-los-cabos-20140330.csv,973,Hugo Macias,26,veracruz ,MEX,01:16:59,06:07:57,04:26:47,00:05:00,00:01:28,11:58:11
+ironman-los-cabos-20140330.csv,974,Jeff Krause,55,OR,USA,01:06:22,05:41:37,03:49:26,00:05:35,00:04:16,10:47:16
+ironman-los-cabos-20140330.csv,975,Alfredo Avila Muñoz,49,CDMX,MEX,---,---,---,---,---,DQ
+ironman-los-cabos-20140330.csv,976,Ariel Fuentes Carrasco,---,---,MEX,01:14:40,07:12:42,---,00:10:56,00:08:29,DNF
+ironman-los-cabos-20140330.csv,977,Christian Schneider,42,---,FRA,01:19:28,06:24:25,05:04:56,00:07:53,00:05:05,13:01:47
+ironman-los-cabos-20140330.csv,978,Armando Soto,---,---,MEX,01:16:39,08:18:00,06:41:14,00:12:37,00:07:28,16:35:58
+ironman-los-cabos-20140330.csv,979,Jonathan Alzate Ramirez,25,valle del cauca,COL,00:57:23,---,---,00:03:23,---,DNF
+ironman-los-cabos-20140330.csv,980,Cristian Salazar,39,SAN JOSE,CRI,---,---,---,---,---,DQ
+ironman-los-cabos-20140330.csv,982,Dean Wescott,52,NY,USA,01:16:41,07:11:08,06:22:00,00:11:25,00:07:20,15:08:34
+ironman-los-cabos-20140330.csv,983,Jose Caso,53,Intl State,MEX,01:54:17,---,---,00:16:36,---,DNF
+ironman-los-cabos-20140330.csv,984,Mario Naranjo,36,---,CRI,00:55:23,05:19:23,03:17:22,00:03:09,00:01:38,09:36:55
+ironman-los-cabos-20140330.csv,985,Alejandro Quiroz Viveros,---,---,MEX,01:28:54,06:57:56,04:57:41,00:12:05,00:05:38,13:42:14
+ironman-los-cabos-20140330.csv,986,Carlos Augusto Salas,32,Intl State,BRA,01:03:23,05:48:11,04:22:04,00:05:15,00:01:58,11:20:51
+ironman-los-cabos-20140330.csv,987,Gean Ivan Dagnino Marquez,38,SINALOA,MEX,01:06:46,06:29:43,04:40:49,00:11:27,00:06:31,12:35:16
+ironman-los-cabos-20140330.csv,988,Felicia Serrano,---,CA,MEX,01:35:07,08:15:37,06:24:17,00:07:38,00:10:00,16:32:39
+ironman-los-cabos-20140330.csv,989,Manuel Gonzalez,41,GUANAJUATO,MEX,01:39:16,07:07:18,04:59:57,00:09:54,00:04:39,14:01:04
+ironman-los-cabos-20140330.csv,990,Giovanni Jimenez,37,Intl State,SLV,01:17:13,06:13:01,05:07:35,00:08:52,00:03:34,12:50:15
+ironman-los-cabos-20140330.csv,991,Daniel Zurek-Toton,28,NY,USA,01:17:51,06:29:36,05:04:13,00:06:54,00:05:22,13:03:56
+ironman-los-cabos-20140330.csv,992,Callie Taylor,---,CA,USA,01:32:03,06:55:39,04:24:32,00:11:35,00:03:16,13:07:05
+ironman-los-cabos-20140330.csv,993,Marc Prudhomme,31,ON,CAN,00:54:15,05:25:31,05:34:40,00:04:56,00:02:28,12:01:50
+ironman-los-cabos-20140330.csv,994,Melissa Kerby,---,AL,CAN,01:26:28,06:58:36,05:29:47,00:07:46,00:03:22,14:05:59
+ironman-los-cabos-20140330.csv,995,Clark Kerby,31,AB,CAN,01:16:41,06:09:35,04:51:33,00:12:04,00:07:48,12:37:41
+ironman-los-cabos-20140330.csv,996,Juan Garay,---,---,MEX,01:30:27,06:34:55,06:30:17,00:16:56,00:08:26,15:01:01
+ironman-los-cabos-20140330.csv,997,Catherine Matsalla,51,AB,CAN,01:06:34,06:19:22,04:23:30,00:05:05,00:02:22,11:56:53
+ironman-los-cabos-20140330.csv,998,Fabrizio Borsato,34,Alagoas,BRA,00:54:26,05:32:50,04:22:53,00:03:54,00:02:51,10:56:54
+ironman-los-cabos-20140330.csv,999,Leigh Ayn Drye,44,LA,USA,01:06:37,06:09:51,---,00:05:56,00:03:20,DNF
+ironman-los-cabos-20140330.csv,1000,Roberto Salinas Rodriguez,41,Sinaloa,MEX,01:15:47,06:26:05,05:22:44,00:12:13,00:10:50,13:27:39
+ironman-los-cabos-20140330.csv,1001,Christopher Brennan,42,NJ,USA,01:19:14,06:48:38,04:51:47,00:24:20,00:12:37,13:36:36
+ironman-los-cabos-20140330.csv,1002,Dominique Navarro,39,MN,USA,01:11:30,07:22:22,05:21:59,00:09:29,00:10:54,14:16:14
+ironman-los-cabos-20140330.csv,1003,Dean Sprague,50,CA,USA,01:02:25,05:55:08,04:28:06,00:04:35,00:02:17,11:32:31
+ironman-los-cabos-20140330.csv,1004,Robert Faithful,---,CA,USA,01:25:32,06:56:30,05:56:47,00:16:05,00:07:15,14:42:09
+ironman-los-cabos-20140330.csv,1005,Romulo Gutierrez,---,---,ECU,01:13:47,05:47:43,03:47:34,00:03:50,00:01:40,10:54:34
+ironman-los-cabos-20140330.csv,1006,Anabel Capalbo,29,CA,USA,00:57:01,05:50:55,04:47:55,00:04:36,00:02:10,11:42:37
+ironman-los-cabos-20140330.csv,1007,Andres Villagran,---,---,ECU,02:21:45,---,14:11:46,---,---,14:11:46
+ironman-los-cabos-20140330.csv,1008,Sabrina Pietroni,34,OH,USA,01:36:22,07:17:39,05:23:13,00:11:27,00:06:11,14:34:52
+ironman-los-cabos-20140330.csv,1010,Ramon Cerna,29,Zapopan,MEX,01:01:47,05:47:23,04:20:56,00:05:41,00:08:33,11:24:20
+ironman-los-cabos-20140330.csv,1011,Jose Leiva,34,CA,USA,01:53:21,---,---,00:08:08,---,DNF
+ironman-los-cabos-20140330.csv,1012,Patrick Mckibbin,25,AB,CAN,01:08:45,06:12:59,05:01:21,00:06:48,00:02:30,12:32:23
+ironman-los-cabos-20140330.csv,1013,Rodrigo Cabeza De Vaca,---,---,MEX,01:13:42,07:12:24,04:25:23,00:12:16,00:10:13,13:13:58
+ironman-los-cabos-20140330.csv,1014,Jeannine Mahoney,41,TX,USA,01:16:59,06:43:10,04:54:39,00:08:37,00:09:30,13:12:55
+ironman-los-cabos-20140330.csv,1015,Edward Shen,---,CA,USA,01:27:29,08:24:53,06:22:59,00:11:07,00:14:18,16:40:46
+ironman-los-cabos-20140330.csv,1016,Ivan Carmona,46,Campeche,MEX,01:31:51,06:28:07,04:51:38,00:11:25,00:07:11,13:10:12
+ironman-los-cabos-20140330.csv,1017,Angelica Baez,43,mexico d.f.,MEX,01:15:38,06:22:19,05:30:35,00:05:26,00:06:25,13:20:23
+ironman-los-cabos-20140330.csv,1018,Julie Anderson,38,AB,CAN,01:04:56,06:07:46,04:19:11,00:04:17,00:01:25,11:37:35
+ironman-los-cabos-20140330.csv,1019,Brandon Henry,59,WA,UMI,01:09:48,06:28:17,04:28:24,00:08:25,00:06:23,12:21:17
+ironman-los-cabos-20140330.csv,1020,Lynnette Richmann,49,AR,FJI,01:23:57,06:45:43,06:10:54,00:10:06,00:11:30,14:42:10
+ironman-los-cabos-20140330.csv,1021,Damon Henry,54,WA,FJI,01:02:09,05:16:04,05:30:17,00:11:11,00:09:52,12:09:33
+ironman-los-cabos-20140330.csv,1022,Luis Alejandro Garcia,---,---,MEX,01:17:13,06:25:57,04:04:19,00:07:26,00:03:56,11:58:51
+ironman-los-cabos-20140330.csv,1023,Armando Espinoza,45,HI,MEX,01:06:21,05:13:49,03:41:03,00:04:50,00:03:04,10:09:07
+ironman-los-cabos-20140330.csv,1024,Robbie Simpson,36,CA,USA,01:09:48,06:06:19,04:19:24,00:08:11,00:06:29,11:50:11
+ironman-los-cabos-20140330.csv,1025,Mike Peterson,40,KS,USA,01:05:14,06:29:43,05:16:38,00:09:42,00:06:44,13:08:01
+ironman-los-cabos-20140330.csv,1026,Carlos Herrera,43,Intl State,MEX,01:18:15,06:31:44,04:43:33,00:05:42,00:03:48,12:43:02
+ironman-los-cabos-20140330.csv,1027,Ronn Remai,55,no importa,MEX,01:25:31,07:43:06,05:23:16,00:11:17,00:04:13,14:47:23
+ironman-los-cabos-20140330.csv,1028,Alfredo Aleman Banos,40,Other,MEX,01:32:58,07:26:33,06:35:46,00:11:48,00:03:48,15:50:53
+ironman-los-cabos-20140330.csv,1029,Guillermo Martinez,38,DF,MEX,01:01:01,06:14:55,04:44:56,00:05:07,00:03:49,12:09:48
+ironman-los-cabos-20140330.csv,1030,Jose Rodolfo Flores Tato,23,Intl State,MEX,01:10:12,06:52:31,---,00:07:48,---,DNF
+ironman-los-cabos-20140330.csv,1031,Luis Hernandez,---,---,MEX,02:04:56,08:03:48,05:57:51,00:10:45,00:11:12,16:28:32
+ironman-los-cabos-20140330.csv,1032,Julien Belliot,27,---,FRA,00:59:15,05:42:12,03:56:56,00:04:35,00:01:33,10:44:31
+ironman-los-cabos-20140330.csv,1033,Isela Garcia,32,la paz,MEX,00:59:15,06:29:04,04:34:33,00:05:34,00:03:25,12:11:51
+ironman-los-cabos-20140330.csv,1034,Alexandre Albuquerque,42,QC,CAN,00:55:22,05:14:38,03:52:49,00:03:03,00:02:32,10:08:24
+ironman-los-cabos-20140330.csv,1035,Rene Bernabe Carrera Herrera,---,---,MEX,01:26:43,08:34:06,06:10:22,00:22:48,00:11:16,16:45:15
+ironman-los-cabos-20140330.csv,1036,Jesus Cota Miranda,---,---,MEX,01:08:06,06:37:39,05:22:52,00:07:28,00:07:51,13:23:56
+ironman-los-cabos-20140330.csv,1037,Jorge Vazquez,---,---,MEX,00:51:26,05:23:09,03:34:36,00:03:24,00:03:59,09:56:34
+ironman-los-cabos-20140330.csv,1038,Jason Ball,41,BC,CAN,01:25:10,05:50:09,04:55:12,00:06:46,00:03:24,12:20:41
+ironman-los-cabos-20140330.csv,1039,Adam Smith,49,MN,USA,01:32:46,07:46:40,07:05:40,00:11:52,00:05:01,16:41:59
+ironman-los-cabos-20140330.csv,1040,Rodolfo Olachea Mendoza,---,B.C.S.,MEX,01:19:41,07:42:43,05:43:52,00:07:21,00:06:23,15:00:00
+ironman-los-cabos-20140330.csv,1041,Elton Olachea Arce,---,---,MEX,01:12:15,07:11:41,05:30:11,00:04:54,00:06:20,14:05:21
+ironman-los-cabos-20140330.csv,1042,Brent Ward,47,CA,USA,01:08:21,06:16:56,05:28:12,00:07:58,00:08:54,13:10:21
+ironman-los-cabos-20140330.csv,1043,Ana Gabriela Riva Palacio,35,distrito federal,MEX,01:07:45,06:11:25,04:01:26,00:04:55,00:01:43,11:27:14
+ironman-los-cabos-20140330.csv,1044,Aldo Ocampo,41,Intl State,MEX,01:20:39,06:28:42,05:07:33,00:13:24,00:09:07,13:19:25
+ironman-los-cabos-20140330.csv,1045,Rosie Munive,46,TX,MEX,02:05:01,07:40:55,06:20:05,00:06:33,00:03:56,16:16:30
+ironman-los-cabos-20140330.csv,1046,Meg Maier,52,MD,USA,01:21:17,07:05:27,06:00:29,00:08:08,00:03:53,14:39:14
+ironman-los-cabos-20140330.csv,1047,Jose Mazariegos,39,CA,MEX,01:20:09,06:57:49,05:20:12,00:12:19,00:06:55,13:57:24
+ironman-los-cabos-20140330.csv,1096,Jose Luis Gallegos Ruiz,44,DISTRITO FEDERAL,MEX,01:11:45,06:59:45,04:53:27,00:07:55,00:06:35,13:19:27
+ironman-los-cabos-20140330.csv,1097,Rodrigo Rubin,38,CA,ARG,---,---,---,---,---,DQ
+ironman-los-cabos-20140330.csv,1098,Paola Ratkovich,---,BCS,MEX,01:17:07,07:34:57,05:31:33,00:08:16,00:06:53,14:38:46
+ironman-los-cabos-20140330.csv,1099,Miriam Ramirez,35,Guanajuato,MEX,01:27:05,06:30:18,04:35:36,00:08:40,00:08:55,12:50:34
+ironman-los-cabos-20140330.csv,1100,Daniel Olivares,36,Quintana roo,MEX,01:24:11,06:29:15,04:25:36,00:11:31,00:09:18,12:39:51
+ironman-los-cabos-20140330.csv,1101,Jenifer Garner,45,AZ,USA,---,---,---,---,---,DNS
+ironman-los-cabos-20140330.csv,1103,Andy Clark,37,FL,USA,01:19:57,07:09:24,04:59:39,00:15:39,00:10:39,13:55:18
+ironman-los-cabos-20140330.csv,1104,Stephen Kukta,48,CA,USA,01:00:05,05:20:43,04:05:57,00:04:43,00:01:56,10:33:24
+ironman-los-cabos-20140330.csv,1105,Richard Hyre,67,TX,USA,01:10:49,06:34:52,---,00:11:33,---,DNF
+ironman-los-cabos-20140330.csv,1107,Joseph Pospichal,51,CA,USA,01:10:49,06:32:52,---,00:13:32,---,DNF
+ironman-los-cabos-20140330.csv,1108,Eric Sarbacker,52,CA,USA,01:13:29,06:01:13,04:50:15,00:04:16,00:01:50,12:11:03
+ironman-los-cabos-20140330.csv,1109,Kevin Grimm,37,CO,USA,01:23:25,07:31:32,05:46:57,00:11:13,00:07:06,15:00:13
+ironman-los-cabos-20140330.csv,1110,Ruben Reachi,---,DF,MEX,01:01:09,06:49:34,05:08:14,00:03:08,00:03:30,13:05:35
+ironman-los-cabos-20140330.csv,1111,Juan Colin,---,BS,MEX,01:05:23,05:57:30,04:13:47,00:05:41,00:02:28,11:24:49
+ironman-los-cabos-20140330.csv,1112,Rafael Sanchez,---,DF,MEX,01:17:17,05:37:14,03:45:32,00:04:50,00:02:13,10:47:06
+ironman-los-cabos-20140330.csv,1113,Juan Carlos Zarzosa,---,DF,MEX,01:20:15,06:51:01,05:27:51,00:07:51,00:05:29,13:52:27
