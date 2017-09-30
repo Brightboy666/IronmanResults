@@ -125,9 +125,16 @@ def outputRaceResults(url):
     try:
         soup = getsoup(url)
         
+
+
         #Race distance/race location/race date!, e.g.
         #ironman-70.3-zell-am-see-kaprun-20150829.csv
-        race = url.split('/')[6] +'-'+ url.split('/')[7]+'-'+ url.split('/')[8].split('=')[1]+".csv"
+        split_url = url.split('/')
+
+        if "inactive" in url:
+            race = split_url[6] +'-'+ split_url[8]+'-'+ split_url[9].split('=')[1]+".csv"
+        else:
+            race = split_url[6] +'-'+ split_url[7]+'-'+ split_url[8].split('=')[1]+".csv"
         
         fileLocation = results_folder + "/" + race
         
@@ -142,28 +149,34 @@ def outputRaceResults(url):
                 print("Empty Race found "+ fileLocation)
                 return
             
-            startBib = max(startBib, maxBibInFile)
+            startBib = max(startBib, maxBibInFile+1)
             
+        if startBib < 2:
+            mode = "wt"
+        else:
+            mode = "at"
         
-        with open(fileLocation, "at") as f:
+        with open(fileLocation, mode) as f:
             writer = csv.writer(f) 
             
             maxBib = 100 #We'll start looking through the first 100 in case the first few numbers aren't assigned.
-            
+            emptyRace = True   
+
             if startBib < 2: #Don't need to add headers as they'll be in there already
                 writer.writerow(["#File="+race])      
                 writer.writerow(['race', 'bib', 'name', 'age', 'state', 'country', 'swimTime', 'bikeTime', 'runTime', 't1Time', 't2time', 'overallTime'])
             else:
+                emptyRace = False
                 maxBib = startBib + 100 #If we're restarting we'll look through the next 100 numbers for more people
             
-                    
-            emptyRace = True        
+                         
             
             try:            
                 #WILL KEEP SEARCHING FOR ATHLETES UNTIL IT FINDS 50 NUMBERS CONSECUTIVELY WHERE THERE
                 #ARE NO RESULTS. NEED TO TEST IF THERE ARE ANY RACES WHERE THE BIBS START ABOVE 50, E.G. AN AMATEUR RACE WITH NO PROS?
                 for i in range(startBib,3500):
                     if i > maxBib:
+                        emptyRace = False
                         break
                     
                     try:
@@ -279,6 +292,6 @@ except:
     pickle.dump(urls, open( "urls.p", "wb" ) )  
 print(urls)
     
-with concurrent.futures.ThreadPoolExecutor(max_workers=1) as pool:
+with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
     for url in urls:
         pool.submit(outputRaceResults, url)    
