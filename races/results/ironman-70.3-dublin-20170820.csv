@@ -1,0 +1,1541 @@
+#File=ironman-70.3-dublin-20170820.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-dublin-20170820.csv,1,Bryan Mccrystal,36,Intl State,IRL,00:27:35,02:03:20,01:21:49,00:03:00,00:03:00,03:58:44
+ironman-70.3-dublin-20170820.csv,3,Fraser Cartmell,35,Intl State,GBR,00:24:23,02:14:32,01:18:17,00:02:59,00:02:40,04:02:51
+ironman-70.3-dublin-20170820.csv,4,David Mcnamee,29,APO,GBR,00:24:15,02:06:40,01:11:42,00:03:00,00:02:37,03:48:14
+ironman-70.3-dublin-20170820.csv,5,Romain Guillaume,32,---,FRA,00:24:20,02:01:51,01:16:34,00:02:59,00:03:00,03:48:44
+ironman-70.3-dublin-20170820.csv,6,Scott Bradley,33,NY,USA,00:30:54,02:13:56,01:25:54,00:03:00,00:03:59,04:17:43
+ironman-70.3-dublin-20170820.csv,8,Matt Burton,29,WA,AUS,00:27:20,02:12:49,01:26:01,00:03:23,00:03:25,04:12:58
+ironman-70.3-dublin-20170820.csv,9,Joris Buyl,32,---,BEL,00:25:33,02:13:30,01:24:23,00:03:03,00:03:11,04:09:40
+ironman-70.3-dublin-20170820.csv,10,Owen Cummins,29,Cork,IRL,00:26:43,02:21:24,01:25:55,00:03:00,00:03:02,04:20:04
+ironman-70.3-dublin-20170820.csv,12,Stephen Donnelly,30,Connacht,IRL,00:30:02,02:21:30,01:22:48,00:02:59,00:03:10,04:20:29
+ironman-70.3-dublin-20170820.csv,14,Sean Donnelly,29,---,POL,00:24:17,02:06:36,01:19:16,00:03:00,00:02:57,03:56:06
+ironman-70.3-dublin-20170820.csv,15,Guillaume Doree,27,---,FRA,00:25:47,02:18:57,01:18:34,00:03:00,00:03:07,04:09:25
+ironman-70.3-dublin-20170820.csv,18,Felipe Manente,28,Intl State,BRA,00:27:22,02:17:29,01:23:45,00:03:00,00:03:21,04:14:57
+ironman-70.3-dublin-20170820.csv,20,Charles Naude,58,---,ZAF,00:24:27,02:30:00,01:24:18,00:03:00,00:04:04,04:25:49
+ironman-70.3-dublin-20170820.csv,24,Elliot Smales,22,---,GBR,00:24:13,02:15:24,01:14:31,00:02:13,00:02:53,03:59:14
+ironman-70.3-dublin-20170820.csv,26,Thomas Vandiest,34,---,BEL,00:27:23,02:17:23,01:16:55,00:03:00,00:02:56,04:07:37
+ironman-70.3-dublin-20170820.csv,28,Robbie Wade,35,CO,IRL,00:26:55,02:12:40,01:19:07,00:02:16,00:03:01,04:03:59
+ironman-70.3-dublin-20170820.csv,29,Eneko Llanos,40,---,IRL,00:25:55,02:12:54,01:20:03,00:03:10,00:03:17,04:05:19
+ironman-70.3-dublin-20170820.csv,30,Susie Cheetham,31,Intl State,GBR,00:28:32,02:23:11,01:28:30,00:02:59,00:03:14,04:26:26
+ironman-70.3-dublin-20170820.csv,31,Lucy Gossage,37,Intl State,---,---,---,---,---,---,DNS
+ironman-70.3-dublin-20170820.csv,32,Aine Donegan,29,Wicklow,IRL,00:32:58,02:25:57,01:31:09,00:02:59,00:03:20,04:36:23
+ironman-70.3-dublin-20170820.csv,33,Emma Deary,29,---,GBR,00:30:54,02:32:34,01:27:25,00:02:59,00:02:48,04:36:40
+ironman-70.3-dublin-20170820.csv,37,Catherine Jameson,32,Intl State,GBR,00:27:01,02:29:11,---,---,00:03:31,DNF
+ironman-70.3-dublin-20170820.csv,39,Sarah Lewis,36,N/A,GBR,00:28:33,02:23:39,01:24:34,00:03:00,00:03:26,04:23:12
+ironman-70.3-dublin-20170820.csv,41,Magdalena Nieuwoudt,27,---,ZAF,00:29:45,02:30:14,01:37:49,00:03:00,00:03:28,04:44:16
+ironman-70.3-dublin-20170820.csv,44,Amanda Wilson,33,VIC,AUS,00:30:55,02:28:45,01:28:42,00:02:59,00:03:23,04:34:44
+ironman-70.3-dublin-20170820.csv,100,Rebecka Harding,29,---,SWE,00:40:24,02:43:31,01:38:57,00:04:22,00:03:47,05:11:01
+ironman-70.3-dublin-20170820.csv,101,Alison Rose-Quirie,56,---,GBR,00:38:42,02:47:44,01:51:40,00:03:59,00:04:10,05:26:15
+ironman-70.3-dublin-20170820.csv,102,Hilary Clare Walker,63,---,GBR,01:14:13,---,---,---,---,DNF
+ironman-70.3-dublin-20170820.csv,103,Michael Birchmore,27,Cornwall,GBR,00:27:35,02:20:01,01:17:12,00:04:21,00:03:10,04:12:19
+ironman-70.3-dublin-20170820.csv,104,Cillian Moffat,25,Dublin,IRL,00:32:21,02:16:08,01:30:27,00:04:21,00:03:10,04:26:27
+ironman-70.3-dublin-20170820.csv,105,Simon Boqvist,30,---,SWE,00:36:25,03:12:57,01:24:54,00:03:26,00:10:21,05:28:03
+ironman-70.3-dublin-20170820.csv,106,Tim Hurst,34,---,GBR,00:30:59,02:22:43,01:28:21,00:04:21,00:07:49,04:34:13
+ironman-70.3-dublin-20170820.csv,107,Massimo Antonelli,37,---,ITA,00:29:26,02:27:43,01:29:31,00:04:21,00:04:24,04:35:25
+ironman-70.3-dublin-20170820.csv,108,Mark Reynolds,36,Mayo,IRL,00:30:10,02:24:58,01:27:38,00:04:21,00:03:16,04:30:23
+ironman-70.3-dublin-20170820.csv,109,William Weymouth,35,Qatar,IRL,00:33:44,02:20:32,01:48:25,00:04:22,00:03:27,04:50:30
+ironman-70.3-dublin-20170820.csv,110,Andrew Hanlon,43,PA,USA,00:33:46,02:29:18,01:41:18,00:04:22,00:05:01,04:53:45
+ironman-70.3-dublin-20170820.csv,111,Garron Mosley,41,Co Tipperary,ZAF,00:28:56,02:17:54,01:24:13,00:04:21,00:03:18,04:18:42
+ironman-70.3-dublin-20170820.csv,112,Owen Martin,44,down,IRL,00:30:23,02:17:06,01:19:14,00:04:22,00:03:24,04:14:29
+ironman-70.3-dublin-20170820.csv,113,Martin Divilly,43,Co. Galway,IRL,00:31:59,02:16:16,01:30:27,00:03:38,00:04:46,04:27:06
+ironman-70.3-dublin-20170820.csv,115,Scott Tompkins,48,CA,USA,00:31:42,03:31:45,01:34:07,00:04:21,00:05:50,05:47:45
+ironman-70.3-dublin-20170820.csv,116,Gareth Morgan,48,Dublin,IRL,00:40:54,02:26:01,01:45:34,00:03:21,00:05:37,05:01:27
+ironman-70.3-dublin-20170820.csv,117,Peter Lloyd,51,---,GBR,00:35:16,02:26:58,01:52:19,00:04:21,00:04:21,05:03:15
+ironman-70.3-dublin-20170820.csv,119,Xabier Tijero,25,---,ESP,00:27:01,02:21:24,01:19:14,00:04:22,00:03:27,04:15:28
+ironman-70.3-dublin-20170820.csv,120,Aileen Flynn,41,Dublin,IRL,00:35:27,02:29:31,01:33:03,00:03:12,00:03:29,04:44:42
+ironman-70.3-dublin-20170820.csv,121,Tom Ward,41,Glos,GBR,00:27:29,02:21:23,01:22:12,00:03:31,00:03:21,04:17:56
+ironman-70.3-dublin-20170820.csv,122,Jane Hansom,48,---,GBR,00:31:22,02:35:43,01:39:27,00:03:24,00:03:39,04:53:35
+ironman-70.3-dublin-20170820.csv,123,David Sheridan,31,longford,IRL,00:25:56,02:20:25,01:29:33,00:04:22,00:03:34,04:23:50
+ironman-70.3-dublin-20170820.csv,129,Katie Jayne Mcgregor,30,West Sussex,GBR,00:32:48,02:49:18,01:36:52,00:04:21,00:03:40,05:06:59
+ironman-70.3-dublin-20170820.csv,130,Deirdre Casey,34,DXB,IRL,00:27:57,---,---,---,---,DNF
+ironman-70.3-dublin-20170820.csv,131,Annette Burrows,45,---,GBR,00:37:41,02:55:27,02:13:09,00:04:22,00:06:48,05:57:27
+ironman-70.3-dublin-20170820.csv,132,Martine Hofer,56,---,FRA,00:39:02,02:51:22,02:07:36,00:07:35,00:05:11,05:50:46
+ironman-70.3-dublin-20170820.csv,133,Thomas Garbett,20,Shropshire,GBR,00:28:09,02:21:50,01:26:25,00:04:21,00:03:22,04:24:07
+ironman-70.3-dublin-20170820.csv,134,Casper Moodie,29,---,ZAF,00:27:41,02:20:14,01:31:35,00:04:22,00:03:44,04:27:36
+ironman-70.3-dublin-20170820.csv,136,Stephen Knight,28,Northumberland,GBR,00:30:32,02:21:50,01:38:16,00:04:22,00:03:25,04:38:25
+ironman-70.3-dublin-20170820.csv,138,Eoin Gallagher,31,Co. Dublin,IRL,00:31:57,02:28:27,01:25:35,00:04:22,00:03:06,04:33:27
+ironman-70.3-dublin-20170820.csv,139,Kevin Cassidy,30,ireland,IRL,00:31:10,02:29:35,01:43:44,00:04:21,00:04:07,04:52:57
+ironman-70.3-dublin-20170820.csv,141,Brian Roser,29,CA,USA,00:38:10,02:37:00,02:08:41,00:08:33,00:06:35,05:38:59
+ironman-70.3-dublin-20170820.csv,142,Jonathan Daly,34,Galway,IRL,00:31:24,02:25:47,01:35:04,00:04:21,00:08:47,04:45:23
+ironman-70.3-dublin-20170820.csv,143,Dean Bowen,34,United Kingdom,AUS,00:32:14,02:15:30,01:20:16,00:04:21,00:03:23,04:15:44
+ironman-70.3-dublin-20170820.csv,144,R-J Green,31,---,ZAF,00:35:35,02:39:50,01:57:51,00:04:22,00:04:32,05:22:10
+ironman-70.3-dublin-20170820.csv,145,Ivan Sheridan,36,Ireland,IRL,00:32:45,02:29:29,01:25:16,00:04:21,00:03:34,04:35:25
+ironman-70.3-dublin-20170820.csv,146,Jürg Sigrist,37,---,CHE,00:31:13,02:21:22,01:27:09,00:03:34,00:03:35,04:26:53
+ironman-70.3-dublin-20170820.csv,147,Andrew Kinane,37,Meath,IRL,00:31:10,02:23:33,01:21:22,00:04:21,00:07:48,04:28:14
+ironman-70.3-dublin-20170820.csv,149,Andrew Cole,35,---,GBR,00:29:41,02:34:03,01:34:34,00:04:30,00:03:15,04:46:03
+ironman-70.3-dublin-20170820.csv,150,Yann Rohrer,38,---,CHE,00:32:32,02:34:53,01:29:22,00:04:21,00:03:35,04:44:43
+ironman-70.3-dublin-20170820.csv,151,Eamonn Dwane,36,---,IRL,00:40:48,02:26:06,01:35:17,00:04:21,00:03:35,04:50:07
+ironman-70.3-dublin-20170820.csv,152,Olivier Oullié,43,---,FRA,00:29:06,02:30:59,01:29:30,00:04:21,00:04:14,04:38:10
+ironman-70.3-dublin-20170820.csv,154,Kevin Synott,40,Clare,IRL,00:35:13,02:33:39,01:36:40,00:04:08,00:06:23,04:56:03
+ironman-70.3-dublin-20170820.csv,155,Justin Dutton,41,Wicklow,IRL,00:33:22,02:24:52,01:28:25,00:04:22,00:03:51,04:34:52
+ironman-70.3-dublin-20170820.csv,156,Ruaidhri Gerarghty,41,Galway,IRL,00:30:30,02:15:23,01:27:04,00:04:22,00:03:55,04:21:14
+ironman-70.3-dublin-20170820.csv,157,Conor Barry,44,Co Dublin,IRL,00:33:37,02:37:00,01:36:26,00:04:22,00:04:25,04:55:50
+ironman-70.3-dublin-20170820.csv,158,Sean Barry,43,Dublin,IRL,00:34:50,02:20:49,01:23:28,00:03:10,00:04:30,04:26:47
+ironman-70.3-dublin-20170820.csv,159,Nigel Travers,39,WA,IRL,00:33:00,02:39:43,01:49:49,00:06:29,00:04:36,05:13:37
+ironman-70.3-dublin-20170820.csv,160,Lewis Waterworth,43,---,IRL,00:33:27,02:24:27,01:39:25,00:04:22,00:08:45,04:50:26
+ironman-70.3-dublin-20170820.csv,161,John Woods,44,Dublin,IRL,00:28:13,02:31:30,---,---,---,DNF
+ironman-70.3-dublin-20170820.csv,163,Paul Bryson,42,County Antrim ,GBR,00:39:24,02:26:51,01:33:33,00:04:22,00:03:28,04:47:38
+ironman-70.3-dublin-20170820.csv,165,Philippe Carré,49,---,FRA,00:33:09,---,---,---,---,DNF
+ironman-70.3-dublin-20170820.csv,166,Christophe Duval-Kieffer,48,London,FRA,00:33:09,02:59:22,01:32:11,00:04:21,00:04:42,05:13:45
+ironman-70.3-dublin-20170820.csv,167,Des Mcmanus,47,United Kingdom,IRL,00:32:38,02:28:51,01:28:49,00:04:21,00:03:56,04:38:35
+ironman-70.3-dublin-20170820.csv,168,Michael Rowe,49,---,IRL,00:33:40,02:55:29,01:43:14,00:05:22,00:03:52,05:21:37
+ironman-70.3-dublin-20170820.csv,169,Craig Bright,52,England,AUS,00:43:29,02:39:18,02:05:12,00:09:17,00:09:05,05:46:21
+ironman-70.3-dublin-20170820.csv,170,Paul Slone,50,lancashire,GBR,00:34:31,02:29:55,01:37:27,00:04:21,00:04:36,04:50:50
+ironman-70.3-dublin-20170820.csv,171,Martin Johannes Schwarz,50,---,DEU,00:34:21,02:31:00,01:46:30,00:04:42,00:10:26,05:06:59
+ironman-70.3-dublin-20170820.csv,172,Charles Collins,57,Intl State,GBR,00:38:40,02:43:11,01:50:31,00:04:21,00:04:21,05:21:04
+ironman-70.3-dublin-20170820.csv,174,Jahna Rinaldi,47,CA,USA,00:44:46,03:04:44,02:18:14,00:10:10,00:06:54,06:24:48
+ironman-70.3-dublin-20170820.csv,175,Craig Richardson,45,Kerry,AUS,00:42:05,02:29:03,01:30:49,00:04:22,00:04:19,04:50:38
+ironman-70.3-dublin-20170820.csv,176,Ivan Eustace,43,Ireland,IRL,00:31:46,02:24:47,01:32:53,00:02:48,00:03:15,04:35:29
+ironman-70.3-dublin-20170820.csv,177,Mark Binding,38,Merthyr Tydfil,GBR,00:34:45,02:26:05,01:39:30,00:04:22,00:04:47,04:49:29
+ironman-70.3-dublin-20170820.csv,183,Catherine Sands,25,Down,IRL,00:32:12,02:32:37,01:44:33,00:04:22,00:03:28,04:57:12
+ironman-70.3-dublin-20170820.csv,185,Jacqui Dunphy,39,dublin,IRL,00:36:49,02:51:43,---,00:05:12,00:07:10,DNF
+ironman-70.3-dublin-20170820.csv,186,Aoife Horgan,37,WA,IRL,00:39:29,03:07:20,02:08:03,00:04:21,00:06:44,06:05:57
+ironman-70.3-dublin-20170820.csv,187,Annemarie Power,44,Cork,IRL,00:32:55,02:38:01,01:40:39,00:04:21,00:04:23,05:00:19
+ironman-70.3-dublin-20170820.csv,188,Norma Edge,44,CA,USA,00:44:28,02:50:30,01:53:44,00:06:08,00:05:19,05:40:09
+ironman-70.3-dublin-20170820.csv,189,Sharon Molloy,48,NSW,AUS,00:44:35,02:57:29,01:50:37,00:04:56,00:05:37,05:43:14
+ironman-70.3-dublin-20170820.csv,190,Heather Doucette,49,NS,CAN,00:30:36,02:38:59,01:56:40,00:04:22,00:04:08,05:14:45
+ironman-70.3-dublin-20170820.csv,191,Martina Pflocksch,51,---,DEU,00:41:23,03:19:46,02:48:17,00:04:22,00:07:33,07:01:21
+ironman-70.3-dublin-20170820.csv,192,Travis Richings,29,---,GBR,00:30:10,02:39:18,01:37:41,00:04:21,00:04:56,04:56:26
+ironman-70.3-dublin-20170820.csv,193,Andres Martinez,27,---,ESP,00:34:00,02:23:56,01:32:48,00:04:22,00:03:32,04:38:38
+ironman-70.3-dublin-20170820.csv,194,Diarmuid O Conchubhair,32,Galway,IRL,00:38:33,02:27:36,01:39:44,00:04:21,00:04:18,04:54:32
+ironman-70.3-dublin-20170820.csv,195,Edward Kelly,34,Waterford,IRL,00:37:08,02:28:02,01:44:45,00:04:21,00:04:44,04:59:00
+ironman-70.3-dublin-20170820.csv,196,William Neary,32,NSW,IRL,00:33:53,02:35:57,---,---,00:04:06,DNF
+ironman-70.3-dublin-20170820.csv,197,Marco Marini,31,Dublin,ITA,00:32:48,02:32:09,01:36:05,00:04:26,00:03:52,04:49:20
+ironman-70.3-dublin-20170820.csv,198,Stephen Lee,32,Ireland,IRL,00:43:54,02:51:10,01:55:19,00:06:35,00:05:55,05:42:53
+ironman-70.3-dublin-20170820.csv,199,Hugh O'Malley,32,Mayo,IRL,00:38:24,02:44:07,01:35:17,00:04:22,00:04:08,05:06:18
+ironman-70.3-dublin-20170820.csv,200,Brian Jacob,33,Waterford,IRL,00:34:05,02:25:20,01:32:24,00:04:22,00:03:18,04:39:29
+ironman-70.3-dublin-20170820.csv,202,Vidar Hansen,37,---,NOR,00:33:30,02:30:45,01:40:55,00:04:21,00:05:46,04:55:17
+ironman-70.3-dublin-20170820.csv,203,Eoin Jackson,37,Clare,IRL,00:35:38,02:29:01,01:43:59,00:04:22,00:04:15,04:57:15
+ironman-70.3-dublin-20170820.csv,204,Danny Freeman,39,GA,USA,00:36:13,02:42:43,01:55:43,00:04:21,00:04:52,05:23:52
+ironman-70.3-dublin-20170820.csv,205,Niall O'Reilly,35,Kildare,IRL,00:35:12,02:36:55,01:32:40,00:04:22,00:03:19,04:52:28
+ironman-70.3-dublin-20170820.csv,206,Ronan Mccabe,35,Cavan,IRL,00:42:58,02:26:57,01:29:45,00:04:11,00:04:04,04:47:55
+ironman-70.3-dublin-20170820.csv,207,Niall Lalor,37,Louth,IRL,00:30:19,02:26:14,01:38:50,00:04:22,00:03:09,04:42:54
+ironman-70.3-dublin-20170820.csv,208,Peter Brook,36,---,GBR,00:32:24,02:13:26,01:20:36,00:04:10,00:03:10,04:13:46
+ironman-70.3-dublin-20170820.csv,209,Rafal Poniewierski,39,---,POL,00:40:03,02:35:23,01:40:37,00:04:40,00:07:04,05:07:47
+ironman-70.3-dublin-20170820.csv,210,Lionel Roye,39,---,FRA,00:28:19,02:19:41,01:16:20,00:04:21,00:03:33,04:12:14
+ironman-70.3-dublin-20170820.csv,211,Brian Mcgrath,36,Ireland,IRL,00:46:29,02:32:07,02:07:45,00:05:32,00:05:55,05:37:48
+ironman-70.3-dublin-20170820.csv,212,Shane Walsh,38,Waterford,IRL,00:36:39,02:32:50,01:41:46,00:04:32,00:05:45,05:01:32
+ironman-70.3-dublin-20170820.csv,213,Cillian Ryan,34,---,IRL,00:37:36,02:45:53,02:09:05,00:04:21,00:06:04,05:42:59
+ironman-70.3-dublin-20170820.csv,214,Conor Quinn,36,dublin,IRL,00:33:23,02:20:21,01:40:25,00:04:21,00:04:52,04:43:22
+ironman-70.3-dublin-20170820.csv,215,John Joseph Quinn,38,Isle of Man,IRL,00:37:58,02:27:43,01:45:38,00:04:21,00:04:46,05:00:26
+ironman-70.3-dublin-20170820.csv,216,Alex Kronenberg,37,PA,BMU,00:34:39,02:28:31,01:41:37,00:04:21,00:03:58,04:53:06
+ironman-70.3-dublin-20170820.csv,217,Des Mullett,35,Wexford,IRL,00:34:01,02:30:29,01:38:54,00:04:21,00:03:32,04:51:17
+ironman-70.3-dublin-20170820.csv,218,Jonathan Hargrave,36,Wiltshire,GBR,00:39:32,02:55:20,01:50:18,00:06:33,00:05:29,05:37:12
+ironman-70.3-dublin-20170820.csv,221,Ross Crombie,40,---,GBR,00:40:18,02:51:03,01:35:01,00:04:22,00:05:58,05:16:42
+ironman-70.3-dublin-20170820.csv,222,Patrick O'Neill,42,Longford,IRL,00:36:53,02:33:09,01:58:43,00:04:21,00:04:48,05:17:54
+ironman-70.3-dublin-20170820.csv,223,Eddie Kieran,42,Louth,IRL,00:37:53,02:35:19,01:56:38,00:04:54,00:06:18,05:21:02
+ironman-70.3-dublin-20170820.csv,224,Jerome Jj Jones,42,Derbyshire,GBR,00:33:55,02:29:49,01:42:00,00:04:21,00:03:17,04:53:22
+ironman-70.3-dublin-20170820.csv,225,Jason Corbett,39,Dublin,IRL,00:37:24,02:23:57,01:43:50,00:03:30,00:03:22,04:52:03
+ironman-70.3-dublin-20170820.csv,226,Robert Nagy,40,Co. Dublin,IRL,00:42:32,02:33:36,01:48:03,00:07:08,00:06:48,05:18:07
+ironman-70.3-dublin-20170820.csv,227,Kevin Mccarthy,44,Cork,IRL,00:37:49,02:44:34,02:01:51,00:04:21,00:09:23,05:37:58
+ironman-70.3-dublin-20170820.csv,228,Mike Wyley,44,Select --Dublin,IRL,00:38:21,02:36:06,01:49:32,00:04:21,00:04:27,05:12:47
+ironman-70.3-dublin-20170820.csv,229,Barry Clarke,44,Dublin,IRL,00:43:33,02:35:00,01:52:21,00:06:41,00:06:09,05:23:44
+ironman-70.3-dublin-20170820.csv,230,Stephen Butler,40,Waterford,IRL,00:41:39,02:31:01,01:31:10,00:04:20,00:04:30,04:52:40
+ironman-70.3-dublin-20170820.csv,231,Glyn Tallon,44,county meath,IRL,00:42:32,---,---,---,---,DNF
+ironman-70.3-dublin-20170820.csv,232,Lucas Westberg,43,C.A.B.A.,ARG,00:49:37,02:48:25,01:51:07,00:06:16,00:04:16,05:39:41
+ironman-70.3-dublin-20170820.csv,233,Zhi Qi,45,hebei,CHN,00:39:41,03:02:32,02:19:08,00:04:21,00:08:37,06:14:19
+ironman-70.3-dublin-20170820.csv,234,Vincent Cantet,47,---,FRA,00:33:20,02:25:26,01:38:56,00:04:22,00:04:43,04:46:47
+ironman-70.3-dublin-20170820.csv,235,Steve Hobson,48,Surrey,GBR,00:30:12,02:27:42,01:43:19,00:04:22,00:05:47,04:51:22
+ironman-70.3-dublin-20170820.csv,236,Jim O' Brien,45,Waterford,IRL,00:42:19,02:38:05,01:45:26,00:05:15,00:05:57,05:17:02
+ironman-70.3-dublin-20170820.csv,237,Jeremy Richardson,46,---,GBR,00:40:52,02:31:50,01:55:48,00:06:43,00:05:42,05:20:55
+ironman-70.3-dublin-20170820.csv,238,Alan Hardy,48,dublin,IRL,00:32:12,02:36:34,01:44:42,00:04:38,00:03:40,05:01:46
+ironman-70.3-dublin-20170820.csv,239,Seamus O'Keeffe,56,Galway,IRL,00:40:28,02:42:45,01:48:03,00:04:43,00:04:43,05:20:42
+ironman-70.3-dublin-20170820.csv,240,Conrad Wiser,67,CO,USA,00:47:19,03:09:59,02:54:40,00:09:28,00:09:54,07:11:20
+ironman-70.3-dublin-20170820.csv,241,Mark Rinaldi,50,CA,USA,00:43:39,03:05:24,02:23:57,00:09:39,00:06:10,06:28:49
+ironman-70.3-dublin-20170820.csv,242,Brendan Buck,42,Ireland,IRL,00:31:51,02:17:49,01:29:28,00:04:22,00:03:03,04:26:33
+ironman-70.3-dublin-20170820.csv,243,Domnick Sharkey,27,Donegal,IRL,00:35:38,02:31:45,01:37:01,00:04:21,00:03:35,04:52:20
+ironman-70.3-dublin-20170820.csv,244,David Gonzalez Cano,33,---,ESP,00:37:50,02:45:20,01:42:50,00:04:21,00:06:03,05:16:24
+ironman-70.3-dublin-20170820.csv,245,Michael Keogh,35,Dublin ,IRL,00:34:28,02:30:55,01:32:59,00:04:22,00:03:15,04:45:59
+ironman-70.3-dublin-20170820.csv,257,Pamela Doyle,33,Dublin 24,IRL,00:47:21,03:32:44,02:46:03,00:08:42,00:12:14,07:27:04
+ironman-70.3-dublin-20170820.csv,258,Mairead Mcmorrow,29,Leinster,IRL,00:41:48,03:11:14,02:00:43,00:08:19,00:07:54,06:09:58
+ironman-70.3-dublin-20170820.csv,259,Fiadhna Mcmonagle,31,dublin,IRL,00:47:08,03:23:25,02:09:23,00:06:57,00:05:52,06:32:45
+ironman-70.3-dublin-20170820.csv,260,Edel Murphy,36,Co Kildare,IRL,00:40:57,03:21:43,02:29:06,00:04:22,00:05:06,06:41:14
+ironman-70.3-dublin-20170820.csv,262,Sinead Graham,36,Kildare,IRL,00:44:11,02:56:35,01:48:13,00:06:21,00:07:45,05:43:05
+ironman-70.3-dublin-20170820.csv,263,Aine Magee,38,Dublin,IRL,00:40:26,03:11:24,02:16:04,00:07:38,00:06:10,06:21:42
+ironman-70.3-dublin-20170820.csv,264,Lorraine Naughton,39,Westmeath,IRL,00:31:54,02:56:45,02:00:30,00:04:22,00:05:05,05:38:36
+ironman-70.3-dublin-20170820.csv,265,Niamh Oman,40,BÁC 24,IRL,00:40:44,03:37:51,03:17:11,00:05:42,00:08:30,07:49:58
+ironman-70.3-dublin-20170820.csv,267,Paul Doheny,32,Dublin,IRL,00:41:03,02:33:25,01:40:06,00:05:18,00:04:10,05:04:02
+ironman-70.3-dublin-20170820.csv,268,Michael Noonan,31,Tipperary,IRL,00:41:22,02:48:25,01:50:39,00:05:08,00:05:31,05:31:05
+ironman-70.3-dublin-20170820.csv,269,Stephen Kavanagh,33,Dublin 6W,IRL,00:37:39,02:51:46,02:01:28,00:06:07,00:06:58,05:43:58
+ironman-70.3-dublin-20170820.csv,270,Brian Conroy,33,Co  Wicklow,IRL,00:41:08,02:31:35,01:46:01,00:04:55,00:03:57,05:07:36
+ironman-70.3-dublin-20170820.csv,271,Joey Marrinan,36,Dublin,IRL,00:47:55,02:54:07,01:42:29,00:06:27,00:06:40,05:37:38
+ironman-70.3-dublin-20170820.csv,272,Brian Mcauley,37,Dublin 24,IRL,00:39:53,02:51:37,02:02:53,00:06:41,00:06:47,05:47:51
+ironman-70.3-dublin-20170820.csv,273,Michael Early,35,Waterford,IRL,00:37:23,---,---,00:06:52,---,DNF
+ironman-70.3-dublin-20170820.csv,274,Stuart Carrick,38,Ireland,IRL,00:42:19,02:44:07,02:00:18,00:06:04,00:04:57,05:37:45
+ironman-70.3-dublin-20170820.csv,275,John Gilbert,35,Dublin,IRL,00:34:48,02:35:58,01:28:56,00:04:22,00:03:44,04:47:48
+ironman-70.3-dublin-20170820.csv,276,Nigel Elliott,34,Dublin,IRL,00:39:30,02:32:28,01:53:26,00:05:58,00:05:56,05:17:18
+ironman-70.3-dublin-20170820.csv,277,Mieszko Stradomski,38,Dublin,IRL,00:36:32,02:42:06,01:50:45,00:04:22,00:05:58,05:19:43
+ironman-70.3-dublin-20170820.csv,278,Jonny Mercier,38,Dublin,IRL,00:43:17,02:35:45,02:08:41,00:04:21,00:06:23,05:38:27
+ironman-70.3-dublin-20170820.csv,279,Michael Gonda,39,Dublin,IRL,00:47:46,02:39:53,01:50:09,00:06:09,00:04:30,05:28:27
+ironman-70.3-dublin-20170820.csv,281,Hugh Byrne,44,---,IRL,00:40:09,02:47:09,01:51:56,00:04:22,00:04:23,05:27:59
+ironman-70.3-dublin-20170820.csv,282,John O' Donnell,40,Co Dublin,IRL,00:39:05,02:37:20,01:34:45,00:04:21,00:04:10,04:59:41
+ironman-70.3-dublin-20170820.csv,283,Flavius Marcoi,42,Dublin,IRL,00:36:49,02:36:29,01:43:09,00:04:21,00:03:58,05:04:46
+ironman-70.3-dublin-20170820.csv,284,David O'Brien,43,Dublin,IRL,00:39:03,02:24:45,01:43:02,00:04:22,00:04:24,04:55:36
+ironman-70.3-dublin-20170820.csv,285,Ken Byrne,43,Co Kildare,IRL,00:45:12,03:46:21,03:21:43,00:17:57,00:11:31,08:22:44
+ironman-70.3-dublin-20170820.csv,286,Niall Connaughton,40,Dublin,IRL,00:40:02,02:30:39,02:03:00,00:06:06,00:04:31,05:24:18
+ironman-70.3-dublin-20170820.csv,287,Wilben Tonacao,42,dublin,IRL,00:47:56,03:01:33,02:18:15,00:07:31,00:05:03,06:20:18
+ironman-70.3-dublin-20170820.csv,288,Darren Kearney,45,Ireland,IRL,00:42:05,02:48:59,02:29:54,00:08:26,00:05:05,06:14:29
+ironman-70.3-dublin-20170820.csv,289,Brian Power,45,Dublin,IRL,00:46:59,02:41:37,02:01:32,00:07:57,00:05:26,05:43:31
+ironman-70.3-dublin-20170820.csv,291,John Kirwan,53,Dublin,IRL,00:42:25,02:41:54,01:51:12,00:06:00,00:05:35,05:27:06
+ironman-70.3-dublin-20170820.csv,292,Eamon Macfhionnlaoich,51,Dublin,IRL,00:40:43,02:50:28,01:49:33,00:04:41,00:06:56,05:32:21
+ironman-70.3-dublin-20170820.csv,294,Gary Moralee,60,Dublin,IRL,00:49:59,03:07:27,02:05:32,00:13:14,00:06:48,06:23:00
+ironman-70.3-dublin-20170820.csv,295,Trish Campion,39,Kilkenny,IRL,00:59:37,03:18:53,01:55:27,00:07:14,00:07:51,06:29:02
+ironman-70.3-dublin-20170820.csv,296,Sinead Foley,36,Kilkenny,IRL,00:37:56,02:43:39,01:52:15,00:04:21,00:04:36,05:22:47
+ironman-70.3-dublin-20170820.csv,297,Niamh Mccullagh,41,Kilkenny,IRL,00:44:18,03:19:36,02:22:42,00:06:04,00:07:26,06:40:06
+ironman-70.3-dublin-20170820.csv,298,Marie Slattery,41,County Kilkenny,IRL,00:45:54,02:51:24,01:56:17,00:07:35,00:05:12,05:46:22
+ironman-70.3-dublin-20170820.csv,299,Una Byrne,43,Kilkenny,IRL,00:39:22,03:03:03,02:07:38,00:05:40,00:05:42,06:01:25
+ironman-70.3-dublin-20170820.csv,300,Sandra Connolly,46,Kilkenny,IRL,00:46:07,03:12:10,02:05:32,00:06:57,00:08:07,06:18:53
+ironman-70.3-dublin-20170820.csv,301,Jason Ayton,29,APO,IRL,00:40:46,03:09:18,02:28:30,00:04:22,00:06:08,06:29:04
+ironman-70.3-dublin-20170820.csv,302,Ray Lonergan,33,Leinster,IRL,00:42:19,02:26:47,01:27:50,00:04:21,00:03:31,04:44:48
+ironman-70.3-dublin-20170820.csv,303,Derek Feehan,31,kilkenny,IRL,00:37:41,02:27:58,01:37:17,00:04:21,00:04:01,04:51:18
+ironman-70.3-dublin-20170820.csv,304,Michael Ryan,30,Kilkenny,IRL,00:35:36,02:25:13,01:36:04,00:04:22,00:03:44,04:44:59
+ironman-70.3-dublin-20170820.csv,305,Dara Fahy,38,Kilkenny,IRL,00:38:48,02:51:48,02:07:25,00:04:21,00:05:22,05:47:44
+ironman-70.3-dublin-20170820.csv,306,Paul Flood,35,Kilkenny,IRL,00:46:00,02:41:35,01:42:20,00:04:44,00:04:39,05:19:18
+ironman-70.3-dublin-20170820.csv,307,Eoin Jordan,39,Carlow,IRL,00:40:28,02:45:55,01:53:20,00:06:11,00:04:47,05:30:41
+ironman-70.3-dublin-20170820.csv,308,Gerard Galvin,37,Co.kilkenny,IRL,00:42:54,02:54:24,01:56:25,00:07:00,00:08:31,05:49:14
+ironman-70.3-dublin-20170820.csv,309,Michael Cantwell,35,Kilkenny,IRL,00:52:48,03:23:30,02:10:11,00:07:41,00:07:15,06:41:25
+ironman-70.3-dublin-20170820.csv,310,Tony Kelly,44,kilkenny,IRL,00:45:37,02:55:24,01:57:35,00:06:53,00:05:00,05:50:29
+ironman-70.3-dublin-20170820.csv,311,Mervin Doyle,43,Kilkenny,IRL,00:44:09,03:06:56,01:45:37,00:07:49,00:05:02,05:49:33
+ironman-70.3-dublin-20170820.csv,312,Mick Jordan,44,Carlow,IRL,00:38:53,02:46:27,01:58:32,00:07:47,00:06:08,05:37:47
+ironman-70.3-dublin-20170820.csv,313,Sean Manicle,40,Co. Kilkenny,IRL,00:37:19,02:40:57,01:55:15,00:05:35,00:04:16,05:23:22
+ironman-70.3-dublin-20170820.csv,314,Dinny Brennan,48,Co. Kilkenny,IRL,00:43:08,02:32:38,01:47:39,00:04:44,00:06:18,05:14:27
+ironman-70.3-dublin-20170820.csv,315,Thomas Marry,49,Kilkenny,IRL,00:43:43,02:55:13,02:27:10,00:04:22,00:06:44,06:17:12
+ironman-70.3-dublin-20170820.csv,316,Denzell Balfour,47,Kilkenny,IRL,00:40:23,02:44:41,01:53:28,00:04:50,00:04:01,05:27:23
+ironman-70.3-dublin-20170820.csv,317,George Sherwood,46,Kilkenny,IRL,00:35:56,02:31:48,01:32:38,00:04:21,00:05:04,04:49:47
+ironman-70.3-dublin-20170820.csv,318,David Devine,46,Kilkenny,IRL,00:51:07,03:09:24,01:50:42,00:09:07,00:08:59,06:09:19
+ironman-70.3-dublin-20170820.csv,319,Robert Cowley,47,KK,IRL,00:39:37,02:43:47,---,00:06:13,---,DNF
+ironman-70.3-dublin-20170820.csv,320,Alan Mahon,44,Kildare ,IRL,00:39:47,02:41:16,01:38:00,00:05:58,00:05:50,05:10:51
+ironman-70.3-dublin-20170820.csv,321,Patrick Kealy,44,Kilkenny,IRL,00:41:10,02:54:25,02:02:27,00:07:17,00:06:43,05:52:02
+ironman-70.3-dublin-20170820.csv,322,John Walshe,50,kilkenny,IRL,00:48:42,03:07:16,01:59:24,00:05:36,00:06:55,06:07:53
+ironman-70.3-dublin-20170820.csv,323,Eamonn Grace,51,Kilkenny,IRL,00:45:21,02:49:28,02:02:24,00:07:04,00:06:08,05:50:25
+ironman-70.3-dublin-20170820.csv,325,Peadar Brennan,56,Kilkenny,IRL,00:51:42,03:12:01,01:51:59,00:07:39,00:06:13,06:09:34
+ironman-70.3-dublin-20170820.csv,326,Aine O' Sullivan,25,Wicklow,IRL,00:33:40,02:49:07,02:02:14,00:04:21,00:04:05,05:33:27
+ironman-70.3-dublin-20170820.csv,327,Claire Gorman,29,---,IRL,00:31:12,02:50:24,01:57:11,00:04:21,00:05:05,05:28:13
+ironman-70.3-dublin-20170820.csv,328,Aileen Mccarthy,30,Cork,IRL,00:40:55,03:13:05,02:12:55,00:06:15,00:05:47,06:18:57
+ironman-70.3-dublin-20170820.csv,329,Nikki Dwyer,35,Co. Dublin.,IRL,00:37:53,03:05:06,02:23:01,00:04:21,00:05:57,06:16:18
+ironman-70.3-dublin-20170820.csv,330,Lorraine Carrabin,37,Dublin,IRL,00:37:02,03:05:11,02:06:21,00:04:22,00:06:08,05:59:04
+ironman-70.3-dublin-20170820.csv,332,Simon Lawlor,23,Dublin,IRL,00:41:57,02:45:20,02:01:50,00:04:21,00:04:39,05:38:07
+ironman-70.3-dublin-20170820.csv,333,Ross Condy,28,Dublin,IRL,00:31:47,02:26:50,01:40:14,00:03:19,00:08:25,04:50:35
+ironman-70.3-dublin-20170820.csv,334,Donal O'Neill,29,Dublin,IRL,00:40:38,02:52:44,02:02:43,00:04:50,00:05:05,05:46:00
+ironman-70.3-dublin-20170820.csv,335,Neil Murphy,25,Meath,IRL,00:41:25,02:51:16,01:38:02,00:04:56,00:03:44,05:19:23
+ironman-70.3-dublin-20170820.csv,336,Stuart Russell,34,Ireland,IRL,00:39:34,02:41:00,02:02:29,00:04:45,00:04:51,05:32:39
+ironman-70.3-dublin-20170820.csv,337,John Macken,33,Mayo,IRL,00:34:23,02:50:54,02:05:33,00:04:21,00:04:42,05:39:53
+ironman-70.3-dublin-20170820.csv,338,Tom Curtin,33,Dublin,IRL,00:41:12,02:52:25,02:20:24,00:04:34,00:04:43,06:03:18
+ironman-70.3-dublin-20170820.csv,339,Shane Gavin,32,Dublin 5,IRL,00:37:16,02:42:30,01:35:00,00:04:22,00:03:50,05:02:58
+ironman-70.3-dublin-20170820.csv,340,Daniel Skold,33,MN,USA,00:30:32,02:26:00,01:34:21,00:04:22,00:08:45,04:44:00
+ironman-70.3-dublin-20170820.csv,341,Luke Dillon,32,Dublin,IRL,00:41:06,02:56:51,01:54:50,00:04:21,00:04:44,05:41:52
+ironman-70.3-dublin-20170820.csv,342,Jonathan Hogan,34,Dublin 3,IRL,00:44:20,02:43:50,01:38:39,00:07:29,00:04:58,05:19:16
+ironman-70.3-dublin-20170820.csv,343,Mark Mcinerney,39,Co. Dublin,IRL,00:41:18,02:57:16,02:11:26,00:08:12,00:08:11,06:06:23
+ironman-70.3-dublin-20170820.csv,344,Jamie Gahan,36,Kilkenny,IRL,00:40:25,02:29:52,01:38:21,00:04:21,00:03:58,04:56:57
+ironman-70.3-dublin-20170820.csv,345,Steven Moody,44,Dublin,IRL,00:37:07,02:35:47,01:34:25,00:04:21,00:03:55,04:55:35
+ironman-70.3-dublin-20170820.csv,346,Ryan Paetzold,41,Dublin,IRL,00:32:30,02:49:37,01:49:54,00:04:22,00:04:52,05:21:15
+ironman-70.3-dublin-20170820.csv,347,David Cullen,43,Dublin ,IRL,00:39:30,02:40:03,01:56:55,00:05:07,00:05:00,05:26:35
+ironman-70.3-dublin-20170820.csv,348,Shane Brady,41,Dublin,IRL,00:44:46,02:54:21,02:10:30,00:07:43,00:05:59,06:03:19
+ironman-70.3-dublin-20170820.csv,349,Edward Glennon,48,Dublin,IRL,00:48:26,03:10:15,02:27:27,00:08:21,00:09:06,06:43:35
+ironman-70.3-dublin-20170820.csv,351,Cormac O'Neill,52,dublin 16,IRL,00:42:00,02:26:11,01:45:54,00:04:33,00:04:14,05:02:52
+ironman-70.3-dublin-20170820.csv,352,John Clarke,55,Dublin,IRL,00:42:43,02:55:10,02:04:15,00:04:21,00:05:29,05:51:58
+ironman-70.3-dublin-20170820.csv,353,Ariane Gill,30,Co Dublin,IRL,00:35:04,03:03:48,02:19:22,00:04:22,00:06:11,06:08:47
+ironman-70.3-dublin-20170820.csv,354,Jill Mcgrath,30,Dublin,IRL,00:40:27,02:55:24,02:28:43,00:05:54,00:05:56,06:16:24
+ironman-70.3-dublin-20170820.csv,355,Marijke Beltman,38,Dublin,IRL,00:36:39,03:06:52,01:52:31,00:04:22,00:05:52,05:46:16
+ironman-70.3-dublin-20170820.csv,356,Joanna Doran,35,Dublin,IRL,00:43:38,03:04:43,02:21:15,00:07:46,00:10:33,06:27:55
+ironman-70.3-dublin-20170820.csv,357,Julie Anne Bowden,38,Kilkenny,IRL,00:41:44,02:43:33,02:03:06,00:04:30,00:04:57,05:37:50
+ironman-70.3-dublin-20170820.csv,358,Maureen Byrne,45,Dublin 16,IRL,00:42:54,03:13:50,01:53:34,00:06:03,00:04:39,06:01:00
+ironman-70.3-dublin-20170820.csv,359,Britta Luebbert,45,Wicklow,DEU,00:51:31,03:47:22,03:27:40,00:08:11,00:08:55,08:23:39
+ironman-70.3-dublin-20170820.csv,360,Orla Callender,55,Co Dublin,IRL,00:45:39,03:15:29,02:08:27,00:13:51,00:08:56,06:32:22
+ironman-70.3-dublin-20170820.csv,361,Kevin Leavey,32,Dublin,IRL,00:42:17,03:08:34,02:10:02,00:04:21,00:04:53,06:10:07
+ironman-70.3-dublin-20170820.csv,362,Barry Brock,32,kildare ,IRL,00:45:16,02:42:37,01:57:53,00:05:04,00:05:07,05:35:57
+ironman-70.3-dublin-20170820.csv,363,Gary Carrigan,31,Dublin 16,IRL,00:39:55,02:37:50,02:09:37,00:05:28,00:05:51,05:38:41
+ironman-70.3-dublin-20170820.csv,364,Niall Mcmonagle,38,Dublin,IRL,00:39:06,02:38:55,02:00:05,00:04:21,00:05:21,05:27:48
+ironman-70.3-dublin-20170820.csv,365,Sebastian Slotwinski,39,Dublin,IRL,00:53:46,02:40:58,01:41:20,00:08:00,00:06:15,05:30:19
+ironman-70.3-dublin-20170820.csv,366,Conor Macguinness,39,Ireland,IRL,00:39:41,02:32:16,01:39:47,00:05:04,00:04:09,05:00:57
+ironman-70.3-dublin-20170820.csv,367,Danny O'sullivan,36,Dublin 07,IRL,00:36:59,02:37:09,01:37:53,00:04:22,00:04:08,05:00:31
+ironman-70.3-dublin-20170820.csv,368,Paul Lovett,40,Dublin,IRL,00:32:37,02:26:26,01:34:24,00:04:21,00:04:33,04:42:21
+ironman-70.3-dublin-20170820.csv,369,Colin Campbell,42,Dublin 16,IRL,00:51:36,02:56:13,02:21:28,00:06:44,00:08:16,06:24:17
+ironman-70.3-dublin-20170820.csv,370,Barry Kirwan,40,Dublin 24,IRL,00:48:54,03:18:25,02:43:19,00:07:10,00:08:59,07:06:47
+ironman-70.3-dublin-20170820.csv,371,Niall Murphy,41,Dublin,IRL,00:34:36,03:06:34,02:07:50,00:04:22,00:04:57,05:58:19
+ironman-70.3-dublin-20170820.csv,373,Robert Cullen,47,Dublin,IRL,00:42:25,02:55:13,02:13:47,00:05:40,00:05:29,06:02:34
+ironman-70.3-dublin-20170820.csv,374,Vincent Lecerf,49,D14,FRA,00:45:44,02:58:26,02:16:25,00:08:21,00:06:07,06:15:03
+ironman-70.3-dublin-20170820.csv,375,Philip Keyes,49,Dublin,IRL,00:37:56,02:30:58,01:53:13,00:04:22,00:03:52,05:10:21
+ironman-70.3-dublin-20170820.csv,376,Erwin Framo,46,Co. Dublin,IRL,00:56:02,02:56:37,02:30:07,00:06:15,00:06:48,06:35:49
+ironman-70.3-dublin-20170820.csv,377,Timothy Jolly,44,Dublin,AUS,00:42:46,02:36:08,01:49:24,00:05:58,00:04:40,05:18:56
+ironman-70.3-dublin-20170820.csv,378,Alan Heade,50,Dublin,IRL,00:40:46,02:49:33,01:59:16,00:04:22,00:08:35,05:42:32
+ironman-70.3-dublin-20170820.csv,379,Mark Wallace,50,Dublin,IRL,00:39:08,02:53:04,02:04:11,00:06:24,00:07:32,05:50:19
+ironman-70.3-dublin-20170820.csv,380,Keith Holmes,54,Dublin,IRL,00:36:36,02:50:22,02:19:21,00:04:21,00:05:58,05:56:38
+ironman-70.3-dublin-20170820.csv,381,Ciaran Burns,52,Dublin,IRL,00:38:25,02:43:02,01:46:10,00:06:16,00:05:16,05:19:09
+ironman-70.3-dublin-20170820.csv,382,Mark Connell,54,Dublin,IRL,00:38:01,02:31:26,01:35:04,00:04:21,00:04:10,04:53:02
+ironman-70.3-dublin-20170820.csv,383,David Chandler,53,Dublin,IRL,00:40:06,02:36:56,02:24:14,00:05:45,00:06:27,05:53:28
+ironman-70.3-dublin-20170820.csv,385,Nicholas Bowker,31,---,GBR,00:33:06,02:17:33,01:21:57,00:04:22,00:03:12,04:20:10
+ironman-70.3-dublin-20170820.csv,386,Cormac Toomey,35,---,IRL,00:36:32,02:31:10,01:39:42,00:04:21,00:06:38,04:58:23
+ironman-70.3-dublin-20170820.csv,387,Sean Tarrant,30,London,IRL,00:40:37,03:04:32,01:52:13,00:04:22,00:05:15,05:46:59
+ironman-70.3-dublin-20170820.csv,388,James Ford,33,SUFFOLK,GBR,00:39:35,02:54:29,02:26:19,00:11:18,00:13:53,06:25:34
+ironman-70.3-dublin-20170820.csv,389,Patrick Hughes,36,WA,IRL,00:38:35,02:59:50,02:41:33,00:04:21,00:09:35,06:33:54
+ironman-70.3-dublin-20170820.csv,390,Kevin Quinlan,37,WA,IRL,00:35:55,02:34:28,01:44:40,00:04:21,00:05:06,05:04:30
+ironman-70.3-dublin-20170820.csv,391,Paula Casey,30,Kerry,IRL,00:42:20,03:18:56,02:33:32,00:08:22,00:10:02,06:53:12
+ironman-70.3-dublin-20170820.csv,392,Leanne Mc Carthy,36,Kerry,IRL,00:39:38,03:07:21,01:53:23,00:04:22,00:08:04,05:52:48
+ironman-70.3-dublin-20170820.csv,393,John Flynn,40,county kerry,IRL,00:49:44,02:59:28,02:00:33,00:09:10,00:08:10,06:07:05
+ironman-70.3-dublin-20170820.csv,394,Brendan Doolan,39,County,IRL,00:43:28,02:52:27,02:01:34,00:06:52,00:06:48,05:51:09
+ironman-70.3-dublin-20170820.csv,395,Seamus Smith,45,Kerry,IRL,00:57:01,02:40:09,01:45:12,00:07:15,00:06:43,05:36:20
+ironman-70.3-dublin-20170820.csv,396,Noel Hilliard,53,Kerry,IRL,00:41:39,03:12:06,02:22:14,00:06:07,00:06:56,06:29:02
+ironman-70.3-dublin-20170820.csv,397,Andrew Fisher,29,---,GBR,00:37:02,02:40:50,01:52:13,00:04:21,00:04:12,05:18:38
+ironman-70.3-dublin-20170820.csv,398,Brett Hallam,26,DXB,ZAF,00:28:10,02:39:24,01:36:20,00:04:21,00:04:45,04:53:00
+ironman-70.3-dublin-20170820.csv,399,Neil Tempest,31,DXB,GBR,00:31:34,02:25:22,01:34:48,00:04:22,00:04:40,04:40:46
+ironman-70.3-dublin-20170820.csv,400,Kieran Duggan,44,DXB,IRL,00:39:48,02:39:36,01:40:54,00:05:52,00:04:04,05:10:14
+ironman-70.3-dublin-20170820.csv,401,Brent Alcock,54,surrey,AUS,00:37:10,03:06:51,01:55:36,00:04:22,00:05:42,05:49:41
+ironman-70.3-dublin-20170820.csv,402,Eleanor Doody,44,Ireland,IRL,00:39:12,03:05:42,02:08:30,00:04:22,00:07:32,06:05:18
+ironman-70.3-dublin-20170820.csv,404,Heather Mcintyre,47,NY,USA,00:41:40,02:50:29,02:02:01,00:08:43,00:08:56,05:51:49
+ironman-70.3-dublin-20170820.csv,405,Dominick Ciliberto,40,NY,USA,00:38:33,02:47:25,02:00:57,00:05:46,00:06:38,05:39:19
+ironman-70.3-dublin-20170820.csv,406,Nivard Rush,46,Wexford Y25 R968,IRL,00:41:32,03:09:17,02:09:11,00:13:15,00:10:31,06:23:46
+ironman-70.3-dublin-20170820.csv,407,Tod Craggs,51,NY,USA,00:44:05,03:09:00,02:13:56,00:06:26,00:08:24,06:21:51
+ironman-70.3-dublin-20170820.csv,408,David Hens,55,NY,USA,00:38:09,02:54:01,02:02:29,00:04:22,00:05:52,05:44:53
+ironman-70.3-dublin-20170820.csv,409,Will Birmingham,27,Kent,GBR,00:36:37,02:46:57,01:43:40,00:04:22,00:05:43,05:17:19
+ironman-70.3-dublin-20170820.csv,410,Paddy Kelly,47,Louth,IRL,00:39:13,02:35:15,02:18:20,00:05:58,00:06:08,05:44:54
+ironman-70.3-dublin-20170820.csv,411,Frank Holzapfel,57,---,DEU,00:38:14,02:52:11,01:51:24,00:04:22,00:08:27,05:34:38
+ironman-70.3-dublin-20170820.csv,412,Helen O Connor,38,Dublin ,IRL,00:40:05,03:08:35,01:43:18,00:05:30,00:04:58,05:42:26
+ironman-70.3-dublin-20170820.csv,413,Conor Fitzpatrick,25,Dublin,IRL,00:42:14,02:37:32,01:36:50,00:04:21,00:03:44,05:04:41
+ironman-70.3-dublin-20170820.csv,414,Eduan Naude,31,Dublin,ZAF,00:39:18,02:52:24,02:19:24,00:07:21,00:06:19,06:04:46
+ironman-70.3-dublin-20170820.csv,415,Dermot O'Connor,35,Dublin,IRL,00:35:54,02:36:06,01:59:28,00:04:22,00:06:33,05:22:23
+ironman-70.3-dublin-20170820.csv,416,Paul Byrne,36,Co Dublin,---,00:36:05,02:39:09,02:03:57,00:04:22,00:05:23,05:28:56
+ironman-70.3-dublin-20170820.csv,417,Colm Brady,43,dublin,IRL,00:41:34,02:47:20,02:11:03,00:04:21,00:05:25,05:49:43
+ironman-70.3-dublin-20170820.csv,418,Damian Cronin,43,Ireland,IRL,00:39:56,02:31:06,01:41:27,00:04:21,00:03:48,05:00:38
+ironman-70.3-dublin-20170820.csv,419,Justin Motika,32,CA,USA,00:43:17,03:06:00,01:57:54,00:07:22,00:06:07,06:00:40
+ironman-70.3-dublin-20170820.csv,420,Harald Mechler,52,---,DEU,00:34:27,02:34:23,01:50:17,00:04:21,00:04:37,05:08:05
+ironman-70.3-dublin-20170820.csv,421,Craig Gandy,44,---,AFG,00:38:43,02:33:41,01:56:14,00:04:21,00:04:20,05:17:19
+ironman-70.3-dublin-20170820.csv,422,Eleanor Norton,37,NC,USA,00:51:52,03:32:28,03:05:55,00:08:07,00:12:19,07:50:41
+ironman-70.3-dublin-20170820.csv,423,Lukasz Szwed,33,Co. Dublin,POL,00:40:12,02:36:31,01:43:53,00:04:21,00:04:29,05:09:26
+ironman-70.3-dublin-20170820.csv,424,Sameer Rane,33,Dublin,IND,00:44:26,02:40:30,01:31:47,00:09:07,00:03:28,05:09:18
+ironman-70.3-dublin-20170820.csv,425,Dean Savery,31,dublin,IRL,00:51:24,03:30:29,02:06:36,00:07:18,00:09:25,06:45:12
+ironman-70.3-dublin-20170820.csv,426,Simon Befort,32,Dublin 11,FRA,00:39:06,02:24:12,01:36:08,00:04:22,00:04:20,04:48:08
+ironman-70.3-dublin-20170820.csv,427,Sean Rooney,32,Ireland,IRL,00:38:36,02:32:39,01:37:25,00:04:22,00:05:19,04:58:21
+ironman-70.3-dublin-20170820.csv,428,Vito Giannini,39,Dublin,ITA,00:38:10,02:52:42,01:43:30,00:08:08,00:06:25,05:28:55
+ironman-70.3-dublin-20170820.csv,429,Ronan Flynn,36,Wexford,IRL,00:45:31,02:44:08,01:47:51,00:10:23,00:06:08,05:34:01
+ironman-70.3-dublin-20170820.csv,430,Peter Mcgoey,36,Dublin,IRL,00:50:57,02:41:20,01:50:13,00:06:15,00:04:09,05:32:54
+ironman-70.3-dublin-20170820.csv,431,Thibaut Lust,36,Dublin 7,BEL,00:41:36,02:31:31,01:48:18,00:04:22,00:03:45,05:09:32
+ironman-70.3-dublin-20170820.csv,432,Iwan Harmsen,36,Dublin,NLD,00:45:51,02:32:23,02:11:11,00:04:05,00:05:40,05:39:10
+ironman-70.3-dublin-20170820.csv,433,Kevin Coughlan,37,Meath,IRL,00:49:03,02:53:28,02:10:58,00:06:25,00:07:06,06:07:00
+ironman-70.3-dublin-20170820.csv,435,Ian Devlin,39,Dublin,IRL,00:33:55,02:29:32,---,---,00:05:29,DNF
+ironman-70.3-dublin-20170820.csv,437,Conan Traynor,37,Kildare,IRL,00:39:42,02:40:37,02:11:53,00:06:58,00:07:08,05:46:18
+ironman-70.3-dublin-20170820.csv,439,Daragh Crowley,44,Dublin 15,IRL,00:41:56,02:36:58,02:15:13,00:04:16,00:04:33,05:42:56
+ironman-70.3-dublin-20170820.csv,440,David Murphy,49,Kildare,IRL,00:42:32,02:54:47,02:07:46,00:08:35,00:07:16,06:00:56
+ironman-70.3-dublin-20170820.csv,441,Andrew O Reilly,36,BAHRAIN,IRL,00:37:47,02:40:04,01:36:56,00:04:22,00:03:57,05:03:06
+ironman-70.3-dublin-20170820.csv,442,Russell Caffey,38,FL,USA,00:55:38,03:22:09,02:38:34,00:11:12,00:11:28,07:19:01
+ironman-70.3-dublin-20170820.csv,443,Dea Ditchfiekd,50,---,GBR,00:39:03,02:54:40,01:50:18,00:04:21,00:06:07,05:34:29
+ironman-70.3-dublin-20170820.csv,444,Nora Haggart,60,---,GBR,00:40:30,02:47:45,01:47:09,00:05:37,00:05:24,05:26:25
+ironman-70.3-dublin-20170820.csv,445,Stefano Wosz,40,Italia,ITA,00:53:27,03:49:31,01:59:28,00:09:41,00:09:17,07:01:24
+ironman-70.3-dublin-20170820.csv,446,Amy O'Keeffe,23,Meath,IRL,00:29:04,02:36:34,01:48:24,00:04:21,00:09:40,05:08:03
+ironman-70.3-dublin-20170820.csv,447,Maire Fox,36,Limerick,IRL,00:38:05,02:40:58,01:49:08,00:04:22,00:04:45,05:17:18
+ironman-70.3-dublin-20170820.csv,448,Aoife Collins,35,Cork,IRL,00:43:05,02:58:20,01:59:06,00:04:21,00:05:59,05:50:51
+ironman-70.3-dublin-20170820.csv,449,Brid Normoyle,41,County Cork,IRL,00:46:50,03:03:18,01:41:00,00:07:13,00:06:30,05:44:51
+ironman-70.3-dublin-20170820.csv,450,Adam Doyle,29,cork,IRL,00:35:32,02:34:50,01:33:41,00:04:22,00:03:13,04:51:38
+ironman-70.3-dublin-20170820.csv,451,Ronei Rodrigues,29,GO,BRA,00:41:59,02:31:33,01:58:23,00:04:21,00:05:04,05:21:20
+ironman-70.3-dublin-20170820.csv,452,Keith Fortune,32,Cork,IRL,00:40:39,03:02:22,02:18:47,00:08:57,00:08:15,06:19:00
+ironman-70.3-dublin-20170820.csv,453,Marcos Garcia,30,Cork,ESP,00:38:18,03:04:07,01:56:48,00:09:07,00:06:27,05:54:47
+ironman-70.3-dublin-20170820.csv,454,Paul Kennedy,37,Cork,IRL,00:41:35,02:36:25,01:39:44,00:04:21,00:04:45,05:06:50
+ironman-70.3-dublin-20170820.csv,455,Darragh Duggan,38,Cork,IRL,00:36:38,02:46:51,01:56:54,00:04:22,00:05:17,05:30:02
+ironman-70.3-dublin-20170820.csv,456,Declan O Connell,39,Cork,IRL,00:39:00,02:34:29,01:46:16,00:04:22,00:03:36,05:07:43
+ironman-70.3-dublin-20170820.csv,457,Mark Hartnett,38,Cork Ireland,IRL,00:42:00,02:53:51,02:05:49,00:05:38,00:04:18,05:51:36
+ironman-70.3-dublin-20170820.csv,458,Michael Collins,36,Cork,IRL,00:40:21,02:35:49,02:11:16,00:04:22,00:04:29,05:36:17
+ironman-70.3-dublin-20170820.csv,459,Steven Mcsweeney,38,Cork,IRL,00:42:56,02:47:45,01:54:16,00:05:16,00:05:28,05:35:41
+ironman-70.3-dublin-20170820.csv,460,Rory Galvin,40,Cork,IRL,00:40:33,02:38:49,02:05:23,00:04:22,00:07:18,05:36:25
+ironman-70.3-dublin-20170820.csv,461,Paul Connolly,44,Cork ,IRL,00:32:25,02:25:09,01:39:19,00:04:22,00:03:58,04:45:13
+ironman-70.3-dublin-20170820.csv,462,Damien Archer-Good,41,Cork,IRL,00:40:43,03:08:42,02:25:56,00:10:10,00:10:17,06:35:48
+ironman-70.3-dublin-20170820.csv,463,Tadhg O Leary,41,cork,IRL,00:36:55,02:39:21,01:51:53,00:05:27,00:05:14,05:18:50
+ironman-70.3-dublin-20170820.csv,464,Kevin Fennessy,41,Cork,IRL,00:38:04,02:28:08,01:39:54,00:05:39,00:05:29,04:57:14
+ironman-70.3-dublin-20170820.csv,465,Eamon Leonard,47,Cork,IRL,00:40:17,03:01:36,02:15:20,00:04:22,00:06:04,06:07:39
+ironman-70.3-dublin-20170820.csv,466,William Rock,49,Ireland,IRL,00:35:54,02:35:05,01:36:43,00:04:21,00:04:17,04:56:20
+ironman-70.3-dublin-20170820.csv,467,Eoin O'Connell,47,Surrey,IRL,00:32:04,02:26:25,01:33:01,00:04:22,00:04:14,04:40:06
+ironman-70.3-dublin-20170820.csv,468,Eoin Pomphrett,45,cork,IRL,00:43:39,02:36:08,01:44:02,00:06:25,00:05:27,05:15:41
+ironman-70.3-dublin-20170820.csv,470,Kaili Stevens,26,GA,USA,00:51:24,03:05:42,02:11:17,00:09:41,00:07:44,06:25:48
+ironman-70.3-dublin-20170820.csv,471,Bernie Mcnally,38,Co Dublin,IRL,00:43:03,02:53:08,02:02:36,00:06:14,00:05:52,05:50:53
+ironman-70.3-dublin-20170820.csv,472,Natalie Mason,47,Dublin,IRL,00:43:54,03:06:09,02:04:44,00:05:38,00:06:19,06:06:44
+ironman-70.3-dublin-20170820.csv,473,Barbara Tobin,52,Dublin 9,IRL,00:41:41,02:54:57,02:01:23,00:05:25,00:04:56,05:48:22
+ironman-70.3-dublin-20170820.csv,475,Colm Bellew,32,Louth,IRL,00:39:23,02:28:45,---,00:03:56,---,DNF
+ironman-70.3-dublin-20170820.csv,476,Maurice Mc Dermott,36,North county,IRL,00:40:40,02:40:34,01:33:03,00:04:22,00:04:06,05:02:45
+ironman-70.3-dublin-20170820.csv,477,Carl Birney,42,dublin,IRL,00:38:25,02:50:47,02:06:55,00:05:31,00:05:08,05:46:46
+ironman-70.3-dublin-20170820.csv,478,Ken Cahill,44,Ireland,IRL,00:39:41,02:38:16,02:06:48,00:04:38,00:05:01,05:34:24
+ironman-70.3-dublin-20170820.csv,479,Conor Mccollum,30,---,IRL,00:36:07,02:51:10,01:47:32,00:04:22,00:03:55,05:23:06
+ironman-70.3-dublin-20170820.csv,480,Grace Callaghan,30,Sligo,IRL,00:42:09,03:21:00,02:11:44,00:06:19,00:09:34,06:30:46
+ironman-70.3-dublin-20170820.csv,481,Deirdre Kelly,33,Galway,IRL,00:39:23,02:48:23,01:56:40,00:04:21,00:06:15,05:35:02
+ironman-70.3-dublin-20170820.csv,483,Paula Duggan,45,Ireland,IRL,00:46:26,03:20:08,02:18:41,00:07:47,00:07:44,06:40:46
+ironman-70.3-dublin-20170820.csv,485,Colm Hawe,34,Cork,IRL,00:36:41,02:29:24,01:44:28,00:04:22,00:04:21,04:59:16
+ironman-70.3-dublin-20170820.csv,486,Darragh Greenan,35,Galway,IRL,00:37:49,02:36:36,01:35:36,00:04:22,00:03:42,04:58:05
+ironman-70.3-dublin-20170820.csv,487,David Odonnell,37,Mayo,IRL,00:47:18,02:57:24,02:24:19,00:07:18,00:09:02,06:25:21
+ironman-70.3-dublin-20170820.csv,488,Bernard Mcdermott,38,Galway,IRL,00:43:30,02:44:23,01:55:11,00:07:51,00:05:03,05:35:58
+ironman-70.3-dublin-20170820.csv,489,Kieran Walsh,38,Galway,IRL,01:01:32,03:16:31,02:11:39,00:11:45,00:13:14,06:54:41
+ironman-70.3-dublin-20170820.csv,490,Damien Killane,40,Galway,IRL,00:40:01,02:37:42,01:49:19,00:04:22,00:04:58,05:16:22
+ironman-70.3-dublin-20170820.csv,491,Patrick O Brien,48,Galway,IRL,00:42:07,02:35:13,01:46:58,00:03:48,00:09:47,05:17:53
+ironman-70.3-dublin-20170820.csv,492,Ray Mclaughlin,47,Galway,IRL,00:43:09,02:58:23,02:04:27,00:08:08,00:07:32,06:01:39
+ironman-70.3-dublin-20170820.csv,493,Kieran Whyte,52,Galway,IRL,00:37:32,02:51:26,01:48:41,00:04:21,00:04:49,05:26:49
+ironman-70.3-dublin-20170820.csv,494,Aidan Currie,56,Galway,IRL,00:36:15,03:06:18,02:05:39,00:04:21,00:06:03,05:58:36
+ironman-70.3-dublin-20170820.csv,495,Andrew Mawhinney,27,---,IRL,00:33:35,02:46:04,01:56:30,00:04:22,00:04:28,05:24:59
+ironman-70.3-dublin-20170820.csv,497,Karen Buckle,44,Herts,GBR,00:41:00,03:11:12,02:05:53,00:06:38,00:06:31,06:11:14
+ironman-70.3-dublin-20170820.csv,498,Charlie Stannett,61,Suffolk,GBR,00:49:55,03:29:53,02:50:32,00:14:55,00:11:10,07:36:25
+ironman-70.3-dublin-20170820.csv,499,Angela Robertson,43,Limerick,IRL,00:43:55,03:01:19,02:05:01,00:07:11,00:07:05,06:04:31
+ironman-70.3-dublin-20170820.csv,500,Anne Madigan,41,Limerick,IRL,00:42:45,03:19:27,02:34:01,00:06:52,00:09:18,06:52:23
+ironman-70.3-dublin-20170820.csv,501,Roisin Doran,42,Limerick,IRL,00:41:12,02:53:36,01:45:12,00:06:14,00:04:50,05:31:04
+ironman-70.3-dublin-20170820.csv,502,Andrea Cullen,41,Limerick,IRL,00:35:53,03:09:02,01:44:49,00:04:21,00:05:48,05:39:53
+ironman-70.3-dublin-20170820.csv,503,Oorla Cusack,49,Limerick,IRL,00:46:09,03:15:20,02:16:28,00:06:36,00:07:45,06:32:18
+ironman-70.3-dublin-20170820.csv,504,Craig Butler,33,Tipperary,IRL,00:44:05,02:47:11,02:29:45,00:04:21,00:05:37,06:10:59
+ironman-70.3-dublin-20170820.csv,505,Philip Manuel,36,Tipperary,IRL,00:40:44,02:51:04,02:22:30,00:03:34,00:04:43,06:02:35
+ironman-70.3-dublin-20170820.csv,506,Eamon Hanley,35,Limerick ,IRL,00:39:13,02:27:08,01:32:57,00:04:21,00:03:04,04:46:43
+ironman-70.3-dublin-20170820.csv,507,Nessan Geary,38,Limerick,IRL,00:45:13,02:43:46,02:17:34,00:08:01,00:05:46,06:00:20
+ironman-70.3-dublin-20170820.csv,508,Diarmaid Lane,34,Limerick,IRL,00:33:37,02:22:34,01:36:05,00:04:21,00:03:47,04:40:24
+ironman-70.3-dublin-20170820.csv,509,Oliver Foley,41,Limerick,IRL,00:39:58,02:49:01,02:02:50,00:04:21,00:04:51,05:41:01
+ironman-70.3-dublin-20170820.csv,510,Paul O Connell,41,Limerick,IRL,00:38:46,02:43:55,01:38:56,00:04:22,00:04:31,05:10:30
+ironman-70.3-dublin-20170820.csv,511,Martin O'Connell,43,Limerick,IRL,00:42:21,02:57:16,02:17:46,00:04:21,00:08:53,06:10:37
+ironman-70.3-dublin-20170820.csv,512,Greg Baxter,42,Tipperary,USA,00:31:26,02:37:34,01:49:18,00:04:21,00:04:44,05:07:23
+ironman-70.3-dublin-20170820.csv,513,Richard E Roche,45,limerick,IRL,00:38:21,02:55:39,02:00:20,00:04:22,00:06:12,05:44:54
+ironman-70.3-dublin-20170820.csv,514,Stephen Ryan,47,Limerick,IRL,00:37:56,02:45:42,02:27:18,00:06:26,00:07:15,06:04:37
+ironman-70.3-dublin-20170820.csv,515,Shane Quilligan,48,Clare,IRL,00:36:58,02:56:24,01:46:46,00:04:21,00:06:36,05:31:05
+ironman-70.3-dublin-20170820.csv,516,Frank Eivers,47,Tipperary,IRL,00:38:20,02:57:58,02:04:22,00:04:21,00:05:16,05:50:17
+ironman-70.3-dublin-20170820.csv,517,Brendan Naughton,53,Clare,IRL,00:49:22,02:54:09,01:54:50,00:07:04,00:05:54,05:51:19
+ironman-70.3-dublin-20170820.csv,518,Nick O'Dwyer,51,Limerick,IRL,00:47:13,02:18:28,01:35:56,00:04:12,00:04:08,04:49:57
+ironman-70.3-dublin-20170820.csv,519,Pat O Brien,51,Clare,IRL,00:36:40,02:47:20,02:01:44,00:05:55,00:05:26,05:37:05
+ironman-70.3-dublin-20170820.csv,520,Felix Randles,50,Southern Ireland,IRL,00:37:54,03:01:05,02:08:06,00:04:22,00:05:50,05:57:17
+ironman-70.3-dublin-20170820.csv,521,Edward Fahy,58,Limerick,IRL,00:42:01,02:49:41,01:43:03,00:05:15,00:05:01,05:25:01
+ironman-70.3-dublin-20170820.csv,522,Liam Butler,59,Tipperary,IRL,00:35:31,02:41:03,01:50:27,00:04:22,00:06:14,05:17:37
+ironman-70.3-dublin-20170820.csv,523,Allsun Kelly,25,Louth,IRL,00:38:40,03:35:29,02:13:18,00:04:22,00:05:25,06:37:14
+ironman-70.3-dublin-20170820.csv,524,Ciara Phillips,33,Armagh,IRL,00:48:36,03:31:05,02:39:52,00:07:10,00:08:00,07:14:43
+ironman-70.3-dublin-20170820.csv,525,Michelle Mcgovern,38,Armagh,IRL,00:43:11,03:24:00,02:51:01,00:07:33,00:10:33,07:16:18
+ironman-70.3-dublin-20170820.csv,526,Anne Marie Featherstone,38,Co Down,IRL,00:41:32,02:55:30,02:10:32,00:05:36,00:05:00,05:58:10
+ironman-70.3-dublin-20170820.csv,527,Orlagh Mcdonald,41,---,IRL,00:43:58,03:09:00,02:15:39,00:08:11,00:11:56,06:28:44
+ironman-70.3-dublin-20170820.csv,528,Noel Mckevitt,32,Down,IRL,00:38:27,02:49:20,01:40:40,00:05:31,00:03:54,05:17:52
+ironman-70.3-dublin-20170820.csv,529,Brian Muckian,34,Down ,IRL,00:30:24,02:52:55,01:58:14,00:04:22,00:04:31,05:30:26
+ironman-70.3-dublin-20170820.csv,530,Gary Mccourt,36,Down,IRL,00:44:29,03:30:05,02:31:17,00:04:22,00:07:54,06:58:07
+ironman-70.3-dublin-20170820.csv,531,Michael Rock,41,---,IRL,00:46:33,03:21:32,02:11:40,00:07:50,00:07:30,06:35:05
+ironman-70.3-dublin-20170820.csv,532,Noel Grimes,45,Louth,IRL,00:35:12,03:10:35,02:11:05,00:04:22,00:05:49,06:07:03
+ironman-70.3-dublin-20170820.csv,533,Martin Mc Shane,44,Armagh,IRL,00:45:28,03:12:23,02:23:30,00:06:46,00:09:23,06:37:30
+ironman-70.3-dublin-20170820.csv,534,Colm Cunningham,50,Down,IRL,00:46:56,03:10:21,02:10:01,00:07:16,00:08:01,06:22:35
+ironman-70.3-dublin-20170820.csv,535,David Mcgreevy,51,Co Down,IRL,00:42:41,03:09:00,02:05:17,00:07:45,00:05:54,06:10:37
+ironman-70.3-dublin-20170820.csv,536,Noel Pepper,56,down,IRL,00:49:45,03:17:22,02:29:33,00:10:46,00:10:00,06:57:26
+ironman-70.3-dublin-20170820.csv,537,Carla Higgins,32,---,GBR,00:41:05,02:45:26,02:04:01,00:07:10,00:07:02,05:44:44
+ironman-70.3-dublin-20170820.csv,538,Vinicius Vecchiatti,34,Dublin,BRA,00:34:57,02:46:39,01:58:35,00:04:21,00:05:55,05:30:27
+ironman-70.3-dublin-20170820.csv,539,Alex Higgins,45,Hants,GBR,00:42:50,02:49:23,02:04:16,00:09:13,00:05:53,05:51:35
+ironman-70.3-dublin-20170820.csv,540,Alan Conlon,29,Co Louth,IRL,00:39:40,02:39:45,01:48:28,00:04:22,00:04:37,05:16:52
+ironman-70.3-dublin-20170820.csv,541,Peader Grant,39,Louth,IRL,00:42:11,02:35:45,01:41:41,00:04:40,00:04:03,05:08:20
+ironman-70.3-dublin-20170820.csv,542,Michael Mccarron,51,louth,IRL,00:41:57,02:52:50,01:45:12,00:08:04,00:07:54,05:35:57
+ironman-70.3-dublin-20170820.csv,543,Colm Maguire,51,Dublin,IRL,00:47:13,03:08:09,02:19:48,00:10:36,00:06:10,06:31:56
+ironman-70.3-dublin-20170820.csv,544,Kristen David,50,IL,USA,00:46:09,03:02:50,02:18:47,00:07:45,00:09:27,06:24:58
+ironman-70.3-dublin-20170820.csv,545,Paddi Mulholland,43,---,IRL,00:38:41,03:04:27,02:11:32,00:04:21,00:06:41,06:05:42
+ironman-70.3-dublin-20170820.csv,546,Marie Gould,45,Cornwall,GBR,00:38:49,02:49:23,01:52:55,00:05:28,00:07:37,05:34:12
+ironman-70.3-dublin-20170820.csv,547,Susanne Pfaeffli,38,20,CHE,00:36:54,02:47:24,01:57:33,00:05:38,00:06:21,05:33:50
+ironman-70.3-dublin-20170820.csv,548,Sandro Berger,39,---,CHE,00:37:20,02:29:24,01:54:52,00:04:22,00:03:31,05:09:29
+ironman-70.3-dublin-20170820.csv,549,Jacques Lombard,35,Qatar,ZAF,00:41:34,02:50:01,02:20:54,00:08:33,00:07:11,06:08:13
+ironman-70.3-dublin-20170820.csv,550,Kenneth Argueta,40,Co Carlow,IRL,00:41:49,02:42:09,02:18:37,00:06:38,00:08:18,05:57:31
+ironman-70.3-dublin-20170820.csv,551,Damian Mcalinden,33,CoArmagh,IRL,00:38:54,02:41:24,01:45:11,00:04:21,00:06:23,05:16:13
+ironman-70.3-dublin-20170820.csv,552,Fiona Mcbride,37,Wicklow,IRL,00:38:34,03:01:14,01:55:42,00:05:55,00:05:18,05:46:43
+ironman-70.3-dublin-20170820.csv,554,Gillian Carthy,42,Wicklow,IRL,00:37:50,02:56:33,01:57:57,00:06:23,00:08:47,05:47:30
+ironman-70.3-dublin-20170820.csv,555,Karen Cowan,44,Wicklow,IRL,00:40:16,03:00:54,01:55:59,00:05:14,00:06:09,05:48:32
+ironman-70.3-dublin-20170820.csv,556,Heidi Sheehy,45,Wicklow,AUS,00:39:09,02:59:50,02:16:55,00:06:36,00:08:16,06:10:46
+ironman-70.3-dublin-20170820.csv,557,Mark Miley,36,Co. Wicklow,IRL,00:38:05,02:42:18,01:53:58,00:07:42,00:06:33,05:28:36
+ironman-70.3-dublin-20170820.csv,558,Shane Willis,38,Co Wicklow,IRL,00:39:50,02:48:33,01:47:04,00:07:20,00:06:00,05:28:47
+ironman-70.3-dublin-20170820.csv,559,Paul Murphy,39,Wicklow,IRL,00:40:29,02:46:41,01:47:06,00:04:52,00:05:13,05:24:21
+ironman-70.3-dublin-20170820.csv,560,Mark Power,42,Wicklow,IRL,00:47:59,02:57:08,02:15:51,00:10:11,00:07:25,06:18:34
+ironman-70.3-dublin-20170820.csv,561,Anthony Byrne,43,Wicklow,IRL,00:39:35,02:39:59,01:41:46,00:06:58,00:04:29,05:12:47
+ironman-70.3-dublin-20170820.csv,562,Anthony Finn,44,wicklow,IRL,00:40:56,02:44:43,02:07:37,00:04:22,00:05:15,05:42:53
+ironman-70.3-dublin-20170820.csv,563,Daniel Brennan,44,Wicklow,IRL,00:37:07,02:48:23,01:55:39,00:04:39,00:07:17,05:33:05
+ironman-70.3-dublin-20170820.csv,564,Terry Cullen,41,wicklow,IRL,00:45:34,03:15:35,02:28:11,00:07:28,00:09:19,06:46:07
+ironman-70.3-dublin-20170820.csv,565,Brian Thornton,45,County Wicklow,IRL,00:41:38,02:37:57,01:51:59,00:07:09,00:07:06,05:25:49
+ironman-70.3-dublin-20170820.csv,566,Robert Clarke,45,Wicklow,IRL,00:45:02,02:58:31,02:20:32,00:10:43,00:08:33,06:23:21
+ironman-70.3-dublin-20170820.csv,567,John Bowes,49,CoWicklow,IRL,00:45:39,02:41:55,02:05:25,00:11:07,00:06:29,05:50:35
+ironman-70.3-dublin-20170820.csv,568,Martins Balodis,45,Wicklow,LVA,00:43:37,02:50:36,02:04:06,00:07:41,00:07:32,05:53:32
+ironman-70.3-dublin-20170820.csv,569,Dan Mccarthy,54,wicklow,IRL,00:36:37,02:59:27,02:16:13,00:07:46,00:08:01,06:08:04
+ironman-70.3-dublin-20170820.csv,570,Ronan Cusack,50,Wicklow,DEU,00:38:01,02:41:51,02:02:50,00:04:22,00:06:53,05:33:57
+ironman-70.3-dublin-20170820.csv,571,Liam Williams,57,Leinster,IRL,00:35:56,02:32:42,01:31:04,00:03:23,00:03:33,04:46:38
+ironman-70.3-dublin-20170820.csv,572,Rob Griffiths,55,Dorset,GBR,00:32:19,02:37:54,01:46:10,00:04:22,00:04:16,05:05:01
+ironman-70.3-dublin-20170820.csv,574,Bronagh O'Gara,39,Donegal,IRL,00:39:44,02:57:24,01:54:02,00:05:14,00:05:48,05:42:12
+ironman-70.3-dublin-20170820.csv,575,Emma Mcgee,38,Co.donegal,IRL,00:39:19,02:42:28,01:42:09,00:04:21,00:05:22,05:13:39
+ironman-70.3-dublin-20170820.csv,576,Patrick Mcnulty,37,Donegal,IRL,00:37:09,02:44:16,01:43:36,00:10:43,00:04:10,05:19:54
+ironman-70.3-dublin-20170820.csv,577,Paul Dillon,35,Donegal,IRL,00:36:34,02:44:49,01:45:41,00:04:22,00:05:06,05:16:32
+ironman-70.3-dublin-20170820.csv,578,Gavin Crawford,39,Donegal ,IRL,00:32:24,02:26:05,01:25:25,00:03:29,00:03:48,04:31:11
+ironman-70.3-dublin-20170820.csv,579,Enda Mc Nulty,40,Dublin,IRL,00:39:17,03:06:40,02:08:55,00:04:21,00:08:22,06:07:35
+ironman-70.3-dublin-20170820.csv,580,Paul Mc Nulty,42,Donegal,IRL,00:43:31,03:03:52,01:59:00,00:09:48,00:06:05,06:02:16
+ironman-70.3-dublin-20170820.csv,581,Liam Tinney,40,Donegal,IRL,00:40:50,02:42:03,01:50:22,00:05:41,00:04:51,05:23:47
+ironman-70.3-dublin-20170820.csv,582,Paul O'Gara,45,Donegal,IRL,00:36:45,02:44:47,01:56:18,00:04:22,00:04:38,05:26:50
+ironman-70.3-dublin-20170820.csv,583,Graham Parker,44,Donegal,IRL,00:35:25,02:48:15,02:22:40,00:04:21,00:07:12,05:57:53
+ironman-70.3-dublin-20170820.csv,584,Kilian Nulty,47,Donegal,IRL,00:37:10,03:09:36,02:05:12,00:04:22,00:07:44,06:04:04
+ironman-70.3-dublin-20170820.csv,585,Alaistair Hetherington,46,Donegal,IRL,00:44:23,02:49:28,01:47:52,00:07:15,00:06:10,05:35:08
+ironman-70.3-dublin-20170820.csv,586,Seamus Morrison,48,Donegal,IRL,00:55:14,02:47:40,01:59:31,00:06:46,00:04:56,05:54:07
+ironman-70.3-dublin-20170820.csv,587,Sean Mc Auliffe,50,Co Donegal,IRL,00:50:54,03:32:48,02:37:32,00:05:54,00:06:26,07:13:34
+ironman-70.3-dublin-20170820.csv,588,Keith Fletcher,54,Co. Donegal,IRL,00:40:16,03:07:27,02:05:22,00:08:10,00:06:52,06:08:07
+ironman-70.3-dublin-20170820.csv,589,Patrick Mitchell,60,DONEGAL,IRL,00:36:51,02:49:39,02:04:44,00:06:32,00:06:17,05:44:03
+ironman-70.3-dublin-20170820.csv,592,Siobhan Harmon,37,Kildare,IRL,00:48:18,03:33:53,02:42:54,00:08:15,00:09:50,07:23:10
+ironman-70.3-dublin-20170820.csv,593,Caroline Howe Smyth,41,Co kildare,IRL,00:45:25,03:24:37,02:56:25,00:09:38,00:08:54,07:24:59
+ironman-70.3-dublin-20170820.csv,594,Bernie Dillon Byrne,47,Wicklow,IRL,00:49:01,03:25:16,02:17:06,00:08:51,00:08:31,06:48:45
+ironman-70.3-dublin-20170820.csv,595,Joseph Morris,33,Kildare ,IRL,00:47:17,03:29:14,02:34:09,00:10:13,00:10:36,07:11:29
+ironman-70.3-dublin-20170820.csv,596,Ciarán Mulhall,31,Kildare,IRL,00:42:27,02:48:27,02:04:05,00:07:13,00:07:17,05:49:29
+ironman-70.3-dublin-20170820.csv,597,David Kidd,36,Carlow,IRL,00:40:51,02:45:48,01:38:40,00:05:37,00:05:10,05:16:06
+ironman-70.3-dublin-20170820.csv,598,Keith Pollard,39,Carlow,IRL,00:40:49,02:52:20,01:42:05,00:06:40,00:07:37,05:29:31
+ironman-70.3-dublin-20170820.csv,599,Kieran Byrne,41,Kildare,IRL,00:45:05,02:53:27,02:11:39,00:07:41,00:10:45,06:08:37
+ironman-70.3-dublin-20170820.csv,600,Arnold Kane,43,Kildare,IRL,00:40:43,02:47:21,02:19:39,00:06:54,00:07:26,06:02:03
+ironman-70.3-dublin-20170820.csv,601,Joe O Regan,41,carlow,IRL,00:39:46,03:07:51,01:54:03,00:06:55,00:04:27,05:53:02
+ironman-70.3-dublin-20170820.csv,602,John Cuddy,42,kildare,IRL,00:39:38,02:59:14,02:16:09,00:06:45,00:05:56,06:07:42
+ironman-70.3-dublin-20170820.csv,603,Dylan Poole,45,Kildare,GBR,00:41:46,03:20:32,02:14:31,00:15:30,00:13:03,06:45:22
+ironman-70.3-dublin-20170820.csv,604,John Sourke,46,Laois,IRL,00:42:38,02:38:19,01:33:29,00:04:04,00:04:37,05:03:07
+ironman-70.3-dublin-20170820.csv,605,Padraig Kavanagh,48,CoKildare,IRL,00:35:29,02:54:15,02:01:42,00:04:21,00:06:42,05:42:29
+ironman-70.3-dublin-20170820.csv,606,Martin Holohan,50,kilkenny,IRL,00:38:51,03:07:31,02:04:51,00:08:57,00:05:57,06:06:07
+ironman-70.3-dublin-20170820.csv,607,Debbie Gilbert,37,Oxon,GBR,00:43:12,03:01:22,02:10:27,00:06:51,00:05:47,06:07:39
+ironman-70.3-dublin-20170820.csv,608,Marie Mac Aree,48,Cork,IRL,00:47:53,03:23:09,02:22:14,00:07:19,00:08:05,06:48:40
+ironman-70.3-dublin-20170820.csv,609,Stephen Collins,33,cork,IRL,00:42:16,02:33:09,01:30:09,00:04:32,00:05:15,04:55:21
+ironman-70.3-dublin-20170820.csv,610,Christian Board,40,Co. Cork,IRL,00:39:19,02:56:07,02:15:14,00:04:21,00:06:18,06:01:19
+ironman-70.3-dublin-20170820.csv,612,Martin Pearl,41,Clare,IRL,00:51:18,02:45:20,01:51:14,00:05:16,00:04:43,05:37:51
+ironman-70.3-dublin-20170820.csv,613,Paul Keating,44,Tipperary,IRL,00:48:41,02:56:24,02:04:47,00:06:14,00:06:12,06:02:18
+ironman-70.3-dublin-20170820.csv,614,Brenda Breathnach,45,Clare,IRL,00:42:08,03:19:41,01:54:06,00:13:38,00:17:17,06:26:50
+ironman-70.3-dublin-20170820.csv,615,Aiden O Connor,39,Clare,IRL,00:39:54,02:42:03,01:44:11,00:04:21,00:06:19,05:16:48
+ironman-70.3-dublin-20170820.csv,617,Michael Feehily,42,Clare,IRL,00:37:48,03:03:57,02:24:38,00:04:21,00:05:42,06:16:26
+ironman-70.3-dublin-20170820.csv,618,Michael Davis,40,Clare,IRL,00:28:33,02:24:08,01:37:18,00:04:00,00:03:59,04:37:58
+ironman-70.3-dublin-20170820.csv,619,Rory Gearoid Howard,42,Clare,IRL,00:45:17,02:22:59,01:43:59,00:04:22,00:04:10,05:00:47
+ironman-70.3-dublin-20170820.csv,620,Jim Mchale,46,CLare,IRL,00:38:52,02:28:39,01:51:54,00:04:22,00:04:03,05:07:50
+ironman-70.3-dublin-20170820.csv,621,James Mc Mahon,46,Clare,IRL,00:42:18,02:43:30,01:50:50,00:06:27,00:06:22,05:29:27
+ironman-70.3-dublin-20170820.csv,622,Peter Mccarthy,46,Clare,IRL,00:40:11,02:45:14,01:53:17,00:06:22,00:05:05,05:30:09
+ironman-70.3-dublin-20170820.csv,623,Donal Hartigan,51,Clare,IRL,00:52:20,03:02:11,01:49:54,00:08:06,00:08:06,06:00:37
+ironman-70.3-dublin-20170820.csv,625,Jane Powick,37,---,GBR,00:43:12,02:59:55,02:25:05,00:07:33,00:07:36,06:23:21
+ironman-70.3-dublin-20170820.csv,627,Karl Fogarty,39,Clare,IRL,00:33:02,02:25:33,01:37:44,00:05:15,00:04:29,04:46:03
+ironman-70.3-dublin-20170820.csv,628,Joe Devlin,46,Cork,IRL,00:46:10,02:54:29,02:19:50,00:05:46,00:06:19,06:12:34
+ironman-70.3-dublin-20170820.csv,629,Stuart Scott,24,Down,GBR,00:37:06,02:48:40,02:02:41,00:07:07,00:04:58,05:40:32
+ironman-70.3-dublin-20170820.csv,630,Patrick Montgomery,33,---,IRL,00:43:04,03:30:09,02:38:36,00:08:13,00:09:57,07:09:59
+ironman-70.3-dublin-20170820.csv,631,Andrew Knox,38,---,GBR,00:39:50,02:42:53,01:43:11,00:05:47,00:04:27,05:16:08
+ironman-70.3-dublin-20170820.csv,632,Graham Robertson,41,Down,GBR,00:33:07,02:31:28,01:48:59,00:04:22,00:06:46,05:04:42
+ironman-70.3-dublin-20170820.csv,633,David Jennings,49,Antrim,GBR,00:35:04,02:41:44,02:15:03,00:11:42,00:06:53,05:50:26
+ironman-70.3-dublin-20170820.csv,635,Stanley Edgar,55,---,GBR,00:41:37,02:52:37,01:55:16,00:11:22,00:08:30,05:49:22
+ironman-70.3-dublin-20170820.csv,636,Paul Cahill,39,Kildare,IRL,00:39:36,02:43:08,01:40:39,00:04:22,00:04:04,05:11:49
+ironman-70.3-dublin-20170820.csv,637,Damien Farrell,41,Kildare,IRL,00:39:20,02:44:58,01:45:31,00:04:22,00:04:30,05:18:41
+ironman-70.3-dublin-20170820.csv,638,Aidan Healy,40,Kildare,IRL,00:44:22,02:34:37,02:00:05,00:04:43,00:05:36,05:29:23
+ironman-70.3-dublin-20170820.csv,639,Stephen Best,45,WA,AUS,00:37:36,02:40:34,01:54:17,00:06:37,00:08:08,05:27:12
+ironman-70.3-dublin-20170820.csv,640,Anthony Robineau,40,Dublin,IRL,00:43:25,02:48:13,01:49:40,00:04:21,00:06:58,05:32:37
+ironman-70.3-dublin-20170820.csv,641,Martin Cotter,41,Galway,IRL,00:37:53,02:41:56,01:49:16,00:04:21,00:04:56,05:18:22
+ironman-70.3-dublin-20170820.csv,642,Nikhil Shrikant Badwe,35,Karnataka,IND,00:43:15,03:16:45,02:08:24,00:14:49,00:12:03,06:35:16
+ironman-70.3-dublin-20170820.csv,643,David Flynn,43,Dublin,IRL,00:49:39,03:12:58,02:03:30,00:08:37,00:07:13,06:21:57
+ironman-70.3-dublin-20170820.csv,644,Rosemary Ryan,44,Cork,IRL,00:46:23,03:24:52,02:21:11,00:06:29,00:08:24,06:47:19
+ironman-70.3-dublin-20170820.csv,645,Pj Aherne,28,Cork,IRL,00:45:59,02:50:57,02:09:38,00:07:19,00:07:11,06:01:04
+ironman-70.3-dublin-20170820.csv,646,Warren Terry,35,Ireland,IRL,00:39:32,02:38:53,01:39:27,00:05:02,00:03:56,05:06:50
+ironman-70.3-dublin-20170820.csv,647,Anthony O'Donovan,40,Cork,IRL,00:44:50,02:56:11,01:51:02,00:06:48,00:07:25,05:46:16
+ironman-70.3-dublin-20170820.csv,648,John Malone,45,cork,IRL,00:44:50,02:51:05,01:27:37,00:07:20,00:03:53,05:14:45
+ironman-70.3-dublin-20170820.csv,649,Scott Dixey,34,---,GBR,00:38:17,02:44:35,01:40:54,00:04:22,00:04:57,05:13:05
+ironman-70.3-dublin-20170820.csv,650,Andrew Elturk,33,NSW,AUS,00:42:08,02:56:07,01:51:06,00:07:35,00:04:45,05:41:41
+ironman-70.3-dublin-20170820.csv,651,Arnaud Malinconi,33,DUBLIN,FRA,00:39:32,02:45:49,01:42:59,00:05:45,00:05:15,05:19:20
+ironman-70.3-dublin-20170820.csv,652,Nicola Marsh,42,---,GBR,00:44:03,02:39:57,01:48:12,00:09:05,00:06:39,05:27:56
+ironman-70.3-dublin-20170820.csv,653,Alexander Jones,23,---,GBR,00:29:04,02:20:12,01:25:49,00:04:21,00:03:28,04:22:54
+ironman-70.3-dublin-20170820.csv,654,Mike Hughes,40,Glos,GBR,00:38:33,02:29:52,01:35:41,00:04:21,00:03:58,04:52:25
+ironman-70.3-dublin-20170820.csv,655,Alexsandro França Prestes,33,Ireland,BRA,00:46:58,03:06:53,02:18:16,00:07:35,00:13:18,06:33:00
+ironman-70.3-dublin-20170820.csv,656,Edelle Henry,32,Derry,IRL,00:39:02,02:59:09,02:01:21,00:06:23,00:08:33,05:54:28
+ironman-70.3-dublin-20170820.csv,657,Gerard Lundy,43,Derry,IRL,00:37:18,02:46:27,02:09:52,00:04:21,00:05:29,05:43:27
+ironman-70.3-dublin-20170820.csv,658,Mark Mccloy,46,---,IRL,00:39:48,02:52:41,01:51:58,00:06:48,00:08:23,05:39:38
+ironman-70.3-dublin-20170820.csv,659,Thomas Moore,46,---,IRL,00:29:48,02:32:55,01:39:20,00:04:22,00:03:42,04:50:07
+ironman-70.3-dublin-20170820.csv,660,Aaron Ballantyne,49,---,GBR,00:33:30,02:32:58,01:33:06,00:04:21,00:04:17,04:48:12
+ironman-70.3-dublin-20170820.csv,662,Billy Ryan,29,Waterford,IRL,00:37:33,02:41:31,01:40:55,00:04:22,00:03:22,05:07:43
+ironman-70.3-dublin-20170820.csv,665,Paul Dee-Carter,45,Waterford,AUS,00:39:37,02:45:53,01:50:17,00:04:21,00:05:29,05:25:37
+ironman-70.3-dublin-20170820.csv,666,Tomas Mahony,47,Waterford,IRL,00:43:23,03:00:11,01:41:57,00:11:48,00:05:16,05:42:35
+ironman-70.3-dublin-20170820.csv,667,Ray Harty,45,Waterford,IRL,00:47:17,02:52:32,02:07:18,00:05:51,00:06:45,05:59:43
+ironman-70.3-dublin-20170820.csv,668,Toby Bedell,45,Waterford,IRL,00:40:59,02:30:37,01:50:00,00:05:18,00:05:01,05:11:55
+ironman-70.3-dublin-20170820.csv,669,Ryan Stevens,33,OR,USA,00:50:14,02:59:55,02:07:28,00:08:49,00:07:41,06:14:07
+ironman-70.3-dublin-20170820.csv,670,Keith O'Connell,43,Mayo,IRL,00:32:33,02:26:13,01:46:56,00:04:22,00:09:34,04:59:38
+ironman-70.3-dublin-20170820.csv,671,Killian Nolan,32,Dublin,IRL,00:32:02,02:25:52,01:26:19,00:04:22,00:03:38,04:32:13
+ironman-70.3-dublin-20170820.csv,672,Darren Hughes,31,Dublin 16,IRL,00:28:58,02:30:16,01:46:11,00:04:21,00:04:25,04:54:11
+ironman-70.3-dublin-20170820.csv,673,Mark Kelly,35,---,IRL,00:37:53,02:34:38,01:57:17,00:05:02,00:04:55,05:19:45
+ironman-70.3-dublin-20170820.csv,674,Eoin O'Reilly,43,Dublin 15,IRL,00:44:49,03:01:23,02:16:40,00:07:42,00:09:36,06:20:10
+ironman-70.3-dublin-20170820.csv,675,Marc Bennett,40,Dublin 16,IRL,00:40:14,02:36:05,02:01:20,00:04:21,00:05:47,05:27:47
+ironman-70.3-dublin-20170820.csv,676,Nick Harden,47,Cork,AUS,00:36:51,02:58:12,02:23:41,00:04:21,00:11:19,06:14:24
+ironman-70.3-dublin-20170820.csv,677,Paul Mccarthy,44,Galway,IRL,00:50:00,02:40:14,02:02:40,00:06:42,00:05:03,05:44:39
+ironman-70.3-dublin-20170820.csv,678,Shane Raftery,29,CA,USA,00:41:28,03:17:03,02:27:54,00:04:22,00:11:32,06:42:19
+ironman-70.3-dublin-20170820.csv,679,Jd Flynn,31,Kilkenny,IRL,00:39:17,02:59:30,01:47:35,00:06:21,00:05:19,05:38:02
+ironman-70.3-dublin-20170820.csv,680,Joseph Sinnott,28,WEXFORD,IRL,00:38:55,02:36:01,01:54:58,00:04:21,00:04:51,05:19:06
+ironman-70.3-dublin-20170820.csv,681,Fergal Murphy,46,Carlow,IRL,00:48:00,03:10:43,02:08:31,00:09:15,00:08:34,06:25:03
+ironman-70.3-dublin-20170820.csv,682,Patrick Loughnane,36,Dublin,IRL,00:32:09,02:47:15,02:02:43,00:04:22,00:06:33,05:33:02
+ironman-70.3-dublin-20170820.csv,683,Stephen Ridley,31,Berkshire,GBR,00:35:43,02:22:28,01:21:15,00:04:10,00:02:57,04:26:33
+ironman-70.3-dublin-20170820.csv,684,Conor Fitzgerald,44,Wexford,IRL,00:38:36,02:59:58,02:00:20,00:04:21,00:05:36,05:48:51
+ironman-70.3-dublin-20170820.csv,685,Peter Wedderburn,54,CO. WICKLOW,IRL,00:38:15,02:45:45,01:45:51,00:03:51,00:04:30,05:18:12
+ironman-70.3-dublin-20170820.csv,696,Sarah Hodgson,21,---,GBR,00:25:49,02:43:45,01:24:42,00:04:22,00:03:08,04:41:46
+ironman-70.3-dublin-20170820.csv,697,Laura Clare Addie,22,East Sussex,GBR,00:32:25,02:40:30,01:32:43,00:03:40,00:03:45,04:53:03
+ironman-70.3-dublin-20170820.csv,698,Ellie Mcardle,20,Tyrone,IRL,00:35:22,02:54:38,02:13:37,00:04:21,00:05:29,05:53:27
+ironman-70.3-dublin-20170820.csv,699,Lucy Wright,23,kent,GBR,00:43:43,03:09:02,02:11:16,00:06:57,00:06:20,06:17:18
+ironman-70.3-dublin-20170820.csv,700,Gabriela Carreño Tagliafico,22,Co. Dublin,VEN,00:51:44,03:23:21,02:26:38,00:05:39,00:05:09,06:52:31
+ironman-70.3-dublin-20170820.csv,701,Imogen Gough,24,Manchester,GBR,00:33:54,03:17:14,01:50:37,00:04:22,00:06:48,05:52:55
+ironman-70.3-dublin-20170820.csv,702,Sally Harvey,23,---,GBR,00:37:25,02:54:04,02:15:52,00:05:43,00:07:29,06:00:33
+ironman-70.3-dublin-20170820.csv,703,Beth Eardley,22,Staffordshire,GBR,00:43:02,02:46:43,02:22:08,00:04:58,00:04:59,06:01:50
+ironman-70.3-dublin-20170820.csv,704,Milly Deer,20,Shropshire,GBR,00:39:54,03:06:29,02:10:15,00:04:14,00:05:35,06:06:27
+ironman-70.3-dublin-20170820.csv,705,Grainne Kelly,28,Dublin,IRL,00:32:30,03:07:36,02:06:28,00:04:22,00:04:49,05:55:45
+ironman-70.3-dublin-20170820.csv,706,Nicole Lynch,25,Dublin 22,IRL,00:55:30,03:33:16,02:31:00,00:08:09,00:11:07,07:19:02
+ironman-70.3-dublin-20170820.csv,708,Theresa O Reilly,28,Cork,IRL,00:44:44,03:20:55,02:31:00,00:04:22,00:08:35,06:49:36
+ironman-70.3-dublin-20170820.csv,709,Jen Ní Shúilleabháin,25,Dublin,IRL,00:33:24,02:43:30,01:49:46,00:04:22,00:04:29,05:15:31
+ironman-70.3-dublin-20170820.csv,710,Elziabeth Duncombe,27,---,GBR,00:39:08,02:44:18,01:49:36,00:04:21,00:06:58,05:24:21
+ironman-70.3-dublin-20170820.csv,712,Laurentina Schaler,29,Ireland,IRL,00:32:20,02:54:36,02:05:36,00:04:22,00:06:44,05:43:38
+ironman-70.3-dublin-20170820.csv,713,Sarah Faull,29,---,GBR,00:38:37,03:07:40,02:21:44,00:04:21,00:06:21,06:18:43
+ironman-70.3-dublin-20170820.csv,714,Helen Blamey,28,London,GBR,00:41:19,03:23:33,02:09:16,00:04:21,00:06:11,06:24:40
+ironman-70.3-dublin-20170820.csv,715,Helena Kelly,26,Kildare,IRL,00:43:47,03:27:32,02:17:00,00:08:44,00:07:02,06:44:05
+ironman-70.3-dublin-20170820.csv,716,Joia Spinelli,29,NJ,USA,00:38:51,02:58:03,01:46:18,00:04:21,00:04:41,05:32:14
+ironman-70.3-dublin-20170820.csv,717,Ella Shanahan,25,Dublin,AUS,00:37:58,03:05:52,02:04:45,00:04:30,00:07:37,06:00:42
+ironman-70.3-dublin-20170820.csv,718,Caitriona Ryan,28,Dublin,IRL,00:33:58,02:46:35,01:47:46,00:04:21,00:05:26,05:18:06
+ironman-70.3-dublin-20170820.csv,719,Lucy Dockrell,28,Dublin,IRL,00:38:08,03:03:48,02:10:22,00:05:13,00:05:15,06:02:46
+ironman-70.3-dublin-20170820.csv,721,Alice Keating,26,Cork,IRL,00:36:49,03:12:40,02:26:56,00:06:57,00:07:32,06:30:54
+ironman-70.3-dublin-20170820.csv,723,Sarah Whincup,28,Lambeth ,GBR,00:44:16,03:12:18,01:54:57,00:06:52,00:09:01,06:07:24
+ironman-70.3-dublin-20170820.csv,724,Joanna Sutton,26,Northumberland,GBR,00:31:57,02:39:29,01:35:14,00:04:22,00:03:21,04:54:23
+ironman-70.3-dublin-20170820.csv,725,Claire Alligood,25,GA,USA,00:44:55,03:21:52,02:08:46,00:07:29,00:06:11,06:29:13
+ironman-70.3-dublin-20170820.csv,728,Marie Fall,25,---,GBR,00:44:42,03:01:02,01:57:38,00:04:21,00:05:06,05:52:49
+ironman-70.3-dublin-20170820.csv,729,Jessica Carridge,25,Isle of Man,GBR,00:37:53,02:56:19,01:57:58,00:05:09,00:04:24,05:41:43
+ironman-70.3-dublin-20170820.csv,730,Caoimhe Proud-Murphy,30,Dublin,IRL,00:39:30,03:11:24,02:35:09,00:08:01,00:10:50,06:44:54
+ironman-70.3-dublin-20170820.csv,732,Catherine O Kane,31,Kent,IRL,00:41:38,02:48:02,01:47:26,00:04:22,00:06:39,05:28:07
+ironman-70.3-dublin-20170820.csv,733,Rebecca Morgan,30,---,GBR,01:02:48,03:52:25,---,00:10:17,00:08:38,DNF
+ironman-70.3-dublin-20170820.csv,734,Emma Kennedy,31,Derry,IRL,00:49:56,03:30:35,02:27:06,00:08:54,00:09:33,07:06:04
+ironman-70.3-dublin-20170820.csv,735,Claire Duffy,33,Donegal,IRL,00:49:59,03:23:11,02:21:31,00:10:59,00:09:14,06:54:54
+ironman-70.3-dublin-20170820.csv,736,Karen O'shea,29,Co Meath,IRL,00:46:39,03:38:29,01:55:05,00:09:56,00:08:28,06:38:37
+ironman-70.3-dublin-20170820.csv,737,Katie Jacob,32,Co. Waterford,IRL,00:40:31,03:24:58,02:24:37,00:04:21,00:10:17,06:44:44
+ironman-70.3-dublin-20170820.csv,738,Karina Murray,30,Dublin 7,IRL,00:50:04,03:28:42,02:14:12,00:10:57,00:12:43,06:56:38
+ironman-70.3-dublin-20170820.csv,739,Barbara Kruta,31,Dublin,SVN,00:43:32,02:52:28,02:04:15,00:11:10,00:08:07,05:59:32
+ironman-70.3-dublin-20170820.csv,740,Aoife Donnelly,34,Meath,IRL,00:28:54,02:56:24,01:42:37,00:04:21,00:06:33,05:18:49
+ironman-70.3-dublin-20170820.csv,741,Nicola Hickey-Crowe,34,Dublin ,IRL,00:39:14,02:46:27,01:36:06,00:05:39,00:04:00,05:11:26
+ironman-70.3-dublin-20170820.csv,742,Kristina Woodhart,30,---,GBR,00:31:37,02:37:15,01:38:04,00:04:20,00:03:27,04:54:43
+ironman-70.3-dublin-20170820.csv,743,Aine Kelly,30,Dublin,IRL,00:40:22,---,---,---,---,DNF
+ironman-70.3-dublin-20170820.csv,745,Valerie Hayes,34,Wicklow,IRL,00:38:46,03:16:28,02:25:52,00:04:21,00:11:06,06:36:33
+ironman-70.3-dublin-20170820.csv,746,Viktoria Garner,31,---,GBR,00:55:50,03:09:16,02:00:37,00:06:00,00:04:57,06:16:40
+ironman-70.3-dublin-20170820.csv,747,Rachael Goggins,32,Dublin,IRL,00:37:25,02:31:56,---,00:03:54,---,DNF
+ironman-70.3-dublin-20170820.csv,749,Catherine Kelly,31,Roscommon,IRL,00:47:17,03:37:19,02:15:22,00:07:41,00:07:16,06:54:55
+ironman-70.3-dublin-20170820.csv,750,Breege Smith,33,Meath,IRL,00:48:25,03:05:40,02:06:17,00:06:33,00:09:10,06:16:05
+ironman-70.3-dublin-20170820.csv,751,Amy Henderson,31,NL,CAN,00:41:26,03:13:20,02:12:30,00:08:28,00:07:31,06:23:15
+ironman-70.3-dublin-20170820.csv,753,Simone Osetrow,30,Dublin,DEU,00:43:08,03:15:42,02:29:41,00:04:21,00:06:50,06:39:42
+ironman-70.3-dublin-20170820.csv,754,Katherine Wood,33,AE,USA,00:46:29,03:32:50,02:25:47,00:09:27,00:08:55,07:03:28
+ironman-70.3-dublin-20170820.csv,755,Eimear Farrelly,33,co roscommon,IRL,00:40:37,02:48:36,02:05:17,00:06:08,00:08:10,05:48:48
+ironman-70.3-dublin-20170820.csv,756,Charlotte Lester,33,Middlesex,GBR,00:40:37,03:12:39,02:11:15,00:10:06,00:08:09,06:22:46
+ironman-70.3-dublin-20170820.csv,759,Catherine O' Byrne,34,Wexford,IRL,00:46:15,03:09:27,02:00:41,00:07:29,00:08:02,06:11:54
+ironman-70.3-dublin-20170820.csv,760,Anne Marie Fenton,30,Dublin 11,IRL,00:32:08,03:02:22,02:31:40,00:04:21,00:07:30,06:18:01
+ironman-70.3-dublin-20170820.csv,761,Caoimhe Costigan,29,Dublin,IRL,00:49:54,02:59:29,01:49:05,00:06:02,00:04:38,05:49:08
+ironman-70.3-dublin-20170820.csv,763,Louise Cuddihy,32,Kilkenny,IRL,00:43:54,02:58:22,01:46:49,00:05:34,00:05:21,05:40:00
+ironman-70.3-dublin-20170820.csv,765,Laura Keane,36,Cork,IRL,00:47:12,03:18:32,02:03:00,00:06:59,00:06:39,06:22:22
+ironman-70.3-dublin-20170820.csv,766,Sinead Hanley,36,Roscommon,IRL,00:51:52,04:02:33,02:45:33,00:07:46,00:06:27,07:54:11
+ironman-70.3-dublin-20170820.csv,767,Sinead Stafford,39,co kerry,IRL,00:44:37,02:47:32,01:47:59,00:04:21,00:04:58,05:29:27
+ironman-70.3-dublin-20170820.csv,768,Emily Grace,39,DUBLIN,IRL,00:44:53,03:28:10,02:29:31,00:04:21,00:12:21,06:59:16
+ironman-70.3-dublin-20170820.csv,769,Carmel Jackson,37,Dublin,IRL,00:52:21,03:21:21,02:16:59,00:08:25,00:06:57,06:46:03
+ironman-70.3-dublin-20170820.csv,770,Dympna Kelly,38,Leitrim,IRL,00:35:11,02:42:03,01:44:07,00:04:03,00:04:53,05:10:17
+ironman-70.3-dublin-20170820.csv,771,Yvonne Mccarthy,36,kilkenny,IRL,00:50:36,03:21:57,02:37:49,00:05:45,00:09:33,07:05:40
+ironman-70.3-dublin-20170820.csv,772,Kim Walsh,35,Cork,IRL,00:45:41,03:31:52,02:42:38,00:05:59,00:06:47,07:12:57
+ironman-70.3-dublin-20170820.csv,773,Siobhan Canning,36,Dublin 15,IRL,00:50:37,03:35:41,02:34:08,00:10:19,00:15:46,07:26:31
+ironman-70.3-dublin-20170820.csv,774,Kirsten Cameron,36,---,GBR,00:33:40,02:38:28,01:40:07,00:03:15,00:04:06,04:59:36
+ironman-70.3-dublin-20170820.csv,775,Lindsay Shearer,36,Fife,GBR,00:44:38,03:11:35,02:05:14,00:10:20,00:12:59,06:24:46
+ironman-70.3-dublin-20170820.csv,776,Antoinette Johnston,38,Clare,IRL,00:43:25,03:02:14,02:20:24,00:10:47,00:06:13,06:23:03
+ironman-70.3-dublin-20170820.csv,777,Anne Marie O'Keeffe,37,Tipperary,IRL,00:44:30,03:17:29,02:25:17,00:08:25,00:07:11,06:42:52
+ironman-70.3-dublin-20170820.csv,778,Anna Tambovtseva,36,"
+Moscow region",RUS,00:52:49,03:29:23,02:26:53,00:10:59,00:15:06,07:15:10
+ironman-70.3-dublin-20170820.csv,779,Clare Jones,35,ON,GBR,00:41:17,02:54:40,01:39:39,00:05:28,00:06:29,05:27:33
+ironman-70.3-dublin-20170820.csv,780,Karen Power,34,Waterford,IRL,00:39:39,03:07:09,02:06:40,00:04:22,00:05:44,06:03:34
+ironman-70.3-dublin-20170820.csv,781,Julie Monaghan,35,Waterford,IRL,00:44:52,03:12:04,01:55:07,00:06:52,00:08:10,06:07:05
+ironman-70.3-dublin-20170820.csv,783,Kathleen Little,---,---,IRL,00:59:21,03:15:58,02:18:19,00:08:26,00:06:40,06:48:44
+ironman-70.3-dublin-20170820.csv,784,Eleanor Fennessy,38,Cork,IRL,00:41:28,02:53:53,01:56:50,00:08:48,00:10:47,05:51:46
+ironman-70.3-dublin-20170820.csv,785,Rachel Stephens,36,---,GBR,00:51:03,02:51:20,02:08:48,00:06:35,00:07:04,06:04:50
+ironman-70.3-dublin-20170820.csv,786,Carolyn Last,36,WGN,NZL,00:41:50,03:16:33,02:07:56,00:08:40,00:06:37,06:21:36
+ironman-70.3-dublin-20170820.csv,787,Bronagh Mcconnell,36,Down,IRL,00:39:21,03:10:43,01:45:51,00:06:04,00:07:01,05:49:00
+ironman-70.3-dublin-20170820.csv,788,Sue Cooper,35,---,GBR,00:45:09,03:09:20,01:43:14,00:06:10,00:07:56,05:51:49
+ironman-70.3-dublin-20170820.csv,789,Priscilla Crombie,35,Offaly,IRL,00:55:41,03:18:01,02:06:56,00:05:54,00:05:08,06:31:40
+ironman-70.3-dublin-20170820.csv,790,Ann Lason,37,VA,USA,00:34:22,02:54:34,01:52:26,00:04:21,00:05:45,05:31:28
+ironman-70.3-dublin-20170820.csv,791,Margaret Murphy,34,Wexford,IRL,00:40:28,02:54:58,01:54:50,00:06:36,00:05:47,05:42:39
+ironman-70.3-dublin-20170820.csv,792,Nici O' Neill,37,Kildare,IRL,00:47:03,03:24:33,02:14:31,00:12:48,00:06:20,06:45:15
+ironman-70.3-dublin-20170820.csv,793,Sarah O'Hare,35,---,IRL,00:40:30,03:28:01,02:43:07,00:10:50,00:07:11,07:09:39
+ironman-70.3-dublin-20170820.csv,794,Donna Peacock,38,Tyne and Wear,GBR,00:54:31,03:49:43,03:03:23,00:08:53,00:09:40,08:06:10
+ironman-70.3-dublin-20170820.csv,795,Emma Mcmenamy,34,Dublin,IRL,00:50:37,03:10:14,02:05:56,00:08:35,00:06:49,06:22:11
+ironman-70.3-dublin-20170820.csv,797,Rachael Sands,38,---,IRL,00:43:17,03:17:08,01:55:26,00:06:42,00:08:03,06:10:36
+ironman-70.3-dublin-20170820.csv,798,Megan Granich,39,CA,USA,00:40:37,02:59:13,01:53:37,00:09:52,00:08:08,05:51:27
+ironman-70.3-dublin-20170820.csv,799,Anna Edgeworth,34,Meath,IRL,00:36:03,03:10:50,01:50:57,00:05:35,00:07:15,05:50:40
+ironman-70.3-dublin-20170820.csv,800,Laura Jacque,34,---,USA,00:35:11,02:53:14,01:43:43,00:04:22,00:04:59,05:21:29
+ironman-70.3-dublin-20170820.csv,801,Gillian Kinkade,37,Cavan,IRL,00:51:05,02:44:16,01:56:48,00:06:25,00:07:56,05:46:30
+ironman-70.3-dublin-20170820.csv,802,Sarah Tomalewicz,38,London,USA,00:48:50,03:46:43,02:18:54,00:09:12,00:09:51,07:13:30
+ironman-70.3-dublin-20170820.csv,803,Eileen Mcdonnell,35,Dublin,IRL,00:44:22,03:42:51,02:36:25,00:09:50,00:12:14,07:25:42
+ironman-70.3-dublin-20170820.csv,804,Yvonne Rogan,34,Co. Roscommon,IRL,00:40:06,02:57:59,02:29:42,00:05:41,00:06:49,06:20:17
+ironman-70.3-dublin-20170820.csv,806,Lorraine Bowler,37,Kerry,IRL,00:38:36,03:27:32,02:31:10,00:04:22,00:10:15,06:51:55
+ironman-70.3-dublin-20170820.csv,807,Sinead Cowman,39,Dublin,IRL,00:50:27,03:32:52,03:07:38,00:09:10,00:13:10,07:53:17
+ironman-70.3-dublin-20170820.csv,808,Eimear Laffan,41,Limerick,IRL,00:37:55,03:05:40,01:50:22,00:06:27,00:06:11,05:46:35
+ironman-70.3-dublin-20170820.csv,809,Andrea Campbell,42,Dublin,IRL,00:53:41,03:32:08,02:37:04,00:09:11,00:11:09,07:23:13
+ironman-70.3-dublin-20170820.csv,810,Ciara Mcsweeney,40,Waterford,IRL,00:35:32,03:03:34,01:42:18,00:06:05,00:08:41,05:36:10
+ironman-70.3-dublin-20170820.csv,811,Sarah Mortimer,44,Wicklow,IRL,00:58:45,---,---,00:12:06,---,DNF
+ironman-70.3-dublin-20170820.csv,812,Karen Mcgouran,42,Westmeath,IRL,00:45:07,03:47:19,02:24:18,00:04:22,00:11:04,07:12:10
+ironman-70.3-dublin-20170820.csv,813,Noirin Hayes,43,---,IRL,00:37:12,03:07:09,02:17:52,00:07:51,00:09:14,06:19:18
+ironman-70.3-dublin-20170820.csv,814,Susan Hayes,41,Waterford,IRL,00:45:53,03:29:33,02:15:10,00:09:06,00:10:39,06:50:21
+ironman-70.3-dublin-20170820.csv,815,Lorraine  Kirby,44,Limerick,IRL,00:51:55,03:22:57,02:09:27,00:09:06,00:06:34,06:39:59
+ironman-70.3-dublin-20170820.csv,817,Marie Mcloughlin,40,longford,IRL,00:44:10,03:01:32,02:02:14,00:08:19,00:05:30,06:01:45
+ironman-70.3-dublin-20170820.csv,819,Orla Mc Cluskey,43,Galway,IRL,00:47:10,03:11:20,01:56:34,00:08:28,00:06:24,06:09:56
+ironman-70.3-dublin-20170820.csv,820,Aisling Mcelroy,43,Co Donegal,IRL,00:33:41,02:58:26,02:11:32,00:04:22,00:09:20,05:57:21
+ironman-70.3-dublin-20170820.csv,821,Catherine Mcoscar,40,Derry,IRL,01:10:50,---,---,---,---,DNF
+ironman-70.3-dublin-20170820.csv,822,Benvon Lyons,40,waterford,IRL,00:40:03,03:02:28,01:37:33,00:05:43,00:06:33,05:32:20
+ironman-70.3-dublin-20170820.csv,823,Orla Brosnan,40,Co kerry,IRL,00:52:15,03:30:23,02:15:29,00:08:42,00:07:54,06:54:43
+ironman-70.3-dublin-20170820.csv,824,Dalene Theunissen,41,Devon,GBR,---,---,---,---,---,DNF
+ironman-70.3-dublin-20170820.csv,825,Fiona Alston,40,Co. Wicklow,GBR,00:43:57,03:25:22,02:06:19,00:09:06,00:10:51,06:35:35
+ironman-70.3-dublin-20170820.csv,826,Orla Finn,40,Dublin,IRL,00:42:09,03:12:49,02:12:08,00:08:14,00:11:37,06:26:57
+ironman-70.3-dublin-20170820.csv,827,Urszula Wzorek,39,Cavan,POL,00:50:25,03:07:20,02:27:06,00:07:45,00:09:39,06:42:15
+ironman-70.3-dublin-20170820.csv,828,Geraldine Bennett,42,MA,IRL,00:39:27,03:01:33,02:39:12,00:04:21,00:08:41,06:33:14
+ironman-70.3-dublin-20170820.csv,830,Karen Reynolds,40,westmeath,IRL,00:40:10,03:11:07,02:08:49,00:04:22,00:07:55,06:12:23
+ironman-70.3-dublin-20170820.csv,831,Carmel Hughes,43,westmeath,IRL,00:48:40,03:21:10,01:56:24,00:09:19,00:06:38,06:22:11
+ironman-70.3-dublin-20170820.csv,832,Carna Kriel,44,---,ZAF,00:38:38,03:05:35,02:05:13,00:04:22,00:05:24,05:59:12
+ironman-70.3-dublin-20170820.csv,833,Paula Scott,40,Offaly,IRL,00:49:48,03:27:26,02:12:42,00:08:40,00:10:59,06:49:35
+ironman-70.3-dublin-20170820.csv,834,Sinead Ni Mhairtin,44,Wicklow,IRL,00:33:58,02:50:00,01:53:30,00:04:21,00:07:51,05:29:40
+ironman-70.3-dublin-20170820.csv,835,Yvonne Sheehan,43,Tipperary,IRL,00:53:16,03:47:02,02:17:54,00:11:05,00:06:55,07:16:12
+ironman-70.3-dublin-20170820.csv,836,Robyn Hampton,42,Armagh,IRL,00:53:55,03:42:18,02:38:21,00:07:21,00:07:44,07:29:39
+ironman-70.3-dublin-20170820.csv,837,Angie Hartnett,43,Co Mayo,IRL,00:50:01,04:03:56,02:34:46,00:10:51,00:11:57,07:51:31
+ironman-70.3-dublin-20170820.csv,838,Jayne Jackson,42,Tyrone,IRL,00:47:39,03:28:57,02:38:28,00:09:22,00:10:02,07:14:28
+ironman-70.3-dublin-20170820.csv,839,Rebecca Brennan,41,surrey,GBR,00:55:28,03:25:14,02:05:57,00:12:14,00:07:20,06:46:13
+ironman-70.3-dublin-20170820.csv,840,Lucy Turbitt,42,Kent,GBR,00:43:37,03:52:30,02:57:54,00:11:45,00:09:46,07:55:32
+ironman-70.3-dublin-20170820.csv,841,Jayne Drury,41,Clare,IRL,00:39:42,03:02:47,02:09:25,00:07:45,00:06:17,06:05:56
+ironman-70.3-dublin-20170820.csv,842,Allyson Anstee,44,Northants,GBR,00:51:59,03:08:06,01:59:31,00:07:00,00:05:31,06:12:07
+ironman-70.3-dublin-20170820.csv,843,Irene Finnegan,40,Co .Meath,IRL,00:46:30,03:25:30,02:30:15,00:07:37,00:08:12,06:58:04
+ironman-70.3-dublin-20170820.csv,844,Eleri Macrae,41,Carmarthenshire,GBR,00:42:23,03:06:22,01:54:33,00:05:46,00:07:03,05:56:07
+ironman-70.3-dublin-20170820.csv,845,Lisa Hurley,44,Cork,IRL,00:57:11,03:10:01,02:03:40,00:10:23,00:08:03,06:29:18
+ironman-70.3-dublin-20170820.csv,846,Joanne McCann,43,Cork,IRL,00:39:35,03:11:46,01:53:47,00:08:12,00:09:27,06:02:47
+ironman-70.3-dublin-20170820.csv,847,Irma Mchardy,40,WEST SUSSEX,HRV,00:45:13,03:36:15,02:21:02,00:09:21,00:07:46,06:59:37
+ironman-70.3-dublin-20170820.csv,848,Noela Mullan,43,---,IRL,00:39:45,02:58:09,02:07:27,00:06:18,00:09:11,06:00:50
+ironman-70.3-dublin-20170820.csv,850,Paula Roberts,44,Dublin 18,IRL,00:41:02,03:05:42,02:15:14,00:12:45,00:08:35,06:23:18
+ironman-70.3-dublin-20170820.csv,851,Fiona Powley,42,---,GBR,00:34:45,02:53:33,02:02:57,00:04:22,00:05:02,05:40:39
+ironman-70.3-dublin-20170820.csv,852,Sarah Cave,39,---,GBR,00:45:47,03:15:31,02:10:55,00:07:50,00:05:41,06:25:44
+ironman-70.3-dublin-20170820.csv,854,Kirsten Doyle,44,---,GBR,00:47:16,03:38:54,02:23:06,00:07:51,00:07:58,07:05:05
+ironman-70.3-dublin-20170820.csv,855,Lucy Saxelby,40,---,GBR,00:40:16,02:55:07,02:03:53,00:04:21,00:04:29,05:48:06
+ironman-70.3-dublin-20170820.csv,856,Kerry Swarbrooke,40,Lincolnshire,GBR,00:47:26,03:52:32,02:32:16,00:07:23,00:12:21,07:31:58
+ironman-70.3-dublin-20170820.csv,857,Natalie Long,44,---,GBR,00:44:36,03:12:58,02:25:13,00:07:22,00:08:36,06:38:45
+ironman-70.3-dublin-20170820.csv,858,Amy Ogden,40,---,GBR,00:38:00,02:49:24,---,00:10:25,00:19:40,DNF
+ironman-70.3-dublin-20170820.csv,859,Sinead Jennings,40,Limerick,IRL,00:35:54,02:24:39,01:24:22,00:03:31,00:03:29,04:31:55
+ironman-70.3-dublin-20170820.csv,861,Camilla O'Connor,49,Ireland,IRL,00:47:02,03:04:25,02:20:32,00:10:53,00:14:08,06:37:00
+ironman-70.3-dublin-20170820.csv,862,Michelle Mcgrath,47,Cork,IRL,00:40:32,03:12:33,01:56:23,00:05:37,00:05:00,06:00:05
+ironman-70.3-dublin-20170820.csv,863,Susan Fitzgerald,46,Cork,IRL,00:46:29,03:15:54,02:24:56,00:05:41,00:08:04,06:41:04
+ironman-70.3-dublin-20170820.csv,864,Margo O'Dowd,47,Waterford,IRL,00:42:49,03:06:29,02:00:19,00:06:47,00:08:17,06:04:41
+ironman-70.3-dublin-20170820.csv,865,Edwina Butler,48,Waterford,IRL,00:45:47,03:16:00,02:05:27,00:06:09,00:06:16,06:19:39
+ironman-70.3-dublin-20170820.csv,866,Denise Compton,49,ireland,IRL,00:34:12,02:45:18,01:52:10,00:04:22,00:06:28,05:22:30
+ironman-70.3-dublin-20170820.csv,867,Louise Ruane,49,Kilkenny,IRL,00:45:35,03:13:58,02:24:29,00:08:17,00:07:45,06:40:04
+ironman-70.3-dublin-20170820.csv,868,Lisa White,45,Antrim,IRL,00:40:44,03:12:55,02:01:15,00:09:10,00:07:10,06:11:14
+ironman-70.3-dublin-20170820.csv,869,Sheila Devaney,44,Sligo,IRL,00:47:15,03:28:55,02:09:37,00:06:37,00:05:59,06:38:23
+ironman-70.3-dublin-20170820.csv,870,Emer Barry,46,Limerick,IRL,00:48:07,03:31:15,02:15:41,00:10:00,00:10:50,06:55:53
+ironman-70.3-dublin-20170820.csv,871,Sylvia Mccarthy,47,Ireland,IRL,00:46:09,03:23:23,02:18:55,00:07:57,00:09:23,06:45:47
+ironman-70.3-dublin-20170820.csv,872,Janet Ward,46,Ireland,IRL,00:42:01,02:58:05,02:13:12,00:04:22,00:06:18,06:03:58
+ironman-70.3-dublin-20170820.csv,874,Mandy Downton,46,---,IRL,00:48:55,03:10:07,02:41:24,00:07:50,00:12:25,07:00:41
+ironman-70.3-dublin-20170820.csv,875,Marieann Campbell,44,Dublin,IRL,00:52:18,03:21:00,02:17:44,00:10:47,00:07:47,06:49:36
+ironman-70.3-dublin-20170820.csv,876,Laura Shilling,47,Dublin,IRL,00:37:29,02:32:25,01:49:40,00:04:53,00:04:38,05:09:05
+ironman-70.3-dublin-20170820.csv,877,Renee Lafauci,48,FL,USA,00:46:00,03:20:48,02:31:54,00:07:59,00:09:40,06:56:21
+ironman-70.3-dublin-20170820.csv,879,Heather Purcell,47,Kilkenny,IRL,00:42:19,03:03:17,01:54:44,00:06:11,00:05:05,05:51:36
+ironman-70.3-dublin-20170820.csv,880,Giovanna Fitzgerald,48,N. Yorkshire,IRL,00:40:58,03:09:39,02:13:46,00:08:55,00:06:24,06:19:42
+ironman-70.3-dublin-20170820.csv,881,Michelle White,45,Co meath,IRL,00:51:52,03:58:36,---,00:08:32,---,DNF
+ironman-70.3-dublin-20170820.csv,882,Marlies Budde-Petch,48,Wicklow,DEU,00:45:46,02:56:16,02:03:11,00:07:19,00:09:05,06:01:37
+ironman-70.3-dublin-20170820.csv,883,Melissa Thomas,49,Shropshire,GBR,00:47:47,02:54:30,02:27:02,00:08:22,00:10:58,06:28:39
+ironman-70.3-dublin-20170820.csv,884,Merissa James,47,West Midlands,GBR,00:47:53,03:07:45,02:00:04,00:11:23,00:09:21,06:16:26
+ironman-70.3-dublin-20170820.csv,885,Patrina Feenan,46,NY,IRL,01:00:30,03:53:46,02:49:04,00:09:36,00:08:58,08:01:54
+ironman-70.3-dublin-20170820.csv,886,Bernie Mockler,48,waterford,IRL,00:47:46,03:04:24,02:07:30,00:07:04,00:08:05,06:14:49
+ironman-70.3-dublin-20170820.csv,887,Sinead Donovan,44,Dublin,IRL,00:46:20,03:06:37,02:22:09,00:07:04,00:08:26,06:30:36
+ironman-70.3-dublin-20170820.csv,888,Rosie Brennan,47,---,IRL,00:47:37,03:07:15,02:02:45,00:09:18,00:06:42,06:13:37
+ironman-70.3-dublin-20170820.csv,889,Siobhan Keating,47,Waterford,IRL,00:48:16,03:23:09,02:22:36,00:10:04,00:10:29,06:54:34
+ironman-70.3-dublin-20170820.csv,890,Clare O'Kane,47,Northern Ireland,IRL,00:52:04,03:33:28,02:53:57,00:05:47,00:08:35,07:33:51
+ironman-70.3-dublin-20170820.csv,891,Kathryn Desmond,47,Dublin,IRL,00:36:13,03:25:31,03:05:41,00:04:22,00:08:04,07:19:51
+ironman-70.3-dublin-20170820.csv,892,Paitra Sparkes,48,Staffordshire,GBR,---,---,---,---,---,DQ
+ironman-70.3-dublin-20170820.csv,893,Fidelma Brennan,52,Roscommon ,IRL,00:47:56,03:25:10,02:19:55,00:09:32,00:08:03,06:50:36
+ironman-70.3-dublin-20170820.csv,894,Olive Hallahan,53,Cork,IRL,00:51:11,03:43:57,02:31:22,00:10:15,00:09:28,07:26:13
+ironman-70.3-dublin-20170820.csv,895,Patricia Kennedy,52,Donegal,IRL,00:41:03,03:12:16,02:19:38,00:06:30,00:06:58,06:26:25
+ironman-70.3-dublin-20170820.csv,896,Loretta Robson,51,---,GBR,00:47:16,03:28:03,02:19:33,00:07:31,00:06:01,06:48:24
+ironman-70.3-dublin-20170820.csv,897,Gitta Cahill,51,limerick,IRL,00:52:11,03:42:32,03:15:08,00:12:08,00:13:53,08:15:52
+ironman-70.3-dublin-20170820.csv,898,Colleen Lavelle,54,IA,USA,---,---,---,---,---,DNF
+ironman-70.3-dublin-20170820.csv,899,Ann Marie Kilkenny,51,Cavan,IRL,00:49:37,03:11:42,02:11:26,00:08:31,00:07:59,06:29:15
+ironman-70.3-dublin-20170820.csv,900,Mary Kennan,54,Co Dublinn,IRL,01:00:32,03:52:54,02:55:41,00:09:45,00:09:50,08:08:42
+ironman-70.3-dublin-20170820.csv,901,Cora Lombard,49,Waterford,IRL,00:42:35,03:06:48,02:22:17,00:08:03,00:10:08,06:29:51
+ironman-70.3-dublin-20170820.csv,902,Donna Philson,51,Derry ,IRL,00:35:54,02:45:48,01:44:36,00:04:21,00:05:46,05:16:25
+ironman-70.3-dublin-20170820.csv,903,Miriam Mcfadden,50,Ireland,IRL,00:36:25,03:03:47,02:04:29,00:04:21,00:05:58,05:55:00
+ironman-70.3-dublin-20170820.csv,904,Grainne Cunningham,50,Dublin,IRL,00:48:10,03:28:13,02:22:30,00:09:24,00:07:56,06:56:13
+ironman-70.3-dublin-20170820.csv,905,Norma Goggin,54,Waterford,IRL,00:48:49,03:14:50,02:13:00,00:10:19,00:11:19,06:38:17
+ironman-70.3-dublin-20170820.csv,906,Ann Hennebry,51,Waterford,IRL,00:42:33,03:02:35,01:58:10,00:08:10,00:08:49,06:00:17
+ironman-70.3-dublin-20170820.csv,907,Irene Henebry,51,kilkenny,IRL,00:45:32,03:11:05,02:00:18,00:06:28,00:04:58,06:08:21
+ironman-70.3-dublin-20170820.csv,908,Barbara Callaghan,50,---,GBR,00:37:55,03:20:06,02:23:24,00:04:22,00:06:58,06:32:45
+ironman-70.3-dublin-20170820.csv,909,June Mcminn,58,---,IRL,00:39:35,02:38:20,01:51:44,00:05:35,00:04:24,05:19:38
+ironman-70.3-dublin-20170820.csv,910,Ann Kelleher,56,Cork,IRL,00:52:37,03:33:41,02:24:18,00:07:35,00:07:35,07:05:46
+ironman-70.3-dublin-20170820.csv,911,Patricia Campbell,57,---,IRL,00:38:59,03:12:12,02:32:39,00:17:50,00:08:41,06:50:21
+ironman-70.3-dublin-20170820.csv,912,Jane Mcgrath,55,Intl State,IRL,00:37:01,03:02:09,02:07:27,00:08:27,00:06:57,06:02:01
+ironman-70.3-dublin-20170820.csv,913,Annemarie Du Lebohn,56,CA,IRL,00:40:20,03:26:12,02:38:15,00:04:21,00:12:42,07:01:50
+ironman-70.3-dublin-20170820.csv,914,Marie Breen,65,Wexford,IRL,00:46:46,03:16:22,02:33:05,00:09:05,00:07:35,06:52:53
+ironman-70.3-dublin-20170820.csv,915,Leon Gordon,22,Carlow,IRL,00:26:58,02:41:36,02:18:54,00:04:22,00:05:14,05:37:04
+ironman-70.3-dublin-20170820.csv,916,Joseph Daly,22,cork,IRL,00:44:04,03:02:45,02:09:54,00:06:25,00:07:40,06:10:48
+ironman-70.3-dublin-20170820.csv,918,Lorenz De Blok,24,---,BEL,00:37:26,02:44:44,01:46:44,00:06:41,00:05:51,05:21:26
+ironman-70.3-dublin-20170820.csv,919,Olivier Godfroid,23,---,BEL,00:40:08,02:42:53,01:34:01,00:05:49,00:05:24,05:08:15
+ironman-70.3-dublin-20170820.csv,920,Andreas Nef,22,---,CHE,00:44:08,02:28:12,01:39:31,00:04:21,00:06:36,05:02:48
+ironman-70.3-dublin-20170820.csv,921,Michael Cloke,22,Hertfordshire,GBR,00:36:34,02:50:24,01:57:41,00:05:37,00:08:44,05:39:00
+ironman-70.3-dublin-20170820.csv,922,Frederick Ewbank,21,Kent,GBR,00:35:53,02:39:47,01:50:06,00:04:21,00:04:40,05:14:47
+ironman-70.3-dublin-20170820.csv,924,Robert Marnoch,23,---,GBR,00:34:55,02:49:16,02:20:03,00:04:22,00:05:59,05:54:35
+ironman-70.3-dublin-20170820.csv,925,Dean Woodward,21,Norfolk,GBR,00:35:13,02:25:47,01:41:35,00:04:12,00:04:24,04:51:11
+ironman-70.3-dublin-20170820.csv,927,Callum Dunsmore,23,Cambridgeshire,GBR,00:35:20,02:31:24,02:07:40,00:04:21,00:04:57,05:23:42
+ironman-70.3-dublin-20170820.csv,928,Mark Hughes,24,Co. Galway,IRL,00:41:10,02:43:05,01:44:02,00:05:13,00:05:08,05:18:38
+ironman-70.3-dublin-20170820.csv,930,Sam Skerratt,24,Warwickshire,GBR,00:41:53,02:31:16,01:47:38,00:05:21,00:03:32,05:09:40
+ironman-70.3-dublin-20170820.csv,931,Thomas Rainer,21,FL,BRA,00:28:07,02:32:37,01:35:44,00:04:22,00:06:51,04:47:41
+ironman-70.3-dublin-20170820.csv,932,Aichlinn O'Reilly,22,Mayo,IRL,00:25:55,02:16:46,01:24:41,00:04:21,00:03:19,04:15:02
+ironman-70.3-dublin-20170820.csv,933,Brian Barrins,22,Galway,IRL,00:43:02,03:02:46,01:59:09,00:04:22,00:04:24,05:53:43
+ironman-70.3-dublin-20170820.csv,934,Jonathan Belk,24,---,GBR,00:42:41,03:24:39,02:01:15,00:04:47,00:07:52,06:21:14
+ironman-70.3-dublin-20170820.csv,935,Ciaran Brennan,23,Kilkenny,IRL,00:43:34,02:38:36,02:08:53,00:07:00,00:07:42,05:45:45
+ironman-70.3-dublin-20170820.csv,936,Rollo Konig-Brock,22,Co Louth,IRL,00:41:01,02:43:40,02:02:13,00:08:22,00:07:05,05:42:21
+ironman-70.3-dublin-20170820.csv,937,Jack Clarke,18,Co. Galway,IRL,00:34:25,03:22:57,01:49:45,00:10:52,00:05:16,06:03:15
+ironman-70.3-dublin-20170820.csv,938,Andy O'Neill,20,Co. Dublin,IRL,00:43:42,02:51:25,01:55:39,00:06:55,00:08:26,05:46:07
+ironman-70.3-dublin-20170820.csv,939,Robert Scanlon,24,Co. Dublin,IRL,00:34:30,02:25:19,01:34:09,00:04:21,00:03:26,04:41:45
+ironman-70.3-dublin-20170820.csv,940,Dermot Crean,28,Co.Cork,IRL,00:41:22,03:13:30,01:46:46,00:04:22,00:07:09,05:53:09
+ironman-70.3-dublin-20170820.csv,941,Michael Megaw,29,---,GBR,00:34:01,02:57:02,02:08:14,00:04:22,00:05:23,05:49:02
+ironman-70.3-dublin-20170820.csv,942,Barnaby Grant,24,---,GBR,00:42:22,02:49:25,01:42:51,00:05:45,00:05:12,05:25:35
+ironman-70.3-dublin-20170820.csv,944,David Strain,28,---,IRL,00:36:07,02:29:26,01:42:12,00:04:22,00:03:35,04:55:42
+ironman-70.3-dublin-20170820.csv,945,Eamonn Ryan,26,waterford,IRL,00:36:23,02:38:41,01:47:47,00:04:55,00:04:05,05:11:51
+ironman-70.3-dublin-20170820.csv,946,Raymond Kelly,28,Dublin 15,IRL,00:48:23,02:48:22,02:00:51,00:05:58,00:06:51,05:50:25
+ironman-70.3-dublin-20170820.csv,948,Stuart Scott,27,---,GBR,00:46:49,02:59:33,03:13:38,00:09:02,00:06:59,07:16:01
+ironman-70.3-dublin-20170820.csv,950,Tom Hilder,28,East Sussex,GBR,00:31:37,02:21:28,01:36:32,00:04:21,00:03:50,04:37:48
+ironman-70.3-dublin-20170820.csv,951,Matthew Brooke,28,Warwickshire,GBR,00:31:29,02:37:27,01:36:48,00:04:21,00:04:40,04:54:45
+ironman-70.3-dublin-20170820.csv,952,Daniel Lebron,25,MA,USA,00:44:16,03:25:19,02:03:18,00:04:21,00:07:20,06:24:34
+ironman-70.3-dublin-20170820.csv,954,Chris Pierce,29,Monaco,GBR,00:40:04,03:02:05,01:54:22,00:09:29,00:07:26,05:53:26
+ironman-70.3-dublin-20170820.csv,955,David Nolan,27,kilkenny ,IRL,00:43:17,02:44:48,01:56:01,00:08:25,00:05:13,05:37:44
+ironman-70.3-dublin-20170820.csv,956,Matthew Cole,28,Staffs,GBR,00:41:20,03:02:40,02:00:50,00:05:23,00:05:26,05:55:39
+ironman-70.3-dublin-20170820.csv,957,Ronan C Costello,28,dublin,IRL,00:41:25,03:12:17,02:01:45,00:07:59,00:06:32,06:09:58
+ironman-70.3-dublin-20170820.csv,958,Bradley Branagan,26,CA,USA,---,---,---,---,---,DNF
+ironman-70.3-dublin-20170820.csv,959,Jonathan Cassidy,27,Dublin,GBR,---,---,---,---,---,DNF
+ironman-70.3-dublin-20170820.csv,960,Colm O'Loughlin,29,---,IRL,00:52:28,03:07:14,02:18:06,00:06:05,00:08:02,06:31:55
+ironman-70.3-dublin-20170820.csv,961,Robertas Domarkas,26,---,---,00:41:11,02:36:15,01:37:20,00:06:14,00:04:58,05:05:58
+ironman-70.3-dublin-20170820.csv,962,Peter O'Donoghue,27,Kerry,IRL,00:54:32,03:08:18,01:49:44,00:09:42,00:05:29,06:07:45
+ironman-70.3-dublin-20170820.csv,963,Mikel Sagarna Agirrezabala,28,---,ESP,00:41:13,02:36:31,01:44:41,00:04:21,00:04:24,05:11:10
+ironman-70.3-dublin-20170820.csv,964,Adam Wright,27,EASY SUSSEX,GBR,00:33:28,02:29:46,01:43:18,00:04:21,00:03:47,04:54:40
+ironman-70.3-dublin-20170820.csv,965,Guy Schestowitz,28,tel aviv,ISR,00:43:45,---,---,00:04:21,---,05:55:11
+ironman-70.3-dublin-20170820.csv,967,Gareth Moran,29,Co.louth,IRL,00:52:20,03:07:06,01:55:42,00:06:26,00:06:32,06:08:06
+ironman-70.3-dublin-20170820.csv,968,Eamon Dolan,28,Westmeath,IRL,00:40:01,02:49:30,01:55:23,00:07:55,00:10:28,05:43:17
+ironman-70.3-dublin-20170820.csv,969,Matthew Shaw,26,Co. Dublin,ZAF,00:33:51,02:50:28,02:14:56,00:10:00,00:06:52,05:56:07
+ironman-70.3-dublin-20170820.csv,971,Patrick O'Malley,24,Greater London,GBR,00:38:57,03:19:41,02:22:46,00:10:55,00:07:56,06:40:15
+ironman-70.3-dublin-20170820.csv,972,Daniel Power,27,Co. Down,IRL,00:37:20,02:46:58,02:01:03,00:04:22,00:05:54,05:35:37
+ironman-70.3-dublin-20170820.csv,973,Alastair Blanshard,26,Hants,GBR,00:36:28,02:33:19,02:01:20,00:04:39,00:06:13,05:21:59
+ironman-70.3-dublin-20170820.csv,974,Kevin Osiecki,25,dublin,FRA,00:47:42,02:47:55,02:09:25,00:04:13,00:06:50,05:56:05
+ironman-70.3-dublin-20170820.csv,976,Eoghan Brennan,25,Tipperary,IRL,00:50:41,02:46:48,01:55:39,00:05:25,00:05:16,05:43:49
+ironman-70.3-dublin-20170820.csv,977,Hefin Rowlands,28,Powys,GBR,00:42:40,02:43:59,01:45:38,00:03:48,00:04:25,05:20:30
+ironman-70.3-dublin-20170820.csv,978,John Maguire,25,Cavan,IRL,00:38:06,02:56:57,02:10:27,00:11:03,00:06:07,06:02:40
+ironman-70.3-dublin-20170820.csv,980,Liam Mchenry,27,Antrim,IRL,00:46:06,02:47:22,01:38:42,00:11:35,00:08:50,05:32:35
+ironman-70.3-dublin-20170820.csv,982,James Hooper,27,Surrey,GBR,00:35:50,02:33:36,01:45:48,00:05:32,00:05:11,05:05:57
+ironman-70.3-dublin-20170820.csv,983,Kevin Haugh,29,Dublin,IRL,00:38:31,03:20:52,02:17:19,00:10:47,00:07:47,06:35:16
+ironman-70.3-dublin-20170820.csv,984,Chris Clayson,25,Northamptonshire,GBR,00:37:45,03:05:45,02:00:13,00:07:04,00:07:04,05:57:51
+ironman-70.3-dublin-20170820.csv,988,Ken Godden,26,Dublin 16,IRL,00:38:07,02:52:02,02:48:41,00:09:53,00:07:50,06:36:33
+ironman-70.3-dublin-20170820.csv,989,David Mccarthy,29,Waterford,IRL,00:38:44,02:57:11,01:26:46,00:10:04,00:05:02,05:17:47
+ironman-70.3-dublin-20170820.csv,990,Kevin Gildea,26,Kildare,IRL,00:40:29,02:29:57,01:46:09,00:05:48,00:06:31,05:08:54
+ironman-70.3-dublin-20170820.csv,991,Alan Tuffy,27,Mayo,IRL,00:42:12,02:46:45,01:47:03,00:06:18,00:04:33,05:26:51
+ironman-70.3-dublin-20170820.csv,992,Ross Dunsmore,25,Cambridgeshire,GBR,00:29:09,02:22:07,01:42:57,00:04:16,00:03:42,04:42:11
+ironman-70.3-dublin-20170820.csv,993,James Horner,25,West Yorkshire,GBR,00:42:59,03:19:50,02:01:15,00:09:25,00:08:19,06:21:48
+ironman-70.3-dublin-20170820.csv,994,William Wilcoxson,28,CA,USA,00:44:03,03:31:06,02:54:50,00:14:56,00:14:33,07:39:28
+ironman-70.3-dublin-20170820.csv,995,Adam Coulter,29,Armagh,GBR,00:36:10,02:33:30,01:40:26,00:04:21,00:03:38,04:58:05
+ironman-70.3-dublin-20170820.csv,996,Victor Langlois,29,Co. Dublin,FRA,00:48:32,03:00:24,01:52:35,00:20:30,00:07:37,06:09:38
+ironman-70.3-dublin-20170820.csv,997,James Wood,26,---,GBR,00:38:51,02:33:57,01:36:42,00:03:41,00:04:03,04:57:14
+ironman-70.3-dublin-20170820.csv,998,John Dillon,29,Westmeath,IRL,00:38:46,02:36:46,01:46:53,00:04:21,00:04:27,05:11:13
+ironman-70.3-dublin-20170820.csv,999,Simone Morellato,29,torino,ITA,00:37:20,02:37:17,01:44:54,00:04:21,00:03:56,05:07:48
+ironman-70.3-dublin-20170820.csv,1000,Adam Nethercot,27,Leicestershire,GBR,00:37:03,03:12:17,---,---,00:04:50,DNF
+ironman-70.3-dublin-20170820.csv,1001,Aaron Mawhinney,29,derry,IRL,00:43:34,03:30:40,02:38:58,00:08:20,00:06:45,07:08:17
+ironman-70.3-dublin-20170820.csv,1002,Kevin Schikora,26,---,DEU,00:30:39,02:38:21,02:05:47,00:04:21,00:04:00,05:23:08
+ironman-70.3-dublin-20170820.csv,1003,Sean Affonso,24,Kerry,IRL,00:28:51,02:38:28,02:08:47,00:04:22,00:05:04,05:25:32
+ironman-70.3-dublin-20170820.csv,1005,Henry Hawke,29,Cornwall,GBR,00:29:21,02:55:42,02:37:55,00:04:22,00:08:07,06:15:27
+ironman-70.3-dublin-20170820.csv,1006,Graham Fitzgerald,28,London,IRL,00:41:30,02:56:58,02:03:50,00:06:34,00:06:58,05:55:50
+ironman-70.3-dublin-20170820.csv,1007,Prajwal A N,25,Dublin,IND,---,---,---,---,---,DNF
+ironman-70.3-dublin-20170820.csv,1008,Sean Dockrell,25,dublin,IRL,00:40:05,02:56:25,01:51:24,00:08:24,00:10:17,05:46:35
+ironman-70.3-dublin-20170820.csv,1009,Anthony English,29,---,GBR,00:30:30,02:24:20,01:28:35,00:04:21,00:03:19,04:31:05
+ironman-70.3-dublin-20170820.csv,1010,Craig Potter,28,Wexford,IRL,00:40:56,02:58:51,02:23:47,00:04:44,00:06:06,06:14:24
+ironman-70.3-dublin-20170820.csv,1011,Mark Deacon,29,Leinster,IRL,00:44:57,03:00:45,01:52:09,00:07:02,00:06:08,05:51:01
+ironman-70.3-dublin-20170820.csv,1012,Rory Crowley,26,Dublin,IRL,00:37:47,02:51:43,01:41:35,00:08:53,00:06:22,05:26:20
+ironman-70.3-dublin-20170820.csv,1013,Bartlomiej Herda,29,---,POL,00:39:23,02:26:26,01:41:20,00:04:21,00:03:36,04:55:06
+ironman-70.3-dublin-20170820.csv,1014,Christopher Magee,29,Cork,IRL,00:39:10,02:56:43,01:43:41,00:07:30,00:05:50,05:32:54
+ironman-70.3-dublin-20170820.csv,1016,Stephen Burns,32,Sligo,IRL,00:33:32,02:52:04,01:46:53,00:04:22,00:07:54,05:24:45
+ironman-70.3-dublin-20170820.csv,1017,Sean Campbell,34,RN,IRL,00:41:42,03:08:21,01:43:10,00:06:29,00:05:00,05:44:42
+ironman-70.3-dublin-20170820.csv,1019,Micheal Bailey,33,Co. Kildare,IRL,00:37:09,02:20:41,01:43:54,00:04:22,00:03:27,04:49:33
+ironman-70.3-dublin-20170820.csv,1020,David Cannon,33,Kildare,IRL,00:39:52,02:39:14,01:48:06,00:05:58,00:05:12,05:18:22
+ironman-70.3-dublin-20170820.csv,1022,Niall Mulvihill,30,Longford,IRL,00:36:14,02:44:44,01:46:25,00:04:21,00:04:06,05:15:50
+ironman-70.3-dublin-20170820.csv,1023,Conor Quinn,30,Co. Wexford,IRL,00:35:00,02:26:26,01:36:02,00:04:21,00:03:45,04:45:34
+ironman-70.3-dublin-20170820.csv,1024,Darren Foley,33,Waterford ,IRL,01:02:56,03:35:03,02:23:02,00:05:53,00:08:04,07:14:58
+ironman-70.3-dublin-20170820.csv,1025,Darren Owens,33,Meath,IRL,00:42:35,03:35:59,02:17:04,00:11:05,00:13:03,06:59:46
+ironman-70.3-dublin-20170820.csv,1026,Michal Slomski,33,Cork,IRL,00:41:00,02:37:57,01:43:21,00:03:44,00:03:52,05:09:54
+ironman-70.3-dublin-20170820.csv,1027,Lorcan Kirwan,32,Leitrim,IRL,00:37:59,02:41:01,01:45:47,00:05:54,00:04:29,05:15:10
+ironman-70.3-dublin-20170820.csv,1028,Mark Conaty,32,Cavan,IRL,00:34:51,02:24:31,01:24:59,00:04:21,00:04:19,04:33:01
+ironman-70.3-dublin-20170820.csv,1029,Colin Jennings,33,Dublin,IRL,00:51:38,03:17:35,02:24:18,00:07:35,00:09:54,06:51:00
+ironman-70.3-dublin-20170820.csv,1030,Paul Judge,33,Offaly,IRL,00:43:05,03:29:12,02:07:12,00:05:37,00:06:50,06:31:56
+ironman-70.3-dublin-20170820.csv,1031,Philip Greenwood,33,---,GBR,00:35:40,02:36:21,01:36:58,00:04:21,00:03:52,04:57:12
+ironman-70.3-dublin-20170820.csv,1032,Simon Jackson,31,Kildare,IRL,00:43:20,02:46:23,01:56:21,00:08:12,00:04:00,05:38:16
+ironman-70.3-dublin-20170820.csv,1033,Peter Rusk,32,Down,IRL,00:36:41,02:29:49,01:45:00,00:04:22,00:03:52,04:59:44
+ironman-70.3-dublin-20170820.csv,1034,David Reddy,29,Dublin,IRL,00:41:30,02:50:45,02:04:08,00:06:52,00:08:01,05:51:16
+ironman-70.3-dublin-20170820.csv,1035,Martin Carr,32,Co.Louth,IRL,00:39:46,02:53:15,01:56:30,00:06:54,00:08:26,05:44:51
+ironman-70.3-dublin-20170820.csv,1036,James Murphy,34,Cork,IRL,00:40:33,03:00:05,02:04:06,00:04:22,00:05:16,05:54:22
+ironman-70.3-dublin-20170820.csv,1037,Hugh Feeley,33,Dublin 13,IRL,00:31:34,02:27:37,01:54:54,00:04:21,00:04:58,05:03:24
+ironman-70.3-dublin-20170820.csv,1038,Padraic Roche,34,Dublin,IRL,00:41:50,02:47:49,01:47:23,00:04:22,00:05:06,05:26:30
+ironman-70.3-dublin-20170820.csv,1040,Michael Martin,34,---,IRL,00:41:51,02:44:10,02:14:14,00:04:21,00:07:46,05:52:22
+ironman-70.3-dublin-20170820.csv,1041,Edward Dunphy,30,Cork,IRL,00:43:57,03:23:31,01:47:16,00:08:30,00:08:30,06:11:44
+ironman-70.3-dublin-20170820.csv,1042,Robert Williams,29,Co. Cork,IRL,00:36:41,03:52:08,01:48:05,00:05:18,00:07:16,06:29:28
+ironman-70.3-dublin-20170820.csv,1043,Patrick Almas,29,GA,IRL,00:34:07,02:36:35,01:46:34,00:04:22,00:06:55,05:08:33
+ironman-70.3-dublin-20170820.csv,1044,Raphael Pizarro,31,---,FRA,00:39:37,02:59:26,01:42:32,00:10:55,00:06:55,05:39:25
+ironman-70.3-dublin-20170820.csv,1045,Adrian Farrelly,31,Co. Roscommon,IRL,00:35:48,02:33:07,01:52:53,00:04:21,00:04:22,05:10:31
+ironman-70.3-dublin-20170820.csv,1046,Tomás Ribé Bernal,34,---,ESP,00:40:18,02:53:38,01:41:41,00:04:22,00:04:47,05:24:46
+ironman-70.3-dublin-20170820.csv,1047,Declan Kearney,32,Cork,IRL,00:38:21,02:43:48,01:55:11,00:04:30,00:05:15,05:27:05
+ironman-70.3-dublin-20170820.csv,1048,Adam Gordon,32,mayo,IRL,00:35:41,03:03:40,02:12:33,00:04:22,00:04:43,06:00:59
+ironman-70.3-dublin-20170820.csv,1049,Anton Ryazanov,32,Moscow,RUS,01:15:33,---,---,---,---,DNF
+ironman-70.3-dublin-20170820.csv,1050,Peter Atkinson,33,Cheshire,GBR,00:39:39,02:38:41,01:47:30,00:06:00,00:04:48,05:16:38
+ironman-70.3-dublin-20170820.csv,1051,Ruairi Mcgowan,33,Dublin,IRL,00:40:05,02:45:04,01:45:05,00:04:21,00:05:52,05:20:27
+ironman-70.3-dublin-20170820.csv,1052,Samuel Bishop,30,London,GBR,00:35:16,03:04:53,01:58:46,00:04:21,00:05:26,05:48:42
+ironman-70.3-dublin-20170820.csv,1053,James Picking,30,Meath,IRL,00:42:02,02:30:53,01:50:35,00:04:42,00:05:22,05:13:34
+ironman-70.3-dublin-20170820.csv,1054,Paulo Silva,34,Ireland,PRT,00:45:46,02:57:11,02:26:57,00:05:37,00:04:59,06:20:30
+ironman-70.3-dublin-20170820.csv,1055,Douglas Guthrie,30,---,GBR,00:31:40,03:04:26,02:54:22,00:04:22,00:06:16,06:41:06
+ironman-70.3-dublin-20170820.csv,1056,Ronan Barrett,30,Ireland,IRL,00:40:42,04:00:41,02:12:41,00:08:04,00:07:06,07:09:14
+ironman-70.3-dublin-20170820.csv,1057,Anton Krivski,31,Co. Laois,EST,---,---,---,---,---,DNS
+ironman-70.3-dublin-20170820.csv,1058,Geoffrey Cuyaubere,34,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-dublin-20170820.csv,1059,Patrick Daly,31,Dublin 1,IRL,00:52:37,02:59:54,01:55:25,00:12:05,00:10:18,06:10:19
+ironman-70.3-dublin-20170820.csv,1060,Javier Castro,34,DUBLIN,ESP,00:43:42,03:01:14,01:50:10,00:13:27,00:08:42,05:57:15
+ironman-70.3-dublin-20170820.csv,1061,Luke Goff,30,Wexford,IRL,00:37:35,02:28:46,01:46:49,00:03:59,00:03:54,05:01:03
+ironman-70.3-dublin-20170820.csv,1062,Conor Byrne,30,Co Dublin,IRL,00:47:15,02:43:05,01:54:57,00:05:41,00:05:59,05:36:57
+ironman-70.3-dublin-20170820.csv,1063,Benjamin Hunter,30,Surrey,GBR,00:39:10,02:34:35,02:06:27,00:04:22,00:05:30,05:30:04
+ironman-70.3-dublin-20170820.csv,1064,Gerald Lynch,34,Westmeath,IRL,00:41:30,03:02:40,02:18:16,00:08:19,00:07:29,06:18:14
+ironman-70.3-dublin-20170820.csv,1067,Peter O'Reilly,32,Laois,IRL,00:45:52,02:55:12,01:59:50,00:05:00,00:04:45,05:50:39
+ironman-70.3-dublin-20170820.csv,1068,Declan Kelleher,33,Dublin,IRL,00:35:14,02:34:41,02:04:57,00:04:22,00:05:36,05:24:50
+ironman-70.3-dublin-20170820.csv,1069,Philip Connolly,30,Dublin,IRL,00:40:54,02:57:58,02:20:56,00:06:29,00:07:30,06:13:47
+ironman-70.3-dublin-20170820.csv,1070,Mark Matthews,30,Cambs,GBR,00:27:17,02:18:19,01:26:26,00:04:21,00:03:19,04:19:42
+ironman-70.3-dublin-20170820.csv,1071,Mauricio Esquiavoi,31,Dublin,IRL,00:37:03,02:48:56,01:59:38,00:04:22,00:05:57,05:35:56
+ironman-70.3-dublin-20170820.csv,1072,Rory Arnott,32,Kildare,IRL,00:44:03,02:43:03,01:43:23,00:08:16,00:05:38,05:24:23
+ironman-70.3-dublin-20170820.csv,1073,Neil Tombs,32,---,GBR,00:36:33,02:27:56,01:39:01,00:10:21,00:06:51,05:00:42
+ironman-70.3-dublin-20170820.csv,1074,Jeff Anderson,33,---,USA,00:42:42,02:44:23,01:54:28,00:05:56,00:04:40,05:32:09
+ironman-70.3-dublin-20170820.csv,1075,Barry Drew,34,monaghan,IRL,00:37:56,02:26:15,01:42:15,00:04:22,00:03:13,04:54:01
+ironman-70.3-dublin-20170820.csv,1076,Colin Murphy,30,OH,USA,00:31:20,03:21:32,02:22:54,00:04:22,00:10:55,06:31:03
+ironman-70.3-dublin-20170820.csv,1077,Tony Liken,32,---,IRL,00:47:16,02:53:49,01:54:17,00:07:59,00:08:22,05:51:43
+ironman-70.3-dublin-20170820.csv,1078,Andrew Lane,32,Dublin 6,IRL,00:41:04,02:46:47,01:48:21,00:05:21,00:05:16,05:26:49
+ironman-70.3-dublin-20170820.csv,1080,Paul Timmons,32,Ireland,IRL,00:36:04,03:17:19,01:42:28,00:04:22,00:05:14,05:45:27
+ironman-70.3-dublin-20170820.csv,1081,Mathew Pritchard,33,Pembrokeshire,GBR,00:32:58,02:31:24,01:32:07,00:04:21,00:04:14,04:45:04
+ironman-70.3-dublin-20170820.csv,1082,Cillian O'Neill,32,Dublin 16,IRL,00:38:56,03:05:58,01:58:41,00:08:41,00:12:23,06:04:39
+ironman-70.3-dublin-20170820.csv,1083,John Ivers,33,Donegal,IRL,00:55:53,03:07:44,02:28:37,00:13:53,00:09:33,06:55:40
+ironman-70.3-dublin-20170820.csv,1084,Robert Crofton,30,Kildare,IRL,00:57:28,03:32:18,02:42:02,00:07:19,00:09:08,07:28:15
+ironman-70.3-dublin-20170820.csv,1085,Enrico Risi,30,IRELAND,ITA,00:40:20,02:44:20,01:44:12,00:09:54,00:06:26,05:25:12
+ironman-70.3-dublin-20170820.csv,1086,Sean O Keeffe,30,Cork,IRL,00:43:40,02:55:36,02:13:12,00:05:35,00:05:35,06:03:38
+ironman-70.3-dublin-20170820.csv,1087,Kevin Cooney,32,Wicklow,IRL,00:46:40,02:48:08,02:00:40,00:05:09,00:05:27,05:46:04
+ironman-70.3-dublin-20170820.csv,1088,Casidhe Dyke,33,NL,CAN,00:38:58,02:58:50,01:58:38,00:08:12,00:08:17,05:52:55
+ironman-70.3-dublin-20170820.csv,1089,Breiffne O Donnell,33,Kildare,IRL,00:33:58,02:30:20,01:35:17,00:04:22,00:03:26,04:47:23
+ironman-70.3-dublin-20170820.csv,1091,Miguel Calvo Moya,32,Irelqnd,ESP,00:45:15,03:01:27,02:15:06,00:08:35,00:06:29,06:16:52
+ironman-70.3-dublin-20170820.csv,1092,Sebastián Pacheco,34,Dublin,CHL,00:41:41,02:55:21,01:42:08,00:07:05,00:07:28,05:33:43
+ironman-70.3-dublin-20170820.csv,1093,Simon Bowles,29,Surrey,GBR,---,---,---,---,---,DQ
+ironman-70.3-dublin-20170820.csv,1094,Mark Fleming,30,Dublin,IRL,00:42:24,02:51:43,01:49:33,00:09:25,00:05:41,05:38:46
+ironman-70.3-dublin-20170820.csv,1095,Richard Murphy,32,Louth,IRL,00:29:02,02:25:37,01:30:08,00:04:21,00:07:53,04:37:01
+ironman-70.3-dublin-20170820.csv,1096,Conor McCrory,34,Louth,IRL,00:36:39,02:25:23,01:32:20,00:04:21,00:03:17,04:42:00
+ironman-70.3-dublin-20170820.csv,1097,Tom Grayling,32,VIC,AUS,00:26:20,02:45:27,02:02:55,00:04:22,00:05:00,05:24:04
+ironman-70.3-dublin-20170820.csv,1098,John Garry,31,Dublin 14,IRL,00:38:05,02:51:56,02:05:18,00:06:47,00:07:03,05:49:09
+ironman-70.3-dublin-20170820.csv,1099,Brian Mcdermott,31,Dublin 6,IRL,00:42:23,03:15:11,02:31:06,00:07:31,00:06:51,06:43:02
+ironman-70.3-dublin-20170820.csv,1102,Josep Sans,32,Kildare,IRL,00:36:20,02:46:42,01:48:24,00:04:21,00:04:41,05:20:28
+ironman-70.3-dublin-20170820.csv,1103,Patrick O'Rourke,31,Dublin,IRL,01:07:30,03:33:37,02:11:07,00:06:26,00:07:36,07:06:16
+ironman-70.3-dublin-20170820.csv,1105,Dylan Finnerty,30,Co Wicklow,IRL,00:39:37,02:34:02,01:42:03,00:05:14,00:04:16,05:05:12
+ironman-70.3-dublin-20170820.csv,1106,Malachy Kelly,34,DXB,IRL,00:39:43,03:27:11,03:00:19,00:04:21,00:07:12,07:18:46
+ironman-70.3-dublin-20170820.csv,1107,Diarmaid Doyle,29,Dublin,IRL,00:46:59,02:38:41,01:53:58,00:10:32,00:10:10,05:40:20
+ironman-70.3-dublin-20170820.csv,1108,david harte,31,Dublin,IRL,00:48:37,03:18:28,01:59:28,00:10:02,00:08:41,06:25:16
+ironman-70.3-dublin-20170820.csv,1111,Stephen Mccarthy,33,Cork,IRL,00:38:27,02:38:32,01:51:33,00:04:22,00:05:31,05:18:25
+ironman-70.3-dublin-20170820.csv,1112,Brian Collins,34,Cork,IRL,00:41:51,02:34:57,01:53:18,00:06:45,00:05:08,05:21:59
+ironman-70.3-dublin-20170820.csv,1113,Nicholas Deighan,32,---,GBR,00:46:15,03:04:13,02:27:53,00:06:33,00:08:31,06:33:25
+ironman-70.3-dublin-20170820.csv,1114,Alan Hutchinson,33,Dublin,IRL,00:41:00,02:50:51,01:52:25,00:06:42,00:05:26,05:36:24
+ironman-70.3-dublin-20170820.csv,1115,Daniel Browne,33,Dublin,IRL,01:02:31,03:34:59,02:27:03,00:08:12,00:08:57,07:21:42
+ironman-70.3-dublin-20170820.csv,1116,Jonathan Cunningham,33,Galway,IRL,00:39:42,02:38:53,01:39:57,00:07:34,00:06:36,05:12:42
+ironman-70.3-dublin-20170820.csv,1118,Karl Byrne,31,NA,IRL,00:36:40,03:02:53,02:32:44,00:04:21,00:05:55,06:22:33
+ironman-70.3-dublin-20170820.csv,1119,Brian Thornton,34,Dublin,IRL,00:42:48,03:04:32,01:50:58,00:06:09,00:06:06,05:50:33
+ironman-70.3-dublin-20170820.csv,1120,Cody Stevens,30,GA,USA,00:45:00,03:03:23,02:11:16,00:10:31,00:07:56,06:18:06
+ironman-70.3-dublin-20170820.csv,1121,Clément Therrillion,29,Dublin 6,FRA,00:34:53,02:46:14,01:45:58,00:04:21,00:05:01,05:16:27
+ironman-70.3-dublin-20170820.csv,1122,Aidan Clarke,32,Wexford,IRL,00:40:44,02:52:03,01:57:31,00:05:05,00:04:27,05:39:50
+ironman-70.3-dublin-20170820.csv,1123,Shane Harron,33,Dublin,IRL,00:44:31,02:42:58,02:06:47,00:05:54,00:05:57,05:46:07
+ironman-70.3-dublin-20170820.csv,1124,Phil Coyne,32,United Kingdom,GBR,00:37:56,02:49:51,02:01:26,00:04:22,00:05:55,05:39:30
+ironman-70.3-dublin-20170820.csv,1125,Peter Moran,33,Dublin 14,IRL,00:38:56,02:38:50,02:07:01,00:06:39,00:05:15,05:36:41
+ironman-70.3-dublin-20170820.csv,1126,Eduardo Cesar Anceschi,31,SP,BRA,00:38:26,02:49:51,02:02:58,00:04:22,00:05:52,05:41:29
+ironman-70.3-dublin-20170820.csv,1127,Thomas Gregory,30,Surrey,GBR,00:35:06,02:42:56,02:20:25,00:05:27,00:05:55,05:49:49
+ironman-70.3-dublin-20170820.csv,1129,Jean-Francois Jouan,30,---,FRA,00:34:56,02:35:14,01:42:23,00:04:22,00:03:50,05:00:45
+ironman-70.3-dublin-20170820.csv,1130,Stephen Branagan,34,Dublin,IRL,00:33:34,02:31:41,01:34:45,00:04:21,00:03:46,04:48:07
+ironman-70.3-dublin-20170820.csv,1131,Thomas Lipscombe,30,---,GBR,00:44:37,03:04:17,02:21:57,00:04:22,00:10:38,06:25:51
+ironman-70.3-dublin-20170820.csv,1132,Kevin Redmond,32,Kildare,IRL,00:40:14,03:03:33,02:15:55,00:04:22,00:07:28,06:11:32
+ironman-70.3-dublin-20170820.csv,1133,Pierre Nespo,30,QC,FRA,00:40:27,02:48:06,02:26:26,00:04:22,00:06:29,06:05:50
+ironman-70.3-dublin-20170820.csv,1135,Krzysztof Bezdziecki,32,Dublin,POL,00:53:18,03:32:11,02:34:29,00:10:47,00:07:57,07:18:42
+ironman-70.3-dublin-20170820.csv,1137,Alan Butler,31,Co. Kilkenny,IRL,00:46:56,02:59:31,02:17:20,00:06:13,00:09:31,06:19:31
+ironman-70.3-dublin-20170820.csv,1138,Brian Cummins,33,dublin,IRL,00:36:51,02:47:01,01:57:19,00:04:21,00:06:44,05:32:16
+ironman-70.3-dublin-20170820.csv,1139,Michael Dunne,29,---,IRL,00:52:58,03:05:52,02:15:15,00:08:48,00:08:18,06:31:11
+ironman-70.3-dublin-20170820.csv,1140,Gergo Kálnoki-Lukovics,31,Ireland,IRL,00:34:16,02:50:37,02:03:56,00:04:22,00:09:19,05:42:30
+ironman-70.3-dublin-20170820.csv,1142,Michael Burke,30,---,IRL,00:37:24,02:57:33,01:47:19,00:04:21,00:04:25,05:31:02
+ironman-70.3-dublin-20170820.csv,1143,Brian O'Connor,39,Kildare,IRL,00:47:58,02:39:25,01:54:46,00:07:02,00:07:11,05:36:22
+ironman-70.3-dublin-20170820.csv,1145,Damien O'Gorman,39,Co.Cork,IRL,00:41:08,02:56:54,02:22:56,00:04:22,00:07:15,06:12:35
+ironman-70.3-dublin-20170820.csv,1147,Peter Anderson,35,Dublin,IRL,00:46:38,03:30:16,02:25:48,00:09:24,00:11:14,07:03:20
+ironman-70.3-dublin-20170820.csv,1148,Chris Cochrane,39,---,GBR,00:39:04,02:38:00,01:42:19,00:03:32,00:05:25,05:08:20
+ironman-70.3-dublin-20170820.csv,1149,Rory Keane,39,Dublin,IRL,00:38:12,02:31:43,02:29:33,00:04:22,00:07:37,05:51:27
+ironman-70.3-dublin-20170820.csv,1150,Gary Coulahan,39,kildare,IRL,01:01:03,02:57:27,02:06:25,00:10:40,00:10:53,06:26:28
+ironman-70.3-dublin-20170820.csv,1151,Paul Lynch,35,Donegal,IRL,00:50:26,02:40:06,01:50:34,00:04:28,00:05:37,05:31:11
+ironman-70.3-dublin-20170820.csv,1152,Shane Greenan,37,Dublin,IRL,00:35:14,02:40:35,01:43:55,00:04:22,00:05:34,05:09:40
+ironman-70.3-dublin-20170820.csv,1153,Tristan Wood,39,Co Dublin ,IRL,00:45:56,03:37:33,03:00:46,00:08:47,00:08:57,07:41:59
+ironman-70.3-dublin-20170820.csv,1154,Niall Donovan,36,Wicklow,IRL,00:41:38,02:46:32,01:42:55,00:07:37,00:06:21,05:25:03
+ironman-70.3-dublin-20170820.csv,1155,Stephen Cassidy,39,Wicklow,IRL,00:37:03,02:57:05,02:17:22,00:04:22,00:06:19,06:02:11
+ironman-70.3-dublin-20170820.csv,1156,Colm Mcnally,39,Dublin,IRL,00:47:27,02:59:40,01:53:41,00:05:38,00:07:42,05:54:08
+ironman-70.3-dublin-20170820.csv,1157,Andrew Gillespie,34,dublin,IRL,00:33:29,02:46:22,01:41:37,00:04:22,00:06:40,05:12:30
+ironman-70.3-dublin-20170820.csv,1159,Barry Minnock,37,Dublin 8,IRL,00:50:53,02:39:00,01:47:01,00:12:19,00:05:56,05:35:09
+ironman-70.3-dublin-20170820.csv,1160,Fergal Meegan,38,Co. Dublin,IRL,00:39:36,02:27:10,01:46:43,00:04:22,00:05:11,05:03:02
+ironman-70.3-dublin-20170820.csv,1161,Richard Barber,34,Dublin 18,IRL,00:45:11,03:13:59,02:14:06,00:08:09,00:06:38,06:28:03
+ironman-70.3-dublin-20170820.csv,1162,Eoin Cummins,37,Dublin 24,IRL,00:44:05,03:07:46,01:56:03,00:07:53,00:07:36,06:03:23
+ironman-70.3-dublin-20170820.csv,1163,Michael O Shea,37,Co cork ,IRL,00:52:11,02:42:15,02:01:36,00:06:57,00:07:24,05:50:23
+ironman-70.3-dublin-20170820.csv,1164,Odhran O Braonain,37,Co Dublin,IRL,00:38:00,02:32:07,01:47:12,00:04:21,00:06:29,05:08:09
+ironman-70.3-dublin-20170820.csv,1165,Colin Keely,38,Louth,IRL,00:38:09,02:58:47,01:58:33,00:07:00,00:04:23,05:46:52
+ironman-70.3-dublin-20170820.csv,1166,Stephen Reidy,37,Kerry,IRL,00:33:12,02:28:31,01:41:19,00:04:21,00:04:52,04:52:15
+ironman-70.3-dublin-20170820.csv,1167,Shaun Keogan,38,co kildare,IRL,00:38:03,02:41:41,01:53:04,00:05:56,00:05:32,05:24:16
+ironman-70.3-dublin-20170820.csv,1168,James Purcell,35,Cork,IRL,00:40:24,02:43:36,02:16:18,00:07:18,00:07:42,05:55:18
+ironman-70.3-dublin-20170820.csv,1169,Alan Harty,39,Co. cork,IRL,00:43:00,02:58:08,02:59:05,00:05:34,00:07:40,06:53:27
+ironman-70.3-dublin-20170820.csv,1170,Robert Mccarthy,39,Cork,IRL,00:39:40,03:14:26,02:19:10,00:06:19,00:06:44,06:26:19
+ironman-70.3-dublin-20170820.csv,1171,Robert Carr,38,Please select---,IRL,00:36:16,02:38:29,01:46:42,00:04:22,00:06:06,05:11:55
+ironman-70.3-dublin-20170820.csv,1172,Paul O'Kane,35,Ireland,IRL,00:40:37,02:38:56,02:05:08,00:04:22,00:05:57,05:35:00
+ironman-70.3-dublin-20170820.csv,1173,John Long,38,Dublin,IRL,00:47:30,02:48:05,02:05:58,00:05:31,00:05:02,05:52:06
+ironman-70.3-dublin-20170820.csv,1174,Bernard O Connell,35,Cork,IRL,00:38:11,02:39:07,01:45:11,00:04:21,00:03:45,05:10:35
+ironman-70.3-dublin-20170820.csv,1175,Stephen Hughes,38,Armagh,IRL,00:37:06,02:38:13,01:58:58,00:04:22,00:04:42,05:23:21
+ironman-70.3-dublin-20170820.csv,1176,Alan Gormley,39,Dublin 4,IRL,00:46:14,02:44:01,01:51:50,00:05:48,00:08:21,05:36:14
+ironman-70.3-dublin-20170820.csv,1177,Seamus Hampson,37,Donegal,IRL,00:40:59,02:41:49,01:51:26,00:05:24,00:06:26,05:26:04
+ironman-70.3-dublin-20170820.csv,1178,Bart Kindlon,37,Ireland,IRL,00:38:01,02:42:47,01:51:33,00:04:21,00:05:26,05:22:08
+ironman-70.3-dublin-20170820.csv,1179,Martin Doohan,37,Dublin,IRL,00:45:06,02:55:14,02:13:40,00:09:16,00:09:29,06:12:45
+ironman-70.3-dublin-20170820.csv,1180,Ruaidhri Nolan,35,Louth ,IRL,00:43:04,02:33:15,01:33:51,00:04:21,00:03:57,04:58:28
+ironman-70.3-dublin-20170820.csv,1181,Michal Kowalski,35,Dublin,IRL,00:46:47,02:36:31,02:01:36,00:04:54,00:04:32,05:34:20
+ironman-70.3-dublin-20170820.csv,1182,John Maher,36,Cork,IRL,00:49:33,02:58:30,02:17:12,00:07:12,00:05:41,06:18:08
+ironman-70.3-dublin-20170820.csv,1183,David Walsh,39,Dublin,IRL,00:34:28,02:35:43,01:55:56,00:06:58,00:06:35,05:19:40
+ironman-70.3-dublin-20170820.csv,1184,Niall Hanly,36,---,IRL,00:39:30,02:34:29,01:40:16,00:04:21,00:04:48,05:03:24
+ironman-70.3-dublin-20170820.csv,1185,Kevin Shiels,36,Cavan,IRL,00:40:08,02:45:52,01:44:20,00:04:21,00:04:36,05:19:17
+ironman-70.3-dublin-20170820.csv,1187,Adam Barry,34,IRELAND,IRL,00:38:20,02:43:32,02:10:24,00:07:21,00:06:15,05:45:52
+ironman-70.3-dublin-20170820.csv,1188,Ben Prior,35,Yorkshire,GBR,00:53:58,03:30:25,02:17:58,00:07:55,00:07:28,06:57:44
+ironman-70.3-dublin-20170820.csv,1189,Eoin Clarke,37,Westmeath,IRL,00:38:28,02:36:24,01:41:00,00:04:21,00:03:56,05:04:09
+ironman-70.3-dublin-20170820.csv,1190,Paul Sheridan,38,Dublin,IRL,00:43:05,02:41:58,01:53:08,00:04:55,00:05:48,05:28:54
+ironman-70.3-dublin-20170820.csv,1191,Gerard Redmond,35,Dublin,IRL,00:41:43,02:39:31,01:33:28,00:04:21,00:04:17,05:03:20
+ironman-70.3-dublin-20170820.csv,1192,Slawomir Stachecki,37,Fermanagh,POL,00:50:45,03:13:31,02:17:52,00:10:10,00:05:19,06:37:37
+ironman-70.3-dublin-20170820.csv,1193,John Vaughan,38,Meath ,IRL,00:34:37,02:32:23,01:38:08,00:04:22,00:04:36,04:54:06
+ironman-70.3-dublin-20170820.csv,1194,Brendan Byron,38,Dublin 18,IRL,00:39:10,02:25:46,01:37:38,00:04:21,00:04:11,04:51:06
+ironman-70.3-dublin-20170820.csv,1195,Barry Fitzpatrick,37,---,IRL,00:44:02,02:40:09,01:34:42,00:06:53,00:05:01,05:10:47
+ironman-70.3-dublin-20170820.csv,1196,Richard Nesbitt,38,Monaghan,IRL,00:42:27,02:38:47,01:49:01,00:04:51,00:05:18,05:20:24
+ironman-70.3-dublin-20170820.csv,1197,Raymond Quinn,37,Leinster,IRL,00:42:29,03:20:17,02:42:28,00:12:15,00:13:38,07:11:07
+ironman-70.3-dublin-20170820.csv,1198,Franscois Snyman,39,Leinster,ZAF,00:40:38,03:09:33,02:30:04,00:07:30,00:07:45,06:35:30
+ironman-70.3-dublin-20170820.csv,1199,Dessie Duffy,39,cavan,IRL,00:34:31,02:20:19,01:25:55,00:04:21,00:07:51,04:32:57
+ironman-70.3-dublin-20170820.csv,1200,Romain Weber,39,Roeser,LUX,00:42:41,02:41:55,01:47:27,00:08:03,00:06:56,05:27:02
+ironman-70.3-dublin-20170820.csv,1201,Daryn Wiese,38,WA,USA,00:46:41,02:40:09,01:59:59,00:05:59,00:06:19,05:39:07
+ironman-70.3-dublin-20170820.csv,1202,James Dean,34,Dublin 15,GBR,00:40:55,03:14:07,02:02:29,00:09:32,00:05:50,06:12:53
+ironman-70.3-dublin-20170820.csv,1203,Donal Sheehy,36,AUK,IRL,00:28:13,02:19:48,01:19:27,00:04:21,00:03:25,04:15:14
+ironman-70.3-dublin-20170820.csv,1204,Phil Gargan,37,Co. Meath,IRL,00:39:57,02:27:19,01:47:50,00:07:26,00:05:09,05:07:41
+ironman-70.3-dublin-20170820.csv,1205,Colm Mclean,37,---,IRL,00:49:12,02:47:01,01:54:31,00:07:50,00:12:07,05:50:41
+ironman-70.3-dublin-20170820.csv,1206,Nick Haldane,38,---,GBR,00:36:01,02:42:35,01:46:23,00:09:16,00:09:14,05:23:29
+ironman-70.3-dublin-20170820.csv,1207,Darren Rooney,34,Co.Dublin,IRL,00:41:42,02:44:07,01:51:34,00:06:06,00:05:34,05:29:03
+ironman-70.3-dublin-20170820.csv,1208,Alan Byrne,36,Co. Carlow,IRL,00:43:11,02:50:09,01:40:12,00:05:11,00:04:20,05:23:03
+ironman-70.3-dublin-20170820.csv,1209,Chris Holmes,35,Dublin,GBR,00:30:24,02:38:24,01:40:39,00:04:21,00:04:29,04:58:17
+ironman-70.3-dublin-20170820.csv,1210,Grzegorz Gruchacz,35,Tipperary,POL,00:48:00,02:43:41,01:43:19,00:09:48,00:06:26,05:31:14
+ironman-70.3-dublin-20170820.csv,1211,Craig Holman,36,Kildare,AUS,00:40:45,03:01:32,02:05:52,00:06:07,00:07:43,06:01:59
+ironman-70.3-dublin-20170820.csv,1212,Adrian Crowe,34,Ireland,IRL,00:47:54,03:28:50,03:06:52,00:11:04,00:13:34,07:48:14
+ironman-70.3-dublin-20170820.csv,1213,Adie Hinks,34,Surrey,GBR,00:40:20,02:44:03,01:39:23,00:04:22,00:04:26,05:12:34
+ironman-70.3-dublin-20170820.csv,1215,Conor Spencer,39,DUBLIN 4,IRL,00:36:32,02:42:22,01:55:03,00:05:16,00:04:57,05:24:10
+ironman-70.3-dublin-20170820.csv,1216,Cristiano Fibbi,35,---,ITA,00:34:43,02:34:27,01:44:01,00:04:21,00:05:22,05:02:54
+ironman-70.3-dublin-20170820.csv,1218,Shane Gray,39,Meath,IRL,00:49:18,02:46:03,02:10:36,00:06:37,00:04:26,05:57:00
+ironman-70.3-dublin-20170820.csv,1219,Damien Mannion,38,galway,IRL,00:45:47,03:19:42,01:56:22,00:07:59,00:07:36,06:17:26
+ironman-70.3-dublin-20170820.csv,1220,Dave Ronan,37,Cork,IRL,00:37:59,02:45:03,01:45:01,00:04:22,00:06:01,05:18:26
+ironman-70.3-dublin-20170820.csv,1222,Jan Ten Velde,35,---,NLD,00:36:39,03:03:23,02:52:15,00:06:42,00:06:59,06:45:58
+ironman-70.3-dublin-20170820.csv,1223,Gérald Toe,36,---,FRA,00:35:18,02:24:32,01:40:42,00:06:51,00:05:24,04:52:47
+ironman-70.3-dublin-20170820.csv,1224,Stephen Rooney,36,Co. Dublin,IRL,00:37:59,02:44:01,01:44:08,00:05:49,00:04:52,05:16:49
+ironman-70.3-dublin-20170820.csv,1225,Tomas Kuzma,37,Meath,SVN,00:52:33,03:07:54,02:15:06,00:10:42,00:07:37,06:33:52
+ironman-70.3-dublin-20170820.csv,1226,George Friend,38,Hertfordshire,GBR,00:47:36,02:43:59,01:55:19,00:09:33,00:05:54,05:42:21
+ironman-70.3-dublin-20170820.csv,1228,Anthony Fennelly,38,cork,IRL,00:45:01,03:13:47,02:19:53,00:06:46,00:06:40,06:32:07
+ironman-70.3-dublin-20170820.csv,1229,Quintin Van Dyk,36,Isle of Man,ZAF,00:35:00,02:48:05,01:59:08,00:05:16,00:05:55,05:33:24
+ironman-70.3-dublin-20170820.csv,1231,Keith Galbraith,36,Co Laois,IRL,00:38:56,02:38:15,01:42:11,00:08:25,00:05:34,05:13:21
+ironman-70.3-dublin-20170820.csv,1232,Liam Tyrrell,39,---,IRL,00:30:32,02:28:00,01:36:29,00:04:24,00:05:34,04:44:59
+ironman-70.3-dublin-20170820.csv,1234,Ambrose Duggan,36,Ireland ,IRL,00:43:34,02:53:37,02:08:46,00:06:38,00:07:38,06:00:13
+ironman-70.3-dublin-20170820.csv,1235,Manuel Hartl,38,---,DEU,00:41:24,02:52:59,02:07:46,00:07:53,00:08:35,05:58:37
+ironman-70.3-dublin-20170820.csv,1237,Gareth Hooper,38,Worcestershire,GBR,00:42:43,02:50:21,02:11:14,00:11:42,00:05:53,06:01:53
+ironman-70.3-dublin-20170820.csv,1238,Ronan Allen,39,Dublin,IRL,00:38:25,02:24:55,01:36:44,00:04:22,00:04:12,04:48:38
+ironman-70.3-dublin-20170820.csv,1239,Rhenan Salcedo,39,dub,IRL,00:45:26,02:44:23,01:58:38,00:05:34,00:05:32,05:39:33
+ironman-70.3-dublin-20170820.csv,1240,Yehuda Gaston Grausz,37,Raanana,ISR,00:38:50,02:58:47,01:48:45,00:04:22,00:06:41,05:37:25
+ironman-70.3-dublin-20170820.csv,1241,Ricardo Seabra,34,Dublin,PRT,00:33:17,02:48:24,01:57:07,00:04:21,00:04:57,05:28:06
+ironman-70.3-dublin-20170820.csv,1242,Nollag Conneely,38,Kildare,IRL,00:45:16,03:06:56,02:02:37,00:09:01,00:06:16,06:10:06
+ironman-70.3-dublin-20170820.csv,1243,Michael Halligan,39,Meath,IRL,00:35:04,02:48:21,01:40:42,00:04:21,00:05:56,05:14:24
+ironman-70.3-dublin-20170820.csv,1244,Fergus Hayes,38,Co. Dublin,IRL,00:36:41,02:42:17,01:46:27,00:03:54,00:05:10,05:14:29
+ironman-70.3-dublin-20170820.csv,1245,Brian Crowley,36,kildare,IRL,00:42:34,02:44:34,01:51:05,00:04:21,00:04:59,05:27:33
+ironman-70.3-dublin-20170820.csv,1246,Peter Gorman,37,dublin,IRL,00:39:56,02:40:16,01:41:29,00:04:21,00:07:36,05:13:38
+ironman-70.3-dublin-20170820.csv,1247,Brian Soughley,38,Intl State,IRL,00:35:21,02:45:08,01:29:15,00:06:03,00:06:13,05:02:00
+ironman-70.3-dublin-20170820.csv,1248,Brian Mccormack,35,Cavan,IRL,00:38:14,02:58:47,01:52:52,00:09:55,00:09:44,05:49:32
+ironman-70.3-dublin-20170820.csv,1250,Philip Weston,35,Down,IRL,00:38:03,02:45:34,01:54:24,00:05:05,00:05:11,05:28:17
+ironman-70.3-dublin-20170820.csv,1251,tomasz romanowicz,35,carlow,POL,00:52:36,02:35:31,02:05:31,00:04:22,00:07:10,05:45:10
+ironman-70.3-dublin-20170820.csv,1252,Lawrence Maguire,34,Donegal,IRL,00:44:02,02:55:19,01:52:20,00:06:02,00:04:39,05:42:22
+ironman-70.3-dublin-20170820.csv,1253,David Beggs,37,dublin,IRL,00:40:31,02:49:27,01:59:40,00:07:49,00:05:48,05:43:15
+ironman-70.3-dublin-20170820.csv,1254,Murphy Bradshaw,35,FL,USA,00:42:18,03:05:17,02:02:13,00:11:34,00:10:36,06:11:58
+ironman-70.3-dublin-20170820.csv,1255,Karol Szkudlarczyk,39,Dublin,POL,00:43:27,02:49:36,01:49:07,00:08:21,00:05:56,05:36:27
+ironman-70.3-dublin-20170820.csv,1258,Simon House,38,Dublin ,IRL,00:57:17,03:21:23,02:01:08,00:07:50,00:05:12,06:32:50
+ironman-70.3-dublin-20170820.csv,1259,Mark Millar,37,Lisburn,IRL,00:32:37,02:13:33,01:26:48,00:04:21,00:03:07,04:20:26
+ironman-70.3-dublin-20170820.csv,1260,Danny Dryden,38,Kent,GBR,00:44:01,02:50:21,02:26:21,00:04:21,00:10:49,06:15:53
+ironman-70.3-dublin-20170820.csv,1261,Samuel Boazman,37,Dublin,IRL,00:36:16,02:36:58,01:36:11,00:04:22,00:05:16,04:59:03
+ironman-70.3-dublin-20170820.csv,1262,Henry Sheridan,34,Dublin,IRL,00:46:34,03:04:09,02:00:45,00:06:40,00:07:47,06:05:55
+ironman-70.3-dublin-20170820.csv,1263,Benjamin Mathieu,36,---,BEL,00:38:35,03:05:51,02:00:27,00:07:22,00:06:56,05:59:11
+ironman-70.3-dublin-20170820.csv,1264,Etienne O'Connor,38,QC,CAN,00:50:29,02:49:55,03:00:38,00:04:16,00:05:02,06:50:20
+ironman-70.3-dublin-20170820.csv,1265,Adam Baker,36,---,GBR,00:41:10,02:36:22,01:47:30,00:07:02,00:08:10,05:20:14
+ironman-70.3-dublin-20170820.csv,1266,Gavin Downes,38,Dublin,IRL,00:56:59,03:38:09,---,00:07:32,00:09:15,DNF
+ironman-70.3-dublin-20170820.csv,1267,Brian Armstrong,36,Antrim,GBR,00:51:51,03:18:58,02:15:47,00:09:00,00:07:29,06:43:05
+ironman-70.3-dublin-20170820.csv,1270,Grant Cansler,37,Dublin,USA,00:40:18,03:37:10,02:28:05,00:04:21,00:08:30,06:58:24
+ironman-70.3-dublin-20170820.csv,1271,Simon Sherwin,37,Dublin,IRL,00:39:06,02:57:54,02:30:49,00:04:57,00:05:02,06:17:48
+ironman-70.3-dublin-20170820.csv,1273,Alfredo Jiménez Merchan,36,---,ESP,00:39:23,02:46:15,01:56:38,00:04:22,00:07:41,05:34:19
+ironman-70.3-dublin-20170820.csv,1274,Marcin Kubis,39,Dublin,POL,00:45:59,02:58:48,02:16:54,00:06:51,00:09:41,06:18:13
+ironman-70.3-dublin-20170820.csv,1276,Shane Clarke,38,Meath,IRL,00:40:29,02:41:55,02:00:48,00:05:57,00:05:32,05:34:41
+ironman-70.3-dublin-20170820.csv,1277,Andrzej Klosowski,35,Dublin,POL,00:45:13,03:01:01,01:46:35,00:07:28,00:08:03,05:48:20
+ironman-70.3-dublin-20170820.csv,1278,Stephen Loughnane,35,Kildare,IRL,00:31:29,02:27:38,01:37:00,00:04:21,00:04:57,04:45:25
+ironman-70.3-dublin-20170820.csv,1279,Pearse Ryan,37,Alabama,IRL,00:49:31,03:13:40,01:51:48,00:08:47,00:08:41,06:12:27
+ironman-70.3-dublin-20170820.csv,1280,Paul Brandwood,39,---,GBR,00:35:20,02:41:38,01:38:28,00:07:16,00:05:35,05:08:17
+ironman-70.3-dublin-20170820.csv,1281,Raymond Owen,38,Tyne and Wear,GBR,00:31:59,02:32:42,01:31:10,00:04:22,00:03:53,04:44:06
+ironman-70.3-dublin-20170820.csv,1282,Mark Meehan,36,Armagh,IRL,00:44:23,02:55:07,02:14:59,00:08:06,00:05:09,06:07:44
+ironman-70.3-dublin-20170820.csv,1284,John Tarrant,35,Dublin,IRL,00:45:06,02:55:34,01:57:10,00:07:51,00:04:53,05:50:34
+ironman-70.3-dublin-20170820.csv,1285,David Connolly,36,ireland,IRL,00:43:52,02:53:20,01:59:39,00:05:28,00:06:38,05:48:57
+ironman-70.3-dublin-20170820.csv,1286,Colm O'shaughnessy,37,Dublin,IRL,00:55:01,03:17:12,02:00:14,00:08:25,00:11:13,06:32:05
+ironman-70.3-dublin-20170820.csv,1287,Gerard Morgan Jackson,36,London,IRL,00:34:29,02:33:30,01:46:42,00:07:55,00:06:13,05:08:49
+ironman-70.3-dublin-20170820.csv,1288,Ross Harte,35,---,IRL,00:36:38,02:26:14,01:41:55,00:05:13,00:03:28,04:53:28
+ironman-70.3-dublin-20170820.csv,1290,Jarladth Travers,38,Grand Cayman,CYM,00:50:10,03:39:00,02:32:56,00:09:27,00:08:39,07:20:12
+ironman-70.3-dublin-20170820.csv,1291,Jason Matthews,37,co. wicklow,IRL,00:40:03,03:16:59,02:13:02,00:08:28,00:11:13,06:29:45
+ironman-70.3-dublin-20170820.csv,1292,Michael Mccarron,36,Dublin,IRL,00:30:17,02:31:08,01:21:02,00:04:21,00:03:14,04:30:02
+ironman-70.3-dublin-20170820.csv,1294,Peter O'Donnell,35,Tipperary,IRL,00:32:38,02:47:05,02:01:21,00:04:22,00:06:53,05:32:19
+ironman-70.3-dublin-20170820.csv,1295,Neil Griffin,35,Ireland,IRL,00:36:28,02:38:24,02:01:44,00:04:22,00:07:25,05:28:23
+ironman-70.3-dublin-20170820.csv,1297,Marvin Board,37,Cork,IRL,00:43:18,03:10:24,02:04:18,00:07:17,00:10:01,06:15:18
+ironman-70.3-dublin-20170820.csv,1298,Paul Gavin,36,---,GBR,00:46:54,03:00:54,02:05:07,00:09:47,00:10:31,06:13:13
+ironman-70.3-dublin-20170820.csv,1299,Kevin O'Brien,39,Antrim,IRL,00:45:55,03:16:48,02:27:33,00:08:18,00:08:53,06:47:27
+ironman-70.3-dublin-20170820.csv,1300,David Walsh,38,Co. Kildare,IRL,00:44:10,03:03:21,02:32:34,00:07:59,00:09:25,06:37:29
+ironman-70.3-dublin-20170820.csv,1301,Gordon Harford,39,Kildare,IRL,00:35:34,02:49:16,01:57:42,00:04:21,00:05:37,05:32:30
+ironman-70.3-dublin-20170820.csv,1302,Eamonn Tighe,38,Dublin,IRL,00:43:39,03:17:12,01:57:32,00:09:29,00:07:32,06:15:24
+ironman-70.3-dublin-20170820.csv,1304,David Ryan,38,Meath,IRL,00:37:04,02:37:05,01:58:12,00:04:41,00:05:15,05:22:17
+ironman-70.3-dublin-20170820.csv,1305,Marek Bezdziecki,36,Dublin,POL,00:51:59,03:04:49,02:10:15,00:07:00,00:05:32,06:19:35
+ironman-70.3-dublin-20170820.csv,1306,Tom Barker,36,Hampshire,GBR,00:42:43,02:33:44,01:53:31,00:06:43,00:04:53,05:21:34
+ironman-70.3-dublin-20170820.csv,1307,Michal Malyska,38,Dublin,POL,00:36:54,02:42:30,01:50:04,00:04:21,00:05:43,05:19:32
+ironman-70.3-dublin-20170820.csv,1308,Michael Travers,36,Dublin 15,IRL,00:44:23,03:06:53,02:22:50,00:04:21,00:06:48,06:25:15
+ironman-70.3-dublin-20170820.csv,1309,Darren Fitzpatrick,35,Cork,IRL,00:37:09,02:27:03,01:38:29,00:04:22,00:05:20,04:52:23
+ironman-70.3-dublin-20170820.csv,1312,Brian Lynch,37,Warwick,BMU,00:41:33,02:48:18,01:52:35,00:05:24,00:04:22,05:32:12
+ironman-70.3-dublin-20170820.csv,1313,Richard Sherry,36,Dublin,IRL,00:46:21,02:53:32,01:47:12,00:07:14,00:04:28,05:38:47
+ironman-70.3-dublin-20170820.csv,1314,Simon Williams,38,Worcestershire ,GBR,01:00:29,03:37:48,03:11:48,00:12:26,00:12:52,08:15:23
+ironman-70.3-dublin-20170820.csv,1315,Clinton Mulligan,36,Cavan,IRL,00:46:46,02:47:18,01:58:51,00:05:50,00:05:31,05:44:16
+ironman-70.3-dublin-20170820.csv,1316,Ronan Murphy,39,Dublin,IRL,01:24:42,---,---,---,---,DNF
+ironman-70.3-dublin-20170820.csv,1317,Robert Byrne,36,Wicklow ,IRL,00:51:53,02:51:13,01:56:08,00:09:16,00:10:00,05:58:30
+ironman-70.3-dublin-20170820.csv,1319,Declan Dunne,41,Co. Laois,IRL,00:46:04,02:50:30,01:57:25,00:07:29,00:07:23,05:48:51
+ironman-70.3-dublin-20170820.csv,1320,David Dunning,42,Dublin,IRL,00:42:54,02:32:19,01:42:47,00:07:05,00:04:34,05:09:39
+ironman-70.3-dublin-20170820.csv,1321,Brendon Marsh,43,Cavan,GBR,00:36:35,02:33:41,01:37:17,00:04:21,00:03:59,04:55:53
+ironman-70.3-dublin-20170820.csv,1322,Brian Kingston,41,kildare,IRL,00:32:18,02:49:06,02:18:53,00:04:21,00:06:39,05:51:17
+ironman-70.3-dublin-20170820.csv,1323,Sean Mcdermott,42,Co Longford,IRL,00:47:29,03:08:00,02:08:13,00:06:04,00:08:33,06:18:19
+ironman-70.3-dublin-20170820.csv,1324,Mark Kenny,41,Longford,IRL,00:39:37,02:26:39,01:31:51,00:04:21,00:03:33,04:46:01
+ironman-70.3-dublin-20170820.csv,1326,Mark Cushen,41,kerry,IRL,00:44:53,02:39:49,01:38:16,00:04:21,00:04:13,05:11:32
+ironman-70.3-dublin-20170820.csv,1327,Peter Finnegan,40,Co Dublin,IRL,00:40:04,03:02:08,02:51:00,00:07:15,00:09:44,06:50:11
+ironman-70.3-dublin-20170820.csv,1328,William O Connor,44,Galway,IRL,00:38:51,02:56:23,02:12:50,00:08:21,00:08:28,06:04:53
+ironman-70.3-dublin-20170820.csv,1330,Sean Farrell,40,Longford,IRL,00:36:54,02:26:37,01:45:06,00:04:21,00:04:27,04:57:25
+ironman-70.3-dublin-20170820.csv,1333,Colin Lochaden,42,CO. Cork,IRL,00:45:38,02:48:43,01:56:42,00:06:11,00:05:37,05:42:51
+ironman-70.3-dublin-20170820.csv,1334,Paul Byrne,41,Dublin,IRL,00:33:37,02:28:24,01:37:25,00:04:21,00:03:48,04:47:35
+ironman-70.3-dublin-20170820.csv,1335,Stephen Pike,39,County Dublin,IRL,00:46:46,02:50:11,02:10:19,00:05:36,00:04:52,05:57:44
+ironman-70.3-dublin-20170820.csv,1336,John Gilleran,40,Roscommon,IRL,00:37:14,02:23:12,01:44:18,00:04:22,00:03:56,04:53:02
+ironman-70.3-dublin-20170820.csv,1338,Brendan Ryder,44,mayo,IRL,00:36:20,02:27:48,02:10:59,00:04:21,00:05:33,05:25:01
+ironman-70.3-dublin-20170820.csv,1339,Hugh Marron,44,Dublin,IRL,00:50:51,02:47:12,01:56:31,00:12:13,00:11:31,05:58:18
+ironman-70.3-dublin-20170820.csv,1340,Bryan Conway,40,Dublin,IRL,00:49:28,03:17:01,02:09:05,00:08:31,00:08:42,06:32:47
+ironman-70.3-dublin-20170820.csv,1341,Floyd Keane,41,Wicklow,IRL,01:02:58,03:37:02,02:28:49,00:09:02,00:08:44,07:26:35
+ironman-70.3-dublin-20170820.csv,1342,Tony Forde,42,Dublin,IRL,00:42:43,03:09:22,01:59:02,00:04:21,00:10:46,06:06:14
+ironman-70.3-dublin-20170820.csv,1343,Keith Wood,41,Dublin,IRL,00:49:23,03:10:49,02:23:21,00:06:37,00:09:54,06:40:04
+ironman-70.3-dublin-20170820.csv,1344,Paul Watson,40,Down,GBR,00:45:46,03:18:12,02:10:35,00:08:05,00:07:34,06:30:12
+ironman-70.3-dublin-20170820.csv,1345,Damian Morrison,43,Kerry,IRL,00:40:25,02:35:38,01:35:41,00:04:22,00:05:28,05:01:34
+ironman-70.3-dublin-20170820.csv,1347,Gerry Odonoghue,42,waterford,IRL,00:45:01,02:41:31,02:00:26,00:04:54,00:05:16,05:37:08
+ironman-70.3-dublin-20170820.csv,1348,Keith Brennan,41,KILDARE,IRL,00:41:07,03:14:47,02:05:02,00:06:06,00:07:50,06:14:52
+ironman-70.3-dublin-20170820.csv,1349,Sorin Verona,41,Dublin,ROU,00:53:15,02:57:48,02:56:35,00:13:45,00:14:16,07:15:39
+ironman-70.3-dublin-20170820.csv,1350,Tim Leahy,43,kerry,IRL,00:36:51,02:37:15,01:53:12,00:04:22,00:06:20,05:18:00
+ironman-70.3-dublin-20170820.csv,1351,Paul Sherlock,41,Dublin,IRL,00:44:11,02:54:55,01:53:25,00:04:21,00:04:03,05:40:55
+ironman-70.3-dublin-20170820.csv,1352,Edward Walker,42,Wicklow,IRL,00:37:37,02:29:23,01:35:39,00:04:21,00:04:15,04:51:15
+ironman-70.3-dublin-20170820.csv,1353,Paddy Richards,39,Dublin,IRL,00:51:29,03:15:50,02:46:46,00:08:10,00:07:27,07:09:42
+ironman-70.3-dublin-20170820.csv,1354,Paul Smith,42,Louth,IRL,00:44:52,02:53:44,02:09:08,00:07:36,00:06:28,06:01:48
+ironman-70.3-dublin-20170820.csv,1356,James Reidy,43,Kildare,IRL,00:39:33,02:37:26,02:12:14,00:08:09,00:06:03,05:43:25
+ironman-70.3-dublin-20170820.csv,1357,Clive Jay,39,Dublin,IRL,00:40:37,02:51:08,02:04:01,00:07:42,00:06:54,05:50:22
+ironman-70.3-dublin-20170820.csv,1358,James Finnegan,40,Meath,IRL,00:44:06,02:55:16,01:41:43,00:06:38,00:05:00,05:32:43
+ironman-70.3-dublin-20170820.csv,1359,Niall Mac Carthy,41,Dublin,IRL,00:42:05,02:47:34,01:52:00,00:08:22,00:05:07,05:35:08
+ironman-70.3-dublin-20170820.csv,1360,Derek Kenny,43,Dublin,IRL,00:39:11,03:22:02,02:17:00,00:08:10,00:09:17,06:35:40
+ironman-70.3-dublin-20170820.csv,1361,Stuart Nicol,40,Dublin,GBR,00:32:05,02:46:54,01:51:27,00:04:21,00:04:08,05:18:55
+ironman-70.3-dublin-20170820.csv,1363,Sean O' Riordan,41,Cork,IRL,00:47:06,02:56:36,01:54:07,00:07:21,00:06:27,05:51:37
+ironman-70.3-dublin-20170820.csv,1364,Brian O Donnell,41,G,IRL,00:35:53,02:33:58,01:48:56,00:04:07,00:08:48,05:11:42
+ironman-70.3-dublin-20170820.csv,1365,Tom Cronin,42,Leitrim,IRL,00:40:36,02:31:19,01:47:17,00:05:24,00:05:50,05:10:26
+ironman-70.3-dublin-20170820.csv,1366,Darren Jarman,41,Powys,GBR,00:36:28,02:30:13,01:43:48,00:03:25,00:04:16,04:58:10
+ironman-70.3-dublin-20170820.csv,1367,Paul Ryan,41,Tipperary,IRL,00:45:57,02:39:59,01:59:03,00:08:22,00:09:04,05:42:25
+ironman-70.3-dublin-20170820.csv,1369,Stephen Giles,40,West glamorgan,GBR,00:45:24,03:05:55,02:39:03,00:07:52,00:06:07,06:44:21
+ironman-70.3-dublin-20170820.csv,1370,Graham O'Keeffe,43,Dublin,IRL,00:41:37,02:47:36,02:02:47,00:09:15,00:06:14,05:47:29
+ironman-70.3-dublin-20170820.csv,1371,Odhran Hendley,41,Wicklow,IRL,00:43:53,02:51:53,01:52:43,00:07:05,00:05:10,05:40:44
+ironman-70.3-dublin-20170820.csv,1372,Tomasz Gola,39,Dublin,POL,00:37:28,02:53:45,01:53:52,00:10:13,00:09:22,05:44:40
+ironman-70.3-dublin-20170820.csv,1373,James Hamill,40,fermangh,GBR,00:42:01,02:42:48,01:59:13,00:04:22,00:06:12,05:34:36
+ironman-70.3-dublin-20170820.csv,1374,Gianfranco Benatti,42,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-dublin-20170820.csv,1375,Steven Long,41,Wicklow,IRL,00:45:18,02:44:50,02:06:54,00:04:50,00:05:12,05:47:04
+ironman-70.3-dublin-20170820.csv,1376,Declan Loy,44,Louth,IRL,00:35:49,02:58:29,02:28:13,00:04:22,00:07:40,06:14:33
+ironman-70.3-dublin-20170820.csv,1377,Michael Mulcahy,41,cork,IRL,00:45:05,02:44:47,01:54:57,00:06:02,00:07:47,05:38:38
+ironman-70.3-dublin-20170820.csv,1378,Daire Greany,42,dublin 15,IRL,00:44:01,03:08:36,02:06:59,00:07:22,00:08:56,06:15:54
+ironman-70.3-dublin-20170820.csv,1379,Wai Yip Lee,43,Great London,HKG,00:47:19,03:12:33,02:10:05,00:07:57,00:05:41,06:23:35
+ironman-70.3-dublin-20170820.csv,1380,Seamus Fingleton,42,Laois,IRL,00:32:54,02:33:41,01:42:47,00:04:21,00:03:56,04:57:39
+ironman-70.3-dublin-20170820.csv,1381,James O'Driscoll,41,Cork,NAM,00:45:05,03:12:45,02:09:22,00:06:33,00:09:25,06:23:10
+ironman-70.3-dublin-20170820.csv,1382,David Hart,42,West lancs,GBR,00:52:53,03:04:39,02:18:18,00:10:04,00:06:58,06:32:52
+ironman-70.3-dublin-20170820.csv,1383,Keith Bradley,44,Antrim,GBR,00:38:08,02:32:39,01:55:00,00:04:21,00:06:08,05:16:16
+ironman-70.3-dublin-20170820.csv,1384,Kevin Woodley,41,Cornwall,GBR,00:37:16,02:35:26,01:48:33,00:05:22,00:07:00,05:13:37
+ironman-70.3-dublin-20170820.csv,1385,Damian Mc Allister,40,Antrim,IRL,00:41:53,02:41:26,01:57:47,00:05:03,00:04:48,05:30:57
+ironman-70.3-dublin-20170820.csv,1386,Denis Farrell,39,Leinster,IRL,00:43:18,02:49:26,02:07:22,00:05:48,00:06:27,05:52:21
+ironman-70.3-dublin-20170820.csv,1387,Adrian Murphy,40,Offaly,IRL,00:39:29,02:49:56,01:48:49,00:05:51,00:07:19,05:31:24
+ironman-70.3-dublin-20170820.csv,1388,David Halnon,40,Wexford,IRL,00:41:45,02:50:09,01:57:52,00:10:04,00:10:18,05:50:08
+ironman-70.3-dublin-20170820.csv,1389,Andy Mcgregor,40,West Sussex,GBR,00:32:58,02:27:38,01:44:48,00:04:22,00:03:35,04:53:21
+ironman-70.3-dublin-20170820.csv,1390,Dermot Bergin,39,Galway,IRL,00:45:18,03:08:38,01:46:17,00:06:56,00:05:07,05:52:16
+ironman-70.3-dublin-20170820.csv,1391,Alexandru Eftimiu,40,---,ROU,00:44:14,03:02:06,02:17:13,00:11:32,00:10:35,06:25:40
+ironman-70.3-dublin-20170820.csv,1392,Andrey Kamardin,40,"
+Moscow region",RUS,00:42:39,02:59:15,02:13:05,00:07:21,00:05:29,06:07:49
+ironman-70.3-dublin-20170820.csv,1393,John O Sullivan,42,Kerry,IRL,00:49:35,03:09:43,02:03:22,00:12:34,00:08:18,06:23:32
+ironman-70.3-dublin-20170820.csv,1394,Eric Smith,40,WESTMEATH,IRL,00:41:48,02:39:46,02:03:18,00:04:22,00:04:35,05:33:49
+ironman-70.3-dublin-20170820.csv,1396,Rob Priestman,40,Dublin 18,IRL,00:49:46,03:02:13,01:56:09,00:09:49,00:07:59,06:05:56
+ironman-70.3-dublin-20170820.csv,1397,Brian Fitzgerald,39,---,IRL,00:43:58,02:34:19,01:40:42,00:05:31,00:05:14,05:09:44
+ironman-70.3-dublin-20170820.csv,1398,Liam Murphy,44,Cork P51 H641,IRL,00:44:42,03:02:02,01:51:31,00:09:16,00:07:34,05:55:05
+ironman-70.3-dublin-20170820.csv,1399,Conor Toman,40,Armagh,IRL,00:49:04,02:58:24,01:51:27,00:06:10,00:05:11,05:50:16
+ironman-70.3-dublin-20170820.csv,1400,Stephen Kieran,39,Dublin,IRL,00:36:16,02:33:48,01:34:20,00:03:51,00:03:51,04:52:06
+ironman-70.3-dublin-20170820.csv,1401,Edward O'Reilly,43,Dublin,IRL,00:39:49,02:33:11,01:58:09,00:04:21,00:04:59,05:20:29
+ironman-70.3-dublin-20170820.csv,1402,Peter Bennett,42,---,IRL,00:37:54,02:50:34,02:16:19,00:04:22,00:05:57,05:55:06
+ironman-70.3-dublin-20170820.csv,1403,Des Cox,41,Dublin,IRL,00:44:12,03:02:19,02:07:44,00:06:09,00:05:00,06:05:24
+ironman-70.3-dublin-20170820.csv,1404,Douglas Franks,40,MD,USA,00:42:48,02:54:43,01:57:32,00:04:22,00:06:18,05:45:43
+ironman-70.3-dublin-20170820.csv,1405,Nick O Carroll,43,carlow,IRL,00:39:56,02:36:29,01:50:09,00:04:03,00:04:52,05:15:29
+ironman-70.3-dublin-20170820.csv,1406,Damien Mcconnell,39,MONAGHAN,IRL,00:39:44,02:26:37,01:35:09,00:04:21,00:04:23,04:50:14
+ironman-70.3-dublin-20170820.csv,1407,Barry O'Driscoll,44,Ireland,IRL,00:37:46,03:01:06,02:06:34,00:09:55,00:08:21,06:03:42
+ironman-70.3-dublin-20170820.csv,1408,Seamus Duggan,42,Tipperary,IRL,00:46:39,02:44:51,01:37:59,00:06:17,00:04:17,05:20:03
+ironman-70.3-dublin-20170820.csv,1409,Michael Hall,43,Co Cavan,IRL,00:48:47,02:36:57,01:43:30,00:07:57,00:04:24,05:21:35
+ironman-70.3-dublin-20170820.csv,1411,Tony Salmon,41,Wicklow,IRL,00:43:31,02:52:48,02:15:45,00:07:42,00:07:44,06:07:30
+ironman-70.3-dublin-20170820.csv,1412,Adrian Duggan,41,cork,IRL,00:46:23,02:50:41,02:17:27,00:06:50,00:06:56,06:08:17
+ironman-70.3-dublin-20170820.csv,1413,Gary Keogan,39,Meath,IRL,00:39:55,02:35:07,01:42:49,00:04:22,00:05:06,05:07:19
+ironman-70.3-dublin-20170820.csv,1415,Colm Gillard,42,Co. Cork,IRL,00:39:13,03:08:50,02:01:19,00:04:21,00:07:08,06:00:51
+ironman-70.3-dublin-20170820.csv,1416,Diarmuid O'Brien,40,Cork,IRL,00:31:03,03:06:33,02:40:13,00:04:22,00:09:24,06:31:35
+ironman-70.3-dublin-20170820.csv,1417,Arno Albergaria,40,Kildare,IRL,00:39:37,02:36:12,01:39:48,00:03:44,00:03:55,05:03:16
+ironman-70.3-dublin-20170820.csv,1418,Stephen Shirley,41,Merseyside,GBR,00:37:35,03:00:10,01:47:23,00:06:31,00:05:48,05:37:27
+ironman-70.3-dublin-20170820.csv,1420,Kiaran Dunne,42,Co Tipperary,GBR,00:43:39,02:45:44,02:26:32,00:09:28,00:07:12,06:12:35
+ironman-70.3-dublin-20170820.csv,1421,Martin Gillen,41,Longford,IRL,00:37:04,02:28:24,01:33:47,00:04:21,00:03:30,04:47:06
+ironman-70.3-dublin-20170820.csv,1422,Jason Rosenkowitz,43,Waterford,IRL,00:35:45,02:41:31,01:45:42,00:04:57,00:04:24,05:12:19
+ironman-70.3-dublin-20170820.csv,1423,Shay Bollard,41,Kilkenny,IRL,00:39:10,03:14:12,02:07:36,00:07:47,00:06:59,06:15:44
+ironman-70.3-dublin-20170820.csv,1425,Hugh Early,44,Dublin,IRL,00:50:20,---,---,---,---,DNF
+ironman-70.3-dublin-20170820.csv,1426,Owen Falconer,43,Tyrone,IRL,00:38:30,02:43:58,01:50:23,00:04:22,00:05:03,05:22:16
+ironman-70.3-dublin-20170820.csv,1427,Andrew Gibson,41,Dublin,IRL,00:42:11,03:00:43,02:11:37,00:07:32,00:05:26,06:07:29
+ironman-70.3-dublin-20170820.csv,1428,Dominic Teague,44,---,IRL,00:31:06,02:28:09,01:52:34,00:04:21,00:04:06,05:00:16
+ironman-70.3-dublin-20170820.csv,1430,Cormac Loughrey,39,Dublin,IRL,00:44:52,02:43:52,01:57:44,00:06:34,00:06:18,05:39:20
+ironman-70.3-dublin-20170820.csv,1431,Darius Delahunty,42,Tipperary,IRL,00:38:39,02:37:51,01:59:32,00:04:21,00:05:56,05:26:19
+ironman-70.3-dublin-20170820.csv,1432,Mark Kennedy,41,Dublin 18,IRL,00:36:29,02:48:32,01:57:15,00:04:22,00:07:31,05:34:09
+ironman-70.3-dublin-20170820.csv,1433,Conor Devine,39,---,IRL,00:47:58,02:59:41,02:20:09,00:11:30,00:08:24,06:27:42
+ironman-70.3-dublin-20170820.csv,1435,John Langan,40,Galway,IRL,00:44:23,02:39:40,01:39:36,00:05:29,00:05:46,05:14:54
+ironman-70.3-dublin-20170820.csv,1436,Aubrey Anderson,40,Ireland ,IRL,00:38:13,03:26:29,02:00:48,00:06:27,00:06:11,06:18:08
+ironman-70.3-dublin-20170820.csv,1437,Colin O'Brien,41,Dublin 3,IRL,00:33:35,02:31:50,01:46:36,00:04:21,00:04:05,05:00:27
+ironman-70.3-dublin-20170820.csv,1438,Shane Lawlor,42,Dublin,IRL,00:48:13,02:44:21,01:52:00,00:06:05,00:07:05,05:37:44
+ironman-70.3-dublin-20170820.csv,1440,Tony Gray,42,Co Derry,IRL,00:34:31,02:43:25,02:00:12,00:04:22,00:05:36,05:28:06
+ironman-70.3-dublin-20170820.csv,1441,Colm Costelloe,44,Dublin,IRL,00:46:57,02:52:30,02:01:39,00:06:03,00:05:12,05:52:21
+ironman-70.3-dublin-20170820.csv,1442,Artur Kasperski,40,WESTMEATH,IRL,00:36:04,02:28:46,01:28:42,00:04:22,00:03:35,04:41:29
+ironman-70.3-dublin-20170820.csv,1443,Kenneth Hughes,40,Dublin,IRL,00:44:27,03:16:58,02:08:46,00:09:39,00:11:52,06:31:42
+ironman-70.3-dublin-20170820.csv,1444,David Steele,42,Co dublin,IRL,00:37:29,02:47:00,01:50:39,00:07:02,00:06:09,05:28:19
+ironman-70.3-dublin-20170820.csv,1445,Leighton Gardiner,42,Warwickshire,GBR,00:51:47,03:00:42,02:15:07,00:09:21,00:08:13,06:25:10
+ironman-70.3-dublin-20170820.csv,1446,Eddie Petrie,44,West lothian,GBR,00:36:18,02:31:59,01:32:02,00:04:22,00:03:06,04:47:47
+ironman-70.3-dublin-20170820.csv,1448,Hugo Costa,40,Galway,PRT,00:48:47,03:16:18,02:11:53,00:08:47,00:11:13,06:36:58
+ironman-70.3-dublin-20170820.csv,1449,Jimmy Mcnamara,41,galway,IRL,01:03:03,03:06:03,02:11:06,00:05:49,00:07:35,06:33:36
+ironman-70.3-dublin-20170820.csv,1450,Brendan Keane,41,Surrey,USA,00:32:11,02:52:45,02:31:16,00:04:22,00:09:55,06:10:29
+ironman-70.3-dublin-20170820.csv,1451,Patrick Hutchinson,43,---,GBR,00:45:48,03:16:26,02:44:16,00:10:28,00:08:53,07:05:51
+ironman-70.3-dublin-20170820.csv,1452,Michael Ohara,40,mayo,IRL,00:38:47,02:43:10,03:09:03,00:04:21,00:11:16,06:46:37
+ironman-70.3-dublin-20170820.csv,1453,Nick Barton,44,Somerset,ZAF,00:34:20,02:47:26,01:56:37,00:04:21,00:05:00,05:27:44
+ironman-70.3-dublin-20170820.csv,1454,Darren Sharpe,43,---,GBR,00:32:36,02:25:18,01:28:15,00:04:22,00:03:35,04:34:06
+ironman-70.3-dublin-20170820.csv,1455,Julian Lynch,41,Dublin,IRL,00:45:25,02:36:52,01:48:07,00:04:21,00:04:37,05:19:22
+ironman-70.3-dublin-20170820.csv,1456,Alberto Frasarin,43,South County Dublin,ITA,00:38:51,03:11:32,02:07:52,00:18:16,00:13:19,06:29:50
+ironman-70.3-dublin-20170820.csv,1458,Morgan Cox,43,---,GBR,00:47:35,03:02:20,01:52:59,00:06:54,00:08:14,05:58:02
+ironman-70.3-dublin-20170820.csv,1459,Peter Truscott,44,Lancashire,GBR,00:47:00,03:02:26,02:02:49,00:11:46,00:08:44,06:12:45
+ironman-70.3-dublin-20170820.csv,1460,James Sheehan,40,Tipperary,IRL,00:46:58,03:07:21,01:55:38,00:10:39,00:07:08,06:07:44
+ironman-70.3-dublin-20170820.csv,1461,Evan Macrae,43,---,GBR,00:37:28,02:36:45,01:55:41,00:04:22,00:06:30,05:20:46
+ironman-70.3-dublin-20170820.csv,1462,Peter Kelly,42,---,GBR,00:38:54,02:39:54,01:48:41,00:07:12,00:04:56,05:19:37
+ironman-70.3-dublin-20170820.csv,1463,Patrick Brennan,40,QC,CAN,00:47:43,03:12:14,02:26:54,00:09:14,00:09:15,06:45:20
+ironman-70.3-dublin-20170820.csv,1464,Ronan Doyle,42,Kildare,IRL,00:47:35,03:08:27,02:12:06,00:11:05,00:08:29,06:27:42
+ironman-70.3-dublin-20170820.csv,1465,Patrick Needham,40,Dublin,IRL,00:37:33,02:46:45,01:40:42,00:04:21,00:03:48,05:13:09
+ironman-70.3-dublin-20170820.csv,1466,John Sherry,43,meath,IRL,00:40:18,02:39:03,01:36:52,00:04:21,00:04:30,05:05:04
+ironman-70.3-dublin-20170820.csv,1468,Colin Mc Guirk,42,Meath,IRL,00:52:47,02:55:19,02:16:57,00:07:31,00:06:27,06:19:01
+ironman-70.3-dublin-20170820.csv,1469,Geronimo Ambrocio,39,Dublin,IRL,00:56:31,03:08:39,02:40:57,00:08:32,00:06:52,07:01:31
+ironman-70.3-dublin-20170820.csv,1470,Aengus Mccarthy,41,Dublin ,IRL,00:51:53,02:59:04,02:23:51,00:07:21,00:09:22,06:31:31
+ironman-70.3-dublin-20170820.csv,1471,Jianfeng Zhang,40,Dublin15,CHN,00:53:41,03:02:58,02:11:39,00:07:11,00:11:52,06:27:21
+ironman-70.3-dublin-20170820.csv,1472,Conor Downes,43,Dublin 14,IRL,00:40:17,03:08:47,02:08:00,00:06:25,00:08:20,06:11:49
+ironman-70.3-dublin-20170820.csv,1473,Thomas Downes,42,---,IRL,00:45:54,03:22:14,02:22:29,00:07:41,00:07:54,06:46:12
+ironman-70.3-dublin-20170820.csv,1474,Damian Cranney,42,Antrim,IRL,00:42:01,02:44:41,01:51:05,00:08:37,00:05:51,05:32:15
+ironman-70.3-dublin-20170820.csv,1475,Mark Waters,43,Wicklow,IRL,00:36:01,02:47:02,01:55:21,00:04:22,00:06:36,05:29:22
+ironman-70.3-dublin-20170820.csv,1476,Michael Weber,42,Dublin,DNK,00:58:52,03:02:36,02:15:45,00:14:03,00:09:38,06:40:54
+ironman-70.3-dublin-20170820.csv,1477,David Ashe,42,kildare,IRL,00:43:56,02:52:37,02:02:07,00:07:08,00:07:20,05:53:08
+ironman-70.3-dublin-20170820.csv,1478,Michael Steindler,42,---,AUT,00:42:21,---,---,00:05:33,---,DNF
+ironman-70.3-dublin-20170820.csv,1479,Shane Desmond,41,Dublin 18,IRL,00:33:05,03:01:41,01:44:18,00:04:22,00:06:10,05:29:36
+ironman-70.3-dublin-20170820.csv,1480,Niall Power,41,dublin,IRL,00:44:42,02:47:54,02:18:49,00:09:54,00:06:55,06:08:14
+ironman-70.3-dublin-20170820.csv,1481,Jonathan Broad,41,Kent,GBR,00:45:18,03:00:33,01:52:18,00:14:44,00:08:04,06:00:57
+ironman-70.3-dublin-20170820.csv,1482,Robin Estes,39,GA,USA,00:42:37,02:47:41,02:20:08,00:06:49,00:06:39,06:03:54
+ironman-70.3-dublin-20170820.csv,1483,Kenneth Byrne,41,Dublin,IRL,00:41:56,03:02:38,01:55:05,00:06:53,00:07:46,05:54:18
+ironman-70.3-dublin-20170820.csv,1484,Eddie O'Gorman,44,Clare,IRL,01:05:36,03:27:21,02:56:27,00:10:17,00:09:25,07:49:06
+ironman-70.3-dublin-20170820.csv,1485,Mark Leonard,40,---,IRL,00:37:04,02:46:09,01:41:03,00:04:21,00:04:57,05:13:34
+ironman-70.3-dublin-20170820.csv,1487,Bill Barry,42,Carlow,IRL,00:38:42,02:45:41,---,---,00:05:21,DNF
+ironman-70.3-dublin-20170820.csv,1488,Colin Mccarthy,41,Dublin,IRL,00:39:17,03:07:56,02:20:01,00:09:42,00:09:10,06:26:06
+ironman-70.3-dublin-20170820.csv,1489,Damian Mcneely,42,Mayo,IRL,00:45:29,03:11:06,02:26:33,00:06:15,00:05:08,06:34:31
+ironman-70.3-dublin-20170820.csv,1490,James O'Neill,44,Dublin,USA,00:37:31,02:45:59,01:59:45,00:04:21,00:07:05,05:34:41
+ironman-70.3-dublin-20170820.csv,1491,Brendan Mcardle,40,Co. Down,IRL,00:44:34,02:22:46,01:40:16,00:04:09,00:04:35,04:56:20
+ironman-70.3-dublin-20170820.csv,1492,Ger Walsh,41,Wicklow,IRL,00:41:43,02:52:37,02:07:00,00:04:21,00:06:44,05:52:25
+ironman-70.3-dublin-20170820.csv,1493,Ian Bourke,44,Dublin,IRL,00:47:45,03:23:54,02:24:09,00:07:29,00:06:12,06:49:29
+ironman-70.3-dublin-20170820.csv,1495,Brian Murphy,42,Cork,IRL,00:41:51,02:59:28,02:11:20,00:06:50,00:05:56,06:05:25
+ironman-70.3-dublin-20170820.csv,1496,Bazil Lawrenson,41,Dublin,IRL,00:38:54,02:50:06,01:46:57,00:08:41,00:08:02,05:32:40
+ironman-70.3-dublin-20170820.csv,1497,Eddie Martin,42,Down,IRL,00:40:22,02:30:05,01:52:55,00:04:27,00:04:35,05:12:24
+ironman-70.3-dublin-20170820.csv,1498,Olivier Van Parys,43,Dublin,FRA,00:37:13,03:20:32,01:51:32,00:07:28,00:07:30,06:04:15
+ironman-70.3-dublin-20170820.csv,1499,Anthony Kirwan,42,Co WATERFORD,IRL,00:41:51,02:39:00,01:41:13,00:05:05,00:03:54,05:11:03
+ironman-70.3-dublin-20170820.csv,1500,Brian Nieman,40,NY,USA,00:40:03,03:08:46,02:31:07,00:09:03,00:07:55,06:36:54
+ironman-70.3-dublin-20170820.csv,1501,Martin Fitzgerald,42,Cork,IRL,00:40:29,02:56:05,01:54:56,00:04:22,00:06:10,05:42:02
+ironman-70.3-dublin-20170820.csv,1502,Canice Nicholas,43,Donegal,IRL,00:37:14,02:34:59,02:04:36,00:04:22,00:09:45,05:30:56
+ironman-70.3-dublin-20170820.csv,1503,Tomasz Jezierski,41,MEATH,POL,00:42:58,03:02:17,01:58:06,00:05:59,00:05:15,05:54:35
+ironman-70.3-dublin-20170820.csv,1504,Joe Murray,40,DXB,GBR,00:35:03,03:02:15,01:54:58,00:08:17,00:05:35,05:46:08
+ironman-70.3-dublin-20170820.csv,1505,David Shanley,40,Dublin,CAN,00:44:44,02:53:13,02:37:15,00:06:55,00:05:59,06:28:06
+ironman-70.3-dublin-20170820.csv,1506,Cathal O'Donoghue,40,dublin 22,IRL,00:49:40,02:46:36,02:05:13,00:07:36,00:07:03,05:56:08
+ironman-70.3-dublin-20170820.csv,1507,Baz Buckland,42,Meath,IRL,00:34:56,02:38:49,01:42:11,00:04:22,00:04:14,05:04:32
+ironman-70.3-dublin-20170820.csv,1509,Juan Ramon Sanchez Gil,39,Dublin,ESP,00:37:57,03:00:40,01:53:04,00:04:22,00:05:25,05:41:28
+ironman-70.3-dublin-20170820.csv,1510,Ben Holding,41,Bristol,GBR,00:32:16,02:36:19,01:32:26,00:04:21,00:05:10,04:50:32
+ironman-70.3-dublin-20170820.csv,1511,Shane Kiely,40,tipperary,IRL,00:33:51,02:26:23,01:35:27,00:04:21,00:04:05,04:44:07
+ironman-70.3-dublin-20170820.csv,1514,Mark Fitzpatrick,39,Dublin,IRL,00:54:30,03:22:36,02:06:03,00:11:53,00:08:52,06:43:54
+ironman-70.3-dublin-20170820.csv,1515,Derek O'Brien,41,Dublin,IRL,00:44:54,02:51:13,02:15:42,00:07:42,00:06:45,06:06:16
+ironman-70.3-dublin-20170820.csv,1516,Darren Linton,39,---,GBR,00:51:01,04:10:40,03:12:41,00:09:31,00:08:42,08:32:35
+ironman-70.3-dublin-20170820.csv,1517,Bren Whelan,43,Ireland,IRL,00:43:21,02:48:00,02:00:26,00:04:21,00:04:54,05:41:02
+ironman-70.3-dublin-20170820.csv,1518,Karl Moore,42,Isle of Man,GBR,00:38:54,02:53:11,02:10:25,00:06:29,00:07:16,05:56:15
+ironman-70.3-dublin-20170820.csv,1519,Alan O  Riordan,40,Co kerry,IRL,00:35:32,03:21:11,02:11:47,00:04:21,00:08:16,06:21:07
+ironman-70.3-dublin-20170820.csv,1521,Pablo Barrero,44,dublin,IRL,00:51:05,03:05:32,02:35:46,00:07:03,00:05:52,06:45:18
+ironman-70.3-dublin-20170820.csv,1522,Christoph Gapp,44,---,AUT,00:57:09,03:30:02,02:11:54,00:11:10,00:09:28,06:59:43
+ironman-70.3-dublin-20170820.csv,1523,Niall Mcdonnell,41,IRELAND,IRL,00:51:23,03:21:19,01:54:14,00:14:20,00:12:35,06:33:51
+ironman-70.3-dublin-20170820.csv,1524,Glen Oosthuizen,43,Dublin,IRL,00:37:45,03:09:54,02:03:28,00:04:22,00:07:25,06:02:54
+ironman-70.3-dublin-20170820.csv,1525,Stephen Tighe,40,Dublin,IRL,00:46:55,02:49:56,02:08:51,00:05:43,00:05:04,05:56:29
+ironman-70.3-dublin-20170820.csv,1526,Jonathan O'Connell,41,Limerick,IRL,00:44:23,---,---,00:08:01,---,DNF
+ironman-70.3-dublin-20170820.csv,1527,Barry Connolly,48,Kildare,IRL,00:47:42,03:14:05,02:21:57,00:10:35,00:09:47,06:44:06
+ironman-70.3-dublin-20170820.csv,1528,Pat Kilbane,48,Galway,IRL,00:37:11,03:18:31,02:49:28,00:08:15,00:09:54,07:03:19
+ironman-70.3-dublin-20170820.csv,1529,Matthew Molloy,45,Meath,IRL,00:33:40,02:28:15,01:35:28,00:03:33,00:04:26,04:45:22
+ironman-70.3-dublin-20170820.csv,1530,Alan Lewis,44,Down,GBR,00:36:16,02:32:02,01:34:12,00:04:21,00:03:29,04:50:20
+ironman-70.3-dublin-20170820.csv,1531,Ian Mcgrath,49,Galway,IRL,00:44:44,02:57:36,02:19:36,00:05:42,00:07:22,06:15:00
+ironman-70.3-dublin-20170820.csv,1532,Gavin Gallagher,44,Dublin,IRL,00:41:39,03:04:37,02:16:15,00:04:21,00:07:48,06:14:40
+ironman-70.3-dublin-20170820.csv,1534,Liam Cashman,47,Cork,IRL,00:47:54,03:03:23,01:50:12,00:06:34,00:08:23,05:56:26
+ironman-70.3-dublin-20170820.csv,1535,Denton Howard,46,Kildare,IRL,00:43:19,03:02:03,01:56:49,00:08:49,00:06:45,05:57:45
+ironman-70.3-dublin-20170820.csv,1536,Miah Mcgrath,47,Cork,IRL,00:50:18,02:58:34,02:14:39,00:07:53,00:09:54,06:21:18
+ironman-70.3-dublin-20170820.csv,1537,Nicky Langton,44,Dublin,GBR,00:45:56,02:45:04,01:25:32,00:06:35,00:04:28,05:07:35
+ironman-70.3-dublin-20170820.csv,1538,Donal O'Riordan,48,Cork,IRL,00:58:33,03:22:02,02:39:33,00:12:07,00:15:15,07:27:30
+ironman-70.3-dublin-20170820.csv,1539,Alan Mangan,47,Kildare,IRL,00:49:02,03:22:02,02:09:44,00:11:45,00:07:07,06:39:40
+ironman-70.3-dublin-20170820.csv,1540,Mark Davis,45,Co Louth ,IRL,00:41:58,02:37:43,01:44:39,00:04:22,00:04:16,05:12:58
+ironman-70.3-dublin-20170820.csv,1542,Stephen Browne,48,Derry,IRL,---,---,---,---,---,DQ
+ironman-70.3-dublin-20170820.csv,1543,Kevin Fee,46,Kildare,GBR,00:46:16,03:31:46,02:32:35,00:11:35,00:09:26,07:11:38
+ironman-70.3-dublin-20170820.csv,1544,Daragh Callaghan,44,Sligo,IRL,00:42:09,02:52:31,01:47:18,00:05:20,00:07:39,05:34:57
+ironman-70.3-dublin-20170820.csv,1545,Eamon Horkan,46,Dublin,IRL,00:47:05,03:14:36,02:14:58,00:14:10,00:08:59,06:39:48
+ironman-70.3-dublin-20170820.csv,1546,Donal Gleeson,46,D,IRL,00:43:01,02:29:24,02:08:04,00:05:49,00:06:58,05:33:16
+ironman-70.3-dublin-20170820.csv,1548,Brian Murray,48,TYRONE,IRL,00:47:03,02:56:49,02:05:06,00:08:42,00:10:33,06:08:13
+ironman-70.3-dublin-20170820.csv,1549,Davy McAleer,44,---,GBR,00:43:45,02:40:41,01:34:28,00:04:32,00:05:00,05:08:26
+ironman-70.3-dublin-20170820.csv,1550,Alan Smith,47,Cork,GBR,00:43:46,02:57:45,01:59:01,00:09:48,00:07:07,05:57:27
+ironman-70.3-dublin-20170820.csv,1551,Ciaran O'Flynn,45,Dublin 18,IRL,00:35:45,02:26:16,01:38:11,00:04:22,00:05:13,04:49:47
+ironman-70.3-dublin-20170820.csv,1552,Michael Culleton,44,wexford,IRL,00:43:52,03:00:00,02:05:15,00:05:09,00:04:50,05:59:06
+ironman-70.3-dublin-20170820.csv,1553,Thomas Daly,48,Co Dublin,IRL,00:46:32,02:39:07,02:05:05,00:07:57,00:06:30,05:45:11
+ironman-70.3-dublin-20170820.csv,1554,Brian Murphy,45,cork,IRL,00:40:26,02:53:19,01:45:12,00:03:51,00:05:10,05:27:58
+ironman-70.3-dublin-20170820.csv,1555,David Byrne,47,Ireland,IRL,00:48:48,03:05:02,02:07:12,00:05:13,00:06:32,06:12:47
+ironman-70.3-dublin-20170820.csv,1556,Connor Petticrew,45,CoLouth,IRL,00:53:03,03:27:17,02:37:56,00:06:44,00:08:37,07:13:37
+ironman-70.3-dublin-20170820.csv,1558,David Burke,44,Waterford,IRL,00:41:56,02:52:31,02:17:01,00:09:24,00:07:30,06:08:22
+ironman-70.3-dublin-20170820.csv,1559,Nigel O Sullivan,45,Waterford ,IRL,00:40:56,02:44:02,01:52:57,00:04:22,00:05:48,05:28:05
+ironman-70.3-dublin-20170820.csv,1560,Douglas Bates,47,Ireland,IRL,00:33:23,02:36:34,01:56:36,00:03:56,00:04:48,05:15:17
+ironman-70.3-dublin-20170820.csv,1561,Andy Devonald,47,Pembrokeshire,GBR,00:38:54,02:44:36,01:41:47,00:04:22,00:08:39,05:18:18
+ironman-70.3-dublin-20170820.csv,1563,Steven Wood,45,Northampton,GBR,00:38:29,02:37:03,02:10:06,00:04:22,00:07:39,05:37:39
+ironman-70.3-dublin-20170820.csv,1565,Ken Duxberry,45,Carmarthenshire,GBR,00:48:57,03:07:15,02:45:32,00:09:28,00:10:36,07:01:48
+ironman-70.3-dublin-20170820.csv,1566,Scott Brooks,47,SC,USA,00:37:58,02:47:02,01:48:00,00:04:22,00:05:59,05:23:21
+ironman-70.3-dublin-20170820.csv,1567,Stephen Murphy,48,carlow,IRL,00:47:48,03:13:13,01:58:57,00:09:54,00:10:05,06:19:57
+ironman-70.3-dublin-20170820.csv,1568,Darren Levins,46,Louth,IRL,00:44:51,02:37:44,01:47:56,00:07:49,00:09:05,05:27:25
+ironman-70.3-dublin-20170820.csv,1569,Fergal Cunningham,45,louth,IRL,00:41:57,02:32:54,01:53:10,00:04:21,00:05:03,05:17:25
+ironman-70.3-dublin-20170820.csv,1570,Neil Norman,45,Lancashire,GBR,00:40:26,03:03:54,02:19:57,00:06:42,00:06:18,06:17:17
+ironman-70.3-dublin-20170820.csv,1571,Craig Carloss,47,---,GBR,00:53:55,02:56:39,01:58:12,00:08:54,00:06:43,06:04:23
+ironman-70.3-dublin-20170820.csv,1572,Raghvendrasinh Jhala,45,Gujarat,IND,00:55:06,03:09:40,02:37:42,00:11:10,00:11:09,07:04:47
+ironman-70.3-dublin-20170820.csv,1574,Edwin Murphy,46,Monaghan,IRL,00:44:35,02:54:51,01:55:08,00:07:46,00:06:00,05:48:20
+ironman-70.3-dublin-20170820.csv,1575,Ciaran Sherlock,46,Dublin,IRL,00:38:31,03:07:27,02:32:44,00:08:00,00:09:38,06:36:20
+ironman-70.3-dublin-20170820.csv,1576,William Quinn,46,Limerick,IRL,00:46:18,02:32:59,01:57:33,00:07:28,00:06:00,05:30:18
+ironman-70.3-dublin-20170820.csv,1577,Dermot Hickey,46,wicklow,IRL,00:30:14,02:34:32,01:33:15,00:05:09,00:03:52,04:47:02
+ironman-70.3-dublin-20170820.csv,1579,Maxim Martin,47,QC,CAN,00:40:54,02:58:59,02:10:16,00:07:23,00:08:23,06:05:55
+ironman-70.3-dublin-20170820.csv,1580,Daniel Geary,48,---,IRL,00:35:32,03:01:31,---,00:06:24,---,DNF
+ironman-70.3-dublin-20170820.csv,1581,David Monaghan,48,Louth,IRL,00:46:52,03:12:11,02:15:49,00:08:21,00:07:21,06:30:34
+ironman-70.3-dublin-20170820.csv,1582,Justin Keatinge,47,Dublin,IRL,00:51:52,02:59:03,02:07:11,00:06:14,00:04:00,06:08:20
+ironman-70.3-dublin-20170820.csv,1583,Duncan Byrne,47,---,IRL,00:36:07,02:59:43,01:53:22,00:08:45,00:08:57,05:46:54
+ironman-70.3-dublin-20170820.csv,1584,Kevin Gilmore,48,Dublin,IRL,00:33:57,02:28:45,01:45:04,00:04:22,00:03:40,04:55:48
+ironman-70.3-dublin-20170820.csv,1585,Donal Loughrey,49,IL,IRL,00:39:37,02:41:09,01:52:30,00:04:22,00:06:47,05:24:25
+ironman-70.3-dublin-20170820.csv,1587,Gavan Matthews,47,Co dublin,IRL,00:42:34,03:10:35,02:37:26,00:12:29,00:14:42,06:57:46
+ironman-70.3-dublin-20170820.csv,1588,Paul Gordon,46,Wicklow,IRL,00:44:15,03:21:03,02:16:08,00:14:04,00:12:22,06:47:52
+ironman-70.3-dublin-20170820.csv,1590,Barry Waldron,49,dublin,IRL,00:50:41,03:06:02,02:06:17,00:06:23,00:05:24,06:14:47
+ironman-70.3-dublin-20170820.csv,1592,Alan Watters,48,sligo,IRL,---,---,---,---,---,DNS
+ironman-70.3-dublin-20170820.csv,1593,David Curtis,44,Dublin,IRL,00:46:04,03:17:01,02:06:45,00:08:02,00:09:46,06:27:38
+ironman-70.3-dublin-20170820.csv,1594,Al Jan Tinoy,47,dublin,IRL,00:53:18,03:08:25,02:18:41,00:08:42,00:07:39,06:36:45
+ironman-70.3-dublin-20170820.csv,1596,Nomer Rivera,44,co. dublin,IRL,00:45:31,03:14:14,01:46:49,00:06:57,00:07:52,06:01:23
+ironman-70.3-dublin-20170820.csv,1597,Gavin Lawrenson,46,Merseyside,GBR,00:38:31,02:49:07,01:56:59,00:07:12,00:05:38,05:37:27
+ironman-70.3-dublin-20170820.csv,1598,Thomas Mousley,45,Dublin,IRL,00:45:37,02:53:15,02:35:02,00:05:07,00:06:31,06:25:32
+ironman-70.3-dublin-20170820.csv,1600,Shane Mcdonagh,47,Waterford,IRL,00:42:25,02:57:17,02:06:27,00:07:16,00:06:32,05:59:57
+ironman-70.3-dublin-20170820.csv,1602,Leonard O'sullivan,44,Co Cork,IRL,00:41:35,02:41:37,01:54:11,00:06:48,00:07:52,05:32:03
+ironman-70.3-dublin-20170820.csv,1604,Peter Clancy,48,Ireland,IRL,---,---,---,---,---,DQ
+ironman-70.3-dublin-20170820.csv,1605,Darren Hill,47,West Sussex,GBR,00:44:03,02:54:32,02:08:12,00:08:51,00:09:04,06:04:42
+ironman-70.3-dublin-20170820.csv,1606,Richard Greer,45,Worcestershire,GBR,00:37:16,02:29:39,02:02:48,00:04:21,00:06:32,05:20:36
+ironman-70.3-dublin-20170820.csv,1607,Ruairi Jennings,45,Dublin,IRL,00:42:49,02:56:33,02:10:41,00:05:32,00:06:10,06:01:45
+ironman-70.3-dublin-20170820.csv,1608,Martin Flynn,47,CO Waterford,IRL,00:35:33,02:51:08,01:41:55,00:06:34,00:05:00,05:20:10
+ironman-70.3-dublin-20170820.csv,1609,Joe Meagher,45,Tipperary,IRL,00:46:33,03:02:35,01:57:46,00:11:57,00:06:40,06:05:31
+ironman-70.3-dublin-20170820.csv,1610,Juan Owens,45,Isle of Man,GBR,00:38:36,02:51:02,02:11:26,00:04:22,00:07:54,05:53:20
+ironman-70.3-dublin-20170820.csv,1611,Paul Mellotte,46,Fife,GBR,00:37:16,02:43:58,02:11:22,00:04:21,00:05:15,05:42:12
+ironman-70.3-dublin-20170820.csv,1612,Albert Culleton,45,Laois,IRL,00:39:09,02:58:54,01:55:31,00:07:27,00:09:00,05:50:01
+ironman-70.3-dublin-20170820.csv,1613,Declan Dunne,47,Kildare,IRL,00:41:50,02:56:05,02:03:03,00:06:43,00:07:14,05:54:55
+ironman-70.3-dublin-20170820.csv,1614,Kevin O'Kane,44,South Lanarkshire,GBR,00:46:35,02:57:51,02:07:35,00:09:18,00:09:09,06:10:28
+ironman-70.3-dublin-20170820.csv,1615,Gearoid Rogers,45,Meath,IRL,00:45:46,02:42:46,01:54:45,00:05:22,00:06:31,05:35:10
+ironman-70.3-dublin-20170820.csv,1616,Jim Dunbar,47,Antrim,IRL,00:37:44,02:46:27,01:54:31,00:04:21,00:06:15,05:29:18
+ironman-70.3-dublin-20170820.csv,1617,Dominic Quinn,47,Sligo,IRL,00:44:16,02:52:10,02:12:49,00:09:01,00:11:29,06:09:45
+ironman-70.3-dublin-20170820.csv,1618,Kieran McCaffrey,47,Waterford,IRL,00:44:09,02:55:31,02:38:58,00:06:04,00:06:20,06:31:02
+ironman-70.3-dublin-20170820.csv,1619,Tarquin Williams,47,Middx,GBR,00:47:47,03:30:51,02:15:57,00:08:22,00:08:36,06:51:33
+ironman-70.3-dublin-20170820.csv,1620,Alan Quinn,48,---,ZAF,00:38:32,02:35:27,01:58:00,00:04:22,00:05:36,05:21:57
+ironman-70.3-dublin-20170820.csv,1621,Mark Coady,45,Dublin,IRL,00:36:52,03:01:23,02:02:24,00:04:22,00:09:42,05:54:43
+ironman-70.3-dublin-20170820.csv,1623,Mark Hendrick,46,Kidare,IRL,00:49:31,02:59:37,01:59:21,00:06:46,00:06:31,06:01:46
+ironman-70.3-dublin-20170820.csv,1625,Jim Dunne,47,Carlow,IRL,00:52:15,02:59:36,02:09:15,00:07:41,00:08:33,06:17:20
+ironman-70.3-dublin-20170820.csv,1626,Keith Maher,44,Dublin,IRL,00:34:24,03:04:07,02:16:59,00:06:39,00:07:23,06:09:32
+ironman-70.3-dublin-20170820.csv,1627,Robert Kearney,45,Louth,IRL,00:41:20,02:40:15,02:05:13,00:04:22,00:04:36,05:35:46
+ironman-70.3-dublin-20170820.csv,1628,Robert Walker,45,Carlow,ZAF,00:33:55,02:45:36,02:07:56,00:06:20,00:05:22,05:39:09
+ironman-70.3-dublin-20170820.csv,1632,Declan Davoren,47,Mayo,IRL,00:27:47,03:04:54,01:48:54,00:08:28,00:07:15,05:37:18
+ironman-70.3-dublin-20170820.csv,1633,Adrian Cully,47,Westmeath,IRL,00:40:46,03:18:09,02:24:00,00:10:36,00:08:36,06:42:07
+ironman-70.3-dublin-20170820.csv,1634,Miguel Castiella,---,---,ESP,00:37:57,03:15:13,03:08:50,00:04:22,00:09:43,07:16:05
+ironman-70.3-dublin-20170820.csv,1635,Glenn Cahill,48,Dublin,IRL,00:41:59,02:47:51,01:48:18,00:07:29,00:07:54,05:33:31
+ironman-70.3-dublin-20170820.csv,1636,Steven Tuinstra,45,VA,USA,00:41:19,02:57:29,02:08:23,00:08:15,00:10:42,06:06:08
+ironman-70.3-dublin-20170820.csv,1638,Eric Doyle,49,Dublin,IRL,00:49:31,03:15:48,02:19:53,00:08:33,00:07:14,06:40:59
+ironman-70.3-dublin-20170820.csv,1640,Christian Brade,46,---,DEU,00:35:53,02:46:56,02:10:09,00:04:22,00:06:59,05:44:19
+ironman-70.3-dublin-20170820.csv,1641,John Donegan,45,Co Meath,IRL,00:41:48,03:10:35,02:01:26,00:12:07,00:11:30,06:17:26
+ironman-70.3-dublin-20170820.csv,1642,Pat Sage,45,Dublin,IRL,00:50:24,03:05:57,02:30:20,00:11:09,00:08:23,06:46:13
+ironman-70.3-dublin-20170820.csv,1643,Phil Devine,47,dublin,IRL,00:43:16,02:55:22,02:19:51,00:09:01,00:09:18,06:16:48
+ironman-70.3-dublin-20170820.csv,1645,John Foley,47,Somerset,IRL,00:41:44,02:46:19,02:17:45,00:07:55,00:07:20,06:01:03
+ironman-70.3-dublin-20170820.csv,1646,Brendon Jackson,49,NORTHUMBERLAND,GBR,00:35:44,02:45:13,02:03:13,00:04:21,00:04:23,05:32:54
+ironman-70.3-dublin-20170820.csv,1647,Fernando Gamero,45,Dublin,ESP,00:41:55,03:05:31,02:12:38,00:06:25,00:07:20,06:13:49
+ironman-70.3-dublin-20170820.csv,1649,Tommy Stevenson,45,antrim,IRL,00:51:04,03:11:13,02:11:05,00:07:51,00:06:33,06:27:46
+ironman-70.3-dublin-20170820.csv,1650,Mathew Stephenson,49,Cheshire,GBR,00:30:38,02:31:59,---,---,00:04:06,DNF
+ironman-70.3-dublin-20170820.csv,1651,Andrew Norrby,45,Down,IRL,00:52:24,03:07:21,02:30:17,00:13:11,00:06:59,06:50:12
+ironman-70.3-dublin-20170820.csv,1652,Kevin Duggan,46,Londonderry,IRL,00:47:41,---,---,---,---,DNF
+ironman-70.3-dublin-20170820.csv,1653,Arthur Mcmahon,49,County Donegal,IRL,00:41:03,02:43:16,02:26:38,00:05:47,00:06:10,06:02:54
+ironman-70.3-dublin-20170820.csv,1654,Jon O'Donnell,45,---,GBR,00:47:46,03:05:29,02:03:22,00:04:51,00:06:12,06:07:40
+ironman-70.3-dublin-20170820.csv,1655,Bill Sheridan,47,Dublin,IRL,00:43:03,02:59:06,02:03:50,00:08:05,00:11:38,06:05:42
+ironman-70.3-dublin-20170820.csv,1657,Ken Feeley,48,Kerry,IRL,00:37:22,02:40:45,01:38:35,00:04:22,00:04:23,05:05:27
+ironman-70.3-dublin-20170820.csv,1658,Simon Lewis,47,---,GBR,00:37:40,02:25:27,01:48:01,00:03:07,00:04:06,04:58:21
+ironman-70.3-dublin-20170820.csv,1660,Conor Hamilton,47,---,IRL,00:49:51,02:50:35,01:38:29,00:09:17,00:05:33,05:33:45
+ironman-70.3-dublin-20170820.csv,1661,Timothy Colson,48,CA,USA,00:41:45,03:01:39,02:12:54,00:11:02,00:09:54,06:17:14
+ironman-70.3-dublin-20170820.csv,1662,Justin Ralph,47,Dublin,IRL,00:46:45,03:03:40,02:32:33,00:08:36,00:09:30,06:41:04
+ironman-70.3-dublin-20170820.csv,1663,Fergal Dunne,44,Offaly,IRL,00:51:50,03:38:49,02:21:10,00:10:13,00:06:23,07:08:25
+ironman-70.3-dublin-20170820.csv,1664,William Brennan,49,Sligo,IRL,00:45:19,03:05:41,02:28:41,00:05:23,00:06:18,06:31:22
+ironman-70.3-dublin-20170820.csv,1665,Tim Lewington,46,---,GBR,00:35:42,02:24:07,01:39:33,00:04:15,00:03:55,04:47:32
+ironman-70.3-dublin-20170820.csv,1668,Michael Coleman,48,Waterford,IRL,00:41:48,02:41:46,01:47:05,00:06:12,00:05:15,05:22:06
+ironman-70.3-dublin-20170820.csv,1669,Donal Phillips,45,Dublin,IRL,00:43:35,02:53:41,01:38:28,00:06:18,00:06:56,05:28:58
+ironman-70.3-dublin-20170820.csv,1670,Nicholas Cartwright,47,---,OMN,00:47:38,03:03:28,02:24:52,00:06:40,00:05:41,06:28:19
+ironman-70.3-dublin-20170820.csv,1672,Andrew Mcfarland,47,Suffolk,AUS,00:34:35,02:58:06,02:36:03,00:04:21,00:06:32,06:19:37
+ironman-70.3-dublin-20170820.csv,1673,Aaron Albert,46,CT,USA,00:41:07,03:36:46,02:34:41,00:13:15,00:09:30,07:15:19
+ironman-70.3-dublin-20170820.csv,1675,Aidan Ryan,45,Dublin,IRL,00:53:01,02:51:28,01:44:24,00:06:53,00:05:46,05:41:32
+ironman-70.3-dublin-20170820.csv,1676,Dominic Wilkinson,46,Dublin,IRL,00:48:49,03:09:04,02:44:53,00:07:40,00:11:05,07:01:31
+ironman-70.3-dublin-20170820.csv,1677,Jonathan Bradley,46,Dublin,IRL,00:42:55,03:28:48,02:41:57,00:13:55,00:08:07,07:15:42
+ironman-70.3-dublin-20170820.csv,1679,Darryl Kearns,45,Co dublin,IRL,00:47:08,03:25:57,02:45:38,00:09:40,00:07:14,07:15:37
+ironman-70.3-dublin-20170820.csv,1680,Ian Stenson,44,Waterford,IRL,00:43:21,02:49:40,02:00:02,00:08:12,00:06:42,05:47:57
+ironman-70.3-dublin-20170820.csv,1681,R V Kearns,49,staffs,GBR,00:49:32,03:19:19,02:29:54,00:09:59,00:08:15,06:56:59
+ironman-70.3-dublin-20170820.csv,1682,William Mcclure,51,---,GBR,00:40:42,02:45:21,01:56:24,00:04:22,00:03:57,05:30:46
+ironman-70.3-dublin-20170820.csv,1683,Stephen Turner,52,GB,IRL,00:36:22,02:34:25,01:43:17,00:04:22,00:05:25,05:03:51
+ironman-70.3-dublin-20170820.csv,1684,David Sterritt,51,Wicklow,IRL,00:46:57,03:22:17,02:07:45,00:09:33,00:10:23,06:36:55
+ironman-70.3-dublin-20170820.csv,1685,Derek O'Donnell,50,Waterford,IRL,---,---,---,---,---,DQ
+ironman-70.3-dublin-20170820.csv,1686,Paul Cooke,53,Dublin,IRL,00:39:20,02:52:48,01:33:23,00:06:03,00:04:52,05:16:26
+ironman-70.3-dublin-20170820.csv,1687,Peter Gilligan,52,meath,IRL,00:39:48,02:44:45,02:01:37,00:06:29,00:05:53,05:38:32
+ironman-70.3-dublin-20170820.csv,1688,Lawrence Mooney,49,dublin,IRL,00:36:37,02:30:04,01:53:17,00:04:39,00:05:06,05:09:43
+ironman-70.3-dublin-20170820.csv,1689,Paul Shanley,49,Dublin,IRL,---,---,---,---,---,DQ
+ironman-70.3-dublin-20170820.csv,1690,Neil Keogh,50,Dublin,IRL,00:43:07,03:02:12,02:24:38,00:07:30,00:07:23,06:24:50
+ironman-70.3-dublin-20170820.csv,1691,Sean Keenan,51,co. meath,IRL,00:34:14,02:30:07,01:49:16,00:04:40,00:04:12,05:02:29
+ironman-70.3-dublin-20170820.csv,1692,Andrew Schmidt,54,Dublin,IRL,00:57:32,03:35:26,02:46:49,00:07:59,00:07:47,07:35:33
+ironman-70.3-dublin-20170820.csv,1693,Don Ryan,53,limerick,IRL,00:39:49,02:47:17,01:48:17,00:04:21,00:06:09,05:25:53
+ironman-70.3-dublin-20170820.csv,1694,Huw Jones,50,Cork,GBR,00:39:51,02:41:05,02:17:30,00:09:44,00:07:03,05:55:13
+ironman-70.3-dublin-20170820.csv,1695,Paul Fitzsimons,52,Down,IRL,00:43:15,02:59:29,01:57:05,00:08:24,00:05:18,05:53:31
+ironman-70.3-dublin-20170820.csv,1696,James Roche,54,Waterford ,IRL,00:49:43,02:56:17,01:44:08,00:08:18,00:05:06,05:43:32
+ironman-70.3-dublin-20170820.csv,1697,Damian Strain,50,Kildare,IRL,00:42:23,02:34:49,02:02:46,00:05:47,00:06:50,05:32:35
+ironman-70.3-dublin-20170820.csv,1698,Brian Kennedy,52,Donegal,IRL,00:43:27,03:09:23,02:24:44,00:07:31,00:09:15,06:34:20
+ironman-70.3-dublin-20170820.csv,1699,Brian Cunningham,52,kildare ,IRL,00:43:57,02:26:57,01:49:13,00:11:02,00:06:38,05:17:47
+ironman-70.3-dublin-20170820.csv,1700,Dave Bartley,52,---,IRL,00:43:53,02:45:08,01:46:03,00:06:06,00:05:05,05:26:15
+ironman-70.3-dublin-20170820.csv,1701,John Keane,50,Cavan,IRL,00:41:24,02:38:37,01:46:34,00:04:21,00:05:00,05:15:56
+ironman-70.3-dublin-20170820.csv,1703,Martin Robson,51,West Yorkshire,GBR,00:40:12,02:52:38,01:52:20,00:06:14,00:04:43,05:36:07
+ironman-70.3-dublin-20170820.csv,1705,Mark Regan,52,Coi.Galway,IRL,00:48:57,02:59:31,02:34:29,00:09:19,00:08:46,06:41:02
+ironman-70.3-dublin-20170820.csv,1706,Stephane Garcia,52,---,FRA,00:36:16,02:33:20,01:43:44,00:04:21,00:08:16,05:05:57
+ironman-70.3-dublin-20170820.csv,1707,Stephane Octeau,53,---,FRA,00:38:15,02:34:08,01:36:34,00:04:21,00:05:41,04:58:59
+ironman-70.3-dublin-20170820.csv,1708,Jean Jacques Lafitte,53,---,FRA,00:42:39,02:52:52,02:15:34,00:04:21,00:07:51,06:03:17
+ironman-70.3-dublin-20170820.csv,1709,Fraser Boyd,52,Louth,IRL,00:41:24,02:40:53,01:45:40,00:04:37,00:04:07,05:16:41
+ironman-70.3-dublin-20170820.csv,1710,Tom Moore,53,Cork,IRL,00:50:55,02:37:36,02:02:13,00:06:59,00:06:53,05:44:36
+ironman-70.3-dublin-20170820.csv,1712,Ger Curtin,50,Limerick,IRL,00:43:45,03:05:43,02:05:45,00:08:05,00:07:34,06:10:52
+ironman-70.3-dublin-20170820.csv,1713,Michael Mcgilligan,54,Dublin,IRL,00:48:06,03:33:28,02:28:44,00:11:10,00:11:08,07:12:36
+ironman-70.3-dublin-20170820.csv,1714,Gerard English,53,co down,IRL,00:43:25,03:06:33,02:21:02,00:06:23,00:05:07,06:22:30
+ironman-70.3-dublin-20170820.csv,1715,Finbarr James,51,Mayo,IRL,00:45:33,02:50:47,02:08:04,00:10:06,00:06:53,06:01:23
+ironman-70.3-dublin-20170820.csv,1716,Ken Browne,50,Co. Meath,IRL,00:48:27,03:03:23,01:43:15,00:08:38,00:07:11,05:50:54
+ironman-70.3-dublin-20170820.csv,1717,Euler Teixeira  Filho,51,Intl State,BRA,00:39:52,02:35:09,01:51:47,00:04:21,00:04:34,05:15:43
+ironman-70.3-dublin-20170820.csv,1718,Sean Curran,51,---,IRL,00:43:47,02:48:25,01:59:29,00:08:54,00:07:54,05:48:29
+ironman-70.3-dublin-20170820.csv,1720,Martin Casey,50,Roscommon,IRL,00:48:32,03:26:14,02:02:01,00:07:19,00:05:29,06:29:35
+ironman-70.3-dublin-20170820.csv,1721,Barry Hogan,50,Ireland,IRL,00:41:54,03:10:30,02:05:09,00:08:23,00:05:12,06:11:08
+ironman-70.3-dublin-20170820.csv,1722,James Thomas,52,Middlesex (county),GBR,00:41:37,02:54:05,02:40:51,00:09:10,00:10:55,06:36:38
+ironman-70.3-dublin-20170820.csv,1723,John Kenny,52,United Kingdom,IRL,00:39:09,03:03:15,02:00:24,00:04:22,00:04:55,05:52:05
+ironman-70.3-dublin-20170820.csv,1724,James Mulchrone,50,kerry,IRL,00:46:30,03:15:50,02:27:12,00:07:39,00:06:29,06:43:40
+ironman-70.3-dublin-20170820.csv,1725,Colin Teevan,49,Louth,IRL,00:32:43,02:31:32,01:38:44,00:04:00,00:03:24,04:50:23
+ironman-70.3-dublin-20170820.csv,1726,Andrew Milhench,52,---,GBR,00:42:58,02:52:41,01:44:26,00:10:59,00:08:01,05:39:05
+ironman-70.3-dublin-20170820.csv,1727,Andrew Coonan,50,Kildare,IRL,00:41:21,02:44:14,01:52:35,00:07:40,00:05:47,05:31:37
+ironman-70.3-dublin-20170820.csv,1728,Aidan Mcdonnell,53,Kildare,IRL,00:38:28,02:51:54,02:05:04,00:07:30,00:06:38,05:49:34
+ironman-70.3-dublin-20170820.csv,1729,Jimmy Kirwan,54,kilkenny,IRL,00:44:52,---,---,---,---,DNF
+ironman-70.3-dublin-20170820.csv,1731,Danny Welsh,51,kent,GBR,00:50:20,03:11:36,02:33:37,00:11:04,00:07:07,06:53:44
+ironman-70.3-dublin-20170820.csv,1732,Paul O'Loughlin,52,Donegal,IRL,00:39:59,02:47:47,02:05:46,00:06:20,00:07:01,05:46:53
+ironman-70.3-dublin-20170820.csv,1733,Michael Albert,52,---,DEU,00:47:40,03:31:32,02:12:31,00:12:51,00:12:13,06:56:47
+ironman-70.3-dublin-20170820.csv,1734,Paul Mcgrath,50,Sligo,IRL,00:57:29,03:25:22,01:40:39,00:08:06,00:07:18,06:18:54
+ironman-70.3-dublin-20170820.csv,1735,Barry Mulligan,51,Dublin,IRL,00:41:54,02:33:51,01:56:40,00:06:50,00:05:06,05:24:21
+ironman-70.3-dublin-20170820.csv,1737,Michael Alcamo,52,NY,USA,00:49:49,03:21:26,01:55:27,00:09:59,00:09:36,06:26:17
+ironman-70.3-dublin-20170820.csv,1739,John Coleman,52,Middx,IRL,00:48:07,02:37:56,01:46:09,00:06:04,00:04:45,05:23:01
+ironman-70.3-dublin-20170820.csv,1740,Philip Knuckey,54,---,GBR,00:34:45,02:38:57,02:09:20,00:06:41,00:06:41,05:36:24
+ironman-70.3-dublin-20170820.csv,1741,Tim O Brien,50,Ireland,IRL,00:55:32,03:20:12,02:14:30,00:07:23,00:07:35,06:45:12
+ironman-70.3-dublin-20170820.csv,1742,Stephen Devereaux,52,Cork,IRL,00:58:33,03:20:51,01:35:18,00:08:34,00:07:06,06:10:22
+ironman-70.3-dublin-20170820.csv,1743,Brian Lawlor,50,OH,USA,00:39:10,03:20:05,02:38:56,00:11:43,00:09:52,06:59:46
+ironman-70.3-dublin-20170820.csv,1744,Philippe Vandeputte,50,---,BEL,00:36:42,02:43:13,01:53:13,00:04:22,00:05:44,05:23:14
+ironman-70.3-dublin-20170820.csv,1745,B N Brock,50,Louth,IRL,00:39:41,03:01:58,02:09:05,00:09:12,00:13:30,06:13:26
+ironman-70.3-dublin-20170820.csv,1746,Peter Callender,54,Dublin,IRL,00:37:00,02:37:20,02:01:49,00:07:16,00:08:23,05:31:48
+ironman-70.3-dublin-20170820.csv,1747,John Sutton,50,dublin,IRL,00:32:17,02:33:32,01:37:54,00:04:21,00:04:37,04:52:41
+ironman-70.3-dublin-20170820.csv,1748,William Sheridan,49,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-dublin-20170820.csv,1749,Tom Minnock,53,PA,USA,00:33:15,02:59:08,02:35:43,00:04:22,00:08:40,06:21:08
+ironman-70.3-dublin-20170820.csv,1750,Frank Cürlis,52,---,DEU,00:28:17,02:43:14,01:46:37,00:05:15,00:05:14,05:08:37
+ironman-70.3-dublin-20170820.csv,1751,Gerry Mcguinness,53,Co. Dublin,IRL,00:42:42,02:50:32,01:54:50,00:10:30,00:09:40,05:48:14
+ironman-70.3-dublin-20170820.csv,1752,Pat Moynihan,52,Dublin,IRL,00:46:53,03:18:33,02:49:04,00:09:10,00:09:34,07:13:14
+ironman-70.3-dublin-20170820.csv,1753,Fergus O'Brien,52,Derbyshire,IRL,00:51:36,03:24:38,02:28:50,00:09:24,00:06:12,07:00:40
+ironman-70.3-dublin-20170820.csv,1754,John Flavin,56,Dublin,IRL,00:39:57,02:54:12,02:04:13,00:04:21,00:10:17,05:53:00
+ironman-70.3-dublin-20170820.csv,1755,Ray Power,59,Waterford,IRL,00:45:35,02:50:22,01:48:31,00:05:08,00:07:05,05:36:41
+ironman-70.3-dublin-20170820.csv,1757,Noel Boyle,54,Dublin 4,IRL,00:40:39,02:35:35,02:01:37,00:04:21,00:08:38,05:30:50
+ironman-70.3-dublin-20170820.csv,1758,Mick Beston,55,Cork,IRL,00:45:06,02:47:50,01:58:53,00:06:43,00:06:53,05:45:25
+ironman-70.3-dublin-20170820.csv,1759,Jerry Farmer,54,FL,USA,00:44:36,02:57:04,03:01:22,00:09:31,00:11:13,07:03:46
+ironman-70.3-dublin-20170820.csv,1760,Franz Raitzl,54,---,AUT,00:50:43,02:44:40,01:48:56,00:07:46,00:05:41,05:37:46
+ironman-70.3-dublin-20170820.csv,1761,Mike Collier,56,DXB,ZAF,00:36:14,02:35:30,01:40:40,00:05:06,00:05:46,05:03:16
+ironman-70.3-dublin-20170820.csv,1762,Graham Hodgson,57,Lancashire,GBR,00:35:30,02:39:21,01:47:23,00:04:55,00:04:02,05:11:11
+ironman-70.3-dublin-20170820.csv,1763,Seamus Henry Rooney,57,Dublin,IRL,00:43:56,03:01:41,01:46:36,00:08:33,00:05:59,05:46:45
+ironman-70.3-dublin-20170820.csv,1764,Bill Kelly,55,-wexford,IRL,00:42:37,02:46:44,01:59:16,00:06:20,00:04:47,05:39:44
+ironman-70.3-dublin-20170820.csv,1765,Helmut Preiner,55,---,AUT,00:46:20,02:42:50,01:56:03,00:11:12,00:07:45,05:44:10
+ironman-70.3-dublin-20170820.csv,1766,Easvaran Nadarajah,56,GALWAY,SGP,00:57:59,03:44:51,02:23:21,00:06:54,00:07:18,07:20:23
+ironman-70.3-dublin-20170820.csv,1767,Johnny Rock,56,NY,IRL,00:44:05,02:54:41,02:05:37,00:06:39,00:05:56,05:56:58
+ironman-70.3-dublin-20170820.csv,1769,David Byrne,55,wexford,IRL,00:40:22,03:02:14,02:24:14,00:08:34,00:06:39,06:22:03
+ironman-70.3-dublin-20170820.csv,1770,Christof Filipp,54,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-dublin-20170820.csv,1772,Graham Henderson,55,Antrim,GBR,00:43:21,02:49:25,02:24:58,00:08:27,00:07:17,06:13:28
+ironman-70.3-dublin-20170820.csv,1773,Peter Hollins,57,---,GBR,00:36:04,02:27:47,01:41:21,00:03:36,00:04:28,04:53:16
+ironman-70.3-dublin-20170820.csv,1775,Peter Graham,55,---,GBR,00:48:24,02:51:20,02:09:49,00:06:11,00:08:30,06:04:14
+ironman-70.3-dublin-20170820.csv,1778,David Meagher,56,Westmeath,IRL,00:46:14,03:04:59,02:28:36,00:08:34,00:09:27,06:37:50
+ironman-70.3-dublin-20170820.csv,1779,Brendan Giffney,55,Dublin,IRL,00:37:08,02:45:51,02:37:46,00:05:57,00:06:23,06:13:05
+ironman-70.3-dublin-20170820.csv,1782,Gerard Turbitt,64,N Ireland,IRL,00:37:19,02:44:19,01:44:26,00:06:08,00:04:33,05:16:45
+ironman-70.3-dublin-20170820.csv,1783,Paul Kelly,60,Kildare,IRL,00:49:20,03:04:54,02:15:46,00:07:03,00:08:49,06:25:52
+ironman-70.3-dublin-20170820.csv,1785,George Estes,62,MA,USA,00:41:24,03:09:48,02:09:08,00:09:23,00:06:00,06:15:43
+ironman-70.3-dublin-20170820.csv,1786,John Williamson,60,Lincolnshire,GBR,00:50:08,03:46:09,02:31:31,00:09:39,00:09:45,07:27:12
+ironman-70.3-dublin-20170820.csv,1787,Phil Catton,62,Denbighshire,GBR,00:45:12,03:09:10,02:14:30,00:05:37,00:05:51,06:20:20
+ironman-70.3-dublin-20170820.csv,1788,Mr W J Kennedy Kennedy,67,DUBLIN,IRL,00:37:34,02:49:46,01:54:48,00:07:03,00:06:22,05:35:33
+ironman-70.3-dublin-20170820.csv,1790,Ian King,71,QLD,AUS,00:45:56,03:34:38,03:07:44,00:10:22,00:10:14,07:48:54
+ironman-70.3-dublin-20170820.csv,1792,Jennifer Duffy,40,Dublin,IRL,00:31:32,02:31:32,01:37:51,00:04:22,00:03:42,04:48:59
+ironman-70.3-dublin-20170820.csv,1793,Frances  O' Sullivan Byrne,60,Co. Cork,IRL,01:01:09,03:15:14,02:25:08,00:07:18,00:11:18,07:00:07
+ironman-70.3-dublin-20170820.csv,1794,Aaron Mcloughlin Sutherland,20,Kildare,IRL,00:43:13,03:10:53,02:26:04,00:05:10,00:07:33,06:32:53
+ironman-70.3-dublin-20170820.csv,1795,Leif Schröder-Groeneveld,28,---,DEU,00:28:33,02:26:09,01:19:29,00:04:22,00:03:11,04:21:44
+ironman-70.3-dublin-20170820.csv,1796,Laurence Mccabe,30,co down,IRL,00:39:32,02:27:21,02:11:31,00:04:21,00:04:53,05:27:38
+ironman-70.3-dublin-20170820.csv,1797,Paul Curran,30,Dublin,IRL,00:32:53,02:49:21,01:57:39,00:04:21,00:05:15,05:29:29
+ironman-70.3-dublin-20170820.csv,1798,Diego Maloney,31,Limerick,IRL,00:35:43,02:53:16,02:13:13,00:04:22,00:05:50,05:52:24
+ironman-70.3-dublin-20170820.csv,1799,Derek Organ,38,Dublin,IRL,00:42:13,---,---,00:05:43,---,DNF
+ironman-70.3-dublin-20170820.csv,1800,Robert Kennedy,35,Monaghan,IRL,00:42:01,02:46:36,01:54:36,00:04:22,00:05:24,05:32:59
+ironman-70.3-dublin-20170820.csv,1801,Paul Ogle,36,Waterford,IRL,00:30:21,02:20:54,01:28:47,00:04:22,00:03:52,04:28:16
+ironman-70.3-dublin-20170820.csv,1802,Philip Fox,41,meath,IRL,00:39:38,02:33:52,02:01:31,00:04:21,00:05:49,05:25:11
+ironman-70.3-dublin-20170820.csv,1803,Paul Joyce,42,Galway,IRL,00:34:19,02:25:50,01:43:33,00:04:22,00:03:12,04:51:16
+ironman-70.3-dublin-20170820.csv,1804,James Cleland,41,County Antrim,IRL,00:30:17,02:21:23,01:31:32,00:03:23,00:04:18,04:30:53
+ironman-70.3-dublin-20170820.csv,1805,Richie O Brien,46,Roscommon,IRL,00:55:21,02:52:48,02:14:31,00:06:00,00:07:06,06:15:46
+ironman-70.3-dublin-20170820.csv,1806,Pascal Boret,53,dublin,FRA,00:53:25,03:44:51,02:08:44,00:11:55,00:11:12,07:10:07
+ironman-70.3-dublin-20170820.csv,1807,Alli Guinane,21,Limerick,IRL,00:38:23,03:44:54,02:49:18,00:04:22,00:12:07,07:29:04
+ironman-70.3-dublin-20170820.csv,1808,Natalia Gómez,23,---,ESP,00:39:51,02:40:22,01:22:33,00:06:29,00:04:56,04:54:11
+ironman-70.3-dublin-20170820.csv,1810,Orla O Connor,31,Dublin,IRL,00:41:48,03:03:47,01:56:00,00:06:51,00:10:30,05:58:56
+ironman-70.3-dublin-20170820.csv,1811,Ruth Walsh,33,Sligo,IRL,00:41:58,03:08:43,02:01:02,00:08:17,00:09:19,06:09:19
+ironman-70.3-dublin-20170820.csv,1812,Sarah Whelan,37,Co. Tipperary,IRL,00:32:37,02:53:19,01:53:58,00:04:21,00:05:25,05:29:40
+ironman-70.3-dublin-20170820.csv,1813,Hjordis Olafsdottir,35,HFJ,ISL,00:35:28,02:39:23,01:41:16,00:04:21,00:05:40,05:06:08
+ironman-70.3-dublin-20170820.csv,1814,Bernie Lundy,43,Derry,IRL,00:41:43,03:02:00,02:10:43,00:06:34,00:08:44,06:09:44
+ironman-70.3-dublin-20170820.csv,1815,Kieran Ballard,40,DXB,ZAF,00:31:20,02:57:56,---,---,---,DNF
+ironman-70.3-dublin-20170820.csv,1816,Loretto Harvey,48,QLD,AUS,01:14:56,---,---,---,---,DNF
+ironman-70.3-dublin-20170820.csv,1817,Jesse Lormans,24,---,BEL,00:27:24,02:26:42,01:33:34,00:04:21,00:04:06,04:36:07
+ironman-70.3-dublin-20170820.csv,1818,Kieran Greene,24,Dublin,IRL,00:46:29,03:20:27,02:23:57,00:10:59,00:10:21,06:52:13
+ironman-70.3-dublin-20170820.csv,1819,John Greaney,32,Galway,IRL,00:31:11,02:20:41,01:25:24,00:04:22,00:02:53,04:24:31
+ironman-70.3-dublin-20170820.csv,1820,Gerard Burke,29,City of,IRL,00:49:14,03:33:43,02:03:11,00:05:32,00:04:46,06:36:26
+ironman-70.3-dublin-20170820.csv,1821,Rodger Delehanty,32,Galway,IRL,00:34:03,02:50:16,02:28:21,00:06:59,00:06:45,06:06:24
+ironman-70.3-dublin-20170820.csv,1822,Graham Batey,32,Kerry,GBR,00:47:07,03:02:35,02:17:32,00:06:44,00:05:44,06:19:42
+ironman-70.3-dublin-20170820.csv,1823,Gerard O'Loughlin,38,Dublin,IRL,00:40:01,02:38:40,01:44:24,00:04:21,00:05:52,05:13:18
+ironman-70.3-dublin-20170820.csv,1824,Marc Lennon,35,Co. Dublin,IRL,00:38:56,02:37:16,01:42:30,00:04:07,00:03:59,05:06:48
+ironman-70.3-dublin-20170820.csv,1825,Cormac 0 Connor,36,cork,IRL,00:53:19,03:11:16,02:29:17,00:08:46,00:09:35,06:52:13
+ironman-70.3-dublin-20170820.csv,1826,Deric O Hartigan,35,Dublin 7,IRL,00:49:13,03:20:33,02:24:00,00:08:04,00:10:23,06:52:13
+ironman-70.3-dublin-20170820.csv,1827,Craig  Wood,34,North Ayrshire,GBR,00:31:15,02:12:47,01:36:14,00:04:22,00:04:10,04:28:48
+ironman-70.3-dublin-20170820.csv,1828,Gavin Harris,43,donegal,IRL,00:42:19,02:42:25,01:57:56,00:07:05,00:06:58,05:36:43
+ironman-70.3-dublin-20170820.csv,1829,Conor Egan,41,Cork,IRL,00:36:41,02:53:26,01:56:08,00:04:21,00:07:59,05:38:35
+ironman-70.3-dublin-20170820.csv,1830,Gary O'Brien,40,Limerick,IRL,00:41:18,02:45:47,02:25:41,00:04:22,00:10:44,06:07:52
+ironman-70.3-dublin-20170820.csv,1831,Turlough Blessing,40,Dublin,IRL,00:40:09,02:47:59,01:43:54,00:07:13,00:05:34,05:24:49
+ironman-70.3-dublin-20170820.csv,1832,Nandor Abel,40,Limerick,IRL,00:43:31,03:23:41,02:05:52,00:08:15,00:08:01,06:29:20
+ironman-70.3-dublin-20170820.csv,1833,Will Byrne,43,Dublin,IRL,00:47:59,02:29:36,01:33:55,00:05:48,00:03:55,05:01:13
+ironman-70.3-dublin-20170820.csv,1834,David Conachy,44,Meath,IRL,00:49:22,02:40:58,01:58:12,00:05:33,00:06:36,05:40:41
+ironman-70.3-dublin-20170820.csv,1835,alex Souliotis,42,Intl State,IRL,00:40:17,02:40:44,01:53:32,00:11:17,00:07:28,05:33:18
+ironman-70.3-dublin-20170820.csv,1836,James Reidy,42,Dublin,IRL,00:38:26,02:46:21,01:52:29,00:04:22,00:04:56,05:26:34
+ironman-70.3-dublin-20170820.csv,1837,Emerson Kirby,42,Tipperary,IRL,00:34:41,02:25:46,01:42:40,00:06:01,00:08:34,04:57:42
+ironman-70.3-dublin-20170820.csv,1838,Alistair White,40,Antrim,GBR,00:58:57,03:12:26,02:44:51,00:07:15,00:12:45,07:16:14
+ironman-70.3-dublin-20170820.csv,1840,Sean Carleton,47,Sligo,IRL,00:39:47,03:06:27,02:15:42,00:07:39,00:07:41,06:17:16
+ironman-70.3-dublin-20170820.csv,1841,Paul Hendrick,44,Meath,IRL,00:49:21,03:05:27,02:07:12,00:07:46,00:05:53,06:15:39
+ironman-70.3-dublin-20170820.csv,1842,Ben Grinnell,45,London,GBR,00:46:28,02:52:06,01:51:47,00:07:50,00:07:46,05:45:57
+ironman-70.3-dublin-20170820.csv,1843,Gerry Byrne,52,dublin,IRL,00:40:39,02:47:43,01:48:17,00:06:20,00:05:21,05:28:20
+ironman-70.3-dublin-20170820.csv,1844,John Robinson,49,Meath,IRL,00:42:35,02:48:02,02:00:45,00:06:43,00:05:53,05:43:58
+ironman-70.3-dublin-20170820.csv,1845,Mark Edwards,53,Pembrokeshire,GBR,00:41:24,02:50:09,01:56:21,00:04:21,00:08:22,05:40:37
+ironman-70.3-dublin-20170820.csv,1846,Matthew Sinclair,34,Cheshire,IRL,00:44:30,03:14:05,02:12:30,00:08:34,00:08:11,06:27:50
+ironman-70.3-dublin-20170820.csv,1847,Aleksandar Stojanovic,28,Dublin,IRL,00:42:18,03:09:09,01:46:27,00:14:44,00:09:28,06:02:06
+ironman-70.3-dublin-20170820.csv,1848,Ciaran Barry,36,Cork,IRL,00:44:13,02:33:40,01:45:44,00:04:27,00:04:46,05:12:50
+ironman-70.3-dublin-20170820.csv,1849,Nick Smit,---,---,IRL,00:39:26,02:40:28,01:42:30,00:07:35,00:04:52,05:14:51
+ironman-70.3-dublin-20170820.csv,1850,Alistar Marnoch,---,---,IRL,00:51:29,02:52:07,01:48:05,00:16:55,00:08:15,05:56:51

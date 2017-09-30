@@ -1,0 +1,741 @@
+#File=ironman-70.3-bahrain-20151205.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-bahrain-20151205.csv,6,Ben Hoffman,32,CO,USA,---,02:02:56,01:18:01,00:01:08,00:00:51,03:22:56
+ironman-70.3-bahrain-20151205.csv,7,David Plese,32,Intl State,SVN,---,01:57:57,01:15:26,00:01:13,00:00:48,03:15:24
+ironman-70.3-bahrain-20151205.csv,8,James Cunnama,32,---,ZAF,---,01:58:07,01:14:01,00:01:05,00:00:41,03:13:54
+ironman-70.3-bahrain-20151205.csv,10,Ruedi Wild,33,---,CHE,---,01:58:21,01:12:02,00:01:10,00:00:53,03:12:26
+ironman-70.3-bahrain-20151205.csv,11,Richie Cunningham,42,CO,AUS,---,01:59:03,01:23:41,00:01:09,00:00:39,03:24:32
+ironman-70.3-bahrain-20151205.csv,12,Alberto Casadei,30,Intl State,ITA,---,02:12:03,01:24:03,00:01:12,00:01:20,03:38:38
+ironman-70.3-bahrain-20151205.csv,13,Hh Shaikh Nasser Bin Al Khalifa,28,Other,BHR,---,02:21:08,01:32:47,00:01:13,00:01:06,03:56:14
+ironman-70.3-bahrain-20151205.csv,14,Christian Hörper,28,---,DEU,---,01:59:49,01:15:58,00:01:10,00:00:50,03:17:47
+ironman-70.3-bahrain-20151205.csv,17,Olivier Godart,40,DXB,LUX,---,02:01:43,01:19:34,00:01:07,00:01:12,03:23:36
+ironman-70.3-bahrain-20151205.csv,18,Eric Watson,26,WA,BHR,---,02:19:15,01:18:54,00:01:03,00:01:03,03:40:15
+ironman-70.3-bahrain-20151205.csv,19,Tomas Renc,25,Intl State,CZE,---,02:11:11,01:20:31,00:01:10,00:01:10,03:34:02
+ironman-70.3-bahrain-20151205.csv,20,Charles Martin,23,---,FRA,---,02:16:11,01:35:30,00:01:01,00:01:22,03:54:04
+ironman-70.3-bahrain-20151205.csv,21,Albert Moreno Molins,25,---,ESP,---,02:01:55,01:14:42,00:01:05,00:00:54,03:18:36
+ironman-70.3-bahrain-20151205.csv,22,Kacper Adam,23,Poland,POL,---,02:02:30,01:25:29,00:01:09,00:00:51,03:29:59
+ironman-70.3-bahrain-20151205.csv,23,Zsombor Deak,26,NSW,ROU,---,02:13:58,01:27:11,00:01:05,00:00:45,03:42:59
+ironman-70.3-bahrain-20151205.csv,24,Marek Nemcik,40,Intl State,SVK,---,02:35:37,01:53:33,00:01:10,00:01:41,04:32:01
+ironman-70.3-bahrain-20151205.csv,25,Domenico Passuello,37,Intl State,ITA,---,01:58:22,01:18:28,00:01:21,00:00:59,03:19:10
+ironman-70.3-bahrain-20151205.csv,26,Bertrand Billard,28,---,FRA,---,01:59:24,01:17:08,00:01:08,00:01:01,03:18:41
+ironman-70.3-bahrain-20151205.csv,27,Antony Costes,25,---,FRA,---,01:58:00,01:16:04,00:01:07,00:00:41,03:15:52
+ironman-70.3-bahrain-20151205.csv,28,Patrick Dirksmeier,31,---,DEU,---,01:59:53,01:19:28,00:01:03,00:00:59,03:21:23
+ironman-70.3-bahrain-20151205.csv,32,Brent Mcmahon,35,BC,CAN,---,01:57:30,01:16:15,00:01:05,00:00:48,03:15:38
+ironman-70.3-bahrain-20151205.csv,33,Henri Schoeman,24,KwaZulu-Natal,ZAF,---,02:05:16,01:25:13,00:01:04,00:01:05,03:32:38
+ironman-70.3-bahrain-20151205.csv,34,Bart Aernouts,31,---,BEL,---,01:55:14,01:14:00,00:01:05,00:00:56,03:11:15
+ironman-70.3-bahrain-20151205.csv,51,Daniela Ryf,28,---,CHE,---,02:07:28,01:18:48,00:01:11,00:00:53,03:28:20
+ironman-70.3-bahrain-20151205.csv,52,Jodie Ann Swallow,34,essex,GBR,---,02:12:55,01:34:17,00:01:16,00:00:40,03:49:08
+ironman-70.3-bahrain-20151205.csv,53,Caroline Claudia Steffen,37,NSW,CHE,---,02:12:54,01:22:54,00:01:10,00:00:47,03:37:45
+ironman-70.3-bahrain-20151205.csv,55,Lucie Zelenkova,41,Eastern Cape,CZE,---,02:30:00,01:33:57,00:01:17,00:00:51,04:06:05
+ironman-70.3-bahrain-20151205.csv,56,Asa Lundstrom,31,---,SWE,---,02:09:28,01:28:06,00:01:16,00:00:45,03:39:35
+ironman-70.3-bahrain-20151205.csv,59,Caroline Livesey,36,Intl State,GBR,---,02:22:06,01:32:52,00:01:18,00:00:58,03:57:14
+ironman-70.3-bahrain-20151205.csv,62,Carina Brechters,25,---,DEU,---,02:32:38,01:37:56,00:01:18,00:00:56,04:12:48
+ironman-70.3-bahrain-20151205.csv,101,Kelly Ryan,32,HI,USA,---,02:36:15,01:51:04,00:01:20,00:01:38,04:30:17
+ironman-70.3-bahrain-20151205.csv,102,Linda Blakely,41,Other,GBR,---,02:46:21,01:51:05,00:01:38,00:01:27,04:40:31
+ironman-70.3-bahrain-20151205.csv,105,Dawid Pikor,29,---,POL,---,02:32:23,01:54:11,00:01:25,00:00:42,04:28:41
+ironman-70.3-bahrain-20151205.csv,106,Jonathan Robinson,32,Seef,NZL,---,02:36:28,02:07:34,00:01:39,00:01:44,04:47:25
+ironman-70.3-bahrain-20151205.csv,107,Cinar Goksen,34,Alabama,TUR,---,02:23:11,01:37:28,00:01:40,00:00:52,04:03:11
+ironman-70.3-bahrain-20151205.csv,108,Eddy Moreau,36,---,FRA,---,02:35:13,02:10:54,00:01:27,00:01:16,04:48:50
+ironman-70.3-bahrain-20151205.csv,109,Gregor Studer,36,---,CHE,---,02:25:06,01:26:36,00:01:20,00:01:07,03:54:09
+ironman-70.3-bahrain-20151205.csv,111,Helder Francisco,41,TX,PRT,---,02:37:34,01:37:43,00:01:36,00:02:05,04:18:58
+ironman-70.3-bahrain-20151205.csv,112,Martin Bond,43,DXB,GBR,---,02:16:50,02:04:00,00:01:18,00:01:29,04:23:37
+ironman-70.3-bahrain-20151205.csv,113,Patrick Wallimann,42,---,CHE,---,02:09:24,01:23:57,00:01:30,00:01:07,03:35:58
+ironman-70.3-bahrain-20151205.csv,114,Dave Kyle,46,MI,USA,---,02:12:01,01:33:10,00:01:15,00:01:23,03:47:49
+ironman-70.3-bahrain-20151205.csv,115,Ralf Holzer,48,OH,DEU,---,02:13:52,01:31:52,00:01:28,00:01:48,03:49:00
+ironman-70.3-bahrain-20151205.csv,116,Ed Hess,45,IL,USA,---,02:53:16,01:57:36,00:01:30,00:01:42,04:54:04
+ironman-70.3-bahrain-20151205.csv,117,Audrey Syren,32,---,FRA,---,02:35:45,01:55:13,00:01:28,00:01:13,04:33:39
+ironman-70.3-bahrain-20151205.csv,119,Virginia Vasconcelos,40,GO,BRA,---,02:42:10,01:46:18,00:01:30,00:01:51,04:31:49
+ironman-70.3-bahrain-20151205.csv,121,Elizabeth Gannon,55,Hants,GBR,---,02:37:04,02:07:52,00:01:45,00:01:22,04:48:03
+ironman-70.3-bahrain-20151205.csv,122,Ramazan Emre Apaydin,28,sisli,TUR,---,02:21:25,01:52:28,00:01:23,00:00:59,04:16:15
+ironman-70.3-bahrain-20151205.csv,123,Roberto Cagnati,37,---,CHE,---,02:16:02,01:30:02,00:01:26,00:00:53,03:48:23
+ironman-70.3-bahrain-20151205.csv,124,Diego Soto,42,TX,USA,---,02:23:57,02:02:00,00:01:28,00:01:45,04:29:10
+ironman-70.3-bahrain-20151205.csv,126,Claudio Fabbri,43,FR,MCO,---,02:34:56,01:55:49,00:01:22,00:02:49,04:34:56
+ironman-70.3-bahrain-20151205.csv,128,Paolo Mussotto,51,italia,ITA,---,02:27:18,01:37:32,00:01:21,00:01:26,04:07:37
+ironman-70.3-bahrain-20151205.csv,129,Martin Gannon,58,---,GBR,---,02:28:37,01:44:37,00:01:21,00:01:00,04:15:35
+ironman-70.3-bahrain-20151205.csv,130,Melanie Benson,31,NL,CAN,---,02:23:30,01:39:13,00:01:25,00:01:51,04:05:59
+ironman-70.3-bahrain-20151205.csv,131,Leyla Porteous,39,NC,AUS,---,02:42:07,01:50:28,00:01:47,00:01:05,04:35:27
+ironman-70.3-bahrain-20151205.csv,132,Jennifer Gibbons,36,Other,NZL,---,02:36:11,01:46:32,00:01:42,00:01:35,04:26:00
+ironman-70.3-bahrain-20151205.csv,133,Lynette Warn,52,Other,ARE,---,02:40:50,01:45:50,00:01:32,00:01:26,04:29:38
+ironman-70.3-bahrain-20151205.csv,134,Birgit Eibl,50,---,AUT,---,02:53:19,02:23:10,00:01:54,00:02:31,05:20:54
+ironman-70.3-bahrain-20151205.csv,135,Manuel Huerzeler,29,---,CHE,---,02:28:23,01:34:28,00:01:17,00:01:08,04:05:16
+ironman-70.3-bahrain-20151205.csv,136,Italo Esselin Filho,34,GOIAS,BRA,---,02:14:07,01:30:18,00:01:28,00:01:08,03:47:01
+ironman-70.3-bahrain-20151205.csv,137,William Weymouth,34,Qatar,IRL,---,02:16:10,01:40:24,00:01:20,00:00:50,03:58:44
+ironman-70.3-bahrain-20151205.csv,138,Michael Schnitzler,34,---,AUT,---,02:19:13,01:51:27,00:01:27,00:01:20,04:13:27
+ironman-70.3-bahrain-20151205.csv,139,Jon Farley,34,---,GBR,---,02:23:55,01:32:45,00:01:15,00:01:13,03:59:08
+ironman-70.3-bahrain-20151205.csv,140,Oscar Marquez Balta,35,ES,ESP,---,02:17:04,01:22:28,00:01:14,00:00:59,03:41:45
+ironman-70.3-bahrain-20151205.csv,141,Maciej Komorowski,38,Mazowieckie,POL,---,02:19:28,01:43:31,00:01:29,00:00:59,04:05:27
+ironman-70.3-bahrain-20151205.csv,142,Sebastien Guerin,41,---,FRA,---,02:47:18,02:01:29,00:01:49,00:01:58,04:52:34
+ironman-70.3-bahrain-20151205.csv,144,Christian Stoimaier,43,---,AUT,---,02:11:38,01:36:50,00:01:19,00:01:11,03:50:58
+ironman-70.3-bahrain-20151205.csv,146,Selcuk Caglar,47,---,USA,---,02:26:23,01:42:33,00:01:37,00:01:10,04:11:43
+ironman-70.3-bahrain-20151205.csv,148,Paul Miles,44,Other,GBR,---,02:22:43,01:31:12,00:01:26,00:01:36,03:56:57
+ironman-70.3-bahrain-20151205.csv,149,Chris Knight,49,DXB,GBR,---,02:16:41,01:37:47,00:01:12,00:01:20,03:57:00
+ironman-70.3-bahrain-20151205.csv,150,Henry Clark,53,DXB,GBR,---,02:23:23,01:34:33,00:01:25,00:01:00,04:00:21
+ironman-70.3-bahrain-20151205.csv,151,Noel Rossouw,57,Other,ZAF,---,02:51:12,01:40:14,00:01:37,00:01:41,04:34:44
+ironman-70.3-bahrain-20151205.csv,152,Volker Johannes Hembenger,58,---,DEU,---,02:30:49,01:40:03,00:01:29,00:01:39,04:14:00
+ironman-70.3-bahrain-20151205.csv,153,Tracy Khayat,22,Beirut,LBN,---,02:57:22,02:00:17,00:01:47,00:02:20,05:01:46
+ironman-70.3-bahrain-20151205.csv,154,Ellie Penketh,23,---,GBR,---,02:42:57,02:13:55,00:01:24,00:01:13,04:59:29
+ironman-70.3-bahrain-20151205.csv,155,Nailah Al-Khalifa,24,Intl State,BHR,---,03:21:23,03:02:10,00:02:21,00:02:19,06:28:13
+ironman-70.3-bahrain-20151205.csv,156,Annie Frederick,22,---,GBR,---,02:29:13,01:45:48,00:01:24,00:00:54,04:17:19
+ironman-70.3-bahrain-20151205.csv,157,Leanne Fanoy,19,AUH,NLD,---,02:29:19,01:28:35,00:01:40,00:01:34,04:01:08
+ironman-70.3-bahrain-20151205.csv,158,Hessa Al Khalifa,24,Riffa,BHR,---,03:01:59,02:24:00,00:01:45,00:02:35,05:30:19
+ironman-70.3-bahrain-20151205.csv,159,Grace Stewart,23,Lancashire,GBR,---,03:35:04,02:22:52,00:01:38,00:04:30,06:04:04
+ironman-70.3-bahrain-20151205.csv,160,Kubra Varli,24,APO,TUR,---,03:14:21,02:38:22,00:01:45,00:03:32,05:58:00
+ironman-70.3-bahrain-20151205.csv,163,Sara Althawadi,25,Bahrain,BHR,---,02:53:00,01:59:48,00:01:50,00:01:59,04:56:37
+ironman-70.3-bahrain-20151205.csv,165,Julie Kriegshaber,---,MU,USA,---,03:28:01,02:15:26,00:01:48,00:04:20,05:49:35
+ironman-70.3-bahrain-20151205.csv,168,Geraldine Diaz,27,Qatar,PHL,---,03:08:03,02:27:21,00:02:07,00:02:07,05:39:38
+ironman-70.3-bahrain-20151205.csv,169,Sarah Honey,28,---,GBR,---,02:57:44,02:02:12,00:01:35,00:01:20,05:02:51
+ironman-70.3-bahrain-20151205.csv,170,Christina Mccarver,---,AE,USA,---,03:26:18,02:24:56,00:01:54,00:02:41,05:55:49
+ironman-70.3-bahrain-20151205.csv,171,Jackielyn Lovingco,---,DX,PHL,---,03:08:11,02:27:45,00:01:47,00:07:13,05:44:56
+ironman-70.3-bahrain-20151205.csv,172,Patricia Villegas,---,---,MEX,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20151205.csv,173,Yasmin Wadhai,29,AUH,IRQ,---,02:52:00,01:54:44,00:01:35,00:01:36,04:49:55
+ironman-70.3-bahrain-20151205.csv,174,Sarah Walsh,28,NSW,IRL,---,02:53:42,01:59:02,00:01:25,00:02:15,04:56:24
+ironman-70.3-bahrain-20151205.csv,175,Angela Aguilo,28,Saar,PHL,---,03:31:38,02:19:46,00:01:52,00:01:31,05:54:47
+ironman-70.3-bahrain-20151205.csv,176,Hannah Al Khalifa,25,---,BHR,---,03:23:50,02:21:53,00:01:48,00:02:25,05:49:56
+ironman-70.3-bahrain-20151205.csv,177,Marina Lovrek,28,Seef,HRV,---,02:37:57,01:56:44,00:01:33,00:01:15,04:37:29
+ironman-70.3-bahrain-20151205.csv,178,Amanda Kitson,27,CA,USA,---,03:56:07,02:43:26,00:01:35,00:01:27,06:42:35
+ironman-70.3-bahrain-20151205.csv,179,Taiba Alnouri,25,---,KWT,---,02:58:50,01:56:49,00:01:30,00:01:33,04:58:42
+ironman-70.3-bahrain-20151205.csv,180,Laura Bibby,---,MA,GBR,---,02:58:12,02:21:31,00:01:33,00:02:12,05:23:28
+ironman-70.3-bahrain-20151205.csv,182,Jilly Coppack,34,---,AUS,---,02:58:46,---,00:01:57,00:04:00,DNF
+ironman-70.3-bahrain-20151205.csv,183,Juliet Fullwood,30,Abu Dhabi,GBR,---,02:49:27,02:03:42,00:01:35,00:01:58,04:56:42
+ironman-70.3-bahrain-20151205.csv,184,Evelyne Niederberger,33,---,CHE,---,02:40:03,01:44:01,00:01:13,00:01:03,04:26:20
+ironman-70.3-bahrain-20151205.csv,185,Khadiga Amin,30,egypt,EGY,---,02:39:20,01:58:40,00:01:29,00:02:00,04:41:29
+ironman-70.3-bahrain-20151205.csv,186,Fatima Fathalla,32,Bahrain,BHR,---,03:34:03,03:00:55,00:01:55,00:03:05,06:39:58
+ironman-70.3-bahrain-20151205.csv,188,Suad Al Moayed,34,Bahrain,BHR,---,03:47:32,02:17:46,00:02:01,00:02:32,06:09:51
+ironman-70.3-bahrain-20151205.csv,189,May Alhaji,34,Bahrain,BHR,---,02:41:42,01:48:59,00:01:38,00:01:13,04:33:32
+ironman-70.3-bahrain-20151205.csv,190,Nayla Al Marzooqi,33,Bahrain,BHR,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20151205.csv,191,Robyn Chandler,33,---,ZAF,---,03:24:09,02:35:36,00:01:41,00:02:53,06:04:19
+ironman-70.3-bahrain-20151205.csv,192,Gabriel Carnwath,34,---,GBR,---,02:37:21,01:28:41,00:01:14,00:01:10,04:08:26
+ironman-70.3-bahrain-20151205.csv,193,Sandy Warne,---,---,GBR,---,02:57:16,02:06:36,00:01:23,00:01:32,05:06:47
+ironman-70.3-bahrain-20151205.csv,195,Annabelle Rust,34,Other,FRA,---,02:50:35,01:49:13,00:01:47,00:01:42,04:43:17
+ironman-70.3-bahrain-20151205.csv,197,Sarah Butler,---,Dubai,GBR,---,02:52:38,01:54:36,00:01:24,00:01:21,04:49:59
+ironman-70.3-bahrain-20151205.csv,199,Marion Tuin,---,NL,NLD,---,02:28:50,01:42:35,00:01:29,00:01:58,04:14:52
+ironman-70.3-bahrain-20151205.csv,200,Che Acord,---,WA,USA,---,03:22:05,02:16:17,00:01:45,00:01:40,05:41:47
+ironman-70.3-bahrain-20151205.csv,201,Nouf Al Khalifa,33,Intl State,BHR,---,03:44:06,03:28:39,00:02:14,00:02:57,07:17:56
+ironman-70.3-bahrain-20151205.csv,202,Victoria Arscott,34,DXB,GBR,---,02:56:37,02:01:19,00:01:29,00:01:05,05:00:30
+ironman-70.3-bahrain-20151205.csv,203,Janet Craven,31,manama,IRL,---,02:49:48,02:33:08,00:02:02,00:02:32,05:27:30
+ironman-70.3-bahrain-20151205.csv,204,Abigail Bartholomew,33,Hants,KWT,---,02:43:14,01:41:44,00:01:50,00:01:25,04:28:13
+ironman-70.3-bahrain-20151205.csv,205,Asem Kunakbayeva,30,Almaty,KAZ,---,02:51:15,01:48:49,00:01:28,00:01:47,04:43:19
+ironman-70.3-bahrain-20151205.csv,206,Jodi Knutson,30,FL,USA,---,03:09:02,02:12:33,00:02:01,00:03:33,05:27:09
+ironman-70.3-bahrain-20151205.csv,207,Isora Sosa,32,ES,ESP,---,02:32:38,01:50:42,00:01:54,00:01:12,04:26:26
+ironman-70.3-bahrain-20151205.csv,208,Deirdre Macnally,34,Dublin,IRL,---,02:50:36,01:57:27,00:01:39,00:01:29,04:51:11
+ironman-70.3-bahrain-20151205.csv,209,Nevsin Mengü,33,istanbul,TUR,---,03:03:47,02:05:02,00:02:14,00:03:37,05:14:40
+ironman-70.3-bahrain-20151205.csv,210,Ana Jarque Gomez,---,ES,ESP,---,03:06:41,02:07:48,00:01:53,00:03:15,05:19:37
+ironman-70.3-bahrain-20151205.csv,211,Remelee Gonzales,34,juffair,PHL,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20151205.csv,212,Sarah Jervoso,31,DXB,PHL,---,03:04:56,02:06:22,00:01:44,00:02:07,05:15:09
+ironman-70.3-bahrain-20151205.csv,213,Nerissa Usero,37,Doha,PHL,---,02:53:49,02:17:06,00:02:05,00:02:05,05:15:05
+ironman-70.3-bahrain-20151205.csv,214,Hadyah Fathallah,36,NA,BHR,---,03:13:25,02:34:17,00:01:45,00:01:31,05:50:58
+ironman-70.3-bahrain-20151205.csv,215,Sally Hart,39,Muscat,GBR,---,03:10:44,01:55:01,00:01:43,00:02:11,05:09:39
+ironman-70.3-bahrain-20151205.csv,216,Lisa Hancox,37,DXB,GBR,---,02:34:15,01:50:47,00:01:35,00:01:01,04:27:38
+ironman-70.3-bahrain-20151205.csv,217,Katrina Corcoran,39,AUH,USA,---,03:11:38,02:27:45,00:02:04,00:03:54,05:45:21
+ironman-70.3-bahrain-20151205.csv,219,Lucy Woollacott,37,DXB,GBR,---,02:30:08,01:43:51,00:01:34,00:01:23,04:16:56
+ironman-70.3-bahrain-20151205.csv,221,Marshelle Manalang,37,DXB,PHL,---,03:02:36,02:31:30,00:02:05,00:03:20,05:39:31
+ironman-70.3-bahrain-20151205.csv,223,Apols Clarrizze Garcia,---,DX,PHL,---,02:54:49,---,00:01:55,00:01:46,DNF
+ironman-70.3-bahrain-20151205.csv,224,Hessa Al Khalifa,36,Intl State,BHR,---,04:08:20,03:21:51,00:02:14,00:02:20,DNF
+ironman-70.3-bahrain-20151205.csv,225,Idrak Al Aquel,37,Manama,SAU,---,03:31:09,02:29:50,00:01:56,00:02:01,06:04:56
+ironman-70.3-bahrain-20151205.csv,226,Jewell Narzoles,38,DXB,PHL,---,02:56:28,01:58:37,00:01:57,00:01:53,04:58:55
+ironman-70.3-bahrain-20151205.csv,227,Angela Carscadden,35,Aramco,CAN,---,02:55:13,01:59:14,00:01:52,00:01:23,04:57:42
+ironman-70.3-bahrain-20151205.csv,228,Joanna Sygula,35,Warsyawa,POL,---,02:58:30,01:58:29,00:01:35,00:01:06,04:59:40
+ironman-70.3-bahrain-20151205.csv,229,Joanna Bolton,35,QLD,GBR,---,03:19:06,02:07:38,00:01:41,00:01:57,05:30:22
+ironman-70.3-bahrain-20151205.csv,230,Kirsten Palmer Thompson,---,DA,USA,---,03:02:03,02:25:07,00:02:04,00:02:47,05:32:01
+ironman-70.3-bahrain-20151205.csv,231,Subathra Jeyaram,38,Al Shamali,IND,---,03:37:49,02:38:05,00:01:59,00:04:22,06:22:15
+ironman-70.3-bahrain-20151205.csv,232,Amanda Borlotti,39,Other,GBR,---,02:59:32,02:25:07,00:02:04,00:02:58,05:29:41
+ironman-70.3-bahrain-20151205.csv,235,Annie Parker,41,Northants,GBR,---,02:54:39,01:56:55,00:01:36,00:01:14,04:54:24
+ironman-70.3-bahrain-20151205.csv,236,Wajeeha Al-Husseini,43,Amman,JOR,---,03:11:54,02:34:17,00:01:57,00:02:33,05:50:41
+ironman-70.3-bahrain-20151205.csv,238,Carmel Lord,43,Doha,ZAF,---,02:56:21,02:25:41,00:01:52,00:01:29,05:25:23
+ironman-70.3-bahrain-20151205.csv,239,Svilena Stoilova,42,Zallaq Area,BGR,---,03:27:09,02:20:48,00:02:09,00:04:17,05:54:23
+ironman-70.3-bahrain-20151205.csv,241,Marcella Moohan,42,DXB,GBR,---,02:36:33,02:00:41,00:01:27,00:01:31,04:40:12
+ironman-70.3-bahrain-20151205.csv,243,Victoria Chia,42,CA,USA,---,02:49:12,02:28:14,00:01:51,00:02:16,05:21:33
+ironman-70.3-bahrain-20151205.csv,244,Rachel Banks,---,NO,GBR,---,03:20:01,02:24:56,00:01:58,00:02:24,05:49:19
+ironman-70.3-bahrain-20151205.csv,245,Amanda Nimon Peters,42,DXB,CAN,---,03:05:24,02:04:50,00:02:27,00:02:20,05:15:01
+ironman-70.3-bahrain-20151205.csv,246,Finola De Paor,41,Other,IRL,---,03:04:00,01:51:47,00:02:01,00:01:46,04:59:34
+ironman-70.3-bahrain-20151205.csv,248,Olga Garland,41,Bahrain,FRA,---,02:49:54,01:55:03,00:01:41,00:01:10,04:47:48
+ironman-70.3-bahrain-20151205.csv,249,Vicky Andrews,42,---,BHR,---,02:46:50,02:19:54,00:01:54,00:01:21,05:09:59
+ironman-70.3-bahrain-20151205.csv,250,Jean Michele Moore,41,NJ,USA,---,03:15:52,02:11:01,00:02:28,00:02:56,05:32:17
+ironman-70.3-bahrain-20151205.csv,251,Kirsten Baillie,42,AUH,GBR,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20151205.csv,252,Maille Mcgough,43,PA,USA,---,03:04:39,02:21:07,00:02:22,00:02:48,05:30:56
+ironman-70.3-bahrain-20151205.csv,253,Andrea Cagnati,40,---,CHE,---,02:32:55,02:17:23,00:01:58,00:01:45,04:54:01
+ironman-70.3-bahrain-20151205.csv,254,Vibeke Svensson,41,MD,DNK,---,02:46:06,02:19:45,00:01:49,00:02:08,05:09:48
+ironman-70.3-bahrain-20151205.csv,255,Charlotte Berner,43,---,DNK,---,02:48:39,01:48:39,00:01:51,00:01:31,04:40:40
+ironman-70.3-bahrain-20151205.csv,256,Nagima Kerimbayeva,40,Almaty,KAZ,---,02:42:10,01:56:26,00:01:34,00:01:36,04:41:46
+ironman-70.3-bahrain-20151205.csv,257,Pascale Lemelin,44,QC,CAN,---,02:59:51,02:17:32,00:01:53,00:01:18,05:20:34
+ironman-70.3-bahrain-20151205.csv,258,Annamarie Lawrence,---,BA,NZL,---,03:10:59,02:25:48,00:02:15,00:02:00,05:41:02
+ironman-70.3-bahrain-20151205.csv,259,Meghan Allen,40,Bahrain,GBR,---,03:02:05,02:22:48,00:02:01,00:03:18,05:30:12
+ironman-70.3-bahrain-20151205.csv,260,Patricia Adeltoft,41,Muscat,DNK,---,02:51:43,02:03:26,00:01:42,00:01:13,04:58:04
+ironman-70.3-bahrain-20151205.csv,261,Mary Looby,43,Al Markh,IRL,---,03:00:59,02:20:48,00:02:04,00:02:09,05:26:00
+ironman-70.3-bahrain-20151205.csv,262,Clare Farrell,44,AUH,GBR,---,02:58:17,01:58:14,00:02:19,00:01:32,05:00:22
+ironman-70.3-bahrain-20151205.csv,263,Abby Fraser,41,Bahrain,AUS,---,03:12:58,02:06:16,00:02:28,00:02:34,05:24:16
+ironman-70.3-bahrain-20151205.csv,264,Clare Mccabe,43,AUH,GBR,---,02:44:43,01:46:48,00:01:53,00:01:40,04:35:04
+ironman-70.3-bahrain-20151205.csv,265,Nirmeen Alireza,---,WE,BHR,---,02:55:12,02:04:36,00:01:40,00:01:27,05:02:55
+ironman-70.3-bahrain-20151205.csv,266,Frauke Riedinger,46,---,DEU,---,02:49:28,02:01:20,00:01:46,00:02:45,04:55:19
+ironman-70.3-bahrain-20151205.csv,268,Annemiek Schleurholts,45,---,NLD,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20151205.csv,269,Isabell B_Rsing,46,---,DEU,---,02:47:26,02:35:51,00:01:33,00:02:34,05:27:24
+ironman-70.3-bahrain-20151205.csv,270,Kim Crawford,47,NS,CAN,---,02:41:51,01:55:30,00:02:05,00:01:11,04:40:37
+ironman-70.3-bahrain-20151205.csv,271,Samantha Muller,45,Budaiya,ZAF,---,03:31:58,02:34:15,00:01:45,00:03:04,06:11:02
+ironman-70.3-bahrain-20151205.csv,272,Cheryl Stewart,46,ON,CAN,---,03:02:00,02:22:47,00:02:10,00:03:27,05:30:24
+ironman-70.3-bahrain-20151205.csv,273,Greer Ann Sansom,47,VIC,AUS,---,02:25:41,01:48:48,00:01:25,00:01:01,04:16:55
+ironman-70.3-bahrain-20151205.csv,274,Louella O'Herlihy,46,---,GBR,---,02:34:24,01:41:15,00:01:44,00:01:57,04:19:20
+ironman-70.3-bahrain-20151205.csv,275,Lone Schaadt,---,DK,DNK,---,02:36:38,02:08:25,00:01:59,00:02:23,04:49:25
+ironman-70.3-bahrain-20151205.csv,276,Claudine Roghi,47,Riyadh,FRA,---,03:21:07,01:57:30,00:01:46,00:02:19,05:22:42
+ironman-70.3-bahrain-20151205.csv,277,Alison Smith,46,---,GBR,---,02:55:28,02:05:46,00:01:57,00:00:55,05:04:06
+ironman-70.3-bahrain-20151205.csv,278,Beth Lakier,48,IL,USA,---,02:46:37,01:51:04,00:02:00,00:02:04,04:41:45
+ironman-70.3-bahrain-20151205.csv,279,Kelly Wood,48,Eastern,ZAF,---,03:11:35,02:35:24,00:01:56,00:02:06,05:51:01
+ironman-70.3-bahrain-20151205.csv,280,Sharon Decoopman,48,KSA,USA,---,03:42:28,02:46:48,00:01:54,00:02:57,06:34:07
+ironman-70.3-bahrain-20151205.csv,281,Hannah Karanja,45,Manama,KEN,---,03:13:32,02:26:41,00:02:36,00:05:30,05:48:19
+ironman-70.3-bahrain-20151205.csv,282,Alison Mcritchie,48,---,GBR,---,03:31:15,02:28:09,00:01:55,00:02:54,06:04:13
+ironman-70.3-bahrain-20151205.csv,283,Najwa Abdulrahim,---,BA,BHR,---,03:42:52,02:39:14,00:02:34,00:04:59,06:29:39
+ironman-70.3-bahrain-20151205.csv,284,Annemarie Kilshaw,50,Qatar,AUS,---,03:01:01,01:57:50,00:01:47,00:01:22,05:02:00
+ironman-70.3-bahrain-20151205.csv,285,Mary Gustus,52,CA,USA,---,03:04:46,02:07:14,00:02:00,00:02:25,05:16:25
+ironman-70.3-bahrain-20151205.csv,286,Mary Ballouz,---,none,USA,---,02:55:41,02:14:51,00:01:46,00:03:00,05:15:18
+ironman-70.3-bahrain-20151205.csv,287,Diane Gordon,52,Other,CAN,---,03:05:26,02:35:35,00:02:01,00:02:20,05:45:22
+ironman-70.3-bahrain-20151205.csv,288,Margaret Meagher,---,IL,USA,---,03:09:39,02:06:15,00:01:58,00:03:02,05:20:54
+ironman-70.3-bahrain-20151205.csv,289,Ghada Hussain,50,---,KWT,---,03:32:37,02:05:21,00:02:01,00:03:16,05:43:15
+ironman-70.3-bahrain-20151205.csv,290,Lesley Jones,51,---,GBR,---,03:13:10,02:36:38,00:02:13,00:04:31,05:56:32
+ironman-70.3-bahrain-20151205.csv,291,Julie Rossouw,51,Other,GBR,---,02:54:30,02:03:25,00:02:06,00:01:47,05:01:48
+ironman-70.3-bahrain-20151205.csv,292,Carole Huberty,52,---,BEL,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20151205.csv,293,Barbara Grüter,61,---,CHE,---,03:05:41,02:46:36,00:01:41,00:01:47,05:55:45
+ironman-70.3-bahrain-20151205.csv,294,Salman Fulad,19,Tubli,BHR,---,02:57:51,01:47:33,00:01:30,00:02:14,04:49:08
+ironman-70.3-bahrain-20151205.csv,295,Ali Abdulla Ali Baba,---,SA,BHR,---,03:03:55,03:11:41,00:01:34,00:04:10,06:21:20
+ironman-70.3-bahrain-20151205.csv,296,Abdulla Faqihi,20,.,BHR,---,02:57:57,02:02:45,00:01:40,00:02:14,05:04:36
+ironman-70.3-bahrain-20151205.csv,297,Ahmed Al Madani,24,centre,BHR,---,03:12:50,02:32:37,00:01:47,---,05:47:14
+ironman-70.3-bahrain-20151205.csv,298,Ebrahim Alromaihi,23,Doha,QAT,---,02:39:05,01:53:28,00:01:35,00:01:19,04:35:27
+ironman-70.3-bahrain-20151205.csv,299,Omar Buti,24,East Riffa - Bukuwara,BHR,---,02:32:16,01:43:44,00:01:14,00:01:13,04:18:27
+ironman-70.3-bahrain-20151205.csv,301,Alex Ohanlon,---,---,NZL,---,03:24:12,02:48:31,00:01:48,00:03:48,06:18:19
+ironman-70.3-bahrain-20151205.csv,302,Pierre Fiori,22,---,FRA,---,02:32:12,01:29:16,00:01:43,00:01:36,04:04:47
+ironman-70.3-bahrain-20151205.csv,303,Tom Garrett,24,---,GBR,---,02:54:06,01:42:39,00:02:05,00:02:03,04:40:53
+ironman-70.3-bahrain-20151205.csv,304,Alex Villec,24,AZ,USA,---,03:01:39,01:49:36,00:01:40,00:02:43,04:55:38
+ironman-70.3-bahrain-20151205.csv,307,Shiela Ruiz,24,---,PHL,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20151205.csv,308,Jordan Frapwell,22,Gloucestershire,GBR,---,02:15:57,01:22:50,00:01:16,00:01:57,03:42:00
+ironman-70.3-bahrain-20151205.csv,309,Abdallah Alireza,24,---,SAU,---,02:44:49,01:41:49,00:01:23,00:01:25,04:29:26
+ironman-70.3-bahrain-20151205.csv,310,Omar Sulaiman,23,---,ARE,---,02:42:42,02:40:09,00:01:22,00:01:55,05:26:08
+ironman-70.3-bahrain-20151205.csv,311,Aykut Emre Keskin,23,Beykoz,TUR,---,02:40:45,---,00:01:32,00:01:11,DNF
+ironman-70.3-bahrain-20151205.csv,312,Hamad Almansoori,21,Bahrain,BHR,---,02:20:52,02:01:00,00:01:01,00:01:18,04:24:11
+ironman-70.3-bahrain-20151205.csv,313,Charbel Bassil,26,beirut,LBN,---,02:32:44,---,00:02:08,00:03:40,DNF
+ironman-70.3-bahrain-20151205.csv,314,Alvin John Quimzon,26,doha,PHL,---,02:39:51,02:15:53,00:01:33,00:01:48,04:59:05
+ironman-70.3-bahrain-20151205.csv,315,Artur Shaygardanov,27,---,RUS,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20151205.csv,316,Camil Boulos,26,Keserwein,LBN,---,03:11:49,02:00:03,00:01:40,00:02:17,05:15:49
+ironman-70.3-bahrain-20151205.csv,317,Zayed Hussain Atwah,---,EA,SAU,---,02:58:24,02:04:54,00:01:53,00:02:12,05:07:23
+ironman-70.3-bahrain-20151205.csv,318,Zaid Bader Altaweel,---,EA,SAU,---,02:40:02,01:56:27,00:01:38,00:01:50,04:39:57
+ironman-70.3-bahrain-20151205.csv,319,Mustafa Janahi,27,Bahrain,BHR,---,02:57:30,02:02:31,00:01:34,00:02:15,05:03:50
+ironman-70.3-bahrain-20151205.csv,320,Ali Taqi,27,Bahrain,BHR,---,03:01:13,02:38:18,00:01:38,00:02:39,05:43:48
+ironman-70.3-bahrain-20151205.csv,321,Hamad Sharaf Alghanem,---,EA,SAU,---,02:28:27,01:52:52,00:01:37,00:01:24,04:24:20
+ironman-70.3-bahrain-20151205.csv,322,Ali Abdul Karim Turki,29,00000,BHR,---,03:09:42,02:05:13,00:01:48,00:04:17,05:21:00
+ironman-70.3-bahrain-20151205.csv,323,Ibrahim Khalil Albrahim,---,EP,SAU,---,03:25:47,02:16:41,00:01:36,00:01:53,05:45:57
+ironman-70.3-bahrain-20151205.csv,324,Amer Al Sheaibani,27,Bahrain,BHR,---,03:10:11,02:21:49,00:01:54,00:02:49,05:36:43
+ironman-70.3-bahrain-20151205.csv,325,Nasser Al Jalahma,25,Manama,BHR,---,02:47:40,02:01:38,00:01:27,00:02:07,04:52:52
+ironman-70.3-bahrain-20151205.csv,326,Hady Elcott,---,NO,BHR,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20151205.csv,327,Bassam Shams,25,Seef,BHR,---,03:00:18,02:18:07,00:01:31,00:01:52,05:21:48
+ironman-70.3-bahrain-20151205.csv,328,Mohammed Al Madani,28,Aali,BHR,---,03:02:28,02:01:47,00:01:40,00:02:01,05:07:56
+ironman-70.3-bahrain-20151205.csv,329,Rayan Al Ajaji,---,MA,BHR,---,02:47:45,01:55:19,00:01:23,00:01:16,04:45:43
+ironman-70.3-bahrain-20151205.csv,330,Ali Ahmed,27,Manama,BHR,---,02:49:50,02:12:51,00:01:27,00:01:50,05:05:58
+ironman-70.3-bahrain-20151205.csv,331,Abdulaziz Alhazeem,29,AZ,KWT,---,02:28:30,02:27:40,00:01:28,00:01:40,04:59:18
+ironman-70.3-bahrain-20151205.csv,332,Jerico Mangunay,29,---,PHL,---,02:31:38,02:03:57,00:01:30,00:01:14,04:38:19
+ironman-70.3-bahrain-20151205.csv,333,Abdulaziz Alsabbagh,29,East Riffa,BHR,---,03:40:53,---,00:02:29,00:06:00,DNF
+ironman-70.3-bahrain-20151205.csv,334,Hasan Alrashed,25,Kuwait,KWT,---,02:46:29,02:29:02,00:01:24,00:02:05,05:19:00
+ironman-70.3-bahrain-20151205.csv,335,Faisal Alateeq,26,Kuwait City,KWT,---,02:50:34,02:13:42,00:01:25,00:02:15,05:07:56
+ironman-70.3-bahrain-20151205.csv,336,Mohammed Marhoon,29,Manama,BHR,---,03:34:07,02:29:28,00:01:27,00:02:47,06:07:49
+ironman-70.3-bahrain-20151205.csv,339,Ander Mendia Larrinaga,29,---,ESP,---,02:27:47,01:47:26,00:01:25,00:01:21,04:17:59
+ironman-70.3-bahrain-20151205.csv,340,Hamish Greenwood,26,---,GBR,---,02:31:57,01:55:27,00:01:25,00:03:27,04:32:16
+ironman-70.3-bahrain-20151205.csv,341,hamad aldoseri,25,hamad town,BHR,---,03:21:36,04:08:14,00:01:47,00:04:17,DNF
+ironman-70.3-bahrain-20151205.csv,342,Ahmed Al Sabt,24,Muharraq,BHR,---,02:58:07,02:37:53,00:01:41,00:01:54,05:39:35
+ironman-70.3-bahrain-20151205.csv,344,Bader Alsabah,27,WI,KWT,---,02:57:53,02:38:48,00:02:04,00:01:42,05:40:27
+ironman-70.3-bahrain-20151205.csv,345,Joseph Broughton,28,Doha,GBR,---,02:56:59,01:48:49,00:01:44,00:02:49,04:50:21
+ironman-70.3-bahrain-20151205.csv,347,Richard Pingram,25,---,GBR,---,02:44:31,02:09:11,00:02:19,00:02:43,04:58:44
+ironman-70.3-bahrain-20151205.csv,348,Benjamin Hans,27,CA,USA,---,02:30:05,01:41:40,00:01:38,00:01:17,04:14:40
+ironman-70.3-bahrain-20151205.csv,350,Karim Anis,27,---,EGY,---,03:33:07,02:49:38,00:02:31,00:04:53,06:30:09
+ironman-70.3-bahrain-20151205.csv,351,Ali Alnaser,26,---,KWT,---,03:15:26,02:13:20,00:01:50,00:03:01,05:33:37
+ironman-70.3-bahrain-20151205.csv,352,Aman Kopessov,28,Almaty,KAZ,---,02:52:56,02:30:41,00:01:26,00:03:07,05:28:10
+ironman-70.3-bahrain-20151205.csv,353,Darren Lang,27,Gauteng,ZAF,---,02:26:02,01:33:40,00:01:26,00:01:50,04:02:58
+ironman-70.3-bahrain-20151205.csv,354,Ibrahim Alrekhais,27,Kuwait,KWT,---,03:01:24,02:39:31,00:01:39,00:02:05,05:44:39
+ironman-70.3-bahrain-20151205.csv,355,Timur Khismatullin,---,---,RUS,---,03:18:28,02:33:10,00:03:06,00:08:16,06:03:00
+ironman-70.3-bahrain-20151205.csv,356,Mitchell Lawson,---,BL,GBR,---,02:36:34,01:50:14,00:01:48,00:01:41,04:30:17
+ironman-70.3-bahrain-20151205.csv,357,Norbert Bota,29,Budapest,HUN,---,02:38:28,01:50:23,00:01:26,00:02:50,04:33:07
+ironman-70.3-bahrain-20151205.csv,359,Dhari Almousherji,27,---,KWT,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20151205.csv,360,Pawel Skorupa,27,---,POL,---,02:17:23,01:41:20,00:01:29,00:01:07,04:01:19
+ironman-70.3-bahrain-20151205.csv,361,James Moore,---,RI,GBR,---,02:54:37,02:08:59,00:01:38,00:01:38,05:06:52
+ironman-70.3-bahrain-20151205.csv,362,Abulrahman Aldahmeli,25,Kuwait,KWT,---,02:47:58,02:49:25,00:01:39,00:03:26,05:42:28
+ironman-70.3-bahrain-20151205.csv,363,Ahmad Alsharhan,28,---,KWT,---,02:32:37,02:02:41,00:01:37,00:01:22,04:38:17
+ironman-70.3-bahrain-20151205.csv,365,Sylvain Girardeau,29,---,FRA,---,02:34:14,01:40:27,00:01:29,00:01:20,04:17:30
+ironman-70.3-bahrain-20151205.csv,366,Aday Alvarez Diez De Ulzurrun,27,---,ESP,---,02:16:33,01:38:13,00:01:25,00:00:50,03:57:01
+ironman-70.3-bahrain-20151205.csv,367,Christian B-Cote,---,AU,CAN,---,03:23:05,01:55:35,00:01:44,00:02:27,05:22:51
+ironman-70.3-bahrain-20151205.csv,368,Abdulmajeed Almuayqil,28,Riyadh,SAU,---,02:46:46,01:41:23,00:01:43,00:01:19,04:31:11
+ironman-70.3-bahrain-20151205.csv,369,Ali Janahi,29,Other,BHR,---,02:31:45,02:01:20,00:01:57,00:01:39,04:36:41
+ironman-70.3-bahrain-20151205.csv,370,Mahmood Habib,29,Muqaba,BHR,---,03:33:10,02:54:11,00:01:55,00:02:56,06:32:12
+ironman-70.3-bahrain-20151205.csv,371,Ahmed Habib,---,MU,BHR,---,02:49:00,02:01:44,00:01:55,00:02:31,04:55:10
+ironman-70.3-bahrain-20151205.csv,372,Ryan Christian,26,TAS,AUS,---,02:08:52,01:23:30,00:01:16,00:00:42,03:34:20
+ironman-70.3-bahrain-20151205.csv,373,Mahmood Matooq,29,Manama,BHR,---,02:53:12,01:57:00,00:01:57,00:03:01,04:55:10
+ironman-70.3-bahrain-20151205.csv,374,Adam Bussens,27,Norfolk,GBR,---,03:01:37,02:21:51,00:01:31,00:01:33,05:26:32
+ironman-70.3-bahrain-20151205.csv,375,Justin Sanak,25,AUH,USA,---,02:44:11,01:58:04,00:01:21,00:01:03,04:44:39
+ironman-70.3-bahrain-20151205.csv,376,Ahmad Alramyan,---,KU,KWT,---,03:11:40,02:12:52,00:01:38,00:03:35,05:29:45
+ironman-70.3-bahrain-20151205.csv,377,Yousef Alfares,28,---,KWT,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20151205.csv,378,Fahad Albinali,---,MU,BHR,---,03:09:04,02:28:42,00:01:55,00:03:52,05:43:33
+ironman-70.3-bahrain-20151205.csv,380,Nawaf Aldhaen,28,Other,BHR,---,02:25:59,01:42:37,00:01:20,00:02:21,04:12:17
+ironman-70.3-bahrain-20151205.csv,381,Othmane Safi,29,---,ARE,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20151205.csv,382,Abdullah Farhan,25,---,ARE,---,02:37:20,01:47:31,00:01:18,00:01:00,04:27:09
+ironman-70.3-bahrain-20151205.csv,384,Simon Bywater,---,SA,GBR,---,03:00:38,01:36:34,00:01:39,00:02:21,04:41:12
+ironman-70.3-bahrain-20151205.csv,385,Alaauddin Ebrahim Mohamed,---,MA,BHR,---,02:41:48,02:14:32,00:01:34,00:03:15,05:01:09
+ironman-70.3-bahrain-20151205.csv,386,Daniel Vogel,31,---,DEU,---,02:23:55,01:56:19,00:01:45,00:02:09,04:24:08
+ironman-70.3-bahrain-20151205.csv,388,Eslam Ramadan,---,AUH,EGY,---,02:49:13,02:33:28,00:01:45,00:01:27,05:25:53
+ironman-70.3-bahrain-20151205.csv,389,Rhys Courtney,30,DXB,GBR,---,03:06:36,02:45:25,00:01:46,00:13:47,06:07:34
+ironman-70.3-bahrain-20151205.csv,390,Andriy Avramenko,34,---,UKR,---,02:38:02,02:26:33,00:01:42,00:03:17,05:09:34
+ironman-70.3-bahrain-20151205.csv,391,Nesty Jun Verdeprado,31,---,PHL,---,02:47:39,02:29:24,00:01:47,00:01:57,05:20:47
+ironman-70.3-bahrain-20151205.csv,392,Alec Spedding,32,DXB,GBR,---,02:40:04,02:23:21,00:01:38,00:02:01,05:07:04
+ironman-70.3-bahrain-20151205.csv,393,Pierre Daniel,34,/,FRA,---,02:30:44,01:55:09,00:01:17,00:01:17,04:28:27
+ironman-70.3-bahrain-20151205.csv,395,Brandan Knibiehly,---,DE,BEL,---,02:32:01,01:38:56,00:01:34,00:02:08,04:14:39
+ironman-70.3-bahrain-20151205.csv,396,sebastien jaulent,30,Abu dhabi,FRA,---,02:38:39,01:59:50,00:01:28,00:02:07,04:42:04
+ironman-70.3-bahrain-20151205.csv,397,Fawzi M. Al-Qatami,34,Kuwait,KWT,---,02:58:14,02:07:38,00:01:49,00:01:31,05:09:12
+ironman-70.3-bahrain-20151205.csv,398,Karol Puklus,31,Kosice,SVK,---,02:40:43,02:24:51,00:01:53,00:03:53,05:11:20
+ironman-70.3-bahrain-20151205.csv,399,Boris Najafov,33,n/a,AZE,---,03:00:28,02:19:14,00:01:34,00:02:31,05:23:47
+ironman-70.3-bahrain-20151205.csv,401,Ibrahim Touq,32,northen,BHR,---,03:09:15,02:29:10,00:01:27,00:02:02,05:41:54
+ironman-70.3-bahrain-20151205.csv,402,Yousif Zaman,31,Bahrain,BHR,---,02:24:53,01:38:41,00:01:25,00:01:29,04:06:28
+ironman-70.3-bahrain-20151205.csv,403,Mahmood Al Ansari,31,Bahrain,BHR,---,02:53:58,01:53:59,00:01:34,00:01:53,04:51:24
+ironman-70.3-bahrain-20151205.csv,404,Yousef Salman Alghanami,---,EA,SAU,---,02:46:43,02:48:35,00:01:45,00:01:50,05:38:53
+ironman-70.3-bahrain-20151205.csv,405,Abdullatif Althunyan,31,Eastern,SAU,---,02:44:43,02:36:02,00:01:51,00:02:42,05:25:18
+ironman-70.3-bahrain-20151205.csv,407,Omar Abdullah Almarri,---,RI,SAU,---,02:52:41,02:34:47,00:01:49,00:01:50,05:31:07
+ironman-70.3-bahrain-20151205.csv,408,JeanCarl Saliba,31,DXB,LBN,---,03:35:56,02:38:51,00:02:07,00:03:53,06:20:47
+ironman-70.3-bahrain-20151205.csv,409,Eduardo Florencio,31,TE,BRA,---,03:18:06,02:34:29,00:01:43,00:06:19,06:00:37
+ironman-70.3-bahrain-20151205.csv,410,Dmitry Mishanin,33,RIYADH,RUS,---,02:24:56,01:50:37,00:01:21,00:01:14,04:18:08
+ironman-70.3-bahrain-20151205.csv,411,Ahmad Aljarallah,33,---,KWT,---,02:59:19,01:57:25,00:01:38,00:02:34,05:00:56
+ironman-70.3-bahrain-20151205.csv,412,Nicholas Tipper,33,---,GBR,---,02:16:38,01:31:33,00:01:15,00:00:55,03:50:21
+ironman-70.3-bahrain-20151205.csv,414,Ahmed Al Harban,32,Doha,BHR,---,02:55:38,02:06:24,00:01:49,00:01:36,05:05:27
+ironman-70.3-bahrain-20151205.csv,415,Saad Rafia,30,Manama ,BHR,---,02:43:51,02:49:23,00:01:50,00:02:37,05:37:41
+ironman-70.3-bahrain-20151205.csv,418,Alex Harris,34,London,GBR,---,02:27:08,01:48:34,00:01:21,00:01:31,04:18:34
+ironman-70.3-bahrain-20151205.csv,419,Hasan Moosa Redha Ha Alqassab,---,BA,BHR,---,02:34:58,01:56:56,00:01:30,00:01:02,04:34:26
+ironman-70.3-bahrain-20151205.csv,420,Neil Dsouza,31,CA,IND,---,03:00:04,03:11:51,00:01:46,00:03:11,06:16:52
+ironman-70.3-bahrain-20151205.csv,421,Simon Noel,30,DXB,FRA,---,02:35:15,02:00:39,00:01:41,00:01:35,04:39:10
+ironman-70.3-bahrain-20151205.csv,424,Ralph Anthony Reyes,30,Cebu,PHL,---,02:38:22,02:13:21,00:01:34,00:01:29,04:54:46
+ironman-70.3-bahrain-20151205.csv,425,Luke Oung,---,DX,GBR,---,02:35:26,01:31:40,00:01:32,00:01:42,04:10:20
+ironman-70.3-bahrain-20151205.csv,427,Timothy Hawes,34,DXB,GBR,---,02:24:10,01:41:27,00:01:14,00:00:54,04:07:45
+ironman-70.3-bahrain-20151205.csv,428,Roscoe Friend,31,DXB,ZAF,---,02:51:15,02:22:44,00:01:35,00:01:57,05:17:31
+ironman-70.3-bahrain-20151205.csv,430,Danielo Picache,29,Metro Manila,PHL,---,03:36:53,02:47:32,00:01:48,00:01:35,06:27:48
+ironman-70.3-bahrain-20151205.csv,431,Yerzhan Izdikov,31,Almaty,KAZ,---,02:35:14,01:44:47,00:01:32,00:01:18,04:22:51
+ironman-70.3-bahrain-20151205.csv,432,Victor R-Ace Alvarez,---,QA,PHL,---,02:56:14,02:31:26,00:02:09,00:03:47,05:33:36
+ironman-70.3-bahrain-20151205.csv,433,Abdulrahman Alhosani,31,AUH,ARE,---,02:38:59,01:38:29,00:01:36,00:01:04,04:20:08
+ironman-70.3-bahrain-20151205.csv,434,Vladimir Sarybekov,---,AL,KAZ,---,02:46:34,01:49:50,00:01:36,00:01:35,04:39:35
+ironman-70.3-bahrain-20151205.csv,435,Yerzhan Tsenov,33,Almaty,KAZ,---,03:06:37,02:40:30,00:01:52,00:02:10,05:51:09
+ironman-70.3-bahrain-20151205.csv,436,Joel Driscoll,---,BE,GBR,---,02:48:00,01:51:32,00:01:31,00:01:47,04:42:50
+ironman-70.3-bahrain-20151205.csv,437,Arslan Sarybekov,---,AL,KAZ,---,02:44:38,02:03:03,00:01:34,00:01:49,04:51:04
+ironman-70.3-bahrain-20151205.csv,438,David Rochat,32,DXB,CHE,---,---,06:59:46,00:01:22,---,DNF
+ironman-70.3-bahrain-20151205.csv,439,gareth gallagher,34,fermanagh,IRL,---,02:24:52,01:35:52,00:01:42,00:01:15,04:03:41
+ironman-70.3-bahrain-20151205.csv,440,Mohamed Bouzoubaa,33,AUH,MAR,---,03:00:21,02:12:43,00:01:47,00:01:50,05:16:41
+ironman-70.3-bahrain-20151205.csv,442,Ockert Botha,---,MA,ZAF,---,03:25:45,02:52:11,00:01:52,00:03:17,06:23:05
+ironman-70.3-bahrain-20151205.csv,443,Oliver Sorby,33,Wimbledon,GBR,---,02:43:07,01:44:33,00:01:18,00:01:49,04:30:47
+ironman-70.3-bahrain-20151205.csv,444,Bryce Fluker,30,MS,USA,---,02:39:34,01:56:12,00:01:24,00:01:46,04:38:56
+ironman-70.3-bahrain-20151205.csv,445,Andrew Allan Sword,---,MA,IRL,---,02:34:08,01:47:19,00:01:21,00:01:45,04:24:33
+ironman-70.3-bahrain-20151205.csv,446,Hendrik Meiring,---,BA,ZAF,---,02:48:20,01:49:57,00:01:48,00:02:40,04:42:45
+ironman-70.3-bahrain-20151205.csv,447,Dmitry Govorov,33,Manama,RUS,---,02:46:03,02:27:26,00:01:45,00:02:38,05:17:52
+ironman-70.3-bahrain-20151205.csv,448,Anton Vidineev,32,Moskovskaya oblast,RUS,---,02:43:58,02:20:00,00:01:48,00:01:28,05:07:14
+ironman-70.3-bahrain-20151205.csv,449,Marco Albrecht,31,UAE,DEU,---,02:28:49,01:55:46,00:01:24,00:01:32,04:27:31
+ironman-70.3-bahrain-20151205.csv,451,Graham Crammond,32,Tyne & wear,GBR,---,02:10:16,01:29:03,00:01:12,00:00:50,03:41:21
+ironman-70.3-bahrain-20151205.csv,452,Matthieu Prouillac,33,DXB,FRA,---,02:26:45,01:34:42,00:01:46,00:01:04,04:04:17
+ironman-70.3-bahrain-20151205.csv,454,Dmitry MELNIKOV,31,---,RUS,---,02:37:58,02:00:42,00:01:27,00:02:40,04:42:47
+ironman-70.3-bahrain-20151205.csv,455,Bruno Morand,33,---,BRA,---,02:37:15,02:00:51,00:01:32,00:02:04,04:41:42
+ironman-70.3-bahrain-20151205.csv,457,Alberto Massola,---,IT,ITA,---,02:42:23,01:52:51,00:01:30,00:01:11,04:37:55
+ironman-70.3-bahrain-20151205.csv,458,Manuel Javier Fernandez,30,---,ESP,---,02:14:36,01:30:33,00:01:18,00:00:49,03:47:16
+ironman-70.3-bahrain-20151205.csv,459,Pablo Guardiola Molla,34,RIYADH,PYF,---,02:53:56,03:00:59,00:01:46,00:04:44,06:01:25
+ironman-70.3-bahrain-20151205.csv,460,Eduard Bezuglov,---,MO,RUS,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20151205.csv,461,Mohamed Alrowaili,---,NO,BHR,---,02:47:58,02:02:52,00:01:54,00:01:47,04:54:31
+ironman-70.3-bahrain-20151205.csv,462,Pavel Golikov,29,Eastern province,RUS,---,02:29:24,01:55:10,00:01:29,00:01:33,04:27:36
+ironman-70.3-bahrain-20151205.csv,463,Mohammed Aljarallah,32,---,KWT,---,03:12:43,02:19:16,00:01:54,00:02:12,05:36:05
+ironman-70.3-bahrain-20151205.csv,464,Luis Sanchez,30,ES,ESP,---,02:19:15,01:41:27,00:01:57,00:01:32,04:04:11
+ironman-70.3-bahrain-20151205.csv,465,Christophe Dicranian,34,---,FRA,---,02:17:41,01:46:52,00:01:23,00:01:32,04:07:28
+ironman-70.3-bahrain-20151205.csv,466,Liam Smith,29,Somerset,GBR,---,02:50:22,02:29:50,00:01:37,00:01:58,05:23:47
+ironman-70.3-bahrain-20151205.csv,467,Olzhas Kerimkulov,31,Almaty,KAZ,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20151205.csv,468,Paulinius Laurico,34,---,PHL,---,03:02:25,02:14:13,00:01:59,00:02:34,05:21:11
+ironman-70.3-bahrain-20151205.csv,469,Mohamed Belal Aliy,---,DX,ARE,---,02:14:48,01:26:28,00:01:25,00:01:14,03:43:55
+ironman-70.3-bahrain-20151205.csv,470,Salem Aldosary,33,Other,ARE,---,02:18:08,01:33:32,00:01:26,00:01:13,03:54:19
+ironman-70.3-bahrain-20151205.csv,471,Mohsen Al Ali,33,---,ARE,---,02:28:23,01:39:16,00:01:24,00:00:54,04:09:57
+ironman-70.3-bahrain-20151205.csv,472,Luke Mathews,30,Lincolnshire,GBR,---,02:14:53,01:26:27,00:01:12,00:00:50,03:43:22
+ironman-70.3-bahrain-20151205.csv,473,Mikel Calahorra,32,RIFFA,BHR,---,02:19:01,01:46:58,00:01:16,00:01:27,04:08:42
+ironman-70.3-bahrain-20151205.csv,474,Belal Hassan,31,Egypt,EGY,---,02:30:41,01:45:21,00:01:21,00:01:13,04:18:36
+ironman-70.3-bahrain-20151205.csv,476,Olivier Gemayel,38,Lebanon,LBN,---,02:24:07,01:58:14,00:01:37,00:01:29,04:25:27
+ironman-70.3-bahrain-20151205.csv,477,Tito Rodriguez,37,Kuwait,ESP,---,02:36:51,01:40:15,00:01:22,00:01:29,04:19:57
+ironman-70.3-bahrain-20151205.csv,479,Vincent Barouki,36,Baabda,LBN,---,02:39:14,02:04:06,00:01:55,00:01:46,04:47:01
+ironman-70.3-bahrain-20151205.csv,480,Christophe Roux,37,DXB,FRA,---,02:38:28,01:57:22,00:01:36,00:01:38,04:39:04
+ironman-70.3-bahrain-20151205.csv,482,Hector Hernandez,37,Qatar,PHL,---,02:42:57,02:45:05,00:01:56,00:02:42,05:32:40
+ironman-70.3-bahrain-20151205.csv,483,Ahmed KHalifa,37,---,EGY,---,02:47:26,02:15:48,00:01:34,00:01:45,05:06:33
+ironman-70.3-bahrain-20151205.csv,484,Osama Al-Adhamy,37,DXB,ARE,---,02:24:20,01:50:30,00:01:21,00:01:49,04:18:00
+ironman-70.3-bahrain-20151205.csv,485,Kenneth Heney,39,DXB,GBR,---,02:26:38,01:44:47,00:01:31,00:00:40,04:13:36
+ironman-70.3-bahrain-20151205.csv,486,Hussain Alqallaf,36,Kuwait City,KWT,---,02:33:30,01:47:16,00:01:41,00:01:44,04:24:11
+ironman-70.3-bahrain-20151205.csv,488,Derek Brady,35,Qatar,IRL,---,02:18:39,01:48:41,00:01:22,00:01:59,04:10:41
+ironman-70.3-bahrain-20151205.csv,490,Michel Matta,---,BE,LBN,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20151205.csv,491,Jesse Izdepski,---,AE,USA,---,03:03:39,02:05:32,00:01:42,00:02:36,05:13:29
+ironman-70.3-bahrain-20151205.csv,492,Kevin Orlandi,34,---,FRA,---,02:09:40,01:29:32,00:01:12,00:01:07,03:41:31
+ironman-70.3-bahrain-20151205.csv,493,Abdullah Alsharhan,35,Other,KWT,---,02:23:27,01:42:19,00:01:36,00:01:40,04:09:02
+ironman-70.3-bahrain-20151205.csv,494,Mohammed Al Khalifa,35,bahrain,BHR,---,03:14:39,02:01:46,00:02:09,00:02:52,05:21:26
+ironman-70.3-bahrain-20151205.csv,495,Ali Humaidan,35,Isa Town,BHR,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20151205.csv,496,Amer Ebrahim,---,---,BHR,---,02:43:53,01:45:03,00:01:30,00:02:07,04:32:33
+ironman-70.3-bahrain-20151205.csv,497,Ahmed Yaqoob Nass,---,MA,BHR,---,02:56:49,02:20:16,00:02:07,00:04:20,05:23:32
+ironman-70.3-bahrain-20151205.csv,499,Khalid Al Khalifa,39,Riffa,BHR,---,02:49:14,02:01:24,00:01:29,00:01:49,04:53:56
+ironman-70.3-bahrain-20151205.csv,500,Saad Abdulaziz Bojlia,34,EA,SAU,---,02:35:12,02:14:56,00:01:36,00:02:38,04:54:22
+ironman-70.3-bahrain-20151205.csv,502,Mazen Akhdar,36,Makkah / Western,SAU,---,02:37:52,02:05:36,00:01:39,00:01:10,04:46:17
+ironman-70.3-bahrain-20151205.csv,503,Mubarak Mohammed,39,Hamad town,BHR,---,02:52:14,02:02:43,00:01:25,00:03:20,04:59:42
+ironman-70.3-bahrain-20151205.csv,505,Robin Holden,36,---,GBR,---,02:50:05,02:26:03,00:01:51,00:03:10,05:21:09
+ironman-70.3-bahrain-20151205.csv,506,Amin Soltani,36,DXB,GBR,---,02:49:50,02:48:41,00:02:02,00:01:45,05:42:18
+ironman-70.3-bahrain-20151205.csv,507,Jonathan Batusbatusan,36,"San Pedro, Laguna",PHL,---,02:39:40,02:02:44,00:01:33,00:02:13,04:46:10
+ironman-70.3-bahrain-20151205.csv,508,ALI ALSHEHRI,39,EA,SAU,---,03:17:37,02:39:22,00:01:55,00:04:16,06:03:10
+ironman-70.3-bahrain-20151205.csv,509,Edward Sampelo,38,doha,PHL,---,02:53:19,02:40:14,00:01:37,00:02:17,05:37:27
+ironman-70.3-bahrain-20151205.csv,510,Julius Imperial,37,AUH,PHL,---,02:40:52,02:01:14,00:01:45,00:03:21,04:47:12
+ironman-70.3-bahrain-20151205.csv,511,Miguel Pujals,---,DO,ESP,---,03:15:34,02:14:28,00:01:38,00:02:33,05:34:13
+ironman-70.3-bahrain-20151205.csv,514,Keith Dunham,37,West Bay,GBR,---,02:57:34,01:59:51,00:01:35,00:01:37,05:00:37
+ironman-70.3-bahrain-20151205.csv,517,Manuel Ocampo,35,QATAR,PHL,---,03:08:35,02:32:00,00:01:58,00:04:45,05:47:18
+ironman-70.3-bahrain-20151205.csv,519,Chris Seeley,37,DXB,GBR,---,02:45:26,01:46:12,00:01:30,00:01:17,04:34:25
+ironman-70.3-bahrain-20151205.csv,520,Bradley Dyck,36,AB,CAN,---,03:09:53,02:33:06,00:01:43,00:05:16,05:49:58
+ironman-70.3-bahrain-20151205.csv,522,Shaker Haji,39,Manama,BHR,---,02:56:05,02:18:33,00:01:45,00:03:02,05:19:25
+ironman-70.3-bahrain-20151205.csv,523,Jordan Meintjes,36,Other,ZAF,---,02:47:52,02:05:28,00:01:42,00:02:20,04:57:22
+ironman-70.3-bahrain-20151205.csv,524,Adam Tanner,37,---,GBR,---,02:18:20,01:30:19,00:01:25,00:01:05,03:51:09
+ironman-70.3-bahrain-20151205.csv,525,George Baaklini,38,LBN ,LBN,---,02:45:04,02:09:24,00:01:52,00:01:28,04:57:48
+ironman-70.3-bahrain-20151205.csv,526,Raul Minarro Palacios,37,RIYADH,ESP,---,02:25:52,01:57:49,00:01:39,00:01:39,04:26:59
+ironman-70.3-bahrain-20151205.csv,527,Gareth Hall,37,QLD,AUS,---,02:25:46,01:38:43,00:01:28,00:02:01,04:07:58
+ironman-70.3-bahrain-20151205.csv,529,Rabih Farsoun,---,BE,LBN,---,02:44:40,01:54:46,00:01:50,00:02:32,04:43:48
+ironman-70.3-bahrain-20151205.csv,534,Manish Sethi,35,DXB,GBR,---,02:57:57,02:00:01,00:01:41,00:01:56,05:01:35
+ironman-70.3-bahrain-20151205.csv,539,Nick Parris,39,---,GBR,---,02:21:32,01:46:19,00:01:37,00:01:12,04:10:40
+ironman-70.3-bahrain-20151205.csv,541,Kieren Hanlon,35,Merseyside,GBR,---,02:58:18,02:29:15,00:01:28,00:02:19,05:31:20
+ironman-70.3-bahrain-20151205.csv,543,Graham Brown,36,Kuwait,GBR,---,03:07:34,03:21:13,00:01:41,00:02:09,06:32:37
+ironman-70.3-bahrain-20151205.csv,544,Rinat Mustafina,---,DXB,RUS,---,02:28:29,01:41:39,00:01:32,00:01:19,04:12:59
+ironman-70.3-bahrain-20151205.csv,545,Grant Lemuel Ang,35,---,PHL,---,02:41:33,02:12:26,00:01:51,00:01:15,04:57:05
+ironman-70.3-bahrain-20151205.csv,546,Asset Seitmagambetov,35,---,KAZ,---,03:04:07,02:15:50,00:01:31,00:01:53,05:23:21
+ironman-70.3-bahrain-20151205.csv,547,Maksut Zhumayev,---,AL,KAZ,---,03:04:08,02:15:50,00:01:32,00:01:51,05:23:21
+ironman-70.3-bahrain-20151205.csv,548,Gary Cummings,36,Other,GBR,---,02:38:17,01:32:46,00:01:28,00:01:52,04:14:23
+ironman-70.3-bahrain-20151205.csv,550,Will Newbery,37,Hants,GBR,---,02:12:47,01:24:10,00:01:09,00:00:46,03:38:52
+ironman-70.3-bahrain-20151205.csv,551,Fernando Araga,36,AUH,PHL,---,03:06:09,02:16:01,00:01:52,00:03:14,05:27:16
+ironman-70.3-bahrain-20151205.csv,552,Christian Scaccianoce,37,Dorset,ITA,---,02:23:02,01:50:57,00:01:28,00:01:21,04:16:48
+ironman-70.3-bahrain-20151205.csv,554,Enrico Schmöller,37,---,DEU,---,02:13:25,01:27:01,00:01:28,00:01:03,03:42:57
+ironman-70.3-bahrain-20151205.csv,555,Ozgur Aksaman,36,TURKIYE,TUR,---,02:47:46,02:19:31,00:01:43,00:01:47,05:10:47
+ironman-70.3-bahrain-20151205.csv,556,Flavien Jourdain,39,France,FRA,---,02:25:57,01:34:39,00:01:18,00:01:02,04:02:56
+ironman-70.3-bahrain-20151205.csv,557,Youns El Khalifa,36,---,MAR,---,03:07:25,02:08:40,00:01:39,00:02:56,05:20:40
+ironman-70.3-bahrain-20151205.csv,558,Michalis Moisiadis,39,PIRAEUS,GRC,---,03:02:25,02:13:01,00:02:13,00:04:34,05:22:13
+ironman-70.3-bahrain-20151205.csv,559,Harry Goodson-Wickes,37,Other,GBR,---,02:37:29,02:10:47,00:01:43,00:01:42,04:51:41
+ironman-70.3-bahrain-20151205.csv,560,Declan Gaynor,---,AM,IRL,---,02:48:41,01:47:59,00:01:23,00:03:02,04:41:05
+ironman-70.3-bahrain-20151205.csv,562,Nader Dandachi,38,ACT,LBN,---,02:33:57,02:16:31,00:01:29,00:01:39,04:53:36
+ironman-70.3-bahrain-20151205.csv,563,Clarke Morton-Shepherd,38,Other,GBR,---,02:15:54,01:37:42,00:01:24,00:01:24,03:56:24
+ironman-70.3-bahrain-20151205.csv,564,Sitemkar Bolsoy,39,Seyhan,TUR,---,02:24:50,01:36:19,00:01:27,00:01:20,04:03:56
+ironman-70.3-bahrain-20151205.csv,565,Ahmed Al Malki,38,Muscat,OMN,---,02:52:34,02:08:22,00:02:13,00:01:28,05:04:37
+ironman-70.3-bahrain-20151205.csv,567,Kristian Syson,38,00000,GBR,---,02:54:53,02:32:41,00:01:48,00:03:34,05:32:56
+ironman-70.3-bahrain-20151205.csv,568,Joe Dalton,37,None,IRL,---,03:02:45,02:10:32,00:01:38,00:01:32,05:16:27
+ironman-70.3-bahrain-20151205.csv,569,Andrew Turner,35,Other,GBR,---,02:16:12,01:32:35,00:01:22,00:00:49,03:50:58
+ironman-70.3-bahrain-20151205.csv,570,Michael Craven,37,manama,IRL,---,02:34:28,01:58:04,00:01:49,00:02:39,04:37:00
+ironman-70.3-bahrain-20151205.csv,571,john denning,---,Qatar,GBR,---,02:51:37,01:55:48,00:01:25,00:01:05,04:49:55
+ironman-70.3-bahrain-20151205.csv,572,Antonio Ribeiro,35,Other,PRT,---,02:52:43,02:29:03,00:01:32,00:01:53,05:25:11
+ironman-70.3-bahrain-20151205.csv,573,Stefan Schwarzgruber,39,---,AUT,---,02:35:57,02:23:50,00:01:38,00:01:28,05:02:53
+ironman-70.3-bahrain-20151205.csv,575,Yury Popov,39,Moscow,RUS,---,02:37:58,01:47:36,00:01:31,00:01:40,04:28:45
+ironman-70.3-bahrain-20151205.csv,576,Haythem El-Ansary,37,---,AUS,---,02:25:11,01:52:03,00:01:26,00:01:09,04:19:49
+ironman-70.3-bahrain-20151205.csv,578,jamie groom,38,NA,IRL,---,02:39:05,02:20:17,00:01:36,00:01:49,05:02:47
+ironman-70.3-bahrain-20151205.csv,579,David Gallarato,---,IT,ITA,---,02:26:11,01:48:51,00:01:31,00:01:26,04:17:59
+ironman-70.3-bahrain-20151205.csv,580,Dirk Koehler,39,---,DEU,---,02:10:28,01:32:05,00:01:27,00:01:19,03:45:19
+ironman-70.3-bahrain-20151205.csv,581,Craig Broome,35,Kuwait,GBR,---,02:31:52,02:08:44,00:01:28,00:01:35,04:43:39
+ironman-70.3-bahrain-20151205.csv,582,Piotr Grupinski,39,mazowieckie,POL,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20151205.csv,583,Sergio De Luca,---,IT,ITA,---,02:39:39,01:57:17,00:01:41,00:01:54,04:40:31
+ironman-70.3-bahrain-20151205.csv,584,David Cunningham,---,CH,IRL,---,02:28:31,01:54:45,00:01:36,00:01:19,04:26:11
+ironman-70.3-bahrain-20151205.csv,585,Thomas Brackmann,38,Riyadh,DEU,---,02:33:12,01:49:38,00:01:59,00:01:29,04:26:18
+ironman-70.3-bahrain-20151205.csv,586,Brian Andersen,37,NC,USA,---,03:23:50,02:43:40,00:01:43,00:05:53,06:15:06
+ironman-70.3-bahrain-20151205.csv,587,Hatem Elsafty,36,NA,EGY,---,03:17:21,02:09:34,00:01:36,00:01:30,05:30:01
+ironman-70.3-bahrain-20151205.csv,588,Robin Card,---,AU,GBR,---,02:29:54,01:44:24,00:01:36,00:01:58,04:17:52
+ironman-70.3-bahrain-20151205.csv,589,Brett Girven,36,---,NZL,---,02:20:56,01:54:44,00:01:32,00:01:34,04:18:46
+ironman-70.3-bahrain-20151205.csv,590,Andreas Sellin,36,---,SWE,---,02:29:58,01:50:12,00:01:46,00:01:43,04:23:39
+ironman-70.3-bahrain-20151205.csv,591,Adelfo Paredes,38,---,MEX,---,03:20:08,02:13:28,00:02:14,00:02:31,05:38:21
+ironman-70.3-bahrain-20151205.csv,593,Nawaf Alabduljader,37,---,KWT,---,03:09:42,03:08:37,00:01:43,00:05:50,06:25:52
+ironman-70.3-bahrain-20151205.csv,594,Phil Solarski,37,Amwaj Islands,GBR,---,02:40:13,01:41:02,00:01:31,00:02:26,04:25:12
+ironman-70.3-bahrain-20151205.csv,595,Marc Prudhomme,35,Mahooz,CAN,---,02:58:40,02:58:51,00:01:44,00:03:02,06:02:17
+ironman-70.3-bahrain-20151205.csv,596,Jamie Charlesworth,---,BL,GBR,---,02:52:57,02:22:11,00:01:47,00:01:56,05:18:51
+ironman-70.3-bahrain-20151205.csv,597,Tomokazu Toyoumi,38,Manama,JPN,---,02:42:41,01:43:12,00:01:31,00:03:41,04:31:05
+ironman-70.3-bahrain-20151205.csv,598,Paul Craig,37,Lancs,GBR,---,02:21:49,01:44:05,00:01:27,00:01:10,04:08:31
+ironman-70.3-bahrain-20151205.csv,599,Dani Afiouni,35,DXB,LBN,---,03:25:23,02:31:00,00:02:01,00:06:07,06:04:31
+ironman-70.3-bahrain-20151205.csv,600,Grant Nash,39,AUH,ZAF,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20151205.csv,601,Tom Balmer,36,Please select,GBR,---,02:55:11,02:54:41,00:01:33,00:03:08,05:54:33
+ironman-70.3-bahrain-20151205.csv,602,Vladimir Komarov,36,Ru,RUS,---,02:41:04,02:10:10,00:01:36,00:01:49,04:54:39
+ironman-70.3-bahrain-20151205.csv,603,David Vicario Lara,---,ES,ESP,---,03:16:49,02:27:20,00:02:00,00:04:12,05:50:21
+ironman-70.3-bahrain-20151205.csv,604,Charles Fraser,38,bahrain,NZL,---,02:40:43,01:54:17,00:02:00,00:01:43,04:38:43
+ironman-70.3-bahrain-20151205.csv,605,Adam Wilkes,38,Other,GBR,---,02:44:32,01:55:14,00:01:40,---,04:41:26
+ironman-70.3-bahrain-20151205.csv,606,Simone Camposeranio,37,DXB,ITA,---,02:49:16,02:06:14,00:01:45,00:02:03,04:59:18
+ironman-70.3-bahrain-20151205.csv,607,Anthony Manabat,36,Central,PHL,---,02:36:41,02:32:03,00:01:56,00:03:41,05:14:21
+ironman-70.3-bahrain-20151205.csv,608,Jeroen Van Willigen,---,AM,NLD,---,02:40:43,01:49:48,00:01:18,00:01:49,04:33:38
+ironman-70.3-bahrain-20151205.csv,609,Toni Junghaenel,---,DX,DEU,---,02:31:00,02:11:45,00:01:41,00:01:25,04:45:51
+ironman-70.3-bahrain-20151205.csv,610,Michael Santos,37,DO,PHL,---,02:47:28,02:39:22,00:01:35,00:02:15,05:30:40
+ironman-70.3-bahrain-20151205.csv,611,Abdellatif Elghaish,36,Qatar,EGY,---,03:03:57,02:12:55,00:01:59,00:02:41,05:21:32
+ironman-70.3-bahrain-20151205.csv,612,Matteo Cantieri,38,Bologna,ITA,---,02:29:10,01:58:24,00:01:35,00:00:55,04:30:04
+ironman-70.3-bahrain-20151205.csv,613,Joe Max Villarico,37,---,PHL,---,02:26:36,02:14:48,00:01:37,00:01:45,04:44:46
+ironman-70.3-bahrain-20151205.csv,614,Mohamed Mehaier Almuhairi,---,DX,ARE,---,02:57:46,02:14:53,00:01:41,00:02:10,05:16:30
+ironman-70.3-bahrain-20151205.csv,615,Mohammed Alqassar,38,Kuwait,KWT,---,02:46:45,02:27:48,00:01:57,00:01:54,05:18:24
+ironman-70.3-bahrain-20151205.csv,616,Ahmad Alfahim,35,DXB,ARE,---,02:34:52,01:49:52,00:01:36,00:01:15,DNF
+ironman-70.3-bahrain-20151205.csv,617,Ahmed Jbar,38,Other,ARE,---,02:39:32,01:44:27,00:01:31,00:01:55,04:27:25
+ironman-70.3-bahrain-20151205.csv,618,Abdulla Abdulsalam,38,Muharraq,BHR,---,02:48:16,02:45:08,00:01:46,00:02:43,05:37:53
+ironman-70.3-bahrain-20151205.csv,619,Nuri Acar,39,ANTALYA,TUR,---,02:10:15,01:24:18,00:01:27,00:01:38,03:37:38
+ironman-70.3-bahrain-20151205.csv,621,Hasan Itani,44,DXB,LBN,---,02:28:55,01:46:24,00:01:32,00:01:26,04:18:17
+ironman-70.3-bahrain-20151205.csv,623,Pedro Usero,44,Doha,PHL,---,03:08:49,02:24:58,00:02:14,00:03:57,05:39:58
+ironman-70.3-bahrain-20151205.csv,624,Bertrand Fattal,41,Beirut,LBN,---,02:58:37,03:27:47,00:02:10,00:02:08,06:30:42
+ironman-70.3-bahrain-20151205.csv,626,Warren Sheard,---,WE,GBR,---,03:04:01,02:09:00,00:01:47,00:02:47,05:17:35
+ironman-70.3-bahrain-20151205.csv,630,Bader Alkhalifa,41,Southern,BHR,---,03:01:15,02:29:43,00:01:49,00:02:58,05:35:45
+ironman-70.3-bahrain-20151205.csv,631,Osama Al Moayed,---,BA,BHR,---,03:07:32,02:12:38,00:01:42,00:01:10,05:23:02
+ironman-70.3-bahrain-20151205.csv,632,Mohammed Ghuloom Hussain,---,HA,BHR,---,03:07:05,02:26:05,00:01:42,00:01:34,05:36:26
+ironman-70.3-bahrain-20151205.csv,634,Nasser Almmohannadi,40,QATAR,QAT,---,02:50:54,02:02:49,00:01:56,00:01:18,04:56:57
+ironman-70.3-bahrain-20151205.csv,635,Jameel Jassim,44,Jidhafs,BHR,---,02:35:02,01:59:44,00:01:50,00:02:25,04:39:01
+ironman-70.3-bahrain-20151205.csv,636,Robert Marsland,40,Cheshire,GBR,---,02:57:01,02:26:24,00:01:50,00:02:20,05:27:35
+ironman-70.3-bahrain-20151205.csv,638,Radek Podracky,44,DXB,CZE,---,02:30:56,02:00:08,00:01:24,00:01:56,04:34:24
+ironman-70.3-bahrain-20151205.csv,639,Nikhil Raghavan,41,MH,IND,---,03:01:13,01:47:25,00:01:47,00:01:49,04:52:14
+ironman-70.3-bahrain-20151205.csv,640,Andrew Thackray,40,Norfolk ,GBR,---,02:57:41,02:16:01,00:01:57,00:06:57,05:22:36
+ironman-70.3-bahrain-20151205.csv,645,Stephen Allen,41,Manama,GBR,---,02:31:39,02:09:18,00:01:56,00:01:27,04:44:20
+ironman-70.3-bahrain-20151205.csv,646,Mike Canning,40,Intl State,GBR,---,02:48:33,02:17:08,00:02:16,00:02:06,05:10:03
+ironman-70.3-bahrain-20151205.csv,647,Jaynald Canaria,41,Mesaieed,PHL,---,02:42:43,01:58:02,00:01:42,00:01:56,04:44:23
+ironman-70.3-bahrain-20151205.csv,648,Paolo Volani,41,DXB,ITA,---,02:29:43,01:54:14,00:01:29,00:01:00,04:26:26
+ironman-70.3-bahrain-20151205.csv,650,James Tracey,43,Other,IRL,---,02:43:53,02:12:30,00:01:55,00:03:57,05:02:15
+ironman-70.3-bahrain-20151205.csv,651,Jan Gremmen,42,DXB,NLD,---,02:32:23,01:46:35,00:01:52,00:01:48,04:22:38
+ironman-70.3-bahrain-20151205.csv,652,Ronnie De Pryck,41,DXB,LUX,---,02:27:00,01:49:31,00:01:38,00:01:56,04:20:05
+ironman-70.3-bahrain-20151205.csv,653,Rolf Asmund,40,---,DNK,---,02:41:08,01:51:50,00:01:38,00:02:36,04:37:12
+ironman-70.3-bahrain-20151205.csv,654,Hamid Belkebir,---,DX,DZA,---,02:45:20,02:11:31,00:01:36,00:01:28,04:59:55
+ironman-70.3-bahrain-20151205.csv,655,Mark Fourie,42,Other,ZAF,---,02:24:24,01:55:52,00:01:50,00:01:28,04:23:34
+ironman-70.3-bahrain-20151205.csv,657,Flemming Christensen,43,DXB,DNK,---,02:23:50,01:44:10,00:01:34,00:01:27,04:11:01
+ironman-70.3-bahrain-20151205.csv,658,Wyatt Franz,43,AZ,USA,---,02:45:30,02:22:27,00:01:36,00:03:11,05:12:44
+ironman-70.3-bahrain-20151205.csv,659,Patrick Moore,---,NJ,USA,---,03:00:44,03:09:39,00:02:46,00:09:11,06:22:20
+ironman-70.3-bahrain-20151205.csv,661,Has Al Akwa,40,EASTERN ,PAK,---,03:09:18,02:49:07,00:03:45,00:03:54,06:06:04
+ironman-70.3-bahrain-20151205.csv,663,Rex Deleon,44,CA,USA,---,03:07:11,02:35:50,00:01:59,00:01:31,05:46:31
+ironman-70.3-bahrain-20151205.csv,665,Don Francis,42,Al Waab ,USA,---,02:58:53,02:10:33,00:01:39,00:02:13,05:13:18
+ironman-70.3-bahrain-20151205.csv,666,Bora Yücel,39,Marmara,TUR,---,02:36:24,01:58:46,00:01:41,00:01:50,04:38:41
+ironman-70.3-bahrain-20151205.csv,668,Aydonat Atasever,42,kadikoy,TUR,---,02:47:40,02:19:29,00:01:42,00:01:54,05:10:45
+ironman-70.3-bahrain-20151205.csv,669,Courbon Laurent,43,FR,FRA,---,02:19:48,01:41:16,00:01:26,00:01:38,04:04:08
+ironman-70.3-bahrain-20151205.csv,670,Carl Stamer,43,---,DEU,---,02:49:11,02:15:14,00:01:45,00:02:34,05:08:44
+ironman-70.3-bahrain-20151205.csv,671,Suleiman Al-Alawi,---,11,OMN,---,02:33:52,01:50:11,00:01:26,00:02:19,04:27:48
+ironman-70.3-bahrain-20151205.csv,672,Michalis Mourtzis,40,Piraeus,GRC,---,03:02:28,02:13:01,00:02:07,00:04:37,05:22:13
+ironman-70.3-bahrain-20151205.csv,673,Frederic Lemaire,42,---,FRA,---,02:35:17,01:44:34,00:01:46,00:01:39,04:23:16
+ironman-70.3-bahrain-20151205.csv,675,Stephen Anderson,41,Surrey,QAT,---,02:28:13,01:35:56,00:01:37,00:01:47,04:07:33
+ironman-70.3-bahrain-20151205.csv,676,Simon Bromyard,---,SA,GBR,---,03:03:19,---,00:01:43,---,DNF
+ironman-70.3-bahrain-20151205.csv,677,Johannes Glas,42,Al Markh,DEU,---,02:56:23,02:17:32,00:01:52,00:02:11,05:17:58
+ironman-70.3-bahrain-20151205.csv,678,Alex Holzinger-Elias,---,AL,DEU,---,02:25:11,01:51:09,00:02:05,00:01:52,04:20:17
+ironman-70.3-bahrain-20151205.csv,679,Matthew Rushton,40,Kingdon of Bahrain,ZAF,---,02:33:16,02:05:34,00:01:34,00:01:21,04:41:45
+ironman-70.3-bahrain-20151205.csv,680,Paul Millington,---,MA,BHR,---,02:56:34,02:01:32,00:01:48,00:03:43,05:03:37
+ironman-70.3-bahrain-20151205.csv,681,Alif Ruzuar,41,---,IDN,---,02:54:17,02:20:49,00:01:47,00:01:42,05:18:35
+ironman-70.3-bahrain-20151205.csv,682,Piotr Kosno,43,---,POL,---,03:09:57,02:18:37,00:01:46,00:04:46,05:35:06
+ironman-70.3-bahrain-20151205.csv,684,Mark Little,44,---,GBR,---,02:34:05,01:51:24,00:01:38,00:01:26,04:28:33
+ironman-70.3-bahrain-20151205.csv,685,jean-reynald millot,44,---,FRA,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20151205.csv,686,Baris Sinan Ural,43,Manama,TUR,---,03:45:35,02:24:59,00:01:52,00:01:33,06:13:59
+ironman-70.3-bahrain-20151205.csv,687,Michael Schaadt,40,NY,DNK,---,02:47:26,02:00:15,00:01:48,00:02:39,04:52:08
+ironman-70.3-bahrain-20151205.csv,689,Bradley Manser,44,Other,ZAF,---,02:41:56,02:23:15,00:02:01,00:02:07,05:09:19
+ironman-70.3-bahrain-20151205.csv,691,Gyula Szabo,43,Pest,HUN,---,02:24:08,01:39:49,00:01:18,00:01:36,04:06:51
+ironman-70.3-bahrain-20151205.csv,692,Reden Garcia,43,Doha,PHL,---,03:11:38,03:29:00,00:01:56,00:01:57,06:44:31
+ironman-70.3-bahrain-20151205.csv,693,Matteo Fransos,---,IT,ITA,---,02:39:47,01:42:56,00:01:32,00:01:06,04:25:21
+ironman-70.3-bahrain-20151205.csv,694,Krzysztof Zamasz,38,---,POL,---,03:04:14,02:11:41,00:01:46,00:02:49,05:20:30
+ironman-70.3-bahrain-20151205.csv,695,Alfons Vinent,---,EA,AND,---,02:46:40,02:11:49,00:01:31,00:01:47,05:01:47
+ironman-70.3-bahrain-20151205.csv,696,Fabio Schuler,40,---,BRA,---,02:35:08,01:51:35,00:01:20,00:01:05,04:29:08
+ironman-70.3-bahrain-20151205.csv,697,Maciej Belski,43,---,POL,---,02:29:25,---,00:01:22,00:01:36,DNF
+ironman-70.3-bahrain-20151205.csv,698,Nick Valsamidis,---,ZO,GRC,---,02:46:00,02:45:59,00:02:06,00:03:00,05:37:05
+ironman-70.3-bahrain-20151205.csv,699,Juan Jose Somoza,44,Doha,VEN,---,02:39:23,02:00:58,00:01:35,00:01:57,04:43:53
+ironman-70.3-bahrain-20151205.csv,700,Jacek Podoba,44,Warszawa,POL,---,02:19:56,01:29:56,00:01:18,00:00:51,03:52:01
+ironman-70.3-bahrain-20151205.csv,701,Janne Block,42,---,SWE,---,02:31:33,01:57:47,00:01:37,00:01:30,04:32:27
+ironman-70.3-bahrain-20151205.csv,702,Kristoffer Ahlin,43,---,SWE,---,02:15:43,01:31:22,00:01:26,00:01:29,03:50:00
+ironman-70.3-bahrain-20151205.csv,703,Robert Khoury,44,Doha,LBN,---,02:54:06,03:00:35,00:02:01,00:01:43,05:58:25
+ironman-70.3-bahrain-20151205.csv,704,David Mcnamara,42,West Yorkshire,GBR,---,02:39:07,03:09:25,00:01:41,00:01:25,05:51:38
+ironman-70.3-bahrain-20151205.csv,705,Aldin Malik,40,---,IDN,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20151205.csv,706,Verdy Siregar,44,Eastern Province,IDN,---,03:14:50,02:39:00,00:02:04,---,05:55:54
+ironman-70.3-bahrain-20151205.csv,707,Fredrik Modin,44,SE,SWE,---,02:21:00,01:49:49,00:01:29,00:01:23,04:13:41
+ironman-70.3-bahrain-20151205.csv,708,Nick Williamson,40,---,GBR,---,02:36:02,01:28:07,00:01:44,00:01:28,04:07:21
+ironman-70.3-bahrain-20151205.csv,709,Daniel Walker,43,---,GBR,---,02:59:58,02:44:05,00:02:05,00:02:34,05:48:42
+ironman-70.3-bahrain-20151205.csv,710,Ernesto Gomez Gonzalez,41,Eastern,VEN,---,03:36:10,02:26:05,00:01:58,00:02:21,06:06:34
+ironman-70.3-bahrain-20151205.csv,711,Daniel Henggeler,43,---,CHE,---,02:25:17,01:35:25,00:01:52,00:01:17,04:03:51
+ironman-70.3-bahrain-20151205.csv,712,Martin Flüeler,43,---,CHE,---,02:27:13,01:31:50,00:01:35,00:01:16,04:01:54
+ironman-70.3-bahrain-20151205.csv,713,Jonathan Baron,41,---,GBR,---,02:42:40,01:52:14,00:01:55,00:03:10,04:39:59
+ironman-70.3-bahrain-20151205.csv,714,Fabrice Peyrin,41,PEARL,FRA,---,02:53:38,02:21:09,00:01:37,00:01:23,05:17:47
+ironman-70.3-bahrain-20151205.csv,715,Warren Blore,43,Saar,AUS,---,02:51:36,01:59:30,00:01:47,00:02:41,04:55:34
+ironman-70.3-bahrain-20151205.csv,716,Tim O'Donnell,---,SA,ZAF,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20151205.csv,717,Enrique Fajardo Liaño,---,ES,ESP,---,02:48:39,02:01:48,00:01:51,00:05:42,04:58:00
+ironman-70.3-bahrain-20151205.csv,718,Kolja Koracak,41,Seef,HRV,---,02:37:21,02:19:50,00:01:36,00:01:45,05:00:32
+ironman-70.3-bahrain-20151205.csv,719,Yanick Cote,39,Doha,CAN,---,02:21:51,01:37:38,00:01:18,00:01:27,04:02:14
+ironman-70.3-bahrain-20151205.csv,720,Kai Khalid Bin Miethig,---,MA,DEU,---,03:05:21,02:35:24,00:01:36,00:01:55,05:44:16
+ironman-70.3-bahrain-20151205.csv,721,Erwin Ladim,42,---,PHL,---,03:11:08,03:20:53,00:01:56,00:02:50,06:36:47
+ironman-70.3-bahrain-20151205.csv,722,Ariel Delmoro,---,LA,PHL,---,03:00:21,02:12:19,00:03:41,00:03:53,05:20:14
+ironman-70.3-bahrain-20151205.csv,725,Alex Gibbs,---,---,GBR,---,02:44:43,02:00:15,00:01:34,00:01:12,04:47:44
+ironman-70.3-bahrain-20151205.csv,726,AliRiza Bilal,42,İstanbul  Turkey,TUR,---,02:25:15,01:49:31,00:01:33,00:01:28,04:17:47
+ironman-70.3-bahrain-20151205.csv,727,Emre Tacir,42,Intl State,TUR,---,02:41:01,01:48:02,00:01:41,00:01:11,04:31:55
+ironman-70.3-bahrain-20151205.csv,728,Salman Ali,---,-,BHR,---,02:53:09,---,00:01:52,00:02:15,DNF
+ironman-70.3-bahrain-20151205.csv,729,Andrew Turnbull,---,ES,GBR,---,02:38:26,02:04:45,00:01:32,00:01:36,04:46:19
+ironman-70.3-bahrain-20151205.csv,730,Gerard Wattam,40,essex,GBR,---,02:26:41,01:50:41,00:01:36,00:01:32,04:20:30
+ironman-70.3-bahrain-20151205.csv,732,Craig Mccallum,45,---,GBR,---,03:24:31,02:36:29,00:02:04,00:06:33,06:09:37
+ironman-70.3-bahrain-20151205.csv,733,Steven Pontifex,49,Intl State,AUS,---,---,---,---,---,DNS
+ironman-70.3-bahrain-20151205.csv,734,Pascal Dufour,45,Hawali,FRA,---,02:45:58,01:49:44,00:01:36,00:01:13,04:38:31
+ironman-70.3-bahrain-20151205.csv,735,Iain Mcdougall,47,---,GBR,---,02:57:09,01:55:29,00:01:55,00:03:02,04:57:35
+ironman-70.3-bahrain-20151205.csv,736,Christophe Sargis,46,Kingdom of Saudi Arabia,SAU,---,02:25:52,01:40:24,00:01:18,00:01:05,04:08:39
+ironman-70.3-bahrain-20151205.csv,737,Patrick Dekorsi,30,ACT,DEU,---,02:10:43,01:24:11,00:01:14,00:00:46,03:36:54
+ironman-70.3-bahrain-20151205.csv,739,Abbass Meftah,---,BA,BHR,---,03:31:28,02:28:29,00:02:27,00:04:09,06:06:33
+ironman-70.3-bahrain-20151205.csv,740,Ewan Cameron Cameron,---,QLD,GBR,---,02:36:46,01:44:30,00:01:24,00:01:19,04:23:59
+ironman-70.3-bahrain-20151205.csv,741,Mario Saradar,---,AC,LBN,---,02:54:40,02:01:06,00:01:52,00:03:08,05:00:46
+ironman-70.3-bahrain-20151205.csv,742,Andrew Kilshaw,48,DOHA,AUS,---,02:46:17,01:50:33,00:01:36,00:01:22,04:39:48
+ironman-70.3-bahrain-20151205.csv,743,Ricky Mercado,46,Qatar,PHL,---,03:09:28,02:46:16,00:01:44,00:02:43,06:00:11
+ironman-70.3-bahrain-20151205.csv,745,Joel Parajas,49,Qatar,PHL,---,03:14:04,02:57:46,00:01:56,00:03:26,06:17:12
+ironman-70.3-bahrain-20151205.csv,746,Florante Santiago,49,---,PHL,---,02:56:43,02:15:30,00:01:46,00:02:19,05:16:18
+ironman-70.3-bahrain-20151205.csv,747,Robert Penn,49,---,GBR,---,02:39:35,02:10:20,00:01:48,00:01:29,04:53:12
+ironman-70.3-bahrain-20151205.csv,748,Dirk Buss,46,---,DEU,---,02:35:19,02:16:31,00:01:30,00:02:05,04:55:25
+ironman-70.3-bahrain-20151205.csv,750,Karsten Due,45,Other,ARE,---,02:28:46,02:01:23,00:01:38,00:01:40,04:33:27
+ironman-70.3-bahrain-20151205.csv,751,Craig Lamshed,45,DXB,AUS,---,02:49:39,02:24:27,00:01:53,00:02:45,05:18:44
+ironman-70.3-bahrain-20151205.csv,752,Mark Paver,48,SHJ,GBR,---,02:42:39,02:03:47,00:01:51,00:01:46,04:50:03
+ironman-70.3-bahrain-20151205.csv,753,Jonathan Comber,45,DXB,GBR,---,02:39:09,02:01:38,00:01:34,00:01:59,04:44:20
+ironman-70.3-bahrain-20151205.csv,754,Antonio Da Rold,46,Panama,ARG,---,02:42:18,02:03:21,00:01:55,00:01:49,04:49:23
+ironman-70.3-bahrain-20151205.csv,755,Mike Palmer,---,AM,GBR,---,03:01:07,02:07:37,00:01:52,00:04:04,05:14:40
+ironman-70.3-bahrain-20151205.csv,756,Paul Venn,---,---,GBR,---,02:49:28,02:19:28,00:02:07,00:02:03,05:13:06
+ironman-70.3-bahrain-20151205.csv,758,Christopher Mccann,46,---,GBR,---,02:26:04,01:36:41,00:01:53,00:01:34,04:06:12
+ironman-70.3-bahrain-20151205.csv,759,Albert Megens,47,Other,NLD,---,02:27:15,01:59:10,00:01:24,00:01:52,04:29:41
+ironman-70.3-bahrain-20151205.csv,761,Bruce Collins,45,MI,USA,---,02:54:14,02:11:45,00:01:41,00:02:23,05:10:03
+ironman-70.3-bahrain-20151205.csv,764,Christopher Newman,48,Hertfordshire,GBR,---,02:29:37,01:44:56,00:01:51,00:01:26,04:17:50
+ironman-70.3-bahrain-20151205.csv,765,Stuart Hart,45,---,GBR,---,02:40:16,02:06:16,00:01:51,00:01:28,04:49:51
+ironman-70.3-bahrain-20151205.csv,766,Clifford Campbell,44,---,ZAF,---,02:57:56,02:46:21,00:02:01,00:04:10,05:50:28
+ironman-70.3-bahrain-20151205.csv,769,Ewa Kuzior,34,---,POL,---,02:23:04,01:45:16,00:01:39,00:02:17,04:12:16
+ironman-70.3-bahrain-20151205.csv,770,Bert Michels,49,Muscat,NLD,---,02:48:27,02:06:07,00:01:41,00:02:13,04:58:28
+ironman-70.3-bahrain-20151205.csv,773,John Dunkerley,46,Other,GBR,---,02:30:44,02:05:24,00:01:37,00:00:59,04:38:44
+ironman-70.3-bahrain-20151205.csv,774,Bryan Harris,45,SA,GBR,---,02:25:46,01:30:36,00:01:58,00:02:04,04:00:24
+ironman-70.3-bahrain-20151205.csv,775,Rudi Ah Van Boven,45,ON,NLD,---,02:35:54,01:52:13,00:01:37,00:02:54,04:32:38
+ironman-70.3-bahrain-20151205.csv,776,Ian Burch,---,MU,GBR,---,02:34:06,02:08:49,00:01:21,00:01:27,04:45:43
+ironman-70.3-bahrain-20151205.csv,777,Laurent Deage,46,---,ARM,---,02:40:07,02:07:59,00:01:24,00:01:36,04:51:06
+ironman-70.3-bahrain-20151205.csv,778,Eymeric Segard,47,---,CHE,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20151205.csv,779,Alexander Geiss,46,---,DEU,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20151205.csv,780,Finn Zwager,48,Other,NLD,---,02:29:25,01:38:43,00:01:29,00:01:45,04:11:22
+ironman-70.3-bahrain-20151205.csv,781,Alessandro Dimauro,46,---,ITA,---,02:47:49,01:41:48,00:01:59,00:01:31,04:33:07
+ironman-70.3-bahrain-20151205.csv,782,Andre Segger,46,London,DEU,---,02:21:07,01:32:20,00:01:28,00:01:05,03:56:00
+ironman-70.3-bahrain-20151205.csv,783,Graham Smith,47,Surrey,GBR,---,02:39:59,02:08:41,00:01:24,00:01:15,04:51:19
+ironman-70.3-bahrain-20151205.csv,784,John Tinetti,49,HI,USA,---,02:26:17,01:53:58,00:01:29,00:02:06,04:23:50
+ironman-70.3-bahrain-20151205.csv,785,Stephane Huriez,47,Riyadh,FRA,---,03:12:47,01:57:31,00:01:49,00:10:36,05:22:43
+ironman-70.3-bahrain-20151205.csv,786,David Homer,46,Eastern Province,AUS,---,02:43:01,02:18:42,00:01:49,00:02:08,05:05:40
+ironman-70.3-bahrain-20151205.csv,787,Toby Richards,45,---,GBR,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20151205.csv,789,Mario Marquez,---,AP,USA,---,03:40:45,---,00:01:38,---,DNF
+ironman-70.3-bahrain-20151205.csv,790,Nicholas Johnson,46,West Bay,AUS,---,02:36:28,01:49:53,00:01:53,00:02:21,04:30:35
+ironman-70.3-bahrain-20151205.csv,791,Ce Cadu Tilkian,45,FL,BRA,---,02:42:11,02:05:50,00:01:46,00:02:10,04:51:57
+ironman-70.3-bahrain-20151205.csv,792,gary bruce,48,AUH,USA,---,03:15:04,02:43:42,00:01:44,00:05:31,06:06:01
+ironman-70.3-bahrain-20151205.csv,793,Aljuhn Davantes,46,bulacan,PHL,---,02:42:46,02:09:34,00:01:56,00:02:28,04:56:44
+ironman-70.3-bahrain-20151205.csv,794,Paul Kenna,46,TX,GBR,---,02:57:27,02:10:57,00:01:41,00:03:32,05:13:37
+ironman-70.3-bahrain-20151205.csv,795,Reyad Malallah,49,Hawally ,KWT,---,02:58:07,02:27:55,00:02:02,00:03:17,05:31:21
+ironman-70.3-bahrain-20151205.csv,796,Jamal Aldosary,---,BA,BHR,---,02:22:26,01:47:26,00:01:40,00:01:52,04:13:24
+ironman-70.3-bahrain-20151205.csv,797,Hamad Muraisi,46,Other,BHR,---,03:07:41,02:05:36,00:02:14,00:03:03,05:18:34
+ironman-70.3-bahrain-20151205.csv,798,David Taylor,47,Other,BHR,---,02:47:44,02:20:25,00:01:52,00:02:26,05:12:27
+ironman-70.3-bahrain-20151205.csv,799,Simon Chorlton,---,---,GBR,---,02:31:11,02:09:29,00:01:40,00:01:30,04:43:50
+ironman-70.3-bahrain-20151205.csv,800,Muratkhan Tokmadi,49,Almaty,KAZ,---,02:27:28,01:47:07,00:01:34,00:02:10,04:18:19
+ironman-70.3-bahrain-20151205.csv,801,Charlie Burns,50,Scotland,GBR,---,02:55:07,02:40:46,00:02:07,00:02:18,05:40:18
+ironman-70.3-bahrain-20151205.csv,803,Thomas Burns,54,---,GBR,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20151205.csv,804,Tim Owen,52,None,GBR,---,02:32:18,01:52:26,00:01:32,00:01:11,04:27:27
+ironman-70.3-bahrain-20151205.csv,806,David Hunt,50,DXB,GBR,---,02:32:00,01:46:13,00:01:27,00:01:27,04:21:07
+ironman-70.3-bahrain-20151205.csv,807,Yousif Althawadi,52,Bahrain,BHR,---,02:39:56,02:14:54,00:01:39,00:01:42,04:58:11
+ironman-70.3-bahrain-20151205.csv,808,Sadeq Al-Alawi,52,Bahrain,BHR,---,03:20:10,---,00:02:05,---,DNF
+ironman-70.3-bahrain-20151205.csv,809,Hussain Alwadi,---,BA,BHR,---,02:58:14,02:31:06,00:01:37,00:02:47,05:33:44
+ironman-70.3-bahrain-20151205.csv,810,Jasim Albastaki,53,Bahrain,BHR,---,02:31:07,01:37:06,00:01:31,00:01:35,04:11:19
+ironman-70.3-bahrain-20151205.csv,812,Ian Gilby,51,AUH,GBR,---,02:39:39,02:10:15,00:01:37,00:01:43,04:53:14
+ironman-70.3-bahrain-20151205.csv,814,Simon Halford,50,Qatar,GBR,---,03:05:46,01:52:02,00:01:39,00:01:38,05:01:05
+ironman-70.3-bahrain-20151205.csv,815,Tim Thompson,52,NC,USA,---,03:20:07,02:44:57,00:02:23,00:03:03,06:10:30
+ironman-70.3-bahrain-20151205.csv,816,Waleed Al Alawi,53,na,BHR,---,03:12:08,02:39:54,00:01:52,00:03:21,05:57:15
+ironman-70.3-bahrain-20151205.csv,817,Jörg Alex,52,---,DEU,---,02:39:03,01:55:57,00:01:40,00:01:01,04:37:41
+ironman-70.3-bahrain-20151205.csv,818,Robert Ohanlon,50,DXB,NZL,---,02:57:33,02:48:31,00:01:52,00:30:23,06:18:19
+ironman-70.3-bahrain-20151205.csv,820,Salah Janahi,---,BA,BHR,---,02:48:36,02:05:08,00:01:43,00:02:22,04:57:49
+ironman-70.3-bahrain-20151205.csv,821,Andrew Verb,51,IL,USA,---,02:30:36,01:51:28,00:01:39,00:01:49,04:25:32
+ironman-70.3-bahrain-20151205.csv,824,Mitchell Katten,53,IL,USA,---,02:47:01,01:56:37,00:01:38,00:02:07,04:47:23
+ironman-70.3-bahrain-20151205.csv,826,Mike Bermingham,52,Other,CAN,---,02:36:07,01:50:34,00:01:44,00:01:50,04:30:15
+ironman-70.3-bahrain-20151205.csv,827,Marco Morelli,51,DXB,ITA,---,02:24:39,01:41:37,00:01:24,00:01:33,04:09:13
+ironman-70.3-bahrain-20151205.csv,830,Serge Goutard,54,---,FRA,---,02:27:28,01:49:11,00:01:47,00:01:11,04:19:37
+ironman-70.3-bahrain-20151205.csv,831,Thierry Depolla,51,Badaro,LBN,---,02:24:46,01:42:31,00:01:41,00:01:40,04:10:38
+ironman-70.3-bahrain-20151205.csv,832,Luca Fratini,51,BS,ITA,---,02:52:00,01:58:18,00:01:30,00:01:41,04:53:29
+ironman-70.3-bahrain-20151205.csv,833,Etienne  Herselman,50,Eastern Cape,ZAF,---,02:57:42,03:05:51,00:02:12,00:04:17,06:10:02
+ironman-70.3-bahrain-20151205.csv,834,Michael Aikman,51,TX,CAN,---,02:46:40,01:46:50,00:01:39,00:03:29,04:38:38
+ironman-70.3-bahrain-20151205.csv,835,Brian Pert,---,QL,AUS,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20151205.csv,836,Scott Dorward,50,EASTERN PROVINCE,CAN,---,02:55:58,02:02:13,00:02:03,00:03:56,05:04:10
+ironman-70.3-bahrain-20151205.csv,837,Michael Goode,51,Central Governate,GBR,---,02:44:43,02:11:24,00:01:44,00:01:44,04:59:35
+ironman-70.3-bahrain-20151205.csv,838,Volker Magnie,51,DE,DEU,---,02:45:28,02:31:21,00:01:41,00:03:15,05:21:45
+ironman-70.3-bahrain-20151205.csv,839,Karl Street,---,N/,GBR,---,03:02:51,01:38:41,00:01:47,00:02:48,04:46:07
+ironman-70.3-bahrain-20151205.csv,840,Helmut Biehl,52,DE,DEU,---,03:23:35,02:33:25,00:01:50,00:04:09,06:02:59
+ironman-70.3-bahrain-20151205.csv,841,Fabrice Petit,50,BH,FRA,---,02:50:07,02:36:32,00:01:56,00:03:16,05:31:51
+ironman-70.3-bahrain-20151205.csv,842,Rohit Kapur,50,MAHARASHTRA,USA,---,03:35:58,02:12:06,00:01:46,00:02:54,05:52:44
+ironman-70.3-bahrain-20151205.csv,843,Metin Aroyo,53,Turkey,TUR,---,02:33:36,01:39:50,00:01:44,00:02:06,04:17:16
+ironman-70.3-bahrain-20151205.csv,844,Carlos Castro,50,Doha,VEN,---,02:56:16,02:04:06,00:01:43,00:02:41,05:04:46
+ironman-70.3-bahrain-20151205.csv,845,Mark Saggers,51,---,GBR,---,02:23:49,01:30:56,00:01:30,00:01:38,03:57:53
+ironman-70.3-bahrain-20151205.csv,846,Pierre Delbecq,---,CE,FRA,---,03:12:57,01:57:32,00:01:46,00:10:28,05:22:43
+ironman-70.3-bahrain-20151205.csv,847,Francesco Palermo,51,GROSSETO,ITA,---,02:28:08,01:31:32,00:01:43,00:01:20,04:02:43
+ironman-70.3-bahrain-20151205.csv,848,Greg Murphy,50,---,CAN,---,02:48:18,02:35:02,00:01:48,00:03:18,05:28:26
+ironman-70.3-bahrain-20151205.csv,849,Phil Sumner,51,---,GBR,---,03:00:01,02:09:32,00:01:50,00:04:49,05:16:12
+ironman-70.3-bahrain-20151205.csv,850,Kwadjo Adusei-Poku,51,NY,USA,---,02:56:16,02:00:36,00:01:57,00:02:17,05:01:06
+ironman-70.3-bahrain-20151205.csv,851,Cyriel Schenk,---,MA,NLD,---,02:50:26,02:48:14,00:01:54,00:03:49,05:44:23
+ironman-70.3-bahrain-20151205.csv,852,Donn Oshaughnessy,53,manama,IRL,---,03:05:47,02:15:03,00:02:03,00:02:19,05:25:12
+ironman-70.3-bahrain-20151205.csv,853,Shaun Farrell,49,AUH,GBR,---,03:04:28,03:09:28,00:02:20,---,06:16:16
+ironman-70.3-bahrain-20151205.csv,854,Ricardo (Ricky) Gonzales,---,CA,PHL,---,03:15:50,03:05:59,00:01:34,00:02:29,06:25:52
+ironman-70.3-bahrain-20151205.csv,855,Andreas Hornig,50,ES,DEU,---,02:43:20,02:23:19,00:01:56,00:02:12,05:10:47
+ironman-70.3-bahrain-20151205.csv,856,Abdul Karim Turki,---,0,BHR,---,03:03:27,01:42:33,00:02:03,00:02:06,04:50:09
+ironman-70.3-bahrain-20151205.csv,857,Mike Hart,55,Cumbria,GBR,---,02:44:44,01:56:30,00:01:43,00:02:32,04:45:29
+ironman-70.3-bahrain-20151205.csv,858,Hasan Jassim Buali,---,MA,BHR,---,02:54:05,02:37:40,00:03:50,00:02:51,05:38:26
+ironman-70.3-bahrain-20151205.csv,859,Andrew Horne,57,---,GBR,---,02:45:17,02:16:47,00:01:55,00:01:47,05:05:46
+ironman-70.3-bahrain-20151205.csv,860,Edwin Solomon,55,AE,USA,---,02:48:29,02:30:34,00:01:44,00:02:28,05:23:15
+ironman-70.3-bahrain-20151205.csv,861,Ronald Dribbin,56,Gauteng,ZAF,---,02:27:22,01:39:49,00:01:40,00:02:24,04:11:15
+ironman-70.3-bahrain-20151205.csv,862,Tanguy Dadon,55,FR,FRA,---,02:33:58,01:45:42,00:01:41,00:01:44,04:23:05
+ironman-70.3-bahrain-20151205.csv,863,Ludger Gbiorczyk,55,---,DEU,---,02:21:39,01:44:27,00:01:30,00:01:26,04:09:02
+ironman-70.3-bahrain-20151205.csv,864,Stephen Clark,58,Wiltshire,GBR,---,02:43:55,---,00:02:03,00:02:16,DNF
+ironman-70.3-bahrain-20151205.csv,865,Francesco Bertoli,---,IT,BFA,---,02:53:07,02:36:16,00:01:31,00:02:30,05:33:24
+ironman-70.3-bahrain-20151205.csv,866,Lars Olvén,57,---,SWE,---,02:41:36,02:06:22,00:02:06,00:02:35,04:52:39
+ironman-70.3-bahrain-20151205.csv,867,Khalid Al Maadheed,---,QA,QAT,---,02:51:22,02:29:53,00:02:05,00:03:29,05:26:49
+ironman-70.3-bahrain-20151205.csv,868,Stevie Morgan,55,---,UGA,---,02:24:27,02:09:45,00:01:40,00:02:19,04:38:11
+ironman-70.3-bahrain-20151205.csv,869,Alex Morris,56,---,GBR,---,02:42:38,01:57:31,00:02:15,00:02:44,04:45:08
+ironman-70.3-bahrain-20151205.csv,870,Robert Wakefield,55,Budaiyah,GBR,---,02:53:28,02:14:52,00:01:38,00:02:12,05:12:10
+ironman-70.3-bahrain-20151205.csv,871,Javed Hassan,56,Other,IND,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20151205.csv,872,Thad Butcher,56,AR,USA,---,03:04:50,02:30:15,00:01:56,00:03:15,05:40:16
+ironman-70.3-bahrain-20151205.csv,873,Dave Forsythe,55,DXB,GBR,---,03:09:45,02:31:44,00:01:59,00:03:42,05:47:10
+ironman-70.3-bahrain-20151205.csv,874,David Rodrigues,60,CA,USA,---,02:58:36,02:11:35,00:01:57,00:02:41,05:14:49
+ironman-70.3-bahrain-20151205.csv,877,Georges Bertrand,63,---,BEL,---,03:16:17,02:59:28,00:01:56,00:02:17,06:19:58
+ironman-70.3-bahrain-20151205.csv,878,Frank Ryan,67,CO,USA,---,02:56:36,02:19:13,00:01:45,00:01:51,05:19:25
+ironman-70.3-bahrain-20151205.csv,880,Guus Vogelzang,49,Northern Government,NLD,---,02:45:36,02:04:06,00:01:54,00:01:50,04:53:26
+ironman-70.3-bahrain-20151205.csv,881,Sarah Economides,43,---,GBR,---,02:48:33,01:56:48,00:01:50,00:01:23,04:48:34
+ironman-70.3-bahrain-20151205.csv,882,Colin O Riordan,44,wexford,IRL,---,02:55:32,02:36:24,00:02:04,00:02:24,05:36:24
+ironman-70.3-bahrain-20151205.csv,883,Ayad Kamal,46,---,BHR,---,03:04:02,03:02:15,00:02:05,00:06:31,06:14:53
+ironman-70.3-bahrain-20151205.csv,884,Mohamed Harmas Alhajri,26,arad,BHR,---,03:27:52,02:43:06,00:01:40,00:03:28,06:16:06
+ironman-70.3-bahrain-20151205.csv,885,Mubarak Al Khalifa,28,Bahrain,BHR,---,03:17:51,02:39:17,00:02:19,00:04:15,06:03:42
+ironman-70.3-bahrain-20151205.csv,886,Maximilian Beilharz,35,DXB,DEU,---,02:20:17,---,00:01:19,00:30:45,DNF
+ironman-70.3-bahrain-20151205.csv,888,Simon Smith,42,Other,GBR,---,02:58:40,02:03:49,00:01:48,00:03:21,05:07:38
+ironman-70.3-bahrain-20151205.csv,889,Sezin Tacir,---,BE,TUR,---,02:45:40,02:03:05,00:01:52,00:02:08,04:52:45
+ironman-70.3-bahrain-20151205.csv,891,Unai Pastor Aguirrezabal,34,---,ESP,---,02:37:09,02:11:58,00:01:32,00:01:30,04:52:09
+ironman-70.3-bahrain-20151205.csv,892,Edoardo Lando,58,Please select...,ITA,---,02:52:14,01:58:00,00:01:55,00:03:08,04:55:17
+ironman-70.3-bahrain-20151205.csv,893,Luigi Lando,62,PL,ITA,---,03:09:16,02:36:52,00:01:58,00:03:41,05:51:47
+ironman-70.3-bahrain-20151205.csv,894,Alexander Pettet,---,DO,GBR,---,02:46:53,02:18:13,00:01:51,00:01:39,05:08:36
+ironman-70.3-bahrain-20151205.csv,895,Sergei Tcarev,47,---,RUS,---,02:27:02,01:36:50,00:01:32,00:01:12,04:06:36
+ironman-70.3-bahrain-20151205.csv,896,Marco Nardelli Leonardi,48,ITALIA,ITA,---,02:26:08,01:57:49,00:01:26,00:02:57,04:28:20
+ironman-70.3-bahrain-20151205.csv,897,Franco Ravaglia,53,---,ITA,---,02:35:29,01:59:12,00:01:46,00:02:13,04:38:40
+ironman-70.3-bahrain-20151205.csv,898,Emilio Lomi,52,MI,ITA,---,02:27:37,01:36:12,00:01:40,00:01:51,04:07:20
+ironman-70.3-bahrain-20151205.csv,899,Michel Gusbin,48,---,BEL,---,02:31:01,01:49:04,00:01:28,00:02:38,04:24:11
+ironman-70.3-bahrain-20151205.csv,900,Maryanne Octave,41,---,BEL,---,02:41:13,01:47:03,00:01:31,00:01:39,04:31:26
+ironman-70.3-bahrain-20151205.csv,901,Khalid Bualay,---,BA,BHR,---,02:49:42,01:50:18,00:01:40,00:02:16,04:43:56
+ironman-70.3-bahrain-20151205.csv,902,Xabier Tijero,23,---,ESP,---,02:15:30,01:25:17,00:01:10,00:01:02,03:42:59
+ironman-70.3-bahrain-20151205.csv,903,James Middleditch,45,---,SGP,---,02:13:58,01:24:15,00:01:22,00:01:36,03:41:11
+ironman-70.3-bahrain-20151205.csv,904,Bernat Vinals Vilarnau,37,---,ESP,---,02:43:05,01:44:49,00:01:16,00:01:12,04:30:22
+ironman-70.3-bahrain-20151205.csv,905,Fabian Bertoncello,43,VI,ITA,---,02:17:15,01:30:53,00:01:08,00:01:10,03:50:26
+ironman-70.3-bahrain-20151205.csv,906,Lorenzo Zurlo,41,italy,ITA,---,02:30:48,02:03:46,00:01:19,00:01:55,04:37:48
+ironman-70.3-bahrain-20151205.csv,907,Dong Lao,---,SA,CHN,---,02:44:02,03:09:55,00:01:41,00:05:30,06:01:08
+ironman-70.3-bahrain-20151205.csv,908,Frank Mathews,42,Other,ZAF,---,02:17:30,01:45:08,00:01:28,00:01:52,04:05:58
+ironman-70.3-bahrain-20151205.csv,909,Isa Al Khalifa,30,Bahrain,BHR,---,03:06:40,02:31:24,00:01:55,00:03:07,05:43:06
+ironman-70.3-bahrain-20151205.csv,910,Martin Mugharbil,40,UK,USA,---,03:07:27,02:24:40,00:01:52,00:01:57,05:35:56
+ironman-70.3-bahrain-20151205.csv,911,Jamie Anderson,31,United Kingdom,GBR,---,02:35:35,01:33:16,00:01:38,00:01:58,04:12:27
+ironman-70.3-bahrain-20151205.csv,912,Stefan Spies,45,---,DEU,---,02:12:12,01:30:47,00:01:34,00:01:48,03:46:21
+ironman-70.3-bahrain-20151205.csv,913,Ehsan Abdulmajeed Alsaati,---,MA,BHR,---,03:00:48,02:14:44,00:01:56,00:00:38,05:18:06
+ironman-70.3-bahrain-20151205.csv,914,Riccardo Bertoncello,24,vicenza,ITA,---,02:18:46,01:33:36,00:01:12,00:01:14,03:54:48
+ironman-70.3-bahrain-20151205.csv,915,Lew Hollander,85,OR,USA,---,03:17:22,03:15:29,00:02:44,00:04:40,06:40:15
+ironman-70.3-bahrain-20151205.csv,916,Kelli Parady,---,CT,USA,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20151205.csv,917,Pamela Vargas,31,---,CHL,---,02:55:37,02:00:43,00:01:41,00:01:37,04:59:38
+ironman-70.3-bahrain-20151205.csv,918,Gary Elizaga,35,DXB,PHL,---,02:24:10,01:30:58,00:01:43,00:01:08,03:57:59
+ironman-70.3-bahrain-20151205.csv,919,Soul Rowen,42,AE,USA,---,03:01:55,02:26:45,00:01:36,00:02:24,05:32:40
+ironman-70.3-bahrain-20151205.csv,920,Neil Wood,41,Other,GBR,---,02:29:19,01:43:31,00:01:20,00:00:53,04:15:03
+ironman-70.3-bahrain-20151205.csv,921,Chris Luther,---,AE,USA,---,03:39:30,02:47:30,00:01:45,00:03:55,06:32:40
+ironman-70.3-bahrain-20151205.csv,922,Rafat Shobaki,35,DXB,JOR,---,02:42:56,02:14:22,00:02:02,00:02:02,05:01:22
+ironman-70.3-bahrain-20151205.csv,924,Renata Schmidtova,41,---,SVK,---,03:33:33,02:20:59,00:01:42,00:01:31,05:57:45
+ironman-70.3-bahrain-20151205.csv,925,Sibylle Gottschalk,47,---,DEU,---,02:58:17,02:03:59,00:01:39,00:02:15,05:06:10
+ironman-70.3-bahrain-20151205.csv,926,Neil Wood,50,---,HKG,---,---,---,---,---,DQ
+ironman-70.3-bahrain-20151205.csv,927,Bradley Holliday,34,Muscat,ZAF,---,02:42:40,01:41:10,00:01:25,00:01:18,04:26:33
+ironman-70.3-bahrain-20151205.csv,928,Christophe Jouffret,51,---,FRA,---,02:16:27,01:34:53,00:01:23,00:01:21,03:54:04
+ironman-70.3-bahrain-20151205.csv,929,Mohammed Alharbi,29,Riyadh,SAU,---,02:45:55,02:06:34,00:01:31,00:01:56,04:55:56
+ironman-70.3-bahrain-20151205.csv,930,Pedro Silva,38,Mafra,PRT,---,02:11:34,01:29:23,00:01:17,00:00:52,03:43:06
+ironman-70.3-bahrain-20151205.csv,932,Abdullah Alenezi,33,kuwait city,KWT,---,02:56:13,02:39:33,00:01:58,00:01:43,05:39:27
+ironman-70.3-bahrain-20151205.csv,933,Marianne Gates,39,DXB,ZAF,---,02:48:49,02:09:40,00:01:52,00:01:50,05:02:11
+ironman-70.3-bahrain-20151205.csv,936,Graham Brookhouse,53,Gloucestershire,GBR,---,02:17:06,01:49:09,00:01:23,00:01:36,04:09:14
+ironman-70.3-bahrain-20151205.csv,937,Ed Ryan,61,---,MEX,---,03:02:23,01:59:09,00:01:48,00:01:53,05:05:13
+ironman-70.3-bahrain-20151205.csv,938,Myrela Ryan,---,BA,URY,---,03:10:55,02:50:07,00:01:52,00:02:43,06:05:37
+ironman-70.3-bahrain-20151205.csv,940,Nicolas Jacobs,40,DXB,ZAF,---,02:27:55,02:09:52,00:01:31,00:02:50,04:42:08
+ironman-70.3-bahrain-20151205.csv,941,ErnstJan van Manen,48,---,NLD,---,03:16:55,02:03:35,00:01:45,00:08:13,05:30:28
+ironman-70.3-bahrain-20151205.csv,943,Farid Abderrezak,30,---,FRA,---,03:00:35,01:46:46,00:01:46,00:04:04,04:53:11
+ironman-70.3-bahrain-20151205.csv,945,John Loughnane,---,---,GBR,---,03:16:20,02:06:47,00:01:55,---,05:25:02
+ironman-70.3-bahrain-20151205.csv,946,Jacques Olckers,47,---,ZAF,---,02:50:32,02:13:53,00:02:15,00:03:00,05:09:40
+ironman-70.3-bahrain-20151205.csv,947,Ronald Molit,33,Rizal,PHL,---,02:22:55,01:31:21,00:01:48,00:02:12,03:58:16
+ironman-70.3-bahrain-20151205.csv,948,Jones Ivan,---,---,GBR,---,02:22:10,01:34:05,00:01:16,00:01:13,03:58:44
+ironman-70.3-bahrain-20151205.csv,949,Hirst Michael,---,---,GBR,---,02:38:42,01:53:42,00:01:46,00:04:03,04:38:13
+ironman-70.3-bahrain-20151205.csv,950,Mohamed Althawadi,---,---,BHR,---,02:46:18,01:56:45,00:01:52,00:01:51,04:46:46
+ironman-70.3-bahrain-20151205.csv,951,mohammed kenssous,58,DXB,FRA,---,03:16:41,02:32:13,00:01:57,00:03:16,05:54:07
+ironman-70.3-bahrain-20151205.csv,952,Majel Padilla,33,DXB,PHL,---,03:02:04,02:05:26,00:01:42,00:02:03,05:11:15
+ironman-70.3-bahrain-20151205.csv,953,Kirill Khludnev,28,Saint Petersburg,RUS,---,03:33:00,02:29:30,00:01:54,00:05:00,06:09:24
+ironman-70.3-bahrain-20151205.csv,954,Ralf Schon,47,---,DEU,---,02:16:46,01:43:02,00:01:29,00:02:14,04:03:31
+ironman-70.3-bahrain-20151205.csv,955,Cormac Macmahon,42,Co. Kildare,IRL,---,02:46:48,02:24:45,00:01:46,00:02:13,05:15:32
+ironman-70.3-bahrain-20151205.csv,956,Eckert Sandra,---,---,CHE,---,02:48:54,02:03:17,00:01:38,00:01:43,04:55:32
+ironman-70.3-bahrain-20151205.csv,957,Thierry Bernard,48,---,FRA,---,02:16:37,01:42:14,00:01:26,00:01:54,04:02:11

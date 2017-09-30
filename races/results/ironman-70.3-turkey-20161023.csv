@@ -1,0 +1,572 @@
+#File=ironman-70.3-turkey-20161023.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-turkey-20161023.csv,1,Ozgur Aksaman,37,TURKIYE,TUR,00:30:39,02:34:34,01:37:58,00:04:39,00:01:44,04:49:34
+ironman-70.3-turkey-20161023.csv,2,Jeremy Morel,25,---,FRA,00:26:53,02:13:09,01:20:54,00:03:28,00:01:24,04:05:48
+ironman-70.3-turkey-20161023.csv,3,Jonas Schomburg,22,---,TUR,00:23:31,02:09:56,01:23:04,00:03:14,00:01:25,04:01:10
+ironman-70.3-turkey-20161023.csv,11,Estelle-Marie Kieffer,40,Other,FRA,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,12,Ipek Onaran,31,AT,TUR,00:31:58,02:38:37,01:37:49,00:06:07,00:02:01,04:56:32
+ironman-70.3-turkey-20161023.csv,13,Doerte Siebke,49,---,DEU,00:32:32,02:31:19,02:05:16,00:04:38,00:02:38,05:16:23
+ironman-70.3-turkey-20161023.csv,14,Oriana Heer,35,---,CHE,00:33:21,02:28:18,01:42:29,00:04:17,00:01:40,04:50:05
+ironman-70.3-turkey-20161023.csv,15,Burcu Aslanagi,40,turkey,TUR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,16,Francky Favre,39,FR,MTQ,00:29:21,02:15:49,01:25:25,00:04:10,00:01:44,04:16:29
+ironman-70.3-turkey-20161023.csv,17,Cinar Goksen,35,Alabama,TUR,00:32:44,02:35:01,02:11:03,00:04:35,00:02:25,05:25:48
+ironman-70.3-turkey-20161023.csv,18,Mikhail Lubenets,41,luxembourg,RUS,00:37:18,02:27:28,01:26:40,00:04:43,00:01:59,04:38:08
+ironman-70.3-turkey-20161023.csv,19,Gokhan Dogruol,53,Intl State,TUR,00:29:12,02:27:38,01:34:49,00:04:20,00:01:45,04:37:44
+ironman-70.3-turkey-20161023.csv,20,Rolf Seiler,52,---,CHE,00:32:19,02:23:39,01:34:45,00:04:07,00:01:48,04:36:38
+ironman-70.3-turkey-20161023.csv,21,Muzaffer Kuvvet,41,eyup,TUR,00:30:15,---,---,00:05:27,---,DNF
+ironman-70.3-turkey-20161023.csv,22,Oleksandr Dovzhenko,32,Kharkivs'ka,UKR,00:33:59,02:22:34,01:30:45,00:05:31,00:01:59,04:34:48
+ironman-70.3-turkey-20161023.csv,23,Sitemkar Bolsoy,40,Seyhan,TUR,00:30:31,02:16:59,01:32:35,00:04:07,00:01:39,04:25:51
+ironman-70.3-turkey-20161023.csv,24,Janusz Lew-Mirski,41,mazowieckie,POL,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,25,Storme Alexander,39,Essex,GBR,00:33:01,02:39:34,01:46:58,00:05:09,00:02:16,05:06:58
+ironman-70.3-turkey-20161023.csv,26,Marleen Valk,41,---,NLD,00:37:20,02:47:19,01:54:39,00:05:01,00:02:51,05:27:10
+ironman-70.3-turkey-20161023.csv,27,Fabien Besancon,31,---,FRA,00:25:47,02:21:36,01:25:29,00:04:17,00:01:31,04:18:40
+ironman-70.3-turkey-20161023.csv,28,Luis Arosemena,42,---,PER,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,29,Tolga Alpagot,43,---,TUR,00:36:00,02:31:47,01:42:53,00:05:59,00:03:07,04:59:46
+ironman-70.3-turkey-20161023.csv,30,Bartosz Maciej Matysiak,39,---,POL,00:37:29,02:26:05,01:40:27,00:04:38,00:02:30,04:51:09
+ironman-70.3-turkey-20161023.csv,31,Adrian Siemons,30,---,BEL,00:31:14,02:16:35,01:24:49,00:03:53,00:01:44,04:18:15
+ironman-70.3-turkey-20161023.csv,32,Filippo Sensoli,45,sondrio,ITA,00:33:33,02:18:51,01:36:30,00:04:29,00:01:52,04:35:15
+ironman-70.3-turkey-20161023.csv,33,David Grubb,46,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,34,Dominic Leivers,39,Select,GBR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,35,Andrew Hackett,45,---,GBR,00:37:12,02:40:26,01:48:39,00:05:06,00:02:29,05:13:52
+ironman-70.3-turkey-20161023.csv,36,AliRiza Bilal,43,İstanbul  Turkey,TUR,00:34:07,02:34:28,02:09:53,00:04:00,00:02:30,05:24:58
+ironman-70.3-turkey-20161023.csv,37,Tarcan Kiper,54,Istanbul,TUR,00:32:36,02:34:45,01:53:01,00:08:13,00:05:49,05:14:24
+ironman-70.3-turkey-20161023.csv,38,Hakan Kanca,47,Istanbul,TUR,00:32:46,02:34:54,02:05:05,00:05:31,00:02:31,05:20:47
+ironman-70.3-turkey-20161023.csv,39,Ramazan Emre Apaydin,29,sisli,TUR,00:28:08,02:18:34,01:38:05,00:04:51,00:01:41,04:31:19
+ironman-70.3-turkey-20161023.csv,40,Tahsin Ozgur,35,---,TUR,00:31:22,02:19:44,01:26:20,00:04:21,00:01:50,04:23:37
+ironman-70.3-turkey-20161023.csv,41,Richard Giles,39,---,GBR,00:31:01,02:18:00,01:29:13,00:04:33,00:02:18,04:25:05
+ironman-70.3-turkey-20161023.csv,42,Sergey Matveev,48,Perm,RUS,00:44:33,02:49:50,01:53:44,00:06:25,00:03:17,05:37:49
+ironman-70.3-turkey-20161023.csv,43,Bora Özdogan,43,Uskudar,TUR,00:37:03,02:32:28,01:42:59,00:07:41,00:03:24,05:03:35
+ironman-70.3-turkey-20161023.csv,44,Carole Muller,38,Antalya,TUR,00:37:14,02:39:52,01:57:46,00:04:26,00:02:30,05:21:48
+ironman-70.3-turkey-20161023.csv,45,Petra Sieber Brinkschulte,56,---,CHE,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,46,Annemie Huygelen,38,---,BEL,00:38:07,02:58:14,02:00:55,00:07:40,00:04:11,05:49:07
+ironman-70.3-turkey-20161023.csv,47,Beatrix Cser,40,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,48,Nevsin Mengü,34,istanbul,TUR,00:50:47,03:01:33,02:02:38,00:06:14,00:04:37,06:05:49
+ironman-70.3-turkey-20161023.csv,49,Seyda Erkahraman,47,Turkey,TUR,00:42:09,03:01:27,01:55:04,00:07:32,00:03:57,05:50:09
+ironman-70.3-turkey-20161023.csv,50,Dilek Baytan,51,TUR,TUR,00:40:45,03:11:47,01:59:05,00:05:59,00:02:58,06:00:34
+ironman-70.3-turkey-20161023.csv,51,Vicky Jones,40,Powys,GBR,00:33:10,02:46:31,01:58:25,00:05:49,00:02:50,05:26:45
+ironman-70.3-turkey-20161023.csv,52,Martin Gautschi,54,---,CHE,00:47:03,02:25:36,01:38:43,00:06:15,00:03:01,05:00:38
+ironman-70.3-turkey-20161023.csv,53,Simon Boqvist,30,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,54,Oguz Omur,49,na,TUR,00:28:51,02:23:04,01:36:33,00:04:50,00:01:47,04:35:05
+ironman-70.3-turkey-20161023.csv,55,Thomas Huertas,38,---,GBR,00:38:42,02:33:23,01:48:28,00:04:31,00:02:38,05:07:42
+ironman-70.3-turkey-20161023.csv,56,Adam Kupiec,37,Bratislava,POL,00:46:35,02:45:22,01:54:56,00:07:20,00:04:15,05:38:28
+ironman-70.3-turkey-20161023.csv,57,Emrah Bayraktar,35,TURKEY,TUR,00:39:12,02:27:57,01:45:33,00:06:09,00:02:34,05:01:25
+ironman-70.3-turkey-20161023.csv,58,Gian Luca Riontino,42,Italia,ITA,00:34:43,02:31:05,01:42:38,00:05:55,00:02:08,04:56:29
+ironman-70.3-turkey-20161023.csv,59,Baris Devir,30,ALSANCAK,TUR,00:35:17,02:33:43,02:08:57,00:06:33,00:03:16,05:27:46
+ironman-70.3-turkey-20161023.csv,60,Kivanc Onutman,47,turkey,TUR,00:41:05,02:47:32,01:50:16,00:06:52,00:03:18,05:29:03
+ironman-70.3-turkey-20161023.csv,61,David Virden,54,---,GBR,00:33:29,02:36:15,01:51:56,00:05:02,00:01:53,05:08:35
+ironman-70.3-turkey-20161023.csv,62,Simon Verzijl,51,---,NLD,00:32:18,02:32:41,01:53:32,00:05:02,00:01:58,05:05:31
+ironman-70.3-turkey-20161023.csv,63,Guy Debeuf,55,---,BEL,00:43:52,03:00:10,02:47:57,00:07:06,00:03:43,06:42:48
+ironman-70.3-turkey-20161023.csv,64,Haluk Babacan,50,turkey,TUR,00:32:47,02:33:10,02:07:55,00:04:53,00:01:57,05:20:42
+ironman-70.3-turkey-20161023.csv,65,OZHAN OZTURK,40,sisli,TUR,00:36:48,02:32:21,01:40:34,00:06:08,00:02:14,04:58:05
+ironman-70.3-turkey-20161023.csv,66,Halil Kiliç,31,APO,TUR,00:31:15,02:32:14,02:38:33,00:04:47,00:01:52,05:48:41
+ironman-70.3-turkey-20161023.csv,67,Cenk Arslan,41,Berkshire,TUR,00:36:47,02:35:08,01:53:58,00:05:25,00:02:37,05:13:55
+ironman-70.3-turkey-20161023.csv,68,Utku Erdem Özer,39,istanbul,TUR,00:36:02,02:25:53,01:44:40,00:05:07,00:02:32,04:54:14
+ironman-70.3-turkey-20161023.csv,69,Jeff Illel,47,Istanbul,TUR,00:35:52,02:32:19,01:53:13,00:06:51,00:04:20,05:12:35
+ironman-70.3-turkey-20161023.csv,70,Emin Keles,36,Istanbul,TUR,00:36:36,02:28:30,02:01:06,00:04:53,00:02:30,05:13:35
+ironman-70.3-turkey-20161023.csv,71,André Bättig,56,---,CHE,00:38:14,02:43:28,02:12:10,00:05:08,00:02:51,05:41:51
+ironman-70.3-turkey-20161023.csv,72,Onay Bayram,39,Marmara,TUR,00:34:46,02:34:34,01:40:10,00:06:58,00:02:51,04:59:19
+ironman-70.3-turkey-20161023.csv,73,Sena Korkut,35,---,TUR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,74,Müstesna Erkahraman,49,istanbul,TUR,---,---,---,---,---,DQ
+ironman-70.3-turkey-20161023.csv,76,Gülsen Tokaç,37,Kadıköy,TUR,00:52:09,03:12:21,02:08:51,00:06:51,00:02:47,06:22:59
+ironman-70.3-turkey-20161023.csv,77,Kirstin Sommer,52,---,DEU,00:35:08,02:41:52,01:56:27,00:05:07,00:02:00,05:20:34
+ironman-70.3-turkey-20161023.csv,78,Eleanor Alexander,28,---,GBR,00:34:15,03:04:45,02:26:11,00:05:41,00:02:50,06:13:42
+ironman-70.3-turkey-20161023.csv,79,Rozanne Larsen,31,DC,USA,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,80,Carolina Schwedhelm,28,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,81,mer Güvener,24,Nicosia,TUR,---,---,---,---,---,DQ
+ironman-70.3-turkey-20161023.csv,82,Eva Maria Firat,39,---,AUT,00:44:28,03:20:02,02:01:32,00:06:25,00:05:06,06:17:33
+ironman-70.3-turkey-20161023.csv,83,Berna Solak,36,APO,TUR,00:45:42,03:22:47,02:35:20,00:08:44,00:04:15,06:56:48
+ironman-70.3-turkey-20161023.csv,84,Olivia Pérez,28,CH,MEX,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,85,Kubra Varli,25,APO,TUR,00:52:24,03:38:27,02:45:07,00:08:47,00:04:59,07:29:44
+ironman-70.3-turkey-20161023.csv,86,Caroline Mackinnon,61,London,GBR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,87,Christine Pagen,41,NY,USA,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,88,Reyhan Mengi,---,APO,TUR,00:49:44,03:13:43,02:17:49,00:05:34,00:02:32,06:29:22
+ironman-70.3-turkey-20161023.csv,89,Ebru Samiye Kulak,43,Istanbul,TUR,00:45:17,03:16:07,02:00:32,00:08:34,00:02:51,06:13:21
+ironman-70.3-turkey-20161023.csv,90,Saffron Lara Pineger,35,---,GBR,00:37:22,02:50:02,02:07:22,00:06:39,00:03:49,05:45:14
+ironman-70.3-turkey-20161023.csv,91,Hanne Staanum,50,---,DNK,00:44:21,02:26:32,01:41:15,00:05:56,00:02:19,05:00:23
+ironman-70.3-turkey-20161023.csv,92,Julia Akinci,28,---,UKR,00:51:42,03:54:55,02:48:16,00:08:42,00:04:46,07:48:21
+ironman-70.3-turkey-20161023.csv,93,Tracy Khayat,23,Beirut,LBN,00:34:18,02:48:37,01:55:29,00:05:48,00:02:59,05:27:11
+ironman-70.3-turkey-20161023.csv,94,Kseniia Soldatova,34,---,UKR,00:35:12,02:41:09,02:09:28,00:07:31,00:05:02,05:38:22
+ironman-70.3-turkey-20161023.csv,95,Lyudmyla Karpanova,39,---,UKR,00:37:20,02:55:24,01:52:09,00:06:13,00:02:55,05:34:01
+ironman-70.3-turkey-20161023.csv,96,Melek Bilge,31,mersın 10,TUR,00:35:47,03:25:38,02:40:52,00:05:55,00:05:30,06:53:42
+ironman-70.3-turkey-20161023.csv,97,Alix Camino,42,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,98,Alexandra Voskresenskaia,33,Rostov,RUS,00:41:07,03:22:24,02:04:15,00:05:53,00:03:00,06:16:39
+ironman-70.3-turkey-20161023.csv,99,Elena Dmitrieva,35,"APO
+",RUS,00:37:41,03:14:23,02:02:14,00:07:02,00:04:32,06:05:52
+ironman-70.3-turkey-20161023.csv,100,Anna Miagkova,27,---,RUS,00:45:40,03:15:10,02:42:45,00:09:54,00:05:34,06:59:03
+ironman-70.3-turkey-20161023.csv,101,Idrak Al Aquel,38,Manama,SAU,00:37:27,03:05:58,02:43:59,00:08:57,00:05:20,06:41:41
+ironman-70.3-turkey-20161023.csv,102,Nataly Larchenko,27,---,UKR,00:40:59,02:56:58,02:25:03,00:06:14,00:05:33,06:14:47
+ironman-70.3-turkey-20161023.csv,103,Malgorzata Nowacka,42,---,POL,00:39:04,02:34:42,02:07:14,00:04:52,00:02:53,05:28:45
+ironman-70.3-turkey-20161023.csv,104,Sera Sayar,24,Besiktas,TUR,00:30:20,02:41:41,01:45:05,00:05:21,00:02:42,05:05:09
+ironman-70.3-turkey-20161023.csv,105,Oleksandra Gryshyna,26,Dnipro district,UKR,00:28:26,02:34:18,01:42:09,00:04:31,00:02:26,04:51:50
+ironman-70.3-turkey-20161023.csv,106,Viktoriia Kordan,34,Kiev,UKR,00:32:56,02:46:33,01:57:56,00:08:17,00:05:38,05:31:20
+ironman-70.3-turkey-20161023.csv,107,Natalia Shtrombakh,44,Rissia,RUS,00:39:20,02:34:22,01:49:52,00:05:20,00:02:28,05:11:22
+ironman-70.3-turkey-20161023.csv,108,Banu Kirklareli,38,Atasehir,TUR,00:55:20,03:18:26,02:20:56,00:11:07,00:04:41,06:50:30
+ironman-70.3-turkey-20161023.csv,109,Moira Hackett,44,---,GBR,00:37:38,02:53:48,01:54:07,00:08:07,00:05:11,05:38:51
+ironman-70.3-turkey-20161023.csv,110,Lise Charlotte Tviberg,50,NO,NOR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,111,Tarryn Wickins,30,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,112,Nandipa Mafongosi,32,Eastern Cape,ZAF,00:55:30,03:28:49,02:29:50,00:10:10,00:04:52,07:09:11
+ironman-70.3-turkey-20161023.csv,113,Esra Kellermanns,---,---,DEU,00:33:47,02:54:46,02:02:23,00:05:43,00:02:08,05:38:47
+ironman-70.3-turkey-20161023.csv,114,Didem Dogruol,51,Turkey,TUR,00:36:20,02:53:00,01:51:07,00:05:43,00:02:44,05:28:54
+ironman-70.3-turkey-20161023.csv,115,Zübeyde Ayça Toroglu,44,Kadikoy,TUR,00:44:34,03:20:01,02:29:46,00:08:44,00:05:30,06:48:35
+ironman-70.3-turkey-20161023.csv,116,Özlem Soydas,29,APO,TUR,00:44:56,03:02:05,01:59:06,00:05:15,00:02:47,05:54:09
+ironman-70.3-turkey-20161023.csv,118,Seda Karipcin,37,Maslak ,TUR,00:47:24,03:22:05,02:21:11,00:08:04,00:03:39,06:42:23
+ironman-70.3-turkey-20161023.csv,119,Fulya Erkmen,34,Istanbul,TUR,00:42:03,03:16:16,02:27:47,00:06:54,00:04:18,06:37:18
+ironman-70.3-turkey-20161023.csv,120,Tugce Arac,36,Besiktas,TUR,00:48:07,03:13:25,02:09:34,00:07:16,00:03:55,06:22:17
+ironman-70.3-turkey-20161023.csv,121,Sedef Karlikli,42,TURKEY,TUR,00:48:40,03:08:49,02:16:05,00:11:28,00:05:40,06:30:42
+ironman-70.3-turkey-20161023.csv,122,Sezin Tacir,39,Istanbul,TUR,00:37:55,02:44:19,02:02:41,00:05:19,00:02:19,05:32:33
+ironman-70.3-turkey-20161023.csv,123,Yasemin Ataman,34,istanbul,TUR,00:51:00,---,02:45:04,---,04:33:44,07:18:48
+ironman-70.3-turkey-20161023.csv,124,Sanem Karacan Orfanli,36,APO,TUR,00:50:53,03:40:57,02:27:22,00:06:47,00:05:51,07:11:50
+ironman-70.3-turkey-20161023.csv,125,Çagla Arundar,40,Marmara,TUR,00:38:38,03:03:12,02:09:59,00:07:11,00:03:59,06:02:59
+ironman-70.3-turkey-20161023.csv,126,Sophie Wodon,49,---,BEL,00:44:35,03:08:05,02:09:52,00:07:52,00:04:40,06:15:04
+ironman-70.3-turkey-20161023.csv,127,Camey Springer,47,PA,USA,00:32:00,03:00:02,03:11:41,00:07:56,00:05:22,06:57:01
+ironman-70.3-turkey-20161023.csv,128,Coraline Chapatte,35,Maltepe,CHE,00:41:44,02:52:28,01:50:52,00:04:38,00:01:51,05:31:33
+ironman-70.3-turkey-20161023.csv,129,Simge Yüksel,35,APO,TUR,00:47:23,04:00:33,02:40:12,00:09:45,00:04:47,07:42:40
+ironman-70.3-turkey-20161023.csv,130,Genevieve Boutin,41,NY,CAN,00:43:53,03:25:00,01:56:53,00:07:15,00:03:25,06:16:26
+ironman-70.3-turkey-20161023.csv,131,Yelena Merkina,42,Almaty,KAZ,00:43:27,02:58:07,02:15:47,00:07:10,00:03:26,06:07:57
+ironman-70.3-turkey-20161023.csv,132,Britta Bugiel,47,---,DEU,00:36:36,03:01:13,01:56:31,00:06:56,00:02:16,05:43:32
+ironman-70.3-turkey-20161023.csv,134,Kevser Önal,35,Çankaya,TUR,00:40:46,02:57:40,02:25:09,00:09:38,00:05:49,06:19:02
+ironman-70.3-turkey-20161023.csv,135,Christine Gora,40,---,POL,00:52:05,02:58:09,02:04:25,00:06:51,00:02:51,06:04:21
+ironman-70.3-turkey-20161023.csv,136,Efe Kuyumcu,30,torbali,TUR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,137,Matt Dussartre,38,FR,FRA,00:32:36,02:23:11,01:41:32,00:05:01,00:02:46,04:45:06
+ironman-70.3-turkey-20161023.csv,138,Mehmet Asal,46,Etiler,TUR,00:34:56,02:34:00,02:16:31,00:05:35,00:02:15,05:33:17
+ironman-70.3-turkey-20161023.csv,139,George Bennett,39,DE,GBR,00:39:25,02:43:22,01:41:08,00:05:52,00:02:33,05:12:20
+ironman-70.3-turkey-20161023.csv,140,Kevin Frederick Howard,62,Cheshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,141,Serkan Imrak,39,APO,TUR,00:51:22,03:12:21,02:46:17,00:08:42,00:04:44,07:03:26
+ironman-70.3-turkey-20161023.csv,142,Wilhelmus Verheijen,50,Istanbul,NLD,00:42:56,02:56:25,02:17:07,00:12:28,00:05:55,06:14:51
+ironman-70.3-turkey-20161023.csv,143,Sarp Tiryakioglu,45,Istanbul,TUR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,144,Tarkan Tuncel,41,APO,TUR,00:42:38,02:44:43,02:01:25,00:07:57,00:04:40,05:41:23
+ironman-70.3-turkey-20161023.csv,145,Christian Petutschnig,45,---,AUT,00:33:37,02:35:52,01:44:09,00:05:27,00:03:16,05:02:21
+ironman-70.3-turkey-20161023.csv,146,Tarik Ucar,31,APO,TUR,00:47:36,03:43:07,02:49:35,00:08:02,00:07:29,07:35:49
+ironman-70.3-turkey-20161023.csv,148,Burak Gurkan,40,APO,TUR,00:39:41,02:56:19,02:06:55,00:09:12,00:03:32,05:55:39
+ironman-70.3-turkey-20161023.csv,149,A.Burak Soyak,35,Bağcılar,TUR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,150,Alp Resat Capa,49,.,TUR,00:38:17,02:55:09,02:00:22,00:06:56,00:03:27,05:44:11
+ironman-70.3-turkey-20161023.csv,151,Andreas Rath,35,DE,DEU,00:32:14,02:19:05,01:39:59,00:04:50,00:01:53,04:38:01
+ironman-70.3-turkey-20161023.csv,152,Altan Aytar,40,Çankaya,TUR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,154,Tom Farnworth,27,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,155,Yasin Kazakli,35,umraniye,TUR,00:40:30,02:33:19,01:56:55,00:05:38,00:02:56,05:19:18
+ironman-70.3-turkey-20161023.csv,156,Volkan Ustabay,31,Besiktas,TUR,00:37:27,02:48:48,02:46:18,00:05:48,00:02:39,06:21:00
+ironman-70.3-turkey-20161023.csv,157,Stuart Mannering,41,Surrey,GBR,00:36:27,02:38:37,01:42:44,00:07:45,00:03:20,05:08:53
+ironman-70.3-turkey-20161023.csv,158,Mark Rogers,52,---,GBR,00:34:10,02:28:47,01:46:28,00:05:17,00:02:46,04:57:28
+ironman-70.3-turkey-20161023.csv,159,Kerem Güvel,34,bahcelievler,TUR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,160,Melih Yavas,41,Istanbul,TUR,00:36:27,02:35:35,01:38:07,00:06:26,00:01:54,04:58:29
+ironman-70.3-turkey-20161023.csv,161,Mike Spiewok,56,---,CHE,00:39:24,02:33:47,01:47:31,00:04:53,00:01:59,05:07:34
+ironman-70.3-turkey-20161023.csv,162,Sahin Çaglayan,29,APO,TUR,00:48:55,03:35:09,02:38:51,00:08:40,00:09:22,07:20:57
+ironman-70.3-turkey-20161023.csv,163,Markus Klein,47,---,DEU,00:38:04,02:26:58,01:44:50,00:06:38,00:02:30,04:59:00
+ironman-70.3-turkey-20161023.csv,164,Novozhylov Sergey,27,Odessa,UKR,00:32:53,02:31:08,01:57:07,00:05:40,00:04:18,05:11:06
+ironman-70.3-turkey-20161023.csv,165,Kaan Olgun,47,IST,TUR,00:43:29,02:54:33,02:17:27,00:12:04,00:04:28,06:12:01
+ironman-70.3-turkey-20161023.csv,166,Bastien Hoste,29,BE,BEL,00:34:31,02:51:55,01:49:29,00:06:46,00:02:52,05:25:33
+ironman-70.3-turkey-20161023.csv,167,Mustafa Kumbaraci,40,APO,TUR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,168,Onur Yavuz,38,TÜRKİYE,TUR,00:44:48,02:51:27,01:51:04,00:07:52,00:02:27,05:37:38
+ironman-70.3-turkey-20161023.csv,169,Ates Berna,43,Tuzla,TUR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,170,Serkan Yürür,38,Nicosia,TUR,00:39:53,02:35:49,01:49:46,00:06:16,00:02:31,05:14:15
+ironman-70.3-turkey-20161023.csv,171,Yildirim Bayazit,32,Sarıyer,TUR,00:46:12,03:03:52,02:22:15,00:09:39,00:07:28,06:29:26
+ironman-70.3-turkey-20161023.csv,172,Hasan Kar Ili,28,Kızılbaş,TUR,00:45:13,02:53:06,01:54:51,00:06:00,00:02:26,05:41:36
+ironman-70.3-turkey-20161023.csv,173,Ali Dukyanci,29,APO,TUR,00:39:47,02:51:36,01:56:29,00:06:20,00:02:28,05:36:40
+ironman-70.3-turkey-20161023.csv,174,Sermet Buran,30,APO,TUR,00:36:04,02:49:14,01:48:33,00:05:35,00:02:25,05:21:51
+ironman-70.3-turkey-20161023.csv,175,Patrick Bashor,34,AE,USA,00:39:56,02:53:37,02:37:30,00:07:27,00:03:34,06:22:04
+ironman-70.3-turkey-20161023.csv,176,Pierre Gentric,57,APO,FRA,00:33:36,02:45:44,02:15:48,00:05:41,00:02:30,05:43:19
+ironman-70.3-turkey-20161023.csv,177,Berkant Sener,26,KOCAELİ,TUR,00:37:49,02:37:54,01:55:00,00:07:12,00:03:59,05:21:54
+ironman-70.3-turkey-20161023.csv,178,Mark Forrester,49,DXB,AUS,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,179,Mark Rogers,52,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,180,Ilker Ecir,35,Kadikoy,TUR,00:35:32,02:44:13,02:29:17,00:07:18,00:03:50,06:00:10
+ironman-70.3-turkey-20161023.csv,181,Berkay Ramiz,29,KKTC,TUR,00:28:51,02:27:31,01:58:36,00:05:07,00:02:18,05:02:23
+ironman-70.3-turkey-20161023.csv,182,Murat Çiftçi,41,APO,TUR,00:35:26,02:36:33,01:46:44,00:06:06,00:02:33,05:07:22
+ironman-70.3-turkey-20161023.csv,183,Denys Khokhlov,37,Kiev,UKR,00:40:47,02:55:52,02:13:59,00:09:05,00:06:01,06:05:44
+ironman-70.3-turkey-20161023.csv,184,Edo Rensman,44,NL,NLD,00:46:41,03:23:49,02:21:17,00:10:08,00:06:21,06:48:16
+ironman-70.3-turkey-20161023.csv,185,Selman Çakir,38,TUZLA,TUR,00:41:34,02:58:36,01:55:44,00:05:52,00:03:56,05:45:42
+ironman-70.3-turkey-20161023.csv,186,Emre Ozbilge,32,Kyrenia,CYP,00:42:27,02:27:43,01:37:10,00:06:19,00:02:14,04:55:53
+ironman-70.3-turkey-20161023.csv,187,Burak Aydar,37,Maltepe,TUR,00:39:47,02:43:43,02:00:33,00:06:24,00:02:18,05:32:45
+ironman-70.3-turkey-20161023.csv,188,Mehmet Türkyilmaz,44,Turkey,TUR,00:37:57,02:47:36,02:04:56,00:06:45,00:04:14,05:41:28
+ironman-70.3-turkey-20161023.csv,189,Tunca Rodoplu,35,---,TUR,00:34:05,02:46:07,02:12:33,00:05:39,00:02:59,05:41:23
+ironman-70.3-turkey-20161023.csv,190,Kerem Güne Er,30,APO,TUR,00:40:56,02:55:16,02:08:19,00:06:24,00:02:16,05:53:11
+ironman-70.3-turkey-20161023.csv,191,Sezer Büyükbayrak,23,küçükçekmece,TUR,00:54:53,03:35:33,03:25:10,00:13:38,00:12:01,08:21:15
+ironman-70.3-turkey-20161023.csv,192,HAMZA SANDA,37,küçükçekmece,TUR,01:05:17,03:21:55,02:48:49,00:12:59,00:08:56,07:37:56
+ironman-70.3-turkey-20161023.csv,193,Mike Gregory,32,ON,CAN,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,194,Ali Bidi,66,Antalya,TUR,00:59:49,03:24:43,02:30:59,00:11:22,00:06:43,07:13:36
+ironman-70.3-turkey-20161023.csv,195,Onder Ozyilmaz,38,haliç,TUR,00:50:37,02:58:50,02:20:28,00:06:38,00:03:05,06:19:38
+ironman-70.3-turkey-20161023.csv,196,Pavel Matveev,39,Moscow,RUS,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,197,Johan Moolman,40,DXB,ZAF,00:31:37,02:34:45,02:10:47,00:06:52,00:03:07,05:27:08
+ironman-70.3-turkey-20161023.csv,198,Michael Peberdy,31,---,AUS,00:41:39,02:55:10,02:00:56,00:09:33,00:06:39,05:53:57
+ironman-70.3-turkey-20161023.csv,199,João Fonseca,48,Porto,PRT,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,200,Caglar Ciftci,48,APO,TUR,00:34:27,02:39:01,02:06:03,00:07:28,00:02:44,05:29:43
+ironman-70.3-turkey-20161023.csv,201,Onur Çaka,31,Sisli,TUR,00:33:35,02:42:58,01:40:07,00:06:26,00:03:01,05:06:07
+ironman-70.3-turkey-20161023.csv,202,Dmytro Rasskazov,40,APO,UKR,00:39:25,02:45:47,02:08:09,00:05:41,00:03:35,05:42:37
+ironman-70.3-turkey-20161023.csv,203,G.C. Van Mackelenbergh,47,BE,BEL,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,204,Ahmet Simsek,50,APO,DEU,00:40:21,02:41:07,01:48:16,00:07:49,00:03:26,05:20:59
+ironman-70.3-turkey-20161023.csv,205,Dominik Scholl,26,DE,DEU,00:37:50,02:48:24,02:10:15,00:06:53,00:03:20,05:46:42
+ironman-70.3-turkey-20161023.csv,206,Bahattin Kiliçaslan,52,APO,TUR,00:50:44,03:40:06,02:40:19,00:09:17,00:05:22,07:25:48
+ironman-70.3-turkey-20161023.csv,207,Charles Mackinnon,61,London,GBR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,208,Michal Szafraniuk,34,Mazowieckie ,POL,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,209,Volodymyr Kononskyi,38,Kyivska obl,UKR,00:42:47,02:52:19,02:08:27,00:05:39,00:03:10,05:52:22
+ironman-70.3-turkey-20161023.csv,210,Cihan Peker,32,Istanbul,TUR,00:36:32,02:45:16,01:45:20,00:05:52,00:02:45,05:15:45
+ironman-70.3-turkey-20161023.csv,211,Werner Ammann,67,---,CHE,00:39:35,02:36:02,02:10:29,00:06:05,00:03:03,05:35:14
+ironman-70.3-turkey-20161023.csv,212,Mark Cox,34,---,GBR,00:35:30,02:28:59,01:51:47,00:05:42,00:02:40,05:04:38
+ironman-70.3-turkey-20161023.csv,213,Cedric Lemaitre,43,---,FRA,00:37:03,02:37:27,02:15:19,00:07:38,00:03:52,05:41:19
+ironman-70.3-turkey-20161023.csv,214,Paul Bezlepkin,31,Moscow,RUS,00:43:07,03:06:55,02:22:13,00:12:08,00:07:38,06:32:01
+ironman-70.3-turkey-20161023.csv,215,Orhan Murat Gürson,48,APO,TUR,01:02:03,03:20:26,02:30:02,00:10:13,00:06:34,07:09:18
+ironman-70.3-turkey-20161023.csv,216,Berke Ozucer,30,APO,TUR,00:36:14,03:05:34,02:00:18,00:04:57,00:02:07,05:49:10
+ironman-70.3-turkey-20161023.csv,217,Jurijs Bormanis,25,---,LVA,00:42:21,02:38:39,01:36:29,00:05:33,00:04:23,05:07:25
+ironman-70.3-turkey-20161023.csv,218,Brian Best,45,CA,USA,00:32:58,02:35:12,01:52:51,00:06:00,00:02:49,05:09:50
+ironman-70.3-turkey-20161023.csv,219,Eren Yöntem,29,beyoglu,TUR,00:35:50,03:09:31,02:20:02,00:06:23,00:04:06,06:15:52
+ironman-70.3-turkey-20161023.csv,220,Can Toydemir,49,APO,TUR,00:39:38,03:16:09,01:58:56,00:07:03,00:05:49,06:07:35
+ironman-70.3-turkey-20161023.csv,221,Yaroslav Vedmid,38,APO,UKR,00:34:48,02:42:19,01:42:03,00:05:22,00:03:03,05:07:35
+ironman-70.3-turkey-20161023.csv,222,Vladyslav Rieznikov,36,Kyiv,UKR,00:41:28,03:01:47,02:34:27,00:08:28,00:04:58,06:31:08
+ironman-70.3-turkey-20161023.csv,223,Engin Budak,35,---,TUR,00:52:08,02:48:51,02:33:19,00:10:37,00:03:53,06:28:48
+ironman-70.3-turkey-20161023.csv,224,Emrah Eksi,32,Istanbul,TUR,00:51:15,03:16:48,02:37:08,00:10:04,00:05:02,07:00:17
+ironman-70.3-turkey-20161023.csv,225,Baris Okuducu,32,Turkey,TUR,00:50:35,02:57:26,02:46:29,00:06:19,00:06:11,06:47:00
+ironman-70.3-turkey-20161023.csv,226,Gabor Papp,34,Budapest,HUN,00:33:04,02:53:44,01:54:03,00:09:30,00:06:33,05:36:54
+ironman-70.3-turkey-20161023.csv,227,Gian Luca Bruzzone,50,Genova,ITA,00:37:40,03:22:59,02:13:31,00:07:23,00:04:52,06:26:25
+ironman-70.3-turkey-20161023.csv,228,Sencer Yildiz,41,APO,TUR,00:38:52,03:07:41,02:52:30,00:10:03,00:05:47,06:54:53
+ironman-70.3-turkey-20161023.csv,229,Aykut Misirlioglu,50,marmara,TUR,01:00:39,03:28:30,02:48:55,00:16:30,00:11:04,07:45:38
+ironman-70.3-turkey-20161023.csv,230,Markus Paerssinen,49,DE,DEU,00:32:55,02:42:25,01:47:01,00:06:14,00:02:17,05:10:52
+ironman-70.3-turkey-20161023.csv,231,Mikkel Christophersen,39,---,DNK,00:30:31,02:24:00,01:39:14,00:05:05,00:02:50,04:41:40
+ironman-70.3-turkey-20161023.csv,232,Mert Aktürk,22,Turkey,TUR,00:40:37,02:55:08,02:45:00,00:05:49,00:05:05,06:31:39
+ironman-70.3-turkey-20161023.csv,233,Dmytro Polupan,27,Kievskaya,UKR,00:38:52,02:47:20,02:08:20,00:10:58,00:06:44,05:52:14
+ironman-70.3-turkey-20161023.csv,234,Serdar Dasar,34,Istanbul-Turkiye,TUR,00:47:19,03:06:50,02:39:00,00:08:47,00:05:57,06:47:53
+ironman-70.3-turkey-20161023.csv,235,Can Dursun,34,Istanbul,TUR,00:41:42,02:58:24,02:01:53,00:10:42,00:03:39,05:56:20
+ironman-70.3-turkey-20161023.csv,236,Bernhard Huemer,28,London,AUT,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,237,Murat Kulak,43,istanbul,TUR,00:36:24,02:55:35,01:58:32,00:10:28,00:03:14,05:44:13
+ironman-70.3-turkey-20161023.csv,238,Alev Aksoy,39,IStanbul,TUR,00:39:26,03:04:17,02:20:04,00:08:03,00:03:35,06:15:25
+ironman-70.3-turkey-20161023.csv,239,Vojtech Spisak,43,Marianka,SVK,00:39:02,02:54:05,02:00:30,00:07:25,00:04:19,05:45:21
+ironman-70.3-turkey-20161023.csv,240,Cem Mercan,47,Bratislava,SVK,00:45:54,02:57:45,02:34:12,00:07:46,00:03:21,06:28:58
+ironman-70.3-turkey-20161023.csv,241,Ozgur Maras,46,Istanbul,TUR,00:56:26,03:18:31,02:55:16,00:09:56,00:07:11,07:27:20
+ironman-70.3-turkey-20161023.csv,242,Vitaliy Provotorov,32,Kyïv,UKR,00:34:02,02:40:27,01:52:40,00:06:22,00:02:30,05:16:01
+ironman-70.3-turkey-20161023.csv,243,Cihan Kizilcik,42,APO,TUR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,244,Iaroslav Mykhaliuk,34,Kiev,UKR,00:32:56,02:46:34,01:57:48,00:08:20,00:05:41,05:31:19
+ironman-70.3-turkey-20161023.csv,245,Thomas Huwiler,27,---,CHE,00:28:35,02:13:25,01:14:07,00:03:45,00:01:19,04:01:11
+ironman-70.3-turkey-20161023.csv,246,Can Adigüzel,31,Moscow,TUR,00:34:07,02:42:36,01:47:37,00:07:03,00:02:19,05:13:42
+ironman-70.3-turkey-20161023.csv,247,Ahmet Özbecetek,48,SARIYER,TUR,00:43:43,02:50:06,02:11:25,00:07:33,00:02:57,05:55:44
+ironman-70.3-turkey-20161023.csv,248,Mikola Kaplanets,32,---,UKR,00:44:21,02:52:05,02:11:40,00:05:23,00:02:56,05:56:25
+ironman-70.3-turkey-20161023.csv,249,Selcuk Yildirim,52,---,DEU,00:34:37,02:36:19,01:45:26,00:05:07,00:04:16,05:05:45
+ironman-70.3-turkey-20161023.csv,250,Sergey Vodopianov,34,UKR,UKR,00:41:48,02:57:24,02:16:56,00:07:00,00:03:34,06:06:42
+ironman-70.3-turkey-20161023.csv,251,Egemen Erden,45,Besiktas,TUR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,252,Dmitri Veremeev,41,-,RUS,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,253,Nicolas Douillet,39,besiktas,FRA,00:39:45,03:19:27,02:25:10,00:07:51,00:06:34,06:38:47
+ironman-70.3-turkey-20161023.csv,254,Christopher Wuttke,43,---,DEU,00:44:56,02:43:27,02:08:38,00:07:07,00:04:39,05:48:47
+ironman-70.3-turkey-20161023.csv,255,Server Tanfer,54,IST,TUR,00:34:50,02:34:44,01:58:15,00:06:51,00:04:25,05:19:05
+ironman-70.3-turkey-20161023.csv,257,Rune Jørgensen,32,---,DNK,00:57:21,03:34:08,02:49:51,00:12:15,00:06:06,07:39:41
+ironman-70.3-turkey-20161023.csv,258,Irfan Karaman,31,Konyaalti,TUR,00:33:59,02:37:17,01:52:44,00:08:34,00:02:48,05:15:22
+ironman-70.3-turkey-20161023.csv,259,Efe Gürsoy,31,konak,TUR,00:31:18,03:04:09,02:30:23,00:08:02,00:03:18,06:17:10
+ironman-70.3-turkey-20161023.csv,260,Andrey Yaroslavskiy,46,Kazakhstan,KAZ,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,261,Baha Borash,27,Kazakhstan,KAZ,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,262,Okan Alpay,47,Sariyer,TUR,00:33:16,02:50:51,02:35:23,00:06:11,00:04:20,06:10:01
+ironman-70.3-turkey-20161023.csv,263,Cem Bayrakdaroglu,38,Turkey,TUR,00:49:35,02:50:53,02:37:58,00:07:45,00:05:00,06:31:11
+ironman-70.3-turkey-20161023.csv,264,Deniz Kalibcioglu,29,Nicosia,CYP,00:39:50,02:54:14,01:56:44,00:06:48,00:02:48,05:40:24
+ironman-70.3-turkey-20161023.csv,265,Ali Tabbal,48,DXB,LBN,00:30:11,02:27:24,01:46:25,00:05:06,00:02:37,04:51:43
+ironman-70.3-turkey-20161023.csv,266,Alexey Shamin,42,---,RUS,00:40:25,03:05:08,01:56:33,00:08:30,00:04:27,05:55:03
+ironman-70.3-turkey-20161023.csv,267,Oleg Sidorenko,50,---,RUS,00:34:43,02:38:55,01:54:25,00:05:57,00:02:41,05:16:41
+ironman-70.3-turkey-20161023.csv,268,Murat Candeger,49,---,TUR,00:38:07,03:05:50,02:18:25,00:10:55,00:05:56,06:19:13
+ironman-70.3-turkey-20161023.csv,269,Charles Evans,26,---,GBR,00:34:13,02:54:31,02:11:14,00:05:50,00:02:41,05:48:29
+ironman-70.3-turkey-20161023.csv,270,Haluk Boga,42,BURSA,TUR,00:56:29,03:37:07,03:08:21,00:11:16,00:10:07,08:03:20
+ironman-70.3-turkey-20161023.csv,271,Warren Allison,34,North Yorkshire,GBR,00:36:23,02:49:54,02:11:04,00:05:00,00:02:27,05:44:48
+ironman-70.3-turkey-20161023.csv,272,Jonathan Townrow,37,APO,GBR,00:38:04,02:43:53,01:58:52,00:04:45,00:03:14,05:28:48
+ironman-70.3-turkey-20161023.csv,273,Kemal Elektrikci,24,APO,CYP,00:33:15,02:33:22,01:55:24,00:05:28,00:04:03,05:11:32
+ironman-70.3-turkey-20161023.csv,274,Hakan U Urlu,30,Muratpaşa,TUR,00:37:31,02:39:54,01:58:44,00:05:14,00:02:34,05:23:57
+ironman-70.3-turkey-20161023.csv,275,Ilya Potemin,37,"
+saint petersburg",RUS,00:36:38,03:01:09,02:21:03,00:07:01,00:03:16,06:09:07
+ironman-70.3-turkey-20161023.csv,276,Dariusz Swiderski,46,---,POL,00:46:09,02:36:46,01:37:23,00:05:29,00:02:50,05:08:37
+ironman-70.3-turkey-20161023.csv,277,Saruhan Oflaz,32,Maslak,TUR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,278,Orhan Can Ozbek,33,Cayyolu,TUR,00:33:39,02:37:58,02:13:06,00:05:05,00:02:18,05:32:06
+ironman-70.3-turkey-20161023.csv,279,Grigory Zotov,45,---,RUS,00:34:33,02:42:14,02:08:24,00:06:14,00:02:50,05:34:15
+ironman-70.3-turkey-20161023.csv,280,Menduh Lutfija,62,APO,TUR,00:45:34,02:51:25,02:22:57,00:06:55,00:02:10,06:09:01
+ironman-70.3-turkey-20161023.csv,281,Magnus Benon,49,Moscow,RUS,00:39:26,02:43:03,02:12:30,00:06:05,00:03:19,05:44:23
+ironman-70.3-turkey-20161023.csv,282,Mukhtar Nurzhigitov,32,Almaty,KAZ,00:40:53,03:12:39,02:30:09,00:07:23,00:03:09,06:34:13
+ironman-70.3-turkey-20161023.csv,283,Ahmet Barazi,28,Kepez,TUR,00:38:03,02:39:28,01:52:42,00:06:32,00:03:46,05:20:31
+ironman-70.3-turkey-20161023.csv,284,Arda  Gülhan,27,Sisli,TUR,00:45:18,03:02:37,02:08:07,00:07:07,00:09:35,06:12:44
+ironman-70.3-turkey-20161023.csv,285,Alper Bahar,44,istanbul,TUR,00:43:46,02:54:04,02:09:11,00:08:37,00:05:41,06:01:19
+ironman-70.3-turkey-20161023.csv,286,Alaaddin Umur Güven,45,APO,TUR,00:36:58,02:43:46,01:48:51,00:08:41,00:04:14,05:22:30
+ironman-70.3-turkey-20161023.csv,287,Juan Jose Somoza,45,Doha,VEN,00:35:30,02:42:08,02:01:16,00:07:14,00:02:42,05:28:50
+ironman-70.3-turkey-20161023.csv,288,Carlos Castro,50,Doha,VEN,00:36:00,---,---,---,07:05:22,DNF
+ironman-70.3-turkey-20161023.csv,289,Yucel Bilici,42,Bakirkoy,TUR,00:42:36,03:05:50,02:12:29,00:06:52,00:08:17,06:16:04
+ironman-70.3-turkey-20161023.csv,290,Selcuk Oguzturk,42,turkey,TUR,00:51:59,03:07:20,02:12:58,00:06:53,00:03:40,06:22:50
+ironman-70.3-turkey-20161023.csv,291,Alexandr Vinokurov,43,Astana,KAZ,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,292,Sergey Yakovlev,40,Almaty city,KAZ,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,293,Uros Kepic,47,Russia,SVN,00:33:04,02:40:58,01:39:00,00:04:47,00:02:23,05:00:12
+ironman-70.3-turkey-20161023.csv,294,Assan Bazayev,35,Astana,KAZ,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,295,Halil Beskardesler,33,APO,TUR,00:28:30,02:50:10,02:07:59,00:07:46,00:05:37,05:40:02
+ironman-70.3-turkey-20161023.csv,296,Tamer Zeybek,48,APO,TUR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,297,Shukri Husseini,37,DXB,JOR,00:40:34,02:43:09,01:49:00,00:06:09,00:03:32,05:22:24
+ironman-70.3-turkey-20161023.csv,298,Neil Fowler,37,Aberdeenshire,GBR,00:36:26,03:06:02,02:14:37,00:08:29,00:05:42,06:11:16
+ironman-70.3-turkey-20161023.csv,299,Eralp Hosgör,43,izmir,TUR,00:41:46,02:45:58,02:14:50,00:06:03,00:02:33,05:51:10
+ironman-70.3-turkey-20161023.csv,300,Artem Baroyan,31,Kyiv city,UKR,00:46:46,03:02:43,02:18:47,00:09:05,00:17:10,06:34:31
+ironman-70.3-turkey-20161023.csv,301,Onur Kircali,41,MASLAK,TUR,00:37:36,02:54:11,02:08:00,00:06:45,00:03:23,05:49:55
+ironman-70.3-turkey-20161023.csv,302,Hasan Ellialtioglu,48,Beykoz,TUR,00:34:21,02:36:43,01:50:57,00:06:51,00:04:01,05:12:53
+ironman-70.3-turkey-20161023.csv,303,Maksym Mazur,38,---,UKR,00:25:51,02:13:53,01:48:43,00:04:25,00:02:51,04:35:43
+ironman-70.3-turkey-20161023.csv,304,Huseyin Yilmaz,48,KONYAALTI,TUR,00:37:20,02:36:51,01:53:42,00:06:07,00:02:45,05:16:45
+ironman-70.3-turkey-20161023.csv,305,Sabri Yigit Ufler,30,ANTALYA,TUR,00:35:41,02:34:27,01:55:30,00:06:49,00:03:06,05:15:33
+ironman-70.3-turkey-20161023.csv,306,Hashem Alharbi,42,AUH,ARE,00:45:19,02:32:19,02:02:18,00:04:17,00:03:18,05:27:31
+ironman-70.3-turkey-20161023.csv,307,Martin Bernhart,52,TR Antalya,TUR,00:44:08,02:30:04,01:48:09,00:04:52,00:03:11,05:10:24
+ironman-70.3-turkey-20161023.csv,308,Joel Corthinal,40,---,FRA,00:34:35,02:20:03,01:31:20,00:04:37,00:01:46,04:32:21
+ironman-70.3-turkey-20161023.csv,309,Dincer Yilmaz,32,narlidere,TUR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,310,Ramazan Kaiaev,39,Chui region,KGZ,00:34:42,03:01:45,02:02:44,00:06:56,00:04:57,05:51:04
+ironman-70.3-turkey-20161023.csv,311,Timuçin Gülaç,42,izmir,TUR,00:28:41,02:42:43,02:35:18,00:06:34,00:04:47,05:58:03
+ironman-70.3-turkey-20161023.csv,312,Duncan Hyslop,37,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,313,Mesut Kabaer,29,Fatih,TUR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,314,Ustun Ayhan Ustundag,36,APO,TUR,01:03:36,03:41:28,03:04:06,00:12:37,00:06:48,08:08:35
+ironman-70.3-turkey-20161023.csv,315,Michael Meier,41,---,CHE,00:31:48,03:14:07,01:36:33,00:04:18,00:02:26,05:29:12
+ironman-70.3-turkey-20161023.csv,316,Hasan Suel,47,İstanbul,TUR,00:46:01,02:58:31,02:06:00,00:09:19,00:03:33,06:03:24
+ironman-70.3-turkey-20161023.csv,317,Binatli Tugay,47,Europe,TUR,00:34:40,02:31:59,01:42:36,00:05:00,00:02:36,04:56:51
+ironman-70.3-turkey-20161023.csv,318,Alper Rengiz,32,Konyaaltı,TUR,00:35:56,02:31:42,01:55:12,00:05:36,00:03:23,05:11:49
+ironman-70.3-turkey-20161023.csv,319,Arkin Siktasli,38,Şehzadeler,TUR,00:37:12,02:54:53,02:05:07,00:07:09,00:04:24,05:48:45
+ironman-70.3-turkey-20161023.csv,320,Baris Sinan Ural,44,Manama,TUR,00:52:01,03:44:48,02:35:03,00:08:41,00:03:58,07:24:31
+ironman-70.3-turkey-20161023.csv,321,Evgeniy Boyko,30,---,RUS,00:43:30,02:47:07,01:50:47,00:05:50,00:02:35,05:29:49
+ironman-70.3-turkey-20161023.csv,322,Cüneyt Aygün,36,ANKARA,TUR,00:38:57,02:45:52,01:45:54,00:05:57,00:01:56,05:18:36
+ironman-70.3-turkey-20161023.csv,323,Nikolay Efremov,30,"APO
+",RUS,00:35:17,02:49:26,01:49:23,00:07:35,00:02:44,05:24:25
+ironman-70.3-turkey-20161023.csv,324,Sergejs Kudrjavcevs,35,Riga,LVA,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,325,Justin Hunt,44,Cornwall ,GBR,00:32:08,02:55:58,01:49:35,00:05:16,00:03:10,05:26:07
+ironman-70.3-turkey-20161023.csv,326,Billy Hodgson,24,Cornwall,GBR,00:34:29,02:31:46,01:48:49,00:04:35,00:02:01,05:01:40
+ironman-70.3-turkey-20161023.csv,327,Murat Sapsaglam,47,IZMIR,TUR,00:30:13,03:13:23,02:24:37,00:05:36,00:04:02,06:17:51
+ironman-70.3-turkey-20161023.csv,328,Fatih Topçu,38,na,TUR,00:35:51,02:33:26,01:36:28,00:05:47,00:02:18,04:53:50
+ironman-70.3-turkey-20161023.csv,329,Murat Bayram,38,Bursa,TUR,00:41:52,03:01:30,02:11:53,00:08:27,00:06:09,06:09:51
+ironman-70.3-turkey-20161023.csv,330,Oguz Bodur,30,APO,TUR,00:49:49,03:08:15,02:45:04,00:10:23,00:04:10,06:57:41
+ironman-70.3-turkey-20161023.csv,331,Sinan Aksu,44,na,TUR,00:50:04,02:51:22,02:20:35,00:07:49,00:03:13,06:13:03
+ironman-70.3-turkey-20161023.csv,332,Zulfu Karabulut,32,Muratpaşa,TUR,00:28:06,02:17:16,01:51:45,00:04:15,00:01:31,04:42:53
+ironman-70.3-turkey-20161023.csv,333,Serhat Yakar,39,APO,TUR,00:42:57,03:48:43,02:43:42,00:06:33,00:04:54,07:26:49
+ironman-70.3-turkey-20161023.csv,334,Anton Kort,39,AE,USA,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,335,Umit Goktepe,33,Istanbul,TUR,00:38:39,02:44:48,01:41:57,00:06:02,00:02:23,05:13:49
+ironman-70.3-turkey-20161023.csv,336,Ruso Yakimovic,32,Maslak,TUR,00:27:01,02:30:05,01:29:50,00:04:07,00:01:52,04:32:55
+ironman-70.3-turkey-20161023.csv,337,Umut Can Temiz,22,Kağıthane,TUR,00:42:49,02:33:38,02:26:50,00:05:00,00:02:41,05:50:58
+ironman-70.3-turkey-20161023.csv,338,Denis Polyakov,40,Moscow,RUS,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,339,Vahid Hasanbeigi Khameneh,38,TEH,IRN,00:29:55,02:23:32,02:15:33,00:04:59,00:03:00,05:16:59
+ironman-70.3-turkey-20161023.csv,340,Wolfgang Probst,48,---,DEU,00:32:18,02:36:40,01:42:35,00:06:00,00:03:14,05:00:47
+ironman-70.3-turkey-20161023.csv,341,Alexandr Nikitin,35,Kiev,UKR,00:37:41,02:27:25,01:38:06,00:05:51,00:04:28,04:53:31
+ironman-70.3-turkey-20161023.csv,342,Yury Yurchanka,27,"Minsk
+Minsk",BLR,00:47:18,03:03:29,01:49:43,00:06:29,00:02:11,05:49:10
+ironman-70.3-turkey-20161023.csv,343,Pavel Blagikh,30,Chelyabinskaya,RUS,00:36:48,02:15:38,01:33:26,00:04:00,00:01:56,04:31:48
+ironman-70.3-turkey-20161023.csv,344,Ali Atav,36,APO,TUR,00:42:53,02:57:07,01:32:50,00:05:30,00:03:29,05:21:49
+ironman-70.3-turkey-20161023.csv,345,Mete Pinar,33,Florya,TUR,---,---,---,---,---,DQ
+ironman-70.3-turkey-20161023.csv,346,Nikolaj Bjerringfelt,39,---,DNK,00:34:45,02:42:15,01:56:01,00:06:42,00:03:19,05:23:02
+ironman-70.3-turkey-20161023.csv,347,Duygun Yurteri,32,İstanbul,TUR,00:26:56,02:29:30,01:40:16,00:04:49,00:01:58,04:43:29
+ironman-70.3-turkey-20161023.csv,348,Emre Özdoganci,38,ALTINTEPE,TUR,00:39:53,02:53:52,02:20:43,00:07:25,00:03:15,06:05:08
+ironman-70.3-turkey-20161023.csv,349,Murat Guney,34,besiktas,TUR,00:39:24,02:26:51,01:43:05,00:05:34,00:02:18,04:57:12
+ironman-70.3-turkey-20161023.csv,350,Alper Ada,39,muratpaşa,TUR,00:39:14,02:35:26,01:55:06,00:05:46,00:02:42,05:18:14
+ironman-70.3-turkey-20161023.csv,351,Oleksandr Vovk,24,---,UKR,00:35:37,02:33:49,01:46:31,00:05:14,00:02:28,05:03:39
+ironman-70.3-turkey-20161023.csv,352,Burak GONEN,46,Muratpaşa,TUR,00:35:25,02:48:08,02:27:10,00:06:47,00:04:44,06:02:14
+ironman-70.3-turkey-20161023.csv,353,Bahadir Tama,31,Merkez,TUR,00:28:00,02:20:01,01:46:18,00:03:39,00:01:40,04:39:38
+ironman-70.3-turkey-20161023.csv,354,Ogultan Bestek,18,ISTANBUL,TUR,00:43:57,02:46:29,01:45:27,00:05:50,00:02:35,05:24:18
+ironman-70.3-turkey-20161023.csv,355,Birol Kirklareli,52,Atasehir,TUR,00:34:03,02:59:25,02:07:30,00:09:01,00:05:18,05:55:17
+ironman-70.3-turkey-20161023.csv,356,Timerbulat Bagautdinov,26,moscow,RUS,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,357,Onur Ünal,29,---,TUR,00:40:49,03:11:38,02:26:26,00:06:29,00:03:58,06:29:20
+ironman-70.3-turkey-20161023.csv,358,Mehkmet Kutup  ndzhebai,43,---,RUS,00:46:08,03:17:48,02:29:00,00:07:46,00:05:41,06:46:23
+ironman-70.3-turkey-20161023.csv,359,Hakan Posacioglu,49,turkey,TUR,00:30:44,02:45:54,02:16:05,00:04:58,00:02:39,05:40:20
+ironman-70.3-turkey-20161023.csv,360,Andrey Karpov,31,---,RUS,00:34:10,02:18:45,01:45:23,00:04:49,00:02:41,04:45:48
+ironman-70.3-turkey-20161023.csv,361,Igor Savchuk,49,APO,RUS,00:45:49,03:17:10,02:27:13,00:10:10,00:07:48,06:48:10
+ironman-70.3-turkey-20161023.csv,362,Hakan Dündar,40,no,TUR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,363,Benedict Paget,29,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,364,Matt Peel,31,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,365,Markus Ockborn,51,SE,SWE,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,366,Benjamin Klante,39,---,CHE,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,367,Derek Cameron,48,Hants,GBR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,368,Brian Lynch,28,OTHER,IRL,00:43:53,03:01:36,01:43:08,00:10:03,00:04:07,05:42:47
+ironman-70.3-turkey-20161023.csv,369,Ahmed Al Harban,33,Doha,BHR,00:44:14,02:51:28,01:57:16,00:07:36,00:04:30,05:45:04
+ironman-70.3-turkey-20161023.csv,370,Alan Champion,60,---,GBR,00:46:17,02:48:43,02:04:02,00:06:44,00:04:30,05:50:16
+ironman-70.3-turkey-20161023.csv,371,Dave Kellermanns,40,CO,DEU,00:34:47,02:45:39,02:52:21,00:08:41,00:05:06,06:26:34
+ironman-70.3-turkey-20161023.csv,372,Tim Fievez,31,---,BEL,00:25:53,02:15:55,01:34:15,00:04:04,00:01:52,04:21:59
+ironman-70.3-turkey-20161023.csv,373,Philipp Jander,33,DE,DEU,00:30:28,02:51:36,02:13:25,00:06:14,00:02:54,05:44:37
+ironman-70.3-turkey-20161023.csv,374,Burç Seven,40,Sariyer,TUR,00:47:55,03:22:38,02:42:58,00:09:26,00:05:18,07:08:15
+ironman-70.3-turkey-20161023.csv,375,Daniel Arpinte,43,Romania,ROU,00:35:30,02:27:09,01:46:37,00:05:10,00:02:49,04:57:15
+ironman-70.3-turkey-20161023.csv,376,Gökhan Erc Yes,35,APO,TUR,00:38:24,02:36:13,01:39:59,00:06:00,00:01:50,05:02:26
+ironman-70.3-turkey-20161023.csv,377,Micah Dougall,31,United Kingdom,GBR,00:39:01,02:35:36,01:55:01,00:05:02,00:02:01,05:16:41
+ironman-70.3-turkey-20161023.csv,378,Baris Kilickaya,40,TURKEY,TUR,00:33:09,02:38:03,01:30:16,00:07:35,00:03:25,04:52:28
+ironman-70.3-turkey-20161023.csv,379,Inanç Vatansever,36,Küçükçekmece,TUR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,380,Seyran Güne,36,HALKALI,TUR,00:44:47,02:44:43,01:49:06,00:06:08,00:06:40,05:31:24
+ironman-70.3-turkey-20161023.csv,381,Arda Ergene,35,KONAK,TUR,00:33:35,03:03:46,02:15:05,00:07:20,00:04:49,06:04:35
+ironman-70.3-turkey-20161023.csv,382,Korkut Omur,54,Monaco,TUR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,383,Burak Mengü,30,Turkey,TUR,00:36:59,02:37:49,01:59:57,00:04:50,00:02:17,05:21:52
+ironman-70.3-turkey-20161023.csv,384,Murat Den Z Uzun,30,NİLÜFER,TUR,00:33:51,03:14:02,02:29:02,00:06:27,00:07:46,06:31:08
+ironman-70.3-turkey-20161023.csv,386,Burak Alpaslan,46,NJ,USA,00:50:35,02:47:17,02:00:58,00:08:37,00:03:17,05:50:44
+ironman-70.3-turkey-20161023.csv,387,Nedim Anter,44,Turkey,TUR,00:37:56,02:41:19,01:55:36,00:09:57,00:04:08,05:28:56
+ironman-70.3-turkey-20161023.csv,388,Volkan Odak,29,istanbul,TUR,00:33:29,02:33:55,01:49:32,00:04:28,00:04:13,05:05:37
+ironman-70.3-turkey-20161023.csv,390,Pierre Jander,35,---,DEU,00:30:05,02:22:14,01:48:07,00:04:17,00:01:28,04:46:11
+ironman-70.3-turkey-20161023.csv,391,Tolga Ünal,43,Üsküdar,TUR,00:30:05,03:01:29,01:39:01,00:07:57,00:03:35,05:22:07
+ironman-70.3-turkey-20161023.csv,392,Ali Coskun,41,BESIKTAS,TUR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,393,Vitkor Didenko,38,Ukraine,UKR,00:30:12,02:17:35,01:31:11,00:04:12,00:02:18,04:25:28
+ironman-70.3-turkey-20161023.csv,394,Utku Inan,36,APO,TUR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,395,Erik Klomp,52,turkey istanbul,NLD,00:35:49,02:59:21,02:11:24,00:08:17,00:05:03,05:59:54
+ironman-70.3-turkey-20161023.csv,396,Fatih Volkan Ileri,42,.,TUR,00:36:46,03:19:48,02:24:40,00:09:33,00:04:50,06:35:37
+ironman-70.3-turkey-20161023.csv,397,Burak Karacik,35,istanbul,TUR,00:39:54,02:50:31,02:12:23,00:05:26,00:02:35,05:50:49
+ironman-70.3-turkey-20161023.csv,398,Baris Ilhan,29,Karşıyaka,TUR,00:27:24,02:30:11,01:33:02,00:03:47,00:01:33,04:35:57
+ironman-70.3-turkey-20161023.csv,399,Thiago Valsani,31,Istanbul,BRA,00:38:50,03:00:46,02:17:49,00:08:28,00:03:44,06:09:37
+ironman-70.3-turkey-20161023.csv,400,Hakan Deniz,44,Turkey,TUR,00:39:11,02:49:03,02:29:41,00:06:54,00:03:57,06:08:46
+ironman-70.3-turkey-20161023.csv,402,Mert Eryürük,40,Istanbul,TUR,00:36:08,02:52:22,02:30:47,00:07:02,00:03:05,06:09:24
+ironman-70.3-turkey-20161023.csv,403,Barkin Baysal,41,ISTANBUL,TUR,00:42:35,02:48:19,02:09:51,00:08:31,00:04:42,05:53:58
+ironman-70.3-turkey-20161023.csv,404,Mykola Radlinskyy,31,Poltava region,UKR,00:44:32,03:42:47,02:38:10,00:08:06,00:05:05,07:18:40
+ironman-70.3-turkey-20161023.csv,405,Batuhan Ünal,23,Beşiktaş,TUR,00:41:34,03:11:02,---,00:07:40,00:06:34,DNF
+ironman-70.3-turkey-20161023.csv,406,Enis Akyüz,32,TC,TUR,00:39:47,02:41:25,01:46:42,00:05:00,00:01:57,05:14:51
+ironman-70.3-turkey-20161023.csv,407,Can Papuccuoglu,39,TURKEY,TUR,00:44:04,03:01:34,02:37:12,00:06:57,00:02:44,06:32:31
+ironman-70.3-turkey-20161023.csv,408,Celil Akman,44,APO,TUR,00:44:25,03:09:31,02:11:28,00:07:57,00:04:03,06:17:24
+ironman-70.3-turkey-20161023.csv,409,Ömür Battal,38,APO,TUR,00:32:27,02:34:06,01:44:43,00:04:09,00:02:05,04:57:30
+ironman-70.3-turkey-20161023.csv,410,Kerim Sukan,42,Istanbul,TUR,00:28:47,02:32:41,01:53:11,00:05:13,00:01:51,05:01:43
+ironman-70.3-turkey-20161023.csv,411,Ali Levent Kurtoglu,35,Istanbul,TUR,00:41:04,02:54:11,02:01:04,00:07:15,00:04:37,05:48:11
+ironman-70.3-turkey-20161023.csv,412,Alper Akcan,40,Besiktas,TUR,00:38:01,02:30:11,01:50:07,00:05:34,00:02:45,05:06:38
+ironman-70.3-turkey-20161023.csv,413,Ahmet Alpat,33,Istanbul,TUR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,414,Avni Kilincaslan,38,Istanbul,TUR,00:44:33,02:50:19,02:17:15,00:06:42,00:03:48,06:02:37
+ironman-70.3-turkey-20161023.csv,415,Ege Battal,41,KADIKOY,TUR,00:32:25,02:34:02,01:47:59,00:04:10,00:02:10,05:00:46
+ironman-70.3-turkey-20161023.csv,416,Murat Erbelger,47,istanbul,TUR,00:36:23,03:04:13,02:09:19,00:06:01,00:04:04,06:00:00
+ironman-70.3-turkey-20161023.csv,418,Sergii Boldaiev,31,Kiev,UKR,00:37:55,03:02:02,02:24:53,00:06:41,00:03:10,06:14:41
+ironman-70.3-turkey-20161023.csv,420,Nuri Çagatay Çimsit,44,Levent,TUR,00:38:26,02:39:01,01:58:35,00:05:55,00:02:10,05:24:07
+ironman-70.3-turkey-20161023.csv,421,Bener Erguvenoglu,33,Esentepe,TUR,00:45:11,02:44:29,02:00:01,00:07:19,00:04:41,05:41:41
+ironman-70.3-turkey-20161023.csv,422,EMRE ÜÇÜNCÜOĞLU,35,PENDIK,TUR,00:41:35,02:50:54,02:20:57,00:07:26,00:03:00,06:03:52
+ironman-70.3-turkey-20161023.csv,423,Mahir Rozalis,42,istanbul,TUR,00:33:42,02:41:48,02:05:50,00:05:50,00:04:08,05:31:18
+ironman-70.3-turkey-20161023.csv,424,Bora Yucel,40,Marmara,TUR,00:43:57,02:39:56,02:01:56,00:09:00,00:03:14,05:38:03
+ironman-70.3-turkey-20161023.csv,425,Wojciech Odzimek,38,---,POL,00:31:02,02:17:54,01:47:00,00:04:43,00:02:09,04:42:48
+ironman-70.3-turkey-20161023.csv,426,Tamas Kovacs,33,Istanbul,HUN,00:37:08,02:50:40,02:30:47,00:07:23,00:03:08,06:09:06
+ironman-70.3-turkey-20161023.csv,427,Mert Kalafatoglu,38,APO,TUR,00:37:24,03:01:53,02:12:46,00:07:33,00:05:11,06:04:47
+ironman-70.3-turkey-20161023.csv,428,Çagri Terzioglu,31,APO,TUR,00:38:00,02:34:50,01:52:34,00:04:37,00:03:09,05:13:10
+ironman-70.3-turkey-20161023.csv,429,Nihat Cinarli,38,izmir,TUR,00:42:47,02:45:40,02:34:26,00:06:37,00:03:43,06:13:13
+ironman-70.3-turkey-20161023.csv,430,Ozan Demirel,37,Gokturk,TUR,00:37:27,02:30:19,01:48:52,00:06:39,00:02:47,05:06:04
+ironman-70.3-turkey-20161023.csv,431,Ahmet Berber,38,TURKEY,TUR,00:32:48,02:35:33,01:44:59,00:07:26,00:05:09,05:05:55
+ironman-70.3-turkey-20161023.csv,432,Fatih Murat Tunc,41,istanbul,TUR,00:42:01,02:48:54,02:11:18,00:06:36,00:03:32,05:52:21
+ironman-70.3-turkey-20161023.csv,433,Aziz Yigit Gökalp,32,APO,TUR,00:38:48,02:57:13,02:05:19,00:05:58,00:03:40,05:50:58
+ironman-70.3-turkey-20161023.csv,434,Umut Karamahmut,35,---,TUR,00:52:27,02:52:13,02:07:26,00:08:40,00:04:50,06:05:36
+ironman-70.3-turkey-20161023.csv,435,Hüseyin Balci,40,Istanbul,TUR,00:33:32,02:38:32,01:53:43,00:06:12,00:02:15,05:14:14
+ironman-70.3-turkey-20161023.csv,436,Kaan Akpinar,37,APO,TUR,00:40:00,02:35:37,01:57:53,00:04:44,00:02:18,05:20:32
+ironman-70.3-turkey-20161023.csv,437,Engin Eskiduman,43,APO,TUR,00:43:19,03:09:57,01:58:05,00:07:12,00:03:10,06:01:43
+ironman-70.3-turkey-20161023.csv,438,Iegor Rubanskyi,34,Kharkov,UKR,00:30:55,02:41:23,01:44:27,00:04:49,00:02:19,05:03:53
+ironman-70.3-turkey-20161023.csv,439,Hakan Sayar,54,APO,TUR,00:41:02,02:50:14,01:55:39,00:06:50,00:03:28,05:37:13
+ironman-70.3-turkey-20161023.csv,440,Yamaç Kolatan,24,APO,TUR,00:41:39,02:37:26,02:10:21,00:05:02,00:02:32,05:37:00
+ironman-70.3-turkey-20161023.csv,441,Berry Nae,41,Turkey,TUR,00:37:58,02:24:26,01:40:15,00:05:10,00:01:58,04:49:47
+ironman-70.3-turkey-20161023.csv,442,Thomas Powell,42,---,GBR,00:32:10,02:46:01,01:59:51,00:06:33,00:03:55,05:28:30
+ironman-70.3-turkey-20161023.csv,443,Tuncay Cumhur,52,Turkey,TUR,00:34:15,03:06:08,02:31:47,00:09:49,00:03:08,06:25:07
+ironman-70.3-turkey-20161023.csv,444,Volkan Aydin,43,Atasehir,TUR,00:42:49,03:31:01,02:23:32,00:07:07,00:03:33,06:48:02
+ironman-70.3-turkey-20161023.csv,445,Tevf K Örten,57,TURKEY,TUR,00:35:40,02:39:47,02:28:25,00:06:21,00:03:53,05:54:06
+ironman-70.3-turkey-20161023.csv,446,Serkan Aksel,33,Turkey,TUR,00:39:41,02:45:48,02:14:06,00:07:40,00:03:48,05:51:03
+ironman-70.3-turkey-20161023.csv,447,Jean Mertens,62,---,CHE,00:38:27,02:35:10,02:22:48,00:07:18,00:04:11,05:47:54
+ironman-70.3-turkey-20161023.csv,448,Bora Özcivit,27,turkey,TUR,00:35:34,02:20:03,02:03:46,00:04:56,00:02:23,05:06:42
+ironman-70.3-turkey-20161023.csv,449,Mehmet Cet N,35,APO,TUR,00:43:19,02:57:48,02:12:35,00:05:08,00:03:31,06:02:21
+ironman-70.3-turkey-20161023.csv,450,Carl-Johan Leinoff,34,---,SWE,00:32:16,02:16:06,01:44:22,00:04:53,00:02:31,04:40:08
+ironman-70.3-turkey-20161023.csv,451,Mark Carson,55,---,GBR,00:35:02,02:58:06,02:12:47,00:06:01,00:03:02,05:54:58
+ironman-70.3-turkey-20161023.csv,452,Michael Frain,34,---,IRL,00:39:11,02:47:07,01:43:00,00:05:00,00:03:32,05:17:50
+ironman-70.3-turkey-20161023.csv,453,Cihan Asrak,29,BUYUKCEKMECE,TUR,00:33:45,02:22:56,01:51:41,00:04:44,00:02:24,04:55:30
+ironman-70.3-turkey-20161023.csv,454,Fatih Tosun,56,Denizli,TUR,00:49:54,03:01:26,02:07:30,00:07:49,00:04:21,06:11:00
+ironman-70.3-turkey-20161023.csv,455,Mert Salur,25,Istanbul,TUR,00:35:57,02:36:14,01:47:54,00:04:48,00:01:40,05:06:33
+ironman-70.3-turkey-20161023.csv,456,Sami Noyan,58,etimesgut,TUR,00:33:56,02:55:22,01:52:58,00:08:37,00:03:11,05:34:04
+ironman-70.3-turkey-20161023.csv,457,Yaser Masanoglu,40,FATİH İSTANBUL,TUR,00:36:11,02:43:55,02:14:21,00:07:27,00:03:48,05:45:42
+ironman-70.3-turkey-20161023.csv,458,Daniel Machek,56,Praha,CZE,00:26:53,02:30:20,01:44:49,00:04:38,00:02:47,04:49:27
+ironman-70.3-turkey-20161023.csv,459,Bogdan Osmolovych,25,APO,UKR,00:37:21,02:50:54,01:57:30,00:05:17,00:02:03,05:33:05
+ironman-70.3-turkey-20161023.csv,460,Steven Patrick,36,---,GBR,00:43:28,02:57:02,02:25:32,00:10:49,00:09:11,06:26:02
+ironman-70.3-turkey-20161023.csv,461,Christopher Comerford,46,NY,USA,00:40:54,03:12:42,02:30:07,00:10:00,00:07:32,06:41:15
+ironman-70.3-turkey-20161023.csv,462,Vitaliy Trenkenshu,30,Astana,KAZ,00:39:33,02:52:19,02:18:37,00:06:59,00:03:23,06:00:51
+ironman-70.3-turkey-20161023.csv,463,Rudolf Kruty,37,Bratislava,SVK,00:35:57,02:36:07,02:11:58,00:07:13,00:03:51,05:35:06
+ironman-70.3-turkey-20161023.csv,464,Scott Voigt,18,CT,USA,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,465,Matthias Fackler,34,---,DEU,00:31:26,02:16:16,01:28:41,00:04:00,00:01:45,04:22:08
+ironman-70.3-turkey-20161023.csv,466,Can Aslan,32,Turkey,TUR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,467,Rainer Wentein,40,---,BEL,00:41:10,02:47:43,02:05:00,00:09:58,00:04:53,05:48:44
+ironman-70.3-turkey-20161023.csv,468,Junya Nakadate,31,İstanbul,JPN,00:33:50,02:35:32,01:27:29,00:05:45,00:03:34,04:46:10
+ironman-70.3-turkey-20161023.csv,469,Francis Foata,41,---,FRA,00:48:53,02:52:58,02:20:08,00:12:32,00:10:01,06:24:32
+ironman-70.3-turkey-20161023.csv,470,Yuri Rasstegaev,44,"APO
+",RUS,00:33:05,02:17:42,01:36:29,00:05:07,00:01:44,04:34:07
+ironman-70.3-turkey-20161023.csv,471,Bahri Uç,45,ege,TUR,00:49:29,03:07:36,02:24:35,00:05:56,00:02:25,06:30:01
+ironman-70.3-turkey-20161023.csv,472,Ahmet Bengöz,34,APO,TUR,00:31:45,02:58:33,02:12:21,00:06:50,00:02:58,05:52:27
+ironman-70.3-turkey-20161023.csv,473,Ahmet Tugay,43,Izmir,TUR,00:45:46,03:11:30,03:00:46,00:07:57,00:05:23,07:11:22
+ironman-70.3-turkey-20161023.csv,474,Üstünda  Can,32,Sisli,TUR,00:40:40,02:45:22,01:51:30,00:04:45,00:02:30,05:24:47
+ironman-70.3-turkey-20161023.csv,475,Steve Broadrick,56,---,GBR,00:51:40,03:44:08,02:50:13,00:10:41,00:05:23,07:42:05
+ironman-70.3-turkey-20161023.csv,476,Sergey Korobov,38,Moscow,RUS,00:37:44,02:36:32,01:49:30,00:04:50,00:02:08,05:10:44
+ironman-70.3-turkey-20161023.csv,477,Cah T Burak Korel,38,---,TUR,00:39:21,02:40:30,01:46:36,00:04:49,00:02:14,05:13:30
+ironman-70.3-turkey-20161023.csv,478,Mecnun Vatansever,41,---,TUR,00:39:09,02:49:40,01:52:01,00:06:57,00:03:14,05:31:01
+ironman-70.3-turkey-20161023.csv,479,Sem H Kumluk,29,Maltepe,TUR,00:43:53,03:15:14,02:38:59,00:06:33,00:05:51,06:50:30
+ironman-70.3-turkey-20161023.csv,480,Nikolay Vasilyev,42,---,RUS,00:37:53,03:02:36,02:23:35,00:06:10,00:03:25,06:13:39
+ironman-70.3-turkey-20161023.csv,481,Adnan Ek,50,Turkey,TUR,00:41:58,02:54:35,02:07:37,00:06:53,00:04:22,05:55:25
+ironman-70.3-turkey-20161023.csv,483,Pablo Gomez,41,---,ESP,00:30:35,02:25:33,02:30:00,00:05:23,00:03:00,05:34:31
+ironman-70.3-turkey-20161023.csv,484,Uras Duhan,28,ege bölgesi,TUR,00:35:35,02:40:03,01:56:11,00:06:02,00:02:21,05:20:12
+ironman-70.3-turkey-20161023.csv,485,Ismail Ergun,51,Turkey,TUR,00:38:38,03:11:00,02:54:33,00:06:28,00:04:31,06:55:10
+ironman-70.3-turkey-20161023.csv,486,Bertrand Schott,41,---,FRA,00:39:27,02:36:32,02:10:08,00:05:31,00:02:29,05:34:07
+ironman-70.3-turkey-20161023.csv,487,Tim Hutchins,43,NY,GBR,00:37:44,02:29:59,01:46:12,00:05:37,00:03:57,05:03:29
+ironman-70.3-turkey-20161023.csv,488,GÖKHAN ERSAN,30,TURKEY,TUR,00:43:37,03:00:04,02:33:55,00:07:32,00:05:34,06:30:42
+ironman-70.3-turkey-20161023.csv,489,Mirza  lker,31,+90,TUR,00:39:38,03:12:05,02:06:16,00:06:09,00:03:36,06:07:44
+ironman-70.3-turkey-20161023.csv,490,Ahmet Melih I Ikçi,55,---,TUR,00:39:26,02:59:40,02:24:37,00:07:47,00:04:00,06:15:30
+ironman-70.3-turkey-20161023.csv,491,Wendy Mader,43,GA,USA,00:26:53,02:29:55,01:44:39,00:04:04,00:02:10,04:47:41
+ironman-70.3-turkey-20161023.csv,492,Umit Vatansever,38,IN,TUR,00:28:42,02:18:28,01:40:48,00:04:32,00:02:02,04:34:32
+ironman-70.3-turkey-20161023.csv,493,Aibek Djangaziev,34,Bishkek,KGZ,00:42:50,02:55:03,02:34:09,00:08:03,00:04:38,06:24:43
+ironman-70.3-turkey-20161023.csv,494,Erdinç Saraç,34,Avcılar,TUR,00:41:53,02:40:02,02:18:02,00:06:52,00:04:25,05:51:14
+ironman-70.3-turkey-20161023.csv,495,Joost Van Rens,42,---,NLD,00:31:45,02:21:24,01:36:07,00:04:47,00:02:34,04:36:37
+ironman-70.3-turkey-20161023.csv,496,Markus Strebel,53,---,CHE,00:32:32,02:37:23,01:56:32,00:04:42,00:02:05,05:13:14
+ironman-70.3-turkey-20161023.csv,497,Efe Kale,28,İzmir,TUR,00:41:13,03:01:42,02:22:47,00:06:18,00:04:13,06:16:13
+ironman-70.3-turkey-20161023.csv,498,Arthur Ocheretny,38,Moscow,RUS,00:37:21,02:24:10,01:40:00,00:07:10,00:02:49,04:51:30
+ironman-70.3-turkey-20161023.csv,499,Sergey Lozin,30,---,RUS,00:29:36,02:26:00,01:45:37,00:05:32,00:02:45,04:49:30
+ironman-70.3-turkey-20161023.csv,500,Derry O'Neill,49,---,GBR,00:48:35,03:04:19,02:42:38,00:08:24,00:04:56,06:48:52
+ironman-70.3-turkey-20161023.csv,501,Deniz Sirman,35,istanbul,TUR,00:43:43,03:20:30,03:09:59,00:05:36,00:04:05,07:23:53
+ironman-70.3-turkey-20161023.csv,502,Otakar Krafka,54,Czech Republic,CZE,00:44:29,02:45:43,02:03:38,00:08:04,00:04:53,05:46:47
+ironman-70.3-turkey-20161023.csv,503,Andriy Larchenko,25,---,UKR,00:35:33,02:36:59,01:42:09,00:05:46,00:02:19,05:02:46
+ironman-70.3-turkey-20161023.csv,504,Maija Antila,34,APO,GBR,00:35:44,02:36:53,01:42:42,00:05:48,00:02:07,05:03:14
+ironman-70.3-turkey-20161023.csv,505,Mert Onaran,33,Türkiye,TUR,00:26:53,02:20:47,01:25:16,00:03:59,00:01:30,04:18:25
+ironman-70.3-turkey-20161023.csv,506,Eric Dyner,41,FL,USA,00:28:48,02:21:00,01:36:48,00:05:44,00:02:23,04:34:43
+ironman-70.3-turkey-20161023.csv,507,Vahdi Umut Bengi,38,Çankaya,TUR,00:30:28,02:51:11,02:04:33,00:05:47,00:03:43,05:35:42
+ironman-70.3-turkey-20161023.csv,508,Murat Yalcintas,50,Turkey,TUR,00:51:58,03:29:50,02:36:39,00:10:01,00:04:30,07:12:58
+ironman-70.3-turkey-20161023.csv,509,Omer Rifat Gencal,47,Turkey,TUR,00:30:03,02:36:20,01:54:54,00:08:11,00:04:36,05:14:04
+ironman-70.3-turkey-20161023.csv,510,Atul Godbole,36,Maharashtra,IND,00:41:31,03:10:10,01:45:45,00:10:32,00:02:38,05:50:36
+ironman-70.3-turkey-20161023.csv,511,Ismail Onder Unal,43,izmir,TUR,00:42:00,02:55:04,02:14:23,00:07:38,00:03:33,06:02:38
+ironman-70.3-turkey-20161023.csv,512,Serdar Selisik,39,APO,TUR,00:34:54,02:29:50,01:54:26,00:05:05,00:02:04,05:06:19
+ironman-70.3-turkey-20161023.csv,513,Hannes Bonami,30,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,514,U Ur Geçkin,28,APO,TUR,00:46:08,02:40:30,02:15:43,00:06:06,00:03:35,05:52:02
+ironman-70.3-turkey-20161023.csv,515,Kemal Çobanyildizi,31,Merkez,TUR,00:28:56,02:18:04,01:29:12,00:04:30,00:01:37,04:22:19
+ironman-70.3-turkey-20161023.csv,516,Marcel Weijers,50,WA,NLD,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,517,Claudia Hille,51,---,DEU,00:34:31,02:44:02,01:38:40,00:04:15,00:01:59,05:03:27
+ironman-70.3-turkey-20161023.csv,518,Vesile Yilmaz Anatca,39,Apo,TUR,00:40:29,02:50:28,01:43:49,00:07:25,00:03:43,05:25:54
+ironman-70.3-turkey-20161023.csv,519,Cemal Emrah Uster,43,---,TUR,00:30:25,02:32:13,01:50:23,00:05:53,00:03:29,05:02:23
+ironman-70.3-turkey-20161023.csv,520,Bülent Kaysili,46,ISTANBUL,TUR,00:43:51,02:58:33,02:30:06,00:08:31,00:06:15,06:27:16
+ironman-70.3-turkey-20161023.csv,521,Anton Vinogradov,32,APO,RUS,00:30:09,02:17:45,01:39:44,00:03:47,00:01:46,04:33:11
+ironman-70.3-turkey-20161023.csv,522,Murat Tumay,42,İstanbul,TUR,00:40:23,02:58:38,02:00:41,00:11:58,00:07:14,05:58:54
+ironman-70.3-turkey-20161023.csv,523,Yves-Robert Tolleron,56,---,FRA,00:42:24,02:25:54,01:37:21,00:04:46,00:02:11,04:52:36
+ironman-70.3-turkey-20161023.csv,524,Ayhan Tama,58,APO,TUR,00:34:35,02:34:22,02:17:19,00:06:37,00:03:27,05:36:20
+ironman-70.3-turkey-20161023.csv,525,Taner Bestek,49,Istanbul,TUR,01:01:19,03:12:47,02:13:52,00:09:05,00:07:17,06:44:20
+ironman-70.3-turkey-20161023.csv,526,Andreas Wunscher,36,---,AUT,00:28:52,02:18:31,01:32:58,00:04:13,00:01:30,04:26:04
+ironman-70.3-turkey-20161023.csv,527,Anthony Waddington,43,---,GBR,00:34:01,02:34:20,01:42:41,00:05:40,00:03:07,04:59:49
+ironman-70.3-turkey-20161023.csv,528,Carlo Benetti,27,vicenza,ITA,00:33:06,02:21:22,01:19:29,00:05:14,00:02:25,04:21:36
+ironman-70.3-turkey-20161023.csv,529,Bugra Hadimoglu,32,ISTANBUL,TUR,00:36:50,02:47:08,01:56:25,00:06:12,00:02:39,05:29:14
+ironman-70.3-turkey-20161023.csv,530,Mania Bikof,45,Greece,GRC,00:32:26,02:52:42,02:05:27,00:05:36,00:02:35,05:38:46
+ironman-70.3-turkey-20161023.csv,531,Nil Yanginoglu,27,türkiye,TUR,00:37:37,02:46:45,02:08:12,00:05:26,00:02:35,05:40:35
+ironman-70.3-turkey-20161023.csv,532,Leon Penso,53,eyup,TUR,00:38:23,02:34:12,01:35:35,00:05:23,00:02:41,04:56:14
+ironman-70.3-turkey-20161023.csv,533,Denis Surkov,39,---,RUS,00:39:34,02:59:25,02:11:20,00:07:05,00:04:57,06:02:21
+ironman-70.3-turkey-20161023.csv,534,Yener Kahraman,31,APO,TUR,00:56:23,03:06:37,02:08:50,00:06:29,00:03:05,06:21:24
+ironman-70.3-turkey-20161023.csv,535,Matteo Cantieri,39,Bologna,ITA,00:32:26,02:23:38,01:42:34,00:04:54,00:01:43,04:45:15
+ironman-70.3-turkey-20161023.csv,536,Anton Bars,32,"APO
+Moscow",RUS,00:46:36,02:40:01,02:06:22,00:05:38,00:02:24,05:41:01
+ironman-70.3-turkey-20161023.csv,537,Sergey Mosin,48,moscow,RUS,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,538,Pinar Caliskan,42,Sarıyer,TUR,00:38:20,02:44:18,02:06:02,00:07:33,00:05:17,05:41:30
+ironman-70.3-turkey-20161023.csv,539,Mehmet Milhan Dalgiç,47,APO,TUR,00:38:20,02:38:44,02:15:05,00:05:22,00:01:51,05:39:22
+ironman-70.3-turkey-20161023.csv,540,Elif Karagöz,31,Istanbul,TUR,00:43:10,03:15:14,02:51:47,00:09:18,00:04:23,07:03:52
+ironman-70.3-turkey-20161023.csv,541,Mehmet Köse,39,istanbul,TUR,00:35:00,02:41:17,01:56:17,00:07:48,00:05:32,05:25:54
+ironman-70.3-turkey-20161023.csv,542,Özkan Dizar,30,---,TUR,00:28:01,02:39:36,02:10:23,00:06:04,00:04:23,05:28:27
+ironman-70.3-turkey-20161023.csv,543,ÇAĞLAR İNAN,41,TURKEY,TUR,00:42:43,02:59:52,02:15:14,00:07:10,00:04:02,06:09:01
+ironman-70.3-turkey-20161023.csv,544,Fezile Isik,46,APOkuzey Kibris,TUR,00:41:05,03:06:35,02:06:36,00:05:48,00:03:05,06:03:09
+ironman-70.3-turkey-20161023.csv,545,Nuri Celal Toroglu,50,APO,TUR,00:50:08,03:33:49,02:21:41,00:11:59,00:07:28,07:05:05
+ironman-70.3-turkey-20161023.csv,546,Kerem Topuz,36,Ankara,TUR,00:35:02,02:34:04,01:40:48,00:05:01,00:01:43,04:56:38
+ironman-70.3-turkey-20161023.csv,547,Petrus Ravazzano,31,---,BRA,00:28:46,02:27:45,02:01:47,00:05:00,00:02:35,05:05:53
+ironman-70.3-turkey-20161023.csv,548,Genco Yucel,50,APO,TUR,00:47:40,03:11:59,02:35:45,00:10:50,00:07:41,06:53:55
+ironman-70.3-turkey-20161023.csv,549,Müjdat Ök,47,APO,TUR,00:47:29,02:59:07,02:16:44,00:08:32,00:04:21,06:16:13
+ironman-70.3-turkey-20161023.csv,550,Lukasz Szemelowski,36,---,POL,00:31:29,02:20:42,01:46:59,00:04:35,00:02:09,04:45:54
+ironman-70.3-turkey-20161023.csv,551,Jean-Patrick Mothes,42,---,FRA,00:33:57,02:38:25,01:41:50,00:06:33,00:03:01,05:03:46
+ironman-70.3-turkey-20161023.csv,552,Mikhail Shtepan,33,"APO
+",RUS,00:46:47,03:16:20,02:29:31,00:07:59,00:04:08,06:44:45
+ironman-70.3-turkey-20161023.csv,553,Asli Ozdas,43,istanbul,TUR,00:50:46,03:08:00,02:23:41,00:06:05,00:04:37,06:33:09
+ironman-70.3-turkey-20161023.csv,554,Baris Karayagmurlar,31,---,TUR,00:37:01,02:57:34,02:05:21,00:05:24,00:02:46,05:48:06
+ironman-70.3-turkey-20161023.csv,555,Arda Köksal,37,tr,TUR,00:47:14,03:06:20,02:28:57,00:13:34,00:08:00,06:44:05
+ironman-70.3-turkey-20161023.csv,556,Kanat Kelsinbekov,29,APO,KGZ,00:49:04,03:28:02,02:01:41,00:07:13,00:04:05,06:30:05
+ironman-70.3-turkey-20161023.csv,557,Ioan Alexandru Toma,25,Romania ,ROU,00:25:13,02:22:05,01:27:24,00:04:22,00:01:45,04:20:49
+ironman-70.3-turkey-20161023.csv,558,Roksolana Ishchuk,30,"Mos
+",RUS,00:26:51,02:30:24,01:38:37,00:03:36,00:01:40,04:41:08
+ironman-70.3-turkey-20161023.csv,559,Hakan Berberler,45,marmara,TUR,00:39:06,02:45:20,01:38:05,00:05:58,00:02:10,05:10:39
+ironman-70.3-turkey-20161023.csv,560,Lubomir Filo,43,Sllovak Republic ,SVK,00:41:11,02:36:55,02:01:58,00:05:30,00:03:20,05:28:54
+ironman-70.3-turkey-20161023.csv,561,Andriy Yakovlev,32,test,UKR,00:51:25,03:10:30,02:02:40,00:06:41,00:04:03,06:15:19
+ironman-70.3-turkey-20161023.csv,562,Alpay Akhun,48,APO,TUR,00:36:13,02:36:42,01:52:27,00:05:05,00:02:05,05:12:32
+ironman-70.3-turkey-20161023.csv,563,Baris Uludag,26,türkiye,TUR,00:41:06,02:29:57,02:00:59,00:05:33,00:02:23,05:19:58
+ironman-70.3-turkey-20161023.csv,564,Anton Zinakov,32,Moscow,RUS,00:35:04,02:28:30,01:41:04,00:05:18,00:02:41,04:52:37
+ironman-70.3-turkey-20161023.csv,565,Sergei Tcarev,48,---,RUS,00:33:27,02:23:54,01:44:28,00:05:19,00:01:52,04:49:00
+ironman-70.3-turkey-20161023.csv,566,Emre Tacir,43,Intl State,TUR,00:36:58,02:36:48,01:43:21,00:05:41,00:02:41,05:05:29
+ironman-70.3-turkey-20161023.csv,567,Bekir Yemen,36,Ortaköy,TUR,00:47:14,03:05:51,02:26:47,00:06:14,00:03:42,06:29:48
+ironman-70.3-turkey-20161023.csv,568,Serhan Tuncer,40,Istanbul,TUR,00:36:24,02:39:53,01:38:20,00:05:02,00:02:28,05:02:07
+ironman-70.3-turkey-20161023.csv,569,Nariman Tauzari,41,Tatarstan,RUS,00:37:00,02:31:16,01:53:53,00:05:29,00:01:51,05:09:29
+ironman-70.3-turkey-20161023.csv,570,Deniz Üstünda,36,---,TUR,00:44:35,03:07:34,02:19:16,00:08:49,00:06:10,06:26:24
+ironman-70.3-turkey-20161023.csv,571,Dominique Michel,51,---,FRA,00:32:46,02:21:48,01:31:59,00:05:07,00:02:02,04:33:42
+ironman-70.3-turkey-20161023.csv,572,Tomasz Nowacki,42,---,POL,---,---,---,---,---,DQ
+ironman-70.3-turkey-20161023.csv,573,Arif Harun Arman,36,Erenkoy,TUR,00:28:39,02:18:43,01:24:55,00:04:10,00:02:38,04:19:05
+ironman-70.3-turkey-20161023.csv,574,Ece Bakici,24,Karabağlar,TUR,00:27:08,02:34:25,01:35:45,00:04:40,00:01:33,04:43:31
+ironman-70.3-turkey-20161023.csv,575,Vinnie O'Farrell,29,Dublin,IRL,00:41:18,03:27:18,03:05:12,00:10:15,00:04:57,07:29:00
+ironman-70.3-turkey-20161023.csv,576,Barry O'Farrell,23,Co. Dublin,IRL,00:36:47,03:02:30,02:24:38,00:08:48,00:09:41,06:22:24
+ironman-70.3-turkey-20161023.csv,577,Mert Sisman,30,antalya,TUR,00:55:32,03:03:49,03:09:19,00:11:59,00:06:20,07:26:59
+ironman-70.3-turkey-20161023.csv,578,Oleg Astanin,38,---,RUS,00:25:45,02:21:26,01:39:58,00:04:38,00:01:50,04:33:37
+ironman-70.3-turkey-20161023.csv,579,Jürgen Scheel,48,---,DEU,00:37:29,02:46:20,02:09:06,00:05:47,00:02:52,05:41:34
+ironman-70.3-turkey-20161023.csv,580,Ender Kalpak,41,APO,TUR,---,---,---,---,---,DNS
+ironman-70.3-turkey-20161023.csv,584,Alessandro Bonino,31,cuneo,ITA,00:31:57,02:23:54,01:31:07,00:04:22,00:01:49,04:33:09

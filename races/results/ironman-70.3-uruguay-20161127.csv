@@ -1,0 +1,604 @@
+#File=ironman-70.3-uruguay-20161127.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-uruguay-20161127.csv,1,Matt Hanson,31,IA,USA,00:26:07,01:53:14,01:13:15,00:12:56,00:00:59,03:46:31
+ironman-70.3-uruguay-20161127.csv,2,Santiago Ascenço,35,Goiás,BRA,00:26:14,01:50:36,01:14:58,00:11:45,00:01:00,03:44:33
+ironman-70.3-uruguay-20161127.csv,3,Mario De Elias,32,Buenos Aires,ARG,00:26:09,01:57:43,01:16:51,00:11:50,00:00:55,03:53:28
+ironman-70.3-uruguay-20161127.csv,4,Sebastian Blanco,28,buenos aires,ARG,---,---,---,---,---,DNS
+ironman-70.3-uruguay-20161127.csv,5,Sergio Carrettoni,48,Intl State,ARG,00:42:55,03:06:36,03:03:29,00:02:23,00:03:11,06:58:34
+ironman-70.3-uruguay-20161127.csv,6,Paulo Roberto Maciel Da Silva,26,DF,BRA,---,---,---,---,---,DNS
+ironman-70.3-uruguay-20161127.csv,7,Eduardo Diaz,49,Intl State,ARG,00:29:34,02:14:27,---,00:00:52,---,DNF
+ironman-70.3-uruguay-20161127.csv,8,Lautaro Diaz,47,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-uruguay-20161127.csv,9,Gaston Duran,40,Intl State,ARG,00:29:21,02:18:03,01:36:06,00:01:06,00:01:10,04:25:46
+ironman-70.3-uruguay-20161127.csv,10,Juan Manuel Lauro,35,montevideo,URY,00:26:11,02:00:49,01:28:23,00:13:51,00:00:54,04:10:08
+ironman-70.3-uruguay-20161127.csv,11,Felipe Manente,28,Intl State,BRA,00:26:15,02:01:50,01:26:22,00:12:48,00:00:53,04:08:08
+ironman-70.3-uruguay-20161127.csv,12,Benjamin Munizaga,35,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-uruguay-20161127.csv,13,Luis Henrique Ohde,23,Paraná ,BRA,00:25:16,01:54:02,01:19:22,00:12:43,00:00:56,03:52:19
+ironman-70.3-uruguay-20161127.csv,14,Rodrigo Sanchez,27,CORDOBA,ARG,00:28:47,02:15:52,01:19:36,00:12:54,00:01:20,04:18:29
+ironman-70.3-uruguay-20161127.csv,15,Thiago Vinhal,33,Intl State,BRA,---,---,---,---,---,DNS
+ironman-70.3-uruguay-20161127.csv,16,Marcus Fernandes,29,DF,BRA,---,---,---,---,---,DNS
+ironman-70.3-uruguay-20161127.csv,21,Ariane Monticeli,34,Intl State,BRA,00:29:29,02:21:25,01:23:17,00:00:46,00:00:51,04:15:48
+ironman-70.3-uruguay-20161127.csv,22,Pamela Tastets,35,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-uruguay-20161127.csv,23,Erika Simon,39,Intl State,ARG,00:31:20,02:27:11,01:45:45,00:00:46,00:01:03,04:46:05
+ironman-70.3-uruguay-20161127.csv,24,Corinne Abraham,39,Intl State,GBR,---,---,---,---,---,DNS
+ironman-70.3-uruguay-20161127.csv,25,Laurel Wassner,41,CA,USA,00:26:38,02:20:00,01:26:59,00:00:41,00:00:49,04:15:07
+ironman-70.3-uruguay-20161127.csv,26,Laura Barrena,41,Intl State,ARG,00:40:09,02:43:30,01:52:57,00:01:15,00:01:11,05:19:02
+ironman-70.3-uruguay-20161127.csv,27,Mariana Borges De Andrade,29,SC,BRA,---,---,---,---,---,DNS
+ironman-70.3-uruguay-20161127.csv,28,Rebeccah Wassner,41,NY,USA,00:26:39,02:18:57,01:30:30,00:00:43,00:00:49,04:17:38
+ironman-70.3-uruguay-20161127.csv,29,Flo Chretien,42,NY,USA,00:29:51,02:46:04,01:33:49,00:01:01,00:01:02,04:51:47
+ironman-70.3-uruguay-20161127.csv,30,Sylvia Gehnboeck,37,---,AUT,00:32:01,02:18:39,01:36:12,00:00:55,00:01:00,04:28:47
+ironman-70.3-uruguay-20161127.csv,31,Kirsty Jahn,32,CO,CAN,00:27:51,02:20:39,01:23:25,00:00:53,00:01:26,04:14:14
+ironman-70.3-uruguay-20161127.csv,32,Nayara Luniere,28,Intl State,BRA,00:30:01,02:32:44,01:31:20,00:01:00,00:01:22,04:36:27
+ironman-70.3-uruguay-20161127.csv,33,Maria Luz Poblete,25,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-uruguay-20161127.csv,34,Lesley Smith,33,CO,USA,---,---,---,---,---,DNS
+ironman-70.3-uruguay-20161127.csv,35,Karine Ximenes,30,Paraiba,BRA,00:34:43,01:32:43,---,00:00:59,---,DNF
+ironman-70.3-uruguay-20161127.csv,51,Sylla Dorneles Ferreira Da Costa,59,RS,BRA,00:46:32,03:01:34,02:25:48,00:02:47,00:05:31,06:22:12
+ironman-70.3-uruguay-20161127.csv,56,Virginia Vasconcelos,41,GO,BRA,00:36:39,02:41:17,01:45:39,00:01:25,00:01:24,05:06:24
+ironman-70.3-uruguay-20161127.csv,58,Charles Albani Dadam,54,SANTA CATARINA,BRA,00:33:25,02:24:02,01:35:12,00:01:11,00:01:27,04:35:17
+ironman-70.3-uruguay-20161127.csv,59,Nicholas Beardow,56,---,GBR,00:40:09,02:37:57,01:48:00,00:00:53,00:01:57,05:08:56
+ironman-70.3-uruguay-20161127.csv,60,Andrei Luis Goelzer Bratz,44,ACT,BRA,00:31:11,02:24:21,01:44:08,00:01:22,00:01:38,04:42:40
+ironman-70.3-uruguay-20161127.csv,62,Italo Esselin Filho,35,GOIAS,BRA,07:27:46,00:01:32,---,---,---,DNF
+ironman-70.3-uruguay-20161127.csv,65,Gabriela Obregon,50,Prov. Bs As,ARG,00:46:15,02:49:02,02:20:42,00:01:43,00:02:02,05:59:44
+ironman-70.3-uruguay-20161127.csv,66,Stefano Ratto,24,Lima,PER,00:27:46,02:16:20,01:46:10,00:01:23,00:01:21,04:33:00
+ironman-70.3-uruguay-20161127.csv,68,Victor Kornhauser,57,AL,URY,00:39:24,02:42:48,01:38:48,00:02:14,00:03:07,05:06:21
+ironman-70.3-uruguay-20161127.csv,69,Pablo Piquerez-Caviglia,59,GA,USA,00:33:58,02:50:24,02:14:23,00:02:24,00:02:31,05:43:40
+ironman-70.3-uruguay-20161127.csv,70,Jorge Fanti,48,buenos aires,ARG,00:34:03,02:32:58,01:41:56,00:01:15,00:01:44,04:51:56
+ironman-70.3-uruguay-20161127.csv,71,Norberto Javier,46,BUENOS AIRES,ARG,00:28:48,02:27:46,01:44:43,00:01:02,00:01:02,04:43:21
+ironman-70.3-uruguay-20161127.csv,72,Daniel Trujillo,46,AR,ARG,00:43:36,02:31:51,01:33:37,00:01:14,00:00:34,04:50:52
+ironman-70.3-uruguay-20161127.csv,73,Paulo Franciscon,43,Paraná,BRA,00:29:32,02:29:14,01:37:51,00:01:44,00:02:09,04:40:30
+ironman-70.3-uruguay-20161127.csv,74,Jorge Garcia Calvo,42,Montevideo,URY,00:34:14,02:26:20,01:35:10,00:00:53,00:01:23,04:38:00
+ironman-70.3-uruguay-20161127.csv,75,Luciano Garnica Camargo,41,Santa catarina,BRA,00:43:00,02:56:35,02:19:34,00:03:26,00:02:31,06:05:06
+ironman-70.3-uruguay-20161127.csv,76,Daniel Geymonat,41,Maldonado/Maldonado/Uruguay,URY,00:34:41,02:25:49,01:29:45,00:00:51,00:00:59,04:32:05
+ironman-70.3-uruguay-20161127.csv,77,Martín Maillo,43,Santa Fe,ARG,00:29:52,02:43:06,01:45:38,00:00:56,00:01:22,05:00:54
+ironman-70.3-uruguay-20161127.csv,78,Santiago Morixe,44,Argentina,ARG,00:32:45,02:25:57,01:36:16,00:02:02,00:01:13,04:38:13
+ironman-70.3-uruguay-20161127.csv,79,Alexsander Stanisci,44,Intl State,BRA,00:41:47,02:51:28,01:51:40,00:02:37,00:01:50,05:29:22
+ironman-70.3-uruguay-20161127.csv,80,Raul Caetano,37,Montevideo,URY,00:31:48,02:13:14,01:35:24,00:00:59,00:00:54,04:22:19
+ironman-70.3-uruguay-20161127.csv,81,Santiago Mingo,35,Entre Ríos,ARG,00:31:02,02:19:28,01:41:29,00:00:54,00:00:58,04:33:51
+ironman-70.3-uruguay-20161127.csv,82,Fernando Saquicela,38,AZUAY,ECU,00:30:29,02:26:37,01:49:26,00:01:33,00:01:37,04:49:42
+ironman-70.3-uruguay-20161127.csv,83,Fabio Targas Goncalves,27,São Paulo,BRA,00:33:56,02:36:25,01:50:34,00:01:09,00:01:38,05:03:42
+ironman-70.3-uruguay-20161127.csv,84,Damian Falcone,30,cordoba,ARG,00:29:16,02:20:02,01:27:55,00:00:41,00:01:22,04:19:16
+ironman-70.3-uruguay-20161127.csv,85,Juan Ibañez,32,Cordoba,ARG,00:31:16,02:21:46,01:28:41,00:00:38,00:01:10,04:23:31
+ironman-70.3-uruguay-20161127.csv,86,Fabio Bronze Moreira,30,Intl State,BRA,00:29:10,02:19:46,01:26:34,00:01:05,00:01:22,04:17:57
+ironman-70.3-uruguay-20161127.csv,87,Carla Iannarelli,32,santa fe,ARG,00:37:07,02:30:56,01:31:54,00:01:29,00:01:03,04:42:29
+ironman-70.3-uruguay-20161127.csv,88,Brenda Schaupp,34,altagracia,DOM,00:31:11,02:33:38,01:39:17,00:01:00,00:00:51,04:45:57
+ironman-70.3-uruguay-20161127.csv,90,Erika Oslakovic,39,IL,USA,00:49:03,02:54:30,01:58:18,00:02:48,00:02:35,05:47:14
+ironman-70.3-uruguay-20161127.csv,91,Lorena Barrau,42,Neuquen,ARG,00:37:35,02:39:49,01:55:45,00:02:40,00:03:20,05:19:09
+ironman-70.3-uruguay-20161127.csv,92,Ingrid Arning,57,---,PRY,00:42:12,02:59:01,02:16:07,00:03:16,00:02:49,06:03:25
+ironman-70.3-uruguay-20161127.csv,93,Ignacio Gutniski,23,corrientes,ARG,00:30:31,02:25:36,01:39:56,00:00:40,00:00:56,04:37:39
+ironman-70.3-uruguay-20161127.csv,94,Javier Falero,51,Canelones,URY,00:47:18,02:43:53,01:56:59,00:02:38,00:02:36,05:33:24
+ironman-70.3-uruguay-20161127.csv,95,Marcos Pijuan,50,LIMA,PER,00:39:39,02:51:42,02:04:55,00:03:29,00:01:57,05:41:42
+ironman-70.3-uruguay-20161127.csv,96,Pablo Terrile,49,BUENOS AIRES,ARG,00:35:47,02:35:26,01:55:47,00:02:22,00:01:39,05:11:01
+ironman-70.3-uruguay-20161127.csv,97,Oscar Alfredo Ariel Baruffato,46,Santa Fe,ARG,00:33:05,02:22:36,02:00:44,00:01:34,00:01:04,04:59:03
+ironman-70.3-uruguay-20161127.csv,98,Boris Bourdin,49,---,NZL,00:38:03,02:44:51,02:08:11,00:01:54,00:02:14,05:35:13
+ironman-70.3-uruguay-20161127.csv,99,Fernando Javier Soria,45,Neuquen,ARG,00:37:44,02:23:31,01:35:57,00:00:58,00:01:16,04:39:26
+ironman-70.3-uruguay-20161127.csv,100,Enrique Soto Torrado,44,Norte de Santander,COL,00:51:21,02:54:16,01:56:57,00:03:16,00:05:17,05:51:07
+ironman-70.3-uruguay-20161127.csv,101,Ivã Boesing,42,RS,BRA,00:35:57,02:30:27,01:33:38,00:00:50,00:01:48,04:42:40
+ironman-70.3-uruguay-20161127.csv,102,Daniel Carmona Nathan,43,Montevideo,URY,00:43:25,02:50:49,01:49:42,00:03:39,00:02:53,05:30:28
+ironman-70.3-uruguay-20161127.csv,103,Pablo Agustin Florensa,42,Cordoba,ARG,00:29:13,02:23:18,01:37:01,00:00:44,00:00:54,04:31:10
+ironman-70.3-uruguay-20161127.csv,104,Federico Garcia Canales,43,buenos aires,ARG,00:26:52,02:20:58,01:30:16,00:00:43,00:00:57,04:19:46
+ironman-70.3-uruguay-20161127.csv,106,Ezequiel Rodriguez,42,altagracia,DOM,00:33:12,02:25:51,01:40:12,00:01:00,00:01:09,04:41:24
+ironman-70.3-uruguay-20161127.csv,107,Raul Agustin Carrizo Yunges,26,Santa Fe,ARG,00:26:55,02:18:17,01:53:18,00:00:35,00:00:59,04:40:04
+ironman-70.3-uruguay-20161127.csv,108,Diego Dias,25,São Paulo,BRA,00:31:07,02:24:32,01:35:12,00:01:08,00:01:41,04:33:40
+ironman-70.3-uruguay-20161127.csv,109,Lucas Rossi,34,Entre Ríos,ARG,---,---,---,---,---,DQ
+ironman-70.3-uruguay-20161127.csv,110,Marcelo Germani,32,São Paulo,BRA,00:34:09,02:23:37,01:33:06,00:00:58,00:01:57,04:33:47
+ironman-70.3-uruguay-20161127.csv,111,Karsten Sasse,38,DE,DEU,00:26:37,02:35:54,01:58:11,00:01:34,00:01:06,05:03:22
+ironman-70.3-uruguay-20161127.csv,114,Shelly Aranda Meirelles,---,---,BRA,03:51:27,---,02:14:52,---,03:53:46,06:08:38
+ironman-70.3-uruguay-20161127.csv,115,Natalia Petryk,20,Montevideo,URY,00:35:09,03:28:38,02:38:06,00:02:23,00:03:03,06:47:19
+ironman-70.3-uruguay-20161127.csv,116,Jessie Daniels,25,Maldonado,ZWE,00:43:38,03:21:26,02:12:21,00:03:08,00:05:11,06:25:44
+ironman-70.3-uruguay-20161127.csv,117,Lucia Fernandez Lopez,26,---,URY,00:44:34,03:10:44,02:22:57,00:02:52,00:05:06,06:26:13
+ironman-70.3-uruguay-20161127.csv,118,Paula Christiane Cardoso,32,Paraná,BRA,00:37:07,02:35:06,01:40:36,00:02:28,00:01:39,04:56:56
+ironman-70.3-uruguay-20161127.csv,119,Dani Erramouspe,30,Entre rios,ARG,00:34:56,02:42:38,01:50:59,00:01:05,00:00:49,05:10:27
+ironman-70.3-uruguay-20161127.csv,120,Orieta Fanello,34,NEUQUEN,ARG,00:44:51,03:03:20,01:57:47,00:03:37,00:03:28,05:53:03
+ironman-70.3-uruguay-20161127.csv,121,Mercedes Gatti,33,Montevideo,URY,00:46:26,03:04:11,02:30:14,00:03:34,00:02:16,06:26:41
+ironman-70.3-uruguay-20161127.csv,122,Andrea Licandro Berais,34,Montevideo,URY,00:57:17,03:28:23,02:02:30,00:06:42,00:06:55,06:41:47
+ironman-70.3-uruguay-20161127.csv,123,Bruna Lopes Gueiros,30,PERNAMBUCO,BRA,00:38:26,03:15:16,02:35:58,00:02:31,00:03:59,06:36:10
+ironman-70.3-uruguay-20161127.csv,124,Natalia Ines Persson,30,BSAS,ARG,00:45:59,02:50:23,02:00:57,00:01:38,00:00:55,05:39:52
+ironman-70.3-uruguay-20161127.csv,125,Marcella Mahfuz Toldi,32,SP,BRA,00:31:37,02:31:08,01:51:27,00:01:24,00:01:22,04:56:58
+ironman-70.3-uruguay-20161127.csv,126,Paula Sabrina Biffignandi,38,Buenos aires,ARG,00:44:49,03:06:07,02:12:42,00:02:09,00:02:46,06:08:33
+ironman-70.3-uruguay-20161127.csv,127,Aldana Cetra,36,Buenos Aires,ARG,00:31:28,02:35:13,01:40:06,00:00:54,00:01:26,04:49:07
+ironman-70.3-uruguay-20161127.csv,128,Cristine Lopes,37,Paraná,BRA,00:37:52,02:29:19,01:37:26,00:02:18,00:01:23,04:48:18
+ironman-70.3-uruguay-20161127.csv,130,Clara Regina F.S. Martinez,37,São Paulo,BRA,00:48:32,03:09:53,02:33:17,00:01:45,00:01:25,06:34:52
+ironman-70.3-uruguay-20161127.csv,131,Barbara Mohn,35,SÃO PAULO,BRA,00:44:56,02:51:05,02:03:16,00:03:28,00:02:15,05:45:00
+ironman-70.3-uruguay-20161127.csv,133,Erika Nakamura Da Costa,35,Sao Paulo,BRA,00:41:28,03:20:22,02:11:51,00:03:20,00:05:14,06:22:15
+ironman-70.3-uruguay-20161127.csv,134,Soledad Seewald,36,Neuquen,ARG,00:43:08,02:43:22,01:44:48,00:01:48,00:01:32,05:14:38
+ironman-70.3-uruguay-20161127.csv,135,Karina Alba,40,NY,USA,00:45:18,02:52:14,01:54:47,00:02:15,00:01:40,05:36:14
+ironman-70.3-uruguay-20161127.csv,136,Stella Maris Benitez,---,buenos aires,ARG,00:46:27,03:00:31,02:00:13,00:01:55,00:02:55,05:52:01
+ironman-70.3-uruguay-20161127.csv,137,Karina Brun Oxley,40,---,URY,00:43:35,02:50:41,01:39:55,00:02:18,00:01:12,05:17:41
+ironman-70.3-uruguay-20161127.csv,139,Astrid Groennegaard,41,---,DNK,00:42:42,03:10:54,02:29:32,00:03:05,00:03:25,06:29:38
+ironman-70.3-uruguay-20161127.csv,141,Yanet Guzman,41,---,CHL,00:41:38,02:50:56,02:09:52,00:02:28,00:02:16,05:47:10
+ironman-70.3-uruguay-20161127.csv,143,Vanessa Moraes,40,São Paulo,BRA,00:42:41,02:59:41,02:07:12,00:02:23,00:02:51,05:54:48
+ironman-70.3-uruguay-20161127.csv,144,Claudia Nogueira,41,malvin,URY,00:47:03,03:07:24,02:16:03,00:03:10,00:02:06,06:15:46
+ironman-70.3-uruguay-20161127.csv,146,Dolores Castro,48,Nordelta,ARG,00:47:51,03:14:30,02:22:16,00:03:05,00:04:07,06:31:49
+ironman-70.3-uruguay-20161127.csv,147,Natalia Diaz,49,Intl State,URY,00:36:49,02:50:33,01:56:36,00:01:39,00:02:02,05:27:39
+ironman-70.3-uruguay-20161127.csv,148,Alessandra Filippini,45,Sao Paulo,BRA,00:42:04,02:56:48,02:11:18,00:05:19,00:03:08,05:58:37
+ironman-70.3-uruguay-20161127.csv,150,Patricia Raquel Gómez Sarlinga,47,Buenos Aires,ARG,00:46:28,02:58:46,02:03:48,00:01:38,00:02:29,05:53:09
+ironman-70.3-uruguay-20161127.csv,151,Belen Izquierdo,46,---,ESP,00:38:23,02:57:10,01:39:32,00:02:30,00:01:46,05:19:21
+ironman-70.3-uruguay-20161127.csv,152,Andrea Laviano,46,Montevideo,URY,00:43:43,03:10:33,01:58:22,00:03:17,00:02:50,05:58:45
+ironman-70.3-uruguay-20161127.csv,153,Ximena Lobbosco,---,Buenos Aires,ARG,03:19:32,---,02:09:23,---,03:21:24,05:30:47
+ironman-70.3-uruguay-20161127.csv,154,Karina Montenegro,46,ES,URY,00:41:59,02:58:02,02:09:48,00:02:13,00:02:04,05:54:06
+ironman-70.3-uruguay-20161127.csv,155,Alejandra Pizani,47,Montevideo,URY,00:42:32,03:11:35,02:40:18,00:01:47,00:01:33,06:37:45
+ironman-70.3-uruguay-20161127.csv,156,Maria Pizzolo,46,buenos aires,ARG,00:35:22,02:58:38,02:12:25,00:02:09,00:01:20,05:49:54
+ironman-70.3-uruguay-20161127.csv,157,Rosario Silveralima,45,Punta del este,URY,00:51:38,03:12:27,02:41:22,00:04:30,00:03:18,06:53:15
+ironman-70.3-uruguay-20161127.csv,158,Cecilia Vicente,48,Buenos aires,ARG,00:45:10,03:02:28,02:28:30,00:02:21,00:02:01,06:20:30
+ironman-70.3-uruguay-20161127.csv,159,Julia Cabella,52,mdeo,URY,00:41:51,02:55:02,01:55:37,00:02:30,00:01:35,05:36:35
+ironman-70.3-uruguay-20161127.csv,160,Maria Gabriela Massa,53,CORDOBA,ARG,00:53:23,03:15:10,02:12:45,00:02:53,00:02:46,06:26:57
+ironman-70.3-uruguay-20161127.csv,162,Ana Laura Bertholdi Piacentini,57,Intl State,BRA,00:45:59,03:20:01,02:54:57,00:01:55,00:02:22,07:05:14
+ironman-70.3-uruguay-20161127.csv,163,Adrianna Dominguez,55,Maldonado,URY,00:48:51,02:56:52,02:35:38,00:03:53,00:03:19,06:28:33
+ironman-70.3-uruguay-20161127.csv,165,Judy Davinroy,60,IL,USA,01:39:33,---,---,---,---,DNF
+ironman-70.3-uruguay-20161127.csv,166,Aida Milinarsky,69,---,CHL,00:53:20,03:27:38,03:04:33,00:00:50,00:00:16,07:26:37
+ironman-70.3-uruguay-20161127.csv,167,Irmgard Gliewe,70,---,CHL,00:50:14,03:10:50,03:26:41,00:03:08,00:03:05,07:33:58
+ironman-70.3-uruguay-20161127.csv,168,Fernando Albrecht,23,---,CHE,00:38:37,02:29:08,01:34:31,00:02:30,00:02:36,04:47:22
+ironman-70.3-uruguay-20161127.csv,169,Martín Alesina,19,Canelones,URY,00:29:24,02:49:19,02:15:49,00:01:34,00:02:24,05:38:30
+ironman-70.3-uruguay-20161127.csv,170,Rodrigo Cantou,22,Montevideo,URY,00:31:25,02:30:51,02:11:22,00:01:11,00:01:03,05:15:52
+ironman-70.3-uruguay-20161127.csv,171,Lisandro Fariña,21,buenos aires,ARG,00:40:56,02:32:33,01:42:47,00:01:41,00:01:36,04:59:33
+ironman-70.3-uruguay-20161127.csv,172,Andres Figar,24,---,ESP,00:36:08,02:24:15,01:37:18,00:02:14,00:01:07,04:41:02
+ironman-70.3-uruguay-20161127.csv,173,Mateus Lins,22,Buenos Aires,BRA,00:44:33,04:04:57,03:07:11,00:01:39,00:03:14,08:01:34
+ironman-70.3-uruguay-20161127.csv,174,Ezequiel Martinez Maldonado,24,Carmelo,URY,00:37:51,02:28:10,01:34:32,00:01:17,00:02:37,04:44:27
+ironman-70.3-uruguay-20161127.csv,175,Mateo Peyloubet,20,Buenos Aires,ARG,00:35:46,02:37:19,02:00:11,00:02:59,00:02:44,05:18:59
+ironman-70.3-uruguay-20161127.csv,176,Nicol  S Fabrizzio Salinas Letelier,21,---,CHL,02:48:27,---,01:27:18,---,02:49:52,04:17:10
+ironman-70.3-uruguay-20161127.csv,177,Ricardo Umpierrez Larronda,22,Montevideo,URY,01:12:35,03:59:05,02:20:41,00:06:29,00:02:19,07:41:09
+ironman-70.3-uruguay-20161127.csv,178,Franco Varacalli,18,Buenos Aires,ARG,03:08:06,---,01:58:22,---,03:10:08,05:08:30
+ironman-70.3-uruguay-20161127.csv,180,Alfredo Soto Escudero,52,Intl State,ARG,00:45:52,02:44:58,03:14:07,00:02:57,00:07:42,06:55:36
+ironman-70.3-uruguay-20161127.csv,181,Miguel Avellanal,51,CIUDAD DE LA COSTA,URY,00:44:51,02:52:05,02:07:39,00:04:56,00:02:18,05:51:49
+ironman-70.3-uruguay-20161127.csv,182,Hector Gustavo Barbieri,51,Corrientes,ARG,00:35:38,02:48:46,01:51:11,00:01:56,00:01:18,05:18:49
+ironman-70.3-uruguay-20161127.csv,183,Alejandro Behrens,52,Buenos Aires,ARG,00:46:29,02:42:36,02:06:57,00:03:57,00:05:04,05:45:03
+ironman-70.3-uruguay-20161127.csv,186,Sergio Colloca,49,florida,ARG,00:33:18,02:34:57,01:54:37,00:01:55,00:01:43,05:06:30
+ironman-70.3-uruguay-20161127.csv,187,Carlos De Laurentis,53,Buenos Aires,ARG,00:38:48,02:36:05,01:59:19,00:01:50,00:02:42,05:18:44
+ironman-70.3-uruguay-20161127.csv,188,eduardo Fernandez,51,prov de buenos aires,ARG,00:40:14,03:10:11,02:28:29,00:05:34,00:03:00,06:27:28
+ironman-70.3-uruguay-20161127.csv,189,Alex Foresti,54,Buenos Aires,ARG,00:35:15,02:46:44,02:07:14,00:01:24,00:03:22,05:33:59
+ironman-70.3-uruguay-20161127.csv,190,Archangelo Fortes Junior,51,São Paulo,BRA,00:39:26,03:14:52,02:59:01,00:01:48,00:02:54,06:58:01
+ironman-70.3-uruguay-20161127.csv,191,Gerardo Garbarino Palau,51,Montevideo,URY,00:42:32,02:48:03,02:09:07,00:04:08,00:04:53,05:48:43
+ironman-70.3-uruguay-20161127.csv,192,Marcelo Gruenberg,54,Buenos Aires,ARG,00:41:12,02:47:09,01:56:49,00:04:10,00:03:06,05:32:26
+ironman-70.3-uruguay-20161127.csv,193,Carlos Guido,51,MATADEROS,ARG,00:39:14,02:40:18,01:52:04,00:01:05,00:01:05,05:13:46
+ironman-70.3-uruguay-20161127.csv,194,Julio Drago Ivanko,50,Capiral Federal,ARG,00:38:02,02:28:35,01:47:42,00:00:54,00:01:30,04:56:43
+ironman-70.3-uruguay-20161127.csv,195,Sergio Gustavo Lagrotta,54,Intl State,ARG,00:39:27,02:39:31,01:49:57,00:01:49,00:01:19,05:12:03
+ironman-70.3-uruguay-20161127.csv,196,Alejandro Loe,52,Intl State,ARG,00:46:20,02:39:36,01:45:46,00:04:01,00:03:07,05:18:50
+ironman-70.3-uruguay-20161127.csv,197,Javier Lopez,51,Buenos Aires,URY,00:39:18,02:53:40,02:29:21,00:02:27,00:01:54,06:06:40
+ironman-70.3-uruguay-20161127.csv,198,Hector Julian Lotitto,49,Intl State,ARG,00:37:25,02:29:53,01:46:27,00:01:07,00:02:29,04:57:21
+ironman-70.3-uruguay-20161127.csv,200,Gustavo Alberto Martinez Rossi,54,ES,URY,---,---,---,---,---,DQ
+ironman-70.3-uruguay-20161127.csv,201,Jose Enrique Medina Malfatto,53,Canelones,URY,00:42:11,02:51:34,02:22:27,00:01:34,00:02:35,06:00:21
+ironman-70.3-uruguay-20161127.csv,203,Alejandro Mograbi,50,Vicente Lopez  Buenos Aires Argentina,ARG,00:47:14,02:35:00,01:47:11,00:02:38,00:01:40,05:13:43
+ironman-70.3-uruguay-20161127.csv,204,Agustin Niell,49,Buenos Aires,ARG,00:39:45,02:38:58,02:15:51,00:02:24,00:04:31,05:41:29
+ironman-70.3-uruguay-20161127.csv,205,Guillermo Arsenio Ornat Rodriguez,53,Buenos Aires,ARG,00:47:25,02:55:43,02:02:03,00:03:30,00:05:29,05:54:10
+ironman-70.3-uruguay-20161127.csv,206,Martin Paillot,51,buenos aires,ARG,00:40:52,03:00:06,02:14:48,00:03:10,00:03:14,06:02:10
+ironman-70.3-uruguay-20161127.csv,207,Diego Passeron,54,Buenos Aires,ARG,00:35:40,02:50:14,01:55:28,00:02:11,00:02:14,05:25:47
+ironman-70.3-uruguay-20161127.csv,208,Daniel Pintos,49,entre rios,ARG,---,---,---,---,---,DNS
+ironman-70.3-uruguay-20161127.csv,209,Jasper Rittner,52,---,DEU,00:54:12,03:03:54,02:13:08,00:03:02,00:02:46,06:17:02
+ironman-70.3-uruguay-20161127.csv,210,Martin Roman Rochina,50,Buenos Aires,ARG,00:36:04,02:41:02,02:16:40,00:03:57,00:03:46,05:41:29
+ironman-70.3-uruguay-20161127.csv,212,Mario Rubin,54,Buenos Aires,ARG,00:31:05,02:15:16,01:51:53,00:01:00,00:01:29,04:40:43
+ironman-70.3-uruguay-20161127.csv,215,Mario Scaletta,54,BUENOS AIRES,ARG,00:38:52,02:44:26,01:51:41,00:03:52,00:03:01,05:21:52
+ironman-70.3-uruguay-20161127.csv,216,Eduardo Silvano,51,Santa Fe,ARG,00:35:52,02:36:46,01:46:51,00:01:37,00:02:11,05:03:17
+ironman-70.3-uruguay-20161127.csv,217,Dionel Augusto Sommo,50,CABA,ARG,00:37:15,02:51:21,02:45:31,00:02:18,00:01:46,06:18:11
+ironman-70.3-uruguay-20161127.csv,218,Fernando Teler,50,Intl State,ARG,00:36:28,02:55:17,02:40:56,00:01:32,00:03:26,06:17:39
+ironman-70.3-uruguay-20161127.csv,219,Rafael Troccoli,51,Capital,URY,00:38:04,02:49:21,01:46:18,00:02:12,00:01:33,05:17:28
+ironman-70.3-uruguay-20161127.csv,220,Federico Hugo Valle,53,Buenos Aires,ARG,00:39:07,02:46:21,02:09:00,00:02:29,00:03:10,05:40:07
+ironman-70.3-uruguay-20161127.csv,221,Juan Luis Van Waarde,53,Buenos Aires,ARG,00:36:24,02:33:34,01:53:00,00:02:59,00:02:01,05:07:58
+ironman-70.3-uruguay-20161127.csv,222,Jose Zaffrani,50,AR,ARG,00:43:55,02:50:01,01:52:27,00:03:26,00:03:23,05:33:12
+ironman-70.3-uruguay-20161127.csv,223,German Andreozzi,57,Tucumna,ARG,00:40:07,03:20:03,02:31:26,00:04:40,00:04:00,06:40:16
+ironman-70.3-uruguay-20161127.csv,224,Daniel Baldi,56,Colonia,URY,00:53:23,03:02:06,---,00:03:31,00:03:26,DNF
+ironman-70.3-uruguay-20161127.csv,225,Alejandro Enrique Julio Berger,55,buenos aires,ARG,00:38:05,03:14:16,02:13:13,00:04:09,00:03:45,06:13:28
+ironman-70.3-uruguay-20161127.csv,226,Gaston Bonjour,56,Intl State,URY,---,---,---,---,---,DNS
+ironman-70.3-uruguay-20161127.csv,227,Gerardo Cancela,55,Montevideo,URY,---,---,---,---,---,DNS
+ironman-70.3-uruguay-20161127.csv,228,Sergio Oscar Chavanne,58,buenos aires,ARG,00:53:17,03:40:54,01:27:47,00:06:34,00:06:27,06:14:59
+ironman-70.3-uruguay-20161127.csv,229,Jose Luis Dappello,56,Neuquen,ARG,00:41:42,02:56:34,01:57:12,00:01:43,00:02:03,05:39:14
+ironman-70.3-uruguay-20161127.csv,232,Alvaro Gonzalez,58,Intl State,URY,---,---,---,---,---,DNS
+ironman-70.3-uruguay-20161127.csv,233,Gustavo Guardo,57,caba,ARG,00:39:15,02:52:14,02:32:34,00:03:40,00:02:19,06:10:02
+ironman-70.3-uruguay-20161127.csv,234,Wilson Guillen Gonzalez,57,MONTEVIDEO,URY,00:50:01,03:27:21,02:10:18,00:06:00,00:02:31,06:36:11
+ironman-70.3-uruguay-20161127.csv,235,Gustavo Losco,55,ENTRE RIOS,ARG,00:44:25,02:44:54,01:51:10,00:01:43,00:01:35,05:23:47
+ironman-70.3-uruguay-20161127.csv,236,Carlos Gerardo Neil,56,Buenos Aires,ARG,00:33:26,02:50:57,02:05:10,00:03:37,00:01:58,05:35:08
+ironman-70.3-uruguay-20161127.csv,237,Sergio Peretti,55,santa fe,ARG,00:38:14,02:27:02,01:58:19,00:02:00,00:01:12,05:06:47
+ironman-70.3-uruguay-20161127.csv,238,Juan Rego,59,montevideo,URY,---,---,---,---,---,DNS
+ironman-70.3-uruguay-20161127.csv,239,Diego Rennison,58,buenos aires,ARG,00:50:58,02:54:13,02:00:53,00:03:12,00:02:28,05:51:44
+ironman-70.3-uruguay-20161127.csv,241,Roberto Mario Rivera,59,CABA,ARG,00:41:31,03:07:28,02:29:10,00:03:19,00:04:10,06:25:38
+ironman-70.3-uruguay-20161127.csv,242,Mario Rodriguez Cabazzotti,57,Montevideo,URY,00:46:03,03:18:26,02:30:29,00:06:17,00:06:26,06:47:41
+ironman-70.3-uruguay-20161127.csv,243,Gustavo Romero,59,CABA,ARG,00:34:13,02:44:23,01:45:54,00:02:24,00:01:48,05:08:42
+ironman-70.3-uruguay-20161127.csv,244,Julio Shiratori,57,CAPITAL FEDERAL,ARG,00:33:25,02:57:55,02:52:26,00:02:55,00:04:12,06:30:53
+ironman-70.3-uruguay-20161127.csv,245,Hugo Omar Truncellito,56,Buenos Aires,ARG,00:33:28,02:44:01,01:52:31,00:01:40,00:01:48,05:13:28
+ironman-70.3-uruguay-20161127.csv,246,Cristian Yevenes,56,---,CHL,00:45:21,02:57:59,02:08:53,00:04:33,00:03:30,06:00:16
+ironman-70.3-uruguay-20161127.csv,247,Jorge Alessi,63,Buenos Aires,ARG,00:50:01,03:32:21,---,00:03:00,00:04:14,DNF
+ironman-70.3-uruguay-20161127.csv,249,Miguel Brechner,63,montevideo,URY,---,---,---,---,---,DNS
+ironman-70.3-uruguay-20161127.csv,250,Ricardo Crisp,61,buenos aires,ARG,00:47:32,03:16:28,02:16:39,00:04:25,00:02:16,06:27:20
+ironman-70.3-uruguay-20161127.csv,251,Eduardo Gazzillo,61,CABA,ARG,00:45:21,03:13:44,02:11:18,00:04:01,00:04:09,06:18:33
+ironman-70.3-uruguay-20161127.csv,253,Christopher Teague,65,Sao Paulo,AUS,00:40:37,03:06:00,03:02:13,00:03:27,00:02:42,06:54:59
+ironman-70.3-uruguay-20161127.csv,255,Paulo Abreu,47,PR,BRA,00:32:43,02:59:45,02:11:35,00:04:00,00:03:14,05:51:17
+ironman-70.3-uruguay-20161127.csv,256,Daniel Acosta,47,Colon,URY,00:43:08,02:46:43,01:56:01,00:04:23,00:04:48,05:35:03
+ironman-70.3-uruguay-20161127.csv,258,Cermele Alejandro,47,BUENOS AIRES,ARG,00:35:55,02:24:25,01:47:33,00:01:48,00:01:27,04:51:08
+ironman-70.3-uruguay-20161127.csv,259,Mariano Javier Alvarez,47,Buenos Aires,ARG,03:45:15,---,02:06:18,00:02:35,03:45:48,05:52:06
+ironman-70.3-uruguay-20161127.csv,260,Carlos Aravena,45,---,CHL,03:12:42,---,01:59:07,---,03:15:06,05:14:13
+ironman-70.3-uruguay-20161127.csv,261,Facundo Auriemma,46,Buenos Aires,ARG,00:40:51,02:56:10,02:25:01,00:03:16,00:03:50,06:09:08
+ironman-70.3-uruguay-20161127.csv,262,Daniel Baikovicius,48,Montevideo,URY,00:32:25,03:03:00,02:38:56,00:03:47,00:03:54,06:22:02
+ironman-70.3-uruguay-20161127.csv,263,Marcelo Balzer,49,PARANA,BRA,00:35:59,02:40:02,01:57:46,00:01:43,00:03:24,05:18:54
+ironman-70.3-uruguay-20161127.csv,264,Jorge Alejandro Barla,48,ENTRE RIOS,ARG,00:36:59,02:26:58,01:31:07,00:02:12,00:01:41,04:38:57
+ironman-70.3-uruguay-20161127.csv,265,Martin Andres Bayugar,47,BUENOS AIRES,ARG,00:29:36,02:20:51,01:47:45,00:01:13,00:01:38,04:41:03
+ironman-70.3-uruguay-20161127.csv,266,Diego Bergara,46,Montevideo,URY,00:43:03,02:42:22,01:41:16,00:03:34,00:02:53,05:13:08
+ironman-70.3-uruguay-20161127.csv,267,Juan Manuel Burgueno Scalone,48,---,URY,00:41:02,02:58:30,02:15:29,00:05:25,00:03:22,06:03:48
+ironman-70.3-uruguay-20161127.csv,269,Ricardo Javier Castro Lemes,47,MONTEVIDEO,URY,01:00:15,03:19:57,02:16:31,00:02:58,00:02:39,06:42:20
+ironman-70.3-uruguay-20161127.csv,270,Sergio Centeno,46,Tucuman,ARG,00:37:42,02:25:45,01:44:59,00:01:01,00:01:38,04:51:05
+ironman-70.3-uruguay-20161127.csv,271,Marcelo Conelli,49,Entre Ríos,ARG,00:36:04,02:38:04,01:35:45,00:01:57,00:01:40,04:53:30
+ironman-70.3-uruguay-20161127.csv,272,Pablo Conti,44,Buenos Aires,ARG,00:38:01,---,01:40:00,02:25:34,00:01:33,04:43:45
+ironman-70.3-uruguay-20161127.csv,273,Leonardo Cordeu,49,Bueno Aires,ARG,00:57:56,02:59:58,02:12:23,00:03:37,00:04:57,06:18:51
+ironman-70.3-uruguay-20161127.csv,274,Leonardo Culotta,48,buenos aires,ARG,00:35:17,02:50:28,01:50:26,00:02:59,00:01:59,05:21:09
+ironman-70.3-uruguay-20161127.csv,275,Blas Andres Custidiano,47,Corrientes,ARG,00:48:08,02:46:32,02:02:47,00:01:44,00:01:05,05:40:16
+ironman-70.3-uruguay-20161127.csv,276,Tadeu Dantas,48,---,BRA,00:33:54,---,---,00:01:28,---,DNF
+ironman-70.3-uruguay-20161127.csv,278,Augusto De Chazal,46,Tucuman,ARG,04:17:55,---,01:56:45,---,04:21:27,06:18:12
+ironman-70.3-uruguay-20161127.csv,279,Federico Degani,47,ES,ARG,00:40:56,03:07:09,02:33:52,00:01:55,00:04:20,06:28:12
+ironman-70.3-uruguay-20161127.csv,280,Juan Pablo Degani,45,Santa Fe,ARG,00:35:07,02:38:35,01:48:53,00:02:56,00:02:36,05:08:07
+ironman-70.3-uruguay-20161127.csv,284,José Falcón Mérida,47,MONTEVIDEO,URY,00:42:44,02:41:53,01:53:00,00:02:37,00:02:12,05:22:26
+ironman-70.3-uruguay-20161127.csv,285,Leonardo Adrian Fernandez,47,capital federal,ARG,00:39:27,02:57:18,02:25:02,00:03:44,00:02:55,06:08:26
+ironman-70.3-uruguay-20161127.csv,286,Andres Fernandez Amy,48,Intl State,URY,00:34:23,02:33:41,01:46:19,00:01:03,00:03:06,04:58:32
+ironman-70.3-uruguay-20161127.csv,288,Diego Francia,47,Buenos Aires,ARG,00:50:11,02:42:21,02:02:11,00:03:35,00:03:09,05:41:27
+ironman-70.3-uruguay-20161127.csv,289,Miguel Fraser,46,Buenos Aires,ARG,00:34:00,02:39:28,01:59:33,00:01:16,00:01:51,05:16:08
+ironman-70.3-uruguay-20161127.csv,292,Alejandro Graziano,49,Buenos Aires,ARG,00:52:05,02:51:42,02:10:10,00:05:26,00:02:39,06:02:02
+ironman-70.3-uruguay-20161127.csv,293,Volker Grill,47,---,DEU,00:38:29,02:28:24,02:02:11,00:02:24,00:02:14,05:13:42
+ironman-70.3-uruguay-20161127.csv,294,Pepe Imbrosciano,---,Capital,ARG,00:36:39,02:52:32,02:06:33,00:05:57,00:03:43,05:45:24
+ironman-70.3-uruguay-20161127.csv,295,Hector Juncal,46,---,AUS,00:35:03,02:56:25,02:10:55,00:01:42,00:01:43,05:45:48
+ironman-70.3-uruguay-20161127.csv,296,Roberto Kunin,45,Montevideo,URY,00:35:55,02:39:17,01:51:18,00:03:50,00:04:14,05:14:34
+ironman-70.3-uruguay-20161127.csv,297,Amado Labriola,---,Argentine,ARG,00:41:34,02:43:40,01:50:35,00:01:52,00:01:03,05:18:44
+ironman-70.3-uruguay-20161127.csv,298,Santiago Lacase,46,Buenos Aires,ARG,---,---,---,---,---,DNS
+ironman-70.3-uruguay-20161127.csv,299,Marcio Leme,49,São Paulo,BRA,00:46:01,03:18:39,02:01:13,00:02:16,00:01:42,06:09:51
+ironman-70.3-uruguay-20161127.csv,300,Ariel Alejandro Lillo Proust,47,---,CHL,00:34:19,02:22:23,01:44:57,00:01:34,00:01:08,04:44:21
+ironman-70.3-uruguay-20161127.csv,301,Osvaldo Lucero,45,Buenos Aires,ARG,00:40:13,03:04:13,01:54:36,00:01:35,00:02:22,05:42:59
+ironman-70.3-uruguay-20161127.csv,302,Emilio Madero,46,buenos aires,ARG,00:43:12,02:34:12,01:51:23,00:02:06,00:02:21,05:13:14
+ironman-70.3-uruguay-20161127.csv,303,Alex Madruga,47,RS,BRA,00:53:33,03:12:49,02:18:50,00:02:00,00:02:50,06:30:02
+ironman-70.3-uruguay-20161127.csv,304,Eduardo Magallanes,49,NJ,MEX,00:48:11,03:10:01,02:52:55,00:02:42,00:03:29,06:57:18
+ironman-70.3-uruguay-20161127.csv,305,Christian Mata,47,Buenos Aires,ARG,00:44:40,03:17:23,02:22:58,00:03:07,00:03:04,06:31:12
+ironman-70.3-uruguay-20161127.csv,306,Damian Mata,47,Buenos Aires,ARG,00:40:58,03:28:04,02:12:31,00:06:30,00:03:09,06:31:12
+ironman-70.3-uruguay-20161127.csv,307,Enrique Jose Medina,46,Tucuman,ARG,00:37:54,03:15:07,05:21:16,00:05:16,---,06:04:43
+ironman-70.3-uruguay-20161127.csv,308,Guilherme Menezes,48,sao paulo,BRA,00:36:22,02:46:18,02:00:04,00:02:40,00:05:44,05:31:08
+ironman-70.3-uruguay-20161127.csv,309,Rudolf Meyer,48,Buenos Aires,COL,00:50:41,03:12:51,02:48:22,00:04:14,00:04:45,07:00:53
+ironman-70.3-uruguay-20161127.csv,310,Rafael Millot,46,CABA,URY,00:36:27,02:54:52,02:18:48,00:03:15,00:03:37,05:56:59
+ironman-70.3-uruguay-20161127.csv,311,Marccelo Molinari,46,Maldonado,URY,00:32:17,02:36:25,02:01:33,00:01:36,00:01:30,05:13:21
+ironman-70.3-uruguay-20161127.csv,313,Carlos Mora Sagues,45,Uruguay,AND,00:42:30,02:54:27,01:58:39,00:04:12,00:03:43,05:43:31
+ironman-70.3-uruguay-20161127.csv,314,Guillermo Morelli,48,Montevideo,URY,00:41:35,02:53:38,02:06:26,00:03:36,00:02:31,05:47:46
+ironman-70.3-uruguay-20161127.csv,317,Jose Ortiz,46,DC,USA,00:40:24,02:25:03,01:49:13,00:02:43,00:02:01,04:59:24
+ironman-70.3-uruguay-20161127.csv,318,Sebastian Padin Ataniya,45,SANTA FE,ARG,00:38:09,02:55:46,01:48:34,00:01:30,00:03:45,05:27:44
+ironman-70.3-uruguay-20161127.csv,319,Alejandro Pakciarz,47,MONTEVIDEO,URY,00:38:19,02:42:26,02:02:01,00:04:08,00:02:08,05:29:02
+ironman-70.3-uruguay-20161127.csv,320,Dario Palmero,45,Buenos Aires,ARG,00:42:04,02:41:22,01:59:24,00:02:59,00:02:03,05:27:52
+ironman-70.3-uruguay-20161127.csv,321,martin miguel peña,47,Buenos Aires,ARG,00:45:00,03:19:33,02:30:10,00:04:13,00:06:13,06:45:09
+ironman-70.3-uruguay-20161127.csv,322,Jack Perez,45,montevideo,URY,00:34:23,02:53:27,01:57:58,00:03:46,00:03:37,05:33:11
+ironman-70.3-uruguay-20161127.csv,323,Piero Pinotti,47,Montevideo,URY,00:40:05,02:52:54,02:10:27,00:02:47,00:02:30,05:48:43
+ironman-70.3-uruguay-20161127.csv,324,Julio Quassolo,46,Córdoba,ARG,00:39:21,02:39:41,01:58:43,00:03:33,00:03:25,05:24:43
+ironman-70.3-uruguay-20161127.csv,325,Breno R. Júnior,45,RS,BRA,---,---,---,---,---,DQ
+ironman-70.3-uruguay-20161127.csv,326,Joao Ramires,45,BA,BRA,00:42:10,02:47:11,02:35:32,00:04:30,00:05:02,06:14:25
+ironman-70.3-uruguay-20161127.csv,328,Pablo Reyes,45,Montevideo,URY,00:36:06,02:52:55,01:53:26,00:02:08,00:02:55,05:27:30
+ironman-70.3-uruguay-20161127.csv,330,Alexis Rodriguez,48,BUENOS AIRES,ARG,00:39:47,03:05:51,02:30:14,00:02:33,00:02:31,06:20:56
+ironman-70.3-uruguay-20161127.csv,331,Fulvio Rodriguez,46,montevideo,URY,00:37:14,02:33:09,01:50:19,00:02:50,00:03:30,05:07:02
+ironman-70.3-uruguay-20161127.csv,332,Jorge Rodriguez,46,Buenos Aires,ARG,00:31:20,02:35:40,01:44:03,00:01:38,00:01:58,04:54:39
+ironman-70.3-uruguay-20161127.csv,333,Pablo Rodriguez,46,Santa Fe,ARG,00:38:15,02:31:10,01:33:03,00:03:42,00:02:21,04:48:31
+ironman-70.3-uruguay-20161127.csv,334,Mariano Leandro Romero,48,Buenos Aires,ARG,00:41:42,03:27:36,02:41:54,00:02:37,00:02:45,06:56:34
+ironman-70.3-uruguay-20161127.csv,335,Lorenzo Rubin Napolitano,48,central,VEN,00:50:59,03:02:45,02:16:18,00:03:25,00:03:54,06:17:21
+ironman-70.3-uruguay-20161127.csv,336,alejandro sanguinetti,46,DC,URY,00:34:04,02:58:25,01:57:33,00:03:23,00:02:45,05:36:10
+ironman-70.3-uruguay-20161127.csv,338,Nicolas Sarachaga,45,Intl State,URY,00:42:25,02:54:20,02:32:21,00:03:33,00:03:41,06:16:20
+ironman-70.3-uruguay-20161127.csv,339,Andres Scarabino,44,montevideo,URY,00:36:22,02:32:50,01:41:12,00:01:42,00:01:31,04:53:37
+ironman-70.3-uruguay-20161127.csv,340,Eduardo Scarabino,47,montevideo,URY,00:37:52,02:23:04,01:59:10,00:01:07,00:01:28,05:02:41
+ironman-70.3-uruguay-20161127.csv,341,Carlos Scherer Keen,48,Buenos Aires,ARG,00:45:11,02:56:06,01:52:40,00:03:05,00:02:48,05:39:50
+ironman-70.3-uruguay-20161127.csv,342,Ricardo Schmitt,48,Intl State,ARG,00:40:37,03:03:13,02:27:57,00:01:46,00:02:53,06:16:26
+ironman-70.3-uruguay-20161127.csv,344,Martin Spielberg,45,buenos aires,ARG,00:43:05,02:49:36,02:11:17,00:02:03,00:02:00,05:48:01
+ironman-70.3-uruguay-20161127.csv,345,Gustavo Srur,46,Buenos aires,ARG,00:51:48,03:15:54,02:01:51,00:05:49,00:03:32,06:18:54
+ironman-70.3-uruguay-20161127.csv,347,Gonzalo Taborda,45,Montevideo,URY,00:45:20,02:57:57,02:13:40,00:03:55,00:04:15,06:05:07
+ironman-70.3-uruguay-20161127.csv,348,Sebastian Taleti,45,Santa fe,ARG,00:36:24,02:41:54,01:54:49,00:01:47,00:01:54,05:16:48
+ironman-70.3-uruguay-20161127.csv,349,Cesar Timoteo,49,Intl State,ARG,00:36:58,02:42:42,02:13:16,00:02:29,00:01:57,05:37:22
+ironman-70.3-uruguay-20161127.csv,350,Mike Toledo,45,ES,PER,00:50:08,03:22:42,02:27:47,00:02:12,00:02:42,06:45:31
+ironman-70.3-uruguay-20161127.csv,351,Fernando Trippel,48,Cordoba,ARG,00:31:07,02:25:29,01:48:31,00:01:49,00:01:26,04:48:22
+ironman-70.3-uruguay-20161127.csv,354,Arturo Leonardo Zegarra Coronado,46,Lima Lima,PER,00:34:30,02:59:30,02:04:32,00:03:47,00:03:14,05:45:33
+ironman-70.3-uruguay-20161127.csv,355,Gustavo Zen,46,Montevideo,URY,00:42:17,02:50:35,02:07:52,00:03:12,00:02:26,05:46:22
+ironman-70.3-uruguay-20161127.csv,356,Juan Pablo Acevedo,44,---,CHL,00:44:15,02:53:17,02:07:57,00:02:19,00:04:12,05:52:00
+ironman-70.3-uruguay-20161127.csv,357,Allan Aguayo Walker,39,---,CHL,00:51:29,03:11:44,02:26:52,00:02:43,00:03:15,06:36:03
+ironman-70.3-uruguay-20161127.csv,359,Rodrigo Balestieri,43,Santa Fe,ARG,00:42:46,03:06:46,02:01:12,00:02:36,00:02:21,05:55:41
+ironman-70.3-uruguay-20161127.csv,360,Andres Barbaro,40,Intl State,ARG,00:38:29,02:44:44,01:44:08,00:02:27,00:02:25,05:12:13
+ironman-70.3-uruguay-20161127.csv,361,Hernan Barcessat,44,Buenos Aires,ARG,00:33:39,03:03:14,02:01:06,00:01:48,00:02:14,05:42:01
+ironman-70.3-uruguay-20161127.csv,362,Pablo Bayol,40,Corrientes,ARG,00:51:30,02:51:55,02:13:45,00:01:53,00:03:03,06:02:06
+ironman-70.3-uruguay-20161127.csv,363,Mariano Bitar,41,Buenos Aires,ARG,00:36:29,02:53:20,02:13:18,00:05:02,00:03:16,05:51:25
+ironman-70.3-uruguay-20161127.csv,364,Sergio Gabriel Blanco Cirera,43,Ciudad de Buenos Aires,ARG,03:36:48,---,02:06:22,---,03:39:51,05:46:13
+ironman-70.3-uruguay-20161127.csv,365,Ignacio Bussy,42,FL,ARG,00:30:22,02:51:22,01:52:41,00:03:53,00:03:22,05:21:40
+ironman-70.3-uruguay-20161127.csv,366,Walter Martin Campos,44,Buenos Aires,ARG,00:32:21,02:23:25,01:30:27,00:00:55,00:01:44,04:28:52
+ironman-70.3-uruguay-20161127.csv,370,Carlos Alberto Chiaradia,44,Buenos Aires,ARG,00:41:22,02:51:03,02:13:42,00:03:12,00:02:30,05:51:49
+ironman-70.3-uruguay-20161127.csv,372,Gonzalo Cid De La Paz,43,Montevideo,URY,00:47:28,03:31:50,02:41:15,00:03:42,00:02:35,07:06:50
+ironman-70.3-uruguay-20161127.csv,373,Gonzalo Cilley,40,Monaco,ARG,---,---,---,---,---,DNS
+ironman-70.3-uruguay-20161127.csv,375,Anibal Cloux,44,Buenos Aires,ARG,00:41:55,02:45:21,01:52:40,00:02:22,00:01:09,05:23:27
+ironman-70.3-uruguay-20161127.csv,376,Fernando Colombo,40,Montevideo,URY,00:34:12,02:28:57,01:38:26,00:01:41,00:02:08,04:45:24
+ironman-70.3-uruguay-20161127.csv,377,Gabriel Adrian Coso,44,SANTA FE,ARG,00:36:56,02:50:40,02:31:06,00:01:26,00:03:58,06:04:06
+ironman-70.3-uruguay-20161127.csv,379,Juan Jose Diaz,42,Montevideo,URY,00:41:26,02:57:59,02:08:56,00:02:49,00:02:42,05:53:52
+ironman-70.3-uruguay-20161127.csv,380,Dereck Dougall,42,Buenos Aires,ARG,00:36:32,03:01:06,02:10:59,00:03:08,00:02:01,05:53:46
+ironman-70.3-uruguay-20161127.csv,381,Julian Evangelista,41,buenos aires,ARG,---,---,---,---,---,DNS
+ironman-70.3-uruguay-20161127.csv,382,Eduardo Facal,40,buenos aires,ARG,00:36:15,02:39:45,01:51:17,00:01:24,00:01:18,05:09:59
+ironman-70.3-uruguay-20161127.csv,383,Alvaro Fagotti Filho,41,Parana,BRA,00:37:51,02:39:12,01:51:55,00:02:22,00:02:00,05:13:20
+ironman-70.3-uruguay-20161127.csv,384,Gabriel Fonseca,41,buenos aires,ARG,00:41:30,02:44:11,02:24:08,00:01:22,00:01:26,05:52:37
+ironman-70.3-uruguay-20161127.csv,385,Mauricio Ganon,44,salto,URY,00:47:26,02:35:59,02:11:00,00:02:32,00:02:43,05:39:40
+ironman-70.3-uruguay-20161127.csv,386,Rodrigo Ferm  N Garc  A,42,CAPITAL F,ARG,00:34:35,---,01:59:43,02:50:35,00:11:07,05:32:44
+ironman-70.3-uruguay-20161127.csv,387,Juan Ignacio Garcia Reparaz,41,Corrientes,ARG,00:46:32,03:10:17,02:21:08,00:02:03,00:03:11,06:23:11
+ironman-70.3-uruguay-20161127.csv,389,Fernando Gho,43,SF,ARG,00:36:20,02:40:03,01:46:52,00:01:10,00:02:10,05:06:35
+ironman-70.3-uruguay-20161127.csv,390,Raul Giuffre,43,Mendoza,ARG,00:35:35,02:36:18,02:01:11,00:01:28,00:01:11,05:15:43
+ironman-70.3-uruguay-20161127.csv,391,Milo Gnecco,40,Buenos Aires,ARG,00:35:57,02:31:41,01:59:38,00:02:02,00:02:01,05:11:19
+ironman-70.3-uruguay-20161127.csv,392,Juan Manuel Gonzalez Sixto,43,CAPITAL,ARG,00:41:05,02:59:27,02:15:12,00:02:18,00:03:45,06:01:47
+ironman-70.3-uruguay-20161127.csv,393,Carlos Gorordo,44,Buenos Aires,ARG,00:38:19,02:34:55,01:50:18,00:01:42,00:01:07,05:06:21
+ironman-70.3-uruguay-20161127.csv,394,Asdrubal Guevara,40,Montevideo,ARG,00:32:46,02:37:54,01:38:31,00:01:04,00:01:44,04:51:59
+ironman-70.3-uruguay-20161127.csv,395,Jose Guisande,41,Canelones,URY,00:36:28,02:54:04,---,00:03:43,---,DNF
+ironman-70.3-uruguay-20161127.csv,396,Gonzalo Guzman,44,---,ARG,00:31:35,02:37:32,02:06:17,00:02:27,00:03:40,DNF
+ironman-70.3-uruguay-20161127.csv,398,marcio hetzel,44,Santa Catarina,BRA,00:31:52,02:27:32,01:34:24,00:01:41,00:01:17,04:36:46
+ironman-70.3-uruguay-20161127.csv,399,Lisandro Illa,42,Buenos aires,ARG,00:31:52,02:39:50,01:44:37,00:01:11,00:00:58,04:58:28
+ironman-70.3-uruguay-20161127.csv,400,Robert Ingrey,42,Canelones,ARG,03:17:11,---,01:54:39,---,03:18:47,05:13:26
+ironman-70.3-uruguay-20161127.csv,401,Alfredo Jeffe,42,RS,BRA,00:31:47,02:41:26,01:43:15,00:01:52,00:01:46,05:00:06
+ironman-70.3-uruguay-20161127.csv,402,Pablo Antonio Koharic,44,NEUQUEN,ARG,00:38:36,02:34:16,01:50:34,00:01:27,00:01:17,05:06:10
+ironman-70.3-uruguay-20161127.csv,403,Alejandro Kotlik,41,---,CHL,00:33:06,02:31:00,01:39:59,00:02:33,00:01:11,04:47:49
+ironman-70.3-uruguay-20161127.csv,404,Alejandro Laviano,43,Montevideo,URY,00:30:52,02:44:32,01:46:03,00:01:14,00:02:03,05:04:44
+ironman-70.3-uruguay-20161127.csv,405,Javier Ledesma,42,Buenos Aires,ARG,00:38:33,02:45:03,01:53:46,00:01:57,00:04:40,05:23:59
+ironman-70.3-uruguay-20161127.csv,406,Bryan B. Lee,42,MD,USA,00:53:18,03:09:09,02:33:35,00:05:47,00:03:58,06:45:47
+ironman-70.3-uruguay-20161127.csv,407,Fabio Leone,41,sao paulo,BRA,03:21:55,---,02:04:58,---,03:24:25,05:29:23
+ironman-70.3-uruguay-20161127.csv,408,Maurício Letzow,40,Paraná,BRA,00:29:56,02:22:50,01:38:05,00:01:18,00:01:11,04:33:20
+ironman-70.3-uruguay-20161127.csv,409,Ricardo Lima Riciardi,41,São Paulo,BRA,00:40:01,02:38:13,01:48:48,00:03:16,00:02:11,05:12:29
+ironman-70.3-uruguay-20161127.csv,410,Walter Daniel Lobo,40,Buenos Aires,ARG,00:39:40,02:48:57,02:04:35,00:03:44,00:01:53,05:38:49
+ironman-70.3-uruguay-20161127.csv,411,Martin Lucarini,43,Santa Fe,ARG,---,---,---,---,---,DQ
+ironman-70.3-uruguay-20161127.csv,413,Gabriel Leonardo Marti,43,Buenos Aires,ARG,00:39:21,02:53:22,02:02:02,00:03:50,00:02:03,05:40:38
+ironman-70.3-uruguay-20161127.csv,414,Sebastian Martinez,41,Florida,URY,00:34:14,02:23:58,01:40:22,00:01:05,00:01:49,04:41:28
+ironman-70.3-uruguay-20161127.csv,415,Pablo Matile,40,mendoza,ARG,00:37:37,02:34:18,01:50:26,00:01:16,00:01:20,05:04:57
+ironman-70.3-uruguay-20161127.csv,416,Juan Horacio Mattulich,41,bs as ,ARG,00:29:36,02:23:57,01:45:27,00:01:08,00:01:15,04:41:23
+ironman-70.3-uruguay-20161127.csv,417,Pablo Mendez,41,Neuquen,ARG,00:44:19,03:00:23,02:15:36,00:02:11,00:04:53,06:07:22
+ironman-70.3-uruguay-20161127.csv,418,Luciano Moscone,43,---,ARG,00:48:38,03:07:37,01:59:15,00:05:33,00:04:02,06:05:05
+ironman-70.3-uruguay-20161127.csv,419,Adriano Motta,43,Colonia,URY,00:34:20,02:57:50,02:19:44,00:02:32,00:02:05,05:56:31
+ironman-70.3-uruguay-20161127.csv,421,Pablo Nistal,43,Intl State,ARG,00:40:52,03:01:34,02:09:39,00:03:06,00:01:25,05:56:36
+ironman-70.3-uruguay-20161127.csv,422,Malcolm Ogg,40,TX,USA,00:41:02,02:37:30,01:51:46,00:03:01,00:02:57,05:16:16
+ironman-70.3-uruguay-20161127.csv,423,Martin Olivera,44,Santa Fe,ARG,00:33:57,02:22:40,01:30:45,00:01:16,00:01:13,04:29:51
+ironman-70.3-uruguay-20161127.csv,424,Juan Gabriel Ortega,41,Entre Rios,ARG,00:38:21,03:04:56,02:00:59,00:04:14,00:03:37,05:52:07
+ironman-70.3-uruguay-20161127.csv,425,Roberto Otake,43,São Paulo,BRA,00:41:10,02:50:33,02:06:03,00:05:32,00:03:20,05:46:38
+ironman-70.3-uruguay-20161127.csv,426,Tomas Paillot,41,buenos aires,ARG,00:47:47,03:04:51,02:08:25,00:02:13,00:03:35,06:06:51
+ironman-70.3-uruguay-20161127.csv,427,Charly Parlack,44,c.a.b.a.,ARG,00:48:37,03:08:22,02:09:24,00:04:43,00:04:06,06:15:12
+ironman-70.3-uruguay-20161127.csv,428,Guzman Peña,42,Montevideo,URY,00:44:25,02:55:11,02:43:45,00:03:50,00:04:09,06:31:20
+ironman-70.3-uruguay-20161127.csv,429,Otto Perdomo Ramirez,40,Sta. Catarina Pinula,GTM,00:41:47,03:03:14,02:13:47,00:03:13,00:02:56,06:04:57
+ironman-70.3-uruguay-20161127.csv,430,Leonardo Perez,44,san josé,URY,00:37:48,02:44:41,01:51:12,00:02:16,00:01:33,05:17:30
+ironman-70.3-uruguay-20161127.csv,431,Sergio Perez,43,Buenos Aires,ARG,00:33:08,02:23:15,01:36:18,00:01:46,00:00:59,04:35:26
+ironman-70.3-uruguay-20161127.csv,432,Marcelo Pablo Petruccelli Vazquez,44,Montevideo,URY,00:38:56,03:04:06,02:25:21,00:05:00,00:05:18,06:18:41
+ironman-70.3-uruguay-20161127.csv,433,Diego Fernando Politi,41,entre rios,ARG,00:37:50,02:36:48,01:45:24,00:03:10,00:01:08,05:04:20
+ironman-70.3-uruguay-20161127.csv,434,Juanpa Prieto,42,Montevideo,URY,00:32:44,02:38:40,01:51:48,00:03:18,00:03:56,05:10:26
+ironman-70.3-uruguay-20161127.csv,435,Leandro Pugliese,40,Capital Federal,ARG,00:40:35,02:48:56,02:07:37,00:02:06,00:02:17,05:41:31
+ironman-70.3-uruguay-20161127.csv,436,Rodrigo Quevedo,41,Rio Grande do Sul,BRA,00:35:48,02:21:46,01:23:39,00:01:09,00:01:01,04:23:23
+ironman-70.3-uruguay-20161127.csv,437,Sergio Ricer,44,Intl State,ARG,00:35:47,02:26:43,01:36:06,00:01:26,00:03:21,04:43:23
+ironman-70.3-uruguay-20161127.csv,438,Nestor Fernando Rinaldi,---,Cordoba,ARG,00:30:02,02:31:49,01:32:30,00:02:06,00:01:06,04:37:33
+ironman-70.3-uruguay-20161127.csv,439,Sebastian Romero,41,Cordoba,ARG,00:41:10,02:41:30,02:19:48,00:02:17,00:03:07,05:47:52
+ironman-70.3-uruguay-20161127.csv,440,Henrique Ricardo Rudiger,41,Rio grande do sul,BRA,00:39:44,02:45:54,01:42:44,00:02:49,00:01:57,05:13:08
+ironman-70.3-uruguay-20161127.csv,441,Erick Salas,44,San Jose,CRI,00:44:04,02:38:23,01:52:37,00:02:17,00:01:29,05:18:50
+ironman-70.3-uruguay-20161127.csv,442,Sergio Scravaglieri,43,Provincia,ARG,00:53:10,03:14:37,02:37:53,00:02:25,00:06:51,06:54:56
+ironman-70.3-uruguay-20161127.csv,443,Wilter Hugo Silva Padilla,44,SC,BRA,00:41:11,02:40:09,02:02:06,00:01:36,00:03:18,05:28:20
+ironman-70.3-uruguay-20161127.csv,444,Pablo martin staffolani,43,buenos aires,ARG,00:39:02,02:46:19,02:00:28,00:01:20,00:01:28,05:28:37
+ironman-70.3-uruguay-20161127.csv,445,Flavio Steeman,44,Santa fe,ARG,00:35:26,03:15:39,02:26:21,00:03:49,00:01:54,06:23:09
+ironman-70.3-uruguay-20161127.csv,447,Carlos Augusto Strada,44,Santa Fe,ARG,00:41:24,02:38:57,01:45:16,00:02:06,00:01:23,05:09:06
+ironman-70.3-uruguay-20161127.csv,448,Ricardo Tonetti,41,sao paulo,BRA,00:30:48,02:35:07,02:06:30,00:02:28,00:01:07,05:16:00
+ironman-70.3-uruguay-20161127.csv,449,Gaspar Torlaschi,40,Cordoba,ARG,00:37:47,02:50:53,02:10:27,00:06:13,00:02:32,05:47:52
+ironman-70.3-uruguay-20161127.csv,450,Fernando Pedro Torres,42,Córdoba,ARG,00:36:07,02:59:22,01:57:39,00:03:18,00:03:38,05:40:04
+ironman-70.3-uruguay-20161127.csv,451,Andres Ubaldi,44,Santa Fe,ARG,00:40:59,03:04:51,02:20:39,00:02:17,00:03:50,06:12:36
+ironman-70.3-uruguay-20161127.csv,452,Miguel Angel Urbina,40,---,CHL,00:41:39,03:01:20,02:11:32,00:02:57,00:01:59,05:59:27
+ironman-70.3-uruguay-20161127.csv,453,Juan Manuel Urusula Lanzieri,41,Entre Riso,ARG,00:40:24,02:32:41,01:55:06,00:01:39,00:00:59,05:10:49
+ironman-70.3-uruguay-20161127.csv,454,Martin Utrera,43,Cordoba,ARG,00:38:08,02:44:55,02:20:38,00:02:07,00:03:22,05:49:10
+ironman-70.3-uruguay-20161127.csv,457,Martin Vizcarra,42,Buenos Aires,ARG,00:39:05,02:37:26,02:02:08,00:04:59,00:02:00,05:25:38
+ironman-70.3-uruguay-20161127.csv,459,Simon Yeo,43,RS,GBR,00:41:43,02:58:10,02:10:51,00:02:25,00:02:40,05:55:49
+ironman-70.3-uruguay-20161127.csv,460,Marcelo Zador,43,Montevideo ,URY,00:45:56,03:06:17,02:23:32,00:04:58,00:04:29,06:25:12
+ironman-70.3-uruguay-20161127.csv,461,Felix Zylberglajt,42,Intl State,URY,00:37:03,02:24:34,01:40:29,00:01:19,00:01:13,04:44:38
+ironman-70.3-uruguay-20161127.csv,462,Abel Alba,35,Buenos Aires,ARG,00:42:45,03:07:08,02:13:35,00:04:38,00:04:06,06:12:12
+ironman-70.3-uruguay-20161127.csv,463,Diego Alfredo Ricagno,37,ENTRE RIOS,ARG,00:31:13,02:18:18,01:27:29,00:01:05,00:01:20,04:19:25
+ironman-70.3-uruguay-20161127.csv,464,Carlos Alric,39,san luis,ARG,00:41:18,02:35:00,01:56:18,00:02:42,00:03:57,05:19:15
+ironman-70.3-uruguay-20161127.csv,465,Ivan Andreasen,39,Buenos Aires,ARG,00:35:50,02:36:42,02:14:51,00:02:16,00:02:31,05:32:10
+ironman-70.3-uruguay-20161127.csv,466,Miguel Maximiliano Andres,39,Asuncion,PRY,00:36:34,02:57:08,01:30:31,00:04:35,00:06:58,05:15:46
+ironman-70.3-uruguay-20161127.csv,467,Fernando Aznar,36,Cordoba,ARG,00:39:37,02:42:16,01:34:37,00:03:11,00:01:58,05:01:39
+ironman-70.3-uruguay-20161127.csv,468,Andy Baldwin,39,CA,USA,00:29:07,02:23:25,01:43:12,00:01:08,00:01:09,04:38:01
+ironman-70.3-uruguay-20161127.csv,469,Miguel Barreto,37,Montevideo,URY,00:50:35,02:56:37,02:12:00,00:04:18,00:04:27,06:07:57
+ironman-70.3-uruguay-20161127.csv,471,Víctor Emiliano Bertini,37,Tucuman,ARG,00:43:45,02:50:59,02:12:25,00:04:15,00:03:06,05:54:30
+ironman-70.3-uruguay-20161127.csv,474,Agustin Brian,35,buenos aires,ARG,00:40:23,02:50:03,02:00:11,00:02:59,00:01:44,05:35:20
+ironman-70.3-uruguay-20161127.csv,475,Nicol  S Calder  N,37,BUENOS AI,ARG,00:30:27,02:47:08,02:34:59,00:01:02,00:01:49,05:55:25
+ironman-70.3-uruguay-20161127.csv,476,Bruno Camargo Damacena,37,ESPÍRITO SANTO,BRA,00:32:07,02:30:59,01:43:00,00:01:22,00:01:01,04:48:29
+ironman-70.3-uruguay-20161127.csv,477,Marcelo Cao,38,Buenos Aires,ARG,00:38:16,02:26:33,01:31:00,00:01:22,00:01:49,04:39:00
+ironman-70.3-uruguay-20161127.csv,478,German Carbajal,39,santa fe,ARG,03:00:42,---,01:37:03,---,03:01:47,04:38:50
+ironman-70.3-uruguay-20161127.csv,479,Sebastian Carella,35,Buenos aires,ARG,00:36:00,02:27:14,01:42:46,00:00:50,00:01:05,04:47:55
+ironman-70.3-uruguay-20161127.csv,480,Cristian Cartechini,37,buenos aires,ARG,00:35:34,02:19:41,01:35:16,00:01:20,00:01:18,04:33:09
+ironman-70.3-uruguay-20161127.csv,482,Rafael Chieza Fortes Garcia,36,RJ,BRA,00:34:54,02:18:52,01:28:11,00:01:27,00:00:48,04:24:12
+ironman-70.3-uruguay-20161127.csv,483,Diego Cibils,36,MONTEVIDEO,---,00:42:04,02:42:46,02:22:10,00:02:33,00:00:55,05:50:28
+ironman-70.3-uruguay-20161127.csv,484,Anibal Cornaglia,39,Other,ARG,00:27:20,02:14:01,01:24:55,00:00:57,00:01:00,04:08:13
+ironman-70.3-uruguay-20161127.csv,485,Ludovico Corral,39,BUENOS AIRES,ARG,00:33:12,02:35:10,02:00:03,00:02:57,00:01:51,05:13:13
+ironman-70.3-uruguay-20161127.csv,486,Henrique De Abreu,39,RS,BRA,00:34:29,03:08:42,---,00:05:49,00:05:58,DNF
+ironman-70.3-uruguay-20161127.csv,490,Marcos Sebastian Desia,37,BUENOS AIRES,ARG,00:41:25,02:31:33,01:53:48,00:01:26,00:01:48,05:10:00
+ironman-70.3-uruguay-20161127.csv,491,Federico Javier Diaz,36,CABA,ARG,00:45:27,03:10:15,02:11:46,00:03:40,00:06:44,06:17:52
+ironman-70.3-uruguay-20161127.csv,492,Hamilton Dinarte,39,RS,BRA,01:01:19,02:54:51,01:56:10,00:05:12,00:06:36,06:04:08
+ironman-70.3-uruguay-20161127.csv,493,Manuel Dolcemelo,39,BUENOS AIRES,ARG,00:35:51,02:50:27,02:13:32,00:03:10,00:02:13,05:45:13
+ironman-70.3-uruguay-20161127.csv,494,Juan Manuel Etchepare,38,ENTRE RÍOS,ARG,03:03:56,---,01:46:25,---,03:05:02,04:51:27
+ironman-70.3-uruguay-20161127.csv,495,Guido Favreaud,36,Buenos Aires,ARG,00:42:12,03:10:34,02:13:11,00:03:11,00:03:21,06:12:29
+ironman-70.3-uruguay-20161127.csv,496,Leandro Felippe,35,CABA,ARG,00:44:36,02:44:47,01:41:31,00:02:44,00:03:26,05:17:04
+ironman-70.3-uruguay-20161127.csv,497,Juan Gabin,36,buenos aires,ARG,00:31:41,02:31:58,01:37:19,00:01:36,00:01:04,04:43:38
+ironman-70.3-uruguay-20161127.csv,498,Matias Gertie,38,buenos aires,ARG,00:37:02,02:46:53,01:45:54,00:01:41,00:02:53,05:14:23
+ironman-70.3-uruguay-20161127.csv,500,Federico Giustozzi,39,Neuquen,ARG,03:35:35,---,01:52:02,---,03:38:35,05:30:37
+ironman-70.3-uruguay-20161127.csv,501,Lucas Gonzalez Smith,39,Buenos Aires,ARG,00:30:38,02:20:07,01:50:39,00:01:03,00:01:40,04:44:07
+ironman-70.3-uruguay-20161127.csv,502,Martin Leandro Helguero,38,Río Negro,ARG,00:33:01,02:36:56,02:06:06,00:01:10,00:01:42,05:18:55
+ironman-70.3-uruguay-20161127.csv,504,Matias Hoorn,36,Buenos Aires,ARG,00:48:39,02:58:36,01:59:32,00:02:24,00:02:54,05:52:05
+ironman-70.3-uruguay-20161127.csv,505,Diego Argos Jara,37,Santa Fe,ARG,00:29:51,02:28:07,01:35:43,00:00:55,00:01:13,04:35:49
+ironman-70.3-uruguay-20161127.csv,506,Patricio Jaramillo Gutierrez,36,CL,CHL,00:38:12,02:46:43,01:52:19,00:01:36,00:00:52,05:19:42
+ironman-70.3-uruguay-20161127.csv,508,Juan Pedro Kasselian Sisto,37,Montevideo ,URY,00:36:48,02:44:01,01:54:45,00:02:35,00:01:59,05:20:08
+ironman-70.3-uruguay-20161127.csv,509,Carlos Kmetiuc,36,Buenos Aires,ARG,00:31:04,02:27:48,01:29:45,00:00:56,00:01:04,04:30:37
+ironman-70.3-uruguay-20161127.csv,510,Lucas Kraljev,38,Buenos aires,ARG,00:30:44,02:40:42,01:54:11,00:01:20,00:01:49,05:08:46
+ironman-70.3-uruguay-20161127.csv,511,Alejandro Laborde Reybaud,38,Montevideo,URY,00:38:07,02:52:50,02:02:37,00:02:37,00:02:17,05:38:28
+ironman-70.3-uruguay-20161127.csv,513,William Llanes,39,Montevideo,URY,00:43:18,02:50:04,01:42:13,00:02:55,00:03:50,05:22:20
+ironman-70.3-uruguay-20161127.csv,514,Alfredo Lopez Bravo,37,Buenos Aires ,ARG,00:41:13,02:41:29,02:04:16,00:02:32,00:02:33,05:32:03
+ironman-70.3-uruguay-20161127.csv,515,Tomas Luongo,38,ES,ARG,00:31:48,02:40:52,02:19:29,00:01:37,00:01:31,05:35:17
+ironman-70.3-uruguay-20161127.csv,516,Osvaldo Malvezzi,39,Buenos Aires,ARG,00:31:14,02:17:55,01:26:27,00:01:26,00:01:14,04:18:16
+ironman-70.3-uruguay-20161127.csv,517,Fabio Mariano,36,CABA,BRA,00:47:30,03:09:29,02:03:31,00:04:26,00:02:26,06:07:22
+ironman-70.3-uruguay-20161127.csv,518,Leonardo Martellotto,36,cordoba,ARG,00:32:36,02:23:05,01:32:58,00:00:56,00:01:12,04:30:47
+ironman-70.3-uruguay-20161127.csv,519,Gabriel Massaferro,36,Montevideo ,URY,00:42:13,02:56:51,02:07:33,00:02:06,00:03:06,05:51:49
+ironman-70.3-uruguay-20161127.csv,520,Pedro Merlini,35,BUENOS AIRES,ARG,00:36:58,02:52:50,02:13:34,00:01:51,00:04:05,05:49:18
+ironman-70.3-uruguay-20161127.csv,521,Patricio Molina,37,Ciudad de Buenos Aires,ARG,00:39:54,02:20:19,01:27:33,00:01:07,00:01:57,04:30:50
+ironman-70.3-uruguay-20161127.csv,522,Pablo Mongabure,36,BUENOS AIRES,ARG,00:34:47,02:21:40,01:50:54,00:00:48,00:01:50,04:49:59
+ironman-70.3-uruguay-20161127.csv,523,Maximiliano Moreira,39,San Jose,CRI,00:27:33,02:25:53,01:46:34,00:01:18,00:01:46,04:43:04
+ironman-70.3-uruguay-20161127.csv,525,Matias Nicolas,36,Buenos Aires,ARG,00:38:29,02:37:46,01:35:52,00:01:09,00:01:49,04:55:05
+ironman-70.3-uruguay-20161127.csv,526,Santiago Passeron,36,ES,ARG,00:35:58,02:52:05,01:55:00,00:01:40,00:02:11,05:26:54
+ironman-70.3-uruguay-20161127.csv,527,Joaquin Pinasco,37,buenos aires,ARG,00:44:31,02:53:30,02:10:32,00:05:01,00:03:04,05:56:38
+ironman-70.3-uruguay-20161127.csv,528,Joaquin Quinodoz,37,Santa Fe,ARG,00:36:20,02:39:10,02:10:42,00:01:59,00:02:12,05:30:23
+ironman-70.3-uruguay-20161127.csv,529,Gaston Ramos,38,Buenos Aires,ARG,00:38:22,02:40:40,02:02:19,00:02:17,00:02:05,05:25:43
+ironman-70.3-uruguay-20161127.csv,530,Matias Rodriguez,37,NEUQUEN,ARG,00:46:22,02:48:02,02:08:49,00:01:53,00:02:05,05:47:11
+ironman-70.3-uruguay-20161127.csv,531,Eduardo Rodriguez Arias,35,---,ARG,00:42:33,02:35:42,01:54:26,00:02:56,00:01:34,05:17:11
+ironman-70.3-uruguay-20161127.csv,532,Alejandro Romero,35,Mexico City,MEX,00:42:05,02:41:25,02:01:37,00:02:19,00:02:03,05:29:29
+ironman-70.3-uruguay-20161127.csv,533,Gaston Rossetto,35,buenos aires caba,ARG,00:41:08,02:46:31,02:13:09,00:01:32,00:03:08,05:45:28
+ironman-70.3-uruguay-20161127.csv,534,Matias Ezequiel Rustan,36,cordoba,ARG,00:40:20,02:38:00,02:13:05,00:02:57,00:02:27,05:36:49
+ironman-70.3-uruguay-20161127.csv,535,Ramiro Saenz,35,Santa Fe,ARG,00:35:51,02:43:23,01:44:01,00:01:48,00:02:22,05:07:25
+ironman-70.3-uruguay-20161127.csv,536,Santiago Sagari,35,Durazno,URY,00:33:24,02:30:27,01:48:06,00:01:27,00:01:26,04:54:50
+ironman-70.3-uruguay-20161127.csv,537,Sebastian Salazar,35,FL,COL,00:39:32,02:49:40,01:37:40,00:01:43,00:02:23,05:10:58
+ironman-70.3-uruguay-20161127.csv,538,Christian Saldanha,36,Rio grande do Sul,BRA,00:33:39,02:40:23,02:01:06,00:02:33,00:02:35,05:20:16
+ironman-70.3-uruguay-20161127.csv,539,Agustin Luis Samueli,36,BUENOS AIRES,ARG,00:40:08,02:37:44,01:41:31,00:02:18,00:01:01,05:02:42
+ironman-70.3-uruguay-20161127.csv,540,Walter Sanchez,35,Montevideo,URY,00:46:13,02:49:30,01:45:29,00:01:39,00:01:37,05:24:28
+ironman-70.3-uruguay-20161127.csv,541,Nestor Santander,37,buenos aires,ARG,00:33:09,02:30:41,01:45:22,00:01:38,00:01:46,04:52:36
+ironman-70.3-uruguay-20161127.csv,542,Federico Schweizer,35,BUENOS AIRES,ARG,00:34:13,02:38:24,01:42:54,00:01:40,00:01:27,04:58:38
+ironman-70.3-uruguay-20161127.csv,543,Fernando Seixas,37,SAO PAULO,BRA,00:38:59,02:36:14,01:44:58,00:03:54,00:02:18,05:06:23
+ironman-70.3-uruguay-20161127.csv,544,Lucas Semorile,37,buenos aires,ARG,00:34:59,02:44:00,01:58:36,00:02:11,00:02:20,05:22:06
+ironman-70.3-uruguay-20161127.csv,545,Leopoldo Simini,37,Ciudad de Buenos Aires,ARG,00:40:16,03:41:32,02:35:53,00:02:24,00:01:42,07:01:47
+ironman-70.3-uruguay-20161127.csv,546,Miguel Stuart Milne,36,buenos aires,ARG,00:49:07,03:17:39,02:26:40,00:05:35,00:04:48,06:43:49
+ironman-70.3-uruguay-20161127.csv,547,Marcos Sundblad,35,Buenos Aires,ARG,00:48:13,02:54:47,01:57:03,00:03:00,00:02:32,05:45:35
+ironman-70.3-uruguay-20161127.csv,548,Pablo Tamburo,37,Buenos Aires,ARG,00:58:09,03:26:49,02:10:36,00:03:35,00:03:25,06:42:34
+ironman-70.3-uruguay-20161127.csv,549,Andreu Torregrosa,35,---,ESP,00:36:27,02:45:47,01:52:48,00:02:19,00:01:17,05:18:38
+ironman-70.3-uruguay-20161127.csv,550,Ariel Torres,37,Corrientes,ARG,00:33:25,02:37:06,02:28:14,00:02:52,00:06:06,05:47:43
+ironman-70.3-uruguay-20161127.csv,551,Gonzalo Troche,36,SAL,URY,01:11:15,03:44:43,02:59:48,00:04:14,00:08:42,08:08:42
+ironman-70.3-uruguay-20161127.csv,552,Marcos Luis Umfurer,38,Buenos Aires,ARG,00:42:53,03:05:38,02:35:12,00:09:08,00:06:38,06:39:29
+ironman-70.3-uruguay-20161127.csv,553,Francisco Vago Anaya,38,Buenos Aires,ARG,00:46:18,02:57:24,02:14:35,00:06:11,00:03:00,06:07:28
+ironman-70.3-uruguay-20161127.csv,554,Alexandre Vergete,35,RJ,BRA,00:35:18,02:18:47,01:41:39,00:01:13,00:00:58,04:37:55
+ironman-70.3-uruguay-20161127.csv,555,Matias Vicente,38,---,ARG,00:41:00,03:08:42,02:10:38,00:02:36,00:02:55,06:05:51
+ironman-70.3-uruguay-20161127.csv,557,Pablo Bainotti,26,Santa Fe,ARG,00:33:17,02:32:49,02:00:52,00:01:41,00:01:00,05:09:39
+ironman-70.3-uruguay-20161127.csv,558,Philip Billikopf,27,---,CHL,00:35:28,02:25:38,01:28:20,00:01:29,00:01:53,04:32:48
+ironman-70.3-uruguay-20161127.csv,559,Rodrigo Bovi,28,Sao Paulo,BRA,03:10:48,---,02:00:22,---,03:13:43,05:14:05
+ironman-70.3-uruguay-20161127.csv,560,Julio Fernando Nic Bustamante,28,ARG/BUENO,ARG,00:43:53,02:41:40,01:42:48,00:02:09,00:01:01,05:11:31
+ironman-70.3-uruguay-20161127.csv,561,Marthin Cevasco,28,---,ARG,00:35:46,02:35:52,01:50:52,00:02:33,00:03:17,05:08:20
+ironman-70.3-uruguay-20161127.csv,562,Gabriel Da Silva,29,---,ARG,00:31:54,02:24:51,01:40:51,00:01:21,00:01:09,04:40:06
+ironman-70.3-uruguay-20161127.csv,563,Maximiliano Fonseca,29,buenos aires,ARG,00:31:40,02:31:03,01:45:03,00:02:50,00:02:43,04:53:19
+ironman-70.3-uruguay-20161127.csv,565,Nahuel Galiana,28,buenos aires,ARG,00:32:26,02:27:28,01:35:04,00:01:24,00:01:05,04:37:27
+ironman-70.3-uruguay-20161127.csv,566,Marcos Gauna,25,Cordoba,ARG,02:58:42,---,01:29:38,---,02:59:48,04:29:26
+ironman-70.3-uruguay-20161127.csv,567,Dionatan Korb,27,RS,BRA,00:43:12,02:36:22,01:55:44,00:04:49,00:03:12,05:23:19
+ironman-70.3-uruguay-20161127.csv,568,Gabriel Lamonato,29,São Paulo,BRA,00:35:48,02:47:59,01:52:08,00:02:26,00:01:29,05:19:50
+ironman-70.3-uruguay-20161127.csv,569,Juan Leonardi,26,Córdoba,ARG,00:29:44,02:41:12,01:33:44,00:02:23,00:01:06,04:48:09
+ironman-70.3-uruguay-20161127.csv,570,Nicolas Loiacono,25,Buenos aires,ARG,00:32:12,02:31:31,01:44:14,00:01:12,00:01:19,04:50:28
+ironman-70.3-uruguay-20161127.csv,571,Rodrigo Martin Lopez,27,Buenos Aires,ARG,00:34:22,02:35:10,01:53:44,00:01:23,00:02:02,05:06:41
+ironman-70.3-uruguay-20161127.csv,572,Jorge Loyarte,25,Capital Federal,ARG,00:40:28,02:36:19,01:37:23,00:01:59,00:01:35,04:57:44
+ironman-70.3-uruguay-20161127.csv,573,Joan Manzetto,28,caba,ARG,00:28:43,02:30:25,01:39:32,00:01:09,00:01:20,04:41:09
+ironman-70.3-uruguay-20161127.csv,574,Federico Medici,29,Buenos aires,ARG,00:29:52,02:15:03,01:28:03,00:01:02,00:01:09,04:15:09
+ironman-70.3-uruguay-20161127.csv,575,Facundo Parra,28,chubut,ARG,00:27:15,02:15:27,01:32:52,00:00:55,00:01:39,04:18:08
+ironman-70.3-uruguay-20161127.csv,576,Agustin Piotti,26,Montevideo,URY,00:40:14,02:53:15,02:02:17,00:02:07,00:01:07,05:39:00
+ironman-70.3-uruguay-20161127.csv,577,André Fillipe Pokrevieski,29,SANTA CATARINA,BRA,00:44:43,02:52:06,01:55:00,00:02:23,00:01:34,05:35:46
+ironman-70.3-uruguay-20161127.csv,579,Romeu Ramos,26,Paraná,BRA,00:46:09,03:17:55,02:46:07,00:03:11,00:05:27,06:58:49
+ironman-70.3-uruguay-20161127.csv,580,Pablo Ruiz Gallo,27,Argentina,ARG,00:29:03,02:22:50,01:35:51,00:01:05,00:01:01,04:29:50
+ironman-70.3-uruguay-20161127.csv,581,Eduardo Sandoval,26,---,CHL,00:38:14,02:24:52,01:27:20,00:01:29,00:01:24,04:33:19
+ironman-70.3-uruguay-20161127.csv,582,Tomas Santamaria,29,Minas Gerais,ARG,00:39:50,02:51:22,01:41:15,00:03:26,00:02:30,05:18:23
+ironman-70.3-uruguay-20161127.csv,583,Gerardo Saracho,28,Paysandú,URY,00:46:38,03:09:33,02:22:52,00:01:41,00:02:44,06:23:28
+ironman-70.3-uruguay-20161127.csv,584,Alexis Damian Sepulveda Gattari,28,cordoba,ARG,00:43:32,02:49:26,01:58:17,00:02:56,00:03:58,05:38:09
+ironman-70.3-uruguay-20161127.csv,585,Facundo Serra Castro,25,Buenos Aires,ARG,00:37:47,02:23:19,01:40:10,00:02:00,00:01:17,04:44:33
+ironman-70.3-uruguay-20161127.csv,586,Matias Silvestri,27,buenos aires,ARG,00:33:53,02:29:18,01:36:32,00:00:50,00:01:11,04:41:44
+ironman-70.3-uruguay-20161127.csv,588,Cristian Suarez,29,Maldonado,URY,00:46:59,03:02:05,02:10:01,00:03:08,00:03:18,06:05:31
+ironman-70.3-uruguay-20161127.csv,589,Braulio Sueiro,25,Montevideo,URY,00:33:02,02:24:28,01:34:49,00:01:15,00:00:39,04:34:13
+ironman-70.3-uruguay-20161127.csv,590,Guido Tomaselli,29,bueno aires,ARG,00:36:55,02:35:28,01:59:05,00:02:22,00:02:09,05:15:59
+ironman-70.3-uruguay-20161127.csv,591,Enrico Trentini,26,Montevideo,URY,03:28:12,---,01:49:11,---,03:29:50,05:19:01
+ironman-70.3-uruguay-20161127.csv,593,Alejandro Gabriel Abalos Reynoso,34,Capital,ARG,00:45:14,03:01:09,02:26:25,00:02:54,00:04:00,06:19:42
+ironman-70.3-uruguay-20161127.csv,594,Leo Accorsi,34,sp,BRA,00:35:53,---,01:45:05,00:02:31,03:21:45,05:06:50
+ironman-70.3-uruguay-20161127.csv,595,Alexis Ali,33,SANTA FE,ARG,00:48:28,02:49:21,01:45:48,00:02:43,00:04:12,05:30:32
+ironman-70.3-uruguay-20161127.csv,596,Juan Ignacio Allievi Orselli,31,Montevideo,ARG,00:31:39,02:32:10,01:39:50,00:01:11,00:00:58,04:45:48
+ironman-70.3-uruguay-20161127.csv,597,Reynaldo Borek,34,Buenos Aires,ARG,00:33:10,02:35:47,02:08:24,00:01:25,00:01:37,05:20:23
+ironman-70.3-uruguay-20161127.csv,598,Joao Pedro Boskovic Cortez,32,Brasil,BRA,00:30:57,02:32:22,01:34:51,00:01:30,00:01:37,04:41:17
+ironman-70.3-uruguay-20161127.csv,600,Bruno Calvetti,30,Parana,BRA,---,---,---,---,---,DNS
+ironman-70.3-uruguay-20161127.csv,602,Fernando Casala,31,Montevideo,URY,00:36:23,02:57:56,02:03:16,00:03:13,00:04:09,05:44:57
+ironman-70.3-uruguay-20161127.csv,603,Marcos Cevasco,34,DISTRITO FEDERAL,ARG,00:37:27,02:40:23,02:20:38,00:03:04,00:01:48,05:43:20
+ironman-70.3-uruguay-20161127.csv,604,Diego Ciarrocchi,33,Intl State,BRA,00:41:16,02:55:21,01:55:14,00:02:19,00:01:47,05:35:57
+ironman-70.3-uruguay-20161127.csv,605,Bruno Collato,31,Intl State,BRA,00:31:59,02:19:55,01:32:30,00:01:07,00:00:47,04:26:18
+ironman-70.3-uruguay-20161127.csv,606,Walber Cordeiro,34,Pernambuco,BRA,01:01:53,02:58:11,02:15:18,00:02:17,00:02:39,06:20:18
+ironman-70.3-uruguay-20161127.csv,607,Andres Costa,31,selecciona,ARG,00:37:32,02:46:10,01:38:39,00:02:51,00:03:42,05:08:54
+ironman-70.3-uruguay-20161127.csv,608,Cristian Curia,30,Bs As,ARG,00:36:01,02:32:07,01:38:52,00:01:59,00:01:26,04:50:25
+ironman-70.3-uruguay-20161127.csv,609,Andres de Estrada,33,Buenos Aires,ARG,00:35:47,02:54:32,02:03:37,00:02:28,00:02:31,05:38:55
+ironman-70.3-uruguay-20161127.csv,610,Juan De Leon,34,MALDONADO,URY,00:40:24,02:43:31,02:00:07,00:01:33,00:01:38,05:27:13
+ironman-70.3-uruguay-20161127.csv,611,Eduardo Duarte Nardini,34,maldonado,URY,00:36:08,02:34:04,01:43:37,00:02:15,00:01:19,04:57:23
+ironman-70.3-uruguay-20161127.csv,612,Pedro  Elias Fadul,32,APO,PRY,00:35:21,02:43:22,01:57:48,00:01:21,00:01:28,05:19:20
+ironman-70.3-uruguay-20161127.csv,613,Diego Furest,32,Montevideo,URY,00:36:24,02:46:17,01:51:58,00:03:47,00:02:31,05:20:57
+ironman-70.3-uruguay-20161127.csv,614,Ignacio Gabancho,31,Buenos Aires,ARG,00:33:20,02:47:47,02:01:18,00:01:41,00:01:25,05:25:31
+ironman-70.3-uruguay-20161127.csv,615,Mauricio Leopoldo Galan Prado,31,---,URY,00:42:25,02:46:08,02:01:23,00:01:16,00:01:45,05:32:57
+ironman-70.3-uruguay-20161127.csv,617,Juan Gebauer,32,Buenos Aires,ARG,00:33:49,02:30:47,01:46:59,00:01:13,00:01:32,04:54:20
+ironman-70.3-uruguay-20161127.csv,618,Vittorio Giacometti Sarthou,33,---,ESP,00:40:45,02:49:25,01:56:04,00:02:08,00:01:32,05:29:54
+ironman-70.3-uruguay-20161127.csv,619,Sebastian Gianfagna,30,UY,URY,00:40:17,02:36:18,02:08:41,00:01:38,00:01:23,05:28:17
+ironman-70.3-uruguay-20161127.csv,620,Paul Gilbert,34,Alajuela,CRI,00:34:55,02:42:21,02:11:09,00:01:25,00:03:03,05:32:53
+ironman-70.3-uruguay-20161127.csv,621,Bruno Goulart,33,SP,BRA,00:32:02,02:57:40,02:06:37,00:02:34,00:02:28,05:41:21
+ironman-70.3-uruguay-20161127.csv,622,Bernardo Graciano,32,Minas gerias,BRA,00:35:52,02:44:25,02:15:02,00:02:18,00:02:53,05:40:30
+ironman-70.3-uruguay-20161127.csv,623,Jorge Eduardo Hernandez Escobar,31,SACATEPEQUEZ,GTM,00:36:19,02:52:31,02:11:20,00:01:47,00:03:26,05:45:23
+ironman-70.3-uruguay-20161127.csv,624,Leonardo Ezequiel Hollmann,33,Buenos Aires,ARG,00:44:50,02:44:01,01:58:15,00:01:42,00:01:27,05:30:15
+ironman-70.3-uruguay-20161127.csv,625,Emmanuel Iodice,31,Buenos aires,ARG,00:29:04,02:26:15,01:19:04,00:00:53,00:01:26,04:16:42
+ironman-70.3-uruguay-20161127.csv,626,Nelson Junior,31,Intl State,BRA,00:38:42,02:43:20,01:49:39,00:02:04,00:02:35,05:16:20
+ironman-70.3-uruguay-20161127.csv,627,Diego Kelland,31,bs as,ARG,00:42:53,02:32:20,02:11:44,00:02:23,00:02:37,05:31:57
+ironman-70.3-uruguay-20161127.csv,628,Kelvin Vieira Kredens,34,---,BRA,00:39:32,---,01:56:20,02:47:11,00:00:03,05:21:26
+ironman-70.3-uruguay-20161127.csv,631,Eugenio Luci,34,Buenos Aires,ARM,00:43:43,02:59:50,02:13:59,00:02:28,00:01:18,06:01:18
+ironman-70.3-uruguay-20161127.csv,632,Peter Lulai,33,São Paulo,BRA,00:34:33,02:33:51,01:49:56,00:01:17,00:01:37,05:01:14
+ironman-70.3-uruguay-20161127.csv,633,Illen Luna,34,São Paulo,BRA,00:34:37,02:28:37,01:48:18,00:01:04,00:01:25,04:54:01
+ironman-70.3-uruguay-20161127.csv,634,Ernesto Maceiras,34,Maldonado,URY,00:51:57,03:38:04,02:19:40,00:03:08,00:07:45,07:00:34
+ironman-70.3-uruguay-20161127.csv,636,Benjamin Maturana,32,---,CHL,00:37:26,03:01:07,01:51:36,00:03:19,00:02:58,05:36:26
+ironman-70.3-uruguay-20161127.csv,637,Chad Mccabe,33,AB,ARG,00:35:03,02:37:41,02:10:26,00:02:49,00:03:01,05:29:00
+ironman-70.3-uruguay-20161127.csv,638,Marcos Mendez,34,UR,URY,00:54:45,02:46:08,02:21:03,00:01:51,00:03:13,06:07:00
+ironman-70.3-uruguay-20161127.csv,639,Javier Menendez,30,Ciudad de Buenos Aires,ARG,00:36:54,02:41:46,01:55:36,00:03:04,00:02:45,05:20:05
+ironman-70.3-uruguay-20161127.csv,640,Patricio Javier Miguelez Baiud,33,ciudad de buenos aires,ARG,00:39:07,02:54:47,02:27:57,00:03:04,00:02:37,06:07:32
+ironman-70.3-uruguay-20161127.csv,641,Carlos Moyano,34,Buenos Aires,ARG,00:40:44,02:53:30,02:15:35,00:02:28,00:03:57,05:56:14
+ironman-70.3-uruguay-20161127.csv,642,David Munoz,32,---,CHL,03:20:20,---,01:54:18,00:03:00,03:35:46,05:30:04
+ironman-70.3-uruguay-20161127.csv,643,Gustavo Nogueira,33,MG,BRA,00:35:18,03:06:57,02:09:56,00:04:27,00:04:16,06:00:54
+ironman-70.3-uruguay-20161127.csv,644,Alejandro Nolla González,34,Paysandú,URY,00:44:16,02:22:54,01:40:08,00:02:10,00:01:30,04:50:58
+ironman-70.3-uruguay-20161127.csv,645,Edvan Eduardo Oliveira,33,sp,BRA,00:42:42,02:49:53,02:03:40,00:05:45,00:04:48,05:46:48
+ironman-70.3-uruguay-20161127.csv,647,Agustin Ortiz,29,Salta,ARG,00:29:53,02:36:36,02:03:31,00:01:15,00:00:59,05:12:14
+ironman-70.3-uruguay-20161127.csv,648,Guillermo Pellegrini,30,SANTA FE,ARG,00:31:51,02:30:27,01:45:49,00:01:01,00:02:48,04:51:56
+ironman-70.3-uruguay-20161127.csv,649,Guilherme Pereira Pinto,30,São Paulo,BRA,00:43:15,03:31:08,02:03:30,00:04:48,00:03:44,06:26:25
+ironman-70.3-uruguay-20161127.csv,650,Leandro Perez Bernardez,33,Buenos Aires,ARG,00:36:20,02:39:13,01:46:57,00:01:49,00:02:12,05:06:31
+ironman-70.3-uruguay-20161127.csv,651,Ignacio Perillo Nuñez,30,capital federal,ARG,00:34:08,02:42:10,01:56:51,00:02:13,00:01:30,05:16:52
+ironman-70.3-uruguay-20161127.csv,652,Nicolas Pisano,33,Maldonado,URY,03:55:19,---,02:55:35,---,04:00:47,06:56:22
+ironman-70.3-uruguay-20161127.csv,653,Juan Manuel Ponce,30,San Luis,ARG,00:40:03,02:57:22,01:53:46,00:05:00,00:03:27,05:39:38
+ironman-70.3-uruguay-20161127.csv,654,Gaston Restuccia,34,MONTEVIDEO,URY,00:33:37,02:56:11,01:51:52,00:06:28,00:04:29,05:32:37
+ironman-70.3-uruguay-20161127.csv,655,Alejandro Ricagno,32,ENTRE RIOS,ARG,02:50:11,---,01:30:46,---,02:51:15,04:22:01
+ironman-70.3-uruguay-20161127.csv,657,Leandro Rosas Gonzalez,30,Mdeo,URY,00:37:09,02:37:50,01:42:27,00:01:18,00:01:53,05:00:37
+ironman-70.3-uruguay-20161127.csv,659,Renato Santos Witt,33,Rio Grande do Sul,BRA,00:39:04,02:49:52,02:06:41,00:01:48,00:02:03,05:39:28
+ironman-70.3-uruguay-20161127.csv,660,Renan Sbaraini Delavald,33,RS,BRA,00:37:15,02:37:23,01:51:44,00:03:12,00:03:34,05:13:08
+ironman-70.3-uruguay-20161127.csv,661,Ruy Schinocca,32,buenos aires,ARG,00:41:02,03:02:34,02:36:01,00:03:16,00:02:11,06:25:04
+ironman-70.3-uruguay-20161127.csv,664,Eduardo Soley,30,Paraná,BRA,00:45:49,02:51:05,02:02:17,00:02:43,00:05:53,05:47:47
+ironman-70.3-uruguay-20161127.csv,665,Marcos Tenorio,33,PE,BRA,00:41:29,02:47:09,01:51:31,00:02:35,00:01:47,05:24:31
+ironman-70.3-uruguay-20161127.csv,669,Marcos Ziegler,33,Buenos Aires,ARG,00:13:41,---,---,---,---,DNF
+ironman-70.3-uruguay-20161127.csv,670,German Zuccoli,30,Montevideo,URY,00:35:30,02:44:10,01:45:37,00:01:49,00:01:30,05:08:36
+ironman-70.3-uruguay-20161127.csv,671,Vanusa Alberti,40,Parana,BRA,00:37:06,02:33:37,01:37:34,00:02:03,00:01:35,04:51:55
+ironman-70.3-uruguay-20161127.csv,672,Anabella Farinon,41,capital federal,ARG,00:41:47,02:37:20,01:47:11,00:02:03,00:01:30,05:09:51
+ironman-70.3-uruguay-20161127.csv,673,sara quaglio,42,são paulo,BRA,00:36:15,03:00:51,02:30:58,00:02:18,00:02:33,06:12:55
+ironman-70.3-uruguay-20161127.csv,674,Sandra Thostrup,53,Buenos Aires,ARG,00:55:12,03:10:22,02:34:19,00:02:12,00:02:04,06:44:09
+ironman-70.3-uruguay-20161127.csv,675,Eduardo Ocampo,54,Montevideo,URY,00:44:47,02:45:24,02:08:47,00:04:08,00:04:09,05:47:15
+ironman-70.3-uruguay-20161127.csv,676,Alejandro Sambad,54,Other,ARG,00:36:12,02:24:31,01:40:17,00:01:00,00:01:46,04:43:46
+ironman-70.3-uruguay-20161127.csv,677,Joaquin Acuna,44,FL,ARG,00:31:50,02:43:38,01:53:47,00:02:40,00:02:06,05:14:01
+ironman-70.3-uruguay-20161127.csv,678,Alejandro Alvares,48,Uruguay,URY,00:36:29,02:48:43,02:09:14,00:03:25,00:03:33,05:41:24
+ironman-70.3-uruguay-20161127.csv,679,Diego Brignoni,45,Maldonado,URY,00:40:23,02:38:32,01:53:38,00:02:03,00:01:59,05:16:35
+ironman-70.3-uruguay-20161127.csv,680,Bruno Colaizzo,49,Cordoba,ARG,00:45:03,02:46:29,02:00:10,00:01:56,00:02:37,05:36:15
+ironman-70.3-uruguay-20161127.csv,681,Daniel Del Puerto,45,Chaco,URY,00:58:45,00:27:41,---,---,---,DNF
+ironman-70.3-uruguay-20161127.csv,682,Diego Andres Fernandez,45,buenos aires,ARG,00:40:01,02:34:41,01:44:59,00:01:51,00:01:30,05:03:02
+ironman-70.3-uruguay-20161127.csv,683,Marcelo Gonzalez,46,MALDONADO,URY,00:38:45,03:10:55,02:17:46,00:07:46,00:04:17,06:19:29
+ironman-70.3-uruguay-20161127.csv,684,Juan Scaffa,49,Canelones,ARG,00:43:28,03:08:45,01:59:20,00:05:39,00:04:19,06:01:31
+ironman-70.3-uruguay-20161127.csv,685,Lautaro Brenes,44,Buenos Aires,ARG,00:30:59,02:25:19,01:51:12,00:01:03,00:02:16,04:50:49
+ironman-70.3-uruguay-20161127.csv,686,Alejandro Fernández,42,Maldonado,URY,00:36:44,---,---,00:01:34,---,DNF
+ironman-70.3-uruguay-20161127.csv,687,Alan Gidekel,43,FL,ARG,00:43:01,02:58:15,02:37:57,00:03:02,00:03:04,06:25:19
+ironman-70.3-uruguay-20161127.csv,688,Andres German Nennhuber,43,Chubut,ARG,00:30:36,02:19:56,01:45:24,00:00:58,00:01:31,04:38:25
+ironman-70.3-uruguay-20161127.csv,689,Claudio Pi,40,MONTEVIDEO,URY,00:32:34,02:19:08,01:38:11,00:02:23,00:01:28,04:33:44
+ironman-70.3-uruguay-20161127.csv,690,Alejandro Actis,38,Bs. As.,ARG,00:37:31,02:30:49,01:46:53,00:01:03,00:01:23,04:57:39
+ironman-70.3-uruguay-20161127.csv,691,Sebastian Carella,35,Buenos aires,ARG,---,---,---,---,---,DNS
+ironman-70.3-uruguay-20161127.csv,692,Juan Pablo Garcia Bercellini,37,buenos aires,ARG,00:38:18,03:09:12,02:13:17,00:01:42,00:02:35,06:05:04
+ironman-70.3-uruguay-20161127.csv,693,Federico Martin Grunwaldt,38,corrientes,ARG,00:46:22,03:01:26,02:25:35,00:02:37,00:03:08,06:19:08
+ironman-70.3-uruguay-20161127.csv,694,Federico Pittaluga Pereira,38,Montevideo,URY,00:31:34,02:27:55,01:37:26,00:01:41,00:01:20,04:39:56
+ironman-70.3-uruguay-20161127.csv,695,Sebastian Sarla Morella,36,"florida, uruguay",URY,00:41:26,02:30:52,01:31:27,00:01:43,00:01:22,04:46:50
+ironman-70.3-uruguay-20161127.csv,696,Gabriel Angeloro,31,Mvd,URY,00:25:54,02:21:27,01:31:35,00:00:53,00:01:03,04:20:52
+ironman-70.3-uruguay-20161127.csv,697,Cesar Caino,34,CORRIENTES,ARG,00:37:11,02:24:09,01:56:33,00:01:12,00:02:55,05:02:00
+ironman-70.3-uruguay-20161127.csv,698,Martin Larraburu,31,Other,ARG,00:34:46,02:25:59,01:38:44,00:01:22,00:01:11,04:42:02
+ironman-70.3-uruguay-20161127.csv,699,Kid Walter Tlaija,30,Rio Grande do Sul,BRA,00:29:36,---,01:22:14,00:00:47,02:40:53,04:03:07
+ironman-70.3-uruguay-20161127.csv,700,Passadore Maximiliano,---,---,ARG,02:41:38,---,01:26:29,---,02:42:28,04:08:57
+ironman-70.3-uruguay-20161127.csv,701,Martin Fernando Sosa,41,Intl State,ARG,00:34:23,02:21:30,01:32:03,00:01:41,00:01:14,04:30:51
+ironman-70.3-uruguay-20161127.csv,702,Armando Crespo,---,---,---,00:47:10,02:55:52,02:20:02,00:04:02,00:04:22,06:11:28
+ironman-70.3-uruguay-20161127.csv,703,Carlos Alberto Farias,35,buenos aires,ARG,00:29:34,02:18:40,01:20:58,00:01:28,00:00:54,04:11:34
+ironman-70.3-uruguay-20161127.csv,705,Federico Duarte,---,---,URY,00:30:41,02:22:10,01:32:46,00:01:31,00:01:06,04:28:14
+ironman-70.3-uruguay-20161127.csv,706,Charles Fagian,---,---,URY,00:50:15,02:39:40,01:48:52,00:01:20,00:01:25,05:21:32
+ironman-70.3-uruguay-20161127.csv,707,Santiago Maranges,23,montevideo,URY,02:53:51,---,01:46:30,---,02:55:17,04:41:47
+ironman-70.3-uruguay-20161127.csv,708,Fabricio Olivera,---,---,URY,00:32:33,02:40:47,02:01:58,00:01:48,00:03:09,05:20:15
+ironman-70.3-uruguay-20161127.csv,709,Alexandro Ayala Blanco,39,COLONIA,URY,00:41:56,02:41:27,01:44:52,00:02:01,00:02:38,05:12:54
+ironman-70.3-uruguay-20161127.csv,710,Guadalupe Diaz Sebriano,21,Córdoba,ARG,00:34:29,02:36:26,01:41:15,00:00:45,00:00:58,04:53:53
+ironman-70.3-uruguay-20161127.csv,711,Ingrid Levaggi,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-uruguay-20161127.csv,712,Sebastian Closas,39,Maldonado,URY,00:29:41,02:18:53,01:32:34,00:01:01,00:01:12,04:23:21
+ironman-70.3-uruguay-20161127.csv,713,Williams Fernandez,27,montevideo,URY,00:34:36,02:27:52,01:37:18,00:00:54,00:00:54,04:41:34
+ironman-70.3-uruguay-20161127.csv,714,Juan Igarzabal,---,---,ARG,00:42:05,02:49:18,01:52:15,00:02:15,00:03:46,05:29:39
+ironman-70.3-uruguay-20161127.csv,715,Alessandra Bibas Centa,44,Intl State,BRA,00:42:04,---,04:57:51,00:02:39,---,04:57:51
+ironman-70.3-uruguay-20161127.csv,716,Calvaresi Gustavo,---,---,ARG,00:31:23,02:21:00,01:35:59,00:01:17,00:01:04,04:30:43
+ironman-70.3-uruguay-20161127.csv,717,Cabrera Ramiro,---,---,ARG,00:28:46,02:36:01,02:33:40,00:01:49,00:01:35,05:41:51
+ironman-70.3-uruguay-20161127.csv,718,Lima Manuel,---,---,URY,00:33:47,02:56:51,02:43:59,00:03:44,00:01:29,06:19:50
+ironman-70.3-uruguay-20161127.csv,719,Juan Manuel Rodriguez,33,Santa Fe,ARG,00:33:17,02:38:44,01:36:27,00:01:16,00:01:09,04:50:53
+ironman-70.3-uruguay-20161127.csv,720,Saban Cesar Esteban,---,---,ARG,00:47:21,03:19:03,01:56:09,00:09:16,00:04:21,06:16:10
+ironman-70.3-uruguay-20161127.csv,721,Jorge Illan Plaza,37,---,ESP,00:33:45,02:34:21,01:37:57,00:02:47,00:02:12,04:51:02
+ironman-70.3-uruguay-20161127.csv,749,Eduardo Aldunate,30,---,CHL,00:39:56,02:54:50,01:51:18,00:02:50,00:02:19,05:31:13
+ironman-70.3-uruguay-20161127.csv,749,Eduardo Aldunate,30,---,CHL,00:39:56,02:54:50,01:51:18,00:02:50,00:02:19,05:31:13

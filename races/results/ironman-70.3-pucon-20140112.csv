@@ -1,0 +1,1200 @@
+#File=ironman-70.3-pucon-20140112.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-pucon-20140112.csv,1,Reinaldo Colucci,---,---,BRA,00:23:26,02:13:05,01:17:18,00:02:31,00:02:00,03:58:20
+ironman-70.3-pucon-20140112.csv,2,Daniel Fontana,38,Milano,ITA,00:23:28,02:13:10,01:20:45,00:02:26,00:01:53,04:01:42
+ironman-70.3-pucon-20140112.csv,3,Felipe Van De Wyngard Véliz,---,---,CHL,---,02:13:18,01:50:33,---,00:01:58,04:05:49
+ironman-70.3-pucon-20140112.csv,4,Marcel Zamora,---,---,---,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,5,Santiago Ascenco,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,6,Mario De Elias,---,---,ARG,00:24:57,02:17:55,01:22:02,00:02:21,00:02:03,04:09:18
+ironman-70.3-pucon-20140112.csv,7,Guilherme Manocchio,---,---,BRA,00:24:55,02:14:34,01:21:54,00:02:41,00:01:55,04:05:59
+ironman-70.3-pucon-20140112.csv,8,Lucas Cocha,---,---,ARG,00:23:24,02:13:10,01:27:21,00:02:31,00:02:03,04:08:29
+ironman-70.3-pucon-20140112.csv,9,Ben Hoffman,---,---,USA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,10,Valentina Carvallo,28,Intl State,CHL,00:26:28,02:32:17,01:33:43,00:02:46,00:02:13,04:37:27
+ironman-70.3-pucon-20140112.csv,11,Sarah Piampiano,---,---,USA,00:31:52,02:31:03,01:32:15,00:03:00,00:02:26,04:40:36
+ironman-70.3-pucon-20140112.csv,12,Heather Jackson,29,OR,USA,00:27:29,02:23:55,01:25:45,00:02:41,00:02:24,04:22:14
+ironman-70.3-pucon-20140112.csv,14,Pamela Tastets Ceppi De Lecco,---,---,CHL,00:27:53,02:41:43,01:37:04,00:02:46,00:02:26,04:51:52
+ironman-70.3-pucon-20140112.csv,15,Dede Griesbauer,43,CO,USA,00:25:33,02:29:36,01:40:47,00:02:56,00:02:41,04:41:33
+ironman-70.3-pucon-20140112.csv,16,Leslie Lamacchia,---,---,USA,00:33:37,02:45:36,01:42:13,00:03:01,00:02:27,05:06:54
+ironman-70.3-pucon-20140112.csv,17,Anderson Agenor Santos,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,18,Ciro Violin,---,---,BRA,00:24:54,02:14:38,01:22:43,00:02:43,00:02:09,04:07:07
+ironman-70.3-pucon-20140112.csv,19,Felipe Barraza Rojas,---,---,CHL,00:23:23,02:13:18,01:19:22,00:02:22,00:01:54,04:00:19
+ironman-70.3-pucon-20140112.csv,20,Rodrigo Sepulveda,---,---,CHL,00:24:51,02:27:45,01:29:46,00:03:00,00:02:00,04:27:22
+ironman-70.3-pucon-20140112.csv,21,Benjamin Munizaga Aspillaga,---,---,CHL,00:24:53,02:17:51,01:34:43,00:02:35,00:02:37,04:22:39
+ironman-70.3-pucon-20140112.csv,22,Ivan Álvarez Gómez,---,---,---,00:27:50,02:24:56,01:25:23,00:02:42,00:02:35,04:23:26
+ironman-70.3-pucon-20140112.csv,23,Travis Hawkins,---,---,USA,00:31:03,02:19:56,00:00:13,00:03:05,01:28:20,04:22:37
+ironman-70.3-pucon-20140112.csv,24,Paul Matthews,---,---,AUS,00:23:27,02:13:15,01:19:57,00:02:21,00:02:00,04:01:00
+ironman-70.3-pucon-20140112.csv,25,Felipe Aguayo,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,26,Christian Carletto,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,51,María Luz Poblete Baldrich,---,---,CHL,00:28:48,02:46:46,01:45:09,00:03:37,00:02:51,05:07:11
+ironman-70.3-pucon-20140112.csv,52,Daniela Valentina Sobarzo Chaparro,---,---,CHL,00:38:14,03:04:25,02:27:49,00:04:10,00:04:14,06:18:52
+ironman-70.3-pucon-20140112.csv,53,Maria Ignacia Soto Stuardo,22,---,CHL,00:36:32,03:09:32,02:27:10,00:03:46,00:03:29,06:20:29
+ironman-70.3-pucon-20140112.csv,54,Constanza Francisca Valenzuela Farfán,---,---,CHL,00:40:54,03:35:05,02:36:41,00:04:46,00:03:39,07:01:05
+ironman-70.3-pucon-20140112.csv,55,Luz Sosa,---,---,ARG,00:44:24,03:32:45,02:14:21,00:05:18,00:03:56,06:40:44
+ironman-70.3-pucon-20140112.csv,56,María Paz Ibar Saravia,---,---,CHL,---,03:00:01,02:41:18,---,00:03:25,05:44:44
+ironman-70.3-pucon-20140112.csv,57,Daniela Cristina Montiel Devis,---,---,VEN,00:28:48,02:46:00,01:55:11,00:03:20,00:02:32,05:15:51
+ironman-70.3-pucon-20140112.csv,58,Josefina Pacheco Gutierrez,---,---,CHL,00:34:52,02:55:14,01:41:21,00:03:26,00:02:29,05:17:22
+ironman-70.3-pucon-20140112.csv,59,Lucia Gutierrez Gammino,---,---,ARG,00:41:51,03:07:02,02:23:09,00:03:39,00:02:56,06:18:37
+ironman-70.3-pucon-20140112.csv,60,Rebecca Josephine Röhrig,---,---,DEU,00:40:36,02:51:29,02:17:03,00:05:25,00:04:05,05:58:38
+ironman-70.3-pucon-20140112.csv,61,Javiera Elisa Gaínza Acevedo,---,---,CHL,00:31:58,02:48:45,01:49:03,00:02:54,00:02:26,05:15:06
+ironman-70.3-pucon-20140112.csv,62,María Eugenia Cola Acosta,---,---,URY,00:39:29,02:50:30,02:09:38,00:06:10,00:03:31,05:49:18
+ironman-70.3-pucon-20140112.csv,63,Pierangela Dezerega,27,---,CHL,00:33:41,02:47:07,02:22:56,00:03:32,00:03:14,05:50:30
+ironman-70.3-pucon-20140112.csv,64,Camila Francisca Barros Montenegro,---,---,CHL,00:45:58,03:50:26,03:06:42,00:04:05,00:05:06,07:52:17
+ironman-70.3-pucon-20140112.csv,65,Adele Plunkett,---,---,USA,00:33:24,02:48:57,01:51:01,00:03:02,00:02:42,05:19:06
+ironman-70.3-pucon-20140112.csv,66,Gloria Alastuey Rodriguez,---,---,CHL,00:45:51,03:18:10,02:25:46,00:04:06,00:03:21,06:37:14
+ironman-70.3-pucon-20140112.csv,67,Shenda Orrego Molina,---,---,CHL,00:42:17,03:39:37,02:17:39,00:06:02,00:05:33,06:51:08
+ironman-70.3-pucon-20140112.csv,68,Anita Maria Miranda Barroso,---,---,CHL,00:34:25,02:55:56,02:29:44,00:04:15,00:03:11,06:07:31
+ironman-70.3-pucon-20140112.csv,69,Jenna Mcspadden,---,---,USA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,70,Pamela Constanza Figueroa Perez,---,---,CHL,00:36:34,03:16:41,02:21:04,00:04:33,00:03:37,06:22:29
+ironman-70.3-pucon-20140112.csv,71,Rocio Neyen Martinez,---,---,ARG,00:37:21,03:12:01,02:08:25,00:03:55,00:04:57,06:06:39
+ironman-70.3-pucon-20140112.csv,72,Isabel Huidobro Bezanilla,---,---,CHL,00:38:53,03:05:52,02:29:05,00:04:34,00:05:09,06:23:33
+ironman-70.3-pucon-20140112.csv,73,Chantal Antonieta Norziglia Cortes,25,---,CHL,00:36:05,02:41:20,01:56:57,00:03:42,00:02:48,05:20:52
+ironman-70.3-pucon-20140112.csv,74,Anna Eliseeva,28,---,RUS,---,03:02:14,02:42:13,---,00:03:56,05:48:23
+ironman-70.3-pucon-20140112.csv,75,Sofía Fahrenkrog Verschueren,---,---,CHL,00:41:24,03:00:41,02:05:15,00:04:14,00:03:24,05:54:58
+ironman-70.3-pucon-20140112.csv,76,Marie Oneill,---,---,IRL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,77,Veronica Boyd,---,---,ARG,00:33:31,02:52:35,02:08:36,00:03:28,00:03:15,05:41:25
+ironman-70.3-pucon-20140112.csv,78,Magdalena Eluchans,---,---,CHL,00:33:32,02:57:16,01:54:38,00:03:39,00:03:18,05:32:23
+ironman-70.3-pucon-20140112.csv,79,Agustina Guozden,---,---,ARG,00:33:39,02:39:55,01:52:09,00:03:35,00:02:55,05:12:13
+ironman-70.3-pucon-20140112.csv,80,Kim Victoria Tierney,---,---,GBR,00:34:15,03:03:58,01:52:12,00:04:14,00:02:34,05:37:13
+ironman-70.3-pucon-20140112.csv,81,Paulina Ripoll,---,---,ARG,00:39:24,03:08:33,02:10:30,00:04:36,00:05:10,06:08:13
+ironman-70.3-pucon-20140112.csv,82,Daniela Andrea Nuñez Herrera,---,---,CHL,00:35:31,03:23:24,02:42:41,00:03:48,00:03:20,06:48:44
+ironman-70.3-pucon-20140112.csv,83,Julieta Fliter,---,---,ARG,00:41:57,03:36:48,02:26:44,00:04:59,00:04:06,06:54:34
+ironman-70.3-pucon-20140112.csv,84,Ana Carolina Andreadis Nux,---,---,ARG,00:44:04,03:05:46,02:22:07,00:03:48,00:03:36,06:19:21
+ironman-70.3-pucon-20140112.csv,85,Meirielen Rigon,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,86,Karmina Valenzuela,29,---,CHL,00:39:09,03:01:40,02:12:30,00:04:59,00:03:35,06:01:53
+ironman-70.3-pucon-20140112.csv,87,Consuelo Jaeger,---,---,CHL,00:38:18,03:08:57,01:50:58,00:03:51,00:02:52,05:44:56
+ironman-70.3-pucon-20140112.csv,88,Erin Reynolds,---,---,USA,00:39:36,04:08:28,02:28:57,00:05:58,00:07:01,07:30:00
+ironman-70.3-pucon-20140112.csv,89,Alejandra Danitza Medina Garcia,---,---,CHL,00:46:15,03:04:19,02:22:43,00:04:11,00:03:21,06:20:49
+ironman-70.3-pucon-20140112.csv,90,Carolin Lagno Hurel,---,---,CHL,---,04:15:35,03:43:52,---,---,07:59:27
+ironman-70.3-pucon-20140112.csv,91,Soledad Andrea Aguirre Abarzua,---,---,CHL,00:45:42,03:56:36,02:47:11,00:05:19,00:06:01,07:40:49
+ironman-70.3-pucon-20140112.csv,92,Elaine Quinn,---,---,IRL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,93,Lorena Andrea Osses Puebla,---,---,CHL,00:44:06,03:13:34,02:36:39,00:04:55,00:03:36,06:42:50
+ironman-70.3-pucon-20140112.csv,94,Marcela Godoy,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,95,Barbie Bressolles,---,---,---,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,96,Heather Morelli,---,---,USA,00:37:47,02:51:59,02:19:27,00:06:49,00:04:16,06:00:18
+ironman-70.3-pucon-20140112.csv,97,Ximena Alejandra Yáñez Arriagada,---,---,CHL,00:42:33,03:04:13,02:11:20,00:04:50,00:04:06,06:07:02
+ironman-70.3-pucon-20140112.csv,98,Betina Winchel,---,---,ARG,00:37:53,02:47:30,01:57:04,00:03:58,00:03:12,05:29:37
+ironman-70.3-pucon-20140112.csv,99,Pamela Espinoza Dans,37,---,CHL,---,02:45:21,02:20:43,---,---,05:06:04
+ironman-70.3-pucon-20140112.csv,100,Mariana De Noronha Teixeira Mendes,---,---,BRA,00:40:50,03:20:42,02:33:15,00:06:41,00:06:58,06:48:26
+ironman-70.3-pucon-20140112.csv,101,Maria Carolina Stenger,36,---,CHL,00:44:14,03:06:56,02:07:21,00:04:06,00:03:31,06:06:08
+ironman-70.3-pucon-20140112.csv,102,Kennya Estrella,---,---,ECU,00:45:49,03:12:50,02:05:00,00:04:02,00:03:47,06:11:28
+ironman-70.3-pucon-20140112.csv,103,Janina Soledad Dopazo,---,---,ARG,00:46:22,02:51:53,02:14:18,00:05:12,00:04:36,06:02:21
+ironman-70.3-pucon-20140112.csv,104,Miriam Karem Jiménez Oyanadel,---,---,CHL,00:52:12,03:08:47,02:37:53,00:06:10,00:04:26,06:49:28
+ironman-70.3-pucon-20140112.csv,105,Nicole Albagli,---,---,CHL,00:35:14,03:07:39,02:17:21,00:04:53,00:03:46,06:08:53
+ironman-70.3-pucon-20140112.csv,106,Alejandra Schiappacasse Alegria,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,107,Michelle Tristain Toro,---,---,CHL,00:40:27,02:57:34,02:21:55,00:04:29,00:03:42,06:08:07
+ironman-70.3-pucon-20140112.csv,108,Lisandra Mesquita Batista,36,São Paulo,BRA,00:36:09,02:44:53,01:42:52,00:03:15,---,05:07:09
+ironman-70.3-pucon-20140112.csv,109,Mariana Patricia Troncozo Auld,---,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,110,Erin Dorning,---,---,USA,00:36:13,03:02:12,02:09:43,00:04:32,00:03:09,05:55:49
+ironman-70.3-pucon-20140112.csv,111,Laura Barrena,---,---,ARG,00:36:33,02:56:44,02:01:16,00:04:13,00:03:06,05:41:52
+ironman-70.3-pucon-20140112.csv,112,Monica Diaz,35,FL,USA,00:39:03,02:53:14,02:08:05,00:03:09,00:02:37,05:46:08
+ironman-70.3-pucon-20140112.csv,113,Ana Laura Mattio Conavosio,---,---,ARG,00:38:11,02:58:18,02:04:37,00:05:06,00:04:43,05:50:55
+ironman-70.3-pucon-20140112.csv,114,Guadalupe Tiburoncin Gomez,---,---,ARG,---,03:18:19,02:16:01,---,00:03:24,05:37:44
+ironman-70.3-pucon-20140112.csv,115,Vanina Mariana Sanhuesa Vega,---,---,ARG,00:42:06,02:48:13,01:58:37,00:03:14,00:02:58,05:35:08
+ironman-70.3-pucon-20140112.csv,116,Yanet Guzmán Ceballos,---,---,CHL,00:41:17,03:02:22,01:55:02,00:05:38,00:03:30,05:47:49
+ironman-70.3-pucon-20140112.csv,117,Julieta Helguera,---,---,ARG,00:37:58,03:12:32,01:52:31,00:03:29,00:03:10,05:49:40
+ironman-70.3-pucon-20140112.csv,118,Carolina Castro Jorquera,---,---,CHL,00:46:10,03:02:10,02:28:59,00:04:38,00:03:28,06:25:25
+ironman-70.3-pucon-20140112.csv,119,Claudia Barrientos Vargas,---,---,CHL,00:35:48,02:57:43,02:20:28,00:03:51,00:02:58,06:00:48
+ironman-70.3-pucon-20140112.csv,120,Ximena Martinez,---,---,CHL,00:47:45,03:05:07,02:28:38,00:04:51,00:03:28,06:29:49
+ironman-70.3-pucon-20140112.csv,121,Daniela Lopumo,---,---,ARG,00:33:30,02:50:09,01:44:31,00:02:50,00:02:33,05:13:33
+ironman-70.3-pucon-20140112.csv,122,Karla Chavez Robledo,---,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,123,Vanessa Soulavy,34,FL,VEN,00:33:35,02:50:38,01:55:05,00:03:27,00:03:15,05:26:00
+ironman-70.3-pucon-20140112.csv,124,M.C. Colomba Serrano Rolin,---,---,CHL,00:39:43,03:12:21,02:38:41,00:04:54,00:03:54,06:39:33
+ironman-70.3-pucon-20140112.csv,125,Valeria Carosanti,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,126,Gabriela Andrea Henríquez Uribe,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,127,Maria Gonzalo,---,---,---,00:38:00,02:57:48,02:21:53,00:05:08,00:05:01,06:07:50
+ironman-70.3-pucon-20140112.csv,128,Ines Ynzenga Alvarez- Villanueva,---,---,---,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,129,Silvia Tatiana Lingán Kleincsek,---,---,URY,00:41:28,03:13:15,02:12:50,00:04:55,00:03:35,06:16:03
+ironman-70.3-pucon-20140112.csv,130,Marina De Rodt Anzorena,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,131,Marcela Andrea Arias Stevens,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,132,Mariacelia Garcia,---,---,ARG,00:48:29,03:13:57,02:47:06,00:05:15,00:04:09,06:58:56
+ironman-70.3-pucon-20140112.csv,133,Alin Paola Acevedo Rojas,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,134,Maria Andrea Roschuk,---,---,ARG,00:37:05,03:10:31,02:51:33,00:05:03,00:04:12,06:48:24
+ironman-70.3-pucon-20140112.csv,135,Natacha Rovira,---,---,CHL,00:47:32,03:23:46,01:54:13,00:04:38,00:03:28,06:13:37
+ironman-70.3-pucon-20140112.csv,136,Sandra  Noemi De Marzo,---,---,ARG,00:32:20,02:51:34,01:57:58,00:03:41,00:03:08,05:28:41
+ironman-70.3-pucon-20140112.csv,137,Romilda Porrini,---,---,URY,00:33:27,02:42:42,01:43:22,00:03:14,00:02:41,05:05:26
+ironman-70.3-pucon-20140112.csv,138,Maria Valeria Stade,---,---,CHL,00:51:17,03:46:11,02:54:06,00:06:11,00:05:50,07:43:35
+ironman-70.3-pucon-20140112.csv,139,Angelica Ibañez,42,---,CHL,00:42:08,03:04:25,02:13:31,00:04:50,00:04:18,06:09:12
+ironman-70.3-pucon-20140112.csv,140,Claudia Urbina,---,---,CHL,00:37:40,03:09:44,02:05:03,00:03:31,00:02:52,05:58:50
+ironman-70.3-pucon-20140112.csv,141,Marcela Rubio Urria,---,---,CHL,00:40:12,03:13:02,02:12:15,00:04:24,00:05:12,06:15:05
+ironman-70.3-pucon-20140112.csv,142,Kara Stone,---,---,USA,00:43:17,03:39:17,02:51:08,00:06:18,00:07:04,07:27:04
+ironman-70.3-pucon-20140112.csv,143,Susana Plenge,---,---,PER,00:43:24,03:15:59,02:15:05,00:05:33,00:04:40,06:24:41
+ironman-70.3-pucon-20140112.csv,144,Merce Elies,---,---,---,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,145,Christian Yanzon,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,146,Veronica Alejandra Maldonado Olea,---,---,CHL,00:52:39,03:27:01,02:28:24,00:04:16,00:03:42,06:56:02
+ironman-70.3-pucon-20140112.csv,147,Liliana Carolina Vivanco Von Borries,---,---,CHL,00:38:54,03:05:22,02:07:01,00:04:43,00:05:29,06:01:29
+ironman-70.3-pucon-20140112.csv,148,Maria Lorena Maran,---,---,ARG,00:34:58,02:53:54,02:00:22,00:03:40,00:03:44,05:36:38
+ironman-70.3-pucon-20140112.csv,149,Mariana Paula Casabuono,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,150,Solange Degand,---,---,CHL,00:45:27,04:24:10,00:28:16,00:05:55,---,05:43:48
+ironman-70.3-pucon-20140112.csv,151,Natalia Margara,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,152,Marcela Astudillo,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,153,Stacy Hadac,---,---,USA,00:40:25,02:51:05,01:59:04,00:04:28,00:03:47,05:38:49
+ironman-70.3-pucon-20140112.csv,154,Sylvia Carolina Reyes Castro,---,---,CHL,00:38:55,03:01:31,02:06:21,00:03:44,00:03:35,05:54:06
+ironman-70.3-pucon-20140112.csv,155,Cecilia Del Pilar Donoso Díaz,---,---,CHL,00:35:40,03:11:09,02:17:35,00:04:17,00:05:25,06:14:06
+ironman-70.3-pucon-20140112.csv,156,Beatriz Honigmann Teixeira,---,---,BRA,00:39:17,03:18:56,02:12:33,00:04:54,00:05:03,06:20:43
+ironman-70.3-pucon-20140112.csv,157,Cristina Garin Hoyng,---,---,CHL,00:44:23,03:15:37,02:11:29,00:04:44,00:03:53,06:20:06
+ironman-70.3-pucon-20140112.csv,158,Maria Luisa Brain Peña,---,---,CHL,00:37:02,03:14:40,02:20:44,00:04:56,00:03:26,06:20:48
+ironman-70.3-pucon-20140112.csv,159,Andrea Camus,46,CL,CHL,00:46:52,03:15:55,02:42:37,00:06:13,00:05:30,06:57:07
+ironman-70.3-pucon-20140112.csv,160,Haydee Valeria Salvador Gallegos,---,---,ECU,00:38:31,03:10:24,02:22:39,00:05:44,00:06:10,06:23:28
+ironman-70.3-pucon-20140112.csv,161,Paula Zuleta Vega,---,---,CHL,00:43:27,03:03:27,02:32:42,00:04:36,00:04:07,06:28:19
+ironman-70.3-pucon-20140112.csv,162,Andrea Alejandra Dalmasso,---,---,ARG,00:39:17,02:56:54,01:44:19,00:03:25,00:02:52,05:26:47
+ironman-70.3-pucon-20140112.csv,163,Geni Duró L. De Almeida,48,São Paulo - SP,BRA,00:38:57,02:55:28,02:13:36,00:04:35,00:03:55,05:56:31
+ironman-70.3-pucon-20140112.csv,164,Maria Fenanda Polanco Salles,---,---,CHL,00:37:53,03:03:37,02:23:24,00:04:52,00:04:28,06:14:14
+ironman-70.3-pucon-20140112.csv,165,Marcela Buschmann Saavedra,46,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,166,Bertha Vargas Perdomo,---,---,MEX,00:36:16,03:24:20,02:13:39,00:03:59,00:03:40,06:21:54
+ironman-70.3-pucon-20140112.csv,167,Solange Olbertz,---,---,CHL,00:44:24,03:18:00,02:14:16,00:04:24,00:03:40,06:24:44
+ironman-70.3-pucon-20140112.csv,168,Natalia Diaz,---,---,URY,00:37:35,03:01:27,02:14:27,00:04:19,00:03:36,06:01:24
+ironman-70.3-pucon-20140112.csv,169,Carla Thompson,---,---,USA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,170,Isaura Duarte,---,---,COL,00:40:43,02:57:22,02:06:23,00:04:18,00:03:32,05:52:18
+ironman-70.3-pucon-20140112.csv,171,Patricia Horts Pla,---,---,MEX,00:36:21,03:10:56,02:14:37,00:04:27,00:03:53,06:10:14
+ironman-70.3-pucon-20140112.csv,172,Maria Pia Sanhueza,50,---,CHL,00:40:16,03:01:28,01:52:40,00:03:47,00:03:17,05:41:28
+ironman-70.3-pucon-20140112.csv,173,Maria Laura Galar,---,---,ARG,00:40:26,02:56:53,02:20:10,00:05:43,00:04:10,06:07:22
+ironman-70.3-pucon-20140112.csv,174,Patricia Giuliano,---,---,ARG,00:37:08,03:00:23,01:56:11,00:04:13,00:03:18,05:41:13
+ironman-70.3-pucon-20140112.csv,175,Marta Guimaraes Cavalcanti,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,176,Carolina Salinas Poblete,---,---,CHL,00:44:08,03:25:24,03:14:06,00:05:42,00:04:19,07:33:39
+ironman-70.3-pucon-20140112.csv,177,Gloria Guzman Bustamante,---,---,CHL,---,---,---,---,---,DQ
+ironman-70.3-pucon-20140112.csv,178,Nancy Alejandra Regina,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,179,Margie Melchreit,---,---,USA,00:56:34,03:37:44,02:58:11,00:06:35,00:09:14,07:48:18
+ironman-70.3-pucon-20140112.csv,180,Beatriz Eugenia Lund,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,181,Susan Marie Langheim,---,---,USA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,182,Cruz María Naretto Harvey,---,---,CHL,00:34:24,03:19:31,02:48:56,00:05:39,00:05:48,06:54:18
+ironman-70.3-pucon-20140112.csv,183,Francisca Illanes Garcia Huidobro,---,---,CHL,00:41:27,03:28:18,02:41:10,00:06:13,00:04:37,07:01:45
+ironman-70.3-pucon-20140112.csv,184,Ximena Saavedra Larrain,---,---,CHL,00:51:26,03:10:45,02:22:51,00:06:54,00:06:52,06:38:48
+ironman-70.3-pucon-20140112.csv,185,Bonnie Grundman,54,ON,CAN,00:36:17,02:52:29,02:10:47,00:04:44,00:03:17,05:47:34
+ironman-70.3-pucon-20140112.csv,186,Jan Elizabeth Wanklyn,---,---,AUS,00:30:10,03:06:56,01:56:52,00:04:30,00:04:15,05:42:43
+ironman-70.3-pucon-20140112.csv,187,Patricia Del Carmen Facuse Riadi,---,---,CHL,00:44:04,03:15:51,03:06:57,00:05:01,00:06:17,07:18:10
+ironman-70.3-pucon-20140112.csv,188,Ana Maria Monteros,---,---,ARG,00:45:13,03:50:35,02:49:23,00:06:31,00:05:21,07:37:03
+ironman-70.3-pucon-20140112.csv,189,Diane Ridgeway,---,---,USA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,201,Julio Calisto,---,---,CHL,00:40:00,03:06:09,02:16:24,00:05:35,00:04:34,06:12:42
+ironman-70.3-pucon-20140112.csv,202,Guillermo Araos Vargas,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,203,Sergio Hernán Fuentes Pezoa,---,---,CHL,00:37:59,03:11:09,03:07:44,00:05:54,00:06:46,07:09:32
+ironman-70.3-pucon-20140112.csv,204,Martín Rivas Unda,---,---,CHL,00:44:17,03:05:32,02:32:04,00:04:55,00:04:09,06:30:57
+ironman-70.3-pucon-20140112.csv,205,Rene Ruiz Zamorano,---,---,CHL,00:37:52,03:06:33,02:39:51,00:04:15,00:03:24,06:31:55
+ironman-70.3-pucon-20140112.csv,206,Raul Lyon,---,---,CHL,00:34:49,02:45:29,02:07:35,00:03:54,00:03:48,05:35:35
+ironman-70.3-pucon-20140112.csv,207,Roberto Azevedo Jr.,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,208,Dave Ferry,---,---,USA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,209,Luis Enrique Medina Caviedes,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,210,Pedro Arriagada,---,---,CHL,00:34:03,02:50:33,02:45:23,00:04:38,00:04:35,06:19:12
+ironman-70.3-pucon-20140112.csv,211,Juan Arrasate,---,---,CHL,00:34:33,02:47:24,01:49:10,00:03:55,00:03:05,05:18:07
+ironman-70.3-pucon-20140112.csv,212,Enrique Osvaldo Marcos,---,---,ARG,00:48:20,02:54:06,02:11:00,00:08:33,00:07:29,06:09:28
+ironman-70.3-pucon-20140112.csv,213,Ruben Segundo Renteria Beltran,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,214,Jorge Carlos Salaberry,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,215,Santiago Gonzalez Zambrano,---,---,CHL,00:42:37,02:44:04,02:20:47,00:04:32,00:03:22,05:55:22
+ironman-70.3-pucon-20140112.csv,216,Cristian Figueroa Fernandez,---,---,CHL,00:35:15,03:01:03,02:05:51,00:04:48,00:03:42,05:50:39
+ironman-70.3-pucon-20140112.csv,217,Roberto Eduardo Bernabei,---,---,ARG,00:44:52,03:10:43,02:02:34,00:06:03,00:03:40,06:07:52
+ironman-70.3-pucon-20140112.csv,218,Luis Bitran Aceituno,---,---,CHL,00:38:57,02:43:58,02:18:04,00:04:47,00:03:47,05:49:33
+ironman-70.3-pucon-20140112.csv,219,Ricardo Asquinazi,---,---,ARG,00:46:36,03:20:18,02:25:27,00:04:04,00:03:37,06:40:02
+ironman-70.3-pucon-20140112.csv,220,Ennio Innocenti,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,221,Luis Humberto Monti,---,---,ARG,00:45:35,03:07:18,02:24:04,00:04:08,00:03:15,06:24:20
+ironman-70.3-pucon-20140112.csv,222,Claudio Fuentes,---,---,CHL,00:45:00,02:54:26,02:05:15,00:04:10,00:03:58,05:52:49
+ironman-70.3-pucon-20140112.csv,223,Rodrigo Huidobro Novion,---,---,CHL,00:48:21,03:30:43,02:22:25,00:07:15,00:06:27,06:55:11
+ironman-70.3-pucon-20140112.csv,224,Jorge Vargas,---,---,CHL,00:32:08,02:54:39,02:21:02,00:03:25,00:03:57,05:55:11
+ironman-70.3-pucon-20140112.csv,225,Oscar Mendizabal,---,---,CHL,00:44:47,02:54:38,01:53:36,00:04:05,00:03:27,05:40:33
+ironman-70.3-pucon-20140112.csv,226,Jose Miguel Jorquera Verdugo,---,---,CHL,00:40:25,02:48:48,02:28:06,00:06:09,00:03:26,06:06:54
+ironman-70.3-pucon-20140112.csv,227,Andres Boland,---,---,ARG,00:49:16,03:29:37,02:49:29,00:05:57,00:06:21,07:20:40
+ironman-70.3-pucon-20140112.csv,228,Jose Gerstle,---,---,CHL,00:36:19,02:46:49,02:08:27,00:07:28,00:05:42,05:44:45
+ironman-70.3-pucon-20140112.csv,229,Horacio Varela,54,BUENOS AIRES,ARG,---,02:59:13,03:02:47,---,00:05:16,06:07:16
+ironman-70.3-pucon-20140112.csv,230,Patricio Eguiguren Muñoz,---,---,CHL,00:52:29,03:19:13,02:21:57,00:07:57,00:06:01,06:47:37
+ironman-70.3-pucon-20140112.csv,231,Ricardo Patricio Maitland Heriot,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,232,Cristian Alejandro Yevenes Rodríguez,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,233,Carlos Alberto Valdivia Castillo,---,---,CHL,00:36:40,02:54:06,02:14:04,00:04:35,00:03:19,05:52:44
+ironman-70.3-pucon-20140112.csv,234,Hector Abel Rojo Zamora,---,---,CHL,00:34:51,03:01:09,02:43:31,00:03:57,00:03:36,06:27:04
+ironman-70.3-pucon-20140112.csv,235,Arnoldo Kopplin Ibañez,---,---,CHL,00:37:56,02:51:29,02:10:07,00:04:54,00:04:22,05:48:48
+ironman-70.3-pucon-20140112.csv,236,Mauricio Eduardo Donoso Silva,---,---,CHL,00:34:00,02:43:08,02:06:17,00:03:47,00:03:06,05:30:18
+ironman-70.3-pucon-20140112.csv,237,Matias Cox Ureta,---,---,CHL,00:34:57,02:45:18,02:27:07,00:04:22,00:03:14,05:54:58
+ironman-70.3-pucon-20140112.csv,238,Mario Vazquez,---,---,USA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,239,Raúl Andres Lagos Araya,---,---,CHL,00:31:57,02:45:26,01:53:29,00:03:46,00:02:38,05:17:16
+ironman-70.3-pucon-20140112.csv,240,Mario Alberto Sosa,---,---,ARG,00:36:11,02:54:53,02:26:44,00:04:03,00:02:58,06:04:49
+ironman-70.3-pucon-20140112.csv,241,Jose Omar Caamaño  Henrìquez,---,---,CHL,00:45:01,03:10:46,02:10:57,00:05:07,00:03:56,06:15:47
+ironman-70.3-pucon-20140112.csv,242,Alejandro Comas,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,243,Andres Domingo Carne Pla,---,---,CHL,00:32:47,02:52:23,02:32:25,00:04:09,00:03:53,06:05:37
+ironman-70.3-pucon-20140112.csv,244,Fernando Oliva,---,---,ARG,00:37:43,02:44:37,02:10:34,00:03:47,00:03:46,05:40:27
+ironman-70.3-pucon-20140112.csv,245,Carlos Prada,---,---,CHL,00:37:21,02:52:06,02:04:51,00:04:41,00:05:26,05:44:25
+ironman-70.3-pucon-20140112.csv,246,Gustavo Cortes Araya,---,---,CHL,00:32:30,02:51:24,02:09:19,00:06:11,00:04:34,05:43:58
+ironman-70.3-pucon-20140112.csv,247,Francisco Miranda Olguin,54,---,CHL,00:32:06,02:42:33,01:54:12,00:03:48,00:02:46,05:15:25
+ironman-70.3-pucon-20140112.csv,248,Martin Grigio,---,---,ARG,00:31:55,02:37:16,01:52:09,00:03:42,00:02:51,05:07:53
+ironman-70.3-pucon-20140112.csv,249,Nelson Orlando Rivera Rivera,---,---,CHL,00:39:26,02:42:40,02:14:04,00:04:15,00:03:05,05:43:30
+ironman-70.3-pucon-20140112.csv,250,Jose Alberto Peñaranda Pita,---,---,VEN,00:51:09,03:09:40,02:35:42,00:06:13,00:05:21,06:48:05
+ironman-70.3-pucon-20140112.csv,251,Claudio Roberto Melisenda Lillo,---,---,CHL,00:42:40,02:54:35,02:05:28,00:05:20,00:03:49,05:51:52
+ironman-70.3-pucon-20140112.csv,252,Patricio Hornauer,---,---,CHL,00:41:36,02:56:40,02:33:28,00:06:06,00:04:20,06:22:10
+ironman-70.3-pucon-20140112.csv,253,Rodrigo Danioni Mercadal,---,---,CHL,00:29:49,02:44:29,02:13:35,00:04:03,00:03:26,05:35:22
+ironman-70.3-pucon-20140112.csv,254,Ricardo Ruben Hertling,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,255,Oscar Ricardo Gomez Lopez,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,256,Guillermo Jose Anguita Ramirez,---,---,CHL,---,03:08:35,03:21:22,---,00:04:49,06:34:46
+ironman-70.3-pucon-20140112.csv,257,Fernando Cimino,---,---,ARG,01:09:42,---,02:20:36,02:21:41,---,05:51:59
+ironman-70.3-pucon-20140112.csv,258,Ricardo Vicente Pannunzio,---,---,ARG,00:44:38,03:04:11,02:22:53,00:07:22,00:04:53,06:23:57
+ironman-70.3-pucon-20140112.csv,259,César Augusto Núñez Hernández,---,---,CHL,00:43:48,03:03:20,02:03:42,00:04:37,00:03:02,05:58:29
+ironman-70.3-pucon-20140112.csv,260,Nestor Bassetti,---,---,ARG,00:42:02,03:16:06,02:34:13,00:08:16,00:04:14,06:44:51
+ironman-70.3-pucon-20140112.csv,261,Daniel Ricardo Labarca,---,---,CHL,00:32:34,02:42:07,01:52:15,00:03:23,00:03:11,05:13:30
+ironman-70.3-pucon-20140112.csv,262,Gustavo Raul Iriarte,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,263,Rodrigo Correa Miguel,---,---,CHL,00:33:39,02:52:03,02:18:16,00:04:57,00:04:07,05:53:02
+ironman-70.3-pucon-20140112.csv,264,Leonardo Enrique García Rodriguez,---,---,CHL,00:35:14,02:42:28,01:54:13,00:03:57,00:02:49,05:18:41
+ironman-70.3-pucon-20140112.csv,265,Gustavo Rodolfo Leanes,---,---,ARG,00:36:39,02:50:08,02:03:44,00:04:13,00:03:18,05:38:02
+ironman-70.3-pucon-20140112.csv,266,Raul Moreno Hofmann,50,Pichincha,ECU,00:41:32,02:50:30,02:10:24,00:04:57,00:03:25,05:50:48
+ironman-70.3-pucon-20140112.csv,267,Juan Pablo Carrasco Weber,---,---,CHL,00:37:27,02:57:36,02:39:01,00:04:10,00:03:37,06:21:51
+ironman-70.3-pucon-20140112.csv,268,Ricardo Sohrens,52,---,CHL,00:35:03,03:10:26,02:26:08,00:04:34,00:03:01,06:19:12
+ironman-70.3-pucon-20140112.csv,269,Germán Fernando Rodríguez Faverón,---,---,PER,00:31:48,03:01:16,01:56:57,00:05:19,00:04:14,05:39:34
+ironman-70.3-pucon-20140112.csv,270,Cristian Ernesto Castro Joerger,---,---,CHL,00:32:26,02:39:33,01:54:53,00:03:18,00:02:43,05:12:53
+ironman-70.3-pucon-20140112.csv,271,Louis Di Guiseppe,49,MO,USA,00:27:20,02:31:24,01:36:07,00:04:01,00:02:40,04:41:32
+ironman-70.3-pucon-20140112.csv,272,Rodrigo Alberto Diaz Lopez,---,---,CHL,00:37:28,02:46:12,01:33:04,00:04:07,00:02:12,05:03:03
+ironman-70.3-pucon-20140112.csv,273,Claudio Correa Viola,---,---,CHL,00:30:32,02:45:20,02:12:58,00:03:26,00:03:17,05:35:33
+ironman-70.3-pucon-20140112.csv,274,Marcelo Berardi,---,---,ARG,00:37:23,03:36:50,03:08:43,00:05:31,00:07:37,07:36:04
+ironman-70.3-pucon-20140112.csv,275,Enrique Fernando Soto  M.,---,---,CHL,00:32:29,02:41:44,01:49:14,00:03:34,00:02:41,05:09:42
+ironman-70.3-pucon-20140112.csv,276,Ives Muller,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,277,Andres Manuel Vargas Mesa,---,---,CHL,00:42:46,03:20:12,02:48:30,00:06:21,00:07:56,07:05:45
+ironman-70.3-pucon-20140112.csv,278,Alejandro Jesus Viale Lopez,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,279,Marcos Nicolaides Bussenius,---,---,CHL,00:37:05,02:52:00,02:13:44,00:04:36,00:03:30,05:50:55
+ironman-70.3-pucon-20140112.csv,280,Christian Martin Flores,---,---,CHL,00:35:01,02:37:38,01:41:24,00:03:50,00:02:27,05:00:20
+ironman-70.3-pucon-20140112.csv,281,Pablo Jose Zuñiga Escala,---,---,CHL,00:35:13,03:03:05,02:33:57,00:06:19,00:04:20,06:22:54
+ironman-70.3-pucon-20140112.csv,282,Ricardo Cumplido,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,283,Iván Manuel Núñez Peirano,---,---,CHL,00:44:24,02:49:29,02:19:18,00:04:31,00:02:57,06:00:39
+ironman-70.3-pucon-20140112.csv,284,Guillermo Fernando Gomez Lopez,---,---,CHL,00:44:22,03:02:20,03:14:23,00:06:15,00:06:27,07:13:47
+ironman-70.3-pucon-20140112.csv,285,Francisco Javier Salazar Cordovez,---,---,CHL,00:38:54,02:49:51,02:07:29,00:05:31,00:05:03,05:46:48
+ironman-70.3-pucon-20140112.csv,286,Jorge Frasca,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,287,John Cooney,---,---,USA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,288,Esteban Vidal Celsi,---,---,CHL,00:39:41,02:42:22,02:03:53,00:03:35,00:03:07,05:32:38
+ironman-70.3-pucon-20140112.csv,289,Rodrigo Eduardo Araya Alcaide,---,---,CHL,00:26:56,02:51:09,01:55:41,00:04:21,00:03:07,05:21:14
+ironman-70.3-pucon-20140112.csv,290,Guillermo Arturo Cruz Pizarro,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,291,Nestor Raul Revelante,---,---,ARG,00:41:53,02:40:34,02:15:53,00:04:04,00:03:33,05:45:57
+ironman-70.3-pucon-20140112.csv,292,Jose Luis Flores Marin,---,---,CHL,00:44:01,03:13:58,02:13:45,00:05:32,00:03:36,06:20:52
+ironman-70.3-pucon-20140112.csv,293,Benjamin Vera,---,---,ARG,00:42:54,03:05:43,02:14:46,00:04:40,00:03:48,06:11:51
+ironman-70.3-pucon-20140112.csv,294,Alberto Claro Vial,---,---,CHL,00:48:42,02:48:36,02:14:34,00:06:06,00:06:26,06:04:24
+ironman-70.3-pucon-20140112.csv,295,Rafael Silva,---,---,CHL,00:34:48,03:02:57,02:09:17,00:05:20,00:03:26,05:55:48
+ironman-70.3-pucon-20140112.csv,296,Jose Ramon Martinez Quintana,---,---,URY,00:39:54,03:18:48,02:25:03,00:05:11,00:04:19,06:33:15
+ironman-70.3-pucon-20140112.csv,297,Juan Ovalle,---,---,CHL,00:37:21,02:58:12,02:09:12,00:04:36,00:03:44,05:53:05
+ironman-70.3-pucon-20140112.csv,298,Edgardo Mauricio Gallardo Espinoza,---,---,CHL,00:42:35,03:00:06,02:15:56,00:04:19,00:03:35,06:06:31
+ironman-70.3-pucon-20140112.csv,299,Jose Carlos Gomes Pereira Filho,---,---,BRA,00:44:50,02:53:22,02:05:51,00:05:11,00:03:39,05:52:53
+ironman-70.3-pucon-20140112.csv,300,Miguel Bravo,---,---,CHL,00:37:03,03:02:13,02:43:03,00:03:47,00:04:13,06:30:19
+ironman-70.3-pucon-20140112.csv,301,Roberto Attianese,51,Buenos Aires,ARG,00:39:38,03:04:10,02:20:50,00:06:47,00:06:30,06:17:55
+ironman-70.3-pucon-20140112.csv,302,Jaime Sinay,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,303,Jorge Francisco Vega Comanato,---,---,CHL,00:40:26,02:50:42,02:34:25,00:04:52,00:04:27,06:14:52
+ironman-70.3-pucon-20140112.csv,304,Sergio Herrada,---,---,ARG,00:39:41,02:50:42,02:04:22,00:03:50,00:03:34,05:42:09
+ironman-70.3-pucon-20140112.csv,305,Marcelo Adrian Ferreyra,---,---,ARG,00:46:29,03:17:53,02:45:40,00:06:23,00:05:35,07:02:00
+ironman-70.3-pucon-20140112.csv,306,Carlos De Laurentis,50,Buenos Aires,ARG,00:38:05,02:51:35,02:22:43,00:06:00,00:05:26,06:03:49
+ironman-70.3-pucon-20140112.csv,307,Roberto Andrade Rebello,---,---,PRT,00:33:13,02:45:56,02:34:41,00:04:43,00:04:05,06:02:38
+ironman-70.3-pucon-20140112.csv,308,Wellington Jesuino,49,DF,BRA,00:47:43,02:55:32,02:13:28,00:04:35,00:03:59,06:05:17
+ironman-70.3-pucon-20140112.csv,309,Raul Fuentes Picero,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,310,Claudio Enrique Vega Vega,---,---,CHL,00:42:01,02:48:13,02:09:35,00:04:12,00:03:35,05:47:36
+ironman-70.3-pucon-20140112.csv,311,Victor Hugo Baeza Ceballos,---,---,CHL,00:31:37,02:58:15,02:00:33,00:04:01,00:03:17,05:37:43
+ironman-70.3-pucon-20140112.csv,312,Simon Gauthier,---,---,CAN,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,313,Arnoldo Patricio Molina Bosnich,---,---,CHL,00:36:09,03:18:02,02:28:14,00:05:37,00:04:03,06:32:05
+ironman-70.3-pucon-20140112.csv,314,Miguel Ricardo Perez Covarrubias,---,---,CHL,00:42:33,03:12:50,02:34:22,00:06:58,00:05:02,06:41:45
+ironman-70.3-pucon-20140112.csv,315,Enrique Roncone,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,316,Gustavo Cuevas Manriquez,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,317,Antonio Sa,---,---,BRA,00:33:42,03:06:49,02:23:35,00:05:30,00:05:03,06:14:39
+ironman-70.3-pucon-20140112.csv,318,Andrés Manríquez Callejas,---,---,CHL,00:43:59,03:03:47,02:05:47,00:05:29,00:04:10,06:03:12
+ironman-70.3-pucon-20140112.csv,319,Mauricio Eastman Romero,---,---,CHL,00:39:51,02:46:25,01:56:20,00:04:22,00:02:55,05:29:53
+ironman-70.3-pucon-20140112.csv,320,Gabriel Fernando Bustos,---,---,CHL,00:51:34,02:55:44,02:54:43,00:07:38,00:05:57,06:55:36
+ironman-70.3-pucon-20140112.csv,321,Nestor Fiorentini,---,---,CHL,00:47:23,02:57:18,01:51:05,00:04:39,00:03:07,05:43:32
+ironman-70.3-pucon-20140112.csv,322,Mauro Desordi,---,---,BRA,00:37:35,02:38:31,01:47:55,00:05:00,00:03:08,05:12:09
+ironman-70.3-pucon-20140112.csv,323,Rodrigo Ortuzar Maturana,---,---,CHL,00:37:36,02:58:09,02:36:02,00:03:34,00:04:27,06:19:48
+ironman-70.3-pucon-20140112.csv,324,Germán Eduardo Barison Kahn,---,---,CHL,00:44:42,02:51:25,02:13:41,00:04:32,00:03:34,05:57:54
+ironman-70.3-pucon-20140112.csv,325,Juan E Angulo Vargas,---,---,CHL,00:34:04,02:37:57,01:59:01,00:03:31,00:02:56,05:17:29
+ironman-70.3-pucon-20140112.csv,326,Ken Glah,---,---,USA,00:29:02,02:30:10,01:51:34,00:03:29,00:03:05,04:57:20
+ironman-70.3-pucon-20140112.csv,327,Todd Malcolm,---,---,USA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,331,Franco Bassetti,---,---,ARG,00:41:47,03:11:55,02:36:35,00:03:50,00:04:36,06:38:43
+ironman-70.3-pucon-20140112.csv,332,Arthur Feierabend Engracia Garcia,---,---,BRA,00:35:50,03:02:53,02:24:03,00:04:32,00:03:24,06:10:42
+ironman-70.3-pucon-20140112.csv,333,Nicolás Correa Romagnoli,---,---,CHL,00:37:13,03:16:18,02:56:04,00:05:29,00:05:21,07:00:25
+ironman-70.3-pucon-20140112.csv,334,Luis Eduardo Poblete Barahona,---,---,CHL,---,02:35:53,02:39:58,---,00:03:34,05:19:25
+ironman-70.3-pucon-20140112.csv,335,Miguel Eduardo Constanzo Rojas,---,---,CHL,00:38:36,03:02:09,02:13:33,00:04:30,00:03:21,06:02:09
+ironman-70.3-pucon-20140112.csv,336,Daniel Feller Gumucio,---,---,CHL,00:29:18,02:33:32,01:41:26,00:03:16,00:02:24,04:49:56
+ironman-70.3-pucon-20140112.csv,337,Pablo Sebastian Cerda Bustos,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,338,Felipe Vargas Hott,---,---,CHL,00:38:33,03:02:26,02:50:34,00:05:47,00:05:45,06:43:05
+ironman-70.3-pucon-20140112.csv,339,Mauricio Esteban Bucarey Altamirano,---,---,CHL,00:32:52,02:59:15,02:03:09,00:04:04,00:03:06,05:42:26
+ironman-70.3-pucon-20140112.csv,340,Luis Daniel Mella Cid,---,---,CHL,---,03:12:00,02:51:39,---,00:03:08,06:06:47
+ironman-70.3-pucon-20140112.csv,341,Higor Lopes,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,342,Alejo Damian Badino Mosquera,---,---,ARG,00:24:21,02:23:38,01:31:08,00:02:46,00:02:32,04:24:25
+ironman-70.3-pucon-20140112.csv,343,Juan Antonio Romo Rojas,---,---,CHL,00:35:34,02:46:08,01:43:27,00:03:07,00:03:20,05:11:36
+ironman-70.3-pucon-20140112.csv,344,Marcelo Sebastian Caro Soto,---,---,CHL,00:30:27,02:40:34,01:42:39,00:03:16,00:02:41,04:59:37
+ironman-70.3-pucon-20140112.csv,345,Belfort Esteban Aracena Gonzalez,---,---,CHL,00:31:52,02:40:52,01:30:05,00:03:08,00:02:45,04:48:42
+ironman-70.3-pucon-20140112.csv,346,Juan Pablo Celis Raby,---,---,CHL,00:34:26,02:55:26,01:53:14,00:03:30,00:02:45,05:29:21
+ironman-70.3-pucon-20140112.csv,347,Felipe Arturo Vergara Carroza,---,---,CHL,---,03:11:36,02:50:04,---,00:03:30,06:05:10
+ironman-70.3-pucon-20140112.csv,348,Brian Sidney Raby Olavarria,---,---,CHL,00:28:07,03:03:58,02:10:40,00:04:10,00:03:38,05:50:33
+ironman-70.3-pucon-20140112.csv,349,Andrés Gabriel Alfaro Collarte,---,---,CHL,00:32:29,03:44:55,02:11:25,00:05:26,00:03:09,06:37:24
+ironman-70.3-pucon-20140112.csv,350,Rodrigo Álvarez,---,---,CHL,00:42:32,03:01:23,02:06:02,00:04:00,00:02:32,05:56:29
+ironman-70.3-pucon-20140112.csv,351,Juan Francisco Garrote Navarro,---,---,CHL,00:35:48,03:15:01,02:00:38,00:03:26,00:03:24,05:58:17
+ironman-70.3-pucon-20140112.csv,352,Gustavo Soffia Vega,---,---,CHL,00:40:49,02:48:29,01:59:09,00:03:09,00:02:48,05:34:24
+ironman-70.3-pucon-20140112.csv,353,Sergio Gabriel Arredondo Toro,---,---,CHL,00:42:54,02:56:30,02:09:27,00:03:12,00:02:37,05:54:40
+ironman-70.3-pucon-20140112.csv,354,Javier Eduardo Reus Valenzuela,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,355,Aaron Paz Vega,20,---,CHL,00:27:23,02:42:17,01:46:22,00:02:48,00:02:14,05:01:04
+ironman-70.3-pucon-20140112.csv,356,Agustin Melisenda Saavedra,---,---,CHL,00:29:13,02:50:18,01:44:43,00:03:17,00:02:35,05:10:06
+ironman-70.3-pucon-20140112.csv,357,Alberto Franco Danioni Ramirez,---,---,CHL,---,02:35:27,02:27:39,---,00:02:40,05:05:46
+ironman-70.3-pucon-20140112.csv,358,Cesar Nicolas Moya Rivera,---,---,CHL,00:31:12,02:56:41,02:43:55,00:03:27,00:03:44,06:18:59
+ironman-70.3-pucon-20140112.csv,359,Thomas Wulf Le May,---,---,CHL,00:30:06,02:33:25,01:32:41,00:02:46,00:02:12,04:41:10
+ironman-70.3-pucon-20140112.csv,360,Jose Felipe Schiappacasse Alegria,---,---,CHL,00:35:01,03:01:52,01:52:03,00:04:35,00:04:18,05:37:49
+ironman-70.3-pucon-20140112.csv,361,Augusto Tadeu Scalon Tellez,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,362,Tomas Ignacio Santa Cruz,20,---,CHL,00:28:38,02:34:10,01:36:37,00:03:04,00:02:56,04:45:25
+ironman-70.3-pucon-20140112.csv,363,Gaspar Anguita Redemacher,---,---,CHL,00:32:04,02:49:47,02:09:26,00:03:15,00:02:51,05:37:23
+ironman-70.3-pucon-20140112.csv,364,Sergio Esteban Toro Olave,---,---,CHL,---,02:40:14,02:47:06,---,00:02:53,05:30:13
+ironman-70.3-pucon-20140112.csv,365,Eduardo Esteban Sandoval Rivera,---,---,CHL,00:36:00,02:36:22,01:46:14,00:03:21,00:02:22,05:04:19
+ironman-70.3-pucon-20140112.csv,366,Juan Ignacio Villarruel,---,---,ARG,00:27:16,02:27:01,01:30:09,00:03:02,00:02:15,04:29:43
+ironman-70.3-pucon-20140112.csv,367,Marcelo Julián Iturriaga Dewulf,---,---,CHL,00:31:54,02:48:41,02:05:13,00:03:31,00:02:43,05:32:02
+ironman-70.3-pucon-20140112.csv,368,Rodolfo Manuel Ivancich,---,---,ARG,---,03:20:59,04:30:28,---,00:04:05,07:55:32
+ironman-70.3-pucon-20140112.csv,369,José Tomás Olivares Swett,---,---,CHL,00:35:54,02:45:43,01:57:37,00:03:45,00:02:55,05:25:54
+ironman-70.3-pucon-20140112.csv,370,Douglas Jandoza,---,---,BRA,00:43:49,02:55:48,01:59:21,00:05:07,00:07:52,05:51:57
+ironman-70.3-pucon-20140112.csv,371,Guilherme Muniz,---,---,BRA,00:33:21,02:54:40,02:12:38,00:03:27,00:03:23,05:47:29
+ironman-70.3-pucon-20140112.csv,372,Herman Rodrigo Abarca Evert,---,---,CHL,00:45:58,02:55:52,02:04:45,00:04:42,00:03:19,05:54:36
+ironman-70.3-pucon-20140112.csv,373,Fabián Andrés Müller Célèry,---,---,CHL,00:43:27,03:15:47,02:14:05,00:04:29,00:03:36,06:21:24
+ironman-70.3-pucon-20140112.csv,374,Sebastian Antonio Gonzalez Mandiola,---,---,CHL,00:43:44,02:50:33,02:02:02,00:04:19,00:03:23,05:44:01
+ironman-70.3-pucon-20140112.csv,375,Cristian Fernando Parada Gonzalez,---,---,CHL,00:45:01,02:59:50,02:12:26,00:05:06,00:03:29,06:05:52
+ironman-70.3-pucon-20140112.csv,376,Henry Vallejos Pierotic,---,---,CHL,00:35:31,03:05:57,02:45:35,00:04:35,00:03:21,06:34:59
+ironman-70.3-pucon-20140112.csv,377,Felipe Graell Ruidíaz,28,---,CHL,00:35:20,02:40:54,01:57:57,00:03:44,00:02:29,05:20:24
+ironman-70.3-pucon-20140112.csv,378,Guillermo Garcia,---,---,ARG,00:33:35,02:38:16,01:41:04,00:03:01,00:02:25,04:58:21
+ironman-70.3-pucon-20140112.csv,379,Oscar Sebastian Heck Tapia,---,---,CHL,00:37:24,02:36:04,01:56:08,00:04:21,00:03:29,05:17:26
+ironman-70.3-pucon-20140112.csv,380,Mauricio Reginato,---,---,ARG,00:37:39,02:49:03,01:56:31,00:04:06,00:02:44,05:30:03
+ironman-70.3-pucon-20140112.csv,381,Agustin Ricardo Leiro,---,---,ARG,00:27:20,02:25:33,01:28:59,00:02:38,00:02:11,04:26:41
+ironman-70.3-pucon-20140112.csv,382,Jose Esteban Martabid Crutchik,---,---,CHL,00:33:23,02:39:11,01:34:59,00:03:20,00:02:11,04:53:04
+ironman-70.3-pucon-20140112.csv,383,Leonardo Guajardo Perez,---,---,CHL,00:42:03,02:49:11,01:54:45,00:04:24,00:03:47,05:34:10
+ironman-70.3-pucon-20140112.csv,384,Cristóbal Andrés Heitmann Montero,---,---,CHL,00:31:52,02:42:37,01:55:43,00:03:16,00:03:09,05:16:37
+ironman-70.3-pucon-20140112.csv,385,Ian Vargas Galaz,---,---,CHL,00:27:50,02:26:27,01:38:13,00:03:19,00:02:43,04:38:32
+ironman-70.3-pucon-20140112.csv,386,Pablo Daniel Ruiz Gallo,---,---,ARG,00:28:57,02:28:01,01:43:55,00:02:50,00:02:14,04:45:57
+ironman-70.3-pucon-20140112.csv,387,Alberto Karim Acuña Touma,---,---,CHL,00:31:40,03:01:23,02:24:50,00:04:06,00:04:13,06:06:12
+ironman-70.3-pucon-20140112.csv,388,Tomás Ávila Soza,---,---,CHL,00:46:15,02:50:02,02:11:50,00:03:37,00:03:53,05:55:37
+ironman-70.3-pucon-20140112.csv,389,Cristobal Avila Soza,---,---,CHL,00:31:52,02:57:43,02:00:17,00:04:38,00:03:13,05:37:43
+ironman-70.3-pucon-20140112.csv,390,Salvador Ruiz Gonzalez,26,LIMA,PER,00:28:57,02:33:18,01:36:40,00:03:35,00:02:38,04:45:08
+ironman-70.3-pucon-20140112.csv,391,Francisco Vargas Hott,---,---,CHL,00:41:43,03:09:16,02:37:19,00:06:09,00:04:43,06:39:10
+ironman-70.3-pucon-20140112.csv,392,Lucas Alejandro Sosa,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,393,Ricardo Abogabir Correa,---,---,CHL,00:32:42,02:50:50,01:54:33,00:04:07,00:03:07,05:25:19
+ironman-70.3-pucon-20140112.csv,394,Alexander Grasty,---,---,CHL,00:36:35,02:45:23,02:33:54,00:04:24,00:03:08,06:03:24
+ironman-70.3-pucon-20140112.csv,395,Jonathan Kwaterka,---,---,ARG,00:29:16,02:31:17,01:36:01,00:03:05,---,04:39:39
+ironman-70.3-pucon-20140112.csv,396,Ignacio Alfredo Nuñez Salazar,---,---,CHL,00:36:34,03:15:18,02:12:24,00:05:00,00:03:54,06:13:10
+ironman-70.3-pucon-20140112.csv,397,Jose Aviles Miranda,---,---,CHL,00:44:38,03:07:07,02:13:18,00:05:11,00:04:56,06:15:10
+ironman-70.3-pucon-20140112.csv,398,Cristian Blanche Westenenk,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,399,Gonzalo Acosta,---,---,ARG,00:33:19,02:19:14,01:34:47,00:02:51,00:02:18,04:32:29
+ironman-70.3-pucon-20140112.csv,400,Rubén Furman Furman Vernon,---,---,CHL,00:39:31,02:54:16,01:45:15,00:05:52,00:04:52,05:29:46
+ironman-70.3-pucon-20140112.csv,401,Alex Martin Suarez Lopez,---,---,CHL,00:35:57,02:49:38,01:45:46,00:03:09,00:02:37,05:17:07
+ironman-70.3-pucon-20140112.csv,402,Nicolás Alejandro Serer,---,---,ARG,00:31:46,02:42:10,01:35:19,00:03:13,00:02:39,04:55:07
+ironman-70.3-pucon-20140112.csv,403,Francisco Javier Berrios Loyola,---,---,CHL,00:35:19,02:36:06,01:38:39,00:05:30,00:02:53,04:58:27
+ironman-70.3-pucon-20140112.csv,404,Fernando Champomier,---,---,ARG,00:33:16,02:35:04,01:40:42,00:03:22,00:03:01,04:55:25
+ironman-70.3-pucon-20140112.csv,405,Guillermo Gabriel Cancino,---,---,ARG,00:33:26,03:18:32,02:35:07,00:04:35,00:04:11,06:35:51
+ironman-70.3-pucon-20140112.csv,406,José Antonio Montecinos Dávila,---,---,CHL,00:30:31,02:48:07,01:54:50,00:04:04,00:02:54,05:20:26
+ironman-70.3-pucon-20140112.csv,407,Danilo Gomes Marques,---,---,BRA,00:29:19,03:04:17,02:01:24,00:03:32,00:03:00,05:41:32
+ironman-70.3-pucon-20140112.csv,408,Soshiro Nakaoka,---,---,JPN,00:50:33,03:32:55,02:17:18,00:07:18,00:05:31,06:53:35
+ironman-70.3-pucon-20140112.csv,409,Marco Antonio Chozas Jimenez,---,---,CHL,00:36:22,02:39:34,01:44:51,00:02:57,00:02:30,05:06:14
+ironman-70.3-pucon-20140112.csv,410,Gerardo Enrique Saavedra Cuevas,---,---,CHL,00:33:46,03:01:35,02:26:53,00:04:27,00:03:30,06:10:11
+ironman-70.3-pucon-20140112.csv,411,Carlos Eduardo Cubillos Günther,---,---,CHL,00:33:48,02:45:38,02:33:55,00:04:17,00:04:04,06:01:42
+ironman-70.3-pucon-20140112.csv,412,Diego Alejandro Fernández Mattar,---,---,CHL,00:40:03,03:17:56,02:19:34,00:04:53,00:03:55,06:26:21
+ironman-70.3-pucon-20140112.csv,413,Maurício Del Buono Ramos,---,---,BRA,00:38:42,03:12:57,03:17:58,00:05:24,00:06:50,07:21:51
+ironman-70.3-pucon-20140112.csv,414,Andres Luis Gutierrez Del Villar,---,---,CHL,00:31:54,02:47:37,02:07:29,00:03:47,00:02:45,05:33:32
+ironman-70.3-pucon-20140112.csv,415,Ignacio Nicolas Almendra,---,---,ARG,00:38:16,03:02:12,02:35:49,00:03:30,00:02:52,06:22:39
+ironman-70.3-pucon-20140112.csv,416,Pedro Pablo Ramirez Castex,---,---,CHL,00:43:35,03:28:53,02:10:53,00:04:49,00:03:19,06:31:29
+ironman-70.3-pucon-20140112.csv,417,Camilo Alfredo Nesbet Reus,---,---,CHL,00:29:12,02:25:48,01:33:56,00:02:40,00:02:29,04:34:05
+ironman-70.3-pucon-20140112.csv,418,Mario Sergio Benato,---,---,BRA,00:33:49,02:46:27,01:53:39,00:03:43,00:02:27,05:20:05
+ironman-70.3-pucon-20140112.csv,419,Sebastian Edgardo Arenas Castro,---,---,CHL,---,02:48:04,02:35:56,---,00:02:33,05:26:33
+ironman-70.3-pucon-20140112.csv,420,Josue Smith,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,421,Rolando Pablo Cerezo Loayza,---,---,BOL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,422,Felipe Edgardo Gallardo Ceron,---,---,CHL,00:33:05,03:03:08,01:46:08,00:04:29,00:03:14,05:30:04
+ironman-70.3-pucon-20140112.csv,423,Francisco Javier Valenzuela,---,---,CHL,00:32:43,03:03:58,02:03:10,00:04:48,00:04:08,05:48:47
+ironman-70.3-pucon-20140112.csv,424,Jaime Ignacio Mery Illanes,---,---,CHL,00:35:54,02:51:20,01:50:49,00:03:46,00:03:14,05:25:03
+ironman-70.3-pucon-20140112.csv,425,Marcos Horacio Paves,---,---,ARG,00:30:51,02:32:20,01:43:13,00:02:54,00:02:36,04:51:54
+ironman-70.3-pucon-20140112.csv,426,Diego Armando Manzo Faúndez,---,---,CHL,00:44:53,03:07:23,01:55:48,00:04:15,00:04:07,05:56:26
+ironman-70.3-pucon-20140112.csv,427,Alexandre Soares Alves Pinto,---,---,BRA,00:45:15,03:18:59,02:48:51,00:04:53,00:06:42,07:04:40
+ironman-70.3-pucon-20140112.csv,428,Ricardo Andres Contreras Fernandez,---,---,CHL,00:36:47,02:45:18,01:58:27,00:04:31,00:03:21,05:28:24
+ironman-70.3-pucon-20140112.csv,429,Manueljose Conejeros,---,---,CHL,00:30:17,02:34:08,01:39:04,00:02:49,00:02:26,04:48:44
+ironman-70.3-pucon-20140112.csv,430,José Miguel Romero Ravest,---,---,CHL,00:34:13,02:48:01,01:37:13,00:03:58,00:02:32,05:05:57
+ironman-70.3-pucon-20140112.csv,431,Tyler Lane Frost,---,---,USA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,432,Marcelo Alejandro Sánchez Núñez,---,---,CHL,00:34:59,02:42:07,02:03:49,00:03:07,00:05:02,05:29:04
+ironman-70.3-pucon-20140112.csv,433,Eduardo Chandía,---,---,CHL,00:36:48,02:40:56,02:00:23,00:04:26,00:03:34,05:26:07
+ironman-70.3-pucon-20140112.csv,434,Ignacio Esteban Bocaz,---,---,CHL,00:33:24,02:44:40,02:09:38,00:04:01,00:03:25,05:35:08
+ironman-70.3-pucon-20140112.csv,435,Pascual Duco,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,436,Sergio Alarcón,---,---,CHL,00:30:42,02:44:36,01:53:18,00:03:34,00:02:44,05:14:54
+ironman-70.3-pucon-20140112.csv,437,Juan Francisco Gonzalez Parraguez,---,---,CHL,00:30:27,02:44:56,01:59:08,00:02:54,00:03:01,05:20:26
+ironman-70.3-pucon-20140112.csv,438,Kid Walter Tlaija,27,Rio Grande do Sul,BRA,00:31:42,02:32:27,01:33:55,00:03:25,00:03:07,04:44:36
+ironman-70.3-pucon-20140112.csv,439,Javier Salinas,---,---,CHL,00:36:39,02:45:55,01:49:57,00:05:08,00:03:00,05:20:39
+ironman-70.3-pucon-20140112.csv,440,Tomás Vicente Christie García,---,---,CHL,00:31:36,03:09:15,02:27:01,00:05:10,00:03:29,06:16:31
+ironman-70.3-pucon-20140112.csv,441,Nicolas Cifuentes,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,442,Carlos Manuel Moya Orellana,---,---,CHL,00:37:38,02:40:35,01:46:01,00:05:03,00:03:26,05:12:43
+ironman-70.3-pucon-20140112.csv,443,Gabriel San Martin Sepulveda,---,---,CHL,00:31:01,02:46:25,02:22:56,00:03:42,00:02:51,05:46:55
+ironman-70.3-pucon-20140112.csv,444,Nicolas Ajenjo,---,---,CHL,00:37:16,02:50:13,02:14:08,00:04:29,00:03:57,05:50:03
+ironman-70.3-pucon-20140112.csv,445,Eduardo Villouta,---,---,CHL,00:28:56,02:48:40,01:48:50,00:02:55,00:02:32,05:11:53
+ironman-70.3-pucon-20140112.csv,446,Andrés Barraza,---,---,CHL,00:27:45,02:26:15,01:28:26,00:03:26,00:02:35,04:28:27
+ironman-70.3-pucon-20140112.csv,447,Cristian Ignacio Narvaez Matta,---,---,CHL,---,02:37:05,02:14:09,---,00:02:36,04:53:50
+ironman-70.3-pucon-20140112.csv,448,Daniel Moreira,---,---,BRA,00:38:47,02:46:27,01:46:06,00:03:25,00:02:54,05:17:39
+ironman-70.3-pucon-20140112.csv,449,Juan Carlos Varas Valenzuela,---,---,CHL,00:33:50,02:44:44,01:42:01,00:03:55,00:02:50,05:07:20
+ironman-70.3-pucon-20140112.csv,450,Sergio Bautista Vallejos Pierotic,---,---,CHL,00:31:53,02:47:25,02:16:07,00:03:48,00:02:47,05:42:00
+ironman-70.3-pucon-20140112.csv,451,Tomas Rivera Kofler,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,452,Diego Jose Valenzuela Rufin,---,---,CHL,00:32:50,02:43:09,01:42:07,00:03:47,00:02:34,05:04:27
+ironman-70.3-pucon-20140112.csv,453,Carlos César Rodríguez Verá,---,---,CHL,00:37:02,02:45:01,01:57:43,00:04:03,00:04:04,05:27:53
+ironman-70.3-pucon-20140112.csv,454,Rafael Andrés Testart Aguirre,---,---,CHL,---,02:42:05,02:36:03,---,00:04:05,05:22:13
+ironman-70.3-pucon-20140112.csv,455,Cristobal Felipe Fernandez Molina,---,---,CHL,00:26:53,02:30:22,01:55:30,00:02:35,00:02:21,04:57:41
+ironman-70.3-pucon-20140112.csv,456,Felipe Ignacio Tapia Osorio,---,---,CHL,00:47:44,03:39:27,02:43:08,00:05:10,00:06:20,07:21:49
+ironman-70.3-pucon-20140112.csv,457,Diego Velarde,---,---,PER,00:38:45,02:59:00,02:04:39,00:05:32,00:03:34,05:51:30
+ironman-70.3-pucon-20140112.csv,458,Dino Santos,---,---,BRA,00:27:17,02:59:20,02:20:00,00:05:31,00:03:21,05:55:29
+ironman-70.3-pucon-20140112.csv,459,Henrique Franco,---,---,BRA,00:38:30,02:56:32,02:32:32,00:06:23,00:05:43,06:19:40
+ironman-70.3-pucon-20140112.csv,460,André Martins Nogueira,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,461,Saul Novoa Urra,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,462,Gustavo Alberto San Martin Escobar,---,---,CHL,00:32:15,02:41:01,02:29:59,00:05:04,00:03:54,05:52:13
+ironman-70.3-pucon-20140112.csv,463,Rodrigo Arturo Goyheneche Mariquin,---,---,CHL,00:32:36,02:42:44,02:03:26,00:03:11,00:03:13,05:25:10
+ironman-70.3-pucon-20140112.csv,464,Saul Novoa Urra,---,---,CHL,00:32:04,02:37:11,01:38:39,00:03:05,00:02:23,04:53:22
+ironman-70.3-pucon-20140112.csv,465,Jorge Nolberto Chavez Pinto,---,---,CHL,00:38:35,03:03:38,02:31:33,00:04:43,00:03:52,06:22:21
+ironman-70.3-pucon-20140112.csv,466,Joao Fiuza,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,467,Edgard Ignacio Raúl Cid Bonet,---,---,CHL,00:44:35,03:29:21,02:53:36,00:04:46,00:04:44,07:17:02
+ironman-70.3-pucon-20140112.csv,468,Felipe Ignacio Cornejo Barrientos,---,---,CHL,00:30:26,02:49:38,01:34:18,00:02:56,00:02:27,04:59:45
+ironman-70.3-pucon-20140112.csv,469,Cedric George Gibbons Mac-Lean,---,---,CHL,00:31:50,02:37:22,01:37:20,00:03:07,00:02:22,04:52:01
+ironman-70.3-pucon-20140112.csv,470,Luis Enrique Benavente Muñoz,---,---,CHL,00:36:35,03:14:56,02:03:58,00:03:48,00:03:02,06:02:19
+ironman-70.3-pucon-20140112.csv,471,Patricio Alexis Fierro Contreras,---,---,CHL,00:37:15,02:50:56,01:49:05,00:03:49,00:02:42,05:23:47
+ironman-70.3-pucon-20140112.csv,472,Benjamín Ariel San Martín Pérez,---,---,CHL,00:35:20,03:12:32,02:03:45,00:04:42,00:02:29,05:58:48
+ironman-70.3-pucon-20140112.csv,473,Fernando Jose Tagle Valle,---,---,CHL,---,03:06:38,02:52:41,---,00:02:41,06:02:00
+ironman-70.3-pucon-20140112.csv,481,Martin Alberto Capria,---,---,ARG,00:34:27,03:01:36,02:16:51,00:06:16,00:04:32,06:03:42
+ironman-70.3-pucon-20140112.csv,482,Gaston Frayssinet,---,---,ARG,00:29:01,02:35:21,01:47:26,00:04:40,00:03:10,04:59:38
+ironman-70.3-pucon-20140112.csv,483,Haroldo Junqueira,---,---,BRA,00:32:23,02:53:59,02:09:13,00:05:54,00:04:59,05:46:28
+ironman-70.3-pucon-20140112.csv,484,Alejandro Fabian Irastorza,---,---,ARG,00:47:47,02:58:16,02:24:06,00:05:03,00:03:30,06:18:42
+ironman-70.3-pucon-20140112.csv,485,Marcelo Altuna,---,---,ARG,00:36:34,02:53:39,02:05:49,00:05:39,00:04:52,05:46:33
+ironman-70.3-pucon-20140112.csv,486,Miguel Arturo Sauma Vidal,---,---,CHL,00:36:26,02:36:35,02:17:13,00:04:15,00:04:06,05:38:35
+ironman-70.3-pucon-20140112.csv,487,Chul Hun Lee,---,---,---,00:39:31,03:04:46,02:07:02,00:05:29,00:04:01,06:00:49
+ironman-70.3-pucon-20140112.csv,488,Alejandro Antonio Tufaro,---,---,ARG,00:36:57,02:31:56,01:49:18,00:04:05,00:02:48,05:05:04
+ironman-70.3-pucon-20140112.csv,489,Gonzalo Magallon Quemada,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,490,Jose Zambrano Ramirez,---,---,---,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,491,Robinson Yevenes,---,---,CHL,00:39:46,02:42:15,02:11:57,00:04:52,00:04:31,05:43:21
+ironman-70.3-pucon-20140112.csv,492,Gabriel De San Martin,---,---,ARG,00:38:45,02:38:31,01:38:40,00:03:32,00:03:03,05:02:31
+ironman-70.3-pucon-20140112.csv,493,Gonzalo Andrés Dubost Durana,---,---,CHL,00:42:09,03:16:06,02:35:01,00:06:27,00:05:13,06:44:56
+ironman-70.3-pucon-20140112.csv,494,Hector Guillermo Sepulveda Moreno,---,---,CHL,00:34:27,03:01:37,02:39:17,00:05:26,00:04:32,06:25:19
+ironman-70.3-pucon-20140112.csv,495,Roberto De Andraca,---,---,CHL,00:36:21,02:52:27,01:58:13,00:05:32,00:03:54,05:36:27
+ironman-70.3-pucon-20140112.csv,496,Daniel Oscar Pourtale,---,---,ARG,00:30:09,02:30:06,01:55:21,00:03:13,00:02:36,05:01:25
+ironman-70.3-pucon-20140112.csv,497,Jorge Gonzalez Correa,---,---,CHL,00:37:42,02:48:52,02:09:53,00:05:48,00:04:12,05:46:27
+ironman-70.3-pucon-20140112.csv,498,José Tomás Marambio Yanes,---,---,CHL,00:41:37,02:48:54,02:02:18,00:04:25,00:03:38,05:40:52
+ironman-70.3-pucon-20140112.csv,499,Michael Patrick Obrien,---,---,IRL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,500,Carlos Gbonet,---,---,ARG,00:30:08,02:32:38,01:42:26,00:03:11,00:02:23,04:50:46
+ironman-70.3-pucon-20140112.csv,501,Gonzalo Valenzuela Silva,---,---,CHL,00:30:35,02:39:38,01:37:20,00:03:21,00:02:38,04:53:32
+ironman-70.3-pucon-20140112.csv,502,Roberto Luís Garcia Carrasco,---,---,CHL,00:45:34,03:21:28,02:42:13,00:04:57,00:05:17,06:59:29
+ironman-70.3-pucon-20140112.csv,503,Augusto Schazmann,46,CL,CHL,00:48:21,03:06:58,02:14:27,00:04:30,00:03:06,06:17:22
+ironman-70.3-pucon-20140112.csv,504,Dennis Arias Tapia,---,---,CHL,---,02:33:20,02:16:15,---,00:02:26,04:52:01
+ironman-70.3-pucon-20140112.csv,505,Carlos Baudrand Saavedra,---,---,CHL,00:44:31,03:06:13,02:20:57,00:04:37,00:03:35,06:19:53
+ironman-70.3-pucon-20140112.csv,506,Pedro Enrique Velasquez Pozo,---,---,CHL,00:38:34,02:37:03,01:47:49,00:03:04,00:03:24,05:09:54
+ironman-70.3-pucon-20140112.csv,507,Carlos Izquierdo Chadwick,---,---,CHL,00:32:24,02:44:00,01:57:38,00:04:12,00:03:25,05:21:39
+ironman-70.3-pucon-20140112.csv,508,Juan Cristobal Valdivia Cereceda,---,---,CHL,00:36:21,02:48:48,02:09:30,00:03:39,00:02:38,05:40:56
+ironman-70.3-pucon-20140112.csv,509,Francisco Javier Errazuriz Dominguez,---,---,CHL,00:42:06,02:59:56,02:08:32,00:05:01,00:04:12,05:59:47
+ironman-70.3-pucon-20140112.csv,510,Victor Marcelo Monteiro Alves Pereira,---,---,BRA,00:33:53,02:26:52,01:52:58,00:04:03,00:03:18,05:01:04
+ironman-70.3-pucon-20140112.csv,511,Joselín Pablo González Martínez,---,---,CHL,00:37:48,02:58:33,02:17:34,00:04:40,00:05:19,06:03:54
+ironman-70.3-pucon-20140112.csv,512,Rodrigo Mauricio Arriagada Demetrio,---,---,CHL,00:43:56,03:00:10,01:54:54,00:04:33,00:02:35,05:46:08
+ironman-70.3-pucon-20140112.csv,513,Sergio Alvarez Diaz,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,514,Martin Andrés Waeger Biava,---,---,CHL,00:39:59,03:14:46,02:35:29,00:08:48,00:07:03,06:46:05
+ironman-70.3-pucon-20140112.csv,515,Edgardo Gambaro,---,---,ARG,00:47:54,03:43:07,02:54:47,00:07:12,00:05:03,07:38:03
+ironman-70.3-pucon-20140112.csv,516,Sergio Meza Ruiz,---,---,CHL,00:34:40,02:35:28,01:48:46,00:04:38,00:02:30,05:06:02
+ironman-70.3-pucon-20140112.csv,517,Carlos Cristian Gentile,---,---,ARG,00:48:35,02:55:07,02:17:33,00:04:58,00:03:20,06:09:33
+ironman-70.3-pucon-20140112.csv,518,Gonzalo Antonio Mercado Trujeda,---,---,CHL,00:36:43,02:49:22,02:19:56,00:04:14,00:03:19,05:53:34
+ironman-70.3-pucon-20140112.csv,519,Gustavo Adolfo Perez Blanco,---,---,CHL,00:39:01,02:49:08,01:43:14,00:04:32,00:03:37,05:19:32
+ironman-70.3-pucon-20140112.csv,520,Pablo Correa Correa,---,---,CHL,00:39:30,02:53:12,02:45:35,00:03:41,00:03:31,06:25:29
+ironman-70.3-pucon-20140112.csv,521,Jorge Alberto Barrera,---,---,ARG,00:42:38,02:54:53,02:09:35,00:04:24,00:03:15,05:54:45
+ironman-70.3-pucon-20140112.csv,522,Augusto Mandujano Ibañez,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,523,John Riquelme Sepúlveda,---,---,CHL,00:44:07,03:18:59,02:30:03,00:04:50,00:03:39,06:41:38
+ironman-70.3-pucon-20140112.csv,524,Juan Fernández Berrocal,---,---,---,00:36:15,02:31:49,01:42:41,00:03:52,00:02:40,04:57:17
+ironman-70.3-pucon-20140112.csv,525,Juan Alberto Mercatelli,---,---,ARG,00:38:56,03:00:59,02:10:08,00:04:14,00:03:28,05:57:45
+ironman-70.3-pucon-20140112.csv,526,Ramon Ariel Rodriguez,---,---,ARG,00:35:13,03:05:49,02:56:37,00:05:15,00:03:37,06:46:31
+ironman-70.3-pucon-20140112.csv,527,Felipe Lira,---,---,CHL,00:32:29,02:42:33,01:59:00,00:03:19,00:03:00,05:20:21
+ironman-70.3-pucon-20140112.csv,528,Mario Issa Oliveira,---,---,BRA,00:39:22,02:57:50,02:31:09,00:04:44,00:04:21,06:17:26
+ironman-70.3-pucon-20140112.csv,529,Jorge Fernandez Del Rio Donoso,46,---,CHL,00:39:07,03:12:52,02:34:22,00:05:03,00:03:15,06:34:39
+ironman-70.3-pucon-20140112.csv,530,Barry Matthew Sylvio Joseph Dequanne,---,---,CAN,---,03:08:07,03:17:55,---,00:07:18,06:33:20
+ironman-70.3-pucon-20140112.csv,531,Dagoberto Marcelo Pérez Herrera,---,---,CHL,00:41:56,02:46:17,02:02:37,00:04:09,00:03:30,05:38:29
+ironman-70.3-pucon-20140112.csv,532,Christian Felipe Calderon Saavedra,---,---,CHL,00:48:52,02:48:37,02:02:12,00:04:23,00:03:00,05:47:04
+ironman-70.3-pucon-20140112.csv,533,Fabian Ravinale,---,---,ARG,00:39:13,02:56:16,02:05:43,00:05:16,00:04:55,05:51:23
+ironman-70.3-pucon-20140112.csv,534,Andres Rodriguez,---,---,CHL,00:46:21,03:21:16,02:37:28,00:06:20,00:04:57,06:56:22
+ironman-70.3-pucon-20140112.csv,535,Jorge Prieto Urrutia,---,---,CHL,00:42:56,02:52:16,02:09:13,00:04:29,00:02:58,05:51:52
+ironman-70.3-pucon-20140112.csv,536,Enrique Rodriguez,---,---,ARG,00:35:03,02:35:19,01:46:11,00:03:23,00:03:04,05:03:00
+ironman-70.3-pucon-20140112.csv,537,Eduardo German Behnisch,---,---,ARG,00:44:32,03:28:49,02:33:56,00:05:32,00:03:23,06:56:12
+ironman-70.3-pucon-20140112.csv,538,David Espinoza,---,---,CHL,01:06:52,03:31:38,02:43:28,00:05:55,00:05:13,07:33:06
+ironman-70.3-pucon-20140112.csv,539,Aedzer Hellema,---,---,---,00:35:08,02:44:09,01:58:35,00:03:43,00:03:11,05:24:46
+ironman-70.3-pucon-20140112.csv,540,Oswaldo Berrizbeitia,---,---,VEN,00:43:07,02:59:29,02:15:33,00:06:16,00:03:52,06:08:17
+ironman-70.3-pucon-20140112.csv,541,Cristian Baeza,---,---,CHL,00:38:39,02:43:18,02:04:35,00:04:38,00:03:26,05:34:36
+ironman-70.3-pucon-20140112.csv,542,Armando Lotitto,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,543,Gabriel Napoli,---,---,ARG,00:33:40,02:38:37,01:50:43,00:03:43,00:03:38,05:10:21
+ironman-70.3-pucon-20140112.csv,544,Nestor Fernando De La Torre,---,---,ARG,00:35:39,02:44:25,01:53:58,00:04:15,00:03:13,05:21:30
+ironman-70.3-pucon-20140112.csv,545,Ronie Oliveira De Souza,---,---,BRA,00:47:58,03:23:58,03:07:29,00:06:04,00:08:21,07:33:50
+ironman-70.3-pucon-20140112.csv,546,José Luis Errazuriz Mujica,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,547,Alejandro Bañados Lyon,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,548,Miguel Angel Sanchez Herrera,---,---,COL,00:43:31,02:51:40,02:22:16,00:05:38,00:05:34,06:08:39
+ironman-70.3-pucon-20140112.csv,549,Walter Garcia Moreno,---,---,ARG,00:40:43,03:34:30,02:10:56,00:06:47,00:04:21,06:37:17
+ironman-70.3-pucon-20140112.csv,550,Lisandro Aurelio Albornoz Quiroga,---,---,CHL,00:50:32,03:15:43,02:25:45,00:06:01,00:04:05,06:42:06
+ironman-70.3-pucon-20140112.csv,551,Rodrigo Bascuñan,---,---,CHL,00:30:09,02:36:14,01:58:44,00:03:42,00:02:51,05:11:40
+ironman-70.3-pucon-20140112.csv,552,Christian Andrés Gatica Funetealba,---,---,CHL,00:46:08,02:55:24,02:50:57,00:04:33,00:03:38,06:40:40
+ironman-70.3-pucon-20140112.csv,553,Leonardo Raul Tesan,---,---,ARG,00:45:36,03:26:08,02:48:44,00:05:34,00:05:46,07:11:48
+ironman-70.3-pucon-20140112.csv,554,Alejandro Cachú Carrizo,---,---,ARG,00:40:06,02:54:57,02:13:34,00:06:38,00:04:01,05:59:16
+ironman-70.3-pucon-20140112.csv,555,Javier Eduardo Torres,---,---,ARG,00:38:19,03:03:47,02:55:18,00:05:28,00:04:38,06:47:30
+ironman-70.3-pucon-20140112.csv,556,Gerardo Alejandro Beltrán Salinas,---,---,CHL,00:36:19,02:57:48,02:16:58,00:06:14,00:04:19,06:01:38
+ironman-70.3-pucon-20140112.csv,557,Rodrigo Gras Rudloff,---,---,CHL,00:31:45,02:30:19,01:50:34,00:03:11,00:02:49,04:58:38
+ironman-70.3-pucon-20140112.csv,558,Claudio Andrés Figueroa Lizana,---,---,CHL,00:44:38,03:17:22,02:40:38,00:09:06,00:07:20,06:59:04
+ironman-70.3-pucon-20140112.csv,559,Pablo Eguiguren,---,---,CHL,00:31:17,02:37:05,01:43:56,00:03:17,00:02:24,04:57:59
+ironman-70.3-pucon-20140112.csv,560,Pablo Andres Lara Barbieri,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,561,Andres Felipe Silva Tesmer,---,---,CHL,00:36:27,02:48:48,02:06:29,00:04:26,00:03:46,05:39:56
+ironman-70.3-pucon-20140112.csv,562,Felipe Buono-Core Gutierrez,---,---,CHL,00:39:04,03:10:08,02:55:59,00:04:30,00:06:12,06:55:53
+ironman-70.3-pucon-20140112.csv,563,Giancarlo De Bianchi Saltarelli,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,564,Jose Miguel Aravena Caroca,---,---,CHL,00:41:26,02:52:23,02:12:05,00:05:41,00:03:34,05:55:09
+ironman-70.3-pucon-20140112.csv,565,Pablo Omar Luzuriaga,---,---,ARG,00:48:44,02:43:54,01:57:03,00:04:08,00:03:47,05:37:36
+ironman-70.3-pucon-20140112.csv,566,Jorge Montegu,---,---,CHL,00:35:29,02:40:07,01:54:50,00:03:58,00:02:46,05:17:10
+ironman-70.3-pucon-20140112.csv,567,Alejandro Ravinale,---,---,ARG,00:36:06,02:51:40,02:01:59,00:05:05,00:04:09,05:38:59
+ironman-70.3-pucon-20140112.csv,568,Sady Delgado,---,---,CHL,00:54:01,03:04:03,02:35:19,00:06:09,00:04:32,06:44:04
+ironman-70.3-pucon-20140112.csv,569,Renato Francisco Gana Gomez De La Torre,---,---,CHL,---,---,---,---,---,DQ
+ironman-70.3-pucon-20140112.csv,570,Ariovaldo Stefani,---,---,BRA,00:36:44,02:58:11,02:24:36,00:07:32,00:06:02,06:13:05
+ironman-70.3-pucon-20140112.csv,571,Guillermo Tamarin Palacios,---,---,CHL,00:36:14,02:40:38,01:49:05,00:04:06,00:03:42,05:13:45
+ironman-70.3-pucon-20140112.csv,572,Marcio Spinato Scotti,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,573,Guillermo Díaz Del Río Riesco,---,---,CHL,00:44:41,02:56:04,01:52:12,00:05:11,00:03:42,05:41:50
+ironman-70.3-pucon-20140112.csv,574,Mauro Andrade Dos Santos,---,---,BRA,00:31:23,02:49:46,02:07:36,00:04:18,00:03:30,05:36:33
+ironman-70.3-pucon-20140112.csv,575,Jose Luis Minenna,---,---,ARG,00:33:13,02:32:58,01:42:02,00:03:02,00:02:34,04:53:49
+ironman-70.3-pucon-20140112.csv,576,Rodrigo Gonzalo Barra Sepulveda,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,577,Cesar Ulises Gonzalez,---,---,ARG,00:31:09,02:59:42,02:19:45,00:05:11,00:03:58,05:59:45
+ironman-70.3-pucon-20140112.csv,578,Ignacio Javier Barrera Sancho,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,579,Ladislao Riveros,---,---,CHL,00:35:53,02:48:03,02:12:42,00:04:20,00:03:04,05:44:02
+ironman-70.3-pucon-20140112.csv,580,Alvaro Montenegro Abufon,---,---,CHL,00:43:02,03:09:15,02:14:07,00:04:27,00:03:43,06:14:34
+ironman-70.3-pucon-20140112.csv,581,Eduardo Pasten Guzman,---,---,CHL,00:47:49,02:55:02,02:18:10,00:04:09,00:05:03,06:10:13
+ironman-70.3-pucon-20140112.csv,582,Luis Piano,---,---,ARG,00:39:26,02:56:01,02:47:49,00:05:13,00:04:26,06:32:55
+ironman-70.3-pucon-20140112.csv,583,Jaime Sanhueza Miranda,---,---,CHL,00:39:48,02:51:01,02:03:08,00:04:59,00:04:46,05:43:42
+ironman-70.3-pucon-20140112.csv,584,Robert Manfred Schmitz Brauchle,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,585,Marcelo Hidalgo Alvarado,---,---,CHL,00:36:32,03:02:50,01:59:25,00:05:35,00:03:41,05:48:03
+ironman-70.3-pucon-20140112.csv,586,Martin Saenz De Tejada,---,---,ARG,00:44:16,02:58:41,02:16:03,00:04:31,00:04:46,06:08:17
+ironman-70.3-pucon-20140112.csv,587,Rodrigo Alejandro Marchessi Acuña,---,---,CHL,00:33:19,02:36:04,01:43:40,00:04:23,00:02:53,05:00:19
+ironman-70.3-pucon-20140112.csv,588,Francisco Rodrigo Reyes Valenzuela,---,---,CHL,00:45:10,03:07:16,01:57:29,00:06:23,00:03:19,05:59:37
+ironman-70.3-pucon-20140112.csv,589,Gonzalo Sepulveda Cortes,---,---,CHL,00:32:02,02:31:58,01:26:53,00:03:12,00:02:42,04:36:47
+ironman-70.3-pucon-20140112.csv,590,Ruben Adrian Mercado,---,---,ARG,00:47:54,03:01:03,02:01:54,00:03:32,00:03:10,05:57:33
+ironman-70.3-pucon-20140112.csv,591,Boris Aljaro,---,---,CHL,00:35:49,02:39:41,02:02:13,00:04:00,00:03:20,05:25:03
+ironman-70.3-pucon-20140112.csv,592,Claudio Mauricio Cabrera Ponce,---,---,CHL,00:38:50,03:06:10,02:00:01,00:04:40,00:03:10,05:52:51
+ironman-70.3-pucon-20140112.csv,593,Jose Alberto Guedez,---,---,VEN,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,594,Marc Andre Roy,---,---,CAN,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,595,Rodrigo Pinto,---,---,CHL,00:33:23,02:40:50,02:19:10,00:03:59,00:03:40,05:41:02
+ironman-70.3-pucon-20140112.csv,596,Juanpablo Canevaro Jaramillo,---,---,CHL,00:28:47,02:38:04,02:01:30,00:03:18,00:03:20,05:14:59
+ironman-70.3-pucon-20140112.csv,597,Mauricio Camus,---,---,CHL,00:32:00,02:49:05,02:00:09,00:04:14,00:03:15,05:28:43
+ironman-70.3-pucon-20140112.csv,598,Yanko Ignacio Morales Sepulveda,---,---,CHL,00:34:44,03:07:48,02:39:30,00:05:48,00:04:36,06:32:26
+ironman-70.3-pucon-20140112.csv,599,Alberto Rosenzweig,---,---,CHL,00:44:36,03:14:34,01:59:35,00:05:31,00:04:10,06:08:26
+ironman-70.3-pucon-20140112.csv,600,Alejandro Orrego Canseco,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,601,Douglas Ikeda,---,---,BRA,00:35:06,03:10:48,02:25:58,00:05:00,00:05:09,06:22:01
+ironman-70.3-pucon-20140112.csv,602,Marcelo Moreno,---,---,ARG,00:34:31,03:19:28,02:24:45,00:06:32,00:09:12,06:34:28
+ironman-70.3-pucon-20140112.csv,603,Andersen Leodan Sanches,---,---,BRA,00:45:39,02:52:01,02:13:32,00:04:26,00:04:15,05:59:53
+ironman-70.3-pucon-20140112.csv,604,Cristián Carlos Escalante Valdes,---,---,CHL,00:46:35,03:06:44,03:07:34,00:08:20,00:07:36,07:16:49
+ironman-70.3-pucon-20140112.csv,605,Gonzalo Villar Cáceres,---,---,CHL,00:33:41,02:39:02,02:00:56,00:04:26,00:02:48,05:20:53
+ironman-70.3-pucon-20140112.csv,606,Raul Arratia,---,---,CHL,00:35:56,02:48:51,02:12:42,00:05:14,00:04:51,05:47:34
+ironman-70.3-pucon-20140112.csv,607,Ariel Alejandrolillo Lillo Proust,---,---,CHL,00:35:26,02:24:49,02:06:23,00:04:46,00:03:26,05:14:50
+ironman-70.3-pucon-20140112.csv,608,Eusebio Desiderio Moraga Calderon,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,609,Raul Antonio Hernandez Piña,---,---,CHL,00:39:00,03:16:23,02:47:48,00:05:42,00:03:53,06:52:46
+ironman-70.3-pucon-20140112.csv,610,Ariel Magendzo,---,---,CHL,00:27:09,02:37:15,01:45:41,00:03:12,00:02:57,04:56:14
+ironman-70.3-pucon-20140112.csv,611,Mauricio Roura Hernandez,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,612,Mariano Alberto Alonso,---,---,ARG,00:36:08,02:50:46,02:33:16,00:05:35,00:04:13,06:09:58
+ironman-70.3-pucon-20140112.csv,613,Rodolfo Hernan Riffo Cofre,---,---,CHL,00:43:47,02:51:26,02:06:44,00:05:27,00:04:38,05:52:02
+ironman-70.3-pucon-20140112.csv,614,José Ignacio Porras Soto,---,---,CHL,00:32:59,02:45:17,02:09:02,00:05:13,00:04:09,05:36:40
+ironman-70.3-pucon-20140112.csv,615,Fabio Mortari,---,---,BRA,00:32:55,03:10:05,02:15:56,00:04:52,00:05:24,06:09:12
+ironman-70.3-pucon-20140112.csv,616,Felipe Atencio Larrañaga,---,---,CHL,00:51:45,03:05:34,02:22:36,00:07:22,00:04:43,06:32:00
+ironman-70.3-pucon-20140112.csv,617,Leonardo Martinez,---,---,SLV,00:40:20,03:41:14,02:24:29,00:09:12,00:05:39,07:00:54
+ironman-70.3-pucon-20140112.csv,618,Fernando Jorge Ribeiro Raposo,---,---,BRA,00:38:39,02:54:30,02:10:53,00:07:12,00:05:52,05:57:06
+ironman-70.3-pucon-20140112.csv,619,Vladimir Venegas,---,---,CHL,00:40:45,03:14:01,02:55:05,00:05:34,00:04:17,06:59:42
+ironman-70.3-pucon-20140112.csv,620,Javier Castellano,---,---,---,00:41:40,02:59:05,02:21:36,00:06:16,00:04:39,06:13:16
+ironman-70.3-pucon-20140112.csv,621,Marcos Roberto Salla,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,622,Cristian Ulloa Valdivieso,---,---,CHL,00:35:05,02:45:53,01:56:52,00:04:21,00:02:47,05:24:58
+ironman-70.3-pucon-20140112.csv,623,Benito Antonio Sanchez Sanchez,---,---,CHL,00:29:38,03:00:57,02:23:14,00:04:30,00:03:05,06:01:24
+ironman-70.3-pucon-20140112.csv,624,Enrique Montero,---,---,CRI,00:34:15,03:13:18,02:15:38,00:05:15,00:04:17,06:12:43
+ironman-70.3-pucon-20140112.csv,625,Roberto Carlos Uribe,---,---,CHL,00:42:12,02:56:54,02:01:59,00:03:47,00:03:48,05:48:40
+ironman-70.3-pucon-20140112.csv,626,Marcelo Acuña Montt,---,---,CHL,00:45:38,03:04:41,02:08:00,00:05:02,00:03:26,06:06:47
+ironman-70.3-pucon-20140112.csv,627,Jorge Reinaldo Daille Cespedes,---,---,CHL,---,03:16:07,03:15:20,---,00:03:45,06:35:12
+ironman-70.3-pucon-20140112.csv,628,Juan Carlos Castro,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,631,Mauricio Andres Minck Trombert,---,---,CHL,00:48:25,03:04:23,02:25:50,00:05:44,00:03:42,06:28:04
+ironman-70.3-pucon-20140112.csv,632,Marcus Rubortone,---,---,BRA,00:45:08,02:31:40,01:51:37,00:03:56,00:03:03,05:15:24
+ironman-70.3-pucon-20140112.csv,633,Hernan Javier Ramos,---,---,ARG,00:37:54,03:06:02,02:15:47,00:04:46,00:03:28,06:07:57
+ironman-70.3-pucon-20140112.csv,634,Manuel Alejandro Venegas Toro,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,635,Patricio Sarmiento Mancilla,---,---,CHL,00:42:53,03:07:07,02:43:32,00:03:26,00:04:46,06:41:44
+ironman-70.3-pucon-20140112.csv,636,Andres Osvaldo Grifffero,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,637,Leonardo Nicolas Giglio,---,---,ARG,00:31:20,02:27:57,01:35:47,00:03:30,00:02:36,04:41:10
+ironman-70.3-pucon-20140112.csv,638,Guillermo Horacio Bueno,---,---,ARG,00:42:45,02:42:49,01:58:21,00:04:03,00:03:17,05:31:15
+ironman-70.3-pucon-20140112.csv,639,Gaston Ostrovsky,---,---,ARG,00:31:02,03:19:42,01:55:19,00:04:24,00:03:28,05:53:55
+ironman-70.3-pucon-20140112.csv,640,Patricio Esteban Santis Guerrero,---,---,CHL,00:46:46,03:38:48,03:08:28,00:05:45,00:08:20,07:48:07
+ironman-70.3-pucon-20140112.csv,641,Pedro Ruiz Bachmann,---,---,CHL,00:39:44,02:44:22,02:08:52,00:04:28,00:03:50,05:41:16
+ironman-70.3-pucon-20140112.csv,642,Julio Andrade,---,---,ARG,00:30:18,02:23:54,02:01:35,00:03:30,00:02:47,05:02:04
+ironman-70.3-pucon-20140112.csv,643,Gustavo Gibin Duarte Duarte,---,---,BRA,00:33:26,02:39:14,01:56:37,00:05:11,00:04:19,05:18:47
+ironman-70.3-pucon-20140112.csv,644,Rodrigo Daniel San Martin Sepulveda,---,---,CHL,00:44:59,02:55:50,01:59:33,00:04:55,00:04:23,05:49:40
+ironman-70.3-pucon-20140112.csv,645,Ignacio Reid,---,---,CHL,00:31:23,02:36:58,02:03:31,00:04:02,00:03:17,05:19:11
+ironman-70.3-pucon-20140112.csv,646,Marcelo Patricio Iván Peñailillo Streb,---,---,CHL,00:35:29,02:46:19,02:14:09,00:03:32,00:02:45,05:42:14
+ironman-70.3-pucon-20140112.csv,647,Donga Souza,---,---,BRA,00:28:57,02:31:16,01:40:54,00:03:13,00:02:35,04:46:55
+ironman-70.3-pucon-20140112.csv,648,Victor Hugo Munoz De Rosas,---,---,CHL,00:32:40,02:47:59,01:53:01,00:03:36,00:03:19,05:20:35
+ironman-70.3-pucon-20140112.csv,649,German Perez Esquivel,---,---,CHL,00:35:45,02:53:02,02:13:25,00:05:09,00:05:07,05:52:28
+ironman-70.3-pucon-20140112.csv,650,Andres Cristóbal Del Pozo Zapata,---,---,CHL,00:44:21,03:09:50,02:12:29,00:04:49,00:03:27,06:14:56
+ironman-70.3-pucon-20140112.csv,651,Francisco Javier Chavez Rojas,---,---,CHL,00:35:09,02:36:18,01:39:20,00:04:03,00:03:01,04:57:51
+ironman-70.3-pucon-20140112.csv,652,Sebastian Asquinazi,---,---,ARG,00:27:12,02:27:44,01:39:49,00:02:39,00:02:13,04:39:37
+ironman-70.3-pucon-20140112.csv,653,Jose Miguel Cuevas Paredes,---,---,CHL,00:35:11,02:18:23,01:36:36,00:04:04,00:02:48,04:37:02
+ironman-70.3-pucon-20140112.csv,654,Diego Banfi,---,---,CHL,---,02:30:59,02:43:46,---,00:03:10,05:17:55
+ironman-70.3-pucon-20140112.csv,655,Patricio Andres Gatica Mancilla,---,---,CHL,00:51:16,02:51:30,02:20:07,00:03:40,00:04:17,06:10:50
+ironman-70.3-pucon-20140112.csv,656,Felipe Alfaro Jaramillo,---,---,CHL,00:29:50,02:49:47,02:34:30,00:04:06,00:02:57,06:01:10
+ironman-70.3-pucon-20140112.csv,657,Stefan Schattovich,---,---,AUT,00:35:23,02:26:44,01:46:36,00:04:07,00:03:14,04:56:04
+ironman-70.3-pucon-20140112.csv,658,Luis Antonio Gallegos Gutierrez,---,---,CHL,00:39:27,02:52:57,01:58:53,00:03:40,00:03:13,05:38:10
+ironman-70.3-pucon-20140112.csv,659,Claudio Eduardo Gesche Montandon,---,---,CHL,00:39:16,03:00:39,02:04:03,00:04:46,00:04:36,05:53:20
+ironman-70.3-pucon-20140112.csv,660,Cristian Dufeu,---,---,CHL,00:33:24,02:43:15,01:57:01,00:03:34,00:02:44,05:19:58
+ironman-70.3-pucon-20140112.csv,661,Daniel Schueftan,---,---,CHL,00:46:21,03:07:57,01:51:00,00:05:48,00:06:41,05:57:47
+ironman-70.3-pucon-20140112.csv,662,Mario Alfredo Cayul Estrada,---,---,CHL,00:42:23,03:34:27,03:15:48,00:05:21,00:02:57,07:40:56
+ironman-70.3-pucon-20140112.csv,663,Alejandro S. Novoa Cruz,---,---,CHL,00:36:22,02:53:10,01:55:38,00:03:59,00:03:14,05:32:23
+ironman-70.3-pucon-20140112.csv,664,Luciano Queiroz,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,665,Enrique Alfonso Rubio Esquivel,---,---,CHL,00:29:04,02:37:55,01:45:28,00:04:04,00:02:44,04:59:15
+ironman-70.3-pucon-20140112.csv,666,Leonardo Antonio Cancino Varas,---,---,CHL,00:43:51,02:38:33,02:33:07,00:05:21,00:05:20,06:06:12
+ironman-70.3-pucon-20140112.csv,667,José Miguel Barros,---,---,CHL,00:30:39,02:30:53,02:01:46,00:03:29,00:02:53,05:09:40
+ironman-70.3-pucon-20140112.csv,668,Gaston Mirantes,---,---,ARG,00:32:49,02:39:02,01:46:40,00:03:30,00:02:55,05:04:56
+ironman-70.3-pucon-20140112.csv,669,Felipe Castillo Vial,---,---,CHL,00:40:49,02:47:43,02:00:35,00:03:52,00:03:15,05:36:14
+ironman-70.3-pucon-20140112.csv,670,Rodrigo Sergio Torres Escobar,---,---,CHL,00:42:24,02:40:56,01:59:43,00:03:58,00:03:15,05:30:16
+ironman-70.3-pucon-20140112.csv,671,Andres Alejandro Lowener Mayer-Rechnitz,---,---,CHL,00:45:12,02:55:45,02:11:34,00:05:06,00:04:44,06:02:21
+ironman-70.3-pucon-20140112.csv,672,Felipe Salas Saavedra,---,---,CHL,00:43:08,02:46:56,01:56:38,00:03:35,00:02:59,05:33:16
+ironman-70.3-pucon-20140112.csv,673,Andres Nennhuber,---,---,ARG,00:29:20,02:33:13,01:52:27,00:03:18,00:02:46,05:01:04
+ironman-70.3-pucon-20140112.csv,674,Felipe Nicolas Queti,---,---,ARG,00:40:49,02:42:10,01:45:03,00:03:36,00:04:13,05:15:51
+ironman-70.3-pucon-20140112.csv,675,Andres Schmidt Klein,---,---,CHL,00:41:48,02:49:41,02:19:31,00:05:46,00:04:45,06:01:31
+ironman-70.3-pucon-20140112.csv,676,Jose Luis Ycaza,---,---,ECU,00:35:08,03:03:25,02:37:04,00:07:40,00:05:34,06:28:51
+ironman-70.3-pucon-20140112.csv,677,Nilo Neves Souza Junior,---,---,BRA,00:36:07,02:49:08,02:11:11,00:03:25,00:02:34,05:42:25
+ironman-70.3-pucon-20140112.csv,678,Rodrigo Cruz Vidal,---,---,CHL,---,03:09:08,03:23:08,---,00:03:52,06:36:08
+ironman-70.3-pucon-20140112.csv,679,Omar Alejandro Hernandez Aichele,---,---,CHL,00:50:12,03:13:42,02:37:41,00:06:38,00:05:30,06:53:43
+ironman-70.3-pucon-20140112.csv,680,Hugo Ariel Camargo,---,---,ARG,00:35:39,02:28:29,01:46:19,00:03:34,00:02:39,04:56:40
+ironman-70.3-pucon-20140112.csv,681,Matias Ossa Valdivieso,---,---,CHL,00:36:07,02:53:20,01:59:29,00:04:05,00:03:07,05:36:08
+ironman-70.3-pucon-20140112.csv,682,Carlos Mauricio Cerda Araya,---,---,CHL,---,03:15:12,03:22:01,---,00:04:54,06:42:07
+ironman-70.3-pucon-20140112.csv,683,Alex Ruju,---,---,PER,00:32:07,02:45:12,02:04:33,00:04:59,00:03:49,05:30:40
+ironman-70.3-pucon-20140112.csv,684,Luis Felipe Vergara Maldonado,---,---,CHL,00:39:11,03:06:18,02:26:37,00:04:31,00:04:10,06:20:47
+ironman-70.3-pucon-20140112.csv,685,Gabriel Della Mattia,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,686,Mauricio Muñoz Nova,42,---,CHL,00:36:22,02:53:50,02:00:43,00:03:35,00:03:01,05:37:31
+ironman-70.3-pucon-20140112.csv,687,Cristián Alejandro De La Barra Dünner,---,---,CHL,00:44:18,02:52:40,01:57:15,00:04:44,00:03:41,05:42:38
+ironman-70.3-pucon-20140112.csv,688,Juan Jose Gonzalez-Zuazo Contreras,---,---,---,00:31:50,02:40:01,02:23:07,00:06:08,00:04:22,05:45:28
+ironman-70.3-pucon-20140112.csv,689,Jose Gaston Queti,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,690,Fernando Abel Peña,---,---,ARG,00:35:55,02:39:54,01:51:57,00:03:27,00:03:40,05:14:53
+ironman-70.3-pucon-20140112.csv,691,Eugenio Tobares,---,---,ARG,00:33:01,02:48:18,01:56:57,00:03:46,00:02:52,05:24:54
+ironman-70.3-pucon-20140112.csv,692,Raul Vargas Zelada,---,---,CHL,00:59:39,03:51:20,02:53:13,00:06:34,00:06:05,07:56:51
+ironman-70.3-pucon-20140112.csv,693,Joao Carlos De Assis,---,---,BRA,00:58:49,03:20:48,02:11:01,00:07:20,00:07:31,06:45:29
+ironman-70.3-pucon-20140112.csv,694,Gerardo Zirpel Bengoa,---,---,CHL,00:33:19,02:42:30,02:01:08,00:04:00,00:03:29,05:24:26
+ironman-70.3-pucon-20140112.csv,695,Rodrigo Padin Trianes,---,---,ARG,00:42:31,02:46:32,02:09:05,00:05:14,00:03:57,05:47:19
+ironman-70.3-pucon-20140112.csv,696,Gabriel Narvaja,---,---,ARG,---,03:14:55,03:21:36,---,00:04:47,06:41:18
+ironman-70.3-pucon-20140112.csv,697,Gustavo Garrel,39,Montevideo,URY,00:32:15,02:33:09,01:56:22,00:03:15,00:02:42,05:07:43
+ironman-70.3-pucon-20140112.csv,698,Luiggi Alberto González Tamsec,---,---,CHL,00:44:30,02:58:29,01:55:41,00:05:15,00:04:56,05:48:51
+ironman-70.3-pucon-20140112.csv,699,Jose Luis Gonzalez Urrutia,---,---,CHL,---,---,---,---,---,DQ
+ironman-70.3-pucon-20140112.csv,700,Renê Junior Pascoali,---,---,BRA,00:36:23,03:06:39,02:21:44,00:03:46,00:04:24,06:12:56
+ironman-70.3-pucon-20140112.csv,701,Diego Heredia,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,702,Pablo Leandro Reyes Montenegro,---,---,CHL,00:59:39,03:21:19,02:29:07,00:05:14,00:05:07,07:00:26
+ironman-70.3-pucon-20140112.csv,703,Fabian Alberto Ravelli,---,---,ARG,00:36:50,02:59:58,02:09:46,00:04:53,00:04:00,05:55:27
+ironman-70.3-pucon-20140112.csv,704,Roland Alexis Haemmerli,---,---,CHL,00:44:33,03:07:19,02:04:06,00:04:30,00:04:09,06:04:37
+ironman-70.3-pucon-20140112.csv,705,Daniel Ruggeroni,---,---,ARG,00:50:32,02:35:48,01:59:06,00:03:33,00:03:39,05:32:38
+ironman-70.3-pucon-20140112.csv,706,Gonzalo Dulanto,41,---,CHL,00:29:06,02:32:02,01:43:28,00:03:30,---,04:48:06
+ironman-70.3-pucon-20140112.csv,707,Edmundo Felipe Ruiz Alliende,---,---,CHL,00:48:18,03:03:47,01:57:51,00:04:17,00:04:14,05:58:27
+ironman-70.3-pucon-20140112.csv,708,Octavio Larrain Schleef,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,709,Andres Tagle Subercaseaux,---,---,CHL,00:42:42,02:48:03,02:13:59,00:05:15,00:03:08,05:53:07
+ironman-70.3-pucon-20140112.csv,710,Antônio Silva,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,711,Claudio Zamorano,43,---,CHL,---,02:42:07,02:33:47,---,00:03:26,05:19:20
+ironman-70.3-pucon-20140112.csv,712,Andres Streuly Molina,---,---,CHL,00:32:41,02:45:32,01:45:33,00:04:02,00:03:05,05:10:53
+ironman-70.3-pucon-20140112.csv,713,Alejandro Ugás Núñez,---,---,CHL,00:40:32,02:42:44,02:09:24,00:05:52,00:03:12,05:41:44
+ironman-70.3-pucon-20140112.csv,714,Pablo Rodriguez,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,715,Rodrigo Alejandro Cordovero Roa,---,---,CHL,00:40:30,02:45:53,01:59:15,00:04:15,00:03:14,05:33:07
+ironman-70.3-pucon-20140112.csv,716,Cristian Antonio Pernice,---,---,ARG,00:46:44,02:53:45,02:26:17,00:05:50,00:04:07,06:16:43
+ironman-70.3-pucon-20140112.csv,717,Rodrigo Larraín,---,---,CHL,00:35:58,02:31:12,02:04:49,00:04:00,00:04:02,05:20:01
+ironman-70.3-pucon-20140112.csv,718,Rodrigo Mauricio Espinoza Vilches,---,---,CHL,00:30:06,02:40:49,01:45:50,00:04:15,00:03:06,05:04:06
+ironman-70.3-pucon-20140112.csv,719,Ignacio Acuña,---,---,ARG,00:33:34,03:12:59,02:04:04,00:04:15,00:03:08,05:58:00
+ironman-70.3-pucon-20140112.csv,720,Alberto Alarcón Palacios,---,---,CHL,00:35:58,02:46:17,02:32:11,00:04:21,00:03:47,06:02:34
+ironman-70.3-pucon-20140112.csv,721,Jorge Luis Lozada Perez,---,---,VEN,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,722,Marcos Antonio Corvino,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,723,Ronaldo Cesquim,43,São Paulo,BRA,00:31:13,02:30:48,01:49:07,00:03:14,00:02:59,04:57:21
+ironman-70.3-pucon-20140112.csv,724,Mauricio German Lavayen,---,---,ARG,---,02:32:46,02:53:19,---,00:02:56,05:29:01
+ironman-70.3-pucon-20140112.csv,725,Enrique Pérez,---,---,CHL,00:48:09,03:34:02,02:51:46,00:07:29,00:06:17,07:27:43
+ironman-70.3-pucon-20140112.csv,726,Gervasio Jose Falcone,---,---,ARG,00:39:59,02:41:11,01:53:53,00:04:22,00:03:02,05:22:27
+ironman-70.3-pucon-20140112.csv,727,Frank Gatell,42,CA,CHL,00:46:32,03:25:46,02:25:46,00:05:55,00:06:03,06:50:02
+ironman-70.3-pucon-20140112.csv,728,Javier Nicolas Tejeda,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,729,Rogério Oliveira De Souza,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,730,Daniel Nassar,42,CL,CHL,00:32:50,02:28:28,01:33:05,00:03:22,00:02:15,04:40:00
+ironman-70.3-pucon-20140112.csv,731,Mauricio Alejandro Martel Uribe,---,---,CHL,00:43:31,03:22:50,03:02:28,00:04:52,00:03:43,07:17:24
+ironman-70.3-pucon-20140112.csv,732,Rodrigo Andrés Campos Pascual,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,733,Pablo Agustin Florensa,---,---,ARG,00:27:47,02:32:34,01:46:40,00:03:33,00:02:47,04:53:21
+ironman-70.3-pucon-20140112.csv,734,Giorgio Rossi Mazzola,---,---,CHL,---,03:19:17,04:01:53,---,00:05:35,07:26:45
+ironman-70.3-pucon-20140112.csv,735,Cesar Antonio Burgos Gonzalez,---,---,CHL,00:32:45,02:35:55,01:59:59,00:03:59,00:02:48,05:15:26
+ironman-70.3-pucon-20140112.csv,736,Francisco Javier Contreras Anrique,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,737,Sergio Sariego,42,---,CHL,00:38:16,02:48:17,01:50:30,00:03:24,00:02:29,05:22:56
+ironman-70.3-pucon-20140112.csv,738,César Ignacio Opazo Illanes,---,---,CHL,00:27:15,02:41:58,01:59:59,00:03:07,00:03:41,05:16:00
+ironman-70.3-pucon-20140112.csv,739,Giovanni Penna Mella,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,740,Federico Schneeberger,42,Intl State,ARG,00:30:09,02:30:55,01:32:52,00:03:46,00:03:18,04:41:00
+ironman-70.3-pucon-20140112.csv,741,Jorge Madrid Canivilo,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,742,Gonzalo Damian Heredia,---,---,ARG,00:35:45,03:01:11,01:53:11,00:03:28,00:02:36,05:36:11
+ironman-70.3-pucon-20140112.csv,743,Pablo La Gattina,---,---,ARG,00:31:53,02:40:39,01:51:58,00:05:03,00:03:27,05:13:00
+ironman-70.3-pucon-20140112.csv,744,Marcelo Mitelman,---,---,BRA,00:46:17,02:54:37,02:33:49,00:07:06,00:07:11,06:29:00
+ironman-70.3-pucon-20140112.csv,745,Daniel Fuentes,---,---,URY,00:30:28,02:22:15,01:49:53,00:04:56,00:03:15,04:50:47
+ironman-70.3-pucon-20140112.csv,746,Giulio Innocenti Jimenez,---,---,CHL,00:32:42,02:32:37,01:39:19,00:03:14,00:02:18,04:50:10
+ironman-70.3-pucon-20140112.csv,747,Cesar Riffo,---,---,CHL,00:45:15,02:49:19,02:32:24,00:04:25,00:03:41,06:15:04
+ironman-70.3-pucon-20140112.csv,748,Claudio Hurtado Sepúlveda,---,---,CHL,00:36:19,02:44:47,02:40:32,00:05:01,00:03:39,06:10:18
+ironman-70.3-pucon-20140112.csv,749,Alexander Piquer,---,---,USA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,750,Carlos Sebastian Martinez Sanchez,---,---,URY,00:32:56,02:43:28,02:09:31,00:03:29,00:03:18,05:32:42
+ironman-70.3-pucon-20140112.csv,751,Felipe Donoso,40,Intl State,CHL,00:28:19,02:27:06,01:37:47,00:02:51,00:02:47,04:38:50
+ironman-70.3-pucon-20140112.csv,752,Gustavo Daniel Ibarra,---,---,ARG,00:30:02,02:27:38,01:32:24,00:03:06,00:02:09,04:35:19
+ironman-70.3-pucon-20140112.csv,753,Ruben Machuca,40,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,754,Rodrigo Nilo Poyanco,---,---,CHL,---,02:35:05,02:13:02,---,00:02:49,04:50:56
+ironman-70.3-pucon-20140112.csv,755,Juan Pablo Acevedo Ferrer,---,---,CHL,00:42:53,04:02:25,02:32:23,00:05:19,00:04:45,07:27:45
+ironman-70.3-pucon-20140112.csv,756,Eduardo Ernesto Fuentes Jara,---,---,CHL,00:40:35,02:51:42,01:58:39,00:03:44,00:03:21,05:38:01
+ironman-70.3-pucon-20140112.csv,757,Juan Pablo Van De Wyngard Véliz,---,---,CHL,00:35:33,02:37:02,01:57:49,00:04:07,00:03:59,05:18:30
+ironman-70.3-pucon-20140112.csv,758,Caio Rogerio Simão,---,---,BRA,00:39:37,03:08:41,02:26:48,00:04:25,00:04:07,06:23:38
+ironman-70.3-pucon-20140112.csv,759,Mario Diemoz,---,---,CHL,---,02:53:47,02:33:07,---,00:02:56,05:29:50
+ironman-70.3-pucon-20140112.csv,760,Rodrigo Valenzuela,---,---,CHL,00:32:22,02:37:35,01:33:09,00:03:00,00:02:17,04:48:23
+ironman-70.3-pucon-20140112.csv,761,Andrew Wetzel,---,---,USA,00:36:42,03:22:44,02:36:31,00:05:50,00:05:01,06:46:48
+ironman-70.3-pucon-20140112.csv,762,Shaun Sheffield,---,---,USA,00:36:18,02:46:29,01:57:02,00:03:53,00:03:33,05:27:15
+ironman-70.3-pucon-20140112.csv,763,Felipe Gustavo Gonzalez Bustamante,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,764,Enrique Pérez Torres,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,765,Cristian Alvarado Cristi,---,---,CHL,00:37:09,03:05:36,02:01:43,00:04:00,00:03:29,05:51:57
+ironman-70.3-pucon-20140112.csv,766,Patricio Jarpa,42,---,CHL,00:36:09,03:00:29,01:54:13,00:03:34,00:02:40,05:37:05
+ironman-70.3-pucon-20140112.csv,767,Diego Pereyra,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,768,Marcelo Alejandro Gallegos Martinez,---,---,CHL,00:35:31,02:31:13,01:31:31,00:03:49,00:02:39,04:44:43
+ironman-70.3-pucon-20140112.csv,769,Mauricio Sidotti,---,---,ARG,00:33:24,03:04:06,02:38:35,00:05:09,00:05:19,06:26:33
+ironman-70.3-pucon-20140112.csv,770,Carlos Alberto Aravena Campos,---,---,CHL,00:44:24,02:44:55,02:24:04,00:05:06,00:04:42,06:03:11
+ironman-70.3-pucon-20140112.csv,771,Juan Pablo Jaures Armijo,---,---,CHL,00:30:14,02:37:01,01:39:38,00:03:29,00:02:32,04:52:54
+ironman-70.3-pucon-20140112.csv,772,Rodrigo Feldstedt,---,---,CHL,00:39:14,02:41:34,02:06:27,00:04:07,00:04:41,05:36:03
+ironman-70.3-pucon-20140112.csv,773,Ivan Andres Acuña Albornoz,---,---,CHL,00:38:21,02:42:51,01:54:41,00:04:45,00:04:04,05:24:42
+ironman-70.3-pucon-20140112.csv,774,Juan Carlos Grez,40,---,CHL,00:36:23,02:45:43,01:56:32,00:04:41,00:03:32,05:26:51
+ironman-70.3-pucon-20140112.csv,775,Jose Joaquin Matte Diaz,---,---,CHL,00:36:24,02:43:51,02:13:00,00:04:51,00:04:05,05:42:11
+ironman-70.3-pucon-20140112.csv,776,Cristian Eduardo Giaconi,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,777,Pablo Marcos,---,---,ARG,00:31:51,02:53:02,02:14:37,00:03:06,00:03:13,05:45:49
+ironman-70.3-pucon-20140112.csv,778,Gabriel Alejandro Fedczuk,---,---,ARG,00:30:33,02:49:30,01:51:44,00:04:19,00:03:04,05:19:10
+ironman-70.3-pucon-20140112.csv,779,Daniel Osvaldo Ubilla Baier,---,---,CHL,00:38:52,02:58:28,02:21:46,00:05:26,00:05:04,06:09:36
+ironman-70.3-pucon-20140112.csv,780,Eduardo Alberto Allou Origgi,---,---,ARG,00:42:17,03:12:19,02:10:41,00:03:59,00:03:28,06:12:44
+ironman-70.3-pucon-20140112.csv,781,Mateo Hernan Orlandini,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,782,Enrique Javier Ortiz Cardemil,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,783,Eugenio Andres Vargas Larrain,---,---,CHL,00:37:39,02:48:34,01:54:15,00:05:04,00:03:41,05:29:13
+ironman-70.3-pucon-20140112.csv,784,Ignacio Cifuentes Lorenzen,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,785,Norberto Javier Soto,---,---,ARG,00:27:41,02:39:30,02:01:31,00:03:47,00:02:54,05:15:23
+ironman-70.3-pucon-20140112.csv,786,Oscar Rodrigo Pradenas Auspont,---,---,CHL,00:37:24,02:52:23,01:47:00,00:05:00,00:02:59,05:24:46
+ironman-70.3-pucon-20140112.csv,787,Carlos Alfredo Villalobos Sandoval,---,---,CHL,00:41:29,03:14:01,03:07:58,00:05:45,00:03:59,07:13:12
+ironman-70.3-pucon-20140112.csv,788,Ricardo Riesco,---,---,CHL,00:32:48,02:44:12,01:50:10,00:04:14,00:03:39,05:15:03
+ironman-70.3-pucon-20140112.csv,789,Pablo Camilleri Borg,---,---,ARG,00:35:54,02:55:01,02:31:25,00:03:30,00:03:37,06:09:27
+ironman-70.3-pucon-20140112.csv,790,Rodrigo Pincheira Encina,---,---,CHL,00:32:31,02:45:30,01:43:01,00:03:16,00:02:36,05:06:54
+ironman-70.3-pucon-20140112.csv,791,Hernan Matias Taddeo,---,---,ARG,00:30:47,02:22:48,01:51:18,00:04:01,00:02:18,04:51:12
+ironman-70.3-pucon-20140112.csv,792,Paulo Marcelo Andrade,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,793,Oscar Torres Castillo,---,---,CHL,00:39:04,03:02:50,02:38:22,00:06:01,00:04:08,06:30:25
+ironman-70.3-pucon-20140112.csv,794,Rodrigo Cardenas,---,---,CHL,00:31:48,02:32:00,01:44:27,00:03:22,00:03:04,04:54:41
+ironman-70.3-pucon-20140112.csv,795,Marcelo Gerardo Vasuez Silva,---,---,ARG,00:42:33,03:29:56,02:27:08,00:05:52,00:04:18,06:49:47
+ironman-70.3-pucon-20140112.csv,796,Pablo Andres Armijo Espinoza,---,---,CHL,00:41:37,02:48:50,01:53:04,00:03:57,00:04:11,05:31:39
+ironman-70.3-pucon-20140112.csv,797,Fernando Andrés Heredia,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,798,Xavier Costantini,---,---,FRA,00:44:25,03:10:50,02:14:08,00:05:31,00:04:23,06:19:17
+ironman-70.3-pucon-20140112.csv,799,Alejandro Mehech Bonati,---,---,CHL,00:32:17,02:45:11,01:56:53,00:03:51,00:03:55,05:22:07
+ironman-70.3-pucon-20140112.csv,800,Denis Van Immerseel,43,Lima,---,00:35:45,02:30:25,01:56:15,00:05:02,00:03:17,05:10:44
+ironman-70.3-pucon-20140112.csv,801,Cristobal Duke,---,---,CHL,00:33:21,03:07:09,02:14:38,00:04:58,00:05:14,06:05:20
+ironman-70.3-pucon-20140112.csv,802,Víctor Hugo Gallardo Dimter,---,---,CHL,01:01:46,03:07:15,02:16:27,00:09:39,00:05:43,06:40:50
+ironman-70.3-pucon-20140112.csv,803,Francisco Avendaño Muño,---,---,CHL,00:37:35,02:52:51,02:27:24,00:04:35,00:03:06,06:05:31
+ironman-70.3-pucon-20140112.csv,804,Pablo Lopez Araya,43,Army Asia,CHL,00:32:23,02:59:12,02:39:22,00:04:30,00:04:23,06:19:50
+ironman-70.3-pucon-20140112.csv,805,Gianfranco Cassinelli Gorigoitía,---,---,CHL,00:53:35,02:58:25,02:25:43,00:04:04,00:03:16,06:25:03
+ironman-70.3-pucon-20140112.csv,806,Cesar Fuentes Picero,---,---,CHL,00:36:02,02:34:44,01:45:32,00:04:06,00:03:33,05:03:57
+ironman-70.3-pucon-20140112.csv,807,Christian Eugenio Barrera Alvear,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,808,Juan Pablo Ojeda,---,---,CHL,00:38:06,03:04:57,02:37:15,00:04:43,00:03:42,06:28:43
+ironman-70.3-pucon-20140112.csv,809,Edgar Altamirano,---,---,CHL,00:38:32,02:44:26,02:18:02,00:04:39,00:03:44,05:49:23
+ironman-70.3-pucon-20140112.csv,810,Francisco Silva Urzúa,---,---,CHL,00:46:14,03:07:06,02:31:33,00:05:43,00:03:48,06:34:24
+ironman-70.3-pucon-20140112.csv,811,Patricio Enrique Droguett Sepúlveda,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,812,Pablo Retegui,---,---,ARG,---,02:25:27,02:23:16,---,00:03:16,04:51:59
+ironman-70.3-pucon-20140112.csv,813,Andres Pi Paredes,---,---,CHL,00:40:30,03:22:27,02:58:37,00:05:23,00:04:37,07:11:34
+ironman-70.3-pucon-20140112.csv,814,Patricio Miguel Jaca,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,815,Cristián Vilches Henríquez,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,816,Diego Volpini,---,---,ARG,00:32:32,02:41:56,01:52:59,00:03:31,00:02:58,05:13:56
+ironman-70.3-pucon-20140112.csv,817,Alexandre Batista Pinto,---,---,BRA,00:32:14,02:35:58,01:53:49,00:03:45,00:02:32,05:08:18
+ironman-70.3-pucon-20140112.csv,818,Cristian Amaro Perez De Castro,---,---,CHL,01:01:49,02:56:10,02:15:58,00:07:09,00:05:38,06:26:44
+ironman-70.3-pucon-20140112.csv,819,Rodrigo Javier Gatica Fuentealba,---,---,CHL,00:45:01,02:49:48,02:50:57,00:04:20,00:03:34,06:33:40
+ironman-70.3-pucon-20140112.csv,820,Rodrigo Antonio Alarcon Varela,---,---,CHL,00:34:29,02:46:33,02:28:07,00:04:05,00:03:10,05:56:24
+ironman-70.3-pucon-20140112.csv,821,John Murnane,---,---,USA,00:39:23,03:15:20,02:11:21,00:06:47,00:06:27,06:19:18
+ironman-70.3-pucon-20140112.csv,822,Dario Alejandro Andrade Carmona,---,---,CHL,00:36:52,02:40:10,02:02:26,00:04:42,00:03:07,05:27:17
+ironman-70.3-pucon-20140112.csv,823,Francisco Correa Prado,---,---,CHL,00:37:47,02:41:16,01:59:08,00:03:58,00:03:12,05:25:21
+ironman-70.3-pucon-20140112.csv,824,Luis Manuel Falquez Alcivar,---,---,ECU,00:43:16,03:03:01,02:38:15,00:06:33,00:07:39,06:38:44
+ironman-70.3-pucon-20140112.csv,825,Pablo Roberto Cevallos Fonseca,---,---,ECU,00:44:50,02:45:45,02:04:45,00:04:50,00:03:41,05:43:51
+ironman-70.3-pucon-20140112.csv,826,Patricio Vasquez,40,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,827,Marco Antonio Rammsy C.,---,---,CHL,00:45:27,02:53:36,02:03:59,00:03:42,00:03:26,05:50:10
+ironman-70.3-pucon-20140112.csv,828,Raul Manuel Donoso Zagal,---,---,CHL,00:36:24,02:43:25,01:45:58,00:03:50,00:02:44,05:12:21
+ironman-70.3-pucon-20140112.csv,829,Guillermo Acuña,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,830,Rodrigo Vega,---,---,CHL,00:39:55,02:36:01,01:56:58,00:03:55,00:03:40,05:20:29
+ironman-70.3-pucon-20140112.csv,831,Marcelo Peral,39,Intl State,BRA,00:44:20,03:01:47,02:23:53,00:07:55,00:04:49,06:22:44
+ironman-70.3-pucon-20140112.csv,832,Carlos Exequiel O'Rian Herrera,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,833,Lisandro Illa,---,---,ARG,00:31:50,02:53:06,02:00:23,00:03:11,00:02:13,05:30:43
+ironman-70.3-pucon-20140112.csv,834,Eduardo Adrian Cerimedo,---,---,ARG,00:30:16,02:39:07,01:57:42,00:03:14,00:03:53,05:14:12
+ironman-70.3-pucon-20140112.csv,835,Guillermo Enrique Moreno Riffo,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,836,Andre Ricardo De Carvalho Portugal,---,---,BRA,00:36:52,03:06:22,02:20:52,00:04:46,00:03:55,06:12:47
+ironman-70.3-pucon-20140112.csv,837,Mauricio Fernando Ramirez Alarcon,---,---,CHL,00:36:23,02:44:42,01:50:57,00:04:12,00:02:47,05:19:01
+ironman-70.3-pucon-20140112.csv,838,Marcelo Rodrigo Casanueva Claissac,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,839,Bruno Rolf Hauenstein Araya,---,---,CHL,00:36:55,02:39:34,02:00:48,00:02:56,00:03:07,05:23:20
+ironman-70.3-pucon-20140112.csv,840,Juan Jose Pascual Sole,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,841,Francisco Javier Perez Montenegro,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,842,Dan Dvorquez,---,---,CHL,00:34:12,02:37:50,01:55:00,00:03:43,00:03:03,05:13:48
+ironman-70.3-pucon-20140112.csv,843,Mauricio Batikoff,---,---,CHL,00:37:56,03:04:06,01:45:04,00:04:39,00:04:26,05:36:11
+ironman-70.3-pucon-20140112.csv,844,Sebastian Sarries,---,---,ARG,00:29:05,02:33:53,01:45:58,00:03:03,00:02:39,04:54:38
+ironman-70.3-pucon-20140112.csv,845,Héctor Patricio Espinoza Canessa,---,---,CHL,00:39:42,02:58:28,02:14:34,00:04:34,00:03:57,06:01:15
+ironman-70.3-pucon-20140112.csv,846,Pablo Tokos Larrain,---,---,CHL,00:32:23,02:35:16,01:49:39,00:03:39,00:03:45,05:04:42
+ironman-70.3-pucon-20140112.csv,847,Nicolas Muzi,---,---,ARG,00:30:07,02:31:22,01:34:24,00:03:06,00:02:48,04:41:47
+ironman-70.3-pucon-20140112.csv,848,Mauricio Andres Zurita Escobar,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,849,Felipe Coeymans,---,---,CHL,---,02:38:53,00:44:55,---,02:03:41,05:27:29
+ironman-70.3-pucon-20140112.csv,850,Pablo Ruiz Mateos,---,---,---,00:32:31,02:47:45,01:55:32,00:03:19,00:02:32,05:21:39
+ironman-70.3-pucon-20140112.csv,851,Jorge Benitez,---,---,ARG,00:39:46,02:50:28,02:08:37,00:03:55,00:03:40,05:46:26
+ironman-70.3-pucon-20140112.csv,852,Romke Jonker,---,---,---,00:36:43,03:07:21,02:12:28,00:04:56,00:03:36,06:05:04
+ironman-70.3-pucon-20140112.csv,853,Mariano Javier Richetta,---,---,ARG,00:30:06,02:50:37,02:16:04,00:04:03,00:03:52,05:44:42
+ironman-70.3-pucon-20140112.csv,854,Marcos Eddy Hernández Barrasa,---,---,CHL,00:47:06,02:45:48,02:12:15,00:04:48,00:03:41,05:53:38
+ironman-70.3-pucon-20140112.csv,855,Rodrigo Andres Villegas Trejo,---,---,CHL,00:52:17,02:49:52,01:57:34,00:05:57,00:03:22,05:49:02
+ironman-70.3-pucon-20140112.csv,856,Gabriel Recabal Echague,---,---,CHL,00:45:16,03:35:58,02:54:16,00:06:24,00:05:40,07:27:34
+ironman-70.3-pucon-20140112.csv,857,Gerson Jefte Rivera Garces,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,858,Victor Yamil Massri Aguilera,---,---,CHL,00:32:25,02:39:59,01:48:32,00:02:55,00:02:27,05:06:18
+ironman-70.3-pucon-20140112.csv,859,Rodrigo Enrique Valencia Pérez,---,---,CHL,00:42:15,02:47:43,02:34:42,00:04:34,00:03:30,06:12:44
+ironman-70.3-pucon-20140112.csv,860,Carlos Alberto Vasquez Cofré,---,---,CHL,00:42:24,02:46:36,02:21:59,00:04:48,00:04:34,06:00:21
+ironman-70.3-pucon-20140112.csv,861,Manoel Pedro Guimaraes,---,---,BRA,00:36:25,02:55:51,02:24:32,00:05:29,00:05:05,06:07:22
+ironman-70.3-pucon-20140112.csv,862,Vicente Rodrigo Bobadilla Chávez,---,---,CHL,00:27:17,02:26:09,01:30:26,00:03:26,00:02:51,04:30:09
+ironman-70.3-pucon-20140112.csv,863,Felipe Calderon,41,---,CHL,00:37:02,02:40:50,02:14:57,00:04:21,00:04:17,05:41:27
+ironman-70.3-pucon-20140112.csv,864,Alejandro Javier Rubio Lozano,---,---,CHL,00:42:12,03:23:01,02:56:20,00:05:15,00:04:07,07:10:55
+ironman-70.3-pucon-20140112.csv,865,Jorge Araya Zamorano,---,---,CHL,00:43:45,03:10:08,02:35:55,00:07:53,00:06:20,06:44:01
+ironman-70.3-pucon-20140112.csv,866,César Aguirre,---,---,CHL,00:40:57,02:37:26,01:55:16,00:03:37,00:03:38,05:20:54
+ironman-70.3-pucon-20140112.csv,867,Pablo Cesar Oñate Cartes,---,---,CHL,00:36:43,02:49:54,02:22:38,00:03:41,00:02:54,05:55:50
+ironman-70.3-pucon-20140112.csv,868,Santiago Gutierrez,---,---,ECU,00:35:32,02:32:11,01:40:09,00:03:31,00:02:47,04:54:10
+ironman-70.3-pucon-20140112.csv,869,Andrés Felipe Roessler Fernández,---,---,CHL,00:35:21,02:31:34,01:38:22,00:03:41,00:02:59,04:51:57
+ironman-70.3-pucon-20140112.csv,870,Rene Patricio De La Rosa Osses,---,---,CHL,01:00:19,03:12:40,02:09:55,00:05:29,00:04:19,06:32:42
+ironman-70.3-pucon-20140112.csv,881,Sergio Espinoza Guarda,---,---,CHL,00:33:54,02:41:14,01:47:55,00:03:26,00:03:15,05:09:44
+ironman-70.3-pucon-20140112.csv,882,Erick Claudio Toledo Venegas,---,---,CHL,00:37:22,03:03:33,02:02:55,00:05:01,00:03:45,05:52:36
+ironman-70.3-pucon-20140112.csv,883,Cesar Andres Alvarez Henriquez,---,---,CHL,00:30:22,02:47:14,01:57:39,00:03:19,00:02:47,05:21:21
+ironman-70.3-pucon-20140112.csv,884,Martin Bravo,---,---,ARG,00:31:55,02:29:24,01:32:59,00:03:29,00:02:36,04:40:23
+ironman-70.3-pucon-20140112.csv,885,Andres Tappata,---,---,ARG,00:29:30,02:30:25,02:00:42,00:03:19,00:03:09,05:07:05
+ironman-70.3-pucon-20140112.csv,886,Diego Martin Castro,---,---,ARG,00:31:25,02:27:08,01:40:21,00:03:34,00:03:06,04:45:34
+ironman-70.3-pucon-20140112.csv,887,Mauricio Streitenberger,---,---,ARG,00:40:42,02:38:35,01:53:44,00:04:58,00:03:05,05:21:04
+ironman-70.3-pucon-20140112.csv,888,Rodrigo  Wilson Moure Dos Reis Andrade,---,---,BRA,00:31:52,02:41:29,02:06:44,00:04:30,00:03:04,05:27:39
+ironman-70.3-pucon-20140112.csv,889,Juan Pablo Ruiz Villena,---,---,CHL,---,---,---,---,---,DQ
+ironman-70.3-pucon-20140112.csv,890,Hugo Treglia Villalba,---,---,URY,00:28:58,02:25:54,01:47:22,00:02:40,00:02:42,04:47:36
+ironman-70.3-pucon-20140112.csv,891,Rodolfo Bastias Lemp,---,---,CHL,00:33:01,02:41:40,01:52:53,00:05:30,00:02:51,05:15:55
+ironman-70.3-pucon-20140112.csv,892,Brian Macdonald  Guerrero,---,---,CHL,00:35:00,02:50:34,02:17:46,00:04:55,00:03:21,05:51:36
+ironman-70.3-pucon-20140112.csv,893,Ivan Cristian Riquelme Montero,---,---,CHL,00:41:55,02:53:21,02:20:42,00:04:20,00:03:05,06:03:23
+ironman-70.3-pucon-20140112.csv,894,Leonel Alejandro Santana,---,---,ARG,00:37:23,02:45:02,02:09:02,00:04:00,00:04:10,05:39:37
+ironman-70.3-pucon-20140112.csv,895,Felipe Donoso-Torres Labra,36,---,CHL,00:35:16,02:55:44,01:56:40,00:04:10,00:02:40,05:34:30
+ironman-70.3-pucon-20140112.csv,896,Jaime Francisco Larenas Garces,---,---,CHL,00:32:20,02:40:28,01:52:52,00:04:54,00:04:15,05:14:49
+ironman-70.3-pucon-20140112.csv,897,Mike Morelli,---,---,USA,00:36:21,02:51:39,02:07:32,00:04:51,00:03:34,05:43:57
+ironman-70.3-pucon-20140112.csv,898,Martin Quinteros,---,---,CHL,00:34:23,02:50:03,01:40:23,00:03:32,00:03:24,05:11:45
+ironman-70.3-pucon-20140112.csv,899,Ivan Barrientos Vargas,---,---,CHL,00:32:15,02:35:09,01:42:02,00:03:10,00:02:19,04:54:55
+ironman-70.3-pucon-20140112.csv,900,Ariel Andres Abramovich Castro,---,---,CHL,00:41:21,03:00:45,02:31:37,00:04:45,00:03:54,06:22:22
+ironman-70.3-pucon-20140112.csv,901,Freddy Tomas Estefania Cañas,---,---,CHL,00:40:29,02:54:45,02:07:06,00:05:07,00:03:46,05:51:13
+ironman-70.3-pucon-20140112.csv,902,Andrés Maximiliano Rojas Palacios,---,---,CHL,00:35:27,02:47:00,02:24:24,00:03:49,00:03:42,05:54:22
+ironman-70.3-pucon-20140112.csv,903,Eduardo Arias,---,---,CHL,00:34:00,02:41:21,01:44:35,00:03:38,00:02:37,05:06:11
+ironman-70.3-pucon-20140112.csv,904,Ernesto Paulino Meza Lopez,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,905,Guillermo Tapia Sepúlveda,---,---,CHL,00:34:47,02:54:04,02:14:21,00:05:27,00:03:08,05:51:47
+ironman-70.3-pucon-20140112.csv,906,Rodrigo Larrea Pérez,---,---,CHL,00:33:04,02:48:27,01:42:33,00:03:40,00:04:37,05:12:21
+ironman-70.3-pucon-20140112.csv,907,Ricardo Rodolfo Cabrales Peña,---,---,CHL,00:31:43,02:47:52,02:07:12,00:03:21,00:02:46,05:32:54
+ironman-70.3-pucon-20140112.csv,908,Cristiano Goncalves,37,Minas Gerais,BRA,00:44:08,03:21:42,02:23:24,00:07:56,00:04:15,06:41:25
+ironman-70.3-pucon-20140112.csv,909,Javier Ernesto Hidalgo Segura,---,---,CHL,01:04:01,04:01:39,00:12:47,00:04:32,00:16:51,05:39:50
+ironman-70.3-pucon-20140112.csv,910,Nicolas Brumm J.,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,911,Ernesto Aramburu Valenzuela,---,---,CHL,00:33:45,02:25:18,01:48:05,00:03:10,00:02:27,04:52:45
+ironman-70.3-pucon-20140112.csv,912,Cristián Aspillaga Hurtado,---,---,CHL,00:29:51,02:37:44,01:48:13,00:03:08,00:02:25,05:01:21
+ironman-70.3-pucon-20140112.csv,913,Marc Jux,---,---,CHL,00:32:07,02:33:10,01:42:35,00:03:51,00:02:33,04:54:16
+ironman-70.3-pucon-20140112.csv,914,Patricio Santidrián,---,---,CHL,00:40:29,02:42:09,01:52:15,00:03:45,00:03:11,05:21:49
+ironman-70.3-pucon-20140112.csv,915,Mateus Vidigal,34,SAO PAULO,BRA,00:27:57,02:39:13,02:11:41,00:04:34,00:04:02,05:27:27
+ironman-70.3-pucon-20140112.csv,916,Waldo Rodrigo Gonzalez Guiñez,---,---,CHL,00:37:56,03:07:54,02:32:48,00:04:55,00:05:05,06:28:38
+ironman-70.3-pucon-20140112.csv,917,Rodrigo Alejandro Haristoy Ortiz,---,---,CHL,00:36:00,02:50:27,01:57:34,00:03:49,00:02:21,05:30:11
+ironman-70.3-pucon-20140112.csv,918,Héctor Eduardo Villegas Urrutia,---,---,CHL,00:32:25,03:03:01,01:50:32,00:04:08,00:02:49,05:32:55
+ironman-70.3-pucon-20140112.csv,919,Gaston Emerson Lopez,---,---,ARG,00:34:41,02:45:24,01:46:04,00:04:12,00:03:00,05:13:21
+ironman-70.3-pucon-20140112.csv,920,Ricardo Gunther Domke Meindl,---,---,CHL,00:40:00,03:04:16,02:16:21,00:05:09,00:03:31,06:09:17
+ironman-70.3-pucon-20140112.csv,921,Cristian Santelices Marambio,---,---,CHL,00:35:11,02:40:47,01:59:50,00:04:08,00:03:00,05:22:56
+ironman-70.3-pucon-20140112.csv,922,Bruno Pinna,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,923,Francisco Javier Díaz Soto,---,---,CHL,00:35:04,03:02:29,02:00:43,00:03:23,00:03:53,05:45:32
+ironman-70.3-pucon-20140112.csv,924,Andreas Juul Sorensen,---,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,925,Antonio Gutierrez Novoa,---,---,CHL,00:30:37,02:37:39,01:46:02,00:03:20,00:02:38,05:00:16
+ironman-70.3-pucon-20140112.csv,926,Horacio Lyon,---,---,CHL,00:47:52,02:43:18,01:58:20,00:03:53,00:03:08,05:36:31
+ironman-70.3-pucon-20140112.csv,927,Andres Cea Huidobro,---,---,CHL,00:35:01,02:47:26,02:07:19,00:03:10,00:04:11,05:37:07
+ironman-70.3-pucon-20140112.csv,928,Carlos Kmetiuk,---,---,ARG,00:31:36,02:36:18,01:53:33,00:02:52,00:02:30,05:06:49
+ironman-70.3-pucon-20140112.csv,929,Erico Gomes,34,CA,BRA,00:32:01,02:45:25,02:16:56,00:04:23,00:03:21,05:42:06
+ironman-70.3-pucon-20140112.csv,930,Giorgio Nattero,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,931,Jorge Andres Brain Valenzuela,---,---,CHL,---,03:34:18,02:57:34,---,00:03:04,06:34:56
+ironman-70.3-pucon-20140112.csv,932,Francisco Naveiro,---,---,ARG,00:31:48,02:35:25,01:59:33,00:03:35,00:02:47,05:13:08
+ironman-70.3-pucon-20140112.csv,933,Rodrigo Alberto Diaz Zamora,---,---,CHL,00:32:25,02:51:49,01:52:43,00:03:18,00:03:30,05:23:45
+ironman-70.3-pucon-20140112.csv,934,Daniel De Montreuil,---,---,PER,---,02:57:27,03:12:39,---,00:04:22,06:14:28
+ironman-70.3-pucon-20140112.csv,935,Antonio Alejandro Canales Angulo,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,936,Cristian Zanabria Lozecznik,---,---,CHL,00:31:51,02:43:16,02:04:17,00:03:45,00:02:29,05:25:38
+ironman-70.3-pucon-20140112.csv,937,Ivan Veloso,35,Lima,BRA,00:31:46,02:35:32,01:54:04,00:03:29,00:02:46,05:07:37
+ironman-70.3-pucon-20140112.csv,938,Daniel Vargas,---,---,CHL,00:44:32,02:59:06,02:14:33,00:05:49,00:04:02,06:08:02
+ironman-70.3-pucon-20140112.csv,939,Nicolas Ruiz Paz,---,---,ARG,00:34:03,02:39:48,01:46:57,00:02:57,00:02:33,05:06:18
+ironman-70.3-pucon-20140112.csv,940,Jan Christian Seumenicht Notholt,---,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,941,Edgardo Opazo,---,---,CHL,00:27:45,02:29:57,01:39:13,00:03:00,00:02:48,04:42:43
+ironman-70.3-pucon-20140112.csv,942,Alexander Alfredo Parra Gonzalez,---,---,CHL,00:38:54,02:47:35,01:59:45,00:03:36,00:03:12,05:33:02
+ironman-70.3-pucon-20140112.csv,943,Carlos Alberto Martinez Alvear,---,---,CHL,00:38:35,02:42:08,02:12:03,00:03:54,00:03:10,05:39:50
+ironman-70.3-pucon-20140112.csv,944,Jorge Gonzalez Calle,---,---,---,00:31:45,02:28:18,01:39:28,00:03:47,00:03:05,04:46:23
+ironman-70.3-pucon-20140112.csv,945,Jorge Daniel Bellido,---,---,ARG,00:32:19,02:46:26,02:21:10,00:04:23,00:03:15,05:47:33
+ironman-70.3-pucon-20140112.csv,946,Maximiliano Passadore,---,---,ARG,00:28:15,02:19:51,01:30:54,00:03:05,00:02:03,04:24:08
+ironman-70.3-pucon-20140112.csv,947,Felipe Casanova,---,---,CHL,00:32:44,02:45:53,01:47:19,00:03:41,00:02:21,05:11:58
+ironman-70.3-pucon-20140112.csv,948,Fernando Javier Gomez Rojas,---,---,CHL,00:52:25,03:20:09,02:55:49,00:04:52,00:04:18,07:17:33
+ironman-70.3-pucon-20140112.csv,949,Emiliano Tentella,---,---,ARG,---,02:26:14,02:05:59,---,00:02:24,04:34:37
+ironman-70.3-pucon-20140112.csv,950,Axel Jorge Labourt,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,951,Miguel Angel Pippo,---,---,ARG,00:29:05,02:38:44,01:48:36,00:02:58,00:02:59,05:02:22
+ironman-70.3-pucon-20140112.csv,952,Jacques De T Serclaes,---,---,---,00:42:40,02:58:12,02:06:25,00:04:47,00:03:32,05:55:36
+ironman-70.3-pucon-20140112.csv,953,Henry Alfred Pugh Riquelme,---,---,CHL,00:40:36,03:12:05,02:22:38,00:05:31,00:03:48,06:24:38
+ironman-70.3-pucon-20140112.csv,954,Alejandro Jimenez Loosli,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,955,Martin Richardet,---,---,ARG,00:34:48,02:53:24,02:23:24,00:07:05,00:03:56,06:02:37
+ironman-70.3-pucon-20140112.csv,956,Magnus Cesar Bouchardet Viana Dias,---,---,BRA,00:35:20,02:27:27,01:40:09,00:03:53,00:03:41,04:50:30
+ironman-70.3-pucon-20140112.csv,957,Alex Marcelo Saldaña Ibañez,---,---,CHL,---,03:03:35,02:47:04,---,00:03:50,05:54:29
+ironman-70.3-pucon-20140112.csv,958,Matias Antonio Tomic Nercasseau,---,---,CHL,00:37:57,02:40:25,02:00:30,00:03:46,00:03:46,05:26:24
+ironman-70.3-pucon-20140112.csv,959,Hieronymus Rodriguez Carbone,37,Intl State,PER,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,960,Pablo Sebastian Mendieta,---,---,ARG,00:31:40,02:43:29,01:54:28,00:03:38,00:03:37,05:16:52
+ironman-70.3-pucon-20140112.csv,961,Mario Campos,---,---,CHL,00:31:19,02:34:21,01:44:55,00:03:25,00:02:36,04:56:36
+ironman-70.3-pucon-20140112.csv,962,Adrian Ali,---,---,ARG,00:35:13,02:52:46,01:51:00,00:04:50,00:03:35,05:27:24
+ironman-70.3-pucon-20140112.csv,963,Gustavo Pascual Sanchez,---,---,ARG,00:37:06,02:38:29,01:45:15,00:03:44,00:02:42,05:07:16
+ironman-70.3-pucon-20140112.csv,964,Mariano Jorge Davalli,---,---,ARG,00:30:12,02:38:47,01:51:13,00:03:40,00:02:11,05:06:03
+ironman-70.3-pucon-20140112.csv,965,Felipe Bezerra,34,MG,BRA,00:41:33,03:29:23,02:11:18,00:10:32,00:07:10,06:39:56
+ironman-70.3-pucon-20140112.csv,966,Gaston Duran,---,---,ARG,00:31:45,02:26:58,01:37:27,00:03:28,00:02:29,04:42:07
+ironman-70.3-pucon-20140112.csv,967,Fabio Urban,37,SP,BRA,00:34:22,03:09:39,02:30:03,00:06:42,00:04:39,06:25:25
+ironman-70.3-pucon-20140112.csv,968,Francisco Soto Rojas,---,---,CHL,00:32:45,02:47:59,01:54:45,00:06:02,00:07:00,05:28:31
+ironman-70.3-pucon-20140112.csv,969,Javier Tisi,---,---,CHL,00:27:05,02:37:26,01:42:27,00:03:16,00:04:24,04:54:38
+ironman-70.3-pucon-20140112.csv,970,Sebastian Ignacio Barrios Jullian,---,---,CHL,00:30:19,02:37:32,01:35:43,00:03:17,00:02:31,04:49:22
+ironman-70.3-pucon-20140112.csv,971,Pablo Rabindranath Gonzalez Gonzalez,---,---,CHL,00:40:05,02:57:52,02:20:44,00:04:57,00:03:41,06:07:19
+ironman-70.3-pucon-20140112.csv,972,Marcelo Augusto Rocha Lima,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,973,Andre Ribeiro,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,974,Emilio Hernandez,---,---,---,---,02:42:57,02:25:24,---,00:03:51,05:12:12
+ironman-70.3-pucon-20140112.csv,975,Nicolas Donoso,---,---,CHL,00:35:45,02:49:28,01:56:05,00:03:40,00:03:14,05:28:12
+ironman-70.3-pucon-20140112.csv,976,Fabio Valeriano Macarenko,---,---,BRA,00:36:32,02:50:11,01:47:37,00:04:21,00:03:00,05:21:41
+ironman-70.3-pucon-20140112.csv,977,Hernán Marcelo Droguett Arce,---,---,CHL,00:37:33,03:06:08,02:16:08,00:04:25,00:03:24,06:07:38
+ironman-70.3-pucon-20140112.csv,978,Alvaro Mendez Muller,---,---,CHL,00:37:17,02:35:02,01:49:55,00:03:43,00:02:43,05:08:40
+ironman-70.3-pucon-20140112.csv,979,Andres Leonardo Jurado Montoya,---,---,COL,00:36:57,02:49:03,01:54:22,00:03:44,00:02:46,05:26:52
+ironman-70.3-pucon-20140112.csv,980,Rodrigo Andres Nagel Palomino,---,---,CHL,00:41:43,03:35:22,02:34:27,00:05:53,00:07:00,07:04:25
+ironman-70.3-pucon-20140112.csv,981,Facundo Porolli,---,---,ARG,00:40:46,03:14:50,02:16:22,00:04:46,00:03:33,06:20:17
+ironman-70.3-pucon-20140112.csv,982,Diego Hernan Castro,---,---,ARG,00:47:12,03:06:41,02:00:16,00:04:36,00:03:19,06:02:04
+ironman-70.3-pucon-20140112.csv,983,Freddy Saavedra,---,---,CHL,00:31:25,03:05:31,02:14:28,00:04:49,00:04:50,06:01:03
+ironman-70.3-pucon-20140112.csv,984,Andres Urenda,---,---,CHL,00:40:41,03:20:12,02:48:06,00:05:03,00:04:31,06:58:33
+ironman-70.3-pucon-20140112.csv,985,Jorge Alejandro Salazar Andrade,---,---,CHL,00:40:37,02:57:43,02:29:01,00:05:10,00:03:48,06:16:19
+ironman-70.3-pucon-20140112.csv,986,Hernan Jofre Sarmiento,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,987,Cruiff Emerson Pinto Da Silva,---,---,BRA,00:38:11,02:34:16,01:57:06,00:04:37,00:02:55,05:17:05
+ironman-70.3-pucon-20140112.csv,988,Horacio Medina Riveros,---,---,CHL,00:44:54,02:39:55,02:19:51,00:03:45,00:03:18,05:51:43
+ironman-70.3-pucon-20140112.csv,989,Maximiliano Lara Rivas,---,---,CHL,00:31:56,02:51:33,02:03:46,00:15:42,00:03:10,05:46:07
+ironman-70.3-pucon-20140112.csv,990,Borja Homs,---,---,---,---,02:52:38,02:32:30,---,00:03:18,05:28:26
+ironman-70.3-pucon-20140112.csv,991,Albert Juncosa Del Llano,35,---,---,00:31:38,02:44:14,01:34:44,00:03:08,00:02:21,04:56:05
+ironman-70.3-pucon-20140112.csv,992,Alex Marín Rubís,---,---,---,00:56:55,02:44:36,02:14:01,00:03:36,00:03:40,06:02:48
+ironman-70.3-pucon-20140112.csv,993,Martin Arnaldo Chapochnikoff,---,---,ARG,00:27:03,02:21:29,01:30:53,00:02:42,00:02:05,04:24:12
+ironman-70.3-pucon-20140112.csv,994,Sergio Alfredo Alzérreca Nova,---,---,CHL,00:27:11,02:24:05,02:58:10,00:03:07,00:03:14,05:55:47
+ironman-70.3-pucon-20140112.csv,995,Matias Miguel Giorgetti,---,---,ARG,00:34:50,03:35:44,02:58:57,00:06:00,00:05:47,07:21:18
+ironman-70.3-pucon-20140112.csv,996,Francisco Sebastián Laymuns Heilmaier,---,---,CHL,00:28:58,03:00:27,02:04:30,00:04:12,00:03:18,05:41:25
+ironman-70.3-pucon-20140112.csv,997,Antonio Turner,---,---,CHL,00:35:26,02:55:17,02:08:35,00:04:00,00:02:49,05:46:07
+ironman-70.3-pucon-20140112.csv,998,Alexis Molina Barrientos,---,---,CHL,00:35:14,02:41:42,01:56:35,00:03:50,00:03:22,05:20:43
+ironman-70.3-pucon-20140112.csv,999,Oscar Eduardo Uicich,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1000,Maximiliano Morales,---,---,ARG,00:27:41,02:21:13,01:25:51,00:02:42,00:02:26,04:19:53
+ironman-70.3-pucon-20140112.csv,1001,Rodrigo Marcelo Parra Fuentes,---,---,CHL,00:29:56,02:39:13,02:06:17,00:03:26,00:03:45,05:22:37
+ironman-70.3-pucon-20140112.csv,1002,Emilio Quiroz,---,---,CHL,00:40:53,02:54:22,01:53:55,00:03:53,00:02:46,05:35:49
+ironman-70.3-pucon-20140112.csv,1003,Alejandro Javier Kotlik Aguilera,---,---,CHL,00:37:33,02:56:11,02:07:32,00:06:52,00:05:05,05:53:13
+ironman-70.3-pucon-20140112.csv,1004,Aurelio Rofolfo Rios Dulansky,---,---,CHL,00:34:12,02:41:43,01:48:33,00:03:02,00:02:28,05:09:58
+ironman-70.3-pucon-20140112.csv,1005,Camilo Jimenez,---,---,CHL,00:37:55,02:52:37,02:02:39,00:04:41,00:04:34,05:42:26
+ironman-70.3-pucon-20140112.csv,1006,Mario Alejandro Sepulveda Miranda,---,---,CHL,00:36:58,02:42:02,02:05:05,00:04:05,00:03:31,05:31:41
+ironman-70.3-pucon-20140112.csv,1007,Patricio Maravilla Ayerza,---,---,ARG,00:32:15,02:47:09,02:04:31,00:04:11,00:03:36,05:31:42
+ironman-70.3-pucon-20140112.csv,1008,Pablo Stark Trigub Clover,---,---,ARG,00:33:27,02:38:20,01:48:32,00:03:24,00:02:37,05:06:20
+ironman-70.3-pucon-20140112.csv,1009,Javier Carlin Merino,---,---,CHL,00:47:07,03:54:32,02:26:18,00:06:57,00:05:11,07:20:05
+ironman-70.3-pucon-20140112.csv,1010,Marcelo Cardenas,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1011,Murilo Barizon,---,---,BRA,00:29:57,02:37:20,02:12:41,00:06:57,00:03:26,05:30:21
+ironman-70.3-pucon-20140112.csv,1012,Francisco Pablo Benitez Illanes,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1013,Eduardo Andres Castro Checura,---,---,CHL,00:31:43,02:51:49,02:04:53,00:04:53,00:04:11,05:37:29
+ironman-70.3-pucon-20140112.csv,1014,Victor Flores Johnson,---,---,CHL,00:28:59,02:32:08,01:42:47,00:03:21,00:02:55,04:50:10
+ironman-70.3-pucon-20140112.csv,1015,Marcos Arruda,---,---,BRA,00:31:40,02:46:15,02:41:18,00:05:38,00:06:54,06:11:45
+ironman-70.3-pucon-20140112.csv,1016,Nicolas Livacic,---,---,CHL,00:34:55,02:41:05,02:03:37,00:03:59,00:02:36,05:26:12
+ironman-70.3-pucon-20140112.csv,1017,Jorge Edmundo Coloma Parra,---,---,CHL,00:41:42,02:57:52,02:13:52,00:04:12,00:04:16,06:01:54
+ironman-70.3-pucon-20140112.csv,1018,Francisco Jimenez Lopez,---,---,CHL,00:32:30,02:35:06,01:47:23,00:03:52,00:02:21,05:01:12
+ironman-70.3-pucon-20140112.csv,1019,Rodrigo Ballivián Searle,---,---,CHL,00:32:08,02:47:59,02:07:17,00:03:47,00:03:48,05:34:59
+ironman-70.3-pucon-20140112.csv,1020,Pablo Fernando Pizarro Bizama,---,---,CHL,---,02:47:01,03:00:39,---,00:02:46,05:50:26
+ironman-70.3-pucon-20140112.csv,1021,Matias Medici,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1022,Gonzalo Francisco Pujol Palma,---,---,CHL,00:47:21,03:14:58,02:04:28,00:06:16,00:04:48,06:17:51
+ironman-70.3-pucon-20140112.csv,1023,Pablo Saiz,---,---,ARG,00:31:57,02:44:49,01:49:38,00:04:12,00:02:59,05:13:35
+ironman-70.3-pucon-20140112.csv,1024,Raúl Luis Real Píriz,36,montevideo,URY,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1025,Patric Du Belloy Da Forno,---,---,CHL,00:43:42,02:56:38,02:49:42,00:04:29,00:03:30,06:38:01
+ironman-70.3-pucon-20140112.csv,1026,Juan Esteban Ortiz Topali,---,---,CHL,00:29:01,02:29:40,01:49:30,00:03:19,00:02:33,04:54:03
+ironman-70.3-pucon-20140112.csv,1027,Hector Dianer Larenas Molinet,---,---,CHL,---,02:41:42,02:25:08,---,00:05:18,05:12:08
+ironman-70.3-pucon-20140112.csv,1028,German Decker,---,---,ARG,00:31:40,02:39:57,01:59:26,00:03:58,00:03:13,05:18:14
+ironman-70.3-pucon-20140112.csv,1029,Matias Larraburu,36,buenos aires,ARG,00:31:31,02:35:11,01:51:17,00:04:11,00:02:51,05:05:01
+ironman-70.3-pucon-20140112.csv,1030,Jesus Fabian Martinez Moreno,---,---,---,00:40:54,02:38:01,01:58:46,00:04:07,00:02:52,05:24:40
+ironman-70.3-pucon-20140112.csv,1031,Claudio Andres Nieto Jimenez,---,---,CHL,00:26:17,02:25:02,01:36:23,00:03:12,00:02:22,04:33:16
+ironman-70.3-pucon-20140112.csv,1032,Pablo Sebastián Pérez,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1033,Sergio Fernando Conde,---,---,ARG,00:38:00,02:35:55,01:47:45,00:04:53,00:03:24,05:09:57
+ironman-70.3-pucon-20140112.csv,1034,Alfredo Follonier,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1035,Franz Hinojosa,---,---,USA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1036,Gonzalo Ignacio Urrejola,---,---,CHL,00:33:53,02:30:32,01:41:39,00:04:01,00:03:04,04:53:09
+ironman-70.3-pucon-20140112.csv,1037,Cristian Ramírez Corsi,---,---,CHL,00:36:25,02:39:06,02:00:42,00:04:13,00:03:52,05:24:18
+ironman-70.3-pucon-20140112.csv,1038,Leandro Conde,---,---,ARG,00:37:59,02:45:01,01:59:54,00:04:11,00:02:53,05:29:58
+ironman-70.3-pucon-20140112.csv,1039,Luciano Nardi,---,---,ARG,---,02:36:42,02:18:34,---,00:02:41,04:57:57
+ironman-70.3-pucon-20140112.csv,1040,Marcelo Alejandro Sepulveda Baeza,---,---,CHL,---,02:53:27,02:46:34,---,00:03:20,05:43:21
+ironman-70.3-pucon-20140112.csv,1041,Andres Felipe Legarda Montenegro,---,---,COL,00:57:16,03:05:57,02:22:16,00:06:25,00:04:33,06:36:27
+ironman-70.3-pucon-20140112.csv,1042,Matias Honnen Miyada,---,---,BOL,00:36:14,03:04:02,02:25:20,00:07:03,00:06:44,06:19:23
+ironman-70.3-pucon-20140112.csv,1043,Leonardo Suarez Parada,37,SANTA CRUZ,BOL,00:37:34,02:54:49,02:11:45,00:06:46,00:05:33,05:56:27
+ironman-70.3-pucon-20140112.csv,1044,Carlos Tori,---,---,PER,00:34:26,02:44:53,01:50:27,00:04:51,00:03:15,05:17:52
+ironman-70.3-pucon-20140112.csv,1045,David Marquez Marquina,---,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1046,Marco Antonio Ramírez Saavedra,---,---,CHL,00:40:33,02:49:02,02:07:58,00:04:35,00:02:55,05:45:03
+ironman-70.3-pucon-20140112.csv,1047,Brian Oggero,---,---,ARG,00:15:48,02:38:46,02:23:46,00:19:34,00:03:11,05:41:05
+ironman-70.3-pucon-20140112.csv,1048,Luis Dimas Salas Mesa,---,---,CHL,00:36:43,02:30:13,01:34:17,00:03:14,00:02:10,04:46:37
+ironman-70.3-pucon-20140112.csv,1049,John Roa Marin,---,---,CHL,00:32:03,02:26:49,01:37:48,00:03:17,00:02:25,04:42:22
+ironman-70.3-pucon-20140112.csv,1050,Sergio Abel Padilla Crifo,---,---,ARG,00:45:13,02:53:09,01:52:45,00:03:54,00:02:27,05:37:28
+ironman-70.3-pucon-20140112.csv,1051,Asier Etxezarreta Aiertza,---,---,---,00:40:41,02:20:29,01:53:07,00:03:21,00:02:34,05:00:12
+ironman-70.3-pucon-20140112.csv,1052,Marcos Ignacio Cucurella Reyes,---,---,CHL,00:34:41,02:42:41,02:15:10,00:03:39,00:02:53,05:39:04
+ironman-70.3-pucon-20140112.csv,1053,Felipe Bautista Huichacura Montero,---,---,CHL,00:38:58,02:59:19,02:06:32,00:03:39,00:03:12,05:51:40
+ironman-70.3-pucon-20140112.csv,1054,Jorge Mauricio Krauser Perez,---,---,CHL,---,02:31:52,02:21:18,---,00:02:08,04:55:18
+ironman-70.3-pucon-20140112.csv,1055,Boris Alexis Martinez Painepan,---,---,CHL,00:30:42,02:38:41,01:55:09,00:03:39,00:02:24,05:10:35
+ironman-70.3-pucon-20140112.csv,1056,Andrés Eduardo Saldaña Ibañez,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1057,Alvaro Araya Zamorano,---,---,CHL,00:46:35,02:54:50,02:09:41,00:07:04,00:05:02,06:03:12
+ironman-70.3-pucon-20140112.csv,1058,Felipe Dabadie Vergara,---,---,CHL,00:44:51,03:04:08,02:17:06,00:05:34,00:04:40,06:16:19
+ironman-70.3-pucon-20140112.csv,1059,Adrián Esteban Burgos Carrera,---,---,CHL,00:33:59,02:55:16,02:17:24,00:04:05,00:03:35,05:54:19
+ironman-70.3-pucon-20140112.csv,1060,Juan Domingo Silva Gonzalez,---,---,CHL,00:29:49,02:41:33,01:38:03,00:03:35,00:02:16,04:55:16
+ironman-70.3-pucon-20140112.csv,1061,Jorge Alexis Lira Rodriguez,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1062,Tomas Manzano Sanguinetti,---,---,CHL,00:31:20,02:37:18,01:39:29,00:03:37,00:02:10,04:53:54
+ironman-70.3-pucon-20140112.csv,1063,Leonardo Gonzalez Toloza,---,---,CHL,00:37:43,02:47:11,01:51:24,00:03:53,00:03:31,05:23:42
+ironman-70.3-pucon-20140112.csv,1064,Cadmiel Fares Aguilera Ojeda,---,---,CHL,00:48:08,03:53:05,02:29:34,00:06:12,00:04:51,07:21:50
+ironman-70.3-pucon-20140112.csv,1071,Alex Gajardo Sutherland,---,---,CHL,00:28:47,02:21:39,01:27:38,00:02:43,00:02:11,04:22:58
+ironman-70.3-pucon-20140112.csv,1072,Cristóbal Opazo Diaz,---,---,CHL,00:27:26,02:34:38,01:47:28,00:03:58,00:02:42,04:56:12
+ironman-70.3-pucon-20140112.csv,1073,Gonzalo Gamen Gamen,---,---,ARG,00:39:04,03:00:30,02:11:10,00:03:55,00:03:17,05:57:56
+ironman-70.3-pucon-20140112.csv,1074,Ramon Ignacio Lillo Vera,---,---,CHL,00:40:18,03:12:34,02:11:08,00:07:21,00:04:54,06:16:15
+ironman-70.3-pucon-20140112.csv,1075,Federico Humberto Guinder,---,---,ARG,00:39:02,03:01:11,02:51:36,00:06:38,00:04:45,06:43:12
+ironman-70.3-pucon-20140112.csv,1076,Sergio Felipe Gómez Salazar,---,---,CHL,00:35:36,03:04:31,02:50:12,00:03:43,00:03:25,06:37:27
+ironman-70.3-pucon-20140112.csv,1077,Marcelo Zanella Sanvicente,---,---,BRA,00:40:05,03:20:50,02:20:44,00:06:45,00:07:44,06:36:08
+ironman-70.3-pucon-20140112.csv,1078,Paulo Andres Ricart Nazar,---,---,CHL,00:31:54,03:12:21,02:28:17,00:03:55,00:03:20,06:19:47
+ironman-70.3-pucon-20140112.csv,1079,Felipe Alexander Montenegro Suarez,---,---,CHL,00:31:44,02:50:14,02:16:09,00:03:28,00:03:13,05:44:48
+ironman-70.3-pucon-20140112.csv,1080,Sergio Ignacio Contardo Rodriguez,---,---,CHL,00:34:44,03:03:02,01:54:14,00:04:34,00:03:04,05:39:38
+ironman-70.3-pucon-20140112.csv,1081,Silvio Moraes,30,Intl State,BRA,00:34:41,03:10:14,02:11:12,00:06:05,00:05:36,06:07:48
+ironman-70.3-pucon-20140112.csv,1082,Nicolás Andrés Gatica Peña,---,---,CHL,00:29:22,02:41:11,02:02:10,00:04:21,00:03:27,05:20:31
+ironman-70.3-pucon-20140112.csv,1083,Pablo Francisco Cifuentes Tello,---,---,CHL,00:34:46,02:50:34,01:57:33,00:03:39,00:02:59,05:29:31
+ironman-70.3-pucon-20140112.csv,1084,André Felipe Botelho Gondim,---,---,BRA,---,02:52:58,02:38:49,---,00:03:25,05:35:12
+ironman-70.3-pucon-20140112.csv,1085,Pablo Andrés Ortiz Arroyo,---,---,CHL,00:53:49,03:11:22,02:15:37,00:04:26,00:03:39,06:28:53
+ironman-70.3-pucon-20140112.csv,1086,Esteban Antonio Krainz Rioseco,---,---,CHL,00:30:34,02:38:02,02:01:22,00:03:23,00:03:08,05:16:29
+ironman-70.3-pucon-20140112.csv,1087,Juan Pablo Hellman Glasinovic,---,---,CHL,00:40:29,02:55:23,01:48:12,00:04:21,00:03:29,05:31:54
+ironman-70.3-pucon-20140112.csv,1088,Leonardo Jorge Monte Torres,---,---,PRY,00:38:04,02:43:38,02:10:14,00:04:11,00:02:44,05:38:51
+ironman-70.3-pucon-20140112.csv,1089,Mariano Andres Szafowal Samowerskyj,---,---,ARG,00:33:54,03:04:15,02:00:57,00:04:51,00:03:39,05:47:36
+ironman-70.3-pucon-20140112.csv,1090,Oscar Cravero Molina,---,---,CHL,00:45:45,02:59:56,01:54:32,00:05:10,00:03:21,05:48:44
+ironman-70.3-pucon-20140112.csv,1091,Mariano Julian Bravo,---,---,ARG,00:35:16,02:42:51,01:58:31,00:06:24,00:05:06,05:28:08
+ironman-70.3-pucon-20140112.csv,1092,Mauricio Poblete,---,---,CHL,00:36:31,02:50:30,01:53:25,00:04:27,00:02:29,05:27:22
+ironman-70.3-pucon-20140112.csv,1093,Rodrigo Urzainqui,---,---,ARG,00:38:00,02:47:34,02:05:31,00:04:08,00:03:25,05:38:38
+ironman-70.3-pucon-20140112.csv,1094,Jorge Andres Soto Arias,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1095,Claudio Antonio Montejo Soler,---,---,CHL,00:35:49,02:35:41,01:43:24,00:03:42,00:02:33,05:01:09
+ironman-70.3-pucon-20140112.csv,1096,Orlando Andres Meneses Perez,---,---,CHL,00:46:30,03:08:47,02:00:00,00:04:48,00:04:43,06:04:48
+ironman-70.3-pucon-20140112.csv,1097,Jonathan Rodrigo Soto Leon,---,---,CHL,00:38:04,02:52:38,02:05:07,00:03:43,00:03:15,05:42:47
+ironman-70.3-pucon-20140112.csv,1098,Maximiliano Cuadra Zúñiga,---,---,CHL,00:33:32,02:42:56,01:54:54,00:03:18,00:02:36,05:17:16
+ironman-70.3-pucon-20140112.csv,1099,Timothy Hawes,32,DXB,GBR,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1100,Fernando Miguel Giraudo,---,---,ARG,00:36:21,02:40:49,02:12:12,00:03:43,00:03:06,05:36:11
+ironman-70.3-pucon-20140112.csv,1101,Federico Rodrigo Barros Mandiola,---,---,CHL,00:34:43,02:51:50,01:51:51,00:04:07,00:03:03,05:25:34
+ironman-70.3-pucon-20140112.csv,1102,Ross Tauchert,---,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1103,Pablo Nicolas Rozas Saavedra,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1104,Cristián Andres Andreoli Henriquez,---,---,CHL,00:35:53,02:33:29,01:41:44,00:04:07,00:03:03,04:58:16
+ironman-70.3-pucon-20140112.csv,1105,Pablo Bulacios,---,---,ARG,00:29:55,02:46:55,02:23:50,00:03:16,00:03:39,05:47:35
+ironman-70.3-pucon-20140112.csv,1106,Ricardo Enriuqe Espinoza Hernandez,---,---,CHL,00:47:50,02:49:09,02:26:30,00:03:53,00:03:44,06:11:06
+ironman-70.3-pucon-20140112.csv,1107,Claudio Felipe Alfaro,---,---,CHL,00:31:26,02:51:05,01:58:53,00:03:27,00:02:42,05:27:33
+ironman-70.3-pucon-20140112.csv,1108,Felipe Manalich,33,---,CHL,00:30:31,02:30:29,01:40:25,00:03:24,00:02:36,04:47:25
+ironman-70.3-pucon-20140112.csv,1109,Roberto Eduardo Hilal,---,---,ARG,00:29:01,02:50:57,01:46:26,00:03:03,00:02:34,05:12:01
+ironman-70.3-pucon-20140112.csv,1110,Francisco Rafael Lopez Cornejo,---,---,CHL,00:35:40,02:40:37,02:03:11,00:03:39,00:02:44,05:25:51
+ironman-70.3-pucon-20140112.csv,1111,Gonzalo Tisi Yavar,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1112,Alejandro Gonzalo Gutierrez Silva,---,---,CHL,00:38:53,02:43:14,02:06:26,00:03:24,00:02:30,05:34:27
+ironman-70.3-pucon-20140112.csv,1113,Jorge Alex Sanhueza Silva,---,---,CHL,---,02:53:06,02:32:40,---,00:03:13,05:28:59
+ironman-70.3-pucon-20140112.csv,1114,Francisco Javier Herrera Muñoz,---,---,CHL,00:36:03,02:59:34,02:14:11,00:04:07,00:02:58,05:56:53
+ironman-70.3-pucon-20140112.csv,1115,Bruno Maggio,34,---,CHL,00:35:25,03:10:12,02:13:09,00:07:40,00:06:44,06:13:10
+ironman-70.3-pucon-20140112.csv,1116,Mauro Ceragioli,---,---,ARG,00:29:52,02:51:41,01:58:31,00:03:39,00:03:05,05:26:48
+ironman-70.3-pucon-20140112.csv,1117,Ricardo Reaño,---,---,ARG,00:32:38,02:56:58,02:12:55,00:03:49,00:02:57,05:49:17
+ironman-70.3-pucon-20140112.csv,1118,Rodrigo Ricardo Peña Brintrup,---,---,CHL,00:45:17,03:06:59,02:10:07,00:05:18,00:06:39,06:14:20
+ironman-70.3-pucon-20140112.csv,1119,Francisco Rossi,---,---,CHL,01:02:45,03:01:09,02:04:28,00:06:44,00:09:22,06:24:28
+ironman-70.3-pucon-20140112.csv,1120,Crhistian Fernando Burgos,---,---,ARG,---,02:21:48,01:58:32,---,00:02:24,04:22:44
+ironman-70.3-pucon-20140112.csv,1121,Ernesto M García Gonzalez,---,---,ARG,00:31:59,02:45:41,01:46:23,00:03:30,00:02:23,05:09:56
+ironman-70.3-pucon-20140112.csv,1122,Daniel Eduardo Iturrieta Riquelme,---,---,CHL,00:32:35,02:27:23,01:34:43,00:03:17,00:02:33,04:40:31
+ironman-70.3-pucon-20140112.csv,1123,Andres Braemer Rosales,---,---,CHL,00:31:52,02:42:06,01:56:21,00:04:12,00:02:55,05:17:26
+ironman-70.3-pucon-20140112.csv,1124,Roberto Carlos Larenas Molinet,---,---,CHL,00:41:24,03:12:18,02:05:08,00:03:47,00:03:20,06:05:57
+ironman-70.3-pucon-20140112.csv,1125,Andres Enrique Pau Rodriguez,---,---,CHL,00:38:56,03:01:10,02:28:52,00:04:21,00:03:37,06:16:56
+ironman-70.3-pucon-20140112.csv,1126,Matias Federico Krausse,---,---,ARG,00:36:56,02:44:12,01:53:50,00:03:11,00:03:12,05:21:21
+ironman-70.3-pucon-20140112.csv,1127,Oscar Fernando Sandoval Garrido,---,---,CHL,00:42:22,02:46:24,02:23:33,00:04:08,00:03:30,05:59:57
+ironman-70.3-pucon-20140112.csv,1128,Jonathan Felipe Monje Pacheco,---,---,CHL,---,02:57:43,02:31:13,---,00:02:41,05:31:37
+ironman-70.3-pucon-20140112.csv,1129,Leonardo Alberto Chiacchio,---,---,ARG,00:31:23,02:36:48,01:55:51,00:03:17,00:02:44,05:10:03
+ironman-70.3-pucon-20140112.csv,1130,David Lamarca,32,Buenos Aires,ARG,00:32:27,02:33:56,01:57:39,00:03:25,00:02:34,05:10:01
+ironman-70.3-pucon-20140112.csv,1131,Rafael Troncoso Boys,---,---,CHL,00:34:01,02:49:07,01:59:41,00:02:46,00:02:39,05:28:14
+ironman-70.3-pucon-20140112.csv,1132,Cristian Orlando Medina Huenul,---,---,CHL,00:31:53,02:44:03,01:49:29,00:03:45,00:02:07,05:11:17
+ironman-70.3-pucon-20140112.csv,1133,Nicolás Eduardo Von Caprivi González,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1134,Leonardo Cardoso Stohler Vianor,---,---,BRA,00:31:20,03:02:33,02:12:16,00:04:31,00:03:23,05:54:03
+ironman-70.3-pucon-20140112.csv,1135,Federico Requesens,---,---,ARG,00:30:38,02:37:07,01:55:18,00:03:49,00:02:46,05:09:38
+ironman-70.3-pucon-20140112.csv,1136,Benjamìn Alejandro Alfredo Quiroga Hinojosa,---,---,CHL,00:53:32,02:59:49,02:08:45,00:03:30,00:03:16,06:08:52
+ironman-70.3-pucon-20140112.csv,1137,Daniel Ignacio Gallardo Moreno,---,---,CHL,00:38:38,03:27:56,01:45:09,00:05:48,00:04:55,06:02:26
+ironman-70.3-pucon-20140112.csv,1138,Marcos Rubén Hernández,---,---,ARG,00:34:25,02:46:26,01:48:11,00:03:48,00:03:03,05:15:53
+ironman-70.3-pucon-20140112.csv,1139,Camilo Agustin Bustamante Cuevas,---,---,CHL,00:38:14,03:13:37,02:09:20,00:04:12,00:03:00,06:08:23
+ironman-70.3-pucon-20140112.csv,1140,Boris Daniel Valdebenito,---,---,CHL,00:39:31,03:00:50,02:10:59,00:03:49,00:03:45,05:58:54
+ironman-70.3-pucon-20140112.csv,1141,Rodrigo Melo,---,---,CHL,00:36:22,03:06:37,02:41:25,00:04:17,00:04:03,06:32:44
+ironman-70.3-pucon-20140112.csv,1142,David Elgueta,---,---,CHL,00:35:04,02:33:40,01:44:23,00:03:06,00:02:29,04:58:42
+ironman-70.3-pucon-20140112.csv,1143,Oliver Yank Cordero Almonacid,---,---,CHL,00:37:46,03:00:07,02:02:52,00:05:04,00:04:59,05:50:48
+ironman-70.3-pucon-20140112.csv,1144,Agustin Diego Peralta,---,---,ARG,00:31:19,02:31:50,01:53:07,00:04:08,00:02:57,05:03:21
+ironman-70.3-pucon-20140112.csv,1145,Martin Augusto Grieco,---,---,ARG,00:28:03,03:00:54,02:11:05,00:04:00,00:03:15,05:47:17
+ironman-70.3-pucon-20140112.csv,1146,David Lou De Los Santos Ortega,---,---,MEX,00:40:43,03:02:49,02:01:27,00:05:45,00:04:33,05:55:17
+ironman-70.3-pucon-20140112.csv,1147,Paulo Vásquez Riquelme,---,---,CHL,00:42:52,02:45:55,02:22:28,00:03:32,00:03:21,05:58:08
+ironman-70.3-pucon-20140112.csv,1148,Gonzalo Fuenzalida Alarcon Fuenzalida Alarcon,---,---,CHL,00:38:19,02:59:35,02:10:32,00:06:24,00:03:17,05:58:07
+ironman-70.3-pucon-20140112.csv,1149,Rodrigo Muñoz Peñaloza,---,---,CHL,01:00:28,03:03:33,02:24:30,00:04:52,00:04:34,06:37:57
+ironman-70.3-pucon-20140112.csv,1150,Felipe Iturra Gomez,---,---,CHL,00:27:30,02:48:42,01:55:24,00:03:15,00:02:19,05:17:10
+ironman-70.3-pucon-20140112.csv,1151,Nicolas Antonio Muñoz Schaeffer,---,---,CHL,00:36:19,02:41:10,02:04:57,00:03:28,00:03:21,05:29:15
+ironman-70.3-pucon-20140112.csv,1152,Diego Pincheira,---,---,CHL,00:44:32,03:01:50,02:07:07,00:04:01,00:03:11,06:00:41
+ironman-70.3-pucon-20140112.csv,1153,Julien Labrot,---,---,FRA,00:37:03,02:45:12,02:04:09,00:06:53,00:06:10,05:39:27
+ironman-70.3-pucon-20140112.csv,1154,Alejandro Antonio Vergara Castro,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1155,Sebastian Alfonso Villarroel Ramirez,---,---,CHL,00:36:23,02:34:56,01:39:36,00:02:58,00:02:31,04:56:24
+ironman-70.3-pucon-20140112.csv,1156,Cristopher Ulises Fuentes Abuerto,---,---,CHL,00:43:27,02:52:53,02:43:17,00:04:14,00:04:00,06:27:51
+ironman-70.3-pucon-20140112.csv,1157,Isaac Chacón,---,---,CHL,00:40:56,02:54:57,02:08:14,00:03:44,00:04:23,05:52:14
+ironman-70.3-pucon-20140112.csv,1158,Alejandro Cancino,---,---,ARG,00:33:50,03:02:14,01:58:54,00:04:00,00:02:38,05:41:36
+ironman-70.3-pucon-20140112.csv,1159,Gabriel Antonio Mardones,---,---,CHL,00:25:38,02:37:56,02:16:12,00:03:22,00:02:56,05:26:04
+ironman-70.3-pucon-20140112.csv,1160,Nelson Fernando Moreno,---,---,ARG,00:39:01,02:44:29,02:27:19,00:03:52,00:03:01,05:57:42
+ironman-70.3-pucon-20140112.csv,1161,Sergio Aníbal Avendaño Soto,---,---,CHL,---,02:50:15,02:48:33,---,00:02:25,05:41:13
+ironman-70.3-pucon-20140112.csv,1162,Yasunobu Jutori,---,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1163,Kitajima Yuya,---,---,JPN,00:41:36,03:31:03,02:27:15,00:07:38,00:05:34,06:53:06
+ironman-70.3-pucon-20140112.csv,1164,Eduardo Armando Guajardo Venegas,---,---,CHL,00:41:26,02:52:54,02:03:55,00:04:09,00:03:15,05:45:39
+ironman-70.3-pucon-20140112.csv,1165,Patricio Cofre,---,---,CHL,00:37:55,02:58:18,02:16:30,00:05:25,00:03:41,06:01:49
+ironman-70.3-pucon-20140112.csv,1166,Jose Luis Ramirez,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1167,Carlos Alberto Binder Ruiz,---,---,CHL,00:36:52,03:26:49,02:27:04,00:04:02,00:03:21,06:38:08
+ironman-70.3-pucon-20140112.csv,1168,Roberto Andrés Fernández Domínguez,---,---,CHL,00:33:45,02:31:38,01:38:35,00:03:33,00:03:00,04:50:31
+ironman-70.3-pucon-20140112.csv,1169,Luis Ariel Salazar,---,---,ARG,00:30:35,02:34:42,01:42:14,00:04:03,00:03:00,04:54:34
+ironman-70.3-pucon-20140112.csv,1170,Eduardo Hunter,---,---,CHL,00:36:25,02:28:00,01:41:17,00:04:03,00:02:22,04:52:07
+ironman-70.3-pucon-20140112.csv,1171,Orlando Pinto,---,---,CHL,00:41:40,02:41:12,01:48:38,00:03:47,00:03:33,05:18:50
+ironman-70.3-pucon-20140112.csv,1172,Juan Manuel Lauro,---,---,URY,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1173,David Francisco Muñoz Morales,---,---,CHL,00:51:06,03:04:02,02:33:54,00:04:24,00:03:49,06:37:15
+ironman-70.3-pucon-20140112.csv,1174,Pablo Andres Mizgier Rojas,---,---,CHL,00:27:45,02:22:16,01:42:30,00:03:09,00:02:22,04:38:02
+ironman-70.3-pucon-20140112.csv,1175,Diego Montecelli,---,---,BRA,00:28:29,02:31:20,01:39:04,00:03:24,00:02:46,04:45:03
+ironman-70.3-pucon-20140112.csv,1176,Fabian Alonso Elgueta Jaque,---,---,CHL,00:38:03,02:58:53,01:51:06,00:03:16,00:03:16,05:34:34
+ironman-70.3-pucon-20140112.csv,1177,Mauro Andrés Vera,---,---,ARG,00:38:42,03:05:39,02:26:14,00:04:04,00:04:02,06:18:41
+ironman-70.3-pucon-20140112.csv,1178,Adrian Jan Screnski,---,---,BRA,00:33:55,02:40:49,01:49:52,00:03:48,00:02:45,05:11:09
+ironman-70.3-pucon-20140112.csv,1179,Pierre-Julien Loriquet,32,---,FRA,00:30:30,02:35:10,01:34:21,00:03:17,00:02:28,04:45:46
+ironman-70.3-pucon-20140112.csv,1180,Werico Rodrigues Silva Filho,29,---,BRA,---,02:38:00,02:29:42,---,00:03:19,05:11:01
+ironman-70.3-pucon-20140112.csv,1181,German Ariel Reynoso,---,---,ARG,00:31:50,02:54:22,02:13:59,00:03:31,00:03:08,05:46:50
+ironman-70.3-pucon-20140112.csv,1182,Pablo Gonzalez,---,---,CHL,00:39:23,03:04:30,02:14:10,00:04:01,00:03:35,06:05:39
+ironman-70.3-pucon-20140112.csv,1183,Felipe Arturo Prado Alarcon,---,---,CHL,---,02:57:46,03:08:06,---,00:04:36,06:10:28
+ironman-70.3-pucon-20140112.csv,1184,Tomas Ignacio Medel Yunisic,---,---,CHL,00:28:45,02:33:13,02:02:19,00:03:10,00:02:44,05:10:11
+ironman-70.3-pucon-20140112.csv,1185,Federico Hinrichs,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1186,Diego Rocha,---,---,BRA,00:37:14,02:55:05,01:54:32,00:04:41,00:04:42,05:36:14
+ironman-70.3-pucon-20140112.csv,1187,Ricardo Andres Muñoz Fernandez,---,---,CHL,00:33:52,02:37:57,01:37:07,00:03:16,00:02:01,04:54:13
+ironman-70.3-pucon-20140112.csv,1188,Claudio Cesar Requena Norambuena,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1189,Alexander Vermehren,---,---,CHL,---,02:38:35,02:32:37,---,00:07:04,05:18:16
+ironman-70.3-pucon-20140112.csv,1190,Antonio Celis,---,---,CHL,---,02:33:10,02:18:03,---,00:02:31,04:53:44
+ironman-70.3-pucon-20140112.csv,1191,Diego Martin Pons,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1192,Gonzalo Augusto Ugalde Perez,---,---,CHL,00:31:22,03:25:02,02:44:14,00:04:14,00:04:52,06:49:44
+ironman-70.3-pucon-20140112.csv,1193,Rodrigo Erazo,---,---,CHL,00:35:04,02:53:33,02:08:44,00:05:25,00:05:16,05:48:02
+ironman-70.3-pucon-20140112.csv,1194,Francesc Gómez-Landero Vila,---,---,---,00:32:21,02:40:02,01:40:14,00:03:14,00:02:36,04:58:27
+ironman-70.3-pucon-20140112.csv,1195,Andrés Karmy Colombo,---,---,CHL,---,02:44:32,02:46:59,---,00:02:34,05:34:05
+ironman-70.3-pucon-20140112.csv,1196,Luis Fernando Berleze,---,---,BRA,00:39:24,02:56:23,01:50:54,00:05:22,00:04:49,05:36:52
+ironman-70.3-pucon-20140112.csv,1197,Samuel De La Sotta Vergara,---,---,CHL,00:35:10,02:35:46,01:48:25,00:03:41,00:02:57,05:05:59
+ironman-70.3-pucon-20140112.csv,1198,Diego Charad,---,---,CHL,00:27:23,02:40:45,01:54:36,00:03:45,00:02:54,05:09:23
+ironman-70.3-pucon-20140112.csv,1199,Jose Antonio Martínez Bárzana,---,---,CHL,00:38:32,03:18:33,02:47:54,00:06:25,00:06:54,06:58:18
+ironman-70.3-pucon-20140112.csv,1200,Raúl Andrés Aguayo Arancibia,---,---,CHL,00:45:33,02:55:47,02:30:35,00:05:02,00:03:23,06:20:20
+ironman-70.3-pucon-20140112.csv,1201,Gonzalo Perez Cruz,---,---,CHL,00:28:50,02:41:24,02:03:34,00:04:11,00:03:55,05:21:54
+ironman-70.3-pucon-20140112.csv,1202,Pablo Contreras Maldonado,---,---,CHL,00:30:28,02:54:47,02:03:22,00:03:47,00:03:15,05:35:39
+ironman-70.3-pucon-20140112.csv,1203,Martin Sebastian Serrano Duclos,---,---,CHL,00:31:41,02:26:24,01:45:43,00:04:23,00:03:20,04:51:31
+ironman-70.3-pucon-20140112.csv,1204,Ivan Alejandro Peña Bazaes,---,---,CHL,00:40:27,02:57:11,02:21:27,00:04:43,00:03:04,06:06:52
+ironman-70.3-pucon-20140112.csv,1205,Andres Di Leo,---,---,ARG,00:30:42,02:28:51,01:50:04,00:03:17,00:02:50,04:55:44
+ironman-70.3-pucon-20140112.csv,1206,Leo Martellotto Martellotto,---,---,ARG,00:31:47,02:33:33,01:41:30,00:03:21,00:02:44,04:52:55
+ironman-70.3-pucon-20140112.csv,1207,Mauro Kolep,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1208,Sebastian Muñoz,---,---,ARG,00:34:56,02:36:50,01:51:16,00:03:27,00:02:34,05:09:03
+ironman-70.3-pucon-20140112.csv,1209,Ricardo Guzman Droghetti,---,---,CHL,00:30:46,02:30:43,01:56:44,00:03:32,00:02:53,05:04:38
+ironman-70.3-pucon-20140112.csv,1210,Fernando Rodrigo Cruces Navarrete,---,---,CHL,00:17:23,03:10:12,02:51:46,00:03:56,00:04:38,06:27:55
+ironman-70.3-pucon-20140112.csv,1211,Tomás Valdés,---,---,CHL,00:35:51,02:52:41,01:51:10,00:03:55,00:02:47,05:26:24
+ironman-70.3-pucon-20140112.csv,1212,Juan Carlos Torres Rojas,---,---,CHL,00:25:40,02:21:40,01:22:58,00:02:37,00:02:14,04:15:09
+ironman-70.3-pucon-20140112.csv,1213,Mauricio Takashi De Lima Uyeda,---,---,BRA,00:37:25,03:29:39,02:48:45,00:06:08,00:05:41,07:07:38
+ironman-70.3-pucon-20140112.csv,1214,Yerko Lolas Marinovic,30,---,CHL,00:36:13,02:51:13,02:07:28,00:04:12,00:04:29,05:43:35
+ironman-70.3-pucon-20140112.csv,1215,Sebastian Paniagua,---,---,CHL,---,02:21:33,02:05:47,---,00:02:13,04:29:33
+ironman-70.3-pucon-20140112.csv,1216,Konstantin Bayandin,---,---,RUS,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1217,Daniel Andres Careaga Arroyo,---,---,CHL,00:41:28,03:18:35,02:23:05,00:04:30,00:03:03,06:30:41
+ironman-70.3-pucon-20140112.csv,1218,Jose Luis Sanchez,---,---,ARG,00:27:28,03:05:57,01:57:15,00:03:45,00:02:59,05:37:24
+ironman-70.3-pucon-20140112.csv,1219,Francisco Gonzalez Urrutia,---,---,CHL,00:28:44,02:21:23,01:30:14,00:03:01,00:02:06,04:25:28
+ironman-70.3-pucon-20140112.csv,1220,Alejandro Urrutia Rivas,---,---,CHL,00:30:49,02:27:55,01:47:28,00:03:51,00:03:14,04:53:17
+ironman-70.3-pucon-20140112.csv,1221,Guillermo Arturo Aguilar Vergara,---,---,CHL,00:28:38,02:37:57,01:45:16,00:03:27,00:02:46,04:58:04
+ironman-70.3-pucon-20140112.csv,1222,Jose Gerstle,---,---,CHL,00:42:11,03:27:34,02:56:27,00:04:51,00:04:25,07:15:28
+ironman-70.3-pucon-20140112.csv,1223,Lucas Benjamin,---,---,BRA,00:30:42,02:36:25,01:55:46,00:03:22,00:02:38,05:08:53
+ironman-70.3-pucon-20140112.csv,1224,Francisco Javier Matus Martínez,---,---,CHL,---,02:42:09,02:19:57,---,00:02:40,05:04:46
+ironman-70.3-pucon-20140112.csv,1225,Bart Schrauwen,---,---,---,00:43:59,02:48:44,02:25:33,00:05:18,00:03:47,06:07:21
+ironman-70.3-pucon-20140112.csv,1226,Héctor Ariel Caucaman,---,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1227,Humberto Felipe Corti Thomassen,---,---,CHL,00:40:26,02:57:59,02:00:09,00:06:02,00:04:01,05:48:37
+ironman-70.3-pucon-20140112.csv,1228,Roberto Gaston Decker,---,---,ARG,00:36:06,02:53:49,02:11:21,00:04:40,00:03:54,05:49:50
+ironman-70.3-pucon-20140112.csv,1229,Patricio Foster,32,Army Asia,ARG,00:30:21,02:28:37,01:30:51,00:03:45,00:03:06,04:36:40
+ironman-70.3-pucon-20140112.csv,1230,César Alejandro Montoya Bustos,---,---,CHL,00:35:23,02:29:39,01:35:12,00:03:03,00:02:19,04:45:36
+ironman-70.3-pucon-20140112.csv,1231,Baptiste Santander Kuborn,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1232,Daniel Bertran Machicao,---,---,---,---,02:52:39,02:57:24,---,00:02:44,05:52:47
+ironman-70.3-pucon-20140112.csv,1233,Martin Rodillo,---,---,CHL,00:33:37,02:47:53,01:39:26,00:03:48,00:02:59,05:07:43
+ironman-70.3-pucon-20140112.csv,1234,Jorge Enrique Yugovic Tigero,---,---,CHL,00:36:31,03:00:38,02:04:46,00:04:55,00:05:05,05:51:55
+ironman-70.3-pucon-20140112.csv,1235,Cristobal Sumar,30,---,CHL,00:36:53,03:02:17,02:24:42,00:05:45,00:04:25,06:14:02
+ironman-70.3-pucon-20140112.csv,1236,Benjamin Alexis Pizarro Bravo,---,---,CHL,00:39:15,03:25:22,02:29:23,00:05:10,00:05:14,06:44:24
+ironman-70.3-pucon-20140112.csv,1237,Jorge Opaso,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1238,Cristobal Ibarra,---,---,CHL,00:41:32,02:40:37,02:17:19,00:04:19,00:03:04,05:46:51
+ironman-70.3-pucon-20140112.csv,1239,Borja Martin,---,---,---,00:39:19,02:54:13,02:02:28,00:05:13,00:04:17,05:45:30
+ironman-70.3-pucon-20140112.csv,1240,Emilio Jose Palacios Torres,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1241,Ariel Jesus Guevara Araya,---,---,CHL,00:37:48,02:55:57,02:45:39,00:04:35,00:05:06,06:29:05
+ironman-70.3-pucon-20140112.csv,1242,Henry Antonio Campos Padgeth,---,---,CHL,00:34:49,02:46:04,02:16:41,00:03:34,00:03:38,05:44:46
+ironman-70.3-pucon-20140112.csv,1243,Patricio Manqui,---,---,CHL,00:45:45,02:47:40,02:01:32,00:03:33,00:02:37,05:41:07
+ironman-70.3-pucon-20140112.csv,1244,Carlos Navarrete,---,---,CHL,00:43:20,02:50:10,01:41:21,00:04:11,00:03:06,05:22:08
+ironman-70.3-pucon-20140112.csv,1245,Felipe Aviles Moncada,---,---,CHL,00:31:39,02:37:08,01:52:41,00:04:11,00:02:54,05:08:33
+ironman-70.3-pucon-20140112.csv,1246,Ruben Alejandro Paillalef Luengo,---,---,CHL,00:35:13,02:31:54,01:43:38,00:03:20,00:02:42,04:56:47
+ironman-70.3-pucon-20140112.csv,1247,Emilio Palacios,---,---,CHL,00:36:16,02:52:11,02:20:29,00:03:30,00:03:11,05:55:37
+ironman-70.3-pucon-20140112.csv,1248,Freddy Vasquez Cofré,---,---,CHL,00:42:17,03:03:38,01:59:18,00:05:03,00:04:21,05:54:37
+ironman-70.3-pucon-20140112.csv,1249,Thiago Benevides,---,---,BRA,00:37:55,02:51:32,01:58:19,00:05:17,00:04:32,05:37:35
+ironman-70.3-pucon-20140112.csv,1250,Marcio Verissimo,---,---,BRA,00:27:50,02:24:40,01:55:38,00:04:54,00:02:38,04:55:40
+ironman-70.3-pucon-20140112.csv,1251,Michael Krones,31,---,DEU,00:30:37,02:23:51,01:33:03,00:03:55,00:03:12,04:34:38
+ironman-70.3-pucon-20140112.csv,1252,Marcelo De Queiroz Rangel,---,---,BRA,00:35:34,02:39:17,01:59:57,00:04:14,00:04:28,05:23:30
+ironman-70.3-pucon-20140112.csv,1253,Felipe Andres Gonzalez Betanzo,---,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1254,David Alejandro Restrepo G.,33,Bogota D.C.,COL,00:31:53,02:35:09,01:52:52,00:03:50,00:02:46,05:06:30
+ironman-70.3-pucon-20140112.csv,1255,Fernando Andrés Estefó Meléndez,---,---,CHL,00:36:06,02:46:43,01:49:49,00:03:43,00:02:43,05:19:04
+ironman-70.3-pucon-20140112.csv,1256,David Joos,---,---,CHL,00:42:55,03:00:34,02:02:13,00:04:54,00:03:19,05:53:55
+ironman-70.3-pucon-20140112.csv,1257,David Rivas,32,CL,CHL,00:35:51,02:51:58,02:00:22,00:03:21,00:02:38,05:34:10
+ironman-70.3-pucon-20140112.csv,1258,Ignacio Bolelli,---,---,CHL,00:32:34,02:37:47,02:11:34,00:04:07,00:03:53,05:29:55
+ironman-70.3-pucon-20140112.csv,1259,Pedro Felipe Peña Staub,---,---,CHL,00:40:59,03:04:31,02:14:24,00:05:37,00:04:04,06:09:35
+ironman-70.3-pucon-20140112.csv,1260,John Thomas Cleveland,---,---,CHL,00:44:07,03:17:35,02:14:13,00:04:35,00:02:54,06:23:24
+ironman-70.3-pucon-20140112.csv,1261,Rodrigo Cantal,---,---,USA,---,---,---,---,---,DNS
+ironman-70.3-pucon-20140112.csv,1261,Rodrigo Cantal,---,---,USA,---,---,---,---,---,DNS

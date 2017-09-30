@@ -1,0 +1,659 @@
+#File=ironman-70.3-mallorca-20150509.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-mallorca-20150509.csv,1,Andreas Dreitz,26,---,DEU,00:22:43,02:10:14,01:19:06,00:02:53,00:01:52,03:56:48
+ironman-70.3-mallorca-20150509.csv,2,Michael Raelert,34,DE,DEU,00:22:19,02:58:46,01:22:40,00:02:29,00:02:15,04:48:29
+ironman-70.3-mallorca-20150509.csv,3,Ivan Raña,35,---,ESP,00:22:38,02:21:47,01:13:49,00:02:45,00:01:57,04:02:56
+ironman-70.3-mallorca-20150509.csv,4,Mike Aigroz,37,Other,CHE,00:22:44,02:24:31,01:19:04,00:03:32,00:01:44,04:11:35
+ironman-70.3-mallorca-20150509.csv,5,David Plese,31,Intl State,BHR,00:24:56,02:20:12,01:15:56,00:02:42,00:02:16,04:06:02
+ironman-70.3-mallorca-20150509.csv,6,Mathias Hecht,34,Intl State,CHE,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,7,Miguel Angel Fidalgo Rossello,26,---,ESP,00:22:40,02:21:38,01:37:58,00:02:57,00:01:58,04:27:11
+ironman-70.3-mallorca-20150509.csv,8,Sam Appleton,25,CO,AUS,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,9,Anders Christensen,24,---,DNK,00:25:00,02:23:22,01:22:01,00:02:59,00:02:27,04:15:49
+ironman-70.3-mallorca-20150509.csv,10,Antony Costes,25,---,FRA,00:22:29,02:19:09,01:22:45,00:02:40,00:01:39,04:08:42
+ironman-70.3-mallorca-20150509.csv,11,Vincent Depuiset,39,---,FRO,00:29:59,02:36:28,01:25:23,00:03:33,00:02:54,04:38:17
+ironman-70.3-mallorca-20150509.csv,12,Andreas Helbo Beck,26,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,13,Markus Hörmann,24,---,DEU,00:24:53,02:22:00,01:16:17,00:02:56,00:02:03,04:08:09
+ironman-70.3-mallorca-20150509.csv,14,Allan Hovda,28,---,NOR,00:28:35,02:26:30,01:23:29,00:03:13,00:02:11,04:23:58
+ironman-70.3-mallorca-20150509.csv,15,Mikita Hryhoryeu,25,---,BLR,00:24:53,03:41:49,---,00:03:07,---,DNF
+ironman-70.3-mallorca-20150509.csv,16,Sebastien Jouffret,33,---,FRA,00:25:01,02:23:27,01:32:33,00:03:31,00:02:04,04:26:36
+ironman-70.3-mallorca-20150509.csv,17,Thomas Kaiser,26,---,DEU,00:26:42,02:23:26,01:32:11,00:03:21,00:02:02,04:27:42
+ironman-70.3-mallorca-20150509.csv,19,Matthias Knossalla,31,---,DEU,00:28:44,02:31:47,---,00:03:23,---,DNF
+ironman-70.3-mallorca-20150509.csv,20,Teemu Kyllonen,31,---,FIN,00:28:49,02:35:57,01:38:51,00:03:40,00:02:40,04:49:57
+ironman-70.3-mallorca-20150509.csv,21,Cedric Lassonde,38,---,FRA,00:24:58,02:24:54,01:21:55,00:03:29,00:02:27,04:17:43
+ironman-70.3-mallorca-20150509.csv,22,Carlos Lopez,31,ES,ESP,00:22:31,02:19:27,01:31:10,00:02:32,00:02:24,04:18:04
+ironman-70.3-mallorca-20150509.csv,23,David Mcnamee,27,APO,GBR,00:22:34,02:18:55,01:13:31,00:02:49,00:01:54,03:59:43
+ironman-70.3-mallorca-20150509.csv,24,Petr Michovsky,41,Intl State,CZE,00:28:37,02:33:54,01:41:07,00:03:45,00:02:26,04:49:49
+ironman-70.3-mallorca-20150509.csv,25,Tomas Mika,28,Intl State,CZE,00:24:59,02:26:28,01:19:48,00:03:12,00:02:06,04:16:33
+ironman-70.3-mallorca-20150509.csv,26,Matic Modic,28,Intl State,SVN,00:24:56,02:25:10,01:16:05,00:03:06,00:01:58,04:11:15
+ironman-70.3-mallorca-20150509.csv,27,Urs Mueller,31,---,CHE,00:26:24,02:27:54,01:22:03,00:02:59,00:02:20,04:21:40
+ironman-70.3-mallorca-20150509.csv,28,Joan Nadal Clar,34,---,ESP,00:24:52,02:21:47,01:26:08,00:04:38,00:01:58,04:19:23
+ironman-70.3-mallorca-20150509.csv,29,Mathias Nagel,44,---,DEU,00:43:10,02:54:36,02:07:17,00:04:08,00:03:02,05:52:13
+ironman-70.3-mallorca-20150509.csv,30,Ritchie Nicholls,27,Derry,GBR,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,31,Daniel Niederreiter,36,---,AUT,00:23:41,02:24:17,01:21:15,00:02:51,00:01:53,04:13:57
+ironman-70.3-mallorca-20150509.csv,32,Patrik Nilsson,23,---,SWE,00:22:42,02:18:42,01:12:56,00:02:59,00:01:53,03:59:12
+ironman-70.3-mallorca-20150509.csv,33,Gwenael Ouilleres,29,---,FRA,00:23:39,---,---,00:05:19,---,DNF
+ironman-70.3-mallorca-20150509.csv,34,Fabian Rahn,29,---,DEU,00:28:29,02:23:09,01:23:10,00:02:58,00:02:09,04:19:55
+ironman-70.3-mallorca-20150509.csv,35,Pascal Ramali,29,---,DEU,00:28:22,02:17:48,01:26:00,00:03:07,00:02:07,04:17:24
+ironman-70.3-mallorca-20150509.csv,36,Ivan Risti,34,Intl State,ITA,00:22:39,---,---,00:02:54,---,DNF
+ironman-70.3-mallorca-20150509.csv,37,Andreas Thissen,32,DE,DEU,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,38,Hendrik-Jan Verhaegen,25,---,BEL,00:25:45,02:35:29,01:28:42,00:03:19,00:02:28,04:35:43
+ironman-70.3-mallorca-20150509.csv,39,Eric Watson,25,WA,BHR,00:22:12,02:43:04,01:21:03,00:03:14,00:02:27,04:32:00
+ironman-70.3-mallorca-20150509.csv,40,Dirk Wijnalda,41,NL,NLD,00:26:23,02:28:53,01:18:13,00:03:12,00:01:58,04:18:39
+ironman-70.3-mallorca-20150509.csv,42,Rob Woestenborghs,38,Intl State,BEL,00:28:59,02:19:27,01:14:00,00:03:09,00:01:59,04:07:34
+ironman-70.3-mallorca-20150509.csv,43,Valentin Zasypkin,27,Intl State,RUS,00:30:25,02:43:43,01:31:57,00:04:05,00:02:16,04:52:26
+ironman-70.3-mallorca-20150509.csv,44,Allan Steen Olesen,31,DK,DNK,00:23:36,02:17:47,01:20:20,00:02:49,00:01:57,04:06:29
+ironman-70.3-mallorca-20150509.csv,45,Patrick Lange,28,---,DEU,00:22:41,02:18:32,01:15:28,00:03:01,00:01:51,04:01:33
+ironman-70.3-mallorca-20150509.csv,46,Andreas Lindén,25,---,SWE,00:26:45,---,---,00:03:13,---,DNF
+ironman-70.3-mallorca-20150509.csv,47,Joe Gambles,33,CO,AUS,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,48,Maxim Kriat,30,FL,RUS,00:23:36,02:20:44,01:19:24,00:02:52,00:01:55,04:08:31
+ironman-70.3-mallorca-20150509.csv,49,Michael Louys,28,---,BEL,00:26:25,02:26:59,01:20:46,00:03:12,00:02:00,04:19:22
+ironman-70.3-mallorca-20150509.csv,50,Manuel Kueng,27,---,CHE,00:22:16,02:18:16,01:20:02,00:02:45,00:01:55,04:05:14
+ironman-70.3-mallorca-20150509.csv,51,Evgeniy Nikitin,26,"Intl State
+",RUS,00:23:39,02:42:58,01:43:19,00:03:51,00:02:28,04:56:15
+ironman-70.3-mallorca-20150509.csv,52,Denis Sketako,26,SLOVENIA,SVN,00:25:20,02:24:34,01:18:03,00:03:03,00:02:03,04:13:03
+ironman-70.3-mallorca-20150509.csv,53,Frédéric Schaffner,35,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,54,Johann Ackermann,31,---,DEU,00:22:35,02:25:05,---,00:03:07,00:02:59,DNF
+ironman-70.3-mallorca-20150509.csv,55,Gilian Oriet,30,---,CHE,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,56,Alexander Schilling,26,---,DEU,00:22:48,02:25:10,01:17:47,00:02:47,00:01:52,04:10:24
+ironman-70.3-mallorca-20150509.csv,57,Marcel Bischof,29,DE,DEU,00:25:39,02:25:49,01:22:39,00:03:04,00:02:08,04:19:19
+ironman-70.3-mallorca-20150509.csv,58,Artem Parienko,26,Intl State,RUS,00:23:14,02:18:38,01:14:43,00:02:29,00:01:50,04:00:54
+ironman-70.3-mallorca-20150509.csv,59,Christian Jais,36,---,DEU,00:25:34,02:28:01,01:21:24,00:03:15,00:01:51,04:20:05
+ironman-70.3-mallorca-20150509.csv,60,Jan Van Berkel,29,---,CHE,00:22:40,02:18:48,01:18:39,00:02:47,00:01:46,04:04:40
+ironman-70.3-mallorca-20150509.csv,70,Daniela Ryf,27,---,CHE,00:23:14,02:29:31,01:20:01,00:02:46,00:01:53,04:17:25
+ironman-70.3-mallorca-20150509.csv,71,Julia Gajer,32,---,DEU,00:24:08,02:34:29,01:23:13,00:02:57,00:02:06,04:26:53
+ironman-70.3-mallorca-20150509.csv,72,Yvonne Van Vlerken,36,---,NLD,00:25:59,02:33:36,01:24:32,00:02:45,00:02:11,04:29:03
+ironman-70.3-mallorca-20150509.csv,74,Kristin Moeller,31,---,DEU,00:28:49,02:41:47,01:20:34,00:02:55,00:02:10,04:36:15
+ironman-70.3-mallorca-20150509.csv,76,Mette Pettersen Moe,35,---,NOR,00:24:41,02:40:07,01:32:54,00:03:05,00:02:31,04:43:18
+ironman-70.3-mallorca-20150509.csv,77,Diana Riesler,30,---,DEU,00:25:23,02:37:15,01:31:14,00:03:25,00:02:40,04:39:57
+ironman-70.3-mallorca-20150509.csv,78,Verena Walter,33,---,DEU,00:25:57,02:37:09,01:29:40,00:03:20,00:02:26,04:38:32
+ironman-70.3-mallorca-20150509.csv,79,Maria Lemeseva,26,Intl State,RUS,00:33:01,02:55:59,01:30:21,00:03:17,00:04:09,05:06:47
+ironman-70.3-mallorca-20150509.csv,80,Tine Deckers,36,---,BEL,00:26:47,02:31:27,01:29:30,00:03:16,00:02:23,04:33:23
+ironman-70.3-mallorca-20150509.csv,81,Vicky Gill,34,Intl State,GBR,00:29:24,02:43:30,01:28:51,00:03:42,00:02:22,04:47:49
+ironman-70.3-mallorca-20150509.csv,82,Emma Graaf,31,---,SWE,00:28:18,03:03:06,---,00:03:50,00:03:05,DNF
+ironman-70.3-mallorca-20150509.csv,83,Yvette Grice,35,---,GBR,00:25:19,02:56:38,01:28:21,00:03:24,00:03:11,04:56:53
+ironman-70.3-mallorca-20150509.csv,84,Anne Jensen,37,---,DNK,00:30:23,02:37:13,---,00:04:04,00:02:41,DNF
+ironman-70.3-mallorca-20150509.csv,85,Anna Kusch,29,---,DEU,00:26:50,02:44:18,01:27:24,00:03:21,00:02:30,04:44:23
+ironman-70.3-mallorca-20150509.csv,86,Georgie Rutherford,30,---,GBR,00:24:39,02:49:19,01:36:31,00:03:25,00:02:30,04:56:24
+ironman-70.3-mallorca-20150509.csv,87,Franziska Scheffler,25,DE,DEU,00:29:22,02:41:18,01:29:48,00:03:07,00:02:05,04:45:40
+ironman-70.3-mallorca-20150509.csv,88,Natascha Schmitt,29,---,DEU,00:24:53,02:42:18,01:30:47,00:03:15,00:02:27,04:43:40
+ironman-70.3-mallorca-20150509.csv,89,Mirjam Weerd,39,---,NLD,00:26:00,02:49:17,01:33:29,00:03:44,00:02:52,04:55:22
+ironman-70.3-mallorca-20150509.csv,90,Stefanie Adam,36,---,BEL,00:26:03,02:47:59,01:40:12,00:03:25,00:02:28,05:00:07
+ironman-70.3-mallorca-20150509.csv,91,Elena Casiraghi,31,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,94,Nicole Woysch,38,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,95,Kaisa Sali,33,Uusimaa,FIN,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,96,Michelle Vesterby,31,---,DNK,00:24:39,02:38:49,01:25:34,00:03:00,00:02:20,04:34:22
+ironman-70.3-mallorca-20150509.csv,101,Catalina Barceló Pujol,23,---,ESP,00:48:26,03:17:34,02:02:22,00:08:49,00:05:33,06:22:44
+ironman-70.3-mallorca-20150509.csv,102,Maria De Lluc Gascuñana Granados,23,ES,ESP,00:27:19,03:06:25,02:19:32,00:05:35,00:02:59,06:01:50
+ironman-70.3-mallorca-20150509.csv,103,Rotem Greenberg,24,APO,ISR,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,104,Aya Hallouda,23,sheikh zayed,EGY,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,105,Emma Hugh,23,Shropshire,GBR,00:31:02,03:29:16,02:12:21,00:06:13,00:05:32,06:24:24
+ironman-70.3-mallorca-20150509.csv,106,Anna Nazarova,24,APO,RUS,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,107,Jasmin Sutinen,22,Other,FIN,00:28:34,03:11:31,01:46:38,00:03:49,00:02:28,05:33:00
+ironman-70.3-mallorca-20150509.csv,108,Maria Angels Serra Jimenez,21,ES,ESP,00:37:33,03:23:37,02:22:25,00:06:46,00:05:17,06:35:38
+ironman-70.3-mallorca-20150509.csv,109,Aleksandra Smetannikova,20,SANKT-PETERBURG,RUS,00:40:29,03:28:22,02:05:35,00:05:24,00:03:37,06:23:27
+ironman-70.3-mallorca-20150509.csv,110,Alexandra Sogaard,21,---,DNK,00:28:44,03:20:06,02:05:58,00:05:45,00:03:40,06:04:13
+ironman-70.3-mallorca-20150509.csv,111,Svenja Thoes,23,---,DEU,00:28:16,02:48:40,01:32:06,00:03:23,00:02:03,04:54:28
+ironman-70.3-mallorca-20150509.csv,112,Jana Uderstadt,19,DE,DEU,00:28:59,02:51:00,01:36:05,00:03:20,00:02:05,05:01:29
+ironman-70.3-mallorca-20150509.csv,113,Isabel Vila-Hughes,22,ES,ESP,00:46:15,03:31:52,03:09:05,00:11:14,00:09:22,07:47:48
+ironman-70.3-mallorca-20150509.csv,114,Elaine Wan,23,---,GBR,00:35:04,03:17:42,02:09:40,00:07:25,00:05:33,06:15:24
+ironman-70.3-mallorca-20150509.csv,115,Alexandra Arama,26,APO,RUS,00:47:31,04:02:38,02:06:56,00:08:09,00:09:20,07:14:34
+ironman-70.3-mallorca-20150509.csv,116,Katharina Aßbeck,26,---,DEU,00:38:09,03:30:32,01:47:54,00:06:23,00:04:26,06:07:24
+ironman-70.3-mallorca-20150509.csv,117,Daria Belova,27,---,RUS,00:36:35,03:06:27,01:43:51,00:04:31,00:04:25,05:35:49
+ironman-70.3-mallorca-20150509.csv,118,Elrika Calitz,28,Western Cape,ZAF,00:32:17,03:00:42,01:55:05,00:05:05,00:02:35,05:35:44
+ironman-70.3-mallorca-20150509.csv,119,Louise Høst Carlsen,29,DK,DNK,00:40:13,02:58:21,01:48:37,00:05:44,00:04:05,05:37:00
+ironman-70.3-mallorca-20150509.csv,120,Laura Dick,28,---,DEU,00:38:37,03:21:25,02:00:12,00:06:22,00:04:03,06:10:39
+ironman-70.3-mallorca-20150509.csv,121,Marie Hugo Elvstrøm Ekner,28,DK,DNK,00:35:20,03:16:04,02:12:36,00:05:11,00:04:36,06:13:47
+ironman-70.3-mallorca-20150509.csv,122,Annie Eriksson,24,---,SWE,00:41:39,03:55:10,02:27:31,00:07:47,00:07:59,07:20:06
+ironman-70.3-mallorca-20150509.csv,123,Katrine Zwicky Eskildsen,29,---,DNK,00:34:56,03:08:14,02:11:58,00:05:42,00:03:22,06:04:12
+ironman-70.3-mallorca-20150509.csv,124,Louise Frandsen,27,DK,DNK,00:35:10,02:56:25,02:03:53,00:05:16,00:02:28,05:43:12
+ironman-70.3-mallorca-20150509.csv,125,Sally Goodall,29,---,GBR,00:33:48,03:41:13,01:53:35,00:05:21,00:04:57,06:18:54
+ironman-70.3-mallorca-20150509.csv,126,Sophie Gover,25,---,GBR,00:33:42,03:16:20,02:09:49,00:05:45,00:05:20,06:10:56
+ironman-70.3-mallorca-20150509.csv,127,Nina Gradin,27,---,SWE,00:42:37,03:33:06,02:22:30,00:07:50,00:05:44,06:51:47
+ironman-70.3-mallorca-20150509.csv,128,Carolina Granfors,25,Jakobstad,FIN,00:33:46,03:04:43,01:45:10,00:04:27,00:02:30,05:30:36
+ironman-70.3-mallorca-20150509.csv,129,Elena Gribenko,26,Moscow,RUS,00:35:35,03:39:06,01:59:53,00:08:22,00:06:36,06:29:32
+ironman-70.3-mallorca-20150509.csv,130,Lauren Grim,26,Hampshire,ZAF,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,131,Ramona Gysi,26,---,CHE,00:37:11,03:12:10,02:09:45,00:07:32,00:03:53,06:10:31
+ironman-70.3-mallorca-20150509.csv,132,Carolyn Maria Hayes,27,co.Limerick,IRL,00:24:24,02:49:40,01:37:13,00:03:30,00:02:09,04:56:56
+ironman-70.3-mallorca-20150509.csv,133,Rachel Hayes,27,Dublin ,IRL,00:27:53,03:22:16,01:54:54,00:04:10,00:02:27,05:51:40
+ironman-70.3-mallorca-20150509.csv,134,Zuzette Holm Christensen,29,DK,DNK,00:40:21,03:19:05,02:06:28,00:07:04,00:06:12,06:19:10
+ironman-70.3-mallorca-20150509.csv,135,Phoebe Hugh,25,APO,GBR,00:51:37,03:51:37,02:55:14,00:11:51,00:07:57,07:58:16
+ironman-70.3-mallorca-20150509.csv,136,Mette Lizzi Joergensen,27,---,DNK,00:29:07,03:19:55,02:38:41,00:05:44,00:06:32,06:39:59
+ironman-70.3-mallorca-20150509.csv,137,Rieke Kaiser,24,---,DEU,00:27:45,03:08:42,01:49:12,00:03:37,00:03:18,05:32:34
+ironman-70.3-mallorca-20150509.csv,138,Lauren Keeler,27,---,GBR,00:37:35,03:29:31,02:09:27,00:07:23,00:04:37,06:28:33
+ironman-70.3-mallorca-20150509.csv,139,Amy Kilpin,29,Herts,GBR,00:31:03,03:10:08,01:54:58,00:03:56,00:03:22,05:43:27
+ironman-70.3-mallorca-20150509.csv,140,Melanie Kleinschmidt,25,---,DEU,00:38:52,03:21:16,02:16:24,00:06:32,00:05:09,06:28:13
+ironman-70.3-mallorca-20150509.csv,141,Lena Koever,27,DE,DEU,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,142,Evgenia Koroleva,29,---,RUS,00:36:12,03:29:43,02:02:42,00:07:06,00:05:52,06:21:35
+ironman-70.3-mallorca-20150509.csv,143,Mia Jepsen,---,---,DNK,00:34:42,03:06:38,01:52:35,00:04:55,00:03:12,05:42:02
+ironman-70.3-mallorca-20150509.csv,144,Jennifer Lines,29,Nottinghamshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,145,Sophia Lozano Rubio,25,La Libertad,SLV,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,146,Trine Mariager,28,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,147,Cecilie Mathorne,29,---,DNK,00:28:14,02:51:55,01:45:29,00:03:17,00:02:44,05:11:39
+ironman-70.3-mallorca-20150509.csv,148,Nicole Meerburg,27,---,NLD,00:35:24,03:08:10,01:59:51,00:04:29,00:03:14,05:51:08
+ironman-70.3-mallorca-20150509.csv,149,Berenice Merle,27,APO,DEU,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,150,Laura Muller,29,ES,ESP,00:33:46,03:21:29,01:58:16,00:07:39,00:04:01,06:05:11
+ironman-70.3-mallorca-20150509.csv,151,Carme Muntaner Artigues,27,ES,ESP,00:26:11,03:23:56,01:52:20,00:05:29,00:03:55,05:51:51
+ironman-70.3-mallorca-20150509.csv,152,Emma Nyman,27,SE,FIN,00:47:09,03:25:57,02:02:39,00:08:29,00:04:08,06:28:22
+ironman-70.3-mallorca-20150509.csv,153,Nadezhda Pavlova,25,Moscow,RUS,00:30:53,03:06:05,01:38:40,00:03:53,00:04:30,05:24:01
+ironman-70.3-mallorca-20150509.csv,154,Geri Perkins,27,Northants,GBR,00:42:34,---,---,00:07:06,---,DNF
+ironman-70.3-mallorca-20150509.csv,155,Alice Lockhart,27,---,GBR,00:43:10,03:25:05,02:06:51,00:06:53,00:06:27,06:28:26
+ironman-70.3-mallorca-20150509.csv,156,Rebecca Porter,26,---,CAN,00:33:35,03:27:08,02:02:30,00:06:43,00:03:36,06:13:32
+ironman-70.3-mallorca-20150509.csv,157,Natalie-Louise Ridout,27,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,158,Jandi Rumeu Claret,24,---,ESP,00:32:53,03:26:55,02:20:04,00:05:34,00:04:43,06:30:09
+ironman-70.3-mallorca-20150509.csv,159,Suzanne Scanlan,28,Clare,IRL,00:34:32,03:19:41,02:03:22,00:05:43,00:05:12,06:08:30
+ironman-70.3-mallorca-20150509.csv,160,Lindsay Scott,28,ON,CAN,00:35:21,03:08:33,01:39:32,00:05:01,00:03:05,05:31:32
+ironman-70.3-mallorca-20150509.csv,161,Elena Seybanova,28,---,RUS,00:33:15,03:23:58,01:55:34,00:05:08,00:03:40,06:01:35
+ironman-70.3-mallorca-20150509.csv,162,Signe Thiim,28,DK,DNK,00:38:23,03:13:43,03:10:34,00:06:54,00:04:09,07:13:43
+ironman-70.3-mallorca-20150509.csv,163,Jane Turner,27,---,GBR,00:34:50,03:15:23,02:01:36,00:05:50,00:05:36,06:03:15
+ironman-70.3-mallorca-20150509.csv,165,Victoria Wan,29,---,GBR,00:35:25,03:23:42,02:28:33,00:07:06,00:05:16,06:40:02
+ironman-70.3-mallorca-20150509.csv,166,Gabrielle Webber,28,---,ZAF,00:31:42,02:56:39,01:40:13,00:05:25,00:03:13,05:17:12
+ironman-70.3-mallorca-20150509.csv,167,Nicole Caillaud,26,---,DEU,00:33:23,03:14:59,01:55:29,00:05:34,00:03:28,05:52:53
+ironman-70.3-mallorca-20150509.csv,168,Emma Woodings,28,---,GBR,00:42:18,03:05:44,01:54:30,00:07:58,00:05:52,05:56:22
+ironman-70.3-mallorca-20150509.csv,169,Sofia Ahlqvist,32,---,SWE,00:35:50,03:10:04,01:52:20,00:05:28,00:03:42,05:47:24
+ironman-70.3-mallorca-20150509.csv,170,Laura Alder,32,Lahti,FIN,00:36:21,03:21:00,---,00:07:25,00:03:54,DNF
+ironman-70.3-mallorca-20150509.csv,171,Marietta Andersen,34,DK,DNK,00:33:43,03:19:51,02:35:11,00:05:22,00:05:34,06:39:41
+ironman-70.3-mallorca-20150509.csv,172,Victoria Annis,29,Kent,GBR,00:28:19,03:10:06,02:16:55,00:04:22,00:03:38,06:03:20
+ironman-70.3-mallorca-20150509.csv,173,Maria Atamanova,30,---,RUS,00:54:25,04:12:24,02:37:41,00:11:12,00:13:30,08:09:12
+ironman-70.3-mallorca-20150509.csv,174,Alix Barth-Brossette,30,TX,USA,00:35:45,03:18:23,01:53:27,00:05:39,00:04:47,05:58:01
+ironman-70.3-mallorca-20150509.csv,175,Marina Berezkina,29,---,RUS,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,176,Lina Blomqvist,30,---,SWE,00:30:27,03:08:39,01:47:41,00:06:06,00:04:34,05:37:27
+ironman-70.3-mallorca-20150509.csv,177,Natalia Bodrova,31,noselection,RUS,00:36:01,03:23:25,02:01:51,00:05:36,00:04:08,06:11:01
+ironman-70.3-mallorca-20150509.csv,178,Julie Bordakova,29,---,RUS,00:40:03,03:36:11,01:45:07,00:09:43,00:05:46,06:16:50
+ironman-70.3-mallorca-20150509.csv,179,Ruth Brooker,29,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,180,Rachel Burdick,30,---,CAN,00:33:43,03:26:43,01:55:55,00:05:43,00:04:05,06:06:09
+ironman-70.3-mallorca-20150509.csv,181,Claire Burns,30,APO,IRL,00:47:41,03:50:47,02:15:16,00:12:00,00:07:51,07:13:35
+ironman-70.3-mallorca-20150509.csv,182,María Teresa Canals Gual De Torrella,31,ES,ESP,00:36:12,04:13:53,02:24:18,00:10:29,00:11:16,07:36:08
+ironman-70.3-mallorca-20150509.csv,183,Line Christensen,30,DK,DNK,00:36:34,03:09:56,01:57:06,00:05:21,00:03:59,05:52:56
+ironman-70.3-mallorca-20150509.csv,184,Melanie Claude,31,---,FRA,00:34:45,03:16:53,02:13:15,00:05:40,00:05:04,06:15:37
+ironman-70.3-mallorca-20150509.csv,185,Jennilee Cocks,30,APO,ZAF,00:36:24,03:54:54,02:23:23,00:06:48,00:05:50,07:07:19
+ironman-70.3-mallorca-20150509.csv,186,Becky Coughlan,33,Clare,IRL,00:31:55,03:08:04,01:39:22,00:04:39,00:02:59,05:26:59
+ironman-70.3-mallorca-20150509.csv,187,Nikki Cox,30,---,NZL,00:25:51,03:11:19,01:50:18,00:04:26,00:04:29,05:36:23
+ironman-70.3-mallorca-20150509.csv,188,Tanya Daniels,33,West Mids,GBR,00:35:32,03:13:46,02:00:52,00:05:06,00:03:48,05:59:04
+ironman-70.3-mallorca-20150509.csv,189,Leontien Dekhuyzen,32,---,NLD,00:37:29,03:06:27,01:55:11,00:06:07,00:03:29,05:48:43
+ironman-70.3-mallorca-20150509.csv,190,Ruth Dos Remedios,31,---,GBR,00:42:37,03:22:00,01:53:34,00:07:18,00:04:25,06:09:54
+ironman-70.3-mallorca-20150509.csv,191,Jana Durecova,31,APO,SVK,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,192,María Escañuela,34,---,ESP,00:30:23,03:18:31,01:46:20,00:07:48,00:04:58,05:48:00
+ironman-70.3-mallorca-20150509.csv,193,Lisa Festerling,33,---,DEU,00:35:10,03:06:37,01:49:27,00:05:58,00:03:11,05:40:23
+ironman-70.3-mallorca-20150509.csv,194,Katerina Filippidou,29,Athens,GRC,00:35:13,03:20:52,01:53:35,00:08:23,00:06:53,06:04:56
+ironman-70.3-mallorca-20150509.csv,195,Johanna Franzén,32,SE,SWE,00:43:08,03:29:57,02:19:21,00:05:56,00:03:49,06:42:11
+ironman-70.3-mallorca-20150509.csv,196,Aimee Fryer,29,---,GBR,00:35:14,03:09:09,02:18:08,00:05:13,00:03:21,06:11:05
+ironman-70.3-mallorca-20150509.csv,197,Patricia Gallardo Fernandez,32,ES,ESP,00:35:23,03:28:55,02:16:16,00:06:41,00:04:39,06:31:54
+ironman-70.3-mallorca-20150509.csv,198,Aigul Ganieva,33,Moscow,RUS,00:42:40,03:33:05,01:51:32,00:05:52,00:03:39,06:16:48
+ironman-70.3-mallorca-20150509.csv,199,Helen Gritt,34,ES,GBR,00:40:07,03:21:31,02:01:02,00:06:14,00:04:01,06:12:55
+ironman-70.3-mallorca-20150509.csv,200,Holly Grundon,32,Herts,GBR,00:29:05,03:06:33,01:43:22,00:04:28,00:04:06,05:27:34
+ironman-70.3-mallorca-20150509.csv,201,Jesica Guerrero Ballester,29,ES,ESP,00:35:15,03:13:47,01:31:35,00:04:56,00:03:30,05:29:03
+ironman-70.3-mallorca-20150509.csv,202,Danielle Hald,29,---,DNK,00:34:37,02:57:57,01:50:56,00:04:59,00:02:32,05:31:01
+ironman-70.3-mallorca-20150509.csv,203,Christina Haralambous,32,UK,ZAF,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,204,Felicity Hartnell,30,QLD,AUS,00:29:21,03:41:35,01:38:27,00:05:41,00:06:40,06:01:44
+ironman-70.3-mallorca-20150509.csv,205,Monica Haydock,33,NL,AUS,00:36:32,03:06:57,01:34:18,00:04:02,00:02:18,05:24:07
+ironman-70.3-mallorca-20150509.csv,206,Jo Addison,33,Bristol,GBR,00:35:33,03:09:05,02:03:59,00:04:41,00:04:05,05:57:23
+ironman-70.3-mallorca-20150509.csv,207,Katrina Head,31,Surrey,GBR,00:32:53,03:04:51,01:48:16,00:04:41,00:03:12,05:33:53
+ironman-70.3-mallorca-20150509.csv,208,Katie Henderson,33,---,GBR,00:24:26,02:52:09,---,00:04:19,---,DNF
+ironman-70.3-mallorca-20150509.csv,209,Mia Huus,29,DK,DNK,00:35:59,03:07:20,02:24:49,00:05:04,00:03:33,06:16:45
+ironman-70.3-mallorca-20150509.csv,210,Iulia Ion,31,WA,ROU,00:38:36,03:42:05,02:26:11,00:07:09,00:05:01,06:59:02
+ironman-70.3-mallorca-20150509.csv,211,Larissa Jabali,29,---,DEU,00:40:16,03:19:10,01:56:26,00:08:04,00:04:33,06:08:29
+ironman-70.3-mallorca-20150509.csv,212,Sandra Jermann,33,---,CHE,00:34:44,03:03:13,01:53:57,00:05:25,00:03:17,05:40:36
+ironman-70.3-mallorca-20150509.csv,213,Susie Kaiser,31,---,DEU,00:36:00,03:22:29,01:46:28,00:06:57,00:04:44,05:56:38
+ironman-70.3-mallorca-20150509.csv,214,Niamh Kelly,30,Cork,IRL,00:38:39,03:19:11,02:03:10,00:05:12,00:05:24,06:11:36
+ironman-70.3-mallorca-20150509.csv,215,Rachel Kerr,31,FR,GBR,00:36:23,03:12:00,02:03:13,00:05:44,00:03:19,06:00:39
+ironman-70.3-mallorca-20150509.csv,216,Danielle Kleynhans,29,---,ZAF,00:35:11,03:09:40,02:13:24,00:06:42,00:05:00,06:09:57
+ironman-70.3-mallorca-20150509.csv,217,Nina Koopmann,33,DE,DEU,00:32:01,03:15:41,01:55:43,00:05:06,00:02:39,05:51:10
+ironman-70.3-mallorca-20150509.csv,218,Evgenia Korovina,29,Moscow,RUS,00:41:05,03:11:55,01:40:22,00:06:13,00:02:47,05:42:22
+ironman-70.3-mallorca-20150509.csv,219,Merethe Kragh,34,DK,DNK,00:49:04,03:38:54,02:30:05,00:10:28,00:08:28,07:16:59
+ironman-70.3-mallorca-20150509.csv,220,Annaliese Lancaster,31,London,GBR,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,221,Alexandra Lewicki,31,DE,DEU,00:36:27,03:47:16,02:42:27,00:08:28,00:05:25,07:20:03
+ironman-70.3-mallorca-20150509.csv,222,Tanja Lüdemann,34,---,DNK,00:36:13,03:14:32,01:54:27,00:05:21,00:04:57,05:55:30
+ironman-70.3-mallorca-20150509.csv,223,Natalia Lykova,31,---,RUS,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,224,Liz Mahon,32,Merseyside,GBR,00:38:30,03:20:14,01:58:38,00:06:58,00:05:37,06:09:57
+ironman-70.3-mallorca-20150509.csv,225,Kerry Mccann,33,Hertfordshire,GBR,00:31:33,03:24:07,01:50:23,00:06:23,00:03:37,05:56:03
+ironman-70.3-mallorca-20150509.csv,226,Kate Mcmullan,31,Ireland,IRL,00:42:35,04:17:30,02:33:56,00:13:32,00:09:57,07:57:30
+ironman-70.3-mallorca-20150509.csv,227,Sabrina Mertens,33,---,DEU,00:40:23,03:12:55,02:01:56,00:07:14,00:04:05,06:06:33
+ironman-70.3-mallorca-20150509.csv,228,Linda Metzemaekers,31,NL,NLD,00:37:52,03:10:13,02:18:02,00:05:42,00:02:58,06:14:47
+ironman-70.3-mallorca-20150509.csv,229,Katerina Mitchell,30,Middlesex,AUS,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,230,Bronwyn Mocke,32,Surrey,GBR,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,231,Julia Montgomery,30,---,SWE,00:31:58,02:51:18,01:39:04,00:04:23,00:02:35,05:09:18
+ironman-70.3-mallorca-20150509.csv,232,Natalie Moore,29,---,GBR,---,---,---,---,---,DQ
+ironman-70.3-mallorca-20150509.csv,233,Annelisa Justadottir Møss,33,DK,DNK,00:35:12,03:00:35,01:37:03,00:05:01,00:02:28,05:20:19
+ironman-70.3-mallorca-20150509.csv,234,Laura Mulcahy,32,ES,GBR,00:36:24,03:06:00,01:55:07,00:05:15,00:04:00,05:46:46
+ironman-70.3-mallorca-20150509.csv,235,Sophie Needham,29,Hampshire,GBR,00:32:00,02:59:22,01:54:09,00:05:34,00:03:08,05:34:13
+ironman-70.3-mallorca-20150509.csv,236,Katja Nenonen,34,Nurmijärvi,FIN,00:39:42,03:07:51,02:30:44,00:07:09,00:03:40,06:29:06
+ironman-70.3-mallorca-20150509.csv,237,Iana Novikova,33,---,RUS,00:47:29,04:06:32,02:31:57,00:08:20,00:04:52,07:39:10
+ironman-70.3-mallorca-20150509.csv,238,Laura Ortiz Medina,34,ES,ESP,00:42:57,03:53:21,02:06:18,00:09:37,00:06:41,06:58:54
+ironman-70.3-mallorca-20150509.csv,239,Philippa Oxenham,30,---,ZAF,00:35:15,04:46:07,---,00:07:34,00:05:05,DNF
+ironman-70.3-mallorca-20150509.csv,240,Kaisa Paatsola,33,Uusimaa,FIN,00:36:01,03:24:30,02:01:51,00:05:47,00:03:33,06:11:42
+ironman-70.3-mallorca-20150509.csv,241,Catherine Paterson,30,---,GBR,00:38:36,03:05:58,01:49:45,00:05:49,00:03:34,05:43:42
+ironman-70.3-mallorca-20150509.csv,242,Thilde Sofie Buurgaard Pedersen,33,DK,DNK,00:37:08,03:30:33,02:43:22,00:12:04,00:05:53,07:09:00
+ironman-70.3-mallorca-20150509.csv,243,Hannah Priest,29,---,GBR,00:36:54,02:57:10,01:50:13,00:03:55,00:03:03,05:31:15
+ironman-70.3-mallorca-20150509.csv,244,Steffi Probstfeld,33,DE,DEU,00:40:00,03:16:15,02:14:25,00:05:24,00:03:48,06:19:52
+ironman-70.3-mallorca-20150509.csv,245,Ángela Puig Servera,33,ES,ESP,00:30:12,03:17:39,01:44:19,00:05:01,00:04:33,05:41:44
+ironman-70.3-mallorca-20150509.csv,246,Lene Rasmussen,31,---,DNK,00:38:25,03:06:22,01:52:12,00:06:32,00:04:32,05:48:03
+ironman-70.3-mallorca-20150509.csv,247,Lara Rebassa Studzinski,31,ES,ESP,00:36:53,03:37:02,02:35:17,00:05:19,00:03:02,06:57:33
+ironman-70.3-mallorca-20150509.csv,248,Michelle Reiman,34,London,ZAF,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,249,Line Rener Kristensen,33,DK,DNK,00:35:19,03:07:25,02:05:07,00:04:49,00:02:46,05:55:26
+ironman-70.3-mallorca-20150509.csv,250,Elizabeth Rogers,33,---,AUS,00:35:47,03:44:55,---,00:04:45,---,DNF
+ironman-70.3-mallorca-20150509.csv,251,Marina Rostovtseva,---,Moscow,RUS,00:38:14,03:10:06,01:44:29,00:07:24,00:04:06,05:44:19
+ironman-70.3-mallorca-20150509.csv,252,Evelyn Scholze,33,---,DEU,00:36:08,02:59:56,01:43:25,00:05:37,00:04:43,05:29:49
+ironman-70.3-mallorca-20150509.csv,253,Anne-Roos Schrader,29,NL,NLD,00:38:05,03:02:12,01:49:05,00:05:39,00:04:18,05:39:19
+ironman-70.3-mallorca-20150509.csv,254,Taryn Seba,31,---,GBR,00:35:58,03:49:32,02:04:03,00:06:53,00:05:42,06:42:08
+ironman-70.3-mallorca-20150509.csv,255,Samantha See,32,UK,ZAF,00:35:37,03:23:28,02:11:49,00:06:35,00:04:35,06:22:04
+ironman-70.3-mallorca-20150509.csv,256,Linda Sernfalk,34,---,SWE,00:31:08,03:01:16,01:54:49,00:05:03,00:02:43,05:34:59
+ironman-70.3-mallorca-20150509.csv,257,Rachael Sharples,33,APO,GBR,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,258,Evgeniia Sidorenko,31,---,RUS,00:41:14,03:27:45,02:27:51,00:09:26,00:06:31,06:52:47
+ironman-70.3-mallorca-20150509.csv,259,Jana Simankova,30,Prague,CZE,00:29:34,02:53:40,02:05:40,00:05:10,00:02:46,05:36:50
+ironman-70.3-mallorca-20150509.csv,260,Leanne Smith,31,---,GBR,00:32:01,04:10:25,02:18:39,00:10:27,00:06:11,07:17:43
+ironman-70.3-mallorca-20150509.csv,261,Tessa Soole,31,APO,ZAF,00:44:37,03:43:24,02:14:30,00:06:43,00:06:34,06:55:48
+ironman-70.3-mallorca-20150509.csv,262,Stina Spiegelhauer,30,DK,DNK,00:43:20,03:20:48,02:07:20,00:06:27,00:04:12,06:22:07
+ironman-70.3-mallorca-20150509.csv,263,Monica Steinmo Holler,30,---,NOR,00:34:07,02:58:48,01:59:40,00:05:41,00:05:01,05:43:17
+ironman-70.3-mallorca-20150509.csv,264,Anna Steinsaphir,32,SE,SWE,00:40:59,03:32:19,02:31:08,00:09:36,00:08:52,07:02:54
+ironman-70.3-mallorca-20150509.csv,265,Michelle Stone,33,UK,ZAF,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,266,Marie Stoubaek,33,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,267,Lauren Stretch,30,---,ZAF,00:40:30,04:06:00,02:51:14,00:09:59,00:06:39,07:54:22
+ironman-70.3-mallorca-20150509.csv,268,Lu Telford,32,---,GBR,00:46:40,04:43:21,03:26:35,00:10:27,00:08:32,09:15:35
+ironman-70.3-mallorca-20150509.csv,269,Hannah Thomas,30,West berkshire,GBR,00:40:23,03:21:13,02:06:11,00:07:50,00:05:31,06:21:08
+ironman-70.3-mallorca-20150509.csv,270,Charlotte Tubbs,30,---,GBR,00:28:16,03:04:53,01:49:30,00:05:48,00:04:59,05:33:26
+ironman-70.3-mallorca-20150509.csv,271,Annemieke Van Der Valk,31,London,ZAF,00:37:15,04:09:26,02:26:59,00:08:19,00:05:20,07:27:19
+ironman-70.3-mallorca-20150509.csv,272,Kerry Van Niererk,31,APO,ZAF,00:50:53,03:55:24,02:31:40,00:11:02,00:06:49,07:35:48
+ironman-70.3-mallorca-20150509.csv,273,Saskia Veerman,34,---,NLD,00:31:29,02:50:58,01:42:24,00:04:50,00:03:19,05:13:00
+ironman-70.3-mallorca-20150509.csv,274,Johanna Vesa,31,---,FIN,00:32:25,03:16:40,01:50:52,00:06:15,00:04:09,05:50:21
+ironman-70.3-mallorca-20150509.csv,275,Caroline Weineson,34,---,SWE,00:39:04,03:16:45,01:58:37,00:06:16,00:05:10,06:05:52
+ironman-70.3-mallorca-20150509.csv,276,Johanna Wendt,33,---,DEU,00:40:03,03:29:33,02:31:46,00:07:32,00:04:37,06:53:31
+ironman-70.3-mallorca-20150509.csv,277,Antje Wetzel,32,DE,DEU,00:31:31,03:26:16,02:09:19,00:05:45,00:07:03,06:19:54
+ironman-70.3-mallorca-20150509.csv,278,Andrea Wiederkehr,32,CH,CHE,00:35:10,03:08:30,01:48:12,00:05:04,00:03:00,05:39:56
+ironman-70.3-mallorca-20150509.csv,279,Anna-Stina Wiklund,33,---,FIN,00:35:17,05:09:57,---,00:06:10,---,DNF
+ironman-70.3-mallorca-20150509.csv,280,Siobhan Wild,31,West glamorgan,GBR,00:46:18,03:50:44,02:13:50,00:09:06,00:06:32,07:06:30
+ironman-70.3-mallorca-20150509.csv,281,Daisy Wilson,30,West Midlands,GBR,00:29:29,03:21:17,01:53:35,00:04:56,00:02:58,05:52:15
+ironman-70.3-mallorca-20150509.csv,282,Lisa Wiltshire,30,---,GBR,00:38:28,03:15:34,02:12:43,00:05:14,00:03:25,06:15:24
+ironman-70.3-mallorca-20150509.csv,283,Charlotte Woodcock,32,---,GBR,00:38:25,03:40:11,02:32:36,00:06:39,00:07:41,07:05:32
+ironman-70.3-mallorca-20150509.csv,284,Aleesa Adams,38,CA,USA,00:42:06,03:16:17,02:10:36,00:15:05,00:06:45,06:30:49
+ironman-70.3-mallorca-20150509.csv,285,Storme Alexander,38,Essex,GBR,00:35:14,03:21:28,01:57:52,00:05:03,00:03:04,06:02:41
+ironman-70.3-mallorca-20150509.csv,286,Nina Norden Andersen,36,DK,DNK,00:34:06,03:25:14,02:12:46,00:07:13,00:05:37,06:24:56
+ironman-70.3-mallorca-20150509.csv,287,Séverine Assié,38,---,FRA,00:37:11,04:14:48,02:00:40,00:07:49,00:09:04,07:09:32
+ironman-70.3-mallorca-20150509.csv,288,Sally Barends,36,Surrey,ZAF,00:40:10,04:23:18,02:21:52,00:15:01,00:05:31,07:45:52
+ironman-70.3-mallorca-20150509.csv,289,Helen Barrett,38,---,GBR,00:42:24,03:22:22,02:01:31,00:06:37,00:03:29,06:16:23
+ironman-70.3-mallorca-20150509.csv,290,Ana Berenguel Anter,37,---,ESP,00:35:46,03:23:39,01:49:01,00:06:24,00:03:44,05:58:34
+ironman-70.3-mallorca-20150509.csv,291,Nina Blöndal,36,DK,DNK,00:48:55,03:17:33,02:12:22,00:17:53,00:09:03,06:45:46
+ironman-70.3-mallorca-20150509.csv,292,Pia Bonde,38,---,DNK,00:38:47,03:23:20,02:19:51,00:08:20,00:05:58,06:36:16
+ironman-70.3-mallorca-20150509.csv,293,Maria Bybjerg,37,DK,DNK,00:40:05,03:14:20,01:58:31,00:04:40,00:03:47,06:01:23
+ironman-70.3-mallorca-20150509.csv,294,Nina Campbell,35,---,ZAF,00:29:04,03:03:09,02:01:58,00:06:02,00:03:10,05:43:23
+ironman-70.3-mallorca-20150509.csv,295,Jo Cartledge,36,Cheshire,GBR,00:40:46,03:19:37,02:35:19,00:07:46,00:06:57,06:50:25
+ironman-70.3-mallorca-20150509.csv,296,Alimpiada Cassidy,36,---,RUS,00:33:15,03:42:54,02:23:02,00:07:21,00:07:44,06:54:16
+ironman-70.3-mallorca-20150509.csv,297,Catherine Cerezo Fittipaldi,34,---,FRA,00:40:01,03:26:01,02:31:04,00:05:29,00:05:51,06:48:26
+ironman-70.3-mallorca-20150509.csv,298,Rachael Childs,38,APO,GBR,00:40:51,03:27:06,02:42:49,00:08:22,00:05:57,07:05:05
+ironman-70.3-mallorca-20150509.csv,300,Francisca Cifre Roig,37,ES,ESP,00:33:55,03:05:59,02:00:12,00:05:39,00:05:46,05:51:31
+ironman-70.3-mallorca-20150509.csv,301,Gemma Creed,35,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,302,Siobhan Curtis,36,Kent,GBR,00:36:51,03:04:51,02:00:22,00:06:35,00:04:57,05:53:36
+ironman-70.3-mallorca-20150509.csv,303,Nichola Davies,39,West Glamorgan,GBR,00:39:16,04:11:18,03:01:44,00:09:26,00:06:54,08:08:38
+ironman-70.3-mallorca-20150509.csv,304,Suzanne Davies,36,---,GBR,00:31:30,03:14:06,01:46:50,00:06:29,00:03:50,05:42:45
+ironman-70.3-mallorca-20150509.csv,305,Gina De Boeck,36,BE,BEL,00:31:56,02:56:10,01:49:18,00:04:24,00:02:51,05:24:39
+ironman-70.3-mallorca-20150509.csv,306,Danny Dechant,34,---,DEU,00:39:41,03:17:32,02:14:02,00:05:47,00:03:13,06:20:15
+ironman-70.3-mallorca-20150509.csv,307,Sonja Degel,35,DE,DEU,00:27:24,03:12:30,01:53:49,00:04:34,00:03:14,05:41:31
+ironman-70.3-mallorca-20150509.csv,308,Sofia Demnert,36,---,SWE,00:33:29,03:36:23,02:24:10,00:08:27,00:07:10,06:49:39
+ironman-70.3-mallorca-20150509.csv,309,Anne Doerper,37,DE,DEU,00:35:13,03:04:12,01:55:02,00:07:14,00:03:36,05:45:17
+ironman-70.3-mallorca-20150509.csv,310,Roisin Donohoe,35,ireland,IRL,00:35:18,03:07:23,02:14:03,00:07:07,00:04:15,06:08:06
+ironman-70.3-mallorca-20150509.csv,311,Tamsin Ede,35,---,GBR,00:42:50,03:13:42,01:43:31,00:05:29,00:03:27,05:48:59
+ironman-70.3-mallorca-20150509.csv,312,Meizi Eliezer,37,Herzilyya,ISR,00:41:24,03:22:52,02:13:15,00:09:54,00:05:33,06:32:58
+ironman-70.3-mallorca-20150509.csv,313,Marie-Anne Erven,37,APO,GBR,00:40:23,03:59:13,03:01:12,00:08:00,00:08:37,07:57:25
+ironman-70.3-mallorca-20150509.csv,314,Sabina Falcone - Healy,38,---,GBR,00:47:43,03:45:47,02:08:57,00:07:53,00:06:37,06:56:57
+ironman-70.3-mallorca-20150509.csv,315,Krestina Flyger,36,DK,DNK,00:54:59,03:30:31,02:28:32,00:10:50,00:07:31,07:12:23
+ironman-70.3-mallorca-20150509.csv,316,Diana Furler,38,---,CHE,00:32:04,03:00:34,01:46:02,00:05:27,00:03:52,05:27:59
+ironman-70.3-mallorca-20150509.csv,317,Annica Goddard,36,---,GBR,00:32:57,03:07:16,01:41:01,00:04:09,00:02:44,05:28:07
+ironman-70.3-mallorca-20150509.csv,318,Kathy Grassick,37,Kildare,IRL,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,319,Jo Green,36,London,GBR,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,320,Bianca Grosse,38,DE,DEU,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,321,Thea Gudgeon,38,---,GBR,00:34:15,03:00:19,01:41:14,00:05:21,00:02:58,05:24:07
+ironman-70.3-mallorca-20150509.csv,322,Jette Gudmandsen,38,---,DNK,00:42:00,03:16:10,02:08:31,00:07:26,00:06:03,06:20:10
+ironman-70.3-mallorca-20150509.csv,323,Jo Haley,37,---,GBR,00:30:55,02:56:18,01:37:05,00:04:04,00:02:51,05:11:13
+ironman-70.3-mallorca-20150509.csv,324,Jill Harper-Jones,36,---,GBR,00:38:18,03:31:18,02:11:38,00:07:20,00:04:53,06:33:27
+ironman-70.3-mallorca-20150509.csv,325,Katie Hickson,37,---,IRL,00:38:08,03:15:22,01:43:49,00:05:41,00:04:02,05:47:02
+ironman-70.3-mallorca-20150509.csv,326,Amanda Holloway,38,Hampshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,327,Katja Husen,38,Hamburg,DEU,00:42:44,03:15:16,01:59:08,00:06:17,00:05:01,06:08:26
+ironman-70.3-mallorca-20150509.csv,328,Vicky Huybrechts,39,BE,BEL,00:43:54,03:18:19,02:08:29,00:06:47,00:08:12,06:25:41
+ironman-70.3-mallorca-20150509.csv,329,Katrina Hyde,36,West Midlands,GBR,00:35:13,03:14:54,01:51:02,00:07:31,00:03:35,05:52:15
+ironman-70.3-mallorca-20150509.csv,330,Kelly Isenberger,35,TX,USA,00:39:33,03:37:10,02:34:53,00:07:39,00:06:15,07:05:30
+ironman-70.3-mallorca-20150509.csv,331,Anna Ivanova,38,Moscow,RUS,00:42:11,03:11:18,01:49:42,00:05:23,00:03:27,05:52:01
+ironman-70.3-mallorca-20150509.csv,332,Helen Jones,35,glos,GBR,00:35:13,03:17:22,01:52:18,00:04:14,00:03:26,05:52:33
+ironman-70.3-mallorca-20150509.csv,333,Stina Jönsson,35,---,SWE,00:34:39,03:50:49,02:56:18,00:08:55,00:04:56,07:35:37
+ironman-70.3-mallorca-20150509.csv,334,Camilla Hinsch Josephson,38,---,DNK,00:38:40,03:00:02,01:52:35,00:06:56,00:03:49,05:42:02
+ironman-70.3-mallorca-20150509.csv,335,Anu Junnila,34,Finland,FIN,00:34:55,03:22:39,01:55:40,00:04:50,00:04:47,06:02:51
+ironman-70.3-mallorca-20150509.csv,336,Katherine Kaczynska,35,---,BHR,00:26:00,03:19:44,02:12:25,00:06:06,00:04:05,06:08:20
+ironman-70.3-mallorca-20150509.csv,337,Maire-Triona Keane,35,Offaly,IRL,00:31:51,02:58:01,01:40:01,00:04:17,00:02:31,05:16:41
+ironman-70.3-mallorca-20150509.csv,338,Kis Beáta,34,APO,HUN,00:54:35,03:20:27,02:14:04,00:12:05,00:07:36,06:48:47
+ironman-70.3-mallorca-20150509.csv,339,Signe Bak Klit,37,DK,DNK,00:36:16,03:06:18,01:46:34,00:04:19,00:02:56,05:36:23
+ironman-70.3-mallorca-20150509.csv,340,Debbie Knight,38,Surrey,GBR,00:38:26,03:38:36,02:29:15,00:09:10,00:07:39,07:03:06
+ironman-70.3-mallorca-20150509.csv,341,Anne Konring Larsen,36,DK,DNK,00:46:49,02:58:20,01:42:07,00:06:14,00:04:10,05:37:40
+ironman-70.3-mallorca-20150509.csv,342,Maia Kontente,38,Tel Aviv,ISR,00:42:15,03:45:20,02:18:15,00:10:44,00:06:20,07:02:54
+ironman-70.3-mallorca-20150509.csv,343,Joana Kuhlmann,38,---,DEU,00:43:38,04:13:42,02:33:24,00:09:40,00:09:25,07:49:49
+ironman-70.3-mallorca-20150509.csv,344,Helen Lancaster,39,UK,GBR,00:40:51,03:46:17,02:12:02,00:10:46,00:07:53,06:57:49
+ironman-70.3-mallorca-20150509.csv,345,Petra Leitmann,37,---,DEU,00:36:00,03:10:39,02:03:38,00:05:54,00:03:33,05:59:44
+ironman-70.3-mallorca-20150509.csv,346,Lorraine Leivers,35,---,GBR,00:32:14,03:13:00,02:07:08,00:06:04,00:03:17,06:01:43
+ironman-70.3-mallorca-20150509.csv,347,Alessia Ligugnana Cason,38,ITALIA,ITA,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,348,Wibke Lorenz,38,ON,CAN,00:38:55,03:26:33,02:33:11,00:07:27,00:04:43,06:50:49
+ironman-70.3-mallorca-20150509.csv,349,Allison Lowder,38,---,GBR,00:41:03,04:12:34,02:31:43,00:09:55,00:09:30,07:44:45
+ironman-70.3-mallorca-20150509.csv,350,Emma Malmberg,35,---,SWE,00:30:32,03:12:18,01:59:08,00:05:34,00:04:31,05:52:03
+ironman-70.3-mallorca-20150509.csv,351,Linda Malmqvist,34,SE,SWE,00:34:25,03:35:14,02:08:12,00:08:43,00:06:24,06:32:58
+ironman-70.3-mallorca-20150509.csv,352,Céline Marti,36,---,CHE,00:41:07,03:36:07,02:36:47,00:05:06,00:03:35,07:02:42
+ironman-70.3-mallorca-20150509.csv,353,Kristina Mathiesen,36,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,354,Holly Matthews,36,Hampshire,GBR,00:39:30,03:19:45,01:59:25,00:05:35,00:04:23,06:08:38
+ironman-70.3-mallorca-20150509.csv,355,Kim Matthews,38,---,GBR,00:35:44,03:16:03,01:53:25,00:06:46,00:03:57,05:55:55
+ironman-70.3-mallorca-20150509.csv,356,Satu Mattila,37,Kymenlaakso,FIN,00:46:07,04:44:45,03:19:30,00:08:02,00:09:09,09:07:33
+ironman-70.3-mallorca-20150509.csv,357,Michelle Mcgovern,36,Armagh,IRL,00:35:12,03:37:28,03:00:47,00:07:12,00:05:43,07:26:22
+ironman-70.3-mallorca-20150509.csv,358,Valeriya Merkulova,34,APO,RUS,00:29:31,03:09:11,01:37:02,00:04:02,00:03:16,05:23:02
+ironman-70.3-mallorca-20150509.csv,359,Aline Michel,34,---,FRA,00:43:24,03:28:25,01:55:33,00:05:22,00:03:07,06:15:51
+ironman-70.3-mallorca-20150509.csv,360,Rosa Morro Molina,38,ES,ESP,00:42:00,03:09:45,01:59:12,00:08:15,00:05:06,06:04:18
+ironman-70.3-mallorca-20150509.csv,361,Nina Müller,35,DE,DEU,00:38:41,03:13:14,02:07:00,00:06:09,00:03:36,06:08:40
+ironman-70.3-mallorca-20150509.csv,362,Nadin Eule-Mau,34,---,DEU,00:37:55,03:07:33,01:45:38,00:05:59,00:04:52,05:41:57
+ironman-70.3-mallorca-20150509.csv,363,Janice Nieuwoudt,35,---,ZAF,00:36:35,03:38:47,02:28:45,00:07:39,00:07:39,06:59:25
+ironman-70.3-mallorca-20150509.csv,364,Sinead Nolan,39,Longford,IRL,00:36:16,03:12:42,01:40:12,00:05:10,00:03:18,05:37:38
+ironman-70.3-mallorca-20150509.csv,365,Beathrice Oden,34,SE,SWE,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,366,Mette Resting Olsen,35,---,DNK,00:30:32,02:56:49,01:56:18,00:05:05,00:03:34,05:32:18
+ironman-70.3-mallorca-20150509.csv,367,Laura O'shea,37,Clare,IRL,00:42:03,03:28:09,02:33:52,00:08:16,00:06:02,06:58:22
+ironman-70.3-mallorca-20150509.csv,368,Dervla Owens,36,dublin,IRL,00:40:04,03:15:16,02:00:32,00:05:01,00:03:53,06:04:46
+ironman-70.3-mallorca-20150509.csv,369,Hazel Padmore,38,---,GBR,00:50:21,03:39:57,02:39:22,00:08:15,00:07:10,07:25:05
+ironman-70.3-mallorca-20150509.csv,370,Lise Pagaard Ruge,38,DK,DNK,00:39:31,03:23:03,02:05:26,00:06:35,00:05:15,06:19:50
+ironman-70.3-mallorca-20150509.csv,371,Agnes Park,35,NY,USA,00:37:08,03:35:29,02:31:29,00:06:23,00:06:15,06:56:44
+ironman-70.3-mallorca-20150509.csv,372,Steph Parry,36,Hants,GBR,00:35:23,03:53:14,02:49:53,00:07:44,00:05:52,07:32:06
+ironman-70.3-mallorca-20150509.csv,374,Susanna Pinosto,38,OULU,FIN,00:40:14,03:01:51,02:07:04,00:04:50,00:04:01,05:58:00
+ironman-70.3-mallorca-20150509.csv,375,Elena Ploskonosova,37,Moscow,RUS,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,376,Karen Pollefeyt,35,BE,BEL,00:36:30,03:20:37,02:12:19,00:06:39,00:06:21,06:22:26
+ironman-70.3-mallorca-20150509.csv,377,Salli Rebassa Studzinski,39,ES,ESP,00:31:49,03:39:15,02:35:59,00:06:21,00:04:09,06:57:33
+ironman-70.3-mallorca-20150509.csv,378,Stefanie Roemer,36,---,ESP,00:32:07,03:19:19,02:07:10,00:06:19,00:06:36,06:11:31
+ironman-70.3-mallorca-20150509.csv,379,Claire Rowell,35,Tyne and Wear,GBR,00:45:50,03:43:28,02:10:12,00:08:39,00:08:11,06:56:20
+ironman-70.3-mallorca-20150509.csv,380,Olga Rukosueva,36,Volgogradskaya obl,RUS,00:51:54,03:54:52,02:24:13,00:10:08,00:08:44,07:29:51
+ironman-70.3-mallorca-20150509.csv,381,Yvonne Ryan,34,---,GBR,00:39:51,03:13:49,01:55:15,00:08:03,00:05:48,06:02:46
+ironman-70.3-mallorca-20150509.csv,382,Linda Sahlin,36,SE,SWE,00:32:32,03:28:05,02:08:42,00:05:49,00:03:21,06:18:29
+ironman-70.3-mallorca-20150509.csv,383,Luisa Scandola,38,LC,ITA,00:37:23,03:05:24,01:56:06,00:05:53,00:04:59,05:49:45
+ironman-70.3-mallorca-20150509.csv,384,Elke Schroeter,37,---,SWE,00:40:32,03:37:37,02:56:46,00:11:06,00:09:19,07:35:20
+ironman-70.3-mallorca-20150509.csv,385,Annemie Sprenger De Rover,34,---,GBR,00:38:43,03:37:39,02:11:58,00:06:10,00:04:14,06:38:44
+ironman-70.3-mallorca-20150509.csv,386,Laura Steward,36,---,GBR,00:40:27,04:12:43,02:54:16,00:13:34,00:08:13,08:09:13
+ironman-70.3-mallorca-20150509.csv,387,Lindha Stolpe,36,---,SWE,00:44:09,03:49:34,02:37:23,00:07:50,00:08:49,07:27:45
+ironman-70.3-mallorca-20150509.csv,388,Trude Stormo,34,---,NOR,00:38:42,02:52:59,01:45:35,00:05:45,00:03:15,05:26:16
+ironman-70.3-mallorca-20150509.csv,389,Siobhan Stotter,34,---,ZAF,00:38:57,03:44:35,02:30:51,00:08:01,00:07:29,07:09:53
+ironman-70.3-mallorca-20150509.csv,390,Christine Strathmann,35,---,DEU,00:36:18,03:14:07,01:45:23,00:07:21,00:04:48,05:47:57
+ironman-70.3-mallorca-20150509.csv,391,Ulrike Syring,---,DE,DEU,00:34:11,03:05:32,02:01:45,00:03:40,00:02:25,05:47:33
+ironman-70.3-mallorca-20150509.csv,392,Marlene Fisker Thøgersen,36,Intl State,DNK,00:34:41,03:03:15,01:58:50,00:05:15,00:04:03,05:46:04
+ironman-70.3-mallorca-20150509.csv,393,Vera Unterkreuter,35,DE,DEU,00:35:07,03:21:41,02:09:59,00:04:43,00:03:44,06:15:14
+ironman-70.3-mallorca-20150509.csv,394,Marieke Van Lierop,37,NL,NLD,00:35:21,03:03:03,01:44:22,00:04:36,00:02:14,05:29:36
+ironman-70.3-mallorca-20150509.csv,395,Lisa Van Vlaanderen,36,---,ZAF,00:40:21,03:46:23,02:34:55,00:09:18,00:04:36,07:15:33
+ironman-70.3-mallorca-20150509.csv,396,Robyn Van Wyk,37,Western Cape,ZAF,00:32:03,03:31:29,02:19:50,00:08:41,00:06:21,06:38:24
+ironman-70.3-mallorca-20150509.csv,397,Laila Vejrgang,38,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,398,Sandra Vergo,35,---,DNK,00:35:18,02:56:07,01:48:36,00:05:10,00:03:15,05:28:26
+ironman-70.3-mallorca-20150509.csv,399,Nicola Wagener,38,---,DEU,00:35:15,03:01:34,01:54:20,00:05:43,00:03:20,05:40:12
+ironman-70.3-mallorca-20150509.csv,400,Elaine Walley,38,Tipperary,IRL,00:39:00,03:13:23,01:59:55,00:06:08,00:03:17,06:01:43
+ironman-70.3-mallorca-20150509.csv,401,Irontarsh Tremayne,38,Surrey,AUS,00:40:02,03:31:55,02:28:26,00:05:30,00:04:12,06:50:05
+ironman-70.3-mallorca-20150509.csv,403,Helen Wilson,34,Western Cape,ZAF,00:27:20,03:11:32,01:51:15,00:04:36,00:03:17,05:38:00
+ironman-70.3-mallorca-20150509.csv,404,Yulia Zlobina,35,Moscow,RUS,00:38:41,03:48:29,02:13:55,00:11:01,00:06:33,06:58:39
+ironman-70.3-mallorca-20150509.csv,405,Antonia Puertollano Gallaway,26,---,ESP,00:30:21,03:11:28,02:17:08,00:05:04,00:03:36,06:07:37
+ironman-70.3-mallorca-20150509.csv,406,Verónica Pujol González,37,---,ESP,00:34:21,03:55:12,02:10:11,00:04:50,00:03:02,06:47:36
+ironman-70.3-mallorca-20150509.csv,407,Victoria García Argueta,35,ES,ESP,00:42:09,03:42:18,02:31:37,00:10:32,00:09:01,07:15:37
+ironman-70.3-mallorca-20150509.csv,408,Ekaterina Inozemtseva,29,APO,RUS,00:46:27,03:55:10,02:20:19,00:07:23,00:06:40,07:15:59
+ironman-70.3-mallorca-20150509.csv,409,Ann Kristin Gjetle,32,ES,DEU,00:42:15,04:16:44,02:51:58,00:09:02,00:05:21,08:05:20
+ironman-70.3-mallorca-20150509.csv,431,Eva Ahlbom Fredriksson,43,SE,SWE,00:46:39,03:39:53,02:22:53,00:10:05,00:10:01,07:09:31
+ironman-70.3-mallorca-20150509.csv,432,Caroline Nygaard Andersen,43,---,DNK,00:49:26,03:42:47,02:33:31,00:12:45,00:07:52,07:26:21
+ironman-70.3-mallorca-20150509.csv,433,Nicole Asal,42,---,DEU,00:34:24,02:59:40,01:51:05,00:04:47,00:03:25,05:33:21
+ironman-70.3-mallorca-20150509.csv,434,Melinda Atkinson,40,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,435,Minna Bäckman,43,---,SWE,00:30:50,03:12:45,01:48:27,00:06:04,00:03:32,05:41:38
+ironman-70.3-mallorca-20150509.csv,436,Tara Truman,43,Glos,GBR,00:34:17,03:00:39,01:58:15,00:04:45,00:02:36,05:40:32
+ironman-70.3-mallorca-20150509.csv,437,Barbara Egloff,41,---,CHE,00:33:07,03:03:23,---,00:04:01,00:03:15,DNF
+ironman-70.3-mallorca-20150509.csv,438,Tanya Barr,40,Surrey,GBR,00:41:50,03:51:38,02:48:40,00:06:33,00:09:40,07:38:21
+ironman-70.3-mallorca-20150509.csv,439,Rosa Bauza Ferrar,43,ES,ESP,00:44:39,03:09:05,02:10:45,00:07:32,00:04:37,06:16:38
+ironman-70.3-mallorca-20150509.csv,441,Martina Bendt,41,SE,SWE,00:44:30,03:36:44,02:11:37,00:06:19,00:05:51,06:45:01
+ironman-70.3-mallorca-20150509.csv,442,Sophie Biggs,43,---,GBR,00:34:08,03:27:39,01:57:32,00:05:14,00:04:19,06:08:52
+ironman-70.3-mallorca-20150509.csv,443,Michaela Bohlsen,41,Niedersachsen,DEU,00:32:43,03:15:48,01:55:08,00:05:53,00:04:31,05:54:03
+ironman-70.3-mallorca-20150509.csv,444,Cathlyn Bone,39,---,GBR,00:35:28,03:07:53,01:56:09,00:07:29,00:05:34,05:52:33
+ironman-70.3-mallorca-20150509.csv,445,Charlie Bradburn,41,ES,GBR,00:39:59,03:25:00,01:48:40,00:08:11,00:03:34,06:05:24
+ironman-70.3-mallorca-20150509.csv,446,Nadja Buschhaus,42,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,447,Mpaz Cerdá Cerdá,39,ES,ESP,00:36:40,03:44:25,02:07:32,00:08:23,00:06:57,06:43:57
+ironman-70.3-mallorca-20150509.csv,448,Alison Chait,42,ZA,ZAF,00:33:57,03:17:34,01:53:43,00:06:09,00:04:09,05:55:32
+ironman-70.3-mallorca-20150509.csv,449,Sofi Christensen,39,---,SWE,00:40:12,03:24:13,02:09:00,00:06:58,00:06:40,06:27:03
+ironman-70.3-mallorca-20150509.csv,450,Cathy Cichy,39,---,CHE,00:36:38,03:00:37,01:44:42,00:05:20,00:02:45,05:30:02
+ironman-70.3-mallorca-20150509.csv,452,Virginie Clausen,43,--select--,FRA,00:38:19,---,---,---,---,DNF
+ironman-70.3-mallorca-20150509.csv,453,Nicola Copley,42,lancashire,GBR,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,454,Jacqueline Corless,39,West Lothian,GBR,00:34:29,03:22:34,02:25:29,00:04:54,00:03:27,06:30:53
+ironman-70.3-mallorca-20150509.csv,455,Sophie Coutant,41,---,FRA,00:46:10,03:14:19,01:53:49,00:11:18,00:08:59,06:14:35
+ironman-70.3-mallorca-20150509.csv,456,Mette Dam,43,---,DNK,00:33:13,03:06:56,01:53:02,00:05:08,00:03:11,05:41:30
+ironman-70.3-mallorca-20150509.csv,457,Caroline De Vos,39,BE,BEL,00:36:36,03:19:07,02:17:27,00:06:23,00:04:04,06:23:37
+ironman-70.3-mallorca-20150509.csv,458,Claudia Demuth,39,---,DEU,00:36:46,03:11:22,01:56:19,00:07:53,00:04:53,05:57:13
+ironman-70.3-mallorca-20150509.csv,459,Richard Graham,43,UK,GBR,00:40:53,03:47:06,01:59:01,00:10:37,00:06:13,06:43:50
+ironman-70.3-mallorca-20150509.csv,461,Cecilia Ellis,39,---,GBR,00:48:53,03:55:54,02:49:05,00:08:58,00:09:54,07:52:44
+ironman-70.3-mallorca-20150509.csv,462,Eva Endress,42,---,DEU,00:41:24,04:15:59,02:33:39,00:13:25,00:08:15,07:52:42
+ironman-70.3-mallorca-20150509.csv,463,Victoria England,40,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,464,Demelza Farrer,42,APO,GBR,00:30:48,02:56:35,01:58:57,00:04:06,00:02:49,05:33:15
+ironman-70.3-mallorca-20150509.csv,465,Bianca Feuerbach,39,---,DEU,00:37:46,03:10:47,01:50:15,00:05:45,00:03:27,05:48:00
+ironman-70.3-mallorca-20150509.csv,466,Katherine Fitzgerald-Gill,40,West Yorks,GBR,00:35:42,03:05:59,02:20:22,00:04:47,00:04:28,06:11:18
+ironman-70.3-mallorca-20150509.csv,467,Maria Frånlund,40,SE,SWE,00:34:40,---,---,00:05:59,---,DNF
+ironman-70.3-mallorca-20150509.csv,468,Noemí García Avizanda,39,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,469,Mel Glover,43,Warwickshire,GBR,00:38:04,03:25:36,02:21:03,00:07:55,00:05:50,06:38:28
+ironman-70.3-mallorca-20150509.csv,470,Lillan Sindahl Glã¼mer,42,---,DNK,00:33:22,02:52:41,01:42:00,00:03:49,00:02:46,05:14:38
+ironman-70.3-mallorca-20150509.csv,471,Charlotte Gormley,42,Kent,SWE,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,472,Michelle Greatrex,40,---,GBR,00:30:46,03:23:16,02:27:13,00:04:25,00:05:03,06:30:43
+ironman-70.3-mallorca-20150509.csv,473,Rosa M Guillen Ripoll,41,ANDORRA,AND,00:34:27,03:25:52,02:12:29,00:07:52,00:08:31,06:29:11
+ironman-70.3-mallorca-20150509.csv,474,Susanne Gutjahr,41,Luxemburg,LUX,00:37:44,03:07:20,01:51:23,00:05:57,00:03:29,05:45:53
+ironman-70.3-mallorca-20150509.csv,475,Gerhild Hafner-Holzmann,41,---,AUT,00:34:11,03:21:49,01:59:31,00:08:11,00:05:51,06:09:33
+ironman-70.3-mallorca-20150509.csv,476,Christina Godsk Hansen,39,APO,DNK,00:37:41,03:09:13,02:03:57,00:05:43,00:04:47,06:01:21
+ironman-70.3-mallorca-20150509.csv,477,Christiane Harwardt-Linde,42,---,DEU,00:41:50,03:42:07,02:25:35,00:09:31,00:05:42,07:04:45
+ironman-70.3-mallorca-20150509.csv,478,Linda Hemmingson,39,SE,SWE,00:46:46,03:30:42,02:00:37,00:10:32,00:08:17,06:36:54
+ironman-70.3-mallorca-20150509.csv,479,Heather James,42,Devon,GBR,00:39:17,04:01:47,02:30:28,00:13:44,00:12:13,07:37:29
+ironman-70.3-mallorca-20150509.csv,480,Aude Jansou,40,---,FRA,00:45:24,03:32:39,02:20:19,00:08:28,00:06:40,06:53:30
+ironman-70.3-mallorca-20150509.csv,481,Jennie Jones,44,BERKSHIRE,GBR,00:36:38,03:15:03,02:40:57,00:07:47,00:05:54,06:46:19
+ironman-70.3-mallorca-20150509.csv,482,Maria Jordanis,43,---,DNK,00:41:44,03:33:48,02:07:34,00:06:57,00:05:52,06:35:55
+ironman-70.3-mallorca-20150509.csv,483,Margaret Kelly,43,Donegal,IRL,00:33:41,03:07:04,01:41:57,00:04:53,00:02:52,05:30:27
+ironman-70.3-mallorca-20150509.csv,484,Verena Koren,40,AT,AUT,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,485,Pernille Krogsrud,40,---,DNK,00:38:46,03:10:09,01:49:58,00:07:00,00:04:58,05:50:51
+ironman-70.3-mallorca-20150509.csv,486,Rikkekatrine Rose Larsen,43,---,DNK,00:41:55,03:25:04,02:24:21,00:11:44,00:05:44,06:48:48
+ironman-70.3-mallorca-20150509.csv,487,Tessa Lupton,41,---,GBR,00:43:40,03:55:55,02:13:45,00:11:12,00:09:05,07:13:37
+ironman-70.3-mallorca-20150509.csv,488,Carmit Matalon,41,Israel,ISR,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,489,Alicja Medak,42,---,POL,00:35:12,02:59:52,01:39:46,00:04:41,00:04:04,05:23:35
+ironman-70.3-mallorca-20150509.csv,490,Emma Megitt,41,SE,SWE,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,491,Anke Meyring,41,---,DEU,00:37:39,03:13:30,02:07:47,00:05:33,00:03:50,06:08:19
+ironman-70.3-mallorca-20150509.csv,492,Jenni Muston,41,---,GBR,00:30:36,02:58:52,01:45:23,00:05:28,00:04:22,05:24:41
+ironman-70.3-mallorca-20150509.csv,493,Susan Naughton,43,Dublin  16,IRL,00:30:49,03:17:37,01:56:06,00:05:46,00:04:48,05:55:06
+ironman-70.3-mallorca-20150509.csv,494,Muriel Navarro,41,FR,FRA,00:39:22,---,06:08:02,---,---,06:08:02
+ironman-70.3-mallorca-20150509.csv,495,Lisa Nilsson,42,---,SWE,00:42:25,03:33:22,02:09:28,00:07:16,00:04:35,06:37:06
+ironman-70.3-mallorca-20150509.csv,496,Louise O´shea,42,Galway,IRL,00:37:49,03:07:06,01:58:26,00:05:40,00:03:33,05:52:34
+ironman-70.3-mallorca-20150509.csv,497,Grainne Oboyle,43,Roscommon,IRL,00:40:42,03:52:29,02:13:45,00:11:57,00:05:21,07:04:14
+ironman-70.3-mallorca-20150509.csv,498,Joanne O'Donnell,41,Clare,IRL,00:41:14,03:20:31,02:20:56,00:06:57,00:04:35,06:34:13
+ironman-70.3-mallorca-20150509.csv,499,Sabine Ohmes,40,SE,SWE,00:38:22,03:44:30,02:15:37,00:14:24,00:13:56,07:06:49
+ironman-70.3-mallorca-20150509.csv,500,Agnès Oliver Mora,40,---,ESP,00:45:12,03:24:04,02:00:19,00:09:48,00:06:37,06:26:00
+ironman-70.3-mallorca-20150509.csv,501,Tjarda Omta,40,---,NLD,00:46:58,03:23:12,02:05:41,00:06:39,00:04:47,06:27:17
+ironman-70.3-mallorca-20150509.csv,502,Mirelle Oudejans,43,NL,NLD,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,503,Keren Parnas,42,israel,ISR,00:42:49,03:37:48,02:22:49,00:07:56,00:05:37,06:56:59
+ironman-70.3-mallorca-20150509.csv,504,Paula Patino,39,APO,ARG,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,505,Simone Pelz,43,---,DEU,00:35:06,03:03:49,01:59:05,00:05:49,00:03:53,05:47:42
+ironman-70.3-mallorca-20150509.csv,506,Joana Aina Perello March,42,ES,ESP,00:40:49,03:21:57,02:13:06,00:07:09,00:05:54,06:28:55
+ironman-70.3-mallorca-20150509.csv,507,Helena Polaskova-Menard,41,FR,CZE,00:36:25,03:36:33,02:05:14,00:05:45,00:06:17,06:30:14
+ironman-70.3-mallorca-20150509.csv,508,Nicola Quinn,39,---,IRL,00:35:23,03:37:05,02:15:42,00:08:37,00:06:46,06:43:33
+ironman-70.3-mallorca-20150509.csv,509,Elin Rame,---,NO,NOR,00:39:52,02:53:57,01:57:58,00:06:18,00:03:51,05:41:56
+ironman-70.3-mallorca-20150509.csv,510,Katja Ramm,40,---,DEU,00:41:34,03:46:13,02:25:16,00:07:17,00:04:02,07:04:22
+ironman-70.3-mallorca-20150509.csv,511,Ellen Rawlinson,40,UK,GBR,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,512,Becky Reep,43,Cornwall,GBR,00:33:38,03:48:47,02:13:33,00:06:49,00:05:10,06:47:57
+ironman-70.3-mallorca-20150509.csv,513,Gisela Reichmuth,41,---,CHE,00:32:51,03:08:09,01:45:40,00:05:31,00:04:11,05:36:22
+ironman-70.3-mallorca-20150509.csv,514,Camilla Renz,43,---,SWE,00:36:55,03:12:41,01:57:58,00:05:16,00:03:06,05:55:56
+ironman-70.3-mallorca-20150509.csv,515,Claire Riding,41,---,GBR,00:42:49,03:33:41,02:26:27,00:06:35,00:05:52,06:55:24
+ironman-70.3-mallorca-20150509.csv,516,Victoria Robertson,40,---,GBR,00:41:21,03:12:27,01:50:16,00:05:18,00:04:10,05:53:32
+ironman-70.3-mallorca-20150509.csv,517,Lynne Rodley,41,---,GBR,00:40:57,03:49:28,02:16:47,00:06:51,00:05:38,06:59:41
+ironman-70.3-mallorca-20150509.csv,518,Fanny Rodriguez Rodenas,42,ES,ESP,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,519,Julie Rookes,40,York,GBR,00:38:33,03:41:46,02:56:21,00:10:54,00:04:56,07:32:30
+ironman-70.3-mallorca-20150509.csv,520,Janet Roxburgh,41,---,GBR,00:34:24,03:06:16,01:42:54,00:05:48,00:03:53,05:33:15
+ironman-70.3-mallorca-20150509.csv,521,Niina Salokorpi,41,Finland,EST,00:36:57,03:14:05,02:12:55,00:05:24,00:03:51,06:13:12
+ironman-70.3-mallorca-20150509.csv,522,Ines Sandbote,40,---,DEU,00:30:46,03:08:47,01:56:02,00:05:20,00:03:22,05:44:17
+ironman-70.3-mallorca-20150509.csv,523,Tanja Schieferlinn,43,---,DEU,00:44:07,04:02:48,03:03:32,00:08:29,00:10:20,08:09:16
+ironman-70.3-mallorca-20150509.csv,524,Katrin Schmidt,39,DE,DEU,00:27:41,02:53:03,01:36:54,00:03:41,00:03:01,05:04:20
+ironman-70.3-mallorca-20150509.csv,525,Wiebke Schubien,43,---,CHE,00:40:04,02:57:53,01:54:40,00:05:34,00:04:45,05:42:56
+ironman-70.3-mallorca-20150509.csv,526,Jess Schuring,40,APO,DEU,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,527,Yuval Shahak,41,israel,ISR,00:35:48,03:48:16,02:35:59,00:09:19,00:08:27,07:17:49
+ironman-70.3-mallorca-20150509.csv,528,Victoria Shannon,42,BC,CAN,00:40:14,03:13:08,02:38:41,00:08:14,00:04:49,06:45:06
+ironman-70.3-mallorca-20150509.csv,529,Victoria Shubina,41,Saint-Petersburg,RUS,00:31:58,03:21:15,01:53:54,00:04:13,00:03:33,05:54:53
+ironman-70.3-mallorca-20150509.csv,530,Nadine Simmerock,39,ES,DEU,00:44:52,03:45:17,02:17:54,00:07:21,00:08:55,07:04:19
+ironman-70.3-mallorca-20150509.csv,531,Herranz Sonsoles,42,ES,ESP,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,532,Àngels Sos Rubio,41,ES,ESP,00:34:26,03:17:49,01:41:43,00:04:23,00:02:28,05:40:49
+ironman-70.3-mallorca-20150509.csv,533,Eva Stenglein,40,---,DEU,00:34:45,03:20:04,02:03:36,00:07:07,00:04:38,06:10:10
+ironman-70.3-mallorca-20150509.csv,534,Bianca Thönnes,40,---,DEU,00:33:28,03:00:17,01:42:55,00:05:22,00:03:52,05:25:54
+ironman-70.3-mallorca-20150509.csv,535,Natascha Tögel,43,---,AUT,00:44:40,03:37:14,---,00:09:32,00:09:37,DNF
+ironman-70.3-mallorca-20150509.csv,536,Marie Helene Ursin,41,NO,NOR,00:32:46,03:43:16,02:08:57,00:06:29,00:04:51,06:36:19
+ironman-70.3-mallorca-20150509.csv,537,Ann Van Der Eecken,43,BE,BEL,00:38:25,03:25:23,02:08:02,00:07:08,00:06:07,06:25:05
+ironman-70.3-mallorca-20150509.csv,538,Anne-Marie Van Rens,42,NL,NLD,00:35:55,02:59:18,01:54:18,00:05:37,00:03:41,05:38:49
+ironman-70.3-mallorca-20150509.csv,539,Leonie Verstegen,43,NL,NLD,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,540,Tine Vogt,41,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,541,Kirstin Vörkel,43,DE,DEU,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,542,Nancy Werbrouck,43,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,543,Lena Westman,39,---,SWE,00:41:10,02:58:28,01:45:34,00:03:39,00:02:52,05:31:43
+ironman-70.3-mallorca-20150509.csv,544,Leigh White,44,Western Cape,ZAF,00:40:44,03:26:24,02:03:59,00:07:19,00:04:52,06:23:18
+ironman-70.3-mallorca-20150509.csv,545,Aly Wile,39,---,GBR,00:41:41,03:13:29,01:51:42,00:06:11,00:04:37,05:57:40
+ironman-70.3-mallorca-20150509.csv,546,Moni Winter,40,DE,DEU,00:35:21,03:15:19,01:57:42,00:07:19,00:05:19,06:01:00
+ironman-70.3-mallorca-20150509.csv,547,Manuela Wolfrath,41,---,DEU,00:37:35,02:59:32,01:42:09,00:06:28,00:04:41,05:30:25
+ironman-70.3-mallorca-20150509.csv,548,Denise Yazar,41,ZA,ZAF,00:41:03,03:00:05,02:13:33,00:06:46,00:05:11,06:06:38
+ironman-70.3-mallorca-20150509.csv,549,Dina Altayeb,45,Western,SAU,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,550,Andrea Beal,48,---,GBR,00:43:23,03:57:57,02:33:20,00:11:08,00:06:58,07:32:46
+ironman-70.3-mallorca-20150509.csv,551,Fadirha Benabdelkader,47,FR,FRA,00:38:43,03:20:44,01:59:12,00:08:04,00:06:49,06:13:32
+ironman-70.3-mallorca-20150509.csv,552,Susanna Binelli,45,---,ITA,00:36:11,03:22:54,02:03:21,00:07:35,00:03:57,06:13:58
+ironman-70.3-mallorca-20150509.csv,553,Michaela Blarr,46,DE,DEU,00:33:11,03:27:38,02:12:06,00:07:25,00:05:37,06:25:57
+ironman-70.3-mallorca-20150509.csv,554,Paula Boyle,44,---,IRL,00:42:55,04:06:58,02:08:49,00:11:06,00:07:46,07:17:34
+ironman-70.3-mallorca-20150509.csv,555,Kirsten Britton,46,Devon,GBR,00:34:25,03:34:14,02:05:43,00:06:35,00:04:59,06:25:56
+ironman-70.3-mallorca-20150509.csv,556,Anne Brolén,45,SE,SWE,00:42:02,03:44:45,02:33:18,00:09:56,00:08:56,07:18:57
+ironman-70.3-mallorca-20150509.csv,558,Dominique Chassot,46,---,CHE,00:38:35,03:02:20,01:50:30,00:05:27,00:02:51,05:39:43
+ironman-70.3-mallorca-20150509.csv,559,Amanda Dye,46,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,560,Lyn Coffman,46,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,561,Laura Cozik,48,NY,USA,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,562,Silvia Cubero Alia,46,ES,ESP,00:33:20,03:14:15,02:12:28,00:05:28,00:03:56,06:09:27
+ironman-70.3-mallorca-20150509.csv,563,Jona Dahlquist,47,---,SWE,00:33:01,03:08:09,02:02:30,00:05:27,00:04:19,05:53:26
+ironman-70.3-mallorca-20150509.csv,564,Tracey Davidson,48,---,GBR,00:46:54,03:47:59,02:14:03,00:11:31,00:07:18,07:07:45
+ironman-70.3-mallorca-20150509.csv,565,Nancy De Beer,45,---,GBR,00:44:17,03:57:54,02:47:06,00:11:45,00:11:44,07:52:46
+ironman-70.3-mallorca-20150509.csv,566,Nikki Demosthenou,45,---,GBR,00:41:58,03:26:49,02:10:50,00:11:54,00:06:54,06:38:25
+ironman-70.3-mallorca-20150509.csv,567,Stephanie Dirr,46,---,DEU,00:46:28,04:51:41,---,00:09:40,00:11:25,DNF
+ironman-70.3-mallorca-20150509.csv,568,Weyn Els,49,BE,BEL,00:38:36,03:28:13,---,00:06:38,00:06:28,DNF
+ironman-70.3-mallorca-20150509.csv,569,Marie Eriksson,48,---,SWE,00:39:51,03:29:09,02:08:57,00:06:49,00:06:36,06:31:22
+ironman-70.3-mallorca-20150509.csv,570,Diana Escoda,45,shanghai,ESP,00:38:39,04:15:13,02:46:25,00:08:45,00:12:04,08:01:06
+ironman-70.3-mallorca-20150509.csv,571,Janina Evans,45,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,572,Viola Frey,45,---,CHE,00:38:50,03:04:29,02:06:57,00:05:40,00:04:30,06:00:26
+ironman-70.3-mallorca-20150509.csv,574,Kirstin Geisler,44,DE,DEU,00:32:13,03:17:14,02:11:06,00:05:41,00:03:41,06:09:55
+ironman-70.3-mallorca-20150509.csv,575,Astrid Grønningen,44,---,NOR,00:36:52,03:07:05,01:50:57,00:05:52,00:03:39,05:44:25
+ironman-70.3-mallorca-20150509.csv,576,Katharina Gugger,48,CH,CHE,00:36:03,03:17:40,02:00:18,00:07:41,00:05:54,06:07:36
+ironman-70.3-mallorca-20150509.csv,577,Vibeke Haaning,48,DK,DNK,00:40:43,02:56:55,02:01:49,00:05:51,00:06:05,05:51:23
+ironman-70.3-mallorca-20150509.csv,578,Sasha Hagan,44,---,GBR,00:42:56,03:50:04,02:28:43,00:14:06,00:13:43,07:29:32
+ironman-70.3-mallorca-20150509.csv,579,Jane Hansom,46,---,GBR,00:28:55,02:53:45,01:40:05,00:03:46,00:02:19,05:08:50
+ironman-70.3-mallorca-20150509.csv,580,Tamara Hardman,47,Warwickshire,GBR,00:30:54,02:58:57,01:40:01,00:04:37,00:02:28,05:16:57
+ironman-70.3-mallorca-20150509.csv,581,Tina Hartley,47,DK,DNK,00:47:41,03:45:11,02:01:01,00:08:52,00:05:18,06:48:03
+ironman-70.3-mallorca-20150509.csv,582,Tracey Haseldine,47,---,GBR,00:33:24,03:03:33,02:24:26,00:05:26,00:05:17,06:12:06
+ironman-70.3-mallorca-20150509.csv,583,Sandra Hewson,44,---,GBR,00:41:04,04:13:26,02:15:00,00:12:36,00:07:24,07:29:30
+ironman-70.3-mallorca-20150509.csv,584,Heike Jakob,45,---,DEU,00:33:21,03:09:53,02:02:21,00:05:27,00:03:26,05:54:28
+ironman-70.3-mallorca-20150509.csv,585,Matilda Karlsson,45,SE,SWE,00:32:13,03:41:07,02:52:16,00:07:40,00:05:41,07:18:57
+ironman-70.3-mallorca-20150509.csv,586,Camilla Knudsen,44,---,DNK,00:33:12,03:23:53,02:38:04,00:08:56,00:06:17,06:50:22
+ironman-70.3-mallorca-20150509.csv,587,Aslaug Othelie Knutsen,46,---,NOR,00:41:05,03:28:50,02:26:17,00:08:01,00:05:48,06:50:01
+ironman-70.3-mallorca-20150509.csv,588,Victoria Kollard,44,Lancashire,GBR,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,589,Iza Kuczynska,28,---,POL,00:43:45,03:00:55,01:48:40,00:07:40,00:05:15,05:46:15
+ironman-70.3-mallorca-20150509.csv,590,Elin Kvanvik,46,---,NOR,00:45:41,03:43:43,02:26:02,00:09:48,00:07:17,07:12:31
+ironman-70.3-mallorca-20150509.csv,591,Anne Grethe Kvist,45,---,NOR,00:50:18,03:51:10,02:16:03,00:08:40,00:06:42,07:12:53
+ironman-70.3-mallorca-20150509.csv,592,Sharon Langan,46,North Yorkshire,GBR,00:45:10,03:20:29,03:30:59,00:08:21,00:11:43,07:56:42
+ironman-70.3-mallorca-20150509.csv,593,Ulrika Laurin,44,SE,SWE,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,594,Mai Liem,45,NL,NLD,00:41:43,03:04:43,01:57:52,00:06:01,00:04:13,05:54:32
+ironman-70.3-mallorca-20150509.csv,595,Johanna Lindqvist,44,---,SWE,00:37:45,03:05:40,01:42:58,00:06:12,00:03:58,05:36:33
+ironman-70.3-mallorca-20150509.csv,596,Tina Lutz,44,---,DEU,00:36:32,03:05:50,01:55:29,00:06:21,00:06:42,05:50:54
+ironman-70.3-mallorca-20150509.csv,597,Niina Maisniemi,47,Uusimaa,FIN,00:31:51,03:01:50,01:54:04,00:05:29,00:04:52,05:38:06
+ironman-70.3-mallorca-20150509.csv,598,Marion Mahn,46,DE,DEU,00:40:44,03:21:16,02:14:38,00:10:42,00:07:15,06:34:35
+ironman-70.3-mallorca-20150509.csv,599,Aina Martinezatienza,46,ES,ESP,00:39:47,03:16:20,02:02:55,00:08:15,00:04:52,06:12:09
+ironman-70.3-mallorca-20150509.csv,600,Jennie Mccoll,45,---,GBR,00:34:34,03:01:13,02:13:32,00:08:14,00:04:39,06:02:12
+ironman-70.3-mallorca-20150509.csv,601,Edwina Mcdowall,44,Berkshire,GBR,00:32:49,03:05:54,01:31:31,00:04:54,00:02:47,05:17:55
+ironman-70.3-mallorca-20150509.csv,602,Mirjam Melkman,45,NL,NLD,00:45:00,03:17:25,02:03:31,00:08:01,00:05:22,06:19:19
+ironman-70.3-mallorca-20150509.csv,603,Camilla Nilsson,47,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,604,Heike Nübel,45,---,DEU,00:41:56,03:16:54,01:58:20,00:07:01,00:04:54,06:09:05
+ironman-70.3-mallorca-20150509.csv,605,Jennifer Ogg,44,ON,CAN,00:31:08,03:01:19,01:48:37,00:04:52,00:02:49,05:28:45
+ironman-70.3-mallorca-20150509.csv,606,Louise Oldridge,45,Devon,GBR,00:41:37,02:46:21,01:45:49,00:15:16,00:03:22,05:32:25
+ironman-70.3-mallorca-20150509.csv,607,Bettina Pia Pedersen,46,DK,DNK,00:38:47,03:58:05,---,00:09:15,---,DNF
+ironman-70.3-mallorca-20150509.csv,608,Grethe Petersen,47,England,DNK,00:52:03,03:43:37,02:07:59,00:08:28,00:04:05,06:56:12
+ironman-70.3-mallorca-20150509.csv,609,Angela Reith,47,Northants,GBR,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,610,Christina Rinne-Luuk,47,---,DEU,00:36:46,03:11:02,02:34:17,00:08:06,00:04:11,06:34:22
+ironman-70.3-mallorca-20150509.csv,611,Katharina Roberts,48,Devon,DEU,00:41:07,03:45:23,02:19:54,00:07:58,00:06:09,07:00:31
+ironman-70.3-mallorca-20150509.csv,612,Gabriele Roidl,45,---,DEU,00:41:15,03:27:10,02:20:07,00:06:31,00:05:29,06:40:32
+ironman-70.3-mallorca-20150509.csv,613,Toni Saunders,47,essex,GBR,00:32:57,03:28:30,02:12:32,00:08:19,00:07:24,06:29:42
+ironman-70.3-mallorca-20150509.csv,614,Sigi Schelkens,48,---,BEL,00:33:28,02:59:57,01:49:52,00:05:58,00:05:24,05:34:39
+ironman-70.3-mallorca-20150509.csv,615,Antje Schneider,47,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,616,Barbara Schweinberger,46,---,DEU,00:34:17,02:59:35,01:50:07,00:06:47,00:04:25,05:35:11
+ironman-70.3-mallorca-20150509.csv,617,Åsa Schwieler,47,SE,SWE,00:41:27,03:37:21,02:14:17,00:06:55,00:04:31,06:44:31
+ironman-70.3-mallorca-20150509.csv,618,Carol Sinkinson,46,West Midlands,GBR,00:44:09,04:02:12,02:42:42,00:12:37,00:10:00,07:51:40
+ironman-70.3-mallorca-20150509.csv,619,Dawn Smith,45,---,GBR,00:37:57,03:03:07,01:55:47,00:05:21,00:03:14,05:45:26
+ironman-70.3-mallorca-20150509.csv,620,Agnes Stavland,46,NO,NOR,00:38:15,---,---,00:06:27,---,DNF
+ironman-70.3-mallorca-20150509.csv,621,Sue Stockley,48,---,GBR,00:36:05,03:34:33,02:35:40,00:08:33,00:07:14,07:02:05
+ironman-70.3-mallorca-20150509.csv,622,Irene Stuvik,48,---,NOR,00:37:42,03:17:31,02:15:58,00:08:18,00:06:17,06:25:46
+ironman-70.3-mallorca-20150509.csv,623,Caroline Taussig,48,NL,AUS,00:45:59,03:51:12,02:31:51,00:09:42,00:08:47,07:27:31
+ironman-70.3-mallorca-20150509.csv,624,Kerry Taylor,45,Devon,GBR,00:41:54,03:15:35,02:09:48,00:07:16,00:05:05,06:19:38
+ironman-70.3-mallorca-20150509.csv,625,Rachel Vialou-Clark,44,---,GBR,00:35:49,03:38:06,02:28:42,00:09:13,00:06:32,06:58:22
+ironman-70.3-mallorca-20150509.csv,626,Yvonne Zon-Tiggerdine,48,---,GBR,00:42:49,03:26:38,01:52:11,00:07:40,00:05:58,06:15:16
+ironman-70.3-mallorca-20150509.csv,627,Eva Andersson,51,---,SWE,00:57:30,03:57:52,02:58:23,00:10:59,00:09:24,08:14:08
+ironman-70.3-mallorca-20150509.csv,628,Lydia Antunes,50,ON,CAN,01:03:08,03:49:41,03:00:58,00:06:38,00:10:11,08:10:36
+ironman-70.3-mallorca-20150509.csv,629,Krzysztof Kutera,41,---,GBR,00:31:36,03:01:16,01:50:45,00:05:32,00:03:01,05:32:10
+ironman-70.3-mallorca-20150509.csv,630,Manuela Austin,51,Devon,GBR,00:37:58,03:52:36,02:28:08,00:07:20,00:05:44,07:11:46
+ironman-70.3-mallorca-20150509.csv,631,Caroline Bird,51,CA,GBR,00:37:21,03:28:33,02:28:36,00:05:55,00:05:40,06:46:05
+ironman-70.3-mallorca-20150509.csv,632,Jane Cast,52,KENT,GBR,00:37:45,03:33:44,02:26:21,00:07:03,00:05:46,06:50:39
+ironman-70.3-mallorca-20150509.csv,633,Kirsten Cooper,51,ON,CAN,00:39:00,03:17:52,01:49:50,00:06:14,00:05:05,05:58:01
+ironman-70.3-mallorca-20150509.csv,634,Marla Coutts,51,Hertfordshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,635,Sara Jane Cox Conklin,51,Somerset,GBR,00:30:09,03:28:33,02:26:37,00:05:28,00:03:46,06:34:33
+ironman-70.3-mallorca-20150509.csv,636,Gitte Dam,52,DK,DNK,00:33:08,03:49:56,---,00:09:27,00:06:03,DNF
+ironman-70.3-mallorca-20150509.csv,637,Gokhan Dogruol,52,Intl State,TUR,00:37:46,03:18:45,02:03:17,00:06:41,00:04:43,06:11:12
+ironman-70.3-mallorca-20150509.csv,638,Donna Elliot,51,Dorset,GBR,00:41:22,03:11:13,02:00:54,00:06:42,00:03:55,06:04:06
+ironman-70.3-mallorca-20150509.csv,639,Mar Encinas,52,ES,ESP,00:53:56,03:20:39,02:17:15,00:08:11,00:08:17,06:48:18
+ironman-70.3-mallorca-20150509.csv,640,Alison Evely,50,somerset,GBR,00:41:13,03:25:03,02:23:37,00:06:16,00:06:50,06:42:59
+ironman-70.3-mallorca-20150509.csv,641,Niki Faust,50,---,GBR,00:49:36,03:54:44,02:17:15,00:14:20,00:10:40,07:26:35
+ironman-70.3-mallorca-20150509.csv,642,Sabina Fenner,52,---,CHE,00:33:04,03:19:02,02:07:21,00:06:18,00:08:00,06:13:45
+ironman-70.3-mallorca-20150509.csv,643,Gitta Fernau,54,---,DEU,00:37:34,03:15:06,01:48:58,00:06:55,00:03:53,05:52:26
+ironman-70.3-mallorca-20150509.csv,644,Gill Fullen,50,Beds,GBR,00:33:21,02:52:15,01:30:50,00:03:52,00:02:41,05:02:59
+ironman-70.3-mallorca-20150509.csv,645,Vicki Gale,50,Lancashire,GBR,00:37:42,03:34:14,02:44:43,00:08:45,00:06:55,07:12:19
+ironman-70.3-mallorca-20150509.csv,646,Alison Gordon,51,---,GBR,00:41:53,03:28:58,01:53:56,00:08:16,00:03:57,06:17:00
+ironman-70.3-mallorca-20150509.csv,647,Joana Gost Ramis,51,---,ESP,00:41:01,03:36:58,02:22:28,00:07:48,00:06:29,06:54:44
+ironman-70.3-mallorca-20150509.csv,648,Núria Granados,51,ES,ESP,00:29:08,03:14:00,02:16:01,00:08:15,00:07:22,06:14:46
+ironman-70.3-mallorca-20150509.csv,649,Elena Gualini,49,italia,ITA,00:37:05,03:05:36,01:55:54,00:06:14,00:03:51,05:48:40
+ironman-70.3-mallorca-20150509.csv,650,Ulla Haberl,53,DK,DNK,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,651,Bettina Heydenreich,52,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,652,Claudia Hille,49,---,DEU,00:31:38,03:00:40,01:35:41,00:03:36,00:03:12,05:14:47
+ironman-70.3-mallorca-20150509.csv,653,Rachel Hooper,50,Uk,GBR,00:36:44,03:16:39,02:00:06,00:06:38,00:04:39,06:04:46
+ironman-70.3-mallorca-20150509.csv,654,Deborah Hugh,52,Shropshire,GBR,00:47:23,04:29:42,02:40:46,00:09:58,00:09:27,08:17:16
+ironman-70.3-mallorca-20150509.csv,655,Saran Jones,51,West Lothian,GBR,00:36:52,03:33:09,01:55:08,00:06:29,00:04:32,06:16:10
+ironman-70.3-mallorca-20150509.csv,656,Stefanie Klem,50,---,DEU,00:40:27,03:13:36,01:53:01,00:05:50,00:04:41,05:57:35
+ironman-70.3-mallorca-20150509.csv,657,Maria Klockare,50,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,658,Vibeke Knudsen,51,---,DNK,00:41:01,03:14:34,02:09:11,00:06:07,00:05:01,06:15:54
+ironman-70.3-mallorca-20150509.csv,659,Helen Livingstone,49,---,GBR,00:38:43,02:55:31,01:31:47,00:05:32,00:04:36,05:16:09
+ironman-70.3-mallorca-20150509.csv,660,Angela Mann,50,---,GBR,00:42:15,03:11:08,02:14:06,00:07:35,00:04:55,06:19:59
+ironman-70.3-mallorca-20150509.csv,661,Lorraine Mccann,49,APO,IRL,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,662,Angela Meissner,53,---,DEU,00:43:32,03:12:52,01:54:30,00:07:26,00:03:39,06:01:59
+ironman-70.3-mallorca-20150509.csv,663,Carina Moeller - San Pedro,51,---,DNK,00:36:32,02:57:18,01:51:01,00:04:42,00:04:05,05:33:38
+ironman-70.3-mallorca-20150509.csv,664,Kanako Namai,52,Tokyo,JPN,00:42:47,03:55:16,02:31:53,00:11:09,00:11:29,07:32:34
+ironman-70.3-mallorca-20150509.csv,665,Martina Nellessen,54,---,DEU,00:35:58,03:13:44,02:06:16,00:08:08,00:06:13,06:10:19
+ironman-70.3-mallorca-20150509.csv,666,Tina Maria Norskov-Erichsen,51,---,DNK,00:45:08,03:26:45,02:02:48,00:08:28,00:04:07,06:27:16
+ironman-70.3-mallorca-20150509.csv,667,Karen O'Brien,49,---,GBR,00:52:28,04:32:10,03:28:02,00:09:07,00:08:47,09:10:34
+ironman-70.3-mallorca-20150509.csv,668,Diane Parperis,50,Lincolnshire,DZA,00:39:31,03:24:20,02:25:07,00:06:57,00:05:19,06:41:14
+ironman-70.3-mallorca-20150509.csv,669,Sarah Patterson,53,Lancashire,GBR,00:41:25,03:37:29,02:34:30,00:07:13,00:03:58,07:04:35
+ironman-70.3-mallorca-20150509.csv,670,Monika Pauckner,52,---,AUT,00:50:07,03:53:24,02:52:01,00:08:49,00:06:48,07:51:09
+ironman-70.3-mallorca-20150509.csv,671,Lynette Porter,51,Bristol,GBR,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,672,Jane Raes,49,---,GBR,00:42:05,03:52:45,02:18:09,00:12:23,00:10:24,07:15:46
+ironman-70.3-mallorca-20150509.csv,673,Manuela Reinhardt,52,Nordrhein-Westfalen,DEU,00:29:46,03:01:00,01:57:32,00:06:52,00:04:42,05:39:52
+ironman-70.3-mallorca-20150509.csv,674,Sanne Røhe,50,---,DNK,00:38:48,02:59:03,01:56:15,00:04:45,00:05:01,05:43:52
+ironman-70.3-mallorca-20150509.csv,675,Heike Schmidt,51,---,DEU,00:41:09,03:03:44,01:40:58,00:05:53,00:03:29,05:35:13
+ironman-70.3-mallorca-20150509.csv,676,Gundula Schneider,50,DE,DEU,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,677,Karina Søgaard,52,---,DNK,00:32:20,03:20:56,02:06:19,00:05:31,00:03:18,06:08:24
+ironman-70.3-mallorca-20150509.csv,678,Karen Hasselberg Sørensen,49,---,NOR,00:51:45,04:49:29,02:52:38,00:08:56,00:10:26,08:53:14
+ironman-70.3-mallorca-20150509.csv,679,Regina Stettler,50,---,CHE,00:36:07,03:19:12,02:12:07,00:05:15,00:04:25,06:17:06
+ironman-70.3-mallorca-20150509.csv,680,Donna Tilbrook,50,---,GBR,00:43:11,04:37:34,02:58:23,00:09:00,00:05:18,08:33:26
+ironman-70.3-mallorca-20150509.csv,682,Anneke Van Paassen,49,---,NLD,00:33:09,03:19:35,02:02:37,00:04:32,00:04:01,06:03:54
+ironman-70.3-mallorca-20150509.csv,683,Tina Vaux,52,---,GBR,00:44:17,03:32:10,02:18:12,00:06:33,00:07:36,06:48:48
+ironman-70.3-mallorca-20150509.csv,684,Evelyn Wales,50,ON,CAN,00:41:25,03:19:29,02:22:11,00:07:58,00:05:23,06:36:26
+ironman-70.3-mallorca-20150509.csv,685,Nicola Walker,51,Ayrshire,GBR,00:34:56,03:21:45,02:00:37,00:08:33,00:05:08,06:10:59
+ironman-70.3-mallorca-20150509.csv,686,Jacqueline Wolfson,53,NY,USA,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,687,Jette Allerup,56,DK,DNK,00:43:43,03:22:39,02:25:30,00:10:02,00:05:12,06:47:06
+ironman-70.3-mallorca-20150509.csv,688,Sharon Bitel,54,---,GBR,00:43:05,03:49:40,02:19:03,00:09:48,00:08:38,07:10:14
+ironman-70.3-mallorca-20150509.csv,689,Dawn Clarke,55,Western Cape,ZAF,00:45:43,03:36:34,02:22:51,00:09:37,00:06:17,07:01:02
+ironman-70.3-mallorca-20150509.csv,690,Poppy Holmes,54,UK,GBR,00:40:44,03:44:27,02:32:00,00:09:05,00:06:36,07:12:52
+ironman-70.3-mallorca-20150509.csv,691,Helen Johannsen,57,---,GBR,00:46:52,03:43:48,02:43:19,00:11:28,00:08:25,07:33:52
+ironman-70.3-mallorca-20150509.csv,692,Jane King,56,Dorset,GBR,00:33:02,03:33:37,01:58:15,00:07:03,00:06:27,06:18:24
+ironman-70.3-mallorca-20150509.csv,693,Åse Mygland,57,---,NOR,00:47:03,03:21:53,02:17:34,00:10:15,00:06:40,06:43:25
+ironman-70.3-mallorca-20150509.csv,694,Sue O'Dowd,57,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,695,Tarja Rissanen,58,Uusimaa,FIN,01:25:31,03:16:55,02:37:14,00:12:44,00:08:01,07:40:25
+ironman-70.3-mallorca-20150509.csv,696,Ulla Rucktäschel,57,---,DEU,00:39:11,03:26:40,01:58:54,00:06:26,00:04:56,06:16:07
+ironman-70.3-mallorca-20150509.csv,697,Ingird Julienne De Boer,60,---,BEL,00:35:44,03:15:41,02:02:46,00:08:14,00:04:28,06:06:53
+ironman-70.3-mallorca-20150509.csv,698,Pamela Nightingale,62,---,GBR,00:47:20,04:18:53,03:33:32,00:09:51,00:10:47,09:00:23
+ironman-70.3-mallorca-20150509.csv,699,Irene Peaty,59,Hertfordshire,GBR,00:47:42,03:24:04,02:21:05,00:07:27,00:05:48,06:46:06
+ironman-70.3-mallorca-20150509.csv,700,Hilary Clare Walker,61,---,GBR,00:44:19,03:22:14,02:31:31,00:07:58,00:04:43,06:50:45
+ironman-70.3-mallorca-20150509.csv,701,Janet Watson,61,---,GBR,00:42:30,03:24:33,02:02:17,00:06:33,00:05:08,06:21:01
+ironman-70.3-mallorca-20150509.csv,702,Rosemary Wedlake,61,ON,CAN,00:33:48,03:07:21,02:23:58,00:08:10,00:06:12,06:19:29
+ironman-70.3-mallorca-20150509.csv,703,Linda Ashmore,68,Dorset,GBR,00:33:20,03:50:28,02:27:02,00:06:22,00:04:51,07:02:03
+ironman-70.3-mallorca-20150509.csv,704,Trijnie Roozendaal,64,FL,NLD,00:42:54,03:55:28,02:40:31,00:07:09,00:06:48,07:32:50
+ironman-70.3-mallorca-20150509.csv,705,Julia Dubinskaya,40,Moskow,RUS,---,---,---,---,---,DNS
+ironman-70.3-mallorca-20150509.csv,706,Sarah Newsome,45,east yorkshire,GBR,00:46:43,04:08:38,02:43:36,00:10:15,00:07:02,07:56:14

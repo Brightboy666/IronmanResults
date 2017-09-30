@@ -1,0 +1,681 @@
+#File=ironman-70.3-dubai-20160129.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-dubai-20160129.csv,1,Terenzo Bozzone,30,AUK,NZL,00:21:37,02:04:28,01:15:28,00:01:20,00:01:08,03:44:01
+ironman-70.3-dubai-20160129.csv,2,Bart Aernouts,31,---,BEL,00:18:55,02:07:04,01:15:06,00:01:28,00:01:25,03:43:58
+ironman-70.3-dubai-20160129.csv,5,David Plese,32,Intl State,SVN,00:18:27,02:13:54,01:18:13,00:01:25,00:01:45,03:53:44
+ironman-70.3-dubai-20160129.csv,6,Josh Amberger,26,QLD,AUS,00:16:02,02:05:21,01:17:33,00:01:24,00:01:22,03:41:42
+ironman-70.3-dubai-20160129.csv,7,Miquel Blanchart Tinto,31,---,ESP,00:17:59,02:14:11,01:14:54,00:01:18,00:01:32,03:49:54
+ironman-70.3-dubai-20160129.csv,8,Simon Brierley,36,Paphos,SYC,00:19:44,02:16:23,01:30:05,00:02:03,00:01:45,04:10:00
+ironman-70.3-dubai-20160129.csv,9,Manuel Kueng,28,---,CHE,00:16:13,02:13:41,---,00:01:27,00:01:57,DNF
+ironman-70.3-dubai-20160129.csv,10,Mike Schifferle,42,---,CHE,00:21:18,02:12:19,01:22:34,00:01:39,00:02:29,04:00:19
+ironman-70.3-dubai-20160129.csv,12,Balazs Csoke,32,TX,HUN,00:16:25,02:11:56,01:22:52,00:01:29,00:01:23,03:54:05
+ironman-70.3-dubai-20160129.csv,13,Hh Shaikh Nasser Bin Al Khalifa,28,Other,BHR,00:13:19,02:26:17,01:25:55,00:02:11,00:01:23,04:09:05
+ironman-70.3-dubai-20160129.csv,15,Olivier Godart,40,DXB,LUX,00:19:00,02:09:15,01:21:35,00:02:06,00:01:23,03:53:19
+ironman-70.3-dubai-20160129.csv,17,Jaroslav Kovacic,31,Slovenia,SVN,00:16:15,02:07:54,01:17:31,00:01:26,00:01:29,03:44:35
+ironman-70.3-dubai-20160129.csv,18,Freddy Lampret,37,---,ZAF,00:18:57,02:18:22,01:23:29,00:01:58,00:01:32,04:04:18
+ironman-70.3-dubai-20160129.csv,19,Frédéric Limousin,34,---,FRA,00:18:27,02:15:19,01:20:21,00:01:51,00:01:45,03:57:43
+ironman-70.3-dubai-20160129.csv,20,Julien Marcq,32,---,FRA,00:19:51,02:24:33,01:18:42,00:01:59,00:01:33,04:06:38
+ironman-70.3-dubai-20160129.csv,21,Matij Meden,22,---,SVN,00:17:42,02:15:55,01:20:31,00:01:33,00:01:22,03:57:03
+ironman-70.3-dubai-20160129.csv,23,Andrej Vistica,32,Intl State,HRV,00:18:56,02:07:50,01:21:35,00:01:28,00:01:31,03:51:20
+ironman-70.3-dubai-20160129.csv,24,Eric Watson,26,WA,BHR,00:16:57,02:18:19,01:17:07,00:01:28,00:01:29,03:55:20
+ironman-70.3-dubai-20160129.csv,25,Brad Williams,29,---,USA,00:18:59,02:06:57,01:20:54,00:01:39,00:01:19,03:49:48
+ironman-70.3-dubai-20160129.csv,27,Jan Frodeno,34,---,DEU,00:16:00,02:02:33,01:13:49,00:01:14,00:01:12,03:34:48
+ironman-70.3-dubai-20160129.csv,28,Nicholas Baldwin,27,WA,SYC,00:18:36,02:08:22,01:19:38,00:01:18,00:01:26,03:49:20
+ironman-70.3-dubai-20160129.csv,51,Daniela Ryf,28,---,CHE,00:20:09,02:17:21,01:20:52,00:01:23,00:01:24,04:01:09
+ironman-70.3-dubai-20160129.csv,52,Caroline Claudia Steffen,37,NSW,CHE,00:20:25,02:19:55,01:21:56,00:01:18,00:01:27,04:05:01
+ironman-70.3-dubai-20160129.csv,53,Tine Deckers,37,---,BEL,00:22:54,02:20:49,01:27:39,00:01:29,00:01:22,04:14:13
+ironman-70.3-dubai-20160129.csv,56,Rahel Bellinga,46,---,NLD,00:26:11,02:28:53,01:36:35,00:01:52,00:01:51,04:35:22
+ironman-70.3-dubai-20160129.csv,57,Andrea Forrest,30,NSW,AUS,00:21:51,02:21:55,01:24:06,00:01:27,00:01:32,04:10:51
+ironman-70.3-dubai-20160129.csv,60,Kaisa Sali,34,Uusimaa,FIN,00:21:38,02:21:59,01:18:35,00:01:23,00:01:28,04:05:03
+ironman-70.3-dubai-20160129.csv,61,Jocelyn Mccauley,28,OH,USA,00:21:55,02:19:42,01:24:12,00:01:53,00:01:45,04:09:27
+ironman-70.3-dubai-20160129.csv,62,Celine Schaerer,25,---,CHE,00:20:10,02:31:39,01:29:42,00:01:23,00:01:27,04:24:21
+ironman-70.3-dubai-20160129.csv,63,Renee Baker,32,WA,AUS,00:21:52,02:28:29,01:32:52,00:01:30,00:01:30,04:26:13
+ironman-70.3-dubai-20160129.csv,64,Ewa Komander,30,---,POL,00:22:52,02:31:13,01:34:59,00:01:39,00:01:41,04:32:24
+ironman-70.3-dubai-20160129.csv,65,Annah Watkinson,34,ZA,ZAF,00:21:57,02:29:20,01:27:15,00:02:15,00:01:25,04:22:12
+ironman-70.3-dubai-20160129.csv,66,Corinne Abraham,38,Intl State,GBR,00:22:59,02:22:54,01:30:28,00:01:34,00:01:18,04:19:13
+ironman-70.3-dubai-20160129.csv,100,Nick Watson,46,DXB,GBR,00:19:40,03:47:30,02:21:30,00:08:13,00:05:20,06:42:13
+ironman-70.3-dubai-20160129.csv,102,Ryan Christian,27,TAS,QAT,00:11:45,02:21:24,01:24:15,00:01:45,00:01:08,04:00:17
+ironman-70.3-dubai-20160129.csv,103,Brian William Fogarty,32,---,GBR,00:13:39,02:13:43,01:23:43,00:01:30,00:01:20,03:53:55
+ironman-70.3-dubai-20160129.csv,104,Thomas Jacob,31,CA,DEU,00:14:20,02:31:34,01:52:15,00:02:59,00:01:28,04:42:36
+ironman-70.3-dubai-20160129.csv,105,Christophe Dicranian,34,---,FRA,00:14:23,02:25:23,01:43:37,00:02:39,00:02:26,04:28:28
+ironman-70.3-dubai-20160129.csv,106,Jacob Wissum,35,---,DNK,00:13:36,02:15:13,01:22:26,00:01:52,00:01:46,03:54:53
+ironman-70.3-dubai-20160129.csv,107,Martin Bond,43,DXB,GBR,00:13:39,02:23:46,01:41:33,00:01:50,00:01:32,04:22:20
+ironman-70.3-dubai-20160129.csv,108,Neil Wood,41,Other,GBR,00:15:12,02:40:07,01:40:09,00:02:17,00:01:31,04:39:16
+ironman-70.3-dubai-20160129.csv,109,David Hynan,46,CA,USA,00:14:53,02:44:09,02:12:44,00:04:06,00:03:04,05:18:56
+ironman-70.3-dubai-20160129.csv,110,Finn Zwager,48,Other,NLD,00:14:59,02:29:06,01:32:20,00:02:56,00:01:45,04:21:06
+ironman-70.3-dubai-20160129.csv,111,Olivier Maddens,48,---,FRA,00:13:20,02:27:10,01:36:28,00:01:42,00:01:31,04:20:11
+ironman-70.3-dubai-20160129.csv,112,Paolo Mussotto,51,italia,ITA,00:15:42,02:35:09,01:34:10,00:04:25,00:02:01,04:31:27
+ironman-70.3-dubai-20160129.csv,113,Thomas Beiersdoerfer,50,---,DEU,00:14:38,02:34:27,01:35:53,00:02:43,00:02:14,04:29:55
+ironman-70.3-dubai-20160129.csv,114,Mark Hudson,56,---,GBR,00:15:38,02:35:09,01:45:11,00:02:29,00:02:01,04:40:28
+ironman-70.3-dubai-20160129.csv,115,Johanna Sundberg,23,---,SWE,00:14:00,02:55:29,02:10:41,00:03:09,00:02:09,05:25:28
+ironman-70.3-dubai-20160129.csv,118,Andrea Wiederkehr,33,CH,CHE,00:16:09,03:25:18,01:59:07,00:03:31,00:02:54,05:46:59
+ironman-70.3-dubai-20160129.csv,119,Lucy Woollacott,37,DXB,GBR,00:13:04,02:42:29,01:41:02,00:02:40,00:02:03,04:41:18
+ironman-70.3-dubai-20160129.csv,120,Vicky Andrews,42,---,BHR,---,---,---,---,---,DNS
+ironman-70.3-dubai-20160129.csv,121,Benjamin Hans,27,CA,USA,00:16:41,02:39:06,01:50:34,00:03:03,00:01:44,04:51:08
+ironman-70.3-dubai-20160129.csv,122,Ruben De Gendt,28,---,BEL,00:12:16,02:21:30,01:27:57,00:02:19,00:01:22,04:05:24
+ironman-70.3-dubai-20160129.csv,123,Nawaf Aldhaen,29,Other,BHR,00:14:22,02:29:16,01:29:08,00:03:06,00:01:44,04:17:36
+ironman-70.3-dubai-20160129.csv,124,Dino Demi,38,---,CHE,00:14:15,02:28:12,01:37:56,00:02:57,00:02:32,04:25:52
+ironman-70.3-dubai-20160129.csv,126,Osama Al-Adhamy,37,DXB,IRQ,00:14:43,02:27:40,01:48:43,00:02:16,00:01:52,04:35:14
+ironman-70.3-dubai-20160129.csv,127,Frank Mathews,42,Other,ZAF,00:13:33,02:23:28,01:34:48,00:02:38,00:02:09,04:16:36
+ironman-70.3-dubai-20160129.csv,128,Lars Kuettel,43,---,CHE,00:14:47,02:36:10,01:57:32,00:03:16,00:02:25,04:54:10
+ironman-70.3-dubai-20160129.csv,129,Marco Scotti,41,Livorno,ITA,00:16:19,02:40:10,01:33:15,00:03:17,00:03:02,04:36:03
+ironman-70.3-dubai-20160129.csv,130,Matthew Cranham,39,---,GBR,00:17:34,02:51:49,01:54:51,00:03:53,00:03:03,05:11:10
+ironman-70.3-dubai-20160129.csv,131,Matthew Holland,42,---,USA,00:16:05,02:44:29,02:06:25,00:02:41,00:06:27,05:16:07
+ironman-70.3-dubai-20160129.csv,132,Tariq Ali,40,OH,USA,00:14:49,02:32:46,01:38:50,00:04:33,00:02:16,04:33:14
+ironman-70.3-dubai-20160129.csv,133,Thomas Gafner,39,---,CHE,00:13:47,02:20:08,01:31:26,00:02:17,00:02:06,04:09:44
+ironman-70.3-dubai-20160129.csv,135,Dave Kyle,46,MI,USA,00:13:02,02:20:20,01:34:39,00:02:14,00:01:36,04:11:51
+ironman-70.3-dubai-20160129.csv,136,Hasan Itani,44,DXB,LBN,00:14:49,02:32:50,01:47:42,00:03:08,00:02:23,04:40:52
+ironman-70.3-dubai-20160129.csv,137,Joachim Prinz,44,---,DEU,00:15:16,02:35:36,01:32:37,00:03:03,00:01:34,04:28:06
+ironman-70.3-dubai-20160129.csv,138,Manuel Fernandez,47,---,ESP,00:15:52,02:28:25,01:39:26,00:03:19,00:02:15,04:29:17
+ironman-70.3-dubai-20160129.csv,139,Nicholas Johnson,46,West Bay,AUS,00:15:41,02:47:09,01:56:42,00:05:33,00:02:45,05:07:50
+ironman-70.3-dubai-20160129.csv,141,Ralf Holzer,48,OH,DEU,00:15:00,02:20:54,01:26:06,00:03:26,00:01:55,04:07:21
+ironman-70.3-dubai-20160129.csv,142,Tomas Latorre,48,---,ESP,00:15:04,02:33:11,01:32:48,00:03:35,00:01:45,04:26:23
+ironman-70.3-dubai-20160129.csv,143,Yves Amacker,46,---,CHE,00:13:28,02:27:37,01:41:43,00:02:14,00:02:08,04:27:10
+ironman-70.3-dubai-20160129.csv,144,Andrea Pero,53,Italia,ITA,00:15:13,02:38:10,01:52:55,00:05:02,00:02:20,04:53:40
+ironman-70.3-dubai-20160129.csv,145,Brage Johannessen,50,TX,NOR,00:14:02,02:28:58,01:50:02,00:02:51,00:01:56,04:37:49
+ironman-70.3-dubai-20160129.csv,146,David Labouchere,52,DXB,GBR,00:14:49,02:20:20,01:37:55,00:01:29,00:01:32,04:16:05
+ironman-70.3-dubai-20160129.csv,147,Francesco Palermo,52,GROSSETO,ITA,00:14:32,02:36:44,01:30:41,00:02:54,00:02:32,04:27:23
+ironman-70.3-dubai-20160129.csv,148,Noel Rossouw,57,Other,ZAF,00:15:13,02:56:23,01:37:46,00:03:57,00:02:08,04:55:27
+ironman-70.3-dubai-20160129.csv,150,Bettina Herzog,34,---,AUT,00:18:18,03:08:13,02:24:22,00:03:29,00:01:56,05:56:18
+ironman-70.3-dubai-20160129.csv,151,Britt Kjemhus Welander,44,DXB,SWE,00:16:13,02:41:20,01:37:21,00:02:40,00:01:36,04:39:10
+ironman-70.3-dubai-20160129.csv,152,Dina Altayeb,45,Western,SAU,00:18:28,03:04:25,02:10:15,00:03:25,00:02:32,05:39:05
+ironman-70.3-dubai-20160129.csv,153,Albert Lopez Toro,32,PR,PRI,00:16:08,03:28:00,01:55:02,00:03:59,00:03:38,05:46:47
+ironman-70.3-dubai-20160129.csv,154,Ali Janahi,29,Other,BHR,00:17:49,03:10:42,01:55:07,00:04:05,00:03:23,05:31:06
+ironman-70.3-dubai-20160129.csv,155,Simon Noel,30,DXB,FRA,00:15:49,02:40:26,01:50:46,00:03:30,00:03:04,04:53:35
+ironman-70.3-dubai-20160129.csv,156,Aleksei Bogdanov,34,Russia,RUS,00:16:59,02:52:16,02:13:06,00:03:50,00:03:30,05:29:41
+ironman-70.3-dubai-20160129.csv,157,Bruno Saint-Pierre,36,---,FRA,00:14:19,02:28:37,01:45:56,00:01:57,00:01:57,04:32:46
+ironman-70.3-dubai-20160129.csv,158,Christian Rijs,35,Kent,NLD,00:15:28,02:39:51,01:49:08,00:03:17,00:01:59,04:49:43
+ironman-70.3-dubai-20160129.csv,159,Clarke Morton-Shepherd,38,Other,GBR,00:13:59,02:34:06,01:39:30,00:02:26,00:02:30,04:32:31
+ironman-70.3-dubai-20160129.csv,160,Kyle Cullen,37,VA,USA,00:15:30,02:47:05,01:46:56,00:03:13,00:02:07,04:54:51
+ironman-70.3-dubai-20160129.csv,161,Magnus Hagen,38,---,CHE,00:18:17,02:59:32,01:51:15,00:04:41,00:04:29,05:18:14
+ironman-70.3-dubai-20160129.csv,162,Martin Linder,38,---,CHE,00:13:25,02:34:32,01:30:05,00:02:37,00:01:48,04:22:27
+ironman-70.3-dubai-20160129.csv,163,Olivier Gemayel,39,Lebanon,LBN,00:14:39,02:39:32,01:50:08,00:02:27,00:02:27,04:49:13
+ironman-70.3-dubai-20160129.csv,164,Robert Andrew Bergin,36,Other,IRL,00:16:33,02:59:35,01:33:38,00:03:20,00:02:24,04:55:30
+ironman-70.3-dubai-20160129.csv,165,Arthur Koh Sen Liang,37,---,SGP,00:14:06,02:24:20,01:36:34,00:02:12,00:02:22,04:19:34
+ironman-70.3-dubai-20160129.csv,166,Valerijs Kulickis,35,LV,LVA,00:13:43,02:58:13,01:44:15,00:03:30,00:02:34,05:02:15
+ironman-70.3-dubai-20160129.csv,167,Christian Arndt,39,DK,DNK,00:17:24,02:37:05,01:35:19,00:01:59,00:02:48,04:34:35
+ironman-70.3-dubai-20160129.csv,168,Diego Soto,42,TX,USA,00:16:30,02:33:38,01:51:45,00:03:11,00:02:37,04:47:41
+ironman-70.3-dubai-20160129.csv,169,Mark Fourie,42,Other,ZAF,00:15:53,02:36:40,01:45:42,00:03:09,00:02:37,04:44:01
+ironman-70.3-dubai-20160129.csv,170,Mattias Krantz,42,---,SWE,00:16:07,02:32:51,01:36:35,00:02:52,00:01:34,04:29:59
+ironman-70.3-dubai-20160129.csv,171,Alexander Geiss,46,---,DEU,---,---,---,---,---,DQ
+ironman-70.3-dubai-20160129.csv,172,David Taylor,47,Other,BHR,00:17:04,02:47:43,02:17:35,00:03:46,00:03:04,05:29:12
+ironman-70.3-dubai-20160129.csv,173,Joan Salvador Escala Arnau,47,---,ESP,00:17:09,02:41:18,01:44:18,00:03:22,00:02:05,04:48:12
+ironman-70.3-dubai-20160129.csv,174,John Venable,45,AE,USA,00:13:21,02:34:52,01:50:13,00:01:49,00:03:09,04:43:24
+ironman-70.3-dubai-20160129.csv,175,Juan Diego Mora Oviedo,44,---,COL,00:15:21,02:46:19,01:37:11,00:03:17,00:02:16,04:44:24
+ironman-70.3-dubai-20160129.csv,176,Radek Podracky,44,DXB,CZE,00:17:01,02:42:01,02:00:25,00:02:28,00:03:08,05:05:03
+ironman-70.3-dubai-20160129.csv,177,Raffaele Saporiti,54,VA,ITA,00:17:05,02:57:51,01:50:56,00:05:43,00:03:18,05:14:53
+ironman-70.3-dubai-20160129.csv,178,Hessa Al Khalifa,24,Riffa,BHR,00:19:20,03:11:12,02:14:10,00:03:10,00:03:51,05:51:43
+ironman-70.3-dubai-20160129.csv,179,Nailah Al-Khalifa,24,Intl State,BHR,00:22:19,03:45:32,02:49:43,00:06:02,00:04:19,07:07:55
+ironman-70.3-dubai-20160129.csv,180,Alexandra Messager,33,---,FRA,00:19:57,03:41:49,02:15:16,00:07:19,00:07:27,06:31:48
+ironman-70.3-dubai-20160129.csv,181,Anna Pritchard,31,DXB,NZL,00:14:37,02:49:12,01:58:45,00:02:48,00:02:50,05:08:12
+ironman-70.3-dubai-20160129.csv,182,Charlotte Manning,31,---,CAN,00:16:33,02:53:20,01:55:47,00:03:18,00:03:26,05:12:24
+ironman-70.3-dubai-20160129.csv,183,Doris Hazzan,31,DXB,JOR,00:19:00,03:15:34,02:20:47,00:04:21,00:04:56,06:04:38
+ironman-70.3-dubai-20160129.csv,184,Gerda Maria,31,Qatar,ROU,00:16:25,04:10:38,02:13:27,00:05:11,00:03:52,06:49:33
+ironman-70.3-dubai-20160129.csv,185,Katharine Turney,33,AUH,GBR,00:18:31,03:13:12,02:23:35,00:04:23,00:04:10,06:03:51
+ironman-70.3-dubai-20160129.csv,186,Katharine Budd,29,DXB,ARE,00:15:10,02:48:03,01:53:30,00:03:39,00:02:12,05:02:34
+ironman-70.3-dubai-20160129.csv,190,Nouf Al Khalifa,33,Intl State,BHR,00:23:40,03:55:51,03:07:41,00:05:06,00:03:12,07:35:30
+ironman-70.3-dubai-20160129.csv,191,Olga Matyushina,31,DXB,RUS,00:13:50,03:03:05,01:54:07,00:03:53,00:02:35,05:17:30
+ironman-70.3-dubai-20160129.csv,192,Shalene Huth,30,WI,USA,00:16:02,03:12:22,02:00:48,00:03:16,00:03:48,05:36:16
+ironman-70.3-dubai-20160129.csv,193,Trine Wissum,31,SG,DNK,00:15:49,02:42:30,01:43:00,00:02:31,00:02:07,04:45:57
+ironman-70.3-dubai-20160129.csv,194,Alexandra Lambrecht,36,---,BEL,00:14:14,02:52:02,01:58:00,00:04:16,00:02:15,05:10:47
+ironman-70.3-dubai-20160129.csv,196,Annabelle Rust,34,Other,FRA,00:15:06,02:59:28,01:44:18,00:02:44,00:02:11,05:03:47
+ironman-70.3-dubai-20160129.csv,197,Annie Crookes,39,DXB,GBR,00:14:35,02:56:18,01:39:20,00:04:04,00:02:36,04:56:53
+ironman-70.3-dubai-20160129.csv,198,Beatrice Amundsson,34,SE,SWE,00:14:44,02:49:16,---,00:03:38,00:03:37,DNF
+ironman-70.3-dubai-20160129.csv,200,Hessa Al Khalifa,36,Intl State,BHR,00:25:47,---,---,00:04:49,05:09:35,DNF
+ironman-70.3-dubai-20160129.csv,201,Ilne Van Niekerk,38,DXB,ZAF,00:16:51,03:20:30,03:02:01,00:04:18,00:03:33,06:47:13
+ironman-70.3-dubai-20160129.csv,202,Jennifer Lovesy,35,Other,GBR,00:18:29,02:55:55,01:57:45,00:02:59,00:02:31,05:17:39
+ironman-70.3-dubai-20160129.csv,203,Magdalena Knop,35,DXB,DNK,00:19:59,03:19:23,02:18:40,00:04:48,00:04:17,06:07:07
+ironman-70.3-dubai-20160129.csv,204,Mandy Coetzee,37,Other,ZAF,00:16:16,03:07:10,01:53:19,00:05:50,00:04:35,05:27:10
+ironman-70.3-dubai-20160129.csv,206,Nora Ismagilova,36,Other,RUS,00:19:15,03:14:16,02:18:42,00:06:59,00:03:48,06:03:00
+ironman-70.3-dubai-20160129.csv,207,Amanda Borlotti,40,Other,GBR,00:18:54,03:08:37,02:31:00,00:05:39,00:03:08,06:07:18
+ironman-70.3-dubai-20160129.csv,209,Finola De Paor,41,Other,IRL,00:18:46,03:23:39,01:49:49,00:03:58,00:03:21,05:39:33
+ironman-70.3-dubai-20160129.csv,210,Harmke Westervelt,41,DXB,NLD,00:19:42,03:23:56,02:28:57,00:02:28,00:03:41,06:18:44
+ironman-70.3-dubai-20160129.csv,212,Marianne Gates,39,DXB,ZAF,00:15:35,02:55:57,02:07:43,00:03:13,00:02:39,05:25:07
+ironman-70.3-dubai-20160129.csv,213,Marileze Robson,42,DXB,ZAF,00:15:33,02:58:51,01:51:22,00:03:13,00:02:21,05:11:20
+ironman-70.3-dubai-20160129.csv,215,Nichola Mcdonald,40,Intl State,ZAF,00:21:14,03:10:28,02:16:53,00:10:32,00:06:01,06:05:08
+ironman-70.3-dubai-20160129.csv,216,Regina Lombard,43,---,IRL,00:18:16,03:01:29,02:16:25,00:03:33,00:02:31,05:42:14
+ironman-70.3-dubai-20160129.csv,218,Tamami Yokota,39,DXB,JPN,00:18:35,03:19:10,02:33:49,00:04:41,00:07:36,06:23:51
+ironman-70.3-dubai-20160129.csv,219,Triona Macgregor,42,DXB,IRL,00:13:50,03:11:27,02:02:24,00:03:27,00:03:21,05:34:29
+ironman-70.3-dubai-20160129.csv,220,Victoria Chia,42,CA,USA,00:19:19,03:01:59,02:21:13,00:02:56,00:02:48,05:48:15
+ironman-70.3-dubai-20160129.csv,221,Katrina Corcoran,39,AUH,USA,00:19:45,03:23:08,02:37:25,00:04:53,00:04:34,06:29:45
+ironman-70.3-dubai-20160129.csv,222,Flavia Bolliger,45,DXB,CHE,00:19:39,03:04:00,02:15:38,00:04:32,00:02:48,05:46:37
+ironman-70.3-dubai-20160129.csv,223,Gill Sparrow,47,DXB,ARE,00:16:37,03:04:25,02:02:06,00:03:21,00:02:44,05:29:13
+ironman-70.3-dubai-20160129.csv,224,Janine Bensouda,44,DXB,MAR,00:18:28,03:14:22,01:58:43,00:03:59,00:02:04,05:37:36
+ironman-70.3-dubai-20160129.csv,225,Karen Smith,46,West Yorkshire,GBR,00:16:20,03:09:37,02:07:02,00:05:01,00:05:56,05:43:56
+ironman-70.3-dubai-20160129.csv,226,Sioned Taylor,46,DXB,GBR,00:15:43,02:44:17,01:43:40,00:02:37,00:01:56,04:48:13
+ironman-70.3-dubai-20160129.csv,227,Lindis Johansen,44,Doha,NOR,00:19:22,---,---,00:03:12,---,DNF
+ironman-70.3-dubai-20160129.csv,228,Diane Gordon,52,Other,CAN,00:19:58,03:15:26,02:29:47,00:03:23,00:02:37,06:11:11
+ironman-70.3-dubai-20160129.csv,230,Helen Graham,51,---,GBR,00:21:19,03:45:58,01:57:50,00:09:15,00:09:58,06:24:20
+ironman-70.3-dubai-20160129.csv,231,Joyce Hoornik,53,DXB,NLD,00:22:01,03:26:46,02:17:12,00:06:20,00:06:01,06:18:20
+ironman-70.3-dubai-20160129.csv,232,Julie Rossouw,51,Other,GBR,00:16:14,03:04:58,01:59:16,00:04:36,00:02:13,05:27:17
+ironman-70.3-dubai-20160129.csv,233,Mariette Hattingh,50,Eastern Cape,ZAF,00:16:31,02:36:58,01:50:17,00:04:02,00:02:48,04:50:36
+ironman-70.3-dubai-20160129.csv,234,Annemarie Kilshaw,50,Qatar,AUS,00:16:44,03:18:11,01:55:27,00:03:09,00:02:00,05:35:31
+ironman-70.3-dubai-20160129.csv,235,Janice Clarke,55,DXB,GBR,00:19:49,03:07:45,02:19:20,00:05:08,00:03:52,05:55:54
+ironman-70.3-dubai-20160129.csv,236,Mitch Kennedy,19,DXB,AUS,00:13:10,02:32:51,01:46:01,00:01:59,00:02:02,04:36:03
+ironman-70.3-dubai-20160129.csv,238,Blair Webster,27,Kent,GBR,00:13:45,03:07:56,01:38:43,00:03:38,00:05:16,05:09:18
+ironman-70.3-dubai-20160129.csv,239,Brett Hallam,24,---,IRL,00:13:44,03:00:51,02:02:04,00:02:26,00:02:52,05:21:57
+ironman-70.3-dubai-20160129.csv,242,Christophe Hobeika,27,DXB,FRA,00:15:33,02:58:42,02:02:16,00:03:15,00:01:57,05:21:43
+ironman-70.3-dubai-20160129.csv,243,Damien Janssens De Bisthoven,26,---,BEL,00:16:15,02:53:17,01:39:47,00:03:40,00:02:43,04:55:42
+ironman-70.3-dubai-20160129.csv,244,Dan Russell,27,Hertfordshire,GBR,00:15:01,02:36:11,01:43:08,00:02:39,00:01:36,04:38:35
+ironman-70.3-dubai-20160129.csv,245,Gabriel Björklund,26,---,SWE,00:15:33,02:55:00,02:04:38,00:04:18,00:03:31,05:23:00
+ironman-70.3-dubai-20160129.csv,247,Joseph-Eytan Azran,27,Casablanca,MAR,00:21:09,03:29:01,02:33:31,00:08:25,00:05:06,06:37:12
+ironman-70.3-dubai-20160129.csv,250,Mohammed Al Madani,28,Aali,BHR,00:18:15,03:23:50,02:18:17,00:04:22,00:02:53,06:07:37
+ironman-70.3-dubai-20160129.csv,251,Richard Pingram,25,---,GBR,00:14:18,02:51:47,02:10:12,00:03:33,00:03:06,05:22:56
+ironman-70.3-dubai-20160129.csv,253,Viraj Shrivastva,28,DXB,IND,00:19:49,02:50:10,02:19:02,00:05:01,00:05:40,05:39:42
+ironman-70.3-dubai-20160129.csv,255,Hardik Patil,28,MAHARASHTRA,IND,00:20:55,03:22:55,02:21:24,00:05:45,00:03:30,06:14:29
+ironman-70.3-dubai-20160129.csv,256,Ebrahim Alromaihi,24,Doha,QAT,00:15:33,02:56:32,01:55:28,00:03:28,00:01:40,05:12:41
+ironman-70.3-dubai-20160129.csv,257,Ahmed Hamidalddin,31,Central Region,SAU,00:30:25,03:32:47,02:26:24,00:08:24,00:08:59,06:46:59
+ironman-70.3-dubai-20160129.csv,259,Alec Spedding,33,DXB,GBR,00:18:28,02:49:54,02:17:33,00:04:24,00:04:13,05:34:32
+ironman-70.3-dubai-20160129.csv,260,Andreas Fabricius,32,---,SWE,00:15:03,02:34:41,01:49:22,00:02:06,00:01:33,04:42:45
+ironman-70.3-dubai-20160129.csv,261,Andrei Contan,31,APO,ROU,00:16:07,02:50:44,01:56:15,00:03:22,00:02:05,05:08:33
+ironman-70.3-dubai-20160129.csv,263,Anthony Fernando,33,DXB,PHL,00:16:48,02:55:11,02:21:44,00:03:59,00:02:51,05:40:33
+ironman-70.3-dubai-20160129.csv,264,Ben Walton,33,DXB,GBR,00:13:57,03:01:23,01:25:04,00:01:42,00:01:42,04:43:48
+ironman-70.3-dubai-20160129.csv,265,Ben Corby,33,DXB,GBR,00:14:47,02:48:53,01:44:15,00:02:48,00:01:53,04:52:36
+ironman-70.3-dubai-20160129.csv,266,Danilo Bulatovic,34,Belgrade,SRB,00:16:45,02:43:43,02:13:24,00:02:48,00:03:44,05:20:24
+ironman-70.3-dubai-20160129.csv,267,David Howland,29,DXB,GBR,00:18:24,03:53:17,02:05:09,00:03:38,00:03:28,06:23:56
+ironman-70.3-dubai-20160129.csv,269,Fernando Lamelas,32,TX,MEX,00:15:54,03:00:16,02:12:31,00:07:13,00:03:37,05:39:31
+ironman-70.3-dubai-20160129.csv,270,Fernando Garcia Roman,29,DXB,ESP,00:15:09,02:52:55,01:52:04,00:03:21,00:03:20,05:06:49
+ironman-70.3-dubai-20160129.csv,271,Giovi Putignano,33,---,CHE,00:14:32,02:28:57,01:50:16,00:01:56,00:06:43,04:42:24
+ironman-70.3-dubai-20160129.csv,272,Gonzaga Fernandez,32,ES,ESP,00:15:35,02:50:54,01:52:12,00:03:20,00:03:24,05:05:25
+ironman-70.3-dubai-20160129.csv,273,Grant Hughes,34,Other,ZAF,00:17:05,03:15:21,02:22:52,00:06:51,00:03:45,06:05:54
+ironman-70.3-dubai-20160129.csv,274,Greg Marzano,31,---,GBR,00:13:27,02:43:25,01:49:39,00:02:59,00:02:14,04:51:44
+ironman-70.3-dubai-20160129.csv,275,Iain Garnell,33,Doha,GBR,00:15:59,02:30:15,01:58:19,00:02:27,00:01:32,04:48:32
+ironman-70.3-dubai-20160129.csv,276,Igor Lysov,32,moscow,RUS,00:13:29,02:44:14,01:49:02,00:03:28,00:02:24,04:52:37
+ironman-70.3-dubai-20160129.csv,277,Jaime Castaneda,32,DXB,ESP,00:17:25,02:54:41,02:07:58,00:03:58,00:04:43,05:28:45
+ironman-70.3-dubai-20160129.csv,278,Jerry Mantilla,33,DXB,PHL,00:17:50,02:49:01,01:52:20,00:03:26,00:03:28,05:06:05
+ironman-70.3-dubai-20160129.csv,279,Joe Harney,31,DXB,GBR,00:13:49,02:37:42,01:40:33,00:02:34,00:01:48,04:36:26
+ironman-70.3-dubai-20160129.csv,280,Jonathan Harris,---,AUH,GBR,---,---,---,---,---,DNS
+ironman-70.3-dubai-20160129.csv,281,Jonathon Huntley,32,DXB,NZL,00:14:30,02:28:18,01:43:40,00:02:21,00:01:48,04:30:37
+ironman-70.3-dubai-20160129.csv,282,Kartik Ng,33,Shimoga,IND,00:18:49,02:42:21,01:46:08,00:05:38,00:02:27,04:55:23
+ironman-70.3-dubai-20160129.csv,283,Marius Ulozevicius,32,Lithuania,LTU,00:18:46,---,---,00:01:24,---,DNF
+ironman-70.3-dubai-20160129.csv,284,Matthew Woods,33,DXB,GBR,00:17:43,03:01:57,02:03:14,00:03:24,00:02:38,05:28:56
+ironman-70.3-dubai-20160129.csv,285,Matthew Martin,31,WI,USA,00:16:52,02:53:58,01:56:04,00:05:16,00:03:49,05:15:59
+ironman-70.3-dubai-20160129.csv,286,Matthieu Prouillac,33,DXB,FRA,00:15:59,02:36:37,01:38:43,00:03:12,00:01:59,04:36:30
+ironman-70.3-dubai-20160129.csv,287,Mehdi Ait Yahoui,30,DXB,FRA,00:16:00,03:17:20,02:11:34,00:03:47,00:02:12,05:50:53
+ironman-70.3-dubai-20160129.csv,288,Mohamed Aidaros,31,DXB,EGY,00:18:25,03:17:25,02:14:46,00:03:18,00:02:10,05:56:04
+ironman-70.3-dubai-20160129.csv,289,Nael Al Koudsi,33,DXB,CAN,00:16:12,02:55:48,01:55:04,00:03:23,00:02:54,05:13:21
+ironman-70.3-dubai-20160129.csv,290,Niall Urquhart,31,AUH,GBR,00:19:37,03:16:39,02:36:04,00:04:42,00:02:55,06:19:57
+ironman-70.3-dubai-20160129.csv,292,orlando luis,34,DXB,ZAF,00:17:18,02:52:27,01:55:50,00:04:04,00:02:27,05:12:06
+ironman-70.3-dubai-20160129.csv,293,Pak Yin Lam,33,Other,MAC,00:18:15,03:37:48,02:17:20,00:05:50,00:03:51,06:23:04
+ironman-70.3-dubai-20160129.csv,294,Paolo Mangilinan,27,DXB,PHL,00:13:25,02:39:34,02:04:28,00:03:23,00:02:15,05:03:05
+ironman-70.3-dubai-20160129.csv,296,Razvan Catalin Doica,29,Bucharest,ROU,00:14:39,02:31:34,01:35:17,00:01:58,00:01:47,04:25:15
+ironman-70.3-dubai-20160129.csv,297,Rhys Courtney,30,DXB,ARE,00:18:57,03:21:18,02:31:08,00:05:54,00:07:37,06:24:54
+ironman-70.3-dubai-20160129.csv,298,Richard Gumabao,33,DXB,PHL,00:16:14,02:49:37,02:03:48,BIB,00:02:19,05:14:43
+ironman-70.3-dubai-20160129.csv,299,Romain Mejecaze,33,---,FRA,00:17:53,03:23:35,02:43:38,00:05:37,00:03:56,06:34:39
+ironman-70.3-dubai-20160129.csv,300,Roscoe Friend,31,DXB,ZAF,00:14:58,02:56:14,02:07:18,00:04:11,00:03:09,05:25:50
+ironman-70.3-dubai-20160129.csv,301,Rudy Donor,29,bikol,PHL,00:13:35,02:51:51,02:06:16,00:05:13,00:02:53,05:19:48
+ironman-70.3-dubai-20160129.csv,302,Saeed Al Abbar,31,DXB,ARE,00:14:44,02:53:47,01:48:58,00:02:29,00:02:08,05:02:06
+ironman-70.3-dubai-20160129.csv,303,Scott Roberts,33,DXB,GBR,00:14:56,03:04:31,02:13:41,00:04:37,00:03:26,05:41:11
+ironman-70.3-dubai-20160129.csv,304,Sean Thompson,33,DXB,AUS,00:15:30,02:46:12,01:59:21,00:03:27,00:02:45,05:07:15
+ironman-70.3-dubai-20160129.csv,305,Shaun Nicholson,32,DXB,ZAF,00:19:19,03:21:04,02:23:49,00:04:47,00:02:52,06:11:51
+ironman-70.3-dubai-20160129.csv,306,Skirmantas Sukackas,31,DXB,LTU,00:14:32,02:28:39,01:29:36,00:03:25,00:02:11,04:18:23
+ironman-70.3-dubai-20160129.csv,308,Steve Simpson,32,AUH,GBR,00:19:00,03:15:19,02:08:16,00:06:08,00:02:27,05:51:10
+ironman-70.3-dubai-20160129.csv,309,Steve Javorsky,33,DXB,AUS,00:14:22,02:42:10,01:35:08,00:02:48,00:03:03,04:37:31
+ironman-70.3-dubai-20160129.csv,310,Stuart Bainbridge,31,DXB,GBR,00:17:09,02:47:27,01:52:40,00:03:17,00:01:53,05:02:26
+ironman-70.3-dubai-20160129.csv,311,Stuart Mccormack,32,WA,GBR,00:17:44,02:48:26,02:24:05,00:02:49,00:02:49,05:35:53
+ironman-70.3-dubai-20160129.csv,312,Tautvydas Barstys,29,Suvalkija,LTU,00:16:00,02:21:30,01:29:41,00:02:37,00:02:35,04:12:23
+ironman-70.3-dubai-20160129.csv,313,Thomas Christopher Martin,29,Dublin,CAN,00:14:27,02:35:22,01:31:44,00:02:47,00:01:33,04:25:53
+ironman-70.3-dubai-20160129.csv,314,Tim Fuchs,33,SHJ,DEU,00:14:35,02:47:03,02:12:54,00:04:28,00:02:38,05:21:38
+ironman-70.3-dubai-20160129.csv,316,Raslan Musleh Ahmed,29,DXB,JOR,00:18:37,02:38:36,02:15:54,00:04:17,00:03:06,05:20:30
+ironman-70.3-dubai-20160129.csv,317,Martin Johansen,29,Other,DNK,00:16:33,02:50:55,01:40:43,00:05:24,00:03:57,04:57:32
+ironman-70.3-dubai-20160129.csv,318,Natalio Liares,33,DXB,PHL,00:20:51,02:47:39,01:50:08,00:04:31,00:01:57,05:05:06
+ironman-70.3-dubai-20160129.csv,319,Aaron Torrelio,38,NY,USA,00:14:29,02:36:23,01:44:11,00:03:11,00:02:26,04:40:40
+ironman-70.3-dubai-20160129.csv,320,Adi Al-Tak,35,london,GBR,00:24:43,03:06:54,02:49:33,00:04:31,00:06:44,06:32:25
+ironman-70.3-dubai-20160129.csv,322,Alex Hoehe,35,SHJ,DEU,00:18:35,02:55:44,01:44:37,00:06:40,00:02:22,05:07:58
+ironman-70.3-dubai-20160129.csv,323,Alexander King,35,AUH,GBR,00:14:50,02:46:55,01:43:51,00:03:13,00:02:03,04:50:52
+ironman-70.3-dubai-20160129.csv,324,Alexis Chatzinikolaou,35,DXB,GRC,00:14:17,02:37:46,02:00:07,00:02:11,00:02:11,04:56:32
+ironman-70.3-dubai-20160129.csv,325,Alfredo Llaneza,36,DXB,ESP,00:13:44,02:48:13,01:58:43,00:02:28,00:02:17,05:05:25
+ironman-70.3-dubai-20160129.csv,327,Allen Nonog,35,DXB,PHL,00:17:05,03:11:19,02:20:24,00:04:19,00:03:32,05:56:39
+ironman-70.3-dubai-20160129.csv,328,Amer Chebaro,38,DXB,LBN,00:21:10,03:02:25,02:52:59,00:05:40,00:04:34,06:26:48
+ironman-70.3-dubai-20160129.csv,329,Amin Soltani,36,DXB,GBR,00:19:57,02:50:49,03:03:22,00:03:35,00:03:29,06:21:12
+ironman-70.3-dubai-20160129.csv,330,Andre Reid,36,London,GBR,00:19:56,02:45:14,02:22:37,00:04:58,00:05:36,05:38:21
+ironman-70.3-dubai-20160129.csv,331,Andres Perez,37,Intl State,CHE,---,03:29:43,01:42:52,---,00:09:12,05:21:47
+ironman-70.3-dubai-20160129.csv,332,Andrew Phillips,35,NSW,AUS,00:14:41,03:01:40,02:04:10,00:03:08,00:05:46,05:29:25
+ironman-70.3-dubai-20160129.csv,333,Andy Eggleston,36,FR,GBR,00:15:46,02:46:49,01:48:52,00:04:06,00:02:19,04:57:52
+ironman-70.3-dubai-20160129.csv,334,Angel Leira Parrado,34,DXB,ESP,00:16:48,03:00:15,02:11:57,00:03:25,00:03:56,05:36:21
+ironman-70.3-dubai-20160129.csv,335,Barry Mairs,39,---,GBR,00:18:48,02:48:12,01:56:36,00:02:50,00:02:05,05:08:31
+ironman-70.3-dubai-20160129.csv,336,William Weymouth,34,Qatar,IRL,00:14:40,02:25:38,01:33:27,00:02:45,00:01:22,04:17:52
+ironman-70.3-dubai-20160129.csv,337,Brett Smyth,34,---,ZAF,00:17:08,03:14:57,02:13:03,00:03:56,00:02:02,05:51:06
+ironman-70.3-dubai-20160129.csv,338,Cameron Forbes,---,Other,GBR,00:16:15,02:49:07,01:48:09,00:04:00,00:01:53,04:59:24
+ironman-70.3-dubai-20160129.csv,339,Christopher Sellar,37,Other,GBR,00:12:47,02:29:11,01:24:44,00:02:42,00:01:42,04:11:06
+ironman-70.3-dubai-20160129.csv,340,Chris Seeley,37,DXB,GBR,00:13:35,02:51:03,01:42:02,00:03:09,00:02:15,04:52:04
+ironman-70.3-dubai-20160129.csv,341,Christian Morgan,37,Western Cape,ZAF,00:15:01,02:50:00,01:48:44,00:04:27,00:03:46,05:01:58
+ironman-70.3-dubai-20160129.csv,342,Christian Vordermayer,38,DE,DEU,00:16:45,02:36:10,02:02:33,00:04:02,00:02:18,05:01:48
+ironman-70.3-dubai-20160129.csv,343,Christophe Roux,37,DXB,ARE,00:14:39,02:50:39,01:46:26,00:03:02,00:01:49,04:56:35
+ironman-70.3-dubai-20160129.csv,345,Dani Afiouni,35,DXB,LBN,00:18:26,04:04:55,---,00:06:02,---,DNF
+ironman-70.3-dubai-20160129.csv,346,David Dobias,38,CZ,CZE,00:16:06,02:28:32,02:05:10,00:03:17,00:02:10,04:55:15
+ironman-70.3-dubai-20160129.csv,347,Dennis Thrane Wachmann,38,DK,DNK,00:13:55,02:25:26,01:44:23,00:03:11,00:02:15,04:29:10
+ironman-70.3-dubai-20160129.csv,348,Derek Brady,35,Qatar,IRL,00:15:50,02:38:40,01:27:55,00:02:34,00:02:13,04:27:12
+ironman-70.3-dubai-20160129.csv,349,Dewald Olivier,38,DXB,ZAF,00:14:54,02:47:15,02:06:00,00:03:45,00:02:24,05:14:18
+ironman-70.3-dubai-20160129.csv,350,Dmitrii Egorov,35,DXB,RUS,00:16:02,02:59:33,01:49:18,00:04:06,00:02:11,05:11:10
+ironman-70.3-dubai-20160129.csv,351,Douglas Pickles,36,DXB,GBR,00:16:39,03:13:41,02:06:52,00:03:00,00:01:36,05:41:48
+ironman-70.3-dubai-20160129.csv,352,eric herrera,38,AUH,PHL,00:18:09,02:36:02,02:08:00,00:03:03,00:03:07,05:08:21
+ironman-70.3-dubai-20160129.csv,353,Fabian Campo,---,DXB,ESP,00:14:23,02:39:14,01:36:36,00:02:36,00:02:37,04:35:26
+ironman-70.3-dubai-20160129.csv,355,Felipe Alvarez,36,FR,CHE,00:20:02,03:03:31,02:27:32,00:12:06,00:09:16,06:12:27
+ironman-70.3-dubai-20160129.csv,356,Ferdinand De Guzman,37,AUH,PHL,00:15:38,02:48:45,02:09:16,00:03:00,00:03:28,05:20:07
+ironman-70.3-dubai-20160129.csv,357,Gero Mimberg,34,DE,DEU,00:13:56,02:30:30,01:50:24,00:02:41,00:03:25,04:40:56
+ironman-70.3-dubai-20160129.csv,358,Gerry Morales,36,DXB,PHL,00:16:31,02:57:47,02:12:15,00:02:35,00:03:44,05:32:52
+ironman-70.3-dubai-20160129.csv,359,Glen Te Wharau,38,Other,NZL,00:15:09,02:28:11,01:39:46,00:01:47,00:01:27,04:26:20
+ironman-70.3-dubai-20160129.csv,362,Hazem Midani,38,DXB,SYR,00:17:53,03:06:44,02:36:01,00:10:48,00:06:49,06:18:15
+ironman-70.3-dubai-20160129.csv,363,Henrique Anjos,39,DXB,PRT,00:17:44,03:38:00,02:33:16,00:03:58,00:03:29,06:36:27
+ironman-70.3-dubai-20160129.csv,364,Herve De Coatgoureden,38,DXB,FRA,00:18:14,03:11:54,02:18:20,00:04:39,00:02:12,05:55:19
+ironman-70.3-dubai-20160129.csv,365,Jaap Jan Pietersen,34,DXB,NLD,00:17:11,03:11:07,02:06:19,00:02:53,00:02:10,05:39:40
+ironman-70.3-dubai-20160129.csv,366,Jacek Hermann,37,DXB,DEU,00:15:56,02:52:19,02:20:55,00:04:45,00:03:43,05:37:38
+ironman-70.3-dubai-20160129.csv,367,Jason Wagner,37,Gauteng,ZAF,00:16:29,03:31:32,02:15:51,00:02:00,00:04:29,06:10:21
+ironman-70.3-dubai-20160129.csv,368,Jbern Eugenio,35,DXB,PHL,00:17:38,02:46:52,01:54:49,00:04:28,00:02:17,05:06:04
+ironman-70.3-dubai-20160129.csv,369,Joakim Franzen,38,DXB,SWE,00:14:42,02:25:24,01:35:46,00:02:17,00:01:45,04:19:54
+ironman-70.3-dubai-20160129.csv,370,Johannes Wouters,34,DXB,NLD,00:15:22,02:40:52,02:07:50,00:03:39,00:02:42,05:10:25
+ironman-70.3-dubai-20160129.csv,371,John-Leo Abiog,38,DXB,PHL,00:18:13,03:36:50,02:36:27,00:06:14,00:04:09,06:41:53
+ironman-70.3-dubai-20160129.csv,372,Jonelle Casino,35,---,PHL,00:18:27,03:36:50,02:39:38,00:04:05,00:05:40,06:44:40
+ironman-70.3-dubai-20160129.csv,373,Ferrer Arregui Jorge,38,DXB,ESP,00:15:26,02:51:46,01:46:44,00:03:26,00:03:40,05:01:02
+ironman-70.3-dubai-20160129.csv,374,Jose Diaz,36,TX,ESP,00:17:01,02:50:11,01:57:58,00:03:53,00:02:22,05:11:25
+ironman-70.3-dubai-20160129.csv,375,Kazimir Galic,37,DE,DEU,00:14:23,02:37:50,01:59:46,00:03:49,00:02:35,04:58:23
+ironman-70.3-dubai-20160129.csv,376,Keith Deans,35,---,GBR,00:15:16,02:35:52,02:00:23,00:02:08,00:02:30,04:56:09
+ironman-70.3-dubai-20160129.csv,377,Keith Dunham,37,West Bay,GBR,00:18:52,03:15:14,02:01:22,00:04:52,00:01:39,05:41:59
+ironman-70.3-dubai-20160129.csv,378,Kieren Hanlon,35,Merseyside,GBR,00:16:50,03:10:13,02:20:22,00:04:26,00:02:51,05:54:42
+ironman-70.3-dubai-20160129.csv,379,Luke Remington,34,DXB,GBR,00:15:22,02:39:36,01:51:47,00:02:52,00:02:49,04:52:26
+ironman-70.3-dubai-20160129.csv,380,Lutfi Zakhour,37,AUH,CAN,00:21:05,03:15:42,02:04:12,00:05:07,00:04:42,05:50:48
+ironman-70.3-dubai-20160129.csv,381,Mahmoud Abdel Hakim,37,sheikh zayed,EGY,00:15:42,03:01:16,01:55:53,00:04:08,00:02:04,05:19:03
+ironman-70.3-dubai-20160129.csv,384,Marko Ristic,36,Other,SRB,00:19:50,03:28:12,02:27:53,00:12:22,00:11:48,06:40:05
+ironman-70.3-dubai-20160129.csv,385,Marlon Gapay,35,AUH,PHL,00:16:47,02:40:04,01:59:57,00:03:46,00:02:40,05:03:14
+ironman-70.3-dubai-20160129.csv,386,Marwan Al Muthanna,36,DXB,ARE,00:20:03,03:08:12,02:31:32,00:05:46,00:02:55,06:08:28
+ironman-70.3-dubai-20160129.csv,387,Mikael Nelker,37,---,SWE,00:12:50,02:19:52,01:24:40,00:02:09,00:02:00,04:01:31
+ironman-70.3-dubai-20160129.csv,388,Mohamed Almuhairi,37,DXB,ARE,---,---,---,---,---,DNS
+ironman-70.3-dubai-20160129.csv,389,Mostafa Sherif,34,Cairo,EGY,00:18:19,03:55:27,02:40:34,00:04:52,00:04:47,07:03:59
+ironman-70.3-dubai-20160129.csv,390,Mychael Vicencio,35,AUH,PHL,00:16:06,02:55:31,01:58:26,00:04:11,00:02:56,05:17:10
+ironman-70.3-dubai-20160129.csv,391,Nabil Alsayed,35,SHJ,PSE,00:25:45,03:38:44,02:43:14,00:02:00,00:03:11,06:52:54
+ironman-70.3-dubai-20160129.csv,392,Nasir Khamlichi,36,DXB,GBR,00:20:08,03:06:56,02:13:53,00:04:30,00:03:48,05:49:15
+ironman-70.3-dubai-20160129.csv,393,Nathan Bradford,36,DXB,GBR,00:14:06,02:44:53,01:33:38,00:01:56,00:01:39,04:36:12
+ironman-70.3-dubai-20160129.csv,394,Nazeeb Koya,34,DXB,IND,00:17:24,02:35:32,01:52:23,00:04:29,00:02:12,04:52:00
+ironman-70.3-dubai-20160129.csv,395,Nick Bennett,38,DXB,ARE,00:18:23,02:50:31,01:48:36,00:03:30,00:01:29,05:02:29
+ironman-70.3-dubai-20160129.csv,396,Nizar Fakhoury,35,DXB,LBN,00:16:29,03:11:36,01:44:22,00:03:06,00:02:50,05:18:23
+ironman-70.3-dubai-20160129.csv,397,Oscar Marquez Balta,35,ES,ESP,00:14:05,02:27:52,01:26:24,00:02:19,00:01:33,04:12:13
+ironman-70.3-dubai-20160129.csv,398,Paul Smith,37,---,GBR,00:16:55,02:29:58,01:31:49,00:03:02,00:02:34,04:24:18
+ironman-70.3-dubai-20160129.csv,399,Pedro Echevarria,35,---,ESP,00:15:56,02:28:26,01:44:44,00:02:13,00:01:55,04:33:14
+ironman-70.3-dubai-20160129.csv,400,Philipp Knebel,34,DXB,DEU,00:17:12,---,05:23:48,00:02:55,---,DNF
+ironman-70.3-dubai-20160129.csv,401,Rakesh Panchabhavi,37,DXB,IND,00:19:48,03:20:05,02:11:43,00:10:39,00:04:23,06:06:38
+ironman-70.3-dubai-20160129.csv,402,Rapha Feres,35,DXB,BRA,00:15:36,02:47:56,01:52:41,00:04:24,00:04:06,05:04:43
+ironman-70.3-dubai-20160129.csv,403,Reymond Kelvin Dula,35,DXB,PHL,00:17:16,02:47:19,02:16:17,00:02:00,00:06:06,05:28:58
+ironman-70.3-dubai-20160129.csv,404,Russell Boyd,37,---,IRL,00:15:17,02:37:18,01:38:29,00:02:30,00:02:05,04:35:39
+ironman-70.3-dubai-20160129.csv,405,Saco Musch,38,AUH,NLD,00:15:30,02:52:32,01:55:10,00:03:45,00:02:51,05:09:48
+ironman-70.3-dubai-20160129.csv,406,Saif Hassan,35,AUH,CAN,00:17:47,02:44:13,01:49:24,00:04:07,00:04:07,04:59:38
+ironman-70.3-dubai-20160129.csv,407,Sam Marrero,35,AUH,GBR,00:17:30,02:55:43,01:59:52,00:04:04,00:02:52,05:20:01
+ironman-70.3-dubai-20160129.csv,408,Samuel Reber,34,DXB,CHE,00:17:25,02:43:05,01:54:50,00:02:46,00:03:31,05:01:37
+ironman-70.3-dubai-20160129.csv,409,Shukri Husseini,36,DXB,JOR,00:19:27,03:04:53,02:00:41,00:05:26,00:03:45,05:34:12
+ironman-70.3-dubai-20160129.csv,410,Simon Wood,37,DXB,AUS,00:18:11,02:59:55,02:46:33,00:05:22,00:04:00,06:14:01
+ironman-70.3-dubai-20160129.csv,412,Timothy Hawes,34,DXB,GBR,00:13:59,02:36:41,01:43:30,00:02:09,00:01:55,04:38:14
+ironman-70.3-dubai-20160129.csv,413,Vianney Dujardin,36,---,FRA,00:15:02,02:39:09,01:49:46,00:02:29,00:02:35,04:49:01
+ironman-70.3-dubai-20160129.csv,414,Vladimir Burhanov,35,Riga,LVA,00:15:53,03:06:46,01:58:46,00:04:10,00:03:36,05:29:11
+ironman-70.3-dubai-20160129.csv,415,Yannick Martin,35,---,FRA,00:15:56,02:57:54,01:55:15,00:05:19,00:03:39,05:18:03
+ironman-70.3-dubai-20160129.csv,416,Ivan Ostanin,38,Krasnoyarsk ,RUS,00:15:57,03:15:24,01:44:46,00:04:26,00:02:38,05:23:11
+ironman-70.3-dubai-20160129.csv,417,Francis Morrissey,37,Tipperary,IRL,00:18:00,02:42:32,01:50:18,00:04:12,00:03:46,04:58:48
+ironman-70.3-dubai-20160129.csv,418,Daniel Hughes,36,---,USA,00:18:37,02:56:06,02:08:44,00:04:43,00:02:48,05:30:58
+ironman-70.3-dubai-20160129.csv,419,Dezaux Romain,35,DXB,FRA,00:17:21,03:37:34,02:21:37,00:05:40,00:05:10,06:27:22
+ironman-70.3-dubai-20160129.csv,420,Mirko Piva,38,italy,ITA,00:16:06,02:52:58,01:51:35,00:04:02,00:04:29,05:09:10
+ironman-70.3-dubai-20160129.csv,421,Kenneth Tan,36,---,SGP,00:19:29,03:34:29,02:40:49,00:08:03,00:07:48,06:50:38
+ironman-70.3-dubai-20160129.csv,422,Abdulrahman Saqr,41,DXB,ARE,00:19:31,02:50:54,02:05:34,00:04:12,00:03:46,05:23:57
+ironman-70.3-dubai-20160129.csv,423,Adrian Lydiard,40,---,GBR,00:15:06,03:00:31,02:16:03,00:04:38,00:03:48,05:40:06
+ironman-70.3-dubai-20160129.csv,424,Ahmed Iraky,39,Cairo,EGY,00:15:38,02:59:19,01:58:39,00:03:37,00:01:48,05:19:01
+ironman-70.3-dubai-20160129.csv,425,Alan Gayton,41,Other,GBR,00:18:45,02:49:40,02:15:50,00:04:17,00:03:18,05:31:50
+ironman-70.3-dubai-20160129.csv,426,Alper Akcan,39,Besiktas,TUR,00:17:11,02:55:52,01:56:55,00:06:32,00:04:21,05:20:51
+ironman-70.3-dubai-20160129.csv,427,Andreas Meyer,39,DE,DEU,00:14:33,02:45:11,01:58:20,00:05:51,00:03:18,05:07:13
+ironman-70.3-dubai-20160129.csv,428,Andrew Edwards,40,DXB,GBR,00:12:32,02:25:12,01:29:47,00:01:27,00:01:26,04:10:24
+ironman-70.3-dubai-20160129.csv,429,Andrew Castle,41,Surrey,GBR,00:16:57,03:11:51,02:05:49,00:04:44,00:05:46,05:45:07
+ironman-70.3-dubai-20160129.csv,430,Andrew Neill,40,DXB,ZAF,00:17:56,02:52:42,02:27:01,00:05:07,00:04:13,05:46:59
+ironman-70.3-dubai-20160129.csv,431,Baris Sinan Ural,43,Manama,TUR,00:23:12,03:47:27,02:34:19,00:07:43,00:05:35,06:58:16
+ironman-70.3-dubai-20160129.csv,432,Bertrand Fattal,41,Beirut,LBN,00:15:48,02:55:41,02:03:48,00:05:10,00:03:24,05:23:51
+ironman-70.3-dubai-20160129.csv,433,Boris Aleksic,41,DXB,SRB,00:14:22,03:01:23,02:00:18,00:07:44,00:04:52,05:28:39
+ironman-70.3-dubai-20160129.csv,435,Chris Denil,43,DXB,BEL,00:15:05,02:36:37,01:55:06,00:03:00,00:02:44,04:52:32
+ironman-70.3-dubai-20160129.csv,436,Chris Potgieter,39,Other,ZAF,00:19:03,03:22:55,02:51:26,00:07:59,00:06:06,06:47:29
+ironman-70.3-dubai-20160129.csv,437,Cobi Morales,41,FL,USA,00:12:58,02:21:21,01:32:26,00:01:59,00:01:23,04:10:07
+ironman-70.3-dubai-20160129.csv,438,Dan Dowding,43,---,GBR,00:16:29,02:41:20,01:52:24,00:03:46,00:05:02,04:59:01
+ironman-70.3-dubai-20160129.csv,439,Daniel Kings,42,Wales,GBR,00:15:59,02:54:23,01:52:21,00:06:57,00:02:03,05:11:43
+ironman-70.3-dubai-20160129.csv,442,Deepak Sharma,42,DXB,IND,00:17:39,03:17:57,02:14:24,00:04:54,00:03:50,05:58:44
+ironman-70.3-dubai-20160129.csv,443,Duncan Starnes,42,DXB,ZAF,00:17:08,02:57:45,02:00:58,00:02:12,00:03:24,05:21:27
+ironman-70.3-dubai-20160129.csv,445,Esmaeil Shabani,43,FL,IRN,00:15:50,02:56:22,02:00:21,00:04:26,00:04:10,05:21:09
+ironman-70.3-dubai-20160129.csv,446,Florante Viray,42,AUH,PHL,00:18:22,03:05:07,02:53:45,00:02:33,00:03:33,06:23:20
+ironman-70.3-dubai-20160129.csv,447,Franck Vincent,42,---,CHE,00:16:40,03:01:14,02:38:40,00:03:55,00:03:26,06:03:55
+ironman-70.3-dubai-20160129.csv,448,Gavin Heyes,40,DXB,ZAF,---,---,---,---,---,DNS
+ironman-70.3-dubai-20160129.csv,449,Giovanni Bello,40,DXB,ITA,00:15:59,02:59:36,02:19:53,00:04:35,00:02:29,05:42:32
+ironman-70.3-dubai-20160129.csv,451,Hamid Belkebir,40,DXB,DZA,00:20:25,02:58:26,02:03:35,00:02:44,00:01:56,05:27:06
+ironman-70.3-dubai-20160129.csv,452,Harry Andrew Andres,42,"San Fernando, La Union",PHL,00:21:02,03:17:34,02:37:36,00:04:15,00:02:43,06:23:10
+ironman-70.3-dubai-20160129.csv,454,Hashem Alharbi,41,AUH,ARE,00:18:41,02:34:35,02:09:39,00:02:07,00:02:44,05:07:46
+ironman-70.3-dubai-20160129.csv,456,Jacques Fourie,40,Western Cape,ZAF,00:22:07,03:14:32,02:29:15,00:01:59,00:03:50,06:11:43
+ironman-70.3-dubai-20160129.csv,457,Andy Veall,41,SHJ,GBR,00:17:57,02:56:25,02:08:34,00:04:18,00:02:24,05:29:38
+ironman-70.3-dubai-20160129.csv,458,James Lewry,39,DXB,GBR,00:15:14,02:48:54,01:54:56,00:03:09,00:02:05,05:04:18
+ironman-70.3-dubai-20160129.csv,459,Jan Gremmen,42,DXB,NLD,00:16:53,02:33:39,01:38:53,00:03:21,00:01:49,04:34:35
+ironman-70.3-dubai-20160129.csv,460,Jason Hernando,39,---,PHL,00:19:53,03:11:57,03:24:18,00:07:02,00:07:19,07:10:29
+ironman-70.3-dubai-20160129.csv,461,Jeroen Van Cauwenberghe,43,DXB,BEL,00:18:43,02:53:28,01:47:04,00:03:15,00:01:58,05:04:28
+ironman-70.3-dubai-20160129.csv,463,Jurgen Hannaert,41,---,BEL,00:15:47,02:32:41,01:38:15,00:03:52,00:01:57,04:32:32
+ironman-70.3-dubai-20160129.csv,464,Justin Roberts,42,DXB,GBR,00:14:12,02:43:43,01:54:53,00:02:41,00:03:26,04:58:55
+ironman-70.3-dubai-20160129.csv,465,Klemen Kovac,41,Slovenia / Gorenjska / Kranj,SVN,00:15:59,02:56:52,01:48:22,00:05:21,00:04:14,05:10:48
+ironman-70.3-dubai-20160129.csv,466,Love Arvidsson,41,---,SWE,00:15:45,02:33:48,---,00:03:30,00:02:46,DNF
+ironman-70.3-dubai-20160129.csv,468,Marius Butuc,39,Cluj,ROU,00:16:18,02:52:23,02:16:07,00:03:16,00:03:53,05:31:57
+ironman-70.3-dubai-20160129.csv,469,Markus Wiesner,40,DXB,AUT,00:16:01,02:59:39,02:01:50,00:03:05,00:01:53,05:22:28
+ironman-70.3-dubai-20160129.csv,470,Matteo Andreis,39,Other,ITA,00:13:43,02:28:47,01:32:14,00:01:57,00:02:03,04:18:44
+ironman-70.3-dubai-20160129.csv,471,Matthieu Gabriele,42,DXB,FRA,00:14:55,02:36:47,01:41:08,00:02:59,00:02:39,04:38:28
+ironman-70.3-dubai-20160129.csv,474,Michael Nuyttens,42,DXB,BEL,00:16:34,02:49:01,02:02:56,00:03:43,00:02:57,05:15:11
+ironman-70.3-dubai-20160129.csv,475,Michael Schaadt,40,NY,DNK,00:17:46,03:10:58,02:24:23,00:04:27,00:05:33,06:03:07
+ironman-70.3-dubai-20160129.csv,477,Mohd Syafei Bin Ahmad,39,Doha,MYS,00:19:08,02:57:36,02:02:57,00:04:22,00:03:26,05:27:29
+ironman-70.3-dubai-20160129.csv,478,Nasser Almmohannadi,40,QATAR,QAT,00:19:05,03:06:18,01:55:52,00:03:48,00:02:59,05:28:02
+ironman-70.3-dubai-20160129.csv,479,Neil Hayward,40,DXB,GBR,00:16:39,03:10:05,02:22:06,00:03:25,00:02:49,05:55:04
+ironman-70.3-dubai-20160129.csv,480,Nollie Noprada,40,AUH,PHL,00:17:51,03:00:27,02:08:35,00:03:46,00:06:58,05:37:37
+ironman-70.3-dubai-20160129.csv,481,Olivier Turkel,42,DXB,FRA,00:19:22,02:59:05,01:59:01,00:03:18,00:03:23,05:24:09
+ironman-70.3-dubai-20160129.csv,482,Paolo Volani,41,DXB,ITA,00:13:40,02:42:35,01:46:34,00:02:58,00:03:48,04:49:35
+ironman-70.3-dubai-20160129.csv,483,Paolo Di Vincenzo,40,DXB,ITA,00:15:21,02:43:58,02:09:11,00:06:10,00:05:15,05:19:55
+ironman-70.3-dubai-20160129.csv,484,Paul Fidder,42,DXB,NLD,00:17:08,03:16:42,02:14:33,00:05:33,00:02:37,05:56:33
+ironman-70.3-dubai-20160129.csv,485,Paulo Martins,40,DXB,PRT,00:20:27,03:39:16,02:53:49,00:07:03,00:03:10,07:03:45
+ironman-70.3-dubai-20160129.csv,486,Pawel Czarnecki,39,DXB,GBR,00:15:52,03:09:05,02:12:28,00:03:47,00:03:30,05:44:42
+ironman-70.3-dubai-20160129.csv,487,Pierre Moulierac,43,---,FRA,00:12:58,02:24:32,01:34:46,00:02:31,00:03:24,04:18:11
+ironman-70.3-dubai-20160129.csv,490,Richard Backhouse,42,Other,GBR,00:18:17,03:09:24,01:53:21,00:04:40,00:03:24,05:29:06
+ironman-70.3-dubai-20160129.csv,491,Robert Begley,41,DXB,USA,00:14:14,02:46:21,01:51:55,00:03:15,00:02:25,04:58:10
+ironman-70.3-dubai-20160129.csv,492,Ronnie De Pryck,41,DXB,LUX,00:14:39,02:35:51,02:03:09,00:04:03,00:02:27,05:00:09
+ironman-70.3-dubai-20160129.csv,494,Sascha Triemer,41,DXB,DEU,00:15:24,02:40:22,01:38:12,00:02:58,00:01:52,04:38:48
+ironman-70.3-dubai-20160129.csv,496,Scott Harper,43,DXB,ARE,00:16:56,02:41:39,02:19:32,00:05:09,00:03:09,05:26:25
+ironman-70.3-dubai-20160129.csv,497,Scott Feasey,42,DXB,GBR,00:17:33,03:46:32,02:47:32,00:04:26,00:04:43,07:00:46
+ironman-70.3-dubai-20160129.csv,498,Sergio Alarcón Jiménez,42,---,ESP,00:19:02,03:50:54,02:23:40,00:06:04,00:07:08,06:46:48
+ironman-70.3-dubai-20160129.csv,499,Thomas Kvam,39,---,NOR,00:16:01,02:43:10,02:02:34,00:03:44,00:02:55,05:08:24
+ironman-70.3-dubai-20160129.csv,500,Tommaso Cartacci,41,DXB,ITA,00:15:07,02:32:41,01:41:41,00:02:17,00:01:39,04:33:25
+ironman-70.3-dubai-20160129.csv,501,Valerio Pagnotta,39,AUH,ITA,00:24:13,---,---,---,---,DNF
+ironman-70.3-dubai-20160129.csv,502,Yasuo Kunikane,---,---,JPN,00:20:56,03:20:41,02:02:47,00:04:58,00:05:03,05:54:25
+ironman-70.3-dubai-20160129.csv,503,Yves De Lavigne,39,DXB,FRA,00:17:30,03:09:45,02:09:52,00:03:07,00:01:44,05:41:58
+ironman-70.3-dubai-20160129.csv,504,Zaahir Howell,43,Rayyaan,ZAF,00:16:33,03:44:10,02:30:34,00:03:54,00:03:20,06:38:31
+ironman-70.3-dubai-20160129.csv,505,Michael English,41,Other,ZAF,00:16:12,02:54:26,01:53:58,00:04:23,00:02:55,05:11:54
+ironman-70.3-dubai-20160129.csv,507,Matthew Rushton,40,Kingdon of Bahrain,ZAF,00:14:57,02:46:58,01:57:34,00:02:26,00:01:54,05:03:49
+ironman-70.3-dubai-20160129.csv,508,Khalid Al Khalifa,39,Riffa,BHR,00:15:51,02:52:35,02:07:09,00:03:36,00:02:03,05:21:14
+ironman-70.3-dubai-20160129.csv,509,Jeremy Turner,39,DXB,GBR,00:16:22,02:53:03,01:50:37,00:04:06,00:02:34,05:06:42
+ironman-70.3-dubai-20160129.csv,510,Ali Al-tek,44,---,GBR,00:18:42,02:43:42,02:40:48,00:04:30,00:07:25,05:55:07
+ironman-70.3-dubai-20160129.csv,511,Allan Roenn,46,DXB,DNK,00:17:16,03:03:22,02:20:27,00:04:48,00:07:02,05:52:55
+ironman-70.3-dubai-20160129.csv,512,Andrew Kilshaw,48,DOHA,AUS,00:15:11,02:50:48,01:48:56,00:03:29,00:03:07,05:01:31
+ironman-70.3-dubai-20160129.csv,513,Antonio Da Rold,46,Panama,ARG,00:15:56,02:55:35,01:51:43,00:03:06,00:02:38,05:08:58
+ironman-70.3-dubai-20160129.csv,514,Arno Dietrich,46,DXB,AUT,00:15:55,02:49:22,02:16:22,00:04:05,00:03:05,05:28:49
+ironman-70.3-dubai-20160129.csv,515,Bert Buyse,44,DXB,BEL,00:15:28,02:45:56,01:43:21,00:03:23,00:03:57,04:52:05
+ironman-70.3-dubai-20160129.csv,516,Bruce Robertson,45,---,GBR,00:18:27,03:06:02,02:50:08,00:04:33,00:04:35,06:23:45
+ironman-70.3-dubai-20160129.csv,517,Bruce Rowe,44,Gauteng,ZAF,00:16:48,02:55:57,02:14:15,00:05:42,00:06:20,05:39:02
+ironman-70.3-dubai-20160129.csv,518,Christopher Scott,44,Other,GBR,00:16:33,02:35:15,01:49:10,00:02:38,00:01:38,04:45:14
+ironman-70.3-dubai-20160129.csv,520,Craig Lamshed,45,DXB,AUS,00:18:55,03:06:09,02:23:19,00:03:40,00:02:48,05:54:51
+ironman-70.3-dubai-20160129.csv,521,Derek O'Reilly,44,---,IRL,00:15:18,02:43:54,01:50:50,00:02:31,00:03:10,04:55:43
+ironman-70.3-dubai-20160129.csv,522,Dominic Collins,48,---,GBR,00:17:20,02:38:05,02:00:22,00:02:31,00:02:35,05:00:53
+ironman-70.3-dubai-20160129.csv,523,Edward E Paden,47,MD,USA,00:24:36,03:42:58,02:49:20,00:05:18,00:06:16,07:08:28
+ironman-70.3-dubai-20160129.csv,524,Enrico Metze,45,DXB,DEU,00:15:49,03:07:36,02:31:07,00:03:01,00:03:16,06:00:49
+ironman-70.3-dubai-20160129.csv,525,Eric Mateo,45,DXB,PHL,00:20:09,02:47:34,01:59:20,00:05:27,00:02:46,05:15:16
+ironman-70.3-dubai-20160129.csv,526,Fred Chane,47,FR,FRA,00:15:29,02:43:15,01:49:36,00:02:07,00:02:29,04:52:56
+ironman-70.3-dubai-20160129.csv,527,Gianluca Moroni,45,Milano,ITA,00:16:10,02:48:41,02:02:50,00:03:31,00:04:04,05:15:16
+ironman-70.3-dubai-20160129.csv,528,Giles Richardson,47,Other,GBR,00:13:51,02:42:52,01:42:29,00:01:37,00:01:37,04:42:26
+ironman-70.3-dubai-20160129.csv,529,Glenn Massey,46,---,GBR,00:18:48,02:51:57,02:01:40,00:04:45,00:03:48,05:20:58
+ironman-70.3-dubai-20160129.csv,530,Hans-Jurgen Knappmann,44,NL,NLD,00:16:03,03:04:58,02:15:16,00:03:20,00:04:17,05:43:54
+ironman-70.3-dubai-20160129.csv,531,Heiko Schreiner,45,DXB,DEU,00:15:56,02:44:58,02:08:37,00:05:06,00:05:04,05:19:41
+ironman-70.3-dubai-20160129.csv,532,Henrik Krabbe,---,DXB,DNK,00:18:30,03:19:16,01:57:45,00:05:36,00:05:07,05:46:14
+ironman-70.3-dubai-20160129.csv,533,Hisashi Yoshida,45,青森,JPN,00:17:01,02:59:32,01:53:31,00:05:58,00:03:37,05:19:39
+ironman-70.3-dubai-20160129.csv,536,Ian Morrison,46,---,GBR,00:14:49,02:55:09,01:28:58,00:02:59,00:02:41,04:44:36
+ironman-70.3-dubai-20160129.csv,537,Ivan Lowe,46,Doha,IRL,00:16:33,02:53:39,01:56:02,00:03:06,00:02:28,05:11:48
+ironman-70.3-dubai-20160129.csv,539,Jamie Russell,44,Hertfordshire,ZAF,00:17:22,02:55:47,02:59:46,00:06:07,00:06:05,06:25:07
+ironman-70.3-dubai-20160129.csv,540,Jan Willem Beijer,46,---,NLD,00:14:36,02:39:05,01:40:08,00:03:36,00:04:07,04:41:32
+ironman-70.3-dubai-20160129.csv,541,Janne Hyrylainen,47,DXB,FIN,00:16:04,02:36:20,01:29:52,00:02:07,00:01:45,04:26:08
+ironman-70.3-dubai-20160129.csv,542,Jason Lowe,44,AUH,GBR,00:15:04,02:45:18,02:03:09,00:03:52,00:02:47,05:10:10
+ironman-70.3-dubai-20160129.csv,544,Joel Bautista,47,DXB,PHL,00:18:54,02:58:00,02:04:20,00:05:16,00:03:01,05:29:31
+ironman-70.3-dubai-20160129.csv,546,Jorg Meyer,47,DXB,DEU,00:17:05,03:07:33,02:20:52,00:05:04,00:02:51,05:53:25
+ironman-70.3-dubai-20160129.csv,547,Karim Yahi,45,GA,FRA,00:18:41,03:24:43,02:06:03,00:04:55,00:03:13,05:57:35
+ironman-70.3-dubai-20160129.csv,548,Karsten Due,46,Other,DNK,00:15:16,02:49:21,02:01:33,00:04:12,00:02:07,05:12:29
+ironman-70.3-dubai-20160129.csv,550,Konstantin Bessmertnyi,45,S-Peterburg,RUS,00:15:15,03:06:41,02:02:28,00:06:51,00:08:36,05:39:51
+ironman-70.3-dubai-20160129.csv,551,Leo Farrell,47,DXB,AUS,00:14:16,02:51:02,02:02:05,00:02:41,00:01:58,05:12:02
+ironman-70.3-dubai-20160129.csv,552,Libardo Bru,46,DXB,PAN,00:17:38,02:40:34,02:08:40,00:03:09,00:02:50,05:12:51
+ironman-70.3-dubai-20160129.csv,554,Mark Lavender,45,DXB,GBR,00:17:51,03:00:58,02:00:27,00:04:53,00:02:26,05:26:35
+ironman-70.3-dubai-20160129.csv,555,Matthias Landsee,48,---,DEU,00:14:44,02:41:56,01:46:46,00:02:51,00:02:22,04:48:39
+ironman-70.3-dubai-20160129.csv,556,Mazen Turk,44,DXB,LBN,00:14:04,02:45:21,02:02:51,00:03:54,00:01:58,05:08:08
+ironman-70.3-dubai-20160129.csv,557,Michael John Garcia,44,DXB,PHL,00:17:24,03:07:41,02:11:33,00:06:46,00:04:25,05:47:49
+ironman-70.3-dubai-20160129.csv,558,Michele Medici,46,AUH,ITA,00:19:25,03:05:59,02:48:40,00:05:33,00:04:08,06:23:45
+ironman-70.3-dubai-20160129.csv,559,Nicola Ancarani,44,Italy,ITA,00:16:47,03:10:35,02:33:47,00:03:35,00:04:12,06:08:56
+ironman-70.3-dubai-20160129.csv,560,Oleg Samokhvalov,46,---,RUS,00:17:01,02:39:55,01:42:18,00:03:14,00:02:07,04:44:35
+ironman-70.3-dubai-20160129.csv,561,Oliver Moells,46,---,DEU,00:16:26,02:48:48,02:18:43,00:03:49,00:02:42,05:30:28
+ironman-70.3-dubai-20160129.csv,562,Pascal Dufour,45,Hawali,FRA,00:17:05,02:58:57,01:52:13,00:04:23,00:03:45,05:16:23
+ironman-70.3-dubai-20160129.csv,563,Paul Slone,48,lancashire,GBR,00:16:26,02:40:26,01:40:07,00:04:25,00:02:35,04:43:59
+ironman-70.3-dubai-20160129.csv,564,Philippe Boue,48,DXB,FRA,00:17:31,02:47:13,01:48:43,00:04:54,00:02:24,05:00:45
+ironman-70.3-dubai-20160129.csv,565,Ruben Duran,46,---,ESP,00:16:49,02:41:35,01:46:42,00:03:40,00:02:30,04:51:16
+ironman-70.3-dubai-20160129.csv,567,Tarun Kumar,44,Maharashtra,IND,00:17:16,03:36:51,03:02:11,00:07:35,00:07:29,07:11:22
+ironman-70.3-dubai-20160129.csv,568,Tim Cox,44,DXB,GBR,00:16:07,03:10:01,01:51:44,00:02:51,00:03:34,05:24:17
+ironman-70.3-dubai-20160129.csv,569,Xavier Hery,46,DXB,FRA,00:15:48,03:08:50,02:19:23,00:05:50,00:02:19,05:52:10
+ironman-70.3-dubai-20160129.csv,570,Geir Thomas Johansen,45,Doha,NOR,00:17:05,02:50:56,01:43:52,00:03:40,00:02:26,04:57:59
+ironman-70.3-dubai-20160129.csv,571,Ewan Cameron,45,Qatar,GBR,00:14:47,02:44:59,01:43:50,00:04:14,00:02:07,04:49:57
+ironman-70.3-dubai-20160129.csv,572,Alberto Valentini,49,DXB,ITA,00:17:40,02:56:11,02:17:13,00:03:48,00:03:18,05:38:10
+ironman-70.3-dubai-20160129.csv,573,Aldo Cabello Pasini,53,CA,MEX,00:15:33,02:50:53,01:47:30,00:04:01,00:02:59,05:00:56
+ironman-70.3-dubai-20160129.csv,574,Amin Domiati,53,DXB,DEU,00:17:03,03:14:05,02:52:38,00:04:44,00:03:59,06:32:29
+ironman-70.3-dubai-20160129.csv,575,Andre Smith,50,DXB,ZAF,00:20:41,03:42:59,03:04:47,00:07:05,00:04:25,07:19:57
+ironman-70.3-dubai-20160129.csv,577,Andrew Garrett,53,DXB,AUS,---,---,---,---,---,DNS
+ironman-70.3-dubai-20160129.csv,578,Andrew Sykes,50,---,GBR,00:20:22,03:08:10,02:09:00,00:07:01,00:04:44,05:49:17
+ironman-70.3-dubai-20160129.csv,579,Bruno Henrion,50,DXB,FRA,00:15:59,03:17:05,01:54:35,00:04:34,00:02:51,05:35:04
+ironman-70.3-dubai-20160129.csv,580,Chris Knight,49,DXB,GBR,00:14:57,02:30:49,01:36:31,00:02:03,00:01:41,04:26:01
+ironman-70.3-dubai-20160129.csv,581,Chris Mcvicars,50,DXB,GBR,00:16:56,02:50:53,02:01:23,00:04:28,00:04:58,05:18:38
+ironman-70.3-dubai-20160129.csv,582,Chris Tatham,49,DXB,GBR,00:15:28,03:00:16,02:02:19,00:03:42,00:03:38,05:25:23
+ironman-70.3-dubai-20160129.csv,583,Christian Merieau,50,DXB,CHE,00:15:34,03:03:56,02:20:09,00:08:19,00:08:23,05:56:21
+ironman-70.3-dubai-20160129.csv,585,David Hunt,51,DXB,GBR,00:15:49,02:41:24,01:40:37,00:02:36,00:01:55,04:42:21
+ironman-70.3-dubai-20160129.csv,586,Ed Adams,52,AL,USA,00:21:10,03:19:18,02:50:22,00:07:02,00:07:59,06:45:51
+ironman-70.3-dubai-20160129.csv,587,Gianmauro Chiaranda,50,DXB,ITA,00:18:45,03:29:18,02:50:13,00:10:40,00:05:56,06:54:52
+ironman-70.3-dubai-20160129.csv,588,Iain Mcphail,49,---,GBR,00:19:45,03:03:10,01:54:46,00:07:58,00:06:19,05:31:58
+ironman-70.3-dubai-20160129.csv,589,Ian Jones,52,DXB,GBR,00:17:08,03:15:18,02:19:19,00:05:26,00:07:36,06:04:47
+ironman-70.3-dubai-20160129.csv,590,Ivan Gutierrez,50,BC,CAN,00:15:04,03:04:36,01:53:31,00:04:42,00:03:41,05:21:34
+ironman-70.3-dubai-20160129.csv,591,John Van Hoogstraten,49,Dubai,ZAF,00:17:39,03:24:46,02:25:11,00:05:24,00:02:31,06:15:31
+ironman-70.3-dubai-20160129.csv,592,Jonathan Earnshaw,53,---,GBR,00:15:38,02:41:17,01:44:23,00:02:09,00:02:17,04:45:44
+ironman-70.3-dubai-20160129.csv,593,Kevin West,49,DXB,GBR,00:15:28,02:20:48,01:27:30,00:02:31,00:02:22,04:08:39
+ironman-70.3-dubai-20160129.csv,594,Marco Morelli,51,DXB,ITA,00:13:23,02:33:29,01:39:54,00:02:28,00:02:11,04:31:25
+ironman-70.3-dubai-20160129.csv,595,Marcus Alexander,50,MA,USA,00:15:54,02:24:36,01:31:48,00:02:52,00:01:56,04:17:06
+ironman-70.3-dubai-20160129.csv,596,Mark Wharton,49,---,GBR,00:17:31,03:02:49,02:07:23,00:06:29,00:04:42,05:38:54
+ironman-70.3-dubai-20160129.csv,597,Michael Savage,51,---,GBR,00:20:17,03:09:52,02:48:13,00:06:43,00:06:59,06:32:04
+ironman-70.3-dubai-20160129.csv,598,Michael Nahon,53,ZA,ZAF,00:14:42,02:44:59,02:15:46,00:04:16,00:03:58,05:23:41
+ironman-70.3-dubai-20160129.csv,599,Olivier Chane,51,DXB,FRA,00:17:07,02:53:08,01:58:35,00:04:57,00:02:44,05:16:31
+ironman-70.3-dubai-20160129.csv,600,Paul Smith,52,---,GBR,00:16:11,02:48:34,01:53:34,00:05:16,00:03:51,05:07:26
+ironman-70.3-dubai-20160129.csv,602,Ralf Lambert,53,DE,DEU,00:15:56,02:46:38,01:52:25,00:04:44,00:02:12,05:01:55
+ironman-70.3-dubai-20160129.csv,603,Rene Hentschke,53,AT,NLD,00:16:18,02:48:06,01:56:55,00:02:47,00:02:27,05:06:33
+ironman-70.3-dubai-20160129.csv,604,Mark Rogers,50,DXB,GBR,00:18:33,03:06:31,02:28:26,00:06:15,00:04:42,06:04:27
+ironman-70.3-dubai-20160129.csv,605,Simon Halford,50,Qatar,GBR,00:16:55,03:05:19,01:47:30,00:04:30,00:02:14,05:16:28
+ironman-70.3-dubai-20160129.csv,606,Steve Small,49,TX,USA,00:19:11,02:51:53,02:26:45,00:02:37,00:02:08,05:42:34
+ironman-70.3-dubai-20160129.csv,607,Steve Cosgrave,49,DXB,AUS,00:14:22,02:36:28,01:42:00,00:02:25,00:01:45,04:37:00
+ironman-70.3-dubai-20160129.csv,608,Yuri Scarpellini,53,Italia,ITA,00:16:29,02:57:52,01:57:44,00:03:36,00:01:43,05:17:24
+ironman-70.3-dubai-20160129.csv,609,Gregg Carvel,51,DXB,USA,00:14:52,02:33:01,01:43:57,00:03:47,00:02:22,04:37:59
+ironman-70.3-dubai-20160129.csv,611,Andrew Seager,56,Other,GBR,00:16:44,03:08:16,01:53:32,00:04:16,00:03:16,05:26:04
+ironman-70.3-dubai-20160129.csv,612,Charles Collins,56,Intl State,GBR,00:16:27,02:47:02,01:47:40,00:05:02,00:02:26,04:58:37
+ironman-70.3-dubai-20160129.csv,613,Bill van Hoogstraten,55,ZA,ZAF,00:18:16,03:12:48,02:07:38,00:06:02,00:05:09,05:49:53
+ironman-70.3-dubai-20160129.csv,615,Louis Mejias,58,Other,FRA,00:16:58,02:55:16,02:06:07,00:06:25,00:03:13,05:27:59
+ironman-70.3-dubai-20160129.csv,616,Pedro Amaral,54,Cascais,PRT,00:25:59,03:41:34,02:44:38,00:06:21,00:06:03,07:04:35
+ironman-70.3-dubai-20160129.csv,618,Aldo Nobili,59,Intl State,ITA,00:14:34,02:38:18,01:53:03,00:02:22,00:02:25,04:50:42
+ironman-70.3-dubai-20160129.csv,619,Carl Luitingh,62,DXB,AUS,00:16:15,02:48:55,01:52:03,00:02:55,00:02:32,05:02:40
+ironman-70.3-dubai-20160129.csv,621,Kendall Trembearth,60,QLD,AUS,00:15:35,02:50:34,01:53:10,00:07:32,00:07:51,05:14:42
+ironman-70.3-dubai-20160129.csv,622,Paul Redding,59,DXB,GBR,00:16:06,02:43:07,02:00:19,00:03:40,00:03:16,05:06:28
+ironman-70.3-dubai-20160129.csv,623,Alessandro Jovine,65,Italy,ITA,00:16:43,03:05:59,02:01:33,00:04:48,00:02:34,05:31:37
+ironman-70.3-dubai-20160129.csv,624,Frank Ryan,67,CO,USA,00:18:07,03:04:07,02:13:42,00:05:45,00:03:35,05:45:16
+ironman-70.3-dubai-20160129.csv,625,Julio Y Sanchez O'Hep,68,DXB,USA,00:18:32,02:51:16,02:02:00,00:04:41,00:02:36,05:19:05
+ironman-70.3-dubai-20160129.csv,626,Ahmad Alfahim,35,DXB,ARE,00:14:26,02:37:02,01:48:02,00:02:53,00:02:03,04:44:26
+ironman-70.3-dubai-20160129.csv,627,Mohammed Isa,29,Other,BHR,00:16:00,02:40:15,01:42:51,00:02:54,00:01:44,04:43:44
+ironman-70.3-dubai-20160129.csv,628,Salem Aldosary,33,Other,---,00:15:38,02:28:24,01:31:24,00:02:25,00:02:13,04:20:04
+ironman-70.3-dubai-20160129.csv,629,Hamza Al Jilale,20,---,BHR,00:16:01,02:50:58,01:54:18,00:01:55,00:02:13,05:05:25
+ironman-70.3-dubai-20160129.csv,632,Farooq Al Jasmi,25,---,ARE,00:12:11,02:34:34,01:40:26,00:01:48,00:01:53,04:30:52
+ironman-70.3-dubai-20160129.csv,633,Hamad Abdulrahim,22,---,ARE,---,---,---,---,---,DQ
+ironman-70.3-dubai-20160129.csv,634,Mohammed Abdulrahman,22,---,ARE,00:14:57,03:40:08,02:49:44,00:02:34,00:01:40,06:49:03
+ironman-70.3-dubai-20160129.csv,635,Amer Al Mihsen,27,---,ARE,00:13:52,02:56:38,02:22:25,00:02:29,00:03:51,05:39:15
+ironman-70.3-dubai-20160129.csv,639,Ali Zaied,25,---,ARE,00:13:30,02:42:54,01:50:03,00:01:55,00:02:18,04:50:40
+ironman-70.3-dubai-20160129.csv,641,Othmane Safi,29,---,ARE,00:12:45,02:29:55,01:24:57,00:01:14,00:01:17,04:10:08
+ironman-70.3-dubai-20160129.csv,643,Tariq Al Ali,41,---,ARE,---,---,---,---,---,DQ
+ironman-70.3-dubai-20160129.csv,644,Hamad Almansoori,21,Bahrain,BHR,00:12:37,02:32:51,01:44:42,00:02:04,00:01:31,04:33:45
+ironman-70.3-dubai-20160129.csv,649,Sari Al Hammadi,32,---,ARE,00:15:04,02:41:13,01:50:27,00:04:14,00:02:40,04:53:38
+ironman-70.3-dubai-20160129.csv,650,Nayef Al Marzooqi,34,---,ARE,00:14:33,02:39:36,01:41:52,00:03:21,00:02:16,04:41:38
+ironman-70.3-dubai-20160129.csv,651,Abdulla Mohammed,31,---,ARE,00:14:33,02:40:56,01:32:39,00:05:34,00:02:32,04:36:14
+ironman-70.3-dubai-20160129.csv,652,Yusif Al Sadi,35,---,ARE,00:15:43,02:54:22,02:06:24,00:04:30,00:03:18,05:24:17
+ironman-70.3-dubai-20160129.csv,653,Ghanem Al Sadi,29,---,ARE,---,---,---,---,---,DQ
+ironman-70.3-dubai-20160129.csv,656,Arsalan Al Hashimi,38,DXB,YEM,00:15:44,02:52:59,01:59:19,00:04:43,00:03:23,05:16:08
+ironman-70.3-dubai-20160129.csv,659,Mohsen Al Ali,33,---,ARE,00:14:17,02:29:09,01:36:51,00:02:54,00:01:26,04:24:37
+ironman-70.3-dubai-20160129.csv,660,Mikel Calahorra,32,RIFFA,BHR,00:12:30,02:25:51,01:27:25,00:01:56,00:01:56,04:09:38
+ironman-70.3-dubai-20160129.csv,661,Lew Hollander,85,OR,USA,00:21:15,03:33:43,03:20:21,00:04:58,00:05:29,07:25:46
+ironman-70.3-dubai-20160129.csv,662,Hansel Magtortor,48,AUH,PHL,00:22:09,03:11:07,02:59:58,00:06:30,00:04:23,06:44:07
+ironman-70.3-dubai-20160129.csv,663,Hugo Escude,37,AS,ESP,00:15:38,02:31:33,01:36:36,00:05:11,00:01:56,04:30:54
+ironman-70.3-dubai-20160129.csv,665,Billy Harkin,44,DXB,IRL,00:15:40,02:58:45,01:51:27,00:04:25,00:06:32,05:16:49
+ironman-70.3-dubai-20160129.csv,666,Mike Morris,51,DXB,GBR,00:17:07,02:31:41,01:37:20,00:03:15,00:01:38,04:31:01
+ironman-70.3-dubai-20160129.csv,667,Peter Delamere,27,West Midlands,GBR,00:16:02,02:59:03,01:42:02,00:06:36,00:06:16,05:09:59
+ironman-70.3-dubai-20160129.csv,668,Alessandro Anselmi,45,italia,ITA,00:16:26,03:15:29,02:07:16,00:05:04,00:02:51,05:47:06
+ironman-70.3-dubai-20160129.csv,669,Dhiresh Kerai,33,---,GBR,00:21:35,03:41:45,02:21:41,00:05:04,00:03:35,06:33:40
+ironman-70.3-dubai-20160129.csv,670,Rickard Arnerup,39,SE,SWE,00:13:43,02:35:43,01:44:24,00:02:19,00:01:49,04:37:58
+ironman-70.3-dubai-20160129.csv,671,Jordan Meintjes,36,Other,ZAF,00:15:39,02:50:16,01:56:27,00:03:32,00:03:18,05:09:12
+ironman-70.3-dubai-20160129.csv,672,Alexander Braun,38,DE,DEU,00:15:38,02:46:09,01:49:17,00:04:39,00:04:11,04:59:54
+ironman-70.3-dubai-20160129.csv,673,Guntars Logins,23,Balvi,LVA,00:29:52,03:24:27,02:14:41,00:08:04,00:01:44,06:18:48
+ironman-70.3-dubai-20160129.csv,674,Giovanni Domenichini,52,italia,ITA,00:15:27,02:44:17,02:07:12,00:03:30,00:02:47,05:13:13
+ironman-70.3-dubai-20160129.csv,675,Jihad Tayara,41,Dubai,LBN,00:17:15,02:52:28,01:57:40,00:03:08,00:02:24,05:12:55
+ironman-70.3-dubai-20160129.csv,676,Kari Kauppinen,53,Pirkanmaa,FIN,00:18:46,02:50:19,02:03:32,00:06:49,00:04:26,05:23:52
+ironman-70.3-dubai-20160129.csv,679,Idrak Al Aquel,37,Manama,SAU,00:17:09,03:26:29,02:28:10,00:09:22,00:08:32,06:29:42
+ironman-70.3-dubai-20160129.csv,680,Pavel Golikov,30,Eastern province,RUS,00:16:04,02:38:54,01:49:57,00:03:46,00:02:01,04:50:42
+ironman-70.3-dubai-20160129.csv,681,Fabrice Peyrin,41,PEARL,FRA,00:17:06,03:02:03,02:14:31,00:04:57,00:03:27,05:42:04
+ironman-70.3-dubai-20160129.csv,682,Mario Radevic,37,DE,DEU,00:14:06,02:24:40,01:35:41,00:01:57,00:01:59,04:18:23
+ironman-70.3-dubai-20160129.csv,683,Pamila  De Silva,30,DXB,LKA,00:14:10,03:02:26,01:56:45,00:02:01,00:02:04,05:17:26
+ironman-70.3-dubai-20160129.csv,684,Filippo Neri,41,---,ITA,00:14:28,02:36:12,01:26:14,00:02:52,00:01:41,04:21:27
+ironman-70.3-dubai-20160129.csv,685,Matt Hollingworth,39,Abu Dhabi,ARE,00:18:17,03:14:09,02:07:42,00:04:25,00:02:47,05:47:20
+ironman-70.3-dubai-20160129.csv,686,Stefan Hochleitner,47,DE,DEU,00:17:02,02:37:41,01:53:28,00:03:23,00:02:10,04:53:44
+ironman-70.3-dubai-20160129.csv,687,Henry Clark,53,DXB,GBR,00:14:22,02:32:56,01:34:42,00:02:43,00:01:47,04:26:30
+ironman-70.3-dubai-20160129.csv,688,Stephen Wilson,46,Other,ZAF,00:16:09,02:44:31,01:47:14,00:04:29,00:04:08,04:56:31
+ironman-70.3-dubai-20160129.csv,689,Daniel Brewster,32,Other,AUS,00:13:46,02:44:23,01:46:36,00:03:24,00:02:01,04:50:10
+ironman-70.3-dubai-20160129.csv,690,Melanie Benson,31,NL,CAN,00:12:56,02:34:36,01:43:48,00:02:40,00:02:43,04:36:43
+ironman-70.3-dubai-20160129.csv,691,Sonja Hochleitner,46,DE,DEU,00:19:26,03:45:12,02:42:58,00:08:16,00:07:32,07:03:24
+ironman-70.3-dubai-20160129.csv,692,Khadiga Amin,31,egypt,EGY,00:17:35,02:53:33,01:51:24,00:03:46,00:02:29,05:08:47
+ironman-70.3-dubai-20160129.csv,693,Natalia Andreyeva,36,---,LVA,00:21:03,03:25:30,02:15:32,00:05:42,00:03:40,06:11:27
+ironman-70.3-dubai-20160129.csv,694,Sarah Butler,---,Dubai,GBR,00:16:59,02:59:48,01:53:05,00:03:39,00:02:47,05:16:18
+ironman-70.3-dubai-20160129.csv,695,Manuel Javier Fernandez,31,---,ESP,00:14:00,02:22:24,01:23:41,00:02:05,00:01:29,04:03:39
+ironman-70.3-dubai-20160129.csv,696,Mervyn Esparon,31,---,SYC,00:12:35,02:24:28,01:36:15,00:03:31,00:02:42,04:19:31
+ironman-70.3-dubai-20160129.csv,697,Eslam Ramadan,---,AUH,EGY,00:18:18,02:54:29,02:12:33,00:04:44,00:02:56,05:33:00
+ironman-70.3-dubai-20160129.csv,698,Richard Carlsson,25,---,SWE,00:11:21,02:19:45,01:23:03,00:02:00,00:02:10,03:58:19
+ironman-70.3-dubai-20160129.csv,699,Bartosz Matczak,34,Other,POL,00:15:17,02:59:06,01:32:00,00:03:24,00:02:20,04:52:07
+ironman-70.3-dubai-20160129.csv,700,Stefano Bresolin,43,Italia,ITA,00:15:47,02:30:57,01:50:10,00:03:12,00:01:53,04:41:59
+ironman-70.3-dubai-20160129.csv,701,Justin Sanak,25,AUH,USA,00:16:11,02:53:46,01:52:34,00:03:42,00:02:48,05:09:01
+ironman-70.3-dubai-20160129.csv,703,Jeff Vergara,38,---,PHL,00:21:22,03:15:40,02:29:49,00:04:21,00:03:35,06:14:47
+ironman-70.3-dubai-20160129.csv,704,Rolando Seprado,44,DXB,PHL,00:18:14,02:46:44,02:14:04,00:04:46,00:04:20,05:28:08
+ironman-70.3-dubai-20160129.csv,706,Stefan Dahlsten,37,SE,SWE,00:16:33,02:46:20,02:05:08,00:05:06,00:05:16,05:18:23
+ironman-70.3-dubai-20160129.csv,707,Joshua Randall,34,WA,USA,00:12:32,02:14:26,01:25:35,00:02:53,00:02:12,03:57:38
+ironman-70.3-dubai-20160129.csv,708,Jennifer Gibbons,36,Other,NZL,---,02:34:13,---,---,03:02:45,DNF
+ironman-70.3-dubai-20160129.csv,709,Clare Farrell,44,AUH,GBR,00:18:21,03:11:03,01:49:12,00:02:57,00:02:09,05:23:42
+ironman-70.3-dubai-20160129.csv,710,Shaun Farrell,50,AUH,ZWE,00:18:27,03:20:50,02:59:31,00:06:27,00:06:59,06:52:14
+ironman-70.3-dubai-20160129.csv,711,Sebastiaan Bleekemolen,37,---,NLD,00:16:09,02:40:30,01:41:27,00:03:17,00:02:38,04:44:01
+ironman-70.3-dubai-20160129.csv,712,Baris Devir,29,ALSANCAK,TUR,00:16:33,02:43:55,02:07:24,00:04:47,00:01:58,05:14:37
+ironman-70.3-dubai-20160129.csv,713,Andreas Russenberger,47,---,CHE,00:20:18,02:54:58,02:08:23,00:04:52,00:04:32,05:33:03
+ironman-70.3-dubai-20160129.csv,714,Abdul wahab Al-Halabi,41,DXB,ARE,00:17:59,03:36:16,02:48:36,00:05:01,00:04:57,06:52:49
+ironman-70.3-dubai-20160129.csv,715,Rafat Shobaki,36,DXB,ARE,00:54:42,02:55:55,02:11:45,00:06:48,00:05:32,06:14:42
+ironman-70.3-dubai-20160129.csv,716,Rob Jones,30,DXB,GBR,00:14:26,02:59:07,01:53:05,00:04:46,00:02:23,05:13:47
+ironman-70.3-dubai-20160129.csv,717,Neil Gambon,49,DXB,GBR,00:17:17,02:34:16,02:01:17,00:03:47,00:02:23,04:59:00
+ironman-70.3-dubai-20160129.csv,718,Francesco Paolo Caruso,51,PV,ITA,00:15:04,02:41:53,01:51:07,00:03:22,00:03:36,04:55:02
+ironman-70.3-dubai-20160129.csv,719,Pedro Sanchez,40,DXB,MEX,00:18:10,02:51:15,02:04:58,00:03:57,00:05:23,05:23:43
+ironman-70.3-dubai-20160129.csv,720,Luis Sanchez Medina,41,ES,ESP,00:17:36,02:47:45,01:59:24,00:05:42,00:03:17,05:13:44
+ironman-70.3-dubai-20160129.csv,721,Christian Nolledo,34,DXB,PHL,00:16:57,02:47:52,02:05:20,00:03:02,00:01:44,05:14:55
+ironman-70.3-dubai-20160129.csv,722,Jenylyn Nolledo,34,---,PHL,00:18:29,03:34:39,02:12:49,00:04:30,00:03:25,06:13:52
+ironman-70.3-dubai-20160129.csv,723,Carla Leonor,34,DXB,PHL,00:19:13,02:55:28,02:06:41,00:04:05,00:02:47,05:28:14
+ironman-70.3-dubai-20160129.csv,724,Luke Maiden,33,AUH,AUS,00:15:44,02:36:24,02:05:24,00:02:50,00:02:11,05:02:33
+ironman-70.3-dubai-20160129.csv,725,Peter Weiss,44,DXB,DNK,00:13:17,02:15:35,01:33:37,00:02:05,00:02:22,04:06:56
+ironman-70.3-dubai-20160129.csv,726,Becky Hart,36,DXB,GBR,00:15:35,03:10:12,02:02:09,00:03:36,00:02:50,05:34:22
+ironman-70.3-dubai-20160129.csv,727,Chris Cullen,31,DXB,NZL,00:16:21,02:48:42,01:59:35,00:04:22,00:02:33,05:11:33
+ironman-70.3-dubai-20160129.csv,728,mohammed kenssous,58,DXB,FRA,00:20:39,03:19:21,02:17:27,00:08:40,00:04:59,06:11:06
+ironman-70.3-dubai-20160129.csv,729,Jean-Sebastien Berland,42,DXB,FRA,00:15:41,02:50:43,01:56:21,00:03:31,00:02:04,05:08:20
+ironman-70.3-dubai-20160129.csv,730,Stephen Anderson,41,Surrey,QAT,00:14:58,02:37:34,01:29:35,00:04:40,00:02:36,04:29:23
+ironman-70.3-dubai-20160129.csv,731,Frederic Larmuseau,45,FL,BEL,00:17:29,02:52:56,02:07:39,00:04:56,00:04:17,05:27:17
+ironman-70.3-dubai-20160129.csv,732,Dee Boys,51,DXB,AUS,00:17:58,02:47:59,02:13:32,00:02:40,00:02:38,05:24:47
+ironman-70.3-dubai-20160129.csv,733,Robert Baker,59,AUH,GBR,00:19:41,02:48:17,02:41:24,00:04:59,00:03:11,05:57:32
+ironman-70.3-dubai-20160129.csv,734,Jillian Burns,56,Tyne & Wear,GBR,00:19:36,03:10:58,02:28:39,00:06:02,00:05:02,06:10:17
+ironman-70.3-dubai-20160129.csv,735,Jameel Jassim,44,Jidhafs,BHR,00:16:42,02:41:32,01:51:50,00:07:27,00:02:55,05:00:26
+ironman-70.3-dubai-20160129.csv,736,Hassan Jawad,56,Jidhafs town,BHR,00:21:33,03:12:01,02:27:18,00:06:26,00:07:08,06:14:26
+ironman-70.3-dubai-20160129.csv,738,Salma Ganchi,40,Dubai,ZAF,00:17:38,02:59:46,02:31:42,00:04:36,00:03:46,05:57:28
+ironman-70.3-dubai-20160129.csv,739,Abdulla Abdulsalam,39,Muharraq,BHR,00:19:04,03:04:50,02:52:42,00:04:04,00:05:24,06:26:04
+ironman-70.3-dubai-20160129.csv,740,Sargis Chavushyan,30,DXB,ARM,00:20:15,02:45:29,01:55:06,00:03:21,00:02:33,05:06:44
+ironman-70.3-dubai-20160129.csv,741,Bader Alkhalifa,42,Southern,BHR,00:17:09,03:52:14,02:05:25,00:05:47,00:05:37,06:26:12
+ironman-70.3-dubai-20160129.csv,742,Albert Riba Ochoa,29,---,ESP,00:15:16,02:37:31,01:26:21,00:04:06,00:03:02,04:26:16
+ironman-70.3-dubai-20160129.csv,743,Myrna Saliba,59,manama,BHR,00:20:36,03:40:29,02:25:34,00:07:15,00:02:48,06:36:42
+ironman-70.3-dubai-20160129.csv,744,Fouad Saliba,69,Rifa,BHR,00:24:59,04:09:09,02:40:27,00:06:32,00:03:49,07:24:56
+ironman-70.3-dubai-20160129.csv,745,Judit Spiegl,40,DXB,HUN,00:15:28,03:05:46,02:10:01,00:03:48,00:02:58,05:38:01
+ironman-70.3-dubai-20160129.csv,746,Joan Pedret,38,---,ESP,00:13:38,02:50:33,01:30:03,00:02:43,00:02:01,04:38:58
+ironman-70.3-dubai-20160129.csv,747,Rolando Seprado,44,DXB,PHL,00:18:24,02:51:01,02:36:23,00:05:44,00:04:56,05:56:28
+ironman-70.3-dubai-20160129.csv,748,Geert Janssen,50,DXB,NLD,00:20:11,02:43:33,02:25:05,00:05:09,00:04:14,05:38:12
+ironman-70.3-dubai-20160129.csv,749,Natalie Gregory,37,DXB,GBR,00:17:05,03:03:59,01:59:48,00:05:07,00:03:02,05:29:01
+ironman-70.3-dubai-20160129.csv,751,Ali Tabbal,47,DXB,LBN,00:14:24,02:31:46,01:45:32,00:02:37,00:02:31,04:36:50
+ironman-70.3-dubai-20160129.csv,752,Michael Knudsen,27,Other,DNK,00:16:28,02:15:58,01:34:10,00:02:35,00:02:02,04:11:13
+ironman-70.3-dubai-20160129.csv,753,Martin Flüeler,43,---,CHE,00:14:25,02:41:26,01:33:09,00:03:02,00:02:24,04:34:26
+ironman-70.3-dubai-20160129.csv,754,Mehmed Sahinagic,42,0,SWE,00:20:46,03:43:02,02:04:17,00:07:51,00:05:23,06:21:19
+ironman-70.3-dubai-20160129.csv,755,Alex Valentine,40,AUH,AUS,00:18:01,03:07:24,02:25:29,00:10:32,00:04:40,06:06:06
+ironman-70.3-dubai-20160129.csv,756,Karol Migo,32,Other,POL,00:15:56,02:49:54,01:48:51,00:06:00,00:02:57,05:03:38
+ironman-70.3-dubai-20160129.csv,757,Toby leyland,42,Other,GBR,00:14:35,02:46:31,01:37:27,00:02:05,00:02:02,04:42:40
+ironman-70.3-dubai-20160129.csv,758,Lynette Warn,52,Other,ARE,00:15:22,02:47:36,01:45:30,00:02:29,00:02:16,04:53:13
+ironman-70.3-dubai-20160129.csv,760,Saad Abdulaziz Bojlia,35,EA,SAU,00:22:21,02:40:19,02:03:20,00:03:41,00:03:55,05:13:36
+ironman-70.3-dubai-20160129.csv,761,Abdulrahman Alhosani,31,AUH,ARE,00:14:38,02:54:28,01:39:36,00:03:05,00:01:44,04:53:31
+ironman-70.3-dubai-20160129.csv,762,Mohamed Omairat,37,DXB,ARE,00:19:04,03:05:34,02:15:05,00:06:45,00:03:18,05:49:46
+ironman-70.3-dubai-20160129.csv,763,Jessica Balaam,38,---,USA,00:17:28,03:01:28,02:11:36,00:01:59,00:02:09,05:34:40
+ironman-70.3-dubai-20160129.csv,764,Paul Donnelly,38,DXB,GBR,00:14:39,02:36:45,01:43:10,00:03:32,00:01:24,04:39:30
+ironman-70.3-dubai-20160129.csv,765,Patrick Dekorsi,30,ACT,DEU,00:12:44,02:20:39,01:24:23,00:01:34,00:01:24,04:00:44
+ironman-70.3-dubai-20160129.csv,767,David Chambers,48,---,NZL,00:16:33,03:00:22,02:04:09,00:05:06,00:03:51,05:30:01
+ironman-70.3-dubai-20160129.csv,768,Jacob Haarup,35,DXB,DNK,00:18:33,02:59:26,01:53:54,00:10:35,00:05:21,05:27:49
+ironman-70.3-dubai-20160129.csv,768,Jacob Haarup,35,DXB,DNK,00:18:33,02:59:26,01:53:54,00:10:35,00:05:21,05:27:49
+ironman-70.3-dubai-20160129.csv,769,Philip Oakley,37,---,GBR,00:21:01,02:55:29,01:43:56,00:03:40,00:02:42,05:06:48
+ironman-70.3-dubai-20160129.csv,770,Alejandro Martin,40,DXB,ARG,---,---,---,---,---,DQ
+ironman-70.3-dubai-20160129.csv,771,Andrew Parker,44,QLD,AUS,00:16:03,03:18:34,01:59:37,00:05:24,00:05:07,05:44:45
+ironman-70.3-dubai-20160129.csv,772,Elliot Lewis,42,DXB,GBR,00:16:48,02:49:53,01:45:05,00:01:49,00:02:33,04:56:08
+ironman-70.3-dubai-20160129.csv,773,Jamie Edmunds,32,DXB,GBR,00:13:41,02:38:22,01:38:53,00:02:20,00:02:04,04:35:20
+ironman-70.3-dubai-20160129.csv,774,Tani Burge,26,NSW,AUS,00:14:47,02:34:44,01:41:20,00:02:46,00:01:46,04:35:23
+ironman-70.3-dubai-20160129.csv,775,Ronni Paris,31,DK,DNK,00:14:04,02:16:05,01:25:28,00:01:57,00:01:46,03:59:20
+ironman-70.3-dubai-20160129.csv,776,Ruggero Ottogalli,36,DXB,ITA,00:19:00,03:23:50,02:34:35,00:06:23,00:04:02,06:27:50
+ironman-70.3-dubai-20160129.csv,777,Maciej Belski,44,---,POL,00:16:19,02:29:24,01:34:15,00:03:40,00:02:39,04:26:17
+ironman-70.3-dubai-20160129.csv,778,Frits Jan Algera,40,---,NLD,00:17:05,03:14:15,02:14:06,00:04:43,00:03:57,05:54:06
+ironman-70.3-dubai-20160129.csv,779,Nadeem Zaman,45,DXB,GBR,00:20:35,03:47:11,02:23:43,00:07:57,00:06:16,06:45:42
+ironman-70.3-dubai-20160129.csv,780,Paolo Luschi,45,---,ARE,00:14:04,03:13:27,01:37:45,00:02:59,00:02:39,05:10:54
+ironman-70.3-dubai-20160129.csv,781,Fabio Antunes,32,Distrito Federal,BRA,00:14:17,02:38:49,01:43:16,00:02:53,00:02:04,04:41:19
+ironman-70.3-dubai-20160129.csv,782,Jody Cullen,40,VA,USA,00:18:30,03:06:29,02:19:49,00:04:40,00:03:09,05:52:37
+ironman-70.3-dubai-20160129.csv,783,Bradley Holliday,34,Muscat,ZAF,00:14:05,02:48:27,01:44:07,00:02:05,00:04:02,04:52:46
+ironman-70.3-dubai-20160129.csv,784,Dave Forsythe,55,DXB,GBR,00:18:43,03:05:07,02:06:08,00:05:36,00:03:43,05:39:17
+ironman-70.3-dubai-20160129.csv,786,Ivan Blecha,39,DXB,SVK,00:15:20,02:39:32,01:44:02,00:06:12,00:04:26,04:49:32
+ironman-70.3-dubai-20160129.csv,787,Mubarak Alwoqayan,38,Kuwait ,KWT,00:16:56,02:48:55,02:01:16,00:03:56,00:03:33,05:14:36
+ironman-70.3-dubai-20160129.csv,788,Brian Carroll,44,London,USA,00:16:30,03:03:24,01:48:11,00:17:02,00:06:16,05:31:23
+ironman-70.3-dubai-20160129.csv,789,Bassam Shams,25,Seef,BHR,00:18:14,03:19:48,02:05:59,00:03:32,00:03:37,05:51:10
+ironman-70.3-dubai-20160129.csv,790,Ibrahim Touq,32,northen,BHR,00:18:57,03:48:54,02:26:59,00:05:04,00:05:43,06:45:37
+ironman-70.3-dubai-20160129.csv,791,Ali Taqi,27,Bahrain,BHR,00:18:41,03:05:52,02:28:47,00:05:14,00:03:38,06:02:12
+ironman-70.3-dubai-20160129.csv,792,Emma Dickie,36,DXB,AUS,00:17:39,02:55:35,02:03:09,00:03:04,00:01:38,05:21:05
+ironman-70.3-dubai-20160129.csv,793,Abdulla Faqihi,20,.,BHR,00:18:37,03:02:33,01:58:50,00:03:33,00:02:20,05:25:53
+ironman-70.3-dubai-20160129.csv,794,Kian Hui Chong,36,---,SGP,00:18:22,03:40:35,02:38:11,00:09:02,00:05:41,06:51:51
+ironman-70.3-dubai-20160129.csv,795,Mokhtar El-Sarky,45,Cairo,EGY,00:16:11,03:13:42,02:15:56,00:05:28,00:07:40,05:58:57
+ironman-70.3-dubai-20160129.csv,796,Ugo Mascheroni,37,Italia,ITA,00:16:24,02:39:03,01:56:29,00:02:41,00:01:48,04:56:25
+ironman-70.3-dubai-20160129.csv,797,Christopher Queen,33,DXB,GBR,00:14:41,02:59:53,01:46:57,00:07:09,00:05:17,05:13:57
+ironman-70.3-dubai-20160129.csv,798,Geronimo Monroy,50,DXB,PHL,00:15:38,03:02:11,02:06:48,00:03:36,00:02:45,05:30:58
+ironman-70.3-dubai-20160129.csv,799,Hermann Holst,46,---,DEU,00:13:56,02:29:14,01:34:58,00:03:12,00:01:56,04:23:16
+ironman-70.3-dubai-20160129.csv,800,Ehsan Al Saati,27,---,---,00:20:14,03:11:04,02:19:52,00:09:15,00:02:20,06:02:45
+ironman-70.3-dubai-20160129.csv,801,Mohamed Harmas Alhajri,26,arad,---,00:23:15,03:49:05,03:00:25,00:09:17,00:03:26,07:25:28
+ironman-70.3-dubai-20160129.csv,802,Fawaz Shamsan,38,---,---,00:20:24,03:31:16,03:22:12,00:10:54,00:04:41,07:29:27
+ironman-70.3-dubai-20160129.csv,804,Lisa Hancox,37,DXB,GBR,00:13:53,02:50:01,01:45:19,00:03:01,00:02:29,04:54:43
+ironman-70.3-dubai-20160129.csv,805,Samuel Hughes,24,UT,USA,00:16:55,03:06:03,02:06:30,00:06:27,00:06:16,05:42:11
+ironman-70.3-dubai-20160129.csv,806,Aibek Bashirov,30,---,KAZ,00:17:48,02:49:40,01:58:26,00:04:13,00:02:25,05:12:32
+ironman-70.3-dubai-20160129.csv,807,Miroslav Sopko,39,AUH,SVK,00:20:16,03:17:58,02:36:22,00:05:57,00:05:26,06:25:59
+ironman-70.3-dubai-20160129.csv,808,Luis Filipe Dinis Campos,39,DXB,PRT,00:16:16,02:41:59,02:07:01,00:04:42,00:04:27,05:14:25
+ironman-70.3-dubai-20160129.csv,809,Martin Mugharbil,40,UK,USA,00:15:23,03:25:44,02:48:27,00:05:57,00:07:43,06:43:14
+ironman-70.3-dubai-20160129.csv,810,Marek Folga,40,---,POL,00:15:40,02:47:52,01:43:49,00:05:48,00:04:04,04:57:13
+ironman-70.3-dubai-20160129.csv,811,Andrea Kepic,42,CT,USA,00:16:09,03:01:09,02:33:56,00:03:23,00:05:05,05:59:42
+ironman-70.3-dubai-20160129.csv,812,Markus Kaeppeli,50,---,CHE,00:14:24,02:22:29,01:43:52,00:02:14,00:02:10,04:25:09
+ironman-70.3-dubai-20160129.csv,813,Andre Sano,43,Messina (ME),ITA,00:14:31,02:44:02,01:57:22,00:04:52,00:02:48,05:03:35
+ironman-70.3-dubai-20160129.csv,814,Deirdre Casey,33,DXB,IRL,00:12:10,02:27:11,01:30:59,00:01:47,00:01:21,04:13:28
+ironman-70.3-dubai-20160129.csv,815,Gareth Hall,37,QLD,AUS,00:15:07,02:34:13,01:39:30,00:03:40,00:03:39,04:36:09
+ironman-70.3-dubai-20160129.csv,816,Benjamin Cadiere,30,---,BEL,00:15:38,03:30:02,02:16:49,00:04:48,00:04:15,06:11:32
+ironman-70.3-dubai-20160129.csv,817,Hamid Khan,42,DXB,GBR,00:18:41,03:18:15,01:34:54,00:04:33,00:03:26,05:19:49
+ironman-70.3-dubai-20160129.csv,818,Luke Woodland,34,NSW,AUS,00:13:56,02:28:27,01:49:23,00:04:23,00:03:44,04:39:53
+ironman-70.3-dubai-20160129.csv,819,Clare Mccabe,43,AUH,GBR,00:18:22,02:54:41,01:37:09,00:03:10,00:02:38,04:56:00
+ironman-70.3-dubai-20160129.csv,820,Christopher Newman,48,Hertfordshire,GBR,00:17:34,02:37:07,01:44:05,00:04:15,00:02:16,04:45:17
+ironman-70.3-dubai-20160129.csv,821,Fiona Macdonald,33,DXB,GBR,00:18:37,03:04:23,01:48:06,00:03:11,00:02:53,05:17:10
+ironman-70.3-dubai-20160129.csv,822,Felix De Guzman,---,---,PHL,00:16:39,02:54:27,01:47:11,00:03:34,00:02:10,05:04:01
+ironman-70.3-dubai-20160129.csv,823,Mariam Desai,37,Gauteng,ZAF,00:27:46,03:21:26,02:22:24,00:04:50,00:04:08,06:20:34
+ironman-70.3-dubai-20160129.csv,824,Souhail Berdaa,25,DXB,MAR,00:17:58,03:09:04,02:23:17,00:05:30,00:08:18,06:04:07
+ironman-70.3-dubai-20160129.csv,825,Husain Bushehri,32,Mubarak Al-Kabeer,KWT,00:16:41,03:02:42,02:03:57,00:06:19,00:03:59,05:33:38
+ironman-70.3-dubai-20160129.csv,826,Hamad Al Muraisi,47,Bahrain,BHR,00:19:57,02:39:44,02:05:11,00:05:35,00:03:46,05:14:13
+ironman-70.3-dubai-20160129.csv,827,Romeo Clave,47,AB,PHL,00:19:16,02:57:49,02:16:24,00:03:43,00:03:46,05:40:58
+ironman-70.3-dubai-20160129.csv,828,Alex Wells,35,AUH,GBR,00:12:58,02:42:19,01:40:02,00:02:40,00:01:34,04:39:33
+ironman-70.3-dubai-20160129.csv,829,Thomas Crompton,33,AUH,GBR,00:14:03,02:29:50,01:34:24,00:04:41,00:03:39,04:26:37
+ironman-70.3-dubai-20160129.csv,830,CHANDRASEKAR VENKATESAN,47,DXB,IND,00:23:57,03:51:12,02:02:52,00:05:26,00:04:41,06:28:08
+ironman-70.3-dubai-20160129.csv,831,Stefano Moccia,47,Kenya,ITA,00:20:01,03:09:59,01:58:27,00:03:50,00:02:28,05:34:45
+ironman-70.3-dubai-20160129.csv,832,Lea Chilton,35,---,GBR,00:16:19,02:59:04,01:52:50,00:02:51,00:02:04,05:13:08
+ironman-70.3-dubai-20160129.csv,833,Richard Dela Cruz,39,---,PHL,00:19:17,02:59:36,01:57:25,00:04:37,00:02:57,05:23:52
+ironman-70.3-dubai-20160129.csv,834,Muneer Zuhdi,44,AUH,USA,00:17:38,03:18:30,02:14:12,00:05:11,00:03:29,05:59:00
+ironman-70.3-dubai-20160129.csv,835,Dennis Napod,42,DXB,PHL,00:19:56,03:06:09,02:15:43,00:06:07,00:03:32,05:51:27
+ironman-70.3-dubai-20160129.csv,836,Nour Halabi,25,DXB,USA,00:18:30,03:02:14,02:13:59,00:05:32,00:08:17,05:48:32
+ironman-70.3-dubai-20160129.csv,838,Rey Molit,---,---,---,00:14:32,02:58:52,02:09:08,00:02:50,00:05:29,05:30:51
+ironman-70.3-dubai-20160129.csv,839,Jasim Khalil Juma,---,---,---,00:41:03,---,---,00:03:05,---,DNF
+ironman-70.3-dubai-20160129.csv,840,Algassa Hassa,---,---,---,00:16:20,02:48:47,01:59:28,00:04:02,00:04:26,05:13:03
+ironman-70.3-dubai-20160129.csv,841,Eirik Hooper,42,DXB,AUS,00:15:48,02:43:52,01:58:18,00:03:33,00:02:52,05:04:23
+ironman-70.3-dubai-20160129.csv,842,Martin Kasten,40,---,DEU,00:14:59,02:34:41,01:38:12,00:02:38,00:02:44,04:33:14
+ironman-70.3-dubai-20160129.csv,843,Pamela Vargas,31,---,CHL,00:18:13,03:15:34,02:09:40,00:04:30,00:03:20,05:51:17
+ironman-70.3-dubai-20160129.csv,844,Nicolass Jacobs,---,DX,ZAF,00:18:07,02:49:35,01:57:24,00:05:12,00:04:47,05:15:05
+ironman-70.3-dubai-20160129.csv,845,Ali Ahmed,27,Manama,BHR,00:17:18,02:47:31,02:07:18,00:05:10,00:02:58,05:20:15
+ironman-70.3-dubai-20160129.csv,847,Kelli Parady,---,CT,USA,---,---,02:21:07,01:15:01,05:38:37,07:59:44

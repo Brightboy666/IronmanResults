@@ -1,0 +1,1384 @@
+#File=ironman-70.3-miami-20161023.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-miami-20161023.csv,1,Michael Raelert,36,---,DEU,00:27:02,02:02:59,01:13:56,00:01:11,00:01:24,03:46:32
+ironman-70.3-miami-20161023.csv,2,Terenzo Bozzone,31,AUK,NZL,00:27:12,01:57:33,01:15:00,00:01:11,00:01:14,03:42:10
+ironman-70.3-miami-20161023.csv,3,Santiago Ascenço,35,Goiás,BRA,00:29:47,02:04:23,01:15:38,00:01:09,00:01:13,03:52:10
+ironman-70.3-miami-20161023.csv,4,Oscar Galindez,45,Intl State,ARG,00:30:26,02:08:19,01:22:02,00:01:23,00:01:42,04:03:52
+ironman-70.3-miami-20161023.csv,5,Jeremy Jurkiewicz,28,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,6,Domenico Passuello,38,Intl State,ITA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,7,Ivan Tutukin,30,---,RUS,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,8,Rodolphe Von Berg,23,CO,USA,00:27:07,02:02:53,01:12:32,00:01:08,00:01:05,03:44:45
+ironman-70.3-miami-20161023.csv,9,Viktor Zyemtsev,43,FL,UKR,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,10,Iain Alexandridis,23,NJ,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,11,Paul Ambrose,32,CO,AUS,00:29:46,02:04:06,01:24:43,00:01:18,00:01:25,04:01:18
+ironman-70.3-miami-20161023.csv,12,Chris Braden,25,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,13,Jeremy Howard,36,VA,USA,00:29:47,02:18:10,01:23:08,00:01:33,00:01:40,04:14:18
+ironman-70.3-miami-20161023.csv,14,Taylor Reid,25,ON,CAN,00:27:35,02:04:37,01:21:46,00:01:15,00:01:15,03:56:28
+ironman-70.3-miami-20161023.csv,15,Fabio Carvalho,37,Intl State,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,16,Franz Löschke,27,---,DEU,00:27:19,02:02:32,01:12:58,00:01:24,00:01:16,03:45:29
+ironman-70.3-miami-20161023.csv,17,Guy Crawford,37,ID,NZL,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,18,Andres Darricau,40,Intl State,ARG,00:29:55,02:08:56,01:17:31,00:01:18,00:01:26,03:59:06
+ironman-70.3-miami-20161023.csv,19,Reinaido De Oliveira,38,FL,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,20,Eduardo Diaz,49,Intl State,ARG,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,21,Ivan Dominguez,40,NV,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,22,Gaston Duran,40,Intl State,ARG,00:37:28,02:20:34,01:37:37,00:01:50,00:01:34,04:39:03
+ironman-70.3-miami-20161023.csv,23,Adam Feigh,24,SC,USA,00:35:38,02:09:25,01:29:47,00:01:25,00:01:22,04:17:37
+ironman-70.3-miami-20161023.csv,24,Caio Ferreira,23,DF,BRA,00:29:53,02:08:50,01:29:17,00:01:28,00:01:43,04:11:11
+ironman-70.3-miami-20161023.csv,25,Thomas Gerlach,35,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,26,Ben Collins,33,WA,USA,00:27:29,02:00:31,01:19:04,00:01:10,00:01:28,03:49:42
+ironman-70.3-miami-20161023.csv,27,Nicholas Granet,23,NV,FRA,00:29:56,---,---,00:01:27,---,DNF
+ironman-70.3-miami-20161023.csv,28,Scott Bradley,32,NY,USA,00:37:32,02:04:57,01:21:31,00:01:31,00:01:38,04:07:09
+ironman-70.3-miami-20161023.csv,29,Matt Hanson,31,IA,USA,00:29:46,02:09:25,01:11:29,00:01:15,00:01:21,03:53:16
+ironman-70.3-miami-20161023.csv,30,Sean Jefferson,33,CA,USA,00:27:34,02:18:21,01:13:27,00:01:08,00:01:31,04:02:01
+ironman-70.3-miami-20161023.csv,31,Martin Jensen,33,Other,DNK,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,32,Antoine Jolicoeur Desroches,23,QC,CAN,00:27:16,02:08:16,01:20:38,00:01:20,00:01:13,03:58:43
+ironman-70.3-miami-20161023.csv,33,Tyler Jordan,28,AZ,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,34,Christian Kemp,35,NV,AUS,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,35,Philipp Koutny,33,---,CHE,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,36,Manuel Kueng,29,---,CHE,00:27:03,02:06:07,01:33:17,00:01:12,00:01:31,04:09:10
+ironman-70.3-miami-20161023.csv,37,David Lacombe,31,QC,CAN,00:37:18,02:16:59,01:19:55,00:01:36,00:01:33,04:17:21
+ironman-70.3-miami-20161023.csv,38,Eduardo Lass,24,Intl State,BRA,00:27:05,02:09:21,01:21:48,00:01:23,00:01:26,04:01:03
+ironman-70.3-miami-20161023.csv,39,Matt Lieto,38,OR,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,40,Sam Long,20,CO,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,41,Bruno Matheus,30,São Paulo,BRA,00:27:32,02:28:37,01:17:52,00:01:08,00:01:19,04:16:28
+ironman-70.3-miami-20161023.csv,42,Jordan Monnink,29,ON,CAN,00:29:52,02:09:10,01:22:59,00:01:27,00:01:35,04:05:03
+ironman-70.3-miami-20161023.csv,43,Urs Mueller,33,---,CHE,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,44,Timothy Nichols,34,NC,USA,00:38:00,02:15:16,01:47:51,00:01:31,00:01:40,04:44:18
+ironman-70.3-miami-20161023.csv,45,Justin Park,36,GA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,46,Carlos Javier Quinchara Forero,28,Intl State,COL,00:27:07,02:11:58,01:17:07,00:01:02,00:01:39,03:58:53
+ironman-70.3-miami-20161023.csv,47,Horst Reichel,34,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,48,Vinicius Canhedo,32,FL,BRA,00:29:56,04:14:19,---,00:01:20,---,DNF
+ironman-70.3-miami-20161023.csv,49,Jacob Rhyner,32,FL,USA,00:29:50,02:08:53,---,00:01:37,00:01:38,DNF
+ironman-70.3-miami-20161023.csv,50,Sven Riederer,35,---,SWZ,00:27:11,02:02:46,01:16:27,00:01:14,00:01:36,03:49:14
+ironman-70.3-miami-20161023.csv,51,Yunior Rosete,31,FL,CUB,00:27:17,02:13:18,---,00:01:15,---,DNF
+ironman-70.3-miami-20161023.csv,52,Justin Rossi,36,NV,USA,00:27:35,02:06:05,---,00:01:28,00:01:34,DNF
+ironman-70.3-miami-20161023.csv,53,Matthew Russell,33,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,54,Alexander Schilling,27,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,55,Raul Tejada,27,GTM,GTM,00:30:24,02:08:04,01:13:38,00:01:20,00:01:26,03:54:52
+ironman-70.3-miami-20161023.csv,56,Fernando Toldi,29,Intl State,BRA,00:27:22,02:02:13,---,00:01:32,00:01:17,DNF
+ironman-70.3-miami-20161023.csv,57,Diego Vasquez,30,TUNGURAHUA,ECU,00:37:37,02:13:10,01:45:27,00:01:37,00:02:20,04:40:11
+ironman-70.3-miami-20161023.csv,58,Matthew Wisthoff,31,NC,USA,00:27:17,02:10:33,01:27:13,00:01:31,00:01:27,04:08:01
+ironman-70.3-miami-20161023.csv,59,Sergio Carrettoni,48,Intl State,ARG,00:48:32,03:00:12,03:05:00,00:04:03,00:05:51,07:03:38
+ironman-70.3-miami-20161023.csv,60,Leanda Cave,38,FL,GBR,00:30:11,02:17:21,01:27:45,00:01:21,00:01:37,04:18:15
+ironman-70.3-miami-20161023.csv,61,Jennifer Spieldenner,30,OH,USA,00:29:59,02:20:33,01:24:15,00:01:16,00:01:24,04:17:27
+ironman-70.3-miami-20161023.csv,62,Jessica Chong,31,PA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,63,Ashley Clifford,30,FL,USA,00:34:16,02:29:42,01:32:10,00:01:41,00:01:40,04:39:29
+ironman-70.3-miami-20161023.csv,64,Lauren Goss,28,CO,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,65,Kristen Marchant,24,ON,CAN,00:34:19,02:24:19,01:43:53,00:01:51,00:04:12,04:48:34
+ironman-70.3-miami-20161023.csv,66,Ellie Salthouse,23,QLD,AUS,00:29:58,02:17:35,01:22:25,00:01:18,00:01:28,04:12:44
+ironman-70.3-miami-20161023.csv,67,Jeanni Seymour,24,CO,ABW,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,68,Corinne Abraham,38,Intl State,GBR,00:34:56,02:21:00,01:34:22,00:01:48,00:01:59,04:34:05
+ironman-70.3-miami-20161023.csv,69,Amanda Stevens,39,AZ,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,70,Rahel Bellinga,47,---,NLD,00:44:39,02:28:09,01:38:50,00:01:25,00:03:08,04:56:11
+ironman-70.3-miami-20161023.csv,71,Kate Bevilaqua,39,WA,AUS,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,72,Lauren Capone,28,CO,USA,00:32:42,02:32:05,01:23:28,00:01:24,00:01:49,04:31:28
+ironman-70.3-miami-20161023.csv,73,Katy Cargiulo,36,NH,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,74,Camille Donat,28,---,FRA,00:30:07,02:33:12,01:37:35,00:01:28,00:01:44,04:44:06
+ironman-70.3-miami-20161023.csv,75,Kelly Fillnow,33,NC,USA,00:38:49,02:19:27,01:29:53,00:01:40,00:01:25,04:31:14
+ironman-70.3-miami-20161023.csv,76,April Gellatly,33,GA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,77,Alexandra Gordichuk,28,AB,CAN,00:42:53,---,---,00:01:33,---,DNF
+ironman-70.3-miami-20161023.csv,78,Sara Gross,40,BC,CAN,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,79,Lotty Harari,46,Panama,PAN,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,80,Amy Javens,44,PA,USA,00:42:51,02:26:47,01:36:54,00:02:03,00:02:18,04:50:53
+ironman-70.3-miami-20161023.csv,81,Ewa Komander,31,---,POL,00:33:01,02:20:47,01:32:17,00:01:28,00:01:33,04:29:06
+ironman-70.3-miami-20161023.csv,82,Emma-Kate Lidbury,36,CO,GBR,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,83,Maria Lopez,33,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,84,Melanie Mcquaid,43,BC,CAN,00:32:54,02:18:42,01:34:28,00:01:26,00:01:27,04:28:57
+ironman-70.3-miami-20161023.csv,85,Carla Moreno,40,FL,BRA,00:32:34,---,---,00:01:34,---,DNF
+ironman-70.3-miami-20161023.csv,86,Imke Oelerich,27,---,DEU,00:39:09,02:26:35,01:35:48,00:01:30,00:01:45,04:44:47
+ironman-70.3-miami-20161023.csv,87,Brittany Higgins,32,FL,USA,00:35:07,02:26:54,01:45:29,00:01:39,00:01:27,04:50:36
+ironman-70.3-miami-20161023.csv,88,Lina Maria Raga,28,quindio,COL,00:30:58,02:27:29,01:32:00,00:01:57,00:01:47,04:34:11
+ironman-70.3-miami-20161023.csv,89,Maggie Rusch,29,NC,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,90,Astrid Ganzow,37,---,DEU,00:34:43,02:14:55,01:25:52,00:01:33,00:01:22,04:18:25
+ironman-70.3-miami-20161023.csv,91,Laura Barrena,41,Intl State,ARG,00:51:15,02:50:50,01:56:31,00:02:30,00:02:37,05:43:43
+ironman-70.3-miami-20161023.csv,92,Caroline St-Pierre,28,QC,CAN,00:34:55,02:41:08,---,00:01:54,00:01:32,DNF
+ironman-70.3-miami-20161023.csv,93,Miranda Tomenson,31,ON,CAN,00:32:44,02:26:09,01:35:53,00:01:40,00:01:39,04:38:05
+ironman-70.3-miami-20161023.csv,94,Sheila Treleaven,42,ON,CAN,00:30:12,02:32:34,01:35:09,00:01:46,00:01:59,04:41:40
+ironman-70.3-miami-20161023.csv,95,Katrien Verstuyft,34,---,BEL,00:32:49,02:18:48,01:24:08,00:01:27,00:01:45,04:18:57
+ironman-70.3-miami-20161023.csv,96,Amanda Wendorff,37,CO,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,97,Kyra Wiens,30,WA,USA,00:34:17,02:29:12,01:33:22,00:01:47,00:01:45,04:40:23
+ironman-70.3-miami-20161023.csv,98,Luiza Cravo De Azevedo,22,RJ,BRA,00:34:17,02:28:33,01:30:12,00:01:35,00:01:49,04:36:26
+ironman-70.3-miami-20161023.csv,101,Jose Grijalba,32,---,MEX,01:28:59,05:05:43,---,00:13:49,---,DNF
+ironman-70.3-miami-20161023.csv,102,Luigi Soddu,32,NY,ITA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,103,Brenda Alvarez,23,---,MEX,00:58:39,03:58:33,02:41:40,00:03:16,00:03:07,07:45:15
+ironman-70.3-miami-20161023.csv,104,Samuel Bocanegra,44,dictrito capital,COL,00:57:28,02:56:28,03:04:00,00:07:48,00:09:50,07:15:34
+ironman-70.3-miami-20161023.csv,105,Levi Ferraz Jr,39,FL,BRA,00:52:31,02:42:26,02:21:02,00:04:18,00:05:37,06:05:54
+ironman-70.3-miami-20161023.csv,106,Ciro Mejia,41,CA,---,02:14:30,03:21:29,02:31:12,00:06:00,00:06:19,DNF
+ironman-70.3-miami-20161023.csv,107,Jose Luis Ovando,31,Bg,ARG,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,108,Saulo Ventura,39,Minas Gerais,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,109,Elthon Picanco,41,Amazonas,BRA,00:48:46,03:00:59,01:53:55,00:03:50,00:05:05,05:52:35
+ironman-70.3-miami-20161023.csv,110,Jaime Sosa,43,Panama,PAN,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,111,Manuel Herrera,44,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,112,Jose Antonio Scioli,55,---,ARG,00:41:27,02:59:57,02:27:26,00:07:50,00:06:45,06:23:25
+ironman-70.3-miami-20161023.csv,113,John Hourihan,60,FL,VIR,00:48:29,02:46:15,02:25:27,00:02:57,00:05:04,06:08:12
+ironman-70.3-miami-20161023.csv,115,Benito Santos,39,FL,USA,00:54:35,02:31:47,01:52:44,00:04:14,00:03:46,05:27:06
+ironman-70.3-miami-20161023.csv,116,Tony Kanaan,41,FL,USA,00:44:05,02:26:17,01:53:04,00:02:03,00:02:53,05:08:22
+ironman-70.3-miami-20161023.csv,119,Dwayne Hylton,49,FL,USA,01:44:17,---,02:36:17,---,02:01:36,DNF
+ironman-70.3-miami-20161023.csv,120,Ricardo Mundarain,42,FL,VEN,---,---,---,---,---,DQ
+ironman-70.3-miami-20161023.csv,122,Mairol Monsalve,---,---,USA,01:44:41,---,---,---,---,DNF
+ironman-70.3-miami-20161023.csv,123,Linna Chacon,39,FL,USA,---,---,---,---,---,DQ
+ironman-70.3-miami-20161023.csv,124,Donald Smith,51,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,125,Christoffer Smith,---,---,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,127,Luiz Ludovico,40,FL,USA,00:45:28,02:32:28,01:30:16,00:01:48,00:01:53,04:51:53
+ironman-70.3-miami-20161023.csv,128,Mark Borchetta,---,---,USA,00:56:56,02:35:46,02:17:05,00:02:31,00:03:19,05:55:37
+ironman-70.3-miami-20161023.csv,129,Armando Armellini,46,TX,ITA,00:59:32,02:47:35,02:08:49,00:02:46,00:03:15,06:01:57
+ironman-70.3-miami-20161023.csv,130,Brett Frykberg,35,FL,USA,00:51:36,03:14:47,02:26:17,00:03:56,00:03:52,06:40:28
+ironman-70.3-miami-20161023.csv,131,Jose Antonio Santiesteban Reyes,37,---,CHL,00:44:39,02:48:06,---,00:02:28,---,DNF
+ironman-70.3-miami-20161023.csv,132,William Brown,23,NY,USA,00:36:51,03:08:04,02:11:02,00:04:09,00:03:37,06:03:43
+ironman-70.3-miami-20161023.csv,133,Tanya Houghton,48,NC,USA,00:49:15,02:30:53,01:49:54,00:02:08,00:01:57,05:14:07
+ironman-70.3-miami-20161023.csv,134,Jennifer Ward,47,CO,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,135,Kim Michael-Lee,52,IL,USA,00:46:14,02:41:55,02:11:05,00:02:29,00:02:27,05:44:10
+ironman-70.3-miami-20161023.csv,136,Patricia Barros,44,São Paulo,BRA,00:38:01,02:43:10,01:53:26,00:02:01,00:02:33,05:19:11
+ironman-70.3-miami-20161023.csv,137,Rodolfo Oliveira,31,GOIAS,BRA,00:34:31,02:18:38,01:25:01,00:01:42,00:01:59,04:21:51
+ironman-70.3-miami-20161023.csv,138,Corey Steimel,31,CO,USA,00:37:04,02:21:38,01:22:57,00:01:40,00:01:38,04:24:57
+ironman-70.3-miami-20161023.csv,139,Luis Adarve,37,FL,USA,00:48:24,02:27:28,01:44:14,00:02:41,00:02:19,05:05:06
+ironman-70.3-miami-20161023.csv,140,Martin Chapochnikoff,39,Intl State,ARG,00:32:22,02:19:45,01:26:36,00:01:32,00:01:31,04:21:46
+ironman-70.3-miami-20161023.csv,141,Josep Esteve,36,FL,ESP,00:41:23,02:22:05,01:34:26,00:01:58,00:02:10,04:42:02
+ironman-70.3-miami-20161023.csv,142,Rafael Falsarella,34,Intl State,BRA,00:33:22,02:13:41,01:24:58,00:02:00,00:02:03,04:16:04
+ironman-70.3-miami-20161023.csv,143,Jonathan Rohl,37,IL,USA,00:40:08,02:27:05,01:27:51,00:02:28,00:02:29,04:40:01
+ironman-70.3-miami-20161023.csv,144,Joachim Amann,56,Other,DEU,00:37:58,02:27:41,01:43:42,00:01:51,00:02:53,04:54:05
+ironman-70.3-miami-20161023.csv,145,Frank Green,57,FL,USA,00:39:25,02:24:54,01:36:34,00:02:38,00:02:38,04:46:09
+ironman-70.3-miami-20161023.csv,146,Jaime Gonzalez,62,nariño,COL,00:56:15,02:49:40,02:16:11,00:03:25,00:03:38,06:09:09
+ironman-70.3-miami-20161023.csv,147,Joel Kriger,62,Parana,BRA,00:33:45,03:02:38,02:16:22,00:05:43,00:03:15,06:01:43
+ironman-70.3-miami-20161023.csv,148,Paolo Mussotto,51,italia,ITA,00:53:37,02:28:10,01:42:44,00:03:56,00:01:47,05:10:14
+ironman-70.3-miami-20161023.csv,149,Noah Sandler,50,MN,USA,00:47:54,02:40:23,01:51:35,00:02:46,00:02:13,05:24:51
+ironman-70.3-miami-20161023.csv,150,Rodrigo Andrade,45,RJ,BRA,00:37:17,02:32:18,01:57:24,00:02:01,00:03:05,05:12:05
+ironman-70.3-miami-20161023.csv,151,German Cabos,48,Intl State,ARG,00:48:24,02:34:16,01:45:13,00:02:13,00:02:49,05:12:55
+ironman-70.3-miami-20161023.csv,152,Bob Crane,46,ON,CAN,00:42:47,02:35:30,01:47:39,00:02:03,00:01:55,05:09:54
+ironman-70.3-miami-20161023.csv,153,Steven Fried,47,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,154,Mark Horne,48,Kent,GBR,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,155,Attila Meretei,46,NH,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,156,Marco Nardelli Leonardi,49,Trento,ITA,00:42:47,02:39:57,02:00:49,00:01:56,00:03:05,05:28:34
+ironman-70.3-miami-20161023.csv,157,Jeffrey Sankoff,49,CO,CAN,00:43:12,02:25:00,01:49:37,00:02:07,00:01:54,05:01:50
+ironman-70.3-miami-20161023.csv,158,Alfonso Sobero Ponce De Leon,48,Puebla,MEX,00:36:36,02:30:20,01:50:52,00:02:13,00:01:49,05:01:50
+ironman-70.3-miami-20161023.csv,159,Richard St John,46,FL,USA,00:39:49,02:25:48,01:35:14,00:01:52,00:02:10,04:44:53
+ironman-70.3-miami-20161023.csv,160,Mario Villafana,44,CIUDAD DE MEXICO,MEX,00:42:26,02:25:33,01:42:46,00:02:23,00:02:13,04:55:21
+ironman-70.3-miami-20161023.csv,161,Emily Kratz,38,WI,USA,00:41:09,02:29:32,01:27:28,00:02:09,00:04:01,04:44:19
+ironman-70.3-miami-20161023.csv,162,Caitlin Mooney,35,NY,USA,00:38:14,02:38:22,01:39:44,00:02:20,00:02:16,05:00:56
+ironman-70.3-miami-20161023.csv,163,Sabrina Spanguero,37,santa fe,ARG,00:43:37,02:44:47,01:48:54,00:01:52,00:02:27,05:21:37
+ironman-70.3-miami-20161023.csv,164,Jake Brittingham,40,AL,USA,00:43:46,02:32:30,01:51:11,00:02:24,00:03:03,05:12:54
+ironman-70.3-miami-20161023.csv,165,Doug Corcoran,43,MA,USA,00:51:50,02:35:23,01:51:02,00:02:10,00:03:16,05:23:41
+ironman-70.3-miami-20161023.csv,166,Martin Flüeler,44,---,SWZ,00:43:28,02:36:34,01:42:35,00:02:29,00:01:49,05:06:55
+ironman-70.3-miami-20161023.csv,167,Guillermo Montoya,41,Cundinamarca,COL,00:38:16,02:25:25,01:30:40,00:01:20,00:01:53,04:37:34
+ironman-70.3-miami-20161023.csv,168,Sylvain Prenel,44,---,FRA,00:46:12,02:28:14,01:55:28,00:02:23,00:03:12,05:15:29
+ironman-70.3-miami-20161023.csv,169,Tomas Pritasil,44,Czech republic,CZE,00:52:22,02:29:14,01:52:01,00:01:59,00:03:03,05:18:39
+ironman-70.3-miami-20161023.csv,170,Alvaro Sanchez,43,FL,BOL,00:39:47,02:32:49,01:46:44,00:02:15,00:01:49,05:03:24
+ironman-70.3-miami-20161023.csv,171,Diego Velasquez,44,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,172,Paul Wills,40,FL,USA,00:40:47,02:35:29,01:36:30,00:02:11,00:02:46,04:57:43
+ironman-70.3-miami-20161023.csv,173,Eric Armstrong,27,CO,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,174,Philipp Ellert,29,---,DEU,00:35:04,02:11:34,01:25:15,00:01:54,00:01:49,04:15:36
+ironman-70.3-miami-20161023.csv,175,Bruno Pinheiro Manzoni,29,SP,BRA,00:40:36,02:15:00,01:34:17,00:01:56,00:01:42,04:33:31
+ironman-70.3-miami-20161023.csv,176,John Wiygul,27,TN,USA,00:38:29,02:23:01,01:30:31,00:01:43,00:02:09,04:35:53
+ironman-70.3-miami-20161023.csv,177,Ilka Cordeiro,46,SERGIPE,BRA,00:40:41,02:47:21,01:50:23,00:02:59,00:02:16,05:23:40
+ironman-70.3-miami-20161023.csv,178,Tracey Horne,48,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,180,Sabina Barrella,53,Buenos aires,ARG,00:53:29,03:10:59,01:59:10,00:03:58,00:04:46,06:12:22
+ironman-70.3-miami-20161023.csv,181,Cathy Parker,51,FL,USA,00:57:43,02:51:44,02:25:18,00:03:19,00:04:29,06:22:33
+ironman-70.3-miami-20161023.csv,182,Catalina Voit,50,FL,ECU,00:56:17,02:43:08,01:53:18,00:01:57,00:02:22,05:37:02
+ironman-70.3-miami-20161023.csv,183,Anne-Christine Calvel,56,Guadeloupe,FRA,00:52:25,02:51:12,02:04:37,00:03:42,00:05:38,05:57:34
+ironman-70.3-miami-20161023.csv,184,Michele Niermann,48,NJ,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,185,Dany Giorgetta,58,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,186,Bonnie Grundman,57,ON,CAN,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,187,Trijnie Roozendaal,65,FL,NLD,00:58:04,03:00:06,02:39:48,00:03:19,00:03:58,06:45:15
+ironman-70.3-miami-20161023.csv,188,Maria Luz Gill,42,---,PRY,00:55:10,02:36:16,01:52:40,00:03:06,00:02:15,05:29:27
+ironman-70.3-miami-20161023.csv,189,Giovana Peretti,43,Intl State,BRA,00:40:15,02:34:47,01:46:34,00:02:25,00:02:08,05:06:09
+ironman-70.3-miami-20161023.csv,190,Carola Pryce,40,Distrito Federal,ARG,00:46:39,02:43:05,01:52:46,00:02:40,00:03:15,05:28:25
+ironman-70.3-miami-20161023.csv,191,Anna Raptis,43,CDMX,AUS,00:44:12,02:57:14,01:47:34,00:02:12,00:03:37,05:34:49
+ironman-70.3-miami-20161023.csv,192,Linda Kay Richards,43,ON,CAN,00:50:18,02:39:10,01:50:52,00:02:12,00:02:30,05:25:02
+ironman-70.3-miami-20161023.csv,193,Veronica Vara,41,FL,ARG,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,194,Kelly Wagner,44,FL,USA,00:48:29,03:01:30,02:26:14,00:02:47,00:05:08,06:24:08
+ironman-70.3-miami-20161023.csv,195,Jose Cabello,31,FL,USA,00:45:41,02:29:39,01:41:40,00:02:04,00:02:29,05:01:33
+ironman-70.3-miami-20161023.csv,196,Ariel Cabrera,32,guatemala,GTM,00:45:09,02:39:51,01:55:20,00:03:10,00:03:21,05:26:51
+ironman-70.3-miami-20161023.csv,197,Abraham Cohen,34,MI,USA,00:49:07,02:33:11,02:00:57,00:02:11,00:02:25,05:27:51
+ironman-70.3-miami-20161023.csv,198,Chad Davis,32,FL,USA,00:46:29,02:50:48,02:26:15,00:02:36,00:02:34,06:08:42
+ironman-70.3-miami-20161023.csv,199,Paul Freeman,30,NT,AUS,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,200,Christopher Kechejian,32,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,201,Alexandre Negrao,31,sp,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,202,Michael Otwell,29,CO,USA,00:35:36,02:18:14,01:36:12,00:02:03,00:01:53,04:33:58
+ironman-70.3-miami-20161023.csv,203,Daniel Rojas,33,Pichincha,ECU,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,204,Alvaro Velez,31,FL,COL,00:34:30,02:18:33,01:28:33,00:02:19,00:01:39,04:25:34
+ironman-70.3-miami-20161023.csv,205,Gustavo Aponte,38,Intl State,COL,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,206,Fernando Cesar De Avellar,36,Sao Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,207,Jonathan Brault,36,QC,CAN,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,208,Fernando Candia,38,FL,BOL,00:36:48,02:30:44,02:01:59,00:02:28,00:02:28,05:14:27
+ironman-70.3-miami-20161023.csv,209,Adriano De Meo,36,NC,USA,01:07:30,02:46:03,01:33:56,00:04:46,00:03:21,05:35:36
+ironman-70.3-miami-20161023.csv,210,Jason Madaus,37,WI,USA,00:46:01,02:34:37,02:00:20,00:03:06,00:02:51,05:26:55
+ironman-70.3-miami-20161023.csv,211,Andreas Moraitis,34,FL,USA,00:44:13,02:16:29,01:36:05,00:01:21,00:02:04,04:40:12
+ironman-70.3-miami-20161023.csv,212,Federico Pittaluga Pereira,38,Montevideo,URY,00:40:52,02:27:12,01:39:44,00:03:37,00:02:16,04:53:41
+ironman-70.3-miami-20161023.csv,213,Richard Shaw,37,Essex,GBR,00:52:10,02:51:26,01:58:24,00:03:51,00:03:38,05:49:29
+ironman-70.3-miami-20161023.csv,214,Jordan Sibbs,35,FL,CAN,00:40:36,02:39:35,02:05:41,00:02:59,00:03:01,05:31:52
+ironman-70.3-miami-20161023.csv,215,Jarkko Turtiainen,36,Uusimaa,FIN,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,216,Jota Zabala,36,GUATEMALA,GTM,00:52:23,02:36:25,01:53:04,00:03:36,00:03:13,05:28:41
+ironman-70.3-miami-20161023.csv,217,John O'Brien,55,TN,USA,00:49:59,02:35:00,02:06:15,00:03:11,00:03:07,05:37:32
+ironman-70.3-miami-20161023.csv,218,Michel Brouillet,51,FL,CAN,00:37:39,02:22:26,01:47:02,00:02:09,00:02:17,04:51:33
+ironman-70.3-miami-20161023.csv,219,Jorge Da Silva,53,Lima,PER,00:47:00,02:41:33,02:11:07,00:04:01,00:06:29,05:50:10
+ironman-70.3-miami-20161023.csv,220,Timo Kohl,49,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,221,Alberto Krum,52,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,222,Inaki Mazarredo,54,---,ESP,00:47:41,02:40:37,01:45:54,00:01:57,00:02:45,05:18:54
+ironman-70.3-miami-20161023.csv,223,Agustin Quinones,51,PR,PRI,00:53:09,02:30:04,01:52:44,00:01:56,00:02:31,05:20:24
+ironman-70.3-miami-20161023.csv,224,Duane Skage,50,FL,USA,00:49:31,02:50:07,02:28:39,00:03:28,00:03:26,06:15:11
+ironman-70.3-miami-20161023.csv,225,Amanda Morgan,26,FL,USA,00:41:28,02:43:40,01:59:35,00:02:28,00:03:26,05:30:37
+ironman-70.3-miami-20161023.csv,226,Claudio Ciceri,47,---,ITA,00:46:34,02:47:46,01:58:43,00:02:19,00:01:55,05:37:17
+ironman-70.3-miami-20161023.csv,227,Erik Delagarza,45,NC,USA,01:07:33,03:11:36,02:57:11,00:03:55,00:04:47,07:25:02
+ironman-70.3-miami-20161023.csv,228,Jorge Fanti,48,buenos aires,ARG,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,229,Rafael Fernandes,46,Rio de Janeiro,BRA,00:39:45,02:42:15,02:22:38,00:03:24,00:04:34,05:52:36
+ironman-70.3-miami-20161023.csv,230,Ignacio Galarraga,46,Intl State,ARG,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,231,Rodrigo Gonzalez,48,---,CHL,00:40:15,02:28:34,01:39:11,00:03:11,00:02:39,04:53:50
+ironman-70.3-miami-20161023.csv,232,Carlos Gonzalez Bonet,46,Intl State,ARG,00:38:45,02:25:25,01:44:28,00:02:00,00:01:37,04:52:15
+ironman-70.3-miami-20161023.csv,233,David Grubb,46,---,SWE,00:39:27,02:32:03,01:45:28,00:02:16,00:04:13,05:03:27
+ironman-70.3-miami-20161023.csv,234,Bertrand Jodoin,47,ON,CAN,00:46:49,02:31:18,01:46:00,00:02:03,00:01:58,05:08:08
+ironman-70.3-miami-20161023.csv,235,Bertrand Jodoin,47,ON,CAN,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,236,Anthony Lucas,44,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,237,Michael Rasco,45,KY,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,238,Hector Santaella,48,FL,USA,00:34:13,02:27:04,01:40:24,00:02:09,00:02:51,04:46:41
+ironman-70.3-miami-20161023.csv,239,John Stiene,45,NY,USA,01:09:38,02:43:19,02:01:17,00:03:19,00:04:17,06:01:50
+ironman-70.3-miami-20161023.csv,240,Dennis Vargas,44,San José,CRI,00:45:39,02:31:44,01:38:18,00:02:01,00:02:10,04:59:52
+ironman-70.3-miami-20161023.csv,241,Miriam Klein,39,FL,USA,00:51:25,02:44:58,01:55:28,00:02:30,00:02:14,05:36:35
+ironman-70.3-miami-20161023.csv,242,Luciana Kweller,37,Argentina,ARG,00:49:38,02:59:34,02:00:02,00:02:34,00:03:44,05:55:32
+ironman-70.3-miami-20161023.csv,243,Daniela Lopumo,37,La Pampa,ARG,00:43:56,02:41:51,01:45:59,00:01:28,00:02:20,05:15:34
+ironman-70.3-miami-20161023.csv,244,Adriana Martinez,36,FL,MEX,00:57:42,03:05:09,02:17:26,00:02:30,00:04:56,06:27:43
+ironman-70.3-miami-20161023.csv,245,Natalie Shaw,35,---,GBR,00:51:32,03:01:50,02:02:42,00:03:01,00:02:52,06:01:57
+ironman-70.3-miami-20161023.csv,246,Katie Waters,35,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,247,Anna Eklof,31,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,248,Megan Hyndman,33,FL,USA,00:39:45,02:45:55,01:48:16,00:01:46,00:02:15,05:17:57
+ironman-70.3-miami-20161023.csv,249,Sandy Holt,31,FL,USA,00:39:28,02:36:10,01:54:20,00:02:20,00:02:42,05:15:00
+ironman-70.3-miami-20161023.csv,250,Christina Kolstedt,33,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,251,Cheyenne Noble,32,PA,USA,00:49:06,02:31:59,01:44:22,00:01:57,00:01:44,05:09:08
+ironman-70.3-miami-20161023.csv,252,Andrea Prono,32,Intl State,PRY,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,253,Rivers Rice,30,TX,USA,00:46:44,03:14:14,02:02:48,00:01:58,00:02:13,06:07:57
+ironman-70.3-miami-20161023.csv,254,Cristine Stahlschmidt,33,SP,BRA,00:41:09,02:38:24,01:51:11,00:02:49,00:02:50,05:16:23
+ironman-70.3-miami-20161023.csv,255,Luis Arosemena,42,---,PER,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,256,Fabien Frappart,42,---,FRA,00:44:27,02:34:42,01:49:56,00:01:52,00:01:59,05:12:56
+ironman-70.3-miami-20161023.csv,257,Oswaldo Henriquez,41,---,VEN,00:33:28,04:08:47,01:30:46,00:02:11,00:05:39,06:20:51
+ironman-70.3-miami-20161023.csv,258,Jorge Herrera,39,FL,VEN,00:37:31,02:21:40,01:37:32,00:01:55,00:01:53,04:40:31
+ironman-70.3-miami-20161023.csv,259,Brandon Kambach,43,FL,USA,00:50:25,02:30:08,01:54:33,00:03:11,00:04:18,05:22:35
+ironman-70.3-miami-20161023.csv,260,Gilberto Lemus,41,Guatemala,GTM,00:40:00,02:43:51,01:54:21,00:03:05,00:04:58,05:26:15
+ironman-70.3-miami-20161023.csv,261,Martín Maillo,43,Santa Fe,ARG,00:41:53,03:07:22,01:55:36,00:01:59,00:04:05,05:50:55
+ironman-70.3-miami-20161023.csv,262,Sebastian Rivarola Puente,43,FL,USA,00:44:41,02:37:18,01:48:08,00:02:11,00:03:02,05:15:20
+ironman-70.3-miami-20161023.csv,263,Jonathan Roney,42,---,CYM,00:37:39,02:42:12,01:58:18,00:02:10,00:02:58,05:23:17
+ironman-70.3-miami-20161023.csv,264,Celso Sakakura,40,SP,BRA,00:35:47,02:39:17,02:01:08,00:02:38,00:03:14,05:22:04
+ironman-70.3-miami-20161023.csv,265,Diego Sosa,42,SC,ECU,00:39:34,02:25:10,01:44:30,00:01:46,00:01:38,04:52:38
+ironman-70.3-miami-20161023.csv,266,Juan Jose Ureta,41,NJ,ESP,00:44:44,02:19:36,02:04:46,00:01:57,00:03:06,05:14:09
+ironman-70.3-miami-20161023.csv,267,Matthew Wemms,44,---,GBR,00:40:14,02:39:04,02:12:45,00:02:32,00:02:43,05:37:18
+ironman-70.3-miami-20161023.csv,268,Luis Azpeitia Escalante,26,Pachuca,MEX,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,269,Dimitri Boguslavsky,29,NY,RUS,00:51:24,03:03:29,02:19:01,00:02:33,00:02:37,06:19:04
+ironman-70.3-miami-20161023.csv,270,Bernardo Borges,25,Entre Rios,ARG,00:35:30,02:37:22,01:53:44,00:02:40,00:01:59,05:11:15
+ironman-70.3-miami-20161023.csv,271,Field Dutton,27,FL,USA,00:40:43,02:26:06,01:53:41,00:01:39,00:01:53,05:04:02
+ironman-70.3-miami-20161023.csv,272,Jose Luis Gabriel,26,GUATEMALA,GTM,00:43:33,02:26:11,01:50:40,00:01:49,00:02:25,05:04:38
+ironman-70.3-miami-20161023.csv,273,Francisco Grino Troche,28,Intl State,PRY,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,274,Ross Lenehan,29,FL,USA,00:35:17,02:14:37,01:25:58,00:01:44,00:01:47,04:19:23
+ironman-70.3-miami-20161023.csv,275,Erich Groezinger,22,OH,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,276,Patrick Obrien,24,CT,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,277,Christopher Picard,24,QC,CAN,00:31:48,02:27:52,01:38:06,00:01:53,00:02:03,04:41:42
+ironman-70.3-miami-20161023.csv,278,Gabriel Zimeri,23,FL,GTM,00:38:37,02:23:06,01:34:24,00:01:45,00:01:52,04:39:44
+ironman-70.3-miami-20161023.csv,279,Anna Alexopoulos,48,ON,CAN,00:55:13,02:57:14,02:22:08,00:02:35,00:04:53,06:22:03
+ironman-70.3-miami-20161023.csv,280,Lucia Glioche,47,RJ,BRA,00:56:36,03:15:09,03:05:05,00:04:28,00:04:26,07:25:44
+ironman-70.3-miami-20161023.csv,281,Anna Nemeckay,46,UT,USA,00:50:36,02:49:39,02:31:57,00:02:14,00:03:55,06:18:21
+ironman-70.3-miami-20161023.csv,282,Monica Robbers,45,VA,NZL,00:40:35,02:43:25,02:17:02,00:02:12,00:02:51,05:46:05
+ironman-70.3-miami-20161023.csv,283,Catherine Souyet,44,---,CHL,00:51:14,02:49:57,02:01:06,00:03:02,00:03:10,05:48:29
+ironman-70.3-miami-20161023.csv,284,Mary Lynn Hansen,50,MD,USA,00:53:26,02:46:39,02:17:35,00:02:33,00:02:31,06:02:44
+ironman-70.3-miami-20161023.csv,285,Diana Lohmeyer,50,VA,USA,00:46:10,02:54:54,02:01:35,00:02:22,00:03:08,05:48:09
+ironman-70.3-miami-20161023.csv,286,Ashley Simon Clifton,53,KS,USA,00:44:50,03:01:15,02:02:07,00:03:17,00:04:12,05:55:41
+ironman-70.3-miami-20161023.csv,287,Letizia Zuccolillo,53,Central,PRY,01:00:43,03:14:26,03:18:26,00:04:05,00:05:47,07:43:27
+ironman-70.3-miami-20161023.csv,288,Susan Briers,61,FL,USA,00:50:59,03:01:04,02:11:50,00:02:59,00:04:53,06:11:45
+ironman-70.3-miami-20161023.csv,289,Lorena Barrau,42,Neuquen,ARG,00:44:22,02:39:45,02:00:38,00:03:19,00:03:38,05:31:42
+ironman-70.3-miami-20161023.csv,290,Erica Berthou,41,NY,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,291,Stephanie Boudreau,41,ON,CAN,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,292,Stephanie Boudreau,41,ON,CAN,00:49:25,03:02:15,02:23:15,00:02:50,00:02:48,06:20:33
+ironman-70.3-miami-20161023.csv,293,Kimberley Martin,42,ON,CAN,00:43:50,02:58:33,02:12:34,00:02:37,00:03:21,06:00:55
+ironman-70.3-miami-20161023.csv,294,Zuzana Michalcova,40,TX,SVK,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,295,Sarah Petre-Mears,42,Nevis,GBR,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,296,Natalia Quesada,42,FL,CRI,00:44:18,02:46:15,01:48:52,00:02:02,00:01:58,05:23:25
+ironman-70.3-miami-20161023.csv,297,Silvina Rebagliatti,44,FL,ARG,01:08:59,02:55:54,02:15:19,00:02:51,00:03:07,06:26:10
+ironman-70.3-miami-20161023.csv,298,Ruth Ziethe,41,---,CHE,00:43:19,02:41:10,02:08:58,00:02:00,00:02:15,05:37:42
+ironman-70.3-miami-20161023.csv,299,Diego Barquero,29,IN,CRI,00:41:22,02:40:52,01:54:47,00:01:45,00:02:45,05:21:31
+ironman-70.3-miami-20161023.csv,300,Roberto Dellape Jr,33,Sao Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,301,Pedro Dias Soares,33,sao paulo,BRA,00:47:02,02:30:20,01:54:08,00:02:26,00:02:59,05:16:55
+ironman-70.3-miami-20161023.csv,302,Sergio Fernandez,32,FL,CRI,00:43:40,02:29:07,01:27:40,00:01:40,00:01:27,04:43:34
+ironman-70.3-miami-20161023.csv,303,Matthew Hartsook,31,FL,USA,00:44:57,02:46:27,02:07:38,00:01:51,00:03:13,05:44:06
+ironman-70.3-miami-20161023.csv,304,Brandon Kovacic,31,CA,USA,00:51:35,02:59:35,02:08:40,00:07:36,00:03:17,06:10:43
+ironman-70.3-miami-20161023.csv,305,Felipe Marino Rivera,30,VALLE DEL CAUCA,COL,00:46:22,02:55:17,---,00:02:35,---,DNF
+ironman-70.3-miami-20161023.csv,306,Josue Mendoza,32,TN,BOL,00:41:07,02:29:25,01:53:22,00:02:28,00:03:20,05:09:42
+ironman-70.3-miami-20161023.csv,307,Jeff Raines,30,TX,USA,00:36:33,02:34:51,01:52:45,00:01:52,00:02:19,05:08:20
+ironman-70.3-miami-20161023.csv,308,Brian Snyder,33,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,309,Nathan Turner,34,CO,USA,00:42:18,02:29:38,02:27:10,00:02:27,00:02:14,05:43:47
+ironman-70.3-miami-20161023.csv,310,Alvaro Araya,39,---,CHL,01:13:22,02:37:58,02:15:53,00:03:14,00:03:40,DNF
+ironman-70.3-miami-20161023.csv,311,Emmanuel Batail,37,FR,FRA,00:45:08,02:34:53,01:50:43,00:02:38,00:01:59,05:15:21
+ironman-70.3-miami-20161023.csv,312,Luciano Batista,37,Sao Paulo,BRA,00:55:50,02:32:16,01:41:52,00:03:16,00:01:58,05:15:12
+ironman-70.3-miami-20161023.csv,313,Aleksei Bogdanov,34,Russia,RUS,00:46:53,02:30:13,02:01:06,00:02:57,00:03:48,05:24:57
+ironman-70.3-miami-20161023.csv,314,David Bragg,37,TN,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,315,Gustavo Caballero,38,TX,MEX,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,316,Marcelo Cardenas,38,FL,CHL,00:36:40,02:22:35,01:35:31,00:02:01,00:02:09,04:38:56
+ironman-70.3-miami-20161023.csv,317,Jose De La Roca,36,GUATEMALA,GTM,00:38:17,02:41:45,01:53:40,00:02:22,00:03:35,05:19:39
+ironman-70.3-miami-20161023.csv,318,Arturo Fuentes Archundia,37,México,MEX,00:44:54,02:29:09,02:17:20,00:02:16,00:02:06,05:35:45
+ironman-70.3-miami-20161023.csv,319,Galo Garzon,39,Pichincha,ECU,01:03:22,02:49:09,---,00:03:26,---,DNF
+ironman-70.3-miami-20161023.csv,320,Olivier Gemayel,39,Lebanon,FRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,321,Nicholas Hall,36,NY,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,322,Cédric Maria,35,FRANCE,FRA,00:52:33,02:44:44,01:46:02,00:02:08,00:03:23,05:28:50
+ironman-70.3-miami-20161023.csv,323,Douglas Mendez,36,FL,VEN,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,324,Francisco Monterrosa Ferracuti,35,San Salvador,SLV,00:33:24,02:30:57,02:25:41,00:03:13,00:02:38,05:35:53
+ironman-70.3-miami-20161023.csv,325,Jose Antonio Pagan,38,FL,USA,00:58:42,02:47:30,01:52:38,00:02:49,00:04:19,05:45:58
+ironman-70.3-miami-20161023.csv,326,Fabio Pereira,36,SP,BRA,00:47:21,02:35:15,01:38:58,00:03:26,00:02:57,05:07:57
+ironman-70.3-miami-20161023.csv,327,Fabio Jose Bordallo Pinto,39,Rj,BRA,00:45:35,02:39:10,02:17:58,00:04:53,00:04:53,05:52:29
+ironman-70.3-miami-20161023.csv,328,Frederico Rezende,37,São Paulo,BRA,00:45:04,02:40:22,02:13:59,00:04:14,00:04:25,05:48:04
+ironman-70.3-miami-20161023.csv,329,Eligio Rodriguez,37,FL,DOM,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,330,Zachary Rose,35,FL,USA,00:49:02,02:50:29,01:57:58,00:02:47,00:02:36,05:42:52
+ironman-70.3-miami-20161023.csv,331,Angus Ross,38,ON,CAN,00:40:40,02:34:03,02:02:11,00:01:58,00:01:53,05:20:45
+ironman-70.3-miami-20161023.csv,332,Christian Scaccianoce,38,Dorset,ITA,00:44:52,02:34:20,01:41:26,00:02:43,00:01:56,05:05:17
+ironman-70.3-miami-20161023.csv,333,Brian Wallace,39,WA,USA,00:53:38,02:50:26,02:05:57,00:02:55,00:04:02,05:56:58
+ironman-70.3-miami-20161023.csv,334,Alejandro Colmenero,56,MORELOS,MEX,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,335,Johnny Harrison,56,AL,USA,00:40:51,02:21:42,01:38:47,00:01:57,00:01:58,04:45:15
+ironman-70.3-miami-20161023.csv,336,Ricardo Ariel Scarpa,56,mendoza,ARG,00:39:15,02:38:18,01:59:42,00:04:56,00:02:48,05:24:59
+ironman-70.3-miami-20161023.csv,337,Robby Turner,58,FL,USA,00:53:50,03:05:25,02:35:45,00:03:59,00:02:57,06:41:56
+ironman-70.3-miami-20161023.csv,338,Rolando Farrach,60,guatemala,GTM,00:52:26,02:36:34,01:51:23,00:02:56,00:03:01,05:26:20
+ironman-70.3-miami-20161023.csv,339,Jerry Mandello,66,FL,USA,00:58:58,02:53:20,02:16:58,00:04:08,00:03:04,06:16:28
+ironman-70.3-miami-20161023.csv,340,Ricardo E. Aguirre Rdz.,51,Nuevo Leon,MEX,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,341,Mark Brandt,53,OH,USA,00:57:27,02:42:39,01:53:43,00:02:15,00:03:09,05:39:13
+ironman-70.3-miami-20161023.csv,342,Doron Grossman,54,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,343,Alfredo Gutiérrez,50,buenos aires,ARG,00:50:14,02:41:25,02:13:21,00:02:40,00:05:05,05:52:45
+ironman-70.3-miami-20161023.csv,344,Stefan Hofer,50,ON,NLD,01:01:02,02:48:14,02:13:11,00:05:12,00:04:25,06:12:04
+ironman-70.3-miami-20161023.csv,345,Paul Lafontaine,51,MI,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,346,Martin Lussier,51,québec,CAN,01:05:05,02:49:14,02:14:44,00:02:58,00:02:42,06:14:43
+ironman-70.3-miami-20161023.csv,347,Aaron Melean,53,FL,VEN,01:09:28,02:50:45,02:26:36,00:04:03,00:03:34,06:34:26
+ironman-70.3-miami-20161023.csv,348,Horacio Mohadeb,52,AR,ARG,00:55:42,02:45:46,02:17:30,00:03:10,00:04:34,06:06:42
+ironman-70.3-miami-20161023.csv,349,Karl Nembach,49,FL,USA,00:54:56,02:49:51,02:19:13,00:03:11,00:06:47,06:13:58
+ironman-70.3-miami-20161023.csv,350,Luiz Papaiz,54,SAO PAULO,BRA,00:52:14,02:52:24,02:06:13,00:03:54,00:03:41,05:58:26
+ironman-70.3-miami-20161023.csv,351,Dan Prasatthong,50,FL,USA,01:12:39,02:54:18,02:36:15,00:05:08,00:03:44,DNF
+ironman-70.3-miami-20161023.csv,352,Maria Pabon,29,TX,COL,00:42:55,02:46:02,02:01:29,00:02:26,00:02:23,05:35:15
+ironman-70.3-miami-20161023.csv,353,Mario Alcala,47,ATLANTICO,COL,00:54:31,02:46:38,02:20:26,00:03:15,00:04:44,06:09:34
+ironman-70.3-miami-20161023.csv,354,Raul Arratia,47,---,CHL,00:44:05,02:44:22,02:18:11,00:02:56,00:03:14,05:52:48
+ironman-70.3-miami-20161023.csv,355,Marc Bisseck,46,GA,USA,00:45:28,02:35:25,02:17:43,00:02:30,00:03:04,05:44:10
+ironman-70.3-miami-20161023.csv,356,Pablo Emilio Brunelli,46,Intl State,ARG,00:38:29,02:21:08,01:32:26,00:01:29,00:02:21,04:35:53
+ironman-70.3-miami-20161023.csv,357,Mick Cornes,48,Cheshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,358,Alexander Geiss,47,---,DEU,00:52:58,02:53:02,02:50:47,00:05:12,00:06:01,06:48:00
+ironman-70.3-miami-20161023.csv,359,Jeffrey Hersh,45,FL,USA,01:04:03,03:10:30,02:15:13,00:05:02,00:04:47,06:39:35
+ironman-70.3-miami-20161023.csv,360,Branislav Kusik,44,Slovakia,SVK,00:52:06,02:45:31,02:24:06,00:05:04,00:05:45,06:12:32
+ironman-70.3-miami-20161023.csv,361,Pascal Larifla,46,Guadeloupe,GLP,---,---,---,---,---,DQ
+ironman-70.3-miami-20161023.csv,362,Mike Melville,48,FL,USA,00:41:51,02:30:27,02:02:44,00:02:29,00:03:14,05:20:45
+ironman-70.3-miami-20161023.csv,363,John Oldfield,49,TX,GBR,00:56:37,02:45:26,02:00:46,00:02:15,00:03:04,05:48:08
+ironman-70.3-miami-20161023.csv,364,Juan Pablo Pelaez,46,GA,USA,01:01:14,02:39:18,01:45:23,00:02:41,00:04:04,05:32:40
+ironman-70.3-miami-20161023.csv,365,Paulo Santos,45,CO,USA,00:46:24,02:52:03,01:50:38,00:03:07,00:02:50,05:35:02
+ironman-70.3-miami-20161023.csv,366,Robin Svendsen,48,---,DNK,00:50:11,02:45:53,02:06:14,00:03:54,00:04:44,05:50:56
+ironman-70.3-miami-20161023.csv,367,Fernando Villamarin,48,Intl State,ARG,00:40:11,02:53:13,01:56:29,00:02:34,00:02:34,05:35:01
+ironman-70.3-miami-20161023.csv,368,Dorte Carlsson,38,---,DNK,00:52:10,02:45:37,01:54:53,00:02:18,00:02:42,05:37:40
+ironman-70.3-miami-20161023.csv,369,Caroline Delplanque,37,---,FRA,00:42:02,02:37:59,01:56:48,00:02:03,00:02:32,05:21:24
+ironman-70.3-miami-20161023.csv,370,Stephanie Berger,34,---,CHE,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,371,Silver Deutch,31,FL,USA,00:38:24,---,---,00:02:36,---,DNF
+ironman-70.3-miami-20161023.csv,372,Hannah Freeman,34,MA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,373,Elizabeth Nyitray,34,GA,DOM,00:37:54,02:30:19,01:42:43,00:01:37,00:02:04,04:54:37
+ironman-70.3-miami-20161023.csv,374,Brenda Schaupp,34,altagracia,DOM,00:37:50,02:34:45,01:45:37,00:01:30,00:01:55,05:01:37
+ironman-70.3-miami-20161023.csv,375,Kathryn Van Besien,34,TX,USA,00:43:51,03:09:16,02:08:28,00:02:56,00:02:57,06:07:28
+ironman-70.3-miami-20161023.csv,376,Ezequiel Abad,42,Buenos aires,ARG,00:50:20,02:36:18,---,00:02:42,---,DNF
+ironman-70.3-miami-20161023.csv,377,Roberto Aguilo,40,PR,PRI,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,378,Carsten Becker,39,FL,DEU,00:55:00,02:35:47,01:58:45,00:02:51,00:02:43,05:35:06
+ironman-70.3-miami-20161023.csv,379,Christian Cabrera,41,Intl State,ARG,00:41:18,02:30:30,01:35:47,00:01:52,00:01:49,04:51:16
+ironman-70.3-miami-20161023.csv,380,Felipe Calderon,44,---,CHL,00:50:14,02:34:00,01:58:09,00:02:09,00:02:49,05:27:21
+ironman-70.3-miami-20161023.csv,381,George Damyanidis,42,VA,USA,00:36:06,02:55:39,02:37:40,00:04:05,00:05:22,06:18:52
+ironman-70.3-miami-20161023.csv,382,Hugo Fujisawa,40,Sao Paulo,BRA,00:46:02,---,---,00:02:11,---,DNF
+ironman-70.3-miami-20161023.csv,383,Manuel Herrera,44,---,MEX,00:33:19,02:37:43,01:47:11,00:01:41,00:02:33,05:02:27
+ironman-70.3-miami-20161023.csv,384,Michael Kanaby,42,NC,USA,01:00:08,03:00:29,02:41:54,00:03:58,00:05:19,06:51:48
+ironman-70.3-miami-20161023.csv,385,Mattias Lidgren,44,---,SWE,01:03:42,02:46:45,02:04:31,00:03:33,00:03:47,06:02:18
+ironman-70.3-miami-20161023.csv,386,Marcelo Menezes,44,São Paulo,BRA,00:45:17,02:46:49,02:08:40,00:05:48,00:05:32,05:52:06
+ironman-70.3-miami-20161023.csv,387,Reinaldo Rangel,41,FL,VEN,00:43:41,02:53:03,---,00:02:44,00:03:18,DNF
+ironman-70.3-miami-20161023.csv,388,Ezequiel Rodriguez,42,altagracia,DOM,00:40:09,02:28:14,01:46:33,00:01:37,00:02:00,04:58:33
+ironman-70.3-miami-20161023.csv,389,Andres Rojas,44,GA,USA,00:46:57,02:27:09,02:21:03,00:01:59,00:02:50,05:39:58
+ironman-70.3-miami-20161023.csv,390,Karlis Salijums,41,Riga,LVA,01:05:16,02:47:27,02:17:12,00:03:29,00:03:09,06:16:33
+ironman-70.3-miami-20161023.csv,391,Camilo Taveras,44,Distrito Nacional,DOM,00:52:26,02:53:16,02:26:53,00:02:46,00:03:55,06:19:16
+ironman-70.3-miami-20161023.csv,392,Omar Warraiat,43,FL,USA,00:51:16,02:51:23,02:11:32,00:02:22,00:02:05,05:58:38
+ironman-70.3-miami-20161023.csv,393,Christian Farrach,28,FL,USA,00:40:41,02:28:20,01:51:36,00:02:26,00:02:09,05:05:12
+ironman-70.3-miami-20161023.csv,394,Howard Glass,75,FL,USA,01:29:36,---,---,---,---,DNF
+ironman-70.3-miami-20161023.csv,395,Ben Wilson,30,CO,USA,00:34:00,02:26:41,01:43:31,00:01:31,00:02:03,04:47:46
+ironman-70.3-miami-20161023.csv,409,Marcia Almeida,45,Santa Catarina,BRA,00:49:46,02:43:00,01:54:16,00:03:21,00:02:38,05:33:01
+ironman-70.3-miami-20161023.csv,410,Clara Amore,49,FL,USA,00:54:07,03:28:18,02:25:27,00:02:52,00:02:37,06:53:21
+ironman-70.3-miami-20161023.csv,411,Michelle Antunez,45,FL,USA,00:54:44,03:06:43,02:24:21,00:04:13,00:03:27,06:33:28
+ironman-70.3-miami-20161023.csv,412,Dawn Aultman,46,MS,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,413,Sophie Beaufils-Lédée,46,guadeloupe,GLP,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,414,Jo Ann Bennett,45,NY,USA,01:01:05,03:21:11,02:12:40,00:03:49,00:05:58,06:44:43
+ironman-70.3-miami-20161023.csv,415,Kristi Bennett,47,NC,USA,01:07:51,03:02:59,02:35:54,00:04:57,00:04:23,06:56:04
+ironman-70.3-miami-20161023.csv,416,Jessica Briseno Cortez,45,Ciudad de México,MEX,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,417,Melanie Brock,47,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,418,Marcela Buschmann Saavedra,49,---,CHL,01:03:36,02:40:57,02:07:10,00:02:32,00:03:02,05:57:17
+ironman-70.3-miami-20161023.csv,419,Veronica Carrera,47,NY,USA,01:13:01,03:01:43,02:11:58,00:06:26,00:06:33,DNF
+ironman-70.3-miami-20161023.csv,420,Mariana Casabuono,46,Capital Federal,ARG,00:50:00,02:33:52,---,00:03:03,00:02:39,DNF
+ironman-70.3-miami-20161023.csv,421,Joelle Chicoine,48,---,GLP,01:01:30,03:00:04,01:58:42,00:03:45,00:04:10,06:08:11
+ironman-70.3-miami-20161023.csv,422,Crystal Coleman,49,FL,USA,01:06:36,03:20:29,02:24:29,00:04:00,00:04:20,06:59:54
+ironman-70.3-miami-20161023.csv,423,Tamera Connelly,49,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,424,Ma Eugenia Cordero Vieyra,45,mexico df,MEX,01:00:39,03:33:04,02:48:38,00:03:18,00:04:15,07:29:54
+ironman-70.3-miami-20161023.csv,425,Zilmara Correia,48,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,426,Roula Dongas,46,ON,CAN,01:02:23,03:08:36,02:16:19,00:06:59,00:05:46,06:40:03
+ironman-70.3-miami-20161023.csv,427,Nicole Donovan,48,CT,USA,00:57:58,03:41:33,03:05:03,00:13:03,00:19:03,08:16:40
+ironman-70.3-miami-20161023.csv,428,Jill Dowling,48,IL,USA,00:54:52,03:04:17,02:52:56,00:08:56,00:13:26,07:14:27
+ironman-70.3-miami-20161023.csv,429,Lynette Estrada,45,FL,USA,01:03:04,03:25:41,02:48:55,00:05:37,00:08:28,07:31:45
+ironman-70.3-miami-20161023.csv,430,Anne-Paule Ferrer,46,FR,FRA,00:51:06,02:52:03,02:22:24,00:03:17,00:03:30,06:12:20
+ironman-70.3-miami-20161023.csv,431,Florence Lopes,47,Amazonas,BRA,01:14:02,03:27:29,02:58:34,00:04:30,00:05:07,DNF
+ironman-70.3-miami-20161023.csv,432,Maria Eugenia Godoy,45,Mendoza,ARG,01:15:23,02:46:24,01:57:00,00:04:54,00:04:26,DNF
+ironman-70.3-miami-20161023.csv,433,Arielle Granet,46,CA,FRA,00:59:56,02:55:39,02:19:38,00:05:11,00:04:07,06:24:31
+ironman-70.3-miami-20161023.csv,434,Isabelle Grenier,46,QC,CAN,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,435,Christy Haagsma,45,NC,USA,01:01:49,03:11:47,02:54:04,00:05:20,00:08:39,07:21:39
+ironman-70.3-miami-20161023.csv,436,Fernanda Peduti Halah,44,Intl State,BRA,00:53:35,02:54:10,01:50:56,00:03:48,00:05:38,05:48:07
+ironman-70.3-miami-20161023.csv,437,Cheryl Hall,47,IL,USA,00:50:50,02:55:33,02:10:05,00:03:21,00:04:54,06:04:43
+ironman-70.3-miami-20161023.csv,438,Nelly Hernandez,48,TX,USA,01:05:32,02:52:43,02:12:01,00:03:27,00:02:39,06:16:22
+ironman-70.3-miami-20161023.csv,439,Marisol Hidalgo,47,FL,USA,01:04:47,03:15:27,02:21:49,00:03:21,00:03:04,06:48:28
+ironman-70.3-miami-20161023.csv,440,Caroline Hoppe,48,---,DEU,00:53:18,03:07:47,02:57:37,00:02:40,00:05:05,07:06:27
+ironman-70.3-miami-20161023.csv,441,Jana Ireijo,48,CT,USA,00:58:21,03:28:49,02:22:37,00:04:28,00:03:40,06:57:55
+ironman-70.3-miami-20161023.csv,442,Luz Jaramillo,45,TX,COL,01:16:16,03:38:58,02:55:47,00:07:47,00:08:43,DNF
+ironman-70.3-miami-20161023.csv,443,Ami Kanaby,45,NC,USA,01:42:23,03:21:21,02:41:55,00:04:06,00:06:03,DNF
+ironman-70.3-miami-20161023.csv,444,Gabriela Kovacs,48,CABA,ARG,00:55:43,02:46:14,02:13:33,00:04:15,00:04:47,06:04:32
+ironman-70.3-miami-20161023.csv,445,Kristy D.P. Le,45,DC,VNM,01:10:32,03:19:27,02:40:50,00:07:01,00:07:18,DNF
+ironman-70.3-miami-20161023.csv,446,Jacqueline Lepire,48,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,447,Grace Manger,48,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,448,Jose Carlos Martin,45,FL,USA,00:59:18,03:09:04,02:28:40,00:04:11,00:04:06,06:45:19
+ironman-70.3-miami-20161023.csv,449,Cheryl Mcmurray,48,VA,USA,00:44:46,02:39:11,01:53:26,00:02:04,00:02:33,05:22:00
+ironman-70.3-miami-20161023.csv,450,Suleica Melow,48,FL,USA,01:01:40,03:14:08,02:11:23,00:04:12,00:03:47,06:35:10
+ironman-70.3-miami-20161023.csv,451,Andrea Mohnsame,48,---,DEU,01:11:24,02:53:56,02:06:06,00:02:34,00:05:37,DNF
+ironman-70.3-miami-20161023.csv,452,Rowena Mulholland,49,ON,CAN,00:54:41,03:19:07,03:15:22,00:04:07,00:04:53,07:38:10
+ironman-70.3-miami-20161023.csv,453,Tania Murciano,48,FL,USA,00:54:48,02:58:46,02:06:20,00:03:48,00:05:03,06:08:45
+ironman-70.3-miami-20161023.csv,454,Kimberley Mutch,44,ON,CAN,00:51:37,03:05:10,02:54:29,00:04:53,00:06:35,07:02:44
+ironman-70.3-miami-20161023.csv,455,Kathryn Myers,49,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,456,Irene Nieves,47,PR,USA,00:58:54,03:40:35,02:45:18,00:03:02,00:04:38,07:32:27
+ironman-70.3-miami-20161023.csv,457,Tiina Ojanpera,49,Finland,FIN,00:52:16,03:14:01,02:26:36,00:05:49,00:04:39,06:43:21
+ironman-70.3-miami-20161023.csv,458,Laura Reed,45,NC,USA,00:51:28,03:16:08,02:12:28,00:02:37,00:04:06,06:26:47
+ironman-70.3-miami-20161023.csv,459,Nadia Rieben,45,CH,ZAF,00:54:22,03:18:19,02:09:36,00:03:01,00:03:57,06:29:15
+ironman-70.3-miami-20161023.csv,460,Debra Robenhymer,47,FL,USA,00:48:56,03:23:46,01:54:19,00:02:32,00:03:08,06:12:41
+ironman-70.3-miami-20161023.csv,461,Luisanna Rodriguez,46,FL,USA,00:44:34,02:57:00,02:07:58,00:03:37,00:02:34,05:55:43
+ironman-70.3-miami-20161023.csv,462,Sharon Roman,46,GA,USA,01:08:42,03:08:30,02:08:56,00:02:32,00:04:10,06:32:50
+ironman-70.3-miami-20161023.csv,463,Loreto Santa Cruz,47,---,CHL,00:59:21,03:10:05,02:23:36,00:03:01,00:02:58,06:39:01
+ironman-70.3-miami-20161023.csv,464,Hellois Scheeres,45,MO,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,465,Keli Scott-Ciota,46,NY,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,466,Maria Sentmanat,45,FL,USA,01:26:11,03:16:41,02:29:27,00:02:12,00:02:43,DNF
+ironman-70.3-miami-20161023.csv,467,Calina Snyder,48,GA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,468,Joanne St-Pierre,44,NB,CAN,00:54:01,03:05:49,02:29:38,00:03:49,00:04:35,06:37:52
+ironman-70.3-miami-20161023.csv,469,Sharon Timpke,48,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,470,Silvia Toma,48,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,471,sophie yergeau,49,QC,CAN,00:38:44,03:02:36,02:08:58,00:02:55,00:04:16,05:57:29
+ironman-70.3-miami-20161023.csv,472,Alejandra Paula Aimale,51,CORDOBA,ARG,00:54:50,03:06:00,02:43:32,00:03:48,00:04:22,06:52:32
+ironman-70.3-miami-20161023.csv,473,Chantal Albert,51,QC,CAN,00:50:44,02:46:08,02:15:11,00:02:16,00:02:36,05:56:55
+ironman-70.3-miami-20161023.csv,474,Nathalie Apchin,51,MA,FRA,01:04:14,03:23:30,02:19:07,00:04:28,00:02:51,06:54:10
+ironman-70.3-miami-20161023.csv,475,Maria Ayala,52,Buenos Aires,ARG,01:02:44,03:04:41,02:35:06,00:02:46,00:03:34,06:48:51
+ironman-70.3-miami-20161023.csv,476,Andrea Clemens,49,FL,USA,01:04:03,03:41:15,02:33:09,00:03:58,00:05:24,07:27:49
+ironman-70.3-miami-20161023.csv,477,Lisa Conn,52,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,478,Taz Elizabeth Davis,52,FL,USA,01:08:42,03:06:04,02:18:59,00:08:12,00:06:53,06:48:50
+ironman-70.3-miami-20161023.csv,479,Victoria Fuentes,52,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,480,Teresa Gadient,53,FL,USA,00:52:55,03:32:27,02:23:25,00:02:52,00:03:01,06:54:40
+ironman-70.3-miami-20161023.csv,481,Marci Glotzer,50,NY,---,01:30:50,03:40:26,03:01:22,00:06:59,00:05:51,DNF
+ironman-70.3-miami-20161023.csv,482,Carolina Goin,50,buenos aires,ARG,00:50:30,03:05:28,02:16:56,00:03:26,00:02:38,06:18:58
+ironman-70.3-miami-20161023.csv,483,Lisa Harrison,52,AL,USA,00:48:08,02:40:54,---,00:02:48,00:05:29,DNF
+ironman-70.3-miami-20161023.csv,484,Michelle Hooper,52,Québec,CAN,01:05:13,03:03:12,02:14:49,00:02:50,00:03:00,06:29:04
+ironman-70.3-miami-20161023.csv,485,Suzanne Jack,49,ME,USA,00:58:23,03:08:57,02:31:50,00:03:44,00:04:59,06:47:53
+ironman-70.3-miami-20161023.csv,486,Anita Jain,50,---,ANT,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,487,Christina Kaufmann,51,ON,CAN,00:52:20,02:57:58,02:38:30,00:03:05,00:03:23,06:35:16
+ironman-70.3-miami-20161023.csv,488,Susan Kooiman,52,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,489,Nathalie Kylander,50,MA,USA,01:04:13,03:22:59,02:29:50,00:04:40,00:03:29,07:05:11
+ironman-70.3-miami-20161023.csv,490,Debra Lazaro (Mcvey),53,ON,CAN,00:57:46,03:00:29,02:17:22,00:03:19,00:03:06,06:22:02
+ironman-70.3-miami-20161023.csv,491,Andrea Leber,52,VA,USA,00:47:56,02:52:02,01:50:15,00:02:04,00:02:17,05:34:34
+ironman-70.3-miami-20161023.csv,492,Gabriela Maceda González,51,---,MEX,01:04:30,03:35:29,02:58:40,00:05:44,00:05:31,07:49:54
+ironman-70.3-miami-20161023.csv,493,Ivana Malczewski,54,paraná,BRA,00:54:47,03:25:12,02:35:41,00:04:16,00:03:40,07:03:36
+ironman-70.3-miami-20161023.csv,494,Shari Matzelle,51,IL,USA,01:03:53,03:17:29,02:55:58,00:03:39,00:03:51,07:24:50
+ironman-70.3-miami-20161023.csv,495,Terry Mcnamara,52,ON,CAN,01:25:20,04:01:26,03:07:09,00:06:52,00:07:09,DNF
+ironman-70.3-miami-20161023.csv,496,Monica Nofal,52,Buenos Aires,ARG,00:42:21,02:44:09,02:07:30,00:03:25,00:02:43,05:40:08
+ironman-70.3-miami-20161023.csv,497,Bente Norlyk-Goulding,54,---,DNK,00:59:40,02:54:36,01:58:10,00:04:51,00:06:15,06:03:32
+ironman-70.3-miami-20161023.csv,498,Sharon Robertson,50,VA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,499,Marja Romu,51,Finland,FIN,01:00:43,03:10:19,02:44:00,00:05:44,00:05:36,07:06:22
+ironman-70.3-miami-20161023.csv,500,Claudia Samayoa,53,el salvador,---,00:49:02,02:46:58,01:45:12,00:03:48,00:02:15,05:27:15
+ironman-70.3-miami-20161023.csv,501,Christy Sneddon,53,ON,CAN,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,502,Sandra Sutherland,54,TX,USA,00:51:34,03:03:57,02:20:11,00:03:56,00:03:46,06:23:24
+ironman-70.3-miami-20161023.csv,503,Alesia Thon,50,AK,USA,01:14:23,04:05:57,01:10:15,00:04:00,00:04:56,DNF
+ironman-70.3-miami-20161023.csv,504,Barbara Venneman,52,CA,USA,00:57:43,03:07:48,02:24:34,00:03:39,00:03:18,06:37:02
+ironman-70.3-miami-20161023.csv,505,Madeleine Vergauwen,51,FL,BEL,00:48:15,02:43:16,01:49:34,00:02:46,00:02:21,05:26:12
+ironman-70.3-miami-20161023.csv,506,Daniela Wolodarsky,52,c.a.b.a.,ARG,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,507,Nanci York,52,ON,CAN,01:03:19,03:10:47,02:07:25,00:03:45,00:04:45,06:30:01
+ironman-70.3-miami-20161023.csv,508,Melinda Bernstein,58,MD,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,509,Lucy Danziger,56,NY,USA,00:51:58,03:00:09,03:12:37,00:02:22,00:03:09,07:10:15
+ironman-70.3-miami-20161023.csv,510,Maria Frosth,55,FL,USA,01:12:38,03:46:42,03:09:05,00:07:43,00:03:48,DNF
+ironman-70.3-miami-20161023.csv,511,Gayle Guerra,59,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,512,Carmen Lotti,56,FL,USA,01:09:59,03:04:10,03:02:12,00:03:17,00:03:07,07:22:45
+ironman-70.3-miami-20161023.csv,513,elisete rollo,57,São Paulo,BRA,00:56:56,03:05:31,02:33:31,00:03:01,00:03:49,06:42:48
+ironman-70.3-miami-20161023.csv,514,Erica Rubenstein,58,MD,USA,01:00:20,02:54:57,02:06:08,00:02:17,00:02:54,06:06:36
+ironman-70.3-miami-20161023.csv,515,Karen Schroeder,55,CO,USA,01:04:15,03:27:09,02:45:55,00:04:33,00:07:37,07:29:29
+ironman-70.3-miami-20161023.csv,516,Erica Szilagyi-Norgart,56,FL,USA,00:56:42,02:51:37,02:09:26,00:02:45,00:02:58,06:03:28
+ironman-70.3-miami-20161023.csv,517,Lorena Toriello,57,Guatemala,GTM,00:52:58,03:00:45,02:01:52,00:03:45,00:02:36,06:01:56
+ironman-70.3-miami-20161023.csv,518,Cynthia Butts,61,FL,USA,01:09:06,03:24:35,02:49:05,00:07:32,00:11:51,07:42:09
+ironman-70.3-miami-20161023.csv,519,Charlotte Chenoweth,61,FL,USA,01:01:29,04:24:56,03:34:00,00:04:25,00:05:59,DNF
+ironman-70.3-miami-20161023.csv,520,Merry Duncan,60,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,521,Sheila Gandji,62,MD,USA,00:57:41,04:08:40,03:31:09,00:04:20,00:06:18,DNF
+ironman-70.3-miami-20161023.csv,522,Gabriela Lattes,63,Buenos Aires,ARG,01:07:32,03:26:04,02:40:19,00:05:35,00:08:08,07:27:38
+ironman-70.3-miami-20161023.csv,523,Marcia Oliveira,63,Sao Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,524,Lois Polesky-Rizzo,62,FL,USA,01:26:46,03:10:21,02:35:18,00:04:34,00:05:14,DNF
+ironman-70.3-miami-20161023.csv,525,Kathleen Richards,63,MA,USA,00:54:15,02:53:26,02:00:50,00:02:50,00:02:55,05:54:16
+ironman-70.3-miami-20161023.csv,526,Tania Salazar,60,Estado de México,MEX,00:54:26,03:46:48,02:25:48,00:03:37,00:05:19,07:15:58
+ironman-70.3-miami-20161023.csv,527,Maria Piaggio,65,---,ARG,01:03:34,03:13:52,02:42:54,00:04:44,00:05:04,07:10:08
+ironman-70.3-miami-20161023.csv,528,Luise Easton,77,OH,USA,01:03:27,04:06:49,03:54:34,00:04:19,00:04:41,DNF
+ironman-70.3-miami-20161023.csv,529,Mimi Chen,40,NY,USA,01:12:09,03:22:33,03:07:07,00:04:40,00:05:05,DNF
+ironman-70.3-miami-20161023.csv,530,Valerie Acosta,41,NJ,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,531,Gabriela Albert,41,Intl State,URY,01:16:06,03:52:01,02:51:33,00:07:32,00:09:08,DNF
+ironman-70.3-miami-20161023.csv,532,Vanusa Alberti,40,Parana,BRA,00:48:17,02:41:08,01:37:37,00:03:11,00:02:38,05:12:51
+ironman-70.3-miami-20161023.csv,533,Paola Marcela Aldisone,40,chubut,ARG,00:49:28,02:45:38,01:57:54,00:02:59,00:02:45,05:38:44
+ironman-70.3-miami-20161023.csv,534,Maria Alvarado,42,FL,USA,00:50:58,03:13:00,02:19:24,00:03:31,00:02:46,06:29:39
+ironman-70.3-miami-20161023.csv,535,Samantha Armstrong,39,ON,CAN,01:06:03,03:33:12,03:12:40,00:03:58,00:06:13,08:02:06
+ironman-70.3-miami-20161023.csv,536,Veronica Arriagada,44,---,CHL,00:46:01,02:41:44,02:04:23,00:02:56,00:02:42,05:37:46
+ironman-70.3-miami-20161023.csv,537,Nichole Atkinson,44,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,538,Jen Baron,40,TX,USA,00:46:24,02:51:03,---,00:03:36,00:06:54,DNF
+ironman-70.3-miami-20161023.csv,539,Kara Baxter,41,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,540,Amanda Benzion,43,Amazonas,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,541,Alessandra Bibas Centa,44,Intl State,BRA,00:52:30,02:59:34,02:30:12,00:04:46,00:04:04,06:31:06
+ironman-70.3-miami-20161023.csv,542,Marie-josee Bouchard,---,QC,CAN,00:45:13,03:17:20,02:12:28,00:04:33,00:05:40,06:25:14
+ironman-70.3-miami-20161023.csv,543,Katherine Bowers,43,NP,BHS,00:44:56,03:38:58,02:16:05,00:03:08,00:04:26,06:47:33
+ironman-70.3-miami-20161023.csv,544,Julie Broadhurst,43,FL,GBR,01:03:19,03:10:45,02:33:01,00:06:37,00:05:34,06:59:16
+ironman-70.3-miami-20161023.csv,545,Michelle Calabrano,41,---,CHL,00:57:53,03:19:42,02:05:05,00:04:09,00:03:34,06:30:23
+ironman-70.3-miami-20161023.csv,546,Maria Campos,43,Rio de Janeiro,BRA,01:07:56,03:27:59,02:22:27,00:03:15,00:04:44,07:06:21
+ironman-70.3-miami-20161023.csv,547,Ana Lucia Cantor Gomez,40,Valle del cauca,COL,00:57:32,03:08:16,02:26:44,00:03:14,00:05:08,06:40:54
+ironman-70.3-miami-20161023.csv,548,Nathalie Carby,42,FL,ARM,00:41:26,03:41:49,02:43:25,00:03:45,00:05:27,07:15:52
+ironman-70.3-miami-20161023.csv,549,Sara Carneiro Parrode,42,NY,PRT,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,550,Nicole Cartier,41,IL,USA,00:43:28,03:16:39,02:25:19,00:03:31,00:03:03,06:32:00
+ironman-70.3-miami-20161023.csv,551,Lorena Casabuono,42,buenos aires,ARG,---,---,---,---,---,DQ
+ironman-70.3-miami-20161023.csv,552,Maryline Chailleux,43,GUADELOUPE,GLP,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,553,Victoria Chia,43,CA,USA,00:55:39,02:51:28,02:28:03,00:03:06,00:05:11,06:23:27
+ironman-70.3-miami-20161023.csv,554,Sarah Chien,42,FL,USA,00:47:21,02:57:01,02:26:19,00:03:06,00:03:07,06:16:54
+ironman-70.3-miami-20161023.csv,555,Valerie Cloutier,43,QC,CAN,01:10:17,03:19:30,02:11:43,00:03:49,00:06:05,DNF
+ironman-70.3-miami-20161023.csv,556,Denise Cotton,41,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,557,Raquel Courtade,42,BUENOS AIRES ,ARG,00:58:53,02:42:46,03:05:31,00:03:20,00:03:07,06:53:37
+ironman-70.3-miami-20161023.csv,558,Giovanna Craveiro-Setaro,41,CT,USA,00:47:18,03:27:50,02:20:53,00:03:21,00:04:00,06:43:22
+ironman-70.3-miami-20161023.csv,559,Melissa Critz,42,GA,USA,00:46:37,03:23:40,02:57:47,00:02:51,00:04:16,07:15:11
+ironman-70.3-miami-20161023.csv,560,Jackie Deutscher,41,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,561,Alyssa Dodson,41,Grand Cayman,CAN,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,562,Lenaic Donart,41,---,FRA,00:59:06,03:18:37,02:30:36,00:03:57,00:04:30,06:56:46
+ironman-70.3-miami-20161023.csv,563,Hope Dunlap,41,NC,USA,00:52:43,02:56:44,02:10:57,00:04:05,00:04:17,06:08:46
+ironman-70.3-miami-20161023.csv,564,Kira Faenger,42,---,DEU,01:09:06,03:13:10,02:36:41,00:04:23,00:04:30,07:07:50
+ironman-70.3-miami-20161023.csv,565,Lorena Farina,39,argentina,ARG,00:44:17,02:33:44,01:44:50,00:02:00,00:01:55,05:06:46
+ironman-70.3-miami-20161023.csv,566,Camila Ferreira,40,FL,ITA,01:20:45,03:53:59,03:52:20,00:06:43,00:06:55,DNF
+ironman-70.3-miami-20161023.csv,567,T Frison,44,NC,USA,02:09:20,02:31:58,02:55:22,00:07:07,00:07:27,DNF
+ironman-70.3-miami-20161023.csv,568,Leila Gallego,40,Chubut,ARG,00:46:32,02:51:39,02:10:22,00:02:54,00:02:45,05:54:12
+ironman-70.3-miami-20161023.csv,569,Jenifer Genie,40,FL,USA,01:09:34,03:05:43,02:41:47,00:04:59,00:05:41,07:07:44
+ironman-70.3-miami-20161023.csv,570,Christine Gibbs,43,TX,USA,01:09:42,03:51:51,03:09:51,00:09:28,00:06:02,08:26:54
+ironman-70.3-miami-20161023.csv,571,Alexandra Gomez,41,FL,USA,00:53:13,03:18:01,02:29:02,00:03:27,00:04:30,06:48:13
+ironman-70.3-miami-20161023.csv,572,Ma. Fabiana González,44,Río Negro,ARG,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,573,Anke Graichen,40,FL,DEU,00:49:52,03:25:05,02:20:00,00:04:41,00:04:01,06:43:39
+ironman-70.3-miami-20161023.csv,574,Daniela Granier,43,Montevideo,BOL,01:00:36,03:23:16,02:26:22,00:06:38,00:09:57,07:06:49
+ironman-70.3-miami-20161023.csv,575,Gloria Gross,41,FL,USA,00:51:37,03:26:31,02:25:07,00:03:16,00:03:12,06:49:43
+ironman-70.3-miami-20161023.csv,576,Merete Halvorsroed,44,---,NOR,00:56:47,03:29:39,02:28:39,00:05:08,00:05:30,07:05:43
+ironman-70.3-miami-20161023.csv,577,Stefany Hanau,44,MEXICO CITY,MEX,00:51:42,03:21:48,02:34:29,00:04:20,00:03:49,06:56:08
+ironman-70.3-miami-20161023.csv,578,Isabelle Hayes,40,QC,CAN,01:02:59,03:25:22,02:43:21,00:05:32,00:07:15,07:24:29
+ironman-70.3-miami-20161023.csv,579,Patricia Holland,42,VA,USA,00:45:58,02:58:39,01:57:48,00:02:18,00:03:20,05:48:03
+ironman-70.3-miami-20161023.csv,580,Leigh Anne Jacques,41,ON,CAN,00:53:41,03:35:45,02:19:14,00:04:37,00:06:47,07:00:04
+ironman-70.3-miami-20161023.csv,581,Marcela Jaramillo,43,TX,USA,00:44:36,02:52:30,01:43:37,00:03:39,00:02:31,05:26:53
+ironman-70.3-miami-20161023.csv,582,Diane Kaeser,39,IN,USA,00:49:43,02:51:21,02:20:42,00:02:50,00:03:48,06:08:24
+ironman-70.3-miami-20161023.csv,583,Aleksandra Karolak,40,FL,USA,01:17:50,03:32:19,02:47:20,00:08:28,00:11:03,DNF
+ironman-70.3-miami-20161023.csv,584,Elizabeth Kates,41,MA,USA,00:45:42,02:51:45,01:48:41,00:02:35,00:02:26,05:31:09
+ironman-70.3-miami-20161023.csv,585,Carla Lavini,40,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,586,Frederique Lesponne Bansard,40,FR,FRA,00:53:30,03:38:33,02:30:55,00:06:35,00:07:10,07:16:43
+ironman-70.3-miami-20161023.csv,587,Anja Lidgren Hannerz,41,---,SWE,01:01:15,03:03:19,02:10:00,00:04:19,00:04:20,06:23:13
+ironman-70.3-miami-20161023.csv,588,Mariela Livi,39,Buenos Aires,ARG,00:45:10,03:10:44,02:26:13,00:03:02,00:02:47,06:27:56
+ironman-70.3-miami-20161023.csv,589,Isabel Lundeberg,42,FL,DEU,01:19:38,03:00:10,02:06:50,00:02:33,00:02:43,DNF
+ironman-70.3-miami-20161023.csv,590,Martina Maggi,41,BUENOS AIRES,ARG,00:51:18,03:22:41,02:47:02,00:02:56,00:04:31,07:08:28
+ironman-70.3-miami-20161023.csv,591,Mary Maka,41,GA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,592,Roberta Martusciello,42,---,ITA,00:56:25,02:57:45,02:11:46,00:03:05,00:04:06,06:13:07
+ironman-70.3-miami-20161023.csv,593,Lorney Matamales,40,FL,USA,00:50:46,03:13:09,02:30:56,00:03:26,00:02:53,06:41:10
+ironman-70.3-miami-20161023.csv,594,Sheri Mazzella,44,ON,CAN,00:46:43,02:44:17,01:59:47,00:02:19,00:02:52,05:35:58
+ironman-70.3-miami-20161023.csv,595,Marie-Josee Menard,42,QC,CAN,00:57:28,03:10:14,02:30:07,00:03:45,00:04:28,06:46:02
+ironman-70.3-miami-20161023.csv,596,Adriana Mujica,40,---,VEN,01:01:21,02:58:21,02:12:01,00:02:46,00:04:29,06:18:58
+ironman-70.3-miami-20161023.csv,597,Christy Musgrove,41,GA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,598,Aissa Ovalles,44,FL,USA,00:45:23,03:10:27,02:30:21,00:05:00,00:06:22,06:37:33
+ironman-70.3-miami-20161023.csv,599,Kelly Pinckard,40,NC,USA,00:44:28,03:09:10,03:12:40,00:03:45,00:06:42,07:16:45
+ironman-70.3-miami-20161023.csv,600,Allison Polender,42,FL,USA,00:55:25,03:20:29,02:44:04,00:03:28,00:05:40,07:09:06
+ironman-70.3-miami-20161023.csv,601,Mayte Ponzanelli,40,Distrito Federal,MEX,00:59:11,03:35:01,02:43:15,00:04:36,00:04:38,07:26:41
+ironman-70.3-miami-20161023.csv,602,Gabriela Rego,43,FL,USA,00:55:07,03:45:15,02:35:12,00:03:12,00:06:32,07:25:18
+ironman-70.3-miami-20161023.csv,603,Kacey Reid,41,MD,USA,01:15:26,04:28:13,03:09:48,00:05:35,00:07:30,DNF
+ironman-70.3-miami-20161023.csv,604,Adriana R,43,FL,USA,00:42:08,03:32:49,02:27:16,00:06:16,00:04:14,06:52:43
+ironman-70.3-miami-20161023.csv,605,Maggie Rodriguez,44,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,606,Kathie Sanderson Morgan,40,PE,ANT,00:43:12,02:36:40,02:02:16,00:04:44,00:04:44,05:31:36
+ironman-70.3-miami-20161023.csv,607,Sue Scott,43,AK,AND,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,608,Kami Trusz,---,NC,USA,01:04:39,03:10:31,02:40:13,00:03:07,00:05:10,07:03:40
+ironman-70.3-miami-20161023.csv,609,Carolina Urrechaga,40,FL,USA,01:02:10,03:09:57,02:21:34,00:04:00,00:03:17,06:40:58
+ironman-70.3-miami-20161023.csv,610,Melanie Urruela,42,Guatemala,GTM,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,611,Carolina Varela,41,---,CHL,01:03:51,03:10:10,---,00:02:43,---,DNF
+ironman-70.3-miami-20161023.csv,612,Anca Vintu,40,GA,ROU,00:53:58,03:13:57,02:19:02,00:03:44,00:04:23,06:35:04
+ironman-70.3-miami-20161023.csv,613,Kristin Von Hoerde Garijo,43,FL,USA,00:45:20,02:37:50,01:51:07,00:02:23,00:03:16,05:19:56
+ironman-70.3-miami-20161023.csv,614,Heidi Walker,40,TX,USA,01:19:07,03:00:06,02:22:20,00:03:08,00:07:22,DNF
+ironman-70.3-miami-20161023.csv,615,Aylin Willson,44,Panama,PAN,00:50:51,03:10:05,02:42:18,00:04:04,00:04:45,06:52:03
+ironman-70.3-miami-20161023.csv,616,Rebecca Wilson,40,AR,USA,00:53:37,03:47:30,02:18:35,00:03:10,00:04:44,07:07:36
+ironman-70.3-miami-20161023.csv,617,Wioletta Wyszynski,40,NJ,POL,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,618,April Young,40,TX,USA,00:59:45,02:53:48,02:14:09,00:02:41,00:02:31,06:12:54
+ironman-70.3-miami-20161023.csv,619,Cristian Alvarez,30,---,CHL,00:38:04,02:39:18,01:55:24,00:02:16,00:02:03,05:17:05
+ironman-70.3-miami-20161023.csv,620,Cristian Anderson,32,FL,CRI,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,621,Raul Andrade,31,FL,ECU,00:53:57,02:57:35,02:31:14,00:02:31,00:02:58,06:28:15
+ironman-70.3-miami-20161023.csv,622,Fernando Araujo,31,Ceará,BRA,01:00:46,03:12:24,03:11:53,00:05:11,00:09:41,07:39:55
+ironman-70.3-miami-20161023.csv,623,Jesus Arce Jaimez,32,Intl State,MEX,01:03:36,03:21:25,02:12:30,00:05:13,00:04:08,06:46:52
+ironman-70.3-miami-20161023.csv,624,Jorge Arguedas,32,guatemala,GTM,00:45:01,02:47:42,01:59:56,00:02:31,00:02:57,05:38:07
+ironman-70.3-miami-20161023.csv,625,Masaaki Arita,30,Tokyo,JPN,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,626,Luis Diego Artinano,34,SC,CRI,00:40:03,02:29:03,01:50:09,00:01:44,00:02:02,05:03:01
+ironman-70.3-miami-20161023.csv,627,Paco Aspuru,34,FL,USA,00:39:40,02:23:21,01:58:11,00:02:11,00:02:09,05:05:32
+ironman-70.3-miami-20161023.csv,628,Tomas Avila,31,CL,CHL,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,629,Mauricio Barbaglia,30,---,ARG,00:43:51,02:32:15,01:53:18,00:02:50,00:02:58,05:15:12
+ironman-70.3-miami-20161023.csv,630,Joao Barnewitz,33,Sao Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,631,Andre Batista,33,Ceara,BRA,00:39:12,02:23:31,01:35:28,00:02:12,00:01:55,04:42:18
+ironman-70.3-miami-20161023.csv,632,Roberto Becerra Quezada,33,Guayas,ECU,00:47:47,02:42:56,01:48:41,00:02:19,00:02:57,05:24:40
+ironman-70.3-miami-20161023.csv,633,David Bees,33,Grand Cayman,GBR,00:41:35,02:43:56,01:57:02,00:02:49,00:04:30,05:29:52
+ironman-70.3-miami-20161023.csv,634,Guillermo Bello,32,FL,USA,00:46:11,02:53:27,02:17:42,00:02:42,00:04:01,06:04:03
+ironman-70.3-miami-20161023.csv,635,Murillo Borelli,32,São Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,636,Tim Brandt,34,FL,USA,00:40:06,02:58:23,02:25:26,00:03:53,00:03:52,06:11:40
+ironman-70.3-miami-20161023.csv,637,Gerardo Buenfil Balmes,33,campeche,MEX,01:01:57,03:07:52,03:17:00,00:04:13,00:06:30,07:37:32
+ironman-70.3-miami-20161023.csv,638,Cristian Bustos Rodriguez,33,---,CHL,00:37:03,02:34:42,01:37:23,00:01:24,00:01:47,04:52:19
+ironman-70.3-miami-20161023.csv,639,Hazar Buyuka,32,None,TUR,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,640,Igor Diniz,30,DF,BRA,00:48:37,02:24:14,02:03:36,00:03:28,00:03:55,05:23:50
+ironman-70.3-miami-20161023.csv,641,Renan Camponez,33,CA,BRA,00:49:07,02:49:45,02:26:42,00:03:26,00:03:16,06:12:16
+ironman-70.3-miami-20161023.csv,642,Carlos Candia,33,FL,BOL,00:51:50,02:43:40,02:35:58,00:03:41,00:03:37,06:18:46
+ironman-70.3-miami-20161023.csv,643,Piero Capponi,32,---,CHL,00:40:05,02:36:37,01:43:13,00:03:10,00:02:22,05:05:27
+ironman-70.3-miami-20161023.csv,644,Javier Cardenas Traquet,34,Pichincha,ECU,00:38:47,02:57:17,02:16:46,00:03:44,00:03:10,05:59:44
+ironman-70.3-miami-20161023.csv,645,Pablo Carvajal,29,PUEBLA,MEX,00:46:57,02:51:42,02:09:46,00:02:22,00:03:15,05:54:02
+ironman-70.3-miami-20161023.csv,646,Alejo Castellazzi,32,Buenos Aires,ARG,00:39:23,02:24:54,01:38:52,00:01:31,00:01:45,04:46:25
+ironman-70.3-miami-20161023.csv,647,Gustavo Castro,32,Intl State,COL,01:02:38,02:49:48,02:16:40,00:02:45,00:02:48,06:14:39
+ironman-70.3-miami-20161023.csv,648,Carlos Marcelo Castro Cobena,33,pichincha,ECU,01:13:40,03:33:00,02:40:51,00:03:26,00:04:31,DNF
+ironman-70.3-miami-20161023.csv,649,Roberto Castro Espinal,34,cortes,HND,01:06:48,03:17:45,02:45:05,00:04:37,00:03:40,07:17:55
+ironman-70.3-miami-20161023.csv,650,Jorge Cespedes,33,Alajuela,CRI,00:59:15,02:43:30,01:39:29,00:02:13,00:02:00,05:26:27
+ironman-70.3-miami-20161023.csv,651,Ronald Chirinos,34,FL,VEN,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,652,Aaron Christiano,33,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,653,Marvin Cijntje,33,NL,NLD,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,654,Thomas Clarke,33,London,GBR,00:42:23,02:36:58,01:34:57,00:02:42,00:01:39,04:58:39
+ironman-70.3-miami-20161023.csv,655,Donald Craner,34,MI,USA,00:57:38,03:06:33,02:20:17,00:04:37,00:04:11,06:33:16
+ironman-70.3-miami-20161023.csv,656,Ben Crowther,32,FL,USA,01:05:21,03:54:42,03:03:23,00:07:14,00:07:19,08:17:59
+ironman-70.3-miami-20161023.csv,657,Juan E Da Silva,32,Miranda,VEN,00:33:46,02:41:48,02:03:08,00:02:01,00:02:26,05:23:09
+ironman-70.3-miami-20161023.csv,658,Rodrigo Da Silva,34,FL,USA,01:36:08,03:22:33,02:56:29,00:05:02,00:08:43,DNF
+ironman-70.3-miami-20161023.csv,659,Tim Dailey,30,FL,USA,00:54:14,03:34:35,03:33:47,00:06:19,00:07:16,08:16:11
+ironman-70.3-miami-20161023.csv,660,Bradley Dartez,34,TX,USA,00:43:38,02:25:36,01:43:32,00:02:01,00:02:10,04:56:57
+ironman-70.3-miami-20161023.csv,661,Antonio Raimundo De Sousa Neto,34,Free State,BRA,00:50:04,02:43:40,01:43:38,00:02:46,00:02:26,05:22:34
+ironman-70.3-miami-20161023.csv,662,Davide Domizio,30,italia,ITA,00:42:04,02:39:01,01:52:52,00:02:21,00:01:36,05:17:54
+ironman-70.3-miami-20161023.csv,663,Michael Dorchak,31,FL,USA,00:46:17,03:08:14,02:15:44,00:04:42,00:03:34,06:18:31
+ironman-70.3-miami-20161023.csv,664,Luis Duco,29,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,665,Cristian Espindola,32,---,CHL,00:41:48,02:37:11,02:03:13,00:02:11,00:02:46,05:27:09
+ironman-70.3-miami-20161023.csv,667,Eugene Evgrafov,30,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,668,Michel Falqueiro,34,Sao Paulo,BRA,01:27:18,02:49:22,02:15:51,00:03:15,00:03:35,DNF
+ironman-70.3-miami-20161023.csv,669,David Farnum,33,FL,USA,00:48:06,03:12:55,02:48:55,00:02:53,00:04:40,06:57:29
+ironman-70.3-miami-20161023.csv,670,Nicolas Fernandez Gomez,32,---,CHL,00:43:23,02:38:55,01:58:25,00:04:04,00:02:34,05:27:21
+ironman-70.3-miami-20161023.csv,671,James Ferraro,30,FL,USA,00:53:29,02:55:30,---,00:03:48,00:15:34,DNF
+ironman-70.3-miami-20161023.csv,672,Fabio Florez,34,FL,USA,01:58:36,03:19:10,02:08:27,00:04:40,00:05:55,DNF
+ironman-70.3-miami-20161023.csv,673,Guilherme Fortes,34,Intl State,BRA,00:47:13,02:54:08,02:25:22,00:03:36,00:03:30,06:13:49
+ironman-70.3-miami-20161023.csv,674,Ryan Frankel,32,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,675,Martin Fromaget,34,santa fe,ARG,01:05:19,03:03:56,02:19:22,00:02:37,00:03:15,06:34:29
+ironman-70.3-miami-20161023.csv,676,Juan Carlos Gaibor,31,Pichincha,ECU,00:55:55,02:42:43,02:09:23,00:04:13,00:02:51,05:55:05
+ironman-70.3-miami-20161023.csv,677,Alfonso George,31,FL,USA,00:48:55,02:43:31,02:00:35,00:02:15,00:03:20,05:38:36
+ironman-70.3-miami-20161023.csv,678,Gerardo Chemello,33,FL,USA,01:01:49,03:06:40,02:16:08,00:03:07,00:02:29,06:30:13
+ironman-70.3-miami-20161023.csv,679,Derek Goldsmith,30,FL,USA,00:55:11,03:19:22,02:27:25,00:04:14,00:04:06,06:50:18
+ironman-70.3-miami-20161023.csv,680,Marco Gonzalez,34,Cartago,CRI,00:52:00,02:46:11,02:00:05,00:03:00,00:03:37,05:44:53
+ironman-70.3-miami-20161023.csv,681,Andrey Gorozhankin,33,Moscow,RUS,00:47:05,02:40:24,02:09:10,00:03:04,00:03:46,05:43:29
+ironman-70.3-miami-20161023.csv,682,Douglas Gouveia,34,S. Pablo,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,683,Jeremy Greenfield,33,FL,USA,02:04:50,03:54:51,02:52:50,00:05:04,00:05:35,DNF
+ironman-70.3-miami-20161023.csv,684,Chris Gregory,30,AZ,USA,00:38:07,02:13:16,01:31:16,00:01:59,00:01:38,04:26:16
+ironman-70.3-miami-20161023.csv,685,Pablo Grippaldi,34,Entre Rios,ARG,00:46:51,02:46:05,01:53:03,00:02:36,00:03:05,05:31:40
+ironman-70.3-miami-20161023.csv,686,Cameron Grogan,31,GA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,687,Luiz Gustavo Grossi Baron,29,parana,BRA,00:42:47,02:37:41,01:53:44,00:02:49,00:02:31,05:19:32
+ironman-70.3-miami-20161023.csv,688,Jonathan Haberkorn,30,FL,USA,01:44:40,03:37:11,02:47:36,00:04:22,00:04:59,DNF
+ironman-70.3-miami-20161023.csv,689,Christopher Hamel,29,GA,USA,00:54:49,03:24:25,02:48:23,00:05:23,---,07:13:00
+ironman-70.3-miami-20161023.csv,690,Brian Hamrick,29,MS,USA,00:59:06,03:03:58,03:02:17,00:06:07,00:07:14,07:18:42
+ironman-70.3-miami-20161023.csv,691,Luis Enrique Harders,34,---,GTM,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,692,Bradley Hartman,34,FL,USA,00:36:47,02:45:30,02:26:59,00:02:39,00:04:31,05:56:26
+ironman-70.3-miami-20161023.csv,693,Nick Harty,30,FL,USA,01:08:06,02:52:30,02:49:17,00:03:16,00:04:20,06:57:29
+ironman-70.3-miami-20161023.csv,694,Brian Hayes,30,GA,USA,00:53:09,02:50:46,01:58:16,00:02:59,00:02:44,05:47:54
+ironman-70.3-miami-20161023.csv,695,Jose Herrera,32,FL,VEN,00:39:48,02:27:40,01:35:34,00:01:39,00:01:46,04:46:27
+ironman-70.3-miami-20161023.csv,696,Tobias Hohagen,32,---,DEU,00:43:55,02:23:31,01:36:09,00:01:53,00:02:20,04:47:48
+ironman-70.3-miami-20161023.csv,697,Matthew Hope,33,London,GBR,00:44:14,02:23:44,02:15:33,00:03:45,00:09:24,05:36:40
+ironman-70.3-miami-20161023.csv,698,Brad Hurwitz,34,IL,USA,01:05:00,03:00:09,02:15:32,00:03:08,00:04:29,06:28:18
+ironman-70.3-miami-20161023.csv,699,Ignacio Irigoin,31,buenos aires,ARG,00:41:18,02:35:08,02:11:02,00:02:29,00:02:22,05:32:19
+ironman-70.3-miami-20161023.csv,700,Steve Jackson,30,FL,USA,00:28:55,02:14:14,01:26:41,00:01:55,00:01:41,04:13:26
+ironman-70.3-miami-20161023.csv,701,Tyler Jarvis,31,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,702,Steven Jenkins,33,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,703,James Jennings,34,Staffordshire,GBR,00:45:50,02:29:41,01:26:50,00:02:07,00:01:46,04:46:14
+ironman-70.3-miami-20161023.csv,704,Pablo Jimenez,34,TX,USA,01:30:57,03:08:08,02:57:27,00:03:47,00:04:27,DNF
+ironman-70.3-miami-20161023.csv,705,Yean Jimenez,32,NJ,DOM,00:29:45,02:25:16,01:25:55,00:01:25,00:01:39,04:24:00
+ironman-70.3-miami-20161023.csv,706,Jorge Jorge,34,FL,USA,00:45:28,02:39:34,01:57:03,00:02:33,00:03:39,05:28:17
+ironman-70.3-miami-20161023.csv,707,Francisco Jou,34,FL,PAN,01:04:31,03:05:32,02:03:37,00:02:59,00:04:13,06:20:52
+ironman-70.3-miami-20161023.csv,708,Kevin Joyce,30,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,709,Ernesto Junior,34,- Other -,BRA,00:40:32,02:50:59,01:53:49,00:02:29,00:02:51,05:30:40
+ironman-70.3-miami-20161023.csv,710,Jason Kaiser,30,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,711,Jason Kensky,31,MD,USA,00:57:12,03:29:28,03:19:33,00:08:18,00:08:36,08:03:07
+ironman-70.3-miami-20161023.csv,712,Ulan Khakim,33,Almaty,KAZ,01:04:51,03:05:29,02:26:29,00:03:52,00:04:00,06:44:41
+ironman-70.3-miami-20161023.csv,713,Charlie Kimberly,31,OR,USA,00:51:47,03:05:29,02:49:39,00:03:15,00:04:23,06:54:33
+ironman-70.3-miami-20161023.csv,714,Alexandre Henrique Knoener,30,Santa Catarina,BRA,00:39:44,02:27:47,01:37:58,00:01:48,00:02:43,04:50:00
+ironman-70.3-miami-20161023.csv,715,Julio Lama,31,FL,DOM,01:01:41,02:50:32,02:39:54,00:03:08,00:03:35,06:38:50
+ironman-70.3-miami-20161023.csv,716,Jan Landl,31,Slovakia,SVK,00:50:35,02:49:34,01:58:38,00:02:00,00:02:51,05:43:38
+ironman-70.3-miami-20161023.csv,717,Martin Larraburu,31,Other,ARG,00:39:50,02:28:14,01:43:14,00:01:31,00:01:50,04:54:39
+ironman-70.3-miami-20161023.csv,718,Nathan Larson,31,GA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,719,Martin Lascurain,32,Buenos Aires,ARG,00:48:20,02:32:22,02:05:01,00:02:41,00:02:31,05:30:55
+ironman-70.3-miami-20161023.csv,720,Eric Lashway,31,FL,USA,00:37:16,02:19:05,01:29:23,00:01:34,00:01:28,04:28:46
+ironman-70.3-miami-20161023.csv,721,Carmelo Lauria,34,FL,VEN,00:43:41,02:38:53,01:43:11,00:01:51,00:02:48,05:10:24
+ironman-70.3-miami-20161023.csv,722,Dario Leoncini,31,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,723,Miguel Lequerica,32,FL,USA,01:06:33,03:29:00,02:27:05,00:06:23,00:04:57,07:13:58
+ironman-70.3-miami-20161023.csv,724,Yerko Lolas Marinovic,33,---,CHL,00:44:17,02:37:35,01:43:05,00:02:24,00:02:03,05:09:24
+ironman-70.3-miami-20161023.csv,725,Payo Lopez,34,Guatemala,GTM,00:55:47,03:13:10,02:22:25,00:03:56,00:04:16,06:39:34
+ironman-70.3-miami-20161023.csv,726,Eduardo Lopez Miranda,32,CL,CHL,00:43:12,02:33:51,01:51:21,00:02:30,00:01:59,05:12:53
+ironman-70.3-miami-20161023.csv,727,Javier Machmar,31,Cordoba,ARG,00:47:32,02:38:44,02:01:25,00:04:41,00:02:39,05:35:01
+ironman-70.3-miami-20161023.csv,728,Christopher Maclean,33,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,729,Ruben Magana Ambriz,32,Estado de México,MEX,01:03:16,03:06:30,02:28:09,00:02:51,00:04:45,06:45:31
+ironman-70.3-miami-20161023.csv,730,Eliezer Maldonado,33,FL,USA,00:57:52,02:39:15,02:29:17,00:05:23,00:03:43,06:15:30
+ironman-70.3-miami-20161023.csv,731,Mauricio Martel,30,DE,ARG,00:51:52,03:44:58,02:36:45,00:05:35,00:06:40,07:25:50
+ironman-70.3-miami-20161023.csv,732,Federico Martin,33,san juan,ARG,00:50:38,02:47:10,02:18:05,00:02:35,00:02:33,06:01:01
+ironman-70.3-miami-20161023.csv,733,Nicolas Bélec,30,québec,CAN,00:46:50,02:40:06,01:50:05,00:04:33,00:03:20,05:24:54
+ironman-70.3-miami-20161023.csv,734,Hiroshi Maruyama,30,NY,JPN,00:53:56,03:04:21,02:40:56,00:05:09,00:04:57,06:49:19
+ironman-70.3-miami-20161023.csv,735,Juan Mata,31,FL,GTM,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,736,Graham Maxwell,30,NY,GBR,00:51:17,02:46:53,02:00:47,00:02:44,00:02:48,05:44:29
+ironman-70.3-miami-20161023.csv,737,Philip Mayotte,31,GA,USA,00:58:09,02:50:28,02:40:36,00:04:18,00:04:17,06:37:48
+ironman-70.3-miami-20161023.csv,738,Matthew Mcgillicuddy,32,VA,USA,00:32:03,02:50:42,02:12:58,00:03:00,00:02:55,05:41:38
+ironman-70.3-miami-20161023.csv,739,Joshua Mcmichen,33,GA,USA,00:47:06,03:07:23,02:22:36,00:06:05,00:09:03,06:32:13
+ironman-70.3-miami-20161023.csv,740,Xavier Melendez,32,---,VEN,00:50:55,02:50:01,01:59:06,00:03:23,00:03:25,05:46:50
+ironman-70.3-miami-20161023.csv,741,Federico Mendoza,31,FL,VEN,00:35:01,02:34:35,01:38:54,00:01:56,00:02:52,04:53:18
+ironman-70.3-miami-20161023.csv,742,Daniel Mitchell,32,Tortola,GBR,00:47:36,02:50:28,02:42:27,00:02:22,00:03:13,06:26:06
+ironman-70.3-miami-20161023.csv,743,Juan Camilo Mojica Roa,31,Cundinamarca,COL,00:36:25,02:41:10,01:49:36,00:02:52,00:03:12,05:13:15
+ironman-70.3-miami-20161023.csv,744,Fernando Montano,31,AL,SLV,00:49:49,02:31:31,02:01:39,00:04:10,00:02:58,05:30:07
+ironman-70.3-miami-20161023.csv,745,Christian Mooney,30,APO,GTM,00:39:50,02:30:07,02:00:08,00:02:04,00:02:09,05:14:18
+ironman-70.3-miami-20161023.csv,746,Luis Gustavo Moreira,31,sao paulo,BRA,00:34:32,02:32:01,01:45:11,00:03:08,00:02:12,04:57:04
+ironman-70.3-miami-20161023.csv,747,Angel Moreno,31,PR,PRI,00:51:38,02:48:06,02:43:05,00:06:04,00:04:16,06:33:09
+ironman-70.3-miami-20161023.csv,748,David Munoz,32,---,CHL,01:00:16,02:32:51,02:16:21,00:02:21,00:03:12,05:55:01
+ironman-70.3-miami-20161023.csv,749,Donald Hall Murdoch,34,AB,CAN,00:47:19,02:33:51,02:03:23,00:03:01,00:04:06,05:31:40
+ironman-70.3-miami-20161023.csv,750,Igor Myasnikov,30,---,RUS,00:41:13,02:50:31,01:59:59,00:02:21,00:02:03,05:36:07
+ironman-70.3-miami-20161023.csv,751,Breno Nascimento,33,São Paulo,BRA,00:33:53,02:24:03,01:32:19,00:01:34,00:01:52,04:33:41
+ironman-70.3-miami-20161023.csv,752,Andy Nelson,31,MO,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,753,Mike Neubauer,32,FL,USA,00:40:39,02:44:57,02:21:56,00:02:45,00:02:37,05:52:54
+ironman-70.3-miami-20161023.csv,754,Maksim Nikitin,30,---,RUS,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,755,Jim Nordenvall,33,---,SWE,00:58:52,02:45:55,01:42:55,00:03:24,00:02:06,05:33:12
+ironman-70.3-miami-20161023.csv,756,Jaime O'Keeffe,33,GA,UGA,00:40:04,03:13:16,03:00:53,00:02:55,00:06:45,07:03:53
+ironman-70.3-miami-20161023.csv,757,Carey Olaughlin,33,CT,USA,01:33:19,03:57:56,---,00:12:53,---,DNF
+ironman-70.3-miami-20161023.csv,758,Cristï¿½bal Opazo,32,---,CHL,00:33:58,02:40:35,01:51:54,00:02:15,00:02:41,05:11:23
+ironman-70.3-miami-20161023.csv,759,Alejandro Orellana Silva,32,"México, Distrito Federal",MEX,00:44:30,02:37:57,01:38:03,00:03:33,00:02:52,05:06:55
+ironman-70.3-miami-20161023.csv,760,Alfredo Ortiz,31,Panama,PAN,00:45:35,02:56:53,02:12:24,00:03:46,00:03:25,06:02:03
+ironman-70.3-miami-20161023.csv,761,Petties Osceola,30,FL,USA,01:09:17,02:53:26,01:48:15,00:02:04,00:03:14,05:56:16
+ironman-70.3-miami-20161023.csv,762,Ivan Azael Padilla Fernandez,30,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,763,David Palacios Pena,34,Azuay,ECU,00:45:40,02:49:46,01:39:50,00:02:29,00:03:24,05:21:09
+ironman-70.3-miami-20161023.csv,764,Juan Palomino,31,FL,COL,01:23:00,03:51:25,02:29:50,00:18:18,00:06:53,DNF
+ironman-70.3-miami-20161023.csv,765,Julio Panameno,31,ES,SLV,00:39:03,02:28:25,01:41:28,00:02:30,00:01:42,04:53:08
+ironman-70.3-miami-20161023.csv,766,sebastian paniagua,34,---,CHL,00:36:45,02:27:56,01:43:09,00:01:43,00:02:23,04:51:56
+ironman-70.3-miami-20161023.csv,767,Neal Papevies,33,GA,USA,00:35:24,02:51:13,02:24:34,00:03:20,00:05:28,05:59:59
+ironman-70.3-miami-20161023.csv,768,Samuel Pedraza,34,FL,VEN,00:56:50,03:32:21,02:07:24,00:05:05,00:04:41,06:46:21
+ironman-70.3-miami-20161023.csv,769,Agustin Diego Peralta,32,CORDOBA,ARG,00:39:08,02:21:22,01:37:36,00:01:55,00:02:31,04:42:32
+ironman-70.3-miami-20161023.csv,770,Airam Peraza,33,---,ESP,00:32:16,02:33:03,01:51:18,00:01:34,00:02:25,05:00:36
+ironman-70.3-miami-20161023.csv,771,Jose Roberto Pimentel Gutierrez,32,San Salvador,GTM,00:48:56,02:43:14,02:00:02,00:03:06,00:03:04,05:38:22
+ironman-70.3-miami-20161023.csv,772,Tyler Price,31,FL,USA,01:00:45,03:23:22,02:45:52,00:03:24,00:06:26,07:19:49
+ironman-70.3-miami-20161023.csv,773,Jason Purdy,30,FL,USA,00:36:18,03:04:36,02:37:14,00:04:16,00:03:14,06:25:38
+ironman-70.3-miami-20161023.csv,774,Kevin Quinn,33,FL,USA,00:39:46,02:45:41,02:05:02,00:02:46,00:01:57,05:35:12
+ironman-70.3-miami-20161023.csv,775,Luis Gaston Quintas Lezano,31,---,CHL,00:58:31,02:48:25,02:01:06,00:02:45,00:02:01,05:52:48
+ironman-70.3-miami-20161023.csv,776,Eric Quirk,29,FL,USA,00:42:52,02:48:32,02:13:20,00:01:59,00:03:21,05:50:04
+ironman-70.3-miami-20161023.csv,777,Eder Radaelli Darini,31,SP,BRA,00:48:22,03:13:35,02:10:55,00:07:13,00:09:57,06:30:02
+ironman-70.3-miami-20161023.csv,778,Maximo Ramirez,34,FL,ECU,01:15:21,03:41:30,03:31:50,00:04:39,00:06:08,DNF
+ironman-70.3-miami-20161023.csv,779,Cesar Ramirez Bola??os,30,---,COL,00:48:41,03:02:28,02:44:35,00:02:33,00:04:29,06:42:46
+ironman-70.3-miami-20161023.csv,780,Daniel Ramirez Lenero,33,Quintana Roo,MEX,00:45:46,03:12:04,01:55:47,00:04:30,00:06:43,06:04:50
+ironman-70.3-miami-20161023.csv,781,Jason Ramos,32,PR,PRI,00:47:01,02:46:32,01:59:19,00:02:19,00:02:29,05:37:40
+ironman-70.3-miami-20161023.csv,782,Daniel Reyes,30,FL,VEN,00:32:06,02:24:38,01:56:19,00:01:33,00:01:23,04:55:59
+ironman-70.3-miami-20161023.csv,783,Bruno Ribeiro,34,São Paulo,BRA,01:05:58,02:53:25,02:25:04,00:03:27,00:03:31,06:31:25
+ironman-70.3-miami-20161023.csv,784,Christopher Richards,33,FL,USA,00:48:25,03:15:52,02:55:35,00:04:52,00:03:13,07:07:57
+ironman-70.3-miami-20161023.csv,785,Cipriano Rivera,32,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,786,Kegan Rodrigues,32,TX,USA,00:55:06,03:09:42,02:01:28,00:07:55,00:05:05,06:19:16
+ironman-70.3-miami-20161023.csv,787,Gerardo Rodriguez,34,---,VEN,00:38:01,02:54:24,02:20:44,00:03:22,00:03:47,06:00:18
+ironman-70.3-miami-20161023.csv,788,Jose Alejandro Romero,32,FL,USA,00:57:41,03:03:11,02:36:29,00:03:40,00:02:21,06:43:22
+ironman-70.3-miami-20161023.csv,789,Pedro Henrique Roriz,33,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,790,Carlos Ruiz,34,mexico df,MEX,01:16:15,03:38:57,02:49:22,00:03:31,00:04:13,DNF
+ironman-70.3-miami-20161023.csv,791,Juan Carlos Ruiz Cifuentes,34,Bogota,COL,00:57:10,03:06:28,01:49:26,00:03:33,00:04:37,06:01:14
+ironman-70.3-miami-20161023.csv,792,Juan Jose Sainz,30,Mexico City,MEX,00:42:03,02:45:51,02:09:54,00:01:37,00:03:14,05:42:39
+ironman-70.3-miami-20161023.csv,793,Reynald Salmon,33,---,FRA,00:43:58,03:14:44,02:00:55,00:02:33,00:02:29,06:04:39
+ironman-70.3-miami-20161023.csv,794,Juan Sanchez,30,Guatemala,GTM,00:42:20,02:41:17,01:56:02,00:02:07,00:02:10,05:23:56
+ironman-70.3-miami-20161023.csv,795,Daniel Sandoval,33,Mexico,MEX,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,796,Jacobo Sanint,31,Intl State,COL,00:42:38,02:33:37,01:42:46,00:02:58,00:02:59,05:04:58
+ironman-70.3-miami-20161023.csv,797,Rodrigo Santiesteban Reyes,34,---,CHL,00:50:12,---,---,00:01:59,---,DNF
+ironman-70.3-miami-20161023.csv,798,Michael Scanlon,32,GA,USA,00:46:28,03:07:48,02:13:43,00:02:57,00:05:05,06:16:01
+ironman-70.3-miami-20161023.csv,799,David Schmidt,31,TX,AUS,00:33:00,02:12:02,01:31:11,00:01:37,00:01:47,04:19:37
+ironman-70.3-miami-20161023.csv,800,Michael Scholz,32,NY,AUS,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,801,Shannon Scott,34,VIC,AUS,00:50:35,02:27:07,01:55:17,00:01:21,00:01:56,05:16:16
+ironman-70.3-miami-20161023.csv,802,David Sedelnick,34,NY,CXR,00:45:50,02:17:35,01:57:40,00:01:55,00:01:56,05:04:56
+ironman-70.3-miami-20161023.csv,803,Andreas Solakis,33,---,DEU,01:12:22,03:07:03,02:55:54,00:04:15,00:04:02,DNF
+ironman-70.3-miami-20161023.csv,804,Pablo Solis,34,Pichincha,ECU,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,805,Rodrigo Souza,34,---,BRA,00:44:19,02:47:11,02:03:09,00:03:29,00:02:21,05:40:29
+ironman-70.3-miami-20161023.csv,806,John Switzer,31,NY,USA,00:57:38,03:43:59,02:32:33,00:06:21,00:08:10,07:28:41
+ironman-70.3-miami-20161023.csv,807,Guilherme Tavares,33,CA,BRA,00:40:31,02:56:12,02:15:05,00:04:27,00:04:21,06:00:36
+ironman-70.3-miami-20161023.csv,808,Kevin Toro,31,FL,COL,00:48:01,02:52:49,01:58:11,00:02:36,00:02:22,05:43:59
+ironman-70.3-miami-20161023.csv,809,Edison Fabricio Torres,32,PICHINCHA,ECU,00:49:17,02:51:47,02:17:26,00:03:25,00:04:03,06:05:58
+ironman-70.3-miami-20161023.csv,810,W Blair Townsend,33,VA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,811,Marco Tuesta,32,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,812,Raul Valdes,33,FL,USA,00:45:44,02:24:42,01:55:07,00:02:01,00:02:21,05:09:55
+ironman-70.3-miami-20161023.csv,813,Jeffry Benjamin Vargas,34,CA,MEX,00:50:28,03:21:19,02:35:10,00:03:55,00:03:14,06:54:06
+ironman-70.3-miami-20161023.csv,814,Tom Vaughan,31,UK,GBR,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,815,Peter Venter,34,NY,AUS,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,816,Gonzalo Vicente,32,Buenos Aires,ARG,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,817,Miguel Vila Valdez,33,DN,DOM,00:51:36,02:35:36,02:07:08,00:03:32,00:02:15,05:40:07
+ironman-70.3-miami-20161023.csv,818,Julian Villar,32,CA,USA,00:47:04,03:01:53,02:43:36,00:04:07,00:06:54,06:43:34
+ironman-70.3-miami-20161023.csv,819,Diego Villavicencio I.,29,Tungurahua,ECU,00:56:18,02:54:23,02:26:07,00:03:22,00:03:40,06:23:50
+ironman-70.3-miami-20161023.csv,820,Leonardo Vitorio Borges,33,DF,BRA,00:47:05,02:30:47,01:54:05,00:01:51,00:02:58,05:16:46
+ironman-70.3-miami-20161023.csv,821,Peter Wachtel,33,FL,USA,00:51:28,02:49:56,02:27:18,00:02:41,00:02:47,06:14:10
+ironman-70.3-miami-20161023.csv,822,David Watson,30,OK,USA,00:50:21,03:03:28,02:50:21,00:03:16,00:02:41,06:50:07
+ironman-70.3-miami-20161023.csv,823,Tim Wills,33,FL,USA,01:36:47,03:36:06,02:47:06,00:05:09,00:04:53,DNF
+ironman-70.3-miami-20161023.csv,824,Noah Winter,30,FL,USA,01:03:34,03:04:18,02:45:19,00:05:20,00:07:04,07:05:35
+ironman-70.3-miami-20161023.csv,825,Jesus A Zimbron Zimbron Contreras,33,Edo de Mex,MEX,00:47:15,02:34:59,01:53:02,00:04:21,00:06:39,05:26:16
+ironman-70.3-miami-20161023.csv,826,Justin Ackerman,34,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,827,Eduard Adrian,37,TN,DEU,01:07:35,02:45:18,01:54:31,00:02:12,00:02:50,05:52:26
+ironman-70.3-miami-20161023.csv,828,Arturo Aguirre,38,Guatemala,GTM,00:43:05,02:41:56,02:02:29,00:03:02,00:04:02,05:34:34
+ironman-70.3-miami-20161023.csv,829,Yober Aguirre Celi,36,el oro,ECU,00:51:07,02:22:50,02:09:22,00:02:37,00:02:22,05:28:18
+ironman-70.3-miami-20161023.csv,830,Antonio Jose Benvenuto Alecrim,35,AMAZONAS,BRA,00:52:19,02:44:39,02:32:55,00:06:24,00:04:55,06:21:12
+ironman-70.3-miami-20161023.csv,831,Ezequiel Aleman,36,CABA,ARG,00:49:54,02:54:11,02:23:27,00:04:37,00:04:26,06:16:35
+ironman-70.3-miami-20161023.csv,832,Gerardo Alfaro,38,Pozos/Santa Ana/San José,CRI,00:38:31,02:29:45,01:40:48,00:02:27,00:02:32,04:54:03
+ironman-70.3-miami-20161023.csv,833,Roberto Aliaga,36,FL,PER,00:55:32,03:09:15,02:30:26,00:03:54,00:03:44,06:42:51
+ironman-70.3-miami-20161023.csv,834,Brian Allen,35,FL,USA,01:07:21,03:29:37,03:09:31,00:06:20,00:04:59,07:57:48
+ironman-70.3-miami-20161023.csv,835,Walter Alvarez,39,Buenos Aires,ARG,---,02:43:48,04:34:31,00:41:28,---,05:12:07
+ironman-70.3-miami-20161023.csv,836,Mauricio Alvarez Cadena,39,Pichincha,ECU,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,837,Alejandro Alzate,37,Intl State,COL,00:51:10,02:25:11,01:27:56,00:02:00,00:03:35,04:49:52
+ironman-70.3-miami-20161023.csv,838,Luciano Amaral,38,São Paulo,BRA,00:34:36,02:56:20,---,00:01:52,00:27:33,DNF
+ironman-70.3-miami-20161023.csv,839,Cesar Angulo,36,Sinaloa,MEX,00:46:05,03:29:21,02:48:12,00:05:25,00:06:02,07:15:05
+ironman-70.3-miami-20161023.csv,840,Jesus Manuel Angulo,36,FL,USA,00:40:10,02:29:29,01:20:25,00:01:56,00:01:24,04:33:24
+ironman-70.3-miami-20161023.csv,841,Alberto Aragonés Corrochano,38,---,ESP,00:52:39,02:57:24,01:47:24,00:03:11,00:03:26,05:44:04
+ironman-70.3-miami-20161023.csv,842,Alberto Araujo,36,---,MEX,00:46:03,02:36:46,01:56:31,00:02:36,00:02:30,05:24:26
+ironman-70.3-miami-20161023.csv,843,Leroy Reynolds,36,FL,USA,00:56:26,03:11:39,02:17:21,00:03:34,00:04:08,06:33:08
+ironman-70.3-miami-20161023.csv,844,Frank Arias,39,Panama,VEN,00:49:15,02:40:56,02:05:26,00:02:32,00:03:54,05:42:03
+ironman-70.3-miami-20161023.csv,845,Robertoa Arias,39,---,CHL,01:51:00,03:06:42,02:04:02,00:02:59,00:03:38,DNF
+ironman-70.3-miami-20161023.csv,846,Felipe Arslan,39,Sao Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,847,Fernando Assunção,39,---,BRA,00:37:35,02:29:05,01:35:17,00:01:26,00:02:05,04:45:28
+ironman-70.3-miami-20161023.csv,848,Jose Atouan,34,Carabobo,VEN,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,849,Otávio Augusto Eiler Ribeiro,37,São Paulo,BRA,00:56:07,02:45:41,02:21:14,00:03:30,00:03:51,06:10:23
+ironman-70.3-miami-20161023.csv,850,Augusto Bagase,39,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,851,Chris Bailey,38,---,CYM,00:41:09,02:36:59,02:41:12,00:03:10,00:04:12,06:06:42
+ironman-70.3-miami-20161023.csv,852,Jerome Bareth,39,FL,USA,00:50:38,02:36:08,01:50:04,00:02:02,00:01:59,05:20:51
+ironman-70.3-miami-20161023.csv,853,Vincent Barouki,37,Baabda,FRA,00:45:39,02:43:16,02:09:42,00:03:06,00:04:56,05:46:39
+ironman-70.3-miami-20161023.csv,854,Juan Barrientos,39,CA,USA,00:58:15,02:53:12,02:37:12,00:03:18,00:02:51,06:34:48
+ironman-70.3-miami-20161023.csv,855,Francisco Barrios,39,Intl State,---,01:04:55,03:07:46,02:06:45,00:03:55,00:04:21,06:27:42
+ironman-70.3-miami-20161023.csv,856,James Barry,35,NJ,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,857,Steven Baryza,36,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,858,Ryan Belford,37,NE,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,859,Juan Manuel Benitez,35,CH,COL,00:36:56,---,---,00:02:52,---,DNF
+ironman-70.3-miami-20161023.csv,860,John Bess,37,FL,USA,00:52:37,02:18:35,01:30:20,00:03:00,00:01:28,04:46:00
+ironman-70.3-miami-20161023.csv,861,Thiago Bessa,36,Minas Gerais,BRA,00:52:18,03:02:48,02:04:10,00:06:16,00:05:09,06:10:41
+ironman-70.3-miami-20161023.csv,862,Cesar Bettencourt,35,Pichincha,VEN,00:42:39,02:43:24,---,00:02:05,00:02:06,DNF
+ironman-70.3-miami-20161023.csv,863,Matthew Bielen,37,FL,USA,00:49:55,03:23:42,02:53:35,00:06:09,00:09:05,07:22:26
+ironman-70.3-miami-20161023.csv,864,Achim Miguel Biller,38,---,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,865,Moises Blanga Daniel,36,CUAJIMALPA,MEX,00:49:58,03:14:21,02:18:16,00:05:26,00:03:53,06:31:54
+ironman-70.3-miami-20161023.csv,866,Oscar Boada,37,Bogota,COL,00:46:53,02:32:03,01:46:32,00:03:18,00:03:03,05:11:49
+ironman-70.3-miami-20161023.csv,867,Franco Bocci,35,Buenos Aires,ARG,00:48:42,02:26:16,01:53:45,00:02:33,00:04:01,05:15:17
+ironman-70.3-miami-20161023.csv,868,Fausto Bolano,37,Guayas,ECU,00:46:13,02:54:23,01:36:14,00:02:51,00:03:25,05:23:06
+ironman-70.3-miami-20161023.csv,869,David Bonfante,35,GA,USA,00:47:15,03:03:31,02:39:01,00:03:46,00:04:22,06:37:55
+ironman-70.3-miami-20161023.csv,870,Michael Bongre,35,FR,FRA,00:40:00,02:33:40,01:37:35,00:02:20,00:02:28,04:56:03
+ironman-70.3-miami-20161023.csv,871,Guilherme Coscia,38,SAO PAULO,BRA,00:45:52,02:42:43,01:50:19,00:04:14,00:02:46,05:25:54
+ironman-70.3-miami-20161023.csv,872,Edoardo Borsari,39,GA,ITA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,873,Peter Bowron,35,CO,USA,00:42:52,02:33:54,01:51:11,00:02:01,00:02:21,05:12:19
+ironman-70.3-miami-20161023.csv,874,Casey Box,38,TN,USA,00:51:11,02:46:19,02:17:51,00:05:06,00:04:24,06:04:51
+ironman-70.3-miami-20161023.csv,875,Shawn Bradley,36,MO,USA,00:50:28,03:07:59,02:48:09,00:03:17,00:06:51,06:56:44
+ironman-70.3-miami-20161023.csv,876,Stuart Bray,37,Grand Cayman,CYM,00:34:18,02:25:24,01:34:07,00:01:59,00:02:05,04:37:53
+ironman-70.3-miami-20161023.csv,877,Alan Brizuela,38,NJ,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,878,Mark Brown,37,VA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,879,Miguel Bubis,36,FL,USA,00:48:24,03:05:27,01:52:03,00:02:29,00:02:30,05:50:53
+ironman-70.3-miami-20161023.csv,880,Elion Bulku,37,FL,USA,00:46:58,02:31:04,01:45:12,00:01:36,00:02:03,05:06:53
+ironman-70.3-miami-20161023.csv,881,Matthew Burke,37,FL,USA,00:59:07,02:48:49,02:21:19,00:04:02,00:05:19,06:18:36
+ironman-70.3-miami-20161023.csv,882,Eduardo Cabello,38,---,CHL,00:37:24,02:32:04,01:58:56,00:02:06,00:01:42,05:12:12
+ironman-70.3-miami-20161023.csv,883,Alfonso Cabrera,35,FL,USA,01:13:57,03:10:23,02:22:30,00:03:33,00:04:30,DNF
+ironman-70.3-miami-20161023.csv,884,Carlos Campos,39,AM,BRA,00:36:28,02:36:13,01:50:55,00:02:17,00:03:05,05:08:58
+ironman-70.3-miami-20161023.csv,885,Alejandro Cardona,37,FL,COL,00:51:25,03:07:06,02:03:07,00:02:28,00:05:14,06:09:20
+ironman-70.3-miami-20161023.csv,886,Mateo Cariboni,35,ON,ARG,00:49:18,02:37:32,02:22:07,00:03:29,00:04:03,05:56:29
+ironman-70.3-miami-20161023.csv,887,Elthon John Carrion Rodriguez,38,EL ORO,ECU,00:47:44,02:52:22,02:20:48,00:02:57,00:03:19,06:07:10
+ironman-70.3-miami-20161023.csv,888,Daniel De Souza Carvalho,38,Santa Catarina,BRA,00:59:20,02:44:19,02:10:19,00:03:01,00:03:50,06:00:49
+ironman-70.3-miami-20161023.csv,889,Luis Fernando Castaneda Galvis,35,Santander,COL,00:37:10,02:21:16,01:32:48,00:01:53,00:02:18,04:35:25
+ironman-70.3-miami-20161023.csv,890,Luis Hernando Castañeda Galvis,38,SANTANDER,COL,00:49:34,03:00:41,02:20:53,00:08:32,00:06:51,06:26:31
+ironman-70.3-miami-20161023.csv,891,Jose Ignacio Castro,35,---,CHL,00:39:55,02:36:31,01:28:43,00:02:41,00:03:18,04:51:08
+ironman-70.3-miami-20161023.csv,892,Ivo Ceciliano,35,FL,USA,00:46:46,02:34:23,02:22:32,00:02:15,00:03:19,05:49:15
+ironman-70.3-miami-20161023.csv,893,Andre Cecilio Soares,37,Minas Gerais,BRA,00:41:12,02:38:40,02:37:35,00:03:42,00:05:47,06:06:56
+ironman-70.3-miami-20161023.csv,894,Carlos Celedón,35,---,CHL,00:53:54,02:28:59,01:56:08,00:02:19,00:02:49,05:24:09
+ironman-70.3-miami-20161023.csv,895,Gianfranco Chiurillo,36,FL,VEN,00:52:26,02:34:48,01:45:25,00:02:02,00:02:18,05:16:59
+ironman-70.3-miami-20161023.csv,896,Tiago Choze,35,FL,USA,00:40:09,02:45:07,02:07:36,00:02:11,00:02:36,05:37:39
+ironman-70.3-miami-20161023.csv,897,Brett Christenson,35,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,898,Sian Clarke,39,NY,GBR,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,899,Quincy Collins,38,FL,USA,01:10:38,02:42:40,02:11:32,00:04:31,00:08:30,DNF
+ironman-70.3-miami-20161023.csv,900,Cesar Coro,36,FL,BOL,01:09:09,03:27:50,02:20:41,00:07:35,00:07:55,07:13:10
+ironman-70.3-miami-20161023.csv,901,Cesar Augusto Corrales,35,---,VEN,00:51:46,02:47:06,02:09:29,00:04:01,00:05:32,05:57:54
+ironman-70.3-miami-20161023.csv,902,Damian Cortelezzi,39,Buenos Aires,ARG,00:36:56,02:28:12,01:43:30,00:02:55,00:02:14,04:53:47
+ironman-70.3-miami-20161023.csv,903,Boris Cortes,37,---,CHL,00:55:09,02:41:15,01:48:02,00:02:10,00:03:00,05:29:36
+ironman-70.3-miami-20161023.csv,904,Thomas Cowman,36,TN,USA,01:44:07,03:55:06,02:39:32,00:04:56,00:04:30,DNF
+ironman-70.3-miami-20161023.csv,905,Sergio Cruz,36,FL,HND,00:55:53,02:38:56,01:47:25,00:02:14,00:01:54,05:26:22
+ironman-70.3-miami-20161023.csv,906,Samuel Cruz Agostini,36,PR,PRI,01:01:20,03:32:09,02:45:26,00:04:06,00:03:50,07:26:51
+ironman-70.3-miami-20161023.csv,907,Oliver Cuason,39,FL,USA,00:51:08,02:36:05,02:19:08,00:02:22,00:02:21,05:51:04
+ironman-70.3-miami-20161023.csv,908,Vlaunir Da Silva,39,FL,USA,01:41:26,03:44:07,03:09:53,00:04:23,00:04:44,DNF
+ironman-70.3-miami-20161023.csv,909,Gustavo Malta De Amorim,38,Alagoas,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,910,Carlos Miguel Diaz Granados,39,---,COL,01:05:47,02:56:21,01:58:06,00:05:36,00:04:17,06:10:07
+ironman-70.3-miami-20161023.csv,911,Oscar Diaz Vela,36,La Libertad,SLV,00:54:34,02:58:15,02:19:33,00:04:21,00:04:51,06:21:34
+ironman-70.3-miami-20161023.csv,912,Paulo Domingos,38,SC,BRA,00:59:20,03:10:28,02:39:12,00:51:11,00:05:36,07:45:47
+ironman-70.3-miami-20161023.csv,913,Nicolas Doublecourt,35,---,FRA,---,---,---,---,---,DQ
+ironman-70.3-miami-20161023.csv,914,Fernando Duran Lima,35,MG,BRA,01:07:33,03:19:43,02:31:26,00:08:33,00:07:53,07:15:08
+ironman-70.3-miami-20161023.csv,915,Carlos Mario Duron,35,FL,HND,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,916,George Earp,37,RJ,BRA,00:52:47,03:03:30,02:44:58,00:05:45,00:06:48,06:53:48
+ironman-70.3-miami-20161023.csv,917,Pedro Earp,39,NY,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,918,James Eastwood,38,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,919,Carl Edlund,39,FL,VEN,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,920,Mike Egan,39,FL,USA,00:30:31,02:14:35,01:39:04,00:01:33,00:01:59,04:27:42
+ironman-70.3-miami-20161023.csv,921,Ricardo Erdmenger,39,Intl State,GTM,00:41:17,02:48:21,02:21:02,00:01:53,00:02:23,05:54:56
+ironman-70.3-miami-20161023.csv,922,Kevin Erndl,36,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,923,Rene Escobar,35,CDMX,MEX,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,924,Joel Espinoza,36,FL,USA,00:38:23,02:29:20,---,00:02:13,00:01:26,DNF
+ironman-70.3-miami-20161023.csv,925,Michael Esser,39,FL,DEU,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,926,Carlos Gonzalo Estrada Pazos,38,Guatemala,GTM,00:52:43,03:06:30,02:25:11,00:03:26,00:02:47,06:30:37
+ironman-70.3-miami-20161023.csv,927,Sjako Faas,37,---,NLD,01:22:32,03:12:03,02:58:42,00:04:32,00:04:59,DNF
+ironman-70.3-miami-20161023.csv,928,Adam Farmer,37,devon,UKR,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,929,Marc Fayet,34,---,FRA,00:47:54,02:37:59,01:40:39,00:02:46,00:03:00,05:12:18
+ironman-70.3-miami-20161023.csv,930,Joshua Felperin,37,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,931,Cristian Eduardo Fernandez,37,Buenos Aires,ARG,00:39:28,03:08:38,02:08:57,00:03:44,00:02:26,06:03:13
+ironman-70.3-miami-20161023.csv,932,José Ramon Fernández Ballabriga,37,---,ESP,01:02:51,03:31:22,02:24:56,00:07:43,00:09:07,07:15:59
+ironman-70.3-miami-20161023.csv,933,Daniel Ferrer,38,QC,CAN,00:52:59,03:04:30,02:43:48,00:03:46,00:03:11,06:48:14
+ironman-70.3-miami-20161023.csv,934,Nilson Fiori Filho,36,Paraná,BRA,00:35:06,02:33:50,01:34:55,00:02:29,00:01:53,04:48:13
+ironman-70.3-miami-20161023.csv,935,Christopher Fitzpatrick,38,FL,USA,00:50:55,03:05:35,02:50:24,00:04:03,00:04:27,06:55:24
+ironman-70.3-miami-20161023.csv,936,Eduardo Flores,35,MEXICO,MEX,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,937,Federico Foster,38,Buenos Aires,ARG,00:29:43,02:26:41,01:40:50,00:01:37,00:02:01,04:40:52
+ironman-70.3-miami-20161023.csv,938,Mark Fritschle,35,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,939,Robert Gaitens,36,FL,USA,00:36:19,02:38:04,01:59:44,00:01:52,00:04:16,05:20:15
+ironman-70.3-miami-20161023.csv,940,Leonardo Gallegos,38,---,CHL,00:45:27,02:42:10,02:51:52,00:02:33,00:02:19,06:24:21
+ironman-70.3-miami-20161023.csv,941,Martin Gallone,38,FL,ARG,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,942,Diego Garcia,36,---,CHL,00:45:17,02:25:57,01:40:39,00:02:40,00:02:26,04:56:59
+ironman-70.3-miami-20161023.csv,943,Fede Garcia,35,BA,ARG,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,944,Javier Garcia,36,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,945,Juan Pablo Garcia Bercellini,37,buenos aires,ARG,00:53:46,03:09:51,02:17:20,00:03:36,00:04:21,06:28:54
+ironman-70.3-miami-20161023.csv,946,Marti Garcia Montenegro,38,---,ESP,00:48:28,03:00:38,01:57:29,00:05:26,00:04:49,05:56:50
+ironman-70.3-miami-20161023.csv,947,Aaron Gardner,35,Tortola,NZL,01:04:08,03:21:31,02:21:14,00:04:12,00:06:54,06:57:59
+ironman-70.3-miami-20161023.csv,948,Matias Gertie,38,buenos aires,ARG,00:44:35,02:56:44,02:13:06,00:02:22,00:03:35,06:00:22
+ironman-70.3-miami-20161023.csv,949,Randy Gibbs,37,ND,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,950,Cody Gibson,36,OR,UGA,01:16:06,02:53:52,02:24:19,00:03:01,00:04:23,DNF
+ironman-70.3-miami-20161023.csv,951,Ronan Gidekel,38,FL,ARG,00:48:17,03:02:49,02:41:51,00:03:10,00:03:57,06:40:04
+ironman-70.3-miami-20161023.csv,952,Mark Gill,38,---,GBR,01:03:12,03:06:00,02:05:17,00:04:13,00:03:36,06:22:18
+ironman-70.3-miami-20161023.csv,953,Karel Glazener,37,---,NLD,00:56:07,03:00:39,02:23:45,00:05:12,00:06:18,06:32:01
+ironman-70.3-miami-20161023.csv,954,Paulo Godoy,39,São Paulo,BRA,00:37:17,02:45:01,02:23:15,00:02:54,00:02:31,05:50:58
+ironman-70.3-miami-20161023.csv,955,David Gomez,36,NY,USA,01:16:16,02:54:51,02:11:43,00:05:06,00:04:19,DNF
+ironman-70.3-miami-20161023.csv,956,Franco Gomez,37,San Jose,CRI,00:47:56,02:45:42,01:55:14,00:02:52,00:04:44,05:36:28
+ironman-70.3-miami-20161023.csv,957,Jose Gomez,35,Guatemala,GTM,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,958,John Andres Gomez Gallego,36,Antioquia,COL,00:54:27,02:42:47,02:18:27,00:15:00,00:06:13,06:16:54
+ironman-70.3-miami-20161023.csv,959,Diego Gomez Luengo,38,---,ARG,00:40:25,03:13:21,03:20:35,00:04:41,00:04:54,07:23:56
+ironman-70.3-miami-20161023.csv,960,Orlando Gorgoy,37,FL,USA,00:47:21,02:55:51,02:18:41,00:02:00,00:03:11,06:07:04
+ironman-70.3-miami-20161023.csv,961,Eddy Goyanes,37,FL,USA,01:03:38,02:54:03,02:04:06,00:02:01,00:03:28,06:07:16
+ironman-70.3-miami-20161023.csv,962,Anthony Grossi,39,ON,CAN,00:39:21,02:28:16,01:33:17,00:01:45,00:01:55,04:44:34
+ironman-70.3-miami-20161023.csv,963,Federico Martin Grunwaldt,38,corrientes,ARG,00:57:36,03:01:10,02:15:49,00:04:06,00:02:37,06:21:18
+ironman-70.3-miami-20161023.csv,964,Rolando Guevara,35,Intl State,CRI,00:52:57,02:39:08,01:47:48,00:02:18,00:02:47,05:24:58
+ironman-70.3-miami-20161023.csv,965,Juan Gutierrez,36,FL,COL,00:54:36,02:53:05,01:59:51,00:04:06,00:04:23,05:56:01
+ironman-70.3-miami-20161023.csv,966,Omar Gutierrez Bayardi,36,Distrito Federal,MEX,01:03:29,03:07:30,01:58:57,00:03:23,00:03:39,06:16:58
+ironman-70.3-miami-20161023.csv,967,Ricardo Guzman,36,---,CHL,00:38:20,02:28:01,01:55:37,00:02:29,00:03:28,05:07:55
+ironman-70.3-miami-20161023.csv,968,Eduardo Haberfeld,38,FL,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,969,Adnan Hadzic,37,Sarajevo,BIH,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,970,Peter Hallatt,35,Other,GBR,00:32:07,02:41:06,---,00:02:30,00:03:17,DNF
+ironman-70.3-miami-20161023.csv,971,Habeeb Haneef,37,NJ,IND,01:37:44,03:34:33,03:20:25,00:10:08,00:11:23,DNF
+ironman-70.3-miami-20161023.csv,972,Tomas Henriquez Contento,38,ES,COL,01:02:55,02:52:25,02:16:40,00:02:07,00:03:37,06:17:44
+ironman-70.3-miami-20161023.csv,973,Esteban Herdoiza,39,Intl State,ECU,00:58:06,02:49:41,02:07:11,00:03:44,00:02:40,06:01:22
+ironman-70.3-miami-20161023.csv,974,Daniel Hermont De Vasconcellos Lima,34,Minas Gerais,BRA,00:41:35,02:33:10,01:37:57,00:02:26,00:02:24,04:57:32
+ironman-70.3-miami-20161023.csv,975,Jorge Hernandez,39,MD,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,976,Roberto Hilal,35,"Rio Negro, Argentina",ARG,00:33:15,02:35:37,01:40:57,00:01:43,00:01:50,04:53:22
+ironman-70.3-miami-20161023.csv,977,Dalmiro Hinojosa,36,ATL,COL,00:57:29,02:37:08,01:50:01,00:02:53,00:03:44,05:31:15
+ironman-70.3-miami-20161023.csv,978,Ben Hokanson,38,MN,USA,00:53:08,02:46:55,02:13:46,00:03:06,00:03:54,06:00:49
+ironman-70.3-miami-20161023.csv,979,Edward Holling,39,FL,USA,00:48:47,03:04:17,03:21:02,00:04:55,00:06:49,07:25:50
+ironman-70.3-miami-20161023.csv,980,Jose Huertas,37,FL,COL,00:38:56,02:53:40,02:00:30,00:02:19,00:03:15,05:38:40
+ironman-70.3-miami-20161023.csv,981,Ivan Iguaran Pajaro,35,Atlantico,COL,01:02:32,03:01:16,02:07:59,00:02:45,00:02:51,06:17:23
+ironman-70.3-miami-20161023.csv,982,Fernando Jacobucci,36,SÃO PAULO,BRA,01:03:05,02:47:05,01:51:43,00:04:42,00:05:49,05:52:24
+ironman-70.3-miami-20161023.csv,983,Ivan Jaeger,35,---,DOM,00:52:58,02:39:29,02:03:16,00:02:30,00:03:21,05:41:34
+ironman-70.3-miami-20161023.csv,984,Juan Diego Jaramillo,38,Cundinamarca,COL,00:47:34,02:48:33,02:09:04,00:02:30,00:03:56,05:51:37
+ironman-70.3-miami-20161023.csv,985,Carlos Ruben Jaramillo Espinosa,36,PICHINCHA,ECU,01:03:49,03:35:08,02:16:30,00:04:50,00:04:47,07:05:04
+ironman-70.3-miami-20161023.csv,986,Walter Jermakowicz,36,FL,POL,00:53:38,02:54:41,---,00:04:47,00:10:09,DNF
+ironman-70.3-miami-20161023.csv,987,Manuel Jimenez,39,FL,DOM,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,988,Jeffrey Johnson,39,GA,USA,00:48:38,02:42:32,02:14:20,00:02:43,00:02:30,05:50:43
+ironman-70.3-miami-20161023.csv,989,Clay Kadlic,38,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,990,Patrick Kennedy,35,jersey,GBR,01:06:04,02:42:10,01:43:22,00:02:32,00:02:36,05:36:44
+ironman-70.3-miami-20161023.csv,991,Paul Kimber,38,---,GBR,01:09:58,03:02:40,02:10:03,00:03:56,00:05:30,06:32:07
+ironman-70.3-miami-20161023.csv,992,Kyle Klinger,35,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,993,Sean Kolowich,35,GA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,994,Róbert Kristóf,38,Pest megye,HUN,00:44:46,02:36:17,01:46:09,00:03:54,00:02:54,05:14:00
+ironman-70.3-miami-20161023.csv,995,Greg Kuebrich,38,GA,USA,00:48:24,02:46:06,02:49:54,00:05:39,00:04:58,06:35:01
+ironman-70.3-miami-20161023.csv,996,Maximiliano Kugler,39,corrientes,ARG,01:01:20,03:03:46,01:58:04,00:03:01,00:03:10,06:09:21
+ironman-70.3-miami-20161023.csv,997,Yuki Kumakola,36,SP,BRA,00:41:32,02:35:13,02:03:40,00:02:55,00:03:19,05:26:39
+ironman-70.3-miami-20161023.csv,998,Joseph Ladd,34,NY,USA,01:02:19,03:49:22,01:53:31,00:14:12,00:09:26,07:08:50
+ironman-70.3-miami-20161023.csv,999,Kennan Langjahr,37,FL,USA,00:55:18,03:08:58,02:40:32,00:04:51,00:06:23,06:56:02
+ironman-70.3-miami-20161023.csv,1000,Rodrigo Larrea,36,---,CHL,00:39:26,02:46:53,01:36:23,00:02:36,00:02:33,05:07:51
+ironman-70.3-miami-20161023.csv,1001,David Levy Yermia,37,DISTRITO FEDERAL,MEX,00:57:29,03:23:40,02:08:23,00:04:34,00:03:39,06:37:45
+ironman-70.3-miami-20161023.csv,1002,Juan Lizano,39,San Jose,CRI,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1003,Jorge Oswaldo Loor Velez,35,Manabi,ECU,00:46:26,02:38:15,01:58:01,00:02:49,00:02:40,05:28:11
+ironman-70.3-miami-20161023.csv,1004,Richard Lopes,37,SAO PAULO,BRA,00:49:31,02:41:26,01:54:18,00:02:56,00:04:02,05:32:13
+ironman-70.3-miami-20161023.csv,1005,Oliver Lopez Villarroel,37,---,CHL,00:32:55,02:28:00,01:50:04,00:04:03,00:03:01,04:58:03
+ironman-70.3-miami-20161023.csv,1006,Rodrigo Macchi,38,SAO PAULO,BRA,00:48:20,03:15:08,02:27:09,00:03:46,00:04:25,06:38:48
+ironman-70.3-miami-20161023.csv,1007,Mario Machado,38,sergipe,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1008,Wilson Magario Junior,36,SP,BRA,00:53:34,02:28:59,02:12:45,00:04:11,00:03:55,05:43:24
+ironman-70.3-miami-20161023.csv,1009,Santiago Mancebo,37,ciudad de mexico,MEX,00:52:43,02:33:46,01:45:38,00:03:07,00:02:07,05:17:21
+ironman-70.3-miami-20161023.csv,1010,Mohammad Mannaa,36,DXB,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1011,Tomás Manzano Sanguinetti,37,---,CHL,00:39:02,02:34:44,01:36:41,00:02:56,00:01:53,04:55:16
+ironman-70.3-miami-20161023.csv,1012,Marcio Marcelino,38,SAO PAULO,BRA,00:42:45,02:45:53,01:34:57,00:04:22,00:03:30,05:11:27
+ironman-70.3-miami-20161023.csv,1013,Christian Marin Y Kall,39,FL,MEX,00:46:16,02:54:23,02:08:11,00:03:17,00:05:56,05:58:03
+ironman-70.3-miami-20161023.csv,1014,Rodrigo Martinez,38,DF,MEX,01:03:07,03:18:53,02:16:24,00:06:13,00:05:20,06:49:57
+ironman-70.3-miami-20161023.csv,1015,Santiago Martinez Devia,35,---,COL,00:48:24,02:58:18,02:09:28,00:03:46,00:04:40,06:04:36
+ironman-70.3-miami-20161023.csv,1016,Jonathan Massie,35,GA,BHS,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1017,Chris Mckercher,35,ON,CAN,00:54:02,03:04:57,02:36:44,00:04:00,00:04:12,06:43:55
+ironman-70.3-miami-20161023.csv,1018,Sean Mcnamara,37,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1019,Scott Mcvay,35,GA,USA,00:48:19,02:55:36,02:43:17,00:04:16,00:03:55,06:35:23
+ironman-70.3-miami-20161023.csv,1020,Aaron Meadows,34,SC,USA,01:05:06,03:02:25,02:46:09,00:03:52,00:05:30,07:03:02
+ironman-70.3-miami-20161023.csv,1021,Jasmin Mehic,39,Sarajevo,BIH,00:50:41,02:53:03,01:54:52,00:08:30,00:06:46,05:53:52
+ironman-70.3-miami-20161023.csv,1022,Vitor Meira,39,DF,BRA,00:39:01,02:25:56,01:41:12,00:02:28,00:02:47,04:51:24
+ironman-70.3-miami-20161023.csv,1023,Haroldo Melo,39,RI,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1024,Rafael Mendoza,39,PA,HKG,00:54:08,02:39:13,02:02:59,00:04:03,00:02:58,05:43:21
+ironman-70.3-miami-20161023.csv,1025,Gregory Michelier,36,Intl State,BHS,00:43:09,02:38:07,02:03:06,00:02:54,00:03:09,05:30:25
+ironman-70.3-miami-20161023.csv,1026,Marijn Moerman,38,---,NLD,00:49:33,02:45:31,02:19:43,00:05:06,00:04:48,06:04:41
+ironman-70.3-miami-20161023.csv,1027,Andrew Monks,36,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1028,Javier Montano,37,DF,MEX,00:48:03,03:02:27,02:31:52,00:03:42,00:04:54,06:30:58
+ironman-70.3-miami-20161023.csv,1029,Ricardo Ezequiel Montenegro,34,Cordoba,ARG,00:43:39,02:41:20,01:59:08,00:02:25,00:02:45,05:29:17
+ironman-70.3-miami-20161023.csv,1030,Juan Pablo Montoya,37,Intl State,COL,00:48:16,02:43:14,01:35:59,00:02:15,00:03:47,05:13:31
+ironman-70.3-miami-20161023.csv,1031,Thiago Munhoz,37,Sao Paulo,BRA,01:00:10,02:59:28,01:56:36,00:05:24,00:04:04,06:05:42
+ironman-70.3-miami-20161023.csv,1032,Emiliano Mussi Manzor,35,Buenos aires,ARG,00:44:40,02:46:27,02:23:34,00:02:56,00:03:09,06:00:46
+ironman-70.3-miami-20161023.csv,1033,Ronald Nader,37,Guayas,ECU,01:02:34,03:05:14,02:15:34,00:04:03,00:04:41,06:32:06
+ironman-70.3-miami-20161023.csv,1034,Cesar Navarrete,37,FL,COL,00:58:10,03:12:23,02:23:21,00:02:58,00:05:04,06:41:56
+ironman-70.3-miami-20161023.csv,1035,Claudio Navas,36,FL,USA,00:53:05,02:50:23,01:59:22,00:02:27,00:04:02,05:49:19
+ironman-70.3-miami-20161023.csv,1036,Orlando Neto,39,Paraná,BRA,00:52:35,02:56:02,02:12:11,00:05:58,00:06:55,06:13:41
+ironman-70.3-miami-20161023.csv,1037,Alexander Neumuller,36,DE,DEU,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1038,Isaac Nigrin,36,Intl State,GTM,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1039,Jeramy Norland,35,WA,USA,01:08:57,03:26:30,02:47:21,00:04:28,00:03:41,07:30:57
+ironman-70.3-miami-20161023.csv,1040,Marceau Nourisson,36,---,FRA,00:38:13,02:20:03,01:37:07,00:01:54,00:01:35,04:38:52
+ironman-70.3-miami-20161023.csv,1041,Rafael Nozzi,36,Intl State,ARG,01:05:13,02:57:58,01:54:03,00:03:50,00:03:32,06:04:36
+ironman-70.3-miami-20161023.csv,1042,Paulo Nunes,36,Minas Gerais,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1043,Robert Nute,36,NH,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1044,Jorge Ochoa,35,FL,VEN,00:43:21,02:49:01,02:18:52,00:02:45,00:02:36,05:56:35
+ironman-70.3-miami-20161023.csv,1045,Bradley Odom,38,GA,USA,00:36:56,02:18:12,01:37:02,00:01:52,00:01:51,04:35:53
+ironman-70.3-miami-20161023.csv,1046,Raphael Oliveira,35,Amazonas,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1047,Juan Ortega,37,FL,GTM,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1048,Malik Owens,39,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1049,Atalay Ozdemir,37,---,TUR,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1050,Gustavo Enrique Palacio Suarez,38,---,COL,01:02:32,03:08:05,02:59:46,00:05:02,00:03:58,07:19:23
+ironman-70.3-miami-20161023.csv,1051,Thiago Palmieri,39,FL,BRA,00:58:47,03:08:50,02:29:41,00:03:55,00:06:40,06:47:53
+ironman-70.3-miami-20161023.csv,1052,Tim Pappas,35,PA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1053,Joshua Parker,35,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1054,Gustavo Patino,39,MIRANDA,VEN,00:50:31,02:44:05,01:58:14,00:02:23,00:01:52,05:37:05
+ironman-70.3-miami-20161023.csv,1055,Maciej Pawlowski,37,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1056,Eduardo Pazello,39,NV,BRA,00:38:12,02:39:53,02:21:14,00:04:43,00:03:08,05:47:10
+ironman-70.3-miami-20161023.csv,1057,Arturo Pena,36,MA,MEX,00:53:23,02:57:12,02:06:48,00:07:11,00:05:13,06:09:47
+ironman-70.3-miami-20161023.csv,1058,Manuel Antonio Pena Quevedo,39,El Oro,ECU,00:53:12,02:50:59,02:21:09,00:05:29,00:04:48,06:15:37
+ironman-70.3-miami-20161023.csv,1059,Claudio Eduardo Pereira,38,SC,BRA,00:45:40,02:47:11,02:08:03,00:03:19,00:03:35,05:47:48
+ironman-70.3-miami-20161023.csv,1060,Mario Pescarolo,36,FL,ECU,00:44:20,02:47:03,02:20:41,00:02:03,00:02:55,05:57:02
+ironman-70.3-miami-20161023.csv,1061,Agustin Pfister,36,JUJUY,ARG,00:56:46,03:19:17,02:51:50,00:03:14,00:03:39,07:14:46
+ironman-70.3-miami-20161023.csv,1062,Esteban Pineda,34,---,COL,00:49:18,02:39:21,01:56:18,00:04:12,00:04:05,05:33:14
+ironman-70.3-miami-20161023.csv,1063,Alonso Pinto,37,arequipa,PER,00:45:52,03:00:26,02:50:06,00:07:07,00:06:28,06:49:59
+ironman-70.3-miami-20161023.csv,1064,Carlos Piovesan,37,FL,ECU,00:52:15,02:58:55,01:56:47,00:04:16,00:04:02,05:56:15
+ironman-70.3-miami-20161023.csv,1065,Aladino Pisaneschi Netto,36,Sao Paulo,BRA,00:59:12,02:47:01,02:28:52,00:02:40,00:05:36,06:23:21
+ironman-70.3-miami-20161023.csv,1066,Massimo Pizziol,36,FL,ITA,00:43:18,02:43:08,02:08:34,00:02:03,00:02:21,05:39:24
+ironman-70.3-miami-20161023.csv,1067,Nicolas Pombo,36,AR,CHL,00:46:16,03:04:29,01:48:45,00:02:32,00:02:39,05:44:41
+ironman-70.3-miami-20161023.csv,1068,Praveen Putlur,36,GA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1069,Daniel Da Gama Guimaraes Ramalho,36,MG,BRA,00:28:00,02:23:28,01:46:51,00:02:24,00:02:04,04:42:47
+ironman-70.3-miami-20161023.csv,1070,Tarik Ramusovic,38,TN,USA,00:52:17,02:51:32,02:12:05,00:05:11,00:06:00,06:07:05
+ironman-70.3-miami-20161023.csv,1071,Lee Rantala,39,ON,CAN,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1072,David Ratajczak,38,GA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1073,Manmadh Rebba,37,CA,IND,01:04:07,03:01:36,02:08:26,00:04:21,00:03:27,06:21:57
+ironman-70.3-miami-20161023.csv,1074,José Rebolledo-Castro,35,---,CHL,00:57:44,02:46:14,01:48:00,00:03:38,00:02:42,05:38:18
+ironman-70.3-miami-20161023.csv,1075,Mark Riordan,37,NY,USA,00:55:49,02:39:46,03:03:52,00:03:36,00:03:48,06:46:51
+ironman-70.3-miami-20161023.csv,1076,Alex Rivkin,38,FL,USA,00:53:05,02:34:33,01:40:47,00:02:11,00:02:28,05:13:04
+ironman-70.3-miami-20161023.csv,1077,Mark Rockefeller,39,VA,USA,00:51:52,02:44:44,02:21:14,00:02:51,00:03:42,06:04:23
+ironman-70.3-miami-20161023.csv,1078,Efrain Rodriguez,36,LA LIBERTAD,SLV,01:00:18,02:41:01,02:03:07,00:02:48,00:02:19,05:49:33
+ironman-70.3-miami-20161023.csv,1079,Jose Luis Rodriguez,36,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1080,Diego Andres Rojas Sierra,36,Antioquia,COL,00:45:18,03:15:27,02:33:50,00:04:29,00:05:47,06:44:51
+ironman-70.3-miami-20161023.csv,1081,Gabriel Rolandelli,37,Santa Fe,ARG,00:57:15,02:54:19,02:22:01,00:03:15,00:03:41,06:20:31
+ironman-70.3-miami-20161023.csv,1082,Kevin Ronaldson,35,Warwick,GBR,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1083,Gaston Rossetto,35,buenos aires caba,ARG,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1084,Conrado Ruivo,38,Intl State,BRA,00:44:16,02:33:07,01:36:00,00:02:50,00:03:09,04:59:22
+ironman-70.3-miami-20161023.csv,1085,Frankie Ruiz,37,FL,USA,00:53:50,02:51:05,01:52:36,00:06:25,00:05:07,05:49:03
+ironman-70.3-miami-20161023.csv,1086,Felipe Ruiz Cifuentes,37,Bogota,COL,00:45:10,03:14:14,02:08:52,00:03:46,00:04:21,06:16:23
+ironman-70.3-miami-20161023.csv,1087,Andres Sacristan,35,FL,COL,00:41:00,03:21:09,02:46:15,00:03:45,00:04:33,06:56:42
+ironman-70.3-miami-20161023.csv,1088,Gonzalo Saieg,34,---,CHL,00:40:51,02:48:44,01:44:11,00:02:46,00:01:45,05:18:17
+ironman-70.3-miami-20161023.csv,1089,Gary Salter,38,BRITISH VIRGIN ISLANDS,GBR,00:53:01,02:59:30,02:44:45,00:03:24,00:04:25,06:45:05
+ironman-70.3-miami-20161023.csv,1090,Jesus Sanchez,35,FL,JPN,00:48:48,02:32:57,02:23:39,00:03:58,00:04:30,05:53:52
+ironman-70.3-miami-20161023.csv,1091,Juan Antonio Sanchez Barriga.,38,Jalisco,MEX,00:45:34,03:04:50,02:05:52,00:02:10,00:03:22,06:01:48
+ironman-70.3-miami-20161023.csv,1092,Carlos Sandoval,36,MEXICO CITY,MEX,00:40:58,02:45:21,01:49:16,00:02:42,00:02:44,05:21:01
+ironman-70.3-miami-20161023.csv,1093,Jorge Sanhueza,36,---,CHL,00:48:50,02:36:19,01:40:04,00:02:58,00:02:54,05:11:05
+ironman-70.3-miami-20161023.csv,1094,Sebastian Sanint,36,Risaralda,COL,00:40:45,02:41:03,01:53:42,00:02:53,00:02:47,05:21:10
+ironman-70.3-miami-20161023.csv,1095,Dennys Sanoja,37,FL,VEN,01:04:50,02:47:18,02:06:40,00:02:10,00:01:54,06:02:52
+ironman-70.3-miami-20161023.csv,1096,Todd Sapio,36,TX,USA,00:41:05,02:21:38,01:40:11,00:02:13,00:01:37,04:46:44
+ironman-70.3-miami-20161023.csv,1097,Fernando Saravia,37,Guatemala,GTM,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1098,Michael Sarmiento,39,FL,USA,00:46:18,02:33:07,01:59:16,00:03:19,00:02:04,05:24:04
+ironman-70.3-miami-20161023.csv,1099,Nestor Scarafia,37,Cordoba,ARG,00:51:14,02:44:27,01:55:41,00:04:13,00:03:00,05:38:35
+ironman-70.3-miami-20161023.csv,1100,Mark Schullstrom,35,GA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1101,Frank Semeco,35,FL,USA,00:44:49,02:39:14,01:52:35,00:04:23,00:04:42,05:25:43
+ironman-70.3-miami-20161023.csv,1102,Nicholas Shacklock,38,SC,USA,01:01:52,03:02:53,02:37:59,00:06:33,00:04:29,06:53:46
+ironman-70.3-miami-20161023.csv,1103,Aric Shelby,39,VA,USA,01:01:18,03:09:49,02:15:38,00:04:26,00:06:03,06:37:14
+ironman-70.3-miami-20161023.csv,1104,Renato Silva,35,minas gerais ,BRA,00:40:19,02:31:58,01:43:43,00:02:37,00:03:13,05:01:50
+ironman-70.3-miami-20161023.csv,1105,Fernando Simoes,38,Sao Paulo,BRA,00:48:39,02:27:56,01:45:54,00:02:20,00:02:11,05:07:00
+ironman-70.3-miami-20161023.csv,1106,Rich Simon,37,FL,USA,01:10:22,03:40:47,---,00:04:51,---,DNF
+ironman-70.3-miami-20161023.csv,1107,Barton Smith,37,FL,USA,00:41:33,02:44:48,01:59:10,00:03:20,00:03:12,05:32:03
+ironman-70.3-miami-20161023.csv,1108,Christopher Smith,35,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1109,David Solano,35,FL,USA,00:58:48,03:08:50,02:41:09,00:04:07,00:06:27,06:59:21
+ironman-70.3-miami-20161023.csv,1110,Francisco Soler,36,FL,USA,00:36:51,02:21:23,01:34:23,00:02:50,00:02:16,04:37:43
+ironman-70.3-miami-20161023.csv,1111,David Soriano,39,Intl State,SLV,01:02:27,03:07:54,02:19:40,00:05:27,00:05:37,06:41:05
+ironman-70.3-miami-20161023.csv,1112,Dean Sosic,35,Croatia,HRV,00:42:44,02:41:24,01:56:59,00:02:50,00:02:07,05:26:04
+ironman-70.3-miami-20161023.csv,1113,Martin Sourigues,37,ES,ARG,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1114,Gustavo Sousa,38,NY,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1115,Kerwin Speight,36,DC,USA,01:49:11,---,---,00:07:31,---,DNF
+ironman-70.3-miami-20161023.csv,1116,Kenneth Starskov,39,FL,DNK,00:57:23,02:24:31,01:54:02,00:03:19,00:02:18,05:21:33
+ironman-70.3-miami-20161023.csv,1117,Emanuel Struber,39,---,DEU,00:37:02,02:33:50,01:59:53,00:02:30,00:02:12,05:15:27
+ironman-70.3-miami-20161023.csv,1118,Leonardo Swiech Neto,35,Parana,BRA,00:41:13,02:28:43,02:01:30,00:02:02,00:02:41,05:16:09
+ironman-70.3-miami-20161023.csv,1119,Nicholas Tambakis,38,NY,USA,00:52:56,02:45:21,01:46:49,00:04:07,00:03:24,05:32:37
+ironman-70.3-miami-20161023.csv,1120,Miles Tamburri,36,FL,USA,00:52:40,03:14:40,02:26:00,00:04:18,00:03:25,06:41:03
+ironman-70.3-miami-20161023.csv,1121,Angelo Tarricone,35,---,VEN,00:29:54,02:43:03,02:17:10,00:02:24,00:02:18,05:34:49
+ironman-70.3-miami-20161023.csv,1122,Chris Tatton,39,MN,USA,00:35:00,02:26:49,01:38:05,00:01:35,00:01:44,04:43:13
+ironman-70.3-miami-20161023.csv,1123,Rodrigo Tavares Dos Santos,36,Intl State,BRA,00:32:28,02:15:11,01:37:15,00:01:40,00:01:52,04:28:26
+ironman-70.3-miami-20161023.csv,1124,Daniel Tejada,39,Guatemala,GTM,00:45:27,02:40:52,02:17:22,00:03:38,00:03:37,05:50:56
+ironman-70.3-miami-20161023.csv,1125,David Terdjman,38,CABA,ARG,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1126,Wolf Thyssen,35,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1127,Dio Tortorello Barusco,34,FL,USA,00:54:13,03:15:43,03:04:33,00:15:12,00:08:21,07:38:02
+ironman-70.3-miami-20161023.csv,1128,Esmaldo Trochez,37,Francisco morazan,HND,00:44:33,02:43:03,02:38:29,00:03:16,00:02:46,06:12:07
+ironman-70.3-miami-20161023.csv,1129,Guillermo Urrutia Cortez,36,San Salvador,---,00:43:42,02:26:21,02:01:57,00:02:29,00:04:24,05:18:53
+ironman-70.3-miami-20161023.csv,1130,Jos Valdez,37,DF,MEX,01:04:47,03:26:33,02:28:10,00:09:51,00:07:15,07:16:36
+ironman-70.3-miami-20161023.csv,1131,Adam Van Thiel,36,---,GBR,01:04:20,03:15:08,02:39:26,00:04:47,00:05:29,07:09:10
+ironman-70.3-miami-20161023.csv,1132,Oscar Vasquez,38,FL,VEN,00:52:38,03:05:41,02:16:27,00:03:42,00:06:24,06:24:52
+ironman-70.3-miami-20161023.csv,1133,German Vega,36,---,---,00:58:58,03:39:15,02:09:13,00:05:27,00:03:28,06:56:21
+ironman-70.3-miami-20161023.csv,1134,Edgardo Veliz,36,---,CHL,00:42:58,02:37:35,02:15:23,00:01:39,00:02:36,05:40:11
+ironman-70.3-miami-20161023.csv,1135,Andre Vieira,38,São Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1136,Vinicius Vieira,35,Rondônia,BRA,00:40:19,03:04:45,02:06:28,00:06:37,00:07:17,06:05:26
+ironman-70.3-miami-20161023.csv,1137,Carlos Alberto Villalvazo Giorgana,38,PUEBLA,MEX,00:43:24,03:03:11,02:01:46,00:02:37,00:02:35,05:53:33
+ironman-70.3-miami-20161023.csv,1138,Mauricio Villaplana,36,argentina,ARG,00:37:07,02:26:30,01:26:58,00:01:41,00:03:08,04:35:24
+ironman-70.3-miami-20161023.csv,1139,Niki Voigt,37,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1140,Toshinao Wada,39,MI,JPN,00:54:54,02:41:23,02:19:45,00:04:10,00:03:33,06:03:45
+ironman-70.3-miami-20161023.csv,1141,Dennis Walerius,36,OH,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1142,Matthew Walker,35,OH,USA,00:50:19,02:41:45,01:47:20,00:02:24,00:03:35,05:25:23
+ironman-70.3-miami-20161023.csv,1143,Aaron Wall,36,TX,USA,00:57:32,02:47:02,02:46:00,00:03:29,00:07:26,06:41:29
+ironman-70.3-miami-20161023.csv,1144,Ryan Webb,38,MS,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1145,Dan Wengert,39,FL,USA,00:53:10,02:41:53,02:34:40,00:03:54,00:06:50,06:20:27
+ironman-70.3-miami-20161023.csv,1146,John Winogrocki,38,IL,USA,01:06:27,03:09:53,02:23:12,00:02:46,00:07:03,06:49:21
+ironman-70.3-miami-20161023.csv,1147,Luke Winter,36,TX,USA,00:55:33,03:03:32,02:15:44,00:03:24,00:03:44,06:21:57
+ironman-70.3-miami-20161023.csv,1148,Alexander Wood,38,Jersey,GBR,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1149,Scott Wright,38,FL,USA,00:40:59,03:04:41,02:05:13,00:03:19,00:04:20,05:58:32
+ironman-70.3-miami-20161023.csv,1150,Ryan Wrigley,35,AL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1151,Hernan Yellati,38,FL,ARG,00:53:23,03:07:56,02:39:48,00:04:28,00:03:24,06:48:59
+ironman-70.3-miami-20161023.csv,1152,Kerredine Yelnik,39,FL,FRA,00:54:16,02:46:34,01:58:32,00:02:49,00:02:27,05:44:38
+ironman-70.3-miami-20161023.csv,1153,Peter Zimeri,35,Guatemala,GTM,00:37:26,02:35:40,01:52:36,00:02:27,00:02:44,05:10:53
+ironman-70.3-miami-20161023.csv,1154,Odair Zueli Jr,39,São Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1155,Pascal Acquaviva,56,FL,FRA,00:52:34,02:36:01,02:39:18,00:03:01,00:04:53,06:15:47
+ironman-70.3-miami-20161023.csv,1156,Manrique Alonso,59,FL,CUB,01:26:03,03:02:16,02:25:05,00:04:00,00:04:58,DNF
+ironman-70.3-miami-20161023.csv,1157,Jose Alvarez,54,FL,USA,00:53:38,02:33:36,02:54:26,00:02:46,00:03:29,06:27:55
+ironman-70.3-miami-20161023.csv,1158,Jose Azevedo,59,NY,USA,01:26:16,03:02:27,02:42:32,00:06:06,00:07:08,DNF
+ironman-70.3-miami-20161023.csv,1159,Joseph Barton,56,FL,USA,00:46:34,03:03:54,02:17:02,00:04:06,00:05:44,06:17:20
+ironman-70.3-miami-20161023.csv,1160,Stephane Marc Jules Bensaid,55,Orient bay,FRA,00:43:35,02:31:17,01:47:04,00:02:35,00:02:05,05:06:36
+ironman-70.3-miami-20161023.csv,1161,Fabian Berdun,54,buenos aires,ARG,00:58:21,02:52:45,02:22:45,00:02:41,00:03:33,06:20:05
+ironman-70.3-miami-20161023.csv,1162,Daniel Bernier,58,Québec,CAN,00:50:36,02:50:58,02:41:16,00:06:48,00:14:21,06:43:59
+ironman-70.3-miami-20161023.csv,1163,John Bobango,55,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1164,Gene Clarici,58,NJ,USA,01:03:37,03:17:41,02:42:33,00:06:04,00:04:11,07:14:06
+ironman-70.3-miami-20161023.csv,1165,Art Demonte,58,MI,USA,00:57:25,03:17:34,02:27:27,00:03:28,00:05:58,06:51:52
+ironman-70.3-miami-20161023.csv,1166,Bob Diener,58,FL,USA,00:51:00,03:20:47,02:50:09,00:06:49,00:08:58,07:17:43
+ironman-70.3-miami-20161023.csv,1167,Mauricio Donoso Silva,56,---,CHL,00:42:18,02:36:10,01:55:29,00:02:25,00:03:24,05:19:46
+ironman-70.3-miami-20161023.csv,1168,William Ennis,58,IL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1169,Alfredo Fanello,55,NEUQUEN,ARG,00:56:18,02:49:22,02:13:19,00:04:31,00:03:55,06:07:25
+ironman-70.3-miami-20161023.csv,1170,Tim Farrow,55,FL,USA,00:48:47,03:08:36,---,00:05:32,---,DNF
+ironman-70.3-miami-20161023.csv,1171,Carlos Galindo,55,Guatemala,GTM,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1172,José Tomas Ghergo,59,Buenos Aires,ARG,00:52:50,02:54:39,02:44:44,00:04:19,00:03:14,06:39:46
+ironman-70.3-miami-20161023.csv,1173,Javier Gonzalez,54,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1174,Anthony Hirsch,55,Cheshire ,GBR,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1175,Patricio Hornauer,58,---,CHL,01:04:53,03:00:08,02:35:59,00:05:50,00:05:00,06:51:50
+ironman-70.3-miami-20161023.csv,1176,Edward Horton,57,PA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1177,Juan Carlos Jacob,57,mexico city,MEX,00:57:28,03:03:14,02:25:37,00:03:35,00:02:40,06:32:34
+ironman-70.3-miami-20161023.csv,1178,David Kenny,57,FL,USA,00:55:54,02:47:20,02:37:32,00:03:17,00:03:24,06:27:27
+ironman-70.3-miami-20161023.csv,1179,Tuvia Kestenboim,56,noselection,ISL,00:56:35,02:50:51,02:44:16,00:05:47,00:10:21,06:47:50
+ironman-70.3-miami-20161023.csv,1180,John Leighton,56,NC,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1181,John Magouirk,55,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1182,Michael Mansfield,56,GA,USA,01:03:04,03:11:52,02:30:17,00:03:47,00:04:19,06:53:19
+ironman-70.3-miami-20161023.csv,1183,Scott Mcconkey,54,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1184,Hugh Mcgillicuddy,58,VA,USA,00:37:40,02:50:52,02:17:08,00:03:23,00:04:58,05:54:01
+ironman-70.3-miami-20161023.csv,1185,Glenn Nagle,58,FL,USA,00:55:16,03:27:12,03:02:01,00:04:00,00:04:14,07:32:43
+ironman-70.3-miami-20161023.csv,1186,Gustavo Antonio Ortiz Aguilar,55,---,GTM,01:04:37,03:15:23,02:21:23,00:07:49,00:04:51,06:54:03
+ironman-70.3-miami-20161023.csv,1187,Eric Ragot,58,---,GLP,00:52:43,02:48:01,01:57:59,00:02:55,00:03:05,05:44:43
+ironman-70.3-miami-20161023.csv,1188,Leonardo Rietti,58,---,ARG,00:52:47,02:49:23,02:23:39,00:07:34,00:04:44,06:18:07
+ironman-70.3-miami-20161023.csv,1189,Hector Rojo,58,Other,CHL,00:48:37,02:56:07,02:06:41,00:02:59,00:02:26,05:56:50
+ironman-70.3-miami-20161023.csv,1190,Stephen Shulman,56,NY,USA,00:47:00,02:49:41,01:56:36,00:02:03,00:03:28,05:38:48
+ironman-70.3-miami-20161023.csv,1191,Roberto Souza,54,São Paulo,BRA,00:45:16,03:02:46,01:57:49,00:03:11,00:03:28,05:52:30
+ironman-70.3-miami-20161023.csv,1192,Eric Stonestrom,55,FL,USA,01:05:30,03:03:48,02:25:22,00:05:45,00:07:46,06:48:11
+ironman-70.3-miami-20161023.csv,1193,José De Jesús Suárez Eusa,56,DN,ESP,01:27:09,02:52:30,02:37:54,00:03:16,00:06:26,DNF
+ironman-70.3-miami-20161023.csv,1194,Alejandro Texidor,59,Buenos Aires,ARG,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1195,Johnny Tunon,56,FL,USA,01:18:36,02:53:48,02:41:54,00:02:10,00:03:51,DNF
+ironman-70.3-miami-20161023.csv,1196,Richard Uva,55,CT,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1197,Jeff Waddle,56,SC,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1198,Marcelo Wolodarsky,55,c.a.b.a.,ARG,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1199,Alexander Zakharov,56,Russia,RUS,00:57:22,02:50:46,02:28:51,00:04:06,00:03:26,06:24:31
+ironman-70.3-miami-20161023.csv,1200,David Zatkoff,59,MI,USA,01:23:18,03:01:00,03:22:25,00:06:35,00:06:42,DNF
+ironman-70.3-miami-20161023.csv,1201,Alfredo Zolezzi,57,---,CHL,01:31:48,03:20:25,02:36:20,00:03:59,00:06:11,DNF
+ironman-70.3-miami-20161023.csv,1202,Robert Carson,60,PA,USA,00:51:45,02:59:22,02:12:52,00:02:52,00:06:16,06:13:07
+ironman-70.3-miami-20161023.csv,1203,William Dabney,62,GA,USA,00:35:22,02:31:42,02:31:45,00:02:13,00:02:39,05:43:41
+ironman-70.3-miami-20161023.csv,1204,Robert Defrancesco,61,FL,USA,00:55:01,03:07:28,02:32:19,00:07:20,00:04:17,06:46:25
+ironman-70.3-miami-20161023.csv,1205,Salvador Di Pietro,60,mendoza,ARG,00:50:26,03:12:00,03:33:51,00:05:54,00:05:45,07:47:56
+ironman-70.3-miami-20161023.csv,1206,Thomas Goddard,61,FL,USA,00:49:33,02:51:03,01:54:01,00:03:16,00:02:51,05:40:44
+ironman-70.3-miami-20161023.csv,1207,Benedict Kuehne,62,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1208,Carlos Kumakola,60,SP,BRA,01:16:52,03:05:29,02:15:28,00:04:01,00:05:28,DNF
+ironman-70.3-miami-20161023.csv,1209,Michael Leemhuis,62,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1210,Bill Liberio,62,FL,USA,00:58:14,03:05:11,03:22:05,00:05:24,00:05:31,07:36:25
+ironman-70.3-miami-20161023.csv,1211,Eric Loveless,60,FL,USA,00:52:04,02:52:57,02:45:26,00:03:31,00:04:05,06:38:03
+ironman-70.3-miami-20161023.csv,1212,Minvielle Luis,60,Argentina,ARG,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1213,Jerry Mccrum,60,GA,USA,00:57:26,03:02:16,02:27:34,00:03:26,00:03:39,06:34:21
+ironman-70.3-miami-20161023.csv,1214,Oscar Meritens,61,bs as,ARG,01:18:48,02:56:29,02:35:51,00:02:09,00:03:02,DNF
+ironman-70.3-miami-20161023.csv,1215,Dennis Meyers,60,MD,USA,01:14:18,03:43:25,02:38:41,00:09:31,00:06:34,DNF
+ironman-70.3-miami-20161023.csv,1216,Tom Miller,61,CO,USA,01:25:46,03:13:49,---,00:03:45,---,DNF
+ironman-70.3-miami-20161023.csv,1217,Marco Oliveira,64,Sao Paulo,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1218,James Orphan,64,RI,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1219,Luis Rivera,59,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1220,Robert Seibert,59,NY,USA,01:02:04,03:30:06,02:49:32,00:09:53,00:10:51,07:42:26
+ironman-70.3-miami-20161023.csv,1221,Enrique Selame,61,---,CHL,01:00:25,02:50:15,02:04:14,00:02:13,00:03:12,06:00:19
+ironman-70.3-miami-20161023.csv,1222,Mark Silverstein,63,FL,USA,01:06:22,03:19:51,02:58:15,00:03:50,00:05:04,07:33:22
+ironman-70.3-miami-20161023.csv,1223,Peter Spohn,62,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1224,Jorge Villegas,60,Adolfo Lopez Mateos,MEX,00:36:22,02:45:44,02:14:55,00:02:33,00:03:04,05:42:38
+ironman-70.3-miami-20161023.csv,1225,Robert Appelbaum,65,CT,USA,00:56:34,03:52:22,03:18:07,00:06:23,00:08:16,08:21:42
+ironman-70.3-miami-20161023.csv,1226,Miguel Aznar,66,Buenos aires,ARG,01:01:39,03:03:22,02:48:11,00:06:11,00:07:22,07:06:45
+ironman-70.3-miami-20161023.csv,1227,Luis Hernando Castaneda Nieto,65,SANTANDER,COL,00:52:46,03:07:48,02:10:32,00:05:25,00:05:52,06:22:23
+ironman-70.3-miami-20161023.csv,1228,Chris Churchill,66,MA,USA,00:58:45,03:35:23,02:21:45,00:03:54,00:04:11,07:03:58
+ironman-70.3-miami-20161023.csv,1229,Philippe Clerc,66,Guadeloupe,FRA,00:57:28,02:41:39,02:08:50,00:03:19,00:02:17,05:53:33
+ironman-70.3-miami-20161023.csv,1230,Carlos M Garcia Pina,66,FL,MEX,01:09:33,03:20:32,03:00:57,00:09:10,00:12:07,07:52:19
+ironman-70.3-miami-20161023.csv,1231,Michael Shields,69,NY,USA,01:03:07,03:05:39,02:49:39,00:03:12,00:05:21,07:06:58
+ironman-70.3-miami-20161023.csv,1232,Al Simmons,68,FL,USA,01:08:29,03:01:00,02:28:57,00:05:50,00:05:05,06:49:21
+ironman-70.3-miami-20161023.csv,1233,Martin Guillermo Amengual,70,CORDOBA,ARG,01:02:28,03:30:31,03:08:22,00:05:27,00:08:18,07:55:06
+ironman-70.3-miami-20161023.csv,1234,Roberto Campos,71,SP,BRA,00:52:55,---,---,---,---,DNF
+ironman-70.3-miami-20161023.csv,1235,Jose Alfredo Fascinato,73,Buenos Aires,ARG,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1236,Dan Mccarel,73,PA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1237,Ruben Moreno,70,PR,PRI,00:49:50,03:01:34,02:07:11,00:05:11,00:04:19,06:08:05
+ironman-70.3-miami-20161023.csv,1238,Juergen Kuhlmey,78,FL,DEU,01:37:52,03:56:04,02:54:27,00:04:04,00:06:10,DNF
+ironman-70.3-miami-20161023.csv,1239,Ricardo Alfaro,50,san salvador,---,00:55:00,02:50:59,01:37:42,00:03:53,00:05:48,05:33:22
+ironman-70.3-miami-20161023.csv,1240,Amilcar F Altemani,52,SP,BRA,00:41:19,02:38:11,01:43:01,00:02:24,00:02:44,05:07:39
+ironman-70.3-miami-20161023.csv,1241,Lawrence Altman,52,CO,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1242,Rafael Alva,50,MEXICO CITY,MEX,00:57:21,03:59:37,02:17:22,00:05:36,00:06:34,07:26:30
+ironman-70.3-miami-20161023.csv,1243,Marc André,49,Quintana Roo,MEX,00:44:04,02:41:19,02:10:16,00:01:58,00:04:12,05:41:49
+ironman-70.3-miami-20161023.csv,1244,Jose APONTE ARZENO,52,FL,DOM,00:55:03,02:48:32,02:17:47,00:03:20,00:03:52,06:08:34
+ironman-70.3-miami-20161023.csv,1245,Pablo Arias Usandivaras,52,Argentina,ARG,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1246,Alejandro Armendariz,51,Mendoza,ARG,00:37:26,02:29:26,01:38:15,00:02:16,00:01:48,04:49:11
+ironman-70.3-miami-20161023.csv,1247,Francisco Arriaza,49,Intl State,GTM,00:55:17,03:02:53,02:17:58,00:03:47,00:03:18,06:23:13
+ironman-70.3-miami-20161023.csv,1248,John Ayres,51,Virgin Islands,GBR,00:59:13,03:36:53,02:52:09,00:07:58,00:09:22,07:45:35
+ironman-70.3-miami-20161023.csv,1249,Stephen Bamberger,51,UT,USA,00:47:18,02:49:12,02:18:13,00:03:52,00:05:18,06:03:53
+ironman-70.3-miami-20161023.csv,1250,German Barison Kahn,53,---,CHL,01:04:38,02:54:14,02:37:25,00:02:36,00:04:50,06:43:43
+ironman-70.3-miami-20161023.csv,1251,Adam Barringer,50,FL,USA,00:46:33,03:14:58,02:46:40,00:04:05,00:06:23,06:58:39
+ironman-70.3-miami-20161023.csv,1252,Gilbert Beauperthuy,53,FL,USA,01:14:42,03:11:35,02:11:58,00:05:03,00:05:57,DNF
+ironman-70.3-miami-20161023.csv,1253,Bertrand Bernadac,50,FR,FRA,00:52:38,02:49:41,02:19:09,00:07:37,00:08:24,06:17:29
+ironman-70.3-miami-20161023.csv,1254,Nicholas Bertolino,50,PA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1255,Andre Bettanin,52,RS - BRASIL,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1256,Rodrigo Boaventura,51,FL,BRA,00:48:09,02:48:25,02:02:03,00:06:31,00:05:25,05:50:33
+ironman-70.3-miami-20161023.csv,1257,Mark Bornstein,49,FL,USA,00:55:05,03:02:08,---,00:04:51,00:03:23,DNF
+ironman-70.3-miami-20161023.csv,1258,Harold Alberto Botero,50,Cundinamarca,COL,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1259,Marcelo Calio,53,buenos aires,ARG,00:52:51,02:50:52,02:33:02,00:02:56,00:03:08,06:22:49
+ironman-70.3-miami-20161023.csv,1260,Leonardo Calumpang,52,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1261,Luiz Fernando Candido,49,FL,USA,00:49:27,02:45:05,02:32:47,00:03:13,00:03:51,06:14:23
+ironman-70.3-miami-20161023.csv,1262,Chris Cantrill,51,FL,GBR,01:04:29,03:02:18,02:25:23,00:02:59,00:04:10,06:39:19
+ironman-70.3-miami-20161023.csv,1263,Elbio Casali,51,buenos aires,ARG,00:42:18,02:39:10,01:55:28,00:01:52,00:02:28,05:21:16
+ironman-70.3-miami-20161023.csv,1264,Mario Castro,50,NC,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1265,Joe Chaput,50,FL,USA,00:49:41,02:46:03,---,00:03:29,00:03:43,DNF
+ironman-70.3-miami-20161023.csv,1266,Jose Chipoco,54,FL,USA,00:44:35,03:07:53,02:27:56,00:04:17,00:04:57,06:29:38
+ironman-70.3-miami-20161023.csv,1267,William Christy,53,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1268,John Ciraula,51,PA,USA,00:57:25,03:09:43,02:14:27,00:04:24,00:04:32,06:30:31
+ironman-70.3-miami-20161023.csv,1269,Colin Clark,53,HI,GBR,01:02:38,02:49:04,02:06:26,00:04:23,00:03:01,06:05:32
+ironman-70.3-miami-20161023.csv,1270,Barry Clements,53,MD,USA,00:54:50,02:54:26,02:23:06,00:05:15,00:05:15,06:22:52
+ironman-70.3-miami-20161023.csv,1271,Mark Colaluca,54,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1272,David Colon,54,FL,USA,01:20:22,03:23:12,01:34:59,00:07:07,00:04:59,DNF
+ironman-70.3-miami-20161023.csv,1273,Xavier Comte,52,---,FRA,00:53:21,02:43:05,02:12:16,00:03:29,00:03:48,05:55:59
+ironman-70.3-miami-20161023.csv,1274,Rick Cope,53,FL,USA,00:46:31,02:22:26,01:41:12,00:01:55,00:03:39,04:55:43
+ironman-70.3-miami-20161023.csv,1275,Ricardo Coronel,50,FL,MEX,00:40:56,03:08:12,02:06:49,00:02:48,00:04:41,06:03:26
+ironman-70.3-miami-20161023.csv,1276,Antonio Carlos Cortez Mauro,51,São Paulo,BRA,01:00:23,03:16:56,03:09:10,00:05:36,00:04:58,07:37:03
+ironman-70.3-miami-20161023.csv,1277,Luis Angel Costantini,52,Capital Federal,ARG,00:49:34,03:03:24,02:49:24,00:05:36,00:05:08,06:53:06
+ironman-70.3-miami-20161023.csv,1278,John Creech,50,GA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1279,Alexander Dahm,51,---,DEU,01:08:29,02:43:55,02:05:42,00:01:56,00:05:13,06:05:15
+ironman-70.3-miami-20161023.csv,1280,Christopher Daniels,49,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1281,Ken Davis,51,FL,USA,01:07:31,---,---,00:03:44,---,DNF
+ironman-70.3-miami-20161023.csv,1282,F Borja De La Rosa,52,---,ESP,01:04:54,02:58:44,02:03:19,00:03:53,00:03:10,06:14:00
+ironman-70.3-miami-20161023.csv,1283,Sergio De La Torre Gimeno,53,---,GTM,00:58:54,03:02:23,02:34:09,00:05:22,00:06:30,06:47:18
+ironman-70.3-miami-20161023.csv,1284,Brett Dewitt,54,PA,USA,00:53:30,03:00:13,03:20:41,00:05:19,00:06:45,07:26:28
+ironman-70.3-miami-20161023.csv,1285,Gustavo Diaz,52,buenos aires,ARG,00:49:43,02:50:59,02:13:41,00:05:55,00:03:28,06:03:46
+ironman-70.3-miami-20161023.csv,1286,Bulmaro Diaz Valenzuela,50,TLALNEPANTLA,MEX,00:48:00,02:39:57,---,00:02:18,00:04:28,DNF
+ironman-70.3-miami-20161023.csv,1287,Klaus Erlinghagen,51,---,DEU,00:48:26,02:26:24,01:57:36,00:03:23,00:03:18,05:19:07
+ironman-70.3-miami-20161023.csv,1288,Mark Erwin,52,FL,USA,00:50:44,02:43:05,---,00:02:30,00:03:57,DNF
+ironman-70.3-miami-20161023.csv,1289,Carlos Etcheverry,52,Intl State,ARG,00:51:50,02:35:18,01:45:52,00:02:35,00:03:17,05:18:52
+ironman-70.3-miami-20161023.csv,1290,Heinz Feilen,54,---,DEU,00:48:11,02:31:23,01:48:44,00:02:08,00:02:06,05:12:32
+ironman-70.3-miami-20161023.csv,1291,Braulio Fernandez,54,FL,ESP,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1292,Marco Antonio Fernandez Diez,53,---,CHL,00:53:06,02:25:49,01:59:09,00:03:26,00:03:18,05:24:48
+ironman-70.3-miami-20161023.csv,1293,Antonio Ferrus,50,Intl State,GTM,00:53:09,03:10:26,03:02:09,00:04:12,00:07:51,07:17:47
+ironman-70.3-miami-20161023.csv,1294,Christian Fortin,50,Québec,CAN,00:51:00,03:03:48,02:12:02,00:03:42,00:03:13,06:13:45
+ironman-70.3-miami-20161023.csv,1295,Sean Fowler,52,FL,USA,00:53:50,02:33:30,01:42:54,00:02:29,00:02:35,05:15:18
+ironman-70.3-miami-20161023.csv,1296,Santiago Fuentes,54,Distrito Federal,MEX,00:58:44,03:02:42,02:53:08,00:05:00,00:06:02,07:05:36
+ironman-70.3-miami-20161023.csv,1297,Eduardo Adrian Garcia,50,SANTA CATARINA,BRA,00:46:56,02:48:21,01:56:24,00:03:26,00:04:11,05:39:18
+ironman-70.3-miami-20161023.csv,1298,Hugo Garcia,49,estado de mexico,MEX,00:57:35,02:47:37,02:23:30,00:04:10,00:04:49,06:17:41
+ironman-70.3-miami-20161023.csv,1299,Frank Garcia Rivera,53,Intl State,DOM,---,---,---,---,---,DQ
+ironman-70.3-miami-20161023.csv,1300,Carlos Cristian Gentile,51,---,ARG,00:58:43,02:42:55,02:00:22,00:03:11,00:02:23,05:47:34
+ironman-70.3-miami-20161023.csv,1301,Jeremy Goldstein,54,FL,USA,01:09:51,02:57:38,02:51:56,00:09:43,00:05:28,07:14:36
+ironman-70.3-miami-20161023.csv,1302,Bert Gonzalez,52,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1303,Jose Gonzalez,51,GA,CUB,01:14:29,03:18:49,02:34:22,00:04:02,00:03:17,DNF
+ironman-70.3-miami-20161023.csv,1304,Marcelo Eduardo Gonzalez,51,Cordoba,ARG,00:49:03,02:50:59,02:25:25,00:03:08,00:03:04,06:11:39
+ironman-70.3-miami-20161023.csv,1305,Xavier Gonzalez,50,QC,CAN,00:49:43,02:43:57,02:44:44,00:03:24,00:04:25,06:26:13
+ironman-70.3-miami-20161023.csv,1306,Jorge Gonzalez Amaya,52,Cundinamarca,COL,00:57:25,03:28:29,02:24:53,00:09:45,00:05:35,07:06:07
+ironman-70.3-miami-20161023.csv,1307,Manuel Gonzalez Vivian,54,DISTRITO FEDERAL,MEX,00:59:26,02:33:53,02:05:59,00:02:10,00:03:06,05:44:34
+ironman-70.3-miami-20161023.csv,1308,Steeves Guenette,52,QC,CAN,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1309,Alejandro Gumucio,53,Montevideo,BOL,01:10:43,03:18:15,02:26:08,00:04:58,00:04:50,DNF
+ironman-70.3-miami-20161023.csv,1310,Ricardo Halah,50,Intl State,BRA,00:43:55,02:50:20,02:09:07,00:03:27,00:03:56,05:50:45
+ironman-70.3-miami-20161023.csv,1311,Julio Heinsen M,53,Dominicana Republic,DOM,00:49:47,03:04:50,02:27:38,00:03:35,00:04:37,06:30:27
+ironman-70.3-miami-20161023.csv,1312,Carlos Hermosa,51,BUENOS AIRES,ARG,00:46:06,02:36:06,02:04:14,00:02:24,00:02:12,05:31:02
+ironman-70.3-miami-20161023.csv,1313,Julio Drago Ivanko,50,Capiral Federal,ARG,00:54:46,02:37:25,01:50:55,00:01:50,00:02:42,05:27:38
+ironman-70.3-miami-20161023.csv,1314,Kent Jackson,53,DC,USA,01:05:42,03:15:00,03:10:56,00:06:06,00:07:25,07:45:09
+ironman-70.3-miami-20161023.csv,1315,Rene Jara,51,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1316,Enrique Jaramillo S,52,caldas,COL,00:41:42,02:31:28,01:45:20,00:02:36,00:02:15,05:03:21
+ironman-70.3-miami-20161023.csv,1317,Kenneth Johnston Nahum,54,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1318,Pablo Kalaizic,51,ES,ARG,01:06:49,03:38:33,01:53:28,00:05:37,00:05:36,06:50:03
+ironman-70.3-miami-20161023.csv,1319,Tim Keithahn,50,FL,USA,00:49:57,02:46:26,02:32:40,00:02:00,00:02:41,06:13:44
+ironman-70.3-miami-20161023.csv,1320,Dennis Klingener,53,FL,USA,00:55:02,03:05:29,02:53:46,00:02:44,00:05:17,07:02:18
+ironman-70.3-miami-20161023.csv,1321,Roman Krasnansky,52,NY,SVK,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1322,Christian Laos,51,FL,USA,01:06:10,02:57:48,02:43:34,00:04:46,00:05:04,06:57:22
+ironman-70.3-miami-20161023.csv,1323,Patrick Lennon,52,FL,USA,00:55:26,02:54:52,01:56:57,00:03:45,00:03:00,05:54:00
+ironman-70.3-miami-20161023.csv,1324,Dave Levey,51,CA,USA,00:50:17,02:47:49,03:09:24,00:07:00,00:04:59,06:59:29
+ironman-70.3-miami-20161023.csv,1325,Stefan Lindskog,52,SE,SWE,01:17:01,03:13:22,02:02:19,00:03:59,00:04:12,DNF
+ironman-70.3-miami-20161023.csv,1326,Rafael Lopez,51,PR,USA,00:47:29,02:51:34,02:33:08,00:02:08,00:03:33,06:17:52
+ironman-70.3-miami-20161023.csv,1327,Rick Loy,50,VA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1328,Daniel Lupinucci,51,Buenos aires,ARG,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1329,Ronald Lynch,53,FL,USA,00:51:52,02:44:51,01:58:09,00:03:16,00:02:40,05:40:48
+ironman-70.3-miami-20161023.csv,1330,Rudy Magasrevy,51,FL,USA,00:55:33,02:55:31,02:14:47,00:02:42,00:03:56,06:12:29
+ironman-70.3-miami-20161023.csv,1331,Claudio Massagardi,54,FL,USA,00:55:47,03:05:50,02:22:29,00:02:24,00:02:58,06:29:28
+ironman-70.3-miami-20161023.csv,1332,Jacques Matas,50,mendoza,ARG,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1333,Jonathan Mayer,52,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1334,Patrick Mcintosh,50,PA,USA,01:07:47,02:46:04,02:50:32,00:05:10,00:12:06,07:01:39
+ironman-70.3-miami-20161023.csv,1335,Gabriel Meyer,54,Buenos Aires,ARG,00:54:48,02:37:55,02:20:58,00:02:43,00:03:09,05:59:33
+ironman-70.3-miami-20161023.csv,1336,James Mick,53,MI,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1337,Daniel Juan Oscar Modarelli,51,MENDOZA,ARG,00:52:05,02:32:46,02:03:00,00:06:59,00:05:05,05:39:55
+ironman-70.3-miami-20161023.csv,1338,Eusebio Moraga Calderon,50,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1339,Yanko Morales,50,---,CHL,00:47:14,02:56:34,02:24:22,00:05:12,00:03:38,06:17:00
+ironman-70.3-miami-20161023.csv,1340,Francois Moreau,50,---,FRA,01:06:50,02:56:02,02:25:06,00:06:08,00:07:18,06:41:24
+ironman-70.3-miami-20161023.csv,1341,Oscar Moreno,53,Intl State,MEX,00:55:48,03:11:30,02:35:18,00:06:06,00:06:27,06:55:09
+ironman-70.3-miami-20161023.csv,1342,Michael Napoli,51,FL,USA,00:56:44,02:41:54,02:37:23,00:02:51,00:03:01,06:21:53
+ironman-70.3-miami-20161023.csv,1343,Francisco Nunez,54,---,CHL,00:59:18,03:22:34,02:40:13,00:05:37,00:04:32,07:12:14
+ironman-70.3-miami-20161023.csv,1344,jose nuzzolese,50,Tigre,ARG,01:00:56,02:56:53,02:16:42,00:09:23,00:04:54,06:28:48
+ironman-70.3-miami-20161023.csv,1345,Oscar Emilio Orrego Canseco,52,---,CHL,01:01:04,03:12:31,02:34:56,00:06:38,00:04:23,06:59:32
+ironman-70.3-miami-20161023.csv,1346,Don Packard,50,FL,USA,00:35:50,02:21:31,01:34:57,00:01:51,00:02:07,04:36:16
+ironman-70.3-miami-20161023.csv,1347,Arturo Pardo,52,FL,USA,01:07:42,02:27:29,01:43:28,00:02:29,00:02:59,05:24:07
+ironman-70.3-miami-20161023.csv,1348,Michael Passinger,54,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1349,Julio Pironio,54,Capital Federal,ARG,01:07:35,03:38:40,02:42:09,00:05:46,00:12:00,07:46:10
+ironman-70.3-miami-20161023.csv,1350,Julien Ponce,51,Quebec,CAN,00:55:41,02:47:42,02:03:10,00:04:00,00:03:45,05:54:18
+ironman-70.3-miami-20161023.csv,1351,Reid Prevatt,52,FL,USA,01:09:08,03:31:30,03:00:33,00:05:52,00:05:40,07:52:43
+ironman-70.3-miami-20161023.csv,1352,Joseph Prudhomme,50,FL,USA,01:10:08,02:50:49,02:31:57,00:03:19,00:03:52,DNF
+ironman-70.3-miami-20161023.csv,1353,Jose Quezada,52,FL,DOM,00:53:19,02:36:54,02:25:13,00:03:56,00:03:41,06:03:03
+ironman-70.3-miami-20161023.csv,1354,Guido Marcelo Reano,50,Buenos Aires,ARG,00:52:21,03:12:17,03:12:27,00:04:33,00:04:47,07:26:25
+ironman-70.3-miami-20161023.csv,1355,Kirk Reinitz,52,OH,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1356,Serge Rioux,53,QC,CAN,00:56:44,02:39:02,01:52:21,00:02:30,00:02:03,05:32:40
+ironman-70.3-miami-20161023.csv,1357,Ricardo Roberts,52,FL,MEX,00:46:21,02:36:32,01:58:21,00:02:51,00:02:40,05:26:45
+ironman-70.3-miami-20161023.csv,1358,Eduardo Rodriguez,50,FL,USA,01:06:12,03:03:23,02:16:23,00:03:02,00:03:50,06:32:50
+ironman-70.3-miami-20161023.csv,1359,Manuel Rojas,51,Intl State,CRI,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1360,Enrique Romero,50,FL,URY,01:12:43,03:02:41,02:35:34,00:02:01,00:02:47,DNF
+ironman-70.3-miami-20161023.csv,1361,Jari Routsi,49,Helsinki,FIN,01:05:07,03:08:22,02:24:29,00:04:45,00:05:19,06:48:02
+ironman-70.3-miami-20161023.csv,1362,Charlie Sabel,50,Bucks,GBR,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1363,Giovanni Sandoval,53,Tocantins,BRA,00:49:41,02:41:45,---,00:03:03,00:03:56,DNF
+ironman-70.3-miami-20161023.csv,1364,Guillermo Santos,51,FL,HND,01:14:18,02:51:54,03:08:36,00:03:21,00:05:05,DNF
+ironman-70.3-miami-20161023.csv,1365,Patrick Scace,50,ON,CAN,00:50:19,03:15:49,02:35:58,00:05:21,00:05:30,06:52:57
+ironman-70.3-miami-20161023.csv,1366,Robert Schmitz,50,---,CHL,00:50:17,02:46:51,02:07:36,00:03:56,00:03:32,05:52:12
+ironman-70.3-miami-20161023.csv,1367,Michael Schumacher,49,---,DEU,00:59:04,02:51:14,02:38:37,00:04:54,00:02:07,06:35:56
+ironman-70.3-miami-20161023.csv,1368,Eddy Semprun,51,FL,USA,00:48:33,02:45:28,02:04:51,00:02:58,00:03:42,05:45:32
+ironman-70.3-miami-20161023.csv,1369,Raul Suazo,52,Francisco Morazan,HND,01:24:43,03:20:12,02:42:36,00:04:06,00:04:46,DNF
+ironman-70.3-miami-20161023.csv,1370,Marcus Sulzbacher,53,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1371,Simon Tennyson,51,Yorkshire,GBR,00:59:14,03:03:56,02:02:36,00:07:16,00:09:44,06:22:46
+ironman-70.3-miami-20161023.csv,1372,Becker Terrero,52,---,DOM,01:03:19,02:48:08,03:00:41,00:04:34,00:04:03,07:00:45
+ironman-70.3-miami-20161023.csv,1373,Aleop Tur Behar,53,FL,ITA,01:01:06,03:04:42,02:20:09,00:06:12,00:04:01,06:36:10
+ironman-70.3-miami-20161023.csv,1374,Roberto Valdes,50,FL,USA,00:37:04,02:41:54,02:27:24,00:02:07,00:03:17,05:51:46
+ironman-70.3-miami-20161023.csv,1375,Everardo Vidaurri,53,FL,MEX,00:56:22,03:15:19,02:23:45,00:03:36,00:03:09,06:42:11
+ironman-70.3-miami-20161023.csv,1376,Pekka Viita,50,espoo,FIN,00:48:48,02:49:10,01:51:47,00:02:49,00:03:59,05:36:33
+ironman-70.3-miami-20161023.csv,1377,Vincent Claude,54,Québec,CAN,00:54:04,02:49:03,02:41:09,00:03:15,00:12:28,06:39:59
+ironman-70.3-miami-20161023.csv,1378,Carlton Vollberg,50,TN,USA,00:53:28,02:55:21,02:01:42,00:02:43,00:02:27,05:55:41
+ironman-70.3-miami-20161023.csv,1379,Keith Wagner,50,NY,USA,00:55:23,03:26:46,02:39:01,00:04:03,00:04:17,07:09:30
+ironman-70.3-miami-20161023.csv,1380,Phillip Watts,51,PE,CAN,01:05:22,02:49:44,02:41:53,00:03:46,00:04:43,06:45:28
+ironman-70.3-miami-20161023.csv,1381,Michael Wheeler,50,CO,USA,00:58:12,02:55:39,02:50:54,00:02:26,00:04:10,06:51:21
+ironman-70.3-miami-20161023.csv,1382,Chris White,51,TN,USA,01:00:51,03:18:17,02:39:18,00:07:58,00:06:58,07:13:22
+ironman-70.3-miami-20161023.csv,1383,Jay Weiner,52,FL,USA,01:10:13,03:00:41,02:28:07,00:03:52,00:04:33,DNF
+ironman-70.3-miami-20161023.csv,1384,Jake Wilson,52,NY,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1385,Colon Zamora,52,FL,USA,01:23:31,03:03:55,02:12:11,00:04:05,00:05:13,DNF
+ironman-70.3-miami-20161023.csv,1386,Jenny Coleman,19,FL,USA,00:57:19,03:25:52,02:22:38,00:04:46,00:05:07,06:55:42
+ironman-70.3-miami-20161023.csv,1387,Anna Demonte,21,NC,USA,00:35:28,02:50:51,02:25:57,00:02:47,00:03:50,05:58:53
+ironman-70.3-miami-20161023.csv,1388,Virginie Dufresne,24,QC,CAN,00:38:26,02:37:02,01:38:25,00:01:38,00:01:45,04:57:16
+ironman-70.3-miami-20161023.csv,1389,Lindsay Fisher,22,CT,USA,00:40:56,03:01:47,02:14:55,00:02:28,00:03:51,06:03:57
+ironman-70.3-miami-20161023.csv,1390,Kasey Harbison,18,FL,USA,00:44:08,03:03:16,02:29:18,00:01:52,00:03:21,06:21:55
+ironman-70.3-miami-20161023.csv,1391,Monica Hernandez,23,MO,USA,00:36:33,02:55:08,01:55:17,00:02:18,00:02:36,05:31:52
+ironman-70.3-miami-20161023.csv,1392,Jillian Jacinth,22,NY,USA,00:45:44,02:58:01,02:05:21,00:02:57,00:02:35,05:54:38
+ironman-70.3-miami-20161023.csv,1393,Ariel Kanaby,23,NC,USA,01:10:08,03:46:19,02:32:25,00:03:45,00:05:20,DNF
+ironman-70.3-miami-20161023.csv,1394,Mariah Kelly,19,PA,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1395,Charlotte Morel,23,CO,USA,01:04:49,03:58:20,03:06:38,00:08:13,00:05:22,08:23:22
+ironman-70.3-miami-20161023.csv,1396,Emily Nelson,24,FL,USA,00:47:20,03:17:04,02:29:03,00:03:22,00:04:43,06:41:32
+ironman-70.3-miami-20161023.csv,1397,Jamie Quinn,18,FL,USA,00:43:43,03:42:02,03:12:34,00:05:33,00:06:05,07:49:57
+ironman-70.3-miami-20161023.csv,1398,Mariana Ray Gonzalez,22,Mexico,MEX,00:44:29,03:49:55,02:47:54,00:04:14,00:04:13,07:30:45
+ironman-70.3-miami-20161023.csv,1399,Marisa Romeo,22,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-miami-20161023.csv,1400,Ana Saravia,22,NY,GTM,00:56:57,03:11:21,02:21:05,00:03:40,00:04:22,06:37:25
+ironman-70.3-miami-20161023.csv,1401,Marina Botana,23,São Paulo SP,BRA,00:44:18,03:03:52,02:05:58,00:03:26,00:02:54,06:00:28
+ironman-70.3-miami-20161023.csv,1402,Ana Leticia Martin Topdjian,22,amazonas,BRA,00:50:14,03:05:26,02:38:30,00:04:28,00:04:57,06:43:35
+ironman-70.3-miami-20161023.csv,1403,Tess Vorselen,23,NY,USA,00:40:38,03:00:28,01:59:36,00:03:19,00:03:46,05:47:47
+ironman-70.3-miami-20161023.csv,1404,Andrea Alonzo,25,TX,USA,00:51:22,03:17:22,02:58:35,00:02:31,00:04:32,07:14:22

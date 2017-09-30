@@ -1,0 +1,778 @@
+#File=ironman-70.3-lanzarote-20121110.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-lanzarote-20121110.csv,1,Victor Del Corral,32,---,---,00:26:24,02:28:14,01:14:30,00:02:27,00:02:00,04:13:35
+ironman-70.3-lanzarote-20121110.csv,2,Sonja Tajsich,37,---,---,00:28:21,02:45:53,01:24:25,00:03:09,00:02:15,04:44:03
+ironman-70.3-lanzarote-20121110.csv,3,Bert Jammaer,32,---,---,00:23:44,02:29:36,01:16:22,00:02:18,00:01:59,04:13:59
+ironman-70.3-lanzarote-20121110.csv,4,Bella Bayliss,35,---,---,00:27:36,02:58:48,01:29:36,00:03:18,00:02:28,05:01:46
+ironman-70.3-lanzarote-20121110.csv,5,Ronnie Schildknecht,33,---,---,00:24:02,02:24:26,01:18:51,00:02:21,00:01:47,04:11:27
+ironman-70.3-lanzarote-20121110.csv,6,Stephen Bayliss,33,Intl State,---,00:22:22,02:34:59,01:19:26,00:02:23,00:01:45,04:20:55
+ironman-70.3-lanzarote-20121110.csv,7,Eimear Mullan,30,Intl State,---,00:28:20,02:57:02,01:23:24,00:03:02,00:02:21,04:54:09
+ironman-70.3-lanzarote-20121110.csv,8,Konstantin Bachor,27,Other,---,00:24:00,02:27:57,01:19:54,00:02:36,00:01:40,04:16:07
+ironman-70.3-lanzarote-20121110.csv,9,Michael Goehner,32,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,10,Daniel Halksworth,26,Intl State,---,00:22:13,02:35:30,01:24:37,00:02:24,00:02:04,04:26:48
+ironman-70.3-lanzarote-20121110.csv,11,Nicole Woysch,35,---,---,00:27:47,03:06:11,01:31:39,00:03:14,00:02:14,05:11:05
+ironman-70.3-lanzarote-20121110.csv,12,Rasmus Petraeus,23,---,---,00:21:51,02:43:10,01:28:23,00:02:31,00:02:14,04:38:09
+ironman-70.3-lanzarote-20121110.csv,13,Katja Konschak,34,---,---,00:24:49,02:57:38,01:20:47,00:03:02,00:02:00,04:48:16
+ironman-70.3-lanzarote-20121110.csv,14,Isabelle Ferrer,38,Free State,---,00:27:44,03:36:28,---,00:02:56,---,DNF
+ironman-70.3-lanzarote-20121110.csv,15,Patrick Jaberg,32,---,---,00:25:15,02:29:48,01:17:46,00:02:44,00:01:59,04:17:32
+ironman-70.3-lanzarote-20121110.csv,16,Eva Ledesma Calvet,32,---,---,00:27:28,02:53:12,01:23:54,00:02:45,00:02:05,04:49:24
+ironman-70.3-lanzarote-20121110.csv,17,Alessandro De Gasperi,31,Intl State,---,00:24:00,02:30:28,01:14:45,00:02:29,00:01:50,04:13:32
+ironman-70.3-lanzarote-20121110.csv,18,Tine Holst,32,---,---,00:33:00,02:59:32,01:40:05,00:03:05,00:02:47,05:18:29
+ironman-70.3-lanzarote-20121110.csv,19,Massimo Cigana,38,Intl State,---,00:27:49,02:28:26,01:18:39,00:02:59,00:01:50,04:19:43
+ironman-70.3-lanzarote-20121110.csv,20,Peru Alfaro San Ildefonso,27,---,---,00:22:11,02:38:26,01:30:43,00:02:35,00:02:13,04:36:08
+ironman-70.3-lanzarote-20121110.csv,21,Sophie De Groote,29,---,---,00:26:58,02:43:30,01:26:28,00:02:52,00:02:07,04:41:55
+ironman-70.3-lanzarote-20121110.csv,22,Tamsin Lewis,33,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,23,Toumy Degham,33,---,---,00:23:45,02:25:18,---,00:02:32,00:01:53,DNF
+ironman-70.3-lanzarote-20121110.csv,24,Pedro Miguel Reig Jover,31,---,---,00:22:08,02:40:14,01:20:40,00:02:40,00:01:41,04:27:23
+ironman-70.3-lanzarote-20121110.csv,25,Mikolaj Luft,27,---,---,00:24:42,02:39:15,01:24:15,00:02:51,00:01:58,04:33:01
+ironman-70.3-lanzarote-20121110.csv,26,Matt Ellis,34,---,---,00:27:02,02:48:29,---,00:02:41,---,DNF
+ironman-70.3-lanzarote-20121110.csv,27,Jonathan Hotchkiss,33,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,28,Saleta Castro,25,---,---,00:27:08,03:11:22,---,00:03:07,---,DNF
+ironman-70.3-lanzarote-20121110.csv,29,David Vazquez,27,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,30,Edo Van Der Meer,28,---,---,00:22:15,02:34:03,01:24:41,00:02:32,00:01:48,04:25:19
+ironman-70.3-lanzarote-20121110.csv,31,Andreas Linden,23,---,---,00:30:05,02:49:07,---,00:03:45,---,DNF
+ironman-70.3-lanzarote-20121110.csv,32,Cedric Lassonde,36,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,33,Daniel Herlbauer,24,---,---,00:24:44,02:37:37,01:21:05,00:02:52,00:01:50,04:28:08
+ironman-70.3-lanzarote-20121110.csv,34,Danne Boterenbrood,27,NL,---,00:24:05,02:44:55,01:26:29,00:02:37,00:01:59,04:40:05
+ironman-70.3-lanzarote-20121110.csv,35,Erik-Simon Strijk,27,---,---,00:24:46,02:32:29,01:15:35,00:02:53,00:02:08,04:17:51
+ironman-70.3-lanzarote-20121110.csv,36,Fabrizio Baralla,36,---,---,00:24:07,02:53:32,01:23:04,00:03:01,00:02:13,04:45:57
+ironman-70.3-lanzarote-20121110.csv,37,José Estrangeiro,24,Intl State,---,00:24:40,02:44:09,01:17:37,00:03:03,00:02:06,04:31:35
+ironman-70.3-lanzarote-20121110.csv,38,Manuel Küng,25,---,---,00:22:13,02:41:35,01:19:56,00:02:56,00:02:13,04:28:53
+ironman-70.3-lanzarote-20121110.csv,39,Richard Calle,31,Intl State,---,00:24:45,02:32:49,01:19:51,00:02:40,00:01:53,04:21:58
+ironman-70.3-lanzarote-20121110.csv,40,Boris Stein,28,---,---,00:25:22,02:26:27,01:16:45,00:02:43,00:01:42,04:12:59
+ironman-70.3-lanzarote-20121110.csv,41,Mareen Hufe,34,---,---,00:29:46,02:56:52,01:28:58,00:03:16,00:02:19,05:01:11
+ironman-70.3-lanzarote-20121110.csv,42,Victor Arroyo Bugallo,26,---,---,00:29:38,02:37:01,01:29:01,00:02:55,00:01:43,04:40:18
+ironman-70.3-lanzarote-20121110.csv,43,Antony Costes,22,---,---,00:23:43,02:34:05,01:41:32,00:02:31,00:01:46,04:43:37
+ironman-70.3-lanzarote-20121110.csv,44,David Rodriguez Rodriguez,31,---,---,00:27:41,02:41:19,01:20:43,00:03:16,00:01:43,04:34:42
+ironman-70.3-lanzarote-20121110.csv,45,Swen Sundberg,38,Eastern Cape,---,00:24:50,---,---,00:02:29,---,DNF
+ironman-70.3-lanzarote-20121110.csv,46,Alejandro Santamaria Perez,33,---,---,00:26:27,02:36:45,01:28:14,00:02:41,00:02:00,04:36:07
+ironman-70.3-lanzarote-20121110.csv,47,Ivan Raña,33,---,---,00:22:17,02:27:43,01:13:27,00:02:32,00:01:36,04:07:35
+ironman-70.3-lanzarote-20121110.csv,48,Michelle Vesterby,29,---,---,00:24:44,02:58:27,01:30:36,00:02:58,00:02:04,04:58:49
+ironman-70.3-lanzarote-20121110.csv,51,Katrine Feld,19,---,---,00:32:25,04:00:14,02:46:43,00:06:44,00:11:44,07:37:50
+ironman-70.3-lanzarote-20121110.csv,52,Annalise Murphy,22,Dublin,---,00:39:44,03:28:01,02:02:13,00:06:46,00:04:30,06:21:14
+ironman-70.3-lanzarote-20121110.csv,53,Fiona Hunter Johnston,22,---,---,00:35:16,03:32:40,01:48:29,00:04:16,00:03:26,06:04:07
+ironman-70.3-lanzarote-20121110.csv,54,Francesca Clapcich,24,---,---,00:37:40,03:33:12,02:31:07,00:05:49,00:03:33,06:51:21
+ironman-70.3-lanzarote-20121110.csv,55,Leonela Clair,25,France,---,00:30:16,03:20:04,01:52:41,00:03:05,00:02:32,05:48:38
+ironman-70.3-lanzarote-20121110.csv,56,Lara Wilkinson,25,---,---,00:38:39,04:00:01,02:16:47,00:05:03,00:02:42,07:03:12
+ironman-70.3-lanzarote-20121110.csv,57,Sveva Carraro,25,---,---,00:42:35,04:09:21,02:14:06,00:06:06,00:03:25,07:15:33
+ironman-70.3-lanzarote-20121110.csv,58,Allison Rumboll,26,KY,---,00:29:49,03:01:52,01:37:04,00:03:02,00:02:11,05:13:58
+ironman-70.3-lanzarote-20121110.csv,59,Ana Mirallave,26,---,---,00:38:10,04:37:25,02:28:13,00:06:03,00:03:30,07:53:21
+ironman-70.3-lanzarote-20121110.csv,60,Amy Kilpin,26,Herts,---,00:50:45,04:22:47,02:01:17,00:06:27,00:03:24,07:24:40
+ironman-70.3-lanzarote-20121110.csv,61,Adriana Vega Su‡rez,27,---,---,00:30:52,03:39:44,02:12:03,00:06:23,00:04:41,06:33:43
+ironman-70.3-lanzarote-20121110.csv,62,Magali Buytaert,27,BE,---,00:31:13,03:13:40,---,00:03:16,00:02:15,DNF
+ironman-70.3-lanzarote-20121110.csv,63,Kate Sophie Mcneill,28,---,---,00:34:39,03:20:59,01:59:56,00:04:12,00:02:33,06:02:19
+ironman-70.3-lanzarote-20121110.csv,64,Tamara Schober,28,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,65,Julia F,28,---,---,00:31:40,03:46:14,01:52:24,00:03:38,00:02:40,06:16:36
+ironman-70.3-lanzarote-20121110.csv,66,Camila Negri,28,---,---,00:39:22,04:04:54,01:56:56,00:06:05,00:04:37,06:51:54
+ironman-70.3-lanzarote-20121110.csv,67,Gretta O Connor,29,Louth ,---,00:34:49,03:32:57,01:53:13,00:05:45,00:02:57,06:09:41
+ironman-70.3-lanzarote-20121110.csv,68,Helen Parfitt,29,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,69,Katie Judd,29,---,---,00:50:54,04:00:24,01:49:32,00:05:11,00:02:41,06:48:42
+ironman-70.3-lanzarote-20121110.csv,70,Veronika Stadler,29,---,---,00:38:07,03:28:48,01:58:27,00:04:52,00:03:08,06:13:22
+ironman-70.3-lanzarote-20121110.csv,71,Stephanie Thomas,29,---,---,00:37:33,03:38:01,01:46:46,00:05:02,00:02:35,06:09:57
+ironman-70.3-lanzarote-20121110.csv,72,Alicia Cebri‡n,29,---,---,00:34:55,04:02:27,02:06:53,00:07:20,00:04:08,06:55:43
+ironman-70.3-lanzarote-20121110.csv,73,Irina Roppelt,30,---,---,00:38:05,03:14:16,01:44:38,00:05:18,00:02:31,05:44:48
+ironman-70.3-lanzarote-20121110.csv,74,Mary Marcos Cruz,30,---,---,00:49:39,04:22:45,02:10:33,00:07:43,00:05:18,07:35:58
+ironman-70.3-lanzarote-20121110.csv,75,Alena Stevens,29,Slovakia,---,00:30:45,03:09:54,01:36:19,00:03:24,00:02:04,05:22:26
+ironman-70.3-lanzarote-20121110.csv,76,Kelly Paterson,30,Tameside,---,00:31:12,03:51:55,02:10:56,00:04:48,00:03:17,06:42:08
+ironman-70.3-lanzarote-20121110.csv,77,Valerie Dix,31,VA,---,00:38:54,04:41:35,03:01:51,00:06:04,00:04:05,08:32:29
+ironman-70.3-lanzarote-20121110.csv,78,Lucy Debono,31,NSW,---,00:35:27,03:56:12,02:18:27,00:04:48,00:03:38,06:58:32
+ironman-70.3-lanzarote-20121110.csv,79,Vikki Lewis,-2,---,---,00:31:21,03:37:53,01:48:30,00:05:09,00:05:50,06:08:43
+ironman-70.3-lanzarote-20121110.csv,80,Maria Teresa Rubio Luis,32,---,---,00:33:05,03:58:40,01:51:47,00:05:30,00:03:46,06:32:48
+ironman-70.3-lanzarote-20121110.csv,81,Melanie Wasley,32,---,---,00:29:55,03:05:07,01:40:29,00:03:35,00:02:28,05:21:34
+ironman-70.3-lanzarote-20121110.csv,82,Sarah Bowen,32,---,---,00:34:07,03:58:30,02:17:23,00:05:07,00:03:30,06:58:37
+ironman-70.3-lanzarote-20121110.csv,83,Veronique Vallieres,33,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,84,Andrea Haslebacher,33,---,---,00:28:04,03:02:03,01:42:22,00:03:26,00:02:37,05:18:32
+ironman-70.3-lanzarote-20121110.csv,85,Barbara Garrett,33,Notts,---,00:51:29,---,---,00:07:43,---,DNF
+ironman-70.3-lanzarote-20121110.csv,86,Joanne Mcdonough,33,---,---,00:48:39,04:14:27,01:51:39,00:09:51,00:06:45,07:11:21
+ironman-70.3-lanzarote-20121110.csv,87,Hanneke De Boer,33,Intl State,---,00:26:00,03:02:40,01:35:16,00:03:19,00:02:04,05:09:19
+ironman-70.3-lanzarote-20121110.csv,88,Maria Zaira Dominguez,33,---,---,00:42:13,04:10:05,02:14:55,00:07:35,00:06:51,07:21:39
+ironman-70.3-lanzarote-20121110.csv,89,Rachel Jones,34,---,---,00:36:56,03:54:49,02:16:45,00:06:23,00:06:43,07:01:36
+ironman-70.3-lanzarote-20121110.csv,90,Josta Bolhuis,34,---,---,00:35:11,03:32:06,01:57:59,00:05:33,00:02:46,06:13:35
+ironman-70.3-lanzarote-20121110.csv,91,Ellen Goldsmith,34,---,---,00:45:07,---,---,---,---,DNF
+ironman-70.3-lanzarote-20121110.csv,92,Wendy Musique,36,---,---,00:38:30,04:18:08,02:16:11,00:09:43,00:05:06,07:27:38
+ironman-70.3-lanzarote-20121110.csv,93,Lucy Blight,36,---,---,00:40:04,03:46:15,01:44:45,00:07:14,00:03:49,06:22:07
+ironman-70.3-lanzarote-20121110.csv,94,Sandra Ferrer,36,---,---,00:28:16,03:52:11,01:54:15,00:05:21,00:03:38,06:23:41
+ironman-70.3-lanzarote-20121110.csv,95,Chiki Morell Salguero,36,---,---,00:33:57,03:41:38,01:44:31,00:04:29,00:03:01,06:07:36
+ironman-70.3-lanzarote-20121110.csv,96,Martina Doner,---,---,---,00:31:41,03:15:48,01:44:02,00:03:41,00:02:24,05:37:36
+ironman-70.3-lanzarote-20121110.csv,97,Paula Patino,37,APO,---,00:41:13,04:01:08,01:51:35,00:09:18,00:03:46,06:47:00
+ironman-70.3-lanzarote-20121110.csv,98,Agata Majzel,37,---,---,00:37:57,03:55:26,02:02:37,00:07:27,00:03:37,06:47:04
+ironman-70.3-lanzarote-20121110.csv,99,Sonja Hurt,38,FL,---,00:47:26,04:08:21,02:24:40,00:05:51,00:05:29,07:31:47
+ironman-70.3-lanzarote-20121110.csv,100,Dawn Burns,---,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,101,Helen Shulver,39,---,---,00:35:10,03:48:05,02:02:02,00:04:28,00:02:45,06:32:30
+ironman-70.3-lanzarote-20121110.csv,102,Lyndi Wex,39,CH,---,00:40:56,03:47:10,01:46:01,00:05:55,00:03:18,06:23:20
+ironman-70.3-lanzarote-20121110.csv,103,Belinda Dawson,39,Suffolk,---,01:04:05,---,---,00:09:12,---,DNF
+ironman-70.3-lanzarote-20121110.csv,104,Inmaculada Chac—n Vera,39,---,---,00:31:32,03:44:01,02:04:29,00:06:56,00:04:39,06:31:37
+ironman-70.3-lanzarote-20121110.csv,105,Catherine Hilton,39,Intl State,---,00:35:28,03:22:13,01:52:15,00:03:31,00:03:00,05:56:27
+ironman-70.3-lanzarote-20121110.csv,106,Katrina Swift,40,---,---,00:38:04,04:22:54,02:29:32,00:10:05,00:07:10,07:47:45
+ironman-70.3-lanzarote-20121110.csv,107,Lisa Jones,40,---,---,00:34:08,03:32:38,01:46:10,00:04:15,00:02:44,05:59:55
+ironman-70.3-lanzarote-20121110.csv,108,Zoe Morisset,40,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,109,Isabelle Pfirter,41,---,---,00:38:33,03:43:38,02:12:32,00:05:14,00:03:01,06:42:58
+ironman-70.3-lanzarote-20121110.csv,110,Natascha Tögel,41,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,111,Angela Ackerley,41,---,---,00:36:20,03:38:25,02:16:57,00:05:04,00:03:04,06:39:50
+ironman-70.3-lanzarote-20121110.csv,112,Gail Phillips,41,---,---,00:51:34,04:00:21,02:16:58,00:05:17,00:04:24,07:18:34
+ironman-70.3-lanzarote-20121110.csv,113,Angela  Nudds,41,---,---,00:40:03,04:40:22,02:42:36,00:08:04,00:05:36,08:16:41
+ironman-70.3-lanzarote-20121110.csv,114,Anne Voz,42,---,---,00:31:44,03:48:09,01:57:47,00:06:20,00:03:22,06:27:22
+ironman-70.3-lanzarote-20121110.csv,115,Karina Brito,42,Intl State,---,00:51:06,03:59:28,01:49:20,00:09:10,00:04:47,06:53:51
+ironman-70.3-lanzarote-20121110.csv,116,Anita Smith,43,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,117,Debi Coles,43,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,118,Anna Diamantopoulos,43,---,---,00:36:46,04:03:33,02:01:24,00:06:29,00:03:17,06:51:29
+ironman-70.3-lanzarote-20121110.csv,119,Marie-Louise Bom Hansen,43,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,120,Dorte Hobson,43,---,---,00:31:42,03:44:52,01:53:15,00:04:23,00:02:47,06:16:59
+ironman-70.3-lanzarote-20121110.csv,121,Isabelle Rouã©,43,---,---,00:41:02,04:08:06,02:21:13,00:06:33,00:05:37,07:22:31
+ironman-70.3-lanzarote-20121110.csv,122,Jane Hansom,43,---,---,00:29:45,03:15:47,01:34:11,00:03:16,00:02:20,05:25:19
+ironman-70.3-lanzarote-20121110.csv,123,Angela Paterson,43,---,---,00:42:39,04:25:07,02:25:16,00:06:38,00:05:05,07:44:45
+ironman-70.3-lanzarote-20121110.csv,124,Darrelle Parker,44,Intl State,---,00:31:53,03:08:51,01:37:27,00:03:26,00:01:59,05:23:36
+ironman-70.3-lanzarote-20121110.csv,125,Fadirha Benabdelkader,44,FR,---,00:41:18,04:02:20,01:58:54,00:08:59,00:04:33,06:56:04
+ironman-70.3-lanzarote-20121110.csv,126,Tamara Hardman,44,Warwickshire,---,00:33:06,03:27:59,01:41:21,00:06:41,00:05:21,05:54:28
+ironman-70.3-lanzarote-20121110.csv,127,Greta Malkki,44,---,---,00:42:15,04:10:21,02:29:35,00:06:18,00:03:38,07:32:07
+ironman-70.3-lanzarote-20121110.csv,128,Dea Ditchfiekd,45,---,---,00:38:03,04:16:26,01:55:51,00:05:21,00:04:03,06:59:44
+ironman-70.3-lanzarote-20121110.csv,129,Helen French,45,Northamptonshire,---,00:36:37,03:51:13,02:01:22,00:05:32,00:04:22,06:39:06
+ironman-70.3-lanzarote-20121110.csv,130,Jacqueline Rabou,45,---,---,00:39:36,04:00:33,01:57:16,00:05:58,00:04:10,06:47:33
+ironman-70.3-lanzarote-20121110.csv,131,Heidi Sweetman,45,---,---,00:50:41,05:15:16,---,00:06:57,00:05:23,DNF
+ironman-70.3-lanzarote-20121110.csv,132,Michelle Parsons,46,---,---,00:36:28,03:12:48,01:36:44,00:04:48,00:02:55,05:33:43
+ironman-70.3-lanzarote-20121110.csv,133,Siobhan Moore,46,---,---,00:38:18,04:34:19,02:27:52,00:06:24,00:03:39,07:50:32
+ironman-70.3-lanzarote-20121110.csv,134,Sarah Adlam,45,---,---,00:37:11,04:03:44,02:11:54,00:05:29,00:03:20,07:01:38
+ironman-70.3-lanzarote-20121110.csv,135,Britt Helgesen,47,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,136,Jacqui Harper,47,---,---,00:36:14,03:38:50,02:04:34,00:04:53,00:03:37,06:28:08
+ironman-70.3-lanzarote-20121110.csv,137,Françoise Wellekens,47,---,---,00:31:31,03:06:17,01:37:18,00:04:22,00:02:47,05:22:15
+ironman-70.3-lanzarote-20121110.csv,138,Sadie Murphy,48,Leics,---,00:33:02,03:38:44,01:53:15,00:05:06,00:04:40,06:14:47
+ironman-70.3-lanzarote-20121110.csv,139,Amanda Whayman,48,---,---,00:40:51,04:10:58,02:06:24,00:05:03,00:03:32,07:06:48
+ironman-70.3-lanzarote-20121110.csv,140,Manuela Austin,48,Devon,---,00:40:36,04:47:23,02:28:07,00:06:37,00:04:10,08:06:53
+ironman-70.3-lanzarote-20121110.csv,141,Penny Harris,48,---,---,00:42:12,04:06:38,02:09:34,00:06:37,00:03:15,07:08:16
+ironman-70.3-lanzarote-20121110.csv,142,Fay Dellimore,49,---,---,00:35:49,03:40:21,02:00:56,00:07:07,00:05:42,06:29:55
+ironman-70.3-lanzarote-20121110.csv,143,Sue Turley,49,Suffolk,---,00:39:43,03:57:50,02:15:40,00:08:08,00:04:31,07:05:52
+ironman-70.3-lanzarote-20121110.csv,144,Donna Elliot,49,Dorset,---,00:42:52,04:01:12,02:27:34,00:05:29,00:03:33,07:20:40
+ironman-70.3-lanzarote-20121110.csv,145,Anne Butler,49,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,146,Cathy Belhaouane,49,---,---,00:50:27,04:03:48,01:50:09,00:07:45,00:03:30,06:55:39
+ironman-70.3-lanzarote-20121110.csv,147,Stephanie Fuller,49,---,---,00:44:01,04:18:58,02:29:01,00:07:18,00:05:08,07:44:26
+ironman-70.3-lanzarote-20121110.csv,148,Suzanne Holdaway,51,---,---,00:48:21,04:19:56,02:34:16,00:07:35,00:04:21,07:54:29
+ironman-70.3-lanzarote-20121110.csv,149,Barbara Swale,---,---,---,00:47:31,04:16:31,02:28:51,00:06:34,00:08:20,07:47:47
+ironman-70.3-lanzarote-20121110.csv,150,Jo Molyneaux,51,---,---,00:40:23,03:51:50,01:58:55,00:07:47,00:04:36,06:43:31
+ironman-70.3-lanzarote-20121110.csv,151,Jeannie Fry,51,Somerset,---,00:33:56,03:39:51,01:53:21,00:04:05,00:03:08,06:14:21
+ironman-70.3-lanzarote-20121110.csv,152,Judith Brand,52,---,---,00:40:13,04:39:33,02:49:22,00:08:16,00:06:02,08:23:26
+ironman-70.3-lanzarote-20121110.csv,153,Anne Fuller,52,---,---,00:42:05,04:17:29,---,00:08:19,---,DNF
+ironman-70.3-lanzarote-20121110.csv,154,Glenda Goscomb,54,---,---,00:40:22,03:53:09,01:37:07,00:05:07,00:03:34,06:19:19
+ironman-70.3-lanzarote-20121110.csv,155,Sue Fryer-Fugle,54,---,---,00:42:11,04:39:59,02:44:24,00:10:04,00:06:14,08:22:52
+ironman-70.3-lanzarote-20121110.csv,156,Vanessa Cooney,58,PA,---,00:40:53,03:33:40,01:58:42,00:06:29,00:03:16,06:23:00
+ironman-70.3-lanzarote-20121110.csv,157,Hilary Clare Walker,59,---,---,00:55:44,04:00:33,02:22:16,00:07:12,00:04:21,07:30:06
+ironman-70.3-lanzarote-20121110.csv,158,Margaret Sills,62,---,---,00:39:26,04:15:47,02:21:41,00:05:07,00:03:55,07:25:56
+ironman-70.3-lanzarote-20121110.csv,159,Phil England,48,---,---,00:38:24,03:46:04,01:53:19,00:06:05,00:04:23,06:28:15
+ironman-70.3-lanzarote-20121110.csv,160,Karim Benallal,---,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,161,Marcus R¿nn,18,---,---,00:30:13,03:07:05,01:35:02,00:05:01,00:04:12,05:21:33
+ironman-70.3-lanzarote-20121110.csv,162,Torsten Ru¿ Jensen,20,---,---,00:31:28,04:04:19,02:02:11,00:09:18,00:06:39,06:53:55
+ironman-70.3-lanzarote-20121110.csv,163,Kacper Adam,20,Poland,---,00:25:26,02:46:12,01:25:08,00:03:14,00:01:43,04:41:43
+ironman-70.3-lanzarote-20121110.csv,164,Nicolas Thermy,20,---,---,00:27:39,02:53:08,01:37:22,00:03:40,00:02:48,05:04:37
+ironman-70.3-lanzarote-20121110.csv,165,Marc Martinez Miralles,21,---,---,00:27:41,03:01:46,01:28:18,00:04:24,00:02:48,05:04:57
+ironman-70.3-lanzarote-20121110.csv,166,Tobias Barkschat,21,---,---,00:28:08,02:38:38,01:40:37,00:03:48,00:02:03,04:53:14
+ironman-70.3-lanzarote-20121110.csv,167,Silver Mikk,21,APO,---,00:27:35,02:45:43,01:26:21,00:03:16,00:01:54,04:44:49
+ironman-70.3-lanzarote-20121110.csv,168,Anders Christensen,22,---,---,00:31:53,03:01:16,01:34:37,00:06:24,00:03:21,05:17:31
+ironman-70.3-lanzarote-20121110.csv,169,Kim Harju,22,---,---,00:24:26,02:42:40,01:33:36,00:03:08,00:02:16,04:46:06
+ironman-70.3-lanzarote-20121110.csv,170,Ben Lynch,22,---,---,00:38:00,03:51:04,02:18:03,00:05:19,00:04:15,06:56:41
+ironman-70.3-lanzarote-20121110.csv,171,Markus Hörmann,22,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,172,Richard Agan,22,Northumberland,---,00:31:33,03:28:52,01:36:38,00:05:02,00:03:08,05:45:13
+ironman-70.3-lanzarote-20121110.csv,173,Thomas Nares,22,---,---,00:41:24,04:34:30,02:41:25,00:04:15,00:05:19,08:06:53
+ironman-70.3-lanzarote-20121110.csv,174,Nuno Costa Fernandes,23,Dubai,---,00:34:10,02:53:57,01:29:15,00:04:46,00:02:13,05:04:21
+ironman-70.3-lanzarote-20121110.csv,175,Ben Wells,23,---,---,00:35:35,03:50:38,02:05:38,00:06:10,00:04:03,06:42:04
+ironman-70.3-lanzarote-20121110.csv,176,Oswaldo Hernandez Padron,23,---,---,00:32:44,03:13:20,02:07:47,00:08:43,00:04:19,06:06:53
+ironman-70.3-lanzarote-20121110.csv,177,Maximilian Kirmeier,23,---,---,00:27:06,02:43:32,01:22:54,00:03:00,00:02:10,04:38:42
+ironman-70.3-lanzarote-20121110.csv,178,Klaus Carhaun,23,---,---,00:36:36,03:33:50,02:06:44,00:05:02,00:03:23,06:25:35
+ironman-70.3-lanzarote-20121110.csv,179,Philip Hatzis,24,Intl State,---,00:25:34,02:48:23,01:33:23,00:03:04,00:02:06,04:52:30
+ironman-70.3-lanzarote-20121110.csv,180,Jonathan Michel,24,VA,---,00:31:20,03:44:08,02:19:10,00:05:25,00:05:07,06:45:10
+ironman-70.3-lanzarote-20121110.csv,181,Kenneth Willemoes,24,DK,---,00:36:45,03:09:13,02:01:24,00:05:37,00:02:31,05:55:30
+ironman-70.3-lanzarote-20121110.csv,182,James Walker,24,---,---,00:34:48,03:06:44,01:49:16,00:04:13,00:02:25,05:37:26
+ironman-70.3-lanzarote-20121110.csv,183,Harris King,24,---,---,00:34:58,03:30:42,02:12:11,00:03:43,00:02:40,06:24:14
+ironman-70.3-lanzarote-20121110.csv,184,Michael Roper,25,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,185,Alberto Hurtado,25,---,---,00:36:18,04:04:21,01:49:55,00:06:12,00:05:18,06:42:04
+ironman-70.3-lanzarote-20121110.csv,186,Tobias Grimmert,25,---,---,00:33:03,03:26:25,01:46:05,00:05:21,00:03:30,05:54:24
+ironman-70.3-lanzarote-20121110.csv,187,Nicholas Sen,25,Surrey,---,00:32:14,03:15:04,01:51:12,00:06:13,00:02:41,05:47:24
+ironman-70.3-lanzarote-20121110.csv,188,Ignacio De La Rosa Castro,26,---,---,00:25:28,03:10:13,01:36:27,00:03:32,00:02:14,05:17:54
+ironman-70.3-lanzarote-20121110.csv,189,Fabian Berger,26,DE,---,00:27:20,02:46:24,01:21:24,00:03:13,00:02:27,04:40:48
+ironman-70.3-lanzarote-20121110.csv,190,David Rothwell,26,---,---,00:33:52,03:25:07,---,00:04:44,---,DNF
+ironman-70.3-lanzarote-20121110.csv,191,Tim Lucas,26,Intl State,---,00:28:04,03:14:40,01:40:28,00:03:51,00:02:26,05:29:29
+ironman-70.3-lanzarote-20121110.csv,192,Stuart Kynaston,26,Hampshire,---,00:35:16,03:31:54,02:02:54,00:05:49,00:02:16,06:18:09
+ironman-70.3-lanzarote-20121110.csv,193,Fedor Zhernovoy,26,CA,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,194,Hesus Kidd,27,---,---,00:34:05,03:54:12,02:14:51,00:04:24,00:04:38,06:52:10
+ironman-70.3-lanzarote-20121110.csv,195,Cesar Machin Morales,27,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,196,Luca Melchiorre,27,Rieti,---,00:32:56,03:21:42,01:48:09,00:03:45,00:02:41,05:49:13
+ironman-70.3-lanzarote-20121110.csv,197,Evgeny Miroshnikov,27,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,198,Alex West,27,---,---,00:40:20,03:44:05,02:02:13,00:08:25,00:04:31,06:39:34
+ironman-70.3-lanzarote-20121110.csv,199,Andreas Holmes-Berge,27,---,---,00:36:48,03:40:42,02:01:16,00:04:43,00:03:09,06:26:38
+ironman-70.3-lanzarote-20121110.csv,200,Sebastian Diez Dardes,27,---,---,00:29:54,03:28:09,02:12:18,00:04:31,00:04:11,06:19:03
+ironman-70.3-lanzarote-20121110.csv,201,Benoît Visseyrias,27,FR,---,00:34:36,03:09:00,01:33:09,00:05:16,00:03:44,05:25:45
+ironman-70.3-lanzarote-20121110.csv,202,Rory Spicer,28,---,---,00:30:53,03:07:10,01:34:53,00:02:50,00:01:57,05:17:43
+ironman-70.3-lanzarote-20121110.csv,203,Daniel Rosquete Rodr’guez,28,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,204,Anthony Genin,28,FR,---,00:26:40,02:52:15,01:31:36,00:05:02,00:02:12,04:57:45
+ironman-70.3-lanzarote-20121110.csv,205,Javi Ines Garcia,28,---,---,00:50:35,04:18:57,01:51:34,00:07:30,00:04:46,07:13:22
+ironman-70.3-lanzarote-20121110.csv,206,Kasper Willemoes,28,---,---,00:42:06,03:52:35,02:28:26,00:07:55,00:04:14,07:15:16
+ironman-70.3-lanzarote-20121110.csv,207,Andržs D’az Fern‡ndez,---,---,---,00:27:22,02:49:49,01:33:44,00:04:32,00:02:13,04:57:40
+ironman-70.3-lanzarote-20121110.csv,208,Henry Walker,28,Worcestershire,---,00:28:06,03:02:01,01:31:34,00:04:34,00:02:53,05:09:08
+ironman-70.3-lanzarote-20121110.csv,209,Andrew Blake,28,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,210,Hžctor Garcêa Calleja,---,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,211,Jesus Perez Crespo,28,---,---,00:36:26,04:02:49,02:07:24,00:07:16,00:06:14,07:00:09
+ironman-70.3-lanzarote-20121110.csv,212,Giacomo  Fusillo,28,---,---,00:45:08,03:43:22,02:17:00,00:05:54,00:03:14,06:54:38
+ironman-70.3-lanzarote-20121110.csv,213,Patrick Carolan,28,Louth,---,00:40:17,03:11:24,01:39:38,00:03:59,00:02:51,05:38:09
+ironman-70.3-lanzarote-20121110.csv,214,David Bird,28,---,---,00:32:02,03:43:06,02:14:30,00:05:25,00:03:15,06:38:18
+ironman-70.3-lanzarote-20121110.csv,215,Albert Botet,28,---,---,00:31:31,03:36:42,01:54:22,00:05:20,00:03:17,06:11:12
+ironman-70.3-lanzarote-20121110.csv,216,Niccolo Cardana,28,---,---,00:30:48,03:03:03,01:45:29,00:04:10,00:03:09,05:26:39
+ironman-70.3-lanzarote-20121110.csv,217,Kenneth Hislop,---,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,218,Guillaume Alzingre,28,FR,---,00:31:42,03:15:23,01:42:00,00:03:32,00:02:07,05:34:44
+ironman-70.3-lanzarote-20121110.csv,219,Henrik Bjerregaard,29,---,---,00:40:02,03:39:07,01:55:06,00:08:28,00:05:52,06:28:35
+ironman-70.3-lanzarote-20121110.csv,220,Clément Visseyrias,29,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,221,Miguel Rodriguez Amigo,29,---,---,00:34:37,03:17:06,01:58:31,00:04:33,00:02:30,05:57:17
+ironman-70.3-lanzarote-20121110.csv,222,Mario La Pergola,29,---,---,00:35:19,03:07:14,01:41:47,00:05:26,00:03:20,05:33:06
+ironman-70.3-lanzarote-20121110.csv,223,James Hockin,29,---,---,00:25:53,02:48:31,01:31:36,00:02:59,00:02:07,04:51:06
+ironman-70.3-lanzarote-20121110.csv,224,Marcel Krug,29,---,---,00:28:11,03:31:45,01:59:30,00:04:15,00:03:13,06:06:54
+ironman-70.3-lanzarote-20121110.csv,225,Jakob Holm,29,---,---,00:39:50,03:40:53,01:47:40,00:06:51,00:03:29,06:18:43
+ironman-70.3-lanzarote-20121110.csv,226,Daniel Maldonado Conde,29,---,---,00:40:25,03:43:02,02:08:35,00:06:07,00:02:50,06:40:59
+ironman-70.3-lanzarote-20121110.csv,227,Maximilian Achten,29,---,---,00:37:17,02:51:49,01:34:54,00:03:43,00:01:57,05:09:40
+ironman-70.3-lanzarote-20121110.csv,228,Nick Burlington,29,---,---,00:34:19,03:17:39,01:36:47,00:07:39,00:04:24,05:40:48
+ironman-70.3-lanzarote-20121110.csv,229,Peter Roberts,29,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,230,Francisco Anton,29,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,231,Shane Clarke,30,---,---,00:34:34,03:40:03,02:03:05,00:05:26,00:04:10,06:27:18
+ironman-70.3-lanzarote-20121110.csv,232,Memet Can Toygar,30,DE,---,00:42:39,03:58:21,02:03:50,00:06:05,00:04:18,06:55:13
+ironman-70.3-lanzarote-20121110.csv,233,Geert Lauryssen,30,---,---,00:27:31,02:37:20,01:23:27,00:03:21,00:02:11,04:33:50
+ironman-70.3-lanzarote-20121110.csv,234,Florian Erlinghagen,30,---,---,00:38:22,03:30:03,02:03:20,00:05:09,00:05:19,06:22:13
+ironman-70.3-lanzarote-20121110.csv,235,Nick Tol,30,---,---,00:34:55,03:18:54,01:44:54,00:05:25,00:02:33,05:46:41
+ironman-70.3-lanzarote-20121110.csv,236,Tristan Benson,30,---,---,00:34:06,03:20:04,01:53:12,00:04:53,00:02:51,05:55:06
+ironman-70.3-lanzarote-20121110.csv,237,Andrey Smirnov,30,---,---,00:38:25,03:43:54,02:02:38,00:09:21,00:04:40,06:38:58
+ironman-70.3-lanzarote-20121110.csv,238,Neal Clark,30,---,---,00:36:47,03:26:46,02:04:31,00:06:29,00:03:26,06:17:59
+ironman-70.3-lanzarote-20121110.csv,239,Andreas Grau,30,---,---,00:34:50,03:14:28,01:54:42,00:04:25,00:02:45,05:51:10
+ironman-70.3-lanzarote-20121110.csv,240,Fernando Martinez Ortiz De Ur,30,---,---,00:28:01,02:44:26,01:29:35,00:04:11,00:02:42,04:48:55
+ironman-70.3-lanzarote-20121110.csv,241,Brian Lockington,30,---,---,00:30:44,03:43:39,02:11:55,00:04:40,00:04:12,06:35:10
+ironman-70.3-lanzarote-20121110.csv,242,Grant Little,30,CA,---,00:34:34,03:10:51,02:05:43,00:06:12,00:03:09,06:00:29
+ironman-70.3-lanzarote-20121110.csv,243,Tommy Spahija,30,FR,---,00:41:21,04:11:47,02:16:21,00:08:44,00:04:47,07:23:00
+ironman-70.3-lanzarote-20121110.csv,244,Oriol Silvestre,30,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,245,James Bird,30,---,---,00:25:30,03:01:14,01:31:07,00:03:11,00:02:05,05:03:07
+ironman-70.3-lanzarote-20121110.csv,246,Charles Cain,30,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,247,Seth Wise,30,---,---,00:41:05,04:20:04,02:24:27,00:06:33,00:03:58,07:36:07
+ironman-70.3-lanzarote-20121110.csv,248,Nikolay Nogovitsyn,30,Moscow,---,00:39:30,03:32:11,01:58:54,00:08:18,00:06:02,06:24:55
+ironman-70.3-lanzarote-20121110.csv,249,William Hurt,30,AE,---,00:39:48,04:15:28,02:42:02,00:07:08,00:04:44,07:49:10
+ironman-70.3-lanzarote-20121110.csv,250,Fernando Del Corral Rey,---,---,---,00:49:39,04:22:46,---,00:07:45,00:05:15,DNF
+ironman-70.3-lanzarote-20121110.csv,251,Javier Morales,31,ES,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,252,Andrew Thomas,31,---,---,00:33:56,03:18:42,02:03:24,00:04:50,00:03:29,06:04:21
+ironman-70.3-lanzarote-20121110.csv,253,Rodrigo Amor,31,Kanagawa,---,00:34:33,03:36:23,02:25:22,00:05:34,00:04:54,06:46:46
+ironman-70.3-lanzarote-20121110.csv,254,Matteo Braschi,31,---,---,00:31:15,03:25:22,02:01:47,00:04:23,00:02:43,06:05:30
+ironman-70.3-lanzarote-20121110.csv,255,Fernando Ojeda Alvarez,31,---,---,00:32:14,03:54:38,02:10:08,00:05:27,00:05:48,06:48:15
+ironman-70.3-lanzarote-20121110.csv,256,Mathieu Davy,31,---,---,00:33:53,02:53:22,01:37:40,00:04:17,00:03:11,05:12:23
+ironman-70.3-lanzarote-20121110.csv,257,Artem Sitnikov,31,Intl State,---,00:34:37,03:17:05,01:34:38,00:04:18,00:02:43,05:33:21
+ironman-70.3-lanzarote-20121110.csv,258,Neil Kelly,31,louth,---,00:28:28,02:51:08,01:42:15,00:03:41,00:02:34,05:08:06
+ironman-70.3-lanzarote-20121110.csv,259,Ben Ashby,31,NZ,---,00:34:49,03:15:54,01:50:14,00:05:54,00:03:32,05:50:23
+ironman-70.3-lanzarote-20121110.csv,260,Barry Keane,31,---,---,00:31:39,03:28:48,---,00:04:42,---,DNF
+ironman-70.3-lanzarote-20121110.csv,261,Andrew Martin,31,London,---,00:39:24,03:30:51,02:01:10,00:06:43,00:05:46,06:23:54
+ironman-70.3-lanzarote-20121110.csv,262,Vincent Dussart,31,---,---,00:28:15,02:45:46,01:37:37,00:04:06,00:02:11,04:57:55
+ironman-70.3-lanzarote-20121110.csv,263,Matthew Hart,32,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,264,Paul Holdaway,32,---,---,00:27:37,02:36:30,01:31:55,00:03:02,00:02:04,04:41:08
+ironman-70.3-lanzarote-20121110.csv,265,Ricardo Esmerodes Barreto,32,---,---,00:34:22,02:59:36,01:52:38,00:03:57,00:02:28,05:33:01
+ironman-70.3-lanzarote-20121110.csv,266,Christophe De Belder,32,---,---,00:27:43,02:59:37,---,00:05:00,00:02:43,DNF
+ironman-70.3-lanzarote-20121110.csv,267,Richard Moore,32,IL,---,00:40:01,04:20:04,02:21:51,00:08:50,00:03:32,07:34:18
+ironman-70.3-lanzarote-20121110.csv,268,Dani Pedro Huerta,32,ES,---,00:33:42,03:30:12,01:37:20,00:05:08,00:02:31,05:48:53
+ironman-70.3-lanzarote-20121110.csv,269,Miguel Angel Acosta Alcoba,32,ES,---,00:27:19,02:51:47,01:30:24,00:03:35,00:03:14,04:56:19
+ironman-70.3-lanzarote-20121110.csv,270,David Dhooge,32,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,271,Rick Poole,32,---,---,00:37:40,03:41:13,02:02:00,00:05:32,00:05:32,06:31:57
+ironman-70.3-lanzarote-20121110.csv,272,Robert Cascaval,32,---,---,00:36:07,04:40:13,02:35:09,00:08:52,00:05:24,08:05:45
+ironman-70.3-lanzarote-20121110.csv,273,Andrea Cavina,32,RA,---,00:31:30,03:23:15,01:53:48,00:03:59,00:02:58,05:55:30
+ironman-70.3-lanzarote-20121110.csv,274,Himanshu Kale,32,CA,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,275,Andy Smith,32,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,276,Robert Brooks,32,---,---,00:33:24,03:25:32,02:26:43,00:04:56,00:04:01,06:34:36
+ironman-70.3-lanzarote-20121110.csv,277,Fernando Colom Cario,32,---,---,00:36:05,03:18:21,01:54:52,00:04:23,00:03:17,05:56:58
+ironman-70.3-lanzarote-20121110.csv,278,David Garc’a Del Rosario,32,---,---,00:30:57,03:34:57,---,00:04:39,---,DNF
+ironman-70.3-lanzarote-20121110.csv,279,Emanuele Ciotti,32,italia,---,00:26:11,02:48:41,01:31:44,00:04:35,00:02:18,04:53:29
+ironman-70.3-lanzarote-20121110.csv,280,Thomas Andersen,32,---,---,00:29:50,02:50:34,01:26:08,00:03:41,00:02:41,04:52:54
+ironman-70.3-lanzarote-20121110.csv,281,Roger Birch,32,---,---,00:35:07,03:41:27,01:50:27,00:07:13,00:04:30,06:18:44
+ironman-70.3-lanzarote-20121110.csv,282,Antonio Putignano,32,BA,---,00:31:50,03:28:11,02:20:22,00:06:31,00:03:19,06:30:13
+ironman-70.3-lanzarote-20121110.csv,283,Don Simon,32,---,---,00:41:54,03:45:08,02:33:54,00:05:49,00:05:50,07:12:35
+ironman-70.3-lanzarote-20121110.csv,284,Thomas Moureau,32,---,---,00:34:02,03:24:16,01:55:49,00:05:02,00:02:53,06:02:02
+ironman-70.3-lanzarote-20121110.csv,285,Anastasios Vythoulkas,32,---,---,00:41:00,03:54:31,02:29:53,00:11:15,00:07:32,07:24:11
+ironman-70.3-lanzarote-20121110.csv,286,Vicente Roig Riera,33,---,---,00:29:47,03:04:12,01:46:05,00:04:09,00:03:29,05:27:42
+ironman-70.3-lanzarote-20121110.csv,287,Christian Sanchez Barreto,33,ES,---,00:33:55,03:22:47,01:49:43,00:05:55,00:03:59,05:56:19
+ironman-70.3-lanzarote-20121110.csv,288,Andrew Stevenson,33,Intl State,---,00:29:41,03:38:27,01:36:26,00:08:44,00:03:28,05:56:46
+ironman-70.3-lanzarote-20121110.csv,289,Brian Doyle,33,Dublin,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,290,Fernando Martins,33,Intl State,---,00:39:22,---,06:51:56,---,---,06:51:56
+ironman-70.3-lanzarote-20121110.csv,291,Stefan Rohrer,33,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,292,David Jorge Sosa,33,ES,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,293,Francisco Jose Sanchez,33,---,---,00:28:03,03:18:02,01:59:28,00:04:41,00:04:12,05:54:26
+ironman-70.3-lanzarote-20121110.csv,294,Mathieu Guedon,33,---,---,00:32:10,02:52:11,01:37:12,00:04:07,00:02:20,05:08:00
+ironman-70.3-lanzarote-20121110.csv,295,Sylvain Riouall,33,FR,---,00:27:50,03:27:51,02:07:52,00:04:00,00:05:02,06:12:35
+ironman-70.3-lanzarote-20121110.csv,296,Jakub Gebhardt,33,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,297,David Duran,33,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,298,Gerfried Pirker,33,AT,---,00:34:42,03:04:46,01:36:15,00:04:46,00:02:36,05:23:05
+ironman-70.3-lanzarote-20121110.csv,299,Nacho Quiles Lara,33,---,---,00:46:11,04:05:26,02:15:40,00:07:59,00:04:49,07:20:05
+ironman-70.3-lanzarote-20121110.csv,300,Reuben Greet-Smith,33,---,---,00:35:29,03:42:06,01:38:56,00:07:09,00:04:07,06:07:47
+ironman-70.3-lanzarote-20121110.csv,301,Alexander Kiraly,---,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,302,Rubžn Herrera,34,---,---,00:36:34,03:42:35,02:27:07,00:05:20,00:04:23,06:55:59
+ironman-70.3-lanzarote-20121110.csv,303,Nuno Fernandes,34,---,---,00:34:14,03:23:08,01:41:13,00:05:55,00:02:58,05:47:28
+ironman-70.3-lanzarote-20121110.csv,304,Barrie Hambleton,34,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,305,Calvin Woods,34,---,---,00:32:57,03:41:26,01:55:29,00:06:43,00:03:53,06:20:28
+ironman-70.3-lanzarote-20121110.csv,306,Bart In T Velt,34,NL,---,00:29:43,02:49:01,01:30:45,00:04:10,00:02:14,04:55:53
+ironman-70.3-lanzarote-20121110.csv,307,Miguel Borja Sosa Velazquez,34,ES,---,00:34:51,03:13:07,01:55:07,00:05:02,00:03:27,05:51:34
+ironman-70.3-lanzarote-20121110.csv,308,Graeme Dodrill,34,dublin,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,309,Daniel Moll,34,United Kingdom,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,310,Cathal Henderson,34,Cork,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,311,Ian Orton,34,---,---,00:37:29,03:49:08,02:18:39,00:07:29,00:06:07,06:58:52
+ironman-70.3-lanzarote-20121110.csv,312,Gustavo Hernández,---,Tenerife,---,00:29:39,03:02:02,---,00:06:19,00:03:08,DNF
+ironman-70.3-lanzarote-20121110.csv,313,Stephen Chew,34,---,---,00:46:56,04:23:16,02:12:44,00:08:23,00:06:53,07:38:12
+ironman-70.3-lanzarote-20121110.csv,314,Jorge Company Pagan,34,ES,---,00:37:53,04:03:00,02:17:25,00:05:03,00:03:19,07:06:40
+ironman-70.3-lanzarote-20121110.csv,315,Matteo Perlini,---,---,---,00:28:06,02:50:14,---,00:03:21,---,DNF
+ironman-70.3-lanzarote-20121110.csv,316,Ramon Martin Egea,34,---,---,00:31:07,02:52:37,01:21:25,00:04:34,00:02:39,04:52:22
+ironman-70.3-lanzarote-20121110.csv,317,Alan Boydell,34,FR,---,00:34:57,03:43:22,02:33:01,00:06:18,00:15:17,07:12:55
+ironman-70.3-lanzarote-20121110.csv,318,Stuart Dillon,34,---,---,00:30:34,03:01:28,01:22:34,00:04:38,00:02:07,05:01:21
+ironman-70.3-lanzarote-20121110.csv,319,Jarkko Kovanen,34,Etelä-Suomi,---,00:30:31,02:55:38,01:30:07,00:04:26,00:02:37,05:03:19
+ironman-70.3-lanzarote-20121110.csv,320,Matthias Oehm,34,DE,---,00:37:43,04:09:22,01:53:24,00:08:01,00:03:55,06:52:25
+ironman-70.3-lanzarote-20121110.csv,321,Igor Luchko,34,---,---,00:34:40,03:04:28,01:37:24,00:04:25,00:02:40,05:23:37
+ironman-70.3-lanzarote-20121110.csv,322,Alejandro Artiñano,34,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,323,Eduardo Sanchez-Corral,35,---,---,00:36:58,03:37:41,02:17:25,00:08:42,00:05:43,06:46:29
+ironman-70.3-lanzarote-20121110.csv,324,Leon Taylor,35,---,---,00:24:27,03:10:47,01:52:26,00:04:08,00:02:19,05:34:07
+ironman-70.3-lanzarote-20121110.csv,325,Rob Belanger,35,---,---,00:41:26,03:29:00,01:54:03,00:05:53,00:02:51,06:13:13
+ironman-70.3-lanzarote-20121110.csv,326,Kieran O'Brien,35,Dublin,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,327,Robert Pritchard,35,Merseyside,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,328,Michael Moffett,35,---,---,00:33:13,04:17:37,02:03:34,00:06:30,00:03:43,07:04:37
+ironman-70.3-lanzarote-20121110.csv,329,Juan Luis Buitrago Garrido,35,ES,---,00:31:45,03:03:52,01:39:34,00:05:39,00:04:27,05:25:17
+ironman-70.3-lanzarote-20121110.csv,330,Jorge Rodriguez Garcia,35,ES,---,00:32:37,03:16:29,01:38:58,00:07:08,00:03:39,05:38:51
+ironman-70.3-lanzarote-20121110.csv,331,Gregorio Cuerpo,35,---,---,00:40:07,03:10:12,01:38:15,00:06:09,00:03:20,05:38:03
+ironman-70.3-lanzarote-20121110.csv,332,Chris Giannangelo,35,Kent,---,00:37:30,03:23:22,02:04:05,00:04:20,00:04:42,06:13:59
+ironman-70.3-lanzarote-20121110.csv,333,David Glover,35,---,---,00:40:07,03:09:02,01:49:07,00:04:41,00:02:56,05:45:53
+ironman-70.3-lanzarote-20121110.csv,334,Gary Duffy,35,---,---,00:37:03,03:33:44,02:14:28,00:06:05,00:03:46,06:35:06
+ironman-70.3-lanzarote-20121110.csv,335,Enrique Pérez Jiménez,35,ES,---,00:33:35,03:30:28,02:06:02,00:05:07,00:03:16,06:18:28
+ironman-70.3-lanzarote-20121110.csv,336,Kurt De Wael,35,---,---,00:47:24,03:11:27,01:46:32,00:04:36,00:02:44,05:52:43
+ironman-70.3-lanzarote-20121110.csv,337,Didac Nadal Abad,35,---,---,00:31:03,04:26:07,---,00:08:05,00:04:54,DNF
+ironman-70.3-lanzarote-20121110.csv,338,Roberto Del Amo Corredera,35,---,---,00:36:08,03:41:55,02:25:24,00:07:38,00:03:30,06:54:35
+ironman-70.3-lanzarote-20121110.csv,339,Kike Periago Rodríguez,35,---,---,00:39:14,03:36:09,02:04:40,00:04:23,00:03:21,06:27:47
+ironman-70.3-lanzarote-20121110.csv,340,Lars Johannesson,35,---,---,00:35:55,03:19:11,01:54:03,00:04:43,00:03:29,05:57:21
+ironman-70.3-lanzarote-20121110.csv,341,Jonathan Wood,35,---,---,00:34:33,03:10:21,01:59:31,00:04:56,00:04:32,05:53:53
+ironman-70.3-lanzarote-20121110.csv,342,Kris Vermeiren,35,---,---,00:27:44,02:40:51,01:23:54,00:03:56,00:02:03,04:38:28
+ironman-70.3-lanzarote-20121110.csv,343,Pj Dunne,35,Ireland,---,00:40:03,03:27:33,01:52:45,00:07:01,00:04:59,06:12:21
+ironman-70.3-lanzarote-20121110.csv,344,Chris White,35,Uk,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,345,Pere Xampeny,35,ES,---,00:37:42,03:32:00,01:57:57,00:05:06,00:02:51,06:15:36
+ironman-70.3-lanzarote-20121110.csv,346,Artemi Mateo,35,---,---,00:35:15,04:32:23,02:33:54,00:08:17,00:06:26,07:56:15
+ironman-70.3-lanzarote-20121110.csv,347,Kevin Synott,36,Clare,---,00:35:50,03:23:37,01:46:24,00:05:01,00:04:11,05:55:03
+ironman-70.3-lanzarote-20121110.csv,348,Roman Marolt,---,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,349,Henning Emil Olesen,36,---,---,00:29:38,03:03:08,01:37:12,00:03:59,00:02:11,05:16:08
+ironman-70.3-lanzarote-20121110.csv,350,Dean Evans,35,---,---,00:28:13,03:13:56,01:46:41,00:05:59,00:05:11,05:40:00
+ironman-70.3-lanzarote-20121110.csv,351,Ain-Alar Juhanson,36,Tartumaa,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,352,Iain Jennings,36,WORCESTER,---,00:33:10,03:08:34,02:05:17,00:03:34,00:02:46,05:53:21
+ironman-70.3-lanzarote-20121110.csv,353,Phil Tamplin,36,NY,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,354,Gregory Granzan,36,France,---,00:39:47,04:27:17,02:43:41,00:10:08,00:06:01,08:06:54
+ironman-70.3-lanzarote-20121110.csv,355,Thomas Calmeau,36,CA,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,356,Ajit Jayaratnam,36,FR,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,357,James Lord,36,South Yorkshire,---,00:39:52,03:35:34,01:58:50,00:07:09,00:06:14,06:27:39
+ironman-70.3-lanzarote-20121110.csv,358,Timo Neffgen,36,---,---,00:26:15,04:09:20,02:16:15,00:33:49,00:04:49,07:30:28
+ironman-70.3-lanzarote-20121110.csv,359,Lee Swale,---,---,---,00:35:48,02:59:04,01:34:37,00:05:02,00:02:24,05:16:55
+ironman-70.3-lanzarote-20121110.csv,360,Alex Sans Vega,36,---,---,00:34:24,02:47:05,01:27:28,00:03:30,00:02:31,04:54:58
+ironman-70.3-lanzarote-20121110.csv,361,Nicolai Frisch,36,---,---,00:41:14,03:25:41,02:00:26,00:05:48,00:03:23,06:16:32
+ironman-70.3-lanzarote-20121110.csv,362,Yves Trinidad,36,---,---,00:31:19,03:16:43,02:23:40,00:03:42,00:03:41,06:19:05
+ironman-70.3-lanzarote-20121110.csv,363,Alex Axiotis,36,casablanca,---,00:34:24,03:21:17,01:55:12,00:09:31,00:03:45,06:04:09
+ironman-70.3-lanzarote-20121110.csv,364,Mikel Pujana Goitia,36,---,---,00:43:01,03:23:44,01:50:57,00:06:40,00:03:02,06:07:24
+ironman-70.3-lanzarote-20121110.csv,365,Mark Mcintosh,35,Fife,---,00:33:02,03:16:36,01:48:03,00:05:07,00:03:27,05:46:15
+ironman-70.3-lanzarote-20121110.csv,366,Oliver Beric,36,DE,---,00:31:57,04:02:07,02:07:20,00:05:37,00:03:46,06:50:47
+ironman-70.3-lanzarote-20121110.csv,367,Patrick Thomschke,36,---,---,00:30:42,02:58:30,01:35:07,00:04:51,00:06:21,05:15:31
+ironman-70.3-lanzarote-20121110.csv,368,Fabio Lima,36,---,---,00:32:04,03:02:31,01:36:44,00:04:33,00:02:46,05:18:38
+ironman-70.3-lanzarote-20121110.csv,369,Mark  Simpson,36,London,---,00:31:56,03:13:36,01:34:56,00:04:06,00:04:19,05:28:53
+ironman-70.3-lanzarote-20121110.csv,370,Daniel Del Toro De Leon,36,ES,---,00:36:11,03:05:51,01:40:13,00:04:39,00:02:12,05:29:06
+ironman-70.3-lanzarote-20121110.csv,371,Rogier Wouters,36,---,---,00:31:47,03:09:59,01:34:04,00:06:40,00:03:32,05:26:02
+ironman-70.3-lanzarote-20121110.csv,372,Ulrik Petersen,36,---,---,00:33:25,03:00:32,01:33:30,00:04:43,00:02:11,05:14:21
+ironman-70.3-lanzarote-20121110.csv,373,Klaus  Walcher,36,---,---,00:36:41,03:40:28,02:05:56,00:06:47,00:04:04,06:33:56
+ironman-70.3-lanzarote-20121110.csv,374,Bartolomã© Roig,35,---,---,00:38:02,03:30:44,01:58:55,00:06:01,00:03:40,06:17:22
+ironman-70.3-lanzarote-20121110.csv,375,Kim Pedersen,36,---,---,00:36:43,03:27:35,01:58:02,00:06:02,00:03:37,06:11:59
+ironman-70.3-lanzarote-20121110.csv,376,Billy Munksbøg,36,kbh k,---,00:31:45,03:35:25,01:53:28,00:05:49,00:03:05,06:09:32
+ironman-70.3-lanzarote-20121110.csv,377,Leahn Theedam Parry,36,Intl State,---,00:37:12,03:24:43,01:48:59,00:05:53,00:04:21,06:01:08
+ironman-70.3-lanzarote-20121110.csv,378,Andrew Tomlinson,36,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,379,Günther Franke,36,---,---,00:31:37,03:07:12,01:50:57,00:05:24,00:03:41,05:38:51
+ironman-70.3-lanzarote-20121110.csv,380,Diego Fogwill,36,---,---,00:27:31,03:08:15,01:57:50,00:06:11,00:04:59,05:44:46
+ironman-70.3-lanzarote-20121110.csv,381,Piotr Bula,36,---,---,00:41:42,03:30:47,02:01:45,00:04:53,00:04:21,06:23:28
+ironman-70.3-lanzarote-20121110.csv,382,Ian Parry,36,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,383,Daniel Martin Llurba,37,---,---,00:31:02,03:38:46,02:04:35,00:08:06,00:04:25,06:26:54
+ironman-70.3-lanzarote-20121110.csv,384,Andrž Schaap,---,---,---,00:31:09,03:16:20,01:33:30,00:03:39,00:02:45,05:27:23
+ironman-70.3-lanzarote-20121110.csv,385,Jörg Siegling,37,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,386,Kevin Brock,37,Oxon,---,00:33:52,03:34:55,02:09:34,00:05:15,00:03:26,06:27:02
+ironman-70.3-lanzarote-20121110.csv,387,Emiliano Baravalle,37,CN,---,00:35:46,03:23:58,02:03:33,00:05:17,00:03:36,06:12:10
+ironman-70.3-lanzarote-20121110.csv,388,Joachim Hirtenfellner,37,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,389,Philip Denby,37,---,---,00:30:11,03:20:38,02:15:42,00:03:38,00:03:28,06:13:37
+ironman-70.3-lanzarote-20121110.csv,390,Augusto Gonzalez,37,---,---,00:28:03,02:58:51,01:37:49,00:03:34,00:02:45,05:11:02
+ironman-70.3-lanzarote-20121110.csv,391,Luis Diogo Silva Santos,37,---,---,00:26:51,02:51:32,01:24:08,00:03:17,00:01:57,04:47:45
+ironman-70.3-lanzarote-20121110.csv,392,Fernando Martin,37,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,393,Alan Kim,37,---,---,00:40:47,03:33:50,02:00:01,00:07:33,00:05:08,06:27:19
+ironman-70.3-lanzarote-20121110.csv,394,Kevin Kim,37,---,---,00:37:39,03:20:19,01:44:07,00:06:49,00:04:30,05:53:24
+ironman-70.3-lanzarote-20121110.csv,395,Harry Westerbeek,37,NL,---,00:39:09,03:39:50,02:01:13,00:07:00,00:04:04,06:31:16
+ironman-70.3-lanzarote-20121110.csv,396,Tim Hallett,---,Wiltshire,---,00:32:06,03:08:58,01:49:30,00:05:26,00:03:30,05:39:30
+ironman-70.3-lanzarote-20121110.csv,397,Rafale Moreno Martínez,37,---,---,00:28:08,03:22:54,---,00:04:19,---,DNF
+ironman-70.3-lanzarote-20121110.csv,398,Olivier Godart,37,DXB,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,399,Andrey Dobrynin,37,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,400,Andrew Barnes-Webb,37,Intl State,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,401,Marcus Puigdollers,37,---,---,00:34:31,03:37:03,01:55:55,00:04:47,00:03:09,06:15:25
+ironman-70.3-lanzarote-20121110.csv,402,Michael Loh,37,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,403,Oriol Yll,37,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,404,Mark Lacey,37,Dublin,---,00:48:10,03:44:26,01:40:04,00:03:52,00:03:16,06:19:48
+ironman-70.3-lanzarote-20121110.csv,405,Ceri Whitmore,37,---,---,00:29:52,02:53:52,01:32:54,00:04:03,00:02:18,05:02:59
+ironman-70.3-lanzarote-20121110.csv,406,Fernando Gonzalez,37,---,---,00:34:58,03:37:48,02:04:24,00:06:35,00:04:01,06:27:46
+ironman-70.3-lanzarote-20121110.csv,407,Paolo Maistro,37,---,---,00:32:12,03:13:15,01:43:13,00:06:28,00:02:47,05:37:55
+ironman-70.3-lanzarote-20121110.csv,408,Andrea Gallo,37,---,---,00:31:43,03:13:24,01:49:45,00:04:18,00:03:12,05:42:22
+ironman-70.3-lanzarote-20121110.csv,409,Daniel Mangis,37,VA,---,00:36:49,03:31:26,02:04:08,00:06:20,00:04:31,06:23:14
+ironman-70.3-lanzarote-20121110.csv,410,Ricardo Aguilar Laudo,37,---,---,00:31:22,03:23:39,01:46:00,00:04:44,00:03:05,05:48:50
+ironman-70.3-lanzarote-20121110.csv,411,Adrian Whitby,38,---,---,00:36:22,03:28:01,01:51:22,00:04:25,00:02:58,06:03:08
+ironman-70.3-lanzarote-20121110.csv,412,Tobias Lückert,38,---,---,00:27:25,03:00:24,01:41:47,00:03:19,00:02:23,05:15:18
+ironman-70.3-lanzarote-20121110.csv,413,Javier Herrero Tinana,38,---,---,00:33:07,03:05:38,01:41:52,00:04:43,00:03:00,05:28:20
+ironman-70.3-lanzarote-20121110.csv,414,Luis Sanchez Medina,38,ES,---,00:38:12,03:10:49,01:47:45,00:07:50,00:03:47,05:48:23
+ironman-70.3-lanzarote-20121110.csv,415,Paul Jones,38,---,---,00:26:23,03:11:24,01:51:50,00:04:03,00:02:18,05:35:58
+ironman-70.3-lanzarote-20121110.csv,416,Eamonn Noonan,38,Intl State,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,417,Olivier Maciejewski,38,---,---,00:30:56,02:55:29,01:35:55,00:05:04,00:02:11,05:09:35
+ironman-70.3-lanzarote-20121110.csv,418,John Stapleton,38,Galway,---,00:38:47,04:01:11,02:03:45,00:07:19,00:04:22,06:55:24
+ironman-70.3-lanzarote-20121110.csv,419,Christian Wolf,38,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,420,Johnny O Loughlin,38,---,---,00:33:32,03:28:18,01:58:07,00:05:51,00:04:22,06:10:10
+ironman-70.3-lanzarote-20121110.csv,421,Diego Alonso,38,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,422,Iv‡n V‡zquez Alonso,38,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,423,Juan Daniel Hernandez,38,---,---,00:29:37,02:57:04,01:31:49,00:03:34,00:02:18,05:04:22
+ironman-70.3-lanzarote-20121110.csv,424,Paulo Martins,38,Massarelos,---,00:35:40,03:41:51,01:54:28,00:10:41,00:04:54,06:27:34
+ironman-70.3-lanzarote-20121110.csv,425,Albert Banus Sado,38,ES,---,00:31:51,03:13:12,01:41:31,00:04:01,00:03:14,05:33:49
+ironman-70.3-lanzarote-20121110.csv,426,Istvan Ilyes,38,---,---,00:32:13,02:56:40,01:37:05,00:04:26,00:02:30,05:12:54
+ironman-70.3-lanzarote-20121110.csv,427,Roberto Carlos Gutiã©rrez De Leã³n,38,---,---,00:34:08,03:54:12,02:05:10,00:07:04,00:03:54,06:44:28
+ironman-70.3-lanzarote-20121110.csv,428,Scott Mcmullin,38,CA,---,00:33:39,03:19:50,01:36:52,00:04:44,00:02:32,05:37:37
+ironman-70.3-lanzarote-20121110.csv,429,Marty Keating,38,---,---,00:59:35,04:40:48,02:26:22,00:09:54,00:09:28,08:26:07
+ironman-70.3-lanzarote-20121110.csv,430,Enrique Tellado Nogueira,38,---,---,00:39:45,03:17:28,01:47:25,00:05:31,00:02:42,05:52:51
+ironman-70.3-lanzarote-20121110.csv,431,Darren Sharpe,38,---,---,00:31:04,02:52:00,01:26:29,00:04:09,00:01:57,04:55:39
+ironman-70.3-lanzarote-20121110.csv,432,Eric Besora Molins,38,---,---,00:36:35,03:31:25,01:35:48,00:05:30,00:03:02,05:52:20
+ironman-70.3-lanzarote-20121110.csv,433,Roberto Cepeda Martin,38,---,---,00:38:20,03:33:17,01:43:04,00:06:05,00:04:26,06:05:12
+ironman-70.3-lanzarote-20121110.csv,434,Jonathan Hills,38,UK,---,00:36:55,04:11:04,01:56:29,00:09:19,00:05:20,06:59:07
+ironman-70.3-lanzarote-20121110.csv,435,Sergio Trujillo Navarro,38,---,---,00:41:23,04:05:07,02:43:18,00:11:51,00:05:25,07:47:04
+ironman-70.3-lanzarote-20121110.csv,436,Morne Van Der Linde,38,---,---,00:40:00,03:19:39,01:48:15,00:06:00,00:03:17,05:57:11
+ironman-70.3-lanzarote-20121110.csv,437,Massimo Todaro,38,---,---,00:28:07,02:56:32,01:32:20,00:03:37,00:02:38,05:03:14
+ironman-70.3-lanzarote-20121110.csv,438,Vincent Vergauwe,38,BE,---,00:39:15,03:30:44,02:00:38,00:05:31,00:04:01,06:20:09
+ironman-70.3-lanzarote-20121110.csv,439,Robert Harris,38,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,440,Darren Drysdale,38,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,441,Filip Rybacki,38,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,442,James Mitchell,38,ES,---,00:32:23,03:14:29,01:45:39,00:05:21,00:03:47,05:41:39
+ironman-70.3-lanzarote-20121110.csv,443,Jacob Skov Larsen,38,---,---,00:36:43,03:33:57,01:53:12,00:07:18,00:03:17,06:14:27
+ironman-70.3-lanzarote-20121110.csv,444,Harry Eilander,38,NL,---,00:33:09,03:07:10,01:46:37,00:04:16,00:02:53,05:34:05
+ironman-70.3-lanzarote-20121110.csv,445,Andy Gummer,38,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,446,Greg Jarrett,39,---,---,00:31:37,03:47:22,02:08:06,00:05:10,00:06:34,06:38:49
+ironman-70.3-lanzarote-20121110.csv,447,Bruno Pasqualini,39,---,---,00:26:49,02:40:17,01:25:33,00:03:14,00:02:27,04:38:20
+ironman-70.3-lanzarote-20121110.csv,448,Peter Davis,39,---,---,00:33:01,04:35:04,02:34:24,00:07:14,00:04:49,07:54:32
+ironman-70.3-lanzarote-20121110.csv,449,Bresson Cyrille,39,---,---,00:33:47,03:26:49,01:58:21,00:04:44,00:05:26,06:09:07
+ironman-70.3-lanzarote-20121110.csv,450,William Mcdonald,39,Intl State,---,00:31:50,03:04:23,01:59:39,00:03:58,00:02:58,05:42:48
+ironman-70.3-lanzarote-20121110.csv,451,Filip Vermeiren,39,BE,---,00:33:49,02:56:26,01:44:31,00:06:20,00:03:11,05:24:17
+ironman-70.3-lanzarote-20121110.csv,452,Harald Jarnig,39,---,---,00:40:42,03:32:38,02:01:26,00:05:40,00:05:17,06:25:43
+ironman-70.3-lanzarote-20121110.csv,453,Alistair Lauchlan,39,---,---,00:33:28,04:01:29,02:41:00,00:04:26,00:04:28,07:24:51
+ironman-70.3-lanzarote-20121110.csv,454,Juan Manuel Rodríguez Martos,39,---,---,00:36:06,03:51:23,---,00:06:25,00:05:18,DNF
+ironman-70.3-lanzarote-20121110.csv,455,Jose Ignacio Amigo Prous,39,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,456,David Tierney,39,---,---,00:33:26,03:11:39,02:00:07,00:04:16,00:02:32,05:52:00
+ironman-70.3-lanzarote-20121110.csv,457,Johannes Bauer,39,AT,---,00:50:03,04:21:36,02:29:14,00:10:51,00:06:56,07:58:40
+ironman-70.3-lanzarote-20121110.csv,458,Filippo Bagnasco,39,Italia,---,00:31:03,03:04:49,01:43:05,00:04:52,00:02:44,05:26:33
+ironman-70.3-lanzarote-20121110.csv,459,Andrew Ackerley,39,England,---,00:36:03,02:53:19,01:34:19,00:04:29,00:02:09,05:10:19
+ironman-70.3-lanzarote-20121110.csv,460,Phil Gray,39,Tyne & Wear,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,461,Gary Brodigan,39,ON,---,00:37:14,03:40:10,02:02:41,00:05:19,00:04:09,06:29:33
+ironman-70.3-lanzarote-20121110.csv,462,John Ord,39,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,463,John Mongan,39,Co Galway,---,00:39:02,03:57:54,02:17:07,00:08:21,00:04:13,07:06:37
+ironman-70.3-lanzarote-20121110.csv,464,Declan Doyle,39,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,465,Carlos Castro,39,Rio de Janeiro,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,466,Leo Lopez,39,---,---,00:38:43,03:22:04,01:32:37,00:05:10,00:04:31,05:43:05
+ironman-70.3-lanzarote-20121110.csv,467,Enrique Bilbao,39,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,468,Alvaro Herrera,39,---,---,00:31:42,04:05:51,---,00:07:12,00:05:11,DNF
+ironman-70.3-lanzarote-20121110.csv,469,Andrew Stewart,39,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,470,Gerhard Gansinger,39,---,---,00:33:56,02:50:24,01:31:42,00:03:32,00:02:25,05:01:59
+ironman-70.3-lanzarote-20121110.csv,471,Pedro Irujo Salanueva,39,---,---,00:40:08,03:37:24,01:56:08,00:08:35,00:03:42,06:25:57
+ironman-70.3-lanzarote-20121110.csv,472,Vasily Mozzhukhin,39,---,---,00:33:10,03:37:13,01:43:00,00:04:03,00:03:28,06:00:54
+ironman-70.3-lanzarote-20121110.csv,473,Gunter Knockaert,39,---,---,00:35:29,03:04:22,01:49:02,00:06:08,00:03:17,05:38:18
+ironman-70.3-lanzarote-20121110.csv,474,Ole Henriksen,39,---,---,00:33:06,02:57:20,01:34:28,00:05:12,00:03:35,05:13:41
+ironman-70.3-lanzarote-20121110.csv,475,Pablo Felipe Guerra,39,---,---,00:33:19,03:13:30,01:32:56,00:06:08,00:03:08,05:29:01
+ironman-70.3-lanzarote-20121110.csv,476,Iain Hamilton,---,Lincoln,---,00:27:56,03:17:32,01:40:39,00:04:20,00:03:56,05:34:23
+ironman-70.3-lanzarote-20121110.csv,477,Jens Ulrich W Wiese,39,---,---,00:36:45,03:26:25,01:46:59,00:04:40,00:02:40,05:57:29
+ironman-70.3-lanzarote-20121110.csv,478,Andrž Schšfer,---,---,---,00:28:10,03:32:06,01:39:53,00:07:06,00:03:45,05:51:00
+ironman-70.3-lanzarote-20121110.csv,479,Enrico Busatto,39,Other,---,00:31:44,02:55:02,01:32:27,00:03:44,00:02:21,05:05:18
+ironman-70.3-lanzarote-20121110.csv,480,Alejandro Colom Cario,39,---,---,00:33:00,03:19:49,02:06:08,00:06:03,00:03:23,06:08:23
+ironman-70.3-lanzarote-20121110.csv,481,Alan Paton,39,---,---,00:37:49,03:20:57,01:53:24,00:07:00,00:02:42,06:01:52
+ironman-70.3-lanzarote-20121110.csv,482,Paul Hoskings,39,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,483,Robert Mezei,40,---,---,00:29:54,03:02:21,01:35:49,00:03:33,00:02:33,05:14:10
+ironman-70.3-lanzarote-20121110.csv,484,Dzhamil Asfari,40,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,485,Niels Sommer,40,---,---,00:31:56,03:00:24,01:39:05,00:04:17,00:03:13,05:18:55
+ironman-70.3-lanzarote-20121110.csv,486,Thomas Weber,40,---,---,00:27:56,03:02:40,01:22:57,00:03:11,00:02:09,04:58:53
+ironman-70.3-lanzarote-20121110.csv,487,Gustavo Medina,40,ES,---,00:32:11,03:40:10,02:05:31,00:07:22,00:04:32,06:29:46
+ironman-70.3-lanzarote-20121110.csv,488,James Corton,40,---,---,00:48:03,04:31:56,02:33:41,00:10:19,00:06:04,08:10:03
+ironman-70.3-lanzarote-20121110.csv,489,Darren Samways,40,oxfordshire,---,00:28:53,03:40:28,01:54:03,00:04:29,00:03:29,06:11:22
+ironman-70.3-lanzarote-20121110.csv,490,Stuart Weir,---,---,---,00:40:21,04:33:35,02:42:55,00:08:53,00:07:21,08:13:05
+ironman-70.3-lanzarote-20121110.csv,491,Kevin Dyke,40,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,492,Nathan Browne,40,---,---,00:41:25,04:12:37,02:06:40,00:07:40,00:05:54,07:14:16
+ironman-70.3-lanzarote-20121110.csv,493,Dimitar Poptanev,40,---,---,00:36:39,03:33:04,01:45:47,00:04:23,00:03:29,06:03:22
+ironman-70.3-lanzarote-20121110.csv,494,Paul Coulter,40,Cheshire,---,00:32:03,03:04:09,01:42:53,00:04:37,00:06:57,05:30:39
+ironman-70.3-lanzarote-20121110.csv,495,Joshua Whiteley,40,---,---,00:33:14,03:25:08,01:59:35,00:04:29,00:03:33,06:05:59
+ironman-70.3-lanzarote-20121110.csv,496,Arnaud Cirette,40,---,---,00:36:03,03:32:01,01:54:47,00:05:35,00:03:53,06:12:19
+ironman-70.3-lanzarote-20121110.csv,497,Neil Couling,40,---,---,00:31:38,03:14:53,01:48:17,00:05:29,00:02:34,05:42:51
+ironman-70.3-lanzarote-20121110.csv,498,Juan Lopez Vila,40,---,---,00:36:12,03:21:24,01:52:50,00:05:14,00:03:18,05:58:58
+ironman-70.3-lanzarote-20121110.csv,499,Jorge Juan Gil Henriquez,40,ES,---,00:31:34,03:16:23,01:49:49,00:05:11,00:03:14,05:46:11
+ironman-70.3-lanzarote-20121110.csv,500,Simon Gosling,40,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,501,Marcus Holmberg,40,---,---,00:37:58,03:37:07,01:53:52,00:05:12,00:05:00,06:19:09
+ironman-70.3-lanzarote-20121110.csv,502,Andres Alejandro Torres,40,---,---,00:27:38,02:45:22,01:28:47,00:03:17,00:02:05,04:47:09
+ironman-70.3-lanzarote-20121110.csv,503,Andy Welsh,40,---,---,00:29:49,03:17:58,01:42:31,00:04:01,00:02:40,05:36:59
+ironman-70.3-lanzarote-20121110.csv,504,Mark Powell,40,---,---,00:37:47,03:05:32,01:47:54,00:04:30,00:03:26,05:39:09
+ironman-70.3-lanzarote-20121110.csv,505,Dessie Duffy,40,Louth,---,00:40:30,03:51:39,02:00:32,00:04:30,00:03:20,06:40:31
+ironman-70.3-lanzarote-20121110.csv,506,Rene Nyberg,40,---,---,00:40:25,03:31:07,02:04:33,00:06:22,00:03:54,06:26:21
+ironman-70.3-lanzarote-20121110.csv,507,Nick Swift,40,---,---,00:40:16,04:20:28,02:15:22,00:07:34,00:08:01,07:31:41
+ironman-70.3-lanzarote-20121110.csv,508,Andy Lakeland,40,---,---,00:36:30,03:35:20,01:38:34,00:04:11,00:03:23,05:57:58
+ironman-70.3-lanzarote-20121110.csv,509,Dominic James,41,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,510,Roberto Medina Alonso,41,---,---,00:29:47,03:17:27,01:54:00,00:03:59,00:06:24,05:51:37
+ironman-70.3-lanzarote-20121110.csv,511,John Matthews,41,Somerset,---,00:39:23,03:20:55,02:12:44,00:04:33,00:04:36,06:22:11
+ironman-70.3-lanzarote-20121110.csv,512,Damien Cosgrove,41,galway,---,00:34:23,03:51:07,02:08:36,00:06:08,00:03:28,06:43:42
+ironman-70.3-lanzarote-20121110.csv,513,Scott Marcar,41,U.K.,---,00:34:06,03:21:57,01:43:36,00:06:49,00:03:31,05:49:59
+ironman-70.3-lanzarote-20121110.csv,514,Josž Ram—n Callžn Rodr’guez,---,---,---,00:27:57,02:58:36,01:36:01,00:04:22,00:03:45,05:10:41
+ironman-70.3-lanzarote-20121110.csv,515,Thomas Minyi,41,---,---,00:45:35,03:36:47,02:07:14,00:05:41,00:03:33,06:38:50
+ironman-70.3-lanzarote-20121110.csv,516,Simon Hance,41,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,517,Falko Toetzke,41,---,---,00:32:27,03:58:51,02:08:09,00:07:38,00:04:42,06:51:47
+ironman-70.3-lanzarote-20121110.csv,518,Eusebi Noguera Pujol,41,ES,---,00:39:49,04:12:03,02:43:35,00:07:14,00:04:44,07:47:25
+ironman-70.3-lanzarote-20121110.csv,519,Heath Rasmussen,---,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,520,Juan Antonio Moron Sainz De Garay,41,---,---,00:34:47,03:41:33,02:19:56,00:07:00,00:04:51,06:48:07
+ironman-70.3-lanzarote-20121110.csv,521,Sam Simmler,41,---,---,00:49:25,04:10:19,02:32:58,00:09:52,00:06:51,07:49:25
+ironman-70.3-lanzarote-20121110.csv,522,Bartosz Magierlo,41,Podkarpackie,---,00:31:53,03:06:38,01:46:21,00:05:20,00:03:01,05:33:13
+ironman-70.3-lanzarote-20121110.csv,523,Chris Wild,41,Lancashire,---,00:31:29,03:03:41,01:38:45,00:03:34,00:02:18,05:19:47
+ironman-70.3-lanzarote-20121110.csv,524,Kaspar Wyss,41,---,---,00:32:43,03:03:14,01:32:23,00:04:48,00:02:29,05:15:37
+ironman-70.3-lanzarote-20121110.csv,525,Paul Freeman,41,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,526,Ste Core,41,---,---,00:38:53,03:37:57,02:23:42,00:10:47,00:05:11,06:56:30
+ironman-70.3-lanzarote-20121110.csv,527,Andres Martin,41,---,---,00:40:00,03:25:23,01:59:13,00:05:19,00:03:41,06:13:36
+ironman-70.3-lanzarote-20121110.csv,528,Degtyar Sergey,41,---,---,00:32:22,03:38:26,01:47:20,00:05:00,00:03:26,06:06:34
+ironman-70.3-lanzarote-20121110.csv,529,Brett Connolly,41,Intl State,---,00:34:07,03:47:58,02:18:35,00:05:20,00:06:02,06:52:02
+ironman-70.3-lanzarote-20121110.csv,530,Luis Mirabal Socas,41,---,---,00:37:49,03:37:45,01:39:17,00:04:45,00:02:52,06:02:28
+ironman-70.3-lanzarote-20121110.csv,531,Stefan Duller,41,AT,---,00:30:21,02:39:03,01:22:30,00:03:55,00:02:28,04:38:17
+ironman-70.3-lanzarote-20121110.csv,532,Ignacio Coya Parraga,41,---,---,00:37:51,03:57:17,01:42:01,00:04:44,00:03:23,06:25:16
+ironman-70.3-lanzarote-20121110.csv,533,Olivier Médard,41,FR,---,00:36:44,03:40:52,01:40:17,00:07:30,00:03:48,06:09:11
+ironman-70.3-lanzarote-20121110.csv,534,Pat Healey,42,---,---,00:30:50,03:25:34,01:54:34,00:04:56,00:03:20,05:59:14
+ironman-70.3-lanzarote-20121110.csv,535,Alexey Panferov,-3,---,---,00:35:39,03:00:01,01:29:49,00:05:10,00:02:53,05:13:32
+ironman-70.3-lanzarote-20121110.csv,536,Matt Pain,42,---,---,00:42:13,04:24:18,02:01:40,00:08:21,00:06:15,07:22:47
+ironman-70.3-lanzarote-20121110.csv,537,Christophe Desimpelaere,42,---,---,00:36:42,03:16:10,01:55:49,00:07:52,00:04:53,06:01:26
+ironman-70.3-lanzarote-20121110.csv,538,Frank Burke,42,Wexford,---,00:42:14,03:33:31,02:03:47,00:06:10,00:04:24,06:30:06
+ironman-70.3-lanzarote-20121110.csv,539,Patrick Den Ouden,42,---,---,00:41:53,03:34:42,02:03:22,00:08:36,00:03:42,06:32:15
+ironman-70.3-lanzarote-20121110.csv,540,Robert Simpson,42,---,---,00:58:37,03:49:57,02:11:03,00:10:49,00:06:20,07:16:46
+ironman-70.3-lanzarote-20121110.csv,541,Adrian Bloor,42,Warwickshire,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,542,Domenico Lippolis,42,Ba,---,00:40:42,04:35:43,02:28:18,00:10:00,00:04:32,07:59:15
+ironman-70.3-lanzarote-20121110.csv,543,Christopher Perks,---,---,---,00:36:54,03:41:55,02:24:07,00:05:43,00:04:33,06:53:12
+ironman-70.3-lanzarote-20121110.csv,544,Gary Burns,42,---,---,00:45:10,03:43:26,02:17:13,00:06:40,00:03:42,06:56:11
+ironman-70.3-lanzarote-20121110.csv,545,Jordi Clavel Jordà,42,ES,---,00:31:48,03:32:24,01:39:09,00:03:52,00:02:47,05:50:00
+ironman-70.3-lanzarote-20121110.csv,546,Richard Hughes,42,oxon,---,00:35:30,03:42:11,02:08:05,00:06:59,00:04:47,06:37:32
+ironman-70.3-lanzarote-20121110.csv,547,Sylvain Bachelot,42,---,---,00:31:23,03:30:56,01:31:42,00:04:45,00:03:06,05:41:52
+ironman-70.3-lanzarote-20121110.csv,548,Colin Wilson,42,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,549,Martin Veit,42,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,550,Rich Carter,42,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,551,Ivo Jesus Yanez Narvaez,42,---,---,00:45:22,03:29:59,02:05:42,00:07:41,00:03:02,06:31:46
+ironman-70.3-lanzarote-20121110.csv,552,Paul Simpson,42,---,---,00:36:24,03:44:35,02:07:49,00:06:49,00:05:05,06:40:42
+ironman-70.3-lanzarote-20121110.csv,553,Pedro Pƒrez,42,---,---,00:38:11,03:48:44,---,00:06:36,---,DNF
+ironman-70.3-lanzarote-20121110.csv,554,Ortwin Strolz,42,---,---,00:40:09,02:59:41,01:39:54,00:05:00,00:02:44,05:27:28
+ironman-70.3-lanzarote-20121110.csv,555,Sam Gray,42,---,---,00:34:28,04:01:08,02:24:05,00:07:07,00:03:45,07:10:33
+ironman-70.3-lanzarote-20121110.csv,556,Wayne Callan,42,---,---,00:42:26,03:27:02,01:50:48,00:05:16,00:03:30,06:09:02
+ironman-70.3-lanzarote-20121110.csv,557,Mick Bolger,42,---,---,00:35:02,03:15:06,01:46:34,00:04:50,00:03:04,05:44:36
+ironman-70.3-lanzarote-20121110.csv,558,Stefan Klapp,42,---,---,00:30:13,03:10:39,01:40:12,00:05:13,00:02:51,05:29:08
+ironman-70.3-lanzarote-20121110.csv,559,Francesco Polignano,42,Angus,---,00:30:00,03:11:37,01:43:40,00:04:03,00:02:41,05:32:01
+ironman-70.3-lanzarote-20121110.csv,560,Stephen Taylor,43,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,561,Javier Sánchez,43,---,---,00:31:05,03:21:26,01:40:32,00:05:14,00:04:20,05:42:37
+ironman-70.3-lanzarote-20121110.csv,562,Chris Brands,43,---,---,00:27:12,02:34:30,01:26:42,00:03:06,00:02:42,04:34:12
+ironman-70.3-lanzarote-20121110.csv,563,Mads Walbom,43,---,---,00:45:29,04:18:14,02:44:28,00:08:06,00:06:20,08:02:37
+ironman-70.3-lanzarote-20121110.csv,564,Sam Ratajczak,43,---,---,00:26:19,02:57:18,---,00:04:45,00:02:24,DNF
+ironman-70.3-lanzarote-20121110.csv,565,Hugues Duhamel,43,---,---,00:41:46,03:43:09,01:47:16,00:05:58,00:03:33,06:21:42
+ironman-70.3-lanzarote-20121110.csv,566,Moi Gonzalez Martínez,43,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,567,Laurent Duval,43,---,---,00:36:22,03:00:53,01:34:45,00:04:25,00:02:36,05:19:01
+ironman-70.3-lanzarote-20121110.csv,568,Andrew Summers,43,---,---,00:40:15,03:19:46,01:41:01,00:08:07,00:04:19,05:53:28
+ironman-70.3-lanzarote-20121110.csv,569,Dirk Cox,43,---,---,00:25:57,---,---,00:03:58,---,DNF
+ironman-70.3-lanzarote-20121110.csv,570,Simon Voz,43,---,---,00:34:35,03:10:51,01:35:24,00:05:07,00:02:03,05:28:00
+ironman-70.3-lanzarote-20121110.csv,571,Toby Baxendale,---,---,---,00:35:15,03:19:44,01:41:44,00:03:58,00:02:29,05:43:10
+ironman-70.3-lanzarote-20121110.csv,572,Ignacio Soneira Garcia,43,---,---,00:33:28,03:29:00,01:55:50,00:04:44,00:03:27,06:06:29
+ironman-70.3-lanzarote-20121110.csv,573,Michael Melich,43,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,574,Arnaud Vuze,43,FR,---,00:40:46,04:04:55,02:19:45,00:07:25,00:03:57,07:16:48
+ironman-70.3-lanzarote-20121110.csv,575,Alan Robertson,43,---,---,00:40:34,03:53:08,02:12:15,00:06:18,00:03:39,06:55:54
+ironman-70.3-lanzarote-20121110.csv,576,Laurent Deage,43,---,---,00:36:48,03:41:27,02:11:36,00:04:56,00:03:50,06:38:37
+ironman-70.3-lanzarote-20121110.csv,577,Edward Grann,43,NY,---,00:33:27,03:38:49,01:55:45,00:04:38,00:02:49,06:15:28
+ironman-70.3-lanzarote-20121110.csv,578,Mark Reeve,43,---,---,00:43:57,04:03:43,01:54:49,00:05:29,00:03:15,06:51:13
+ironman-70.3-lanzarote-20121110.csv,579,Phil Parsons,43,Intl State,---,00:28:11,03:01:15,01:36:05,00:03:36,00:02:32,05:11:39
+ironman-70.3-lanzarote-20121110.csv,580,Andrew Farrall,43,---,---,00:33:54,03:57:07,02:23:50,00:06:26,00:08:50,07:10:07
+ironman-70.3-lanzarote-20121110.csv,581,David Newstead,43,---,---,00:41:44,04:20:32,02:39:54,00:05:34,00:03:58,07:51:42
+ironman-70.3-lanzarote-20121110.csv,582,Stephen Eastaugh-Waring,43,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,583,Daniel Bronstein,43,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,584,Tim Buckley,43,Barcelona,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,585,Michael Roddy,43,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,586,Simon Kenyon,43,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,587,Andrea Macucci,43,Italia,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,588,Torben Madsen,43,DK,---,00:39:17,03:26:26,02:07:54,00:06:13,00:03:18,06:23:08
+ironman-70.3-lanzarote-20121110.csv,589,Yves Ratinckx,44,---,---,00:35:24,03:30:56,01:47:14,00:05:25,00:04:01,06:03:00
+ironman-70.3-lanzarote-20121110.csv,590,Alfredo Consiglio,44,FR,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,591,Phil Johnson,44,---,---,00:29:32,03:32:24,02:16:55,00:04:01,00:02:52,06:25:44
+ironman-70.3-lanzarote-20121110.csv,592,Ulrich Meyer,44,---,---,00:33:28,03:17:48,02:07:10,00:05:32,00:03:14,06:07:12
+ironman-70.3-lanzarote-20121110.csv,593,Scott Winnard,44,glos,---,00:38:32,03:31:30,01:47:15,00:04:59,00:03:50,06:06:06
+ironman-70.3-lanzarote-20121110.csv,594,Ignacio Pakciarz,44,FL,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,595,Morten Storch,44,---,---,00:58:05,04:21:05,02:34:41,00:09:05,00:07:37,08:10:33
+ironman-70.3-lanzarote-20121110.csv,596,Giuseppe  Baldelli,44,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,597,Vincent Gaboriau,44,FR,---,00:38:27,03:34:21,01:37:12,00:05:58,00:03:08,05:59:06
+ironman-70.3-lanzarote-20121110.csv,598,Francisco Soler Copado,44,ES,---,00:48:52,03:35:30,01:51:24,00:11:11,00:06:51,06:33:48
+ironman-70.3-lanzarote-20121110.csv,599,marco novello,44,---,---,00:36:19,03:36:37,01:57:19,00:06:32,00:02:31,06:19:18
+ironman-70.3-lanzarote-20121110.csv,600,Thomas Edmonds,44,---,---,00:37:16,04:40:27,02:31:17,00:09:05,00:06:30,08:04:35
+ironman-70.3-lanzarote-20121110.csv,601,Kevin Wallace,44,UK,---,00:40:26,03:33:07,02:09:21,00:07:15,00:03:10,06:33:19
+ironman-70.3-lanzarote-20121110.csv,602,Jean-Marc Ameye,44,---,---,00:36:41,03:31:32,01:39:23,00:04:39,00:03:38,05:55:53
+ironman-70.3-lanzarote-20121110.csv,603,Robert Hall,44,Cheshire,---,00:36:16,03:38:10,01:51:50,00:05:20,00:04:09,06:15:45
+ironman-70.3-lanzarote-20121110.csv,604,Paul Makin,44,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,605,Jean-Martin Grisar,44,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,606,Chris Carney,44,---,---,00:36:05,03:10:58,01:33:41,00:05:25,00:02:30,05:28:39
+ironman-70.3-lanzarote-20121110.csv,607,Ximo Rubert Alemán,44,---,---,00:29:07,03:39:30,01:44:11,00:04:51,00:03:20,06:00:59
+ironman-70.3-lanzarote-20121110.csv,608,Richard Smith,44,---,---,00:31:47,03:56:40,02:45:24,00:04:29,00:04:01,07:22:21
+ironman-70.3-lanzarote-20121110.csv,609,Scott Hopkins,44,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,610,Jonathan Mccomb,44,---,---,00:30:18,03:22:16,01:38:36,00:04:19,00:03:32,05:39:01
+ironman-70.3-lanzarote-20121110.csv,611,Roberto Nu–ez Vallina,44,---,---,00:34:40,03:50:53,01:54:13,00:05:59,00:05:55,06:31:40
+ironman-70.3-lanzarote-20121110.csv,612,Daniel Baikovicius,44,Montevideo,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,613,Alberto Fazi,44,PU,---,00:31:07,03:02:19,01:40:10,00:04:27,00:02:06,05:20:09
+ironman-70.3-lanzarote-20121110.csv,614,Fabián Rozemblum,44,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,615,Eric delmont,44,West Yorkshire,---,00:31:54,03:34:49,01:52:20,00:05:25,00:03:56,06:08:24
+ironman-70.3-lanzarote-20121110.csv,616,Simon Barter,44,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,617,Jussi Viitanen,45,---,---,00:41:28,04:15:27,02:20:29,00:08:40,00:05:38,07:31:42
+ironman-70.3-lanzarote-20121110.csv,618,Jean-Marc Vandersmissen,45,---,---,00:33:30,03:53:07,01:56:36,00:08:19,00:03:36,06:35:08
+ironman-70.3-lanzarote-20121110.csv,619,Andrew Hansler,45,---,---,00:40:45,03:58:04,02:32:32,00:06:46,00:04:35,07:22:42
+ironman-70.3-lanzarote-20121110.csv,620,Frank Bockrath,45,---,---,00:36:26,---,---,00:07:09,---,DNF
+ironman-70.3-lanzarote-20121110.csv,621,Justin Marney,45,Devon,---,00:37:42,03:25:04,01:51:44,00:05:35,00:02:40,06:02:45
+ironman-70.3-lanzarote-20121110.csv,622,Graham Ross,45,NY,---,00:29:46,03:08:36,01:47:32,00:05:01,00:02:57,05:33:52
+ironman-70.3-lanzarote-20121110.csv,623,Frank Groner,45,---,---,00:35:21,03:21:44,01:49:10,00:04:33,00:04:11,05:54:59
+ironman-70.3-lanzarote-20121110.csv,624,Pierre Bene,45,---,---,00:33:58,03:31:54,01:44:11,00:07:25,00:03:44,06:01:12
+ironman-70.3-lanzarote-20121110.csv,625,Fabrice Poras,45,---,---,00:26:56,03:14:52,01:46:50,00:03:23,00:02:12,05:34:13
+ironman-70.3-lanzarote-20121110.csv,626,Markus Rauth,45,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,627,Mark Dalton,45,Cornwall,---,00:37:29,03:34:54,02:14:29,00:06:23,00:03:29,06:36:44
+ironman-70.3-lanzarote-20121110.csv,628,James Cooney,45,AE,---,00:34:30,03:26:55,02:15:16,00:09:10,00:04:27,06:30:18
+ironman-70.3-lanzarote-20121110.csv,629,Franz Watzlawick,45,AT,---,00:39:52,03:42:38,02:22:25,00:06:05,00:03:14,06:54:14
+ironman-70.3-lanzarote-20121110.csv,630,James Mulchrone,45,kerry,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,631,Martin Mendoza,45,---,---,00:40:00,04:21:15,02:23:40,00:12:26,00:06:49,07:44:10
+ironman-70.3-lanzarote-20121110.csv,632,Jonathan Bloohn,45,Intl State,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,633,Stephen Hooley,44,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,634,Angel Alonso Sanchez,45,---,---,00:45:15,03:30:31,01:44:06,00:11:40,00:04:17,06:15:49
+ironman-70.3-lanzarote-20121110.csv,635,John Tavener,45,---,---,00:34:38,03:25:57,02:04:19,00:04:56,00:03:15,06:13:05
+ironman-70.3-lanzarote-20121110.csv,636,Fabián Blanco,45,---,---,00:41:59,03:22:01,01:45:42,00:06:49,00:03:04,05:59:35
+ironman-70.3-lanzarote-20121110.csv,637,Tony Keely,46,---,---,00:32:16,03:44:35,01:46:46,00:04:42,00:02:33,06:10:52
+ironman-70.3-lanzarote-20121110.csv,638,Mark Richardson,46,Hants,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,639,Mark Burgess,46,---,---,00:33:34,03:59:43,02:15:24,00:06:23,00:04:58,07:00:02
+ironman-70.3-lanzarote-20121110.csv,640,Mark Jones,46,---,---,00:36:21,03:11:57,01:42:02,00:06:12,00:03:13,05:39:45
+ironman-70.3-lanzarote-20121110.csv,641,Emilio Lotti,46,Italia,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,642,Rob Barker,46,WA,---,00:39:28,03:33:59,01:56:06,00:05:27,00:05:53,06:20:53
+ironman-70.3-lanzarote-20121110.csv,643,Gregory Ashley,46,---,---,00:37:16,03:16:41,01:46:48,00:07:02,00:04:08,05:51:55
+ironman-70.3-lanzarote-20121110.csv,644,Sebastian Escarrer,46,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,645,Urs Burri,46,---,---,00:36:01,03:50:23,02:24:09,00:09:37,00:06:02,07:06:12
+ironman-70.3-lanzarote-20121110.csv,646,Jesus Esteban Benito,46,Intl State,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,647,John Cooper,46,Cheshire,---,00:45:04,04:38:29,02:21:16,00:07:31,00:05:15,07:57:35
+ironman-70.3-lanzarote-20121110.csv,648,Michael Nisbett,46,Intl State,---,00:42:00,03:48:15,01:52:23,00:06:21,00:03:45,06:32:44
+ironman-70.3-lanzarote-20121110.csv,649,Brendan Launders,46,ES,---,00:45:33,03:25:59,02:11:21,00:08:08,00:05:15,06:36:16
+ironman-70.3-lanzarote-20121110.csv,650,William Armour,46,---,---,00:42:02,03:28:01,02:20:25,00:08:56,00:03:51,06:43:15
+ironman-70.3-lanzarote-20121110.csv,651,Tapio Malkki,46,---,---,00:39:55,03:28:29,01:56:01,00:05:17,00:03:36,06:13:18
+ironman-70.3-lanzarote-20121110.csv,652,Peter Lissens,46,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,653,Bienvenido Rodríguez González,46,---,---,00:32:52,03:06:23,01:44:46,00:04:00,00:03:05,05:31:06
+ironman-70.3-lanzarote-20121110.csv,654,Holger Lüning,47,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,655,Gigi Motti,---,---,---,00:29:58,03:08:51,01:50:28,00:04:07,00:02:57,05:36:21
+ironman-70.3-lanzarote-20121110.csv,656,Sami Spahija,---,FR,---,00:50:14,04:14:51,02:46:21,00:10:19,00:06:17,08:08:02
+ironman-70.3-lanzarote-20121110.csv,657,Richard Hobson,47,---,---,00:25:33,02:38:28,01:27:41,00:03:01,00:01:48,04:36:31
+ironman-70.3-lanzarote-20121110.csv,658,Bernardino Coto Carmona,47,ES,---,00:39:54,03:42:46,02:34:27,00:07:46,00:05:08,07:10:01
+ironman-70.3-lanzarote-20121110.csv,659,Santiago Fernandez-Miranda T.,47,---,---,00:32:07,03:21:38,02:12:37,00:06:31,00:06:04,06:18:57
+ironman-70.3-lanzarote-20121110.csv,660,Arne Lunde,47,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,661,Mark Palmer,47,Surrey,---,00:40:13,03:22:01,01:34:08,00:04:52,00:02:37,05:43:51
+ironman-70.3-lanzarote-20121110.csv,662,Mark Wakefield,47,---,---,00:36:45,03:49:07,02:07:43,00:06:07,00:03:23,06:43:05
+ironman-70.3-lanzarote-20121110.csv,663,Paul Kingscott,47,Staffs,---,00:36:29,03:50:24,02:41:56,00:06:07,00:05:01,07:19:57
+ironman-70.3-lanzarote-20121110.csv,664,David Wagstaff,47,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,665,Pedro Luis Garcia,47,---,---,00:32:01,03:25:33,01:49:42,00:08:46,00:04:02,06:00:04
+ironman-70.3-lanzarote-20121110.csv,666,Simon Button,47,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,667,Moeller Uwe,47,---,---,00:29:36,03:02:21,01:43:50,00:03:49,00:02:30,05:22:06
+ironman-70.3-lanzarote-20121110.csv,668,Taboada Pedreira Javier,47,---,---,00:31:51,03:32:00,02:37:40,00:07:34,00:04:06,06:53:11
+ironman-70.3-lanzarote-20121110.csv,669,Rolf Vetter,47,---,---,00:32:38,03:16:18,02:00:30,00:03:53,00:03:24,05:56:43
+ironman-70.3-lanzarote-20121110.csv,670,Silvestro Pagano,47,DK,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,671,Colin Irving,47,Conwy,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,672,John Young,48,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,673,Frank Broll,48,---,---,00:33:50,03:28:20,01:42:26,00:06:43,00:02:49,05:54:08
+ironman-70.3-lanzarote-20121110.csv,674,David Stewart,48,OTHER,---,00:34:52,03:29:48,01:52:41,00:04:39,00:02:49,06:04:49
+ironman-70.3-lanzarote-20121110.csv,675,Ronan Le Boulch,---,---,---,00:27:36,03:06:02,01:45:30,00:03:36,00:03:07,05:25:51
+ironman-70.3-lanzarote-20121110.csv,676,Tomas Ivansky,48,Moravia-Silesia,---,00:38:04,03:29:30,02:00:07,00:06:39,00:04:17,06:18:37
+ironman-70.3-lanzarote-20121110.csv,677,Russell Murray,48,---,---,00:48:38,04:10:51,02:10:57,00:09:51,00:04:53,07:25:10
+ironman-70.3-lanzarote-20121110.csv,678,Mark Rigby,48,---,---,00:36:04,03:41:50,01:57:01,00:06:23,00:04:03,06:25:21
+ironman-70.3-lanzarote-20121110.csv,679,Hugh Gibbs,48,Kent,---,00:31:50,03:01:39,01:40:50,00:03:47,00:03:16,05:21:22
+ironman-70.3-lanzarote-20121110.csv,680,Julian Perez Castaño,48,ES,---,00:42:00,03:27:08,01:57:12,00:03:54,00:03:39,06:13:53
+ironman-70.3-lanzarote-20121110.csv,681,Francesco Palermo,48,grosseto,---,00:31:54,03:04:47,01:28:30,00:05:08,00:02:44,05:13:03
+ironman-70.3-lanzarote-20121110.csv,682,John Hind,48,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,683,Bart Klein,48,---,---,00:36:33,03:03:06,01:38:29,00:04:25,00:02:34,05:25:07
+ironman-70.3-lanzarote-20121110.csv,684,Nic Johnson,49,---,---,00:35:57,03:40:15,02:28:34,00:05:55,00:04:20,06:55:01
+ironman-70.3-lanzarote-20121110.csv,685,John Ardron,48,---,---,00:36:12,03:34:49,02:32:24,00:05:45,00:05:03,06:54:13
+ironman-70.3-lanzarote-20121110.csv,686,Robert Hughes,48,Mid Glam,---,00:39:36,03:22:04,03:20:42,00:08:01,00:09:23,07:39:46
+ironman-70.3-lanzarote-20121110.csv,687,Paul Rombaut,49,---,---,00:31:31,03:45:00,02:26:50,00:05:27,00:06:01,06:54:49
+ironman-70.3-lanzarote-20121110.csv,688,Emilio Lomi,49,MI,---,00:33:54,02:59:29,01:30:45,00:04:24,00:02:22,05:10:54
+ironman-70.3-lanzarote-20121110.csv,689,Ian Cardy,49,---,---,00:50:21,03:23:49,01:38:01,00:07:08,00:03:17,06:02:36
+ironman-70.3-lanzarote-20121110.csv,690,Marc Stremus,49,BE,---,00:31:36,03:20:11,02:09:47,00:07:55,00:04:46,06:14:15
+ironman-70.3-lanzarote-20121110.csv,691,Axel Josefs,49,---,---,00:31:41,03:16:36,01:50:40,00:05:19,00:02:48,05:47:04
+ironman-70.3-lanzarote-20121110.csv,692,Alfredo Morales Gonzalez,49,---,---,00:28:02,03:28:30,02:17:13,00:05:39,00:04:34,06:23:58
+ironman-70.3-lanzarote-20121110.csv,693,Dietmar Melmer,49,AT,---,00:31:05,02:39:25,01:30:16,00:03:51,00:02:42,04:47:19
+ironman-70.3-lanzarote-20121110.csv,694,Rob Fahie,49,---,---,00:42:14,04:10:23,02:52:42,00:09:53,00:10:00,08:05:12
+ironman-70.3-lanzarote-20121110.csv,695,Pedro Juan Perez Florido,49,---,---,00:37:46,03:34:38,01:50:38,00:06:12,00:03:25,06:12:39
+ironman-70.3-lanzarote-20121110.csv,696,Gunnar Schaefer,49,---,---,00:28:31,03:23:48,01:37:34,00:09:45,00:04:34,05:44:12
+ironman-70.3-lanzarote-20121110.csv,697,Alan Connor,---,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,698,Daniel Torres,49,Intl State,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,699,Luke Morgan,49,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,700,Jörg Alex,49,---,---,00:32:11,03:37:26,01:50:22,00:04:07,00:02:04,06:06:10
+ironman-70.3-lanzarote-20121110.csv,701,Mark Harrod,49,---,---,00:36:50,03:17:46,01:53:01,00:04:32,00:03:35,05:55:44
+ironman-70.3-lanzarote-20121110.csv,702,Dieter Lüscher,49,---,---,00:38:43,03:11:46,01:41:39,00:05:28,00:03:26,05:41:02
+ironman-70.3-lanzarote-20121110.csv,703,Conor O Dea,50,---,---,00:36:35,03:37:57,02:02:40,00:07:15,00:06:51,06:31:18
+ironman-70.3-lanzarote-20121110.csv,704,John Jamieson,50,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,705,Steve Elliott,50,Dorset,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,706,Dave Muir,50,---,---,00:31:40,02:52:52,01:35:07,00:04:05,00:02:20,05:06:04
+ironman-70.3-lanzarote-20121110.csv,707,Marcus Ryall,50,Somerset,---,00:34:01,03:06:59,01:38:41,00:05:13,00:02:53,05:27:47
+ironman-70.3-lanzarote-20121110.csv,708,Richard Traynor,50,---,---,00:36:31,03:18:58,01:49:23,00:07:28,00:03:22,05:55:42
+ironman-70.3-lanzarote-20121110.csv,709,Bruce Philp,---,Essex,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,710,Robin Brew,50,---,---,00:25:18,02:44:56,02:09:48,00:03:34,00:02:31,05:26:07
+ironman-70.3-lanzarote-20121110.csv,711,David Haythorn,50,Cheshire,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,712,Santiago Gomez,50,---,---,00:33:08,03:47:18,02:33:46,00:10:14,00:05:24,07:09:50
+ironman-70.3-lanzarote-20121110.csv,713,Marcus Bennett,50,---,---,00:33:23,03:15:56,01:44:47,00:09:07,00:04:15,05:47:28
+ironman-70.3-lanzarote-20121110.csv,714,Nick Beale,50,---,---,00:47:08,04:22:51,02:32:53,00:10:49,00:08:28,08:02:09
+ironman-70.3-lanzarote-20121110.csv,715,David Pontin,50,Northamptonshire,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,716,Brian Butler,50,Oxfordshire,---,00:28:01,03:28:38,01:59:16,00:04:37,00:03:21,06:03:53
+ironman-70.3-lanzarote-20121110.csv,717,Michael Olipitz,50,---,---,00:33:22,03:11:52,01:50:11,00:05:26,00:02:34,05:43:25
+ironman-70.3-lanzarote-20121110.csv,718,Ržgis Masson,---,---,---,00:32:02,03:20:48,01:55:58,00:06:30,00:06:32,06:01:50
+ironman-70.3-lanzarote-20121110.csv,719,Christopher H Gair,51,Angus,---,00:40:28,03:39:56,02:01:41,00:10:12,00:04:31,06:36:48
+ironman-70.3-lanzarote-20121110.csv,720,Philip Donnison,51,Cumbria,---,00:35:51,03:43:42,01:59:34,00:05:22,00:03:51,06:28:20
+ironman-70.3-lanzarote-20121110.csv,721,Juan Jofresa,51,---,---,00:29:36,03:35:18,01:56:15,00:04:23,00:03:14,06:08:46
+ironman-70.3-lanzarote-20121110.csv,722,Trevor Prior,51,Isle of Wight,---,00:42:34,04:22:29,02:39:00,00:06:21,00:05:23,07:55:47
+ironman-70.3-lanzarote-20121110.csv,723,Raymond Van Zoolingen,51,NL,---,00:31:27,03:25:11,02:26:01,00:06:15,00:03:49,06:32:43
+ironman-70.3-lanzarote-20121110.csv,724,Julian Rose,51,---,---,00:36:27,03:43:18,01:44:43,00:07:16,00:04:19,06:16:03
+ironman-70.3-lanzarote-20121110.csv,725,Gary Matthews,51,---,---,00:36:17,03:28:09,02:14:57,00:06:32,00:03:44,06:29:39
+ironman-70.3-lanzarote-20121110.csv,726,Niall O'Donovan,51,Limerick,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,727,Raffaele Raffa,51,---,---,00:32:59,03:42:37,01:52:53,00:06:27,00:05:24,06:20:20
+ironman-70.3-lanzarote-20121110.csv,728,Antonio Blanco S‡nchez,51,---,---,00:36:53,03:37:58,02:10:06,00:06:40,00:03:19,06:34:56
+ironman-70.3-lanzarote-20121110.csv,729,Lucas Cremonte,52,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,730,Andy Sawyer,52,East Sussex,---,00:40:18,03:32:26,01:55:01,00:04:27,00:02:37,06:14:49
+ironman-70.3-lanzarote-20121110.csv,731,Fred Genta,52,---,---,00:39:41,03:29:44,01:48:46,00:06:32,00:04:07,06:08:50
+ironman-70.3-lanzarote-20121110.csv,732,Thomas Mclnnes,52,Thalang,---,00:35:14,03:14:02,01:48:55,00:05:28,00:04:08,05:47:47
+ironman-70.3-lanzarote-20121110.csv,733,Klaus Knapp,52,ES,---,00:35:13,03:34:28,02:27:24,00:05:18,00:07:05,06:49:28
+ironman-70.3-lanzarote-20121110.csv,734,Giorgio Codutti,52,Udine,---,00:46:58,03:51:53,02:23:01,00:08:59,00:03:50,07:14:41
+ironman-70.3-lanzarote-20121110.csv,735,Ricardo Jaurrieta,52,ES,---,00:35:17,03:47:54,02:08:03,00:07:29,00:05:20,06:44:03
+ironman-70.3-lanzarote-20121110.csv,736,Marcel Duim,51,---,---,00:42:24,03:55:30,02:13:31,00:09:53,00:06:21,07:07:39
+ironman-70.3-lanzarote-20121110.csv,737,Roberto Zorzin,52,---,---,00:40:14,04:52:16,02:57:35,00:10:35,00:06:38,08:47:18
+ironman-70.3-lanzarote-20121110.csv,738,Nigel Jackson,53,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,739,Howard Smith,53,---,---,00:36:14,04:18:02,02:15:38,00:07:54,00:07:53,07:25:41
+ironman-70.3-lanzarote-20121110.csv,740,Roland Wagner,53,---,---,00:39:25,---,---,00:06:28,---,DNF
+ironman-70.3-lanzarote-20121110.csv,741,Iain Parsons,54,Intl State,---,00:35:58,03:40:34,02:35:29,00:06:09,00:06:52,07:05:02
+ironman-70.3-lanzarote-20121110.csv,742,Hans-Jürgen Balke,54,---,---,00:35:54,03:38:36,01:47:23,00:07:10,00:04:26,06:13:29
+ironman-70.3-lanzarote-20121110.csv,743,Kenny Brown,54,---,---,00:29:39,03:10:37,01:41:40,00:05:50,00:02:54,05:30:40
+ironman-70.3-lanzarote-20121110.csv,744,Michael Roe,54,---,---,00:31:52,02:49:54,01:29:25,00:04:04,00:02:09,04:57:24
+ironman-70.3-lanzarote-20121110.csv,745,Ian Walker,54,Kent,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,746,Micky Kerr,54,---,---,00:34:12,03:50:40,02:12:58,00:06:17,00:04:22,06:48:29
+ironman-70.3-lanzarote-20121110.csv,747,Arthur Chaudon,54,Santa Catarina,---,00:49:38,04:56:59,02:23:37,00:11:04,00:05:20,08:26:38
+ironman-70.3-lanzarote-20121110.csv,748,Marc Fortier-Beaulieu,55,---,---,00:40:37,03:48:58,01:57:18,00:06:36,00:03:27,06:36:56
+ironman-70.3-lanzarote-20121110.csv,749,A Russell,55,---,---,00:31:53,03:49:24,02:18:36,00:05:02,00:03:40,06:48:35
+ironman-70.3-lanzarote-20121110.csv,750,Gaspare Fumagalli,55,mb,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,751,Aldo Nobili,56,Intl State,---,00:29:47,03:10:26,01:45:18,00:04:00,00:02:53,05:32:24
+ironman-70.3-lanzarote-20121110.csv,752,Tiziano Zampieri,56,---,---,00:34:56,03:31:57,01:58:11,00:06:23,00:03:47,06:15:14
+ironman-70.3-lanzarote-20121110.csv,753,Kestutis Naujokaitis,56,---,---,00:47:01,04:41:38,02:24:40,00:15:38,00:07:58,08:16:55
+ironman-70.3-lanzarote-20121110.csv,754,Trevor Simmons,57,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,755,Lee Holdaway,58,---,---,00:36:48,03:05:14,01:44:35,00:03:41,00:02:12,05:32:30
+ironman-70.3-lanzarote-20121110.csv,756,Nicholas Appleton,59,---,---,00:43:02,04:39:43,02:30:05,00:07:51,00:08:09,08:08:50
+ironman-70.3-lanzarote-20121110.csv,757,Paul Kay,59,ES,---,00:42:09,03:36:29,01:54:42,00:05:45,00:03:23,06:22:28
+ironman-70.3-lanzarote-20121110.csv,758,Pedro Castilla Plaza,59,ES,---,00:31:01,02:56:24,01:54:46,00:04:10,00:02:46,05:29:07
+ironman-70.3-lanzarote-20121110.csv,759,Liam Power,59,---,---,00:51:54,04:14:10,02:34:12,00:09:47,00:08:51,07:58:54
+ironman-70.3-lanzarote-20121110.csv,760,Terry Jones,60,West Glamorgan,---,00:33:09,03:58:01,02:04:04,00:08:02,00:04:38,06:47:54
+ironman-70.3-lanzarote-20121110.csv,761,Mike Ward,60,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,762,David Patten,60,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,763,Peter William Loughran,61,---,---,00:49:49,03:43:19,02:44:32,00:07:47,00:04:30,07:29:57
+ironman-70.3-lanzarote-20121110.csv,764,Konde Iñaki,61,---,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,765,Eric Wintersgill,61,Lincolnshire,---,00:44:52,03:41:00,02:03:50,00:05:57,00:04:38,06:40:17
+ironman-70.3-lanzarote-20121110.csv,766,Martin Mckenna,62,---,---,00:40:02,04:29:39,02:09:21,00:09:11,00:04:51,07:33:04
+ironman-70.3-lanzarote-20121110.csv,767,Reinhard Hans-Werner Drogla,62,---,---,00:33:53,03:23:31,02:01:39,00:05:41,00:03:29,06:08:13
+ironman-70.3-lanzarote-20121110.csv,768,Adri Van Tilburg,63,NL,---,00:45:26,03:55:46,02:02:54,00:06:26,00:03:46,06:54:18
+ironman-70.3-lanzarote-20121110.csv,769,Frits Massee,67,NB,---,00:39:59,03:41:31,02:53:32,00:10:26,00:04:58,07:30:26
+ironman-70.3-lanzarote-20121110.csv,770,Karl Oberwimmer,70,---,---,00:51:05,---,---,00:08:55,---,DNF
+ironman-70.3-lanzarote-20121110.csv,771,Winfried Schmidt,72,DE,---,---,---,---,---,---,DNS
+ironman-70.3-lanzarote-20121110.csv,772,Carlos Ramirez Priego,37,---,---,00:45:28,04:31:19,02:39:12,00:08:20,00:05:32,08:09:51
+ironman-70.3-lanzarote-20121110.csv,773,Juan Carlos Albuixech,---,---,---,00:35:43,03:48:12,01:53:07,00:06:03,00:03:46,06:26:51
+ironman-70.3-lanzarote-20121110.csv,774,Alvaro Diaz Carralero Diaz,25,---,---,00:40:30,04:06:22,02:05:53,00:07:53,00:05:11,07:05:49
+ironman-70.3-lanzarote-20121110.csv,775,Mark Wigmore,41,---,---,00:40:31,03:45:17,01:53:25,00:06:59,00:03:07,06:29:19
+ironman-70.3-lanzarote-20121110.csv,776,Jakub Charaszkiewicz,35,Intl State,---,00:34:04,03:02:19,01:37:43,00:04:17,00:02:49,05:21:12
+ironman-70.3-lanzarote-20121110.csv,777,Katrine Trolle,26,---,---,00:40:08,03:19:57,01:41:27,00:06:19,00:04:39,05:52:30
+ironman-70.3-lanzarote-20121110.csv,778,Stine Josephine Dahl,28,---,---,00:42:08,04:08:52,02:07:43,00:06:49,00:04:41,07:10:13

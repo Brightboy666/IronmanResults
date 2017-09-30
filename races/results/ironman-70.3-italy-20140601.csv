@@ -1,0 +1,1402 @@
+#File=ironman-70.3-italy-20140601.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-italy-20140601.csv,2,Victor Del Corral,34,---,ESP,00:18:07,02:14:32,01:11:38,00:02:34,00:03:02,03:49:53
+ironman-70.3-italy-20140601.csv,3,Luca De Paolis,39,Italia,ITA,00:20:20,02:28:14,01:18:21,00:02:42,00:03:05,04:12:42
+ironman-70.3-italy-20140601.csv,4,Stefano Paoli,39,---,ITA,00:17:34,02:23:22,01:25:20,00:03:02,00:03:36,04:12:54
+ironman-70.3-italy-20140601.csv,5,Domenico Passuello,36,Intl State,ITA,00:16:07,02:13:31,01:21:41,00:02:27,00:02:54,03:56:40
+ironman-70.3-italy-20140601.csv,6,Cool Hannes,28,BE,BEL,00:16:56,02:20:12,01:15:02,00:02:48,00:03:13,03:58:11
+ironman-70.3-italy-20140601.csv,7,Tony Puglia,32,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,8,Stuart Marais,28,---,ZAF,00:16:57,02:14:46,01:11:55,00:02:42,00:02:29,03:48:49
+ironman-70.3-italy-20140601.csv,9,Kevin Thornton,30,Dublin,IRL,00:15:50,02:16:35,01:18:02,00:02:46,00:03:12,03:56:25
+ironman-70.3-italy-20140601.csv,10,Markus Mlinar,34,---,AUT,00:19:03,02:29:18,01:23:02,00:02:52,00:03:04,04:17:19
+ironman-70.3-italy-20140601.csv,11,Johannes Moldan,26,---,DEU,00:17:01,02:12:28,01:17:17,00:02:31,00:02:43,03:52:00
+ironman-70.3-italy-20140601.csv,12,Albert Moreno Molins,23,---,ESP,00:16:55,02:15:56,01:13:36,00:02:23,00:02:36,03:51:26
+ironman-70.3-italy-20140601.csv,13,Victor Debil-Caux,31,Other,FRA,00:18:05,02:14:29,01:16:13,00:02:45,00:02:28,03:54:00
+ironman-70.3-italy-20140601.csv,14,Simone Mantolini,31,Intl State,ITA,00:18:04,02:27:52,01:27:43,00:02:41,00:03:02,04:19:22
+ironman-70.3-italy-20140601.csv,15,Manuel Kueng,26,---,CHE,00:15:16,02:17:20,01:20:25,00:02:34,00:02:48,03:58:23
+ironman-70.3-italy-20140601.csv,16,Clemente Alonso-Mckernan,36,---,ESP,00:15:23,02:18:12,01:17:27,00:02:51,00:02:56,03:56:49
+ironman-70.3-italy-20140601.csv,17,Horst Reichel,32,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,18,Tom Lowe,36,Other,GBR,00:18:09,02:17:03,01:17:37,00:02:57,00:03:15,03:59:01
+ironman-70.3-italy-20140601.csv,19,Karl-Johan Danielsson,28,---,SWE,00:15:57,02:25:15,01:24:18,00:02:49,00:04:00,04:12:19
+ironman-70.3-italy-20140601.csv,20,Alberto Casadei,28,Intl State,ITA,00:15:20,02:17:27,01:16:38,00:02:28,00:02:53,03:54:46
+ironman-70.3-italy-20140601.csv,21,Ivan Risti,33,Intl State,ITA,00:15:46,02:25:39,01:20:24,00:02:29,00:02:40,04:06:58
+ironman-70.3-italy-20140601.csv,22,Toumy Degham,34,---,FRA,00:16:54,02:24:32,01:16:59,00:02:33,00:02:40,04:03:38
+ironman-70.3-italy-20140601.csv,23,Daniel Fontana,38,Milano,ITA,00:15:29,02:17:16,01:17:50,00:02:30,00:02:42,03:55:47
+ironman-70.3-italy-20140601.csv,24,Anton Blokhin,27,"Minskaya oblast
+Minsk",UKR,00:16:03,02:17:42,01:18:15,00:02:45,00:03:05,03:57:50
+ironman-70.3-italy-20140601.csv,25,Gabriele Pertusati,40,---,ITA,00:16:29,02:29:55,---,00:02:50,---,DNF
+ironman-70.3-italy-20140601.csv,26,Gabriele Mazzetta,34,---,ITA,00:16:49,02:27:47,01:28:10,00:02:50,00:03:13,04:18:49
+ironman-70.3-italy-20140601.csv,27,Jonathan Ciavattella,32,Intl State,ITA,00:15:11,02:33:55,01:15:05,00:04:12,00:03:31,04:11:54
+ironman-70.3-italy-20140601.csv,51,Erika Csomor,40,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,52,Nicole Woysch,37,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,53,Martina Dogana,35,Intl State,ITA,00:20:46,02:38:26,01:24:17,00:02:52,00:03:12,04:29:33
+ironman-70.3-italy-20140601.csv,54,Linda Scattolin,39,---,ITA,00:23:05,02:49:26,---,00:03:43,---,DNF
+ironman-70.3-italy-20140601.csv,55,Jennifer Duffy,37,Dublin,IRL,00:20:45,02:48:01,01:27:55,00:02:50,00:03:30,04:43:01
+ironman-70.3-italy-20140601.csv,56,Emma Bilham,27,---,CHE,00:18:05,02:39:34,01:28:27,00:02:46,00:03:02,04:31:54
+ironman-70.3-italy-20140601.csv,57,Monique Grossrieder,38,---,CHE,00:23:32,02:46:25,01:29:30,00:03:17,00:03:19,04:46:03
+ironman-70.3-italy-20140601.csv,58,Michaela Renner-Schneck,31,DE,DEU,00:18:53,02:43:09,01:25:00,00:03:29,00:02:58,04:33:29
+ironman-70.3-italy-20140601.csv,59,Camilla Pedersen,30,---,DNK,00:17:04,02:29:33,01:26:35,00:02:45,00:03:07,04:19:04
+ironman-70.3-italy-20140601.csv,100,Mary Catherine Littlejohn,23,---,CAN,00:27:39,03:22:37,01:53:44,00:06:02,00:05:52,05:55:54
+ironman-70.3-italy-20140601.csv,101,Francesca Mauri,23,---,ITA,00:24:45,03:19:32,02:18:41,00:04:51,00:04:20,06:12:09
+ironman-70.3-italy-20140601.csv,102,Giulia Ballestri,26,---,ITA,00:21:05,02:54:57,01:39:56,00:03:34,00:03:33,05:03:05
+ironman-70.3-italy-20140601.csv,103,Jamey Boyd,25,ND,USA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,104,Alicia Bradbury,28,PA,USA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,105,Chiara Grasso,24,cn,ITA,00:25:47,03:12:03,02:04:03,00:05:12,00:04:04,05:51:09
+ironman-70.3-italy-20140601.csv,106,Camilla Herrera,33,PA,VEN,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,107,Helena Hills,26,---,GBR,00:27:27,03:37:56,02:45:43,00:07:36,00:08:43,07:07:25
+ironman-70.3-italy-20140601.csv,108,Jeaninne Manz,26,---,CHE,00:24:16,03:02:28,02:15:00,00:05:06,00:05:39,05:52:29
+ironman-70.3-italy-20140601.csv,109,Jelena Milicevic,26,Qatar,SRB,00:28:09,03:34:31,02:22:04,00:11:01,00:10:25,06:46:10
+ironman-70.3-italy-20140601.csv,110,Claudia Misano,26,---,ITA,00:29:18,03:39:58,02:08:11,00:05:51,00:05:53,06:29:11
+ironman-70.3-italy-20140601.csv,111,Sophie Schober,28,AT,AUT,00:25:55,02:55:54,01:48:29,00:03:37,00:04:31,05:18:26
+ironman-70.3-italy-20140601.csv,112,Mélanie Stampfli,29,---,CHE,00:27:06,03:24:57,02:04:47,00:06:28,00:09:53,06:13:11
+ironman-70.3-italy-20140601.csv,113,Vanessa Velasquez,29,nueva esparta,VEN,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,114,Eleonora Bado,32,Italia,ITA,00:24:00,03:12:26,02:05:03,00:04:15,00:04:23,05:50:07
+ironman-70.3-italy-20140601.csv,115,Rachel Beck,34,---,CHE,00:20:11,02:55:59,01:38:30,00:03:57,00:04:19,05:02:56
+ironman-70.3-italy-20140601.csv,116,Fernanda Cardones,30,Porto,BRA,00:24:51,03:22:53,01:55:12,00:03:49,00:04:31,05:51:16
+ironman-70.3-italy-20140601.csv,117,francesca de cesaris,33,---,ITA,00:29:06,03:09:40,02:01:22,00:06:28,00:05:13,05:51:49
+ironman-70.3-italy-20140601.csv,118,Aurelie Dejonghe,29,---,BEL,00:28:44,03:10:17,01:50:45,00:04:50,00:04:21,05:38:57
+ironman-70.3-italy-20140601.csv,119,Kelli Dixon,29,TX,USA,00:31:16,04:00:40,02:15:29,00:06:54,00:05:47,07:00:06
+ironman-70.3-italy-20140601.csv,120,Gemma Farrell,30,---,GBR,00:25:08,03:11:41,01:33:49,00:03:49,00:03:47,05:18:14
+ironman-70.3-italy-20140601.csv,121,Margherita Giuliattini,33,ITALIA,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,122,Cheryl Gorga,30,Kent,GBR,00:30:32,03:37:21,02:25:55,00:05:38,00:07:10,06:46:36
+ironman-70.3-italy-20140601.csv,123,Maria Jose Jerez,29,Panamá,VEN,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,124,Joanne Kelly,33,---,ZAF,00:22:21,03:10:04,02:03:31,00:04:34,00:04:06,05:44:36
+ironman-70.3-italy-20140601.csv,125,Emilia Kobylka,32,---,POL,00:32:43,03:55:14,02:27:28,00:07:23,00:05:29,07:08:17
+ironman-70.3-italy-20140601.csv,126,Karen Mackay,32,---,GBR,00:27:46,04:22:36,02:01:32,00:04:37,00:06:34,07:03:05
+ironman-70.3-italy-20140601.csv,127,Niina Mäenpää,34,Finland,FIN,00:30:55,03:23:19,02:04:45,00:04:47,00:04:29,06:08:15
+ironman-70.3-italy-20140601.csv,128,Valeria Mariani,32,ITALIA,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,129,Kara Moddemann,32,---,ARE,00:20:18,03:04:45,01:56:11,00:04:28,00:04:31,05:30:13
+ironman-70.3-italy-20140601.csv,130,Katherine Northrup,34,---,USA,00:20:44,03:18:44,01:44:03,00:04:34,00:04:11,05:32:16
+ironman-70.3-italy-20140601.csv,131,Francesca Poli,31,Bologna,ITA,00:23:59,03:05:43,01:50:14,00:05:00,00:04:32,05:29:28
+ironman-70.3-italy-20140601.csv,132,Karolina Robel,30,---,POL,00:35:31,03:36:11,02:25:11,00:06:25,00:06:24,06:49:42
+ironman-70.3-italy-20140601.csv,133,Silvia Shiapparoli,31,Italy,ITA,00:25:42,03:13:13,02:01:08,00:03:58,00:04:38,05:48:39
+ironman-70.3-italy-20140601.csv,134,Marie Pier Scott-Boyer,30,---,CAN,00:29:04,03:29:30,02:05:19,00:06:40,00:06:22,06:16:55
+ironman-70.3-italy-20140601.csv,135,Diana Tacconelli,31,NE,VEN,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,136,Aga Wicinska,32,---,POL,00:30:36,03:31:20,01:59:29,00:05:14,00:04:57,06:11:36
+ironman-70.3-italy-20140601.csv,137,Cristina Wuergler,31,CH,CHE,00:24:03,03:11:10,01:43:03,00:03:30,00:03:34,05:25:20
+ironman-70.3-italy-20140601.csv,138,Sue Banks,37,---,GBR,00:29:53,03:25:09,02:14:53,00:05:58,00:06:38,06:22:31
+ironman-70.3-italy-20140601.csv,139,Lucia Cossarini,35,Bologna,ITA,00:25:45,03:14:30,01:55:16,00:05:32,00:04:38,05:45:41
+ironman-70.3-italy-20140601.csv,140,Cecilia Di Benedetto,38,Italia,ITA,00:25:52,03:08:57,01:34:52,00:05:17,00:03:37,05:18:35
+ironman-70.3-italy-20140601.csv,141,Clemirt Flores,38,pe,CUB,00:29:52,03:32:15,02:24:27,00:05:41,00:07:01,06:39:16
+ironman-70.3-italy-20140601.csv,142,Alessandra Franco,36,Lecce,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,143,Donna Hicks,37,---,NZL,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,144,Cécile Hocquaux,35,---,FRA,---,---,---,---,---,DQ
+ironman-70.3-italy-20140601.csv,145,Hannah Hintz,35,CO,USA,00:24:00,03:12:14,01:47:24,00:03:50,00:04:02,05:31:30
+ironman-70.3-italy-20140601.csv,146,Silvia Moglioni,34,Roma,ITA,00:28:10,03:35:34,02:00:41,00:06:52,00:05:16,06:16:33
+ironman-70.3-italy-20140601.csv,147,Anna Monzani,38,MB,ITA,00:29:44,---,---,00:08:49,---,DNF
+ironman-70.3-italy-20140601.csv,148,Claudia Palumbo,38,milano,ITA,00:29:53,04:05:58,01:50:51,00:10:01,00:09:17,06:46:00
+ironman-70.3-italy-20140601.csv,149,Francesca Salvemini,38,APO,ITA,00:33:01,03:30:29,02:34:42,00:07:46,00:06:16,06:52:14
+ironman-70.3-italy-20140601.csv,150,Angela Samosorn,35,VA,USA,00:27:37,04:14:56,02:31:04,00:06:39,00:09:34,07:29:50
+ironman-70.3-italy-20140601.csv,151,Laura Silei,37,---,ITA,00:23:57,03:03:48,01:37:53,00:03:36,00:03:23,05:12:37
+ironman-70.3-italy-20140601.csv,152,Roberta Siviero,36,---,ITA,00:24:08,03:03:51,01:58:42,00:04:34,00:03:43,05:34:58
+ironman-70.3-italy-20140601.csv,153,Laura Strappaveccia,36,---,ITA,00:24:12,03:18:34,01:50:46,00:04:26,00:04:18,05:42:16
+ironman-70.3-italy-20140601.csv,154,Shanda Sumpter,38,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,155,Melissa Alfano,40,NC,USA,00:32:31,03:32:19,02:25:58,00:05:06,00:04:47,06:40:41
+ironman-70.3-italy-20140601.csv,156,Laurie Beattie,39,CO,USA,00:31:23,03:31:07,02:37:03,00:10:30,00:08:01,06:58:04
+ironman-70.3-italy-20140601.csv,157,Valeria Bianchi,43,ITALIA,ITA,00:26:31,03:38:07,02:11:56,00:05:01,00:04:57,06:26:32
+ironman-70.3-italy-20140601.csv,158,Barbara Briziarelli,39,PG,ITA,00:27:57,03:17:28,01:52:09,00:05:21,00:03:52,05:46:47
+ironman-70.3-italy-20140601.csv,159,Heidi Cameron,43,PESCARA,GBR,00:32:07,03:59:58,01:59:32,00:09:38,00:07:52,06:49:07
+ironman-70.3-italy-20140601.csv,160,Roberta Contiero,39,Italia,ITA,00:25:07,03:13:31,01:51:55,00:04:39,00:03:51,05:39:03
+ironman-70.3-italy-20140601.csv,161,Veronica Di Renzo,43,ITALIA,ITA,00:29:07,03:51:28,01:47:29,00:05:37,00:05:31,06:19:12
+ironman-70.3-italy-20140601.csv,162,Luisa Fumagalli,42,Intl State,ITA,00:22:33,03:08:38,01:36:01,00:03:29,00:03:41,05:14:22
+ironman-70.3-italy-20140601.csv,164,Valentina Kukrus,39,Russia,RUS,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,165,Paola Memmo,43,---,ITA,00:28:40,03:22:01,01:51:44,00:07:48,00:06:14,05:56:27
+ironman-70.3-italy-20140601.csv,166,Katja Mitrunen,40,Keski-Suomi,FIN,00:29:20,03:04:14,01:51:19,00:04:33,00:04:05,05:33:31
+ironman-70.3-italy-20140601.csv,167,Laura Oreste,40,ITALIA,ITA,00:27:15,02:57:13,02:00:54,00:06:30,00:05:48,05:37:40
+ironman-70.3-italy-20140601.csv,169,Paola Patricelli,39,ita,ITA,00:27:27,03:25:55,01:45:57,00:05:33,00:04:13,05:49:05
+ironman-70.3-italy-20140601.csv,170,Isabelle Pfirter,42,---,CHE,00:29:04,03:15:22,01:54:08,00:05:21,00:06:51,05:50:46
+ironman-70.3-italy-20140601.csv,171,Vanessa Pinto,40,Italia,ITA,00:30:50,03:35:33,02:24:15,00:07:02,00:08:11,06:45:51
+ironman-70.3-italy-20140601.csv,172,Erica Poldahl,40,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,173,Gessica Sarti,41,ravenna,ITA,00:22:58,03:03:59,---,00:03:49,00:04:24,DNF
+ironman-70.3-italy-20140601.csv,174,Monique Strange,43,DXB,ARE,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,175,Donatella Taghetti,43,---,ITA,00:30:25,03:56:44,01:56:30,00:06:37,00:07:29,06:37:45
+ironman-70.3-italy-20140601.csv,176,Cherry Underwood,40,---,GBR,00:29:39,03:27:05,01:59:19,00:04:49,00:04:20,06:05:12
+ironman-70.3-italy-20140601.csv,177,Elisabetta Villa,41,Pordenone,ITA,00:29:00,02:58:37,01:29:24,00:04:29,00:04:27,05:05:57
+ironman-70.3-italy-20140601.csv,178,Isabel Cristina Arzamendi Sosa,45,Tamaulipas,MEX,00:29:04,03:22:15,02:14:08,00:08:16,00:07:42,06:21:25
+ironman-70.3-italy-20140601.csv,179,Muriel Brosteaux,44,BE,BEL,00:26:48,03:29:40,---,00:12:09,00:09:23,DNF
+ironman-70.3-italy-20140601.csv,180,Alessandra Brunelli,48,Other,ITA,00:24:20,02:56:06,01:40:11,00:03:43,00:03:32,05:07:52
+ironman-70.3-italy-20140601.csv,181,Patrizia Fiorentini,48,ITA,ITA,00:31:53,03:43:19,02:14:22,00:05:48,00:07:42,06:43:04
+ironman-70.3-italy-20140601.csv,182,Roberta Giolitto,46,---,ITA,00:28:03,03:21:45,02:01:48,00:06:44,00:06:25,06:04:45
+ironman-70.3-italy-20140601.csv,183,Anna John,47,Intl State,GBR,00:23:59,03:28:30,02:03:07,00:07:01,00:06:06,06:08:43
+ironman-70.3-italy-20140601.csv,184,Elwira Karpinski,47,PE,CAN,00:30:10,03:35:09,02:27:35,00:07:35,00:07:16,06:47:45
+ironman-70.3-italy-20140601.csv,185,Jenny Lees,46,Prague,USA,00:28:04,04:15:39,02:12:02,00:10:10,00:07:46,07:13:41
+ironman-70.3-italy-20140601.csv,186,Luisa Cristina Memmo,47,milano,ITA,00:28:38,03:06:24,01:44:18,00:07:16,00:04:39,05:31:15
+ironman-70.3-italy-20140601.csv,187,Simona Panzoni,45,---,ITA,00:29:00,03:38:38,02:37:04,00:06:40,00:07:04,06:58:26
+ironman-70.3-italy-20140601.csv,188,Sabrina Peretto,49,Padova,ITA,00:27:56,03:00:00,01:51:14,00:04:38,00:04:49,05:28:37
+ironman-70.3-italy-20140601.csv,189,Cinzia Pomante,49,Italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,190,Christina Rinne-Luuk,46,---,DEU,00:27:42,03:07:40,02:07:48,00:05:50,00:04:51,05:53:51
+ironman-70.3-italy-20140601.csv,191,Raffaella Sossi,46,Italia,ITA,00:26:39,03:18:12,02:13:18,00:05:08,00:06:10,06:09:27
+ironman-70.3-italy-20140601.csv,192,Leah Studer,45,NL,USA,00:25:23,04:15:16,02:26:14,00:07:05,00:08:04,07:22:02
+ironman-70.3-italy-20140601.csv,193,Elga Ersilia Tieri,48,ITALIA,ITA,00:27:29,03:33:07,01:54:26,00:05:17,00:04:49,06:05:08
+ironman-70.3-italy-20140601.csv,194,Amanda Tucker,47,Treviso,USA,00:29:31,02:53:32,01:50:58,00:06:32,00:05:13,05:25:46
+ironman-70.3-italy-20140601.csv,195,Susan Edney,51,Pembroke,BMU,00:25:41,03:09:22,02:06:36,00:05:38,00:04:16,05:51:33
+ironman-70.3-italy-20140601.csv,196,Jeannie Fry,53,Somerset,GBR,00:25:34,02:58:54,01:52:41,00:03:34,00:03:58,05:24:41
+ironman-70.3-italy-20140601.csv,197,Claudia Gnudi,53,BO,ITA,00:29:16,03:50:22,02:18:33,00:09:38,00:08:48,06:56:37
+ironman-70.3-italy-20140601.csv,198,Barbara Hazelton,51,---,USA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,199,Nicola John,49,---,GBR,00:24:47,03:38:32,02:19:16,00:05:39,00:05:54,06:34:08
+ironman-70.3-italy-20140601.csv,200,Stacey Kayden,50,CA,USA,00:28:57,04:21:29,---,00:09:30,---,DNF
+ironman-70.3-italy-20140601.csv,201,Anne Klein,50,CO,USA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,202,Kelly Lang,52,CA,USA,00:32:15,03:32:47,02:21:56,00:07:26,00:09:21,06:43:45
+ironman-70.3-italy-20140601.csv,203,Maria Rosaria Lazzari,50,---,ITA,00:29:23,03:11:11,02:11:25,00:05:32,00:04:59,06:02:30
+ironman-70.3-italy-20140601.csv,204,Monica Morricone,49,italia,ITA,00:30:11,03:37:54,02:34:33,00:07:07,00:06:18,06:56:03
+ironman-70.3-italy-20140601.csv,205,Enya Russell,50,---,IRL,00:36:08,03:54:11,02:36:00,00:09:27,00:08:40,07:24:26
+ironman-70.3-italy-20140601.csv,206,Virna Stavla,51,---,ITA,00:29:28,03:08:12,01:47:32,00:06:09,00:04:56,05:36:17
+ironman-70.3-italy-20140601.csv,207,Aurelia Vasino,49,LODI,ITA,00:29:06,03:13:29,01:49:31,00:06:36,00:05:52,05:44:34
+ironman-70.3-italy-20140601.csv,208,Sandy Wall,50,---,USA,00:28:43,03:52:22,02:53:13,00:06:39,00:07:28,07:28:25
+ironman-70.3-italy-20140601.csv,210,Annemarie Gerhard,57,DE,DEU,00:31:54,03:42:54,02:21:52,00:06:12,00:05:45,06:48:37
+ironman-70.3-italy-20140601.csv,211,Antonia Marucci,54,PG,ITA,00:31:30,03:48:23,02:24:42,00:06:52,00:07:21,06:58:48
+ironman-70.3-italy-20140601.csv,212,Loreen Pindera,55,QC,CAN,00:27:34,03:15:12,02:05:03,00:04:32,00:04:40,05:57:01
+ironman-70.3-italy-20140601.csv,213,Lise Scott,58,---,CAN,00:38:21,03:34:28,02:04:20,00:07:09,00:07:55,06:32:13
+ironman-70.3-italy-20140601.csv,214,Francesca Fantuzzi,37,Vr,ITA,00:28:12,03:11:00,01:44:57,00:04:45,00:04:05,05:32:59
+ironman-70.3-italy-20140601.csv,215,Beatrice Kurt,47,---,CHE,00:29:58,03:10:51,02:07:33,00:06:22,00:05:27,06:00:11
+ironman-70.3-italy-20140601.csv,216,Mary Price,23,CA,USA,00:29:23,03:24:17,01:47:42,00:05:49,00:04:54,05:52:05
+ironman-70.3-italy-20140601.csv,217,Solveig Gysland-Saeby,51,NO,NOR,00:24:52,03:02:27,01:42:51,00:04:28,00:04:13,05:18:51
+ironman-70.3-italy-20140601.csv,218,Cristina Ugolini,55,ITALIA,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,219,Elisa Scalambra,33,ITA,ITA,00:24:12,03:01:09,01:36:09,00:04:08,00:03:46,05:09:24
+ironman-70.3-italy-20140601.csv,220,Cristina Bernardini,44,---,ITA,00:29:26,02:54:20,02:01:31,00:05:58,00:04:24,05:35:39
+ironman-70.3-italy-20140601.csv,221,Kristina Donohue,---,---,USA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,222,Paola Margaroli,31,Italia,ITA,00:27:54,03:03:10,01:48:32,00:04:03,00:03:54,05:27:33
+ironman-70.3-italy-20140601.csv,223,Sara Carducci,31,italia,ITA,00:30:51,03:24:30,01:35:08,00:06:05,00:05:46,05:42:20
+ironman-70.3-italy-20140601.csv,224,Elena Leonova,36,---,RUS,00:23:39,04:10:14,---,00:05:55,00:06:55,DNF
+ironman-70.3-italy-20140601.csv,225,Marina Coccia,---,---,ITA,00:24:51,03:05:33,01:42:59,00:04:41,00:04:42,05:22:46
+ironman-70.3-italy-20140601.csv,226,Paola Garinei,---,---,ITA,00:23:44,03:06:43,01:31:05,00:04:41,00:03:36,05:09:49
+ironman-70.3-italy-20140601.csv,227,Marianna Paciocco,43,---,ITA,00:31:55,03:30:39,02:21:52,00:07:49,00:08:47,06:41:02
+ironman-70.3-italy-20140601.csv,228,Claudia Di Carlo,45,Chieti,ITA,00:29:09,03:19:21,02:16:24,00:08:47,00:06:43,06:20:24
+ironman-70.3-italy-20140601.csv,229,Edith Cigana,---,---,ITA,00:21:03,03:04:47,01:53:30,00:03:32,00:03:47,05:26:39
+ironman-70.3-italy-20140601.csv,230,Anna Franchini,48,bologna,ITA,00:30:03,03:33:25,01:56:10,00:05:20,00:04:18,06:09:16
+ironman-70.3-italy-20140601.csv,250,Brent Alcock,51,surrey,AUS,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,251,Gian Paolo Amaduzzi,50,---,ITA,00:26:55,03:07:54,01:54:23,00:07:39,00:06:03,05:42:54
+ironman-70.3-italy-20140601.csv,252,Tim Ansell,51,---,GBR,00:24:05,02:57:14,02:03:31,00:05:17,00:06:08,05:36:15
+ironman-70.3-italy-20140601.csv,253,Bruno Argena,50,---,ITA,00:22:40,02:50:50,01:46:36,00:05:26,00:03:50,05:09:22
+ironman-70.3-italy-20140601.csv,254,Gianfranco Barone,50,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,255,Carlo Baroni,51,---,ITA,00:22:34,03:07:19,02:10:52,00:06:06,00:06:55,05:53:46
+ironman-70.3-italy-20140601.csv,256,Antonio Battista,50,Italia,ITA,00:25:41,03:16:20,02:09:51,00:07:48,00:06:09,06:05:49
+ironman-70.3-italy-20140601.csv,257,Lyal Beattie,52,CO,USA,00:26:32,03:12:29,02:10:21,00:07:29,00:08:22,06:05:13
+ironman-70.3-italy-20140601.csv,258,Piero Biondi,50,Italia,ITA,00:24:34,03:36:53,02:17:08,00:09:59,00:07:30,06:36:04
+ironman-70.3-italy-20140601.csv,259,Luca Bruno,53,italia,ITA,00:24:50,03:18:13,02:16:01,00:07:49,00:05:09,06:12:02
+ironman-70.3-italy-20140601.csv,260,Roberto Capriotti,53,Italia,ITA,00:24:17,03:04:58,01:53:25,00:07:20,00:05:45,05:35:45
+ironman-70.3-italy-20140601.csv,261,Fabio Carbonara,50,TO,ITA,00:23:56,03:12:13,01:59:07,00:05:34,00:05:06,05:45:56
+ironman-70.3-italy-20140601.csv,262,Francesco Cardin,53,ITALIA,ITA,00:22:30,03:09:56,01:57:47,00:06:58,00:06:52,05:44:03
+ironman-70.3-italy-20140601.csv,263,Nicola Catenaro,51,APO,ITA,00:23:03,03:01:05,01:49:45,00:06:55,00:04:03,05:24:51
+ironman-70.3-italy-20140601.csv,264,Nicola Ceccon,53,IT,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,265,Roberto Celi,51,italia,ITA,00:22:30,03:08:48,02:14:36,00:07:17,00:05:28,05:58:39
+ironman-70.3-italy-20140601.csv,266,Luciano Chiodero,49,---,ITA,00:30:42,03:04:55,01:54:28,00:07:42,00:06:45,05:44:32
+ironman-70.3-italy-20140601.csv,267,Lucio Cinquetti,50,verona,ITA,00:24:15,02:56:23,01:59:42,00:04:03,00:04:59,05:29:22
+ironman-70.3-italy-20140601.csv,268,Matteo Colombo,54,ITALIA,ITA,00:26:33,03:20:35,02:37:47,00:06:59,00:08:24,06:40:18
+ironman-70.3-italy-20140601.csv,269,Luca Corazza,53,Padova,ITA,00:29:53,03:24:13,01:47:14,00:08:30,00:08:52,05:58:42
+ironman-70.3-italy-20140601.csv,270,Alfredo Corradi,52,---,BEL,00:24:16,03:05:17,02:13:40,00:05:35,00:06:32,05:55:20
+ironman-70.3-italy-20140601.csv,271,Onno De Jong,54,---,NLD,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,272,Marcello Del Bono,49,ITA,ITA,00:22:12,03:40:55,02:11:54,00:07:52,00:07:17,06:30:10
+ironman-70.3-italy-20140601.csv,273,Nat Di Censo,50,QC,CAN,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,274,Luciano Di Gregorio,52,Pescara,ITA,00:26:42,03:20:02,02:24:47,00:04:21,00:06:09,06:22:01
+ironman-70.3-italy-20140601.csv,275,Cesare Di Marco,51,PE,ITA,00:21:36,02:58:53,01:51:50,00:05:52,00:05:31,05:23:42
+ironman-70.3-italy-20140601.csv,276,Fausto Di Tonto,53,ITA,ITA,00:30:02,03:08:10,01:51:02,00:06:59,00:04:46,05:40:59
+ironman-70.3-italy-20140601.csv,277,Enzo Diamantini,51,italia,ITA,00:23:56,02:50:18,01:46:59,00:04:23,00:04:27,05:10:03
+ironman-70.3-italy-20140601.csv,278,Alessandro Doda,50,ITALIA,ITA,00:23:14,03:04:32,01:57:49,00:05:51,00:06:10,05:37:36
+ironman-70.3-italy-20140601.csv,279,Geordie Edmiston,51,PA,USA,00:21:53,02:46:35,01:35:37,00:05:10,00:03:42,04:52:57
+ironman-70.3-italy-20140601.csv,280,Donato Finotto,52,ITA,ITA,00:29:23,02:47:58,01:44:26,00:05:13,00:05:01,05:12:01
+ironman-70.3-italy-20140601.csv,281,Luigi Foschini,49,---,ITA,00:33:05,03:34:22,02:04:40,00:07:11,00:05:24,06:24:42
+ironman-70.3-italy-20140601.csv,282,Adriano Franciotti,53,APO,ITA,00:30:47,03:03:25,02:01:02,00:08:33,00:05:47,05:49:34
+ironman-70.3-italy-20140601.csv,283,Jürgen Freier,50,---,DEU,00:23:32,03:18:15,02:06:12,00:05:40,00:06:23,06:00:02
+ironman-70.3-italy-20140601.csv,284,Lucio Girinelli,51,Italia,ITA,00:31:46,02:44:21,01:31:26,00:05:11,00:04:36,04:57:20
+ironman-70.3-italy-20140601.csv,285,Michi Hange,50,Deutschland,DEU,00:25:02,03:08:04,01:53:35,00:06:43,00:06:32,05:39:56
+ironman-70.3-italy-20140601.csv,286,Samo Jereb,50,Žiri,SVN,00:22:09,02:49:05,01:34:37,00:06:29,00:05:55,04:58:15
+ironman-70.3-italy-20140601.csv,287,Lorenzo Livello,51,pescara,ITA,00:26:43,02:57:49,01:57:02,00:04:53,00:04:37,05:31:04
+ironman-70.3-italy-20140601.csv,288,Alberto Lodi,49,ITALIA,ITA,00:23:49,02:54:11,01:35:51,00:08:02,00:04:26,05:06:19
+ironman-70.3-italy-20140601.csv,289,Massimo Maddes,53,TE,ITA,00:26:55,03:06:49,01:56:11,00:06:31,00:05:10,05:41:36
+ironman-70.3-italy-20140601.csv,290,Denis Mahot,51,Other,FRA,00:20:28,02:48:06,01:34:50,00:04:36,00:04:01,04:52:01
+ironman-70.3-italy-20140601.csv,291,Marco Malucelli,51,Perugia,ITA,00:25:29,02:37:27,01:34:13,00:04:44,00:03:15,04:45:08
+ironman-70.3-italy-20140601.csv,292,Pietro Malvaso,51,---,ITA,00:33:25,03:27:43,02:03:25,00:15:27,00:11:44,06:31:44
+ironman-70.3-italy-20140601.csv,293,Pasquale Marchese,52,Italia,ITA,00:23:05,03:31:47,02:01:50,00:08:29,00:06:16,06:11:27
+ironman-70.3-italy-20140601.csv,294,Luca Mari,49,Italy,ITA,00:19:25,02:41:14,01:40:22,00:04:08,00:04:29,04:49:38
+ironman-70.3-italy-20140601.csv,295,Valter Mariani,49,Italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,296,Giovanni Marion,51,Italia,ITA,00:26:25,03:11:04,01:52:20,00:05:27,00:06:11,05:41:27
+ironman-70.3-italy-20140601.csv,297,Giacomo Maritati,53,italy,ITA,00:21:54,02:34:59,01:35:25,00:04:42,00:03:59,04:40:59
+ironman-70.3-italy-20140601.csv,298,Paolo Marostica,50,pv,ITA,00:22:01,02:42:45,01:37:58,00:04:25,00:03:24,04:50:33
+ironman-70.3-italy-20140601.csv,299,Antonio Massimo Marra,51,roma,ITA,00:22:15,03:23:04,02:50:57,00:07:40,00:10:43,06:54:39
+ironman-70.3-italy-20140601.csv,300,Fulvio Martinelli,53,como,ITA,00:24:14,03:11:25,02:05:45,00:05:10,00:04:46,05:51:20
+ironman-70.3-italy-20140601.csv,301,Renzo Mauri,49,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,302,Daniele Mazzola,49,---,CHE,00:27:40,03:02:15,01:56:41,00:05:58,00:06:16,05:38:50
+ironman-70.3-italy-20140601.csv,303,Thomas Mclnnes,54,Thalang,GBR,00:21:49,02:45:16,01:42:40,00:04:09,00:04:42,04:58:36
+ironman-70.3-italy-20140601.csv,304,Luca Messina,53,Intl State,ITA,00:23:08,02:40:05,01:33:52,00:04:52,00:03:37,04:45:34
+ironman-70.3-italy-20140601.csv,305,Arne Mohn,50,---,NOR,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,306,Pierluigi Monacelli,54,pe,ITA,00:32:15,03:15:44,02:28:10,00:08:54,00:08:11,06:33:14
+ironman-70.3-italy-20140601.csv,307,Azat Mulyukov,49,---,RUS,00:21:20,02:46:05,01:43:06,00:05:23,00:04:52,05:00:46
+ironman-70.3-italy-20140601.csv,308,Paolo Mussotto,49,italia,ITA,00:18:17,02:43:08,01:28:16,00:04:22,00:03:23,04:37:26
+ironman-70.3-italy-20140601.csv,309,Gian Luca Ognibene,51,bologna,ITA,00:24:29,03:07:31,02:07:24,00:07:19,00:06:29,05:53:12
+ironman-70.3-italy-20140601.csv,310,Massimo Panighel,45,---,USA,00:22:45,03:10:11,02:12:54,00:06:21,00:05:40,05:57:51
+ironman-70.3-italy-20140601.csv,311,Luca Pascolini,50,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,312,Mirco Pegolo,52,vicenza,ITA,00:33:01,03:53:59,02:51:12,00:14:37,00:10:10,07:42:59
+ironman-70.3-italy-20140601.csv,313,Andrea Pero,51,Italia,ITA,00:21:52,02:59:47,01:53:34,00:07:37,00:04:55,05:27:45
+ironman-70.3-italy-20140601.csv,314,Massimo Pesce,49,---,ITA,00:21:56,03:05:46,01:56:09,00:04:57,00:04:24,05:33:12
+ironman-70.3-italy-20140601.csv,315,Alessandro Petrella,52,ON,CAN,---,---,---,---,---,DQ
+ironman-70.3-italy-20140601.csv,316,Nicola Pitrelli,49,---,ITA,00:20:51,03:09:47,02:18:44,00:05:17,00:04:19,05:58:58
+ironman-70.3-italy-20140601.csv,317,Giorgio Poli,54,RN,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,318,Antonio Porcaro,53,roma,ITA,00:30:51,03:30:24,01:58:29,00:06:26,00:05:53,06:12:03
+ironman-70.3-italy-20140601.csv,319,Diego Pozzatti,53,TN,ITA,00:18:12,02:42:22,01:33:54,00:03:17,00:04:13,04:41:58
+ironman-70.3-italy-20140601.csv,320,Roberto Pozzoli,49,CO,ITA,00:26:43,03:04:17,02:04:33,00:05:48,00:04:37,05:45:58
+ironman-70.3-italy-20140601.csv,321,Antonio Procaccini,52,ITALY,ITA,00:21:27,03:29:05,02:24:28,00:09:13,00:07:03,06:31:16
+ironman-70.3-italy-20140601.csv,322,Michele Puccini,49,---,ITA,00:26:28,02:50:37,01:38:39,00:07:21,00:04:39,05:07:44
+ironman-70.3-italy-20140601.csv,323,Fernando Rollo,53,IT,ITA,00:30:47,03:03:11,01:54:36,00:07:38,00:04:27,05:40:39
+ironman-70.3-italy-20140601.csv,324,Paolo Sala,50,Bologna,ITA,00:29:42,02:56:30,01:44:29,00:07:38,00:06:40,05:24:59
+ironman-70.3-italy-20140601.csv,325,Fabio Scapolo,50,Italia,ITA,00:28:27,03:04:38,01:58:54,00:07:52,00:06:54,05:46:45
+ironman-70.3-italy-20140601.csv,326,Achille Trave,50,---,ITA,00:20:06,03:18:30,02:05:32,00:04:38,00:06:19,05:55:05
+ironman-70.3-italy-20140601.csv,327,Guido Tugnoli,49,Milano,ITA,00:28:42,03:35:09,02:17:08,00:05:28,00:09:37,06:36:04
+ironman-70.3-italy-20140601.csv,328,Sandro Vallini,50,BZ,ITA,00:31:03,02:53:55,01:48:11,00:05:25,00:05:16,05:23:50
+ironman-70.3-italy-20140601.csv,329,Dave Vanstone,51,ON,CAN,00:27:19,03:12:50,03:00:18,00:06:37,00:12:22,06:59:26
+ironman-70.3-italy-20140601.csv,330,Maurizio Vecchia,52,milano,ITA,00:36:33,03:48:11,02:21:15,00:09:43,00:07:52,07:03:34
+ironman-70.3-italy-20140601.csv,331,Fabrizio Vergani,51,---,ITA,00:22:14,02:50:37,01:53:23,00:04:59,00:05:21,05:16:34
+ironman-70.3-italy-20140601.csv,332,Andrew Walsh,51,KwaZulu-Natal,ZAF,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,333,Dario Zanini,52,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,335,Mauro Adalio,54,Bologna,ITA,00:26:15,03:46:53,02:35:14,00:08:09,00:08:47,07:05:18
+ironman-70.3-italy-20140601.csv,336,Marzio Barni,55,italia,ITA,00:30:31,03:22:15,02:28:44,00:07:41,00:09:44,06:38:55
+ironman-70.3-italy-20140601.csv,337,Giampaolo Belcastro,57,Brescia,ITA,00:24:21,02:59:46,02:00:10,00:06:55,00:06:16,05:37:28
+ironman-70.3-italy-20140601.csv,338,Pierre Berlie,57,---,CHE,00:21:15,02:49:17,01:55:53,00:04:06,00:04:22,05:14:53
+ironman-70.3-italy-20140601.csv,339,Gabriele Bravi,58,---,ITA,00:23:02,03:14:14,01:41:33,00:05:44,00:03:49,05:28:22
+ironman-70.3-italy-20140601.csv,340,Marco Bruno,57,ITA,ITA,00:25:06,03:21:07,01:49:22,00:06:02,00:05:06,05:46:43
+ironman-70.3-italy-20140601.csv,341,Roberto Burtone,57,RM,ITA,00:22:00,03:07:29,01:49:31,00:05:30,00:05:00,05:29:30
+ironman-70.3-italy-20140601.csv,342,Giampaolo Ce',55,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,343,Bruno Chauvelon,55,---,FRA,00:24:23,03:04:34,02:32:02,00:05:53,00:08:51,06:15:43
+ironman-70.3-italy-20140601.csv,344,Mauro Cimicchi,55,italia,ITA,00:24:14,03:01:38,02:12:13,00:05:37,00:04:42,05:48:24
+ironman-70.3-italy-20140601.csv,345,George Craig,55,CT,USA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,346,Luciano Di Renzo,57,italia,ITA,00:20:18,03:20:02,02:02:49,00:05:18,00:05:09,05:53:36
+ironman-70.3-italy-20140601.csv,347,Nicola Farano,57,pescara,ITA,00:29:06,03:11:04,01:57:00,00:07:01,00:05:44,05:49:55
+ironman-70.3-italy-20140601.csv,348,Hans Fauvart,56,BE,BEL,00:20:07,02:48:24,01:42:40,00:04:31,00:04:18,05:00:00
+ironman-70.3-italy-20140601.csv,349,Fulvio Fiordiponti,59,PAVIA,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,350,Franco Frenguelli,57,italia,ITA,00:28:17,02:56:45,01:51:10,00:06:41,00:04:25,05:27:18
+ironman-70.3-italy-20140601.csv,351,Mark Gast,57,---,NOR,00:26:28,03:01:04,01:47:11,00:05:47,00:05:02,05:25:32
+ironman-70.3-italy-20140601.csv,352,David Gutnick,57,QC,CAN,00:28:01,02:57:17,02:15:08,00:05:11,00:05:59,05:51:36
+ironman-70.3-italy-20140601.csv,353,John Herman,58,NY,USA,00:30:56,03:35:20,02:04:41,00:09:20,00:08:47,06:29:04
+ironman-70.3-italy-20140601.csv,354,Gerhard Kühner,57,DE,DEU,00:32:32,03:27:45,02:10:38,00:05:22,00:07:47,06:24:04
+ironman-70.3-italy-20140601.csv,355,Hans Lundgren,59,---,SWE,00:26:30,03:08:05,02:14:58,00:04:57,00:05:09,05:59:39
+ironman-70.3-italy-20140601.csv,356,Giorgio Lupini,57,Bergamo,ITA,---,---,---,---,---,DQ
+ironman-70.3-italy-20140601.csv,357,Leonardo Manfrini,56,---,ITA,00:25:31,03:22:28,01:50:17,00:15:44,00:12:53,06:06:53
+ironman-70.3-italy-20140601.csv,358,Gerald Mendes,56,FRANCE,CAN,00:23:14,02:45:20,01:43:23,00:06:52,00:04:10,05:02:59
+ironman-70.3-italy-20140601.csv,359,Roland Nomine,55,---,FRA,00:26:52,02:52:29,01:55:19,00:06:48,00:05:08,05:26:36
+ironman-70.3-italy-20140601.csv,360,Giancarlo Pezzulli,57,Intl State,ITA,00:30:23,03:07:05,02:04:48,00:05:12,00:05:24,05:52:52
+ironman-70.3-italy-20140601.csv,361,Giovanni Piovella,56,PAVIA,ITA,00:26:54,03:17:33,02:12:14,00:05:28,00:06:57,06:09:06
+ironman-70.3-italy-20140601.csv,362,Giuseppe Romito,57,Italy,ITA,00:22:28,03:04:07,01:43:04,00:04:25,00:03:35,05:17:39
+ironman-70.3-italy-20140601.csv,363,Maurizio Rota,56,Monza e Brianza,ITA,00:22:07,03:09:25,02:00:02,00:06:34,00:06:56,05:45:04
+ironman-70.3-italy-20140601.csv,364,Sverre Samdal,57,---,NOR,00:24:03,03:06:12,02:05:23,00:08:38,00:07:45,05:52:01
+ironman-70.3-italy-20140601.csv,365,Ciro Sparano,59,Roma,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,366,Luca Torsani,55,San Marino,SMR,00:22:44,03:18:44,02:08:13,00:08:26,00:08:29,06:06:36
+ironman-70.3-italy-20140601.csv,367,Raul Ulloa,55,---,MEX,00:23:25,03:06:04,01:43:51,00:05:17,00:05:51,05:24:28
+ironman-70.3-italy-20140601.csv,368,Ervano Vicini,55,---,ITA,00:29:36,03:34:48,02:10:56,00:14:02,00:10:35,06:39:57
+ironman-70.3-italy-20140601.csv,369,Vanni Viroli,57,FC,ITA,00:27:29,02:56:19,01:48:25,00:06:27,00:04:53,05:23:33
+ironman-70.3-italy-20140601.csv,370,Beniamino Volpe,56,---,ITA,00:32:51,03:50:12,02:16:02,00:06:00,00:07:00,06:52:05
+ironman-70.3-italy-20140601.csv,371,Massimo Artusi,59,italy,ITA,00:29:07,03:08:06,01:57:35,00:05:56,00:06:26,05:47:10
+ironman-70.3-italy-20140601.csv,372,Guido Bassan,60,---,ITA,00:24:49,02:56:58,02:05:31,00:05:12,00:04:28,05:36:58
+ironman-70.3-italy-20140601.csv,373,Guy Boyer,59,---,CAN,00:29:46,03:44:36,02:44:02,00:09:30,00:08:11,07:16:05
+ironman-70.3-italy-20140601.csv,374,Gerard Busschers,59,NL,NLD,00:25:02,03:16:40,02:24:22,00:08:09,00:09:35,06:23:48
+ironman-70.3-italy-20140601.csv,375,Günter Buttgereit,60,---,DEU,00:22:52,02:58:36,01:49:29,00:05:23,00:05:09,05:21:29
+ironman-70.3-italy-20140601.csv,376,Peter Crisera,60,RM,ITA,00:23:24,03:29:12,02:13:34,00:07:14,00:10:38,06:24:02
+ironman-70.3-italy-20140601.csv,377,Michiel Jonker,60,---,BEL,00:21:46,02:48:48,01:46:39,00:06:40,00:06:03,05:09:56
+ironman-70.3-italy-20140601.csv,378,Alessandro Jovine,63,Italy,ITA,00:26:48,03:27:29,02:09:22,00:06:02,00:05:48,06:15:29
+ironman-70.3-italy-20140601.csv,379,Yves Laval,64,---,FRA,00:22:44,03:07:12,03:11:57,00:06:08,00:05:55,06:53:56
+ironman-70.3-italy-20140601.csv,380,Daniele Pelessone,61,CA,USA,00:30:49,03:44:16,02:12:02,00:06:40,00:07:17,06:41:04
+ironman-70.3-italy-20140601.csv,381,Carlo Petrore,60,Italia,ITA,00:22:03,03:14:08,02:19:40,00:05:29,00:06:15,06:07:35
+ironman-70.3-italy-20140601.csv,382,Constancio Loperena,60,TAMAULIUPAS,MEX,00:28:33,03:40:01,02:45:59,00:06:22,00:04:59,07:05:54
+ironman-70.3-italy-20140601.csv,383,Maurizio Scopa,60,milano,ITA,00:26:41,03:30:15,02:10:42,00:05:39,00:06:44,06:20:01
+ironman-70.3-italy-20140601.csv,384,Ezio Volonte,64,---,ITA,---,04:16:41,02:03:09,00:45:53,00:09:52,07:15:35
+ironman-70.3-italy-20140601.csv,385,David Martin Crinnion,65,---,USA,00:30:52,03:14:32,02:11:15,00:08:02,00:09:46,06:14:27
+ironman-70.3-italy-20140601.csv,386,Roberto D'Orazio,65,Pescara,ITA,00:36:56,03:05:20,01:55:25,00:06:42,00:06:23,05:50:46
+ironman-70.3-italy-20140601.csv,387,Jean-Yves Gautier,65,---,FRA,00:29:51,02:56:51,01:41:33,00:05:44,00:04:01,05:18:00
+ironman-70.3-italy-20140601.csv,388,Hubert Quadflieg,66,---,DEU,00:24:47,03:12:17,01:54:41,00:06:20,00:05:04,05:43:09
+ironman-70.3-italy-20140601.csv,389,Franco Riccetti,65,ITALIA,ITA,00:24:50,02:53:54,02:14:14,00:05:54,00:06:16,05:45:08
+ironman-70.3-italy-20140601.csv,390,John Macdonald,70,MO,USA,00:30:41,03:32:49,03:01:45,00:07:42,00:07:39,07:20:36
+ironman-70.3-italy-20140601.csv,391,Pierre Manz,72,---,CHE,00:30:13,03:13:48,02:16:20,00:12:16,00:08:40,06:21:17
+ironman-70.3-italy-20140601.csv,392,Fredric Silverblatt,76,RI,USA,00:35:54,04:07:45,02:40:55,00:12:08,00:11:52,07:48:34
+ironman-70.3-italy-20140601.csv,393,Thomas Veidt,50,DE,DEU,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,394,Beppo Hilfiker,53,---,CHE,00:22:36,02:45:36,02:07:28,00:04:36,00:06:21,05:26:37
+ironman-70.3-italy-20140601.csv,395,Gary Zaugg,51,NC,USA,00:25:59,03:35:00,01:38:56,00:12:18,00:10:07,06:02:20
+ironman-70.3-italy-20140601.csv,396,Helmar Mayer,49,---,ITA,00:23:27,02:57:30,01:34:44,00:05:57,00:04:06,05:05:44
+ironman-70.3-italy-20140601.csv,397,Carlo Brena,49,---,ITA,00:27:26,02:58:51,01:45:08,00:06:42,00:05:47,05:23:54
+ironman-70.3-italy-20140601.csv,398,Marco Da Fermo,49,---,ITA,00:24:45,03:08:41,01:49:50,00:06:06,00:05:17,05:34:39
+ironman-70.3-italy-20140601.csv,399,Valerio Heffler,50,italia,ITA,00:24:50,03:33:13,02:27:36,00:06:12,00:07:24,06:39:15
+ironman-70.3-italy-20140601.csv,400,Alessandro Kirschner,51,RM,ITA,00:23:43,03:14:29,02:07:03,00:08:15,00:07:18,06:00:48
+ironman-70.3-italy-20140601.csv,401,Gianluigi Brasili,49,---,ITA,00:23:01,03:03:36,01:35:22,00:05:59,00:04:44,05:12:42
+ironman-70.3-italy-20140601.csv,402,Roberto Scialdone,51,FIRENZE,ITA,00:22:37,03:22:23,02:11:11,00:06:12,00:07:14,06:09:37
+ironman-70.3-italy-20140601.csv,403,Manuel De Benedetti,49,ITALIA,ITA,00:25:53,03:10:28,02:05:27,00:07:00,00:07:44,05:56:32
+ironman-70.3-italy-20140601.csv,404,Milos Trpisovsky,59,Stodulky,CZE,00:22:25,03:06:51,02:03:04,00:06:35,00:06:23,05:45:18
+ironman-70.3-italy-20140601.csv,405,Stephen Murray,52,---,GBR,00:23:17,03:06:02,01:54:41,00:06:39,00:08:11,05:38:50
+ironman-70.3-italy-20140601.csv,406,Giorgio Crescioli,49,Lecco,ITA,00:21:49,02:54:30,01:52:41,00:05:14,00:04:41,05:18:55
+ironman-70.3-italy-20140601.csv,407,Fabrizio Bevilacqua,---,---,ITA,00:27:31,02:54:55,02:12:08,00:06:47,00:07:46,05:49:07
+ironman-70.3-italy-20140601.csv,408,Nello Rapini,53,---,ITA,00:19:25,03:06:43,03:09:40,00:06:20,00:07:24,06:49:32
+ironman-70.3-italy-20140601.csv,409,Gianluigi De Dea,---,---,ITA,00:28:22,03:17:52,02:12:37,00:07:06,00:07:04,06:13:01
+ironman-70.3-italy-20140601.csv,410,Gian Carlo Pelliccia,54,---,ITA,00:26:43,03:03:37,01:41:30,00:05:27,00:04:30,05:21:47
+ironman-70.3-italy-20140601.csv,411,Giovanni De Candia,55,---,ITA,00:23:10,03:01:48,01:45:41,00:05:20,00:04:07,05:20:06
+ironman-70.3-italy-20140601.csv,412,Fabrizio Crisante,55,pescara,ITA,00:24:55,03:08:02,02:43:44,00:05:02,00:05:01,06:26:44
+ironman-70.3-italy-20140601.csv,413,Valerio Canelli,58,noselection,ITA,00:37:54,03:43:03,02:38:48,00:09:18,00:09:25,07:18:28
+ironman-70.3-italy-20140601.csv,414,Palmiro Masciarelli,61,ITALIA,ITA,00:28:13,02:46:30,---,00:04:46,00:07:03,DNF
+ironman-70.3-italy-20140601.csv,415,Angelo Cechetto,53,---,ITA,00:26:44,02:45:51,01:42:24,00:06:59,00:04:24,05:06:22
+ironman-70.3-italy-20140601.csv,416,Edoardo Talin,---,---,ITA,00:26:53,02:57:38,02:06:19,00:07:03,00:05:52,05:43:45
+ironman-70.3-italy-20140601.csv,417,Francesco Bertoli,53,Intl State,ITA,00:22:47,03:02:39,02:07:44,00:03:56,00:04:44,05:41:50
+ironman-70.3-italy-20140601.csv,418,Massimo Argiolas,49,italia,ITA,00:21:08,02:42:02,01:38:30,00:04:31,00:04:12,04:50:23
+ironman-70.3-italy-20140601.csv,419,Federico Franchini,51,BO,ITA,00:22:49,04:02:37,02:47:13,00:06:41,00:08:48,07:28:08
+ironman-70.3-italy-20140601.csv,420,Loris Rinaldi,51,italia,ITA,00:21:06,02:49:57,01:43:16,00:03:50,00:03:39,05:01:48
+ironman-70.3-italy-20140601.csv,421,Davide Ambrosini,21,---,ITA,00:18:12,02:27:45,01:26:06,00:03:10,00:03:05,04:18:18
+ironman-70.3-italy-20140601.csv,422,Alessandro Campello,23,Italia,ITA,00:18:31,02:57:52,03:00:53,00:04:27,00:04:21,06:26:04
+ironman-70.3-italy-20140601.csv,423,Clement Couraudon,22,---,FRA,00:19:35,03:01:18,01:47:33,00:04:05,00:03:50,05:16:21
+ironman-70.3-italy-20140601.csv,424,Adriano De Maio,23,roma,ITA,00:19:36,02:35:16,01:28:48,00:03:29,00:03:31,04:30:40
+ironman-70.3-italy-20140601.csv,425,Colm Diver,22,---,IRL,00:32:28,03:25:29,02:02:39,00:11:35,00:07:56,06:20:07
+ironman-70.3-italy-20140601.csv,426,Joost Hoeks,19,---,NLD,00:26:41,03:26:39,02:21:28,00:08:06,00:06:08,06:29:02
+ironman-70.3-italy-20140601.csv,427,Guglielmo La Via,24,italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,428,Francesco Lavalle,23,Italia,ITA,00:21:45,02:56:56,02:05:51,00:05:27,00:04:29,05:34:28
+ironman-70.3-italy-20140601.csv,429,Umberto Paolo Mancini,23,NY,ITA,00:21:38,02:43:33,01:34:17,00:07:35,00:05:06,04:52:09
+ironman-70.3-italy-20140601.csv,430,Riccardo Marzaroli,23,---,ITA,00:19:36,02:43:44,01:46:46,00:04:24,00:03:38,04:58:08
+ironman-70.3-italy-20140601.csv,431,Alden Mitchell,21,CA,USA,00:27:34,03:28:53,02:02:24,00:06:56,00:10:24,06:16:11
+ironman-70.3-italy-20140601.csv,432,Flint Mitchell,19,CA,USA,00:25:38,03:48:57,02:16:19,00:06:52,00:08:25,06:46:11
+ironman-70.3-italy-20140601.csv,433,Alessandro Patti,23,---,ITA,00:20:36,02:42:17,01:25:12,00:04:16,00:03:11,04:35:32
+ironman-70.3-italy-20140601.csv,434,Riccardo Pianesi,22,---,ITA,00:19:44,03:03:29,01:41:41,00:03:30,00:03:10,05:11:34
+ironman-70.3-italy-20140601.csv,435,Jean-Marc Rimaud,22,FR,FRA,00:15:17,02:37:03,01:42:12,00:03:20,00:04:22,04:42:14
+ironman-70.3-italy-20140601.csv,436,Davide Rossetti,24,lombardia,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,437,Giorgio Sgarbossa,23,---,ITA,00:22:14,02:34:59,01:39:31,00:04:40,00:03:34,04:44:58
+ironman-70.3-italy-20140601.csv,438,Christoforos Topoyzidis,21,---,GRC,00:21:56,02:55:42,01:47:20,00:04:13,00:06:11,05:15:22
+ironman-70.3-italy-20140601.csv,439,Vicentiu Vlad,24,---,ROU,00:22:00,03:16:41,02:01:22,00:04:39,00:08:45,05:53:27
+ironman-70.3-italy-20140601.csv,440,Marco Accardo,25,ITALIA,ITA,00:20:53,02:34:28,01:35:14,00:03:59,00:03:58,04:38:32
+ironman-70.3-italy-20140601.csv,441,Nawaf Aldhaen,27,Other,BRN,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,442,Abdulla Alshamlan,26,Riffa,BRN,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,443,Salvatore Attianese,26,---,ITA,00:19:16,02:37:22,01:40:11,00:03:33,00:03:46,04:44:08
+ironman-70.3-italy-20140601.csv,444,Luca Bencivenni,24,---,ITA,00:24:03,02:51:02,01:52:16,00:04:41,00:05:05,05:17:07
+ironman-70.3-italy-20140601.csv,445,Olivier Boquet,29,---,FRA,00:22:17,02:24:54,01:34:01,00:03:55,00:04:36,04:29:43
+ironman-70.3-italy-20140601.csv,446,Claudio Caldarelli,27,---,ITA,00:24:02,03:19:50,02:02:54,00:05:21,00:05:29,05:57:36
+ironman-70.3-italy-20140601.csv,447,Simone Casciano,29,---,ITA,00:20:59,02:57:42,02:26:54,00:05:38,00:05:46,05:56:59
+ironman-70.3-italy-20140601.csv,448,Stefano Cerasaro,26,FR,ITA,00:17:52,03:14:34,01:52:39,00:03:55,00:04:10,05:33:10
+ironman-70.3-italy-20140601.csv,449,Ryan Christian,25,DXB,QAT,00:18:04,02:30:49,01:38:48,00:03:30,00:03:12,04:34:23
+ironman-70.3-italy-20140601.csv,450,Giorgio Ciappei,28,---,ITA,00:23:44,03:21:24,02:42:39,00:11:19,00:09:37,06:48:43
+ironman-70.3-italy-20140601.csv,451,Bartomeu Cirer Enseñat,29,---,ESP,00:20:12,02:31:46,01:27:53,00:03:48,00:03:10,04:26:49
+ironman-70.3-italy-20140601.csv,452,Paolo Cirillo,27,ita,ITA,00:23:34,02:57:56,02:02:45,00:05:42,00:05:32,05:35:29
+ironman-70.3-italy-20140601.csv,453,Andrea Cirotti,27,---,ITA,00:22:22,03:03:46,01:55:35,00:05:09,00:04:35,05:31:27
+ironman-70.3-italy-20140601.csv,454,Matteo Colangeli,26,---,ITA,00:35:42,03:53:24,02:41:20,00:09:44,00:12:16,07:32:26
+ironman-70.3-italy-20140601.csv,455,Manuel Comandini,27,FC,ITA,00:26:42,03:04:51,01:45:00,00:07:40,00:07:14,05:31:27
+ironman-70.3-italy-20140601.csv,456,Riccardo Costagliola Di Polidoro,27,IM,ITA,00:23:55,03:07:09,01:34:47,00:05:48,00:03:46,05:15:25
+ironman-70.3-italy-20140601.csv,457,Andrea Cretaro,28,APO,ITA,00:31:57,02:44:59,01:36:33,00:05:13,00:03:29,05:02:11
+ironman-70.3-italy-20140601.csv,458,Federico Daniele,25,---,ITA,---,02:41:46,01:46:59,00:26:22,00:05:25,05:00:32
+ironman-70.3-italy-20140601.csv,459,Gregory Davis,24,---,USA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,460,Alex Davyskib,25,---,AUS,00:22:00,03:20:05,01:53:26,00:05:58,00:05:36,05:47:05
+ironman-70.3-italy-20140601.csv,461,Hendrick Dejonghe,27,---,BEL,00:19:32,02:35:27,01:35:31,00:03:40,00:03:20,04:37:30
+ironman-70.3-italy-20140601.csv,462,Angelo Delle Monache,27,PE,ITA,00:23:12,02:58:09,02:07:28,00:04:14,00:04:24,05:37:27
+ironman-70.3-italy-20140601.csv,463,Stefano Amicone,40,PE,ITA,00:23:46,02:51:46,01:44:51,00:03:54,00:03:24,05:07:41
+ironman-70.3-italy-20140601.csv,464,Luca Di Giambattista,29,---,ITA,00:22:41,02:43:37,01:45:01,00:05:04,00:04:53,05:01:16
+ironman-70.3-italy-20140601.csv,465,Franco Dolfini,29,Italia,ITA,00:20:50,03:22:21,---,00:04:31,00:04:01,DNF
+ironman-70.3-italy-20140601.csv,466,Daniel Ellis,27,UK,GBR,00:24:19,02:56:07,01:36:28,00:05:55,00:03:40,05:06:29
+ironman-70.3-italy-20140601.csv,467,Mario Erath,28,---,AUT,00:18:11,02:25:40,01:23:06,00:02:35,00:03:32,04:13:04
+ironman-70.3-italy-20140601.csv,468,Mattia Fragassi,27,ITALIA,ITA,00:20:08,02:47:31,01:44:28,00:04:22,00:03:47,05:00:16
+ironman-70.3-italy-20140601.csv,469,Davide Ghedini,24,BRESCIA,ITA,00:21:59,02:36:49,01:39:19,00:04:14,00:03:53,04:46:14
+ironman-70.3-italy-20140601.csv,470,Паша Гридин,28,Kiev,UKR,00:25:51,02:53:08,01:56:43,00:06:33,00:05:05,05:27:20
+ironman-70.3-italy-20140601.csv,471,Antonio Grimaldi,28,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,472,Rasmus Haugli,29,---,NOR,00:29:40,03:12:36,01:55:37,00:09:25,00:09:08,05:56:26
+ironman-70.3-italy-20140601.csv,473,Morgan Hili,28,FR,FRA,00:20:57,02:32:19,01:37:25,00:03:07,00:03:34,04:37:22
+ironman-70.3-italy-20140601.csv,474,Simon Hills,26,---,GBR,00:23:32,02:55:15,01:49:37,00:05:16,00:03:58,05:17:38
+ironman-70.3-italy-20140601.csv,475,Oliver Jackman,24,---,GBR,00:23:50,04:04:41,---,00:08:26,00:07:05,DNF
+ironman-70.3-italy-20140601.csv,476,Gavin Kelly,26,---,GBR,00:22:06,03:00:19,01:40:30,00:05:43,00:04:36,05:13:14
+ironman-70.3-italy-20140601.csv,477,Yuri Lupidii,25,pe,ITA,00:23:38,03:06:32,01:59:49,00:04:53,00:07:26,05:42:18
+ironman-70.3-italy-20140601.csv,478,Gabriele Mansuino,27,FIRENZE,ITA,00:20:56,02:31:18,01:22:23,00:04:47,00:02:42,04:22:06
+ironman-70.3-italy-20140601.csv,479,Andrea Marinelli,27,Italia,ITA,00:19:25,02:48:25,01:36:16,00:05:11,00:04:14,04:53:31
+ironman-70.3-italy-20140601.csv,480,Ricardo Martin,27,---,CHE,00:22:06,02:49:41,01:34:05,00:07:25,00:05:22,04:58:39
+ironman-70.3-italy-20140601.csv,481,Paolo Massolini,29,brescia,ITA,---,02:46:44,02:56:50,00:30:23,00:06:08,06:20:05
+ironman-70.3-italy-20140601.csv,482,Roberto Mazzocchi,28,---,ITA,00:23:38,03:14:04,01:47:25,00:06:29,00:04:33,05:36:09
+ironman-70.3-italy-20140601.csv,483,Fabio Mazzolini,26,ITALIA,ITA,00:23:16,03:00:34,01:53:32,00:05:43,00:04:21,05:27:26
+ironman-70.3-italy-20140601.csv,484,Bruno Monso,28,Germany,ARG,00:24:59,03:11:05,01:42:51,00:09:37,00:06:58,05:35:30
+ironman-70.3-italy-20140601.csv,485,Paolo Moscardo,26,Italia,ITA,00:23:31,02:52:03,01:49:03,00:04:01,00:04:23,05:13:01
+ironman-70.3-italy-20140601.csv,486,Sondre Nenseter,29,---,NOR,00:23:29,03:03:12,01:39:02,00:08:17,00:07:45,05:21:45
+ironman-70.3-italy-20140601.csv,487,Christer Norenes,27,---,NOR,00:31:27,03:05:41,02:27:26,00:05:25,00:04:42,06:14:41
+ironman-70.3-italy-20140601.csv,488,Alessio Pace,27,---,ITA,00:23:34,03:13:20,01:47:33,00:05:27,00:05:23,05:35:17
+ironman-70.3-italy-20140601.csv,489,Paolo Palmucci,28,Italia,ITA,00:20:29,02:53:46,01:46:50,00:05:23,00:03:52,05:10:20
+ironman-70.3-italy-20140601.csv,490,Richie Pedone,28,NY,USA,00:27:57,03:22:38,02:05:15,00:08:33,00:09:32,06:13:55
+ironman-70.3-italy-20140601.csv,491,Mikhail Peregudov,28,---,RUS,00:23:36,03:11:00,01:55:17,00:08:13,00:07:15,05:45:21
+ironman-70.3-italy-20140601.csv,492,Fabio Pezzoni,26,parma,ITA,00:21:16,02:58:20,01:49:33,00:05:08,00:05:11,05:19:28
+ironman-70.3-italy-20140601.csv,493,Giacomo Pirinoli,24,Italia,ITA,00:27:09,03:31:37,02:08:40,00:06:56,00:08:07,06:22:29
+ironman-70.3-italy-20140601.csv,494,Augusto Rabuffo,26,---,ITA,00:22:05,02:59:56,02:23:30,00:04:35,00:03:47,05:53:53
+ironman-70.3-italy-20140601.csv,495,Alessio Rispoli,24,ITALY,ITA,00:15:58,02:27:03,01:36:51,00:03:30,00:03:53,04:27:15
+ironman-70.3-italy-20140601.csv,496,Sean Rosenberg,25,AE,USA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,497,Marcello Rosi,26,Modena,ITA,00:21:37,02:57:27,02:01:24,00:05:51,00:04:47,05:31:06
+ironman-70.3-italy-20140601.csv,498,Ivan Ruiz,28,---,ESP,00:23:13,03:03:23,02:00:11,00:06:07,00:05:17,05:38:11
+ironman-70.3-italy-20140601.csv,499,Dean Sansoni,27,italia,ITA,00:22:21,03:23:52,02:34:04,00:05:53,00:07:30,06:33:40
+ironman-70.3-italy-20140601.csv,500,Simone Santuccione,28,---,ITA,00:24:14,02:38:49,01:34:24,00:04:13,00:04:10,04:45:50
+ironman-70.3-italy-20140601.csv,501,Mario Sapere,26,---,ITA,00:22:48,03:56:16,02:17:13,00:06:35,00:05:23,06:48:15
+ironman-70.3-italy-20140601.csv,502,Matteo Sclocco,28,---,ITA,00:22:41,02:52:08,02:01:49,00:05:36,00:04:25,05:26:39
+ironman-70.3-italy-20140601.csv,503,Lorenzo Segala,29,---,ITA,00:22:53,02:34:21,01:42:59,00:04:12,00:03:22,04:47:47
+ironman-70.3-italy-20140601.csv,505,Kostis Spiliadis,28,ATTICA,GRC,00:25:52,03:08:49,02:03:52,00:07:39,00:06:09,05:52:21
+ironman-70.3-italy-20140601.csv,506,Steffen Stegmann,25,---,DEU,00:17:06,02:33:45,01:31:37,00:03:19,00:04:11,04:29:58
+ironman-70.3-italy-20140601.csv,507,Matteo Taddei,28,---,ITA,00:26:41,03:22:02,02:17:01,00:06:56,00:06:53,06:19:33
+ironman-70.3-italy-20140601.csv,508,Stephen Williams,24,LA,USA,00:22:55,03:05:11,01:41:37,00:05:22,00:06:55,05:22:00
+ironman-70.3-italy-20140601.csv,509,Lawrence Woolley,26,---,GBR,00:20:14,03:16:51,01:53:21,00:05:07,00:05:44,05:41:17
+ironman-70.3-italy-20140601.csv,510,Mario Zaniboni,25,Italia,ITA,00:21:00,02:41:46,01:28:58,00:03:50,00:05:18,04:40:52
+ironman-70.3-italy-20140601.csv,511,Benjamin Moag,25,---,IRL,00:26:39,02:55:16,01:51:14,00:04:29,00:04:59,05:22:37
+ironman-70.3-italy-20140601.csv,512,Nicoletti Marco,28,---,ITA,00:17:14,02:30:34,01:22:40,00:03:28,00:03:28,04:17:24
+ironman-70.3-italy-20140601.csv,513,Michele Masetti,24,Italia,ITA,00:22:26,03:01:24,02:11:21,00:05:45,00:04:32,05:45:28
+ironman-70.3-italy-20140601.csv,514,Emanuele Guiseppe Vetere,25,Cr,ITA,00:16:13,02:33:32,01:47:40,00:03:06,00:03:27,04:43:58
+ironman-70.3-italy-20140601.csv,515,Piero Del Duca,27,ITA,ITA,00:20:56,02:51:46,02:32:43,00:04:55,00:05:41,05:56:01
+ironman-70.3-italy-20140601.csv,516,Matteo Del Principio,27,Italia,ITA,00:23:30,02:48:56,01:57:54,00:05:43,00:04:40,05:20:43
+ironman-70.3-italy-20140601.csv,517,Fabio Pruiti,28,---,ITA,00:18:08,02:38:11,01:25:35,00:03:21,00:03:58,04:29:13
+ironman-70.3-italy-20140601.csv,518,Stefano Grassi,29,Terni,ITA,00:23:33,03:30:50,02:02:49,00:07:02,00:05:22,06:09:36
+ironman-70.3-italy-20140601.csv,519,Giammarco Spinozzi,22,ITALIA,ITA,00:22:01,03:02:02,01:55:00,00:05:38,00:04:31,05:29:12
+ironman-70.3-italy-20140601.csv,520,Julien Wartel,27,---,FRA,00:21:22,02:32:35,01:45:46,00:03:34,00:04:17,04:47:34
+ironman-70.3-italy-20140601.csv,521,Andrea Aquilini,---,---,ITA,00:22:05,02:47:02,01:36:49,00:04:39,00:04:46,04:55:21
+ironman-70.3-italy-20140601.csv,522,Stefano Merciaro,27,Italia,ITA,00:26:49,03:04:44,02:09:57,00:07:51,00:07:40,05:57:01
+ironman-70.3-italy-20140601.csv,523,Federico Angelozzi,28,teramo,ITA,00:28:01,02:58:27,02:19:06,00:10:34,00:06:42,06:02:50
+ironman-70.3-italy-20140601.csv,524,Cristiano Todaro,28,Roma,ITA,00:23:22,02:39:12,01:33:54,00:02:54,00:03:09,04:42:31
+ironman-70.3-italy-20140601.csv,525,Domenico Sciotti,21,italy,ITA,00:20:55,02:42:19,01:52:05,00:04:41,00:03:29,05:03:29
+ironman-70.3-italy-20140601.csv,526,Mattia Boschetti,24,italia,ITA,00:18:32,02:40:18,01:30:34,00:04:33,00:03:51,04:37:48
+ironman-70.3-italy-20140601.csv,527,Francesco Zuccali,26,Italia,ITA,00:21:59,02:48:39,01:33:42,00:04:40,00:05:10,04:54:10
+ironman-70.3-italy-20140601.csv,528,Pino Falanga,25,---,ITA,00:19:46,02:47:09,01:24:53,00:04:33,00:03:17,04:39:38
+ironman-70.3-italy-20140601.csv,529,Paolo Meossi,26,LUCCA,ITA,00:19:50,02:36:08,01:33:33,00:04:01,00:03:38,04:37:10
+ironman-70.3-italy-20140601.csv,530,Pasquale Langella,26,---,ITA,00:18:58,02:48:17,01:34:24,00:04:12,00:06:36,04:52:27
+ironman-70.3-italy-20140601.csv,531,Matteo Agus,31,Cagliari,ITA,00:20:01,02:50:52,01:57:20,00:04:18,00:03:57,05:16:28
+ironman-70.3-italy-20140601.csv,532,Giorgio Albertario,30,---,ITA,00:21:17,02:45:42,01:36:31,00:03:47,00:03:23,04:50:40
+ironman-70.3-italy-20140601.csv,533,Olli Andersson,31,---,FIN,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,534,Luigi Antonetti,33,---,ITA,00:19:45,02:48:43,01:42:18,00:04:58,00:03:56,04:59:40
+ironman-70.3-italy-20140601.csv,535,Andrea Appiani,30,lc,ITA,00:28:03,02:54:19,02:02:52,00:06:57,00:05:47,05:37:58
+ironman-70.3-italy-20140601.csv,536,Castor Benitez-Inglott Bellini,29,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,537,Bergamo Enzo,33,Italia,ITA,00:19:08,02:29:50,01:24:34,00:04:58,00:03:01,04:21:31
+ironman-70.3-italy-20140601.csv,538,Pier Luigi Bertelli,30,ITALIA,ITA,00:24:54,03:04:30,01:47:10,00:07:07,00:06:08,05:29:49
+ironman-70.3-italy-20140601.csv,539,Daniele Bertossi,29,ITA,ITA,00:19:06,02:35:12,01:31:10,00:03:24,00:04:14,04:33:06
+ironman-70.3-italy-20140601.csv,540,Michele Boglioni,30,italia,ITA,00:20:33,02:41:56,01:32:19,00:03:24,00:03:56,04:42:08
+ironman-70.3-italy-20140601.csv,541,Marek Bosak,29,---,POL,00:29:10,03:08:06,02:12:15,00:04:13,00:06:16,06:00:00
+ironman-70.3-italy-20140601.csv,542,Eghlis Briganti,31,---,ITA,00:25:04,03:01:57,01:55:35,00:05:29,00:05:00,05:33:05
+ironman-70.3-italy-20140601.csv,543,Leonardo Cacchiata,29,perugia,ITA,00:21:05,02:52:23,01:56:16,00:04:01,00:04:11,05:17:56
+ironman-70.3-italy-20140601.csv,544,Romolo Calzolaio,30,lazio,ITA,00:23:25,02:55:01,01:37:59,00:05:28,00:04:01,05:05:54
+ironman-70.3-italy-20140601.csv,545,Felice Campanile,33,---,ITA,00:23:06,03:11:46,01:55:55,00:06:42,00:06:59,05:44:28
+ironman-70.3-italy-20140601.csv,546,Giorgio Campidelli,30,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,547,Giuseppe Cannata,33,---,ITA,00:20:00,03:20:23,02:13:32,00:05:06,00:04:41,06:03:42
+ironman-70.3-italy-20140601.csv,548,Alberto Capponi,29,---,ITA,00:23:51,02:59:19,01:58:41,00:05:33,00:05:06,05:32:30
+ironman-70.3-italy-20140601.csv,549,Alex Capra,31,---,ITA,00:24:50,02:38:51,01:31:51,00:04:15,00:05:33,04:45:20
+ironman-70.3-italy-20140601.csv,550,Gianluca Carlone,32,Italy,ITA,00:26:27,03:12:10,02:46:43,00:06:55,00:05:46,06:38:01
+ironman-70.3-italy-20140601.csv,551,Fabrizio Castellani,34,italia,ITA,00:26:30,02:53:21,01:35:21,00:04:06,00:03:38,05:02:56
+ironman-70.3-italy-20140601.csv,552,Saverio Celebre,34,ITALIA,ITA,00:17:47,02:39:00,01:38:50,00:03:37,00:03:30,04:42:44
+ironman-70.3-italy-20140601.csv,553,Emanuele Ciotti,34,italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,554,Daniele Corradini,30,Italy,ITA,00:22:11,02:47:49,01:38:36,00:05:08,00:04:07,04:57:51
+ironman-70.3-italy-20140601.csv,555,Davide Curcio,33,---,ITA,00:25:38,03:15:46,02:04:01,00:07:20,00:06:22,05:59:07
+ironman-70.3-italy-20140601.csv,556,Péter Czencz,60,---,HUN,00:18:27,02:38:39,01:19:28,00:02:58,00:03:29,04:23:01
+ironman-70.3-italy-20140601.csv,557,Daniele Dal Colle,31,---,ITA,00:31:28,03:03:31,02:01:11,00:07:22,00:09:22,05:52:54
+ironman-70.3-italy-20140601.csv,558,Luca Danesini,32,PV,ITA,00:22:46,03:08:16,01:59:19,00:04:57,00:05:46,05:41:04
+ironman-70.3-italy-20140601.csv,559,Pablo De Dominicis,30,Panamá,VEN,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,560,Daniele De Gaspari,31,---,ITA,00:21:43,02:42:36,01:44:15,00:04:22,00:03:32,04:56:28
+ironman-70.3-italy-20140601.csv,561,Giovanni De Palma,29,Italia,ITA,00:25:01,03:17:22,02:06:16,00:07:51,00:06:15,06:02:45
+ironman-70.3-italy-20140601.csv,562,Fernando De Panfilis,30,italia,ITA,00:22:27,03:08:20,01:54:44,00:04:20,00:03:42,05:33:33
+ironman-70.3-italy-20140601.csv,563,Fabio Del Signore,31,---,ITA,00:24:58,02:55:38,01:23:56,00:11:16,00:05:08,05:00:56
+ironman-70.3-italy-20140601.csv,564,Giorgio Delfini,33,roma,ITA,00:22:44,02:49:34,01:40:34,00:04:37,00:03:56,05:01:25
+ironman-70.3-italy-20140601.csv,565,Francesco Demma,29,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,566,Roberto Di Bernardo,33,---,ITA,00:26:24,02:45:13,01:45:41,00:07:10,00:05:33,05:10:01
+ironman-70.3-italy-20140601.csv,567,Mario Di Cola,33,---,ITA,00:23:08,02:47:45,01:43:48,00:04:05,00:04:50,05:03:36
+ironman-70.3-italy-20140601.csv,568,Pasquale Di Ghionno,30,IT,ITA,00:19:05,02:44:37,01:40:54,00:04:12,00:03:16,04:52:04
+ironman-70.3-italy-20140601.csv,569,Gaetano Di Giovanni,33,CH,ITA,00:21:30,03:01:52,01:52:12,00:04:46,00:06:41,05:27:01
+ironman-70.3-italy-20140601.csv,570,Alessio Di Lisa,32,---,ITA,00:23:38,03:07:20,01:42:00,00:06:47,00:04:51,05:24:36
+ironman-70.3-italy-20140601.csv,571,Luca Di Luzio,30,---,ITA,00:30:29,03:15:01,02:02:54,00:08:00,00:07:25,06:03:49
+ironman-70.3-italy-20140601.csv,572,Roberto Di Matteo,31,CA,CHE,00:24:01,03:02:46,02:11:01,00:05:40,00:06:25,05:49:53
+ironman-70.3-italy-20140601.csv,573,Francesco Di Michele,33,APO,ITA,00:25:02,02:54:09,01:47:13,00:05:05,00:04:40,05:16:09
+ironman-70.3-italy-20140601.csv,574,Roberto Di Nino,30,---,ITA,00:32:39,04:11:06,02:27:23,00:09:56,00:11:36,07:32:40
+ironman-70.3-italy-20140601.csv,575,Francesco Di Silverio,34,---,ITA,00:21:04,02:43:21,01:23:43,00:03:58,00:03:24,04:35:30
+ironman-70.3-italy-20140601.csv,576,Andrew Eaton,33,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,577,Olivier Ek,29,---,ITA,00:22:02,02:40:31,01:34:29,00:03:36,00:03:57,04:44:35
+ironman-70.3-italy-20140601.csv,578,Fabrizio Fabretti,32,---,ITA,00:29:06,03:15:43,01:45:59,00:05:02,00:06:14,05:42:04
+ironman-70.3-italy-20140601.csv,579,Duccio Fontanelli,29,---,ITA,00:21:07,02:45:58,01:59:08,00:04:27,00:05:03,05:15:43
+ironman-70.3-italy-20140601.csv,580,Jason Ford,33,Dublin,IRL,00:31:50,03:17:17,02:07:41,00:06:03,00:05:28,06:08:19
+ironman-70.3-italy-20140601.csv,581,Graham Ford,31,---,IRL,00:29:40,03:29:41,01:57:52,00:06:43,00:07:26,06:11:22
+ironman-70.3-italy-20140601.csv,582,Andrea Foresta,32,---,ITA,00:22:32,02:48:34,01:48:22,00:04:51,00:03:37,05:07:56
+ironman-70.3-italy-20140601.csv,583,Mathieu Forster,29,CH,CHE,00:21:06,02:51:55,01:53:10,00:04:41,00:04:29,05:15:21
+ironman-70.3-italy-20140601.csv,584,Daniele Franceschetti,31,---,ITA,00:22:58,02:39:39,01:31:51,00:05:22,00:04:14,04:44:04
+ironman-70.3-italy-20140601.csv,585,Enrico Franchetti,31,Viterbo,ITA,00:24:03,02:56:47,01:48:30,00:04:08,00:04:29,05:17:57
+ironman-70.3-italy-20140601.csv,586,Jan Fries,33,---,DEU,00:28:13,03:08:00,01:55:15,00:05:48,00:05:40,05:42:56
+ironman-70.3-italy-20140601.csv,587,Daniele Galliani,31,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,588,Gabriele Galvani,33,Italia,ITA,00:27:42,03:04:56,01:51:32,00:04:50,00:07:14,05:36:14
+ironman-70.3-italy-20140601.csv,589,Sergey Gazizov,33,---,RUS,00:34:40,03:31:09,02:07:33,00:09:21,00:07:51,06:30:34
+ironman-70.3-italy-20140601.csv,590,Andrea Ghirardani,29,Parma,ITA,00:22:28,02:55:48,02:15:23,00:07:16,00:05:22,05:46:17
+ironman-70.3-italy-20140601.csv,591,Stuart Gilliland,30,---,GBR,00:27:50,03:22:10,02:02:33,00:04:42,00:04:33,06:01:48
+ironman-70.3-italy-20140601.csv,592,Riccardo Gorini,31,---,ITA,00:23:10,02:48:52,01:49:18,00:04:12,00:03:45,05:09:17
+ironman-70.3-italy-20140601.csv,593,Grasselli Giacomo,30,PG,ITA,00:20:56,02:59:14,01:42:48,00:03:37,00:03:50,05:10:25
+ironman-70.3-italy-20140601.csv,594,Angelo Grossi,31,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,595,Sergio Grossi,33,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,596,Irmantas Grubinskas,32,Panevezys,LTU,00:23:43,03:03:40,01:39:18,00:05:52,00:06:41,05:19:14
+ironman-70.3-italy-20140601.csv,597,Joshua Harris,32,TX,USA,00:38:57,04:08:12,02:28:26,00:08:41,00:12:39,07:36:55
+ironman-70.3-italy-20140601.csv,598,Bartlomiej Herodecki,32,---,POL,00:26:26,03:11:31,02:01:42,00:07:10,00:06:25,05:53:14
+ironman-70.3-italy-20140601.csv,599,Leonardo Iacobaccio,30,---,ITA,00:31:07,02:49:25,01:33:46,00:04:29,00:05:15,05:04:02
+ironman-70.3-italy-20140601.csv,600,Manuel Infanti,33,Italia,ITA,00:21:39,02:50:24,01:35:19,00:05:48,00:04:17,04:57:27
+ironman-70.3-italy-20140601.csv,601,Piernicola Iubatti,34,---,ITA,00:24:50,02:55:11,01:49:07,00:05:56,00:04:44,05:19:48
+ironman-70.3-italy-20140601.csv,603,Riku Kimari,30,Uusimaa,FIN,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,604,Julian Korteschiel,32,---,NLD,00:26:08,02:56:42,01:58:00,00:04:36,00:05:44,05:31:10
+ironman-70.3-italy-20140601.csv,605,Dino Lanaro,34,MI,ITA,00:22:41,02:51:04,01:41:20,00:04:26,00:03:32,05:03:03
+ironman-70.3-italy-20140601.csv,606,Simon Lanyon,33,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,607,Nicola Lassandro,31,---,ITA,00:41:53,03:35:21,02:29:40,00:07:03,00:06:24,07:00:21
+ironman-70.3-italy-20140601.csv,608,Guy Lavery,30,GBR,GBR,00:29:00,03:16:46,01:50:44,00:04:49,00:04:48,05:46:07
+ironman-70.3-italy-20140601.csv,609,Daniele Malatesta,32,Roma,ITA,00:22:00,03:04:58,01:46:50,00:05:47,00:05:02,05:24:37
+ironman-70.3-italy-20140601.csv,610,Luca Marchegiani,29,---,ITA,00:21:43,03:06:33,01:47:06,00:05:51,00:05:01,05:26:14
+ironman-70.3-italy-20140601.csv,611,Daniele Martella,31,---,ITA,00:22:56,02:41:48,01:47:28,00:04:46,00:03:44,05:00:42
+ironman-70.3-italy-20140601.csv,612,Manuel Masuello,32,---,ITA,00:23:36,02:48:26,01:38:30,00:04:50,00:03:38,04:59:00
+ironman-70.3-italy-20140601.csv,613,Marco Mazza,30,---,ITA,00:22:54,02:48:26,01:42:23,00:04:54,00:04:02,05:02:39
+ironman-70.3-italy-20140601.csv,614,Riccardo Medè,30,Padova,ITA,00:21:48,02:58:16,01:53:36,00:06:00,00:05:47,05:25:27
+ironman-70.3-italy-20140601.csv,616,Laszlo Modos,34,---,HUN,00:17:13,02:44:18,01:27:09,00:03:35,00:04:07,04:36:22
+ironman-70.3-italy-20140601.csv,617,Gabriele Moggia,32,---,ITA,00:23:19,03:07:41,02:12:44,00:04:28,00:03:34,05:51:46
+ironman-70.3-italy-20140601.csv,618,Tony Newton,32,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,619,Benjamin Ng,29,---,AUS,00:20:46,03:00:28,01:43:47,00:04:29,00:04:45,05:14:15
+ironman-70.3-italy-20140601.csv,620,Antonio Palestini,32,Intl State,ITA,00:25:19,02:37:34,01:33:39,00:04:41,00:03:34,04:44:47
+ironman-70.3-italy-20140601.csv,621,Alexis Pauwels,33,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,622,Lorenzo Perfetti,30,ITA,ITA,00:29:23,03:10:07,02:14:20,00:06:29,00:06:58,06:07:17
+ironman-70.3-italy-20140601.csv,623,Alberto Piccolo,31,Italia,ITA,00:33:07,03:16:59,02:08:53,00:07:02,00:05:03,06:11:04
+ironman-70.3-italy-20140601.csv,624,Emidio Piermartiri,33,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,625,Luca Prosperi,31,---,ITA,00:20:07,02:45:19,01:34:07,00:04:12,00:04:19,04:48:04
+ironman-70.3-italy-20140601.csv,626,Matteo Rapattoni,31,Italia ,ITA,00:25:00,02:46:30,02:05:46,00:04:54,00:03:19,05:25:29
+ironman-70.3-italy-20140601.csv,627,Fabio Rastelli,31,Italia,ITA,00:22:54,02:48:30,01:39:03,00:04:49,00:03:47,04:59:03
+ironman-70.3-italy-20140601.csv,628,Davide Redaelli,32,---,ITA,00:20:49,02:51:33,01:49:39,00:06:40,00:04:53,05:13:34
+ironman-70.3-italy-20140601.csv,629,Jakub Robel,33,---,POL,00:23:01,02:59:06,02:06:05,00:04:11,00:07:53,05:40:16
+ironman-70.3-italy-20140601.csv,630,Jonathan Robinson,31,Seef,NZL,00:21:56,02:55:58,02:03:20,00:04:12,00:04:59,05:30:25
+ironman-70.3-italy-20140601.csv,631,Fabio Robutti,34,Italia,ITA,00:25:01,02:43:38,01:37:11,00:05:12,00:03:36,04:54:38
+ironman-70.3-italy-20140601.csv,632,Joe Rosie,30,---,GBR,00:25:16,03:07:04,02:02:09,00:06:53,00:07:03,05:48:25
+ironman-70.3-italy-20140601.csv,633,Massimo Sabatino,32,Torino,ITA,00:21:53,02:36:58,01:39:20,00:03:37,00:03:24,04:45:12
+ironman-70.3-italy-20140601.csv,634,Massimo Sabbatini,33,italy,ITA,00:26:35,02:48:41,01:48:07,00:10:06,00:05:59,05:19:28
+ironman-70.3-italy-20140601.csv,635,Simone Sala,33,italia,ITA,00:28:08,03:13:49,01:46:21,00:07:03,00:06:48,05:42:09
+ironman-70.3-italy-20140601.csv,636,Fellipe Savioli,33,---,BRA,00:27:05,03:11:41,02:20:24,00:08:56,00:07:09,06:15:15
+ironman-70.3-italy-20140601.csv,637,Paolo Scattarelli,32,---,ITA,00:32:00,03:26:37,02:37:12,00:08:22,00:06:55,06:51:06
+ironman-70.3-italy-20140601.csv,638,Marco Scattarelli,30,---,ITA,00:31:12,03:27:07,02:36:34,00:08:56,00:07:17,06:51:06
+ironman-70.3-italy-20140601.csv,639,Alessio Sgrelli,30,Perugia,ITA,00:22:59,03:07:09,01:42:08,00:07:34,00:04:20,05:24:10
+ironman-70.3-italy-20140601.csv,640,Vitaly Shershnyov,29,Kiev reg,UKR,00:32:49,03:05:03,02:05:25,00:08:11,00:08:03,05:59:31
+ironman-70.3-italy-20140601.csv,641,Tomer Slaney,32,---,ISR,00:25:07,03:13:11,02:12:55,00:04:32,00:06:43,06:02:28
+ironman-70.3-italy-20140601.csv,642,Alfio Spina,32,---,ITA,00:32:33,03:32:40,02:14:42,00:05:14,00:05:29,06:30:38
+ironman-70.3-italy-20140601.csv,643,Giuseppe Spinella,31,---,ITA,00:27:27,03:11:10,02:02:47,00:07:33,00:08:09,05:57:06
+ironman-70.3-italy-20140601.csv,644,Franco Dolfini,29,Italia,ITA,00:21:32,03:08:29,01:43:06,00:06:36,00:04:58,05:24:41
+ironman-70.3-italy-20140601.csv,645,Mauro Tacconelli,30,FL,VEN,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,646,Stefano Tamburri,33,italia,ITA,00:23:13,03:12:49,02:10:46,00:05:16,00:05:10,05:57:14
+ironman-70.3-italy-20140601.csv,647,Denis Tarquinio,30,Italia,ITA,00:25:09,02:58:16,01:51:34,00:06:05,00:05:10,05:26:14
+ironman-70.3-italy-20140601.csv,648,Maurizio Tedde,30,---,ITA,00:31:24,03:37:34,02:12:53,00:10:08,00:09:12,06:41:11
+ironman-70.3-italy-20140601.csv,649,Julien Teney,31,---,BEL,00:30:24,03:15:45,02:12:55,00:07:44,00:07:58,06:14:46
+ironman-70.3-italy-20140601.csv,650,Carlo Torresi,31,Fermo,ITA,00:23:57,03:11:09,01:42:00,00:05:27,00:03:45,05:26:18
+ironman-70.3-italy-20140601.csv,651,Giordano Trabucco,29,ITALIA,ITA,00:31:54,03:24:47,02:00:09,00:07:57,00:06:07,06:10:54
+ironman-70.3-italy-20140601.csv,652,Antonio Travaglini,31,Roma,ITA,00:29:59,03:16:30,01:49:51,00:05:19,00:04:22,05:46:01
+ironman-70.3-italy-20140601.csv,653,Marco Treppiedi,32,ITA,ITA,00:22:27,03:02:33,01:52:17,00:04:25,00:03:47,05:25:29
+ironman-70.3-italy-20140601.csv,654,Michele Trusolino,33,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,655,Gary Tuffield,34,---,GBR,00:24:25,03:15:41,02:09:29,00:05:54,00:07:18,06:02:47
+ironman-70.3-italy-20140601.csv,656,Albert Urbanovich,29,---,RUS,00:34:16,03:31:19,01:58:23,00:05:38,00:07:02,06:16:38
+ironman-70.3-italy-20140601.csv,657,Rafal Urbanski,33,---,POL,00:29:06,03:06:58,01:39:03,00:05:51,00:06:53,05:27:51
+ironman-70.3-italy-20140601.csv,658,Sepan Vakhmin,33,"s Romashkovo
+Moscow region",RUS,00:17:01,02:41:24,01:39:56,00:03:24,00:03:51,04:45:36
+ironman-70.3-italy-20140601.csv,659,Diego Valesani,31,Italia,ITA,00:18:22,03:11:45,01:30:28,00:07:10,00:07:17,05:15:02
+ironman-70.3-italy-20140601.csv,660,Sebastiaan Van Den Berg,32,---,NLD,00:19:15,02:48:18,01:49:03,00:03:46,00:04:07,05:04:29
+ironman-70.3-italy-20140601.csv,661,Diego Venturi,33,---,ITA,00:22:07,02:46:53,01:50:44,00:03:24,00:04:42,05:07:50
+ironman-70.3-italy-20140601.csv,662,Luca Vicini,29,Cremona,ITA,00:22:53,02:55:42,01:42:10,00:05:02,00:05:44,05:11:31
+ironman-70.3-italy-20140601.csv,663,Stefano Vizzini Bisaccia,30,venezia,ITA,00:24:02,03:15:18,02:04:47,00:06:49,00:05:53,05:56:49
+ironman-70.3-italy-20140601.csv,664,Valerio Vona,29,RM,ITA,00:24:09,03:13:22,02:06:32,00:05:57,00:05:15,05:55:15
+ironman-70.3-italy-20140601.csv,665,Chris Wright,31,London,NZL,00:28:00,02:53:41,02:06:05,00:05:04,00:06:10,05:39:00
+ironman-70.3-italy-20140601.csv,666,Alan Zampieri,33,---,ITA,00:30:01,03:42:26,02:07:34,00:07:32,00:10:13,06:37:46
+ironman-70.3-italy-20140601.csv,667,Andrea Zuffetti,33,Milano,ITA,00:21:20,02:53:43,01:49:18,00:06:24,00:05:59,05:16:44
+ironman-70.3-italy-20140601.csv,668,Federico Felizzi,31,---,ITA,00:23:49,02:46:46,01:46:36,00:04:49,00:04:11,05:06:11
+ironman-70.3-italy-20140601.csv,669,Andreas Fabricius,30,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,670,Michael Nguyen,33,CA,USA,00:30:03,03:18:11,01:59:24,00:05:37,00:05:06,05:58:21
+ironman-70.3-italy-20140601.csv,671,Denis Malin,34,---,RUS,00:24:58,02:51:56,01:30:41,00:04:53,00:05:16,04:57:44
+ironman-70.3-italy-20140601.csv,672,Filip Adamczak,31,---,POL,00:27:41,03:07:23,01:59:31,00:09:42,00:06:29,05:50:46
+ironman-70.3-italy-20140601.csv,673,Filippo Giovanni Gussoni,33,---,ITA,00:28:53,03:21:01,02:30:31,00:09:12,00:07:49,06:37:26
+ironman-70.3-italy-20140601.csv,674,Giacomo Marchi,31,Bologna,ITA,00:22:35,02:49:04,01:59:06,00:04:48,00:06:19,05:21:52
+ironman-70.3-italy-20140601.csv,675,Silvio Tivolesi,31,ITALIA,ITA,00:28:18,03:04:43,02:08:07,00:06:12,00:05:16,05:52:36
+ironman-70.3-italy-20140601.csv,676,Roberto Domizio,33,---,ITA,00:24:44,02:56:10,02:00:16,00:05:56,00:04:17,05:31:23
+ironman-70.3-italy-20140601.csv,677,Pietro Altomani,34,mi,ITA,00:26:17,03:22:05,02:23:49,00:07:02,00:08:19,06:27:32
+ironman-70.3-italy-20140601.csv,678,Tiago Machado,33,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,679,Oleksandr Dovzhenko,30,Kharkivs'ka,UKR,00:24:54,02:47:28,01:29:15,00:05:44,00:05:52,04:53:13
+ironman-70.3-italy-20140601.csv,680,Andrea Masciarelli,31,IT,ITA,00:23:20,02:24:06,01:31:01,00:03:45,00:03:17,04:25:29
+ironman-70.3-italy-20140601.csv,681,Simone Masciarelli,34,ITALIA,AFG,00:21:30,02:35:00,01:53:38,00:03:33,00:03:30,04:57:11
+ironman-70.3-italy-20140601.csv,682,Fabrizio Evangelisti,34,Italia,ITA,00:25:18,02:52:16,01:43:19,00:05:44,00:06:25,05:13:02
+ironman-70.3-italy-20140601.csv,683,Antonio D'Intino,31,chieti,ITA,00:28:27,02:58:49,01:55:06,00:06:07,00:04:57,05:33:26
+ironman-70.3-italy-20140601.csv,684,Giancarlo Di Nezza,33,Ita,ITA,00:27:54,02:56:10,01:50:25,00:05:18,00:03:57,05:23:44
+ironman-70.3-italy-20140601.csv,685,Alberto Lorenzini,32,Forlì Cesena ,ITA,00:27:10,02:56:47,01:48:55,00:06:45,00:05:11,05:24:48
+ironman-70.3-italy-20140601.csv,686,Fabrizio Galasso,---,---,ITA,00:23:08,02:48:23,01:42:15,00:04:43,00:03:37,05:02:06
+ironman-70.3-italy-20140601.csv,687,Diego De Francesco,33,ITALIA,ITA,00:20:58,02:48:59,01:36:52,00:03:50,00:04:02,04:54:41
+ironman-70.3-italy-20140601.csv,688,Nicola Gradassi,34,---,ITA,00:27:12,02:51:24,02:08:32,00:05:22,00:04:15,05:36:45
+ironman-70.3-italy-20140601.csv,689,Diego Ludovici,32,Rm,ITA,00:21:50,02:41:41,---,00:04:52,00:04:52,DNF
+ironman-70.3-italy-20140601.csv,690,Luca Perna,29,---,ITA,00:23:46,02:47:42,01:40:04,00:04:27,00:04:52,05:00:51
+ironman-70.3-italy-20140601.csv,691,Giulio Pavarotti,---,---,ITA,00:23:05,02:45:28,01:37:09,00:04:30,00:03:38,04:53:50
+ironman-70.3-italy-20140601.csv,692,Federico Tallone,---,---,ITA,00:20:53,03:07:08,01:48:58,00:04:36,00:05:11,05:26:46
+ironman-70.3-italy-20140601.csv,693,Giorgio Ottini,---,---,ITA,00:26:51,03:02:27,01:30:37,00:04:12,00:04:00,05:08:07
+ironman-70.3-italy-20140601.csv,694,Alberto Francone,32,Italia,ITA,00:22:57,02:49:51,01:44:16,00:04:05,00:03:48,05:04:57
+ironman-70.3-italy-20140601.csv,695,Alessandro Buccieri,32,Pescara,ITA,00:19:57,02:41:03,01:27:08,00:03:42,00:03:25,04:35:15
+ironman-70.3-italy-20140601.csv,696,Leonardo Simoncini,---,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,697,Davide Santuccione,30,ITALIA,ITA,00:20:42,02:33:40,01:29:34,00:03:46,00:03:35,04:31:17
+ironman-70.3-italy-20140601.csv,698,Stefano Barbiero,33,---,ITA,00:23:04,02:51:49,01:31:55,00:05:20,00:04:03,04:56:11
+ironman-70.3-italy-20140601.csv,699,Davide De Luca,30,IT,ITA,00:26:45,03:04:37,01:53:27,00:06:12,00:04:20,05:35:21
+ironman-70.3-italy-20140601.csv,700,Marco Casarotti,---,---,ITA,00:22:58,03:01:00,01:49:02,00:04:56,00:04:47,05:22:43
+ironman-70.3-italy-20140601.csv,701,Emanuele Terzini,---,---,ITA,00:21:48,03:00:43,02:04:37,00:04:49,00:04:36,05:36:33
+ironman-70.3-italy-20140601.csv,702,Arnaldo Saquella,34,Italia,ITA,00:23:18,03:15:54,02:01:52,00:05:28,00:05:54,05:52:26
+ironman-70.3-italy-20140601.csv,703,Alberto Viscardi,---,---,ITA,00:23:50,03:00:14,01:43:07,00:07:03,00:06:35,05:20:49
+ironman-70.3-italy-20140601.csv,704,Gabriele Bellinzona,---,---,ITA,00:18:56,02:42:16,01:25:11,00:03:19,00:03:53,04:33:35
+ironman-70.3-italy-20140601.csv,705,Alessio Piccioni,31,Italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,706,Francesco Crepaldi,---,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,707,Vincenzo Paolini,31,---,ITA,00:25:06,02:51:36,01:37:28,00:04:36,00:04:35,05:03:21
+ironman-70.3-italy-20140601.csv,708,Claudio Bellavia,31,---,ITA,00:21:52,02:59:51,01:39:48,00:05:23,00:04:47,05:11:41
+ironman-70.3-italy-20140601.csv,709,Fabio Cappelletti,34,italia,ITA,00:23:00,02:40:43,01:37:22,00:04:29,00:04:22,04:49:56
+ironman-70.3-italy-20140601.csv,710,Lorenzo Colombo,---,---,ITA,00:25:02,03:02:33,02:03:36,00:06:13,00:06:18,05:43:42
+ironman-70.3-italy-20140601.csv,711,Matteo Corradetti,29,---,ITA,00:28:01,03:16:44,02:06:38,00:08:36,00:06:10,06:06:09
+ironman-70.3-italy-20140601.csv,712,Renaldo Recchiuti,---,---,ITA,00:24:45,03:02:28,01:39:20,00:06:13,00:06:39,05:19:25
+ironman-70.3-italy-20140601.csv,713,Giuseppe Marino,31,---,ITA,00:25:08,03:02:17,02:02:28,00:03:56,00:03:58,05:37:47
+ironman-70.3-italy-20140601.csv,714,Simone Taricani,31,Pescara,ITA,00:30:09,02:54:26,02:10:51,00:07:51,00:06:07,05:49:24
+ironman-70.3-italy-20140601.csv,715,Mirko Miseri,31,ITALIA,ITA,00:22:10,03:19:00,02:14:54,00:07:29,00:04:53,06:08:26
+ironman-70.3-italy-20140601.csv,716,Simone Perilli,30,ITA,ITA,00:20:00,02:55:25,01:39:05,00:05:54,00:03:39,05:04:03
+ironman-70.3-italy-20140601.csv,717,Fabrizio Marotta,29,---,ITA,00:29:54,03:15:54,02:10:13,00:07:04,00:05:20,06:08:25
+ironman-70.3-italy-20140601.csv,718,Federico Pani,29,ITALIA,ITA,00:21:08,03:21:34,02:27:18,00:06:30,00:09:15,06:25:45
+ironman-70.3-italy-20140601.csv,721,Federico Aita,35,MI,ITA,00:24:45,03:01:36,01:48:53,00:04:29,00:04:35,05:24:18
+ironman-70.3-italy-20140601.csv,722,Dan Alexandrescu,39,---,ROU,00:27:29,03:10:31,01:53:02,00:07:52,00:06:25,05:45:19
+ironman-70.3-italy-20140601.csv,723,Francesco Amato,37,---,ITA,00:23:03,03:27:34,02:34:27,00:06:57,00:06:34,06:38:35
+ironman-70.3-italy-20140601.csv,724,Riccardo Andrian,38,---,ITA,00:25:48,03:27:43,02:20:29,00:13:19,00:11:30,06:38:49
+ironman-70.3-italy-20140601.csv,725,Davide Anelli,37,Pavia,ITA,00:24:19,02:47:39,02:05:13,00:05:03,00:04:31,05:26:45
+ironman-70.3-italy-20140601.csv,726,Davide Angeleri,38,APO,ITA,00:27:05,03:03:05,01:46:04,00:06:39,00:07:39,05:30:32
+ironman-70.3-italy-20140601.csv,727,Marco Angius,39,---,ITA,00:19:32,03:17:47,01:56:22,00:05:46,00:06:53,05:46:20
+ironman-70.3-italy-20140601.csv,728,Massimo Antonelli,34,---,ITA,00:20:38,03:03:41,01:47:24,00:03:54,00:04:45,05:20:22
+ironman-70.3-italy-20140601.csv,729,Dino Anzellotti,36,---,ITA,00:20:59,03:09:16,01:48:53,00:06:27,00:05:28,05:31:03
+ironman-70.3-italy-20140601.csv,730,David Armeni,35,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,731,Marco Arsie,34,ITALIA,ITA,00:23:10,02:44:32,01:38:02,00:05:00,00:04:37,04:55:21
+ironman-70.3-italy-20140601.csv,732,Antonio Baraldo,39,---,ITA,00:21:46,03:06:37,02:01:18,00:04:22,00:04:33,05:38:36
+ironman-70.3-italy-20140601.csv,733,Fabrizio Barbetta,37,ITA,ITA,00:22:35,02:42:23,01:40:21,00:03:13,00:03:57,04:52:29
+ironman-70.3-italy-20140601.csv,734,Daniel Barrientos,37,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,735,Diego Barzio,38,italia,ITA,00:27:33,03:13:44,01:28:40,00:07:41,00:07:54,05:25:32
+ironman-70.3-italy-20140601.csv,736,Massimo Basso,36,---,ITA,00:28:21,03:55:52,02:35:12,00:10:51,00:09:44,07:20:00
+ironman-70.3-italy-20140601.csv,737,Manuel Bellotti,34,Como,ITA,00:26:21,02:57:10,01:40:55,00:09:14,00:07:00,05:20:40
+ironman-70.3-italy-20140601.csv,738,Mattia Beltramini,36,---,ITA,00:22:34,02:59:41,01:48:14,00:04:50,00:04:06,05:19:25
+ironman-70.3-italy-20140601.csv,739,Giulio Benestante,34,---,ITA,00:22:25,03:02:23,01:54:21,00:06:19,00:05:00,05:30:28
+ironman-70.3-italy-20140601.csv,740,Federico Berardinone,37,CT,USA,00:27:43,03:43:47,02:01:57,00:12:08,00:09:35,06:35:10
+ironman-70.3-italy-20140601.csv,741,Stefano Berionne,35,Italia,ITA,00:21:05,02:28:28,01:33:09,00:03:02,00:02:54,04:28:38
+ironman-70.3-italy-20140601.csv,742,Luca Bernacchia,36,AN,ITA,00:26:14,02:45:45,01:46:26,00:06:52,00:06:04,05:11:21
+ironman-70.3-italy-20140601.csv,743,Antonio Berrini,38,Rm,ITA,00:26:12,03:21:35,01:49:26,00:07:36,00:04:42,05:49:31
+ironman-70.3-italy-20140601.csv,744,Graziano Bettiol,39,Treviso,ITA,00:25:53,02:44:42,01:56:48,00:06:05,00:04:17,05:17:45
+ironman-70.3-italy-20140601.csv,745,Alessandro Bianco,38,It,ITA,00:27:32,03:10:05,02:14:43,00:06:47,00:04:58,06:04:05
+ironman-70.3-italy-20140601.csv,746,Antonio Bianco,37,---,ITA,00:28:12,03:03:00,01:36:48,00:04:24,00:04:27,05:16:51
+ironman-70.3-italy-20140601.csv,747,Massimo Boccalon,35,---,ITA,00:27:01,03:03:44,01:58:54,00:05:23,00:07:11,05:42:13
+ironman-70.3-italy-20140601.csv,748,Ale? Bogataj,35,Ziri,SVN,00:21:16,02:50:24,01:41:53,00:06:07,00:04:53,05:04:33
+ironman-70.3-italy-20140601.csv,749,Gavin Booth,39,---,GBR,00:27:26,03:08:31,---,00:08:35,00:06:55,DNF
+ironman-70.3-italy-20140601.csv,750,Andrea Bordoni,35,italia,ITA,00:20:25,02:52:56,01:51:05,00:06:01,00:04:27,05:14:54
+ironman-70.3-italy-20140601.csv,751,Gabriele Borghetti,37,MI,ITA,00:22:45,02:57:27,01:29:11,00:04:37,00:04:03,04:58:03
+ironman-70.3-italy-20140601.csv,752,Joachim Brinkmann,38,---,DEU,00:33:24,03:04:07,01:58:31,00:10:41,00:07:21,05:54:04
+ironman-70.3-italy-20140601.csv,753,Marco Bucci,36,CH,ITA,00:20:39,02:36:55,01:26:31,00:04:14,00:03:58,04:32:17
+ironman-70.3-italy-20140601.csv,754,Pietro Calegaro,34,Italia,ITA,00:26:26,02:58:23,01:56:03,00:04:35,00:05:07,05:30:34
+ironman-70.3-italy-20140601.csv,756,Fabrizio Canta,36,Italia,ITA,00:27:35,03:11:34,01:56:52,00:08:09,00:06:53,05:51:03
+ironman-70.3-italy-20140601.csv,757,Francesco Caprini,35,---,ITA,00:22:12,03:00:21,01:43:54,00:08:11,00:06:14,05:20:52
+ironman-70.3-italy-20140601.csv,758,Quintino Caraccio,34,Italia,ITA,00:22:29,03:01:48,01:51:44,00:04:31,00:04:43,05:25:15
+ironman-70.3-italy-20140601.csv,759,Marco Cardinale,36,APO,ITA,00:26:11,03:05:29,02:09:22,00:05:43,00:06:42,05:53:27
+ironman-70.3-italy-20140601.csv,760,Michele Carta,35,ITA,ITA,00:23:18,02:59:41,01:59:07,00:04:40,00:04:21,05:31:07
+ironman-70.3-italy-20140601.csv,761,Davide Cavazza,36,Bologna,ITA,00:26:54,03:08:02,02:01:09,00:09:35,00:06:46,05:52:26
+ironman-70.3-italy-20140601.csv,762,Lorenzo Cetrullo,34,---,ITA,00:21:29,03:02:54,01:52:48,00:04:26,00:04:50,05:26:27
+ironman-70.3-italy-20140601.csv,763,Nicola Chianese,38,---,ITA,00:26:01,03:18:45,02:08:17,00:09:07,00:07:31,06:09:41
+ironman-70.3-italy-20140601.csv,764,Pasquale Chiantera,38,Bari,ITA,00:20:10,02:50:45,01:38:41,00:03:56,00:03:47,04:57:19
+ironman-70.3-italy-20140601.csv,765,Sergio Cioce,36,MI,ITA,00:22:16,02:54:28,01:33:46,00:04:32,00:03:38,04:58:40
+ironman-70.3-italy-20140601.csv,766,Luigi Cipollone,35,---,ITA,00:21:56,02:42:00,01:40:20,00:04:14,00:03:20,04:51:50
+ironman-70.3-italy-20140601.csv,767,Ludovic Ciron,39,---,FRA,00:20:45,02:49:10,01:41:02,00:04:15,00:03:59,04:59:11
+ironman-70.3-italy-20140601.csv,768,Rupert Clifford-Brown,38,---,GBR,00:20:46,02:52:01,01:40:29,00:03:55,00:04:06,05:01:17
+ironman-70.3-italy-20140601.csv,769,Remo Coletta,35,---,ITA,00:42:54,02:54:02,01:38:01,00:06:33,00:06:15,05:27:45
+ironman-70.3-italy-20140601.csv,770,Paolo Colombo,35,bi,ITA,00:23:51,03:07:52,01:48:24,00:07:22,00:06:00,05:33:29
+ironman-70.3-italy-20140601.csv,771,Luca Conti,38,ITALIA,ITA,00:26:02,03:09:48,02:08:00,00:05:18,00:05:02,05:54:10
+ironman-70.3-italy-20140601.csv,772,Andrea Cozzari,37,Pg,ITA,00:23:32,03:22:38,01:52:13,00:09:12,00:06:26,05:54:01
+ironman-70.3-italy-20140601.csv,773,Jeremy Crane,36,---,CAN,00:21:20,02:52:33,01:45:14,00:04:46,00:05:10,05:09:03
+ironman-70.3-italy-20140601.csv,774,Omar Crecchi,36,---,ITA,00:22:11,02:47:35,01:38:17,00:05:55,00:05:12,04:59:10
+ironman-70.3-italy-20140601.csv,775,Cristian Crotti,35,italia,ITA,00:22:56,02:49:20,01:35:37,00:05:24,00:07:41,05:00:58
+ironman-70.3-italy-20140601.csv,776,Dino Antonio Curzi,37,UDINE,ITA,00:20:30,02:32:05,01:29:25,00:04:04,00:03:24,04:29:28
+ironman-70.3-italy-20140601.csv,777,Ettore De Flaviis,34,ITALIA,ITA,00:28:24,03:28:41,02:13:26,00:09:03,00:06:14,06:25:48
+ironman-70.3-italy-20140601.csv,778,Michele De Rosa,36,Reggio Emilia,ITA,00:25:46,02:44:37,01:55:29,00:05:25,00:04:36,05:15:53
+ironman-70.3-italy-20140601.csv,779,Sergio Di Benedetto,37,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,780,Renato Di Febo,39,TER,ITA,00:19:53,02:42:56,01:32:36,00:03:30,00:03:36,04:42:31
+ironman-70.3-italy-20140601.csv,781,Simone Di Giampaolo,37,roma,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,782,Alessandro Di Stefano,35,Mantova,ITA,00:26:30,03:07:54,01:48:31,00:04:51,00:05:21,05:33:07
+ironman-70.3-italy-20140601.csv,783,Panagiotis Dimpampis,36,MITILENE,GRC,00:22:18,02:57:43,02:00:27,00:05:59,00:06:18,05:32:45
+ironman-70.3-italy-20140601.csv,784,Massimo Dioguardi Burgio,35,Italy,ITA,00:19:27,02:45:53,01:29:34,00:03:45,00:03:38,04:42:17
+ironman-70.3-italy-20140601.csv,785,Fabrizio Dolce,37,---,ITA,00:26:17,02:44:37,01:40:24,00:05:18,00:05:01,05:01:37
+ironman-70.3-italy-20140601.csv,786,Fabiano Drumond,38,---,BRA,00:23:01,03:14:33,02:07:17,00:06:59,00:07:10,05:59:00
+ironman-70.3-italy-20140601.csv,787,Salvatore Favara,38,ITALIA,ITA,00:23:36,03:00:09,02:00:50,00:05:19,00:05:36,05:35:30
+ironman-70.3-italy-20140601.csv,788,Andrea Favaron,38,Italia,ITA,00:22:17,02:54:32,01:36:06,00:05:32,00:03:39,05:02:06
+ironman-70.3-italy-20140601.csv,789,Francky Favre,37,FR,FRA,00:19:18,02:23:29,01:24:29,00:03:24,00:03:42,04:14:22
+ironman-70.3-italy-20140601.csv,790,Federico Ferri,39,---,ITA,00:18:47,02:55:15,01:32:30,00:04:52,00:05:48,04:57:12
+ironman-70.3-italy-20140601.csv,791,Eddy Festuccia,38,Italia,ITA,00:19:21,02:57:20,01:53:34,00:04:12,00:06:24,05:20:51
+ironman-70.3-italy-20140601.csv,792,Carson Fisher,37,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,793,Giuseppe Fucilli,38,italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,794,Claudio Fulgenzi,35,---,ITA,00:23:53,02:54:18,01:40:09,00:04:47,00:04:09,05:07:16
+ironman-70.3-italy-20140601.csv,795,David Galafassi,38,Intl State,ITA,00:19:03,02:42:26,01:44:29,00:03:44,00:04:25,04:54:07
+ironman-70.3-italy-20140601.csv,796,emanuele gallozzi,39,Italy,ITA,00:24:19,03:27:23,01:46:12,00:06:41,00:06:32,05:51:07
+ironman-70.3-italy-20140601.csv,797,Gianluca Giansante,34,---,ITA,00:28:07,02:48:40,01:42:28,00:03:56,00:04:09,05:07:20
+ironman-70.3-italy-20140601.csv,798,Sebastiano Gravina,36,---,ITA,00:28:09,03:18:52,02:08:34,00:04:29,00:05:39,06:05:43
+ironman-70.3-italy-20140601.csv,799,Dan Harris,38,---,GBR,00:22:37,02:52:05,02:34:06,00:04:20,00:04:54,05:58:02
+ironman-70.3-italy-20140601.csv,800,Marco Hintz,36,CO,USA,00:22:13,02:34:39,01:38:27,00:03:57,00:04:27,04:43:43
+ironman-70.3-italy-20140601.csv,801,Valerio Marcello Iezzi,34,---,ITA,00:23:26,02:52:04,01:30:40,00:05:18,00:04:26,04:55:54
+ironman-70.3-italy-20140601.csv,802,Mauro Imbriani,35,Other,ITA,00:21:00,02:42:37,01:39:50,00:05:14,00:04:48,04:53:29
+ironman-70.3-italy-20140601.csv,803,Luca Imbriani,35,lecce,ITA,00:21:27,02:43:27,01:36:05,00:04:51,00:03:46,04:49:36
+ironman-70.3-italy-20140601.csv,804,Giovanni Ioime,36,italy,ITA,00:21:33,02:56:23,01:54:14,00:04:25,00:05:24,05:21:59
+ironman-70.3-italy-20140601.csv,805,Andrey Ivanchikhin,35,---,RUS,00:25:42,03:03:47,01:45:15,00:05:58,00:06:04,05:26:46
+ironman-70.3-italy-20140601.csv,806,Roberto Janigro,38,PESCARA,ITA,00:23:12,02:54:48,01:53:09,00:03:53,00:04:29,05:19:31
+ironman-70.3-italy-20140601.csv,807,Christoffer Jonstang,37,---,NOR,00:22:30,02:54:28,01:49:04,00:05:15,00:04:44,05:16:01
+ironman-70.3-italy-20140601.csv,808,Matthew Kearns,36,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,809,Justin Kelly,47,---,ZAF,00:19:39,02:40:52,01:33:37,00:04:07,00:03:18,04:41:33
+ironman-70.3-italy-20140601.csv,810,Graham Kennedy,35,London,GBR,00:19:24,02:39:19,01:26:57,00:03:16,00:03:43,04:32:39
+ironman-70.3-italy-20140601.csv,811,Jani Kokko,38,Keski-suomi,FIN,00:21:01,02:44:59,01:31:41,00:04:04,00:03:38,04:45:23
+ironman-70.3-italy-20140601.csv,812,Daniel Künzi,34,---,CHE,00:18:01,02:29:04,01:26:29,00:03:20,00:03:28,04:20:22
+ironman-70.3-italy-20140601.csv,813,Stefano Strong La Cara,36,RM,ITA,00:20:30,02:43:24,02:02:16,00:04:28,00:05:01,05:15:39
+ironman-70.3-italy-20140601.csv,814,Maurizio Levante,36,Italia,ITA,00:24:55,03:07:51,02:04:03,00:06:41,00:07:06,05:50:36
+ironman-70.3-italy-20140601.csv,815,Valeriano Magni,39,MONZA E BRIANZA,ITA,00:27:48,03:07:02,02:02:24,00:04:06,00:05:58,05:47:18
+ironman-70.3-italy-20140601.csv,816,Davide Malpeli,37,italia,ITA,00:27:02,03:04:16,01:58:39,00:08:47,00:07:37,05:46:21
+ironman-70.3-italy-20140601.csv,817,Paolo Mancinelli,34,---,ITA,00:22:22,03:14:05,01:55:53,00:08:03,00:05:50,05:46:13
+ironman-70.3-italy-20140601.csv,818,Samuele Mandolesi,35,Fermo,ITA,00:25:20,02:57:21,01:50:13,00:04:52,00:05:15,05:23:01
+ironman-70.3-italy-20140601.csv,819,Alessandro Mantini,35,Pescara,ITA,00:21:54,02:56:09,01:51:28,00:06:24,00:03:51,05:19:46
+ironman-70.3-italy-20140601.csv,820,Michael Martin,37,NJ,USA,00:33:44,03:37:13,02:04:04,00:07:13,00:06:55,06:29:09
+ironman-70.3-italy-20140601.csv,821,Giuseppe Mastronardi,35,roma,ITA,00:25:44,02:52:53,01:43:43,00:04:18,00:04:28,05:11:06
+ironman-70.3-italy-20140601.csv,822,Tommaso Matteucci,34,italy,ITA,00:21:35,02:51:38,01:42:27,00:05:46,00:03:51,05:05:17
+ironman-70.3-italy-20140601.csv,823,Mirko Mattoccia,35,roma,ITA,00:19:37,02:36:56,01:18:49,00:03:05,00:03:04,04:21:31
+ironman-70.3-italy-20140601.csv,824,Cristian Mazzoni,35,"Italy, Emilia-Romagna, Ravenna",ITA,00:24:30,02:59:52,01:37:14,00:04:37,00:05:12,05:11:25
+ironman-70.3-italy-20140601.csv,825,Alberto Mereghetti,35,---,ITA,00:22:46,03:12:48,01:48:19,00:06:10,00:06:03,05:36:06
+ironman-70.3-italy-20140601.csv,826,Davide Merlin,37,Padova,ITA,00:20:41,03:05:44,01:42:38,00:04:58,00:06:19,05:20:20
+ironman-70.3-italy-20140601.csv,827,Gorgovan Mihai,35,---,ROU,00:21:52,03:29:52,02:03:11,00:07:41,00:05:09,06:07:45
+ironman-70.3-italy-20140601.csv,828,Michael Moffett,36,---,GBR,00:21:40,03:05:10,02:08:33,00:05:51,00:05:37,05:46:51
+ironman-70.3-italy-20140601.csv,829,Enzo Molinari,35,---,ITA,00:20:20,02:32:45,01:31:23,00:04:54,00:03:54,04:33:16
+ironman-70.3-italy-20140601.csv,830,Luca Montanari,35,---,ITA,00:22:25,03:16:06,02:02:02,00:05:50,00:05:21,05:51:44
+ironman-70.3-italy-20140601.csv,831,Michele Montefiori,37,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,832,Francesco Motta,---,ITALY,ITA,00:21:43,02:45:48,01:51:12,00:04:06,00:04:23,05:07:12
+ironman-70.3-italy-20140601.csv,833,Cristian Napoli,35,---,ITA,00:21:44,03:00:33,01:52:31,00:04:35,00:04:37,05:24:00
+ironman-70.3-italy-20140601.csv,834,Stefano Nardotto,39,---,ITA,00:21:10,02:50:38,01:41:46,00:03:53,00:04:29,05:01:56
+ironman-70.3-italy-20140601.csv,835,Roberto Nava,38,APO,ITA,00:21:55,03:15:12,01:51:02,00:06:34,00:08:06,05:42:49
+ironman-70.3-italy-20140601.csv,836,Ladislav Nec,37,Slovakia,SVK,00:20:14,02:44:47,01:27:54,00:04:51,00:04:34,04:42:20
+ironman-70.3-italy-20140601.csv,837,Ivan Negrato,35,---,ITA,00:25:34,02:54:03,---,00:03:50,00:05:33,DNF
+ironman-70.3-italy-20140601.csv,838,Fabrizio Ognibene,38,italia,ITA,00:26:34,03:08:39,02:03:01,00:04:22,00:04:34,05:47:10
+ironman-70.3-italy-20140601.csv,839,Michal Okon,34,---,POL,00:22:48,03:12:28,01:59:34,00:04:50,00:05:06,05:44:46
+ironman-70.3-italy-20140601.csv,840,Andrea Ottaviani,36,---,ITA,00:19:14,02:41:35,01:32:05,00:03:47,00:03:38,04:40:19
+ironman-70.3-italy-20140601.csv,841,Diego Pacquola,35,ITALIA,ITA,00:20:22,02:53:46,01:45:34,00:04:53,00:04:07,05:08:42
+ironman-70.3-italy-20140601.csv,842,Federico Palestini,35,italia,ITA,00:20:23,02:43:36,01:31:38,00:04:34,00:03:41,04:43:52
+ironman-70.3-italy-20140601.csv,843,Francesco Panarella,36,Napoli,ITA,00:18:45,02:37:15,01:31:54,00:04:04,00:04:14,04:36:12
+ironman-70.3-italy-20140601.csv,844,Giacomo Panizzolo,38,venezia,ITA,00:24:12,02:50:42,01:36:48,00:05:52,00:04:32,05:02:06
+ironman-70.3-italy-20140601.csv,845,Fabio Papiri,35,---,ITA,00:20:40,03:03:57,01:42:05,00:06:12,00:05:03,05:17:57
+ironman-70.3-italy-20140601.csv,846,Diego Pasinato,35,Italia,ITA,00:26:24,03:03:16,02:09:56,00:05:45,00:04:41,05:50:02
+ironman-70.3-italy-20140601.csv,847,Rosario Peccerillo,37,ITALY,ITA,00:21:42,02:51:52,01:31:11,00:05:41,00:05:30,04:55:56
+ironman-70.3-italy-20140601.csv,848,Gianluca Pecoraro,37,---,ITA,00:22:59,03:22:05,01:54:39,00:08:25,00:06:35,05:54:43
+ironman-70.3-italy-20140601.csv,849,Gianluigi Perfetti,36,italia,ITA,00:22:57,02:52:08,01:47:28,00:07:06,00:07:25,05:17:04
+ironman-70.3-italy-20140601.csv,850,Fulvio Perna,36,---,ITA,00:22:37,03:09:56,01:59:02,00:04:56,00:05:26,05:41:57
+ironman-70.3-italy-20140601.csv,851,Fabrizio Perticarini,35,---,ITA,00:21:09,02:46:01,01:37:26,00:04:02,00:04:38,04:53:16
+ironman-70.3-italy-20140601.csv,852,Augusto Petrongolo,37,Torino,ITA,00:26:34,03:19:14,01:44:20,00:04:40,00:04:28,05:39:16
+ironman-70.3-italy-20140601.csv,853,Andrea Pili,39,ITALIA,ITA,00:21:11,02:49:37,01:36:43,00:04:38,00:05:10,04:57:19
+ironman-70.3-italy-20140601.csv,854,Leo Piva,38,italy,ITA,00:22:52,03:03:25,01:44:53,00:04:33,00:03:57,05:19:40
+ironman-70.3-italy-20140601.csv,855,Byron Pompa,36,---,USA,00:19:17,02:52:15,01:49:40,00:03:42,00:03:59,05:08:53
+ironman-70.3-italy-20140601.csv,856,Andrea Pradella,36,milano,ITA,00:22:01,03:01:58,01:51:22,00:06:38,00:04:58,05:26:57
+ironman-70.3-italy-20140601.csv,857,Thomas Ramstad,38,---,NOR,00:21:15,02:38:44,01:50:39,00:03:57,00:03:48,04:58:23
+ironman-70.3-italy-20140601.csv,858,Cristian Reggianini,36,italia,ITA,00:26:18,02:46:35,01:50:51,00:06:23,00:04:17,05:14:24
+ironman-70.3-italy-20140601.csv,859,Gilbert Reiss,35,---,AUT,00:19:55,02:41:12,01:30:26,00:03:40,00:04:40,04:39:53
+ironman-70.3-italy-20140601.csv,860,Pietro Ripa,38,---,ITA,00:26:42,03:23:51,02:06:48,00:07:28,00:05:58,06:10:47
+ironman-70.3-italy-20140601.csv,861,Marko Ristic,35,Other,SRB,00:27:25,03:28:44,02:16:43,00:15:55,00:11:21,06:40:08
+ironman-70.3-italy-20140601.csv,862,Diego Rizzo,39,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,863,Thomas Rognmo,34,NO,NOR,00:27:34,03:34:27,01:42:20,00:07:03,00:06:20,05:57:44
+ironman-70.3-italy-20140601.csv,864,Federico Roncagliolo,35,---,ITA,00:18:46,02:46:47,01:35:26,00:04:59,00:05:08,04:51:06
+ironman-70.3-italy-20140601.csv,865,Filippo Ronchini,36,---,ITA,00:29:23,03:21:25,02:09:47,00:07:02,00:05:52,06:13:29
+ironman-70.3-italy-20140601.csv,866,Claudio Rovatti,35,---,ITA,00:23:36,03:01:07,02:02:12,00:06:32,00:05:26,05:38:53
+ironman-70.3-italy-20140601.csv,867,Mario Rucci,36,ITALIA,ITA,00:23:24,03:09:47,02:09:44,00:06:35,00:05:34,05:55:04
+ironman-70.3-italy-20140601.csv,868,Krzysztof Sala,38,---,POL,00:27:32,03:12:11,01:58:09,00:05:02,00:04:54,05:47:48
+ironman-70.3-italy-20140601.csv,869,Emanuele Salvatore,35,ITALIA,ITA,00:19:51,02:50:48,01:37:13,00:03:05,00:03:52,04:54:49
+ironman-70.3-italy-20140601.csv,870,Andrea Sargente,37,PE,ITA,00:22:15,03:05:23,01:43:47,00:05:25,00:05:12,05:22:02
+ironman-70.3-italy-20140601.csv,871,Cristian Sartini,38,BERGAMO,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,872,Roberto Sattin,35,Italia,ITA,00:22:42,02:52:29,01:56:23,00:04:17,00:04:30,05:20:21
+ironman-70.3-italy-20140601.csv,873,Fabio Scaliati,39,---,ITA,00:27:21,03:47:21,02:37:56,00:07:14,00:08:58,07:08:50
+ironman-70.3-italy-20140601.csv,875,Domenico Scolari,34,---,ITA,00:22:13,03:09:09,01:40:59,00:07:19,00:04:59,05:24:39
+ironman-70.3-italy-20140601.csv,876,Roberto Scrocchi,35,Italia,ITA,00:20:19,02:50:49,01:33:40,00:04:44,00:05:17,04:54:49
+ironman-70.3-italy-20140601.csv,877,Fabio Sgroi,38,Italia,ITA,00:23:21,03:02:07,02:03:58,00:05:59,00:06:16,05:41:41
+ironman-70.3-italy-20140601.csv,878,Maurizio Simone,37,BT,ITA,00:22:02,03:12:43,01:40:20,00:04:51,00:03:41,05:23:37
+ironman-70.3-italy-20140601.csv,879,Andrea Smargiasse,36,ITA,ITA,00:22:42,02:50:29,01:44:03,00:07:36,00:06:43,05:11:33
+ironman-70.3-italy-20140601.csv,880,Davide Sona,38,italy,ITA,00:29:29,03:09:55,02:25:46,00:05:23,00:08:02,06:18:35
+ironman-70.3-italy-20140601.csv,881,Luigi Domenico Spirito,35,Pordenone,ITA,00:27:28,02:58:40,01:43:04,00:05:32,00:05:18,05:20:02
+ironman-70.3-italy-20140601.csv,882,Nicola Storti,39,---,ITA,00:23:16,03:07:39,01:56:41,00:07:00,00:04:58,05:39:34
+ironman-70.3-italy-20140601.csv,883,Alexey Tarasov,36,---,RUS,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,884,Paolo Tatangelo,37,IT,ITA,00:20:56,02:40:14,01:40:29,00:04:43,00:04:36,04:50:58
+ironman-70.3-italy-20140601.csv,885,Francesco Tesi,35,---,ITA,00:20:21,02:53:39,02:04:59,00:05:16,00:06:20,05:30:35
+ironman-70.3-italy-20140601.csv,886,Roberto Tiberi,36,---,ITA,00:21:59,03:06:46,---,00:05:39,00:10:32,DNF
+ironman-70.3-italy-20140601.csv,887,Matteo Torre,36,Parma,ITA,00:24:10,02:53:51,01:40:54,00:05:08,00:05:24,05:09:27
+ironman-70.3-italy-20140601.csv,888,Fabio Trimaglio,38,---,ITA,00:27:02,03:05:47,01:39:36,00:07:33,00:07:14,05:27:12
+ironman-70.3-italy-20140601.csv,889,Gaetano Trimarchi,38,udine,ITA,00:27:46,03:14:20,02:04:14,00:07:33,00:06:44,06:00:37
+ironman-70.3-italy-20140601.csv,890,Damon Turner,37,London,GBR,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,891,Ioannis Vamvakidis,39,KORINTHOS,GRC,00:19:28,03:09:25,02:10:16,00:04:23,00:07:29,05:51:01
+ironman-70.3-italy-20140601.csv,892,Luca Vanni,37,MI,ITA,00:24:00,03:24:50,01:59:04,00:05:37,00:05:23,05:58:54
+ironman-70.3-italy-20140601.csv,893,Simone Venturi,39,Italia,ITA,00:22:40,03:03:08,02:16:16,00:05:07,00:04:39,05:51:50
+ironman-70.3-italy-20140601.csv,894,Francesco Verna,36,Pescara (PE),ITA,00:20:15,02:49:39,01:38:30,00:03:48,00:03:25,04:55:37
+ironman-70.3-italy-20140601.csv,895,Mario Vernazza,37,Milano,ITA,00:22:42,03:03:48,01:48:29,00:04:22,00:04:47,05:24:08
+ironman-70.3-italy-20140601.csv,896,Igor Veronese,37,---,ITA,00:22:02,02:49:08,01:46:13,00:03:51,00:04:10,05:05:24
+ironman-70.3-italy-20140601.csv,897,Eduard Von Slawik,34,Torino,ITA,00:21:49,03:23:51,01:41:34,00:05:59,00:05:31,05:38:44
+ironman-70.3-italy-20140601.csv,899,Dominique Zoida,37,CA,USA,00:24:52,03:14:09,02:21:56,00:05:26,00:09:21,06:15:44
+ironman-70.3-italy-20140601.csv,900,Jonathan Townrow,34,APO,GBR,00:26:28,03:03:42,01:58:54,00:04:47,00:05:47,05:39:38
+ironman-70.3-italy-20140601.csv,901,Francesco Milani,37,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,902,Riccardo Trabalzi,37,---,ITA,00:18:33,02:52:39,01:52:37,00:04:23,00:05:26,05:13:38
+ironman-70.3-italy-20140601.csv,903,Pavel Arseev,35,Moscow,RUS,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,904,Andrea Ficca,39,Italia,ITA,00:21:53,03:08:11,02:11:31,00:05:02,00:05:30,05:52:07
+ironman-70.3-italy-20140601.csv,905,Pawel Lejk,35,POLAND,POL,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,906,Luca Boccato,36,---,ITA,00:29:20,03:26:56,02:36:18,00:09:04,00:10:52,06:52:30
+ironman-70.3-italy-20140601.csv,907,Roberto Marini,37,BERGAMO,ITA,00:19:50,02:45:37,01:32:31,00:03:30,00:04:04,04:45:32
+ironman-70.3-italy-20140601.csv,908,Paolo Martinelli,36,---,ITA,00:21:23,02:40:08,01:38:16,00:04:39,00:03:54,04:48:20
+ironman-70.3-italy-20140601.csv,909,Devi Pellegrini,37,---,ITA,00:20:13,02:40:32,01:44:02,00:03:43,00:03:52,04:52:22
+ironman-70.3-italy-20140601.csv,910,Michele Gelli,34,---,ITA,00:21:32,03:07:16,01:47:03,00:06:13,00:05:32,05:27:36
+ironman-70.3-italy-20140601.csv,911,Andrea Avveduti,38,Ravenna,ITA,00:23:04,03:04:37,02:04:49,00:06:14,00:04:18,05:43:02
+ironman-70.3-italy-20140601.csv,912,Raffaele La Pasta,38,ITALIA,ITA,00:26:28,02:51:31,01:44:05,00:04:06,00:04:03,05:10:13
+ironman-70.3-italy-20140601.csv,913,Alessandro Volpe,35,italia,ITA,00:26:40,02:59:53,01:48:25,00:04:51,00:04:50,05:24:39
+ironman-70.3-italy-20140601.csv,914,Mikael Amura,35,roma,ITA,00:20:51,02:53:57,01:42:41,00:04:40,00:03:51,05:06:00
+ironman-70.3-italy-20140601.csv,915,Andrea Francavilla,37,Italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,916,Giuseppe Carinci,38,---,ITA,00:32:40,02:58:56,01:53:15,00:12:24,00:05:33,05:42:48
+ironman-70.3-italy-20140601.csv,917,Manfredi Lai,38,Italia,ITA,00:21:05,03:07:15,02:06:54,00:10:02,00:09:08,05:54:24
+ironman-70.3-italy-20140601.csv,918,Marco Fanari,38,Italy,ITA,00:20:18,03:03:22,02:12:00,00:05:31,00:05:53,05:47:04
+ironman-70.3-italy-20140601.csv,919,Fabio Di Francesco,38,Italia,ITA,00:24:40,03:04:05,01:58:25,00:06:17,00:04:51,05:38:18
+ironman-70.3-italy-20140601.csv,920,Antonio Napodano,38,---,ITA,00:26:44,03:33:12,02:05:38,00:07:02,00:06:31,06:19:07
+ironman-70.3-italy-20140601.csv,921,Claudio Poli,36,BO,ITA,00:26:44,02:57:08,01:53:41,00:05:03,00:05:22,05:27:58
+ironman-70.3-italy-20140601.csv,922,Laszlo Marta,36,---,HUN,00:18:37,03:00:29,02:11:52,00:03:37,00:05:37,05:40:12
+ironman-70.3-italy-20140601.csv,923,Oscar Di Donato,---,---,ITA,00:27:22,02:55:24,02:06:15,00:09:25,00:06:43,05:45:09
+ironman-70.3-italy-20140601.csv,924,Alberto Bettiol,---,---,ITA,00:20:24,02:45:36,01:38:04,00:03:47,00:04:49,04:52:40
+ironman-70.3-italy-20140601.csv,925,Nicola Campassi,35,Italia,ITA,00:20:53,02:49:36,01:31:05,00:03:49,00:03:17,04:48:40
+ironman-70.3-italy-20140601.csv,926,Fabrizio Medana,35,---,ITA,00:22:56,03:10:44,01:47:54,00:07:08,00:08:19,05:37:01
+ironman-70.3-italy-20140601.csv,927,Paolo Gentile,35,Abruzzo,ITA,00:25:11,03:41:46,02:40:56,00:09:16,00:07:33,07:04:42
+ironman-70.3-italy-20140601.csv,928,Antonio D'Angelo,35,---,ITA,00:22:20,02:56:15,01:47:48,00:04:33,00:03:37,05:14:33
+ironman-70.3-italy-20140601.csv,929,Giuseppe Marucci,38,IT,ITA,00:22:34,02:50:24,01:36:46,00:04:44,00:04:45,04:59:13
+ironman-70.3-italy-20140601.csv,930,Claudio Di Berardino,38,italia,ITA,00:22:36,03:12:06,01:58:16,00:06:10,00:06:13,05:45:21
+ironman-70.3-italy-20140601.csv,931,Salvatore Puleo,38,IT,ITA,00:22:18,03:11:52,02:39:00,00:06:57,00:09:19,06:29:26
+ironman-70.3-italy-20140601.csv,932,Giuliano Conconi,37,varese,ITA,00:22:45,02:41:02,01:39:53,00:05:20,00:04:23,04:53:23
+ironman-70.3-italy-20140601.csv,933,Matteo Baldacci,---,---,ITA,00:18:59,02:33:25,01:29:16,00:03:16,00:03:44,04:28:40
+ironman-70.3-italy-20140601.csv,934,Angelo Finocchiaro,39,Italia,ITA,00:22:27,03:09:30,02:14:41,00:06:14,00:06:33,05:59:25
+ironman-70.3-italy-20140601.csv,935,Vincenzo Gambone,38,---,ITA,00:19:46,02:40:35,01:48:50,00:04:08,00:03:40,04:56:59
+ironman-70.3-italy-20140601.csv,936,Federico Coccia,37,Italia,ITA,00:24:21,03:08:20,01:47:50,00:05:54,00:05:32,05:31:57
+ironman-70.3-italy-20140601.csv,937,Eric Febbo,39,ITA,ITA,00:26:06,03:08:01,01:51:24,00:05:39,00:04:34,05:35:44
+ironman-70.3-italy-20140601.csv,938,Andrea Gaetano Torrisi,34,---,ITA,00:18:32,02:54:22,01:56:27,00:04:44,00:05:10,05:19:15
+ironman-70.3-italy-20140601.csv,939,Dennis Nadolny,35,Italien,DEU,00:19:21,04:48:06,01:33:54,00:03:18,00:12:34,06:57:13
+ironman-70.3-italy-20140601.csv,940,Emilio Berti,36,LT,ITA,00:19:38,02:31:15,01:28:16,00:02:58,00:03:04,04:25:11
+ironman-70.3-italy-20140601.csv,941,Matteo Cantieri,37,Bologna,ITA,00:22:23,02:46:54,01:42:29,00:04:24,00:03:44,04:59:54
+ironman-70.3-italy-20140601.csv,942,Arturo Secchi,---,---,ITA,---,---,01:29:57,---,02:57:18,04:27:15
+ironman-70.3-italy-20140601.csv,943,Igor Cortassa,---,---,ITA,00:24:22,03:01:35,01:42:48,00:07:23,00:05:51,05:21:59
+ironman-70.3-italy-20140601.csv,944,Mauro Dotta,---,---,ITA,00:21:21,02:55:50,02:15:23,00:05:25,00:07:40,05:45:39
+ironman-70.3-italy-20140601.csv,945,Massimiliano Gherardi,35,FC,ITA,00:22:24,02:56:57,01:33:27,00:06:39,00:04:04,05:03:31
+ironman-70.3-italy-20140601.csv,946,Davide Gatti,38,ITALIA,ITA,00:20:57,02:39:52,01:32:32,00:03:54,00:03:56,04:41:11
+ironman-70.3-italy-20140601.csv,947,Mauro Massaro,---,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,948,Marco De Leo,35,Intl State,ITA,00:22:33,03:02:15,02:05:06,00:06:49,00:06:10,05:42:53
+ironman-70.3-italy-20140601.csv,949,Antonio Imburgia,39,pa,ITA,00:17:53,02:37:03,01:37:47,00:04:09,00:03:39,04:40:31
+ironman-70.3-italy-20140601.csv,950,Vincenzo Perniciaro,37,ITA,ITA,00:20:08,03:00:28,01:40:03,00:07:05,00:04:49,05:12:33
+ironman-70.3-italy-20140601.csv,951,Nicola Indemini,---,---,ITA,00:24:15,03:03:01,01:37:55,00:04:11,00:05:39,05:15:01
+ironman-70.3-italy-20140601.csv,952,Giacomo Petruccelli,34,Chieti,ITA,00:28:06,04:37:34,---,00:04:57,---,DNF
+ironman-70.3-italy-20140601.csv,953,Stefano Caldari,---,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,954,Cristiano Leva,34,italy,ITA,00:19:48,02:46:07,01:34:28,00:03:11,00:03:55,04:47:29
+ironman-70.3-italy-20140601.csv,955,Diego Pretara,39,PIANELLA,ITA,00:27:41,03:06:24,01:53:29,00:06:13,00:07:30,05:41:17
+ironman-70.3-italy-20140601.csv,956,Giuliano Swuec,39,Italy,ITA,00:19:11,02:27:42,01:32:20,00:04:09,00:03:42,04:27:04
+ironman-70.3-italy-20140601.csv,957,Rodrigo Javier Sanchez Torquati,34,---,ITA,00:24:13,02:57:59,01:45:07,00:05:12,00:04:50,05:17:21
+ironman-70.3-italy-20140601.csv,958,Stefano Quinzi,36,Italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,959,Simone Mellano,34,Italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,960,Carlo Armandi,35,Italiano,ITA,00:22:37,02:58:49,01:58:02,00:05:43,00:03:58,05:29:09
+ironman-70.3-italy-20140601.csv,961,Davide Marengo,34,---,ITA,00:22:37,02:51:00,01:40:01,00:04:41,00:04:21,05:02:40
+ironman-70.3-italy-20140601.csv,962,Alessio Casaccia,38,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,963,Emilio Gaspari,38,---,ITA,00:22:35,02:54:20,01:37:40,00:04:04,00:03:36,05:02:15
+ironman-70.3-italy-20140601.csv,964,Luigi Ferro,36,---,ITA,00:22:31,03:09:33,01:59:28,00:07:52,00:06:04,05:45:28
+ironman-70.3-italy-20140601.csv,965,Fabio Assisi,35,italia,ITA,00:19:53,02:34:37,01:36:07,00:04:30,00:04:19,04:39:26
+ironman-70.3-italy-20140601.csv,966,Matteo Sclosa,37,ita,ITA,00:20:04,02:36:38,01:26:18,00:03:22,00:03:10,04:29:32
+ironman-70.3-italy-20140601.csv,971,Gianluca Actis,47,NA,ITA,00:22:35,03:11:15,01:58:59,00:07:04,00:04:49,05:44:42
+ironman-70.3-italy-20140601.csv,972,Guiseppe Albertini,47,Ascoli Piceno,ITA,00:30:21,02:55:30,01:53:57,00:05:50,00:06:23,05:32:01
+ironman-70.3-italy-20140601.csv,973,Yves Amacker,44,---,CHE,00:19:16,02:35:47,01:38:46,00:03:34,00:04:19,04:41:42
+ironman-70.3-italy-20140601.csv,974,Alessandro Angelotti,44,italia,ITA,00:32:59,03:53:04,02:53:09,00:07:55,00:07:28,07:34:35
+ironman-70.3-italy-20140601.csv,975,Michele Antonelli,46,TRENTO,ITA,00:21:51,02:43:52,01:36:48,00:05:09,00:04:08,04:51:48
+ironman-70.3-italy-20140601.csv,976,Antonio Acomonti,47,---,ITA,00:26:21,03:08:26,02:02:09,00:09:26,00:08:11,05:54:33
+ironman-70.3-italy-20140601.csv,977,Mirco Arcari,45,Italia ,ITA,00:23:58,02:50:15,01:30:55,00:04:41,00:03:35,04:53:24
+ironman-70.3-italy-20140601.csv,978,Massimo Arese,48,---,ITA,00:26:03,02:58:58,01:46:05,00:04:50,00:05:07,05:21:03
+ironman-70.3-italy-20140601.csv,979,Maurizio Attimonelli,44,Italia,ITA,00:31:57,03:02:48,01:46:15,00:10:21,00:08:39,05:40:00
+ironman-70.3-italy-20140601.csv,980,Giorgio Azzolini,48,trento,ITA,00:18:55,02:53:43,01:44:36,00:04:17,00:04:44,05:06:15
+ironman-70.3-italy-20140601.csv,981,Massimo Baccei,48,Forlì,ITA,00:24:44,02:50:23,01:50:28,00:05:24,00:03:38,05:14:37
+ironman-70.3-italy-20140601.csv,982,Michele Bachiorri,44,ITA,ITA,00:29:30,02:55:16,01:51:47,00:06:49,00:05:51,05:29:13
+ironman-70.3-italy-20140601.csv,983,Enrico Baldisserri,48,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,984,Dmitry Balyabin,45,Russia,RUS,00:26:38,02:47:09,01:51:49,00:04:42,00:05:12,05:15:30
+ironman-70.3-italy-20140601.csv,985,Alessandro Bardi,48,APO,ITA,00:28:21,03:11:33,02:07:01,00:07:35,00:05:25,05:59:55
+ironman-70.3-italy-20140601.csv,986,Riccardo Barlaam,49,Milano,ITA,00:28:15,03:05:26,02:03:00,00:05:28,00:04:18,05:46:27
+ironman-70.3-italy-20140601.csv,987,Stefano Barnaba,44,Intl State,ITA,00:26:21,03:02:47,01:54:43,00:05:14,00:04:52,05:33:57
+ironman-70.3-italy-20140601.csv,988,Walter Bassani,47,---,ITA,00:26:00,03:08:20,01:35:12,00:04:58,00:05:01,05:19:31
+ironman-70.3-italy-20140601.csv,989,Joe Bastianich,45,NY,USA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,990,Antonello Bellin,48,VARESE,ITA,00:27:14,03:10:05,01:52:06,00:05:45,00:04:14,05:39:24
+ironman-70.3-italy-20140601.csv,991,Dimitri Bettin,46,Italia,ITA,00:18:52,02:54:58,02:05:36,00:05:18,00:04:21,05:29:05
+ironman-70.3-italy-20140601.csv,992,Davide Biondani,45,italia,ITA,00:25:19,02:35:05,01:40:15,00:04:07,00:03:41,04:48:27
+ironman-70.3-italy-20140601.csv,993,Stefan Blickling,48,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,994,Cosimo Bolognini,45,CH,ITA,00:30:34,03:03:51,01:38:57,00:06:05,00:05:31,05:24:58
+ironman-70.3-italy-20140601.csv,995,Roberto Bosisio,45,Lecco,ITA,00:22:21,02:49:38,01:59:45,00:05:58,00:05:16,05:22:58
+ironman-70.3-italy-20140601.csv,996,Massimiliano Braida,48,ITALIA,ITA,00:27:31,03:00:34,01:49:25,00:06:00,00:06:54,05:30:24
+ironman-70.3-italy-20140601.csv,997,Davide Brambillasca,48,Other,ITA,00:23:42,02:50:13,02:04:11,00:04:55,00:05:22,05:28:23
+ironman-70.3-italy-20140601.csv,998,Eugenio Brigato,47,---,ITA,00:21:56,02:37:51,01:47:49,00:04:44,00:04:25,04:56:45
+ironman-70.3-italy-20140601.csv,999,Andrea Bronzoni,45,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1000,Marco Campilii,44,---,ITA,00:27:23,03:00:04,01:43:19,00:07:33,00:05:25,05:23:44
+ironman-70.3-italy-20140601.csv,1001,Diego Canacci,49,Pescara,ITA,00:35:06,02:32:30,01:30:04,00:04:12,00:03:49,04:45:41
+ironman-70.3-italy-20140601.csv,1002,Roberto Carta,46,---,ITA,00:26:55,03:11:45,01:58:11,00:05:37,00:06:03,05:48:31
+ironman-70.3-italy-20140601.csv,1003,Walter Castiglione,46,---,ITA,00:34:44,03:37:46,02:02:29,00:07:48,00:06:49,06:29:36
+ironman-70.3-italy-20140601.csv,1004,Giuseppe Coia,45,---,ITA,00:30:59,03:31:11,02:20:28,00:09:07,00:09:06,06:40:51
+ironman-70.3-italy-20140601.csv,1005,Maurizio Coladonato,46,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1006,Andrea Colella,47,CH,CHE,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1007,Alessandro Consorte,44,Italy,ITA,00:24:39,02:49:21,01:51:26,00:06:40,00:04:26,05:16:32
+ironman-70.3-italy-20140601.csv,1008,Anthony Cook,47,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1009,Romeo Cremascoli,46,italia,ITA,00:24:01,03:04:18,02:17:26,00:06:08,00:05:50,05:57:43
+ironman-70.3-italy-20140601.csv,1010,Guido Cristini,48,---,ITA,00:26:47,03:05:26,01:59:03,00:06:57,00:08:39,05:46:52
+ironman-70.3-italy-20140601.csv,1011,Joaquin Da Silva,46,Miranda,VEN,00:23:39,02:50:46,01:43:11,00:04:21,00:03:58,05:05:55
+ironman-70.3-italy-20140601.csv,1012,Roberto David,46,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1013,Francesco De Lazzari,45,---,ITA,00:19:58,02:52:04,01:35:18,00:04:15,00:04:10,04:55:45
+ironman-70.3-italy-20140601.csv,1014,Davide De Rosa,44,---,ITA,00:28:29,03:53:35,02:37:47,00:07:49,00:11:18,07:18:58
+ironman-70.3-italy-20140601.csv,1015,Federico Dei Rossi,47,54878,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1016,Giancarlo Di Bella,46,roma,ITA,00:29:20,03:29:27,01:51:58,00:11:47,00:07:22,06:09:54
+ironman-70.3-italy-20140601.csv,1017,Giuseppe Di Carlo,44,ITALIA,ITA,00:25:44,02:53:16,01:50:53,00:06:25,00:05:03,05:21:21
+ironman-70.3-italy-20140601.csv,1018,Arno Dietrich,44,DXB,AUT,00:30:35,03:16:38,02:41:28,00:06:49,00:06:35,06:42:05
+ironman-70.3-italy-20140601.csv,1019,Johannes Dietrich,47,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1020,Andrea Diobelli,45,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1021,Francesco Faella,45,BO,ITA,00:24:10,03:14:39,01:53:51,00:06:22,00:09:35,05:48:37
+ironman-70.3-italy-20140601.csv,1022,Andrea Falomo,45,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1023,Fabrizio Fasciani,47,italia,ITA,00:30:13,03:02:54,02:19:39,00:04:29,00:06:30,06:03:45
+ironman-70.3-italy-20140601.csv,1025,Nicola Ferretti,45,---,ITA,00:33:02,03:18:27,02:01:22,00:10:26,00:10:40,06:13:57
+ironman-70.3-italy-20140601.csv,1026,Claudio Filiberti,45,ITALIA,ITA,00:28:19,03:34:58,01:59:17,00:08:03,00:07:52,06:18:29
+ironman-70.3-italy-20140601.csv,1027,Stefano Forlani,44,---,ITA,00:25:46,03:15:43,02:14:57,00:05:44,00:05:54,06:08:04
+ironman-70.3-italy-20140601.csv,1028,Marco Fratesi,45,---,ITA,00:19:48,03:08:15,02:04:25,00:06:12,00:04:58,05:43:38
+ironman-70.3-italy-20140601.csv,1029,Pascal Fumeaux,46,---,CHE,00:23:25,02:47:27,01:40:18,00:04:37,00:05:03,05:00:50
+ironman-70.3-italy-20140601.csv,1030,Franco Furlanetto,47,Italia,ITA,---,03:02:30,02:03:14,00:29:19,00:06:18,05:41:21
+ironman-70.3-italy-20140601.csv,1031,Michele Furlanetto,44,BO,ITA,00:25:12,02:47:23,02:02:22,00:06:00,00:06:22,05:27:19
+ironman-70.3-italy-20140601.csv,1032,Gabriele Cavallet,46,IT,ITA,00:28:05,02:55:37,02:08:34,00:07:59,00:06:43,05:46:58
+ironman-70.3-italy-20140601.csv,1033,Umerto Galli,47,Monza Brianza,ITA,00:30:05,02:59:20,02:11:37,00:05:14,00:06:13,05:52:29
+ironman-70.3-italy-20140601.csv,1034,Gian Luca Gallo,46,---,ITA,00:19:52,02:50:03,01:57:48,00:06:23,00:05:37,05:19:43
+ironman-70.3-italy-20140601.csv,1035,Vladimir Gavrilov,49,---,RUS,00:19:35,02:44:08,01:51:33,00:04:07,00:03:54,05:03:17
+ironman-70.3-italy-20140601.csv,1036,Giovanni Giacinti,45,---,ITA,00:27:35,03:04:59,02:01:13,00:06:24,00:04:32,05:44:43
+ironman-70.3-italy-20140601.csv,1037,Andrey Ginev,48,Moscow,RUS,00:22:59,03:32:58,02:22:57,00:07:21,00:09:08,06:35:23
+ironman-70.3-italy-20140601.csv,1038,Giorgio Giorgi,48,---,ITA,00:23:35,02:59:04,01:38:57,00:03:27,00:03:39,05:08:42
+ironman-70.3-italy-20140601.csv,1039,Marcello Giuliani,48,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1040,Michael Gort,47,San José,CAN,00:25:40,03:29:57,02:24:19,00:08:38,00:08:03,06:36:37
+ironman-70.3-italy-20140601.csv,1041,Andrea Grazioli,46,---,ITA,00:17:27,02:56:08,01:47:12,00:04:00,00:03:31,05:08:18
+ironman-70.3-italy-20140601.csv,1042,Luigi Greggio,44,---,ITA,00:30:35,03:42:44,02:21:05,00:08:06,00:06:23,06:48:53
+ironman-70.3-italy-20140601.csv,1043,Jose Alberto Guedez Leon,46,ES,VEN,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1044,Roberto Guidarelli,48,PESARO -URBINO,ITA,00:21:55,02:39:02,01:50:14,00:04:23,00:04:56,05:00:30
+ironman-70.3-italy-20140601.csv,1045,Kevin Heath,48,---,GBR,00:24:38,03:01:29,01:57:31,00:05:04,00:05:41,05:34:23
+ironman-70.3-italy-20140601.csv,1046,Mihai Iancu,---,---,ROU,00:27:46,03:16:19,02:02:42,00:07:23,00:07:12,06:01:22
+ironman-70.3-italy-20140601.csv,1047,Marco Iessi,46,ITALIA,ITA,00:23:38,02:37:08,01:43:13,00:04:39,00:03:29,04:52:07
+ironman-70.3-italy-20140601.csv,1048,Jennifer Lees,45,Intl State,ESP,00:23:07,03:12:13,01:44:08,00:07:02,00:06:25,05:32:55
+ironman-70.3-italy-20140601.csv,1049,Axel Jeangout,44,FR,BEL,00:25:34,03:00:38,01:52:46,00:05:30,00:04:57,05:29:25
+ironman-70.3-italy-20140601.csv,1050,Anastasios Keisoglou,48,---,GRC,00:33:53,03:04:41,01:46:50,00:05:14,00:06:08,05:36:46
+ironman-70.3-italy-20140601.csv,1051,Rolf Kohler,46,---,CHE,00:21:39,02:53:17,02:03:34,00:04:22,00:06:22,05:29:14
+ironman-70.3-italy-20140601.csv,1052,Stanislaw Kolasinski,49,POLAND,POL,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1053,Ronald Kreutzer,45,AT,AUT,00:25:24,02:54:12,01:55:53,00:06:10,00:07:06,05:28:45
+ironman-70.3-italy-20140601.csv,1054,Andrey Kukrus,45,---,RUS,00:21:11,02:37:53,01:38:37,00:04:27,00:05:52,04:48:00
+ironman-70.3-italy-20140601.csv,1055,Massimo Leonardi,44,italia,ITA,00:27:06,03:02:39,02:05:08,00:04:26,00:05:17,05:44:36
+ironman-70.3-italy-20140601.csv,1056,Fabio Lo Fiego,47,italia,ITA,00:26:09,03:01:15,02:26:08,00:07:09,00:09:08,06:09:49
+ironman-70.3-italy-20140601.csv,1057,Roberto Longone,48,---,ITA,00:28:09,02:54:50,01:53:19,00:06:12,00:05:07,05:27:37
+ironman-70.3-italy-20140601.csv,1058,Massimiliano Lorenzon,47,Italy,ITA,00:23:49,03:03:05,01:52:50,00:04:17,00:04:39,05:28:40
+ironman-70.3-italy-20140601.csv,1059,Stanislav Maltsev,46,---,RUS,00:37:29,03:17:50,02:03:23,00:08:03,00:06:52,06:13:37
+ironman-70.3-italy-20140601.csv,1060,Marcello Marchetti,45,---,ITA,00:22:17,02:44:01,01:45:24,00:04:33,00:04:01,05:00:16
+ironman-70.3-italy-20140601.csv,1061,Marco Marelli,48,chieti,ITA,00:28:12,02:45:36,01:59:06,00:04:55,00:04:03,05:21:52
+ironman-70.3-italy-20140601.csv,1062,Luciano Mariani,45,italia,ITA,00:24:58,03:03:22,01:54:52,00:05:52,00:06:17,05:35:21
+ironman-70.3-italy-20140601.csv,1063,Renzo Mariani,49,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1064,Fabrizio Marini,45,---,ITA,00:24:40,03:13:08,01:47:53,00:06:27,00:05:51,05:37:59
+ironman-70.3-italy-20140601.csv,1065,Bruno Marini,45,---,ITA,00:27:38,02:48:46,01:54:36,00:04:22,00:05:36,05:20:58
+ironman-70.3-italy-20140601.csv,1066,Marco Martina,45,---,ITA,00:33:42,03:05:39,01:59:21,00:04:57,00:05:58,05:49:37
+ironman-70.3-italy-20140601.csv,1067,Pasquale Martucci,45,---,ITA,00:23:22,02:55:30,01:54:05,00:05:32,00:04:44,05:23:13
+ironman-70.3-italy-20140601.csv,1068,Andrea Matellicani,46,---,ITA,00:36:09,03:23:57,02:37:19,00:08:59,00:05:17,06:51:41
+ironman-70.3-italy-20140601.csv,1069,Alessandro Mazzon,44,---,ITA,00:23:38,03:21:24,02:10:26,00:06:02,00:06:05,06:07:35
+ironman-70.3-italy-20140601.csv,1070,Massimiliano Merlo,45,MB,ITA,00:26:37,03:00:32,01:58:12,00:07:26,00:06:48,05:39:35
+ironman-70.3-italy-20140601.csv,1071,Paolo Miccolis,46,Italy,ITA,00:24:03,03:18:34,02:07:20,00:07:59,00:08:14,06:06:10
+ironman-70.3-italy-20140601.csv,1072,Richard Michalak,47,---,GBR,00:19:11,02:57:21,01:45:59,00:04:17,00:04:34,05:11:22
+ironman-70.3-italy-20140601.csv,1073,Marco Montori,47,---,ITA,00:22:24,02:45:26,01:47:29,00:04:37,00:04:39,05:04:35
+ironman-70.3-italy-20140601.csv,1074,Stefano Morellini,48,Reggio Emilia,ITA,00:32:43,03:02:46,02:06:49,00:06:52,00:08:44,05:57:54
+ironman-70.3-italy-20140601.csv,1075,Luca Morsenchio,49,Italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1076,Rustem Mukhametshin,46,Moscow,RUS,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1077,Pasquale Musci,46,Lecce,ITA,00:25:04,02:44:57,02:42:32,00:04:52,00:04:49,06:02:14
+ironman-70.3-italy-20140601.csv,1078,Caio Mussolini,46,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1079,Marco Nardelli Leonardi,46,Trento,ITA,00:22:28,02:47:54,01:43:42,00:05:06,00:05:59,05:05:09
+ironman-70.3-italy-20140601.csv,1080,Massimo Nicora,44,COMO,ITA,00:27:37,02:56:20,01:50:03,00:06:18,00:05:08,05:25:26
+ironman-70.3-italy-20140601.csv,1081,Fabio Pacifici,45,---,ITA,00:24:48,03:00:06,01:58:59,00:04:15,00:06:43,05:34:51
+ironman-70.3-italy-20140601.csv,1082,Davide Paganoni,47,---,ITA,00:22:39,03:04:37,01:54:54,00:06:00,00:05:41,05:33:51
+ironman-70.3-italy-20140601.csv,1083,Gianni Paglierani,47,Forlì Cesena,ITA,00:28:04,03:18:23,02:06:12,00:06:18,00:05:35,06:04:32
+ironman-70.3-italy-20140601.csv,1084,Renato Di Febo,39,TER,ITA,00:23:34,02:56:23,01:49:21,00:05:25,00:04:33,05:19:16
+ironman-70.3-italy-20140601.csv,1085,Davide Palma,45,SP,ITA,00:27:27,---,---,00:06:04,---,DNF
+ironman-70.3-italy-20140601.csv,1086,Fabio Panciarola,44,Perugia,ITA,00:27:59,02:52:55,01:44:34,00:04:59,00:04:55,05:15:22
+ironman-70.3-italy-20140601.csv,1087,Gianluigi Panzeri,47,---,ITA,00:36:19,03:42:21,02:23:18,00:09:00,00:09:13,07:00:11
+ironman-70.3-italy-20140601.csv,1088,Dino Parroni,44,Intl State,ITA,00:20:16,02:41:41,01:31:21,00:03:59,00:05:19,04:42:36
+ironman-70.3-italy-20140601.csv,1089,Roberto Patrizi,48,Italia,ITA,00:33:25,03:40:06,02:06:10,00:08:59,00:08:08,06:36:48
+ironman-70.3-italy-20140601.csv,1090,Angelo Pecere,48,ITALIA,ITA,00:25:58,03:11:29,01:48:33,00:06:46,00:08:10,05:40:56
+ironman-70.3-italy-20140601.csv,1091,Angelo Pellegrini,46,BG,ITA,00:27:00,03:05:28,01:58:45,00:06:51,00:06:41,05:44:45
+ironman-70.3-italy-20140601.csv,1092,Gianluca Pesaresi,46,ITA,ITA,00:26:49,03:09:10,02:01:18,00:05:54,00:05:09,05:48:20
+ironman-70.3-italy-20140601.csv,1093,Massimo Petazzoni,---,Milano,ITA,00:23:33,02:57:47,01:48:13,00:04:12,00:04:37,05:18:22
+ironman-70.3-italy-20140601.csv,1094,Piotr Pieniazek,48,---,POL,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1095,Francesco Pisciotta,46,italia,ITA,00:30:57,02:57:26,02:00:26,00:06:06,00:06:31,05:41:26
+ironman-70.3-italy-20140601.csv,1096,Gabriele Poggi,45,ITALIA,ITA,00:25:12,02:41:53,01:39:51,00:04:51,00:04:24,04:56:11
+ironman-70.3-italy-20140601.csv,1097,Niclas Poldahl,45,SE,SWE,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1098,Mario Ponziano,45,Italia,ITA,00:23:56,03:03:55,01:59:27,00:06:25,00:05:05,05:38:48
+ironman-70.3-italy-20140601.csv,1099,Davide Portonato,46,ITALIA,ITA,00:33:41,03:12:19,01:48:36,00:06:51,00:05:51,05:47:18
+ironman-70.3-italy-20140601.csv,1100,Paolo Prompicai,46,---,ITA,00:25:30,02:41:47,01:43:32,00:04:43,00:03:36,04:59:08
+ironman-70.3-italy-20140601.csv,1101,Francesco Proto,45,---,ITA,00:27:36,02:53:04,02:05:32,00:06:41,00:05:11,05:38:04
+ironman-70.3-italy-20140601.csv,1102,Sergio Puddu,48,ORISTANO,ITA,00:23:17,02:51:30,01:42:57,00:06:53,00:06:03,05:10:40
+ironman-70.3-italy-20140601.csv,1103,Gaetano Putaturo,48,---,ITA,00:31:41,03:30:47,02:26:29,00:14:03,00:10:37,06:53:37
+ironman-70.3-italy-20140601.csv,1104,Raffaele Raimondi,45,---,ITA,00:23:18,02:57:06,02:01:15,00:05:16,00:05:24,05:32:19
+ironman-70.3-italy-20140601.csv,1105,Paolo Reffo,49,PD,ITA,00:23:16,02:51:20,02:00:13,00:05:36,00:06:40,05:27:05
+ironman-70.3-italy-20140601.csv,1106,Glenn Robbins,45,---,USA,00:26:15,03:04:42,01:50:52,00:05:33,00:04:53,05:32:15
+ironman-70.3-italy-20140601.csv,1107,Fabrizio Rodilossi,47,ITALIA,ITA,00:34:07,03:02:58,01:55:03,00:07:00,00:06:04,05:45:12
+ironman-70.3-italy-20140601.csv,1108,Stefano Rognini,45,Italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1109,Giustino Romano,48,Napoli,ITA,00:23:18,03:24:18,01:52:30,00:05:49,00:05:38,05:51:33
+ironman-70.3-italy-20140601.csv,1110,Luca Rossi,49,ITALY,ITA,00:26:00,02:49:18,01:44:37,00:05:27,00:04:46,05:10:08
+ironman-70.3-italy-20140601.csv,1111,Leonardo Santarelli,44,---,ITA,00:33:13,03:21:04,02:06:25,00:08:24,00:06:12,06:15:18
+ironman-70.3-italy-20140601.csv,1112,Federico Santucci,45,PG,ITA,00:24:45,03:08:17,02:17:22,00:07:03,00:06:22,06:03:49
+ironman-70.3-italy-20140601.csv,1113,Paolo Sardini,44,---,ITA,00:29:27,03:08:59,01:52:13,00:05:44,00:05:57,05:42:20
+ironman-70.3-italy-20140601.csv,1114,Luca Sarti,45,Bolzano,ITA,00:22:01,02:43:45,01:38:00,00:04:06,00:04:20,04:52:12
+ironman-70.3-italy-20140601.csv,1115,Luca Scapin,46,italia,ITA,00:28:23,02:57:08,01:39:52,00:06:32,00:07:07,05:19:02
+ironman-70.3-italy-20140601.csv,1116,Enrico Scattolin,48,ITALIA,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1117,Giovanni Segato,48,italy,ITA,00:27:54,03:18:29,01:48:23,00:07:07,00:05:42,05:47:35
+ironman-70.3-italy-20140601.csv,1118,Massimo Soccio,44,---,ITA,00:33:18,02:52:27,02:08:35,00:05:44,00:04:47,05:44:51
+ironman-70.3-italy-20140601.csv,1119,Pietro Sodani,46,---,ITA,00:30:52,03:35:59,02:06:21,00:09:02,00:08:36,06:30:50
+ironman-70.3-italy-20140601.csv,1120,Alessandro Specchio,45,MI,ITA,00:27:36,03:35:37,02:11:08,00:08:54,00:06:19,06:29:34
+ironman-70.3-italy-20140601.csv,1121,Fabrizio Stagni,48,Italia,ITA,00:19:10,02:52:41,01:42:01,00:03:52,00:04:43,05:02:27
+ironman-70.3-italy-20140601.csv,1122,Andrea Storchi,48,Modena,ITA,00:29:55,02:54:01,02:06:08,00:05:28,00:05:21,05:40:53
+ironman-70.3-italy-20140601.csv,1123,Alexey Suraga,47,---,RUS,00:30:07,02:54:17,02:01:32,00:04:55,00:05:27,05:36:18
+ironman-70.3-italy-20140601.csv,1124,Angel Taioli,44,---,VEN,00:24:00,02:42:07,01:49:04,00:04:30,00:04:16,05:03:57
+ironman-70.3-italy-20140601.csv,1125,Mauro Talamonti,45,APO,ITA,00:30:20,03:07:15,02:15:16,00:05:29,00:05:35,06:03:55
+ironman-70.3-italy-20140601.csv,1126,Gabriel Tamburini,45,---,ITA,00:26:12,02:49:15,01:44:42,00:03:42,00:04:22,05:08:13
+ironman-70.3-italy-20140601.csv,1127,Riccardo Torre,44,Italia,ITA,00:22:34,02:48:42,01:35:00,00:04:53,00:04:25,04:55:34
+ironman-70.3-italy-20140601.csv,1128,Roberto Tortolina,45,---,ITA,00:27:28,03:06:37,02:06:37,00:05:41,00:07:51,05:54:14
+ironman-70.3-italy-20140601.csv,1129,Moreno Tortolina,48,---,ITA,00:27:40,02:55:47,02:05:55,00:06:10,00:07:28,05:43:00
+ironman-70.3-italy-20140601.csv,1130,Stefano Tosi,45,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1131,Tonino Tundo,49,CH,CHE,00:20:12,02:34:56,01:24:19,00:04:34,00:04:23,04:28:24
+ironman-70.3-italy-20140601.csv,1132,Claudio Vesponi,45,milano,ITA,00:27:33,02:48:16,01:50:16,00:04:48,00:05:28,05:16:21
+ironman-70.3-italy-20140601.csv,1133,Fabrizio Vignali,49,ITALIA,ITA,00:30:56,03:06:09,02:04:26,00:05:09,00:05:54,05:52:34
+ironman-70.3-italy-20140601.csv,1134,Massimiliano Villa,46,---,ITA,00:27:01,02:48:15,01:36:55,00:05:33,00:05:27,05:03:11
+ironman-70.3-italy-20140601.csv,1135,Christopher Walton,49,---,USA,---,---,---,---,---,DQ
+ironman-70.3-italy-20140601.csv,1136,Max Runner,46,---,ITA,00:34:34,02:48:34,01:43:27,00:06:25,00:06:01,05:19:01
+ironman-70.3-italy-20140601.csv,1137,Marzio Zanato,49,PD,ITA,00:30:10,02:59:31,01:42:41,00:07:24,00:05:09,05:24:55
+ironman-70.3-italy-20140601.csv,1138,Nicola Zardini,47,Other,ITA,00:22:13,02:50:04,01:33:44,00:03:46,00:04:07,04:53:54
+ironman-70.3-italy-20140601.csv,1139,Massimo Zocche,48,ITA,ITA,00:25:29,03:18:34,01:59:41,00:06:16,00:06:49,05:56:49
+ironman-70.3-italy-20140601.csv,1140,Filippo Zucchetti,46,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1141,Ivan Umek,49,---,BEL,00:24:03,03:30:00,02:31:46,00:06:56,00:07:00,06:39:45
+ironman-70.3-italy-20140601.csv,1142,Marco Gattei,45,MB,ITA,00:25:30,03:09:18,01:55:59,00:08:36,00:07:45,05:47:08
+ironman-70.3-italy-20140601.csv,1143,Christoph Erath,46,---,AUT,00:23:26,02:37:47,01:31:37,00:03:35,00:04:06,04:40:31
+ironman-70.3-italy-20140601.csv,1144,Timur Shimanovskiy,47,State,RUS,00:23:18,02:39:57,01:25:54,00:03:17,00:04:31,04:36:57
+ironman-70.3-italy-20140601.csv,1145,Alexander Yakovenko,---,---,RUS,00:25:35,02:49:21,01:36:23,00:05:25,00:05:22,05:02:06
+ironman-70.3-italy-20140601.csv,1146,Silvano Sibilio,48,---,ITA,00:23:46,02:42:35,01:46:43,00:04:23,00:05:11,05:02:38
+ironman-70.3-italy-20140601.csv,1147,Antonio Umberto Guidotti,49,ITA,ITA,00:30:45,03:23:14,02:03:36,00:06:05,00:06:20,06:10:00
+ironman-70.3-italy-20140601.csv,1148,Davide Risina,45,---,ITA,00:31:33,03:34:05,02:00:57,00:08:41,00:07:02,06:22:18
+ironman-70.3-italy-20140601.csv,1149,Stefano Baghino,47,---,ITA,00:18:21,02:48:31,01:26:24,00:05:25,00:04:44,04:43:25
+ironman-70.3-italy-20140601.csv,1150,Fabrizio Terrinoni,45,Intl State,ITA,00:23:27,02:42:07,01:33:52,00:03:18,00:03:26,04:46:10
+ironman-70.3-italy-20140601.csv,1151,Marco Fabbri,46,italia,ITA,00:24:40,02:38:50,01:59:24,00:05:27,00:05:08,05:13:29
+ironman-70.3-italy-20140601.csv,1152,Filippo Baravelli,45,Italia,ITA,00:28:08,03:00:25,01:42:33,00:06:04,00:06:06,05:23:16
+ironman-70.3-italy-20140601.csv,1153,Sergio Pattini,47,Italia,ITA,00:18:25,03:05:16,01:54:13,00:04:46,00:06:39,05:29:19
+ironman-70.3-italy-20140601.csv,1154,Enio Crisante,46,PESCARA,ITA,00:26:11,02:58:30,02:01:43,00:05:02,00:04:52,05:36:18
+ironman-70.3-italy-20140601.csv,1155,Giampiero Cicero,49,---,ITA,00:26:18,03:00:17,02:38:31,00:07:44,00:06:14,06:19:04
+ironman-70.3-italy-20140601.csv,1156,Giovanni Canapini,48,Italia,ITA,00:20:12,02:35:02,01:34:25,00:03:12,00:03:28,04:36:19
+ironman-70.3-italy-20140601.csv,1157,Massimo Gigante,46,---,ITA,00:28:34,02:58:12,02:07:06,00:07:44,00:07:33,05:49:09
+ironman-70.3-italy-20140601.csv,1158,Pierantonio Daniele,46,SIENA,ITA,00:22:44,02:36:56,01:44:53,00:04:54,00:04:18,04:53:45
+ironman-70.3-italy-20140601.csv,1159,Guido Pasqualini,48,Bologna,ITA,00:22:12,02:39:04,01:26:07,00:03:15,00:03:25,04:34:03
+ironman-70.3-italy-20140601.csv,1160,Francesco Cincelli,45,Intl State,ITA,00:20:06,04:36:58,---,00:03:18,---,DNF
+ironman-70.3-italy-20140601.csv,1161,Paolo Martini,45,---,ITA,00:22:45,02:51:37,01:44:35,00:04:59,00:05:01,05:08:57
+ironman-70.3-italy-20140601.csv,1162,Enrico Pella,46,---,ITA,00:23:43,02:43:48,01:44:13,00:04:38,00:03:45,05:00:07
+ironman-70.3-italy-20140601.csv,1163,Gabriele Salvatorelli,49,---,ITA,00:22:36,02:52:28,01:50:39,00:05:47,00:05:13,05:16:43
+ironman-70.3-italy-20140601.csv,1164,Leonardo Nocentini,47,firenze,ITA,00:27:30,02:28:48,01:19:53,00:03:47,00:03:22,04:23:20
+ironman-70.3-italy-20140601.csv,1165,Antonio Liconti,---,---,ITA,00:36:11,03:03:51,02:04:38,00:09:11,00:06:55,06:00:46
+ironman-70.3-italy-20140601.csv,1166,Marc Albert D Hooge,48,Luxembourg,LUX,00:23:59,02:38:13,01:37:16,00:06:39,00:04:44,04:50:51
+ironman-70.3-italy-20140601.csv,1167,Richard Neulaender,45,Wilts,GBR,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1168,Paolo Santagostino,49,---,ITA,00:29:32,02:57:27,01:49:48,00:07:41,00:07:41,05:32:09
+ironman-70.3-italy-20140601.csv,1169,Guido Camerano,---,---,ITA,00:36:35,03:38:16,02:10:25,00:07:03,00:06:15,06:38:34
+ironman-70.3-italy-20140601.csv,1170,Mario Daidone,47,---,ITA,00:27:01,02:46:44,01:41:12,00:06:54,00:04:47,05:06:38
+ironman-70.3-italy-20140601.csv,1171,Alberto Astore,---,---,ITA,00:21:36,02:54:53,01:44:39,00:04:13,00:04:22,05:09:43
+ironman-70.3-italy-20140601.csv,1172,Alberto Diodato,46,ITA,ITA,00:31:04,03:31:20,02:08:33,00:06:55,00:07:05,06:24:57
+ironman-70.3-italy-20140601.csv,1173,Andrea Broglia,47,---,ITA,00:20:27,03:12:23,02:02:53,00:05:20,00:07:49,05:48:52
+ironman-70.3-italy-20140601.csv,1174,Achille Crisante,---,---,ITA,00:23:13,02:52:23,02:05:20,00:05:26,00:04:39,05:31:01
+ironman-70.3-italy-20140601.csv,1175,Glauco Monti,44,ita,ITA,00:30:52,03:31:11,02:05:38,00:07:45,00:08:35,06:24:01
+ironman-70.3-italy-20140601.csv,1176,Giuliano Vitale,48,IT,ITA,00:28:12,02:46:11,01:37:37,00:04:42,00:04:41,05:01:23
+ironman-70.3-italy-20140601.csv,1177,Normann Salomo,45,DE,DEU,00:30:11,02:45:00,01:34:07,00:05:28,00:04:49,04:59:35
+ironman-70.3-italy-20140601.csv,1178,Gianalberto Vietti,49,---,ITA,00:20:53,02:39:06,01:48:22,00:05:16,00:05:03,04:58:40
+ironman-70.3-italy-20140601.csv,1179,David Edwards,48,---,GBR,00:32:27,03:10:56,02:08:08,00:06:22,00:07:31,06:05:24
+ironman-70.3-italy-20140601.csv,1180,Mark Pringle,49,Herts,GBR,00:31:20,03:01:00,01:52:54,00:06:36,00:08:20,05:40:10
+ironman-70.3-italy-20140601.csv,1181,Luca Della Porta,45,---,ITA,00:20:52,02:49:35,01:44:09,00:05:41,00:04:25,05:04:42
+ironman-70.3-italy-20140601.csv,1182,Nicola Brunelli,47,brescia,ITA,00:28:12,03:07:34,01:56:33,00:06:50,00:05:56,05:45:05
+ironman-70.3-italy-20140601.csv,1183,Francesco Grillo,49,---,ITA,00:33:05,03:08:47,01:49:52,00:07:34,00:05:57,05:45:15
+ironman-70.3-italy-20140601.csv,1184,Lucio Camarra,---,---,ITA,00:34:13,02:54:46,02:02:33,00:05:44,00:04:54,05:42:10
+ironman-70.3-italy-20140601.csv,1185,Corrado Pellegrino,48,Cuneo,ITA,00:27:18,03:02:50,01:46:30,00:04:37,00:07:46,05:29:01
+ironman-70.3-italy-20140601.csv,1186,Vittorio Tritto,---,---,ITA,00:27:24,03:06:25,02:14:08,00:06:10,00:06:01,06:00:08
+ironman-70.3-italy-20140601.csv,1187,Adriano Pozzi,---,---,ITA,00:28:01,03:01:21,01:52:23,00:05:20,00:04:29,05:31:34
+ironman-70.3-italy-20140601.csv,1188,Piero Di Cioccio,---,---,ITA,00:33:25,02:50:10,01:48:30,00:05:54,00:08:20,05:26:19
+ironman-70.3-italy-20140601.csv,1189,Andrea Verlato,48,---,ITA,00:33:20,02:55:08,01:43:22,00:05:45,00:06:19,05:23:54
+ironman-70.3-italy-20140601.csv,1190,Pietro Rallo,46,Italia,ITA,00:21:39,02:51:37,01:50:29,00:03:54,00:04:44,05:12:23
+ironman-70.3-italy-20140601.csv,1191,Marco Carrelli,45,bergamo,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1192,Carlo Romagnano,---,---,ITA,00:21:33,02:59:16,01:23:29,00:04:49,00:04:05,04:53:12
+ironman-70.3-italy-20140601.csv,1193,Stefano Bonino,---,---,ITA,00:28:41,03:14:29,01:48:41,00:07:47,00:07:01,05:46:39
+ironman-70.3-italy-20140601.csv,1194,Francesco Antonioli,---,---,ITA,00:21:40,02:49:47,01:56:27,00:04:50,00:06:12,05:18:56
+ironman-70.3-italy-20140601.csv,1195,Vittorio Sgromo,46,firenze,ITA,00:23:26,02:55:02,01:56:43,00:06:13,00:06:12,05:27:36
+ironman-70.3-italy-20140601.csv,1196,Alessandro Mattioli,46,---,ITA,00:21:46,02:43:51,01:32:58,00:04:59,00:05:27,04:49:01
+ironman-70.3-italy-20140601.csv,1197,Rodolfo Tagliabue,48,italia,ITA,00:27:34,02:57:15,01:52:55,00:04:43,00:04:47,05:27:14
+ironman-70.3-italy-20140601.csv,1198,Giuseppe Chiappini,---,---,ITA,00:21:41,02:55:32,01:43:45,00:04:37,00:04:12,05:09:47
+ironman-70.3-italy-20140601.csv,1199,Alessio Sabalich,44,AP,ITA,00:22:38,02:40:33,01:48:26,00:05:48,00:04:15,05:01:40
+ironman-70.3-italy-20140601.csv,1200,Massimo Romandini,---,---,ITA,00:23:43,02:37:42,01:32:54,00:07:31,00:04:54,04:46:44
+ironman-70.3-italy-20140601.csv,1201,Vito Alexander Di Latte,---,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1202,Giovanni Amico,45,ITA,ITA,00:25:08,02:45:38,01:44:31,00:04:45,00:04:32,05:04:34
+ironman-70.3-italy-20140601.csv,1203,Nicola Andreella,46,VR,ITA,00:21:46,03:13:54,02:43:05,00:09:29,00:10:40,06:38:54
+ironman-70.3-italy-20140601.csv,1204,Franco Pantoli,46,Te,ITA,00:22:39,02:41:30,01:30:06,00:06:14,00:04:16,04:44:45
+ironman-70.3-italy-20140601.csv,1205,Antonio Pagliacci,44,Ascoli Piceno,ITA,00:21:40,02:33:00,01:33:51,00:04:04,00:04:03,04:36:38
+ironman-70.3-italy-20140601.csv,1206,Emidio Morganti,47,ITA,ITA,00:26:42,03:15:25,02:18:57,00:09:55,00:12:30,06:23:29
+ironman-70.3-italy-20140601.csv,1207,Carlo Alberto Lapponi,48,---,ITA,00:30:47,03:10:57,02:06:07,00:05:48,00:08:02,06:01:41
+ironman-70.3-italy-20140601.csv,1208,Serafino Caggiano,45,italia,ITA,00:27:04,03:18:16,02:18:36,00:07:58,00:07:49,06:19:43
+ironman-70.3-italy-20140601.csv,1209,Giovanni Susini,45,ita,ITA,00:26:24,03:26:16,02:06:12,00:07:41,00:06:16,06:12:49
+ironman-70.3-italy-20140601.csv,1210,Emanuelito Catalini,48,AP,ITA,00:27:52,03:43:17,01:57:16,00:06:42,00:11:27,06:26:34
+ironman-70.3-italy-20140601.csv,1211,Marco Acerbis,40,Bergamo,ITA,00:27:33,02:57:48,01:34:07,00:05:47,00:06:14,05:11:29
+ironman-70.3-italy-20140601.csv,1212,Nicola Ancarani,42,Italy,ITA,00:23:57,03:20:22,02:24:02,00:07:21,00:08:25,06:24:07
+ironman-70.3-italy-20140601.csv,1213,Francesco Andrisani,42,Italia,ITA,00:20:58,02:53:13,01:46:10,00:05:18,00:05:00,05:10:39
+ironman-70.3-italy-20140601.csv,1214,Ivano Antelmi,42,---,ITA,00:20:43,02:44:11,01:41:19,00:04:13,00:05:03,04:55:29
+ironman-70.3-italy-20140601.csv,1215,Ignazio Antonacci,40,ITALY,ITA,00:23:49,02:46:14,01:33:18,00:05:03,00:03:47,04:52:11
+ironman-70.3-italy-20140601.csv,1216,Daniele Arcari,44,Brescia,ITA,00:23:06,02:54:26,01:45:21,00:04:00,00:04:08,05:11:01
+ironman-70.3-italy-20140601.csv,1217,Davide Balduzzi,43,italia,ITA,00:24:03,02:54:38,01:39:48,00:04:56,00:04:24,05:07:49
+ironman-70.3-italy-20140601.csv,1218,Federico Banti,44,Intl State,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1219,Gianmatteo Barbieri,42,---,ITA,00:24:47,03:17:48,01:54:36,00:08:32,00:07:13,05:52:56
+ironman-70.3-italy-20140601.csv,1220,Alessandro Baroni,39,---,ITA,00:28:51,03:09:43,01:57:27,00:04:02,00:04:08,05:44:11
+ironman-70.3-italy-20140601.csv,1221,Andrea Barontini,40,italy,ITA,00:23:56,02:42:54,01:35:22,00:03:48,00:04:05,04:50:05
+ironman-70.3-italy-20140601.csv,1222,Omar Battistoni,42,---,ITA,00:23:02,02:39:53,02:12:30,00:05:11,00:05:19,05:25:55
+ironman-70.3-italy-20140601.csv,1223,Luis Bazan Fernandez,41,APO,ESP,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1224,Giacomo Becchetti,43,italia,ITA,00:29:28,02:54:25,01:41:20,00:04:53,00:04:01,05:14:07
+ironman-70.3-italy-20140601.csv,1225,Massimo Belotti,39,BS,ITA,00:23:14,02:34:41,01:38:11,00:03:54,00:03:46,04:43:46
+ironman-70.3-italy-20140601.csv,1226,Davide Benetton,39,TV,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1227,Luca Benvenuti,41,---,ITA,00:21:22,02:49:40,01:35:42,00:04:26,00:03:57,04:55:07
+ironman-70.3-italy-20140601.csv,1228,Massimo Berdusco,43,ROMA,ITA,00:29:37,03:55:41,02:11:18,00:08:52,00:05:58,06:51:26
+ironman-70.3-italy-20140601.csv,1229,Massimo Beretta,41,mi,ITA,00:23:51,02:42:08,01:26:28,00:04:23,00:03:22,04:40:12
+ironman-70.3-italy-20140601.csv,1230,Mauro Bernardi,39,Cuneo,ITA,00:22:49,02:56:38,01:33:38,00:05:08,00:05:20,05:03:33
+ironman-70.3-italy-20140601.csv,1231,Marco Bernardi,40,Italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1232,Claudio Bernasconi,39,---,ITA,00:21:22,03:14:28,01:58:33,00:07:31,00:06:00,05:47:54
+ironman-70.3-italy-20140601.csv,1233,Andrea Bertarini,43,---,ITA,00:23:15,02:35:40,01:41:04,00:04:32,00:04:13,04:48:44
+ironman-70.3-italy-20140601.csv,1234,Carlo Bettonica,39,---,ITA,00:24:52,02:58:36,01:41:55,00:08:11,00:05:54,05:19:28
+ironman-70.3-italy-20140601.csv,1235,Simone Blasetti,39,Italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1236,Massimo Bollati,43,italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1237,Fabio Bonfa,40,Italia,ITA,00:29:10,03:08:57,02:05:44,00:05:06,00:07:22,05:56:19
+ironman-70.3-italy-20140601.csv,1238,Walter Bonfanti,41,lecco,ITA,00:22:43,03:14:42,02:08:44,00:05:09,00:05:03,05:56:21
+ironman-70.3-italy-20140601.csv,1239,Francesco Bordegari,39,---,ITA,00:23:39,03:18:25,01:58:11,00:09:12,00:07:48,05:57:15
+ironman-70.3-italy-20140601.csv,1240,Mathias Braun,43,DE,DEU,00:20:55,02:46:59,01:47:39,00:03:43,00:03:31,05:02:47
+ironman-70.3-italy-20140601.csv,1241,Stefano Bresolin,41,Italia,ITA,00:23:38,02:33:14,01:40:28,00:04:52,00:03:51,04:46:03
+ironman-70.3-italy-20140601.csv,1242,Davide Bresquar,44,Italia,ITA,00:21:39,02:36:08,01:34:51,00:05:00,00:04:41,04:42:19
+ironman-70.3-italy-20140601.csv,1243,Giancarlo Briganti,41,Italia,ITA,00:24:37,03:06:35,02:16:07,00:06:46,00:04:54,05:58:59
+ironman-70.3-italy-20140601.csv,1244,Giuseppe Burini,41,Bg,ITA,00:23:12,02:43:08,02:00:39,00:05:30,00:05:25,05:17:54
+ironman-70.3-italy-20140601.csv,1245,Enrico Busatto,41,Other,ITA,00:22:40,02:32:07,01:26:28,00:03:50,00:03:09,04:28:14
+ironman-70.3-italy-20140601.csv,1246,Alessandro Camerlengo,43,ITA,ITA,00:28:38,02:54:15,01:56:03,00:06:04,00:05:44,05:30:44
+ironman-70.3-italy-20140601.csv,1247,Fabio Cappelluti,41,PESCARA,ITA,00:24:00,02:53:21,01:59:42,00:04:12,00:05:00,05:26:15
+ironman-70.3-italy-20140601.csv,1248,Christian Carbone,40,---,ITA,00:31:55,03:45:07,02:32:30,00:06:22,00:07:01,07:02:55
+ironman-70.3-italy-20140601.csv,1249,Matteo Carminati,41,BG,ITA,00:30:42,03:01:16,02:16:47,00:07:19,00:08:21,06:04:25
+ironman-70.3-italy-20140601.csv,1250,Daniele Carraro,40,---,ITA,00:25:37,03:18:49,02:02:39,00:08:21,00:05:12,06:00:38
+ironman-70.3-italy-20140601.csv,1251,Andrea Cecchinato,42,---,ITA,00:22:42,02:56:20,01:55:50,00:03:51,00:05:14,05:23:57
+ironman-70.3-italy-20140601.csv,1252,Luigi Cerasoli,43,ITA,ITA,00:22:57,03:11:44,01:59:00,00:04:24,00:04:32,05:42:37
+ironman-70.3-italy-20140601.csv,1253,Matteo Cermusoni,40,italy,ITA,00:23:19,02:59:46,01:54:10,00:05:09,00:08:28,05:30:52
+ironman-70.3-italy-20140601.csv,1254,Fabio Chiariello,39,---,ITA,00:23:26,02:46:52,01:46:39,00:05:52,00:05:11,05:08:00
+ironman-70.3-italy-20140601.csv,1255,Alberto Cicalini,41,APO,ITA,00:23:25,02:40:28,01:33:38,00:04:18,00:03:29,04:45:18
+ironman-70.3-italy-20140601.csv,1256,Graziano Cichetti,39,---,ITA,00:23:35,03:00:12,02:09:28,00:05:59,00:08:14,05:47:28
+ironman-70.3-italy-20140601.csv,1257,Fabio Cinotti,43,Intl State,VEN,00:24:14,03:18:05,02:10:56,00:07:09,00:05:42,06:06:06
+ironman-70.3-italy-20140601.csv,1258,Lee Clark,41,---,GBR,00:24:43,02:58:21,01:52:54,00:04:12,00:05:24,05:25:34
+ironman-70.3-italy-20140601.csv,1259,Philip Coetzer,41,Free State,ZAF,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1260,Dario Conforti,41,---,ITA,00:21:54,03:02:24,01:51:28,00:05:32,00:04:25,05:25:43
+ironman-70.3-italy-20140601.csv,1261,Bram Connolly,40,---,ARE,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1262,Simone Conti,44,---,ITA,00:26:20,02:51:57,01:41:39,00:05:33,00:04:18,05:09:47
+ironman-70.3-italy-20140601.csv,1263,Henry Cook,40,---,GBR,00:21:31,02:36:31,01:44:27,00:04:02,00:04:04,04:50:35
+ironman-70.3-italy-20140601.csv,1264,Raffaello Corradini,41,---,ITA,00:22:46,02:54:04,01:56:15,00:06:09,00:07:05,05:26:19
+ironman-70.3-italy-20140601.csv,1265,enrico cortellazzi,40,brescia,ITA,00:20:39,02:35:17,01:28:48,00:04:21,00:03:34,04:32:39
+ironman-70.3-italy-20140601.csv,1266,Maurizio Corvacchiola,44,Chieti,ITA,00:26:03,03:07:12,02:45:27,00:03:14,00:08:15,06:30:11
+ironman-70.3-italy-20140601.csv,1268,Gianluca Crespi,43,italia,ITA,00:23:48,03:00:49,01:42:49,00:05:39,00:04:39,05:17:44
+ironman-70.3-italy-20140601.csv,1269,Marco Cucinelli,40,ITA,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1270,Andrea D'Agati,40,---,ITA,00:31:17,03:24:27,02:02:36,00:05:46,00:04:26,06:08:32
+ironman-70.3-italy-20140601.csv,1271,Omar Dal Ben,39,---,ITA,00:23:45,02:54:35,02:11:29,00:06:10,00:07:14,05:43:13
+ironman-70.3-italy-20140601.csv,1272,Pasqualino D'Alonzo,43,Italia,ITA,00:24:54,02:58:03,01:53:05,00:04:41,00:04:32,05:25:15
+ironman-70.3-italy-20140601.csv,1273,Cristiano Antonio Dani,44,italy,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1274,Giuseppe De Caro,44,---,ITA,00:24:07,03:22:24,01:47:08,00:04:58,00:03:59,05:42:36
+ironman-70.3-italy-20140601.csv,1275,Sergio De Cillis,42,Other,ITA,00:23:53,03:01:15,01:49:23,00:05:02,00:04:42,05:24:15
+ironman-70.3-italy-20140601.csv,1276,Alessandro De Fanis,40,Italia,ITA,00:24:52,03:28:23,02:25:31,00:07:03,00:07:38,06:33:27
+ironman-70.3-italy-20140601.csv,1277,Giuliano De Santis,43,Italia,ITA,00:23:20,02:55:49,02:17:39,00:05:40,00:08:57,05:51:25
+ironman-70.3-italy-20140601.csv,1278,Martino Del Mastro,40,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1279,Erik Delagarza,42,NC,USA,00:30:58,03:00:48,01:47:09,00:05:56,00:06:53,05:31:44
+ironman-70.3-italy-20140601.csv,1280,Mirko D'Ettorre,40,PE,ITA,00:18:57,02:52:54,02:03:48,00:07:10,00:05:09,05:27:58
+ironman-70.3-italy-20140601.csv,1281,Michele Di Bello,43,ITALIA,ITA,00:23:42,03:05:54,02:08:26,00:05:40,00:05:23,05:49:05
+ironman-70.3-italy-20140601.csv,1282,Moreno Di Labio,43,Italia,ITA,00:23:50,02:53:51,01:49:15,00:06:26,00:06:29,05:19:51
+ironman-70.3-italy-20140601.csv,1283,Matteo Di Martino,42,ITA,ITA,00:22:54,02:57:36,01:49:21,00:04:55,00:04:30,05:19:16
+ironman-70.3-italy-20140601.csv,1284,Maurizio Di Paolo,42,---,ITA,00:25:08,02:37:48,01:30:57,00:05:57,00:04:32,04:44:22
+ironman-70.3-italy-20140601.csv,1285,Carlo Di Stefano,44,Celibe,ITA,00:23:42,02:49:44,01:34:33,00:05:31,00:05:27,04:58:57
+ironman-70.3-italy-20140601.csv,1286,Fabio Di Tieri,41,Italia,ITA,00:24:20,03:14:37,02:17:39,00:06:58,00:07:03,06:10:37
+ironman-70.3-italy-20140601.csv,1287,Andrea Di Vincenzo,41,---,ITA,00:32:18,03:06:17,01:57:46,00:06:39,00:07:33,05:50:33
+ironman-70.3-italy-20140601.csv,1288,Thomas Ditt,39,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1289,Stefano Dominici,42,Italy,ITA,00:29:08,02:59:56,02:06:23,00:05:09,00:05:44,05:46:20
+ironman-70.3-italy-20140601.csv,1290,Declan Doyle,41,---,IRL,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1291,Daren Elliott,41,ES,GBR,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1292,Riccardo Erbetti,39,Italia,ITA,00:22:03,02:41:50,01:42:32,00:04:21,00:05:03,04:55:49
+ironman-70.3-italy-20140601.csv,1293,Gennaro Esposito,40,---,ITA,00:26:03,03:11:47,01:44:39,00:06:49,00:05:51,05:35:09
+ironman-70.3-italy-20140601.csv,1294,Luca Fabbri,43,Italia,ITA,00:24:05,02:39:11,01:44:21,00:05:23,00:05:03,04:58:03
+ironman-70.3-italy-20140601.csv,1295,Massimo Fabbri,43,RN,ITA,00:25:55,02:52:14,01:48:20,00:10:43,00:09:04,05:26:16
+ironman-70.3-italy-20140601.csv,1296,Marco  Valerio Facchini,40,Roma,ITA,00:21:17,02:53:45,01:53:58,00:04:35,00:07:34,05:21:09
+ironman-70.3-italy-20140601.csv,1297,Giulio Fazio,43,rm,ITA,00:23:15,02:58:32,01:49:19,00:05:29,00:03:57,05:20:32
+ironman-70.3-italy-20140601.csv,1298,Ivan Fedenev,---,---,RUS,00:25:25,03:25:48,02:22:05,00:06:17,00:10:17,06:29:52
+ironman-70.3-italy-20140601.csv,1299,Angelo Ferente,39,Italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1300,Fabio Ferrari,42,ITALIA\,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1301,Luigi Ferretti,43,italia,ITA,00:23:40,02:50:44,01:41:54,00:04:51,00:03:51,05:05:00
+ironman-70.3-italy-20140601.csv,1302,Ambre Ferrini,44,---,FRA,00:24:41,03:01:36,01:45:56,00:08:13,00:08:26,05:28:52
+ironman-70.3-italy-20140601.csv,1303,Andrea Fiorini,39,italia,ITA,00:26:46,02:53:07,02:01:07,00:04:25,00:04:37,05:30:02
+ironman-70.3-italy-20140601.csv,1304,Simone Forlani,39,Pavia,ITA,00:19:59,02:26:27,01:27:46,00:03:22,00:03:44,04:21:18
+ironman-70.3-italy-20140601.csv,1305,Ornello Formenti,40,Monza e Brianza,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1306,Emanuele Francella,42,ANCONA,ITA,00:24:55,02:41:26,01:42:37,00:03:52,00:04:02,04:56:52
+ironman-70.3-italy-20140601.csv,1307,Yuji Fujisaki,41,---,JPN,00:30:53,03:21:43,02:08:14,00:05:17,00:05:28,06:11:35
+ironman-70.3-italy-20140601.csv,1308,Filippo Furlanetto,40,Bologna,ITA,00:22:37,02:51:45,01:47:43,00:05:44,00:04:26,05:12:15
+ironman-70.3-italy-20140601.csv,1309,Andrea Francesco Gagliazzo,43,monza e brianza,ITA,00:25:18,03:22:54,02:10:40,00:06:04,00:05:42,06:10:38
+ironman-70.3-italy-20140601.csv,1310,Giuliano Galli,43,ITALY,ITA,00:31:03,03:23:31,02:03:40,00:07:16,00:09:30,06:15:00
+ironman-70.3-italy-20140601.csv,1311,Nicolas Galliano,40,---,CHE,00:21:48,02:46:20,01:52:05,00:05:32,00:05:52,05:11:37
+ironman-70.3-italy-20140601.csv,1312,Dimitri Gallo,43,Pescara,ITA,00:25:10,03:13:58,01:55:36,00:05:46,00:05:27,05:45:57
+ironman-70.3-italy-20140601.csv,1313,Massimo Gambarana,40,IT,ITA,00:23:34,02:55:54,01:48:07,00:05:09,00:04:52,05:17:36
+ironman-70.3-italy-20140601.csv,1314,Simone Gandolfi,41,APO,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1315,Valerio Gangai,43,ITALIA,ITA,00:21:55,03:01:58,01:47:11,00:05:52,00:06:00,05:22:56
+ironman-70.3-italy-20140601.csv,1316,Alessandro Garbi,42,Como,ITA,00:23:57,02:39:59,02:06:47,00:06:16,00:04:36,05:21:35
+ironman-70.3-italy-20140601.csv,1317,Giuliano Gentile,43,Italia,ITA,00:22:45,03:20:53,02:02:03,00:06:39,00:06:45,05:59:05
+ironman-70.3-italy-20140601.csv,1318,Radoslav Gerhat,40,---,SVK,00:23:39,02:52:00,01:44:07,00:04:07,00:04:31,05:08:24
+ironman-70.3-italy-20140601.csv,1319,Fabio Giacalone,43,Italia,ITA,00:21:57,02:49:05,01:39:36,00:04:25,00:03:38,04:58:41
+ironman-70.3-italy-20140601.csv,1320,Giancarlo Zulli,39,---,ITA,00:22:49,02:44:13,01:52:17,00:03:52,00:04:14,05:07:25
+ironman-70.3-italy-20140601.csv,1321,Marco Giudice,42,VA,ITA,00:25:02,03:09:28,02:00:19,00:07:59,00:06:34,05:49:22
+ironman-70.3-italy-20140601.csv,1322,Antonio Gnoni,39,italia,ITA,00:24:56,03:15:38,02:12:27,00:07:55,00:07:30,06:08:26
+ironman-70.3-italy-20140601.csv,1323,Raphaël Granger,39,CH,CHE,00:23:21,02:43:37,01:41:48,00:04:55,00:06:14,04:59:55
+ironman-70.3-italy-20140601.csv,1324,Jonathan Hills,40,UK,GBR,00:29:11,03:25:43,01:57:12,00:09:15,00:06:06,06:07:27
+ironman-70.3-italy-20140601.csv,1325,Massimo Ianni,40,---,ITA,00:30:21,03:15:15,02:05:15,00:08:12,00:06:00,06:05:03
+ironman-70.3-italy-20140601.csv,1326,Fabio Isolato,39,Monza e Brianza,ITA,00:23:33,02:52:36,01:34:53,00:06:05,00:05:57,05:03:04
+ironman-70.3-italy-20140601.csv,1327,Pierre Jeangout,39,BE,BEL,00:23:45,02:39:56,01:35:20,00:05:20,00:05:12,04:49:33
+ironman-70.3-italy-20140601.csv,1328,Satoshi Kanzawa,42,---,JPN,00:27:35,03:20:34,02:04:24,00:08:00,00:08:57,06:09:30
+ironman-70.3-italy-20140601.csv,1329,Luca La Ciura Vicuna,40,---,ITA,00:24:04,03:18:28,01:49:13,00:06:24,00:08:37,05:46:46
+ironman-70.3-italy-20140601.csv,1330,Fabrizio La Pera,43,---,ITA,00:21:41,03:00:49,01:59:38,00:04:46,00:03:24,05:30:18
+ironman-70.3-italy-20140601.csv,1331,Nicola Lancerin,40,Vi,ITA,00:36:44,03:08:44,01:56:34,00:05:57,00:06:40,05:54:39
+ironman-70.3-italy-20140601.csv,1332,Lucio Lanterna,43,---,ITA,00:24:16,03:13:04,01:52:58,00:09:49,00:06:09,05:46:16
+ironman-70.3-italy-20140601.csv,1333,Diego Lazzarin,42,IT,ITA,00:25:04,03:07:49,01:45:27,00:05:06,00:05:16,05:28:42
+ironman-70.3-italy-20140601.csv,1334,Nilton Leite,40,São Paulo,BRA,00:34:35,03:24:49,01:43:55,00:06:56,00:04:48,05:55:03
+ironman-70.3-italy-20140601.csv,1335,Athos Lerpini,41,---,ITA,00:23:54,02:54:54,02:07:57,00:04:58,00:06:06,05:37:49
+ironman-70.3-italy-20140601.csv,1336,Massimiliano Lerza,43,italia,ITA,00:23:21,02:54:24,01:35:07,00:06:47,00:05:06,05:04:45
+ironman-70.3-italy-20140601.csv,1337,Luca Listorti,40,PE,ITA,00:20:42,02:46:05,01:52:52,00:03:35,00:04:03,05:07:17
+ironman-70.3-italy-20140601.csv,1338,Alessandro Claudio Longhi,39,RM,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1339,Luca Ripamonti,44,IT,ITA,00:25:26,03:25:38,02:00:41,00:11:16,00:10:59,06:14:00
+ironman-70.3-italy-20140601.csv,1340,Jan Ole Luuk,42,---,DEU,00:24:07,02:35:59,01:29:37,00:05:42,00:05:16,04:40:41
+ironman-70.3-italy-20140601.csv,1341,Daniele Mancini,43,Milano,ITA,00:21:39,02:57:41,01:53:23,00:04:57,00:04:26,05:22:06
+ironman-70.3-italy-20140601.csv,1342,Baldassare Mantova,42,APO,ITA,00:23:11,02:51:14,01:41:19,00:05:03,00:05:16,05:06:03
+ironman-70.3-italy-20140601.csv,1343,Serafino Marchese,41,Italia,ITA,00:29:05,03:25:30,02:23:56,00:07:56,00:08:46,06:35:13
+ironman-70.3-italy-20140601.csv,1344,Roberto Martorana,43,ITALIA,ITA,00:28:49,03:14:10,02:16:16,00:05:51,00:04:42,06:09:48
+ironman-70.3-italy-20140601.csv,1345,Christian Masala,40,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1346,Luca Massetti,41,RM,ITA,00:23:15,02:45:44,01:29:12,00:05:32,00:03:39,04:47:22
+ironman-70.3-italy-20140601.csv,1347,James Massey,43,---,GBR,00:25:14,02:56:41,01:56:19,00:05:33,00:04:41,05:28:28
+ironman-70.3-italy-20140601.csv,1348,Stefano Matalucci,40,Milano,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1349,David Mattei,41,Siena,ITA,00:23:21,02:55:54,01:43:14,00:04:42,00:04:08,05:11:19
+ironman-70.3-italy-20140601.csv,1350,Vito Mecca,42,---,ITA,00:24:04,02:54:41,02:09:52,00:05:38,00:06:48,05:41:03
+ironman-70.3-italy-20140601.csv,1351,Davide Meda,42,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1352,Luigi Melasecca,42,Italia,ITA,00:23:21,02:42:18,01:42:03,00:04:58,00:03:58,04:56:38
+ironman-70.3-italy-20140601.csv,1353,Massimiliano Melloni,43,bologna,ITA,00:30:12,03:25:53,02:25:15,00:04:50,00:05:44,06:31:54
+ironman-70.3-italy-20140601.csv,1354,Massimo Micciche,43,---,ITA,00:23:16,03:00:32,01:51:24,00:05:10,00:04:08,05:24:30
+ironman-70.3-italy-20140601.csv,1355,Gianbattista Milanesi,41,---,ITA,00:23:49,02:52:56,01:49:05,00:07:01,00:04:43,05:17:34
+ironman-70.3-italy-20140601.csv,1356,Michele Mimmo,41,vi,ITA,00:25:05,03:05:54,01:51:40,00:05:31,00:05:23,05:33:33
+ironman-70.3-italy-20140601.csv,1357,Riccardo Minciotti,43,---,ITA,00:23:20,03:03:22,02:11:45,00:06:32,00:06:00,05:50:59
+ironman-70.3-italy-20140601.csv,1358,Yuri Miroshnichenko,41,LONDON,RUS,00:25:18,03:29:08,02:16:25,00:07:35,00:08:49,06:27:15
+ironman-70.3-italy-20140601.csv,1359,Antonio Mocellin,44,---,ITA,00:22:09,02:52:39,01:42:36,00:04:49,00:05:38,05:07:51
+ironman-70.3-italy-20140601.csv,1360,Kobi Mor,41,---,ISR,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1361,Federico Morbiato,41,ITALIA,ITA,00:27:23,02:47:02,02:13:10,00:06:52,00:07:03,05:41:30
+ironman-70.3-italy-20140601.csv,1362,Ransley Morenas,39,---,GBR,00:23:38,02:58:24,01:44:47,00:05:25,00:04:42,05:16:56
+ironman-70.3-italy-20140601.csv,1363,Brian Mumfrey,40,AE,USA,00:24:15,02:57:34,02:16:53,00:05:40,00:07:36,05:51:58
+ironman-70.3-italy-20140601.csv,1364,Giuseppe Muriana,41,APO,ITA,00:28:49,03:04:04,02:09:51,00:06:03,00:05:34,05:54:21
+ironman-70.3-italy-20140601.csv,1365,Stefano Nanni,41,Milano,ITA,00:26:46,03:12:49,01:46:30,00:05:20,00:04:12,05:35:37
+ironman-70.3-italy-20140601.csv,1366,Marco Neri,41,---,ITA,00:20:08,02:38:05,01:23:24,00:03:38,00:03:22,04:28:37
+ironman-70.3-italy-20140601.csv,1368,Alexandros Nizamis,40,magnesia,GRC,00:21:44,02:52:22,01:42:22,00:06:16,00:04:45,05:07:29
+ironman-70.3-italy-20140601.csv,1369,Andrea Nobile,43,---,ITA,00:21:27,02:43:35,01:32:20,00:05:10,00:04:09,04:46:41
+ironman-70.3-italy-20140601.csv,1370,Luca Nonni,41,arezzo,ITA,00:22:00,03:01:24,01:53:17,00:05:41,00:05:49,05:28:11
+ironman-70.3-italy-20140601.csv,1371,Johnny O'Loughlin,39,Co Clare,IRL,00:24:00,03:07:19,01:59:15,00:06:48,00:07:30,05:44:52
+ironman-70.3-italy-20140601.csv,1372,Valerio Ottaviani,39,Italia,ITA,00:23:30,02:41:49,01:49:43,00:05:27,00:04:10,05:04:39
+ironman-70.3-italy-20140601.csv,1373,Matt Pain,43,---,GBR,00:30:24,03:43:05,02:20:29,00:07:27,00:07:34,06:48:59
+ironman-70.3-italy-20140601.csv,1374,Matteo Papini,41,Italia,ITA,00:24:19,02:58:10,02:14:29,00:05:05,00:05:31,05:47:34
+ironman-70.3-italy-20140601.csv,1375,Claudio Pasini,40,Milano,ITA,00:23:12,02:58:15,01:54:21,00:07:33,00:06:21,05:29:42
+ironman-70.3-italy-20140601.csv,1376,Filippo Pasini,39,Reggio Emilia,ITA,00:25:33,03:11:39,01:52:53,00:05:58,00:04:55,05:40:58
+ironman-70.3-italy-20140601.csv,1377,Antonello Pattara,44,Italia,ITA,00:24:01,02:59:07,01:47:23,00:06:48,00:04:49,05:22:08
+ironman-70.3-italy-20140601.csv,1378,Angelo Perniola,41,BO,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1379,Stefano Persichitti,42,italia,ITA,00:23:03,02:57:12,01:54:50,00:04:38,00:04:00,05:23:43
+ironman-70.3-italy-20140601.csv,1380,Giulio Pertile,41,---,ITA,00:26:18,03:02:06,01:45:09,00:06:39,00:07:01,05:27:13
+ironman-70.3-italy-20140601.csv,1381,Gabriele Pettenuzzo,42,italy,ITA,00:20:22,02:34:14,01:32:07,00:03:57,00:03:32,04:34:12
+ironman-70.3-italy-20140601.csv,1382,Maurizio Piantanida,43,Varese,ITA,00:20:42,02:32:27,01:23:36,00:03:24,00:03:05,04:23:14
+ironman-70.3-italy-20140601.csv,1383,Gianmarco Piazza,42,---,ITA,00:26:30,02:43:55,01:43:31,00:04:41,00:04:38,05:03:15
+ironman-70.3-italy-20140601.csv,1384,Marco Piccolino,43,RM,ITA,00:21:17,02:40:09,01:31:20,00:04:30,00:04:30,04:41:46
+ironman-70.3-italy-20140601.csv,1385,Enrico Piccolo,43,italia,ITA,00:23:19,03:03:26,01:49:43,00:04:17,00:04:14,05:24:59
+ironman-70.3-italy-20140601.csv,1386,Giovanni Pierandrea,41,Roma,ITA,00:23:46,03:16:15,01:49:05,00:05:24,00:04:17,05:38:47
+ironman-70.3-italy-20140601.csv,1387,Giacomo Pieri,41,---,ITA,00:23:06,02:31:21,01:32:54,00:04:13,00:03:31,04:35:05
+ironman-70.3-italy-20140601.csv,1388,Roberto Pintus,44,---,CHE,00:19:10,02:35:52,01:38:01,00:03:47,00:04:16,04:41:06
+ironman-70.3-italy-20140601.csv,1389,Rafal Polanski,43,---,POL,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1390,Borut Poljan¨ek,39,Žiri,SVN,00:21:59,02:39:20,01:34:02,00:04:48,00:04:37,04:44:46
+ironman-70.3-italy-20140601.csv,1391,Tomas Pritasil,41,Czech republic,CZE,00:24:31,02:33:24,01:45:57,00:04:12,00:05:25,04:53:29
+ironman-70.3-italy-20140601.csv,1392,Adriano Proia,39,---,ITA,00:26:11,03:31:36,02:11:25,00:04:46,00:07:27,06:21:25
+ironman-70.3-italy-20140601.csv,1393,Giuseppe Puddu,42,Italia,ITA,00:19:17,02:47:11,01:45:40,00:04:03,00:03:11,04:59:22
+ironman-70.3-italy-20140601.csv,1394,Giuseppe Pulvirenti,41,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1395,Ronan Quentric,42,---,FRA,00:26:17,03:30:53,02:16:07,00:07:59,00:11:08,06:32:24
+ironman-70.3-italy-20140601.csv,1396,Andrea Raffaele,42,Italy,ITA,00:24:14,02:50:26,01:42:55,00:04:43,00:04:43,05:07:01
+ironman-70.3-italy-20140601.csv,1397,Christian Ridolfi,40,---,ITA,00:20:46,02:49:57,01:38:36,00:04:43,00:04:51,04:58:53
+ironman-70.3-italy-20140601.csv,1398,Gian Luca Riontino,40,Italia,ITA,00:22:37,02:42:43,01:33:49,00:04:45,00:03:38,04:47:32
+ironman-70.3-italy-20140601.csv,1399,Marco Roncaglia,40,Italia,ITA,00:20:31,02:30:33,01:30:56,00:03:37,00:03:26,04:29:03
+ironman-70.3-italy-20140601.csv,1400,Malcolm Rose,42,DXB,ARE,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1401,Marco Rossetti,43,---,ITA,00:24:07,02:53:47,01:46:29,00:06:21,00:04:53,05:15:37
+ironman-70.3-italy-20140601.csv,1402,Davide Salsi,43,REGGIO EMILIA,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1403,Paolo Salvan,43,italia,ITA,00:23:58,02:55:35,01:36:45,00:06:06,00:05:42,05:08:06
+ironman-70.3-italy-20140601.csv,1404,Carlo Sanchez,39,AE,USA,00:30:39,03:32:46,02:15:52,00:08:13,00:06:12,06:33:42
+ironman-70.3-italy-20140601.csv,1405,Nicola Sancisi,40,---,ITA,00:29:18,03:15:05,01:38:01,00:06:39,00:05:14,05:34:17
+ironman-70.3-italy-20140601.csv,1406,Andrea Sandrini,39,italia,ITA,00:23:49,02:53:16,01:52:21,00:07:23,00:04:43,05:21:32
+ironman-70.3-italy-20140601.csv,1407,Raphael Sanelli,42,---,GBR,00:23:46,02:53:25,01:37:18,00:04:08,00:03:51,05:02:28
+ironman-70.3-italy-20140601.csv,1408,Andre Sano,41,Messina (ME),ITA,00:22:53,03:15:47,01:56:12,00:05:24,00:05:00,05:45:16
+ironman-70.3-italy-20140601.csv,1409,Alessandro Santi,41,pg,ITA,00:24:10,03:02:40,01:56:43,00:04:54,00:04:24,05:32:51
+ironman-70.3-italy-20140601.csv,1410,David Sanzi,41,roma,ITA,00:27:39,03:29:27,01:52:24,00:05:27,00:05:15,06:00:12
+ironman-70.3-italy-20140601.csv,1411,Edward Seaton,41,---,GBR,00:23:02,02:51:07,01:56:09,00:05:25,00:04:59,05:20:42
+ironman-70.3-italy-20140601.csv,1412,Mauro Sena,39,---,ITA,00:31:18,03:09:38,01:56:56,00:06:59,00:05:46,05:50:37
+ironman-70.3-italy-20140601.csv,1413,Eliodoro Silverii,40,italia,ITA,00:23:39,02:53:24,01:44:04,00:07:40,00:05:35,05:14:22
+ironman-70.3-italy-20140601.csv,1414,Gianluca Master Simei,41,Lazio,ITA,00:25:10,02:45:24,01:39:50,00:04:06,00:03:38,04:58:08
+ironman-70.3-italy-20140601.csv,1415,Giovanni Simoni,43,---,GBR,00:22:01,03:03:53,01:39:45,00:05:52,00:05:34,05:17:05
+ironman-70.3-italy-20140601.csv,1416,Michele Simonini,42,Italia,ITA,00:24:09,03:28:11,01:54:48,00:05:06,00:06:54,05:59:08
+ironman-70.3-italy-20140601.csv,1417,Matteo Sironi,41,---,ITA,00:22:52,02:57:03,01:37:29,00:04:02,00:04:18,05:05:44
+ironman-70.3-italy-20140601.csv,1418,Sindre Soerensen,40,---,NOR,00:22:29,02:29:40,01:30:42,00:03:54,00:03:38,04:30:23
+ironman-70.3-italy-20140601.csv,1419,Krzysztof Spyra,41,Maz,POL,00:17:54,02:33:13,01:32:57,00:04:16,00:03:57,04:32:17
+ironman-70.3-italy-20140601.csv,1420,Stephane Sauve,41,---,FRA,00:22:09,02:32:11,01:39:35,00:04:20,00:03:29,04:41:44
+ironman-70.3-italy-20140601.csv,1421,Ezio Stobbia,41,---,ITA,00:23:58,02:49:16,01:42:32,00:06:06,00:05:07,05:06:59
+ironman-70.3-italy-20140601.csv,1422,Rafal Szustorowski,39,UK,GBR,00:24:00,02:39:51,01:45:08,00:04:14,00:04:26,04:57:39
+ironman-70.3-italy-20140601.csv,1423,Enrico Tacchin,39,---,ITA,00:24:06,03:12:17,01:49:34,00:06:30,00:04:42,05:37:09
+ironman-70.3-italy-20140601.csv,1424,Dimitrios Thomas,42,attika,GRC,00:27:15,03:17:23,02:17:04,00:03:48,00:04:30,06:10:00
+ironman-70.3-italy-20140601.csv,1425,Luca Tortima,40,---,ITA,00:21:24,02:31:22,01:29:04,00:03:43,00:03:32,04:29:05
+ironman-70.3-italy-20140601.csv,1426,Daniele Tovazzi,42,ITALIA,ITA,00:23:23,02:50:54,01:36:56,00:04:47,00:04:26,05:00:26
+ironman-70.3-italy-20140601.csv,1427,Alessandro Trucchia,41,belforte del chienti,ITA,00:23:07,02:32:43,01:44:01,00:04:36,00:04:38,04:49:05
+ironman-70.3-italy-20140601.csv,1428,Gianluca Tuttopetto,41,ITALIA,ITA,00:23:50,02:43:29,02:03:34,00:06:27,00:04:27,05:21:47
+ironman-70.3-italy-20140601.csv,1429,Antoni Tzavelas,39,---,CAN,00:26:51,02:56:43,01:59:22,00:05:55,00:05:37,05:34:28
+ironman-70.3-italy-20140601.csv,1430,Francesco Uberto,40,Brescia,ITA,00:25:08,02:54:27,01:58:31,00:04:54,00:04:02,05:27:02
+ironman-70.3-italy-20140601.csv,1431,John Underwood,43,NY,USA,00:21:20,02:46:07,01:39:32,00:03:29,00:04:09,04:54:37
+ironman-70.3-italy-20140601.csv,1432,Alessandro Valenti,41,PN,ITA,00:19:31,02:52:01,01:39:22,00:03:46,00:03:38,04:58:18
+ironman-70.3-italy-20140601.csv,1433,Jo Vermeiren,44,BE,BEL,00:28:22,02:57:17,02:10:45,00:07:25,00:06:44,05:50:33
+ironman-70.3-italy-20140601.csv,1434,Gianluca Vernacotola,39,pe,ITA,00:20:44,02:41:22,01:32:31,00:04:07,00:03:47,04:42:31
+ironman-70.3-italy-20140601.csv,1435,Jon Vinge,44,---,USA,00:23:25,02:38:50,01:41:01,00:09:28,00:05:51,04:58:35
+ironman-70.3-italy-20140601.csv,1436,Alessandro Vitale,41,---,ITA,00:24:28,02:44:32,01:49:40,00:05:32,00:05:26,05:09:38
+ironman-70.3-italy-20140601.csv,1437,Stefano Volpetti,42,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1438,Graziano Wade,42,italia,ITA,00:23:03,02:58:11,01:43:41,00:07:49,00:04:45,05:17:29
+ironman-70.3-italy-20140601.csv,1439,Ezequiel Weppler,40,---,ARG,00:26:33,03:12:16,02:04:07,00:05:31,00:06:34,05:55:01
+ironman-70.3-italy-20140601.csv,1440,Giovanni Zanni,42,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-italy-20140601.csv,1441,Daniele Zorzato,41,---,ITA,00:30:37,04:01:19,02:34:37,00:10:46,00:06:48,07:24:07
+ironman-70.3-italy-20140601.csv,1442,Giuliano Toniollo,43,---,ITA,00:28:23,03:12:46,02:03:34,00:09:07,00:06:47,06:00:37
+ironman-70.3-italy-20140601.csv,1443,Giuseppe Leto,39,Verbania,ITA,00:21:13,02:42:16,01:43:35,00:03:50,00:03:45,04:54:39
+ironman-70.3-italy-20140601.csv,1444,Vitaliy Kulikov,41,---,RUS,00:22:48,02:39:22,01:45:44,00:03:56,00:05:24,04:57:14
+ironman-70.3-italy-20140601.csv,1445,Igor Kiselev,42,---,RUS,00:23:29,03:10:48,01:47:46,00:05:01,00:05:32,05:32:36
+ironman-70.3-italy-20140601.csv,1446,Federico Procopio,43,roma,ITA,00:21:21,02:39:49,01:28:10,00:04:26,00:04:15,04:38:01
+ironman-70.3-italy-20140601.csv,1447,Piero Cossalter,40,---,ITA,00:34:36,03:15:56,01:41:10,00:13:58,00:09:10,05:54:50
+ironman-70.3-italy-20140601.csv,1448,Alessandro De Maggio,41,lecce,ITA,00:24:18,03:09:53,02:08:21,00:05:44,00:05:31,05:53:47
+ironman-70.3-italy-20140601.csv,1449,Luca Toro,44,italia,ITA,00:23:42,02:55:54,01:42:31,00:05:04,00:03:57,05:11:08
+ironman-70.3-italy-20140601.csv,1450,Mauro Covotta,42,ITA,ITA,00:24:20,03:08:01,02:01:35,00:06:21,00:06:16,05:46:33
+ironman-70.3-italy-20140601.csv,1451,Fabio Atzeni,41,---,ITA,00:23:59,03:12:29,02:03:57,00:04:20,00:04:58,05:49:43
+ironman-70.3-italy-20140601.csv,1452,Simone Manelli,43,---,ITA,00:25:49,03:30:38,02:12:05,00:08:37,00:06:14,06:23:23
+ironman-70.3-italy-20140601.csv,1453,Antonello Di Rita,41,Varese,ITA,00:23:39,02:35:11,01:33:45,00:04:04,00:04:36,04:41:15
+ironman-70.3-italy-20140601.csv,1454,Andrea Di Nezza,41,Italy,ITA,00:29:20,02:55:34,01:41:58,00:04:29,00:04:13,05:15:34
+ironman-70.3-italy-20140601.csv,1455,Enzo Del Barone,42,ITALIA,ITA,00:20:12,03:00:57,01:49:05,00:06:27,00:05:54,05:22:35
+ironman-70.3-italy-20140601.csv,1456,Luca Naccarato,40,---,ITA,00:18:36,02:46:35,01:35:57,00:03:55,00:04:19,04:49:22
+ironman-70.3-italy-20140601.csv,1457,Luigi Midolo,43,Italia,ITA,00:23:12,03:28:15,02:02:13,00:09:33,00:06:56,06:10:09
+ironman-70.3-italy-20140601.csv,1458,Emanuele Sponsiello,39,Italia,ITA,00:23:43,03:08:46,01:51:39,00:06:46,00:06:11,05:37:05
+ironman-70.3-italy-20140601.csv,1459,Guglielmo Bittarelli,43,---,ITA,00:21:44,03:11:45,02:00:32,00:05:50,00:05:09,05:45:00
+ironman-70.3-italy-20140601.csv,1460,Gianni Illiano,44,---,ITA,00:21:37,02:52:13,02:03:06,00:05:15,00:04:35,05:26:46
+ironman-70.3-italy-20140601.csv,1461,Alberto Baggio,42,Italia,ITA,00:22:58,02:35:58,01:32:08,00:04:00,00:03:52,04:38:56
+ironman-70.3-italy-20140601.csv,1462,Alessandro Guidi,42,---,ITA,00:38:33,03:32:27,01:53:44,00:09:55,00:06:14,06:20:53
+ironman-70.3-italy-20140601.csv,1463,Roberto Otti,43,---,ITA,00:23:57,02:49:37,01:34:58,00:04:00,00:03:54,04:56:26
+ironman-70.3-italy-20140601.csv,1464,Riccardo Perta,40,---,ITA,00:24:50,03:01:50,02:07:51,00:05:47,00:05:54,05:46:12
+ironman-70.3-italy-20140601.csv,1465,Pierpaolo Lucioli,41,---,ITA,00:23:56,03:08:38,01:53:18,00:08:24,00:09:11,05:43:27
+ironman-70.3-italy-20140601.csv,1466,Riccardo Lucidi,39,---,ITA,00:25:25,03:01:17,01:41:58,00:07:30,00:06:25,05:22:35
+ironman-70.3-italy-20140601.csv,1467,Ladislav Demko,40,---,USA,00:21:55,02:37:57,01:42:19,00:04:44,00:04:17,04:51:12
+ironman-70.3-italy-20140601.csv,1468,Abel Soto,---,---,MEX,00:30:44,03:22:37,02:19:49,00:06:32,00:06:58,06:26:40
+ironman-70.3-italy-20140601.csv,1469,Giorgio Piazzola,40,Varese,ITA,00:23:31,02:56:28,01:40:58,00:03:54,00:03:35,05:08:26
+ironman-70.3-italy-20140601.csv,1470,Alessio Armenio,---,---,ITA,00:20:21,03:03:41,02:08:23,00:05:24,00:06:46,05:44:35
+ironman-70.3-italy-20140601.csv,1471,Gianluca Cicconetti,39,---,ITA,00:24:27,03:15:44,01:53:09,00:06:41,00:05:24,05:45:25
+ironman-70.3-italy-20140601.csv,1472,Leo Di Stilio,44,ITALIA,ITA,00:24:48,02:45:03,01:44:13,00:05:36,00:04:43,05:04:23
+ironman-70.3-italy-20140601.csv,1473,Pierluigi Toro,42,---,ITA,00:24:28,02:59:51,01:50:03,00:05:18,00:04:27,05:24:07
+ironman-70.3-italy-20140601.csv,1474,Andrea Francia,40,---,ITA,00:24:52,03:06:57,01:52:00,00:09:31,00:08:25,05:41:45
+ironman-70.3-italy-20140601.csv,1475,Stefano Landini,42,Imperia,ITA,00:23:56,02:47:38,01:46:02,00:05:12,00:04:42,05:07:30
+ironman-70.3-italy-20140601.csv,1476,Davide Noli,---,---,ITA,00:24:48,03:08:07,01:43:39,00:06:54,00:04:59,05:28:27
+ironman-70.3-italy-20140601.csv,1477,Michele Taglialatela,41,Pescara,ITA,00:24:47,03:32:18,02:10:24,00:07:55,00:07:16,06:22:40
+ironman-70.3-italy-20140601.csv,1478,Pasquale Borraccino,---,---,ITA,00:30:15,03:17:01,01:48:09,00:06:34,00:05:56,05:47:55
+ironman-70.3-italy-20140601.csv,1479,Luca Franci,43,Bologna,ITA,00:22:58,02:46:52,01:43:06,00:05:15,00:04:59,05:03:10
+ironman-70.3-italy-20140601.csv,1480,Gianluca Laquidara,43,---,ITA,00:23:59,03:09:42,02:06:58,00:05:07,00:06:55,05:52:41
+ironman-70.3-italy-20140601.csv,1481,Stefano Scroglieri,42,italia,ITA,00:25:42,02:37:29,01:33:48,00:04:19,00:03:57,04:45:15
+ironman-70.3-italy-20140601.csv,1482,Marco Tarabelli,41,Macerata,ITA,00:23:18,03:03:50,02:04:28,00:05:21,00:05:23,05:42:20
+ironman-70.3-italy-20140601.csv,1483,Luca Valerio,43,Italy,ITA,00:22:32,02:42:35,01:35:58,00:03:24,00:04:12,04:48:41
+ironman-70.3-italy-20140601.csv,1484,Federico Croci,43,vt,ITA,00:24:03,03:10:30,01:59:11,00:05:48,00:06:29,05:46:01
+ironman-70.3-italy-20140601.csv,1485,Simone Comparelli,---,---,ITA,00:25:13,03:20:10,02:18:14,00:05:18,00:08:04,06:16:59
+ironman-70.3-italy-20140601.csv,1486,Fabrizio Scotto,---,---,ITA,00:43:10,02:47:54,01:40:57,00:04:04,00:04:25,05:20:30
+ironman-70.3-italy-20140601.csv,1487,Antonio Oro,44,Pescara,ITA,00:34:00,03:41:30,02:22:40,00:08:32,00:09:45,06:56:27
+ironman-70.3-italy-20140601.csv,1488,Massimo Sala,42,italia,ITA,00:28:22,02:50:37,01:48:12,00:05:14,00:05:28,05:17:53
+ironman-70.3-italy-20140601.csv,1489,Lucio Semprevivo,---,---,ITA,00:31:01,02:37:21,01:35:35,00:06:45,00:06:15,04:56:57
+ironman-70.3-italy-20140601.csv,1490,Elvio Giampietro,---,---,ITA,00:24:49,03:04:38,01:57:46,00:05:51,00:06:38,05:39:42
+ironman-70.3-italy-20140601.csv,1491,Vittorio Lattanzio,44,pescara,ITA,00:24:26,03:05:10,02:10:46,00:05:34,00:05:19,05:51:15
+ironman-70.3-italy-20140601.csv,1492,Matteo De Cherchi,---,---,ITA,00:19:55,02:58:41,01:59:04,00:06:07,00:05:51,05:29:38
+ironman-70.3-italy-20140601.csv,1493,Stefano Riccitelli,41,IT,ITA,00:29:03,03:06:56,01:55:17,00:04:12,00:03:48,05:39:16
+ironman-70.3-italy-20140601.csv,1494,Alessandro Tagliaboschi,40,Teramo,ITA,00:23:45,02:33:42,01:44:06,00:04:30,00:03:37,04:49:40
+ironman-70.3-italy-20140601.csv,1495,Andrea De Antoni,41,milano,ITA,00:28:25,03:21:12,01:54:36,00:05:57,00:03:42,05:53:52
+ironman-70.3-italy-20140601.csv,1496,Massimo Dauri,---,---,ITA,00:23:03,03:26:36,01:59:56,00:06:11,00:05:43,06:01:29
+ironman-70.3-italy-20140601.csv,1497,Lorenzo Rizzo,43,padova,ITA,00:25:00,03:07:11,01:49:44,00:06:34,00:04:41,05:33:10
+ironman-70.3-italy-20140601.csv,1498,Mattia Muratori,---,---,ITA,00:23:18,02:44:26,01:49:10,00:04:14,00:03:48,05:04:56
+ironman-70.3-italy-20140601.csv,1499,Emiliano Agnello,41,Mi,ITA,00:23:58,02:44:49,02:19:01,00:05:31,00:05:03,05:38:22
+ironman-70.3-italy-20140601.csv,1500,Stefano Scudiero,41,ITALIA,ITA,00:27:36,03:14:01,01:58:06,00:05:20,00:04:30,05:49:33

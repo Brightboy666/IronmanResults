@@ -1,0 +1,864 @@
+#File=ironman-70.3-pays-d-aix-20120923.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-pays-d-aix-20120923.csv,1,Stã©phane Poulat,---,---,FRA,00:22:07,02:16:35,01:18:25,00:02:42,00:02:14,04:02:03
+ironman-70.3-pays-d-aix-20120923.csv,3,Franãois Chabaud,---,FRAN,FRA,00:24:04,02:19:29,01:17:00,00:02:43,00:02:14,04:05:30
+ironman-70.3-pays-d-aix-20120923.csv,4,Swen Sundberg,38,Eastern Cape,DEU,00:24:05,02:19:24,01:15:27,00:02:39,00:02:25,04:04:00
+ironman-70.3-pays-d-aix-20120923.csv,5,Herve Faure,36,---,FRA,00:23:58,02:19:29,01:16:21,00:02:43,00:02:22,04:04:53
+ironman-70.3-pays-d-aix-20120923.csv,6,Hervé Banti,35,Intl State,---,00:23:13,02:20:17,01:15:23,00:02:42,00:02:06,04:03:41
+ironman-70.3-pays-d-aix-20120923.csv,7,Cyril Viennot,30,---,FRA,00:23:55,02:17:35,01:14:29,00:02:56,00:02:05,04:01:00
+ironman-70.3-pays-d-aix-20120923.csv,8,Konstantin Bachor,27,Other,DEU,00:23:57,02:39:35,---,00:02:58,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,11,Zeljka Saban,---,---,HRV,00:26:42,03:22:52,01:42:07,00:03:40,00:03:43,05:39:04
+ironman-70.3-pays-d-aix-20120923.csv,13,Kamil Van Beijnum,31,---,NLD,00:25:16,02:23:08,01:25:35,00:02:59,00:02:42,04:19:40
+ironman-70.3-pays-d-aix-20120923.csv,14,Cedric Lassonde,35,---,FRA,00:25:22,02:26:18,01:20:12,00:03:23,00:02:38,04:17:53
+ironman-70.3-pays-d-aix-20120923.csv,16,Olivier Cardoen,37,---,BEL,00:25:28,02:30:11,01:20:43,00:03:22,00:02:24,04:22:08
+ironman-70.3-pays-d-aix-20120923.csv,17,Benoit Menestrier,36,Intl State,FRA,00:25:27,02:29:56,01:23:29,00:03:25,00:02:38,04:24:55
+ironman-70.3-pays-d-aix-20120923.csv,21,Patrick Jaberg,32,---,CHE,00:24:27,02:19:59,01:21:19,00:03:03,00:02:27,04:11:15
+ironman-70.3-pays-d-aix-20120923.csv,25,Julian Mutterer,24,Intl State,DEU,00:24:29,02:26:28,01:21:55,00:02:50,00:02:11,04:17:53
+ironman-70.3-pays-d-aix-20120923.csv,27,Gergely Nagy,30,---,HUN,00:25:20,02:37:51,01:34:15,00:03:15,00:02:41,04:43:22
+ironman-70.3-pays-d-aix-20120923.csv,28,Markus Mlinar,32,---,AUT,00:26:51,02:30:39,01:29:41,00:03:06,00:02:38,04:32:55
+ironman-70.3-pays-d-aix-20120923.csv,29,David Dellow,33,QLD,AUS,00:23:14,02:20:03,01:15:51,00:02:59,00:02:27,04:04:34
+ironman-70.3-pays-d-aix-20120923.csv,30,Andreas Dreitz,23,---,DEU,00:24:19,02:21:15,01:17:20,00:03:06,00:02:24,04:08:24
+ironman-70.3-pays-d-aix-20120923.csv,31,Manuel Kueng,25,---,CHE,00:22:08,02:20:56,01:20:35,00:03:09,00:02:03,04:08:51
+ironman-70.3-pays-d-aix-20120923.csv,32,Gabriele Mazzetta,32,---,ITA,00:24:01,02:27:52,02:34:25,00:03:00,00:02:20,DNF
+ironman-70.3-pays-d-aix-20120923.csv,33,Gwenael Ouilleres,27,---,FRA,00:25:06,02:24:45,01:19:03,00:03:06,00:02:13,04:14:13
+ironman-70.3-pays-d-aix-20120923.csv,34,Domenico Passuello,34,Intl State,ITA,00:28:17,02:17:00,01:16:13,00:02:50,00:02:18,04:06:38
+ironman-70.3-pays-d-aix-20120923.csv,35,Jacob Petersen-Bach,---,---,DNK,00:22:06,02:30:50,01:22:46,00:02:51,00:02:50,04:21:23
+ironman-70.3-pays-d-aix-20120923.csv,36,Heinrich Sickl,39,Intl State,AUT,00:27:01,02:35:52,01:32:30,00:03:12,00:02:55,04:41:30
+ironman-70.3-pays-d-aix-20120923.csv,38,Darby Thomas,29,Intl State,FIN,00:27:08,02:26:06,01:25:21,00:03:11,00:02:35,04:24:21
+ironman-70.3-pays-d-aix-20120923.csv,40,Andi Fuchs,37,---,AUT,00:27:04,02:24:45,01:23:52,00:03:01,00:02:17,04:20:59
+ironman-70.3-pays-d-aix-20120923.csv,41,Jeanne Collonge,25,FR,FRA,00:25:12,02:33:15,01:21:14,00:03:01,00:02:36,04:25:18
+ironman-70.3-pays-d-aix-20120923.csv,42,Delphine Pelletier,35,---,FRA,00:25:14,02:33:27,01:26:38,00:02:44,00:02:29,04:30:32
+ironman-70.3-pays-d-aix-20120923.csv,43,Martina Dogana,33,Intl State,ITA,00:27:05,02:48:05,01:29:25,00:03:18,00:02:33,04:50:26
+ironman-70.3-pays-d-aix-20120923.csv,44,Sophie De Groote,29,---,BEL,00:25:26,02:32:56,01:25:17,00:03:02,00:02:45,04:29:26
+ironman-70.3-pays-d-aix-20120923.csv,45,Tamsin Lewis,33,---,---,00:28:10,02:40:01,01:21:33,00:03:28,00:02:50,04:36:02
+ironman-70.3-pays-d-aix-20120923.csv,46,Elly Franks,30,---,AUS,00:27:06,02:47:54,01:47:38,00:03:24,00:02:39,05:08:41
+ironman-70.3-pays-d-aix-20120923.csv,47,Heidi Sessner,34,---,DEU,00:27:04,02:50:24,01:28:27,00:02:58,00:02:47,04:51:40
+ironman-70.3-pays-d-aix-20120923.csv,50,Nicole Woysch,35,---,DEU,00:28:18,03:04:41,01:30:07,00:03:30,00:03:11,05:09:47
+ironman-70.3-pays-d-aix-20120923.csv,51,Francesca Tibaldi,37,Other,ITA,00:28:09,02:50:02,01:35:33,00:04:01,00:03:04,05:00:49
+ironman-70.3-pays-d-aix-20120923.csv,53,Marina Milkovic,---,---,HRV,00:32:58,02:55:46,01:42:06,00:03:47,00:03:16,05:17:53
+ironman-70.3-pays-d-aix-20120923.csv,54,Mary Beth Ellis,35,MA,USA,00:23:15,02:35:16,01:21:11,00:02:56,00:02:39,04:25:17
+ironman-70.3-pays-d-aix-20120923.csv,55,Silvia Felt,35,---,DEU,00:30:02,02:43:06,01:33:19,00:03:34,00:02:44,04:52:45
+ironman-70.3-pays-d-aix-20120923.csv,56,Lisa Huetthaler,29,---,AUT,00:25:34,02:37:19,01:26:52,00:02:54,00:02:45,04:35:24
+ironman-70.3-pays-d-aix-20120923.csv,61,Juliette Coudrey,22,---,FRA,00:28:13,02:52:20,01:45:02,00:03:53,00:03:09,05:12:37
+ironman-70.3-pays-d-aix-20120923.csv,62,Julia Niemann,24,Bavaria,DEU,00:33:48,03:04:55,01:54:33,00:04:50,00:03:49,05:41:55
+ironman-70.3-pays-d-aix-20120923.csv,63,Line Probst,22,---,CHE,00:41:59,03:24:46,02:25:29,00:04:12,00:03:23,06:39:49
+ironman-70.3-pays-d-aix-20120923.csv,66,Laetitia Gerard,29,---,BEL,00:41:40,03:43:22,02:29:50,00:07:05,00:04:30,07:06:27
+ironman-70.3-pays-d-aix-20120923.csv,68,Clemence Marchand,25,---,FRA,00:34:41,03:36:20,02:28:50,00:05:21,00:03:39,06:48:51
+ironman-70.3-pays-d-aix-20120923.csv,69,Anita Marquart,26,---,DEU,00:28:07,02:45:02,01:43:33,00:03:18,00:02:56,05:02:56
+ironman-70.3-pays-d-aix-20120923.csv,70,Marlies Steffen,26,---,DEU,00:42:38,03:21:04,01:56:14,00:05:02,00:03:18,06:08:16
+ironman-70.3-pays-d-aix-20120923.csv,71,Olivia Scheider Trupheme,26,---,FRA,00:34:19,03:31:40,02:32:30,00:08:07,00:07:35,06:54:11
+ironman-70.3-pays-d-aix-20120923.csv,72,Anne-Lise Wargnez,27,---,FRA,00:33:05,03:18:42,02:28:07,00:05:47,00:04:39,06:30:20
+ironman-70.3-pays-d-aix-20120923.csv,73,Laura Briskey,32,---,AUS,00:35:53,03:20:59,02:10:17,00:05:35,00:03:41,06:16:25
+ironman-70.3-pays-d-aix-20120923.csv,74,Vanessa Cuyvers,32,BE,BEL,00:34:40,03:02:58,01:41:02,00:04:23,00:03:45,05:26:48
+ironman-70.3-pays-d-aix-20120923.csv,75,Stã©phanie De Pury,---,---,CHE,00:33:57,03:06:22,01:57:58,00:05:13,00:03:24,05:46:54
+ironman-70.3-pays-d-aix-20120923.csv,76,Sara Ellison,31,NY,USA,00:40:51,03:29:47,02:15:16,00:08:46,00:06:56,06:41:36
+ironman-70.3-pays-d-aix-20120923.csv,77,Andrea Haslebacher,33,---,CHE,00:29:01,02:49:24,01:58:48,00:03:50,00:03:21,05:24:24
+ironman-70.3-pays-d-aix-20120923.csv,78,Corina Hengartner,34,Other,CHE,00:31:07,02:45:55,01:41:42,00:03:34,00:02:48,05:05:06
+ironman-70.3-pays-d-aix-20120923.csv,79,Laetitia Joly,31,---,FRA,00:32:43,03:17:24,02:16:57,00:05:59,00:05:26,06:18:29
+ironman-70.3-pays-d-aix-20120923.csv,81,Isabella Klingenfuss,34,---,CHE,00:38:15,03:16:35,02:16:30,00:05:55,00:05:09,06:22:24
+ironman-70.3-pays-d-aix-20120923.csv,82,Aurelie Le Moing,32,---,FRA,00:39:15,03:44:55,02:38:39,00:05:53,00:04:44,07:13:26
+ironman-70.3-pays-d-aix-20120923.csv,83,Fiona Love,30,---,GBR,00:34:30,03:13:12,01:36:29,00:04:55,00:03:05,05:32:11
+ironman-70.3-pays-d-aix-20120923.csv,84,Alison Lunn,33,Stirlingshire,GBR,00:43:35,03:51:56,02:22:33,00:09:28,00:06:46,07:14:18
+ironman-70.3-pays-d-aix-20120923.csv,85,Sarah Mcfadyen,31,---,GBR,00:31:58,03:17:17,02:11:24,00:06:44,00:05:10,06:12:33
+ironman-70.3-pays-d-aix-20120923.csv,87,Evelyne Niederberger,29,---,CHE,00:30:26,03:02:54,01:55:31,00:03:10,00:03:24,05:35:25
+ironman-70.3-pays-d-aix-20120923.csv,89,Melanie Räder,33,---,DEU,00:33:16,03:03:50,01:39:15,00:04:11,00:03:10,05:23:42
+ironman-70.3-pays-d-aix-20120923.csv,90,Lucy Rattrie,31,Scotland,GBR,00:39:15,03:33:56,02:13:16,00:07:58,00:03:51,06:38:16
+ironman-70.3-pays-d-aix-20120923.csv,91,Stéphanie Reymond,39,FR,FRA,00:33:33,02:41:19,01:30:59,00:05:04,00:03:04,04:53:59
+ironman-70.3-pays-d-aix-20120923.csv,92,Dagmar Sverã¡kovã¡,33,---,CZE,00:31:40,02:46:33,01:46:18,00:03:54,00:03:39,05:12:04
+ironman-70.3-pays-d-aix-20120923.csv,93,Melanie Avery,38,---,GBR,00:34:47,03:12:17,01:49:55,00:04:44,00:03:46,05:45:29
+ironman-70.3-pays-d-aix-20120923.csv,94,Melanie Cayatte,37,---,FRA,00:45:15,03:50:34,02:40:58,00:05:57,00:04:55,07:27:39
+ironman-70.3-pays-d-aix-20120923.csv,95,Maike Cotterell,39,---,DEU,00:33:50,03:09:56,01:48:57,00:04:36,00:03:38,05:40:57
+ironman-70.3-pays-d-aix-20120923.csv,96,Catherine Crouzat,39,---,FRA,00:42:42,03:51:46,02:12:13,00:05:49,00:05:02,06:57:32
+ironman-70.3-pays-d-aix-20120923.csv,98,Alexandra Eiband,39,---,DEU,00:32:21,02:58:11,01:37:05,00:03:56,00:03:53,05:15:26
+ironman-70.3-pays-d-aix-20120923.csv,99,Jessica Estes,34,GA,USA,00:45:39,03:05:08,01:41:33,00:05:11,00:03:36,05:41:07
+ironman-70.3-pays-d-aix-20120923.csv,100,Petra Jirankova,35,Prague,CZE,00:38:20,03:16:10,01:49:11,00:04:49,00:03:18,05:51:48
+ironman-70.3-pays-d-aix-20120923.csv,102,Siri Moody,37,WA,USA,00:36:13,03:42:53,02:29:01,00:05:16,00:05:04,06:58:27
+ironman-70.3-pays-d-aix-20120923.csv,103,Stephanie Ollivier,39,---,FRA,00:50:03,03:41:37,02:07:03,00:09:12,00:05:54,06:53:49
+ironman-70.3-pays-d-aix-20120923.csv,104,Virginie Popieul,37,---,FRA,00:28:06,02:50:51,01:29:50,00:03:50,00:03:08,04:55:45
+ironman-70.3-pays-d-aix-20120923.csv,105,Barbara Puissegur,37,---,FRA,00:40:31,03:25:14,02:21:05,00:06:15,00:04:27,06:37:32
+ironman-70.3-pays-d-aix-20120923.csv,107,Claire Richardson,38,---,GBR,00:39:12,04:08:24,02:38:22,00:05:39,00:06:50,07:38:27
+ironman-70.3-pays-d-aix-20120923.csv,108,Kim Rosello,38,---,USA,00:42:40,03:41:24,02:33:14,00:07:49,00:05:57,07:11:04
+ironman-70.3-pays-d-aix-20120923.csv,109,Martine Roy,36,FR,FRA,00:32:51,02:52:24,01:59:17,00:05:27,00:04:17,05:34:16
+ironman-70.3-pays-d-aix-20120923.csv,110,Veronique Says,39,---,FRA,00:38:20,03:35:40,02:10:12,00:05:59,00:04:13,06:34:24
+ironman-70.3-pays-d-aix-20120923.csv,111,Michela Silvestri,35,italia,ITA,00:36:17,03:14:02,01:46:14,00:04:15,00:03:05,05:43:53
+ironman-70.3-pays-d-aix-20120923.csv,112,Nanette Speelman,36,---,NLD,00:40:03,03:28:24,02:18:17,00:08:37,00:06:51,06:42:12
+ironman-70.3-pays-d-aix-20120923.csv,113,Caroline Terranova,37,---,FRA,00:45:02,03:29:02,02:15:12,00:09:34,00:06:12,06:45:02
+ironman-70.3-pays-d-aix-20120923.csv,114,Virginia Vasconcelos,36,GO,BRA,00:35:29,03:16:35,01:54:38,00:04:20,00:03:08,05:54:10
+ironman-70.3-pays-d-aix-20120923.csv,115,Aleksandra Veselova,35,---,RUS,00:42:35,04:10:09,01:53:59,00:09:39,00:07:59,07:04:21
+ironman-70.3-pays-d-aix-20120923.csv,116,Marion Birot,43,---,FRA,00:40:55,03:18:02,02:15:25,00:05:01,00:03:26,06:22:49
+ironman-70.3-pays-d-aix-20120923.csv,118,Sabine Celle,43,---,FRA,00:37:15,03:03:17,01:51:35,00:06:43,00:03:54,05:42:44
+ironman-70.3-pays-d-aix-20120923.csv,119,Aline Choretier,43,---,FRA,00:36:18,02:55:32,01:38:03,00:04:13,00:03:23,05:17:29
+ironman-70.3-pays-d-aix-20120923.csv,120,Vivienne Cornwell,42,---,GBR,00:34:56,03:20:15,01:50:34,00:08:12,00:03:56,05:57:53
+ironman-70.3-pays-d-aix-20120923.csv,124,Sybille Geier,43,---,DEU,00:35:00,02:54:51,01:45:34,00:03:55,00:05:26,05:24:46
+ironman-70.3-pays-d-aix-20120923.csv,125,Roberta Giolitto,44,---,ITA,00:44:16,03:29:45,02:15:12,00:09:35,00:06:12,06:45:00
+ironman-70.3-pays-d-aix-20120923.csv,126,Nancy Heslin,43,---,FRA,00:36:25,03:41:05,02:15:13,00:08:14,00:07:39,06:48:36
+ironman-70.3-pays-d-aix-20120923.csv,127,Nathalie Jouffret,41,---,FRA,00:38:06,03:17:28,02:13:29,00:07:58,00:04:22,06:21:23
+ironman-70.3-pays-d-aix-20120923.csv,128,Janet Livesey,40,---,GBR,00:34:04,03:13:09,01:49:55,00:04:39,00:03:42,05:45:29
+ironman-70.3-pays-d-aix-20120923.csv,130,Beverley Noble,45,---,GBR,00:49:58,04:01:29,02:20:31,00:07:12,00:05:40,07:24:50
+ironman-70.3-pays-d-aix-20120923.csv,131,Helen Parris,39,---,GBR,00:39:02,03:17:17,01:42:16,00:04:15,00:02:57,05:45:47
+ironman-70.3-pays-d-aix-20120923.csv,132,Ute Schmidt,42,DE,DEU,00:36:46,03:02:03,02:06:21,00:05:19,00:03:18,05:53:47
+ironman-70.3-pays-d-aix-20120923.csv,133,Valã©rie Seckler,42,---,FRA,00:43:07,03:20:45,01:47:42,00:05:47,00:03:36,06:00:57
+ironman-70.3-pays-d-aix-20120923.csv,134,Nancy Sterk,44,BE,NLD,00:43:14,03:34:42,02:06:09,00:07:28,00:03:59,06:35:32
+ironman-70.3-pays-d-aix-20120923.csv,135,Claudia Assirelli,48,---,ITA,00:32:17,03:12:44,01:53:10,00:05:11,00:03:28,05:46:50
+ironman-70.3-pays-d-aix-20120923.csv,136,Marie-Paule Beaud,45,---,FRA,00:57:04,03:37:55,02:03:40,00:05:15,00:03:55,06:47:49
+ironman-70.3-pays-d-aix-20120923.csv,137,Cathy Belhaouane,49,---,TUN,00:50:48,03:42:51,01:57:20,00:09:17,00:04:40,06:44:56
+ironman-70.3-pays-d-aix-20120923.csv,138,Catriona Bruce,45,---,GBR,00:38:18,03:26:32,02:13:53,00:06:41,00:06:18,06:31:42
+ironman-70.3-pays-d-aix-20120923.csv,139,Stephanie Fuller,49,---,GBR,00:48:08,04:09:00,---,00:08:46,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,140,Ashley Helton,47,---,USA,00:40:15,03:39:24,02:12:34,00:06:52,00:06:05,06:45:10
+ironman-70.3-pays-d-aix-20120923.csv,141,Kristin Henderson,47,CO,GBR,00:37:29,03:15:46,01:48:55,00:05:50,00:04:01,05:52:01
+ironman-70.3-pays-d-aix-20120923.csv,143,Marie-Pierre Husson,48,FR,FRA,00:46:28,03:43:11,02:13:55,00:06:58,00:03:55,06:54:27
+ironman-70.3-pays-d-aix-20120923.csv,144,Sandrine Jeanpetit,46,---,FRA,00:49:30,03:51:12,02:25:23,00:07:38,00:05:38,07:19:21
+ironman-70.3-pays-d-aix-20120923.csv,145,Yvonne Most,48,---,DEU,00:44:50,03:07:44,01:48:14,00:04:53,00:03:11,05:48:52
+ironman-70.3-pays-d-aix-20120923.csv,148,Michèle Senes,49,---,FRA,00:47:59,03:35:03,02:12:42,00:07:01,00:04:11,06:46:56
+ironman-70.3-pays-d-aix-20120923.csv,149,Veronique Bacot- Réaume,54,---,FRA,00:48:53,03:32:23,02:03:23,00:08:48,00:04:44,06:38:11
+ironman-70.3-pays-d-aix-20120923.csv,150,Anne Fuller,52,---,GBR,00:43:35,03:57:03,03:07:46,00:09:46,00:08:39,08:06:49
+ironman-70.3-pays-d-aix-20120923.csv,151,Isabelle Gaste,50,---,FRA,00:33:53,03:15:44,01:57:26,00:05:37,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,153,Julia Esther Jones,51,Modena,ITA,00:39:33,03:58:54,02:34:46,00:08:42,00:06:03,07:27:58
+ironman-70.3-pays-d-aix-20120923.csv,154,Mina Nussboum,50,Israel,ISR,00:40:44,---,---,---,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,155,Mary Mueting,59,WA,USA,01:16:05,04:23:39,---,00:09:23,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,156,Gretchen Sorensen,60,WA,USA,00:40:54,03:41:30,02:29:56,00:08:19,00:06:42,07:07:21
+ironman-70.3-pays-d-aix-20120923.csv,211,Zoltã¡n Bã­rã³,---,---,HUN,00:27:39,02:37:29,01:28:58,00:03:47,00:02:53,04:40:46
+ironman-70.3-pays-d-aix-20120923.csv,212,Aurélien Broccardo,21,FR,FRA,00:31:42,02:58:32,01:44:01,00:04:41,00:02:50,05:21:46
+ironman-70.3-pays-d-aix-20120923.csv,214,Anthony Cadario,21,---,FRA,00:35:04,02:45:54,01:29:54,00:04:31,00:02:53,04:58:16
+ironman-70.3-pays-d-aix-20120923.csv,215,Ricard Cesari 2,21,---,ESP,00:37:48,02:55:11,02:25:47,00:04:20,00:03:33,06:06:39
+ironman-70.3-pays-d-aix-20120923.csv,217,Arnaud Fabre,20,FR,FRA,00:32:00,02:42:33,01:52:19,00:03:43,00:03:07,05:13:42
+ironman-70.3-pays-d-aix-20120923.csv,218,Julian Fontaine,23,---,FRA,00:29:04,02:40:35,01:42:48,00:03:52,00:02:31,04:58:50
+ironman-70.3-pays-d-aix-20120923.csv,219,Nicolas Gentet,20,FR,FRA,00:26:40,02:38:19,01:42:16,00:04:23,00:02:34,04:54:12
+ironman-70.3-pays-d-aix-20120923.csv,220,Guillaume Leruste,23,---,FRA,00:33:05,03:00:59,01:59:53,00:07:31,00:03:51,05:45:19
+ironman-70.3-pays-d-aix-20120923.csv,221,Matthew Lucini,20,---,ITA,00:35:24,03:11:21,02:21:28,00:05:21,00:03:38,06:17:12
+ironman-70.3-pays-d-aix-20120923.csv,222,Ruben Martens,21,NL,NLD,00:31:04,02:38:06,01:37:49,00:03:39,00:02:48,04:53:26
+ironman-70.3-pays-d-aix-20120923.csv,224,Jã©rã©mie Pitteloud,---,---,CHE,00:28:43,02:45:39,01:48:10,00:03:42,00:03:16,05:09:30
+ironman-70.3-pays-d-aix-20120923.csv,225,Phil Ross,24,---,GBR,00:45:16,03:44:02,02:09:24,00:07:21,00:04:29,06:50:32
+ironman-70.3-pays-d-aix-20120923.csv,226,Robin Schneider,23,---,DEU,00:24:37,02:30:36,01:22:06,00:02:59,00:02:33,04:22:51
+ironman-70.3-pays-d-aix-20120923.csv,227,Raphaã«l Serrapica,---,---,FRA,00:27:26,02:50:33,01:55:56,00:03:41,00:03:08,05:20:44
+ironman-70.3-pays-d-aix-20120923.csv,228,Robert Smith,24,---,GBR,00:36:51,03:30:11,02:05:42,00:06:45,00:03:14,06:22:43
+ironman-70.3-pays-d-aix-20120923.csv,229,Romain Tradotti,24,FR,FRA,00:30:50,02:53:51,01:47:09,00:04:27,00:04:02,05:20:19
+ironman-70.3-pays-d-aix-20120923.csv,230,Valentin Tsirtsikolou,22,---,FRA,00:27:38,02:29:48,01:31:42,00:03:23,00:02:37,04:35:08
+ironman-70.3-pays-d-aix-20120923.csv,232,Ramazan Emre Apaydin,25,sisli,TUR,00:30:18,03:04:27,01:56:16,00:05:19,00:04:08,05:40:28
+ironman-70.3-pays-d-aix-20120923.csv,233,Mattia Bagnoli,27,---,ITA,00:39:25,03:19:28,01:44:00,00:05:45,00:04:29,05:53:07
+ironman-70.3-pays-d-aix-20120923.csv,234,Michael Bestvina,28,CA,USA,00:29:58,03:00:52,01:55:14,00:04:12,00:07:16,05:37:32
+ironman-70.3-pays-d-aix-20120923.csv,235,Damien Bon,28,---,FRA,00:43:45,03:31:13,02:23:15,00:08:43,00:08:39,06:55:35
+ironman-70.3-pays-d-aix-20120923.csv,237,Andrea Cazzulo,24,---,ITA,00:27:25,03:15:40,02:02:50,00:04:23,00:03:43,05:54:01
+ironman-70.3-pays-d-aix-20120923.csv,239,Ben Christensen,28,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-pays-d-aix-20120923.csv,240,Robbert De Zeeuw,29,NL,NLD,00:43:00,03:18:58,02:35:10,00:09:46,00:05:32,06:52:26
+ironman-70.3-pays-d-aix-20120923.csv,241,Ángel Prado,27,---,ESP,00:32:07,02:55:08,01:55:37,00:05:03,00:03:15,05:31:10
+ironman-70.3-pays-d-aix-20120923.csv,242,Patrick Dirksmeier,28,---,DEU,00:24:39,02:34:27,01:40:34,00:02:58,00:02:20,04:44:58
+ironman-70.3-pays-d-aix-20120923.csv,245,Tom Eismann,25,---,DEU,00:28:04,02:42:22,01:30:03,00:03:07,00:03:10,04:46:46
+ironman-70.3-pays-d-aix-20120923.csv,246,Mario Erath,26,---,AUT,00:28:03,02:31:30,01:30:43,00:02:59,00:02:19,04:35:34
+ironman-70.3-pays-d-aix-20120923.csv,247,Renato Fioretti,28,---,ITA,00:39:23,03:26:42,02:20:40,00:07:39,00:05:42,06:40:06
+ironman-70.3-pays-d-aix-20120923.csv,249,Julien Gatinet,29,FR,FRA,00:36:10,02:34:48,01:40:28,00:04:07,00:03:20,04:58:53
+ironman-70.3-pays-d-aix-20120923.csv,251,Janos Juvan,27,---,AUT,00:38:28,03:04:46,02:01:26,00:05:15,00:04:40,05:54:35
+ironman-70.3-pays-d-aix-20120923.csv,252,Halil Kiliã§,27,---,TUR,00:33:44,03:09:52,02:02:42,00:05:56,00:03:32,05:55:46
+ironman-70.3-pays-d-aix-20120923.csv,253,Thomas Meusburger,26,---,AUT,00:28:43,02:31:42,01:26:21,00:03:06,00:02:27,04:32:19
+ironman-70.3-pays-d-aix-20120923.csv,254,Stefan Mintsev,25,NO,GBR,00:29:49,02:54:22,01:52:35,00:04:18,00:04:46,05:25:50
+ironman-70.3-pays-d-aix-20120923.csv,255,Ismael Moyat,27,FR,FSM,00:32:31,02:59:34,02:05:56,00:05:16,00:03:19,05:46:36
+ironman-70.3-pays-d-aix-20120923.csv,256,Hans Naert,27,BE,BEL,00:43:21,03:12:15,01:58:02,00:07:53,00:03:59,06:05:30
+ironman-70.3-pays-d-aix-20120923.csv,257,Andrey Nosov,29,RU - Russian Federation,RUS,00:40:58,03:14:07,02:19:15,00:07:57,00:04:49,06:27:06
+ironman-70.3-pays-d-aix-20120923.csv,258,Gerard Panisello Escrig,26,---,ESP,00:34:46,03:15:01,02:07:02,00:07:39,00:04:19,06:08:47
+ironman-70.3-pays-d-aix-20120923.csv,259,Sã©bastien Pencolã©,---,---,FRA,00:33:18,02:49:25,01:42:17,00:04:01,00:02:26,05:11:27
+ironman-70.3-pays-d-aix-20120923.csv,260,Thomas Plaisier,25,---,DEU,00:35:03,03:01:12,01:45:48,00:04:19,00:03:07,05:29:29
+ironman-70.3-pays-d-aix-20120923.csv,261,Felix Saur,26,---,DEU,00:27:33,02:30:49,01:22:20,00:03:14,00:02:43,04:26:39
+ironman-70.3-pays-d-aix-20120923.csv,262,Folker Schwesinger,25,---,DEU,00:25:50,02:32:15,01:23:17,00:03:04,00:02:27,04:26:53
+ironman-70.3-pays-d-aix-20120923.csv,263,Nicolas Segal,28,---,CHE,00:32:24,03:08:31,02:06:49,00:03:50,00:03:37,05:55:11
+ironman-70.3-pays-d-aix-20120923.csv,264,Sam Shore,---,---,AUS,00:36:26,02:57:25,01:46:26,00:06:44,00:04:17,05:31:18
+ironman-70.3-pays-d-aix-20120923.csv,265,Adrian Siemons,26,---,BEL,00:28:41,02:45:40,01:36:27,00:03:35,00:03:07,04:57:30
+ironman-70.3-pays-d-aix-20120923.csv,266,Daniel Stumpf,28,---,DEU,00:34:53,02:37:54,01:43:26,00:04:18,00:03:26,05:03:57
+ironman-70.3-pays-d-aix-20120923.csv,267,Henry Walker,28,Worcestershire,GBR,00:29:00,02:52:42,01:26:36,00:04:54,00:03:14,04:56:26
+ironman-70.3-pays-d-aix-20120923.csv,268,Paul Westhart,24,NY,USA,00:40:24,02:59:13,01:49:21,00:07:36,00:03:42,05:40:16
+ironman-70.3-pays-d-aix-20120923.csv,271,Nasser Zahiri,26,Casablanca ,FRA,00:42:15,03:21:51,02:15:47,00:04:55,00:03:54,06:28:42
+ironman-70.3-pays-d-aix-20120923.csv,272,Pierre Audin,29,---,FRA,00:35:10,03:10:35,---,00:05:27,00:04:27,DNF
+ironman-70.3-pays-d-aix-20120923.csv,273,Antoine Bajelvac,29,---,FRA,00:40:01,02:56:25,02:00:26,00:06:05,00:03:52,05:46:49
+ironman-70.3-pays-d-aix-20120923.csv,274,Damien Boulanger,26,MONACO,FRA,00:32:00,02:39:23,01:39:11,00:03:31,00:02:56,04:57:01
+ironman-70.3-pays-d-aix-20120923.csv,275,Jean-Benoit Bugeia,29,---,FRA,00:38:33,04:01:19,01:58:33,00:13:02,00:05:50,06:57:17
+ironman-70.3-pays-d-aix-20120923.csv,276,Boris Carrol,24,---,FRA,00:47:11,04:23:44,02:47:21,00:06:18,00:05:40,08:10:14
+ironman-70.3-pays-d-aix-20120923.csv,277,Gregory Chanez,28,---,CHE,00:32:59,03:00:10,01:51:24,00:05:11,00:02:44,05:32:28
+ironman-70.3-pays-d-aix-20120923.csv,278,Jon Clemas,25,---,GBR,00:32:49,02:43:41,01:47:44,00:05:03,00:02:55,05:12:12
+ironman-70.3-pays-d-aix-20120923.csv,279,Boris Dessenoix,27,---,FRA,00:25:10,02:28:12,01:24:39,00:02:50,00:02:48,04:23:39
+ironman-70.3-pays-d-aix-20120923.csv,280,Drumez David,24,FR,FRA,00:33:38,02:41:47,02:09:47,00:04:34,00:03:16,05:33:02
+ironman-70.3-pays-d-aix-20120923.csv,281,Erick Durand,26,FR,FRA,00:41:58,03:21:06,02:19:26,00:06:10,00:04:09,06:32:49
+ironman-70.3-pays-d-aix-20120923.csv,282,Cédric Dutheil,28,Other,FRA,00:31:03,02:36:06,01:32:29,00:03:48,00:03:30,04:46:56
+ironman-70.3-pays-d-aix-20120923.csv,283,Mathieu Dylikowski,28,---,POL,00:40:09,03:08:55,01:41:08,00:05:40,00:03:29,05:39:21
+ironman-70.3-pays-d-aix-20120923.csv,284,Jã©rã´me Faramia,---,---,FRA,00:39:03,03:25:49,02:08:46,00:08:57,00:05:10,06:27:45
+ironman-70.3-pays-d-aix-20120923.csv,285,Kevin Faure Laurent,27,FR,FRA,00:45:23,03:41:43,02:33:27,00:05:51,00:04:00,07:10:24
+ironman-70.3-pays-d-aix-20120923.csv,287,Henri Gouzerh,25,---,FRA,00:35:32,03:03:10,01:51:20,00:05:09,00:03:28,05:38:39
+ironman-70.3-pays-d-aix-20120923.csv,288,Gabriel Hopf,25,CH,CHE,00:31:00,02:24:55,01:22:20,00:03:46,00:02:22,04:24:23
+ironman-70.3-pays-d-aix-20120923.csv,290,Guillaume Icart,27,---,FRA,00:36:02,02:38:42,01:34:00,00:03:32,00:02:55,04:55:11
+ironman-70.3-pays-d-aix-20120923.csv,291,Nicolas Ieko,26,---,FRA,00:36:36,02:37:17,01:37:35,00:03:24,00:03:05,04:57:57
+ironman-70.3-pays-d-aix-20120923.csv,292,Maxime Jakubina,25,FR,FRA,00:36:58,02:56:41,02:11:48,00:06:24,00:05:12,05:57:03
+ironman-70.3-pays-d-aix-20120923.csv,293,David Mabboux,28,---,FRA,00:38:32,03:24:37,02:00:57,00:06:35,00:04:34,06:15:15
+ironman-70.3-pays-d-aix-20120923.csv,294,Paul Magranville,25,FR,FRA,00:37:51,03:19:43,02:28:37,00:06:15,00:04:45,06:37:11
+ironman-70.3-pays-d-aix-20120923.csv,295,Frédéric Mazet,25,FR,FRA,00:38:54,03:02:26,02:03:23,00:05:47,00:04:12,05:54:42
+ironman-70.3-pays-d-aix-20120923.csv,297,Jerome Nguyen,27,---,FRA,00:51:14,04:04:41,02:36:28,00:10:23,00:08:32,07:51:18
+ironman-70.3-pays-d-aix-20120923.csv,298,Jean-Pascal Nicolas,25,---,FRA,00:31:54,02:43:03,01:40:03,00:03:28,00:02:54,05:01:22
+ironman-70.3-pays-d-aix-20120923.csv,299,Fabien Perucca,29,---,FRA,00:28:40,02:56:02,01:43:45,00:04:07,00:05:18,05:17:52
+ironman-70.3-pays-d-aix-20120923.csv,300,Gael Pons,25,---,FRA,00:35:44,03:08:40,01:44:37,00:06:22,00:03:16,05:38:39
+ironman-70.3-pays-d-aix-20120923.csv,301,Julien Reynouard,28,---,FRA,00:45:51,03:48:02,02:29:19,00:07:40,00:04:08,07:15:00
+ironman-70.3-pays-d-aix-20120923.csv,303,Nicolas Rossit,26,FR,FRA,00:36:03,03:09:12,01:51:23,00:06:50,00:04:22,05:47:50
+ironman-70.3-pays-d-aix-20120923.csv,304,Julien Sola,28,---,FRA,00:31:57,02:33:44,01:28:05,00:04:09,00:03:10,04:41:05
+ironman-70.3-pays-d-aix-20120923.csv,305,Gregory Szmytko,26,---,FRA,00:47:45,03:56:43,02:17:20,00:08:31,00:04:59,07:15:18
+ironman-70.3-pays-d-aix-20120923.csv,306,Vincent Vatres,25,---,FRA,00:36:59,03:10:27,01:54:00,00:06:07,00:03:17,05:50:50
+ironman-70.3-pays-d-aix-20120923.csv,307,Guillaume Wolff,27,---,FRA,00:42:37,03:07:53,01:51:16,00:05:41,00:04:20,05:51:47
+ironman-70.3-pays-d-aix-20120923.csv,309,Marwin Achenbach,-4,GER,DEU,00:49:15,03:13:24,02:02:42,00:05:15,00:03:54,06:14:30
+ironman-70.3-pays-d-aix-20120923.csv,312,Eric Andreoni,32,FR,FRA,00:39:00,03:00:52,02:48:28,00:08:36,00:05:22,06:42:18
+ironman-70.3-pays-d-aix-20120923.csv,313,Ricard Aranyó Regàs,34,ES,ESP,00:25:47,02:53:48,01:37:00,00:03:35,00:03:29,05:03:39
+ironman-70.3-pays-d-aix-20120923.csv,314,Pascal Armand,31,---,FRA,00:36:32,03:07:22,02:00:06,00:07:10,00:04:36,05:55:46
+ironman-70.3-pays-d-aix-20120923.csv,315,Nicolas Auffray,31,FR,FRA,00:31:11,02:45:46,01:36:47,00:03:04,00:02:37,04:59:25
+ironman-70.3-pays-d-aix-20120923.csv,317,Cedric Baret,34,---,FRA,00:37:51,03:42:41,02:56:28,00:07:56,00:05:53,07:30:49
+ironman-70.3-pays-d-aix-20120923.csv,318,Roland Bauer,34,---,DEU,00:36:34,02:49:17,01:45:22,00:05:16,00:03:25,05:19:54
+ironman-70.3-pays-d-aix-20120923.csv,319,Benoit Baulain,30,FR,FRA,00:26:00,02:35:25,01:19:57,00:03:38,00:02:26,04:27:26
+ironman-70.3-pays-d-aix-20120923.csv,320,Christophe Baussant,34,---,FRA,00:41:46,03:24:59,02:08:36,00:05:51,00:04:26,06:25:38
+ironman-70.3-pays-d-aix-20120923.csv,321,Romain Benard,33,---,FRA,00:32:22,03:01:34,02:00:33,00:04:27,00:03:40,05:42:36
+ironman-70.3-pays-d-aix-20120923.csv,322,Antoine Bennevault,32,Aquitaine,FRA,00:35:49,02:59:32,01:52:13,00:07:04,00:04:05,05:38:43
+ironman-70.3-pays-d-aix-20120923.csv,323,Brice Benoliel,31,---,FRA,---,04:16:38,00:33:50,00:36:31,00:06:46,DNF
+ironman-70.3-pays-d-aix-20120923.csv,324,Irwin Bertrand,32,---,FRA,00:36:04,02:56:17,02:07:00,00:05:07,00:04:27,05:48:55
+ironman-70.3-pays-d-aix-20120923.csv,326,Marco Blasigh,31,---,ITA,00:36:38,03:30:46,02:20:40,00:07:30,00:04:32,06:40:06
+ironman-70.3-pays-d-aix-20120923.csv,328,Andrea Bordoni,33,italia,ITA,00:32:31,03:06:32,01:50:03,00:07:40,00:04:49,05:41:35
+ironman-70.3-pays-d-aix-20120923.csv,329,Fabien Brouste-Vincent,30,France,FRA,00:35:19,02:56:35,01:56:15,00:04:14,00:04:01,05:36:24
+ironman-70.3-pays-d-aix-20120923.csv,330,Charles Brunswick,34,---,FRA,00:35:45,03:03:05,02:22:01,00:05:41,00:04:25,06:10:57
+ironman-70.3-pays-d-aix-20120923.csv,331,Cedric Buche,33,---,FRA,00:30:06,03:05:07,02:16:49,00:04:54,00:03:03,05:59:59
+ironman-70.3-pays-d-aix-20120923.csv,332,- Burlace,38,---,GBR,00:41:37,03:36:43,02:06:24,00:06:58,00:05:11,06:36:53
+ironman-70.3-pays-d-aix-20120923.csv,333,Davide Cassaghi,30,Varese,ITA,00:33:09,03:14:10,01:52:02,00:05:47,00:03:44,05:48:52
+ironman-70.3-pays-d-aix-20120923.csv,334,Pierre Caussin,32,FR,BEL,00:31:10,02:54:41,02:05:56,00:05:27,00:04:32,05:41:46
+ironman-70.3-pays-d-aix-20120923.csv,335,Selim Cevik,32,---,TUR,00:32:44,02:51:13,01:43:40,00:04:53,00:03:11,05:15:41
+ironman-70.3-pays-d-aix-20120923.csv,337,Francois Chavet,31,---,FRA,00:39:39,03:07:19,01:49:17,00:04:46,00:04:31,05:45:32
+ironman-70.3-pays-d-aix-20120923.csv,339,Julien Dauphin,33,FR,FRA,00:41:41,03:01:34,01:51:37,00:09:15,00:04:16,05:48:23
+ironman-70.3-pays-d-aix-20120923.csv,340,Romain David,31,---,FRA,00:40:13,02:52:37,01:47:37,00:06:40,00:02:50,05:29:57
+ironman-70.3-pays-d-aix-20120923.csv,341,Nicolas Debons,34,---,CHE,00:31:46,02:34:23,01:21:14,00:03:29,00:02:30,04:33:22
+ironman-70.3-pays-d-aix-20120923.csv,342,Jean Delisle,33,FR,FRA,00:37:43,03:12:48,02:03:19,00:08:36,00:04:05,06:06:31
+ironman-70.3-pays-d-aix-20120923.csv,343,Sã©bastien Delobel,32,---,FRA,00:42:34,03:39:56,02:10:49,00:10:52,00:06:59,06:51:10
+ironman-70.3-pays-d-aix-20120923.csv,344,Thomas Dorfer,30,---,DEU,00:31:07,02:34:17,01:30:24,00:03:25,00:02:45,04:41:58
+ironman-70.3-pays-d-aix-20120923.csv,346,Bodo Dresel,34,Intl State,DEU,00:36:49,03:16:32,02:25:11,00:07:00,00:04:40,06:30:12
+ironman-70.3-pays-d-aix-20120923.csv,347,Anouar Driouach,30,FR,FRA,00:47:40,03:29:11,02:20:23,00:05:40,00:03:51,06:46:45
+ironman-70.3-pays-d-aix-20120923.csv,348,Stephan Dudzinski,32,FR,FRA,00:43:17,03:12:06,02:00:59,00:05:22,00:04:51,06:06:35
+ironman-70.3-pays-d-aix-20120923.csv,349,Fabrice Durand,30,---,FRA,00:36:52,02:56:38,02:06:58,00:06:32,00:03:57,05:50:57
+ironman-70.3-pays-d-aix-20120923.csv,350,Sebastien Duval,34,FR,FRA,00:41:00,02:59:24,01:50:45,00:05:50,00:04:01,05:41:00
+ironman-70.3-pays-d-aix-20120923.csv,351,Arnaud Edus,31,---,FRA,00:28:03,02:31:17,01:37:34,00:03:14,00:02:55,04:43:03
+ironman-70.3-pays-d-aix-20120923.csv,352,Italo Esselin Filho,30,GOIAS,BRA,00:27:11,02:47:53,01:44:06,00:04:33,00:02:56,05:06:39
+ironman-70.3-pays-d-aix-20120923.csv,353,Iman Ferro,34,isreal,ISR,00:49:57,03:32:27,02:27:10,00:08:35,00:06:10,07:04:19
+ironman-70.3-pays-d-aix-20120923.csv,354,Mark French,30,TX,GBR,00:37:21,03:05:23,01:40:37,00:06:23,00:03:28,05:33:12
+ironman-70.3-pays-d-aix-20120923.csv,355,Renaud Gatinet,31,---,FRA,00:34:05,02:37:48,01:35:42,00:04:44,00:06:34,04:58:53
+ironman-70.3-pays-d-aix-20120923.csv,356,Yann Gauduchon,33,---,FRA,00:30:48,02:34:43,01:36:22,00:03:34,00:02:38,04:48:05
+ironman-70.3-pays-d-aix-20120923.csv,357,Benito Gazzo,31,Italia,ITA,00:31:30,03:00:57,02:03:57,00:04:54,00:04:55,05:46:13
+ironman-70.3-pays-d-aix-20120923.csv,358,Dragos Georgescu,33,Bucharest,ROU,00:38:40,03:01:11,01:52:38,00:08:28,00:04:10,05:45:07
+ironman-70.3-pays-d-aix-20120923.csv,359,Emmanuel Giubilato,33,---,FRA,00:34:27,02:34:04,01:47:04,00:04:44,00:03:03,05:03:22
+ironman-70.3-pays-d-aix-20120923.csv,360,Philippe Godard,34,FR,FRA,00:27:43,02:36:14,01:35:13,00:03:51,00:02:43,04:45:44
+ironman-70.3-pays-d-aix-20120923.csv,361,Vincent Gorlier,32,---,FRA,00:28:53,02:58:59,01:43:29,00:05:08,00:04:35,05:21:04
+ironman-70.3-pays-d-aix-20120923.csv,362,William Gosse,31,---,FRA,00:31:32,02:40:49,01:33:26,00:04:15,00:02:58,04:53:00
+ironman-70.3-pays-d-aix-20120923.csv,363,Mathieu Guedon,33,---,FRA,00:35:32,02:33:39,01:34:36,00:03:26,00:02:43,04:49:56
+ironman-70.3-pays-d-aix-20120923.csv,364,Gael Guilloux,31,---,FRA,00:31:56,02:46:30,01:29:28,00:04:17,00:03:00,04:55:11
+ironman-70.3-pays-d-aix-20120923.csv,365,Pierre Guilpain,30,---,FRA,00:38:33,03:11:20,01:53:55,00:04:12,00:03:36,05:51:36
+ironman-70.3-pays-d-aix-20120923.csv,366,Jerome Halpern,34,FR,FRA,00:38:08,03:28:56,02:22:35,00:05:42,00:04:18,06:39:39
+ironman-70.3-pays-d-aix-20120923.csv,367,Guillaume Hamon,32,---,FRA,00:37:43,02:59:09,01:50:55,00:05:15,00:03:23,05:36:25
+ironman-70.3-pays-d-aix-20120923.csv,369,Herbert Idink,32,---,NLD,00:33:44,02:55:35,01:59:15,00:05:49,00:04:02,05:38:25
+ironman-70.3-pays-d-aix-20120923.csv,370,Sebastien Jahan De Lestang,32,---,FRA,00:37:15,02:58:55,01:45:25,00:09:15,00:03:55,05:34:45
+ironman-70.3-pays-d-aix-20120923.csv,371,Robert Jamieson,32,---,ZAF,00:38:55,03:21:59,02:12:46,00:10:14,00:07:03,06:30:57
+ironman-70.3-pays-d-aix-20120923.csv,373,Lukas Jutzi,31,---,CHE,00:37:34,02:30:21,01:27:35,00:03:46,00:02:27,04:41:43
+ironman-70.3-pays-d-aix-20120923.csv,375,Barlas Kazanci,32,kadikoy,TUR,00:26:53,02:57:25,01:26:33,00:04:06,00:03:02,04:57:59
+ironman-70.3-pays-d-aix-20120923.csv,376,Roland Viktor Kiss,34,---,HUN,00:39:35,03:28:27,02:30:19,00:07:22,00:04:46,06:50:29
+ironman-70.3-pays-d-aix-20120923.csv,379,David Lacombe,33,---,FRA,00:39:05,03:21:49,02:23:11,00:07:20,00:05:12,06:36:37
+ironman-70.3-pays-d-aix-20120923.csv,380,Romaric Ladet,30,---,FRA,00:33:06,02:36:50,01:23:43,00:03:38,00:10:14,04:47:31
+ironman-70.3-pays-d-aix-20120923.csv,381,Olivier Larose,33,---,FRA,00:38:36,03:15:22,02:16:50,00:06:54,00:04:09,06:21:51
+ironman-70.3-pays-d-aix-20120923.csv,385,Tanguy Legay,30,---,FRA,00:39:00,03:05:01,01:55:03,00:06:54,00:07:35,05:53:33
+ironman-70.3-pays-d-aix-20120923.csv,387,Michael Leouzon,34,Île-de-France,FRA,00:35:23,02:53:37,01:39:31,00:04:05,00:02:58,05:15:34
+ironman-70.3-pays-d-aix-20120923.csv,388,Mathieu Lerat,32,FR,FRA,00:44:07,02:50:27,01:37:02,00:05:03,00:02:44,05:19:23
+ironman-70.3-pays-d-aix-20120923.csv,389,Oliver Lieblein,30,---,DEU,00:29:16,02:42:07,01:31:51,00:03:41,00:03:30,04:50:25
+ironman-70.3-pays-d-aix-20120923.csv,390,Panu Lieto,30,Intl State,FIN,00:23:41,02:32:00,01:19:10,00:03:59,00:02:43,04:21:33
+ironman-70.3-pays-d-aix-20120923.csv,391,Frankie Lourdet,33,---,FRA,00:34:18,02:44:13,01:41:24,00:03:39,00:02:50,05:06:24
+ironman-70.3-pays-d-aix-20120923.csv,393,Philippe Malcolm,32,---,BEL,00:25:38,02:31:42,01:22:12,00:03:14,00:03:03,04:25:49
+ironman-70.3-pays-d-aix-20120923.csv,394,Nicolas Mariette,32,---,FRA,00:38:44,03:50:27,02:13:59,00:06:16,00:05:45,06:55:11
+ironman-70.3-pays-d-aix-20120923.csv,396,Thibaut Martinez,30,---,FRA,00:34:17,02:59:29,01:48:11,00:05:23,00:03:48,05:31:08
+ironman-70.3-pays-d-aix-20120923.csv,397,Christophe Mathias,34,---,FRA,00:34:17,02:41:04,01:34:07,00:04:25,00:02:39,04:56:32
+ironman-70.3-pays-d-aix-20120923.csv,398,Meinhard Vintler,30,---,AUT,00:35:45,05:07:27,---,00:05:28,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,399,Roger Melikian,34,---,FRA,00:45:21,03:28:36,02:29:10,00:07:16,00:04:07,06:54:30
+ironman-70.3-pays-d-aix-20120923.csv,400,Serge Mirra,34,FR,FRA,00:36:56,02:52:14,02:09:24,00:06:39,00:03:32,05:48:45
+ironman-70.3-pays-d-aix-20120923.csv,401,Rudy Moreira,30,FR,FRA,00:39:49,02:58:36,01:37:44,00:04:05,00:03:10,05:23:24
+ironman-70.3-pays-d-aix-20120923.csv,402,Renaud Musin,---,---,BEL,00:45:18,03:24:41,02:01:26,00:06:30,00:03:43,06:21:38
+ironman-70.3-pays-d-aix-20120923.csv,403,Sergey Nosov,31,---,RUS,00:36:29,03:10:42,01:55:22,00:08:19,00:04:11,05:55:03
+ironman-70.3-pays-d-aix-20120923.csv,405,Papadavid Dimokritos,31,Paphos,CYP,00:38:07,03:20:08,01:51:52,00:06:15,00:08:40,06:05:02
+ironman-70.3-pays-d-aix-20120923.csv,406,Pellegrin  Jeremy,31,FR,FRA,00:40:49,03:24:03,02:09:24,00:12:11,00:05:43,06:32:10
+ironman-70.3-pays-d-aix-20120923.csv,407,Michael Pessiglione,31,FR,FRA,00:38:59,02:57:42,02:15:01,00:06:33,00:04:09,06:02:24
+ironman-70.3-pays-d-aix-20120923.csv,408,Etienne Plouze,31,---,FRA,00:31:18,02:40:17,01:44:14,00:03:21,00:03:22,05:02:32
+ironman-70.3-pays-d-aix-20120923.csv,409,Romain Rabeau,31,---,FRA,00:39:15,03:36:27,02:14:47,00:10:11,00:06:09,06:46:49
+ironman-70.3-pays-d-aix-20120923.csv,410,Stéphane Rambaud,30,---,FRA,00:34:22,02:42:15,01:35:35,00:04:40,00:07:03,05:03:55
+ironman-70.3-pays-d-aix-20120923.csv,411,Clinton Rawlinson,33,Gauteng,ZAF,00:30:47,02:51:11,02:05:44,00:04:02,00:03:20,05:35:04
+ironman-70.3-pays-d-aix-20120923.csv,412,Jacques Rebufa,33,France,FRA,00:29:01,02:46:34,01:32:17,00:03:59,00:05:24,04:57:15
+ironman-70.3-pays-d-aix-20120923.csv,413,Matthew Rickard,30,SA,AUS,00:47:42,03:13:11,02:06:08,00:08:22,00:04:00,06:19:23
+ironman-70.3-pays-d-aix-20120923.csv,414,Oscar Rincon,33,---,COL,00:29:25,03:57:39,02:31:07,00:04:19,00:04:26,07:06:56
+ironman-70.3-pays-d-aix-20120923.csv,415,Fabian Rincon,30,FR,COL,00:37:17,03:35:45,02:13:49,00:06:23,00:03:45,06:36:59
+ironman-70.3-pays-d-aix-20120923.csv,416,Mario Rodlberger,32,---,DEU,00:46:17,03:23:47,01:50:05,00:07:22,00:04:03,06:11:34
+ironman-70.3-pays-d-aix-20120923.csv,417,Martin Irgens Ronã¦s,34,---,NOR,00:39:34,03:22:44,02:27:33,00:07:11,00:06:54,06:43:56
+ironman-70.3-pays-d-aix-20120923.csv,418,Romain Ruffet-Bon-Corps,31,---,FRA,00:41:44,03:04:38,01:57:41,00:04:48,00:03:49,05:52:40
+ironman-70.3-pays-d-aix-20120923.csv,419,Romain Sautrau,30,---,FRA,00:40:05,02:49:32,01:43:57,00:05:04,00:04:11,05:22:49
+ironman-70.3-pays-d-aix-20120923.csv,420,Etienne Schaaf,34,DE,DEU,00:34:45,02:47:06,01:51:44,00:06:15,00:04:16,05:24:06
+ironman-70.3-pays-d-aix-20120923.csv,421,Hugo Schittekat,33,---,BEL,00:36:47,02:59:40,01:45:58,00:05:05,00:04:07,05:31:37
+ironman-70.3-pays-d-aix-20120923.csv,422,Siegfried Schweiger,34,DE,DEU,00:35:54,02:50:47,02:05:02,00:06:35,00:03:37,05:41:55
+ironman-70.3-pays-d-aix-20120923.csv,423,Alan Scott,32,---,GBR,00:31:01,03:00:10,01:44:14,00:04:59,00:03:23,05:23:47
+ironman-70.3-pays-d-aix-20120923.csv,424,Denis Senianskii,34,Moscow,RUS,00:40:20,03:42:01,02:18:40,00:06:36,00:04:44,06:52:21
+ironman-70.3-pays-d-aix-20120923.csv,425,Ross Smith,31,London,ZAF,00:30:55,03:06:21,01:51:56,00:05:52,00:05:00,05:40:04
+ironman-70.3-pays-d-aix-20120923.csv,426,Adam Sorensen,30,WA,USA,00:43:31,03:52:26,02:10:38,00:13:13,00:07:33,07:07:21
+ironman-70.3-pays-d-aix-20120923.csv,427,Jaryd Sparg,30,---,ZAF,00:38:24,03:17:46,02:02:45,00:05:57,00:02:48,06:07:40
+ironman-70.3-pays-d-aix-20120923.csv,429,Vincent Tardieu,32,---,FRA,00:35:35,02:34:00,01:48:31,00:04:01,00:07:02,05:09:09
+ironman-70.3-pays-d-aix-20120923.csv,430,Philippe Tautil,31,---,FRA,00:30:39,02:52:03,01:37:26,00:04:29,00:03:19,05:07:56
+ironman-70.3-pays-d-aix-20120923.csv,432,Mattijs Van Druenen,30,NL,NLD,00:49:42,03:40:55,02:46:26,00:06:45,00:07:00,07:30:48
+ironman-70.3-pays-d-aix-20120923.csv,433,Kris Van Echelpoel,---,BE,BEL,00:35:41,02:55:40,01:55:53,00:05:13,00:05:30,05:37:57
+ironman-70.3-pays-d-aix-20120923.csv,434,Maarten Van Loon,33,---,BEL,00:32:28,03:06:14,01:44:26,00:07:04,00:03:43,05:33:55
+ironman-70.3-pays-d-aix-20120923.csv,435,Sã¡ndor Varga,33,---,HUN,00:47:23,03:02:49,02:04:41,00:05:35,00:04:09,06:04:37
+ironman-70.3-pays-d-aix-20120923.csv,436,Jozua Velle,34,---,BEL,00:35:41,03:15:57,02:19:38,00:05:28,00:03:54,06:20:38
+ironman-70.3-pays-d-aix-20120923.csv,437,Alexandre Vergete,31,RJ,BRA,00:34:08,02:38:21,01:51:21,00:05:21,00:03:16,05:12:27
+ironman-70.3-pays-d-aix-20120923.csv,438,Benjamin Vigneau,31,---,FRA,00:28:48,02:39:51,01:30:45,00:03:05,00:02:44,04:45:13
+ironman-70.3-pays-d-aix-20120923.csv,439,Samuel Vuillemez,33,---,CHE,00:27:17,02:49:43,01:32:57,00:04:05,00:03:33,04:57:35
+ironman-70.3-pays-d-aix-20120923.csv,441,Alex Wendt,32,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-pays-d-aix-20120923.csv,442,Aga Wicinska,30,---,POL,00:45:15,03:53:24,02:12:14,00:09:24,00:07:00,07:07:17
+ironman-70.3-pays-d-aix-20120923.csv,443,Etienne Wirz,30,---,CHE,00:30:32,02:39:03,01:49:34,00:04:00,00:03:01,05:06:10
+ironman-70.3-pays-d-aix-20120923.csv,444,Christoph Wllger,32,---,DEU,00:35:13,02:40:40,01:47:26,00:04:44,00:02:57,05:11:00
+ironman-70.3-pays-d-aix-20120923.csv,447,Timur ZAYNASHEV,30,---,RUS,00:38:55,03:21:45,01:37:49,00:07:00,00:03:31,05:49:00
+ironman-70.3-pays-d-aix-20120923.csv,448,Konstantin Zlatoustov,31,Moscow,RUS,00:45:58,04:06:12,02:29:14,00:05:39,00:04:54,07:31:57
+ironman-70.3-pays-d-aix-20120923.csv,449,Laurent Alteyrac,39,FR,FRA,00:34:44,03:11:08,02:08:04,00:07:47,00:04:42,06:06:25
+ironman-70.3-pays-d-aix-20120923.csv,450,Ignacio Arce Tallada,35,Other,ESP,00:33:04,03:04:47,01:45:44,00:04:59,00:04:59,05:33:33
+ironman-70.3-pays-d-aix-20120923.csv,451,Nick Barton,39,Somerset,ZAF,00:33:10,05:11:06,---,00:04:27,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,453,Julien Bertin,36,---,FRA,00:34:00,02:56:46,01:41:45,00:05:06,00:03:48,05:21:25
+ironman-70.3-pays-d-aix-20120923.csv,454,Guillaume Beurnaux,38,---,FRA,00:35:12,03:02:32,01:51:35,00:05:17,00:03:48,05:38:24
+ironman-70.3-pays-d-aix-20120923.csv,455,Edouard Binier,34,FR,FRA,00:41:32,03:13:19,02:01:20,00:08:44,00:05:18,06:10:13
+ironman-70.3-pays-d-aix-20120923.csv,456,Kennet Bjerg-Nielsen,36,---,DNK,00:45:43,02:52:15,01:40:50,00:07:25,00:04:27,05:30:40
+ironman-70.3-pays-d-aix-20120923.csv,457,Stephen Boccioli,36,---,FRA,00:36:41,02:55:43,01:52:39,00:04:43,00:03:32,05:33:18
+ironman-70.3-pays-d-aix-20120923.csv,458,Eric Bohec,38,---,FRA,00:42:20,03:01:48,02:06:17,00:07:43,00:03:59,06:02:07
+ironman-70.3-pays-d-aix-20120923.csv,459,Robert Booth,35,---,AUS,00:31:44,02:56:17,01:38:59,00:04:49,00:03:52,05:15:41
+ironman-70.3-pays-d-aix-20120923.csv,460,Lionel Bourroux,36,---,FRA,00:40:48,02:44:54,02:05:21,00:06:37,00:03:52,05:41:32
+ironman-70.3-pays-d-aix-20120923.csv,464,Colin Buck,39,ES,ZAF,00:41:04,03:07:15,01:48:32,00:09:47,00:03:53,05:50:31
+ironman-70.3-pays-d-aix-20120923.csv,465,Angus Calderwood,37,Kent,ZAF,00:34:57,02:56:40,01:44:57,00:06:10,00:06:30,05:29:14
+ironman-70.3-pays-d-aix-20120923.csv,466,Steve Cary,37,---,FRA,00:35:44,02:50:42,01:55:01,00:04:42,00:03:18,05:29:27
+ironman-70.3-pays-d-aix-20120923.csv,467,Thomas Castaignede,37,---,FRA,00:48:28,03:23:28,02:27:05,00:06:37,00:05:23,06:51:01
+ironman-70.3-pays-d-aix-20120923.csv,470,Gareth Clarke,38,---,GBR,00:37:53,02:59:05,01:42:42,00:06:31,00:03:53,05:30:04
+ironman-70.3-pays-d-aix-20120923.csv,471,Philip Cleynens,38,---,BEL,00:34:07,02:37:04,01:26:37,00:05:57,00:03:27,04:47:12
+ironman-70.3-pays-d-aix-20120923.csv,473,Joachim Coudiere,38,FR,FRA,00:33:05,03:03:12,01:53:31,00:04:44,00:03:52,05:38:24
+ironman-70.3-pays-d-aix-20120923.csv,474,Sebastien Couhe,35,---,FRA,00:41:46,03:10:38,02:22:26,00:05:01,00:03:47,06:23:38
+ironman-70.3-pays-d-aix-20120923.csv,475,Vassili Crosson,35,FR,FRA,00:33:03,02:43:10,01:41:34,00:05:30,00:03:24,05:06:41
+ironman-70.3-pays-d-aix-20120923.csv,476,Michel Crouzat,39,---,FRA,00:41:32,03:33:35,02:15:36,00:06:30,00:05:46,06:42:59
+ironman-70.3-pays-d-aix-20120923.csv,477,Nicolas Czorny,35,FR,FRA,00:37:25,02:59:00,02:07:06,00:06:27,00:05:25,05:55:23
+ironman-70.3-pays-d-aix-20120923.csv,479,Frederik De Groote,36,---,BEL,00:39:38,03:02:49,02:20:40,00:05:19,00:03:53,06:12:19
+ironman-70.3-pays-d-aix-20120923.csv,480,Francesco De Palma,35,FR,ITA,00:36:18,02:59:53,02:04:43,00:06:25,00:03:43,05:51:02
+ironman-70.3-pays-d-aix-20120923.csv,481,Kurt De Wael,35,---,BEL,00:46:39,02:53:55,01:56:49,00:05:04,00:03:14,05:45:41
+ironman-70.3-pays-d-aix-20120923.csv,482,Christian Del Valle,37,ON,CAN,00:35:02,03:12:52,01:53:46,00:08:37,00:03:47,05:54:04
+ironman-70.3-pays-d-aix-20120923.csv,483,Thierry Delbaere,39,---,FRA,00:46:17,03:20:57,02:18:53,00:06:04,00:04:30,06:36:41
+ironman-70.3-pays-d-aix-20120923.csv,484,Fabien Deurieu,37,---,FRA,00:41:19,03:08:58,02:05:31,00:05:22,00:03:06,06:04:16
+ironman-70.3-pays-d-aix-20120923.csv,485,Jamie Douglas,37,---,IRL,00:36:59,03:20:21,00:45:06,00:05:50,00:06:12,DNF
+ironman-70.3-pays-d-aix-20120923.csv,486,Arnaud Douilliez,37,---,FRA,00:39:31,03:03:27,01:53:24,00:06:30,00:03:59,05:46:51
+ironman-70.3-pays-d-aix-20120923.csv,487,Mathieu Dumont,39,FR,FRA,00:38:31,02:53:17,01:32:47,00:05:34,00:03:22,05:13:31
+ironman-70.3-pays-d-aix-20120923.csv,488,Robin Estes,34,GA,USA,00:34:52,03:12:46,02:09:53,00:05:02,00:04:09,06:06:42
+ironman-70.3-pays-d-aix-20120923.csv,490,Roland Faninger,39,DE,DEU,00:40:28,03:41:18,02:37:48,00:08:59,00:05:52,07:14:25
+ironman-70.3-pays-d-aix-20120923.csv,492,Sergey Fedorets,37,NY,USA,00:31:05,03:16:24,02:01:56,00:05:11,00:03:35,05:58:11
+ironman-70.3-pays-d-aix-20120923.csv,495,Simone Forlani,38,Pavia,ITA,00:28:40,02:27:13,01:30:10,00:04:39,00:03:03,04:33:45
+ironman-70.3-pays-d-aix-20120923.csv,496,Paul Foster,39,---,GBR,00:43:28,02:58:31,01:47:17,00:06:14,00:04:29,05:39:59
+ironman-70.3-pays-d-aix-20120923.csv,498,Eric Frapy,37,FR,FRA,00:41:39,03:06:43,02:11:55,00:06:14,00:04:01,06:10:32
+ironman-70.3-pays-d-aix-20120923.csv,499,Jonathan Furuya,39,N/A,GBR,00:40:25,03:02:10,---,00:05:17,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,500,Matteo Galanti,---,---,ITA,00:37:49,03:07:39,02:01:57,00:06:43,00:04:10,05:58:18
+ironman-70.3-pays-d-aix-20120923.csv,501,Franck Gallo,38,---,FRA,00:33:03,02:54:56,01:58:55,00:04:03,00:04:05,05:35:02
+ironman-70.3-pays-d-aix-20120923.csv,502,Pascal Gasser,37,---,CHE,00:36:57,03:03:20,01:57:40,00:06:48,00:03:39,05:48:24
+ironman-70.3-pays-d-aix-20120923.csv,503,Michael Gente,38,France,FRA,00:40:23,03:05:10,01:59:54,00:05:23,00:03:58,05:54:48
+ironman-70.3-pays-d-aix-20120923.csv,504,Martin Goffard,39,---,BEL,00:37:04,03:10:49,02:40:34,00:05:29,00:04:45,06:38:41
+ironman-70.3-pays-d-aix-20120923.csv,505,Alain Grondin,37,FR,FRA,00:35:41,03:15:50,02:08:38,00:06:51,00:04:32,06:11:32
+ironman-70.3-pays-d-aix-20120923.csv,507,Christopher Grover,36,---,GBR,00:46:26,03:24:51,02:20:28,00:05:47,00:05:34,06:43:06
+ironman-70.3-pays-d-aix-20120923.csv,508,David Guertin,37,MA,USA,00:38:13,03:15:24,01:50:55,00:05:12,00:03:39,05:53:23
+ironman-70.3-pays-d-aix-20120923.csv,509,Fabien Haddadi,38,FR,AUS,00:39:06,03:01:34,01:56:52,00:08:56,00:07:25,05:53:53
+ironman-70.3-pays-d-aix-20120923.csv,510,Jack Handcock,35,---,ZAF,00:31:37,03:11:10,02:08:54,00:06:55,00:04:37,06:03:13
+ironman-70.3-pays-d-aix-20120923.csv,511,Kevin Harding,---,GBR,GBR,00:40:14,03:30:50,02:42:37,00:05:45,00:07:50,07:07:16
+ironman-70.3-pays-d-aix-20120923.csv,512,Philippe Havard,39,---,FRA,00:35:09,02:52:27,01:50:09,00:04:18,00:03:37,05:25:40
+ironman-70.3-pays-d-aix-20120923.csv,513,Hugo Hopstaken,39,---,NLD,00:34:13,03:08:47,02:02:22,00:05:30,00:03:47,05:54:39
+ironman-70.3-pays-d-aix-20120923.csv,514,Fabrice  Houzelle,37,Intl State,FRA,00:29:21,02:28:08,01:22:00,00:03:35,00:02:29,04:25:33
+ironman-70.3-pays-d-aix-20120923.csv,515,Steve Husistein,35,---,CHE,00:35:36,02:40:41,01:43:18,00:04:49,00:07:36,05:12:00
+ironman-70.3-pays-d-aix-20120923.csv,516,Todd Hymel,39,---,USA,00:43:13,03:08:58,02:14:07,00:08:09,00:03:48,06:18:15
+ironman-70.3-pays-d-aix-20120923.csv,517,Vartan Ibranyan,39,---,ESP,00:33:23,02:49:30,---,00:04:47,00:03:37,DNF
+ironman-70.3-pays-d-aix-20120923.csv,518,Didier Ivarra,39,---,FRA,00:32:47,02:49:29,01:29:19,00:04:38,00:02:49,04:59:02
+ironman-70.3-pays-d-aix-20120923.csv,519,Frederic Javey,39,---,FRA,00:38:45,02:58:39,01:39:20,00:05:45,00:03:22,05:25:51
+ironman-70.3-pays-d-aix-20120923.csv,520,Mael Jodar,35,---,FRA,00:35:53,02:44:34,---,00:04:44,00:03:20,DNF
+ironman-70.3-pays-d-aix-20120923.csv,522,Janis Kasalis,39,Riga,LVA,00:39:16,03:10:02,01:46:26,00:07:54,00:04:27,05:48:05
+ironman-70.3-pays-d-aix-20120923.csv,523,Grégory Kehl,38,BE,BEL,00:36:39,03:03:35,02:08:30,00:06:18,00:05:20,06:00:22
+ironman-70.3-pays-d-aix-20120923.csv,524,Vincent Kerloch,38,---,FRA,00:42:43,03:08:43,01:48:49,00:12:48,00:06:41,05:59:44
+ironman-70.3-pays-d-aix-20120923.csv,525,Reto Klingenfuss,39,---,CHE,00:30:26,02:50:07,01:22:57,00:06:05,00:03:46,04:53:21
+ironman-70.3-pays-d-aix-20120923.csv,527,Dimitri Lagast,36,---,FRA,00:31:54,02:43:57,01:32:08,00:06:53,00:02:45,04:57:37
+ironman-70.3-pays-d-aix-20120923.csv,530,Morgan Laquet,35,---,FRA,00:30:34,02:50:06,01:40:07,00:04:19,00:03:10,05:08:16
+ironman-70.3-pays-d-aix-20120923.csv,531,Nicolas Lecordonnier,35,---,FRA,00:47:46,03:37:47,01:51:23,00:05:59,00:04:09,06:27:04
+ironman-70.3-pays-d-aix-20120923.csv,532,Gregory Lefeuvre,37,---,FRA,00:34:40,03:11:35,02:03:33,00:06:43,00:04:56,06:01:27
+ironman-70.3-pays-d-aix-20120923.csv,533,Guillaume Lefevre,37,---,FRA,00:29:12,02:51:16,02:21:18,00:04:57,00:04:18,05:51:01
+ironman-70.3-pays-d-aix-20120923.csv,534,Jã©rã´me Lehmann,---,---,FRA,00:38:24,03:36:32,02:23:22,00:05:15,00:06:52,06:50:25
+ironman-70.3-pays-d-aix-20120923.csv,535,Stéphane Lillo,39,---,FRA,00:35:34,03:12:23,01:59:38,00:05:22,00:03:11,05:56:08
+ironman-70.3-pays-d-aix-20120923.csv,536,Cã©dric Lio,---,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-pays-d-aix-20120923.csv,538,Nicolas Ludmann,35,---,FRA,00:41:56,02:57:16,01:45:04,00:04:46,00:03:53,05:32:55
+ironman-70.3-pays-d-aix-20120923.csv,540,Sylvain Macke,38,---,FRA,00:39:10,02:54:33,01:32:43,00:09:08,00:05:26,05:21:00
+ironman-70.3-pays-d-aix-20120923.csv,541,Philippe Mannes,35,---,BEL,00:34:21,03:00:48,02:20:15,00:05:51,00:07:25,06:08:40
+ironman-70.3-pays-d-aix-20120923.csv,542,Puygrenier Marc,---,---,FRA,00:32:39,02:58:02,01:40:12,00:05:24,00:03:46,05:20:03
+ironman-70.3-pays-d-aix-20120923.csv,543,Laurent Marino,38,---,FRA,00:32:26,02:44:43,01:48:49,00:04:52,00:07:27,05:18:17
+ironman-70.3-pays-d-aix-20120923.csv,544,Jarno Martikainen,36,---,FIN,00:32:13,03:00:43,01:59:01,00:06:20,00:03:13,05:41:30
+ironman-70.3-pays-d-aix-20120923.csv,545,Grégoire Mazuel,39,UK,FRA,00:42:55,03:24:07,01:50:13,00:07:54,00:04:03,06:09:12
+ironman-70.3-pays-d-aix-20120923.csv,547,Konstantin Men,37,---,RUS,00:46:12,03:39:22,02:06:05,00:07:01,00:06:54,06:45:34
+ironman-70.3-pays-d-aix-20120923.csv,548,Thiago De Camargo Penteado Mendes,37,Sao Paulo,BRA,00:39:18,03:24:53,02:08:16,00:09:33,00:05:45,06:27:45
+ironman-70.3-pays-d-aix-20120923.csv,549,Samuel Menti,39,---,CHE,00:30:59,02:53:14,01:55:45,00:04:39,00:04:01,05:28:38
+ironman-70.3-pays-d-aix-20120923.csv,550,Ignazio Messina,37,---,ITA,00:33:03,02:47:48,01:42:49,00:05:58,00:04:01,05:13:39
+ironman-70.3-pays-d-aix-20120923.csv,551,Francesco Milani,35,---,ITA,00:34:51,03:01:00,01:52:37,00:04:34,00:04:00,05:37:02
+ironman-70.3-pays-d-aix-20120923.csv,552,Johann Mondet,35,---,FRA,00:40:25,03:19:56,02:10:09,00:06:37,00:03:52,06:20:59
+ironman-70.3-pays-d-aix-20120923.csv,553,Paolo Montella,36,---,ITA,00:42:33,03:27:54,02:36:15,00:06:40,00:04:49,06:58:11
+ironman-70.3-pays-d-aix-20120923.csv,555,Jean Michel Morette,35,FR,FRA,00:34:43,03:06:36,01:51:39,00:07:04,00:03:23,05:43:25
+ironman-70.3-pays-d-aix-20120923.csv,556,Thibaut Mossalgue,37,FR,FRA,00:36:08,02:51:49,01:41:26,00:06:03,00:03:25,05:18:51
+ironman-70.3-pays-d-aix-20120923.csv,557,Jamel Oulidi,35,FR,FRA,00:31:45,02:55:07,01:49:41,00:04:57,00:03:11,05:24:41
+ironman-70.3-pays-d-aix-20120923.csv,558,Filippo Pasini,38,Reggio Emilia,ITA,00:42:35,03:38:40,02:09:08,00:10:16,00:05:13,06:45:52
+ironman-70.3-pays-d-aix-20120923.csv,559,Ludovic Pasquini,35,FR,FRA,00:36:23,03:07:16,01:49:24,00:04:48,00:03:40,05:41:31
+ironman-70.3-pays-d-aix-20120923.csv,560,Mathias Perthuis,39,---,FRA,00:42:49,03:14:12,02:13:29,00:06:34,00:04:14,06:21:18
+ironman-70.3-pays-d-aix-20120923.csv,561,Fabien Petit,36,---,FRA,00:39:03,02:53:36,02:03:00,00:05:31,00:04:46,05:45:56
+ironman-70.3-pays-d-aix-20120923.csv,563,Dario Piller,38,ITA,ITA,00:33:58,02:35:48,01:35:06,00:05:04,00:03:23,04:53:19
+ironman-70.3-pays-d-aix-20120923.csv,564,Patrick Plé,39,---,CHE,00:28:11,02:35:03,01:25:22,00:04:22,00:03:27,04:36:25
+ironman-70.3-pays-d-aix-20120923.csv,566,Michael Raaijmakers,38,---,NLD,00:33:24,03:06:37,01:42:25,00:05:03,00:04:17,05:31:46
+ironman-70.3-pays-d-aix-20120923.csv,567,Alberto Ravizza,35,---,ITA,00:32:50,03:29:22,01:50:06,00:07:38,00:04:59,06:04:55
+ironman-70.3-pays-d-aix-20120923.csv,568,Sebastien Renaud,38,FR,FRA,00:35:16,02:56:32,01:45:16,00:05:37,00:03:35,05:26:16
+ironman-70.3-pays-d-aix-20120923.csv,569,Olivier Rieu,37,---,SWE,00:42:03,03:20:34,01:58:58,00:06:06,00:03:22,06:11:03
+ironman-70.3-pays-d-aix-20120923.csv,570,Christophe Rios,39,---,FRA,00:31:55,03:02:16,01:42:45,00:07:53,00:04:28,05:29:17
+ironman-70.3-pays-d-aix-20120923.csv,571,Cedric Rossini,38,---,FRA,00:36:55,02:45:12,01:44:37,00:04:49,00:02:53,05:14:26
+ironman-70.3-pays-d-aix-20120923.csv,572,Yannick Rotty,37,---,FRA,00:32:48,02:49:13,02:07:20,00:04:53,00:04:10,05:38:24
+ironman-70.3-pays-d-aix-20120923.csv,573,Laurent Rouleau,37,---,FRA,00:49:56,03:39:06,02:21:53,00:10:02,00:06:47,07:07:44
+ironman-70.3-pays-d-aix-20120923.csv,574,Sebastien Rouquette,36,---,FRA,00:38:46,03:14:45,01:54:21,00:06:24,00:04:41,05:58:57
+ironman-70.3-pays-d-aix-20120923.csv,576,Angel Sanz,---,---,ESP,00:36:35,03:01:33,01:44:33,00:04:31,00:02:58,05:30:10
+ironman-70.3-pays-d-aix-20120923.csv,577,Robin Sauvageot,37,FR,FRA,00:43:37,03:07:15,01:52:54,00:08:04,00:03:39,05:55:29
+ironman-70.3-pays-d-aix-20120923.csv,579,Matteo Sclosa,35,ita,ITA,00:33:07,02:50:48,01:31:11,00:03:34,00:02:44,05:01:24
+ironman-70.3-pays-d-aix-20120923.csv,580,Mandracchia Stéphane,39,FR,FRA,00:34:36,02:58:33,02:09:04,00:06:44,00:04:05,05:53:02
+ironman-70.3-pays-d-aix-20120923.csv,581,Gerry Stijlemans,40,---,BEL,00:43:56,03:28:49,02:18:20,00:05:34,00:04:03,06:40:42
+ironman-70.3-pays-d-aix-20120923.csv,583,Reginald Thardin,39,---,FRA,00:43:56,03:35:35,02:19:16,00:05:28,00:04:10,06:48:25
+ironman-70.3-pays-d-aix-20120923.csv,584,Dmitrii Trushtalevskii,37,---,RUS,00:44:05,04:32:51,---,00:06:33,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,585,Andy Veall,37,SHJ,GBR,00:41:18,03:16:07,02:04:48,00:04:53,00:04:11,06:11:17
+ironman-70.3-pays-d-aix-20120923.csv,586,Damiano Vedova,39,---,CHE,00:28:00,02:34:40,01:59:01,00:03:39,00:03:09,05:08:29
+ironman-70.3-pays-d-aix-20120923.csv,589,Vincent Very,35,---,FRA,00:38:02,02:44:16,01:36:56,00:06:03,00:03:20,05:08:37
+ironman-70.3-pays-d-aix-20120923.csv,590,Zolene Wafelbakker,35,TX,NZL,00:39:41,03:25:40,02:21:50,00:07:13,00:06:25,06:40:49
+ironman-70.3-pays-d-aix-20120923.csv,591,David Watt,36,---,GBR,00:35:39,02:45:37,00:21:40,00:05:10,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,592,Anthony Wilkinson,38,---,AUS,00:43:32,03:05:56,02:14:06,00:06:57,00:04:32,06:15:03
+ironman-70.3-pays-d-aix-20120923.csv,593,Giuseppe Zito,---,---,ITA,00:43:15,03:08:53,02:27:28,00:06:22,00:04:52,06:30:50
+ironman-70.3-pays-d-aix-20120923.csv,594,Geoff Adamson,39,Luxembourg,CAN,00:34:41,03:56:33,02:30:09,00:08:05,00:04:58,07:14:26
+ironman-70.3-pays-d-aix-20120923.csv,595,Christian Alexandre,41,---,BEL,00:50:19,04:26:40,---,00:06:55,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,596,Eric Amat,43,---,FRA,00:37:26,03:07:00,02:08:26,00:05:54,00:04:05,06:02:51
+ironman-70.3-pays-d-aix-20120923.csv,597,Etienne Amic,42,---,FRA,00:38:23,03:26:57,02:02:28,00:05:25,00:04:36,06:17:49
+ironman-70.3-pays-d-aix-20120923.csv,598,Michal Antkowski,41,---,POL,00:38:57,03:21:24,02:14:22,00:07:17,00:04:14,06:26:14
+ironman-70.3-pays-d-aix-20120923.csv,600,Dzhamil Asfari,40,---,LBN,00:39:17,02:48:11,01:48:00,00:05:23,00:03:24,05:24:15
+ironman-70.3-pays-d-aix-20120923.csv,602,J�rg Bl�ttler,40,---,CHE,00:44:40,03:18:28,02:36:04,00:06:28,00:06:32,06:52:12
+ironman-70.3-pays-d-aix-20120923.csv,603,Cesare Bonotto,42,---,ITA,00:31:26,02:52:08,01:34:22,00:04:44,00:04:32,05:07:12
+ironman-70.3-pays-d-aix-20120923.csv,604,Stephane Bossi,40,---,FRA,00:45:09,03:14:46,02:32:52,00:05:52,00:04:45,06:43:24
+ironman-70.3-pays-d-aix-20120923.csv,605,Sébastien Bouige,42,---,FRA,00:35:23,03:11:12,01:51:13,00:07:25,00:04:52,05:50:05
+ironman-70.3-pays-d-aix-20120923.csv,607,Bart Brulez,42,BE,BEL,00:32:57,03:06:56,02:15:36,00:06:18,00:04:56,06:06:43
+ironman-70.3-pays-d-aix-20120923.csv,608,Eric Bruwier,43,---,BEL,00:33:00,02:48:55,01:39:34,00:04:52,00:03:20,05:09:41
+ironman-70.3-pays-d-aix-20120923.csv,609,Tomas Carpentier,42,---,BEL,00:33:10,03:05:23,02:21:12,00:06:22,00:06:12,06:12:19
+ironman-70.3-pays-d-aix-20120923.csv,611,Neil Caswell,42,---,GBR,00:44:29,03:11:22,02:06:22,00:05:36,00:03:57,06:11:46
+ironman-70.3-pays-d-aix-20120923.csv,612,Lee Cerasani,40,FL,USA,00:29:08,02:48:45,01:41:57,00:06:22,00:03:25,05:09:37
+ironman-70.3-pays-d-aix-20120923.csv,614,Thierry CIVATTE,43,---,FRA,00:34:14,03:11:27,01:53:32,00:05:52,00:03:23,05:48:28
+ironman-70.3-pays-d-aix-20120923.csv,615,Didier Claude,41,---,FRA,00:38:53,03:13:04,01:50:20,00:06:47,00:03:38,05:52:42
+ironman-70.3-pays-d-aix-20120923.csv,616,Thierry Claus,40,---,FRA,00:33:39,03:20:06,02:55:08,00:05:26,00:04:02,06:58:21
+ironman-70.3-pays-d-aix-20120923.csv,617,Lars Clausen,44,---,DNK,00:47:06,03:24:23,02:30:23,00:07:50,00:05:37,06:55:19
+ironman-70.3-pays-d-aix-20120923.csv,618,Peter Cornwell,44,---,GBR,00:37:42,03:13:44,01:55:46,00:07:11,00:03:30,05:57:53
+ironman-70.3-pays-d-aix-20120923.csv,619,Francesco Costantini,41,---,ITA,00:44:18,03:28:08,02:15:01,00:11:33,00:06:02,06:45:02
+ironman-70.3-pays-d-aix-20120923.csv,620,Frederic Crouzier,42,APO,FRA,00:38:25,03:32:56,02:12:57,00:07:27,00:05:08,06:36:53
+ironman-70.3-pays-d-aix-20120923.csv,621,Ron Cunningham,42,---,GBR,00:41:49,03:39:42,02:31:59,00:05:53,00:06:08,07:05:31
+ironman-70.3-pays-d-aix-20120923.csv,623,Stã©phane Daudrix,---,Aquitaine,FRA,00:32:36,02:36:21,01:28:00,00:03:40,00:02:38,04:43:15
+ironman-70.3-pays-d-aix-20120923.csv,624,Stefaan De Maeyer,42,---,BEL,00:35:23,02:57:49,01:53:15,00:05:24,00:04:08,05:35:59
+ironman-70.3-pays-d-aix-20120923.csv,625,Jã©rã´me De Preneuf,---,---,FRA,00:40:31,03:50:49,02:48:42,00:09:25,00:20:52,07:50:19
+ironman-70.3-pays-d-aix-20120923.csv,626,Christian De Watteville,41,---,CHE,00:32:02,02:52:06,01:44:24,00:04:45,00:02:40,05:15:57
+ironman-70.3-pays-d-aix-20120923.csv,628,Laurent Deage,43,---,FRA,00:38:37,03:19:13,02:34:11,00:05:43,00:04:27,06:42:11
+ironman-70.3-pays-d-aix-20120923.csv,629,Christopher Dean,44,surrey,GNB,00:36:26,02:58:12,02:20:25,00:04:04,00:03:25,06:02:32
+ironman-70.3-pays-d-aix-20120923.csv,632,Edward Dickinson,41,---,GBR,00:42:02,03:53:33,02:05:37,00:08:05,00:07:41,06:56:58
+ironman-70.3-pays-d-aix-20120923.csv,633,Damien Didier,39,---,FRA,00:31:49,02:37:38,01:26:31,00:02:58,00:02:33,04:41:29
+ironman-70.3-pays-d-aix-20120923.csv,635,Olivier Duchaussoy,39,---,FRA,00:36:32,03:02:12,02:14:26,00:05:31,00:03:39,06:02:20
+ironman-70.3-pays-d-aix-20120923.csv,636,Fabrice Dumortier,43,FRANCE,FRA,00:33:59,03:10:52,02:22:18,00:06:10,00:03:53,06:17:12
+ironman-70.3-pays-d-aix-20120923.csv,637,Philippe Duret,39,---,FRA,00:35:14,02:58:55,02:02:29,00:05:19,00:04:18,05:46:15
+ironman-70.3-pays-d-aix-20120923.csv,638,Fabien Dutriaux,42,---,FRA,00:37:23,03:22:41,02:06:19,00:04:29,00:03:29,06:14:21
+ironman-70.3-pays-d-aix-20120923.csv,639,Paul Eager,44,IN,USA,00:43:15,03:27:40,01:58:03,00:08:07,00:05:42,06:22:47
+ironman-70.3-pays-d-aix-20120923.csv,640,Bruce Edwards,42,---,GBR,00:35:09,02:47:24,01:42:08,00:05:38,00:04:28,05:14:47
+ironman-70.3-pays-d-aix-20120923.csv,641,Dean Elliott,42,Risaralda,GBR,00:55:52,04:02:33,02:42:03,00:06:28,00:06:16,07:53:12
+ironman-70.3-pays-d-aix-20120923.csv,642,Francois Englebin,40,---,BEL,00:34:33,03:04:12,01:44:16,00:08:51,00:04:43,05:36:35
+ironman-70.3-pays-d-aix-20120923.csv,643,Espie Guillaume,41,---,FRA,00:34:21,02:47:39,01:42:41,00:04:58,00:04:05,05:13:44
+ironman-70.3-pays-d-aix-20120923.csv,644,Patrick Estepa,43,---,FRA,00:30:11,02:51:05,01:50:52,00:04:23,00:03:38,05:20:09
+ironman-70.3-pays-d-aix-20120923.csv,645,Anthony Favre,40,FR,FRA,01:00:12,03:27:47,---,00:08:27,00:07:09,DNF
+ironman-70.3-pays-d-aix-20120923.csv,646,Jorge Fernandez,44,---,ESP,00:38:22,03:01:56,01:37:13,00:04:13,00:02:27,05:24:11
+ironman-70.3-pays-d-aix-20120923.csv,647,Thierry Fonteix,43,FR,FRA,00:36:22,03:01:26,02:05:44,00:05:09,00:03:56,05:52:37
+ironman-70.3-pays-d-aix-20120923.csv,648,Garth Fox,41,---,GBR,00:31:19,03:09:59,01:39:08,00:05:26,00:03:51,05:29:43
+ironman-70.3-pays-d-aix-20120923.csv,649,Olivier Franceschelli,44,FR,FRA,00:47:49,03:23:03,02:24:26,00:09:11,00:06:06,06:50:35
+ironman-70.3-pays-d-aix-20120923.csv,650,Luca Franci,41,Bologna,ITA,00:33:41,03:13:36,01:57:31,00:05:29,00:04:25,05:54:42
+ironman-70.3-pays-d-aix-20120923.csv,651,Pascal Fumeaux,44,---,CHE,00:35:42,02:48:16,01:50:42,00:05:22,00:03:52,05:23:54
+ironman-70.3-pays-d-aix-20120923.csv,652,Gavin Gaizley,41,Gauteng,ZAF,00:39:59,04:14:51,02:49:58,00:07:38,00:05:52,07:58:18
+ironman-70.3-pays-d-aix-20120923.csv,653,Jean-Marie Gaudichau,40,---,FRA,00:36:42,02:56:46,01:44:29,00:04:58,00:03:09,05:26:04
+ironman-70.3-pays-d-aix-20120923.csv,654,Thomas Gazel,41,---,FRA,00:35:08,03:37:07,02:10:05,00:11:53,00:09:07,06:43:20
+ironman-70.3-pays-d-aix-20120923.csv,655,Christophe Gigante,42,---,FRA,00:39:08,02:54:07,01:46:38,00:05:10,00:03:45,05:28:48
+ironman-70.3-pays-d-aix-20120923.csv,656,Stéphane Giuge,43,---,FRA,00:33:58,02:57:33,02:16:10,00:04:48,00:03:11,05:55:40
+ironman-70.3-pays-d-aix-20120923.csv,657,Thomas Gomez,---,---,FRA,00:28:14,02:51:52,01:53:13,00:04:28,00:04:01,05:21:48
+ironman-70.3-pays-d-aix-20120923.csv,658,Nicola Gonzato,40,---,ITA,00:36:02,03:02:57,02:05:11,00:08:38,00:04:15,05:57:03
+ironman-70.3-pays-d-aix-20120923.csv,660,Philippe Gouy,41,---,FRA,00:37:05,03:05:17,02:09:59,00:08:46,00:04:36,06:05:43
+ironman-70.3-pays-d-aix-20120923.csv,661,Robert Griffith,43,Staffs,GBR,00:50:12,04:24:03,02:47:51,00:07:37,00:03:35,08:13:18
+ironman-70.3-pays-d-aix-20120923.csv,662,Alain Guérard,44,---,FRA,00:47:43,03:57:25,02:17:06,00:05:58,00:05:07,07:13:19
+ironman-70.3-pays-d-aix-20120923.csv,663,Philippe Guilletat,43,FR,FRA,00:36:51,03:12:11,01:48:02,00:04:16,00:03:06,05:44:26
+ironman-70.3-pays-d-aix-20120923.csv,665,Franck Haas,43,---,FRA,00:32:46,02:34:26,01:29:11,00:06:21,00:03:15,DNF
+ironman-70.3-pays-d-aix-20120923.csv,667,Michael Hall,41,Surrey,GBR,00:36:45,03:23:03,02:21:52,00:06:04,00:05:33,06:33:17
+ironman-70.3-pays-d-aix-20120923.csv,668,Noy Avinuam Hazan,41,Israel ,ISR,00:45:26,03:27:25,01:37:50,00:08:17,00:03:48,06:02:46
+ironman-70.3-pays-d-aix-20120923.csv,669,Thierry Henriet,44,---,FRA,00:29:24,02:51:57,01:32:41,00:03:56,00:03:14,05:01:12
+ironman-70.3-pays-d-aix-20120923.csv,670,Benoît Hermans,44,---,BEL,00:35:38,02:56:45,01:54:42,00:06:15,00:03:23,05:36:43
+ironman-70.3-pays-d-aix-20120923.csv,671,sebastien herr,44,FR,FRA,00:43:12,03:28:29,02:19:31,00:08:45,00:07:05,06:47:02
+ironman-70.3-pays-d-aix-20120923.csv,673,Julien Hubert,40,---,FRA,00:36:50,03:28:05,02:28:33,00:08:39,00:05:20,06:47:27
+ironman-70.3-pays-d-aix-20120923.csv,674,Gareth Huxley,42,Tyne and Wear,GBR,00:30:56,02:43:04,01:31:01,00:04:53,00:02:52,04:52:46
+ironman-70.3-pays-d-aix-20120923.csv,675,Philippe Huys,42,---,BEL,00:39:20,03:23:23,02:23:13,00:04:40,00:03:31,06:34:07
+ironman-70.3-pays-d-aix-20120923.csv,676,David Hynan,43,CA,USA,00:37:24,03:13:45,02:09:41,00:04:44,00:03:52,06:09:26
+ironman-70.3-pays-d-aix-20120923.csv,677,Marian Isac,40,---,ROU,00:41:14,03:37:35,02:27:48,00:06:31,00:03:55,06:57:03
+ironman-70.3-pays-d-aix-20120923.csv,678,Andrew Jackman,44,---,GBR,00:39:40,03:18:50,02:14:58,00:06:32,00:05:19,06:25:19
+ironman-70.3-pays-d-aix-20120923.csv,679,Peter Jönsson,41,---,SWE,00:38:53,03:06:13,01:36:26,00:05:44,00:03:38,05:30:54
+ironman-70.3-pays-d-aix-20120923.csv,680,Thierry Jouan,41,---,FRA,00:36:42,02:58:49,02:12:30,00:05:17,00:03:32,05:56:50
+ironman-70.3-pays-d-aix-20120923.csv,682,Ralf Knips,42,DE,DEU,00:34:42,02:54:09,01:43:36,00:05:17,00:05:45,05:23:29
+ironman-70.3-pays-d-aix-20120923.csv,683,Pieter Bas Koevermans,42,---,NLD,00:36:45,03:10:58,02:12:50,00:06:35,00:04:54,06:12:02
+ironman-70.3-pays-d-aix-20120923.csv,684,Manuel Kollorz,43,Intl State,DEU,00:30:58,---,---,00:04:13,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,686,Daniel Kruesi,40,---,CHE,00:32:54,02:36:29,01:35:53,00:04:04,00:02:55,04:52:15
+ironman-70.3-pays-d-aix-20120923.csv,687,Marek Kucner,39,---,POL,00:43:39,03:29:01,02:30:35,00:10:21,00:08:50,07:02:26
+ironman-70.3-pays-d-aix-20120923.csv,688,Thomas Kuhnle,44,---,DEU,00:37:45,03:05:06,02:00:44,00:05:20,00:04:27,05:53:22
+ironman-70.3-pays-d-aix-20120923.csv,689,Eric Le Moing,41,---,FRA,00:30:26,02:59:23,01:58:22,00:03:56,00:06:58,05:39:05
+ironman-70.3-pays-d-aix-20120923.csv,691,Pierfrancesco Lello,40,---,ITA,00:36:57,03:07:36,01:56:52,00:06:58,00:04:50,05:53:13
+ironman-70.3-pays-d-aix-20120923.csv,692,Stéphane Lemaire,43,---,FRA,00:44:21,03:23:51,02:26:14,00:06:43,00:05:25,06:46:34
+ironman-70.3-pays-d-aix-20120923.csv,693,Antoine Leton,43,---,FRA,01:02:36,04:38:50,---,00:07:05,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,694,Tim Lewington,41,---,GBR,00:32:46,02:55:50,01:43:25,00:03:47,00:04:00,05:19:48
+ironman-70.3-pays-d-aix-20120923.csv,695,David Llinares,39,---,ESP,00:29:53,02:39:41,01:32:01,00:03:58,00:02:58,04:48:31
+ironman-70.3-pays-d-aix-20120923.csv,696,Oscar Loba,44,---,FRA,00:37:07,03:10:11,02:07:28,00:06:28,00:04:44,06:05:58
+ironman-70.3-pays-d-aix-20120923.csv,699,Neil Mancey,40,---,GBR,00:37:44,03:34:22,02:22:35,00:06:52,00:05:36,06:47:09
+ironman-70.3-pays-d-aix-20120923.csv,700,David Marsden,41,---,GBR,00:41:02,03:43:01,02:03:56,00:06:07,00:03:51,06:37:57
+ironman-70.3-pays-d-aix-20120923.csv,701,Jerome Mayran,42,FR,FRA,00:36:06,02:48:51,01:43:16,00:04:39,00:03:53,05:16:45
+ironman-70.3-pays-d-aix-20120923.csv,703,Laurent Michallet,42,---,FRA,00:37:11,02:56:18,01:38:49,00:04:58,00:03:37,05:20:53
+ironman-70.3-pays-d-aix-20120923.csv,704,Bertrand Monville,40,---,FRA,00:31:11,03:04:43,01:57:27,00:05:37,00:03:46,05:42:44
+ironman-70.3-pays-d-aix-20120923.csv,705,Rémy Mulard,40,FR,FRA,00:32:18,02:55:11,01:54:41,00:05:38,00:03:48,05:31:36
+ironman-70.3-pays-d-aix-20120923.csv,706,Nick Murns,43,Cornwall,GBR,00:33:48,03:06:28,01:50:33,00:05:17,00:04:58,05:41:04
+ironman-70.3-pays-d-aix-20120923.csv,707,Charlie Murray,40,---,GBR,00:34:39,03:27:28,02:20:18,00:07:16,00:04:41,06:34:22
+ironman-70.3-pays-d-aix-20120923.csv,709,Juan Patricio Navarro,40,---,ECU,00:44:00,03:26:53,02:03:50,00:05:45,00:05:21,06:25:49
+ironman-70.3-pays-d-aix-20120923.csv,710,Andrew Noble,44,---,GBR,00:36:35,03:34:11,02:24:48,00:05:26,00:05:40,06:46:40
+ironman-70.3-pays-d-aix-20120923.csv,711,Giordano Novello,40,Vicenza,ITA,00:37:28,02:44:54,01:35:02,00:05:48,00:04:01,05:07:13
+ironman-70.3-pays-d-aix-20120923.csv,712,Nicolas Ogier,40,---,FRA,00:38:07,03:18:57,02:00:24,00:08:01,00:05:03,06:10:32
+ironman-70.3-pays-d-aix-20120923.csv,713,Laurent Ollivier,43,FR,FRA,00:38:07,03:18:02,02:17:23,00:06:08,00:04:04,06:23:44
+ironman-70.3-pays-d-aix-20120923.csv,714,Patrick Pallois,---,val d'oise,FRA,00:34:25,02:43:41,02:07:37,00:04:36,00:07:01,05:37:20
+ironman-70.3-pays-d-aix-20120923.csv,715,Arndt Pechthold,44,Intl State,MEX,00:45:01,03:27:39,02:13:21,00:10:11,00:04:58,06:41:10
+ironman-70.3-pays-d-aix-20120923.csv,716,Matteo Penzo,41,vicenza,ITA,00:38:22,03:20:04,01:50:55,00:08:42,00:03:40,06:01:43
+ironman-70.3-pays-d-aix-20120923.csv,717,Stéphane Petit,40,---,FRA,00:31:00,02:43:33,01:32:43,00:05:14,00:03:18,04:55:48
+ironman-70.3-pays-d-aix-20120923.csv,718,Michel Piani,44,---,FRA,00:42:28,03:15:09,01:51:23,00:07:31,00:04:26,06:00:57
+ironman-70.3-pays-d-aix-20120923.csv,719,Marc Pillot,43,---,FRA,00:39:32,03:08:13,02:11:02,00:05:02,00:04:50,06:08:39
+ironman-70.3-pays-d-aix-20120923.csv,720,Christopher Pollard,40,Other,HKG,00:32:18,02:36:20,01:41:09,00:05:17,00:03:43,04:58:47
+ironman-70.3-pays-d-aix-20120923.csv,721,Olivier Poulain,45,---,FRA,00:35:20,02:39:34,01:32:09,00:04:39,00:03:26,04:55:08
+ironman-70.3-pays-d-aix-20120923.csv,722,Yann Prigent,44,---,FRA,00:30:56,02:44:27,01:32:26,00:03:44,00:03:10,04:54:43
+ironman-70.3-pays-d-aix-20120923.csv,723,Federico Procopio,41,roma,ITA,00:31:43,02:50:27,01:44:26,00:05:16,00:04:01,05:15:53
+ironman-70.3-pays-d-aix-20120923.csv,724,Thorsten Puetz,41,---,DEU,00:32:51,02:42:09,01:34:39,00:03:49,00:02:44,04:56:12
+ironman-70.3-pays-d-aix-20120923.csv,726,Thomas Raimondo,42,France,FRA,00:39:18,02:57:17,01:59:40,00:06:18,00:04:13,05:46:46
+ironman-70.3-pays-d-aix-20120923.csv,727,Olivier Renard,42,FR,FRA,00:34:24,02:47:44,01:42:34,00:04:33,00:02:48,05:12:03
+ironman-70.3-pays-d-aix-20120923.csv,728,Laurent Rimbeaut,44,---,FRA,00:38:30,02:51:18,02:08:31,00:04:36,00:06:01,05:48:56
+ironman-70.3-pays-d-aix-20120923.csv,729,Ludovic Robert,40,---,ROU,00:33:59,03:00:39,01:47:45,00:04:50,00:03:15,05:30:28
+ironman-70.3-pays-d-aix-20120923.csv,730,Pascal Roelandt,41,---,BEL,00:43:05,03:34:21,02:52:12,00:06:18,00:05:43,07:21:39
+ironman-70.3-pays-d-aix-20120923.csv,731,Guy Rose,41,FR,FRA,00:31:53,03:01:42,02:03:20,00:05:06,00:03:54,05:45:55
+ironman-70.3-pays-d-aix-20120923.csv,732,Jean-Philippe Roux,40,---,FRA,00:40:00,03:06:27,02:12:43,00:06:41,00:04:37,06:10:28
+ironman-70.3-pays-d-aix-20120923.csv,733,Stephane Ruth,41,---,FRA,00:33:08,03:08:04,01:58:11,00:07:13,00:03:57,05:50:33
+ironman-70.3-pays-d-aix-20120923.csv,734,Joost Salembier,42,---,BEL,00:36:39,03:06:23,01:50:17,00:05:49,00:03:56,05:43:04
+ironman-70.3-pays-d-aix-20120923.csv,735,Davide Salsi,42,REGGIO EMILIA,ITA,00:39:11,03:17:42,02:21:28,00:07:19,00:05:15,06:30:55
+ironman-70.3-pays-d-aix-20120923.csv,736,Christophe Sanchez,41,---,FRA,00:42:51,03:03:02,01:51:06,00:06:09,00:04:16,05:47:24
+ironman-70.3-pays-d-aix-20120923.csv,738,Federico Santucci,44,PG,ITA,00:36:53,03:19:39,02:15:37,00:08:20,00:06:02,06:26:31
+ironman-70.3-pays-d-aix-20120923.csv,739,Shaun Satterthwaite,40,---,GBR,00:32:59,03:23:53,02:00:56,00:04:31,00:03:06,06:05:25
+ironman-70.3-pays-d-aix-20120923.csv,740,Philip Scott,40,---,GBR,00:37:08,03:21:37,01:58:51,00:18:16,00:04:53,06:20:45
+ironman-70.3-pays-d-aix-20120923.csv,742,Christophe Sendou,42,---,FRA,00:33:31,02:43:14,01:36:13,00:05:00,00:07:18,05:05:16
+ironman-70.3-pays-d-aix-20120923.csv,743,Filippo Sensoli,41,sondrio,ITA,00:37:00,02:52:13,01:41:45,00:06:41,00:02:55,05:20:34
+ironman-70.3-pays-d-aix-20120923.csv,744,Philippe Simon,41,---,FRA,00:41:36,02:52:24,01:42:02,00:05:22,00:03:54,05:25:18
+ironman-70.3-pays-d-aix-20120923.csv,745,David Simonnet,42,---,FRA,00:49:13,---,---,00:06:17,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,747,Antoine Spiteri,43,FR,FRA,00:45:36,03:10:46,02:03:47,00:06:15,00:04:04,06:10:28
+ironman-70.3-pays-d-aix-20120923.csv,748,Emmanuel Spoiden,41,FR,BEL,00:27:59,02:32:42,01:28:20,00:04:21,00:02:26,04:35:48
+ironman-70.3-pays-d-aix-20120923.csv,749,Jason Stanley,39,TX,USA,00:36:32,03:17:53,02:14:43,00:08:12,00:06:30,06:23:50
+ironman-70.3-pays-d-aix-20120923.csv,750,Thomas Stoltz,39,FR,FRA,00:46:09,03:04:46,01:42:05,00:05:15,00:03:22,05:41:37
+ironman-70.3-pays-d-aix-20120923.csv,751,Philippe Testard,40,---,FRA,00:39:16,02:47:44,01:45:43,00:04:51,00:02:51,05:20:25
+ironman-70.3-pays-d-aix-20120923.csv,752,Fredo Thiault,40,---,FRA,00:36:41,03:00:00,02:13:28,00:06:09,00:03:45,06:00:03
+ironman-70.3-pays-d-aix-20120923.csv,754,Laurent Tine,43,FR,FRA,00:36:55,03:02:14,02:08:27,00:05:05,00:04:46,05:57:27
+ironman-70.3-pays-d-aix-20120923.csv,755,Roberto Tortolina,43,---,ITA,00:41:38,03:11:01,02:08:30,00:07:50,00:08:04,06:17:03
+ironman-70.3-pays-d-aix-20120923.csv,756,Jacques Trottier,43,---,FRA,00:36:34,02:49:43,01:35:55,00:05:17,00:03:25,05:10:54
+ironman-70.3-pays-d-aix-20120923.csv,758,Nico Vandaele,42,BE,BEL,00:31:49,02:39:26,01:38:18,00:03:46,00:03:03,04:56:22
+ironman-70.3-pays-d-aix-20120923.csv,760,Geert Van Mechelen,41,---,BEL,00:34:32,03:30:01,02:07:09,00:05:14,00:04:05,06:21:01
+ironman-70.3-pays-d-aix-20120923.csv,761,Jean Marc Vautier,41,FR,FRA,00:30:04,03:02:36,01:48:55,00:04:31,00:03:22,05:29:28
+ironman-70.3-pays-d-aix-20120923.csv,762,Damien Verrier,44,---,FRA,00:42:10,02:55:38,01:47:53,00:05:03,00:07:17,05:38:01
+ironman-70.3-pays-d-aix-20120923.csv,763,Robert Walker,40,Carlow,ZAF,00:43:40,03:20:31,02:22:53,00:06:37,00:03:59,06:37:40
+ironman-70.3-pays-d-aix-20120923.csv,764,Ivo Jesus Yanez Narvaez,42,---,VEN,00:52:05,03:22:25,01:58:59,00:07:39,00:04:18,06:25:26
+ironman-70.3-pays-d-aix-20120923.csv,765,Andrea Zullo,42,DISTRITO FEDERAL,MEX,00:35:21,03:06:45,02:17:27,00:05:53,00:03:31,06:08:57
+ironman-70.3-pays-d-aix-20120923.csv,766,Alexandre Acoca,45,FR,FRA,00:44:38,03:24:12,02:06:41,00:06:05,00:04:40,06:26:16
+ironman-70.3-pays-d-aix-20120923.csv,767,Jacques Akenine,44,---,FRA,00:34:34,03:18:58,01:52:30,00:05:14,00:03:42,05:54:58
+ironman-70.3-pays-d-aix-20120923.csv,768,Castori Alberto,45,---,ITA,00:34:03,02:50:09,02:10:50,00:04:35,00:04:24,05:44:01
+ironman-70.3-pays-d-aix-20120923.csv,769,Patrick Antonietti,46,---,CHE,00:41:20,03:19:37,02:29:05,00:08:05,00:05:30,06:43:37
+ironman-70.3-pays-d-aix-20120923.csv,770,Jean-Luc Ardouin,45,FR,FRA,00:38:27,02:54:39,01:53:38,00:04:59,00:03:16,05:34:59
+ironman-70.3-pays-d-aix-20120923.csv,771,Carlos Bardote,47,---,PRT,00:40:59,03:00:37,01:51:41,00:05:18,00:03:46,05:42:21
+ironman-70.3-pays-d-aix-20120923.csv,772,Roberto Beltrami,46,savona,ITA,00:34:59,02:53:45,01:43:33,00:04:58,00:03:27,05:20:42
+ironman-70.3-pays-d-aix-20120923.csv,773,Hanspeter Berger,45,---,CHE,00:39:23,02:52:26,02:00:02,00:04:37,00:03:53,05:40:21
+ironman-70.3-pays-d-aix-20120923.csv,774,Thierry Bernard,45,---,FRA,00:27:31,02:32:39,01:27:00,00:03:33,00:02:43,04:33:26
+ironman-70.3-pays-d-aix-20120923.csv,776,Stephane Billard,47,---,FRA,00:39:01,03:41:09,02:19:16,00:06:23,00:05:18,06:51:07
+ironman-70.3-pays-d-aix-20120923.csv,777,Alain Binsinger,46,---,FRA,00:27:40,02:43:39,01:39:57,00:04:09,00:03:36,04:59:01
+ironman-70.3-pays-d-aix-20120923.csv,778,Jean-Olivier Boghossian,---,---,DEU,00:42:51,03:18:21,01:51:06,00:04:53,00:04:24,06:01:35
+ironman-70.3-pays-d-aix-20120923.csv,779,Jean-Marie Boiron,46,France,FRA,00:44:39,03:12:56,01:53:50,00:07:26,00:03:54,06:02:45
+ironman-70.3-pays-d-aix-20120923.csv,780,Stephan Bole,46,---,FRA,00:31:40,02:48:56,01:36:51,00:04:16,00:02:57,05:04:40
+ironman-70.3-pays-d-aix-20120923.csv,781,Luigi Bonardi,---,---,ITA,00:44:47,02:58:12,01:42:57,00:05:24,00:04:01,05:35:21
+ironman-70.3-pays-d-aix-20120923.csv,782,Christophe Borie,45,FR,FRA,00:49:04,04:08:07,02:44:31,00:07:06,00:04:08,07:52:56
+ironman-70.3-pays-d-aix-20120923.csv,783,Krzysztof Borusowski,48,---,POL,00:47:30,04:25:36,---,00:10:33,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,784,Roy Brennon,---,---,ZAF,00:42:29,02:44:40,02:07:53,00:08:58,00:06:01,05:50:01
+ironman-70.3-pays-d-aix-20120923.csv,785,Robin Bresser,48,AUH,DEU,00:42:25,03:05:54,01:52:40,00:04:54,00:03:52,05:49:45
+ironman-70.3-pays-d-aix-20120923.csv,786,Didier Brouzes,47,---,FRA,00:37:12,03:18:50,02:02:23,00:07:03,00:06:00,06:11:28
+ironman-70.3-pays-d-aix-20120923.csv,787,Alasdair Bruce,47,United Kingdom,GBR,00:37:03,03:19:38,02:24:16,00:06:38,00:05:35,06:33:10
+ironman-70.3-pays-d-aix-20120923.csv,788,Franck Buonanno,49,---,FRA,00:33:26,03:10:35,02:09:40,00:05:15,00:04:01,06:02:57
+ironman-70.3-pays-d-aix-20120923.csv,789,Christophe Castagnetti,45,FR,FRA,00:32:55,02:59:26,01:58:43,00:04:57,00:03:52,05:39:53
+ironman-70.3-pays-d-aix-20120923.csv,790,Thierry Champoussin,47,FR,FRA,00:32:58,02:38:50,01:35:09,00:04:13,00:02:47,04:53:57
+ironman-70.3-pays-d-aix-20120923.csv,791,Carl Chenier,46,ON,CAN,00:44:59,03:39:29,02:11:21,00:08:31,00:05:40,06:50:00
+ironman-70.3-pays-d-aix-20120923.csv,792,Mark Gerard Clay,46,---,GBR,00:32:06,02:55:40,01:42:04,00:04:26,00:10:13,05:24:29
+ironman-70.3-pays-d-aix-20120923.csv,793,Patrick Colpart,47,---,FRA,00:41:34,03:06:55,02:11:39,00:06:04,00:04:07,06:10:19
+ironman-70.3-pays-d-aix-20120923.csv,794,Didier Combe,46,---,FRA,00:32:27,02:51:11,01:38:36,00:04:37,00:03:50,05:10:41
+ironman-70.3-pays-d-aix-20120923.csv,795,Xavier Comte,48,---,FRA,00:42:12,03:25:54,02:20:36,00:06:03,00:03:55,06:38:40
+ironman-70.3-pays-d-aix-20120923.csv,796,Erik Coppens,48,---,BEL,00:37:15,03:29:13,02:41:35,00:07:14,00:06:42,07:01:59
+ironman-70.3-pays-d-aix-20120923.csv,797,Marcel De Graaf,45,NL,NLD,00:34:50,02:42:14,01:37:49,00:04:43,00:03:21,05:02:57
+ironman-70.3-pays-d-aix-20120923.csv,798,Christophe De La Fourniere,46,FR,FRA,00:41:06,03:11:07,02:23:47,00:06:53,00:06:44,06:29:37
+ironman-70.3-pays-d-aix-20120923.csv,800,Denis Watrin,46,---,FRA,00:28:55,---,---,00:03:22,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,801,Eric Dequi,45,---,FRA,00:33:57,02:51:40,02:06:25,00:05:24,00:03:54,05:41:20
+ironman-70.3-pays-d-aix-20120923.csv,802,Serge Diez,46,MONACO,FRA,00:33:40,02:50:47,01:46:58,00:05:43,00:03:44,05:20:52
+ironman-70.3-pays-d-aix-20120923.csv,803,Christian Dumaine,46,---,FRA,00:41:15,03:18:54,02:26:37,00:06:34,00:04:29,06:37:49
+ironman-70.3-pays-d-aix-20120923.csv,804,Frederic Etienne,45,---,FRA,00:34:55,03:01:12,02:09:04,00:05:58,00:04:36,05:55:45
+ironman-70.3-pays-d-aix-20120923.csv,805,Niklaus Etter,47,---,CHE,00:39:25,03:27:19,02:41:41,00:09:26,00:07:05,07:04:56
+ironman-70.3-pays-d-aix-20120923.csv,806,Pascal Evrard,48,---,FRA,00:42:54,03:09:37,01:50:48,00:07:39,00:03:16,05:54:14
+ironman-70.3-pays-d-aix-20120923.csv,807,Daniel Fasanelli,46,---,FRA,00:35:56,02:48:23,01:42:01,00:04:46,00:03:24,05:14:30
+ironman-70.3-pays-d-aix-20120923.csv,808,Christophe Fouret,46,---,FRA,00:35:57,02:53:54,01:46:51,00:06:55,00:04:00,05:27:37
+ironman-70.3-pays-d-aix-20120923.csv,810,Tristan Geoffroy,47,---,FRA,00:41:37,03:14:05,02:20:43,00:07:41,00:04:45,06:28:51
+ironman-70.3-pays-d-aix-20120923.csv,811,Mike Gestrin,49,---,CAN,00:39:24,03:10:11,02:26:36,00:04:18,00:04:21,06:24:50
+ironman-70.3-pays-d-aix-20120923.csv,812,Bernard Giai-Checa,45,FR,FRA,00:39:36,03:08:05,01:52:17,00:04:55,00:03:13,05:48:06
+ironman-70.3-pays-d-aix-20120923.csv,813,Cicero Giampiero,47,---,ITA,00:35:35,03:23:11,02:42:49,00:07:25,00:04:12,06:53:12
+ironman-70.3-pays-d-aix-20120923.csv,815,Vladimir Gnuchev,---,---,RUS,00:43:37,04:13:13,02:33:11,00:09:06,00:05:27,07:44:34
+ironman-70.3-pays-d-aix-20120923.csv,816,Andrew Mark Golding,49,Western Cape,ZAF,00:43:24,03:56:41,---,00:09:27,00:06:39,DNF
+ironman-70.3-pays-d-aix-20120923.csv,818,Alain Guigal,45,---,FRA,00:34:40,02:57:18,01:39:32,00:04:39,00:03:49,05:19:58
+ironman-70.3-pays-d-aix-20120923.csv,819,Pascal Guyonvarc'H,49,FR,FRA,00:36:21,03:14:22,02:04:39,00:06:44,00:04:06,06:06:12
+ironman-70.3-pays-d-aix-20120923.csv,820,Mark Hughes,49,---,GBR,00:35:21,03:05:15,02:13:47,00:05:50,00:04:43,06:04:56
+ironman-70.3-pays-d-aix-20120923.csv,821,Patrick Jacquot,50,GA,USA,00:39:34,03:27:31,02:05:27,00:06:48,00:04:10,06:23:30
+ironman-70.3-pays-d-aix-20120923.csv,823,Christophe Jouffret,47,---,FRA,00:27:32,02:29:50,01:25:36,00:03:30,00:02:38,04:29:06
+ironman-70.3-pays-d-aix-20120923.csv,825,Roman Klinkert,47,DE,DEU,00:36:06,02:52:28,01:55:45,00:05:36,00:04:55,05:34:50
+ironman-70.3-pays-d-aix-20120923.csv,826,Jean Christophe Kunz,45,---,FRA,00:35:05,02:55:18,01:42:26,00:06:08,00:06:52,05:25:49
+ironman-70.3-pays-d-aix-20120923.csv,827,Christian Laplume,46,Luxembourg,LUX,00:30:14,02:48:57,01:50:22,00:04:28,00:03:07,05:17:08
+ironman-70.3-pays-d-aix-20120923.csv,828,Laurent Le Blay,48,---,FRA,00:35:36,03:13:43,02:24:54,00:05:36,00:03:49,06:23:38
+ironman-70.3-pays-d-aix-20120923.csv,829,Fabrice Le Priellec,47,FR,FRA,00:35:19,03:01:28,02:41:00,00:05:16,00:04:21,06:27:24
+ironman-70.3-pays-d-aix-20120923.csv,831,Hervã© Lelievre,47,---,FRA,00:54:05,04:14:42,02:37:44,00:06:57,00:05:18,07:58:46
+ironman-70.3-pays-d-aix-20120923.csv,833,Lionel Levy,48,---,FRA,00:36:54,03:28:01,01:52:15,00:08:13,00:05:09,06:10:32
+ironman-70.3-pays-d-aix-20120923.csv,834,Patrice Lissa,48,Saint-Martin,FRA,00:41:52,03:11:38,02:13:11,00:05:46,00:03:54,06:16:21
+ironman-70.3-pays-d-aix-20120923.csv,835,Christophe Loutre,46,---,FRA,00:33:24,02:55:00,01:38:59,00:05:35,00:04:05,05:17:03
+ironman-70.3-pays-d-aix-20120923.csv,836,Stephan Loy,48,---,FRA,00:29:43,03:16:45,02:00:49,00:05:34,00:04:13,05:57:04
+ironman-70.3-pays-d-aix-20120923.csv,837,John Lunn,45,Stirlingshire,GBR,00:30:08,03:04:09,01:39:48,00:04:56,00:03:21,05:22:22
+ironman-70.3-pays-d-aix-20120923.csv,838,Vincent Mallarte,47,---,FRA,00:43:42,03:32:07,02:32:43,00:05:44,00:04:35,06:58:51
+ironman-70.3-pays-d-aix-20120923.csv,839,Philippe Marc,47,---,FRA,00:43:09,03:12:18,02:08:39,00:07:21,00:04:26,06:15:53
+ironman-70.3-pays-d-aix-20120923.csv,840,Anton Martynenko,45,---,RUS,00:36:08,03:10:01,01:51:35,00:05:11,00:03:35,05:46:30
+ironman-70.3-pays-d-aix-20120923.csv,841,Jean-Yves Mathieu,48,FR,FRA,00:36:47,02:59:56,01:51:12,00:04:14,00:03:17,05:35:26
+ironman-70.3-pays-d-aix-20120923.csv,842,Marco Mattana,45,varese,ITA,00:32:56,03:12:25,01:58:04,00:06:26,00:03:54,05:53:45
+ironman-70.3-pays-d-aix-20120923.csv,843,Alessandro Mattioli,45,---,ITA,00:32:23,02:47:43,01:29:04,00:06:19,00:03:40,04:59:09
+ironman-70.3-pays-d-aix-20120923.csv,844,Frank Maurier,44,---,FRA,00:36:30,02:44:23,01:59:06,00:06:14,00:04:40,05:30:53
+ironman-70.3-pays-d-aix-20120923.csv,845,Dominique Michel,47,---,FRA,00:35:42,02:45:53,01:42:56,00:06:30,00:04:31,05:15:32
+ironman-70.3-pays-d-aix-20120923.csv,846,Jean Mong,45,---,FRA,00:44:00,03:47:58,02:28:48,00:09:40,00:08:27,07:18:53
+ironman-70.3-pays-d-aix-20120923.csv,847,Iain Morton,45,---,GBR,00:38:04,03:12:25,02:25:06,00:06:13,00:04:00,06:25:48
+ironman-70.3-pays-d-aix-20120923.csv,848,Didier Motyka,47,---,FRA,00:43:13,04:04:16,02:14:36,00:10:32,00:06:33,07:19:10
+ironman-70.3-pays-d-aix-20120923.csv,849,Paolo Mussotto,47,italia,ITA,00:36:35,02:56:12,01:39:12,00:07:55,00:03:47,05:23:41
+ironman-70.3-pays-d-aix-20120923.csv,850,Jaakko Myllymäki,49,Finland,FIN,00:39:43,03:10:33,01:45:36,00:05:52,00:05:04,05:46:48
+ironman-70.3-pays-d-aix-20120923.csv,851,Stã©phane Noguã¨s,---,---,FRA,00:39:37,03:35:01,02:12:00,00:06:18,00:04:13,06:37:09
+ironman-70.3-pays-d-aix-20120923.csv,852,Pierre Nouguã©,49,---,FRA,00:39:27,03:41:27,02:25:42,00:09:36,00:06:35,07:02:47
+ironman-70.3-pays-d-aix-20120923.csv,853,Victor Nouioua,45,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-pays-d-aix-20120923.csv,854,Thierry Nurit,47,---,FRA,00:41:46,03:08:59,02:14:41,00:06:26,00:05:02,06:16:54
+ironman-70.3-pays-d-aix-20120923.csv,855,Javier Ortega,47,---,ESP,00:38:16,03:43:02,01:56:49,00:13:09,00:08:04,06:39:20
+ironman-70.3-pays-d-aix-20120923.csv,856,Jean-Jacques Parisot,48,---,FRA,00:38:29,02:49:11,01:47:41,00:05:25,00:02:56,05:23:42
+ironman-70.3-pays-d-aix-20120923.csv,857,Christian Paron Franceschini,46,---,FRA,00:32:18,02:40:24,01:31:47,00:04:22,00:03:20,04:52:11
+ironman-70.3-pays-d-aix-20120923.csv,858,Olivier Pascallon,45,---,FRA,00:35:22,02:57:51,01:41:46,00:05:11,00:03:24,05:23:34
+ironman-70.3-pays-d-aix-20120923.csv,859,Giovanni Passoni,48,FR,FRA,00:38:28,03:00:31,01:47:33,00:06:55,00:04:06,05:37:33
+ironman-70.3-pays-d-aix-20120923.csv,860,Marc Pastorino,46,FR,FRA,00:46:32,03:24:06,02:09:18,00:06:28,00:05:40,06:32:04
+ironman-70.3-pays-d-aix-20120923.csv,862,Jp Perez,46,NY,USA,00:32:01,03:34:03,02:12:15,00:07:30,00:06:03,06:31:52
+ironman-70.3-pays-d-aix-20120923.csv,863,John Peters,47,CA,USA,00:52:32,03:49:39,---,00:06:16,00:04:12,DNF
+ironman-70.3-pays-d-aix-20120923.csv,864,Adam Phillips,46,Gloucestershire,GBR,00:32:41,03:05:16,02:54:49,00:06:15,00:06:16,06:45:17
+ironman-70.3-pays-d-aix-20120923.csv,865,Roger Pieruschka,48,---,DEU,00:36:46,02:58:42,01:53:46,00:05:12,00:03:30,05:37:56
+ironman-70.3-pays-d-aix-20120923.csv,867,Franck Polliand,46,---,FRA,00:33:31,02:50:14,01:39:58,00:05:38,00:02:55,05:12:16
+ironman-70.3-pays-d-aix-20120923.csv,868,Robert Preston,50,---,GBR,00:49:49,03:52:19,02:38:17,00:09:01,00:06:29,07:35:55
+ironman-70.3-pays-d-aix-20120923.csv,869,Patrick Raimbault,48,---,FRA,00:32:01,02:55:55,01:54:01,00:05:02,00:03:55,05:30:54
+ironman-70.3-pays-d-aix-20120923.csv,870,Stefano Rampolla,45,Milano,ITA,00:41:26,03:33:58,02:25:43,00:09:36,00:05:01,06:55:44
+ironman-70.3-pays-d-aix-20120923.csv,872,Alain Rasplus,49,---,FRA,00:44:45,03:10:36,01:58:17,00:07:01,00:04:24,06:05:03
+ironman-70.3-pays-d-aix-20120923.csv,873,Bruno Ricard,49,France,FRA,00:44:59,03:07:45,02:08:49,00:08:38,00:07:48,06:17:59
+ironman-70.3-pays-d-aix-20120923.csv,874,Eric Ridez,47,---,FRA,00:28:09,02:35:24,01:26:24,00:03:21,00:02:31,04:35:49
+ironman-70.3-pays-d-aix-20120923.csv,876,Franck Ruban,47,---,LUX,00:54:27,03:20:42,02:12:31,00:06:44,00:05:15,06:39:39
+ironman-70.3-pays-d-aix-20120923.csv,877,John Salmons,47,---,GBR,00:36:10,03:18:33,02:14:05,00:06:05,00:04:12,06:19:05
+ironman-70.3-pays-d-aix-20120923.csv,879,Arjen Soederhuizen,46,---,NLD,00:39:13,02:49:50,02:11:22,00:05:03,00:03:43,05:49:11
+ironman-70.3-pays-d-aix-20120923.csv,882,Moreno Tortolina,47,---,ITA,00:41:21,03:10:32,02:04:22,00:08:33,00:06:19,06:11:07
+ironman-70.3-pays-d-aix-20120923.csv,884,Bruno Vahdat,48,---,FRA,00:34:17,03:00:03,01:59:30,00:07:12,00:03:27,05:44:29
+ironman-70.3-pays-d-aix-20120923.csv,885,Peter Van Bel,46,BE,BEL,00:39:53,02:50:22,01:40:05,00:05:10,00:04:41,05:20:11
+ironman-70.3-pays-d-aix-20120923.csv,886,Philippe Van Pevenaeyge,48,---,FRA,00:45:25,03:31:40,02:24:06,00:08:03,00:06:51,06:56:05
+ironman-70.3-pays-d-aix-20120923.csv,887,Janique Vandekendelaere,---,---,BEL,00:33:56,02:41:34,01:47:23,00:05:14,00:03:03,05:11:10
+ironman-70.3-pays-d-aix-20120923.csv,888,Jure Velepec,47,---,SVN,00:40:32,02:50:14,01:41:04,00:05:20,00:03:21,05:20:31
+ironman-70.3-pays-d-aix-20120923.csv,889,Uros Velepec,45,---,SVN,00:33:02,02:55:53,---,00:05:24,00:03:40,DNF
+ironman-70.3-pays-d-aix-20120923.csv,890,Walter Vorsselmans,48,BE,BEL,00:36:24,02:51:35,01:51:22,00:06:12,00:04:29,05:30:02
+ironman-70.3-pays-d-aix-20120923.csv,891,Robert Wooldridge,47,---,GBR,00:35:33,02:48:48,01:42:50,00:04:44,00:03:09,05:15:04
+ironman-70.3-pays-d-aix-20120923.csv,892,Ronald Akkermans,52,NL,NLD,00:36:34,03:01:56,01:53:03,00:06:34,00:04:23,05:42:30
+ironman-70.3-pays-d-aix-20120923.csv,893,Philippe Alleaume,50,---,FRA,00:28:57,03:00:56,01:41:36,00:05:06,00:03:21,05:19:56
+ironman-70.3-pays-d-aix-20120923.csv,894,Didier Amphoux,52,---,FRA,00:55:43,04:42:47,---,00:11:34,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,895,Andrea Merlatti,49,---,ITA,00:31:35,02:47:58,01:34:22,00:05:38,00:03:43,05:03:16
+ironman-70.3-pays-d-aix-20120923.csv,896,Vincent Balmes,48,---,FRA,00:51:19,05:00:36,---,00:10:53,00:27:06,DNF
+ironman-70.3-pays-d-aix-20120923.csv,898,Shimon Ben Ishay,52,---,ISR,00:47:30,03:45:36,01:56:51,00:07:38,00:04:16,06:41:51
+ironman-70.3-pays-d-aix-20120923.csv,899,Aaron Benabou,49,FR,FRA,00:44:25,03:45:38,02:18:34,00:07:17,00:07:54,07:03:48
+ironman-70.3-pays-d-aix-20120923.csv,900,Renaud Berquet,49,---,FRA,00:30:31,02:38:02,01:26:58,00:03:54,00:02:50,04:42:15
+ironman-70.3-pays-d-aix-20120923.csv,901,John Bertolino,49,---,AUS,00:38:58,03:18:26,02:11:58,00:06:37,00:03:37,06:19:36
+ironman-70.3-pays-d-aix-20120923.csv,902,Stephen Bevan,53,---,GBR,00:43:16,03:12:34,01:47:47,00:08:31,00:04:39,05:56:47
+ironman-70.3-pays-d-aix-20120923.csv,903,Eric Bonnet,54,---,FRA,00:44:29,03:16:57,01:51:33,00:06:51,00:03:49,06:03:39
+ironman-70.3-pays-d-aix-20120923.csv,904,Bernard Bossa,50,---,FRA,00:34:23,02:59:17,02:13:03,00:06:06,00:04:36,05:57:25
+ironman-70.3-pays-d-aix-20120923.csv,905,Marc Boussounian,54,FR,FRA,00:39:35,03:12:11,01:55:28,00:06:59,00:04:16,05:58:29
+ironman-70.3-pays-d-aix-20120923.csv,906,Philippe Bouvet,53,---,FRA,00:42:35,03:06:55,02:00:02,00:04:41,00:03:48,05:58:01
+ironman-70.3-pays-d-aix-20120923.csv,907,Ian Bowden,53,---,SWE,00:53:56,03:49:06,02:41:16,00:09:58,00:05:50,07:40:06
+ironman-70.3-pays-d-aix-20120923.csv,908,Pauline Bowers,54,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-pays-d-aix-20120923.csv,909,Didier Branthonne,53,FR,FRA,00:40:01,02:46:53,01:44:32,00:05:47,00:03:53,05:21:06
+ironman-70.3-pays-d-aix-20120923.csv,910,Guy Brignola,51,BE,BEL,00:36:33,03:06:10,02:00:57,00:05:37,00:03:15,05:52:32
+ironman-70.3-pays-d-aix-20120923.csv,911,Guy Casanova,52,FR,FRA,00:37:10,02:54:49,01:40:50,00:05:53,00:03:53,05:22:35
+ironman-70.3-pays-d-aix-20120923.csv,912,Luca Corazza,52,Padova,ITA,---,---,---,---,---,DNS
+ironman-70.3-pays-d-aix-20120923.csv,913,Christian Daval,50,---,FRA,00:41:17,03:16:53,01:55:24,00:10:46,00:05:17,06:09:37
+ironman-70.3-pays-d-aix-20120923.csv,914,Eric Debas,50,---,FRA,00:32:07,03:00:44,01:54:04,00:04:50,00:05:02,05:36:47
+ironman-70.3-pays-d-aix-20120923.csv,915,Jean-Pierre Debernardi,52,:,MCO,00:43:43,03:32:39,02:09:10,00:06:27,00:04:38,06:36:37
+ironman-70.3-pays-d-aix-20120923.csv,916,Jean Claude Delmas,51,Aquitaine,FRA,00:33:14,02:54:41,01:51:57,00:05:27,00:03:33,05:28:52
+ironman-70.3-pays-d-aix-20120923.csv,917,Willem Derks,53,---,NLD,00:42:39,03:34:33,02:21:17,00:07:34,00:06:32,06:52:35
+ironman-70.3-pays-d-aix-20120923.csv,918,John Duquemin,51,---,GBR,00:37:20,03:01:32,01:57:09,00:05:19,00:04:24,05:45:44
+ironman-70.3-pays-d-aix-20120923.csv,919,Guy Eastaugh,---,---,GBR,00:36:17,03:30:52,02:12:44,00:06:28,00:05:12,06:31:33
+ironman-70.3-pays-d-aix-20120923.csv,920,Hans Fauvart,54,BE,BEL,00:30:06,02:59:56,01:48:17,00:04:38,00:03:19,05:26:16
+ironman-70.3-pays-d-aix-20120923.csv,921,Marcel Fleury,51,---,CHE,00:43:30,03:01:00,01:58:12,00:07:38,00:06:48,05:57:08
+ironman-70.3-pays-d-aix-20120923.csv,922,Dominique Fouchard,52,---,FRA,00:38:26,02:49:25,01:41:19,00:04:15,00:03:24,05:16:49
+ironman-70.3-pays-d-aix-20120923.csv,923,Thierry Fournier,52,---,FRA,00:37:18,03:06:12,02:14:53,00:07:28,00:04:23,06:10:14
+ironman-70.3-pays-d-aix-20120923.csv,924,Alberto Frigerio,53,---,ITA,00:34:32,03:02:52,01:57:21,00:07:24,00:03:58,05:46:07
+ironman-70.3-pays-d-aix-20120923.csv,925,Francis Gallagher,52,Holland,BHS,00:31:55,---,---,---,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,926,Fred Genta,52,---,FRA,00:48:12,03:18:45,01:46:55,00:08:23,00:06:11,06:08:26
+ironman-70.3-pays-d-aix-20120923.csv,927,Mark Glaister,49,---,GBR,00:41:03,03:26:17,01:42:03,00:06:33,00:04:51,06:00:47
+ironman-70.3-pays-d-aix-20120923.csv,928,Thierry Godfroid-Alziari,51,FR,FRA,00:45:14,03:36:41,01:53:48,00:10:31,00:07:44,06:33:58
+ironman-70.3-pays-d-aix-20120923.csv,931,Pascal Hagenbach,51,---,FRA,00:33:40,02:37:03,01:34:56,00:05:23,00:03:40,04:54:42
+ironman-70.3-pays-d-aix-20120923.csv,932,Michael Hansen,50,---,DNK,00:35:51,03:46:14,02:36:06,00:11:01,00:07:17,07:16:29
+ironman-70.3-pays-d-aix-20120923.csv,933,Guy Holvoet,49,---,FRA,00:44:36,03:18:27,02:13:20,00:09:26,00:08:15,06:34:04
+ironman-70.3-pays-d-aix-20120923.csv,934,Jacky Broccardo,51,---,FRA,00:35:25,02:59:14,01:56:58,00:04:58,00:03:59,05:40:34
+ironman-70.3-pays-d-aix-20120923.csv,937,Daniel Kolopp,50,---,FRA,00:36:20,02:53:29,01:37:17,00:05:08,00:03:59,05:16:13
+ironman-70.3-pays-d-aix-20120923.csv,938,Gilles Le Chapelain,52,FR,FRA,00:39:44,03:08:27,01:34:10,00:04:58,00:03:31,DNF
+ironman-70.3-pays-d-aix-20120923.csv,939,Yann Le Corvec,50,---,FRA,00:35:06,03:32:04,---,00:07:28,00:08:32,DNF
+ironman-70.3-pays-d-aix-20120923.csv,940,Eric Lichtfouse,52,---,FRA,00:30:57,02:39:54,01:45:00,00:04:20,00:03:19,05:03:30
+ironman-70.3-pays-d-aix-20120923.csv,941,Alain Liã¨be,51,---,FRA,00:42:22,03:50:14,02:19:05,00:10:37,00:07:33,07:09:51
+ironman-70.3-pays-d-aix-20120923.csv,944,Thierry Maffre,51,---,FRA,00:38:32,02:58:01,01:56:25,00:06:15,00:03:41,05:42:54
+ironman-70.3-pays-d-aix-20120923.csv,946,Bertrand Meyer,54,---,FRA,00:37:07,03:01:22,02:02:05,00:08:13,00:05:05,05:53:52
+ironman-70.3-pays-d-aix-20120923.csv,947,Michel Pietri,51,France,FRA,00:51:44,03:29:47,02:15:45,00:06:45,00:06:12,06:50:13
+ironman-70.3-pays-d-aix-20120923.csv,948,Eric Moine,50,---,FRA,00:56:49,03:35:29,02:58:37,00:07:57,00:04:20,07:43:12
+ironman-70.3-pays-d-aix-20120923.csv,949,Pascal Mondejar,52,---,FRA,00:39:51,03:31:16,02:11:28,00:07:51,00:04:29,06:34:55
+ironman-70.3-pays-d-aix-20120923.csv,950,Bruno Morelli,50,---,ITA,00:38:10,03:35:28,02:17:15,00:06:35,00:03:52,06:41:20
+ironman-70.3-pays-d-aix-20120923.csv,951,Simon Osborne,52,---,GBR,00:34:10,02:46:11,01:33:00,00:03:30,00:02:43,04:59:34
+ironman-70.3-pays-d-aix-20120923.csv,953,Holger Petersen-Bach,51,DK,DNK,00:39:03,03:14:22,02:03:09,00:05:22,00:03:15,06:05:11
+ironman-70.3-pays-d-aix-20120923.csv,954,Colin Poole,50,ID,ZAF,00:37:00,03:14:00,02:03:02,00:08:56,00:05:15,06:08:13
+ironman-70.3-pays-d-aix-20120923.csv,955,Patrick Rival,50,---,FRA,00:35:37,03:26:21,02:04:12,00:05:53,00:03:21,06:15:24
+ironman-70.3-pays-d-aix-20120923.csv,956,Philippe Ruffet-Bon-Corps,50,---,FRA,00:44:31,03:01:14,01:45:09,00:05:27,00:03:31,05:39:52
+ironman-70.3-pays-d-aix-20120923.csv,958,Philippe Speeckaert,52,---,FRA,00:42:54,03:10:57,02:39:41,00:07:27,00:05:16,06:46:15
+ironman-70.3-pays-d-aix-20120923.csv,959,Jerome Teisson,52,---,FRA,00:46:14,03:18:20,02:07:35,00:08:45,00:07:32,06:28:26
+ironman-70.3-pays-d-aix-20120923.csv,961,Keith Turner,51,---,GBR,00:46:31,04:52:28,---,00:10:19,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,964,Timour Willems,50,---,BEL,00:34:27,03:12:12,02:01:54,00:06:59,00:06:02,06:01:34
+ironman-70.3-pays-d-aix-20120923.csv,966,René Aungier,54,---,IRL,00:43:22,04:02:36,02:39:36,00:08:07,00:06:27,07:40:08
+ironman-70.3-pays-d-aix-20120923.csv,967,Peter Bryan,54,---,GBR,00:38:48,03:07:53,01:57:57,00:08:00,00:05:43,05:58:21
+ironman-70.3-pays-d-aix-20120923.csv,969,Adrian Dunbar,59,West Yorkshire,GBR,00:39:11,03:34:04,02:11:38,00:07:16,00:04:58,06:37:07
+ironman-70.3-pays-d-aix-20120923.csv,970,George Estes,57,MA,USA,00:40:52,03:24:21,01:48:20,00:08:30,00:04:35,06:06:38
+ironman-70.3-pays-d-aix-20120923.csv,972,Fulvio Fiordiponti,57,PAVIA,ITA,00:42:53,03:03:31,01:47:33,00:06:26,00:04:22,05:44:45
+ironman-70.3-pays-d-aix-20120923.csv,973,Steve Gale,55,MC,GBR,00:52:47,03:47:33,02:19:27,00:07:15,00:04:32,07:11:34
+ironman-70.3-pays-d-aix-20120923.csv,974,Gary Gasper,59,WI,USA,00:49:20,03:52:26,02:22:27,00:06:59,00:05:59,07:17:11
+ironman-70.3-pays-d-aix-20120923.csv,975,Stéphane Gerard,56,---,BEL,00:37:14,03:53:12,02:22:59,00:07:17,00:05:45,07:06:27
+ironman-70.3-pays-d-aix-20120923.csv,976,John Herman,57,NY,USA,00:50:29,04:01:01,02:17:32,00:08:42,00:07:02,07:24:46
+ironman-70.3-pays-d-aix-20120923.csv,978,Thomas Ledergerber,55,---,CHE,00:36:52,02:46:56,01:37:27,00:05:07,00:04:01,05:10:23
+ironman-70.3-pays-d-aix-20120923.csv,979,Gilbert Martinez,55,France,FRA,00:43:39,03:27:31,02:14:46,00:04:34,00:03:45,06:34:15
+ironman-70.3-pays-d-aix-20120923.csv,980,Michel Mas,56,---,FRA,00:41:13,03:19:45,02:10:01,00:05:43,00:03:47,06:20:29
+ironman-70.3-pays-d-aix-20120923.csv,981,Claude Molla,55,FR,FRA,00:40:19,03:11:55,---,00:07:12,00:04:33,DNF
+ironman-70.3-pays-d-aix-20120923.csv,982,Andrew Potter,54,---,GBR,00:31:29,---,---,---,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,983,Marc-Antoine Reaume,56,---,FRA,00:43:28,03:41:42,---,00:08:51,00:07:44,DNF
+ironman-70.3-pays-d-aix-20120923.csv,984,Maurizio Scopa,59,milano,ITA,00:57:07,04:19:59,---,00:06:35,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,986,Marco Semelaigne,56,---,FRA,00:34:28,03:06:20,01:56:41,00:06:15,00:04:11,05:47:55
+ironman-70.3-pays-d-aix-20120923.csv,987,Phil Shakeshaft,57,---,GBR,00:40:21,03:09:57,01:49:50,00:06:55,00:05:01,05:52:04
+ironman-70.3-pays-d-aix-20120923.csv,988,Alain Beaudoin,50,France,FRA,00:49:23,03:40:46,01:59:24,00:09:34,00:05:49,DNF
+ironman-70.3-pays-d-aix-20120923.csv,989,Robert Decoo,64,BE,BEL,00:42:33,03:02:44,04:09:19,00:06:13,00:04:31,DNF
+ironman-70.3-pays-d-aix-20120923.csv,990,Jean-Yves Gautier,63,---,FRA,00:48:19,03:09:00,01:47:23,00:06:03,00:04:00,05:54:45
+ironman-70.3-pays-d-aix-20120923.csv,991,Bill Mccarthy,62,IL,USA,00:56:17,04:20:27,---,00:11:41,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,992,Pierre Millot,63,---,FRA,00:48:13,03:07:08,02:25:59,00:06:30,00:04:57,06:32:47
+ironman-70.3-pays-d-aix-20120923.csv,995,Bernard Estienne,65,---,FRA,00:45:40,03:15:31,02:00:31,00:10:04,00:05:13,06:16:59
+ironman-70.3-pays-d-aix-20120923.csv,996,Hubert Quadflieg,64,---,DEU,00:43:34,03:41:55,02:06:39,00:06:35,00:04:25,06:43:08
+ironman-70.3-pays-d-aix-20120923.csv,997,Michael Smallwood,65,---,GBR,00:31:51,03:01:07,02:23:21,00:05:38,00:03:57,06:05:54
+ironman-70.3-pays-d-aix-20120923.csv,998,Guenter Danel,70,---,DEU,00:50:25,03:41:18,02:48:24,00:07:35,00:07:07,07:34:49
+ironman-70.3-pays-d-aix-20120923.csv,999,Pierre Beccamel,73,---,FRA,00:49:45,03:42:32,02:26:17,00:09:53,00:07:58,07:16:25
+ironman-70.3-pays-d-aix-20120923.csv,1002,Michele Birti,22,rovigo,ITA,00:29:27,05:15:31,---,00:03:42,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,1003,Claus Hernaldo Carlsen,22,---,DNK,00:44:27,03:09:25,01:47:40,00:05:37,00:04:33,05:51:42
+ironman-70.3-pays-d-aix-20120923.csv,1004,Bastien Delmare,21,---,FRA,00:32:59,03:02:20,02:15:48,00:05:22,00:03:35,06:00:04
+ironman-70.3-pays-d-aix-20120923.csv,1005,Alexandre Gomez,22,---,FRA,00:34:05,02:45:40,01:58:50,00:05:34,00:04:24,05:28:33
+ironman-70.3-pays-d-aix-20120923.csv,1006,Maurel Kevin,21,---,FRA,00:25:09,02:28:06,01:30:08,00:02:59,00:02:45,04:29:07
+ironman-70.3-pays-d-aix-20120923.csv,1007,Pierre Roisin,20,---,FRA,00:35:44,02:54:58,01:59:33,00:07:16,00:05:19,05:42:50
+ironman-70.3-pays-d-aix-20120923.csv,1008,Charalampos Kathidjiotis,25,---,CYP,00:47:18,03:17:46,02:15:23,00:06:54,00:03:29,06:30:50
+ironman-70.3-pays-d-aix-20120923.csv,1009,Nicolas Collet,28,FR,FRA,00:31:50,02:31:52,01:39:28,00:03:23,00:02:25,04:48:58
+ironman-70.3-pays-d-aix-20120923.csv,1010,Julien Zutter,26,FR,FRA,00:25:54,02:35:53,01:21:57,00:03:18,00:02:22,04:29:24
+ironman-70.3-pays-d-aix-20120923.csv,1011,Stuart Dillon,34,---,IRL,00:34:47,02:45:06,01:25:43,00:04:03,00:02:32,04:52:11
+ironman-70.3-pays-d-aix-20120923.csv,1012,Jean-Philippe Douvre,33,---,FRA,00:34:20,03:04:13,02:27:48,00:06:26,00:03:47,06:16:34
+ironman-70.3-pays-d-aix-20120923.csv,1013,Giancarlo Favaro,29,Italy,ITA,00:33:10,03:25:51,02:11:12,00:05:45,00:07:43,06:23:41
+ironman-70.3-pays-d-aix-20120923.csv,1015,Patrice Gonzales,33,---,FRA,00:40:12,02:53:20,01:40:22,00:05:55,00:03:21,05:23:10
+ironman-70.3-pays-d-aix-20120923.csv,1016,Xavi Gruber,31,---,ESP,00:41:43,04:14:47,02:04:40,00:06:14,00:06:34,DNF
+ironman-70.3-pays-d-aix-20120923.csv,1017,Jeremy Hund,32,---,FRA,00:33:35,02:44:38,01:56:00,00:04:36,00:02:55,05:21:44
+ironman-70.3-pays-d-aix-20120923.csv,1018,Manuel Kosak,30,---,DEU,00:44:01,03:03:28,01:52:44,00:06:20,00:04:06,05:50:39
+ironman-70.3-pays-d-aix-20120923.csv,1019,Karim Oudjane,33,---,FRA,00:42:45,02:50:22,02:00:42,00:06:53,00:03:58,05:44:40
+ironman-70.3-pays-d-aix-20120923.csv,1020,Antonio Palestini,31,Intl State,ITA,00:36:09,02:45:05,01:40:38,00:05:34,00:03:42,05:11:08
+ironman-70.3-pays-d-aix-20120923.csv,1021,Pierre Sudre,30,---,FRA,00:37:16,03:29:24,02:10:33,00:05:21,00:04:14,06:26:48
+ironman-70.3-pays-d-aix-20120923.csv,1022,Veerle D'Haese,34,---,BEL,00:37:24,02:48:30,01:28:06,00:04:54,00:03:05,05:01:59
+ironman-70.3-pays-d-aix-20120923.csv,1023,Hã©lã¨ne Froehlich,---,---,FRA,00:34:19,02:46:04,01:40:49,00:04:38,00:03:07,05:08:57
+ironman-70.3-pays-d-aix-20120923.csv,1024,Frederic Hillaire,39,---,FRA,00:29:57,02:39:11,01:38:37,00:04:32,00:03:45,04:56:02
+ironman-70.3-pays-d-aix-20120923.csv,1025,Stéphane Puig,38,---,FRA,00:42:36,02:56:17,02:04:51,00:05:34,00:03:35,05:52:53
+ironman-70.3-pays-d-aix-20120923.csv,1026,Giovanni Sgro,38,---,ITA,00:39:39,03:07:49,02:08:28,00:07:12,00:03:22,06:06:30
+ironman-70.3-pays-d-aix-20120923.csv,1028,Christian Van Zijl,35,---,ZAF,00:38:20,03:15:11,02:29:36,00:06:38,00:05:23,06:35:08
+ironman-70.3-pays-d-aix-20120923.csv,1029,Ruth Brennan Morrey,36,MN,USA,00:32:52,02:43:32,01:21:13,00:04:16,00:02:44,04:44:37
+ironman-70.3-pays-d-aix-20120923.csv,1030,Nicholas Baddour,42,---,LBN,00:30:44,02:57:13,02:03:26,00:05:13,00:03:10,05:39:46
+ironman-70.3-pays-d-aix-20120923.csv,1031,Alfio Bulgarelli,42,---,ITA,00:25:54,02:35:51,01:30:32,00:03:24,00:02:26,04:38:07
+ironman-70.3-pays-d-aix-20120923.csv,1032,Eric Coueron,42,---,FRA,00:32:24,03:01:17,01:47:36,00:05:07,00:03:32,05:29:56
+ironman-70.3-pays-d-aix-20120923.csv,1033,Oliver Degenhardt,43,Hessen,DEU,00:28:55,02:36:17,01:27:52,00:03:19,00:03:05,04:39:28
+ironman-70.3-pays-d-aix-20120923.csv,1034,Luca Fantinato,40,---,ITA,00:43:38,02:55:08,01:49:53,00:04:43,00:03:33,05:36:55
+ironman-70.3-pays-d-aix-20120923.csv,1035,Bruno Invernizzi,41,---,CHE,00:25:51,02:38:31,01:16:26,00:03:13,00:02:20,04:26:21
+ironman-70.3-pays-d-aix-20120923.csv,1036,Olivier Le Maout,43,France,FRA,00:37:24,02:52:16,01:48:49,00:05:25,00:03:23,05:27:17
+ironman-70.3-pays-d-aix-20120923.csv,1037,Yann Le Rat,43,---,FRA,00:48:51,03:40:05,02:31:54,00:06:42,00:04:56,07:12:28
+ironman-70.3-pays-d-aix-20120923.csv,1038,Ludovic Lemée,41,---,FRA,00:32:43,02:43:44,02:05:57,00:05:51,00:03:28,05:31:43
+ironman-70.3-pays-d-aix-20120923.csv,1039,Francois Lugand,43,---,FRA,00:39:12,03:21:40,02:21:38,00:06:34,00:03:48,06:32:52
+ironman-70.3-pays-d-aix-20120923.csv,1041,Jérôme Pellicer,42,---,FRA,00:36:37,02:52:19,02:11:58,00:05:53,00:04:26,05:51:13
+ironman-70.3-pays-d-aix-20120923.csv,1042,Laurent Petermann,42,---,FRA,00:31:48,02:39:02,01:23:45,00:04:02,00:02:28,04:41:05
+ironman-70.3-pays-d-aix-20120923.csv,1043,Johannes Piller,44,---,AUT,00:28:09,02:42:53,01:39:44,00:04:20,00:03:24,04:58:30
+ironman-70.3-pays-d-aix-20120923.csv,1044,Loic Pimont,42,---,FRA,00:36:28,03:03:22,02:12:28,00:04:35,00:03:41,06:00:34
+ironman-70.3-pays-d-aix-20120923.csv,1045,Philippe Robert,44,---,FRA,00:42:20,02:38:25,01:18:15,00:05:07,00:03:19,DNF
+ironman-70.3-pays-d-aix-20120923.csv,1046,Gustavo Scayola,42,---,URY,00:44:33,03:14:29,01:55:15,00:07:03,00:04:14,06:05:34
+ironman-70.3-pays-d-aix-20120923.csv,1047,Stefano Volpetti,40,---,ITA,00:43:50,03:04:28,02:07:39,00:06:16,00:04:32,06:06:45
+ironman-70.3-pays-d-aix-20120923.csv,1048,Rachael Blyth,40,Stirling,GBR,00:48:32,03:37:27,02:00:00,00:07:25,00:05:31,06:38:55
+ironman-70.3-pays-d-aix-20120923.csv,1049,Antoine Belge,46,---,FRA,00:36:43,03:16:59,01:52:02,00:07:36,00:03:34,05:56:54
+ironman-70.3-pays-d-aix-20120923.csv,1050,Olivier Bruyenne,45,---,BEL,00:43:18,03:19:11,02:02:43,00:08:43,00:07:19,06:21:14
+ironman-70.3-pays-d-aix-20120923.csv,1051,Bertrand Cassou,49,FR,FRA,00:44:55,03:19:57,02:28:14,00:06:43,00:04:19,06:44:08
+ironman-70.3-pays-d-aix-20120923.csv,1052,Alex Colombino,44,---,FRA,00:36:47,02:43:40,02:15:41,00:08:23,00:05:29,05:50:00
+ironman-70.3-pays-d-aix-20120923.csv,1053,Denis Comte,47,---,FRA,00:43:44,03:16:26,02:31:10,00:06:57,00:03:54,06:42:11
+ironman-70.3-pays-d-aix-20120923.csv,1054,Laurent Gillard,45,---,FRA,00:36:44,03:20:22,02:21:32,00:06:08,00:04:26,06:29:12
+ironman-70.3-pays-d-aix-20120923.csv,1055,Jörg Karweg,45,---,DEU,00:37:45,02:59:07,01:48:40,00:05:02,00:03:24,05:33:58
+ironman-70.3-pays-d-aix-20120923.csv,1056,Nicolas Leroy,44,FR,FRA,00:32:20,02:40:45,01:47:20,00:03:51,00:02:49,05:07:05
+ironman-70.3-pays-d-aix-20120923.csv,1057,Dieter Lüscher,49,---,CHE,00:41:27,02:49:55,01:45:07,00:06:01,00:03:36,05:26:06
+ironman-70.3-pays-d-aix-20120923.csv,1058,Jean Philippe Michel,46,FR,FRA,00:50:58,03:24:05,01:57:27,00:07:10,00:03:43,06:23:23
+ironman-70.3-pays-d-aix-20120923.csv,1059,Eric Obaton,45,---,FRA,00:36:31,02:51:40,01:41:03,00:04:47,00:03:29,05:17:30
+ironman-70.3-pays-d-aix-20120923.csv,1060,Markus Paerssinen,45,---,DEU,00:34:34,03:05:17,01:56:50,00:07:16,00:04:17,05:48:14
+ironman-70.3-pays-d-aix-20120923.csv,1061,Patrick Simula,47,---,FRA,00:44:10,03:24:12,01:51:10,00:06:55,00:04:20,06:10:47
+ironman-70.3-pays-d-aix-20120923.csv,1062,Tonino Tundo,47,CH,CHE,00:30:41,02:40:09,01:27:20,00:04:07,00:03:18,04:45:35
+ironman-70.3-pays-d-aix-20120923.csv,1063,Didier Agez,49,FR,BTN,00:36:15,02:50:25,01:53:17,00:04:02,00:03:42,05:27:41
+ironman-70.3-pays-d-aix-20120923.csv,1064,Bernard Bava,50,FR,FRA,00:44:55,03:14:25,02:10:53,00:07:00,00:05:23,06:22:36
+ironman-70.3-pays-d-aix-20120923.csv,1065,Philippe Lemaire,50,France,FRA,00:36:05,03:22:42,02:11:29,00:07:14,00:06:18,06:23:48
+ironman-70.3-pays-d-aix-20120923.csv,1066,Raymond Van Zoolingen,51,NL,NLD,00:34:15,03:07:58,02:37:59,00:07:28,00:04:54,06:32:34
+ironman-70.3-pays-d-aix-20120923.csv,1067,Valérie Sinko,50,---,FRA,00:33:59,03:03:31,01:37:00,00:06:14,00:05:06,05:25:50
+ironman-70.3-pays-d-aix-20120923.csv,1068,Frédéric Viargues,50,FR,FRA,00:25:41,02:46:50,01:44:00,00:03:27,00:03:14,05:03:12
+ironman-70.3-pays-d-aix-20120923.csv,1069,Michel Marin,50,---,FRA,00:48:05,04:16:56,02:47:51,00:08:40,00:05:18,08:06:50
+ironman-70.3-pays-d-aix-20120923.csv,1070,Jason Boelkmart,---,---,DNK,00:37:46,03:01:03,02:16:13,00:05:44,00:05:21,06:06:07
+ironman-70.3-pays-d-aix-20120923.csv,1072,Sascha Braendle,---,---,CHE,00:28:30,02:50:56,01:36:36,00:03:30,00:02:42,05:02:14
+ironman-70.3-pays-d-aix-20120923.csv,1073,Vincent Aldebert,41,---,FRA,00:35:24,02:28:56,01:26:04,00:04:27,00:02:51,04:37:42
+ironman-70.3-pays-d-aix-20120923.csv,1075,Rahel Küng,21,---,CHE,00:24:05,02:46:33,01:33:29,00:03:33,00:02:51,04:50:31
+ironman-70.3-pays-d-aix-20120923.csv,1076,Sebastien Nain,---,---,FRA,00:39:08,02:46:04,01:30:25,00:04:55,00:03:08,05:03:40
+ironman-70.3-pays-d-aix-20120923.csv,1077,Jean-Philippe  Boonen,41,FR,BEL,00:33:15,02:36:33,01:38:25,00:05:29,00:03:19,04:57:01
+ironman-70.3-pays-d-aix-20120923.csv,1078,Marcel Lacaze,39,---,DEU,00:44:52,03:24:03,02:18:09,00:05:22,00:03:34,06:36:00
+ironman-70.3-pays-d-aix-20120923.csv,1079,Adrian Zahnd,24,---,CHE,00:27:30,02:31:44,01:35:59,00:03:07,00:02:42,04:41:02
+ironman-70.3-pays-d-aix-20120923.csv,1080,Thierry Kuntz,53,---,FRA,00:38:56,03:15:55,01:47:29,00:08:24,00:05:57,05:56:41
+ironman-70.3-pays-d-aix-20120923.csv,1081,Marcel Zinno,---,---,FRA,00:56:17,---,---,00:09:44,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,1082,Matic Modic,25,Intl State,SVN,00:28:02,02:32:24,01:25:09,00:03:55,00:02:16,04:31:46
+ironman-70.3-pays-d-aix-20120923.csv,1083,Bertrand Sadoun,45,FR,FRA,00:35:31,02:56:03,01:38:22,00:05:35,00:03:30,05:19:01
+ironman-70.3-pays-d-aix-20120923.csv,1084,Julius Vincze,---,---,AUT,00:40:24,02:58:27,01:44:43,00:05:15,00:03:49,05:32:38
+ironman-70.3-pays-d-aix-20120923.csv,1085,Martin Desmyttere,55,---,DEU,00:36:23,02:49:40,02:00:33,00:04:35,00:03:45,05:34:56
+ironman-70.3-pays-d-aix-20120923.csv,1086,Edouard Bretsztajn,29,---,FRA,00:39:40,04:00:26,02:20:48,00:07:54,00:03:48,07:12:36
+ironman-70.3-pays-d-aix-20120923.csv,1087,Michaela Juvan,30,---,AUT,00:39:17,03:16:43,01:53:12,00:06:25,00:03:49,05:59:26
+ironman-70.3-pays-d-aix-20120923.csv,1088,Sascha Greiner,41,---,DEU,00:34:00,02:55:58,01:45:27,00:06:38,00:04:07,05:26:10
+ironman-70.3-pays-d-aix-20120923.csv,1089,Belalouche Mourad,---,---,FRA,00:48:34,03:27:27,02:21:12,00:09:15,00:06:41,06:53:09
+ironman-70.3-pays-d-aix-20120923.csv,1090,Olivier Peyret,44,Alpes Maritimes,FRA,00:33:38,03:15:12,01:59:43,00:06:46,00:04:07,05:59:26
+ironman-70.3-pays-d-aix-20120923.csv,1091,Michel Chevalley,64,---,CHE,00:40:47,03:25:01,02:52:16,00:05:23,00:04:18,07:07:45
+ironman-70.3-pays-d-aix-20120923.csv,1092,Gavin Kelly,---,Munster,IRL,00:42:25,03:11:40,01:52:05,00:03:37,00:03:11,05:52:58
+ironman-70.3-pays-d-aix-20120923.csv,1093,Petra Scholler,---,---,DEU,00:41:10,04:09:09,02:47:11,00:05:37,00:04:45,07:47:52
+ironman-70.3-pays-d-aix-20120923.csv,1094,Mike Kiechle,---,---,DEU,00:41:10,04:05:31,---,00:09:13,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,1095,Peter Hufgard,37,---,DEU,00:39:33,03:23:46,02:00:01,00:06:01,00:04:19,06:13:40
+ironman-70.3-pays-d-aix-20120923.csv,1096,Anne Chirat,39,---,FRA,00:38:18,---,---,---,---,DNF
+ironman-70.3-pays-d-aix-20120923.csv,1097,Karl Shaw,30,FR,GBR,00:24:06,02:28:25,---,00:03:37,00:02:51,DNF
+ironman-70.3-pays-d-aix-20120923.csv,1098,Shaw Asa,---,---,GBR,00:25:09,02:37:36,01:19:55,00:03:25,00:02:23,04:28:28

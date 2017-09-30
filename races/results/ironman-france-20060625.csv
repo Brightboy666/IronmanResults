@@ -1,0 +1,1157 @@
+#File=ironman-france-20060625.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-france-20060625.csv,1,Hervé Faure,---,07 - Ardèche ,FRA,00:44:20,04:57:48,02:48:57,00:02:40,00:02:18,08:36:03
+ironman-france-20060625.csv,2,Marcel Zamora Perez,---,Barcelona,ESP,00:44:36,04:57:37,02:47:13,00:02:26,00:02:03,08:33:55
+ironman-france-20060625.csv,3,Gilles Reboul,---,21 - Côte-d'Or,FRA,00:44:17,04:57:36,03:08:34,00:02:52,00:02:15,08:55:34
+ironman-france-20060625.csv,4,Xavier Le Floch,---,56 - Morbihan,FRA,00:44:49,04:57:13,---,00:02:40,00:02:16,DNF
+ironman-france-20060625.csv,5,François Chabaud,---,13 - Bouches-du-Rhône,FRA,00:44:50,04:57:16,03:06:01,00:02:40,00:02:22,08:53:09
+ironman-france-20060625.csv,6,Wim De Doncker,---,East Flanders,BEL,00:50:31,---,---,00:03:41,---,DNF
+ironman-france-20060625.csv,7,Marc Pschebizin,---,Nordrhein-Westfalen,DEU,00:50:13,05:08:03,03:37:40,00:03:15,00:02:20,09:41:31
+ironman-france-20060625.csv,8,Cameron Bartram,---,---,AUS,00:47:42,05:20:35,04:04:26,00:03:15,00:03:17,10:19:15
+ironman-france-20060625.csv,9,Jozsef Major,27,AZ,HUN,00:50:06,05:08:01,02:50:43,00:03:47,00:02:04,08:54:41
+ironman-france-20060625.csv,10,Norbert Huber,---,Bavaria (Bayern),DEU,00:53:46,05:12:11,03:10:07,00:04:05,00:03:06,09:23:15
+ironman-france-20060625.csv,11,Patrick Bringer,---,63 - Puy-de-Dôme,FRA,00:46:06,05:05:03,03:02:01,00:03:07,00:02:14,08:58:31
+ironman-france-20060625.csv,12,Marco Iseli,26,---,CHE,00:47:33,05:07:46,---,00:03:21,00:03:22,DNF
+ironman-france-20060625.csv,13,Benjamin Landier,---,06 - Alpes-Maritimes ,FRA,00:50:29,05:17:03,03:08:09,00:03:16,00:07:55,09:26:52
+ironman-france-20060625.csv,14,Nicolas Tabarant,---,65 - Hautes-Pyrénées,FRA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,15,Vaclav Kyral,---,---,CZE,00:45:08,06:07:42,---,00:04:17,00:06:42,DNF
+ironman-france-20060625.csv,16,Jérôme Lemoine,---,06 - Alpes-Maritimes ,FRA,00:50:31,---,---,00:06:29,---,DNF
+ironman-france-20060625.csv,17,Vincent Pialoux,---,63 - Puy-de-Dôme,FRA,00:49:02,05:19:22,03:17:45,00:03:27,00:02:53,09:32:29
+ironman-france-20060625.csv,18,Vladimir Bukalo,---,Hamburg,UKR,00:55:20,05:49:01,03:29:38,00:03:37,00:02:21,10:19:57
+ironman-france-20060625.csv,19,Andrew Johnson,---,Colorado,USA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,20,Alfred Rahm,30,---,DEU,00:51:24,05:09:26,03:10:58,00:03:55,00:04:02,09:19:45
+ironman-france-20060625.csv,21,Marco Troni,---,CO,ITA,00:57:43,05:33:15,03:04:39,00:04:52,00:02:42,09:43:11
+ironman-france-20060625.csv,22,Toby Jenkins,---,Surrey,GBR,01:06:19,07:27:53,---,00:08:38,00:13:51,DNF
+ironman-france-20060625.csv,23,Martin Carlos,---,Albacete,ESP,01:07:56,05:26:46,03:24:06,00:06:27,00:02:31,10:07:46
+ironman-france-20060625.csv,24,Martin Matula,---,---,CZE,00:47:50,05:09:52,03:13:24,00:03:54,00:02:27,09:17:27
+ironman-france-20060625.csv,26,Cyrille Ott,---,57 - Moselle,FRA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,40,John Macfarlane,---,Delaware,USA,00:58:41,06:38:24,04:55:34,00:08:16,00:07:04,12:47:59
+ironman-france-20060625.csv,41,Fabio Angele,---,---,AUS,00:53:18,06:11:11,04:36:57,00:05:21,00:05:34,11:52:21
+ironman-france-20060625.csv,42,Andrew Bass,---,Greater London,GBR,01:08:55,06:29:12,---,00:06:49,00:04:19,DNF
+ironman-france-20060625.csv,43,Colin Grassie,---,---,GBR,01:11:21,07:36:05,05:58:14,00:08:49,00:08:39,15:03:08
+ironman-france-20060625.csv,44,Bert Joost,---,West Flanders,BEL,01:25:16,07:01:56,04:51:33,00:08:20,00:09:29,13:36:34
+ironman-france-20060625.csv,45,William Edwards,---,Oregon,USA,01:04:48,06:23:03,05:15:12,00:11:19,00:10:25,13:04:47
+ironman-france-20060625.csv,46,Marc Benoist,---,06 - Alpes-Maritimes ,FRA,00:56:24,05:49:19,04:04:58,00:05:03,00:04:52,11:00:36
+ironman-france-20060625.csv,47,Peter Kirk,---,Greater London,DNK,01:08:55,06:38:48,04:58:25,00:18:03,00:19:38,13:23:49
+ironman-france-20060625.csv,48,Stefan Fischer,---,---,DEU,01:02:30,06:07:09,---,00:05:13,00:04:44,DNF
+ironman-france-20060625.csv,49,Michael Mcguire,---,---,CHE,01:00:02,07:06:50,05:22:05,00:07:11,00:07:50,13:43:58
+ironman-france-20060625.csv,50,Mariska Kramer Postma,---,Zuid Holland,NLD,---,05:47:17,03:12:13,01:02:31,00:02:18,10:04:19
+ironman-france-20060625.csv,51,Edith Niederfriniger,---,ME,ITA,00:48:58,05:46:04,03:15:15,00:03:43,00:02:31,09:56:31
+ironman-france-20060625.csv,52,Katya Meyers,---,California,USA,00:57:06,05:38:48,03:35:17,00:04:42,00:02:47,10:18:40
+ironman-france-20060625.csv,53,Martina Dogana,---,VI,ITA,00:50:07,05:46:44,03:31:06,00:03:25,00:02:36,10:13:58
+ironman-france-20060625.csv,54,Julie Bollerup Hansen,---,---,DNK,00:53:59,05:53:15,03:40:42,00:03:34,00:02:33,10:34:03
+ironman-france-20060625.csv,55,Alexandra Louison,---,06 - Alpes-Maritimes ,FRA,00:53:45,05:49:07,03:33:18,00:04:30,00:03:19,10:23:59
+ironman-france-20060625.csv,56,Françoise Wellekens,---,Namur,BEL,00:55:00,05:44:21,04:05:54,00:04:35,00:03:39,10:53:29
+ironman-france-20060625.csv,57,Ladislava Cisarovska,---,Zürich,CZE,00:51:31,06:01:22,03:22:54,00:05:07,00:08:16,10:29:10
+ironman-france-20060625.csv,58,Claire Murray,---,---,HKG,00:51:16,06:22:34,---,00:04:55,00:05:02,DNF
+ironman-france-20060625.csv,59,Kimberly Hager,---,Texas,USA,00:56:28,06:05:40,03:44:24,00:04:39,00:04:18,10:55:29
+ironman-france-20060625.csv,60,Genet Delboy,---,31 - Haute-Garonne,ETH,01:03:50,07:09:21,---,00:08:44,00:05:48,DNF
+ironman-france-20060625.csv,61,Elizabeth Goer,---,---,NZL,00:57:01,06:25:23,05:04:11,00:04:30,00:05:17,DNF
+ironman-france-20060625.csv,62,Tine Tretner,---,Hamburg,DEU,00:56:25,05:50:12,03:45:26,00:04:15,00:02:42,10:39:00
+ironman-france-20060625.csv,70,Morgan Mercier,---,38 - Isère,FRA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,71,Donny Chapman,---,Georgia,USA,01:03:33,07:56:27,06:08:04,00:06:29,00:05:36,15:20:09
+ironman-france-20060625.csv,72,Jakub Chmelíek,---,---,CZE,---,---,---,---,---,DNS
+ironman-france-20060625.csv,73,Jonathan Mckenzie,---,Worcestershire,CAN,01:22:12,---,---,00:09:03,---,DNF
+ironman-france-20060625.csv,74,Peter Williams,---,Gloucestershire,GBR,01:03:28,07:43:23,05:53:43,00:08:00,00:15:03,15:03:37
+ironman-france-20060625.csv,75,Paul Chellingworth,---,---,GBR,01:12:13,08:25:31,05:24:38,00:12:28,00:10:40,15:25:30
+ironman-france-20060625.csv,76,Daniel Du Toit,---,Gauteng,ZAF,01:07:49,07:01:09,05:18:48,00:12:02,00:07:40,13:47:28
+ironman-france-20060625.csv,77,John Heaton,28,---,GBR,00:51:50,05:43:31,04:01:37,00:04:38,00:03:10,10:44:46
+ironman-france-20060625.csv,78,Oliver Jenner,---,86 - Vienne,GBR,01:05:18,06:45:34,05:20:44,00:06:20,00:08:10,13:26:06
+ironman-france-20060625.csv,79,Raphael Schor,---,Bern / Berne,CHE,00:55:46,05:46:44,04:09:00,00:04:19,00:03:30,10:59:19
+ironman-france-20060625.csv,80,Mark Scott,---,---,AUS,00:54:37,06:01:31,03:50:18,00:04:39,00:04:46,10:55:51
+ironman-france-20060625.csv,81,Julien Ansel,---,78 - Yvelines,FRA,00:53:15,06:14:27,06:30:53,00:06:18,00:08:05,13:52:58
+ironman-france-20060625.csv,82,Wesley Danne,---,06 - Alpes-Maritimes ,FRA,00:56:33,06:07:43,04:55:50,00:06:51,00:07:34,12:14:31
+ironman-france-20060625.csv,83,Robert Davis,---,Lincolnshire,GBR,01:08:57,06:40:25,05:33:34,00:09:05,00:13:19,13:45:20
+ironman-france-20060625.csv,84,David De Graaf,---,Zuid Holland,NLD,01:01:41,05:45:55,03:24:45,00:11:15,00:05:11,10:28:47
+ironman-france-20060625.csv,85,Jonas Voetgli,---,Basel Land,CHE,---,---,---,---,---,DNS
+ironman-france-20060625.csv,86,Fredrik Mandt,---,---,NOR,01:15:07,06:17:19,04:20:49,00:05:06,00:03:44,12:02:05
+ironman-france-20060625.csv,87,Benjamin Skinner,---,---,AUS,01:06:57,07:26:24,06:08:03,00:08:22,00:12:08,15:01:54
+ironman-france-20060625.csv,88,Daniel Brienza,25,VA,USA,00:59:14,06:07:27,04:15:19,00:04:56,00:06:27,11:33:23
+ironman-france-20060625.csv,89,Olivier Cornelis,---,Antwerpen,BEL,01:00:46,06:01:16,03:41:31,00:07:41,00:06:28,10:57:42
+ironman-france-20060625.csv,90,Frédéric Hainneville,---,06 - Alpes-Maritimes ,FRA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,91,Jonathan Hensen,---,Hainaut,BEL,00:55:59,05:39:39,03:58:49,00:03:42,00:02:46,10:40:55
+ironman-france-20060625.csv,92,Hannes Janse Van Rensburg,---,Greater London,ZAF,00:53:51,06:09:59,04:04:40,00:04:42,00:04:19,11:17:31
+ironman-france-20060625.csv,93,Benoit Kerrien,---,92 - Hauts-de-Seine,FRA,01:04:28,07:55:48,05:48:33,00:08:05,00:17:31,15:14:25
+ironman-france-20060625.csv,94,Alexandre Laville,---,31 - Haute-Garonne,FRA,00:56:45,05:35:02,04:21:19,00:05:31,00:04:10,11:02:47
+ironman-france-20060625.csv,95,Ryan Rau,---,Michigan,USA,00:56:11,05:46:17,03:19:19,00:04:13,00:02:21,10:08:21
+ironman-france-20060625.csv,96,Wolfgang Stueckle,---,Middlesex,DEU,00:59:07,05:46:38,05:17:07,00:04:13,00:04:00,12:11:05
+ironman-france-20060625.csv,97,Simon Warwick,---,Devon,GBR,01:05:34,06:26:41,04:37:05,00:08:39,00:05:40,12:23:39
+ironman-france-20060625.csv,98,Egoitz Zalakain,---,Guipúzcoa,TKM,00:51:38,05:20:25,03:13:43,00:03:57,00:03:14,09:32:57
+ironman-france-20060625.csv,99,Thomas Zeggane,---,95 - Val-D'Oise,FRA,01:02:39,06:56:29,04:39:41,00:05:28,00:08:35,12:52:52
+ironman-france-20060625.csv,100,Miguel Angel Aguilocho Ruiz,---,Cádiz,ESP,---,---,---,---,---,DNS
+ironman-france-20060625.csv,101,Stéphane Asencio,---,06 - Alpes-Maritimes ,FRA,01:04:31,05:55:16,04:26:08,00:04:37,00:04:59,11:35:31
+ironman-france-20060625.csv,102,Michael Brochu,---,California,USA,01:00:45,07:07:09,05:02:21,00:06:17,00:07:57,13:24:29
+ironman-france-20060625.csv,103,Lars Finanger,---,Colorado,USA,00:48:59,05:24:34,04:26:01,00:03:43,00:04:47,10:48:04
+ironman-france-20060625.csv,104,Christoph Groneuer,---,Nordrhein-Westfalen,DEU,00:59:35,05:38:36,03:38:52,00:04:34,00:02:32,10:24:09
+ironman-france-20060625.csv,105,Frédéric Guiho,---,04 - Alpes-de-Haute-Provence ,FRA,00:51:35,05:54:59,04:36:23,00:05:18,00:03:54,11:32:09
+ironman-france-20060625.csv,106,Oliver Dr. Kower,26,---,DEU,00:56:06,06:00:07,04:16:38,00:04:21,00:04:36,11:21:48
+ironman-france-20060625.csv,107,Sean Mcfadden,---,Dublin,IRN,01:13:06,07:38:06,05:47:26,00:09:25,00:07:45,14:55:48
+ironman-france-20060625.csv,108,Alessandro Perrone,---,GO,ITA,01:03:31,06:15:56,---,00:04:19,00:03:56,DNF
+ironman-france-20060625.csv,109,Ryan Pine,---,Pennsylvania,USA,01:34:36,07:07:02,06:12:52,00:06:33,00:11:45,15:12:48
+ironman-france-20060625.csv,110,Rafael Prado Garcia,---,Tarragona,ESP,00:59:42,05:56:32,03:36:19,00:07:27,00:04:50,10:44:50
+ironman-france-20060625.csv,111,Joachim Zimmerling,---,Niedersachsen,DEU,00:48:56,05:23:22,03:24:00,00:03:52,00:03:16,09:43:26
+ironman-france-20060625.csv,112,Carl Atkinson,---,Surrey,GBR,01:03:18,06:53:06,06:06:34,00:08:21,00:16:43,14:28:02
+ironman-france-20060625.csv,113,Antony Bell-Scott,---,Isle of Man,GBR,---,06:13:52,05:04:07,01:11:45,00:05:06,12:34:50
+ironman-france-20060625.csv,114,Eddy Beullard,---,45 - Loiret,FRA,01:21:17,07:06:21,04:23:38,00:10:08,00:07:44,13:09:08
+ironman-france-20060625.csv,115,Sergio Bueno,---,Madrid,ESP,00:56:16,05:27:58,03:48:55,00:06:49,00:04:05,10:24:03
+ironman-france-20060625.csv,116,Frédéric Deloz,---,78 - Yvelines,FRA,01:00:25,07:12:05,05:57:41,00:07:15,00:17:13,14:34:39
+ironman-france-20060625.csv,117,Jim Dowling,---,Berkshire,GBR,01:13:04,08:08:07,05:20:02,00:09:42,00:12:38,15:03:33
+ironman-france-20060625.csv,118,Guillaume Guillemain,---,45 - Loiret,FRA,01:06:42,06:47:13,03:46:33,00:09:16,00:07:49,11:57:33
+ironman-france-20060625.csv,119,Jean Henin,---,TV,FRA,00:56:17,06:36:12,05:03:26,00:06:30,00:09:58,12:52:23
+ironman-france-20060625.csv,120,Florent Houot,---,54 - Meurthe-et-Moselle,FRA,00:50:33,05:48:31,04:05:46,00:04:11,00:03:24,10:52:25
+ironman-france-20060625.csv,121,Kevin Johnson,---,06 - Alpes-Maritimes ,FRA,00:56:20,06:24:50,04:50:00,00:04:55,00:05:38,12:21:43
+ironman-france-20060625.csv,122,David Marquez Fernandez,---,Cádiz,ESP,00:57:26,06:27:05,04:26:50,00:07:32,00:07:06,12:05:59
+ironman-france-20060625.csv,123,Christophe Mathias,27,---,FRA,01:01:47,06:12:56,03:59:28,00:05:52,00:04:41,11:24:44
+ironman-france-20060625.csv,124,Bryce Ormiston,---,Ohio,USA,01:06:04,06:01:40,04:21:49,00:07:03,00:03:39,11:40:15
+ironman-france-20060625.csv,125,Richard Paturance,---,06 - Alpes-Maritimes ,FRA,00:50:03,06:17:37,05:52:17,00:04:06,00:04:58,13:09:01
+ironman-france-20060625.csv,126,Andreas Schroeder,---,Baden-Wuerttemberg,DEU,00:52:14,05:38:41,05:07:23,00:04:52,00:05:41,11:48:51
+ironman-france-20060625.csv,127,Oliver Travis,---,Niedersachsen,DEU,00:53:17,05:41:50,04:29:06,00:04:48,00:05:30,11:14:31
+ironman-france-20060625.csv,128,Vincent Vanhaverbeke,---,West Flanders,BEL,01:10:18,08:02:54,---,00:09:13,00:10:40,DNF
+ironman-france-20060625.csv,129,John Zanetos,27,CA,USA,00:52:13,07:14:44,---,00:05:43,00:11:27,DNF
+ironman-france-20060625.csv,130,Martin Arsac,---,75 - Paris,FRA,01:09:07,07:00:15,04:41:30,00:11:30,00:10:11,13:12:33
+ironman-france-20060625.csv,131,Ludovic Baudoux,---,59 - Nord,FRA,01:08:47,07:07:15,---,00:09:22,00:11:45,DNF
+ironman-france-20060625.csv,132,Daniel Bichlet,---,Appenzell Ausserrhoden,CHE,00:51:45,05:39:14,04:25:12,00:04:23,00:02:58,11:03:32
+ironman-france-20060625.csv,133,David Coda,---,06 - Alpes-Maritimes ,FRA,01:03:28,05:56:07,03:47:16,00:06:11,00:04:15,10:57:17
+ironman-france-20060625.csv,134,Nick Cottman,---,West Midlands,AUS,01:01:09,06:36:45,05:11:55,00:09:15,00:08:11,13:07:15
+ironman-france-20060625.csv,135,Ian Davies,---,---,GBR,00:53:44,06:35:30,04:48:25,00:08:24,00:10:27,12:36:30
+ironman-france-20060625.csv,136,Nicholas De Pennington,---,Oxfordshire,GBR,01:03:20,06:43:19,04:33:28,00:08:20,00:03:37,12:32:04
+ironman-france-20060625.csv,137,Laurent Despres,---,West Flanders,BEL,00:56:43,07:09:37,04:30:17,00:06:42,00:08:14,12:51:33
+ironman-france-20060625.csv,138,James Emery,---,Shropshire,GBR,00:48:57,05:42:42,04:05:25,00:04:44,00:09:50,10:51:38
+ironman-france-20060625.csv,139,Jean-Christophe Enault,---,84 - Vaucluse,FRA,00:51:33,---,---,00:05:59,---,DNF
+ironman-france-20060625.csv,140,Christopher Hamlett,---,Cheshire,GBR,01:01:54,07:43:17,05:44:17,00:06:19,00:07:03,14:42:50
+ironman-france-20060625.csv,141,Dawid Krige,---,Greater London,ZAF,00:59:04,05:56:15,04:34:55,00:07:31,00:08:11,11:45:56
+ironman-france-20060625.csv,142,Erwan Layec,---,34 - Hérault,FRA,---,05:44:42,03:49:15,00:53:19,00:03:43,10:30:59
+ironman-france-20060625.csv,143,Adriano Piraino,---,Sankt Gallen,ITA,01:08:23,05:31:18,05:32:15,00:07:11,00:07:09,12:26:16
+ironman-france-20060625.csv,144,Julien Puche,---,06 - Alpes-Maritimes ,FRA,00:51:35,06:32:23,05:37:26,00:07:30,00:06:22,13:15:16
+ironman-france-20060625.csv,145,Mike Rasmussen,---,District of Columbia,USA,01:08:08,06:07:17,04:23:42,00:07:07,00:04:59,11:51:13
+ironman-france-20060625.csv,146,Jon Saunders,---,Essex,GBR,00:58:44,06:11:46,06:30:46,00:07:39,00:11:59,14:00:54
+ironman-france-20060625.csv,147,Bernhard Scholz,---,Bavaria (Bayern),DEU,01:03:37,06:23:55,05:50:02,00:05:23,00:05:05,13:28:02
+ironman-france-20060625.csv,148,Thomas Shumaker Jr.,---,New York,USA,00:59:18,06:44:32,04:29:22,00:10:33,00:07:51,12:31:36
+ironman-france-20060625.csv,149,Brian Stein,---,Colorado,USA,01:00:31,06:45:05,05:10:50,00:08:45,00:12:28,13:17:39
+ironman-france-20060625.csv,150,Jose Yebra,---,Baleares,ESP,01:11:11,08:26:26,05:27:51,00:12:19,00:12:36,15:30:23
+ironman-france-20060625.csv,151,Steffen Aumann,---,Bavaria (Bayern),DEU,01:27:55,08:10:28,05:37:17,00:08:29,00:09:09,15:33:18
+ironman-france-20060625.csv,152,Matthew Babcock,---,Mississippi,USA,01:04:20,06:15:44,05:59:47,00:06:27,00:06:28,13:32:46
+ironman-france-20060625.csv,153,Nikolaj Bjerringfelt,---,---,DNK,01:08:50,06:25:03,05:33:46,00:09:32,00:07:10,13:24:21
+ironman-france-20060625.csv,154,Pierre Blameble,---,75 - Paris,FRA,00:58:00,07:11:48,06:27:25,00:05:03,00:06:20,14:48:36
+ironman-france-20060625.csv,155,Xavier Boineau,---,04 - Alpes-de-Haute-Provence ,FRA,00:49:52,05:15:00,03:28:13,00:03:24,00:02:32,09:39:01
+ironman-france-20060625.csv,156,Raphaël Bouchonnet,---,65 - Hautes-Pyrénées,FRA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,157,Roméo Broute,---,72 - Sarthe,FRA,00:49:13,05:56:53,05:14:27,00:04:57,00:03:20,12:08:50
+ironman-france-20060625.csv,158,Yann Carayon,---,81 - Tarn,FRA,00:56:45,06:22:25,04:09:21,00:07:11,00:07:16,11:42:58
+ironman-france-20060625.csv,159,Bruno Clerbout,---,Flemish Brabant,BEL,00:47:37,05:18:25,03:09:08,00:03:18,00:02:19,09:20:47
+ironman-france-20060625.csv,160,David Diego Pinto,---,Salamanca,ESP,00:58:32,06:24:01,04:58:18,00:03:31,00:03:59,12:28:21
+ironman-france-20060625.csv,161,Patrice Galantini,---,92 - Hauts-de-Seine,FRA,00:56:22,05:39:06,03:40:24,00:05:56,00:04:07,10:25:55
+ironman-france-20060625.csv,162,Matthias Gerber,---,Bern / Berne,CHE,00:53:13,05:22:55,03:32:51,00:04:26,00:02:03,09:55:28
+ironman-france-20060625.csv,163,Yannick Geslot,---,66 - Pyrénées-Orientales,FRA,00:55:06,05:37:34,03:56:01,00:05:18,00:03:56,10:37:55
+ironman-france-20060625.csv,164,Nicolas Gomet,---,34 - Hérault,FRA,01:10:34,07:20:38,05:07:30,00:08:40,00:14:20,14:01:42
+ironman-france-20060625.csv,165,Eric Guenebaut,---,75 - Paris,FRA,01:01:31,06:10:38,03:52:41,00:12:18,00:11:15,11:28:23
+ironman-france-20060625.csv,166,Herbert Hoedlmoser,---,01 - Ain ,AUT,---,---,---,---,---,DNS
+ironman-france-20060625.csv,167,Allan Fønss Kristensen,---,---,DNK,00:55:26,05:34:00,03:43:44,00:05:44,00:04:45,10:23:39
+ironman-france-20060625.csv,168,Gérald Le Cun,---,13 - Bouches-du-Rhône,FRA,00:53:22,05:53:24,---,00:05:04,00:05:55,DNF
+ironman-france-20060625.csv,169,Marcus Lindqvist,29,Helsingfors,FIN,01:01:00,06:16:39,04:03:17,00:06:05,00:05:27,11:32:28
+ironman-france-20060625.csv,170,Frédéric Martinel,---,57 - Moselle,FRA,00:55:13,05:59:25,04:42:11,00:04:57,00:05:39,11:47:25
+ironman-france-20060625.csv,171,Patrick Martinie,---,33 - Gironde,FRA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,172,Paul Mathot,---,Rheinland-Pfalz,BEL,01:00:07,06:20:42,05:26:10,00:06:25,00:05:54,12:59:18
+ironman-france-20060625.csv,173,Jonathan Pauls,---,California,USA,00:59:31,07:05:21,06:05:24,00:08:19,00:16:05,14:34:40
+ironman-france-20060625.csv,174,Xavier Peguero,---,06 - Alpes-Maritimes ,FRA,01:19:19,06:59:10,05:30:33,00:06:39,00:04:07,13:59:48
+ironman-france-20060625.csv,175,Emilio Perez Marin,---,Murcia,ESP,---,06:18:18,04:50:15,01:11:10,00:06:47,12:26:30
+ironman-france-20060625.csv,176,Gregory Ravise,---,92 - Hauts-de-Seine,FRA,01:00:14,05:51:41,---,00:06:30,00:07:25,DNF
+ironman-france-20060625.csv,177,Justin Schneller,---,69 - Rhône,AUS,01:00:57,06:08:39,05:12:08,00:08:57,00:07:34,12:38:15
+ironman-france-20060625.csv,178,Andreas Stender,---,Berlin,DEU,01:11:43,08:29:04,04:56:12,00:09:31,00:13:21,14:59:51
+ironman-france-20060625.csv,179,Markus Stoeckl,---,Tirol / Tyrol,AUT,01:01:29,05:58:13,03:33:54,00:05:39,00:05:52,10:45:07
+ironman-france-20060625.csv,180,Willem Van Der Merwe,---,Greater London,ZAF,00:56:40,06:05:53,04:39:20,00:06:29,00:06:36,11:54:58
+ironman-france-20060625.csv,181,Michael Villalonga,---,Mississippi,USA,01:00:29,07:21:36,04:59:20,00:13:10,00:12:01,13:46:36
+ironman-france-20060625.csv,182,Cyrille Villaume,---,54 - Meurthe-et-Moselle,FRA,00:59:23,05:33:05,03:33:00,00:03:43,00:03:00,10:12:11
+ironman-france-20060625.csv,183,Cornelius Wermann,29,---,DEU,00:50:34,05:17:55,03:40:54,00:04:20,00:02:33,09:56:16
+ironman-france-20060625.csv,184,Brian Whittaker,---,Ohio,USA,01:35:58,07:11:23,04:25:27,00:08:49,00:08:50,13:30:27
+ironman-france-20060625.csv,185,Robert Willemsen,---,Limburg,NLD,01:00:18,05:46:03,03:29:27,00:05:06,00:03:37,10:24:31
+ironman-france-20060625.csv,186,Matteo Annovazzi,---,BG,ITA,00:49:10,05:23:10,---,00:03:30,00:03:01,DNF
+ironman-france-20060625.csv,187,Pierre Bittner,---,75 - Paris,FRA,01:01:16,06:37:07,04:05:08,00:05:48,00:05:54,11:55:13
+ironman-france-20060625.csv,188,Charles Brunet,---,31 - Haute-Garonne,FRA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,189,Matthieu Catteau,---,59 - Nord,FRA,01:08:32,06:19:26,05:20:35,00:07:00,00:08:40,13:04:13
+ironman-france-20060625.csv,190,Cédric Charlet,---,Bruxelles Capitale,BEL,00:56:44,06:19:56,---,00:07:05,00:06:08,DNF
+ironman-france-20060625.csv,191,Lukas Danilko,---,Steiermark / Styria,AUT,00:59:13,05:55:31,03:40:18,00:08:13,00:05:43,10:48:58
+ironman-france-20060625.csv,192,Tom Day,---,Lincolnshire,GBR,01:08:40,07:27:52,04:48:14,00:09:54,00:15:17,13:49:57
+ironman-france-20060625.csv,193,Matthew Deasis,---,California,USA,01:12:27,08:26:43,---,00:11:10,00:17:00,DNF
+ironman-france-20060625.csv,194,Luke Errington,---,Cambridgeshire,GBR,00:58:30,06:51:43,04:15:32,00:13:08,00:15:55,12:34:48
+ironman-france-20060625.csv,195,Alexandre Fambonne,---,76 - Seine-Maritime,FRA,00:48:45,05:22:57,04:22:33,00:03:12,00:03:10,10:40:37
+ironman-france-20060625.csv,196,Ralf Fischer,---,Bavaria (Bayern),DEU,00:50:23,05:21:22,03:31:05,00:04:10,00:02:20,09:49:20
+ironman-france-20060625.csv,197,Antoine Grassien,---,37 - Indre-et-Loire ,FRA,00:57:34,05:43:18,03:52:34,00:05:14,00:02:57,10:41:37
+ironman-france-20060625.csv,198,Christophe Guillaume,---,East Flanders,FRA,01:02:03,05:45:22,06:05:23,00:04:47,00:04:44,13:02:19
+ironman-france-20060625.csv,199,Rainer Huber,---,Bavaria (Bayern),DEU,01:15:06,05:59:55,---,00:07:21,00:07:37,DNF
+ironman-france-20060625.csv,200,Adam Klemz,---,Baden-Wuerttemberg,USA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,201,Benjamin Korselt,---,Bavaria (Bayern),DEU,01:02:35,06:28:04,04:43:09,00:07:57,00:07:15,12:29:00
+ironman-france-20060625.csv,202,Willie Krause,---,Gauteng,ZAF,---,---,---,---,---,DNS
+ironman-france-20060625.csv,203,Paul Lanat,---,06 - Alpes-Maritimes ,FRA,00:51:04,06:59:45,04:28:22,00:04:23,00:04:57,12:28:31
+ironman-france-20060625.csv,204,Aurélien Laporte,---,47 - Lot-et-Garonne,FRA,00:58:46,06:30:54,04:32:33,00:07:13,00:05:44,12:15:10
+ironman-france-20060625.csv,205,John Malone-Lee,---,Avon,GBR,01:02:43,06:24:18,03:45:00,00:13:35,00:09:58,11:35:34
+ironman-france-20060625.csv,206,Marc Cirici,---,Barcelona,ESP,01:04:27,07:24:17,05:50:16,00:10:37,00:08:36,14:38:13
+ironman-france-20060625.csv,207,Vincent Meystre,---,Vaud,CHE,00:53:45,05:48:43,03:50:14,00:04:57,00:05:13,10:42:52
+ironman-france-20060625.csv,208,Austin Mills,---,Dorset,GBR,00:50:31,05:58:27,03:54:46,00:04:53,00:04:42,10:53:19
+ironman-france-20060625.csv,209,Darren Moisey,---,Louth,CAN,---,---,---,---,---,DNS
+ironman-france-20060625.csv,210,Jan Nemitz,---,Berlin,DEU,00:56:02,05:44:47,03:24:30,00:04:04,00:02:56,10:12:19
+ironman-france-20060625.csv,211,Scott Poston,---,Colorado,USA,00:53:56,06:03:21,05:11:54,00:06:08,00:06:00,12:21:19
+ironman-france-20060625.csv,212,Stéphane Rozzi,---,Bruxelles Capitale,BEL,01:02:33,06:48:33,05:33:18,00:07:59,00:07:30,13:39:53
+ironman-france-20060625.csv,213,James Ryan,---,Sussex,GBR,00:54:51,06:22:55,05:06:41,00:06:17,00:07:20,12:38:04
+ironman-france-20060625.csv,214,Pär Sikö,---,Skåne,SWE,01:08:22,07:09:36,05:17:30,00:13:30,00:09:41,13:58:39
+ironman-france-20060625.csv,215,Jake Smith,---,Leicestershire,GBR,---,---,---,---,---,DNS
+ironman-france-20060625.csv,216,Sébastien Stalder,---,39 - Jura,FRA,00:50:42,05:13:49,03:34:35,00:03:34,00:02:36,09:45:16
+ironman-france-20060625.csv,217,Alireza Taheri,---,Cambridgeshire,CAN,01:16:37,08:22:54,05:29:46,00:10:17,00:15:26,15:35:00
+ironman-france-20060625.csv,218,Alireza Tayer,---,---,CAN,---,---,---,---,---,DNS
+ironman-france-20060625.csv,219,Aitor Tejeria,---,Guipúzcoa,ESP,00:53:20,05:28:53,04:22:59,00:04:18,00:02:49,10:52:19
+ironman-france-20060625.csv,220,Michael Thomas,---,17 - Charente-Maritime,FRA,01:04:14,06:05:24,05:32:38,00:07:12,00:06:24,12:55:52
+ironman-france-20060625.csv,221,Damien Vera,---,06 - Alpes-Maritimes ,FRA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,222,Mark Weller,---,Surrey,GBR,00:52:24,06:24:54,---,00:07:56,00:12:24,DNF
+ironman-france-20060625.csv,223,Angus Whitfield,30,Oxfordshire,GBR,00:55:12,05:39:20,03:18:23,00:04:57,00:02:44,10:00:36
+ironman-france-20060625.csv,224,Toni Arco,---,Barcelona,ESP,01:13:55,---,---,00:12:19,---,DNF
+ironman-france-20060625.csv,225,Maik Arndt,---,Nordrhein-Westfalen,DEU,01:02:20,06:04:56,03:35:22,00:05:19,00:04:16,10:52:13
+ironman-france-20060625.csv,226,Colin Averis,---,Staffordshire,GBR,01:03:23,06:42:05,05:07:59,00:06:37,00:09:15,13:09:19
+ironman-france-20060625.csv,227,Marco Baccarini,---,GE,ITA,01:00:48,06:27:38,04:12:41,00:10:03,00:11:35,12:02:45
+ironman-france-20060625.csv,228,Daniel Bargiela Araujo,---,Pontevedra,ESP,01:01:45,05:31:05,03:12:51,00:05:06,00:02:43,09:53:30
+ironman-france-20060625.csv,229,Reto Baumgartner,---,Bern / Berne,CHE,00:55:43,05:12:23,03:30:45,00:04:26,00:02:40,09:45:57
+ironman-france-20060625.csv,230,Benjamin Bessiere,---,06 - Alpes-Maritimes ,FRA,00:59:27,06:36:41,04:11:17,00:06:54,00:06:57,12:01:16
+ironman-france-20060625.csv,231,Nicolas Beyeler,31,---,CHE,00:52:25,05:20:44,03:33:44,00:03:45,00:02:21,09:52:59
+ironman-france-20060625.csv,232,Nicolas Bonnefon,---,06 - Alpes-Maritimes ,FRA,00:57:48,06:22:27,04:44:46,00:05:30,00:03:36,12:14:07
+ironman-france-20060625.csv,233,Daniel Burdett,---,Greater London,GBR,01:16:27,07:53:57,05:13:52,00:14:17,00:07:18,14:45:51
+ironman-france-20060625.csv,234,Elad Daniel,---,---,ISR,01:06:45,06:47:16,05:25:13,00:11:30,00:07:09,13:37:53
+ironman-france-20060625.csv,235,Bernard Drexler,---,California,FRA,01:02:57,07:08:11,04:53:56,00:08:27,00:09:19,13:22:50
+ironman-france-20060625.csv,236,Sébastien Dussartre,---,13 - Bouches-du-Rhône,FRA,00:49:47,05:38:25,03:36:21,00:04:26,00:02:35,10:11:34
+ironman-france-20060625.csv,237,David Evans,---,Gloucestershire,GBR,---,08:04:29,05:25:57,01:15:52,00:08:29,14:54:47
+ironman-france-20060625.csv,238,David Ferk,---,Baden-Wuerttemberg,DEU,00:50:09,---,---,00:04:28,---,DNF
+ironman-france-20060625.csv,239,Olivier Guigand,---,42 - Loire,FRA,00:51:10,05:14:12,03:36:51,00:05:45,00:02:28,09:50:26
+ironman-france-20060625.csv,240,Vincent Halluin,---,39 - Jura,FRA,01:03:34,06:09:02,---,00:06:48,00:05:58,DNF
+ironman-france-20060625.csv,241,Jason Hamrick,---,Tennessee,USA,01:36:49,---,---,00:08:45,---,DNF
+ironman-france-20060625.csv,242,Andy Hariman,---,Alberta,CAN,01:09:36,08:16:51,06:04:40,00:11:37,00:12:49,15:55:33
+ironman-france-20060625.csv,243,Thomas Holzmann,---,Tirol / Tyrol,AUT,01:10:19,05:52:39,03:52:35,00:06:48,00:03:53,11:06:14
+ironman-france-20060625.csv,244,Tim Lawrey,---,Greater London,NZL,00:52:23,06:23:40,05:05:38,00:06:28,00:08:27,12:36:36
+ironman-france-20060625.csv,245,David Lazzeri,---,TN,ITA,00:55:09,05:40:28,04:13:54,00:07:42,00:06:20,11:03:33
+ironman-france-20060625.csv,246,Christophe Lecomte,---,83 - Var,GEO,01:09:18,06:07:22,03:48:54,00:05:30,00:04:10,11:15:14
+ironman-france-20060625.csv,247,Tony Lecot,---,65 - Hautes-Pyrénées,FRA,01:07:46,06:33:18,04:34:30,00:08:09,00:06:59,12:30:42
+ironman-france-20060625.csv,248,Chris Leech,---,---,NZL,00:55:08,06:22:24,05:39:41,00:05:29,00:06:26,13:09:08
+ironman-france-20060625.csv,249,Pierre Julien Michel,---,34 - Hérault,FRA,01:08:15,06:19:41,04:30:54,00:07:20,00:06:21,12:12:31
+ironman-france-20060625.csv,250,Gregoire Monteil,31,FR,FRA,00:59:06,06:43:43,05:36:37,00:09:04,00:13:42,13:42:12
+ironman-france-20060625.csv,251,Rodolphe Pitre,---,71 - Saône-et-Loire,FRA,00:49:45,05:28:23,03:34:12,00:04:31,00:03:17,10:00:08
+ironman-france-20060625.csv,252,Thomas Putnings,---,Hamburg,DEU,00:58:42,06:31:43,---,00:08:33,00:07:29,DNF
+ironman-france-20060625.csv,253,Behrang Raz,---,---,CAN,---,---,---,---,---,DNS
+ironman-france-20060625.csv,254,Cédric Reigadas,---,91 - Essonne,FRA,00:59:04,07:22:32,04:34:42,00:05:31,00:06:08,13:07:57
+ironman-france-20060625.csv,255,Cristian Salazar,31,SAN JOSE,CRI,---,---,---,---,---,DNS
+ironman-france-20060625.csv,256,Tobias Sebald,---,Bavaria (Bayern),DEU,00:55:38,05:43:31,03:56:37,00:05:00,00:07:22,10:48:08
+ironman-france-20060625.csv,257,Stefan Szauter,---,Tirol / Tyrol,AUT,01:03:24,06:02:36,04:04:15,00:06:18,00:04:52,11:21:25
+ironman-france-20060625.csv,258,Harmen Van Den Hondel,---,Noord Holland,NLD,00:59:41,05:44:23,03:52:45,00:04:59,00:03:37,10:45:25
+ironman-france-20060625.csv,259,Diego Velazquez,---,Burgos,ESP,---,---,---,---,---,DNS
+ironman-france-20060625.csv,260,David Vincent,---,42 - Loire,FRA,00:50:19,05:54:56,05:05:16,00:05:56,00:06:16,12:02:43
+ironman-france-20060625.csv,261,Brett Walker,---,Greater London,ZAF,01:19:27,06:24:42,05:00:03,00:11:23,00:07:01,13:02:36
+ironman-france-20060625.csv,262,Morgan Williams,---,Yorkshire,GBR,01:06:44,07:10:37,05:24:29,00:10:08,00:09:33,14:01:31
+ironman-france-20060625.csv,263,Max Zarges,---,Nordrhein-Westfalen,DEU,00:53:16,06:12:33,05:14:15,00:04:58,00:03:05,12:28:07
+ironman-france-20060625.csv,264,Matt Barnett,---,West Midlands,GBR,01:11:48,07:05:51,05:36:07,00:13:16,00:15:08,14:22:10
+ironman-france-20060625.csv,265,Karl Bauer,---,Niederösterreich / Lower Austr,AUT,01:03:19,06:24:10,05:59:39,00:05:02,00:07:42,13:39:52
+ironman-france-20060625.csv,266,Jérôme Bellayer,---,06 - Alpes-Maritimes ,FRA,---,07:11:20,04:32:48,01:14:43,00:07:00,13:05:51
+ironman-france-20060625.csv,267,Pierre Beslin,---,75 - Paris,FRA,---,05:33:05,03:55:35,00:57:34,00:03:08,10:29:22
+ironman-france-20060625.csv,268,Simone Bianchi,---,MI,ITA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,269,Markus Blessing,---,Zürich,CHE,01:00:32,05:41:40,05:31:34,00:07:41,00:04:48,12:26:15
+ironman-france-20060625.csv,270,Marc Bousmanne,32,Hainaut,BEL,00:50:46,---,---,00:04:21,---,DNF
+ironman-france-20060625.csv,271,Mike Cabigon,---,---,CAN,01:01:24,05:59:22,04:57:26,00:10:24,00:06:55,12:15:31
+ironman-france-20060625.csv,272,Jean Jacques Cauquil,---,83 - Var,FRA,01:07:10,07:44:07,05:30:09,00:07:39,00:05:58,14:35:03
+ironman-france-20060625.csv,273,Yvan Champagne,---,Ontario,CAN,01:03:02,06:09:20,04:40:08,00:06:29,00:08:31,12:07:30
+ironman-france-20060625.csv,274,Jean Yves Crespo,---,73 - Savoie,FRA,00:52:25,05:21:35,03:50:18,00:04:38,00:02:36,10:11:32
+ironman-france-20060625.csv,275,Robert De Marco,---,New York,USA,00:58:28,06:18:33,04:46:14,00:08:25,00:09:18,12:20:58
+ironman-france-20060625.csv,276,Guillaume Deback,---,49 - Maine-et-Loire,FRA,01:06:51,07:22:30,---,00:12:47,00:08:20,DNF
+ironman-france-20060625.csv,277,Sébastien Deschamps,---,06 - Alpes-Maritimes ,FRA,01:01:38,05:54:25,04:18:56,00:08:14,00:10:02,11:33:15
+ironman-france-20060625.csv,278,Thomas Desclozeaux,---,67 - Bas-Rhin,FRA,00:56:46,06:19:54,04:08:18,00:07:53,00:08:40,11:41:31
+ironman-france-20060625.csv,279,Thomas Ebert,---,Baden-Wuerttemberg,DEU,01:05:31,05:32:16,04:07:47,00:07:45,00:04:50,10:58:09
+ironman-france-20060625.csv,280,Fabio Faiola,---,LT,ITA,01:06:43,06:15:25,---,00:06:35,00:22:49,DNF
+ironman-france-20060625.csv,281,Rasmus Falsig,---,---,DNK,01:09:12,06:04:10,04:24:24,00:09:59,00:12:09,11:59:54
+ironman-france-20060625.csv,282,Laurent Fauveau,---,83 - Var,FRA,01:07:09,06:38:32,04:04:02,00:06:26,00:04:40,12:00:49
+ironman-france-20060625.csv,283,Gert Fischer,---,Nordrhein-Westfalen,DEU,00:53:50,06:01:49,03:25:46,00:04:45,00:04:27,10:30:37
+ironman-france-20060625.csv,284,Sébastien Gaudard,---,39 - Jura,FRA,00:47:34,05:44:47,03:38:37,00:04:25,00:05:09,10:20:32
+ironman-france-20060625.csv,285,Simone Gianfranceschi,---,VE,ITA,01:00:48,06:43:47,05:04:10,00:07:32,00:20:34,13:16:51
+ironman-france-20060625.csv,286,Hans Gruber,---,BZ,ITA,00:59:21,06:24:43,04:19:33,00:06:31,00:12:26,12:02:34
+ironman-france-20060625.csv,287,Graham Hahn,---,Lancashire,GBR,00:49:33,06:47:48,05:54:00,00:05:37,00:09:15,13:46:13
+ironman-france-20060625.csv,288,Jean Christophe Holzerny,---,75 - Paris,FRA,00:43:23,05:41:56,---,00:03:26,---,DNF
+ironman-france-20060625.csv,289,Johann Jeannin,---,95 - Val-D'Oise,FRA,01:16:47,07:06:43,---,00:11:01,00:16:20,DNF
+ironman-france-20060625.csv,290,Søren Frank Jensen,---,---,DNK,00:54:06,---,---,00:07:56,---,DNF
+ironman-france-20060625.csv,291,Alban Joncour,---,83 - Var,FRA,01:12:04,06:07:59,04:17:43,00:06:36,00:09:51,11:54:13
+ironman-france-20060625.csv,292,Nicolai Jørgensen,---,Skåne,DNK,01:03:57,06:13:55,05:08:08,00:05:49,00:07:01,12:38:50
+ironman-france-20060625.csv,293,Willem Kellerman,---,Surrey,ZAF,---,---,---,---,---,DNS
+ironman-france-20060625.csv,294,Eric Le Gall,---,83 - Var,FRA,01:08:45,08:10:17,05:21:39,00:12:50,00:08:51,15:02:22
+ironman-france-20060625.csv,295,Denis Lentin,---,06 - Alpes-Maritimes ,FRA,01:07:02,07:40:07,06:21:33,00:09:34,00:11:52,15:30:08
+ironman-france-20060625.csv,296,Remo Lentino,---,IM,ITA,01:04:19,05:26:27,03:45:51,00:04:58,00:03:43,10:25:18
+ironman-france-20060625.csv,297,Frédéric Marty,---,31 - Haute-Garonne,FRA,01:02:57,06:57:51,04:58:55,00:10:36,00:10:57,13:21:16
+ironman-france-20060625.csv,298,Angus Mitchell,---,Greater London,VUT,01:12:11,07:51:53,05:19:08,00:08:13,00:06:59,14:38:24
+ironman-france-20060625.csv,299,Rui Mota Guedes,---,Lisbon,PRT,01:15:50,06:44:17,05:32:05,00:09:19,00:11:31,13:53:02
+ironman-france-20060625.csv,300,Franz Pauli,---,Steiermark / Styria,AUT,00:54:05,05:35:38,03:27:25,00:05:52,00:02:35,10:05:35
+ironman-france-20060625.csv,301,Jorge Perez Rodenas,---,Tarragona,ESP,01:00:28,06:58:08,04:03:54,00:08:01,00:08:18,12:18:49
+ironman-france-20060625.csv,302,Marco Pressel,---,TS,ITA,00:57:42,06:06:03,03:36:58,00:04:55,00:03:49,10:49:27
+ironman-france-20060625.csv,303,Alex Rochette,---,31 - Haute-Garonne,FRA,00:56:20,05:51:58,03:19:49,00:04:15,00:02:12,10:14:34
+ironman-france-20060625.csv,304,Grégory Rougaignon,---,06 - Alpes-Maritimes ,MCO,00:55:01,05:47:45,04:32:26,00:07:05,00:04:48,11:27:05
+ironman-france-20060625.csv,305,Pieter Therons,---,Ohio,ZAF,01:27:14,07:25:13,05:18:57,00:12:27,00:13:25,14:37:16
+ironman-france-20060625.csv,306,Gilles Vallée,---,95 - Val-D'Oise,FRA,00:56:12,06:59:47,---,00:05:52,---,DNF
+ironman-france-20060625.csv,307,Gerrit Van Egmond,32,NL,NLD,00:59:56,06:04:34,04:50:16,00:10:16,00:05:49,12:10:51
+ironman-france-20060625.csv,308,Adam Zieba,---,---,POL,01:05:28,06:16:09,04:15:37,00:07:57,00:05:57,11:51:08
+ironman-france-20060625.csv,309,Franck Amadori,---,06 - Alpes-Maritimes ,FRA,01:00:53,06:20:12,04:53:20,00:11:44,00:10:43,12:36:52
+ironman-france-20060625.csv,310,Michael Arnold,---,Salzburg,AUT,01:17:39,07:49:25,---,00:06:54,00:08:31,DNF
+ironman-france-20060625.csv,311,Frédéric Arroyo,---,34 - Hérault,FRA,00:49:38,05:50:58,04:10:46,00:06:24,00:06:40,11:04:26
+ironman-france-20060625.csv,312,Eddy Blassel,---,38 - Isère,FRA,01:12:31,05:31:43,03:22:06,00:06:24,00:04:04,10:16:48
+ironman-france-20060625.csv,313,Mehamed Boucherit,---,92 - Hauts-de-Seine,FRA,01:04:48,08:18:52,05:38:33,00:08:23,00:10:03,15:20:39
+ironman-france-20060625.csv,314,Christophe Choquey,---,83 - Var,FRA,01:01:40,06:12:23,04:33:13,00:07:57,00:07:08,12:02:21
+ironman-france-20060625.csv,315,Darren Cole,---,---,GBR,00:54:01,05:39:34,04:00:40,00:05:07,00:05:48,10:45:10
+ironman-france-20060625.csv,316,Toby Courage,33,Staffordshire,GNB,01:01:26,05:29:42,03:38:15,00:05:34,00:09:29,10:24:26
+ironman-france-20060625.csv,317,Jean Marc Darnaud,---,06 - Alpes-Maritimes ,FRA,00:53:49,---,---,00:05:12,---,DNF
+ironman-france-20060625.csv,318,Cyril Deblois,---,75 - Paris,FRA,01:02:14,06:06:01,---,00:06:14,00:06:26,DNF
+ironman-france-20060625.csv,319,Yannick Dubos,---,Surrey,FRA,01:11:48,06:44:47,05:13:03,00:06:43,00:09:58,13:26:19
+ironman-france-20060625.csv,320,David Edwards,---,---,AUS,00:54:13,05:50:42,05:22:53,00:05:02,00:03:51,12:16:41
+ironman-france-20060625.csv,321,Maurizio Frigo,---,VA,ITA,01:03:50,06:56:05,04:46:23,00:09:04,00:16:43,13:12:05
+ironman-france-20060625.csv,322,Antonio Furest,---,Barcelona,ESP,01:19:12,---,---,00:10:11,---,DNF
+ironman-france-20060625.csv,323,Xavier Genot,---,34 - Hérault,FRA,01:19:53,07:36:46,05:17:08,00:08:47,00:08:45,14:31:19
+ironman-france-20060625.csv,324,Derek Hamilton,---,Ontario,CAN,00:58:56,05:52:27,04:12:11,00:08:53,00:08:23,11:20:50
+ironman-france-20060625.csv,325,Claus Jorgensen,---,Santa Cruz de Tenerife,DNK,00:59:49,05:39:26,03:48:15,00:04:37,00:09:18,10:41:25
+ironman-france-20060625.csv,326,Will Kefford,---,Renfrewshire,GBR,01:00:42,06:19:24,05:04:05,00:05:51,00:08:17,12:38:19
+ironman-france-20060625.csv,327,Ayaz Khokhar,---,---,CAN,---,---,---,---,---,DNS
+ironman-france-20060625.csv,328,Christian Koenig,33,Hessen,DEU,00:54:50,05:44:38,04:04:34,00:04:40,00:04:45,10:53:27
+ironman-france-20060625.csv,329,Adam Leigland,---,PN,USA,01:15:51,06:39:08,05:26:55,00:07:05,00:08:07,13:37:06
+ironman-france-20060625.csv,330,Jean-Francois Leleu-Eponville,---,75 - Paris,FRA,01:11:23,06:37:33,04:29:40,00:09:26,00:08:58,12:37:00
+ironman-france-20060625.csv,331,David Llinares Bosch,---,Girona,ESP,00:53:09,05:51:31,03:38:49,00:04:53,00:04:07,10:32:29
+ironman-france-20060625.csv,332,Bertrand Lodde,---,87 - Haute-Vienne,FRA,01:10:28,06:57:08,04:46:12,00:17:11,00:13:11,13:24:10
+ironman-france-20060625.csv,333,Eric Lucas,---,57 - Moselle,FRA,01:17:56,07:21:45,05:54:49,00:09:25,00:11:23,14:55:18
+ironman-france-20060625.csv,334,Trent Lyndon,---,Greater London,AUS,00:53:22,06:22:23,05:50:47,00:06:05,00:08:04,13:20:41
+ironman-france-20060625.csv,335,Jean Michel Martin,---,06 - Alpes-Maritimes ,FRA,01:06:47,06:38:14,05:30:42,00:06:20,00:06:34,13:28:37
+ironman-france-20060625.csv,336,David Mason,---,06 - Alpes-Maritimes ,GBR,00:50:20,05:19:57,03:14:03,00:03:23,00:02:13,09:29:56
+ironman-france-20060625.csv,337,Kevin Mcintyre,---,Cambridgeshire,GBR,---,---,---,---,---,DNS
+ironman-france-20060625.csv,338,Holger Mueller,33,---,DEU,01:18:59,07:42:11,---,00:13:02,---,DNF
+ironman-france-20060625.csv,339,Tommy Nielsen,---,---,DNK,00:44:17,05:13:36,03:09:43,00:03:30,00:02:46,09:13:52
+ironman-france-20060625.csv,340,Esa Ollikainen,---,---,FIN,00:54:08,05:32:17,04:08:45,00:04:59,00:02:41,10:42:50
+ironman-france-20060625.csv,341,Stéphane Palazzetti,---,06 - Alpes-Maritimes ,FRA,00:56:55,05:38:58,03:27:54,00:04:33,00:03:30,10:11:50
+ironman-france-20060625.csv,342,Eric Pedro,---,24 - Dordogne,FRA,00:54:54,06:24:16,05:06:44,00:10:43,00:13:29,12:50:06
+ironman-france-20060625.csv,343,Ryan Peters,---,California,USA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,344,Marsile Roberrini,---,---,FRA,00:57:30,06:16:39,04:31:14,00:08:04,00:07:38,12:01:05
+ironman-france-20060625.csv,345,Jérôme Scardino,---,06 - Alpes-Maritimes ,FRA,01:03:59,07:13:35,06:07:17,00:06:31,00:09:16,14:40:38
+ironman-france-20060625.csv,346,Paul Sinclair,---,Yorkshire,GBR,01:08:50,07:05:11,05:10:43,00:08:16,00:07:59,13:40:59
+ironman-france-20060625.csv,347,Lionel Tallant,---,Vaud,CHE,00:54:03,06:24:43,05:14:12,00:05:44,00:10:47,12:49:29
+ironman-france-20060625.csv,348,Eric Tampère,---,Antwerpen,BEL,00:57:48,06:08:46,05:23:07,00:06:05,00:06:46,12:42:32
+ironman-france-20060625.csv,349,Benjamin Tello,---,13 - Bouches-du-Rhône,FRA,01:01:02,06:56:34,---,00:08:54,---,DNF
+ironman-france-20060625.csv,350,Eric Thouvenin,---,75 - Paris,FRA,00:50:11,05:53:08,03:43:50,00:05:01,00:05:53,10:38:03
+ironman-france-20060625.csv,351,Tomasz Tomaszewski,---,---,POL,01:20:05,07:19:19,05:00:20,00:07:26,00:07:33,13:54:43
+ironman-france-20060625.csv,352,Markus Völp,---,Baden-Wuerttemberg,DEU,---,---,---,---,---,DNS
+ironman-france-20060625.csv,353,Simon Weller,---,Greater London,GBR,---,---,---,---,---,DNS
+ironman-france-20060625.csv,354,Aaron Wileman,---,Middlesex,AUS,00:59:36,07:11:00,04:25:07,00:09:05,00:09:07,12:53:55
+ironman-france-20060625.csv,355,Patrice Anicet,---,06 - Alpes-Maritimes ,FRA,00:57:26,07:07:46,04:57:05,00:09:52,00:09:09,13:21:18
+ironman-france-20060625.csv,356,Grégory Baudoux,---,59 - Nord,FRA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,357,Bruno Bertocchi,---,06 - Alpes-Maritimes ,FRA,00:51:07,05:24:05,03:17:27,00:03:56,00:01:57,09:38:32
+ironman-france-20060625.csv,358,Rob Birchall,---,Bristol,GBR,00:50:48,05:32:47,04:11:59,00:05:41,00:03:01,10:44:16
+ironman-france-20060625.csv,359,Frederic Boillereau,---,Greater London,FRA,01:11:43,06:41:32,05:13:45,00:08:59,00:12:41,13:28:40
+ironman-france-20060625.csv,360,Rudy Bracquemart,---,06 - Alpes-Maritimes ,FRA,00:59:41,05:55:36,---,00:08:11,---,DNF
+ironman-france-20060625.csv,361,Charles Brion,---,75 - Paris,FRA,01:12:29,07:00:47,04:25:06,00:14:10,00:23:18,13:15:50
+ironman-france-20060625.csv,362,Sim Cook,---,---,AUS,00:50:39,06:21:22,05:24:02,00:08:19,00:13:22,12:57:44
+ironman-france-20060625.csv,363,Stephane Coraboeuf,---,44 - Loire-Atlantique,FRA,00:52:24,05:43:23,03:30:28,00:06:48,00:05:49,10:18:52
+ironman-france-20060625.csv,364,Lionel Cuvier,---,33 - Gironde,FRA,01:40:09,---,---,00:07:41,---,DNF
+ironman-france-20060625.csv,365,Jo De Neve,---,East Flanders,BEL,---,---,---,---,---,DNS
+ironman-france-20060625.csv,366,Jack Dickson,---,South Lanarkshire,GBR,00:50:00,06:51:42,04:47:31,00:05:49,00:06:27,12:41:29
+ironman-france-20060625.csv,367,Thibault Fabbri,---,42 - Loire,FRA,---,07:01:22,05:15:35,01:11:55,00:06:54,13:35:46
+ironman-france-20060625.csv,368,Paul Fawcett,---,Leicestershire,GBR,01:02:39,06:30:02,05:41:16,00:08:51,00:09:19,13:32:07
+ironman-france-20060625.csv,369,John Fisher,---,Greater London,GBR,---,---,---,---,---,DNS
+ironman-france-20060625.csv,370,Didier Gallet,---,21 - Côte-d'Or,FRA,00:49:58,05:18:59,03:34:16,00:04:07,00:02:55,09:50:15
+ironman-france-20060625.csv,371,Allan Gruetter,---,Aargau,CHE,01:09:34,06:15:28,05:22:22,00:07:00,00:05:03,12:59:27
+ironman-france-20060625.csv,372,Harald Hofmann,---,Zürich,CHE,00:52:10,05:53:42,03:39:48,00:03:40,00:03:41,10:33:01
+ironman-france-20060625.csv,373,Darren Karasiuk,---,Ontario,CAN,01:06:30,06:49:05,04:49:57,00:09:34,00:07:26,13:02:32
+ironman-france-20060625.csv,374,Henrik Kavsman,---,---,DNK,01:04:10,06:41:11,05:29:46,00:08:33,00:08:14,13:31:54
+ironman-france-20060625.csv,375,Ben Kefford,---,06 - Alpes-Maritimes ,GBR,00:58:33,06:20:50,04:40:44,00:05:27,00:03:37,12:09:11
+ironman-france-20060625.csv,376,Yanne Larosa,---,---,CAN,01:00:16,06:47:29,04:40:27,00:06:20,00:05:04,12:39:36
+ironman-france-20060625.csv,377,Sylvain Lebret,---,06 - Alpes-Maritimes ,FRA,01:01:17,05:47:12,03:50:39,00:06:26,00:06:10,10:51:44
+ironman-france-20060625.csv,378,Jason Lewis,---,---,AUS,01:01:57,06:43:54,06:10:38,00:09:15,00:09:33,14:15:17
+ironman-france-20060625.csv,379,Jason Mant,---,Berkshire,GBR,00:56:53,06:36:29,04:45:39,00:06:45,00:10:45,12:36:31
+ironman-france-20060625.csv,380,Nicolas Martin,---,72 - Sarthe,FRA,00:47:50,05:34:50,---,00:03:47,00:04:13,DNF
+ironman-france-20060625.csv,381,Frédéric Mercier,---,13 - Bouches-du-Rhône,FRA,00:58:36,06:58:11,04:28:56,00:11:06,00:05:03,12:41:52
+ironman-france-20060625.csv,382,Eli Morgenstern,---,California,USA,00:55:48,05:50:55,05:16:40,00:05:17,00:04:35,12:13:15
+ironman-france-20060625.csv,383,Thierry Mouton,---,81 - Tarn,FRA,00:53:58,05:54:24,04:43:03,00:04:46,00:04:01,11:40:12
+ironman-france-20060625.csv,384,Rémy Mulard,34,FR,FRA,00:58:20,06:18:07,04:46:25,00:07:30,00:08:05,12:18:27
+ironman-france-20060625.csv,385,Nicolas Ogier,---,06 - Alpes-Maritimes ,FRA,01:09:00,07:14:52,04:18:06,00:09:46,00:25:16,13:17:00
+ironman-france-20060625.csv,386,Jean Marc Palpant,---,05 - Hautes-Alpes ,FRA,01:16:55,06:28:37,---,00:04:52,00:05:54,DNF
+ironman-france-20060625.csv,387,Philippe Pastor,---,06 - Alpes-Maritimes ,FRA,01:23:02,06:21:45,03:51:14,00:11:03,00:10:32,11:57:36
+ironman-france-20060625.csv,388,Didier Quintin,---,75 - Paris,FRA,00:52:44,06:17:06,05:34:33,00:08:06,00:05:13,12:57:42
+ironman-france-20060625.csv,389,Bostjan Rejc,---,---,SVN,01:11:49,06:20:14,04:16:46,00:09:54,00:06:46,12:05:29
+ironman-france-20060625.csv,390,Trevor Ryan,---,Stockholm,IRL,00:49:32,06:14:45,04:06:17,00:08:47,00:14:44,11:34:05
+ironman-france-20060625.csv,391,John Schegar,---,Sussex,GBR,---,---,---,---,---,DNS
+ironman-france-20060625.csv,392,Frederic Severino,34,Other,FRA,01:03:51,06:35:30,05:00:56,00:07:08,00:06:04,12:53:29
+ironman-france-20060625.csv,393,Jamie Spencer,---,Greater London,AUS,01:12:59,08:00:03,05:44:49,00:12:27,00:15:47,15:26:05
+ironman-france-20060625.csv,394,Elmar Sprink,---,Nordrhein-Westfalen,DEU,01:03:31,06:02:41,04:06:14,00:06:22,00:05:23,11:24:11
+ironman-france-20060625.csv,395,Benjamin Stoffels,---,Hamburg,DEU,00:54:24,05:58:42,04:45:36,00:04:13,00:06:05,11:49:00
+ironman-france-20060625.csv,396,Nick Thomas,---,Shropshire,GBR,00:51:11,05:43:38,03:44:12,00:04:30,00:03:41,10:27:12
+ironman-france-20060625.csv,397,Peter Van Mol,---,East Flanders,BEL,00:55:18,05:24:52,03:11:41,00:05:21,00:04:27,09:41:39
+ironman-france-20060625.csv,398,Lee White,---,Leicestershire,GBR,00:56:59,06:39:14,05:19:02,00:06:33,00:08:05,13:09:53
+ironman-france-20060625.csv,399,Markus Zehnder,---,Aargau,CHE,00:55:39,05:57:48,04:20:16,00:05:13,00:04:54,11:23:50
+ironman-france-20060625.csv,400,Boualem Alem,---,91 - Essonne,FRA,00:49:03,05:46:59,07:32:47,00:05:17,00:04:50,14:18:56
+ironman-france-20060625.csv,401,Nicolas Aubier,---,72 - Sarthe,FRA,00:55:18,05:37:43,04:39:40,00:06:31,00:05:52,11:25:04
+ironman-france-20060625.csv,402,Nicolas Barbati,---,06 - Alpes-Maritimes ,FRA,00:51:27,06:00:10,04:06:15,00:04:17,00:04:21,11:06:30
+ironman-france-20060625.csv,403,Patrick-Giorgio Baumberger,---,Zürich,CHE,01:10:11,---,---,00:06:22,---,DNF
+ironman-france-20060625.csv,404,Stéphane Bernardoni,---,06 - Alpes-Maritimes ,FRA,01:04:23,06:40:31,03:56:52,00:06:53,00:03:30,11:52:09
+ironman-france-20060625.csv,405,Michael Blassel,---,Alpes-maritimes ,FRA,01:03:45,06:10:56,04:17:29,00:08:13,00:06:38,11:47:01
+ironman-france-20060625.csv,406,Joel Carson,---,---,NZL,01:03:26,05:41:06,---,00:05:48,00:07:36,DNF
+ironman-france-20060625.csv,407,Jaime Castello Molina,---,Madrid,ESP,---,---,---,---,---,DNS
+ironman-france-20060625.csv,408,Laurent Chalaye,---,83 - Var,FRA,01:03:46,05:45:02,04:08:29,00:05:34,00:05:17,11:08:08
+ironman-france-20060625.csv,409,Fabrice Chauliac,---,31 - Haute-Garonne,FRA,01:10:16,07:25:10,05:08:17,00:08:44,00:11:20,14:03:47
+ironman-france-20060625.csv,410,Gerald Coughlin,---,New York,USA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,411,Stéphan Duffau,---,79 - Deux-Sèvres,FRA,00:57:00,05:46:23,03:37:51,00:05:48,00:04:16,10:31:18
+ironman-france-20060625.csv,412,Andy Durning,---,Falkirk,GBR,01:10:56,06:22:06,05:12:36,00:07:03,00:08:48,13:01:29
+ironman-france-20060625.csv,413,Ludwig Eglmeier,---,Bavaria (Bayern),DEU,00:53:59,05:50:38,04:17:11,00:05:35,00:03:24,11:10:47
+ironman-france-20060625.csv,414,Sébastien Franzon,---,06 - Alpes-Maritimes ,FRA,01:05:44,06:34:49,04:28:06,00:08:42,00:06:39,12:24:00
+ironman-france-20060625.csv,415,Stephen French,---,---,CAN,01:01:07,06:47:18,04:29:27,00:07:43,00:12:35,12:38:10
+ironman-france-20060625.csv,416,Bryan Hoare,---,---,UGA,00:47:53,---,---,00:05:14,---,DNF
+ironman-france-20060625.csv,417,Richard Hull,---,Surrey,GBR,---,06:26:08,04:58:49,01:12:01,00:05:14,12:42:12
+ironman-france-20060625.csv,418,Calvo Joseba,---,Barcelona,ESP,01:10:50,06:44:19,04:23:13,00:07:50,00:03:52,12:30:04
+ironman-france-20060625.csv,419,Simon Kirkby,---,Lancashire,GBR,01:02:17,07:25:18,04:55:32,00:10:08,00:21:53,13:55:08
+ironman-france-20060625.csv,420,Andre Kock,---,Schleswig-Holstein,DEU,01:04:27,06:03:59,03:59:29,00:05:59,00:06:21,11:20:15
+ironman-france-20060625.csv,421,Jérôme Lagarde,---,31 - Haute-Garonne,FRA,01:24:15,07:00:33,05:49:07,00:06:12,00:06:49,DNF
+ironman-france-20060625.csv,422,Magnus Lageson,---,Västra Götaland,SWE,01:00:36,06:47:27,05:20:11,00:05:58,00:10:07,13:24:19
+ironman-france-20060625.csv,423,Eric Le Moing,---,83 - Var,FRA,00:50:15,05:55:02,05:34:57,00:04:53,00:06:18,12:31:25
+ironman-france-20060625.csv,424,Pete Lewis,---,Hampshire,GBR,00:56:44,06:40:02,04:13:01,00:07:21,00:07:47,12:04:55
+ironman-france-20060625.csv,425,Federico Lopez Vélo,---,Cádiz,ESP,00:55:15,06:28:36,04:19:20,00:08:14,00:07:05,11:58:30
+ironman-france-20060625.csv,426,Vincent Malachanne,---,Berkshire,FRA,00:52:55,06:01:54,03:43:32,00:04:52,00:05:16,10:48:29
+ironman-france-20060625.csv,427,Jørgen Melau,---,---,NOR,01:09:27,07:48:13,06:04:31,00:08:37,00:10:11,15:20:59
+ironman-france-20060625.csv,428,Juan Carlos Miranda Gonzalez,---,Burgos,ESP,01:01:57,05:41:05,03:57:08,00:07:37,00:08:22,10:56:09
+ironman-france-20060625.csv,429,Cyrille Monnet,---,45 - Loiret,FRA,00:50:53,05:19:11,---,00:03:49,00:04:08,DNF
+ironman-france-20060625.csv,430,Stéphane Moustrou,---,06 - Alpes-Maritimes ,FRA,00:54:16,05:31:36,03:45:24,00:05:55,00:03:31,10:20:42
+ironman-france-20060625.csv,431,Arnaud Penel,---,13 - Bouches-du-Rhône,FRA,01:03:25,05:28:38,04:45:14,00:06:31,00:04:04,11:27:52
+ironman-france-20060625.csv,432,Tommy Pintacuda,---,North Carolina,USA,01:01:34,06:58:53,---,00:07:32,---,DNF
+ironman-france-20060625.csv,433,Gary Schechner,---,California,USA,00:55:01,06:37:27,04:34:47,00:08:24,00:11:03,12:26:42
+ironman-france-20060625.csv,434,Zoran Slanic,---,---,SVN,00:55:35,06:28:52,04:48:31,00:06:07,00:05:30,12:24:35
+ironman-france-20060625.csv,435,Johan Smolders,---,Antwerpen,BEL,00:51:32,05:19:14,03:38:22,00:04:22,00:03:27,09:56:57
+ironman-france-20060625.csv,436,Eric Spielmann,---,06 - Alpes-Maritimes ,FRA,01:03:47,07:06:16,04:36:08,00:13:55,00:10:36,13:10:42
+ironman-france-20060625.csv,437,David Stapleton,---,Kilkenny,IRL,01:30:17,09:15:43,---,00:11:24,00:08:30,DNF
+ironman-france-20060625.csv,438,Waldo Thienpont,---,East Flanders,BEL,---,---,---,---,---,DNS
+ironman-france-20060625.csv,439,Luc Thiry,---,Namur,BEL,01:09:02,06:25:45,04:33:17,00:07:11,00:05:24,12:20:39
+ironman-france-20060625.csv,440,Federico Viganò,---,MI,ITA,01:03:48,06:59:59,---,00:08:22,00:08:13,DNF
+ironman-france-20060625.csv,441,Sascha Wächter,---,Bremen,DEU,01:03:49,06:34:31,04:40:39,00:10:43,00:06:08,12:35:50
+ironman-france-20060625.csv,442,Nicholas Yardley,---,Wiltshire,GBR,00:55:41,06:40:20,04:58:10,00:08:18,00:07:51,12:50:20
+ironman-france-20060625.csv,443,Nathan Agnew,---,---,AUS,00:58:34,06:08:54,---,00:04:40,00:03:18,DNF
+ironman-france-20060625.csv,444,Wolfgang Angst,---,Baden-Wuerttemberg,DEU,---,---,---,---,---,DNS
+ironman-france-20060625.csv,445,Philip Anterup,---,---,SWE,00:51:38,05:46:11,03:51:33,00:04:54,00:04:00,10:38:16
+ironman-france-20060625.csv,446,Noël Auvaro,---,92 - Hauts-de-Seine,FRA,00:50:41,05:54:58,03:28:31,00:06:44,00:03:55,10:24:49
+ironman-france-20060625.csv,447,Robert Bengtsson,---,Västra Götaland,SWE,00:57:12,05:47:05,03:52:25,00:05:20,00:05:17,10:47:19
+ironman-france-20060625.csv,448,Tom Bennett,---,West Midlands,GBR,01:07:35,07:56:20,06:21:21,00:06:18,00:07:38,15:39:12
+ironman-france-20060625.csv,449,Peter Benz,---,Baden-Wuerttemberg,DEU,00:58:40,05:45:10,03:42:44,00:06:06,00:03:57,10:36:37
+ironman-france-20060625.csv,450,Laurent Beuzeboc,---,13 - Bouches-du-Rhône,FRA,00:50:35,05:27:47,03:07:35,00:03:52,00:02:22,09:32:11
+ironman-france-20060625.csv,451,Shane Botrscheller,---,Tennessee,USA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,452,Bertrand Bouzon,---,47 - Lot-et-Garonne,FRA,00:59:17,07:31:01,05:29:41,00:05:17,00:08:04,14:13:20
+ironman-france-20060625.csv,453,Holger Brandt,---,Niedersachsen,DEU,00:59:08,05:27:13,03:42:27,00:04:36,00:02:28,10:15:52
+ironman-france-20060625.csv,454,Thomas Caruana,---,63 - Puy-de-Dôme,FRA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,455,Philippe Casaert,---,Antwerpen,BEL,00:51:22,05:37:07,03:44:52,00:03:59,00:02:54,10:20:14
+ironman-france-20060625.csv,456,Andre Dommer,---,---,DNK,01:01:49,06:13:20,05:15:48,00:10:14,00:15:32,12:56:43
+ironman-france-20060625.csv,457,Philippe Foucher,---,67 - Bas-Rhin,FRA,---,06:13:50,04:47:23,01:13:50,00:08:16,12:23:19
+ironman-france-20060625.csv,458,Michaël Fuentes,---,66 - Pyrénées-Orientales,FRA,00:59:25,06:07:35,04:56:51,00:06:31,00:04:44,12:15:06
+ironman-france-20060625.csv,459,Anders Gläsel,---,Copenhagen,DNK,01:14:52,06:08:44,04:22:59,00:06:10,00:07:06,11:59:51
+ironman-france-20060625.csv,460,Joerg Gokeler,---,Baden-Wuerttemberg,DEU,00:58:51,05:28:16,03:15:23,00:04:39,00:02:40,09:49:49
+ironman-france-20060625.csv,461,Mark Hughes-Jones,---,Midlothian,GBR,01:00:18,07:07:56,04:51:13,00:09:01,00:07:21,13:15:49
+ironman-france-20060625.csv,462,Nicolas Ilic,---,75 - Paris,FRA,01:24:47,08:14:21,04:56:25,00:10:26,00:11:34,14:57:33
+ironman-france-20060625.csv,463,Edward Jacobs,---,California,USA,00:53:16,06:44:31,05:52:15,00:05:54,00:08:49,13:44:45
+ironman-france-20060625.csv,464,Lars Bo Jeppesen,---,---,DNK,---,---,---,---,---,DNS
+ironman-france-20060625.csv,465,Christian Jonin,---,69 - Rhône,FRA,01:11:01,05:28:05,03:19:04,00:04:58,00:03:07,10:06:15
+ironman-france-20060625.csv,466,Aimé Klenne,36,G D Luxembourg,FRA,01:10:44,06:42:17,04:30:03,00:08:14,00:05:41,12:36:59
+ironman-france-20060625.csv,467,Goetz Lipinsky,---,Brandenburg,DEU,00:53:03,05:31:14,03:43:27,00:05:08,00:03:21,10:16:13
+ironman-france-20060625.csv,468,Gerard Martin,---,PN,ITA,01:01:45,07:01:05,05:49:07,00:05:26,00:07:38,14:05:01
+ironman-france-20060625.csv,469,Julien Mathieu,---,78 - Yvelines,FRA,00:54:36,06:15:08,05:00:55,00:05:22,00:03:35,12:19:36
+ironman-france-20060625.csv,470,Denis Maton,---,59 - Nord,FRA,00:44:35,06:38:42,06:01:04,00:03:52,00:08:36,13:36:49
+ironman-france-20060625.csv,471,Jean Bernard Michel,---,69 - Rhône,FRA,01:01:29,06:00:32,04:35:07,00:05:16,00:05:38,11:48:02
+ironman-france-20060625.csv,472,Trevor Morris,---,Berkshire,GBR,00:56:03,06:35:01,05:34:12,00:06:24,00:10:05,13:21:45
+ironman-france-20060625.csv,473,Laurent Petermann,---,42 - Loire,FRA,01:05:23,05:27:15,03:22:35,00:05:48,00:05:37,10:06:38
+ironman-france-20060625.csv,474,Kurt Raggenbasse,---,Zürich,CHE,---,---,---,---,---,DNS
+ironman-france-20060625.csv,475,Sam Ratajczak,---,Antwerpen,BEL,00:48:54,05:24:58,03:21:00,00:03:45,00:03:03,09:41:40
+ironman-france-20060625.csv,476,Olivier Roquet,---,06 - Alpes-Maritimes ,FRA,01:02:59,06:57:01,07:23:31,00:12:06,00:10:14,15:45:51
+ironman-france-20060625.csv,477,John Rowland,---,Yorkshire,GBR,01:03:39,---,---,00:08:29,---,DNF
+ironman-france-20060625.csv,478,Simon Sägesser,---,Basel Stadt,CHE,00:59:44,06:04:46,04:43:09,00:07:44,00:06:11,12:01:34
+ironman-france-20060625.csv,479,Gianluca Sarigu,---,CA,ITA,01:05:30,07:11:57,04:26:40,00:07:50,00:07:36,12:59:33
+ironman-france-20060625.csv,480,Brian Schultz,---,North Carolina,USA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,481,Steve Shafer,---,Oklahoma,USA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,482,Ian Stubbings,---,Surrey,GBR,01:05:45,07:07:02,05:48:33,00:09:51,00:08:34,14:19:45
+ironman-france-20060625.csv,483,Jason Tuffs,---,California,USA,01:08:42,06:58:22,---,00:05:25,00:11:38,DNF
+ironman-france-20060625.csv,484,Thomas Wittek,---,Baden-Wuerttemberg,DEU,00:59:09,05:46:04,03:44:43,00:05:22,00:03:31,10:38:49
+ironman-france-20060625.csv,485,Bernard Wyatt,36,Western Cape,ZAF,00:53:12,06:21:19,---,00:03:34,00:03:33,DNF
+ironman-france-20060625.csv,486,Eric Yvars,---,27 - Eure,FRA,00:56:41,05:31:01,04:14:55,00:06:11,00:03:53,10:52:41
+ironman-france-20060625.csv,487,Jacques Amalbert,---,05 - Hautes-Alpes ,FRA,01:24:28,---,---,00:08:54,---,DNF
+ironman-france-20060625.csv,488,Thomas Ammann,---,Basel Land,CHE,00:57:24,05:40:12,03:48:59,00:05:05,00:03:20,10:35:00
+ironman-france-20060625.csv,489,Giuseppe  Baldelli,37,---,ITA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,490,Iker Balzategi Muruamendiaraz,---,Guipúzcoa,SLV,01:05:17,07:22:59,04:30:38,00:11:13,00:12:39,13:22:46
+ironman-france-20060625.csv,491,Thierry Bertrand,---,13 - Bouches-du-Rhône,FRA,00:56:29,05:34:00,---,00:06:16,00:04:26,DNF
+ironman-france-20060625.csv,492,Pascal Bourdeu,---,64 - Pyrénées-Atlantiques,FRA,01:11:18,06:12:10,05:29:18,00:08:54,00:08:14,13:09:54
+ironman-france-20060625.csv,493,Brian Bourke,---,Sligo,IRL,01:01:56,06:45:47,04:01:12,00:06:48,00:05:37,12:01:20
+ironman-france-20060625.csv,494,Drew Boursaw,---,California,USA,01:05:39,07:16:13,06:16:46,00:10:19,00:15:10,15:04:07
+ironman-france-20060625.csv,495,Philippe Cannatella,---,06 - Alpes-Maritimes ,FRA,01:06:09,06:38:22,04:57:40,00:08:12,00:06:34,12:56:57
+ironman-france-20060625.csv,496,Franck Castellan,---,06 - Alpes-Maritimes ,FRA,00:57:16,06:24:04,04:58:29,00:06:52,00:06:45,12:33:26
+ironman-france-20060625.csv,497,André Charre,---,07 - Ardèche ,FRA,01:03:24,06:13:01,---,00:15:38,00:06:19,DNF
+ironman-france-20060625.csv,498,Nick Collinson,---,Suffolk,GBR,00:53:15,06:30:10,04:15:13,00:06:14,00:09:56,11:54:48
+ironman-france-20060625.csv,499,Brent Descalopoulis,---,California,USA,01:08:20,---,---,00:05:57,---,DNF
+ironman-france-20060625.csv,500,Hassan Doudouch,---,2A - Corse-du-Sud ,FRA,00:55:06,05:31:21,03:14:57,00:04:47,00:03:42,09:49:53
+ironman-france-20060625.csv,501,Jérôme Faure,---,35 - Ille-et-Vilaine,FRA,01:00:59,---,---,---,---,DNF
+ironman-france-20060625.csv,502,Laurent Ferreira,---,42 - Loire,FRA,01:00:19,05:31:12,---,00:04:53,---,DNF
+ironman-france-20060625.csv,503,Jean-Phil Flamand,---,Bruxelles Capitale,BEL,00:50:48,07:18:12,06:11:07,00:14:05,00:19:44,14:53:56
+ironman-france-20060625.csv,504,Emmanuel Foucher,---,26 - Drôme,FRA,00:53:11,05:41:03,03:38:25,00:05:30,00:03:00,10:21:09
+ironman-france-20060625.csv,505,Vincent Gaboriau,---,44 - Loire-Atlantique,FRA,01:06:10,05:47:22,03:55:18,00:07:00,00:06:54,11:02:44
+ironman-france-20060625.csv,506,Dean Gaffigan,---,---,GBR,00:58:06,06:23:16,04:19:06,00:06:35,00:05:01,11:52:04
+ironman-france-20060625.csv,507,Philippe Gerra,---,89 - Yonne,FRA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,508,Stéphane Godard,---,31 - Haute-Garonne,FRA,01:01:50,07:24:22,04:57:45,00:05:38,00:05:01,13:34:36
+ironman-france-20060625.csv,509,Brett Greene,---,California,USA,00:58:11,06:37:06,03:55:31,00:08:00,00:07:33,11:46:21
+ironman-france-20060625.csv,510,Zbigniew Grzes,---,---,POL,01:09:50,07:24:36,05:53:58,00:08:08,00:11:14,14:47:46
+ironman-france-20060625.csv,511,Pierre Guillée,---,91 - Essonne,FRA,01:10:26,07:43:22,04:52:23,00:09:29,01:01:03,14:56:43
+ironman-france-20060625.csv,512,Gert Hansen,---,---,DNK,01:00:38,05:40:31,03:58:14,00:06:05,00:03:57,10:49:25
+ironman-france-20060625.csv,513,Arthur Hawhurst,---,New Hampshire,USA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,514,Enrique Jorda Coloma,---,Albacete,ESP,00:56:01,05:48:52,---,00:04:45,00:03:07,DNF
+ironman-france-20060625.csv,515,Carsten Jorgensen,---,---,DNK,00:50:11,05:36:22,03:48:52,00:04:49,00:02:49,10:23:03
+ironman-france-20060625.csv,516,Lars Kernchen,---,Brandenburg,DEU,---,---,---,---,---,DNS
+ironman-france-20060625.csv,517,Andreas Koptik,---,Nordrhein-Westfalen,DEU,00:56:29,06:15:06,05:07:29,00:05:40,00:05:56,12:30:40
+ironman-france-20060625.csv,518,Charles Edouard Langevin,---,75 - Paris,FRA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,519,Gerry Lashley,---,Ontaria,CAN,00:56:23,05:39:54,03:46:59,00:06:35,00:06:27,10:36:18
+ironman-france-20060625.csv,520,Martin Liebeck,---,06 - Alpes-Maritimes ,FRA,00:48:49,05:44:50,04:43:40,00:04:04,00:03:52,11:25:15
+ironman-france-20060625.csv,521,Régis Marchand,---,92 - Hauts-de-Seine,FRA,00:58:12,06:26:08,---,00:04:49,---,DNF
+ironman-france-20060625.csv,522,Bill Mccormack,---,---,IRL,01:11:20,07:42:42,04:41:32,00:09:28,00:08:55,13:53:57
+ironman-france-20060625.csv,523,Olivier Moline,---,34 - Hérault,FRA,01:09:55,06:38:22,05:30:28,00:08:33,00:09:49,13:37:07
+ironman-france-20060625.csv,524,Lewis Monks,---,Cheshire,GBR,01:05:56,06:05:04,04:36:47,00:06:27,00:08:03,12:02:17
+ironman-france-20060625.csv,525,Christoph Moser,---,Bern / Berne,CHE,00:54:30,05:18:50,03:38:13,00:04:22,00:02:38,09:58:33
+ironman-france-20060625.csv,526,Sérgio Oliveira,---,Lisbon,BRA,01:14:21,07:13:34,05:08:06,00:07:24,00:07:11,13:50:36
+ironman-france-20060625.csv,527,Christopher Paige,---,New York,USA,01:09:19,07:34:55,05:25:08,00:06:37,00:11:43,14:27:42
+ironman-france-20060625.csv,528,Thierry Paillot,---,06 - Alpes-Maritimes ,FRA,01:04:49,06:02:29,04:00:57,00:05:49,00:06:22,11:20:26
+ironman-france-20060625.csv,529,Steno Pasquè,---,MI,ITA,01:00:12,06:48:30,05:06:23,00:13:45,00:13:23,13:22:13
+ironman-france-20060625.csv,530,Emmanuel Philippeau,37,---,FRA,01:12:34,---,---,00:09:05,---,DNF
+ironman-france-20060625.csv,531,Hugues Plessis,---,06 - Alpes-Maritimes ,FRA,01:01:00,06:06:16,03:48:57,00:06:16,00:04:21,11:06:50
+ironman-france-20060625.csv,532,Nicolas Poddevin,---,31 - Haute-Garonne,FRA,01:02:37,06:14:51,04:45:15,00:05:08,00:05:12,12:13:03
+ironman-france-20060625.csv,533,Neil Potts,---,Shropshire,GBR,00:56:09,06:54:13,05:34:33,00:05:27,00:04:43,13:35:05
+ironman-france-20060625.csv,534,François Primot,---,91 - Essonne,FRA,00:51:59,05:49:51,04:17:46,00:04:13,00:07:10,11:10:59
+ironman-france-20060625.csv,535,Franck Pusset,---,91 - Essonne,FRA,01:03:22,06:12:16,04:26:42,00:06:10,00:04:11,11:52:41
+ironman-france-20060625.csv,536,Jose Ignacio Rodriguez Calvilla,---,Guipúzcoa,ESP,01:15:01,07:16:53,04:30:35,00:07:40,00:12:36,13:22:45
+ironman-france-20060625.csv,537,Pascal Seguinaud,---,92 - Hauts-de-Seine,FRA,00:58:19,06:03:05,---,00:05:13,00:09:04,DNF
+ironman-france-20060625.csv,538,David Smith,---,Noord Holland,AUS,00:58:50,07:01:44,---,00:05:54,00:05:51,DNF
+ironman-france-20060625.csv,539,Marcel Van Amstel,---,Drente,NLD,---,---,---,---,---,DNS
+ironman-france-20060625.csv,540,Bart Van De Water,---,Antwerpen,BEL,---,---,---,---,---,DNS
+ironman-france-20060625.csv,541,Jean François Wierzba,---,33 - Gironde,FRA,00:57:01,06:17:14,---,00:06:02,00:06:51,DNF
+ironman-france-20060625.csv,542,Peter Zweimueller,---,Oberösterreich / Upper Austria,AUT,00:58:40,05:31:52,03:53:21,00:05:02,00:04:33,10:33:28
+ironman-france-20060625.csv,543,Dughall Aitken,---,---,GBR,00:52:54,06:29:42,04:28:20,00:07:08,00:10:09,12:08:13
+ironman-france-20060625.csv,544,Ryuichi Akagawa,---,---,JPN,01:11:13,09:27:04,---,00:08:40,---,DNF
+ironman-france-20060625.csv,545,François-Xavier Allemand,---,Vaucluse,FRA,01:08:06,07:42:47,04:01:34,00:08:11,00:06:01,13:06:39
+ironman-france-20060625.csv,546,Pierrick Beauvir,---,06 - Alpes-Maritimes ,FRA,01:17:00,07:24:48,04:28:30,00:11:38,00:07:27,13:29:23
+ironman-france-20060625.csv,547,Marcel Expedit Begue,---,01 - Ain ,FRA,01:03:30,07:41:56,---,00:09:02,00:08:38,DNF
+ironman-france-20060625.csv,548,Pascal Bernard,---,84 - Vaucluse,FRA,00:58:56,06:16:24,04:27:19,00:07:08,00:08:26,11:58:13
+ironman-france-20060625.csv,549,Fabrice Bouliong,---,60 - Oise,FRA,01:19:40,06:21:41,05:34:51,00:11:24,00:09:24,13:37:00
+ironman-france-20060625.csv,550,Michel Bourgeais,---,88 - Vosges,FRA,01:01:36,06:21:08,05:57:28,00:14:14,00:13:48,13:48:14
+ironman-france-20060625.csv,551,Chris Bown,---,Clackmannanshire,GBR,01:04:35,06:21:12,05:04:13,00:07:27,00:09:08,12:46:35
+ironman-france-20060625.csv,552,Jean Marc Burg,---,06 - Alpes-Maritimes ,FRA,01:13:19,06:18:48,04:56:56,00:09:07,00:06:43,12:44:53
+ironman-france-20060625.csv,553,Danny Claessen,---,Antwerpen,BEL,00:56:18,05:31:18,03:54:55,00:04:31,00:04:56,10:31:58
+ironman-france-20060625.csv,554,Christophe Clet,---,06 - Alpes-Maritimes ,FRA,01:03:27,07:27:40,04:47:39,00:11:03,00:22:30,13:52:19
+ironman-france-20060625.csv,555,Gilles Cornet,---,48 - Lozère,FRA,01:02:32,06:22:05,---,00:10:41,00:07:44,DNF
+ironman-france-20060625.csv,556,Lionel Crosnier,---,63 - Puy-de-Dôme,FRA,01:03:34,06:23:27,---,00:07:39,00:07:26,DNF
+ironman-france-20060625.csv,557,Peter Dahl,---,Skåne,SWE,---,---,---,---,---,DNS
+ironman-france-20060625.csv,558,Kent Damon Jr.,---,Massachusetts,USA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,559,Emmanuel Delgrange,---,06 - Alpes-Maritimes ,FRA,01:02:08,06:53:54,05:58:23,00:06:40,00:09:17,14:10:22
+ironman-france-20060625.csv,560,Stephane Deo,---,75 - Paris,FRA,01:08:56,07:28:31,05:26:58,00:09:15,00:19:38,14:33:18
+ironman-france-20060625.csv,561,Ravi Dighe,---,Hertfordshire,GBR,01:10:19,07:00:14,05:59:44,00:07:49,00:06:56,14:25:02
+ironman-france-20060625.csv,562,Stefan Dreule,---,Obwalden,CHE,01:07:43,06:01:18,---,00:08:17,00:05:01,DNF
+ironman-france-20060625.csv,563,Tony Elnahas,---,Ohio,LBY,---,---,---,---,---,DNS
+ironman-france-20060625.csv,564,Didier Foltete,---,81 - Tarn,FRA,01:03:27,06:43:06,05:08:36,00:06:31,00:04:54,13:06:34
+ironman-france-20060625.csv,565,Pascal Forster,---,Zürich,CHE,---,---,---,---,---,DNS
+ironman-france-20060625.csv,566,Philippe Fortier,---,72 - Sarthe,FRA,01:06:05,05:36:01,04:24:01,00:06:24,00:05:08,11:17:39
+ironman-france-20060625.csv,567,Jaroslaw Gajewski,---,---,POL,01:04:21,06:18:26,04:09:56,00:08:58,00:10:28,11:52:09
+ironman-france-20060625.csv,568,James Geraty,---,Mayo,IRL,---,---,---,---,---,DNS
+ironman-france-20060625.csv,569,Laurent Gillard,---,13 - Bouches-du-Rhône,FRA,01:00:46,06:43:11,04:54:14,00:07:30,00:07:04,12:52:45
+ironman-france-20060625.csv,570,Philippe Goron,---,13 - Bouches-du-Rhône,FRA,01:05:51,05:32:34,---,00:09:05,---,DNF
+ironman-france-20060625.csv,571,Rainer Heckmanek,---,Niederösterreich / Lower Austr,AUS,---,---,---,---,---,DNS
+ironman-france-20060625.csv,572,Dom Irvine,---,Yorkshire,GBR,01:06:28,06:34:31,---,00:04:41,00:06:11,DNF
+ironman-france-20060625.csv,573,Frank Malter,---,Baden-Wuerttemberg,DEU,00:54:16,05:41:20,---,00:04:43,00:03:49,DNF
+ironman-france-20060625.csv,574,Jérôme Marlier,---,72 - Sarthe,FRA,01:04:32,05:25:20,03:53:26,00:06:20,00:04:45,10:34:23
+ironman-france-20060625.csv,575,Bernard Mcmanus,---,---,IRN,01:04:25,07:29:41,06:02:17,00:07:56,00:08:19,14:52:38
+ironman-france-20060625.csv,576,Yohann Monceaux,---,65 - Hautes-Pyrénées,FRA,00:58:34,06:03:00,04:16:26,00:05:37,00:03:59,11:27:36
+ironman-france-20060625.csv,577,John Moran,---,Merseyside,GBR,01:11:02,06:55:22,05:11:01,00:10:21,00:11:54,13:39:40
+ironman-france-20060625.csv,578,Craig Morrison,---,City of Edinburgh,GBR,01:04:06,06:57:59,05:21:56,00:10:55,00:08:51,13:43:47
+ironman-france-20060625.csv,579,Alan Moser,---,Cheshire,GBR,01:07:36,06:31:48,04:01:28,00:05:46,00:04:41,11:51:19
+ironman-france-20060625.csv,580,Philippe Perroux,---,74 - Haute-Savoie,FRA,01:03:41,06:14:19,05:19:31,00:09:40,00:10:18,12:57:29
+ironman-france-20060625.csv,581,Alain Ribaut,---,06 - Alpes-Maritimes ,FRA,01:08:57,06:06:37,04:02:24,00:07:11,00:05:23,11:30:32
+ironman-france-20060625.csv,582,Evan Rogers,---,Western Cape,ZAF,01:03:44,07:26:11,04:17:54,00:07:32,00:13:11,13:08:32
+ironman-france-20060625.csv,583,Dean Sargeant,---,West Midlands,GBR,01:10:58,07:53:17,05:09:53,00:09:48,00:06:39,14:30:35
+ironman-france-20060625.csv,584,Michael Schellenberger,---,Bavaria (Bayern),DEU,01:17:50,06:19:17,04:53:03,00:08:40,00:07:53,12:46:43
+ironman-france-20060625.csv,585,Rainer Stehl,---,Nordrhein-Westfalen,DEU,---,---,---,---,---,DNS
+ironman-france-20060625.csv,586,Simon Stewart,---,Cumbria,GBR,00:56:14,05:56:01,03:41:18,00:05:19,00:07:50,10:46:42
+ironman-france-20060625.csv,587,Phil Stroudley,---,---,GBR,00:56:31,07:33:23,05:47:45,00:06:18,00:09:39,14:33:36
+ironman-france-20060625.csv,588,Fabrice Terlaud,---,06 - Alpes-Maritimes ,FRA,00:59:03,05:49:45,04:11:30,00:05:57,00:06:14,11:12:29
+ironman-france-20060625.csv,589,Masatoshi Uematsu,---,---,JPN,01:13:16,---,---,00:10:17,---,DNF
+ironman-france-20060625.csv,590,Laurent Urban,---,13 - Bouches-du-Rhône,FRA,00:50:15,05:10:44,03:10:53,00:03:41,00:02:12,09:17:45
+ironman-france-20060625.csv,591,Hans Weber,---,Burgenland / Bundesländer,AUT,01:03:25,06:29:42,---,00:07:57,00:04:58,DNF
+ironman-france-20060625.csv,592,Dorn Wenninger,---,Greater London,USA,01:13:24,06:41:25,06:01:35,00:10:22,00:10:27,14:17:13
+ironman-france-20060625.csv,593,Robert Woertler,---,Hessen,DEU,---,---,---,---,---,DNS
+ironman-france-20060625.csv,594,Brent Wright,---,---,NZL,01:03:55,07:07:21,05:57:43,00:08:47,00:11:42,14:29:28
+ironman-france-20060625.csv,595,Franck Baisadouli,---,95 - Val-D'Oise,FRA,00:59:29,07:04:49,05:01:10,00:17:02,00:21:50,13:44:20
+ironman-france-20060625.csv,596,Greg Birch,---,Gauteng,ZAF,01:08:00,06:10:13,04:16:34,00:09:52,00:09:54,11:54:33
+ironman-france-20060625.csv,597,Pascal Blanchard,---,78 - Yvelines,FRA,01:23:00,07:33:05,05:16:42,00:07:46,00:08:22,14:28:55
+ironman-france-20060625.csv,598,Neville Blowers,---,Leicestershire,GBR,01:08:58,08:01:29,05:42:12,00:10:05,00:08:16,15:11:00
+ironman-france-20060625.csv,599,Stéphane Bourrel,---,31 - Haute-Garonne,FRA,01:08:07,07:53:09,05:51:22,00:07:26,00:13:57,15:14:01
+ironman-france-20060625.csv,600,Olivier Chopin,---,---,FRA,00:56:58,07:07:27,05:37:16,00:05:15,00:07:16,13:54:12
+ironman-france-20060625.csv,601,James Dillion,---,Texas,USA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,602,Laurent Dos Santos,---,01 - Ain ,FRA,01:01:26,05:37:00,03:59:37,00:08:19,00:06:28,10:52:50
+ironman-france-20060625.csv,603,Thierry Duca,---,13 - Bouches-du-Rhône,FRA,01:09:40,07:55:18,05:44:34,00:11:53,00:12:44,15:14:09
+ironman-france-20060625.csv,604,Jean Jacques Dujardin,---,59 - Nord,FRA,01:04:45,06:13:27,04:20:59,00:06:44,00:10:52,11:56:47
+ironman-france-20060625.csv,605,Josu Elorriaga Llanos,---,Vizcaya,ESP,00:58:58,06:15:41,06:02:17,00:08:03,00:06:53,13:31:52
+ironman-france-20060625.csv,606,Kurt Emmenegger,---,Basel Land,CHE,01:08:44,06:13:31,04:55:44,00:09:45,00:06:40,12:34:24
+ironman-france-20060625.csv,607,Jean Pierre Escots,---,47 - Lot-et-Garonne,FRA,01:00:42,06:39:59,04:51:53,00:08:17,00:07:48,12:48:39
+ironman-france-20060625.csv,608,Oliver Frank,---,Baden-Wuerttemberg,DEU,00:58:46,05:58:36,04:08:59,00:05:52,00:04:24,11:16:37
+ironman-france-20060625.csv,609,Philippe Ganci,---,83 - Var,FRA,01:16:41,06:56:13,05:10:41,00:08:13,00:15:40,13:47:28
+ironman-france-20060625.csv,610,John Laurence Gavin,---,Surrey,IRL,01:20:13,08:37:58,05:05:10,00:14:15,00:12:24,15:30:00
+ironman-france-20060625.csv,611,Eric Hourcade,---,11 - Aude ,FRA,01:02:03,06:17:00,04:43:36,00:05:55,00:06:57,12:15:31
+ironman-france-20060625.csv,612,Simon Jordan,---,Surrey,GBR,01:06:23,07:13:58,05:22:04,00:06:49,00:07:26,13:56:40
+ironman-france-20060625.csv,613,Will Kelty,39,CA,USA,01:12:02,07:16:57,05:19:05,00:06:18,00:06:24,14:00:46
+ironman-france-20060625.csv,614,Ralf Klee,---,Hessen,DEU,01:17:40,08:12:40,05:42:28,00:06:38,00:05:18,15:24:44
+ironman-france-20060625.csv,615,Volker Kronmüller,---,Baden-Wuerttemberg,DEU,00:56:38,06:21:59,04:06:56,00:07:46,00:06:37,11:39:56
+ironman-france-20060625.csv,616,Sylvain Laur,---,06 - Alpes-Maritimes ,FRA,01:02:09,05:56:48,---,00:08:43,00:04:20,DNF
+ironman-france-20060625.csv,617,Chris Lord,---,---,GBR,01:00:58,06:55:17,05:07:59,00:09:23,00:08:47,13:22:24
+ironman-france-20060625.csv,618,Michel Maingon,---,06 - Alpes-Maritimes ,FRA,01:19:11,07:18:17,05:04:39,00:08:42,00:09:01,13:59:50
+ironman-france-20060625.csv,619,Paul Mcguire,---,---,IRL,01:01:23,06:15:08,04:25:54,00:08:47,00:10:53,12:02:05
+ironman-france-20060625.csv,620,Marco Montori,---,SV,ITA,00:57:04,05:51:03,03:26:37,00:06:24,00:10:54,10:32:02
+ironman-france-20060625.csv,621,Masayuki Nakagawa,---,Tyne and Wear,JPN,01:11:51,07:36:47,04:35:12,00:08:29,00:09:01,13:41:20
+ironman-france-20060625.csv,622,Jocelyn Normand,---,78 - Yvelines,FRA,01:14:53,06:25:00,04:21:36,00:06:23,00:06:18,12:14:10
+ironman-france-20060625.csv,623,Scott Ostrem,---,Oklahoma,USA,00:52:45,06:21:46,05:25:18,00:04:46,00:05:10,12:49:45
+ironman-france-20060625.csv,624,Daniel Ouimet,---,AB,CAN,01:03:48,07:15:58,04:15:33,00:07:34,00:07:44,12:50:37
+ironman-france-20060625.csv,625,Kwangil Park,---,---,KOR,01:17:21,06:24:46,04:50:58,00:07:49,00:06:49,12:47:43
+ironman-france-20060625.csv,626,Stéphane Perrot,---,34 - Hérault,FRA,00:55:02,05:42:57,04:48:20,00:04:30,00:02:59,11:33:48
+ironman-france-20060625.csv,627,Tobbe Petterson,---,Skåne,SWE,01:15:48,07:34:15,06:00:06,00:13:56,00:17:22,15:21:27
+ironman-france-20060625.csv,628,Davide Riva,---,RE,ITA,00:53:11,06:05:58,04:42:12,00:08:18,00:06:52,11:56:31
+ironman-france-20060625.csv,629,Luis Miguel San Segundo,---,Ávila,ESP,01:01:28,05:31:52,03:59:43,00:06:07,00:04:46,10:43:56
+ironman-france-20060625.csv,630,Thomas Schoetzau,---,Ticino,DEU,00:56:29,05:32:22,03:24:28,00:04:31,00:02:07,09:59:57
+ironman-france-20060625.csv,631,Paul Sparks,---,Kent,GBR,01:07:06,06:44:34,05:09:37,00:06:34,00:05:02,13:12:53
+ironman-france-20060625.csv,632,Davide Spinoni,---,BS,ITA,01:09:09,06:43:16,06:03:13,00:08:12,00:12:29,14:16:19
+ironman-france-20060625.csv,633,Richard Stevens,---,---,NZL,01:07:49,07:54:20,06:03:23,00:11:13,00:08:58,15:25:43
+ironman-france-20060625.csv,634,John Tavener,---,Bristol,GBR,00:59:11,06:26:47,04:57:19,00:07:34,00:05:39,12:36:30
+ironman-france-20060625.csv,635,Joël Ullindah,---,06 - Alpes-Maritimes ,FRA,01:20:46,06:27:11,03:54:35,00:05:33,00:09:48,11:57:53
+ironman-france-20060625.csv,636,Nil Van Assche,---,Namur,BEL,---,---,---,---,---,DNS
+ironman-france-20060625.csv,637,Luis Mariano Villan Sanchez,---,Burgos,ESP,01:01:05,05:23:20,03:59:33,00:09:10,00:03:34,10:36:42
+ironman-france-20060625.csv,638,Richard Webster,---,Merseyside,GNB,01:07:26,06:42:19,04:35:07,00:07:33,00:07:28,12:39:53
+ironman-france-20060625.csv,639,Willy Albesa,---,75 - Paris,FRA,01:09:11,07:45:05,---,00:06:51,00:08:54,DNF
+ironman-france-20060625.csv,640,Thierry Auguier,---,06 - Alpes-Maritimes ,FRA,01:02:50,06:22:23,04:15:18,00:08:17,00:07:18,11:56:06
+ironman-france-20060625.csv,641,Jean Marie Barone,---,83 - Var,FRA,00:56:45,05:50:05,03:56:32,00:06:30,00:04:30,10:54:22
+ironman-france-20060625.csv,642,Alain Bénet,---,Vaud,CHE,00:52:59,05:55:25,04:27:07,00:05:26,00:04:26,11:25:23
+ironman-france-20060625.csv,643,Mebarek Bessaa,---,69 - Rhône,FRA,00:58:09,05:37:00,03:23:35,00:06:15,00:03:36,10:08:35
+ironman-france-20060625.csv,644,Oliver Bianchi,---,06 - Alpes-Maritimes ,FRA,01:19:32,05:27:10,03:33:50,00:08:41,00:04:28,10:33:41
+ironman-france-20060625.csv,645,Alain Binsinger,---,06 - Alpes-Maritimes ,FRA,00:48:53,05:47:46,04:30:43,00:04:43,00:04:34,11:16:39
+ironman-france-20060625.csv,646,Eric Boltz,---,Pennsylvania,USA,00:59:51,06:03:27,---,00:06:27,00:04:10,DNF
+ironman-france-20060625.csv,647,Pierre Bringolf,---,32 - Gers,FRA,01:04:17,06:05:14,04:09:48,00:06:29,00:02:40,11:28:28
+ironman-france-20060625.csv,648,Rory Buisson,40,Other,IRL,00:56:54,08:25:39,---,00:07:03,---,DNF
+ironman-france-20060625.csv,649,Pascal Busetta,---,66 - Pyrénées-Orientales,FRA,01:02:29,06:20:14,04:57:54,00:06:44,00:07:24,12:34:45
+ironman-france-20060625.csv,650,Sandro Carenzio,---,BG,ITA,00:57:39,06:02:26,04:29:09,00:05:40,00:04:55,11:39:49
+ironman-france-20060625.csv,651,Luciano Casiraghi,---,LC,ITA,00:58:53,05:53:52,03:35:59,00:08:10,00:04:41,10:41:35
+ironman-france-20060625.csv,652,Theodore Casterline,---,Oregon,USA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,653,Paolo Ceci,---,PA,ITA,01:01:19,06:00:44,04:59:49,00:06:53,00:06:07,12:14:52
+ironman-france-20060625.csv,654,William Chandler,---,Somerset,GBR,01:02:29,06:31:41,05:40:28,00:07:19,00:08:23,13:30:20
+ironman-france-20060625.csv,655,Dominique Cocusse,40,UT,FRA,00:50:34,05:42:51,03:38:18,00:05:11,00:03:40,10:20:34
+ironman-france-20060625.csv,656,Anthony Costantino,---,Georgia,USA,01:07:43,07:59:18,05:44:12,00:28:06,00:09:19,15:28:38
+ironman-france-20060625.csv,657,Stuart Dawson,---,Staffordshire,GBR,01:22:58,07:05:31,04:56:19,00:09:06,00:10:17,13:44:11
+ironman-france-20060625.csv,658,Jean-Michel Delas,---,33 - Gironde,FRA,01:07:47,06:07:51,04:08:46,00:08:05,00:06:58,11:39:27
+ironman-france-20060625.csv,659,Arnaud Desnos,---,72 - Sarthe,FRA,00:59:33,06:42:27,04:40:50,00:09:23,00:07:32,12:39:45
+ironman-france-20060625.csv,660,Peter Hartl,---,Bavaria (Bayern),DEU,01:00:43,06:51:45,04:56:35,00:06:41,00:06:18,13:02:02
+ironman-france-20060625.csv,661,Frédéric Dubois,---,73 - Savoie,FRA,01:19:39,---,---,00:08:06,---,DNF
+ironman-france-20060625.csv,662,Chirstophe Dumonet,---,---,AUS,01:04:18,06:42:54,07:33:38,00:09:23,00:13:16,15:43:29
+ironman-france-20060625.csv,663,Frank Emde,---,Nordrhein-Westfalen,DEU,01:00:26,06:16:26,05:26:20,00:07:22,00:07:43,12:58:17
+ironman-france-20060625.csv,664,Jean Christophe Faucon,---,06 - Alpes-Maritimes ,FRA,01:08:22,07:02:32,04:57:30,00:08:37,00:12:26,13:29:27
+ironman-france-20060625.csv,665,Torsten Fischer-Rasmussen,---,---,DNK,---,---,---,---,---,DNS
+ironman-france-20060625.csv,666,Christopher Garbett,---,Shropshire,GBR,00:57:59,06:06:00,03:57:38,00:06:07,00:05:07,11:12:51
+ironman-france-20060625.csv,667,Jean Michel Gardeux,---,94 - Val-de-Marne,FRA,00:58:21,06:24:39,04:04:20,00:04:52,00:04:18,11:36:30
+ironman-france-20060625.csv,668,Anthony Goube,---,92 - Hauts-de-Seine,FRA,00:59:35,05:58:31,03:35:36,00:06:32,00:04:17,10:44:31
+ironman-france-20060625.csv,669,Philippe Gregot,---,01 - Ain ,FRA,00:56:32,05:56:14,05:24:24,00:05:18,00:05:48,12:28:16
+ironman-france-20060625.csv,670,Pete Halford,---,31 - Haute-Garonne,CAN,01:08:52,07:32:55,04:41:25,00:09:18,00:09:12,13:41:42
+ironman-france-20060625.csv,671,Jean Louis Harel,---,57 - Moselle,FRA,00:54:01,05:18:03,03:41:58,00:04:54,00:03:00,10:01:56
+ironman-france-20060625.csv,672,Juergen Hilberath,---,Baden-Wuerttemberg,DEU,---,06:22:10,04:34:08,01:09:58,00:03:40,12:09:56
+ironman-france-20060625.csv,673,Lionel Hunault,---,91 - Essonne,FRA,01:01:45,06:41:44,06:04:13,00:12:33,00:12:38,14:12:53
+ironman-france-20060625.csv,674,Erwin Hunziker,---,Bern / Berne,CHE,01:02:36,06:13:16,---,00:06:36,---,DNF
+ironman-france-20060625.csv,675,Paul James,---,Yorkshire,GBR,00:58:01,06:36:02,05:47:10,00:05:11,00:07:15,13:33:39
+ironman-france-20060625.csv,676,Stefan Jonas,---,Bavaria (Bayern),DEU,---,---,---,---,---,DNS
+ironman-france-20060625.csv,677,Michael Keane,---,Clare,IRL,---,---,---,---,---,DNS
+ironman-france-20060625.csv,678,Danilo Konjedic,---,TO,ITA,00:58:36,05:59:09,04:27:46,00:05:37,00:03:37,11:34:45
+ironman-france-20060625.csv,679,Gilles Laval,---,84 - Vaucluse,FRA,00:59:07,07:21:58,04:20:23,00:07:09,00:06:25,12:55:02
+ironman-france-20060625.csv,680,Luycx Luc,---,East Flanders,BEL,01:10:30,06:38:49,---,00:07:14,00:08:06,DNF
+ironman-france-20060625.csv,681,Matthew Maasdijk,---,---,AUS,00:59:47,07:03:16,06:11:36,00:06:28,00:07:26,14:28:33
+ironman-france-20060625.csv,682,Reiner Maier,---,Bavaria (Bayern),DEU,01:00:55,06:01:31,05:08:49,00:06:42,00:06:43,12:24:40
+ironman-france-20060625.csv,683,Silvio Mannino,---,Genève,ITA,00:49:01,05:37:02,03:45:11,00:06:23,00:06:35,10:24:12
+ironman-france-20060625.csv,684,Romano Massimo,---,IM,ITA,01:01:47,06:33:37,05:40:13,00:06:10,00:10:03,13:31:50
+ironman-france-20060625.csv,685,Vernon Mcclure,---,VI,USA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,686,Kurtis Molter,---,Ohio,USA,00:56:27,05:56:12,05:22:14,00:07:00,00:05:03,12:26:56
+ironman-france-20060625.csv,687,Vincent Mulcahy,---,Tipperary,IRL,01:10:55,06:18:41,03:44:39,00:09:34,00:06:54,11:30:43
+ironman-france-20060625.csv,688,Anthony Murphy,---,---,GBR,---,---,---,---,---,DNS
+ironman-france-20060625.csv,689,Tom Nightingale,---,---,CAN,00:58:17,07:08:36,05:30:35,00:12:26,00:12:46,14:02:40
+ironman-france-20060625.csv,690,Franck Oelker,---,06 - Alpes-Maritimes ,FRA,01:04:51,06:21:35,04:17:55,00:07:25,00:08:01,11:59:47
+ironman-france-20060625.csv,691,Tony Ohagan,---,---,NZL,00:50:09,05:23:28,04:14:34,00:05:05,00:03:54,10:37:10
+ironman-france-20060625.csv,692,Philippe Pedrini,---,56 - Morbihan,FRA,01:01:06,06:04:14,03:50:29,00:06:26,00:03:40,11:05:55
+ironman-france-20060625.csv,693,Håkan Persson,---,Stockholm,SWE,01:01:00,06:48:19,05:04:03,00:09:31,00:08:41,13:11:34
+ironman-france-20060625.csv,694,Thierry Pouget,---,72 - Sarthe,FRA,00:59:32,06:19:32,04:42:57,00:06:31,00:06:54,12:15:26
+ironman-france-20060625.csv,695,Nicolas Préault,---,33 - Gironde,FRA,01:03:36,06:49:50,04:55:48,00:08:54,00:11:28,13:09:36
+ironman-france-20060625.csv,696,Peter Pries,---,Nordrhein-Westfalen,GEO,00:55:48,08:59:52,---,00:05:00,---,DNF
+ironman-france-20060625.csv,697,Gilles Prunier,---,02 - Aisne ,FRA,00:56:18,06:56:52,06:06:39,00:08:14,00:08:20,14:16:23
+ironman-france-20060625.csv,698,Didier Rives,---,14 - Calvados,FRA,00:51:47,05:48:16,04:37:22,00:05:41,00:05:13,11:28:19
+ironman-france-20060625.csv,699,Brian Rounds,---,Nebraska,USA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,700,Vincent Sabathier,---,District of Columbia,FRA,00:57:13,05:59:24,03:48:11,00:05:17,00:04:08,10:54:13
+ironman-france-20060625.csv,701,Christian Schneider,---,Nordrhein-Westfalen,DEU,01:02:53,06:43:50,05:15:58,00:09:46,00:14:23,13:26:50
+ironman-france-20060625.csv,702,Franck Segni,---,06 - Alpes-Maritimes ,FRA,01:08:41,07:29:14,04:37:32,00:17:08,00:15:16,13:47:51
+ironman-france-20060625.csv,703,John Skaanning,---,---,DNK,01:11:53,06:38:50,05:10:18,00:07:11,00:07:48,13:16:00
+ironman-france-20060625.csv,704,Flemming Steen,---,---,DNK,01:07:58,06:54:06,05:24:15,00:09:24,00:07:17,13:43:00
+ironman-france-20060625.csv,705,François Tanguy,---,73 - Savoie,FRA,00:56:57,05:58:47,---,00:05:25,00:04:50,DNF
+ironman-france-20060625.csv,706,Stephen Tarling,---,Bristol,GBR,---,07:58:31,---,01:10:08,---,DNF
+ironman-france-20060625.csv,707,Barry Taylor,---,Northumberland,GBR,00:56:35,---,---,00:13:48,---,DNF
+ironman-france-20060625.csv,708,Jonathan Tink,---,Midlothian,GBR,01:06:09,07:13:40,06:55:21,00:06:54,00:07:33,15:29:37
+ironman-france-20060625.csv,709,Dietmar Ubben,---,Bremen,DEU,01:10:08,06:21:14,04:11:38,00:09:19,00:08:21,12:00:40
+ironman-france-20060625.csv,710,Hervé Vettu,---,06 - Alpes-Maritimes ,FRA,01:14:45,06:20:04,04:37:49,00:06:32,00:08:46,12:27:56
+ironman-france-20060625.csv,711,Wies Wollants,---,RO,BEL,00:51:17,06:26:40,---,00:04:56,00:05:29,DNF
+ironman-france-20060625.csv,712,Marc Abecassis,---,06 - Alpes-Maritimes ,FRA,01:00:52,06:33:01,04:10:43,00:07:45,00:07:17,11:59:38
+ironman-france-20060625.csv,713,Frank Alber,---,Baden-Wuerttemberg,DEU,00:56:19,05:45:30,04:06:52,00:05:07,00:05:33,10:59:21
+ironman-france-20060625.csv,714,Colin Allen,---,Cleveland,GBR,01:09:37,06:47:49,05:27:49,00:09:02,00:11:11,13:45:28
+ironman-france-20060625.csv,715,Simon Austin,---,Yorkshire,GBR,00:59:28,06:21:54,03:56:14,00:05:31,00:11:29,11:34:36
+ironman-france-20060625.csv,716,Olivier Becker,---,26 - Drôme,FRA,01:23:33,06:34:47,04:04:02,00:07:43,00:07:45,12:17:50
+ironman-france-20060625.csv,717,Paolo Biasibetti,---,VE,ITA,01:06:19,06:39:35,06:34:00,00:08:00,00:08:44,14:36:38
+ironman-france-20060625.csv,718,Luciano Bonizzi,---,06 - Alpes-Maritimes ,ITA,00:59:27,05:48:47,03:49:15,00:09:43,00:09:01,10:56:13
+ironman-france-20060625.csv,719,Mark Borland,---,Kent,GBR,01:03:17,07:12:16,---,00:07:20,---,DNF
+ironman-france-20060625.csv,720,Willi Brabender,---,Bavaria (Bayern),DEU,01:10:56,06:12:05,04:40:30,00:06:57,00:05:10,12:15:38
+ironman-france-20060625.csv,721,Thierry Carle,---,83 - Var,FRA,00:59:30,06:06:12,---,00:06:16,00:08:30,DNF
+ironman-france-20060625.csv,722,Thierry Champoussin,---,06 - Alpes-Maritimes ,FRA,01:01:08,05:45:02,04:45:55,00:08:36,00:05:40,11:46:21
+ironman-france-20060625.csv,723,Guido Cina,---,Obwalden,CHE,01:08:52,06:41:27,05:30:37,00:10:21,00:08:14,13:39:31
+ironman-france-20060625.csv,724,Javier Clavero Forcen,41,---,ESP,00:53:17,05:37:47,03:43:45,00:05:17,00:04:19,10:24:25
+ironman-france-20060625.csv,725,Jean-Marc Dardier,---,New York,USA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,726,David Dawson,---,Hertfordshire,GBR,00:47:55,06:43:06,05:34:21,00:07:53,00:11:51,13:25:06
+ironman-france-20060625.csv,727,Rudy Decamps,---,Walloon Brabant,BEL,01:00:33,05:51:35,---,00:07:38,00:07:56,DNF
+ironman-france-20060625.csv,728,Michael Disini,---,California,USA,01:33:43,07:59:58,05:10:37,00:12:46,00:20:04,15:17:08
+ironman-france-20060625.csv,729,Andrew Edgar,---,Cumbria,GBR,01:12:55,08:13:52,05:26:15,00:10:54,00:09:28,15:13:24
+ironman-france-20060625.csv,730,Jérôme Favreau,---,17 - Charente-Maritime,FRA,01:20:17,06:24:06,04:05:46,00:04:57,00:04:38,11:59:44
+ironman-france-20060625.csv,731,Frank Ferling,---,Nordrhein-Westfalen,DEU,01:02:00,06:04:06,04:10:32,00:06:49,00:04:40,11:28:07
+ironman-france-20060625.csv,732,Thomas Filyo,---,---,DNK,01:00:56,06:18:20,---,00:15:14,00:07:20,DNF
+ironman-france-20060625.csv,733,Mario Friedrich,---,Nordrhein-Westfalen,DEU,01:03:13,07:09:54,05:41:11,00:06:02,00:06:40,14:07:00
+ironman-france-20060625.csv,734,Stephane Garcia,---,17 - Charente-Maritime,FRA,00:56:37,05:48:33,05:54:23,00:05:06,00:05:01,12:49:40
+ironman-france-20060625.csv,735,Daniel Gauci,---,84 - Vaucluse,FRA,00:59:19,06:07:54,---,00:07:30,00:05:10,DNF
+ironman-france-20060625.csv,736,Hugh Gibbs,---,06 - Alpes-Maritimes ,GBR,00:56:14,05:34:51,04:03:42,00:05:25,00:04:48,10:45:00
+ironman-france-20060625.csv,737,Luis Miguel Gomez De Andres,---,Madrid,ESP,01:21:22,06:40:15,04:21:28,00:12:53,00:11:21,12:47:19
+ironman-france-20060625.csv,738,Remo Gottardi,---,Zürich,ITA,01:27:07,06:42:51,04:41:55,00:10:47,00:13:58,13:16:38
+ironman-france-20060625.csv,739,Laurent Guelton,---,30 - Gard,FRA,01:11:15,06:10:05,04:24:29,00:07:24,00:05:04,11:58:17
+ironman-france-20060625.csv,740,Graeme Hornsby,---,Leicestershire,GBR,01:06:11,---,---,00:08:24,---,DNF
+ironman-france-20060625.csv,741,Philippe Lardin,---,52 - Haute-Marne,FRA,01:00:00,07:25:34,---,00:08:46,---,DNF
+ironman-france-20060625.csv,742,Dominique Lebatard,---,06 - Alpes-Maritimes ,FRA,01:01:57,05:47:49,---,00:08:28,00:06:53,DNF
+ironman-france-20060625.csv,743,Dirk Mahns,---,Nordrhein-Westfalen,DEU,01:01:58,07:03:22,---,00:08:26,00:07:26,DNF
+ironman-france-20060625.csv,744,Gary Mcilraith,---,Cheshire,GBR,01:10:33,07:18:47,---,00:09:14,00:16:34,DNF
+ironman-france-20060625.csv,745,Richard Mergler,---,---,GBR,01:03:38,05:42:39,03:39:56,00:07:10,00:06:10,10:39:33
+ironman-france-20060625.csv,746,Lloyd Morgan,---,Merseyside,AUS,00:56:22,07:46:09,06:17:58,00:13:12,00:11:03,15:24:44
+ironman-france-20060625.csv,747,William Murray,---,California,USA,01:22:56,07:47:32,---,00:08:56,00:06:50,DNF
+ironman-france-20060625.csv,748,Yoshiro Nagata,---,---,JPN,---,07:11:03,04:47:50,01:14:29,00:15:43,13:29:05
+ironman-france-20060625.csv,749,Andreas Obex,---,Tirol / Tyrol,AUT,00:54:55,06:29:34,04:38:47,00:05:26,00:07:19,12:16:01
+ironman-france-20060625.csv,750,Erwan Pariselle,---,75 - Paris,FRA,01:01:29,06:27:51,05:43:14,00:07:53,00:09:48,13:30:15
+ironman-france-20060625.csv,751,Franck Patoizeau,---,86 - Vienne,FRA,00:59:00,06:46:06,05:27:25,00:06:27,00:11:17,13:30:15
+ironman-france-20060625.csv,752,Ian Pickett,---,Oxfordshire,GBR,01:05:17,07:25:46,05:27:16,00:12:30,00:14:13,14:25:02
+ironman-france-20060625.csv,753,Christophe Pierret,---,69 - Rhône,FRA,00:58:10,06:19:17,---,00:06:20,00:06:19,DNF
+ironman-france-20060625.csv,754,Francesco Piovesan,---,Flemish Brabant,ITA,01:07:05,---,---,00:09:37,---,DNF
+ironman-france-20060625.csv,755,Luc Pottier,---,66 - Pyrénées-Orientales,FRA,01:02:56,06:32:15,04:35:39,00:06:11,00:05:09,12:22:10
+ironman-france-20060625.csv,756,Alain Rannou,---,29 - Finistère,FRA,01:17:47,07:16:46,05:04:45,00:10:53,00:08:19,13:58:30
+ironman-france-20060625.csv,757,Dominique Ravily,---,95 - Val-D'Oise,FRA,01:07:28,07:14:11,---,00:06:00,00:09:28,DNF
+ironman-france-20060625.csv,758,Thierry Ricard,---,17 - Charente-Maritime,FRA,01:07:41,08:16:53,05:53:16,00:08:13,00:08:32,15:34:35
+ironman-france-20060625.csv,759,Paolo Richetta,---,Piemonte,ITA,01:08:20,06:58:07,04:20:11,00:09:21,00:06:48,12:42:47
+ironman-france-20060625.csv,760,Bart Robbins,---,Texas,USA,01:03:04,06:41:37,---,00:07:24,00:10:38,DNF
+ironman-france-20060625.csv,761,Torsten Rohr,---,Schleswig-Holstein,DEU,00:59:48,06:11:35,---,00:04:59,---,DNF
+ironman-france-20060625.csv,762,Ingo Rotermund,---,Schleswig-Holstein,DEU,00:51:36,06:03:32,04:34:45,00:05:41,00:04:54,11:40:28
+ironman-france-20060625.csv,763,Marco Sacchi,---,City of Edinburgh,MEX,00:54:05,06:28:31,05:15:53,00:07:50,00:09:32,12:55:51
+ironman-france-20060625.csv,764,Jens Scheiter,---,Sachsen,DEU,00:59:56,06:04:04,04:26:25,00:06:52,00:04:26,11:41:43
+ironman-france-20060625.csv,765,Rudi Van Aelst,---,Antwerpen,BEL,00:57:03,05:53:39,04:34:44,00:05:52,00:05:38,11:36:56
+ironman-france-20060625.csv,766,Marc Vanassche,---,East Flanders,BEL,00:54:52,05:24:50,---,00:05:11,00:02:30,DNF
+ironman-france-20060625.csv,767,Giuseppe Vergani,---,BG,ITA,00:47:49,05:57:52,04:01:07,00:05:06,00:04:12,10:56:06
+ironman-france-20060625.csv,768,Mirco Villa,---,MI,ITA,01:19:01,06:19:22,04:29:25,00:06:30,00:07:16,12:21:34
+ironman-france-20060625.csv,769,John Young,---,Midlothian,GBR,01:01:49,05:57:36,04:30:28,00:06:47,00:08:00,11:44:40
+ironman-france-20060625.csv,770,Hervé Achard,---,81 - Tarn,FRA,00:58:43,06:37:06,04:36:16,00:06:06,00:07:56,12:26:07
+ironman-france-20060625.csv,771,Brad Allen,---,---,AUS,00:57:44,06:28:43,06:38:21,00:06:41,00:07:44,14:19:13
+ironman-france-20060625.csv,772,Jean Luc Bantoure,---,66 - Pyrénées-Orientales,FRA,01:03:31,06:03:10,04:20:28,00:06:19,00:05:12,11:38:40
+ironman-france-20060625.csv,773,Tim Barker,---,Kent,GBR,01:03:35,06:46:26,05:45:21,00:06:22,00:06:20,13:48:04
+ironman-france-20060625.csv,774,Nigel Bell,42,Yorkshire,GBR,---,---,---,---,---,DNS
+ironman-france-20060625.csv,775,Dieter Bender,---,Saarland,DEU,00:55:05,05:45:23,04:05:37,00:05:03,00:03:38,10:54:46
+ironman-france-20060625.csv,776,Fabio Catufi,---,LO,ITA,00:58:35,06:05:47,03:47:47,00:05:27,00:04:08,11:01:44
+ironman-france-20060625.csv,777,Frédéric Chatillon Chenel,---,06 - Alpes-Maritimes ,FRA,00:53:25,05:34:22,03:56:03,00:05:00,00:04:01,10:32:51
+ironman-france-20060625.csv,778,Erik Coppens,---,East Flanders,BEL,01:07:16,06:58:01,06:34:44,00:10:00,00:09:05,14:59:06
+ironman-france-20060625.csv,779,Paul Dale,---,Northamptonshire,GBR,00:59:31,06:12:56,04:28:25,00:06:23,00:05:13,11:52:28
+ironman-france-20060625.csv,780,Tim Drury,---,---,ARE,01:01:15,07:31:39,06:27:35,00:10:25,00:09:08,15:20:02
+ironman-france-20060625.csv,781,Jérôme Fabre,---,01 - Ain ,CHE,00:55:02,06:17:29,04:56:25,00:05:32,00:05:38,12:20:06
+ironman-france-20060625.csv,782,Bruno Famin,---,06 - Alpes-Maritimes ,FRA,01:04:11,06:39:57,---,00:07:20,00:09:09,DNF
+ironman-france-20060625.csv,783,Udo Fesser,---,Bavaria (Bayern),DEU,01:03:54,06:16:11,04:49:30,00:05:34,00:08:06,12:23:15
+ironman-france-20060625.csv,784,Daniel Floettmann,---,Nordrhein-Westfalen,DEU,01:11:50,06:50:04,05:21:46,00:07:54,00:09:35,13:41:09
+ironman-france-20060625.csv,785,Thomas Flück,---,Bern / Berne,CHE,00:58:44,05:43:17,04:16:16,00:05:08,00:03:45,11:07:10
+ironman-france-20060625.csv,786,Bernard Flynn,---,Sligo,IRL,01:20:29,07:33:16,04:21:29,00:15:03,00:08:04,13:38:21
+ironman-france-20060625.csv,787,Simon Galloway,---,Lancashire,GBR,---,---,---,---,---,DNS
+ironman-france-20060625.csv,788,Neil Hammond,---,92 - Hauts-de-Seine,GBR,01:03:50,06:52:04,04:57:08,00:08:11,00:06:13,13:07:26
+ironman-france-20060625.csv,789,Jeff Jonas,---,Nevada,USA,01:10:59,06:50:38,05:58:53,00:07:32,00:08:23,14:16:25
+ironman-france-20060625.csv,790,Michael Khazalpour,---,California,USA,00:53:55,06:15:48,04:16:42,00:08:41,00:07:02,11:42:08
+ironman-france-20060625.csv,791,Andreas Klingler,---,Tirol / Tyrol,AUT,00:58:15,05:35:55,03:09:58,00:05:18,00:04:13,09:53:39
+ironman-france-20060625.csv,792,Gilles Kneubuhler,---,74 - Haute-Savoie,FRA,01:05:23,05:47:49,04:00:15,00:05:41,00:05:59,11:05:07
+ironman-france-20060625.csv,793,Marc Lecigne,---,06 - Alpes-Maritimes ,FRA,00:54:57,06:08:20,---,00:05:26,00:06:01,DNF
+ironman-france-20060625.csv,794,Regis Lheureux,---,67 - Bas-Rhin,FRA,01:02:15,06:40:23,04:26:54,00:07:02,00:06:44,12:23:18
+ironman-france-20060625.csv,795,Emilio Lomi,42,MI,ITA,01:01:37,05:56:39,---,00:05:05,00:05:36,DNF
+ironman-france-20060625.csv,796,Laurent Moretti,---,---,FRA,---,06:52:02,05:19:42,01:06:22,00:12:33,13:30:39
+ironman-france-20060625.csv,797,Russell Murray,---,---,GBR,01:24:11,07:02:49,04:54:59,00:09:59,00:08:38,13:40:36
+ironman-france-20060625.csv,798,Gérard Oreggia,---,13 - Bouches-du-Rhône,FRA,01:04:53,---,---,00:10:09,---,DNF
+ironman-france-20060625.csv,799,Pierre Ottomani,---,13 - Bouches-du-Rhône,FRA,01:07:19,06:14:27,04:24:31,00:07:03,00:06:09,11:59:29
+ironman-france-20060625.csv,800,Hervé Perrin,---,32 - Gers,FRA,01:09:17,06:48:27,04:24:49,00:11:53,00:14:00,12:48:26
+ironman-france-20060625.csv,801,François Poddevin,---,59 - Nord,FRA,01:04:20,06:21:37,05:09:07,00:07:22,00:05:07,12:47:33
+ironman-france-20060625.csv,802,Holger Poppendieck,---,Western Cape,ZAF,01:13:50,07:19:53,---,00:08:35,---,DNF
+ironman-france-20060625.csv,803,Eamonn Quinn,---,Dublin,IRL,00:52:30,07:12:16,04:09:44,00:07:56,00:08:03,12:30:29
+ironman-france-20060625.csv,804,Adam Rees,---,---,GBR,00:56:12,06:22:30,03:54:31,00:09:02,00:08:32,11:30:47
+ironman-france-20060625.csv,805,Declan Rogers,---,Somerset,GBR,01:09:27,08:36:18,05:38:20,00:11:44,00:13:13,15:49:02
+ironman-france-20060625.csv,806,Jean-Christophe Rouzoul,---,14 - Calvados,FRA,01:12:21,06:30:48,04:50:15,00:08:09,00:06:57,12:48:30
+ironman-france-20060625.csv,807,Enrique Sanchez,---,---,CAN,01:16:40,08:49:22,---,00:14:08,00:18:49,DNF
+ironman-france-20060625.csv,808,Holger Scheer,---,Nordrhein-Westfalen,DEU,01:37:37,07:15:55,04:30:21,00:12:07,00:15:06,13:51:06
+ironman-france-20060625.csv,809,William Scheffer,---,87 - Haute-Vienne,FRA,00:58:38,06:21:38,04:09:14,00:07:03,00:07:31,11:44:04
+ironman-france-20060625.csv,810,Jacky Schildknecht,---,67 - Bas-Rhin,FRA,01:14:31,07:04:05,---,00:08:58,00:06:25,DNF
+ironman-france-20060625.csv,811,Jeremy Sheldon,---,---,GBR,01:19:41,06:48:33,04:06:45,00:09:12,00:10:00,12:34:11
+ironman-france-20060625.csv,812,Werner Spitzer,---,Steiermark / Styria,AUT,01:07:51,06:18:01,04:53:00,00:07:00,00:08:19,12:34:11
+ironman-france-20060625.csv,813,Christof Thurow,---,Bavaria (Bayern),DEU,01:08:01,06:35:07,04:20:20,00:06:01,00:09:30,12:18:59
+ironman-france-20060625.csv,814,Sandro Vallini,---,BZ,ITA,01:14:46,06:13:10,04:36:46,00:06:32,00:03:27,12:14:41
+ironman-france-20060625.csv,815,Gregory White,---,California,USA,01:14:21,07:17:09,05:12:27,00:09:10,00:05:26,13:58:33
+ironman-france-20060625.csv,816,Andy Wilmshurst,---,Angus,GBR,01:07:37,06:22:33,03:38:58,00:06:34,00:05:28,11:21:10
+ironman-france-20060625.csv,817,Roland Blom,---,74 - Haute-Savoie,NLD,00:51:23,---,---,00:07:01,---,DNF
+ironman-france-20060625.csv,818,Paul Boddy,---,Sussex,GBR,01:27:49,07:45:28,---,00:10:29,---,DNF
+ironman-france-20060625.csv,819,Joe Carter,---,Nevada,USA,01:16:57,06:15:14,04:31:40,00:07:27,00:07:55,12:19:13
+ironman-france-20060625.csv,820,Jean François Coston,---,69 - Rhône,FRA,01:18:18,06:27:24,06:11:35,00:09:23,00:10:35,14:17:15
+ironman-france-20060625.csv,821,Sean Court,---,Dublin,IRL,00:59:46,07:02:16,05:11:30,00:16:42,00:18:09,13:48:23
+ironman-france-20060625.csv,822,Gerhard Dobmeier,---,Bavaria (Bayern),DEU,00:51:19,05:30:30,03:49:27,00:04:12,00:02:49,10:18:17
+ironman-france-20060625.csv,823,Jean Pierre Dumont,---,06 - Alpes-Maritimes ,FRA,01:13:11,07:13:52,05:04:27,00:08:30,00:10:56,13:50:56
+ironman-france-20060625.csv,824,Marc Emde,---,Bavaria (Bayern),DEU,---,---,---,---,---,DNS
+ironman-france-20060625.csv,825,Robert Eriksson,43,Stockholm,SWE,01:07:28,06:22:08,04:36:29,00:06:02,00:05:40,12:17:47
+ironman-france-20060625.csv,826,David Fitzpatrick,---,Sussex,GBR,01:06:04,07:24:23,---,00:10:43,---,DNF
+ironman-france-20060625.csv,827,Jean Yves Foltzer,---,54 - Meurthe-et-Moselle,FRA,01:10:18,06:33:40,05:12:08,00:16:13,00:19:18,13:31:37
+ironman-france-20060625.csv,828,Alain Fournelle,---,92 - Hauts-de-Seine,FRA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,829,Denis Hartmann,---,06 - Alpes-Maritimes ,FRA,01:03:40,06:55:02,05:04:55,00:08:02,00:07:06,13:18:45
+ironman-france-20060625.csv,830,Adolfo Hervas Baciero,---,Burgos,ESP,01:06:02,05:56:40,04:11:47,00:08:17,00:07:47,11:30:33
+ironman-france-20060625.csv,831,Tim Hollingsworth,---,Hertfordshire,GBR,01:07:40,07:07:20,05:54:56,00:07:15,00:07:51,14:25:02
+ironman-france-20060625.csv,832,Dennis Jorgensen,---,---,DNK,00:56:44,05:55:27,03:52:42,00:07:22,00:07:42,10:59:57
+ironman-france-20060625.csv,833,Franz Kollitsch,---,Vienna,AUT,---,---,---,---,---,DNS
+ironman-france-20060625.csv,834,Daniel Kryszczuk,---,Delaware,USA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,835,Stefan Landtau,43,---,DEU,00:59:39,06:38:59,05:17:36,00:04:50,00:06:11,13:07:15
+ironman-france-20060625.csv,836,Pierre Lorenzi,43,MC,MCO,01:02:19,05:37:33,03:54:04,00:06:28,00:05:03,10:45:27
+ironman-france-20060625.csv,837,Sven Magnusson,---,Blekinge,SWE,01:16:34,07:25:46,---,00:12:23,00:16:57,DNF
+ironman-france-20060625.csv,838,Harald Mohren,---,Nordrhein-Westfalen,DEU,00:57:01,05:56:26,03:46:39,00:06:16,00:03:44,10:50:06
+ironman-france-20060625.csv,839,Benoît Roussel,---,59 - Nord,FRA,00:58:23,---,---,00:06:44,---,DNF
+ironman-france-20060625.csv,840,Paulo Santo,---,Lisbon,PRT,00:56:33,06:14:27,05:40:24,00:05:52,00:04:26,13:01:42
+ironman-france-20060625.csv,841,Henri Sanz,---,11 - Aude ,FRA,01:09:03,06:52:59,04:01:04,00:10:43,00:11:13,12:25:02
+ironman-france-20060625.csv,842,Jean Philippe Schlegel,---,34 - Hérault,FRA,01:01:46,07:01:31,---,00:10:04,00:07:23,DNF
+ironman-france-20060625.csv,843,Thorsten Schneemann,---,Niedersachsen,DEU,---,---,---,---,---,DNS
+ironman-france-20060625.csv,844,Holger Schuette,---,Bavaria (Bayern),DEU,00:56:11,06:08:56,---,00:07:23,00:05:18,DNF
+ironman-france-20060625.csv,845,Roman Stehling,---,California,USA,01:10:24,07:05:43,04:46:20,00:06:13,00:15:27,13:24:07
+ironman-france-20060625.csv,846,Pål Török,---,Stockholm,SWE,00:55:20,07:13:40,05:13:47,00:08:31,00:10:20,13:41:38
+ironman-france-20060625.csv,847,Graeme Torre,---,---,GBR,01:05:53,06:56:20,05:11:06,00:08:36,00:26:31,13:48:26
+ironman-france-20060625.csv,848,Haldane Van Horen,---,---,ZAF,01:01:15,07:39:41,05:19:42,00:07:24,00:12:07,14:20:09
+ironman-france-20060625.csv,849,Georges Videau,---,44 - Loire-Atlantique,FRA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,850,Emmanuel Vignes,---,06 - Alpes-Maritimes ,FRA,00:51:12,05:30:29,03:30:00,00:05:08,00:02:59,09:59:48
+ironman-france-20060625.csv,851,Steve Allen,44,Derbyshire,GBR,01:05:33,06:31:36,04:38:15,00:08:54,00:05:30,12:29:48
+ironman-france-20060625.csv,852,Roland Beaubois,---,94 - Val-de-Marne,FRA,01:08:34,07:11:46,---,00:06:32,---,DNF
+ironman-france-20060625.csv,853,Jean-Marc Bourret,---,48 - Lozère,FRA,01:13:15,08:07:35,05:14:15,00:09:06,00:13:22,14:57:33
+ironman-france-20060625.csv,854,Marc Boutsen,---,Bruxelles Capitale,BEL,01:12:00,07:27:24,05:11:20,00:10:47,00:10:22,14:11:53
+ironman-france-20060625.csv,855,Hans Bühlmann,---,Aargau,CHE,01:03:23,06:52:00,04:51:24,00:09:12,00:08:43,13:04:42
+ironman-france-20060625.csv,856,Laurent Castillo,---,06 - Alpes-Maritimes ,FRA,01:06:22,06:13:28,04:11:02,00:08:20,00:08:01,11:47:13
+ironman-france-20060625.csv,857,Gary Charlton,---,Merseyside,GBR,00:59:12,07:07:00,05:11:00,00:10:37,00:11:50,13:39:39
+ironman-france-20060625.csv,858,Yves Corriou,---,78 - Yvelines,FRA,01:12:04,06:04:04,04:04:10,00:06:18,00:05:27,11:32:03
+ironman-france-20060625.csv,859,Didier Costes,---,32 - Gers,FRA,00:53:06,05:53:47,04:26:03,00:04:35,00:04:02,11:21:33
+ironman-france-20060625.csv,860,Stuart Dorland,---,---,CAN,01:19:05,07:43:27,05:05:59,00:08:38,00:12:42,14:29:51
+ironman-france-20060625.csv,861,Andrew Dougherty,---,Greater London,GBR,01:06:31,07:21:50,05:58:03,00:10:39,00:22:17,14:59:20
+ironman-france-20060625.csv,862,Alex Douglas,---,South Lanarkshire,GBR,00:59:15,07:28:55,04:37:22,00:08:53,00:09:20,13:23:45
+ironman-france-20060625.csv,863,Emmanuel Gerlinger,---,67 - Bas-Rhin,FRA,01:16:10,07:21:25,05:05:58,00:08:28,00:10:07,14:02:08
+ironman-france-20060625.csv,864,Eric Houvion,---,88 - Vosges,FRA,---,06:55:40,---,01:15:51,---,DNF
+ironman-france-20060625.csv,865,Ian Jackson,---,Derbyshire,GBR,01:05:42,06:22:03,05:25:38,00:07:25,00:06:48,13:07:36
+ironman-france-20060625.csv,866,Phillip Jones,44,TX,USA,01:07:59,07:13:23,04:39:12,00:10:31,00:12:09,13:23:14
+ironman-france-20060625.csv,867,Xavier Lesage,---,59 - Nord,FRA,00:59:34,05:46:31,03:52:52,00:06:52,00:09:44,10:55:33
+ironman-france-20060625.csv,868,Jacques Omer Minella,---,78 - Yvelines,FRA,00:57:23,06:25:13,04:18:21,00:06:27,00:05:44,11:53:08
+ironman-france-20060625.csv,869,Ezio Montecucco,---,IM,ITA,00:59:38,06:26:49,03:34:04,00:09:02,00:06:53,11:16:26
+ironman-france-20060625.csv,870,Simon Mortimer,---,Dorset,GBR,01:02:13,06:27:46,04:06:19,00:09:41,00:15:11,12:01:10
+ironman-france-20060625.csv,871,Albert Niemann,---,Niedersachsen,DEU,01:00:50,06:09:30,05:37:01,00:06:42,00:06:12,13:00:15
+ironman-france-20060625.csv,872,Graham Edward Park,---,Cambridgeshire,GBR,01:19:41,06:33:31,04:37:03,00:05:40,00:07:13,12:43:08
+ironman-france-20060625.csv,873,Jonathan Pauley,---,California,USA,00:58:49,06:32:31,05:44:42,00:07:51,00:11:33,13:35:26
+ironman-france-20060625.csv,874,Clint Proffitt,---,Devon,GBR,00:58:17,06:29:24,05:11:33,00:07:27,00:07:01,12:53:42
+ironman-france-20060625.csv,875,Serge Ramadier,---,30 - Gard,FRA,01:20:08,07:19:49,05:51:22,00:11:48,00:06:58,14:50:05
+ironman-france-20060625.csv,876,Rodolphe Retrain,---,Herault,FRA,00:59:55,07:59:30,---,00:09:06,---,DNF
+ironman-france-20060625.csv,877,Barry Richards,---,Greater Manchester,GBR,00:55:11,07:04:09,---,00:06:48,00:09:10,DNF
+ironman-france-20060625.csv,878,Laurent Rouaud,---,31 - Haute-Garonne,USA,01:04:27,06:01:59,03:57:37,00:08:48,00:06:40,11:19:31
+ironman-france-20060625.csv,879,Joseph Scardino,---,06 - Alpes-Maritimes ,FRA,01:01:33,06:13:48,05:32:40,00:06:44,00:04:36,12:59:21
+ironman-france-20060625.csv,880,Greg Scott,---,Eastern Cape,ZAF,01:02:32,07:34:41,05:40:11,00:09:33,00:07:58,14:34:55
+ironman-france-20060625.csv,881,Michael Stadler,---,Bavaria (Bayern),DEU,01:03:01,---,---,---,---,DNF
+ironman-france-20060625.csv,882,Jean Claude Testard,---,13 - Bouches-du-Rhône,FRA,01:13:47,06:45:37,05:33:14,00:08:28,00:08:00,13:49:06
+ironman-france-20060625.csv,883,Christian Van Eecke,---,Bruxelles Capitale,BEL,01:18:06,08:16:07,05:48:25,00:12:19,00:10:43,15:45:40
+ironman-france-20060625.csv,884,Detlef Vieten,---,Maryland,DEU,01:09:54,08:09:48,---,00:07:09,---,DNF
+ironman-france-20060625.csv,885,Jean Charles Bellito,---,94 - Val-de-Marne,FRA,00:55:53,07:24:35,---,00:07:29,00:25:48,DNF
+ironman-france-20060625.csv,886,Stephane Berry,---,78 - Yvelines,FRA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,887,Georges Philippe Bessieres,---,47 - Lot-et-Garonne,FRA,01:16:57,06:42:29,05:23:30,00:11:11,00:10:26,13:44:33
+ironman-france-20060625.csv,888,Gary Black,---,---,CAN,01:05:27,07:39:06,06:05:16,00:09:01,00:12:39,15:11:29
+ironman-france-20060625.csv,889,Michel Bosch,45,FR,FRA,01:13:42,06:56:32,04:33:51,00:10:15,00:07:34,13:01:54
+ironman-france-20060625.csv,890,Alain Brams,---,92 - Hauts-de-Seine,FRA,00:57:13,06:30:32,04:50:01,00:09:04,00:12:57,12:39:47
+ironman-france-20060625.csv,891,Wayne Brandt,---,California,USA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,892,Christophe Bustamente,---,44 - Loire-Atlantique,FRA,00:58:33,06:15:35,03:44:35,00:06:50,00:06:16,11:11:49
+ironman-france-20060625.csv,893,Bertrand Cabaret,---,38 - Isère,FRA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,894,Gilles Calisti,---,06 - Alpes-Maritimes ,FRA,01:16:17,08:20:12,---,00:10:08,00:10:36,DNF
+ironman-france-20060625.csv,895,Paul Charlton,---,Sussex,GBR,---,---,---,---,---,DNS
+ironman-france-20060625.csv,896,Philip Donnison,---,Cumbria,GBR,01:06:13,07:27:30,04:46:28,00:11:05,00:08:10,13:39:26
+ironman-france-20060625.csv,897,Kenny Duff,---,Mississippi,USA,00:58:52,---,---,00:08:29,---,DNF
+ironman-france-20060625.csv,898,Thomas Greczmiel,---,Baden-Wuerttemberg,DEU,01:03:47,06:35:23,---,00:07:56,00:14:19,DNF
+ironman-france-20060625.csv,899,Philippe Grondin,---,01 - Ain ,FRA,01:15:02,07:32:33,---,00:07:32,00:11:31,DNF
+ironman-france-20060625.csv,900,Peter Gubler,---,Zürich,CHE,---,---,---,---,---,DNS
+ironman-france-20060625.csv,901,Doug Holt,---,---,CPV,---,---,---,---,---,DNS
+ironman-france-20060625.csv,902,Tomasz Jankowski,45,OH,POL,01:01:53,06:01:19,03:58:26,00:08:02,00:04:32,11:14:12
+ironman-france-20060625.csv,903,Michel Jean Joly,---,Bruxelles Capitale,BEL,01:02:29,06:00:19,04:32:55,00:08:45,00:08:07,11:52:35
+ironman-france-20060625.csv,904,Il Soo Kim,---,---,KOR,01:15:59,07:16:06,05:38:22,00:08:59,00:08:43,14:28:09
+ironman-france-20060625.csv,905,Soren Lillevang,---,---,DNK,00:56:17,06:10:29,04:39:48,00:06:43,00:05:16,11:58:33
+ironman-france-20060625.csv,906,Pierre Magnan,---,92 - Hauts-de-Seine,FRA,01:09:32,07:48:24,05:47:17,00:06:33,00:06:35,14:58:21
+ironman-france-20060625.csv,907,Joel Maillard,---,Zürich,CHE,01:01:47,06:09:30,04:24:38,00:05:38,00:03:51,11:45:24
+ironman-france-20060625.csv,908,Gary Martin,---,Greater London,GBR,---,---,---,---,---,DNS
+ironman-france-20060625.csv,909,Henner Matthes,---,Niedersachsen,DEU,01:13:15,---,---,00:10:55,---,DNF
+ironman-france-20060625.csv,910,Ian Parker,---,Tyne and Wear,GBR,00:54:55,06:06:30,05:39:18,00:05:34,00:04:18,12:50:35
+ironman-france-20060625.csv,911,Henri Pennarrubia,---,13 - Bouches-du-Rhône,FRA,01:17:27,---,---,00:08:27,---,DNF
+ironman-france-20060625.csv,912,Leo Power,---,---,CAN,01:22:02,09:04:17,---,00:13:09,00:14:11,DNF
+ironman-france-20060625.csv,913,João Santos,---,Lisbon,PRT,00:56:22,06:31:35,---,00:07:26,00:07:02,DNF
+ironman-france-20060625.csv,914,Patrick Schmith,---,11 - Aude ,FRA,01:01:15,06:02:23,04:44:29,00:04:59,00:03:41,11:56:47
+ironman-france-20060625.csv,915,Rémy Strat,---,87 - Haute-Vienne,FRA,00:59:38,06:02:12,03:27:16,00:07:21,00:05:45,10:42:12
+ironman-france-20060625.csv,916,Gérard Surret,---,46 - Lot,FRA,01:03:23,---,---,00:09:46,---,DNF
+ironman-france-20060625.csv,917,Boris Suskovic,---,---,HRV,01:08:31,06:28:35,05:09:52,00:07:25,00:06:11,13:00:34
+ironman-france-20060625.csv,918,Armin Traub,---,Munchen,DEU,01:17:50,05:57:40,03:51:01,00:04:52,00:03:24,11:14:47
+ironman-france-20060625.csv,919,Christian Valla,---,Genève,CHE,01:10:35,---,---,00:09:17,---,DNF
+ironman-france-20060625.csv,920,Serge Veilleux,---,Québec,CAN,01:03:31,07:46:51,05:45:34,00:08:11,00:06:46,14:50:53
+ironman-france-20060625.csv,921,Christian Woehrel,---,67 - Bas-Rhin,FRA,00:54:57,05:57:50,03:36:06,00:05:50,00:04:36,10:39:19
+ironman-france-20060625.csv,922,Harry Wurst,---,Baden-Wuerttemberg,DEU,01:03:46,06:25:27,04:21:38,00:06:28,00:07:04,12:04:23
+ironman-france-20060625.csv,923,Hansoo Yang,---,---,KOR,01:06:12,07:22:13,06:29:24,00:08:33,00:07:23,15:13:45
+ironman-france-20060625.csv,924,Daniel Bory,---,82 - Tarn-et-Garonne,FRA,01:18:16,06:22:46,04:58:35,00:09:36,00:07:02,12:56:15
+ironman-france-20060625.csv,925,Didier Branthomme,---,06 - Alpes-Maritimes ,FRA,01:02:43,06:16:01,04:15:05,00:06:41,00:06:22,11:46:52
+ironman-france-20060625.csv,926,Frederic Cadot,---,49 - Maine-et-Loire,FRA,01:05:20,06:14:38,03:25:26,00:06:29,00:05:43,10:57:36
+ironman-france-20060625.csv,927,Des Cannon,---,Cumbria,GBR,00:57:34,06:55:35,05:07:18,00:11:08,00:11:35,13:23:10
+ironman-france-20060625.csv,928,Sebastiano Cotrufo,---,MI,ITA,01:01:32,06:20:15,04:14:04,00:07:42,00:06:00,11:49:33
+ironman-france-20060625.csv,929,Tanguy Dadon,46,FR,FRA,01:03:12,06:15:55,04:08:54,00:06:33,00:05:36,11:40:10
+ironman-france-20060625.csv,930,Chris Della Penna,---,California,USA,00:59:56,06:54:18,05:04:29,00:11:11,00:06:22,13:16:16
+ironman-france-20060625.csv,931,Milan Dubaj,---,---,SVK,01:10:33,05:51:16,03:53:00,00:09:43,00:07:37,11:12:09
+ironman-france-20060625.csv,932,Jacques Gillaux,---,Ain,BRA,01:08:28,---,---,00:10:09,---,DNF
+ironman-france-20060625.csv,933,Stuart Grundison,---,---,CAN,00:57:52,07:04:04,04:52:08,00:08:05,00:11:33,13:13:42
+ironman-france-20060625.csv,934,Paul Hayes,---,Greater Manchester,GBR,01:01:39,06:13:00,05:26:47,00:07:42,00:07:50,12:56:58
+ironman-france-20060625.csv,935,Malcolm Hazle,---,Cheshire,GBR,---,---,---,---,---,DNS
+ironman-france-20060625.csv,936,Wayne Hickey,---,Texas,CAN,01:04:32,07:42:28,04:33:15,00:08:04,00:09:55,13:38:14
+ironman-france-20060625.csv,937,Konrad Hilpold,---,BR,ITA,01:03:31,07:19:50,04:23:17,00:07:13,00:05:38,12:59:29
+ironman-france-20060625.csv,938,Harald Klein,---,Baden-Wuerttemberg,DEU,01:08:51,07:18:39,---,00:07:14,---,DNF
+ironman-france-20060625.csv,939,Klaus Lambelet,---,Baden-Wuerttemberg,DEU,00:57:00,06:20:39,---,00:08:41,00:06:13,DNF
+ironman-france-20060625.csv,940,Jean Louis Lavaud,---,94 - Val-de-Marne,FRA,01:09:42,07:00:44,05:32:18,00:07:53,00:12:17,14:02:54
+ironman-france-20060625.csv,941,Rémi Le Minor,---,75 - Paris,FRA,01:04:43,06:10:57,04:29:13,00:09:51,00:10:27,12:05:11
+ironman-france-20060625.csv,942,Jean Christophe Leblanc,---,62 - Pas-de-Calais,FRA,01:07:36,06:23:04,03:55:48,00:11:43,00:08:22,11:46:33
+ironman-france-20060625.csv,943,Eric Lichtfouse,---,21 - Côte-d'Or,FRA,00:49:51,05:42:35,03:49:34,00:04:38,00:03:55,10:30:33
+ironman-france-20060625.csv,944,Axel Désiré Louise,---,02 - Aisne ,FRA,01:11:22,08:05:58,05:45:07,00:08:27,00:06:47,15:17:41
+ironman-france-20060625.csv,945,Jozef Marko,---,---,SVK,01:08:15,06:32:58,---,00:07:56,00:08:22,DNF
+ironman-france-20060625.csv,946,Jean-Claude Monachon,---,Zürich,CHE,01:16:01,06:07:54,04:45:13,00:08:19,00:04:28,12:21:55
+ironman-france-20060625.csv,947,Jeremy Moore,---,Buckinghamshire,GBR,---,---,---,---,---,DNS
+ironman-france-20060625.csv,948,Jean Pierre Saure,---,42 - Loire,FRA,01:00:41,06:11:58,05:20:03,00:07:11,00:06:24,12:46:17
+ironman-france-20060625.csv,949,Denis Tamagno,---,06 - Alpes-Maritimes ,FRA,01:02:21,05:52:22,---,00:04:26,---,DNF
+ironman-france-20060625.csv,950,Gilles Teobaldi,---,06 - Alpes-Maritimes ,FRA,01:04:17,07:25:13,06:18:41,00:10:19,00:14:51,15:13:21
+ironman-france-20060625.csv,951,Karel Van Cauwenberg,---,Antwerpen,BEL,00:56:31,06:17:38,04:05:23,00:06:51,00:06:31,11:32:54
+ironman-france-20060625.csv,952,Joseph Wilson,---,California,USA,01:06:07,06:39:59,05:35:13,00:07:09,00:06:43,13:35:11
+ironman-france-20060625.csv,953,Kevin Bashford,---,Sussex,GBR,01:04:06,05:38:20,04:32:34,00:09:00,00:06:57,11:30:57
+ironman-france-20060625.csv,954,Pierre Bobet,---,2A - Corse-du-Sud ,FRA,01:09:17,06:49:20,04:19:59,00:10:58,00:07:31,12:37:05
+ironman-france-20060625.csv,955,Jean Luc Bourdais,---,06 - Alpes-Maritimes ,FRA,01:40:05,08:07:43,05:38:08,00:10:56,00:10:07,15:46:59
+ironman-france-20060625.csv,956,Georg Brandl,---,Bavaria (Bayern),DEU,01:02:20,05:46:52,03:50:26,00:05:25,00:04:26,10:49:29
+ironman-france-20060625.csv,957,Christian Caumont,---,46 - Lot,FRA,01:03:19,07:14:47,---,00:07:43,00:11:52,DNF
+ironman-france-20060625.csv,958,Bruno Chauvelon,---,44 - Loire-Atlantique,FRA,01:07:57,07:46:34,---,00:09:39,00:17:27,DNF
+ironman-france-20060625.csv,959,Maurizio Costantini,---,CN,ITA,00:56:07,05:34:38,03:30:22,00:04:29,00:04:04,10:09:40
+ironman-france-20060625.csv,960,Dominique Desalons,---,13 - Bouches-du-Rhône,FRA,00:54:27,06:53:11,04:54:42,00:05:49,00:05:35,12:53:44
+ironman-france-20060625.csv,961,Loïc Dollo,---,49 - Maine-et-Loire,FRA,01:04:55,06:29:02,04:40:14,00:09:01,00:10:00,12:33:12
+ironman-france-20060625.csv,962,Jean François Garrido,---,06 - Alpes-Maritimes ,FRA,01:31:57,---,---,00:08:07,---,DNF
+ironman-france-20060625.csv,963,Ernst Kindhauser,---,Zürich,CHE,01:02:26,06:16:01,04:34:59,00:07:01,00:06:49,12:07:16
+ironman-france-20060625.csv,964,Tim Lankes,---,Surrey,USA,01:12:18,08:09:11,05:48:39,00:09:52,00:11:42,15:31:42
+ironman-france-20060625.csv,965,Dave Mawhinney,---,Shropshire,GBR,01:01:17,06:05:23,04:14:34,00:09:23,00:09:32,11:40:09
+ironman-france-20060625.csv,966,Trevor Mayren,---,Lancashire,GBR,01:01:00,06:40:28,04:32:47,00:08:23,00:08:02,12:30:40
+ironman-france-20060625.csv,967,Jeff Mowbray,47,---,GBR,---,06:20:52,05:05:19,01:11:03,00:05:09,12:42:23
+ironman-france-20060625.csv,968,Cathal Murphy,---,---,IRL,01:07:51,07:58:04,05:51:56,00:10:48,00:09:07,15:17:46
+ironman-france-20060625.csv,969,Nick Papageorge,---,---,DNK,01:12:04,07:01:37,04:35:46,00:07:05,00:05:39,13:02:11
+ironman-france-20060625.csv,970,Alberto Peloi,---,MI,ITA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,971,Nick Rees,---,---,GBR,01:00:46,06:38:08,03:58:58,00:09:46,00:07:28,11:55:06
+ironman-france-20060625.csv,972,Chang Duk Suh,---,---,KOR,---,---,---,---,---,DNS
+ironman-france-20060625.csv,973,Günther Zehetgruber,---,Steiermark / Styria,AUT,01:10:11,06:29:32,04:53:48,00:08:54,00:07:00,12:49:25
+ironman-france-20060625.csv,974,Peter Agelii,---,Stockholm,SWE,01:03:09,06:17:36,03:37:20,00:04:56,00:04:00,11:07:01
+ironman-france-20060625.csv,975,Jean Luc Alcaraz,---,06 - Alpes-Maritimes ,FRA,01:13:13,06:35:46,04:34:51,00:09:10,00:11:32,12:44:32
+ironman-france-20060625.csv,976,Michel Berthelot,---,42 - Loire,FRA,01:10:49,07:18:10,04:53:23,00:07:38,00:07:26,13:37:26
+ironman-france-20060625.csv,977,Georg Birkeneder,---,Bavaria (Bayern),DEU,00:55:46,05:49:38,04:28:03,00:04:31,00:03:29,11:21:27
+ironman-france-20060625.csv,978,Denis Bulourde,---,75 - Paris,FRA,01:00:35,06:30:39,05:05:00,00:08:39,00:09:24,12:54:17
+ironman-france-20060625.csv,979,Ciaran Cassidy,---,Dublin,IRL,---,---,---,---,---,DNS
+ironman-france-20060625.csv,980,Francesco Boraso,---,IM,ITA,01:08:10,06:57:48,---,00:09:16,00:10:49,DNF
+ironman-france-20060625.csv,981,Massimo Fusi,---,MI,ITA,01:12:52,08:26:50,04:58:36,00:16:48,00:11:20,15:06:26
+ironman-france-20060625.csv,982,Gilles Gaubert,---,91 - Essonne,FRA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,983,Ekkehard Happach,---,Bavaria (Bayern),DEU,00:50:17,05:59:31,05:13:37,00:06:32,00:04:32,12:14:29
+ironman-france-20060625.csv,984,Steve Harrigan,---,---,CAN,01:01:44,06:13:23,04:43:55,00:07:57,00:09:13,12:16:12
+ironman-france-20060625.csv,985,Paul Hawkins,---,Avon,GBR,01:08:43,07:32:31,05:17:00,00:08:36,00:08:44,14:15:34
+ironman-france-20060625.csv,986,Youn Jobic,---,06 - Alpes-Maritimes ,FRA,01:07:07,06:13:20,---,00:09:05,00:06:24,DNF
+ironman-france-20060625.csv,987,Bernd Kiele,---,Brandenburg,DEU,01:00:20,05:56:48,03:39:10,00:05:52,00:05:40,10:47:50
+ironman-france-20060625.csv,988,Frank Kulack,---,Berlin,DEU,00:58:28,06:28:25,04:30:54,00:06:48,00:05:31,12:10:06
+ironman-france-20060625.csv,989,Kari Martens,---,Västra Götaland,SWE,01:20:04,06:57:14,04:50:18,00:13:04,00:08:54,13:29:34
+ironman-france-20060625.csv,990,Pierre Jean Ollier,---,06 - Alpes-Maritimes ,FRA,01:04:29,06:15:19,04:53:29,00:09:56,00:09:28,12:32:41
+ironman-france-20060625.csv,991,Geoff Robinson,---,Northumberland,GBR,00:56:07,07:10:17,05:46:59,00:14:23,00:20:40,14:28:26
+ironman-france-20060625.csv,992,Philippe Viallet,---,83 - Var,FRA,00:53:44,07:18:24,04:29:00,00:06:45,00:06:24,12:54:17
+ironman-france-20060625.csv,993,Raffi Aghanian,49,Yorkshire,GBR,01:17:49,08:34:47,05:33:40,00:08:28,00:06:39,15:41:23
+ironman-france-20060625.csv,994,Lennart Alexander,---,Stockholm,SWE,01:03:29,06:55:13,05:32:20,00:07:20,00:08:04,13:46:26
+ironman-france-20060625.csv,995,Didier Arnould,---,08 - Ardennes ,FRA,01:11:59,06:17:59,05:20:41,00:07:43,00:08:02,13:06:24
+ironman-france-20060625.csv,996,Aldo Dagnino,---,North Carolina,CAN,---,---,---,---,---,DNS
+ironman-france-20060625.csv,997,Nigel Day,---,Cheshire,GBR,01:05:19,07:37:44,05:40:26,00:08:50,00:10:32,14:42:51
+ironman-france-20060625.csv,998,Peter Holenweg,---,Basel Stadt,CHE,01:02:10,06:03:07,04:14:53,00:07:15,00:06:21,11:33:46
+ironman-france-20060625.csv,999,Hiroshi Kishibe,---,---,JPN,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1000,Thierry Lebeau,---,06 - Alpes-Maritimes ,FRA,01:01:47,05:54:06,04:20:02,00:05:01,00:04:15,11:25:11
+ironman-france-20060625.csv,1001,Erika Palmer,---,Illinois,USA,01:09:05,08:07:23,05:48:01,00:08:55,00:10:03,15:23:27
+ironman-france-20060625.csv,1002,Nadege Beaudoin,---,Essonne,FRA,01:01:54,06:42:50,04:36:46,00:05:59,00:04:00,12:31:29
+ironman-france-20060625.csv,1003,Susanna Loewy,---,Ohio,USA,01:15:41,08:50:13,05:18:48,00:06:58,00:07:08,15:38:48
+ironman-france-20060625.csv,1004,Andrea Dermekova,---,---,SVK,---,06:19:56,07:18:19,01:10:42,00:08:31,14:57:28
+ironman-france-20060625.csv,1005,Katja Gehrmann,---,Nordrhein-Westfalen,DEU,01:17:46,06:38:33,04:50:22,00:05:25,00:12:48,13:04:54
+ironman-france-20060625.csv,1006,Jessy Mueller,---,Bern / Berne,CHE,00:51:56,06:24:42,04:05:10,00:04:08,00:04:21,11:30:17
+ironman-france-20060625.csv,1007,Jo Wiser,---,Greater London,GBR,01:23:30,09:12:22,05:08:03,00:12:52,---,15:56:47
+ironman-france-20060625.csv,1008,Julia Bohn,---,Hessen,DEU,00:56:32,06:47:12,---,00:04:53,00:06:56,DNF
+ironman-france-20060625.csv,1009,Emily Deppe,---,Colorado,USA,00:47:43,05:48:05,03:58:33,00:03:55,00:02:37,10:40:53
+ironman-france-20060625.csv,1010,Robyn Frisby,---,California,USA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1011,Jeongeun Park,---,---,KOR,01:22:42,---,---,00:09:16,---,DNF
+ironman-france-20060625.csv,1012,Krista Tenhunen,---,---,FIN,00:50:30,06:58:26,05:34:00,00:06:01,00:03:00,13:31:57
+ironman-france-20060625.csv,1013,Viveka Garsten,---,06 - Alpes-Maritimes ,SWE,01:11:11,07:17:42,05:02:46,00:09:45,00:07:46,13:49:10
+ironman-france-20060625.csv,1014,Naomi De Pennington,---,Oxfordshire,GBR,01:14:34,06:03:40,04:13:13,00:06:11,00:05:15,11:42:53
+ironman-france-20060625.csv,1015,Anne Valero,---,92 - Hauts-de-Seine,FRA,00:59:32,06:12:29,03:33:37,00:05:25,00:04:55,10:55:58
+ironman-france-20060625.csv,1016,Lindsey Courage,30,Wiltshire,GNB,00:55:58,05:48:20,03:34:43,00:04:55,00:04:25,10:28:21
+ironman-france-20060625.csv,1017,Trudy Dixon,---,Berkshire,GBR,01:21:27,08:43:57,05:32:16,00:09:15,00:11:23,15:58:18
+ironman-france-20060625.csv,1018,Candice Buchanan,---,West Lothian,GBR,01:16:20,08:19:38,---,00:09:51,00:09:29,DNF
+ironman-france-20060625.csv,1019,Mélanie Cayatte,---,75 - Paris,FRA,01:15:23,09:01:42,---,00:10:06,00:13:11,DNF
+ironman-france-20060625.csv,1020,Conny Krause,---,Bavaria (Bayern),DEU,01:04:33,07:36:00,05:30:23,00:06:01,00:06:27,14:23:24
+ironman-france-20060625.csv,1021,Karoline Kugler,---,Niedersachsen,DEU,00:56:44,06:28:13,04:52:15,00:05:17,00:04:44,12:27:13
+ironman-france-20060625.csv,1022,Jeannie Roellich,---,Washington,USA,01:21:20,07:42:15,05:07:27,00:06:59,00:05:00,14:23:01
+ironman-france-20060625.csv,1023,Tine Tretner,---,Hamburg,DEU,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1024,Ruth Weiss,---,Schwyz,CHE,00:59:21,06:31:42,---,00:08:05,00:14:52,DNF
+ironman-france-20060625.csv,1025,Eldrydd Davies,---,---,GBR,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1026,Iris Heinzmann,---,Bavaria (Bayern),DEU,---,06:32:43,04:10:44,01:09:59,00:03:34,11:57:00
+ironman-france-20060625.csv,1027,Emi Miyake,---,---,JPN,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1028,Monika Sturm,---,Hessen,DEU,01:12:21,07:08:06,04:39:30,00:07:27,00:07:54,13:15:18
+ironman-france-20060625.csv,1029,Cécile Clastrier,---,06 - Alpes-Maritimes ,FRA,01:01:11,05:55:41,03:39:43,00:05:16,00:04:16,10:46:07
+ironman-france-20060625.csv,1030,Helga Schartel,---,Bavaria (Bayern),DEU,00:59:39,06:22:51,04:31:18,00:05:11,00:04:26,12:03:25
+ironman-france-20060625.csv,1031,Claudia Soldati,---,Ticino,CHE,01:00:20,07:07:48,05:20:27,00:10:38,00:09:06,13:48:19
+ironman-france-20060625.csv,1032,Kara Stinson,---,California,USA,01:27:40,09:03:31,---,00:09:07,00:07:54,DNF
+ironman-france-20060625.csv,1033,Rebecca Kynaston,---,---,GBR,01:00:23,06:43:22,04:15:45,00:05:50,00:05:10,12:10:30
+ironman-france-20060625.csv,1034,Tracy Rogers,---,Western Cape,ZAF,01:03:44,07:26:13,04:17:55,00:07:31,00:13:09,13:08:32
+ironman-france-20060625.csv,1035,Akemi Endo,---,---,JPN,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1036,Melissa Foskett,---,---,AUS,01:01:54,06:31:53,04:08:41,00:05:53,00:04:29,11:52:50
+ironman-france-20060625.csv,1037,Barbara Thuner,---,Bern / Berne,CHE,00:56:04,05:56:40,04:01:55,00:04:40,00:03:11,11:02:30
+ironman-france-20060625.csv,1038,Marlies Van Amstel,---,Drente,NLD,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1039,Rachael Beck,36,Dublin,IRL,00:56:38,06:25:20,03:30:29,00:05:45,00:04:29,11:02:41
+ironman-france-20060625.csv,1040,Antje Dressler,---,Niedersachsen,DEU,01:15:26,05:59:32,04:05:19,00:06:12,00:04:36,11:31:05
+ironman-france-20060625.csv,1041,Constance Hogarth,---,---,CAN,01:19:19,08:45:16,---,00:15:27,---,DNF
+ironman-france-20060625.csv,1042,Heidi Mckenna,---,Virginia,USA,01:03:27,06:57:53,04:57:45,00:06:39,00:04:56,13:10:40
+ironman-france-20060625.csv,1043,Tina Pauley,---,California,USA,01:01:48,06:57:51,04:49:03,00:07:27,00:09:27,13:05:36
+ironman-france-20060625.csv,1044,Laura Szkrybalo,---,California,USA,01:03:14,07:43:37,05:20:15,00:08:04,00:15:46,14:30:56
+ironman-france-20060625.csv,1045,Emmanuelle Cocusse,---,83 - Var,FRA,01:02:38,06:17:21,04:07:20,00:06:52,00:09:09,11:43:20
+ironman-france-20060625.csv,1046,Amy Poskarbiewicz,---,Ohio,USA,01:19:29,08:18:32,05:32:44,00:08:16,00:09:00,15:28:01
+ironman-france-20060625.csv,1047,Christine Barwell,---,Isle of Man,GBR,01:08:51,07:47:51,05:26:24,00:11:44,00:10:41,14:45:31
+ironman-france-20060625.csv,1048,Isabelle Chambard,---,06 - Alpes-Maritimes ,FRA,01:02:11,07:26:11,05:09:45,00:08:50,00:07:48,13:54:45
+ironman-france-20060625.csv,1049,Beate Heckner,---,California,DEU,00:55:56,06:41:29,04:31:01,00:05:35,00:04:38,12:18:39
+ironman-france-20060625.csv,1050,Mojca Mijovic,---,---,SVN,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1051,Arianna Pasquariello,---,CO,ITA,01:17:46,06:28:57,---,00:06:02,00:04:27,DNF
+ironman-france-20060625.csv,1052,Alicia Young,---,California,USA,01:23:23,07:06:28,04:59:09,00:09:19,00:07:23,13:45:42
+ironman-france-20060625.csv,1053,Barbara Alber,---,Baden-Wuerttemberg,DEU,00:58:27,05:42:56,03:58:37,00:04:45,00:03:59,10:48:44
+ironman-france-20060625.csv,1054,Anne Di Tullio,---,06 - Alpes-Maritimes ,FRA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1055,Viveka Kaitila,---,Burgenland / Bundesländer,FIN,00:59:36,06:28:12,03:53:35,00:08:42,00:06:33,11:36:38
+ironman-france-20060625.csv,1056,Sabine Plessl,---,Bavaria (Bayern),DEU,01:06:32,07:54:19,---,00:04:53,---,DNF
+ironman-france-20060625.csv,1057,Caron Shepley,39,ON,CAN,01:17:10,---,---,00:08:02,---,DNF
+ironman-france-20060625.csv,1058,Celia Tennant,---,South Lanarkshire,GBR,00:59:14,07:19:21,05:02:10,00:08:32,00:09:48,13:39:05
+ironman-france-20060625.csv,1059,Yuko Yanagida,---,---,JPN,01:40:44,---,---,---,---,DNF
+ironman-france-20060625.csv,1060,Mimi Winsberg,40,CA,USA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1061,Pascale Estripeau,---,66 - Pyrénées-Orientales,FRA,00:56:39,06:01:05,04:30:43,00:06:01,00:04:35,11:39:03
+ironman-france-20060625.csv,1062,Kathy Ostrem,---,Oklahoma,USA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1063,Heather Smercina,---,Michigan,USA,01:18:56,07:39:04,04:37:35,00:07:25,00:10:08,13:53:08
+ironman-france-20060625.csv,1064,Catherine Egger,---,Zürich,CHE,00:58:45,06:33:24,05:00:15,00:05:51,00:11:53,12:50:08
+ironman-france-20060625.csv,1065,Laurence Ponsetti,---,83 - Var,FRA,00:53:27,06:48:57,04:34:35,00:06:48,00:05:59,12:29:46
+ironman-france-20060625.csv,1066,Maureen Mccaffrey,---,---,CAN,01:10:32,07:00:14,05:45:46,00:06:30,00:10:03,14:13:05
+ironman-france-20060625.csv,1067,Sabine Peters,---,Hessen,DEU,00:56:29,06:41:15,---,00:07:59,00:05:29,DNF
+ironman-france-20060625.csv,1068,Valérie Sinko,44,---,FRA,00:56:14,06:07:27,04:04:31,00:05:59,00:07:29,11:21:40
+ironman-france-20060625.csv,1069,Linda Johns,---,Oregon,USA,01:11:42,06:55:19,05:07:28,00:06:38,00:05:32,13:26:39
+ironman-france-20060625.csv,1070,Chantal Couturier-Buatois,---,California,FRA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1071,Becca Duff,---,Mississippi,USA,01:08:00,---,---,00:10:57,---,DNF
+ironman-france-20060625.csv,1072,Marianne Kuehmel-Saleh,---,Baden-Wuerttemberg,DEU,01:01:30,07:46:03,05:11:26,00:07:04,00:11:00,14:17:03
+ironman-france-20060625.csv,1073,Patrizia Zihlmann,---,Basel Land,CHE,01:25:54,06:55:06,04:40:17,00:09:02,00:08:02,13:18:21
+ironman-france-20060625.csv,1074,Anne Wilkie,---,---,CAN,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1075,Bettina Huber,---,Bavaria (Bayern),DEU,---,06:36:32,04:03:18,01:13:05,00:07:32,12:00:27
+ironman-france-20060625.csv,1076,Sylvette Sillon,---,21 - Côte-d'Or,FRA,01:21:16,08:11:51,05:35:21,00:09:46,00:11:15,15:29:29
+ironman-france-20060625.csv,1077,Eva Ansmann,---,Bavaria (Bayern),DEU,01:11:07,07:31:16,---,00:08:09,00:10:11,DNF
+ironman-france-20060625.csv,1078,Yoshiko Ogawa,---,---,JPN,01:17:19,07:26:42,04:30:03,00:11:04,00:08:53,13:34:01
+ironman-france-20060625.csv,1079,Melia Barnum,---,California,GRC,01:16:25,07:45:58,05:46:02,00:11:19,00:10:00,15:09:44
+ironman-france-20060625.csv,1080,Monika Wille,---,Niedersachsen,DEU,01:16:30,06:57:51,04:23:47,00:07:46,00:05:54,12:51:48
+ironman-france-20060625.csv,1081,Evelyne Guillard,---,83 - Var,FRA,01:19:17,08:21:30,---,00:08:50,00:13:01,DNF
+ironman-france-20060625.csv,1082,Gretel Schuck,---,Vermont,USA,01:29:46,---,---,00:14:34,---,DNF
+ironman-france-20060625.csv,1083,Silke Gimplinger,---,---,DEU,01:09:10,07:45:02,05:36:36,00:07:06,00:05:17,14:43:11
+ironman-france-20060625.csv,1101,Fred Lee,---,Florida,USA,01:18:42,07:56:47,05:54:30,00:11:33,00:10:13,15:31:45
+ironman-france-20060625.csv,1102,Gérard Lorin,---,77 - Seine-et-Marne,FRA,01:08:02,07:08:25,05:08:29,00:07:25,00:05:09,13:37:30
+ironman-france-20060625.csv,1103,Lubomir Pazicky,---,---,SVK,01:09:23,06:32:18,---,00:06:52,00:08:59,DNF
+ironman-france-20060625.csv,1104,Didier Philippe,---,83 - Var,FRA,01:11:45,07:58:55,05:39:50,00:08:24,00:13:17,15:12:11
+ironman-france-20060625.csv,1105,Johannes Plessing,---,Vienna,AUT,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1106,Leigh Plowman,---,Bavaria (Bayern),USA,00:59:17,06:18:01,04:29:58,00:05:20,00:06:46,11:59:22
+ironman-france-20060625.csv,1107,Robert Rees,---,---,GBR,00:57:47,06:54:22,04:43:09,00:12:48,00:12:50,13:00:56
+ironman-france-20060625.csv,1108,Gavin Reid,---,Greater London,GBR,00:59:24,05:41:40,---,00:05:07,00:05:07,DNF
+ironman-france-20060625.csv,1109,Martin Sowery,---,Yorkshire,GBR,01:09:31,06:58:34,---,00:07:52,00:07:12,DNF
+ironman-france-20060625.csv,1110,Raymond Stoklosa,---,57 - Moselle,FRA,00:50:49,05:43:15,03:56:33,00:06:26,00:04:30,10:41:33
+ironman-france-20060625.csv,1111,Pavel Vahala,---,---,SVK,01:12:03,06:59:42,05:02:00,00:08:13,00:07:53,13:29:51
+ironman-france-20060625.csv,1112,Francesco Alessandri,---,PT,ITA,00:50:08,05:37:02,03:47:50,00:05:59,00:04:07,10:25:06
+ironman-france-20060625.csv,1113,Michel Clerebout,---,Bruxelle Capitale,BEL,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1114,Stephane Gerard,---,East Flanders,BEL,01:04:05,07:53:40,05:42:23,00:09:40,00:09:17,14:59:05
+ironman-france-20060625.csv,1115,Ian Howard,---,Hampshire,GBR,00:55:17,06:26:46,04:32:11,00:06:54,00:10:18,12:11:26
+ironman-france-20060625.csv,1116,Horst Jesinger,---,Baden-Wuerttemberg,DEU,01:10:54,06:30:37,04:57:57,00:07:24,00:10:54,12:57:46
+ironman-france-20060625.csv,1117,Juergen Laub,---,Baden-Wuerttemberg,DEU,01:03:28,06:16:09,04:59:34,00:06:16,00:05:48,12:31:15
+ironman-france-20060625.csv,1118,Alain Leblanc,---,---,CAN,01:21:16,08:40:40,---,00:12:47,00:18:58,DNF
+ironman-france-20060625.csv,1119,Dominique Leroux,---,92 - Hauts-de-Seine,FRA,01:00:39,06:00:10,03:53:55,00:05:21,00:04:56,11:05:01
+ironman-france-20060625.csv,1120,Alain Margirier,---,07 - Ardèche ,FRA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1121,Pascal Mylonas,---,81 - Tarn,FRA,01:07:31,06:00:05,05:26:20,00:07:00,00:05:01,12:45:57
+ironman-france-20060625.csv,1122,Serge Olivero,---,83 - Var,FRA,00:57:02,06:31:07,06:31:51,00:07:25,00:09:38,14:17:03
+ironman-france-20060625.csv,1123,Adam Ossowski,---,---,POL,01:11:57,07:06:27,04:47:40,00:09:18,00:11:39,13:27:01
+ironman-france-20060625.csv,1124,Jean Michel Padilla,---,06 - Alpes-Maritimes ,FRA,01:11:06,07:30:47,04:37:33,00:13:09,00:15:16,13:47:51
+ironman-france-20060625.csv,1125,Richard Preuhs,---,Pennsylvania,POL,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1126,Marc Rossi,---,06 - Alpes-Maritimes ,FRA,01:11:11,07:13:33,04:32:15,00:08:15,00:08:37,13:13:51
+ironman-france-20060625.csv,1127,Jan Schaerlaken,---,East Flanders,BEL,01:06:27,06:05:40,04:13:22,00:05:36,00:04:19,11:35:24
+ironman-france-20060625.csv,1128,Peter Scheidegger,---,Bern / Berne,CHE,01:01:03,06:23:15,04:23:46,00:07:48,00:06:00,12:01:52
+ironman-france-20060625.csv,1129,Derrick Smith,---,Suffolk,GBR,01:03:29,06:26:45,04:31:47,00:08:53,00:08:27,12:19:21
+ironman-france-20060625.csv,1130,Bernard Bardin,---,95 - Val-D'Oise,FRA,01:10:33,06:14:15,04:09:31,00:07:32,00:09:02,11:50:53
+ironman-france-20060625.csv,1131,Paul Beck,---,California,USA,01:11:47,08:25:48,05:07:13,00:09:41,00:11:57,15:06:26
+ironman-france-20060625.csv,1132,Eric Delahaye,---,01 - Ain ,FRA,00:56:30,06:35:37,05:13:33,00:08:40,00:11:11,13:05:31
+ironman-france-20060625.csv,1133,Thierry Gagnepain,---,06 - Alpes-Maritimes ,FRA,00:54:53,05:47:43,03:58:29,00:07:41,00:04:44,10:53:30
+ironman-france-20060625.csv,1134,Denis Lahache,---,86 - Vienne,FRA,01:25:43,06:28:47,05:18:23,00:09:57,00:07:25,13:30:15
+ironman-france-20060625.csv,1135,Michael Mader,---,Bavaria (Bayern),DEU,01:01:33,06:51:51,---,00:05:46,---,DNF
+ironman-france-20060625.csv,1136,Marco Menicori,---,CA,ITA,01:14:10,07:04:23,05:18:44,00:08:23,00:07:57,13:53:37
+ironman-france-20060625.csv,1137,Didier Menu,---,17 - Charente-Maritime,FRA,01:04:46,06:14:30,04:09:48,00:05:08,00:03:27,11:37:39
+ironman-france-20060625.csv,1138,Stephen Morris,---,Florida,USA,01:16:09,---,---,00:09:41,---,DNF
+ironman-france-20060625.csv,1139,Chi Ho Park,---,---,KOR,01:21:06,07:10:15,05:37:51,00:10:42,00:07:44,14:27:38
+ironman-france-20060625.csv,1140,Jean Paul Poirier,---,06 - Alpes-Maritimes ,FRA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1141,Jose Manuel Da Costa,---,---,PRT,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1142,Roberto Lamperti,---,VA,ITA,01:03:50,07:00:05,05:39:28,00:09:09,00:12:38,14:05:10
+ironman-france-20060625.csv,1143,Robert Malmkvist,---,Stockholm,SWE,00:59:50,06:15:19,03:48:12,00:09:02,00:07:58,11:20:21
+ironman-france-20060625.csv,1144,Bernard Mullier,52,---,FRA,01:08:04,06:13:45,04:03:33,00:07:53,00:05:14,11:38:29
+ironman-france-20060625.csv,1145,Patrick Rioton,52,---,FRA,01:03:51,05:52:08,04:32:55,00:05:51,00:04:18,11:39:03
+ironman-france-20060625.csv,1146,Jean Claude Colombo,---,83 - Var,FRA,01:04:47,06:27:23,05:05:01,00:06:56,00:08:05,12:52:12
+ironman-france-20060625.csv,1147,Joël Griziaux,---,30 - Gard,FRA,01:12:39,07:36:27,06:10:26,00:12:17,00:06:43,15:18:32
+ironman-france-20060625.csv,1148,Czeslaw Maczynski,---,---,POL,01:26:12,06:33:56,04:26:11,00:07:04,00:06:05,12:39:28
+ironman-france-20060625.csv,1149,Sam Mountain,---,Shropshire,GBR,01:13:29,---,---,00:13:24,---,DNF
+ironman-france-20060625.csv,1150,Claude Paillex,---,47 - Lot-et-Garonne,FRA,---,06:27:34,04:49:59,01:10:12,00:04:31,12:32:16
+ironman-france-20060625.csv,1151,François Belben,---,65 - Hautes-Pyrénées,FRA,00:59:23,06:20:26,03:59:34,00:05:55,00:06:14,11:31:32
+ironman-france-20060625.csv,1152,Ulrich Blockus,---,Bavaria (Bayern),DEU,---,06:16:08,---,01:12:47,00:09:18,DNF
+ironman-france-20060625.csv,1153,David Hamlett,---,Cheshire,GBR,00:59:47,07:51:31,05:32:30,00:08:48,00:10:43,14:43:19
+ironman-france-20060625.csv,1154,Paul Hickman,---,Hampshire,GBR,01:02:16,---,---,00:08:44,---,DNF
+ironman-france-20060625.csv,1155,Robert Maccotta,---,67 - Bas-Rhin,FRA,01:02:04,07:23:34,05:03:44,00:09:04,00:08:46,13:47:12
+ironman-france-20060625.csv,1156,Pat Peppler,54,IL,USA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1157,Takashi Koyama,---,---,JPN,01:06:58,07:18:24,04:47:25,00:08:01,00:06:27,13:27:15
+ironman-france-20060625.csv,1158,Serge Vignon,---,Valais / Wallis,CHE,01:21:16,---,---,---,---,DNF
+ironman-france-20060625.csv,1159,Peter Enning,---,Sachsen-Anhalt,DEU,01:03:43,06:30:41,05:03:49,00:07:36,00:07:04,12:52:53
+ironman-france-20060625.csv,1160,Tsunemi Kiyohara,---,---,JPN,---,07:23:07,04:37:06,01:13:54,00:07:24,13:21:31
+ironman-france-20060625.csv,1161,Sam Pritchard,---,74 - Haute-Savoie,GBR,01:06:42,06:35:44,04:56:04,00:06:52,00:08:49,12:54:11
+ironman-france-20060625.csv,1162,Jean Van Den Stock,---,Antwerpen,BEL,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1163,Michel Chevalley,---,Vaud,CHE,01:06:57,---,---,00:06:29,---,DNF
+ironman-france-20060625.csv,1164,Dean Elliott,57,ON,CAN,01:07:04,06:39:33,05:02:17,00:08:57,00:06:38,13:04:29
+ironman-france-20060625.csv,1165,David Gwynne-Jones,---,Somerset,GBR,01:17:18,08:26:59,---,00:07:00,00:19:24,DNF
+ironman-france-20060625.csv,1166,Norbert Hallemeesch,57,---,BEL,---,06:57:23,05:03:29,01:19:07,00:10:58,13:30:57
+ironman-france-20060625.csv,1167,John Heaney,---,Greater Manchester,GBR,01:03:43,06:51:50,04:49:41,00:08:02,00:06:48,13:00:04
+ironman-france-20060625.csv,1168,Léo Vande Velde,---,Bruxelles Capitale,BEL,00:58:08,06:04:52,04:04:46,00:08:39,00:05:58,11:22:23
+ironman-france-20060625.csv,1169,Gerd Weber,---,Hawaii,CAN,01:02:36,07:41:01,06:19:43,00:07:03,00:07:25,15:17:48
+ironman-france-20060625.csv,1170,Jean Marie Douet,---,13 - Bouches-du-Rhône,FRA,01:09:28,06:19:17,04:46:57,00:06:32,00:06:05,12:28:19
+ironman-france-20060625.csv,1171,Rainer Bärsch,59,---,DEU,01:08:13,08:37:51,05:37:52,00:09:11,00:10:58,15:44:05
+ironman-france-20060625.csv,1172,Alain Meredith,---,---,FRA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1173,Robert Padilla,59,NY,FRA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1174,Marco Ciocca,---,VC,ITA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1175,Shoji Hara,---,---,JPN,01:19:36,07:45:17,04:45:30,00:10:18,00:09:28,14:10:09
+ironman-france-20060625.csv,1176,Hans Künzi,---,Schwyz,CHE,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1177,Larry Karasiuk,---,---,CAN,01:26:29,08:12:05,05:41:02,00:09:32,00:11:38,15:40:46
+ironman-france-20060625.csv,1178,Joerg Dissieux,---,SWIT,DEU,01:12:23,07:54:51,06:02:22,00:14:29,00:12:28,15:36:33
+ironman-france-20060625.csv,1179,Max Caradeuc,---,28 - Eure-et-Loir,FRA,01:21:58,07:04:42,05:57:44,00:10:45,00:11:45,14:46:54
+ironman-france-20060625.csv,1180,Tamotsu Aki,---,---,JPN,01:21:51,07:23:01,05:53:00,00:08:48,00:08:40,14:55:20
+ironman-france-20060625.csv,1181,Wayne Richey,---,California,USA,01:26:27,08:42:06,---,00:11:33,---,DNF
+ironman-france-20060625.csv,1182,Roland Weilemann,---,Bavaria (Bayern),DEU,01:23:14,08:22:48,---,00:08:04,---,DNF
+ironman-france-20060625.csv,1183,Wayne Mehl,---,California,USA,---,---,---,---,---,DNS
+ironman-france-20060625.csv,1184,Arnaud Picut,---,---,FRA,00:54:10,05:45:19,03:39:33,00:06:36,00:03:59,10:29:37
+ironman-france-20060625.csv,1185,Pierre Lavoie,---,Québec,CAN,00:49:43,05:32:35,03:32:35,00:03:51,00:03:39,10:02:23
+ironman-france-20060625.csv,1186,Gabriele Cavicchi,---,MILANO,ITA,01:06:52,07:46:34,05:55:29,00:16:44,00:18:49,15:24:28
+ironman-france-20060625.csv,1187,Cyril Rouchon,---,Gironde,FRA,00:50:00,06:10:58,05:32:34,00:05:05,00:07:23,12:46:00
+ironman-france-20060625.csv,1188,Yves Tabarant,---,Pyrenées,FRA,00:54:21,05:39:00,---,00:03:46,00:03:50,DNF
+ironman-france-20060625.csv,1189,Johannes Piller,---,Vienne,AUT,00:49:01,05:41:59,---,00:05:06,00:04:09,DNF
+ironman-france-20060625.csv,1190,Xavier Bossa Atmetllo,---,---,AND,01:08:16,07:06:24,04:18:45,00:08:23,00:06:47,12:48:35
+ironman-france-20060625.csv,1191,Beat Cartier,---,---,CHE,01:40:06,08:41:36,---,00:11:25,---,DNF
+ironman-france-20060625.csv,1192,Grégoire Pallardy,---,---,FRA,00:44:23,05:21:27,04:06:15,00:02:59,00:03:50,10:18:54
+ironman-france-20060625.csv,1193,Mougnir Boumedjane,---,---,FRA,01:02:09,06:54:23,05:54:37,00:09:11,00:20:12,14:20:32

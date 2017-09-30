@@ -1,0 +1,712 @@
+#File=ironman-70.3-luxembourg-20140621.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-luxembourg-20140621.csv,1,Axel Zeebroek,35,---,BEL,00:22:59,02:11:00,01:15:02,00:01:32,00:01:18,03:51:51
+ironman-70.3-luxembourg-20140621.csv,2,Patrick Lange,27,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,3,Nils Frommhold,27,---,DEU,00:23:05,02:10:59,01:12:01,00:01:33,00:01:27,03:49:05
+ironman-70.3-luxembourg-20140621.csv,4,Marino Vanhoenacker,37,---,BEL,00:24:37,02:08:02,01:12:16,00:01:37,00:01:15,03:47:47
+ironman-70.3-luxembourg-20140621.csv,5,Timo Bracht,38,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,6,Romain Guillaume,29,---,FRA,00:23:12,02:14:37,01:15:22,00:01:33,00:01:27,03:56:11
+ironman-70.3-luxembourg-20140621.csv,7,David Bardi,38,FR,FRA,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,8,Marcel Bischof,29,DE,DEU,00:28:20,02:20:27,---,00:01:59,00:01:36,DNF
+ironman-70.3-luxembourg-20140621.csv,9,Willem Brems,26,---,BEL,00:23:00,02:12:40,01:31:51,00:01:33,00:01:12,04:10:16
+ironman-70.3-luxembourg-20140621.csv,10,Denis Chevrot,26,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,11,Sean Donnelly,26,---,DEU,00:23:04,02:19:12,01:16:04,00:01:32,00:01:26,04:01:18
+ironman-70.3-luxembourg-20140621.csv,12,Stenn Goetstouwers,22,---,BEL,00:24:35,02:16:50,01:17:14,00:01:42,00:01:33,04:01:54
+ironman-70.3-luxembourg-20140621.csv,13,Christian Jais,35,---,DEU,00:27:19,02:21:00,01:19:56,00:01:43,00:01:17,04:11:15
+ironman-70.3-luxembourg-20140621.csv,14,Guðmundur Joensen,30,---,DNK,00:24:33,02:23:36,---,00:01:59,00:01:21,DNF
+ironman-70.3-luxembourg-20140621.csv,15,Jens Kaiser,35,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,17,Roman Krutina,35,---,CZE,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,18,Michael Louys,27,---,BEL,00:29:34,02:27:57,01:17:53,00:01:44,00:01:18,04:18:26
+ironman-70.3-luxembourg-20140621.csv,19,Stuart Marais,28,---,ZAF,00:26:00,02:18:47,01:10:19,00:01:51,00:01:12,03:58:09
+ironman-70.3-luxembourg-20140621.csv,20,Markus Mlinar,34,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,21,Albert Moreno Molins,24,---,ESP,00:25:58,02:19:08,01:09:42,00:01:34,00:01:26,03:57:48
+ironman-70.3-luxembourg-20140621.csv,22,Tony Puglia,32,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,23,Paul Reitmayr,29,---,AUT,00:23:30,02:21:17,01:14:39,00:01:54,00:01:14,04:02:34
+ironman-70.3-luxembourg-20140621.csv,24,Swen Sundberg,40,Eastern Cape,DEU,00:27:30,---,---,---,---,DNF
+ironman-70.3-luxembourg-20140621.csv,25,Andreas Thissen,31,DE,DEU,00:41:39,02:58:11,---,00:02:29,---,DNF
+ironman-70.3-luxembourg-20140621.csv,26,Hendrik-Jan Verhaegen,24,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,27,Vincent Depuiset,38,---,FRA,00:34:12,02:34:57,01:20:21,00:02:44,00:02:08,04:34:22
+ironman-70.3-luxembourg-20140621.csv,28,Gerg  Badar,---,---,HUN,00:28:27,02:28:38,01:15:18,00:01:48,00:01:41,04:15:52
+ironman-70.3-luxembourg-20140621.csv,29,Péter Szilágyi,25,---,HUN,00:26:50,02:32:51,01:29:42,00:02:01,00:02:46,04:34:10
+ironman-70.3-luxembourg-20140621.csv,30,Jens Frommhold,25,---,DEU,00:28:30,02:20:35,---,00:01:47,00:01:31,DNF
+ironman-70.3-luxembourg-20140621.csv,31,Alessandro Degasperi,33,Intl State,ITA,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,32,Sebastian Neef,24,Intl State,DEU,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,33,Christoph Schlagbauer,24,Intl State,AUT,00:29:13,02:21:57,---,00:01:44,00:01:43,DNF
+ironman-70.3-luxembourg-20140621.csv,34,Francisco Fernandez-Cortes,26,---,ESP,00:24:30,05:52:49,---,00:01:37,---,DNF
+ironman-70.3-luxembourg-20140621.csv,35,Manuel Kueng,26,---,CHE,00:23:02,02:14:46,01:11:37,00:01:36,00:01:22,03:52:23
+ironman-70.3-luxembourg-20140621.csv,36,Johannes Moldan,26,---,DEU,00:26:04,---,---,00:01:46,03:27:19,DNF
+ironman-70.3-luxembourg-20140621.csv,37,Stephen Bayliss,35,Intl State,GBR,00:23:02,02:21:56,01:19:21,00:01:38,00:01:14,04:07:11
+ironman-70.3-luxembourg-20140621.csv,42,Susie Cheetham,28,Intl State,GBR,00:27:58,02:29:53,01:17:19,00:02:00,00:01:30,04:18:40
+ironman-70.3-luxembourg-20140621.csv,43,Anja Beranek,29,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,44,Gina Crawford,33,Canterbury,NZL,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,45,Julia Bohn,34,---,DEU,00:29:16,02:44:20,01:29:49,00:02:06,00:01:49,04:47:20
+ironman-70.3-luxembourg-20140621.csv,46,Sophie De Groote,31,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,48,Alice Hector,31,Intl State,GBR,00:27:57,02:35:35,01:17:16,00:01:41,00:01:16,04:23:45
+ironman-70.3-luxembourg-20140621.csv,49,Sarah Jarvis,33,UT,USA,00:29:18,02:35:25,01:23:18,00:01:51,00:01:12,04:31:04
+ironman-70.3-luxembourg-20140621.csv,50,Nicole Klingler,34,---,LIE,00:34:10,02:44:48,01:20:56,00:01:34,00:01:32,04:43:00
+ironman-70.3-luxembourg-20140621.csv,51,Lenka Králová,28,---,CZE,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,52,Angela Kuehnlein,28,---,DEU,00:31:44,02:41:25,01:25:13,00:01:45,00:01:43,04:41:50
+ironman-70.3-luxembourg-20140621.csv,53,Bianca Steurer,27,---,AUT,00:28:14,02:36:02,01:22:31,00:01:42,00:01:23,04:29:52
+ironman-70.3-luxembourg-20140621.csv,54,Alexandra Tondeur,27,---,BEL,00:29:02,02:34:27,01:23:20,00:01:50,00:01:30,04:30:09
+ironman-70.3-luxembourg-20140621.csv,55,Nicole Woysch,37,---,DEU,00:28:18,02:39:44,01:30:16,00:01:51,00:01:48,04:41:57
+ironman-70.3-luxembourg-20140621.csv,56,Lucie Zelenkova,39,Eastern Cape,CZE,00:26:12,03:08:11,---,00:01:52,---,DNF
+ironman-70.3-luxembourg-20140621.csv,57,Rahel Bellinga,45,---,NLD,00:31:44,02:34:18,---,00:02:01,---,DNF
+ironman-70.3-luxembourg-20140621.csv,58,Lisa Huetthaler,30,---,AUT,00:27:54,02:24:09,01:22:06,00:01:37,00:01:17,04:17:03
+ironman-70.3-luxembourg-20140621.csv,59,Kamila Polak,35,---,AUT,00:29:04,02:35:47,01:22:21,00:01:47,00:01:22,04:30:21
+ironman-70.3-luxembourg-20140621.csv,60,Celine Schaerer,24,---,CHE,00:24:25,02:33:34,01:28:11,00:01:52,00:01:27,04:29:29
+ironman-70.3-luxembourg-20140621.csv,75,Lena Ischebeck,22,---,DEU,00:34:55,02:49:12,01:39:07,00:03:31,00:01:47,05:08:32
+ironman-70.3-luxembourg-20140621.csv,76,Elien Janssen,24,---,BEL,00:33:58,02:45:03,01:38:04,00:02:38,00:02:05,05:01:48
+ironman-70.3-luxembourg-20140621.csv,77,Meri Koskela,24,---,FIN,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,78,Melissa Lapp,24,---,FRA,00:30:33,02:41:35,01:33:47,00:02:31,00:01:35,04:50:01
+ironman-70.3-luxembourg-20140621.csv,79,Sophie Margue,24,Luxemburg,LUX,00:29:05,02:50:32,01:37:40,00:02:11,00:01:35,05:01:03
+ironman-70.3-luxembourg-20140621.csv,80,Priscilla Meerman,19,NL,NLD,00:33:55,03:01:52,02:06:56,00:01:36,00:02:09,05:46:28
+ironman-70.3-luxembourg-20140621.csv,81,Jana Stenzel,24,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,82,Eva Zwilling,23,---,DEU,00:39:15,03:10:38,02:25:09,00:04:32,00:04:31,06:24:05
+ironman-70.3-luxembourg-20140621.csv,101,Jasmin Aust,27,---,DEU,00:29:11,03:00:46,02:00:04,00:02:40,00:02:14,05:34:55
+ironman-70.3-luxembourg-20140621.csv,102,Abigail Bishop,28,AE,USA,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,103,Laura Brisard,26,NA,FRA,00:32:42,03:05:14,02:00:24,00:03:25,00:04:25,05:46:10
+ironman-70.3-luxembourg-20140621.csv,104,Klaartje Busselot,28,BE,BEL,00:42:33,03:03:59,02:06:18,00:03:23,00:04:37,06:00:50
+ironman-70.3-luxembourg-20140621.csv,105,Carole Fagan,25,Luxembourg,IRL,00:39:49,03:26:57,02:05:33,00:03:37,00:01:53,06:17:49
+ironman-70.3-luxembourg-20140621.csv,106,Elaine Fagan,28,Luxembourg,IRL,00:39:42,03:35:07,02:27:26,00:04:06,00:05:23,06:51:44
+ironman-70.3-luxembourg-20140621.csv,107,Daniela Frank,28,DE,DEU,00:35:01,03:01:06,02:32:06,00:02:40,00:02:35,06:13:28
+ironman-70.3-luxembourg-20140621.csv,108,Anne Heintz,27,---,LUX,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,109,Karianne Lancee,27,---,NLD,00:36:08,02:48:11,---,00:03:06,00:02:13,DNF
+ironman-70.3-luxembourg-20140621.csv,110,Christina Lindquist,26,---,GBR,00:37:20,03:10:52,01:51:44,00:03:55,00:03:04,05:46:55
+ironman-70.3-luxembourg-20140621.csv,111,Gesine Lorenz,27,---,DEU,00:31:19,03:04:05,01:50:42,00:02:41,00:02:12,05:30:59
+ironman-70.3-luxembourg-20140621.csv,112,Marianka Peeters,25,---,NLD,00:30:55,03:05:34,01:44:45,00:02:52,00:01:46,05:25:52
+ironman-70.3-luxembourg-20140621.csv,113,Romy Wolak,28,---,LUX,00:31:36,03:01:57,02:24:42,00:02:26,00:02:02,06:02:43
+ironman-70.3-luxembourg-20140621.csv,114,Bahar Saygili,28,34340,TUR,00:29:45,02:50:16,01:26:53,00:02:46,00:01:57,04:51:37
+ironman-70.3-luxembourg-20140621.csv,115,Maëlle Swertvaegher,26,---,BEL,00:34:37,02:56:09,01:43:19,00:03:32,00:02:51,05:20:28
+ironman-70.3-luxembourg-20140621.csv,116,Leonie Thatcher,28,---,GBR,00:47:22,04:00:11,02:17:17,00:04:33,00:05:13,07:14:36
+ironman-70.3-luxembourg-20140621.csv,117,Pollyanne Veazey-Linskill,29,---,GBR,00:28:40,02:40:40,01:24:23,00:02:26,00:02:24,04:38:33
+ironman-70.3-luxembourg-20140621.csv,118,Cindy Veld,28,---,NLD,00:34:19,02:51:21,01:38:59,00:03:51,00:02:37,05:11:07
+ironman-70.3-luxembourg-20140621.csv,119,Elisabeth Wellekens,25,BE,BEL,00:38:58,03:17:57,02:04:28,00:04:17,00:04:54,06:10:34
+ironman-70.3-luxembourg-20140621.csv,120,Amandine Baijot,28,---,BEL,00:33:33,03:25:33,02:04:08,00:03:36,00:02:46,06:09:36
+ironman-70.3-luxembourg-20140621.csv,121,Steffi Duss,27,---,CHE,00:29:32,02:42:35,01:49:28,00:02:12,00:02:23,05:06:10
+ironman-70.3-luxembourg-20140621.csv,139,Britt Alberghs,30,BE,BEL,00:45:19,03:27:06,02:11:33,00:05:29,00:05:09,06:34:36
+ironman-70.3-luxembourg-20140621.csv,140,Carol Bagijn,32,---,FRA,00:45:04,03:23:55,01:54:29,00:03:27,00:02:24,06:09:19
+ironman-70.3-luxembourg-20140621.csv,141,Melanie Benson,29,NL,CAN,00:29:43,02:51:22,01:41:00,00:02:26,00:03:31,05:08:02
+ironman-70.3-luxembourg-20140621.csv,142,Naomi Bowman,30,Kent,GBR,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,143,Valérie Bruninx,30,---,BEL,00:39:03,03:03:06,01:56:01,00:04:15,00:02:32,05:44:57
+ironman-70.3-luxembourg-20140621.csv,144,Evelyn Daneels,33,BE,BEL,00:34:20,02:48:31,01:47:02,00:02:35,00:02:37,05:15:05
+ironman-70.3-luxembourg-20140621.csv,145,Roos De Raedt,33,---,BEL,00:35:30,02:49:48,01:34:00,00:02:24,00:02:23,05:04:05
+ironman-70.3-luxembourg-20140621.csv,146,Naomi English,29,---,CAN,00:38:21,03:04:02,01:45:49,00:02:41,00:02:29,05:33:22
+ironman-70.3-luxembourg-20140621.csv,147,Laetitia Gerard,31,---,BEL,00:46:14,03:28:32,02:27:02,00:05:01,00:04:32,06:51:21
+ironman-70.3-luxembourg-20140621.csv,148,Candice Harris,31,PA,USA,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,149,Anne-Marie Harvey,33,NSW,AUS,00:34:52,03:29:55,02:23:40,00:05:07,00:05:48,06:39:22
+ironman-70.3-luxembourg-20140621.csv,150,Doris Hazzan,30,DXB,JOR,00:45:16,04:00:59,02:24:26,00:05:59,00:05:48,07:22:28
+ironman-70.3-luxembourg-20140621.csv,151,Cheryl Hentges,33,---,LUX,00:34:16,03:05:08,01:55:00,00:02:16,00:01:43,05:38:23
+ironman-70.3-luxembourg-20140621.csv,152,Stéphanie Hess,30,CH,CHE,00:32:23,02:46:54,01:48:55,00:03:01,00:01:40,05:12:53
+ironman-70.3-luxembourg-20140621.csv,153,Sandra Huberty,33,---,LUX,00:42:24,05:22:48,---,00:03:50,---,DNF
+ironman-70.3-luxembourg-20140621.csv,154,Claudia Jansen,29,DE,DEU,00:34:52,03:04:12,02:05:28,00:03:43,00:02:25,05:50:40
+ironman-70.3-luxembourg-20140621.csv,155,Sandy Janssen,31,---,LUX,00:45:07,03:14:57,01:56:11,00:03:21,00:01:53,06:01:29
+ironman-70.3-luxembourg-20140621.csv,156,Sandra Jermann,32,---,CHE,00:36:54,03:01:57,01:54:28,00:04:02,00:02:25,05:39:46
+ironman-70.3-luxembourg-20140621.csv,157,Claire Leterme,34,---,FRA,00:37:16,03:25:16,02:17:33,00:05:02,00:05:16,06:30:23
+ironman-70.3-luxembourg-20140621.csv,158,Harriet Hardy,33,---,GBR,00:47:24,03:30:37,02:14:44,00:09:14,00:04:43,06:46:42
+ironman-70.3-luxembourg-20140621.csv,159,Astrid Lorange,30,Kumamoto-Ken,NZL,00:50:33,04:20:15,03:18:33,00:06:23,00:04:48,08:40:32
+ironman-70.3-luxembourg-20140621.csv,160,Mandt Mandt,29,DE,DEU,00:37:41,02:42:59,01:32:46,00:02:57,00:02:19,04:58:42
+ironman-70.3-luxembourg-20140621.csv,161,Sabrina Menngen,30,DE,DEU,00:45:39,03:21:11,02:01:06,00:04:36,00:02:43,06:15:15
+ironman-70.3-luxembourg-20140621.csv,162,Aline Michel,33,---,FRA,00:46:41,03:29:43,01:53:52,00:04:26,00:02:57,06:17:39
+ironman-70.3-luxembourg-20140621.csv,163,Vladka Pokobova,34,BE,BEL,00:42:29,02:59:58,01:52:22,00:03:55,00:02:35,05:41:19
+ironman-70.3-luxembourg-20140621.csv,164,Sandra Portmann,32,CH,CHE,00:37:52,02:53:46,02:02:37,00:04:03,00:02:13,05:40:31
+ironman-70.3-luxembourg-20140621.csv,165,Sophie Rodesch,30,---,LUX,00:34:39,02:50:17,01:37:25,00:02:38,00:02:18,05:07:17
+ironman-70.3-luxembourg-20140621.csv,166,Marilyn Sany,30,---,FRA,00:36:46,02:55:16,01:42:25,00:02:48,00:02:44,05:19:59
+ironman-70.3-luxembourg-20140621.csv,167,Jasmin Schulze,32,---,DEU,00:38:05,03:13:27,02:07:11,00:03:04,00:02:08,06:03:55
+ironman-70.3-luxembourg-20140621.csv,168,Memouna Shaikh,31,CRAUTHEM,LUX,00:36:46,03:28:03,02:05:05,00:03:35,00:02:39,06:16:08
+ironman-70.3-luxembourg-20140621.csv,169,Jrène Steiner,33,---,CHE,00:31:01,02:45:10,---,00:02:38,00:02:13,DNF
+ironman-70.3-luxembourg-20140621.csv,170,Emilie Tack,31,---,BEL,00:33:56,03:06:42,01:49:11,00:03:50,00:04:25,05:38:04
+ironman-70.3-luxembourg-20140621.csv,171,Merle Talviste,29,DXB,EST,00:30:51,02:43:31,01:39:47,00:02:39,00:01:50,04:58:38
+ironman-70.3-luxembourg-20140621.csv,172,Maresa Tegtmeyer,32,---,DEU,00:38:44,03:00:45,02:14:33,00:03:21,00:02:31,05:59:54
+ironman-70.3-luxembourg-20140621.csv,173,Tempelaere Tineke,31,---,BEL,00:34:26,02:54:18,01:44:33,00:02:47,00:02:34,05:18:38
+ironman-70.3-luxembourg-20140621.csv,174,Sofie Van Rompaey,31,BE,BEL,00:31:55,02:42:40,01:58:28,00:03:42,00:01:56,05:18:41
+ironman-70.3-luxembourg-20140621.csv,175,Leen Vanden Daelen,31,---,BEL,00:32:14,02:39:08,01:28:26,00:01:46,00:01:36,04:43:10
+ironman-70.3-luxembourg-20140621.csv,176,Petra Visnjic,33,---,AUT,00:35:52,03:11:42,01:51:46,00:03:29,00:02:35,05:45:24
+ironman-70.3-luxembourg-20140621.csv,177,Michaela Volz,32,---,DEU,00:31:18,03:00:24,01:46:30,00:02:41,00:02:16,05:23:09
+ironman-70.3-luxembourg-20140621.csv,178,Chantal Wäfler,29,---,CHE,00:31:27,02:41:14,01:28:03,00:02:19,00:01:34,04:44:37
+ironman-70.3-luxembourg-20140621.csv,179,Denise Wendland,32,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,180,Beate Wendland,34,---,DEU,00:46:16,02:56:33,01:56:19,00:04:56,00:02:09,05:46:13
+ironman-70.3-luxembourg-20140621.csv,181,Liesbeth Werbrouck,34,---,BEL,00:36:52,02:54:36,01:47:15,00:02:42,00:01:52,05:23:17
+ironman-70.3-luxembourg-20140621.csv,182,Almuth Zwilling,29,DE,DEU,00:41:00,03:05:15,02:25:09,00:06:03,00:06:38,06:24:05
+ironman-70.3-luxembourg-20140621.csv,183,Katja Albrecht,35,---,DEU,00:41:11,02:47:24,01:50:58,00:02:53,00:02:10,05:24:36
+ironman-70.3-luxembourg-20140621.csv,184,Carly Avery,37,---,NZL,00:39:13,02:52:48,01:37:13,00:03:08,00:01:54,05:14:16
+ironman-70.3-luxembourg-20140621.csv,185,Lizbeth Barcelo,37,CA,USA,00:42:23,03:41:10,02:03:22,00:04:23,00:04:35,06:35:53
+ironman-70.3-luxembourg-20140621.csv,186,Nathalie Bart,35,Luxembourg,LUX,00:39:53,02:57:25,01:38:38,00:03:43,00:01:36,05:21:15
+ironman-70.3-luxembourg-20140621.csv,187,Susanne Bettin,34,DE,DEU,00:40:37,03:11:09,01:49:26,00:03:29,00:01:51,05:46:32
+ironman-70.3-luxembourg-20140621.csv,188,Amuthavally Bibauw,38,Luxembourg,BEL,00:46:37,---,---,00:04:27,---,DNF
+ironman-70.3-luxembourg-20140621.csv,189,Haitske Bouwmeister-Overbeek,37,Luxembourg,NLD,00:34:39,02:45:47,01:42:49,00:02:30,00:02:16,05:08:01
+ironman-70.3-luxembourg-20140621.csv,190,Caroline Britt,34,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,191,Patti Bruns,38,---,CAN,00:40:58,03:23:55,01:49:26,00:04:06,00:03:20,06:01:45
+ironman-70.3-luxembourg-20140621.csv,192,Melanie Cauvin,35,---,FRA,00:30:42,02:42:39,01:27:52,00:02:46,00:02:36,04:46:35
+ironman-70.3-luxembourg-20140621.csv,193,Marina Chabannaya,36,---,RUS,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,194,Annchen Clarke,39,NL,ZAF,00:35:04,02:52:59,01:39:03,00:03:15,00:02:32,05:12:53
+ironman-70.3-luxembourg-20140621.csv,195,Chicken Cox,35,Staffordshire,GBR,00:46:24,03:31:47,02:22:59,00:08:57,00:03:55,06:54:02
+ironman-70.3-luxembourg-20140621.csv,196,Bianca Cox,37,DE,DEU,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,197,Fenna De Boer,35,---,NLD,00:44:12,03:20:40,02:09:30,00:03:13,00:04:05,06:21:40
+ironman-70.3-luxembourg-20140621.csv,198,Saartje Defoort,35,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,199,Rachel Demartin,34,UT,USA,00:38:09,03:17:32,01:53:36,00:02:53,00:05:42,05:57:52
+ironman-70.3-luxembourg-20140621.csv,200,Angelina Drljaca-Chandler,36,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,201,Jorun Astrid Elvebakke,37,---,NOR,00:50:30,03:46:17,02:30:31,00:07:25,00:06:57,07:21:40
+ironman-70.3-luxembourg-20140621.csv,202,Anne Grosse,38,FR,FRA,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,203,Bianca Grosse,37,DE,DEU,00:34:23,02:35:04,01:27:00,00:02:23,00:01:46,04:40:36
+ironman-70.3-luxembourg-20140621.csv,204,Kathryn Haesner,37,VIC,AUS,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,205,Sonja Hanert,37,DE,DEU,00:35:47,---,---,00:06:26,04:42:42,DNF
+ironman-70.3-luxembourg-20140621.csv,206,Victoria Hayes,35,NL,GBR,00:46:01,02:57:42,01:38:16,00:03:40,00:03:05,05:28:44
+ironman-70.3-luxembourg-20140621.csv,207,Hanna Heikkilä,34,---,FIN,00:36:18,02:48:49,01:40:55,00:02:27,00:01:41,05:10:10
+ironman-70.3-luxembourg-20140621.csv,208,Tania Hoffmann,38,Lux,LUX,00:37:24,02:51:08,01:35:06,00:03:04,00:01:42,05:08:24
+ironman-70.3-luxembourg-20140621.csv,209,Vicky Huybrechts,38,BE,BEL,00:51:34,03:12:31,01:46:54,00:06:46,00:05:04,06:02:49
+ironman-70.3-luxembourg-20140621.csv,210,Tatiana Issaeva,39,---,FIN,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,211,Petra Jirankova,37,Prague,CZE,00:35:48,02:48:48,01:34:48,00:02:17,00:02:06,05:03:47
+ironman-70.3-luxembourg-20140621.csv,212,Amy Kane,34,---,IRL,00:47:27,03:34:02,02:20:22,00:05:16,00:03:21,06:50:28
+ironman-70.3-luxembourg-20140621.csv,213,Estelle-Marie Kieffer,38,Other,FRA,00:29:09,02:43:16,01:32:22,00:02:15,00:01:40,04:48:42
+ironman-70.3-luxembourg-20140621.csv,214,Siglinde Koch,35,---,DEU,00:45:37,03:26:27,02:12:55,00:05:49,00:03:13,06:34:01
+ironman-70.3-luxembourg-20140621.csv,215,Bernadette Koltai,38,---,GBR,00:39:48,03:03:45,01:44:12,00:04:49,00:02:23,05:34:57
+ironman-70.3-luxembourg-20140621.csv,216,Ute Langkabel,36,---,DEU,00:49:14,03:20:22,02:15:00,00:04:07,00:04:10,06:32:53
+ironman-70.3-luxembourg-20140621.csv,217,Corinne Lavaerts,36,BE,BEL,00:38:23,03:08:14,01:50:58,00:04:09,00:04:25,05:46:09
+ironman-70.3-luxembourg-20140621.csv,218,Stéphanie Louppe,35,---,BEL,00:33:16,02:40:52,01:29:43,00:02:06,00:01:35,04:47:32
+ironman-70.3-luxembourg-20140621.csv,219,Anita Markovic,34,Hessen,SRB,00:34:04,03:30:20,---,00:03:35,00:04:38,DNF
+ironman-70.3-luxembourg-20140621.csv,220,Wendy Mortimer,39,---,GBR,00:34:45,03:26:20,01:56:23,00:04:43,00:03:25,06:05:36
+ironman-70.3-luxembourg-20140621.csv,221,Annick Nees,34,---,BEL,00:39:07,02:56:11,01:45:07,00:03:58,00:02:46,05:27:09
+ironman-70.3-luxembourg-20140621.csv,222,Annica Ohling,35,---,SWE,00:38:07,03:07:54,01:46:46,00:03:54,00:02:17,05:38:58
+ironman-70.3-luxembourg-20140621.csv,223,Darinka Oslak,37,Slovenia,SVN,00:36:30,02:57:10,01:41:20,00:03:42,00:02:07,05:20:49
+ironman-70.3-luxembourg-20140621.csv,224,Melanie Räder,34,---,DEU,00:35:32,02:48:46,01:37:57,00:02:58,00:02:21,05:07:34
+ironman-70.3-luxembourg-20140621.csv,225,Juliane Reichrath,34,Rheinland-Pfalz,DEU,00:40:10,03:03:25,01:51:41,00:04:36,00:03:24,05:43:16
+ironman-70.3-luxembourg-20140621.csv,226,Myriam Reuland,38,---,LUX,00:28:51,03:09:58,01:50:11,00:02:15,00:01:24,05:32:39
+ironman-70.3-luxembourg-20140621.csv,227,Nerena Ruinemans,34,---,BEL,00:44:47,03:10:05,01:44:05,00:03:26,00:03:48,05:46:11
+ironman-70.3-luxembourg-20140621.csv,228,Claire Edwards,34,Kent,GBR,00:34:37,03:01:02,01:46:01,00:03:59,00:02:41,05:28:20
+ironman-70.3-luxembourg-20140621.csv,229,Goksu Tugay,37,Istanbul,TUR,00:56:56,03:34:13,01:52:32,00:05:06,00:04:51,06:33:38
+ironman-70.3-luxembourg-20140621.csv,230,Marleen Valk,38,---,NLD,00:43:44,03:03:27,01:48:53,00:03:26,00:02:27,05:41:57
+ironman-70.3-luxembourg-20140621.csv,231,Virginia Vasconcelos,38,GO,BRA,00:38:32,02:58:05,01:52:12,00:03:19,00:03:26,05:35:34
+ironman-70.3-luxembourg-20140621.csv,232,Anika Voß,38,---,DEU,00:48:21,03:46:25,02:01:50,00:07:49,00:06:34,06:50:59
+ironman-70.3-luxembourg-20140621.csv,233,Birke Thielen,36,---,DEU,00:35:51,02:36:27,01:38:41,00:03:23,00:03:07,04:57:29
+ironman-70.3-luxembourg-20140621.csv,234,Anna-Marie Watson,35,---,GBR,00:36:53,02:40:37,01:31:27,00:02:33,00:01:36,04:53:06
+ironman-70.3-luxembourg-20140621.csv,235,Stephanie Werchan,37,AE,USA,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,236,Isabelle Klein,30,---,LUX,00:29:58,02:32:21,01:39:30,00:04:04,00:01:53,04:47:46
+ironman-70.3-luxembourg-20140621.csv,237,Julie Debock,33,BE,BEL,00:41:28,02:50:16,01:43:57,00:03:17,00:02:40,05:21:38
+ironman-70.3-luxembourg-20140621.csv,238,Janeen Alley,36,CO,USA,00:44:10,03:05:57,01:58:06,00:03:40,00:04:42,05:56:35
+ironman-70.3-luxembourg-20140621.csv,239,Conny Cyrus,35,---,DEU,00:43:44,02:44:57,01:42:41,00:04:19,00:03:49,05:19:30
+ironman-70.3-luxembourg-20140621.csv,255,Juliane Adam,40,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,256,Annette Jaffke,40,Luxemburg,LUX,00:28:40,02:47:57,01:28:04,00:01:57,00:02:06,04:48:44
+ironman-70.3-luxembourg-20140621.csv,257,Luciana Azin,44,Bahia,BRA,00:44:55,03:36:28,01:55:33,00:06:26,00:06:51,06:30:13
+ironman-70.3-luxembourg-20140621.csv,258,Nina Bachmann,41,DE,DEU,00:35:05,03:07:03,02:03:48,00:03:17,00:02:43,05:51:56
+ironman-70.3-luxembourg-20140621.csv,259,Lisa Beck,42,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,260,Samantha Critchley,39,APO,GBR,00:41:07,03:08:31,02:01:32,00:03:08,00:02:38,05:56:56
+ironman-70.3-luxembourg-20140621.csv,261,Cyrille Cunin,40,---,FRA,00:37:41,02:59:15,01:58:48,00:03:47,00:02:21,05:41:52
+ironman-70.3-luxembourg-20140621.csv,262,Miek Dejonghe,43,---,BEL,00:42:29,03:14:10,01:51:04,00:03:40,00:03:38,05:55:01
+ironman-70.3-luxembourg-20140621.csv,264,Marinda Engelbrecht,41,---,ZAF,00:34:58,02:45:47,01:39:16,00:02:42,00:01:53,05:04:36
+ironman-70.3-luxembourg-20140621.csv,265,Julie Farman,41,KY,USA,00:47:11,03:42:03,02:01:11,00:06:21,00:03:09,06:39:55
+ironman-70.3-luxembourg-20140621.csv,266,Frauke Gerber,39,---,DEU,00:36:32,03:26:12,02:12:16,00:04:04,00:02:58,06:22:02
+ironman-70.3-luxembourg-20140621.csv,267,Nathalie Hanus,39,---,BEL,00:36:18,03:06:06,01:45:37,00:03:19,00:02:37,05:33:57
+ironman-70.3-luxembourg-20140621.csv,268,Susanne Harz,42,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,269,Doro Karbach,43,---,AUT,00:33:54,02:45:27,01:48:22,00:02:23,00:02:32,05:12:38
+ironman-70.3-luxembourg-20140621.csv,270,Christine Kells,42,NSW,AUS,00:38:25,03:08:41,01:50:04,00:04:39,00:03:51,05:45:40
+ironman-70.3-luxembourg-20140621.csv,271,Phaedra Kennedy,43,ON,CAN,00:34:21,02:53:35,01:35:27,00:03:41,00:02:53,05:09:57
+ironman-70.3-luxembourg-20140621.csv,272,Bianca Van Den Kieboom,43,---,NLD,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,273,Rachel Kolosky,41,AE,USA,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,274,Laurence Ladriere,42,---,BEL,00:43:45,03:10:35,02:00:41,00:03:03,00:03:26,06:01:30
+ironman-70.3-luxembourg-20140621.csv,275,Stephanie Liedtke,43,CH,DEU,00:36:49,03:04:31,01:49:19,00:02:48,00:03:30,05:36:57
+ironman-70.3-luxembourg-20140621.csv,276,Angelina Van Der Linden,42,---,NLD,00:34:14,02:46:21,01:51:45,00:02:51,00:03:28,05:18:39
+ironman-70.3-luxembourg-20140621.csv,277,Stéphanie Madelon,43,FR,FRA,00:36:37,02:48:24,01:35:40,00:02:36,00:01:50,05:05:07
+ironman-70.3-luxembourg-20140621.csv,278,Fanny Martinerie,43,---,FRA,00:29:02,02:45:00,01:32:59,00:02:43,00:02:09,04:51:53
+ironman-70.3-luxembourg-20140621.csv,279,Felicity Martini,41,---,CAN,00:43:40,03:11:21,01:56:39,00:04:08,00:03:27,05:59:15
+ironman-70.3-luxembourg-20140621.csv,280,Renate Mayer,40,CH,DEU,00:42:56,03:16:06,02:00:07,00:05:43,00:04:47,06:09:39
+ironman-70.3-luxembourg-20140621.csv,281,Alicja Medak,41,---,POL,00:36:00,02:49:22,01:29:17,00:02:10,00:02:22,04:59:11
+ironman-70.3-luxembourg-20140621.csv,282,Anne Sophie Mercier,43,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,283,Christelle Nizet,43,---,FRA,00:46:15,03:19:49,01:54:11,00:04:13,00:03:39,06:08:07
+ironman-70.3-luxembourg-20140621.csv,284,Amanda Peters,40,---,ARE,00:43:41,03:16:29,02:13:18,00:06:46,00:04:51,06:25:05
+ironman-70.3-luxembourg-20140621.csv,285,Karen Povey,42,Middlesex,GBR,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,286,Claudia Rausch,39,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,287,Claire Richardson,40,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,288,Manuela Scharf,40,---,DEU,00:38:21,03:00:45,01:38:13,00:03:48,00:02:33,05:23:40
+ironman-70.3-luxembourg-20140621.csv,289,Denise Shepherd,39,---,GBR,00:45:48,03:14:50,02:09:47,00:05:05,00:04:56,06:20:26
+ironman-70.3-luxembourg-20140621.csv,290,Heleen Tanghe,40,---,BEL,00:34:13,03:03:25,02:03:12,00:03:47,00:03:29,05:48:06
+ironman-70.3-luxembourg-20140621.csv,291,Sophie Van Biervliet,42,---,BEL,00:34:46,02:35:48,01:33:04,00:02:42,00:01:23,04:47:43
+ironman-70.3-luxembourg-20140621.csv,292,Els Van Zele,40,---,BEL,00:55:32,03:27:37,01:55:17,00:04:59,00:05:03,06:28:28
+ironman-70.3-luxembourg-20140621.csv,293,Annelies Verstraete,40,BE,BEL,00:37:59,02:42:43,01:35:49,00:02:13,00:01:42,05:00:26
+ironman-70.3-luxembourg-20140621.csv,294,Sarah Webb,41,AE,USA,00:51:07,03:49:48,02:03:16,00:05:28,00:06:13,06:55:52
+ironman-70.3-luxembourg-20140621.csv,295,Raija Wehrli,41,---,CHE,00:31:13,02:49:16,01:38:46,00:03:12,00:02:57,05:05:24
+ironman-70.3-luxembourg-20140621.csv,296,Nancy Werbrouck,42,---,BEL,00:46:44,03:19:53,02:04:07,00:06:38,00:07:52,06:25:14
+ironman-70.3-luxembourg-20140621.csv,297,Alexandra Linda Scharf-Plazanic,41,DE,DEU,00:33:44,02:48:54,01:37:35,00:03:19,00:02:11,05:05:43
+ironman-70.3-luxembourg-20140621.csv,298,Yehudi`` Verbeek,40,NL,NLD,00:39:37,02:55:38,02:00:52,00:03:17,00:02:01,05:41:25
+ironman-70.3-luxembourg-20140621.csv,318,Armelle Bilard-Campion,45,CH,FRA,00:32:03,02:57:40,01:57:53,00:03:07,00:02:27,05:33:10
+ironman-70.3-luxembourg-20140621.csv,319,Corine Brouwers,46,---,BEL,00:42:22,03:49:58,02:44:49,00:04:46,00:05:33,07:27:28
+ironman-70.3-luxembourg-20140621.csv,320,Barbara Burkert,47,---,DEU,00:38:24,03:23:42,02:09:20,00:03:25,00:07:19,06:22:10
+ironman-70.3-luxembourg-20140621.csv,321,Tanya Carr-Waldron,48,NY,USA,00:47:45,03:55:09,02:23:33,00:05:19,00:04:01,07:15:47
+ironman-70.3-luxembourg-20140621.csv,322,Kathrin Doenni,46,---,CHE,00:35:57,02:49:44,01:45:23,00:03:04,00:02:35,05:16:43
+ironman-70.3-luxembourg-20140621.csv,323,Birgit Eibl,48,---,AUT,00:50:49,03:02:21,02:05:10,00:03:58,00:04:29,06:06:47
+ironman-70.3-luxembourg-20140621.csv,324,Heike Feistel,48,---,DEU,00:39:34,03:27:41,01:55:36,00:05:46,00:03:35,06:12:12
+ironman-70.3-luxembourg-20140621.csv,325,Alexandra Fellmann,49,---,DEU,00:38:36,02:51:05,---,00:03:14,00:01:58,DNF
+ironman-70.3-luxembourg-20140621.csv,326,Véronique Gast,47,---,FRA,00:37:32,03:08:52,02:04:25,00:03:42,00:02:24,05:56:55
+ironman-70.3-luxembourg-20140621.csv,327,Sharon Glenister,45,Dorset,GBR,00:32:35,03:09:11,01:54:25,00:03:31,00:02:57,05:42:39
+ironman-70.3-luxembourg-20140621.csv,328,Tracey Horne,45,---,GBR,00:32:09,03:01:54,01:37:28,00:02:51,00:03:17,05:17:39
+ironman-70.3-luxembourg-20140621.csv,329,Nicole Hottinger,46,---,CHE,00:44:22,02:58:15,01:35:21,00:04:01,00:03:02,05:25:01
+ironman-70.3-luxembourg-20140621.csv,330,Gabi Joecken,45,---,DEU,00:34:13,02:58:38,01:57:23,00:03:20,00:02:16,05:35:50
+ironman-70.3-luxembourg-20140621.csv,331,Rachel Kirkwood,45,Warwickshire,GBR,00:31:59,02:46:16,01:41:47,00:03:43,00:03:04,05:06:49
+ironman-70.3-luxembourg-20140621.csv,332,Maria Kolosova,46,---,RUS,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,333,Ilona Kraemer,49,---,DEU,00:43:01,03:32:56,02:18:28,00:07:58,00:05:39,06:48:02
+ironman-70.3-luxembourg-20140621.csv,334,Lisen Mcgladdery,46,NY,GBR,00:37:19,03:06:16,01:49:52,00:03:36,00:02:31,05:39:34
+ironman-70.3-luxembourg-20140621.csv,335,Eva Mutchnick,46,---,AUT,00:47:51,03:10:18,02:09:02,00:04:47,00:04:11,06:16:09
+ironman-70.3-luxembourg-20140621.csv,336,Simone Otten,45,---,DEU,00:38:08,03:10:03,01:42:06,00:04:26,00:02:06,05:36:49
+ironman-70.3-luxembourg-20140621.csv,337,Nancy Rey,44,Vlaams-Brabant,BEL,00:46:28,03:58:48,02:22:47,00:04:48,00:04:08,07:16:59
+ironman-70.3-luxembourg-20140621.csv,338,Christiane Riefler-Karpa,46,---,DEU,00:41:17,03:17:16,02:27:31,00:05:19,00:05:01,06:36:24
+ironman-70.3-luxembourg-20140621.csv,339,Catherine Roch,47,Luxembourg,CHE,00:34:29,02:52:13,02:01:28,00:04:25,00:02:44,05:35:19
+ironman-70.3-luxembourg-20140621.csv,340,Anke Sauer,45,Niedersachsen,DEU,00:35:42,03:05:22,01:35:06,00:03:39,00:03:08,05:22:57
+ironman-70.3-luxembourg-20140621.csv,341,Josiane Schwartz,47,lux,LUX,00:34:47,03:08:44,01:52:51,00:03:41,00:02:33,05:42:36
+ironman-70.3-luxembourg-20140621.csv,342,Inez Stärk,48,---,NLD,00:36:59,03:08:45,01:56:23,00:03:57,00:03:03,05:49:07
+ironman-70.3-luxembourg-20140621.csv,343,Caro Stiebeling,47,---,DEU,00:45:42,03:46:29,---,00:05:31,---,DNF
+ironman-70.3-luxembourg-20140621.csv,344,Michaela Stops,46,---,DEU,00:42:39,03:16:01,01:49:30,00:04:34,00:03:01,05:55:45
+ironman-70.3-luxembourg-20140621.csv,345,Susanne Trageser,46,---,DEU,00:43:38,03:17:51,01:56:47,00:04:27,00:04:28,06:07:11
+ironman-70.3-luxembourg-20140621.csv,346,Patricia Van Der Pol,46,---,BEL,00:41:20,03:09:55,01:56:34,00:04:01,00:05:55,05:57:45
+ironman-70.3-luxembourg-20140621.csv,347,Laura Van Der Waal,47,PAPENDRECHT,NLD,00:38:56,03:18:54,02:05:53,00:05:09,00:04:04,06:12:56
+ironman-70.3-luxembourg-20140621.csv,348,Brigitte Van Wichelen,48,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,349,Paula Veysey-Smith,46,Kent,GBR,00:47:45,03:14:18,02:19:22,00:08:52,00:06:10,06:36:27
+ironman-70.3-luxembourg-20140621.csv,350,Françoise Schütz,48,---,CHE,00:39:24,02:55:54,02:08:57,00:03:04,00:03:29,05:50:48
+ironman-70.3-luxembourg-20140621.csv,351,Dilek Baytan,49,TUR,TUR,00:45:18,03:33:43,01:48:56,00:05:33,00:03:48,06:17:18
+ironman-70.3-luxembourg-20140621.csv,352,Eva Hackner,46,---,AUT,00:36:02,03:22:02,01:53:22,00:03:48,00:02:41,05:57:55
+ironman-70.3-luxembourg-20140621.csv,370,Martine Aerts,54,---,BEL,00:38:31,03:00:04,---,00:04:01,00:05:01,DNF
+ironman-70.3-luxembourg-20140621.csv,371,Dorothee Bartels,50,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,372,Elizabeth Covert,49,CA,USA,00:47:38,04:08:46,02:31:20,00:09:47,00:07:00,07:44:31
+ironman-70.3-luxembourg-20140621.csv,373,Kate Custis,50,Kent,GBR,00:46:57,03:17:29,02:00:37,00:03:20,00:01:55,06:10:18
+ironman-70.3-luxembourg-20140621.csv,374,Fabienne Garitte,53,---,BEL,00:34:34,03:01:41,01:56:54,00:04:06,00:01:59,05:39:14
+ironman-70.3-luxembourg-20140621.csv,375,Nancy Obreno,50,---,BEL,00:29:28,02:51:13,01:46:55,00:02:17,00:01:43,05:11:36
+ironman-70.3-luxembourg-20140621.csv,376,Julie Rossouw,50,Other,ARE,00:37:42,03:07:37,01:51:44,00:05:35,00:02:10,05:44:48
+ironman-70.3-luxembourg-20140621.csv,377,Claudia Schiewe,51,---,DEU,00:38:11,03:07:54,02:04:59,00:03:39,00:02:46,05:57:29
+ironman-70.3-luxembourg-20140621.csv,378,Tina Vesper,53,WA,USA,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,379,Sarah Warden,51,Northants,GBR,00:58:06,03:43:25,02:03:22,00:05:48,00:05:27,06:56:08
+ironman-70.3-luxembourg-20140621.csv,380,Francoise Moray,49,---,BEL,00:45:13,03:07:24,02:05:38,00:06:57,00:05:27,06:10:39
+ironman-70.3-luxembourg-20140621.csv,399,Kimberley Bills,55,---,GBR,00:45:03,03:27:56,02:23:21,00:05:34,00:06:23,06:48:17
+ironman-70.3-luxembourg-20140621.csv,400,Angelika Clausing,55,---,DEU,00:34:59,02:55:33,01:43:59,00:04:51,00:02:20,05:21:42
+ironman-70.3-luxembourg-20140621.csv,401,Nancy Dolan,57,BC,CAN,00:46:24,03:15:18,02:09:58,00:04:58,00:03:53,06:20:31
+ironman-70.3-luxembourg-20140621.csv,402,Susi Reinhardt,55,---,CHE,00:38:52,03:08:45,02:05:55,00:03:34,00:03:24,06:00:30
+ironman-70.3-luxembourg-20140621.csv,403,Colette Schertz,55,---,FRA,00:42:47,03:13:29,01:52:58,00:03:54,00:02:47,05:55:55
+ironman-70.3-luxembourg-20140621.csv,404,Rosi Solchinger,56,---,DEU,00:49:33,03:14:14,---,00:04:17,00:13:01,DNF
+ironman-70.3-luxembourg-20140621.csv,405,Lydia Van Beeck,58,---,BEL,00:48:29,---,---,00:06:09,---,DNF
+ironman-70.3-luxembourg-20140621.csv,421,Victoria Carpenterj,62,Devon,GBR,00:50:23,03:25:42,02:25:20,00:06:57,00:04:28,06:52:50
+ironman-70.3-luxembourg-20140621.csv,422,Barbara Grüter,60,---,CHE,00:42:31,03:35:53,02:26:48,00:04:18,00:02:16,06:51:46
+ironman-70.3-luxembourg-20140621.csv,423,Felicitas Kuld,60,---,DEU,00:39:36,02:59:55,01:42:08,00:04:20,00:04:45,05:30:44
+ironman-70.3-luxembourg-20140621.csv,431,Marie Neaves,66,DE,USA,00:48:34,04:14:15,03:00:06,00:05:31,00:04:51,08:13:17
+ironman-70.3-luxembourg-20140621.csv,432,Jacqueline Riley,66,Cambs,GBR,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,447,Bruno Achard,54,---,FRA,00:38:18,02:43:24,01:24:02,00:02:58,00:02:04,04:50:46
+ironman-70.3-luxembourg-20140621.csv,448,Diego Algaba,51,---,BEL,00:40:41,03:10:21,02:12:43,00:05:04,00:06:57,06:15:46
+ironman-70.3-luxembourg-20140621.csv,449,Mario Alten,52,DE,DEU,00:41:10,03:00:46,01:47:00,00:04:30,00:02:07,05:35:33
+ironman-70.3-luxembourg-20140621.csv,450,Christopher Argo,53,AE,USA,00:40:42,03:36:47,02:20:37,00:05:02,00:05:35,06:48:43
+ironman-70.3-luxembourg-20140621.csv,451,Metin Aroyo,51,Turkey,TUR,00:34:08,02:51:11,01:34:07,00:04:13,00:03:25,05:07:04
+ironman-70.3-luxembourg-20140621.csv,452,Philip Ball,49,---,GBR,00:35:45,03:05:57,02:01:20,00:05:12,00:03:15,05:51:29
+ironman-70.3-luxembourg-20140621.csv,453,Baudouin Baudru,53,---,BEL,00:36:26,02:47:57,01:57:53,00:03:09,00:03:21,05:28:46
+ironman-70.3-luxembourg-20140621.csv,454,Vincent Bauduin,53,FR,FRA,00:35:51,02:51:44,01:52:50,00:03:27,00:03:21,05:27:13
+ironman-70.3-luxembourg-20140621.csv,455,Rolf Berglund,53,Luxembourg,SWE,00:28:14,02:38:54,01:31:30,00:03:20,00:02:01,04:43:59
+ironman-70.3-luxembourg-20140621.csv,456,Alain Beyens,53,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,457,Rainer Billig,53,Other,BEL,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,458,Stuart Black,50,East Yorkshire,GBR,00:51:29,03:32:56,02:09:36,00:06:33,00:05:16,06:45:50
+ironman-70.3-luxembourg-20140621.csv,459,Roy Blom,51,NL,NLD,00:31:33,02:35:04,01:56:17,00:03:51,00:02:41,05:09:26
+ironman-70.3-luxembourg-20140621.csv,460,Udo Bolender,52,Luxembourg,LUX,00:37:58,02:49:32,01:43:15,00:03:25,00:02:10,05:16:20
+ironman-70.3-luxembourg-20140621.csv,461,Erwin Bruninx,53,---,BEL,00:40:35,02:44:18,01:26:18,00:03:11,00:03:19,04:57:41
+ironman-70.3-luxembourg-20140621.csv,462,Adrian Buckland,51,---,GBR,00:34:48,03:01:34,01:42:25,00:02:41,00:02:14,05:23:42
+ironman-70.3-luxembourg-20140621.csv,463,Bosse Carlbark,51,SE,SWE,00:40:38,03:06:40,01:53:57,00:05:11,00:04:10,05:50:36
+ironman-70.3-luxembourg-20140621.csv,464,Pascal Coic,54,---,FRA,00:41:58,02:56:32,02:01:15,00:04:56,00:03:42,05:48:23
+ironman-70.3-luxembourg-20140621.csv,465,Erik Coppens,50,---,BEL,00:35:57,02:58:16,01:56:13,00:04:37,00:03:18,05:38:21
+ironman-70.3-luxembourg-20140621.csv,466,Serge Costalunga,52,BE,BEL,00:41:54,03:08:19,02:01:57,00:04:18,00:03:18,05:59:46
+ironman-70.3-luxembourg-20140621.csv,467,Geert De Cleene,50,BE,BEL,00:31:31,03:01:44,01:56:48,00:03:38,00:03:34,05:37:15
+ironman-70.3-luxembourg-20140621.csv,468,Patrick De Koninck,51,---,BEL,00:34:56,02:52:42,01:59:47,00:03:51,00:02:57,05:34:13
+ironman-70.3-luxembourg-20140621.csv,469,Jos De Maeseneer,51,BE,BEL,00:40:44,03:13:28,---,00:04:47,00:03:48,DNF
+ironman-70.3-luxembourg-20140621.csv,470,Jan De Smedt,51,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,471,Philip De Tavernier,51,---,BEL,00:36:13,02:59:19,01:50:38,00:05:15,00:02:50,05:34:15
+ironman-70.3-luxembourg-20140621.csv,472,Willem Decock,50,BE,BEL,00:38:36,03:05:02,02:26:58,00:05:00,00:03:49,06:19:25
+ironman-70.3-luxembourg-20140621.csv,473,Frank Decorte,49,---,BEL,00:35:39,02:40:52,01:34:52,00:04:44,00:02:32,04:58:39
+ironman-70.3-luxembourg-20140621.csv,474,Philip Defraine,52,kent,GBR,00:45:56,03:47:18,02:23:20,00:04:04,00:03:37,07:04:15
+ironman-70.3-luxembourg-20140621.csv,475,Danny Devlieghe,50,---,BEL,00:31:12,02:47:40,01:45:22,00:03:13,00:02:18,05:09:45
+ironman-70.3-luxembourg-20140621.csv,476,Christopher Doyle,50,Luxembourg,CAN,00:34:39,02:29:05,01:20:42,00:02:45,00:01:50,04:29:01
+ironman-70.3-luxembourg-20140621.csv,477,Thomas Dreher,52,---,DEU,00:36:35,02:51:14,01:51:15,00:03:29,00:02:26,05:24:59
+ironman-70.3-luxembourg-20140621.csv,478,Bernard Dubois,50,---,FRA,00:31:56,02:35:42,02:04:44,00:03:05,00:02:38,05:18:05
+ironman-70.3-luxembourg-20140621.csv,479,Simon Edwards,53,---,GBR,00:37:32,02:58:09,01:56:04,00:03:31,00:02:58,05:38:14
+ironman-70.3-luxembourg-20140621.csv,480,Kevin Edwins,50,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,481,Heiner Emden,52,---,DEU,00:44:42,03:08:11,01:45:46,00:04:52,00:05:17,05:48:48
+ironman-70.3-luxembourg-20140621.csv,482,Karl Esser,49,DE,DEU,00:33:32,02:36:55,01:48:45,00:03:59,00:02:29,05:05:40
+ironman-70.3-luxembourg-20140621.csv,483,Jean-Claude Feilen,51,---,LUX,00:34:14,02:44:01,01:27:30,00:02:54,00:02:24,04:51:03
+ironman-70.3-luxembourg-20140621.csv,484,Dirk Fleerackers,53,---,BEL,00:37:09,02:41:24,01:33:41,00:03:08,00:02:08,04:57:30
+ironman-70.3-luxembourg-20140621.csv,485,Dominique Fournier,53,---,FRA,00:31:28,02:31:58,01:27:51,00:03:00,00:02:16,04:36:33
+ironman-70.3-luxembourg-20140621.csv,486,Arnaldo Fraguela,52,FR,FRA,00:34:44,03:39:38,02:32:43,00:05:26,00:07:06,06:59:37
+ironman-70.3-luxembourg-20140621.csv,487,Agustin Garcia,51,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,488,Mike Gestrin,51,---,CAN,00:38:27,03:14:28,02:21:18,00:04:44,00:04:14,06:23:11
+ironman-70.3-luxembourg-20140621.csv,489,Oliver Gilbert,50,---,DEU,00:42:09,02:48:02,01:36:18,00:05:06,00:04:12,05:15:47
+ironman-70.3-luxembourg-20140621.csv,490,Mark Glaister,51,---,GBR,00:39:57,03:06:49,01:39:41,00:04:18,00:03:01,05:33:46
+ironman-70.3-luxembourg-20140621.csv,491,Andre Gleviczky,51,---,BEL,00:38:15,03:04:21,01:51:45,00:04:54,00:03:37,05:42:52
+ironman-70.3-luxembourg-20140621.csv,492,Carlo Grasges,52,LUXEMBOURG,LUX,00:38:00,02:56:50,01:58:38,00:03:10,00:02:33,05:39:11
+ironman-70.3-luxembourg-20140621.csv,493,Pascal Guiot,50,FR,FRA,00:39:26,02:44:34,01:51:28,00:02:57,00:02:23,05:20:48
+ironman-70.3-luxembourg-20140621.csv,494,Pascal Hagenbach,53,---,FRA,00:33:02,02:32:02,01:34:01,00:03:51,00:03:04,04:46:00
+ironman-70.3-luxembourg-20140621.csv,495,Gerd-Dieter Hanert,51,DE,DEU,00:41:51,---,---,00:03:46,04:32:44,DNF
+ironman-70.3-luxembourg-20140621.csv,496,Peter Harding,50,---,GBR,00:34:58,03:01:49,02:00:37,00:05:46,00:04:31,05:47:41
+ironman-70.3-luxembourg-20140621.csv,497,Peter Harroider,51,---,DEU,00:37:53,03:13:56,---,00:04:10,00:02:34,DNF
+ironman-70.3-luxembourg-20140621.csv,498,Grant Harvison,49,---,NZL,00:36:37,03:22:55,02:19:32,00:03:53,00:03:16,06:26:13
+ironman-70.3-luxembourg-20140621.csv,499,Siegmund Höfler,51,Intl State,DEU,00:32:14,02:58:35,02:00:56,00:03:20,00:02:53,05:37:58
+ironman-70.3-luxembourg-20140621.csv,500,Lionel Hunot,49,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,501,Marcus Jores,50,---,DEU,00:31:42,02:30:07,01:47:20,00:02:42,00:02:27,04:54:18
+ironman-70.3-luxembourg-20140621.csv,502,Christophe Kieffer,53,---,FRA,---,---,---,---,---,DQ
+ironman-70.3-luxembourg-20140621.csv,503,Dietmar Kleiböhmer,51,---,DEU,00:46:01,03:03:51,02:15:49,00:03:40,00:02:37,06:11:58
+ironman-70.3-luxembourg-20140621.csv,504,Jean-Marc Legrand,52,---,BEL,00:33:28,02:48:58,01:42:02,00:04:06,00:02:36,05:11:10
+ironman-70.3-luxembourg-20140621.csv,505,Michael Lueke,51,CH,CHE,00:32:58,03:04:02,01:36:29,00:02:29,00:02:15,05:18:13
+ironman-70.3-luxembourg-20140621.csv,506,Olivier Maes,50,---,BEL,00:33:46,02:50:25,---,00:04:05,00:02:24,DNF
+ironman-70.3-luxembourg-20140621.csv,507,Stefaan Maes,51,---,BEL,00:33:53,---,---,00:04:24,04:25:21,DNF
+ironman-70.3-luxembourg-20140621.csv,508,Holger Marcus,49,---,DEU,00:33:06,02:57:44,01:44:48,00:04:16,00:03:49,05:23:43
+ironman-70.3-luxembourg-20140621.csv,509,Efim Marimont,51,monaco,RUS,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,510,Wout Marinus,50,---,BEL,00:31:08,02:35:52,01:43:11,00:03:14,00:02:37,04:56:02
+ironman-70.3-luxembourg-20140621.csv,511,Marc Matthys,50,België,BEL,00:30:50,02:29:44,01:30:28,00:02:41,00:01:48,04:35:31
+ironman-70.3-luxembourg-20140621.csv,512,Morison Mcgregor,51,---,NZL,00:37:22,02:50:18,02:04:49,00:05:11,00:03:34,05:41:14
+ironman-70.3-luxembourg-20140621.csv,513,Frederic Messiant,51,---,FRA,00:33:38,02:47:10,01:39:04,00:04:06,00:02:40,05:06:38
+ironman-70.3-luxembourg-20140621.csv,514,Johan Michielsens,50,---,BEL,00:38:57,03:05:13,01:55:37,00:04:30,00:02:40,05:46:57
+ironman-70.3-luxembourg-20140621.csv,515,Sylvain Milair,52,FR,FRA,00:35:31,02:55:37,01:50:06,00:04:14,00:03:26,05:28:54
+ironman-70.3-luxembourg-20140621.csv,516,Patrick Moens,54,BE,BEL,00:33:00,02:46:12,01:40:21,00:05:50,00:09:15,05:14:38
+ironman-70.3-luxembourg-20140621.csv,517,Piotr Papierz,51,---,POL,00:50:27,03:11:04,02:19:59,00:03:58,00:03:20,06:28:48
+ironman-70.3-luxembourg-20140621.csv,518,Longo Pasquale,50,---,LUX,00:43:13,03:11:18,02:15:02,00:05:30,00:03:06,06:18:09
+ironman-70.3-luxembourg-20140621.csv,519,James Penn,50,Luxembourg,GBR,00:48:57,03:11:48,02:13:50,00:05:48,00:07:01,06:27:24
+ironman-70.3-luxembourg-20140621.csv,520,Paul Quantrill,52,---,GBR,00:40:41,02:59:26,01:48:01,00:03:53,00:02:45,05:34:46
+ironman-70.3-luxembourg-20140621.csv,521,John Quero,49,FR,GBR,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,522,Nunzio Romano,52,FR,FRA,00:48:23,03:09:19,02:06:34,00:06:34,00:03:47,06:14:37
+ironman-70.3-luxembourg-20140621.csv,523,Dave Rose,53,IL,USA,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,524,Raffaele Saporiti,53,VA,ITA,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,525,Saussus Phil,53,---,BEL,00:35:57,02:40:23,01:46:37,00:04:08,00:02:48,05:09:53
+ironman-70.3-luxembourg-20140621.csv,526,Heiner Schirk,53,---,DEU,00:37:59,03:33:13,02:32:27,00:05:30,00:03:28,06:52:37
+ironman-70.3-luxembourg-20140621.csv,527,Ron Schop,51,---,NLD,00:32:28,02:46:41,01:44:51,00:05:03,00:02:37,05:11:40
+ironman-70.3-luxembourg-20140621.csv,528,Karsten Schrimpf,51,---,DEU,00:38:11,02:49:43,01:54:58,00:03:02,00:02:06,05:28:00
+ironman-70.3-luxembourg-20140621.csv,529,Frank Schulz,51,---,DEU,00:37:06,02:32:26,01:25:13,00:03:24,00:01:42,04:39:51
+ironman-70.3-luxembourg-20140621.csv,530,Jean-Paul Schwartz,50,APO,LUX,00:36:21,02:44:29,01:32:37,00:03:51,00:02:11,04:59:29
+ironman-70.3-luxembourg-20140621.csv,531,Koeno Siemons,50,NL,NLD,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,532,Reinoud Sluiters,50,NL,NLD,00:41:02,03:02:57,01:47:54,00:05:05,00:04:38,05:41:36
+ironman-70.3-luxembourg-20140621.csv,533,Viktoras Sosnovskis,54,DE,DEU,00:36:22,03:01:01,01:53:17,00:04:57,00:02:43,05:38:20
+ironman-70.3-luxembourg-20140621.csv,534,Aldo Spagnoli,49,Italia,ITA,00:36:00,02:45:36,01:47:11,00:03:18,00:02:38,05:14:43
+ironman-70.3-luxembourg-20140621.csv,535,Dieter Specht,51,---,DEU,00:36:40,03:15:14,02:01:24,00:04:15,00:03:00,06:00:33
+ironman-70.3-luxembourg-20140621.csv,536,Andrew Staniford,50,---,GBR,00:44:03,03:46:10,02:45:45,00:09:03,00:04:50,07:29:51
+ironman-70.3-luxembourg-20140621.csv,537,Gunter Tim Stecher,51,---,DEU,00:28:12,02:33:30,01:38:41,00:03:45,00:02:08,04:46:16
+ironman-70.3-luxembourg-20140621.csv,538,Tom Steuer,51,DE,DEU,00:37:28,03:01:30,01:44:29,00:04:06,00:02:49,05:30:22
+ironman-70.3-luxembourg-20140621.csv,539,Olaf Stick,51,DE,DEU,00:41:16,03:14:21,02:59:16,00:03:52,00:03:04,07:01:49
+ironman-70.3-luxembourg-20140621.csv,540,Tilo Sueltemeier,50,---,DEU,00:38:57,03:02:41,02:16:25,00:05:39,00:02:24,06:06:06
+ironman-70.3-luxembourg-20140621.csv,541,Sibolt Suurling,51,---,NLD,00:41:18,02:47:33,01:41:33,00:05:29,00:02:45,05:18:38
+ironman-70.3-luxembourg-20140621.csv,542,Volker Thomalla,51,Rheinland-Pfalz,DEU,00:49:45,03:00:41,02:02:46,00:03:58,00:05:39,06:02:49
+ironman-70.3-luxembourg-20140621.csv,543,Marc Timmermans,53,BE,BEL,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,544,Pascal Trouvé,53,---,BEL,00:31:23,02:30:25,01:36:21,00:02:38,00:02:06,04:42:53
+ironman-70.3-luxembourg-20140621.csv,545,Jan Van Capelleveen,52,NL,NLD,00:40:24,03:11:30,02:23:06,00:05:58,00:05:39,06:26:37
+ironman-70.3-luxembourg-20140621.csv,546,Vincent Vandewiele,54,---,BEL,00:36:05,02:57:14,01:40:01,00:04:20,00:03:02,05:20:42
+ironman-70.3-luxembourg-20140621.csv,547,Simon Verzijl,49,---,NLD,00:36:28,02:43:31,01:55:20,00:03:03,00:02:31,05:20:53
+ironman-70.3-luxembourg-20140621.csv,548,Willibrord Vos,49,---,NLD,00:32:53,02:41:09,01:35:33,00:03:36,00:02:16,04:55:27
+ironman-70.3-luxembourg-20140621.csv,549,Franck Vuaillat,52,---,FRA,00:33:29,02:40:51,01:33:20,00:04:26,00:03:31,04:55:37
+ironman-70.3-luxembourg-20140621.csv,550,Paul Warden,51,---,GBR,00:36:06,03:10:12,01:59:18,00:03:50,00:04:04,05:53:30
+ironman-70.3-luxembourg-20140621.csv,551,Fränz Weber,49,Lu,LUX,00:54:19,02:34:44,01:50:50,00:03:49,00:02:50,05:26:32
+ironman-70.3-luxembourg-20140621.csv,552,Hans Willems,53,---,NLD,00:43:39,03:02:41,02:03:18,00:05:30,00:04:33,05:59:41
+ironman-70.3-luxembourg-20140621.csv,553,Ivo Willems,52,---,BEL,00:40:11,03:03:01,01:59:11,00:04:19,00:04:44,05:51:26
+ironman-70.3-luxembourg-20140621.csv,554,Jens Zimmermann,49,DE,DEU,00:32:52,02:39:32,01:40:24,00:02:59,00:01:59,04:57:46
+ironman-70.3-luxembourg-20140621.csv,555,Steffen (Gerhard) Ziska,49,---,DEU,00:38:21,03:01:06,01:51:29,00:03:44,00:03:28,05:38:08
+ironman-70.3-luxembourg-20140621.csv,556,Luc Hennus,53,---,BEL,00:34:21,02:40:39,01:43:03,00:04:37,00:02:36,05:05:16
+ironman-70.3-luxembourg-20140621.csv,557,Herve Gyr,53,---,FRA,00:33:15,02:50:05,02:00:50,00:04:42,00:03:01,05:31:53
+ironman-70.3-luxembourg-20140621.csv,558,John Magalhaes,49,FR,BRA,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,580,Francis Alcacer,56,---,FRA,00:46:41,03:02:56,02:12:59,00:04:56,00:06:37,06:14:09
+ironman-70.3-luxembourg-20140621.csv,581,Eddy Alexiou,55,Greece,USA,00:36:32,03:15:25,02:05:07,00:06:14,00:04:41,06:07:59
+ironman-70.3-luxembourg-20140621.csv,582,René Aungier,56,---,IRL,00:44:53,03:30:29,02:28:25,00:07:29,00:05:40,06:56:56
+ironman-70.3-luxembourg-20140621.csv,583,Rainer B„cker,58,Nordrhein-Westfalen,DEU,00:36:39,03:05:35,01:55:00,00:05:47,00:02:44,05:45:45
+ironman-70.3-luxembourg-20140621.csv,584,Gian-Marco Bartolini,57,Intl State,LUX,00:35:50,02:57:07,01:43:45,00:03:53,00:02:18,05:22:53
+ironman-70.3-luxembourg-20140621.csv,585,Marc Behets,58,Grand Duché Luxembourg,BEL,00:44:28,03:09:40,01:46:11,00:06:26,00:05:02,05:51:47
+ironman-70.3-luxembourg-20140621.csv,586,Peter Berger,56,CH,CHE,00:33:42,02:56:27,02:09:51,00:05:18,00:03:23,05:48:41
+ironman-70.3-luxembourg-20140621.csv,587,Max Bernhard,54,---,DEU,00:39:38,02:56:24,02:13:34,00:03:38,00:08:00,06:01:14
+ironman-70.3-luxembourg-20140621.csv,588,Johan Bloemhof,54,---,NLD,00:32:07,02:35:27,01:53:03,00:03:00,00:02:49,05:06:26
+ironman-70.3-luxembourg-20140621.csv,589,Georges Buergi,56,---,CHE,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,590,Angelo Ceriani,58,CH,CHE,00:42:24,03:04:35,02:22:40,00:05:27,00:04:07,06:19:13
+ironman-70.3-luxembourg-20140621.csv,591,Willem Derks,55,---,NLD,00:40:25,02:48:09,01:53:06,00:03:41,00:02:46,05:28:07
+ironman-70.3-luxembourg-20140621.csv,592,Andreas Duerrwanger,55,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,593,Howard Fordham,58,---,DEU,00:33:51,02:45:49,01:42:44,00:03:34,00:02:55,05:08:53
+ironman-70.3-luxembourg-20140621.csv,594,Henrik Funch,58,---,DNK,00:31:04,02:54:05,01:52:14,00:04:37,00:04:20,05:26:20
+ironman-70.3-luxembourg-20140621.csv,595,Waldemar Gabold,57,---,DEU,00:34:47,03:05:24,01:52:03,00:05:12,00:03:30,05:40:56
+ironman-70.3-luxembourg-20140621.csv,596,Jean-Christophe Gehnert,54,France,FRA,00:28:18,02:50:12,01:29:18,00:03:34,00:02:45,04:54:07
+ironman-70.3-luxembourg-20140621.csv,597,Stéphane Gerard,58,---,BEL,00:35:11,03:11:52,01:59:32,00:06:14,00:04:08,05:56:57
+ironman-70.3-luxembourg-20140621.csv,598,Felicien Gilson,55,---,BEL,00:40:33,02:48:11,01:45:51,00:04:53,00:02:47,05:22:15
+ironman-70.3-luxembourg-20140621.csv,599,Michael Gonzales,55,MN,USA,00:43:56,03:08:44,02:10:14,00:04:33,00:02:31,06:09:58
+ironman-70.3-luxembourg-20140621.csv,600,Jeff Grimes,57,---,GBR,00:37:19,03:05:51,01:51:02,00:05:23,00:03:49,05:43:24
+ironman-70.3-luxembourg-20140621.csv,601,Patrick Herve,56,---,FRA,00:37:20,03:02:08,02:27:59,00:05:20,00:03:52,06:16:39
+ironman-70.3-luxembourg-20140621.csv,602,Roman Hunsicker,55,---,DEU,00:45:25,03:24:13,02:04:35,00:04:48,00:03:28,06:22:29
+ironman-70.3-luxembourg-20140621.csv,603,Bernd Katzenberger,54,---,DEU,00:36:03,02:42:34,01:47:25,00:02:45,00:02:01,05:10:48
+ironman-70.3-luxembourg-20140621.csv,604,Hubertus Kraus,54,DE,DEU,00:49:13,03:08:31,02:11:40,00:05:10,00:04:24,06:18:58
+ironman-70.3-luxembourg-20140621.csv,605,Peter Krause,57,---,DEU,00:42:01,03:17:11,02:29:00,00:04:15,00:02:42,06:35:09
+ironman-70.3-luxembourg-20140621.csv,606,Matthias Kuld,55,---,DEU,00:36:48,03:01:13,02:00:26,00:05:08,00:04:25,05:48:00
+ironman-70.3-luxembourg-20140621.csv,607,Christian Lameir,55,---,BEL,00:36:46,02:56:45,01:34:07,00:04:16,00:02:21,05:14:15
+ironman-70.3-luxembourg-20140621.csv,608,Pierre Lennes,56,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,609,René Lieners,55,Luxemburg,LUX,00:32:51,02:49:26,01:40:15,00:02:31,00:01:57,05:07:00
+ironman-70.3-luxembourg-20140621.csv,610,Vincent Mceneaney,58,Guernsey,GBR,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,611,Ferrid Messaoudene,56,---,FRA,00:34:55,03:00:20,01:50:32,00:04:17,00:03:00,05:33:04
+ironman-70.3-luxembourg-20140621.csv,612,Gerold Mueller,56,DE,DEU,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,613,Wolfgang Pelzer,56,---,DEU,00:37:06,02:46:08,01:59:42,00:04:25,00:02:00,05:29:21
+ironman-70.3-luxembourg-20140621.csv,614,Alain Picherit,59,APO,FRA,00:42:08,02:56:30,01:53:27,00:05:02,00:03:17,05:40:24
+ironman-70.3-luxembourg-20140621.csv,615,Oliver Pontius,55,Hessen,DEU,00:34:12,02:48:20,01:57:41,00:05:55,00:03:17,05:29:25
+ironman-70.3-luxembourg-20140621.csv,616,Manfred Raith,57,---,DEU,00:42:19,02:48:15,01:50:43,00:04:13,00:03:25,05:28:55
+ironman-70.3-luxembourg-20140621.csv,617,Roland Reding,55,Luxemburg,LUX,00:46:10,02:55:53,02:08:31,00:04:42,00:04:03,05:59:19
+ironman-70.3-luxembourg-20140621.csv,618,Yves Roehr,59,FR,FRA,00:43:19,02:56:56,02:03:30,00:06:58,00:03:56,05:54:39
+ironman-70.3-luxembourg-20140621.csv,619,Noel Rossouw,55,Other,ARE,00:35:54,03:02:07,01:28:35,00:04:16,00:02:08,05:13:00
+ironman-70.3-luxembourg-20140621.csv,620,Daniel Schallmo,56,---,DEU,00:30:54,02:37:59,01:32:23,00:01:57,00:02:03,04:45:16
+ironman-70.3-luxembourg-20140621.csv,621,Norbert Schiewe,55,---,DEU,00:37:42,02:44:36,01:52:47,00:02:32,00:02:45,05:20:22
+ironman-70.3-luxembourg-20140621.csv,622,Harry Schneider,58,---,DEU,00:36:10,02:46:54,01:35:34,00:03:10,00:02:14,05:04:02
+ironman-70.3-luxembourg-20140621.csv,623,René Schockmel,57,Luxembourg,LUX,00:37:01,03:03:04,01:50:58,00:05:20,00:05:36,05:41:59
+ironman-70.3-luxembourg-20140621.csv,624,Marek Strzesniewski,57,---,POL,00:49:55,03:18:56,01:43:34,00:04:53,00:02:44,06:00:02
+ironman-70.3-luxembourg-20140621.csv,625,Jonathan Talbot,55,Dorset,GBR,00:38:03,02:53:48,01:54:17,00:06:26,00:05:41,05:38:15
+ironman-70.3-luxembourg-20140621.csv,626,Hans-Peter Tamble,57,Grevenmacher,LUX,00:36:41,03:30:03,01:48:59,00:06:26,00:03:02,06:05:11
+ironman-70.3-luxembourg-20140621.csv,627,karel Van Cauwenberg,54,BE,BEL,00:32:03,02:52:02,01:42:10,00:03:03,00:03:07,05:12:25
+ironman-70.3-luxembourg-20140621.csv,628,Nick Van Dijk,56,---,NLD,00:49:33,03:38:16,02:19:33,00:10:13,00:06:46,07:04:21
+ironman-70.3-luxembourg-20140621.csv,629,Luc Vanmaele,55,---,BEL,00:34:28,02:47:29,01:34:19,00:03:00,00:01:58,05:01:14
+ironman-70.3-luxembourg-20140621.csv,630,Manfred Weininger,57,---,DEU,00:41:01,03:15:21,02:19:20,00:05:18,00:03:15,06:24:15
+ironman-70.3-luxembourg-20140621.csv,631,Martin Wood,56,---,GBR,00:31:29,02:58:11,02:39:16,00:05:33,00:06:24,06:20:53
+ironman-70.3-luxembourg-20140621.csv,632,Thierry Holoffe,54,---,BEL,00:42:07,02:52:01,01:46:18,00:05:59,00:03:18,05:29:43
+ironman-70.3-luxembourg-20140621.csv,651,Peter Brechbuehler,60,---,CHE,00:35:35,02:40:25,01:44:38,00:02:34,00:01:42,05:04:54
+ironman-70.3-luxembourg-20140621.csv,652,Christoph Clausing,60,---,DEU,00:43:31,03:19:00,02:19:17,00:05:01,00:04:02,06:30:51
+ironman-70.3-luxembourg-20140621.csv,653,Roger Cremer,64,BE,BEL,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,654,Jan De Bock,60,---,NLD,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,655,Piet Depauw,60,---,BEL,00:31:20,02:45:26,01:46:06,00:05:14,00:03:38,05:11:44
+ironman-70.3-luxembourg-20140621.csv,656,Peter Dolan,62,BC,CAN,00:40:55,03:29:47,02:21:50,00:04:58,00:05:12,06:42:42
+ironman-70.3-luxembourg-20140621.csv,657,Gary Gasper,61,WI,USA,00:46:17,03:09:23,02:03:36,00:05:24,00:03:11,06:07:51
+ironman-70.3-luxembourg-20140621.csv,658,Peter Gronholm,61,Finland,FIN,00:33:23,02:47:26,01:50:13,00:03:20,00:02:24,05:16:46
+ironman-70.3-luxembourg-20140621.csv,659,Peter Herrmann,62,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,660,Dieter Holz,64,---,DEU,00:34:06,02:45:39,01:48:46,00:03:13,00:02:37,05:14:21
+ironman-70.3-luxembourg-20140621.csv,661,Jean-Claude Schneider,63,Peppange,LUX,00:42:40,02:52:49,01:47:14,00:05:31,00:04:13,05:32:27
+ironman-70.3-luxembourg-20140621.csv,662,Michiel Jonker,60,---,BEL,00:34:09,02:46:19,01:39:47,00:04:19,00:04:44,05:09:18
+ironman-70.3-luxembourg-20140621.csv,663,Helmut Mohr,63,Intl State,DEU,00:34:03,02:57:29,02:14:19,00:03:26,00:01:59,05:51:16
+ironman-70.3-luxembourg-20140621.csv,664,Jim Orr,60,IL,USA,00:37:47,03:15:22,02:22:41,00:05:15,00:03:28,06:24:33
+ironman-70.3-luxembourg-20140621.csv,665,Christian Pedrini,61,SIENA,ITA,00:46:00,03:29:38,02:18:59,00:10:14,00:06:37,06:51:28
+ironman-70.3-luxembourg-20140621.csv,666,Jean-Luc Pochon,61,FR,FRA,00:41:44,02:56:09,01:50:52,00:04:39,00:05:14,05:38:38
+ironman-70.3-luxembourg-20140621.csv,667,John Redwood,63,BE,BEL,00:36:08,02:39:14,01:38:54,00:04:11,00:02:02,05:00:29
+ironman-70.3-luxembourg-20140621.csv,668,Gordon Riley,63,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,669,Pierre Thion,63,---,FRA,00:37:27,03:14:48,---,00:05:18,---,DNF
+ironman-70.3-luxembourg-20140621.csv,670,Milos Trpisovsky,59,Stodulky,CZE,00:42:21,03:00:09,02:03:40,00:03:59,00:04:08,05:54:17
+ironman-70.3-luxembourg-20140621.csv,688,Willy Baeyens,65,---,BEL,00:42:04,03:04:08,02:10:19,00:07:44,00:05:55,06:10:10
+ironman-70.3-luxembourg-20140621.csv,689,Karsten Burkert,66,---,DEU,00:41:13,03:38:26,02:23:44,00:07:15,00:05:33,06:56:11
+ironman-70.3-luxembourg-20140621.csv,690,Hermann Aschwer,67,---,DEU,00:38:00,02:51:15,01:42:17,00:06:05,00:03:43,05:21:20
+ironman-70.3-luxembourg-20140621.csv,691,Hubert Quadflieg,66,---,DEU,00:41:36,03:06:14,01:48:33,00:04:48,00:02:25,05:43:36
+ironman-70.3-luxembourg-20140621.csv,713,Willem Boon,70,---,NLD,00:47:01,03:26:07,02:39:18,00:06:51,00:04:30,07:03:47
+ironman-70.3-luxembourg-20140621.csv,714,Elisius Iwens,73,---,BEL,00:36:50,02:58:12,01:54:24,00:04:41,00:04:30,05:38:37
+ironman-70.3-luxembourg-20140621.csv,727,Lorenzo Albala,22,PA,USA,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,728,Denny Alexiou,22,NY,USA,00:41:16,03:40:19,01:57:08,00:08:13,00:05:11,06:32:07
+ironman-70.3-luxembourg-20140621.csv,729,Pit Arnold,23,---,LUX,00:30:00,02:53:05,01:43:14,00:03:55,00:02:38,05:12:52
+ironman-70.3-luxembourg-20140621.csv,730,Christophe Aucan,19,---,FRA,00:37:58,02:50:53,01:37:28,00:03:49,00:03:10,05:13:18
+ironman-70.3-luxembourg-20140621.csv,731,Clément Bach,20,---,FRA,00:25:13,02:28:06,01:39:31,00:02:29,00:01:32,04:36:51
+ironman-70.3-luxembourg-20140621.csv,732,Florian Balitrand,22,FR,FRA,00:26:34,02:27:14,01:30:29,00:02:35,00:01:24,04:28:16
+ironman-70.3-luxembourg-20140621.csv,733,Gilles Bonert,21,---,LUX,00:49:29,03:19:00,02:16:31,00:04:49,00:03:06,06:32:55
+ironman-70.3-luxembourg-20140621.csv,734,Dario Corica,23,---,DEU,00:37:43,02:47:27,01:42:46,00:02:10,00:01:47,05:11:53
+ironman-70.3-luxembourg-20140621.csv,735,Thomas Crow,24,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,736,Luke Davis,22,---,GBR,00:36:27,02:55:13,02:08:07,00:05:27,00:03:14,05:48:28
+ironman-70.3-luxembourg-20140621.csv,737,Robert De Korte,24,---,NLD,00:35:19,02:33:14,01:29:27,00:02:00,00:01:11,04:41:11
+ironman-70.3-luxembourg-20140621.csv,738,Alexis De Schrevel,23,---,BEL,00:39:42,03:41:02,01:59:51,00:06:29,00:05:46,06:32:50
+ironman-70.3-luxembourg-20140621.csv,739,Gregorio Delco,21,---,CHE,00:26:31,02:31:20,01:25:00,00:02:20,00:01:45,04:26:56
+ironman-70.3-luxembourg-20140621.csv,740,Harry Eaton,23,West Sussex,GBR,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,741,Charles Geisler,23,---,FRA,00:30:16,02:36:51,01:31:45,00:02:28,00:02:07,04:43:27
+ironman-70.3-luxembourg-20140621.csv,742,Maxime Gennen,23,LU,LUX,00:29:53,02:38:48,01:45:39,00:02:49,00:02:20,04:59:29
+ironman-70.3-luxembourg-20140621.csv,743,Daan Geudens,24,---,BEL,00:29:52,02:36:46,01:34:06,00:04:43,00:02:21,04:47:48
+ironman-70.3-luxembourg-20140621.csv,744,Pit Gillen,22,Noertzange,LUX,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,745,Amaury Gilliot,22,---,BEL,00:44:12,03:41:35,02:19:25,00:06:51,00:06:19,06:58:22
+ironman-70.3-luxembourg-20140621.csv,746,Matthew Gough,23,---,GBR,00:48:56,03:28:46,01:48:10,00:05:16,00:04:35,06:15:43
+ironman-70.3-luxembourg-20140621.csv,747,Jemp Hilger,21,LUXEMBOURG,LUX,00:36:40,02:49:38,01:48:02,00:04:48,00:04:42,05:23:50
+ironman-70.3-luxembourg-20140621.csv,748,Pavel Kopylkov,21,---,RUS,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,749,Tom Krier,21,APO,LUX,00:28:23,02:25:18,01:27:50,00:02:39,00:01:19,04:25:29
+ironman-70.3-luxembourg-20140621.csv,750,Nal Kuzmanic,22,Dalmatia,HRV,00:35:35,02:49:07,01:43:51,00:02:37,00:03:23,05:14:33
+ironman-70.3-luxembourg-20140621.csv,751,Christoph Ladits,24,---,AUT,00:27:40,02:33:11,01:22:09,00:02:14,00:01:36,04:26:50
+ironman-70.3-luxembourg-20140621.csv,752,Matt Lewis,21,NSW,AUS,00:28:11,02:23:57,01:18:11,00:01:46,00:01:29,04:13:34
+ironman-70.3-luxembourg-20140621.csv,753,Pol Leyder,24,---,LUX,00:31:18,02:50:55,01:51:27,00:03:27,00:02:31,05:19:38
+ironman-70.3-luxembourg-20140621.csv,754,Johannes Logemann,22,---,DEU,00:35:29,02:44:38,01:45:33,00:02:32,00:02:28,05:10:40
+ironman-70.3-luxembourg-20140621.csv,755,Samuel Michel,18,---,CHE,00:31:30,02:40:11,01:50:41,00:02:32,00:02:15,05:07:09
+ironman-70.3-luxembourg-20140621.csv,756,Vincent Morizot,22,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,757,Mathias Mortensen,22,---,DNK,00:26:15,02:26:28,01:34:13,00:02:07,00:01:25,04:30:28
+ironman-70.3-luxembourg-20140621.csv,758,Zepp Patrick,22,---,LUX,00:23:59,02:46:02,02:08:42,00:02:07,00:02:42,05:23:32
+ironman-70.3-luxembourg-20140621.csv,759,Erwan Pompon-Baconnier,23,DXB,FRA,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,760,Lucas Porfírio,23,---,BRA,00:36:08,02:55:42,01:47:07,00:03:16,00:03:48,05:26:01
+ironman-70.3-luxembourg-20140621.csv,761,Johannes Riesinger,19,---,DEU,00:33:26,02:45:14,02:22:30,00:03:54,00:03:24,05:48:28
+ironman-70.3-luxembourg-20140621.csv,762,Thomas Riis,24,---,NOR,00:34:24,02:51:01,01:44:41,00:03:04,00:01:41,05:14:51
+ironman-70.3-luxembourg-20140621.csv,763,Dominic Roberts,22,Hampshire,GBR,00:44:09,03:03:05,01:34:10,00:03:52,00:02:40,05:27:56
+ironman-70.3-luxembourg-20140621.csv,764,Wouter Rubbens,24,BE,BEL,00:39:45,02:51:32,02:13:49,00:04:22,00:03:44,05:53:12
+ironman-70.3-luxembourg-20140621.csv,765,Luca Ruffato,21,Luxembourg,LUX,00:39:24,03:37:04,03:00:27,00:03:34,00:05:55,07:26:24
+ironman-70.3-luxembourg-20140621.csv,766,Richard Sales,24,---,GBR,00:25:54,02:36:41,01:32:08,00:02:14,00:02:01,04:38:58
+ironman-70.3-luxembourg-20140621.csv,767,Gabriel Sardain,18,Luxemburg,LUX,00:25:31,02:40:06,01:34:43,00:02:03,00:02:38,04:45:01
+ironman-70.3-luxembourg-20140621.csv,768,Bastian Schalk,23,DE,DEU,00:28:01,02:27:52,01:32:44,00:01:43,00:02:04,04:32:24
+ironman-70.3-luxembourg-20140621.csv,769,Sven Schiltz,23,Luxemburg,LUX,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,770,Jakob Schoen,18,---,DEU,00:37:29,02:51:44,01:40:00,00:02:45,00:03:07,05:15:05
+ironman-70.3-luxembourg-20140621.csv,771,Stan Shirokiy,19,---,RUS,00:36:17,---,---,00:04:16,---,DNF
+ironman-70.3-luxembourg-20140621.csv,772,Manuel Sohr,18,---,DEU,00:26:31,02:32:21,01:30:06,00:02:22,00:01:54,04:33:14
+ironman-70.3-luxembourg-20140621.csv,773,Alexander Stange,22,---,DEU,00:29:59,02:53:17,01:48:26,00:03:18,00:03:01,05:18:01
+ironman-70.3-luxembourg-20140621.csv,774,Joey Staniford,22,---,GBR,00:43:07,03:36:27,02:18:30,00:04:25,00:03:27,06:45:56
+ironman-70.3-luxembourg-20140621.csv,775,Louis Thiers,22,---,BEL,00:28:45,02:30:07,01:27:29,00:02:24,00:01:56,04:30:41
+ironman-70.3-luxembourg-20140621.csv,776,Dieter Van Lierde,23,BE,BEL,00:35:19,03:11:49,02:09:30,00:04:31,00:03:31,06:04:40
+ironman-70.3-luxembourg-20140621.csv,777,Alexander Zdvizhkov,24,Moscow Region,RUS,00:37:43,03:19:36,01:46:01,00:03:42,00:02:03,05:49:05
+ironman-70.3-luxembourg-20140621.csv,778,Adriano De Maio,24,roma,ITA,00:30:51,02:31:47,01:26:52,00:02:36,00:01:59,04:34:05
+ironman-70.3-luxembourg-20140621.csv,779,Alexander Litvinov,18,---,RUS,00:37:07,03:35:09,02:37:14,00:07:33,00:07:48,07:04:51
+ironman-70.3-luxembourg-20140621.csv,780,Christian Mayer,20,AT,AUT,00:30:48,02:39:46,01:32:01,00:02:22,00:01:35,04:46:32
+ironman-70.3-luxembourg-20140621.csv,798,Hachez Alexandre,27,---,BEL,00:37:49,03:13:17,01:43:58,00:04:23,00:02:42,05:42:09
+ironman-70.3-luxembourg-20140621.csv,799,Michal Ambroz,29,Swietokrzyskie,POL,00:32:16,02:44:46,01:42:09,00:02:46,00:02:09,05:04:06
+ironman-70.3-luxembourg-20140621.csv,800,Philippe Arnulf,27,---,FRA,00:41:50,02:44:41,01:36:16,00:03:32,00:03:45,05:10:04
+ironman-70.3-luxembourg-20140621.csv,801,Samuel Bail,28,---,CAN,00:31:37,02:43:04,01:57:30,00:03:22,00:02:55,05:18:28
+ironman-70.3-luxembourg-20140621.csv,802,Andy Becker,28,lux,LUX,00:33:29,03:03:59,02:12:44,00:03:55,00:02:36,05:56:43
+ironman-70.3-luxembourg-20140621.csv,803,Ramine Behnam,29,DXB,ARE,00:54:45,03:34:50,02:27:57,00:07:13,00:02:50,07:07:35
+ironman-70.3-luxembourg-20140621.csv,804,Benjamin Lempereur,28,---,BEL,00:33:24,02:40:38,01:28:27,00:02:53,00:01:58,04:47:20
+ironman-70.3-luxembourg-20140621.csv,805,Stijn Beukelaers,28,BE,BEL,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,806,Thijs Blondeel,27,---,BEL,00:28:26,02:25:07,01:49:22,00:01:58,00:01:08,04:46:01
+ironman-70.3-luxembourg-20140621.csv,807,Thomas Boulay,28,---,FRA,00:30:27,03:00:22,01:45:35,00:02:43,00:02:44,05:21:51
+ironman-70.3-luxembourg-20140621.csv,808,Johan Bouma,27,---,NLD,00:43:45,02:48:14,01:51:55,00:03:37,00:01:47,05:29:18
+ironman-70.3-luxembourg-20140621.csv,809,Jarrod Boyd,26,QLD,AUS,00:28:14,02:19:47,01:23:49,00:02:00,00:01:20,04:15:10
+ironman-70.3-luxembourg-20140621.csv,810,William Butterworth,28,---,GBR,00:34:34,02:47:13,01:40:38,00:02:58,00:04:09,05:09:32
+ironman-70.3-luxembourg-20140621.csv,811,Vincent Carpeaux,25,---,BEL,00:25:45,02:31:00,01:32:26,00:01:59,00:01:39,04:32:49
+ironman-70.3-luxembourg-20140621.csv,812,Zhongjie Chen,29,SG,SGP,00:42:23,02:55:44,01:41:59,00:06:11,00:03:09,05:29:26
+ironman-70.3-luxembourg-20140621.csv,813,Hung-Yuan Cheng,29,Bristol,TWN,00:35:13,02:55:17,01:42:03,00:05:50,00:01:56,05:20:19
+ironman-70.3-luxembourg-20140621.csv,814,Alexander Colpaert,26,---,BEL,00:33:25,02:37:18,01:38:51,00:03:11,00:02:07,04:54:52
+ironman-70.3-luxembourg-20140621.csv,815,Peter Dahlmann,29,DE,DEU,00:32:03,02:22:26,01:17:57,00:03:02,00:02:20,04:17:48
+ironman-70.3-luxembourg-20140621.csv,816,Claerebout David,27,---,LUX,00:30:31,02:38:58,01:31:58,00:02:57,00:01:28,04:45:52
+ironman-70.3-luxembourg-20140621.csv,817,Ricky Davis,24,Essex,GBR,00:33:19,02:43:34,01:36:15,00:03:59,00:02:45,04:59:52
+ironman-70.3-luxembourg-20140621.csv,818,Sam De Bruyn,29,---,BEL,00:32:09,02:27:03,01:23:44,00:02:37,00:01:20,04:26:53
+ironman-70.3-luxembourg-20140621.csv,819,Wim De Buyser,24,---,BEL,00:29:39,02:35:12,01:26:44,00:02:26,00:01:41,04:35:42
+ironman-70.3-luxembourg-20140621.csv,820,Diego De Nicola,27,---,ITA,00:42:08,02:52:09,01:39:12,00:02:25,00:03:27,05:19:21
+ironman-70.3-luxembourg-20140621.csv,821,Kevin Debruyne,26,BE,BEL,00:33:33,02:50:31,01:38:44,00:02:59,00:01:30,05:07:17
+ironman-70.3-luxembourg-20140621.csv,822,Kasper Debuysere,26,BE,BEL,00:39:38,02:54:38,02:11:39,00:04:14,00:04:07,05:54:16
+ironman-70.3-luxembourg-20140621.csv,823,Jeroen Demeestere,26,---,BEL,00:36:19,02:47:33,02:23:12,00:03:49,00:02:17,05:53:10
+ironman-70.3-luxembourg-20140621.csv,824,Kevin Denis,25,BE,BEL,00:26:26,02:24:44,01:21:04,00:01:36,00:01:21,04:15:11
+ironman-70.3-luxembourg-20140621.csv,825,Joël Detaille,27,---,LUX,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,826,Tim Diederich,25,Osten,LUX,00:33:18,02:19:58,01:29:33,00:04:07,00:02:14,04:29:10
+ironman-70.3-luxembourg-20140621.csv,827,Wim Doise,27,West-Vlaanderen,BEL,00:43:16,02:40:16,01:38:48,00:03:44,00:02:25,05:08:29
+ironman-70.3-luxembourg-20140621.csv,828,Simon Dubois,26,FR,CAN,00:40:55,02:55:37,01:57:32,00:04:44,00:03:57,05:42:45
+ironman-70.3-luxembourg-20140621.csv,829,Jasper Eschweiler,26,---,NLD,00:39:58,02:38:54,01:55:10,00:06:31,00:04:20,05:24:53
+ironman-70.3-luxembourg-20140621.csv,830,Stefan Först,28,DE,DEU,00:42:45,02:35:27,01:29:27,00:02:40,00:02:24,04:52:43
+ironman-70.3-luxembourg-20140621.csv,831,Jeremy Gandelin,26,FR,FRA,00:40:42,02:44:09,01:46:42,00:03:02,00:01:44,05:16:19
+ironman-70.3-luxembourg-20140621.csv,832,Hans Geluykens,26,BE,BEL,00:27:39,02:44:30,01:40:40,00:02:21,00:02:03,04:57:13
+ironman-70.3-luxembourg-20140621.csv,833,Jens Gerlach,28,---,DEU,00:32:39,02:46:10,01:53:41,00:02:39,00:02:06,05:17:15
+ironman-70.3-luxembourg-20140621.csv,834,Nicholas Gibson,26,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,835,Christopher Goldschmidt,28,Mersch,LUX,00:31:14,02:46:04,01:34:58,00:03:37,00:02:17,04:58:10
+ironman-70.3-luxembourg-20140621.csv,836,Lukas Grandjean,26,---,DEU,00:35:26,02:39:01,01:45:08,00:03:05,00:02:39,05:05:19
+ironman-70.3-luxembourg-20140621.csv,837,Max-Otto Griesam,24,---,DEU,00:39:01,03:00:15,01:44:23,00:03:50,00:04:01,05:31:30
+ironman-70.3-luxembourg-20140621.csv,838,Karim Guessab,28,FR,FRA,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,839,Alexander Hall,29,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,840,Benjamin Harrop-Griffiths,26,CA,GBR,00:36:04,02:47:30,02:01:38,00:02:29,00:01:55,05:29:36
+ironman-70.3-luxembourg-20140621.csv,841,Mathieu-Richard Haspeslagh,26,---,BEL,00:39:05,03:05:31,01:55:43,00:05:27,00:03:34,05:49:20
+ironman-70.3-luxembourg-20140621.csv,842,Laurent Helsemans,26,APO,BEL,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,843,Waldo Van Hemert,28,NL,NLD,00:28:24,02:28:01,01:21:44,00:02:11,00:01:18,04:21:38
+ironman-70.3-luxembourg-20140621.csv,844,Sebastian Höfner,28,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,845,Hadrien Hottias,27,BE,BEL,00:42:18,02:57:28,01:51:08,00:03:48,00:01:49,05:36:31
+ironman-70.3-luxembourg-20140621.csv,846,Manuel Huerzeler,27,---,CHE,00:33:51,02:37:15,01:46:26,00:03:35,00:02:40,05:03:47
+ironman-70.3-luxembourg-20140621.csv,847,Arnaud Huguenel,25,FR,FRA,00:36:14,02:43:17,01:50:15,00:02:48,00:02:01,05:14:35
+ironman-70.3-luxembourg-20140621.csv,848,Maik Iwanow,25,---,DEU,00:33:23,02:31:45,01:18:16,00:02:02,00:01:56,04:27:22
+ironman-70.3-luxembourg-20140621.csv,849,Christopher Jackson,24,---,CHE,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,850,Pascal Jodocy,26,Luxembourg,LUX,00:29:45,02:31:12,01:17:16,00:02:10,00:01:22,04:21:45
+ironman-70.3-luxembourg-20140621.csv,851,Clement Julien,26,---,FRA,00:37:22,02:41:43,01:53:38,00:06:02,00:02:56,05:21:41
+ironman-70.3-luxembourg-20140621.csv,852,Claude Junk,29,---,LUX,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,853,Alistair Kealty,28,---,AUS,00:47:59,03:44:05,01:34:39,00:03:57,00:02:27,06:13:07
+ironman-70.3-luxembourg-20140621.csv,854,Klaus Kelter,27,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,855,Nicolas Kieffer,24,---,FRA,00:39:29,02:43:43,01:52:01,00:04:16,00:02:04,05:21:33
+ironman-70.3-luxembourg-20140621.csv,856,Oscar Krijtenberg,28,NL,NLD,00:39:00,02:40:24,01:42:47,00:03:16,00:02:10,05:07:37
+ironman-70.3-luxembourg-20140621.csv,857,Vincent Kuenzi,27,---,CHE,00:31:23,02:37:37,01:41:12,00:02:14,00:01:52,04:54:18
+ironman-70.3-luxembourg-20140621.csv,858,Joe Kurt,24,luxemburg,LUX,00:37:25,02:46:56,01:43:53,00:03:59,00:02:53,05:15:06
+ironman-70.3-luxembourg-20140621.csv,859,Kevin Laloux,28,DE,BEL,00:35:16,02:36:12,01:21:36,00:02:53,00:01:46,04:37:43
+ironman-70.3-luxembourg-20140621.csv,860,Simin Lang,24,---,CHE,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,861,Geert Lantink,28,---,NLD,00:24:02,02:45:46,01:55:41,00:03:02,00:02:06,05:10:37
+ironman-70.3-luxembourg-20140621.csv,862,Alexander Laukemann,28,DE,DEU,00:28:55,02:40:04,01:43:52,00:02:31,00:02:32,04:57:54
+ironman-70.3-luxembourg-20140621.csv,863,Jostein Lein,29,---,NOR,00:42:11,03:01:56,01:55:53,00:05:17,00:03:27,05:48:44
+ironman-70.3-luxembourg-20140621.csv,864,Floris Maessen,25,---,NLD,00:35:32,02:55:35,01:53:01,00:03:47,00:02:31,05:30:26
+ironman-70.3-luxembourg-20140621.csv,865,Frederic Margue,25,Luxembourg,LUX,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,866,Tobias Matulla,24,---,DEU,00:26:04,02:29:01,01:34:47,00:02:01,00:02:32,04:34:25
+ironman-70.3-luxembourg-20140621.csv,867,Jacques Mceneaney,26,Channel Islands,GBR,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,868,Thomas Meusburger,28,---,AUT,00:28:07,02:22:42,01:18:18,00:01:38,00:01:21,04:12:06
+ironman-70.3-luxembourg-20140621.csv,869,Thomas Mortagne,29,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,870,Henning Müller,28,DE,DEU,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,871,Hans Naert,29,BE,BEL,00:41:37,03:23:54,---,00:05:12,00:05:03,DNF
+ironman-70.3-luxembourg-20140621.csv,872,Robert Neubauer,28,DE,DEU,00:40:14,02:40:03,01:26:29,00:04:12,00:02:33,04:53:31
+ironman-70.3-luxembourg-20140621.csv,873,Geoffrey Oger,28,BE,BEL,00:32:43,02:45:18,01:56:18,00:04:22,00:02:40,05:21:21
+ironman-70.3-luxembourg-20140621.csv,874,Bart Ongenaet,29,---,BEL,00:35:14,02:55:00,01:37:29,00:04:17,00:02:39,05:14:39
+ironman-70.3-luxembourg-20140621.csv,875,Jordy Paredis,26,BE,BEL,00:29:58,02:33:06,01:54:50,00:03:25,00:02:23,05:03:42
+ironman-70.3-luxembourg-20140621.csv,876,Benjamin Parmentier,26,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,877,Nico Paulin,26,---,JPN,00:42:12,03:03:15,01:53:20,00:05:31,00:03:09,05:47:27
+ironman-70.3-luxembourg-20140621.csv,878,Sam Peters,28,Luxemburg,LUX,00:29:52,02:30:49,01:34:23,00:02:41,00:01:54,04:39:39
+ironman-70.3-luxembourg-20140621.csv,879,Steve Petry,28,Luxembourg,LUX,00:37:14,02:41:55,01:52:54,00:08:57,00:06:02,05:27:02
+ironman-70.3-luxembourg-20140621.csv,880,Julian Pfaffendorf,29,Nordrhein-Westfalen,DEU,00:36:21,03:01:01,01:39:02,00:04:00,00:03:03,05:23:27
+ironman-70.3-luxembourg-20140621.csv,881,Jef Poppe,26,---,BEL,00:29:20,02:34:58,01:28:34,00:02:33,00:01:31,04:36:56
+ironman-70.3-luxembourg-20140621.csv,882,Romain Pozzo Di Borgo,28,---,FRA,00:25:22,02:24:00,01:14:46,00:01:46,00:01:23,04:07:17
+ironman-70.3-luxembourg-20140621.csv,883,Stefano Prandini,28,ITA,ITA,00:29:55,02:23:12,01:19:29,00:04:22,00:02:10,04:19:08
+ironman-70.3-luxembourg-20140621.csv,884,Raphael Villette,28,---,BEL,00:32:15,02:31:26,01:56:59,00:02:24,00:01:32,05:04:36
+ironman-70.3-luxembourg-20140621.csv,885,Boris Rolin,26,---,BEL,00:27:40,02:21:49,01:21:10,00:01:28,00:01:32,04:13:39
+ironman-70.3-luxembourg-20140621.csv,886,Ben Rowland-Jones,29,Wilts,GBR,00:39:09,03:14:13,02:12:36,00:05:10,00:03:18,06:14:26
+ironman-70.3-luxembourg-20140621.csv,887,Stijn Rubbens,29,BE,BEL,00:33:57,02:45:52,02:54:36,00:03:57,00:04:46,06:23:08
+ironman-70.3-luxembourg-20140621.csv,888,Anton Samokhvalov,28,no,RUS,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,889,Felix Saur,28,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,890,Dan Schaack,28,Luxembourg,LUX,00:42:31,02:53:56,---,00:04:50,00:03:26,DNF
+ironman-70.3-luxembourg-20140621.csv,891,Ben Schiltz,25,Luxembourg,LUX,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,892,Jeren Seegers,29,---,ZAF,00:25:51,02:28:06,01:25:37,00:02:31,00:01:38,04:23:43
+ironman-70.3-luxembourg-20140621.csv,893,Hamish Shaw,26,Buckinghamshire,GBR,00:26:24,02:37:06,01:34:31,00:02:49,00:02:15,04:43:05
+ironman-70.3-luxembourg-20140621.csv,894,Adrian Siemons,27,---,BEL,00:27:36,02:26:24,01:24:14,00:01:53,00:01:35,04:21:42
+ironman-70.3-luxembourg-20140621.csv,895,James Sims,28,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,896,Kevin Slaus,27,BE,BEL,00:37:27,03:21:35,02:34:50,00:05:21,00:02:51,06:42:04
+ironman-70.3-luxembourg-20140621.csv,897,Samuel Sonck,27,BE,BEL,00:39:33,02:51:43,01:42:31,00:02:38,00:01:52,05:18:17
+ironman-70.3-luxembourg-20140621.csv,898,Alexander Stratilatov,29,---,RUS,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,899,Christian Stücker,28,CH,CHE,00:32:03,02:22:43,01:20:10,00:02:05,00:01:21,04:18:22
+ironman-70.3-luxembourg-20140621.csv,900,Jorge Tarragó,---,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,901,Mathieu Timmermans,29,---,NLD,00:26:52,02:53:25,01:36:02,00:04:07,00:04:09,05:04:35
+ironman-70.3-luxembourg-20140621.csv,902,Daniel Treimer,25,---,DEU,00:29:09,02:37:29,01:27:03,00:02:43,00:01:39,04:38:03
+ironman-70.3-luxembourg-20140621.csv,903,Marc Christian Unger,26,Deutschland,DEU,00:25:13,02:17:31,01:17:13,00:01:57,00:01:28,04:03:22
+ironman-70.3-luxembourg-20140621.csv,904,Jochem Van Der Stichelen,29,BE,BEL,00:36:05,03:23:36,02:31:52,00:05:28,00:04:20,06:41:21
+ironman-70.3-luxembourg-20140621.csv,905,Jorn Van Der Veken,27,---,BEL,00:37:23,---,---,00:02:44,---,DNF
+ironman-70.3-luxembourg-20140621.csv,906,Roy Van Donselaar,26,---,NLD,00:40:39,03:04:50,01:43:41,00:06:55,00:03:07,05:39:12
+ironman-70.3-luxembourg-20140621.csv,907,Sjors Van Fulpen,27,NL,NLD,00:37:57,03:04:53,01:43:04,00:04:44,00:03:06,05:33:44
+ironman-70.3-luxembourg-20140621.csv,908,Stijn Van Hevele,29,---,BEL,00:28:21,02:36:00,01:24:51,00:02:18,00:01:21,04:32:51
+ironman-70.3-luxembourg-20140621.csv,909,Michiel Van Hooreweder,26,West Vlaanderen,BEL,00:28:13,02:25:19,01:20:28,00:02:00,00:01:34,04:17:34
+ironman-70.3-luxembourg-20140621.csv,910,Timothy Van Houtem,28,---,BEL,00:27:26,02:14:26,01:12:04,00:02:37,00:01:21,03:57:54
+ironman-70.3-luxembourg-20140621.csv,911,Ward Vande Capelle,25,---,BEL,00:25:12,02:23:53,01:21:00,00:01:59,00:01:22,04:13:26
+ironman-70.3-luxembourg-20140621.csv,912,Joshua Vander Beken,28,BE,BEL,00:32:19,02:51:35,01:49:17,00:02:29,00:02:26,05:18:06
+ironman-70.3-luxembourg-20140621.csv,913,Gert-Jan Veerman,28,---,NLD,00:48:16,02:56:14,01:50:47,00:03:26,00:02:56,05:41:39
+ironman-70.3-luxembourg-20140621.csv,914,Nicolas Verniest,25,BE,BEL,00:33:20,02:48:26,01:38:39,00:02:04,00:02:18,05:04:47
+ironman-70.3-luxembourg-20140621.csv,915,Alexandre Voos,27,---,BEL,00:37:11,02:54:15,01:49:51,00:03:55,00:03:11,05:28:23
+ironman-70.3-luxembourg-20140621.csv,916,Eric Wagner,29,APO,LUX,00:26:30,02:26:55,01:22:39,00:02:56,00:01:36,04:20:36
+ironman-70.3-luxembourg-20140621.csv,917,Raphael Warin,27,FR,FRA,00:37:33,02:58:18,01:53:06,00:04:07,00:03:56,05:37:00
+ironman-70.3-luxembourg-20140621.csv,918,Charles Warren,26,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,919,Manuel Weber,28,---,DEU,00:28:59,---,---,---,---,DNF
+ironman-70.3-luxembourg-20140621.csv,920,Hampus Wetterstrand,25,---,SWE,00:36:41,02:53:45,01:43:46,00:03:35,00:02:08,05:19:55
+ironman-70.3-luxembourg-20140621.csv,921,Mike Wijnen,28,NL,NLD,00:34:43,02:52:00,01:46:59,00:02:58,00:01:52,05:18:32
+ironman-70.3-luxembourg-20140621.csv,922,Pieter-Jan Willems,28,---,BEL,00:31:32,02:45:23,01:41:35,00:02:10,00:01:48,05:02:28
+ironman-70.3-luxembourg-20140621.csv,923,Maciej Wozniak,26,---,POL,00:33:01,02:59:27,01:47:51,00:04:53,00:03:18,05:28:30
+ironman-70.3-luxembourg-20140621.csv,924,Nasser Zahiri,28,Casablanca ,MAR,00:40:07,02:47:08,01:35:22,00:02:37,00:01:40,05:06:54
+ironman-70.3-luxembourg-20140621.csv,925,Sebastian Zimander,28,DE,DEU,00:34:32,02:41:04,01:33:33,00:02:33,00:01:36,04:53:18
+ironman-70.3-luxembourg-20140621.csv,926,Paul Zubiate,26,---,ESP,00:35:49,02:49:09,01:38:11,00:02:45,00:02:44,05:08:38
+ironman-70.3-luxembourg-20140621.csv,927,Oliver Zwiessler,28,---,DEU,00:33:34,02:49:56,01:57:15,00:03:00,00:02:49,05:26:34
+ironman-70.3-luxembourg-20140621.csv,928,Nathan Monnier,25,BE,BEL,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,929,Kestelyn Baptiste,25,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,930,Pol Karier,26,---,LUX,00:36:47,02:39:30,---,00:02:39,00:02:01,DNF
+ironman-70.3-luxembourg-20140621.csv,931,Christian Hörper,26,---,DEU,00:27:34,02:25:24,01:17:14,00:01:40,00:01:19,04:13:11
+ironman-70.3-luxembourg-20140621.csv,932,Matthias Grosser,28,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,949,Alexander Spiridonov,30,Moscow,RUS,00:39:26,02:58:29,01:49:05,00:05:06,00:02:58,05:35:04
+ironman-70.3-luxembourg-20140621.csv,950,Nicolas Anot,32,---,FRA,00:43:19,02:38:06,01:24:52,00:03:32,00:03:25,04:53:14
+ironman-70.3-luxembourg-20140621.csv,951,Matthias Arnoldi,33,DE,DEU,00:32:17,03:03:06,02:13:07,00:03:24,00:02:48,05:54:42
+ironman-70.3-luxembourg-20140621.csv,952,Rainer Augustin,34,---,DEU,00:29:47,02:30:14,01:25:18,00:02:32,00:01:39,04:29:30
+ironman-70.3-luxembourg-20140621.csv,953,Michael Bartel,31,DE,DEU,00:47:33,03:05:49,02:21:44,00:03:19,00:03:03,06:21:28
+ironman-70.3-luxembourg-20140621.csv,954,Julien Bauduin,---,BE,BEL,00:41:23,03:02:52,01:40:02,00:04:23,00:02:08,05:30:48
+ironman-70.3-luxembourg-20140621.csv,955,Patrick Bauer,31,DE,DEU,00:29:06,02:27:44,01:24:22,00:01:59,00:01:34,04:24:45
+ironman-70.3-luxembourg-20140621.csv,956,David Beddows,32,---,GBR,00:37:59,03:09:13,01:34:31,00:04:08,00:02:15,05:28:06
+ironman-70.3-luxembourg-20140621.csv,957,Jérémy Bédin,33,---,FRA,00:33:25,02:43:25,01:39:02,00:03:30,00:03:00,05:02:22
+ironman-70.3-luxembourg-20140621.csv,958,Jean-Philippe Benedik,30,FR,FRA,00:36:53,02:26:20,01:22:35,00:03:48,00:02:02,04:31:38
+ironman-70.3-luxembourg-20140621.csv,959,Mehdi Bentenah,30,---,FRA,00:30:43,02:28:19,01:24:45,00:02:28,00:02:33,04:28:48
+ironman-70.3-luxembourg-20140621.csv,960,Benjamin Bertrand,31,---,DEU,00:33:21,02:36:16,01:19:46,00:02:51,00:02:14,04:34:28
+ironman-70.3-luxembourg-20140621.csv,961,Robert Rozej,39,---,POL,00:39:14,02:44:46,01:41:32,00:03:19,00:02:01,05:10:52
+ironman-70.3-luxembourg-20140621.csv,962,David Bishop,34,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,963,Benjamin Bonnenge,31,---,BEL,00:39:04,02:43:18,01:49:11,00:03:41,00:02:43,05:17:57
+ironman-70.3-luxembourg-20140621.csv,964,Johannes Böttcher,32,CH,DEU,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,965,Wesley Bouman,31,---,NLD,00:34:00,02:38:52,01:33:12,00:02:32,00:02:12,04:50:48
+ironman-70.3-luxembourg-20140621.csv,966,Jaap Bouwens,29,NL,NLD,00:37:43,02:52:32,01:44:16,00:04:46,00:04:14,05:23:31
+ironman-70.3-luxembourg-20140621.csv,967,Lesly Bove,30,---,BEL,00:29:08,02:27:24,---,00:02:52,00:02:04,DNF
+ironman-70.3-luxembourg-20140621.csv,968,Sam Bracke,31,---,BEL,00:37:08,02:43:20,02:26:37,00:04:29,00:02:22,05:53:56
+ironman-70.3-luxembourg-20140621.csv,969,Guillaume Brasseur,30,BE,BEL,00:30:07,02:25:41,01:33:23,00:03:11,00:01:54,04:34:16
+ironman-70.3-luxembourg-20140621.csv,970,François Brasseur,34,Néant,BEL,00:31:18,02:57:57,02:11:05,00:03:18,00:01:46,05:45:24
+ironman-70.3-luxembourg-20140621.csv,971,Martin Bremer,33,---,DEU,00:45:53,02:50:29,01:57:39,00:04:02,00:02:39,05:40:42
+ironman-70.3-luxembourg-20140621.csv,972,Peter Michael Bruus Madsen,33,---,DNK,00:31:00,02:37:12,02:00:46,00:03:28,00:05:44,05:18:10
+ironman-70.3-luxembourg-20140621.csv,973,Daniel Burger,33,---,DEU,00:43:16,02:44:36,01:52:30,00:03:06,00:01:59,05:25:27
+ironman-70.3-luxembourg-20140621.csv,974,Cedric Callebaut,31,---,BEL,00:39:11,02:58:52,01:55:51,00:04:19,00:03:27,05:41:40
+ironman-70.3-luxembourg-20140621.csv,975,Fabien Carpentier,33,Intl State,FRA,00:27:41,02:24:18,01:22:15,00:01:50,00:01:19,04:17:23
+ironman-70.3-luxembourg-20140621.csv,976,Fabien Chaudoye,30,---,FRA,00:35:03,02:41:21,01:33:51,00:02:28,00:02:06,04:54:49
+ironman-70.3-luxembourg-20140621.csv,977,Chentite Amin,34,Luxemburg,LUX,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,978,Julien Clement,29,FR,FRA,00:35:20,02:54:38,01:40:02,00:03:26,00:02:00,05:15:26
+ironman-70.3-luxembourg-20140621.csv,979,Joris Cloet,29,---,BEL,00:33:30,02:50:04,01:48:23,00:04:15,00:04:20,05:20:32
+ironman-70.3-luxembourg-20140621.csv,980,Martin Cook,33,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-luxembourg-20140621.csv,981,Darren Cooper,31,---,GBR,00:40:04,02:40:56,02:19:28,00:03:20,00:05:30,05:49:18
+ironman-70.3-luxembourg-20140621.csv,982,Biagio Corica,31,---,DEU,00:33:44,02:50:01,01:30:22,00:02:42,00:02:29,04:59:18
+ironman-70.3-luxembourg-20140621.csv,983,Mark Cranham,32,lancashire,GBR,00:38:33,02:50:55,01:59:44,00:06:57,00:02:05,05:38:14
+ironman-70.3-luxembourg-20140621.csv,984,Edouard Dambrine,31,---,FRA,00:48:27,02:48:30,01:40:41,00:05:43,00:03:03,05:26:24
+ironman-70.3-luxembourg-20140621.csv,985,Christiaensen Daniël,30,BE,BEL,00:33:31,02:30:40,01:23:04,00:02:12,00:02:00,04:31:27
+ironman-70.3-luxembourg-20140621.csv,986,Charles Dassargues,31,BE,BEL,00:39:23,03:06:00,01:39:08,00:04:58,00:03:04,05:32:33
+ironman-70.3-luxembourg-20140621.csv,987,Steve Dasthy,33,Luxemburg,LUX,00:48:45,---,---,00:06:43,05:28:04,DNF
+ironman-70.3-luxembourg-20140621.csv,988,Kevin Dauphin,29,Luxemburg,LUX,00:39:36,---,---,00:02:04,---,DNF
+ironman-70.3-luxembourg-20140621.csv,989,Romuald David,31,---,FRA,00:33:47,02:30:05,01:35:53,00:02:14,00:01:49,04:43:48
+ironman-70.3-luxembourg-20140621.csv,990,Jonas David-Quignon,33,Luxembourg,FRA,00:33:09,02:35:58,01:35:05,00:03:26,00:02:26,04:50:04
+ironman-70.3-luxembourg-20140621.csv,991,Patrick De Bock,33,---,NLD,00:33:54,02:49:23,01:42:40,00:03:32,00:02:29,05:11:58
+ironman-70.3-luxembourg-20140621.csv,992,Sven De Cock,34,---,BEL,00:30:58,02:37:11,01:56:18,00:02:24,00:02:06,05:08:57
+ironman-70.3-luxembourg-20140621.csv,993,Brecht De Meyer,32,---,BEL,00:37:00,02:53:09,01:53:49,00:02:35,00:02:32,05:29:05
