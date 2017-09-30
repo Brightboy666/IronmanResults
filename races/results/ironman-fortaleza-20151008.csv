@@ -1,0 +1,604 @@
+#File=ironman-fortaleza-20151008.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-fortaleza-20151008.csv,100,Milena Klein,23,Rio Grande do Sul,BRA,01:24:29,06:47:20,05:49:55,00:07:15,00:13:06,14:22:05
+ironman-fortaleza-20151008.csv,101,Paula Ponte Moreira,20,Ceará,BRA,01:04:58,05:41:33,04:39:08,00:01:53,00:03:04,11:30:36
+ironman-fortaleza-20151008.csv,102,Taina Desiderio,20,Minas Gerais,BRA,01:46:50,07:31:08,07:10:57,00:02:42,00:04:15,16:35:52
+ironman-fortaleza-20151008.csv,103,Aurea Amaral,---,---,BRA,01:34:17,07:01:05,04:40:05,00:08:34,00:12:34,13:36:35
+ironman-fortaleza-20151008.csv,104,Larissa Segeren,29,sao paulo,BRA,01:07:05,06:39:22,04:50:02,00:03:11,00:02:21,12:42:01
+ironman-fortaleza-20151008.csv,105,Bruna Vellasco,28,-,BRA,01:29:42,06:11:43,---,00:06:26,---,DNF
+ironman-fortaleza-20151008.csv,106,Natalia Carneiro,28,CE,BRA,01:17:12,06:47:51,05:52:49,00:05:15,00:08:28,14:11:35
+ironman-fortaleza-20151008.csv,107,Rita De Cassia Santos Pereira,---,CE,BRA,01:21:25,07:07:09,06:26:27,00:03:30,00:05:49,15:04:20
+ironman-fortaleza-20151008.csv,108,Claudia Scaldini,27,MG,BRA,01:22:15,05:38:36,04:00:06,00:03:05,00:01:59,11:06:01
+ironman-fortaleza-20151008.csv,109,Rachel Aline Frota De Accioly Sousa,---,Ce,BRA,01:42:52,06:12:36,03:57:36,00:02:52,00:03:17,11:59:13
+ironman-fortaleza-20151008.csv,110,Karole Carvalho,27,---,BRA,01:10:50,07:13:15,05:38:42,00:05:01,00:05:16,14:13:04
+ironman-fortaleza-20151008.csv,111,Livia Bustamante,33,Rio de Janeiro,BRA,01:12:08,05:55:48,03:53:06,00:03:31,00:03:58,11:08:31
+ironman-fortaleza-20151008.csv,112,Amanda Diogenes,34,ce,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,113,Priscila Leao Viana,33,Pará,BRA,01:03:35,06:30:09,05:31:49,00:04:28,00:04:10,13:14:11
+ironman-fortaleza-20151008.csv,115,Corrinha Vasconcelos,---,PI,BRA,01:32:16,06:31:10,04:00:28,00:05:21,00:02:11,12:11:26
+ironman-fortaleza-20151008.csv,116,Renata Correia,32,Piauí,BRA,01:35:44,06:35:53,05:13:52,00:07:37,00:04:13,13:37:19
+ironman-fortaleza-20151008.csv,117,Nicole De Bom,31,---,BRA,01:26:11,06:01:48,04:27:47,00:02:52,00:04:25,12:03:03
+ironman-fortaleza-20151008.csv,118,Mariana Ernani Moura Marques,31,SAO PAULO,BRA,01:15:16,06:47:32,05:12:24,00:05:50,00:05:16,13:26:18
+ironman-fortaleza-20151008.csv,119,Daniela Araujo,---,PA,BRA,01:39:40,07:17:35,06:55:56,00:08:46,00:09:40,16:11:37
+ironman-fortaleza-20151008.csv,120,Crystiane Martins,39,Para,BRA,01:03:46,06:13:49,04:09:51,00:02:50,00:04:29,11:34:45
+ironman-fortaleza-20151008.csv,121,Karyna Saraiva Leão Gaya,39,Ceará,BRA,01:46:28,07:09:58,05:46:53,00:05:46,00:10:22,14:59:27
+ironman-fortaleza-20151008.csv,122,Helayne Silva,39,Intl State,BRA,01:11:21,06:03:42,04:11:49,00:04:49,00:02:31,11:34:12
+ironman-fortaleza-20151008.csv,123,Karine Cruz,38,Intl State,BRA,01:17:30,07:04:36,06:25:14,00:05:58,00:13:03,15:06:21
+ironman-fortaleza-20151008.csv,124,Katia Funicelli Garcia,38,-,BRA,01:16:46,---,---,00:03:02,---,DNF
+ironman-fortaleza-20151008.csv,125,Paula Miotto,38,---,BRA,01:23:06,06:27:24,04:36:29,00:02:37,00:06:35,12:36:11
+ironman-fortaleza-20151008.csv,126,Shannon Florea,38,KY,USA,01:05:07,05:59:03,04:25:35,00:03:18,00:03:32,11:36:35
+ironman-fortaleza-20151008.csv,127,Aline Luftmann Fernandes,38,São Paulo,BRA,01:46:19,07:32:22,06:35:15,00:05:23,00:03:58,16:03:17
+ironman-fortaleza-20151008.csv,128,Elizabeth Marques Cossa,---,---,BRA,01:30:39,06:49:02,06:27:02,00:10:06,00:08:24,15:05:13
+ironman-fortaleza-20151008.csv,129,Erika Szpektor,37,SP,BRA,01:28:42,06:29:06,04:39:02,00:04:16,00:04:08,12:45:14
+ironman-fortaleza-20151008.csv,130,Flavia Soares Parente,37,Ceara,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,131,Luciana Haddad,36,SP,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,132,Arytana Stefenoni Tartuce,36,---,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,133,Priscila Farias,---,CE,BRA,01:25:49,07:09:37,05:08:15,00:05:13,00:06:23,13:55:17
+ironman-fortaleza-20151008.csv,134,Vanessa Weisheimer,---,CE,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,135,Elen Caetano De Lima,35,Goias,BRA,01:21:58,06:29:15,---,00:03:43,---,DNF
+ironman-fortaleza-20151008.csv,136,Glendy Escalona,35,Intl State,VEN,01:07:31,07:02:51,05:11:21,00:04:05,00:04:53,13:30:41
+ironman-fortaleza-20151008.csv,137,Carolina Machado Umpierre  Machado Umpierre,---,---,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,138,Rebeca Martino,44,São Paulo,BRA,01:25:15,07:11:25,05:04:18,00:03:21,---,13:44:19
+ironman-fortaleza-20151008.csv,139,Shirley Caminha,---,---,BRA,01:40:27,06:17:17,04:33:35,00:04:19,00:09:24,12:45:02
+ironman-fortaleza-20151008.csv,140,Juliana Sommer,---,ES,BRA,01:20:30,07:15:22,05:53:46,00:04:26,00:05:09,14:39:13
+ironman-fortaleza-20151008.csv,141,Malba Meneses Loureiro De Araujo,---,CE,BRA,01:43:07,07:36:18,07:08:12,00:03:13,00:07:48,16:38:38
+ironman-fortaleza-20151008.csv,142,Mariana Piza,42,SP,BRA,01:26:13,06:40:01,04:16:43,00:04:43,00:04:39,12:32:19
+ironman-fortaleza-20151008.csv,143,Nadia Ferreira,41,Intl State,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,144,Maria Claudia Lyra De Souza,41,Intl State,BRA,01:10:11,06:27:01,04:04:52,00:02:43,00:01:40,11:46:27
+ironman-fortaleza-20151008.csv,145,flavia aragão,41,ceara,BRA,01:41:52,06:59:46,04:52:31,00:08:08,00:07:06,13:49:23
+ironman-fortaleza-20151008.csv,146,Juliana Cerize,41,Intl State,BRA,01:31:18,06:27:18,---,00:04:20,00:09:01,DNF
+ironman-fortaleza-20151008.csv,147,Erin Fritzler,40,CA,USA,01:47:45,08:31:28,06:36:54,00:06:21,00:06:52,DNF
+ironman-fortaleza-20151008.csv,148,Maria Del Consuelo Marquez Gandara,39,---,MEX,01:57:24,07:52:30,06:39:33,00:05:09,00:06:00,16:40:36
+ironman-fortaleza-20151008.csv,149,Debora Cristina Porto,---,CE,BRA,01:45:39,08:26:13,05:58:18,00:06:10,00:12:25,16:28:45
+ironman-fortaleza-20151008.csv,150,Claudia Weise,45,Minas Gerais,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,151,Vanuza Maciel,45,Paraná,BRA,01:17:18,05:56:27,04:24:53,00:04:09,00:04:16,11:47:03
+ironman-fortaleza-20151008.csv,152,Natalia Caffaro,45,Intl State,ARG,01:14:13,06:16:49,04:45:50,00:01:51,00:03:33,12:22:16
+ironman-fortaleza-20151008.csv,153,Monica Andrade,45,RJ,BRA,01:03:59,07:11:01,---,00:02:43,02:05:45,DNF
+ironman-fortaleza-20151008.csv,154,Alessandra Arruda Magalhaes,---,CE,BRA,01:38:42,08:31:45,06:29:45,00:06:59,00:12:48,16:59:59
+ironman-fortaleza-20151008.csv,155,Wendy Miki Glaus,53,OR,USA,01:24:49,06:42:03,04:48:57,00:03:37,00:04:20,13:03:46
+ironman-fortaleza-20151008.csv,156,Angela Kwong,52,HI,USA,01:56:49,06:54:40,04:57:26,00:04:15,00:03:36,13:56:46
+ironman-fortaleza-20151008.csv,157,Fernanda Nunes,52,---,BRA,01:06:54,06:09:53,04:18:42,00:01:53,00:03:36,11:40:58
+ironman-fortaleza-20151008.csv,158,Betty Janelle,51,GA,USA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,159,Joy Secritario,51,HI,USA,01:34:35,07:04:47,05:40:25,00:06:00,00:08:31,14:34:18
+ironman-fortaleza-20151008.csv,160,Silvana Erbstein,50,FL,ARG,01:40:19,07:09:49,05:53:44,00:06:44,00:10:32,15:01:08
+ironman-fortaleza-20151008.csv,161,Maria Escobar,50,carabobo,VEN,01:29:57,07:11:26,05:23:28,00:05:13,00:05:15,14:15:19
+ironman-fortaleza-20151008.csv,162,Elizabete Alvares,50,---,BRA,01:53:28,07:34:37,05:35:20,00:13:49,00:17:35,15:34:49
+ironman-fortaleza-20151008.csv,163,Mati Sapolu-Palmer,58,HI,ASM,01:25:58,07:14:04,06:41:27,00:03:08,00:07:11,15:31:48
+ironman-fortaleza-20151008.csv,164,Themis Mendonca Brandao Vilela,57,Alagoas,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,165,Hedla Lopes,57,CE,BRA,01:05:53,06:33:08,04:31:45,00:02:13,00:02:58,12:15:57
+ironman-fortaleza-20151008.csv,166,Lucia Helena Pierre,---,---,BRA,01:25:45,---,---,00:11:19,---,DNF
+ironman-fortaleza-20151008.csv,167,Fabio Gemaque,24,PARA,BRA,01:10:18,06:11:01,04:18:36,00:04:41,00:04:33,11:49:09
+ironman-fortaleza-20151008.csv,168,Lucas Porfírio,24,---,BRA,01:13:56,05:56:31,04:49:39,00:03:05,00:05:10,12:08:21
+ironman-fortaleza-20151008.csv,169,Augusto Ribeiro Rodrigues,---,RN,BRA,01:09:11,05:40:35,04:26:25,00:02:56,00:04:32,11:23:39
+ironman-fortaleza-20151008.csv,170,Pedro Victor Carneiro Ferreira,24,Maranhão,BRA,01:17:47,07:31:19,05:34:28,00:11:43,00:07:12,14:42:29
+ironman-fortaleza-20151008.csv,171,Lucas Silva,---,AL,BRA,00:54:27,05:21:18,04:18:44,00:02:32,00:03:55,10:40:56
+ironman-fortaleza-20151008.csv,173,Paulo Fontenele,24,CEARÁ,BRA,01:07:05,06:34:44,05:06:06,00:04:15,00:06:26,12:58:36
+ironman-fortaleza-20151008.csv,174,Peterson Lira,23,Intl State,BRA,01:05:31,---,---,00:02:41,---,DNF
+ironman-fortaleza-20151008.csv,175,Gustavo Santos,23,SANTA CATARINA,BRA,00:54:09,05:20:55,03:35:16,00:02:45,00:02:08,09:55:13
+ironman-fortaleza-20151008.csv,176,Guilherme Pacheco Venturini,23,---,BRA,01:10:18,05:28:10,03:25:42,00:05:54,00:02:40,10:12:44
+ironman-fortaleza-20151008.csv,177,Silvio Chiappini,22,Rio de Janeiro,BRA,01:17:36,07:35:06,04:53:37,00:03:40,00:05:18,13:55:17
+ironman-fortaleza-20151008.csv,178,Jose Luiz Wald,20,---,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,179,Luiz Henrique  Vidal Castilho,---,SP,BRA,01:18:34,06:01:41,04:43:05,00:08:02,00:06:16,12:17:38
+ironman-fortaleza-20151008.csv,180,Guilherme Melo,---,---,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,181,Ryan Johnston,29,Eastern Cape,ZAF,01:05:19,05:05:50,04:56:04,00:02:48,00:02:08,11:12:09
+ironman-fortaleza-20151008.csv,182,Tomas Ignacio Rivera Kofler,29,---,CHL,01:01:25,05:03:18,03:25:44,00:02:44,00:02:45,09:35:56
+ironman-fortaleza-20151008.csv,183,Fabio Bronze Moreira,29,Intl State,BRA,01:06:53,05:25:50,05:15:18,00:02:32,---,11:50:33
+ironman-fortaleza-20151008.csv,184,Gustavo Borim Zuim,29,-,BRA,01:03:52,05:50:24,04:53:41,00:03:47,00:06:26,11:58:10
+ironman-fortaleza-20151008.csv,185,Gil Castello Branco,29,DF,BRA,01:03:48,05:23:44,03:44:27,00:02:20,00:03:24,10:17:43
+ironman-fortaleza-20151008.csv,186,Mauricio Ramos,---,---,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,187,Amanda Spadari,29,rs,BRA,01:26:57,06:39:12,04:25:19,00:09:05,00:06:46,12:47:19
+ironman-fortaleza-20151008.csv,188,Matheus Monte Albuquerque,---,CE,BRA,01:04:34,05:42:02,04:15:26,00:03:48,00:05:12,11:11:02
+ironman-fortaleza-20151008.csv,189,Fabio Maia,---,---,BRA,01:18:12,05:53:46,05:04:44,00:01:43,00:02:14,12:20:39
+ironman-fortaleza-20151008.csv,190,William Souza,28,PARÁ,BRA,01:08:21,05:35:00,03:56:25,00:02:45,00:08:16,10:50:47
+ironman-fortaleza-20151008.csv,191,Thiago Fontana,---,BA,BRA,01:55:31,07:35:13,06:49:24,00:09:08,00:08:33,16:37:49
+ironman-fortaleza-20151008.csv,192,Pablo Nadalez,28,Córdoba,ARG,01:03:22,05:09:05,03:49:47,00:02:20,00:02:39,10:07:13
+ironman-fortaleza-20151008.csv,193,Hugo Amaral,28,Minas Gerais,BRA,00:53:57,04:59:40,03:49:23,00:01:55,00:01:56,09:46:51
+ironman-fortaleza-20151008.csv,194,Hermes Schneider,28,Paraná,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,195,Erick Parreira Duarte,28,Other,BRA,01:05:28,05:08:12,04:14:02,00:02:24,00:03:51,10:33:57
+ironman-fortaleza-20151008.csv,196,Thiago Goncalves Soares Rodrigues,28,GOIAS,BRA,00:56:20,05:56:00,03:29:06,00:03:15,00:03:07,10:27:48
+ironman-fortaleza-20151008.csv,197,Marcus Victor,---,MG,BRA,01:17:13,06:23:28,05:19:31,00:04:06,00:07:23,13:11:41
+ironman-fortaleza-20151008.csv,198,Pedro Assad,27,SP - São Paulo,BRA,01:07:43,05:37:15,03:43:39,00:02:55,00:04:14,10:35:46
+ironman-fortaleza-20151008.csv,199,Thomaz Maia,27,Ceará,BRA,01:21:46,06:37:31,05:27:11,00:08:14,00:10:02,13:44:44
+ironman-fortaleza-20151008.csv,200,Agustin Diaz Carvalho,27,Buenos Aires,ARG,01:13:30,06:40:07,04:58:09,00:06:36,00:06:35,13:04:57
+ironman-fortaleza-20151008.csv,201,Leandro Martins,27,CE,BRA,01:09:58,07:36:21,07:20:35,00:07:06,00:11:38,16:25:38
+ironman-fortaleza-20151008.csv,202,Marcus Vinicius Pinheiro Barbosa,27,CE,BRA,01:08:03,05:12:12,03:41:52,00:03:08,00:02:52,10:08:07
+ironman-fortaleza-20151008.csv,203,Camillo De Alcântara Cesar,---,MG,BRA,01:34:09,07:05:09,06:19:14,00:08:30,00:10:43,15:17:45
+ironman-fortaleza-20151008.csv,204,Arnaldo Tome,---,CE,BRA,01:10:18,06:24:19,04:50:59,00:04:52,00:05:40,12:36:08
+ironman-fortaleza-20151008.csv,205,José Edson Vitorino De Souza,26,Ceará,BRA,00:53:53,05:38:46,03:36:07,00:01:25,00:03:12,10:13:23
+ironman-fortaleza-20151008.csv,206,Gareth Wright,26,ZA,ZAF,00:52:23,05:43:48,05:07:58,00:01:44,00:04:05,11:49:58
+ironman-fortaleza-20151008.csv,207,Mauro Andres Vita,26,Buenos Aires,ARG,01:46:53,07:16:12,04:44:57,00:16:34,00:07:50,14:12:26
+ironman-fortaleza-20151008.csv,208,Francisco Idelvan Fernandes Magalhaes Junior,26,Ceará,BRA,01:22:18,06:17:32,04:15:28,00:06:13,00:07:09,12:08:40
+ironman-fortaleza-20151008.csv,209,Pedro Henrique Davanço Frare,---,SP,BRA,02:01:09,08:06:41,06:09:40,00:07:51,00:10:34,16:35:55
+ironman-fortaleza-20151008.csv,210,Diego Moraes,25,pará,BRA,01:22:38,07:16:33,05:38:39,00:08:16,00:07:31,14:33:37
+ironman-fortaleza-20151008.csv,211,Rafael Matucheski Neto,---,PR,BRA,01:16:47,05:48:03,05:45:56,00:03:20,00:04:00,12:58:06
+ironman-fortaleza-20151008.csv,212,Diego Farina,25,Uruguay,URY,01:47:46,06:53:20,05:56:07,00:07:29,00:07:14,14:51:56
+ironman-fortaleza-20151008.csv,213,Rafael Arias,25,Ceará,BRA,00:58:54,05:22:25,03:47:30,00:01:48,00:04:53,10:15:30
+ironman-fortaleza-20151008.csv,214,Rodrigo Cardoso Da Silva,25,---,BRA,01:22:53,06:35:20,04:54:55,00:05:33,00:07:59,13:06:40
+ironman-fortaleza-20151008.csv,215,Joao Martins Galvao,25,---,BRA,00:56:30,05:05:29,03:23:46,00:01:43,00:02:37,09:30:05
+ironman-fortaleza-20151008.csv,216,Ross Barnard,24,Eastern Cape,ZAF,01:05:06,05:33:48,---,00:02:44,00:05:56,DNF
+ironman-fortaleza-20151008.csv,217,Vagner Juliano,---,---,BRA,01:04:58,03:57:20,---,00:03:16,---,DNF
+ironman-fortaleza-20151008.csv,218,Ananias Carvalho,34,RN,BRA,01:15:41,05:49:59,05:48:37,00:02:40,00:06:34,13:03:31
+ironman-fortaleza-20151008.csv,219,Guilherme Albani,34,Santa Catarina,BRA,01:03:16,05:33:39,---,00:03:21,00:10:47,DNF
+ironman-fortaleza-20151008.csv,220,Roberto Rodrigues Costa E Lima,34,Distrito federal,BRA,01:14:17,06:42:34,05:40:31,00:10:54,00:07:42,13:55:58
+ironman-fortaleza-20151008.csv,221,Juliano Foss,---,---,BRA,01:46:24,05:47:10,05:38:30,00:01:44,00:05:55,13:19:43
+ironman-fortaleza-20151008.csv,222,Daniel Belluzi Biazoto,34,SP,BRA,00:58:49,05:12:55,03:34:18,00:03:08,00:01:57,09:51:07
+ironman-fortaleza-20151008.csv,223,Paulo Roberto Morelli Filho,---,SP,BRA,01:13:58,06:45:35,04:21:24,00:06:41,00:09:57,12:37:35
+ironman-fortaleza-20151008.csv,224,Marcos Geber Andreazza,34,Rio Grande do Sul,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,225,Frederico Carvalho Zacharias,34,Minas Gerais,BRA,01:01:54,05:18:09,---,00:01:51,00:04:05,DNF
+ironman-fortaleza-20151008.csv,226,Cassio Eduardo Rocha Martins,34,Distrito Federal,BRA,---,05:21:14,03:20:18,01:08:47,00:03:08,09:53:27
+ironman-fortaleza-20151008.csv,227,Joao Paulo Rocha Ponte,34,---,BRA,01:34:06,06:55:06,---,00:12:21,00:14:44,DNF
+ironman-fortaleza-20151008.csv,228,Edmar Farias,---,CE,BRA,01:12:13,07:15:52,05:56:25,00:09:24,00:08:06,14:42:00
+ironman-fortaleza-20151008.csv,229,Marcelo Kaneshiro,34,SP,BRA,01:25:40,05:34:36,04:20:59,00:02:13,00:02:09,11:25:37
+ironman-fortaleza-20151008.csv,230,Paulo Ricardo Dos Santos,---,SP,BRA,01:31:53,07:10:00,04:48:12,00:08:54,00:05:52,13:44:51
+ironman-fortaleza-20151008.csv,231,Guilherme Tedeschi,34,SP,BRA,01:01:50,05:54:22,05:16:25,00:03:24,00:05:03,12:21:04
+ironman-fortaleza-20151008.csv,232,Luiz Patelli,34,DF,BRA,01:02:49,05:42:31,03:40:20,00:02:49,00:03:08,10:31:37
+ironman-fortaleza-20151008.csv,233,Mario Eduardo Bellette,---,SP,BRA,01:02:30,06:05:50,04:19:24,00:03:16,00:08:13,11:39:13
+ironman-fortaleza-20151008.csv,234,Felipe Medeiros,---,CE,BRA,01:22:15,06:01:57,05:10:08,00:05:54,00:08:09,12:48:23
+ironman-fortaleza-20151008.csv,235,Felipe Aragao Albuquerque,34,---,BRA,01:05:58,06:03:46,04:21:40,00:03:15,00:04:39,11:39:18
+ironman-fortaleza-20151008.csv,236,Romulo Antonio Matias Araujo,---,---,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,237,Ismael Nogueira,---,CE,BRA,01:17:22,05:58:56,05:26:34,00:03:47,00:05:09,12:51:48
+ironman-fortaleza-20151008.csv,238,Tiago Fernandes,33,Ceará,BRA,01:16:10,06:44:12,05:48:38,00:05:23,00:11:46,14:06:09
+ironman-fortaleza-20151008.csv,239,Camilo Torres,---,CE,BRA,01:16:20,06:08:35,05:21:19,00:05:28,00:09:35,13:01:17
+ironman-fortaleza-20151008.csv,240,Jr Tardelli,33,---,BRA,01:05:12,05:26:14,04:15:08,00:02:52,00:04:22,10:53:48
+ironman-fortaleza-20151008.csv,241,Italo Esselin Filho,33,GOIAS,BRA,00:58:40,05:13:48,04:56:07,00:01:39,00:03:04,11:13:18
+ironman-fortaleza-20151008.csv,242,Bruno Alvim,33,MG,BRA,01:08:20,05:34:56,04:18:05,00:03:33,00:03:07,11:08:01
+ironman-fortaleza-20151008.csv,243,Rafael Falsarella,33,Intl State,BRA,01:03:14,05:26:06,04:16:40,00:03:56,00:04:00,10:53:56
+ironman-fortaleza-20151008.csv,244,Jose Atouan,33,FL,VEN,01:07:30,06:34:39,04:22:27,00:05:46,00:06:03,12:16:25
+ironman-fortaleza-20151008.csv,245,Bruno Lira Siqueira,33,Ceará,BRA,01:13:45,05:51:23,05:09:40,00:07:52,00:03:56,12:26:36
+ironman-fortaleza-20151008.csv,246,Pedro Luz Alves,---,---,BRA,01:08:33,07:10:35,06:00:52,00:09:34,00:17:34,14:47:08
+ironman-fortaleza-20151008.csv,247,Rodrigo Lacerda Alves,33,Sergipe,BRA,01:01:47,05:46:51,04:07:39,00:02:15,00:08:07,11:06:39
+ironman-fortaleza-20151008.csv,248,Marcus Rocha,---,BA,BRA,01:27:23,06:37:17,04:35:21,00:07:56,00:09:33,12:57:30
+ironman-fortaleza-20151008.csv,249,Eduardo Gomes Junior,---,---,BRA,01:13:44,06:08:06,04:34:50,00:04:38,00:07:53,12:09:11
+ironman-fortaleza-20151008.csv,250,Rafael Troncoso Boys,33,CL,CHL,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,251,Marcos Frank Costa E Silva,---,AC,BRA,01:25:44,06:06:17,03:52:51,00:05:49,00:04:24,11:35:05
+ironman-fortaleza-20151008.csv,252,Ricardo Almeida,---,---,BRA,01:33:22,06:08:33,05:47:22,00:06:50,00:05:33,13:41:40
+ironman-fortaleza-20151008.csv,253,Max Well  Barroso Leitao,---,CE,BRA,01:56:43,07:44:59,06:41:52,00:02:42,00:09:42,16:35:58
+ironman-fortaleza-20151008.csv,254,Mauricio Lisboa Henry,33,Gramado,BRA,01:05:04,05:07:11,03:39:12,00:03:58,00:03:08,09:58:33
+ironman-fortaleza-20151008.csv,255,Artur Luiz Fabiao Junior,---,---,BRA,01:16:09,08:02:19,05:46:15,00:05:24,00:10:07,15:20:14
+ironman-fortaleza-20151008.csv,256,Valdenor Costa De Aquino Filho,---,CE,BRA,01:15:58,07:14:10,05:56:25,00:05:23,00:10:04,14:42:00
+ironman-fortaleza-20151008.csv,257,Alexandre Takenaka,33,Sao Paulo,BRA,00:54:05,05:16:19,03:22:27,00:02:15,00:02:43,09:37:49
+ironman-fortaleza-20151008.csv,258,Andrea De Paula Queiroz,33,CE,BRA,01:10:19,05:55:57,04:08:54,00:03:28,00:02:12,11:20:50
+ironman-fortaleza-20151008.csv,259,Jorge Wiliam Elnour Junior,33,distrito federal,BRA,01:05:13,05:36:56,04:01:47,00:03:35,00:06:43,10:54:14
+ironman-fortaleza-20151008.csv,260,Henrique Gondim Rocha Alves,33,ceara,BRA,01:10:18,06:27:17,06:35:33,00:05:45,00:07:33,14:26:26
+ironman-fortaleza-20151008.csv,261,Rafael Alves De Oliveira,33,RJ,BRA,01:15:26,06:00:03,05:35:55,00:04:24,00:07:46,13:03:34
+ironman-fortaleza-20151008.csv,262,Tiago Rossi,33,Rio de Janeiro,BRA,01:02:07,05:39:31,04:34:00,00:03:05,00:04:23,11:23:06
+ironman-fortaleza-20151008.csv,263,Andrei Achcar,33,Distrito Federal ,BRA,01:03:13,05:59:50,05:07:43,00:04:49,00:09:10,12:24:45
+ironman-fortaleza-20151008.csv,264,Cid Santos,33,Rio Grande do Norte,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,265,RENATO CALDAS DOS SANTOS,33,---,BRA,01:33:55,06:34:54,05:03:41,00:07:03,00:08:34,13:28:07
+ironman-fortaleza-20151008.csv,266,Victor Parahyba,---,CE,BRA,01:16:31,06:00:57,05:11:08,00:04:11,00:05:17,12:38:04
+ironman-fortaleza-20151008.csv,267,Bonieck Clemente,32,SE,BRA,00:56:24,05:17:32,03:14:15,00:02:26,00:02:45,09:33:22
+ironman-fortaleza-20151008.csv,268,Jorge Ernani Cunha,32,---,BRA,01:32:59,06:45:01,04:50:35,00:06:52,00:05:18,13:20:45
+ironman-fortaleza-20151008.csv,269,Marcio Ximenes,32,CE,BRA,00:59:37,05:07:12,03:52:43,00:01:57,00:02:31,10:04:00
+ironman-fortaleza-20151008.csv,270,Tiago Queiroz,32,---,BRA,01:06:14,05:50:49,04:34:46,00:05:37,00:05:57,11:43:23
+ironman-fortaleza-20151008.csv,271,Diógenes Mascarenhas Silva,---,CE,BRA,01:17:04,05:57:23,05:03:07,00:06:15,00:08:35,12:32:24
+ironman-fortaleza-20151008.csv,272,Luigi Linhares  Tavares,---,---,BRA,01:50:29,06:34:05,04:51:11,00:06:06,00:09:40,13:31:31
+ironman-fortaleza-20151008.csv,273,Diego Lomonaco Vasconcelos Oliveira,-1,CE,BRA,01:10:55,07:23:42,04:38:36,00:03:10,00:06:03,13:22:26
+ironman-fortaleza-20151008.csv,274,Fabio Antunes,32,Distrito Federal,BRA,01:04:07,05:37:36,05:01:10,00:03:02,00:06:45,11:52:40
+ironman-fortaleza-20151008.csv,275,Rafael Queiroz,---,CE,BRA,01:17:04,06:36:35,06:22:15,00:18:51,00:16:18,14:51:03
+ironman-fortaleza-20151008.csv,276,Daniel Henriques Almeida,32,---,BRA,01:12:29,05:39:04,04:04:32,00:02:39,00:03:45,11:02:29
+ironman-fortaleza-20151008.csv,277,Davi Galdino,---,PB,BRA,---,06:22:43,04:43:31,01:11:59,00:10:25,12:28:38
+ironman-fortaleza-20151008.csv,278,Eric Schellenberg Tammenhain,32,PR,BRA,00:58:58,05:59:20,03:54:06,00:03:55,00:03:36,10:59:55
+ironman-fortaleza-20151008.csv,279,Jose Renato Camara Silveira Junior,---,---,BRA,01:09:41,06:03:53,04:17:25,00:02:33,00:03:56,11:37:28
+ironman-fortaleza-20151008.csv,280,Vinicius Silvestrin,32,Rio Grande do sul,BRA,01:01:33,05:54:24,04:23:47,00:04:13,00:09:25,11:33:22
+ironman-fortaleza-20151008.csv,281,Felipe Burnier Clauset,32,São Paulo,BRA,01:13:54,06:39:54,04:43:00,00:04:22,00:05:24,12:46:34
+ironman-fortaleza-20151008.csv,282,Rodrigo Silva,---,SP,BRA,01:14:34,05:40:26,04:07:34,00:07:28,00:05:16,11:15:18
+ironman-fortaleza-20151008.csv,283,Alejandro Prieto,31,BUENOS AIRES,ARG,01:01:45,05:47:50,03:51:13,00:02:18,00:04:51,10:47:57
+ironman-fortaleza-20151008.csv,284,Airton Silva,31,DF,BRA,01:37:52,06:01:05,05:06:28,00:04:42,00:06:10,12:56:17
+ironman-fortaleza-20151008.csv,285,Rafael Verissimo,31,Ceara,BRA,00:56:26,05:58:23,04:00:28,00:04:31,00:05:27,11:05:15
+ironman-fortaleza-20151008.csv,286,Thiago Gabriel Alvim,31,MG,BRA,01:06:36,05:12:51,03:40:11,00:03:33,00:05:08,10:08:19
+ironman-fortaleza-20151008.csv,287,Bernardo Paula Lobo,31,PARA,BRA,01:04:15,06:19:06,04:04:47,00:05:07,00:06:08,11:39:23
+ironman-fortaleza-20151008.csv,288,Deoclecio Paiva De Castro,31,Ceará,BRA,01:15:53,05:44:46,05:09:31,00:05:24,00:08:20,12:23:54
+ironman-fortaleza-20151008.csv,289,Peter Pichnoff,31,Rio de Janeiro,BRA,00:56:29,05:01:10,03:28:23,00:01:45,00:02:02,09:29:49
+ironman-fortaleza-20151008.csv,290,Thiago Vilas Boas Guimaraes,31,---,BRA,01:37:57,07:15:48,04:53:31,00:06:39,00:11:04,14:04:59
+ironman-fortaleza-20151008.csv,291,Adler Oliveira,---,PA,BRA,01:10:29,06:07:31,04:36:50,00:05:20,00:05:47,12:05:57
+ironman-fortaleza-20151008.csv,292,Paulo Joaquim Souza Braga,31,---,BRA,01:28:14,05:51:18,05:08:06,00:03:02,00:07:41,12:38:21
+ironman-fortaleza-20151008.csv,293,Romildo Junior,---,CE,BRA,01:14:43,06:00:38,05:18:52,00:06:33,00:06:28,12:47:14
+ironman-fortaleza-20151008.csv,294,Filipe Albuquerque Aragao,30,DISTRITO FEDERAL,BRA,---,05:11:15,03:33:42,01:08:44,00:03:14,09:56:55
+ironman-fortaleza-20151008.csv,295,Vitor Dias Souza Girao,30,Ceará,BRA,01:06:17,05:21:04,04:01:36,00:03:07,00:04:42,10:36:46
+ironman-fortaleza-20151008.csv,296,Bruno Ribeiro Veitonis,30,SP,BRA,01:21:24,05:44:52,05:30:14,00:04:45,00:06:24,12:47:39
+ironman-fortaleza-20151008.csv,297,Bruno Collato,30,Intl State,BRA,01:03:08,---,---,00:01:49,---,DNF
+ironman-fortaleza-20151008.csv,298,Olimpio Tavares,30,Alagoas,BRA,01:07:11,06:08:48,04:31:59,00:04:51,00:05:39,11:58:28
+ironman-fortaleza-20151008.csv,299,Pedro Reis,30,GO,BRA,01:10:24,05:41:23,04:11:18,00:02:29,00:04:43,11:10:17
+ironman-fortaleza-20151008.csv,300,Vinï¿½cius De Oliveira,30,Intl State,BRA,01:21:03,05:24:37,04:37:50,00:01:46,00:02:50,11:28:06
+ironman-fortaleza-20151008.csv,301,Rafael Costa Lopes Ramos,30,Sao Paulo,BRA,00:56:42,05:33:15,04:03:46,00:01:16,00:02:09,10:37:08
+ironman-fortaleza-20151008.csv,302,Juan Pablo Perez,30,Intl State,ARG,01:14:41,06:02:24,04:15:31,00:02:36,00:09:17,11:44:29
+ironman-fortaleza-20151008.csv,303,Fabricio Ferreira,---,BA,BRA,01:17:49,06:11:02,03:34:11,00:06:33,00:10:00,11:19:35
+ironman-fortaleza-20151008.csv,304,Roberto Mariano Rodrigues Costa Filho,30,Intl State,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,305,Dave Loughlin,30,England,GBR,01:19:37,06:15:19,05:31:39,00:05:40,00:22:37,13:34:52
+ironman-fortaleza-20151008.csv,306,Vander Praxedes,30,tocantins,BRA,01:10:08,05:22:41,04:26:47,00:02:49,00:04:04,11:06:29
+ironman-fortaleza-20151008.csv,307,Bruno Joaquim,30,Parana,BRA,00:51:46,05:06:12,---,00:01:40,00:03:52,DNF
+ironman-fortaleza-20151008.csv,308,Roberto Vieira,30,Espírito Santo,BRA,01:18:58,06:43:19,04:40:47,00:07:19,00:05:49,12:56:12
+ironman-fortaleza-20151008.csv,309,Diego Figueiredo Machado,---,SP,BRA,00:55:15,05:19:51,03:46:59,00:02:51,00:04:53,10:09:49
+ironman-fortaleza-20151008.csv,310,Tiago Tavares,30,---,BRA,01:02:38,05:52:30,04:07:07,00:03:16,00:05:20,11:10:51
+ironman-fortaleza-20151008.csv,311,Afonso Silva Junior,29,Intl State,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,312,Lucas Leite,29,Minas Gerais,BRA,00:59:28,05:38:35,04:32:46,00:02:32,00:05:10,11:18:31
+ironman-fortaleza-20151008.csv,313,Fabrini Peixoto Carvalho,29,Ceará,BRA,01:07:14,05:57:44,04:45:11,00:01:54,00:04:56,11:56:59
+ironman-fortaleza-20151008.csv,315,Ezequiel Villata,29,Other,ARG,01:12:24,05:22:15,03:32:34,00:02:59,00:02:10,10:12:22
+ironman-fortaleza-20151008.csv,316,Samuel Leite Castelo,39,---,BRA,01:01:22,06:54:42,04:54:46,00:03:40,00:08:27,13:02:57
+ironman-fortaleza-20151008.csv,317,Edizan Goncalves,39,ceara,BRA,01:15:29,06:35:46,05:02:36,00:05:28,00:08:14,13:07:33
+ironman-fortaleza-20151008.csv,318,Lourenco Bizarria,39,Intl State,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,319,Daniel Aragao Abreu,39,Ceará,BRA,01:39:37,06:49:55,05:03:37,00:06:28,00:09:46,13:49:23
+ironman-fortaleza-20151008.csv,320,Erinton Machado,38,Intl State,BRA,01:10:02,05:11:18,03:59:02,00:02:10,00:02:47,10:25:19
+ironman-fortaleza-20151008.csv,321,Renato Gomes,39,Rio de Janeiro,BRA,01:26:37,06:38:51,06:04:16,00:04:26,00:05:23,14:19:33
+ironman-fortaleza-20151008.csv,322,Jose Barreto Parente Neto Barreto,39,CE,BRA,01:09:56,06:10:25,05:34:22,00:09:59,00:08:04,13:12:46
+ironman-fortaleza-20151008.csv,323,Fred Alves,39,-,BRA,01:36:51,05:53:56,04:39:53,00:03:49,00:04:56,12:19:25
+ironman-fortaleza-20151008.csv,324,Luis Ignacio,39,buenos aires,ARG,01:34:28,07:12:47,05:48:31,00:06:14,00:07:35,14:49:35
+ironman-fortaleza-20151008.csv,325,Marcelo Henrique E Silva Lopes,39,Distrito Federal,BRA,01:10:12,05:16:10,03:33:00,00:02:15,00:05:04,10:06:41
+ironman-fortaleza-20151008.csv,326,Fernando Carvalho,39,---,BRA,00:56:33,05:33:34,03:48:55,00:02:34,00:05:35,10:27:11
+ironman-fortaleza-20151008.csv,327,Fabio Urban,39,SP,BRA,01:14:05,07:18:38,05:32:42,00:07:09,00:20:51,14:33:25
+ironman-fortaleza-20151008.csv,328,Fabio Valeriano Macarenko,39,São Paulo,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,329,Marcus Eduardo Oliveira,---,SP,BRA,01:25:32,06:02:10,---,00:02:04,---,DNF
+ironman-fortaleza-20151008.csv,330,Fidelis Manes Neto,39,Intl State,BRA,01:12:33,05:36:31,04:30:15,00:07:40,00:09:04,11:36:03
+ironman-fortaleza-20151008.csv,331,Adriano Ricardo Ribeiro Sevilla,39,São Paulo,BRA,01:07:16,05:18:37,03:14:40,00:03:31,00:01:26,09:45:30
+ironman-fortaleza-20151008.csv,332,Alexandre Martins,39,para,BRA,01:02:43,05:48:40,04:29:41,00:02:48,00:06:11,11:30:03
+ironman-fortaleza-20151008.csv,333,Maurício Letzow,39,Paraná,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,334,Marcelo Princi Vilela,39,rio de janeio,BRA,01:24:36,06:20:29,04:44:40,00:05:09,00:08:03,12:42:57
+ironman-fortaleza-20151008.csv,335,Alexandre Marcelo Rodrigues Lima,39,Intl State,BRA,01:35:59,06:09:12,05:14:49,00:05:39,00:06:07,13:11:46
+ironman-fortaleza-20151008.csv,336,Mariusz Mazur,39,HI,POL,01:34:44,06:29:01,05:15:44,00:07:20,00:05:37,13:32:26
+ironman-fortaleza-20151008.csv,337,Leandro Arce Andreatti,38,Parana,BRA,01:50:46,07:10:44,05:53:05,00:08:23,00:05:45,15:08:43
+ironman-fortaleza-20151008.csv,338,Jaques Correa De Almeida Jr,38,ES,BRA,01:33:48,05:57:23,04:46:16,00:07:29,00:04:18,12:29:14
+ironman-fortaleza-20151008.csv,339,Henrique Werneck Pereira Do Espirito Santo,38,RJ,BRA,01:18:32,05:40:14,03:51:42,00:05:39,00:03:36,10:59:43
+ironman-fortaleza-20151008.csv,340,Francisco Rondinelli Alves Setúbal,38,Ceara,BRA,01:22:57,07:39:23,06:59:49,00:06:51,00:11:08,16:20:08
+ironman-fortaleza-20151008.csv,341,Leandro Almeida,---,SP,BRA,01:06:35,05:15:00,04:23:16,00:03:18,00:04:55,10:53:04
+ironman-fortaleza-20151008.csv,342,Germano Chagas,38,Bahia,BRA,01:03:13,05:46:56,03:54:20,00:02:52,00:04:33,10:51:54
+ironman-fortaleza-20151008.csv,343,Jackson Douglas  Costa Oliveira,---,BA,BRA,01:20:11,07:14:58,05:17:27,00:06:18,00:11:35,14:10:29
+ironman-fortaleza-20151008.csv,344,Bruno Domingos,38,DF,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,345,Vinicius Magalhaes,38,Ceará,BRA,01:25:06,06:53:13,05:10:11,00:04:25,00:06:34,13:39:29
+ironman-fortaleza-20151008.csv,346,Nicklas Safstrom,38,---,SWE,01:10:17,05:33:55,05:23:55,00:03:27,00:02:36,12:14:10
+ironman-fortaleza-20151008.csv,347,Ricardo Oliveira,38,---,BRA,01:12:14,05:32:03,04:03:31,00:03:56,00:04:01,10:55:45
+ironman-fortaleza-20151008.csv,348,Victor Lima,38,Pernambuco,BRA,00:59:49,05:24:32,04:07:52,00:02:38,00:02:44,10:37:35
+ironman-fortaleza-20151008.csv,349,Cyril Ferry,38,FR,FRA,01:27:46,06:36:49,04:44:43,00:06:08,00:07:20,13:02:46
+ironman-fortaleza-20151008.csv,350,Lindenberg Cesario De Oliveira,38,---,BRA,01:18:44,06:00:15,04:30:39,00:05:02,00:03:40,11:58:20
+ironman-fortaleza-20151008.csv,351,Bruno Garcia,37,Rio de janeiro,BRA,01:07:22,05:57:01,04:06:33,00:04:30,00:04:47,11:20:13
+ironman-fortaleza-20151008.csv,352,Luiz Navas Júnior,37,Brazil,BRA,00:59:14,05:13:50,03:36:03,00:02:11,00:02:08,09:53:26
+ironman-fortaleza-20151008.csv,353,Henning Fels,37,Other,DEU,01:14:47,05:48:29,04:48:08,00:03:02,00:04:27,11:58:53
+ironman-fortaleza-20151008.csv,354,Helio Gonçalves Ribeiro Filho,37,Alagoas,BRA,01:04:45,05:19:54,03:44:35,00:02:09,00:02:43,10:14:06
+ironman-fortaleza-20151008.csv,355,Francisco Marcio Silva Vieira,37,ceara,BRA,02:00:28,07:25:18,05:30:15,00:11:55,00:15:14,DNF
+ironman-fortaleza-20151008.csv,356,Martín Mantegini,37,Mza,ARG,01:32:40,07:12:36,05:28:27,00:05:56,00:14:28,14:34:07
+ironman-fortaleza-20151008.csv,357,Mario Lucio Batigniani,---,MA,BRA,02:00:19,07:21:36,05:51:54,00:18:09,00:09:52,15:41:50
+ironman-fortaleza-20151008.csv,358,Francisco Sartore Mendes Perez,37,---,BRA,01:01:39,04:54:05,03:11:10,00:03:31,00:03:58,09:14:23
+ironman-fortaleza-20151008.csv,359,Marcos Felipe Mendes Lopes,37,SP,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,360,Bruno Calandrini,37,Minas Gerais,BRA,01:03:15,05:21:49,---,00:04:34,00:03:21,DNF
+ironman-fortaleza-20151008.csv,361,Ariel Sharon De Assis Brito,37,Amazonas,BRA,01:18:12,06:12:54,04:04:40,00:08:25,00:05:53,11:50:04
+ironman-fortaleza-20151008.csv,362,Anilzo Santos,---,RJ,BRA,01:25:13,06:39:48,06:59:05,00:06:16,00:05:45,15:16:07
+ironman-fortaleza-20151008.csv,363,Gary Lock,37,hampshire,GBR,01:20:34,05:13:49,05:10:01,00:02:18,00:03:21,11:50:03
+ironman-fortaleza-20151008.csv,364,Rodrigo Miranda,37,SC,BRA,01:13:45,05:31:32,03:20:03,00:04:10,00:03:36,10:13:06
+ironman-fortaleza-20151008.csv,365,Marcio Bernardo,37,SP,BRA,00:59:20,05:44:29,03:40:13,00:03:41,00:05:02,10:32:45
+ironman-fortaleza-20151008.csv,366,Hernerio Mesquita,---,CE,BRA,01:33:52,06:54:52,06:56:41,00:09:10,00:10:58,15:45:33
+ironman-fortaleza-20151008.csv,367,Hebert Reis,37,ceara,BRA,01:31:40,06:01:44,04:25:45,00:09:13,00:05:59,12:14:21
+ironman-fortaleza-20151008.csv,368,Reggis Pinho Brito,---,RJ,BRA,01:05:11,05:47:10,04:12:13,00:04:10,00:06:19,11:15:03
+ironman-fortaleza-20151008.csv,369,Anderson Assuncao,37,SP,BRA,01:29:47,07:02:09,04:45:54,00:08:53,00:08:16,13:34:59
+ironman-fortaleza-20151008.csv,370,Lucio Mittestainer,37,SP,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,371,Diogo Octávio Nebias,37,Sao Paulo,BRA,01:10:29,05:44:24,03:55:51,00:04:15,00:06:24,11:01:23
+ironman-fortaleza-20151008.csv,372,Flavia Pedreira Rocha,37,São Paulo,BRA,01:14:30,05:52:18,04:21:16,00:03:47,00:08:21,11:40:12
+ironman-fortaleza-20151008.csv,373,Anderson Silva Damasceno,---,BA,BRA,01:05:24,06:16:05,04:59:50,00:03:33,00:07:48,12:32:40
+ironman-fortaleza-20151008.csv,374,Leonardo Moreira Mota,37,df,BRA,00:58:59,05:19:12,03:23:06,00:03:09,00:03:07,09:47:33
+ironman-fortaleza-20151008.csv,375,Rommel Reno,37,Intl State,BRA,00:59:06,05:13:57,---,00:02:45,00:02:45,DNF
+ironman-fortaleza-20151008.csv,376,Douglas Barros Ricardo,37,SP,BRA,01:11:02,05:44:12,04:04:17,00:03:09,00:06:58,11:09:38
+ironman-fortaleza-20151008.csv,377,Rafael Duarte Diniz,36,Intl State,BRA,01:09:22,05:10:43,03:40:10,00:02:46,00:02:44,10:05:45
+ironman-fortaleza-20151008.csv,378,Fábio Marson Moniz Freire,37,Espírito Santo,BRA,01:20:36,06:24:10,04:45:10,00:11:47,00:10:16,12:51:59
+ironman-fortaleza-20151008.csv,379,Elcio Queiroz,35,CEARA,BRA,01:24:10,06:36:50,05:12:44,00:08:54,00:07:29,13:30:07
+ironman-fortaleza-20151008.csv,380,Felipe Dayrell Silvestre,36,Minas Gerais,BRA,00:54:00,05:08:08,03:19:16,00:02:40,00:03:56,09:28:00
+ironman-fortaleza-20151008.csv,381,Sergio Vargas,36,SP,BRA,01:04:56,05:21:46,04:29:42,00:02:46,00:03:25,11:02:35
+ironman-fortaleza-20151008.csv,382,Gil-André Restoin,36,Intl State,GUF,01:09:11,05:24:37,03:49:05,00:06:58,00:07:03,10:36:54
+ironman-fortaleza-20151008.csv,383,Emiliano Battista,36,CABA,ARG,01:06:06,05:45:40,03:57:35,00:03:25,00:02:43,10:55:29
+ironman-fortaleza-20151008.csv,384,Edson Maisonnette,36,Rio de Janeiro,BRA,01:04:01,06:00:08,03:45:43,00:03:52,00:07:51,11:01:35
+ironman-fortaleza-20151008.csv,385,Rodnei Noveli,36,sp,BRA,01:12:07,06:12:57,04:48:27,00:12:42,00:18:51,12:45:04
+ironman-fortaleza-20151008.csv,386,Jean-Louis Audibert,36,FR,FRA,01:25:50,06:29:30,06:26:28,00:03:04,00:05:16,14:30:08
+ironman-fortaleza-20151008.csv,387,Marcio Silva Costa Costa,---,CE,BRA,01:35:28,06:33:03,04:41:10,00:14:49,00:07:47,13:12:17
+ironman-fortaleza-20151008.csv,388,Pablo Ribeiro,36,Ceará,BRA,01:16:39,06:17:54,05:02:05,00:05:50,00:05:39,12:48:07
+ironman-fortaleza-20151008.csv,389,Cordella Junior,36,RJ,BRA,---,05:41:05,05:12:44,01:11:55,00:15:03,12:20:47
+ironman-fortaleza-20151008.csv,390,Klaus OLIVEIRA,36,---,BRA,01:49:27,06:14:20,07:04:03,00:17:54,00:11:16,15:37:00
+ironman-fortaleza-20151008.csv,391,Andre Derosso Teixeira,36,São Paulo,BRA,01:06:42,05:29:04,03:42:55,00:04:51,00:05:02,10:28:34
+ironman-fortaleza-20151008.csv,392,Danilo Sverzut,36,Sao Paulo,BRA,01:23:48,07:19:05,05:10:56,00:05:02,00:06:19,14:05:10
+ironman-fortaleza-20151008.csv,393,Rodrigo Hecke Guimaraes,36,---,BRA,01:18:02,05:12:42,03:19:56,00:03:41,00:05:00,09:59:21
+ironman-fortaleza-20151008.csv,394,Adriano Brito,---,SP,BRA,01:41:51,06:28:03,04:43:46,00:02:44,00:08:48,13:05:12
+ironman-fortaleza-20151008.csv,395,Eduardo Malucelli,36,Other,BRA,01:06:47,05:22:43,04:05:36,00:02:40,00:05:08,10:42:54
+ironman-fortaleza-20151008.csv,396,Daniel Jose Garay,36,Buenos Aires,ARG,01:31:11,05:42:31,03:54:12,00:03:53,00:07:12,11:18:59
+ironman-fortaleza-20151008.csv,397,Daniel Mattos,36,Other,BRA,01:04:11,05:21:02,04:15:43,00:02:43,00:02:33,10:46:12
+ironman-fortaleza-20151008.csv,398,Leandro Moreira,---,Amazonas,BRA,01:02:38,05:22:09,04:25:30,00:04:15,00:03:55,10:58:27
+ironman-fortaleza-20151008.csv,399,Rodrigo Jorge Lima,---,CE,BRA,01:17:25,06:09:43,04:36:19,00:04:52,00:08:16,12:16:35
+ironman-fortaleza-20151008.csv,400,Rodrigo Camargo,36,DF,BRA,01:31:35,06:47:30,04:26:42,00:05:18,00:06:08,12:57:13
+ironman-fortaleza-20151008.csv,401,Patric Silva De Castro,36,---,BRA,01:13:18,06:21:19,04:47:59,00:05:12,00:05:20,12:33:08
+ironman-fortaleza-20151008.csv,402,Joaoneci Martins De Oliveira Junior,36,Ceara,BRA,01:20:55,05:54:22,04:39:00,00:06:19,00:05:49,12:06:25
+ironman-fortaleza-20151008.csv,403,Fabrizio Borsato,36,Alagoas,BRA,00:59:36,05:21:34,04:18:15,00:02:18,00:04:02,10:45:45
+ironman-fortaleza-20151008.csv,404,Rubens Cavalcante Neto,36,Intl State,BRA,01:11:54,06:10:15,04:40:14,00:03:13,00:05:03,12:10:39
+ironman-fortaleza-20151008.csv,405,Rafael Augusto Aragon Rodrigues,---,---,BRA,01:08:55,06:06:03,04:56:48,00:02:34,00:05:04,12:19:24
+ironman-fortaleza-20151008.csv,406,Diogo Porto,35,Intl State,BRA,00:56:24,05:23:23,04:49:42,00:02:29,00:05:22,11:17:20
+ironman-fortaleza-20151008.csv,407,Christopher Misplon,36,---,ZAF,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,408,Francisco Regis Moreira Moreira,---,---,BRA,01:07:26,05:50:00,04:03:45,00:02:32,00:03:23,11:07:06
+ironman-fortaleza-20151008.csv,409,Rafael Ribeiro,36,Goias,BRA,01:04:06,05:19:49,04:08:12,00:02:24,00:02:21,10:36:52
+ironman-fortaleza-20151008.csv,410,Fernando Sampaio,35,---,BRA,01:32:38,06:15:21,05:36:25,00:03:38,00:07:50,13:35:52
+ironman-fortaleza-20151008.csv,412,Clodomir Assis Araújo Junior,35,Pará,BRA,01:20:12,05:54:55,---,00:05:06,00:04:09,DNF
+ironman-fortaleza-20151008.csv,413,John Milliard,35,guyane,FRA,01:09:18,05:36:47,03:40:57,00:02:24,00:03:18,10:32:44
+ironman-fortaleza-20151008.csv,414,Evandro Andrade,35,CE,BRA,01:15:50,07:13:13,06:36:53,00:07:58,00:11:54,15:25:48
+ironman-fortaleza-20151008.csv,415,Clovis Carvalho Lima Neto,35,Ceara,BRA,01:17:00,07:12:57,05:43:35,00:08:06,00:12:26,14:34:04
+ironman-fortaleza-20151008.csv,416,Helano Martins,---,CE,BRA,02:08:13,07:11:01,07:00:30,00:09:15,00:09:42,16:38:41
+ironman-fortaleza-20151008.csv,417,Rodrigo Conde,35,DF,BRA,01:22:53,06:18:37,04:28:04,00:06:35,00:08:43,12:24:52
+ironman-fortaleza-20151008.csv,419,Rudney Daltro  De Macedo,---,BA,BRA,01:49:10,06:26:16,04:59:08,00:06:13,00:10:15,13:31:02
+ironman-fortaleza-20151008.csv,420,Javier Francisco Dona,---,---,ARG,00:58:25,05:27:42,04:27:39,00:01:38,00:03:00,10:58:24
+ironman-fortaleza-20151008.csv,421,Antonio Rangers Pimenta Viana  Pimenta Viana,---,CE,BRA,01:16:40,07:19:53,06:54:42,00:04:08,00:06:21,15:41:44
+ironman-fortaleza-20151008.csv,422,Paulo Rabelo,35,---,BRA,01:13:15,06:09:19,04:58:38,00:03:59,00:04:58,12:30:09
+ironman-fortaleza-20151008.csv,423,Rafael Pinho,35,ceara,BRA,01:05:17,05:43:30,04:22:40,00:01:50,00:06:02,11:19:19
+ironman-fortaleza-20151008.csv,424,Daniel Pires Rebelo Da Costa Ferreira,35,PI,BRA,01:13:37,05:36:01,04:55:44,00:05:53,00:08:02,11:59:17
+ironman-fortaleza-20151008.csv,425,Janio Santos Soares,35,Ceará,BRA,01:39:10,07:21:04,06:08:52,00:05:12,00:10:31,15:24:49
+ironman-fortaleza-20151008.csv,426,Tiago Selofite Ignácio,35,sp,BRA,01:07:32,05:17:56,04:03:01,00:02:01,00:02:34,10:33:04
+ironman-fortaleza-20151008.csv,427,Felipe Mateus Barbosa Rodrigues  Barbosa Rodrigues,---,CE,BRA,01:25:26,06:20:21,04:50:14,00:03:45,00:05:09,12:44:55
+ironman-fortaleza-20151008.csv,428,Thyago De Lellys Faria Moncao,35,Rio de Janeiro,BRA,01:17:45,07:11:13,05:02:35,00:06:57,00:05:17,13:43:47
+ironman-fortaleza-20151008.csv,429,Rafael Otaviano Cabral Dos Anjos,35,---,BRA,01:19:34,06:31:47,05:57:42,00:09:04,00:09:29,14:07:36
+ironman-fortaleza-20151008.csv,430,Bertrand Hubert,35,Aquitaine,FRA,00:50:27,05:38:35,05:24:40,00:04:09,00:04:14,12:02:05
+ironman-fortaleza-20151008.csv,431,Aristóteles Teixeira,---,---,BRA,01:08:23,06:55:11,04:43:33,00:06:18,00:06:37,13:00:02
+ironman-fortaleza-20151008.csv,432,Fabiano Santos,35,Intl State,BRA,01:05:43,05:32:04,03:43:45,00:03:09,00:04:04,10:28:45
+ironman-fortaleza-20151008.csv,433,Leandro Batista Reis,34,DF,BRA,01:07:52,05:18:22,03:31:50,00:03:49,00:02:37,10:04:30
+ironman-fortaleza-20151008.csv,434,Samuel Carone,34,RJ,BRA,01:08:35,06:44:09,05:39:46,00:06:17,00:09:16,13:48:03
+ironman-fortaleza-20151008.csv,435,Anderson Saboya,34,Other,BRA,01:21:15,05:22:33,03:53:04,00:03:52,00:06:33,10:47:17
+ironman-fortaleza-20151008.csv,436,Rafael Peralva,34,---,BRA,01:03:06,05:51:03,03:50:17,00:03:48,00:04:02,10:52:16
+ironman-fortaleza-20151008.csv,437,Plinio Pereira,44,---,BRA,01:16:55,06:25:32,05:51:25,00:06:03,00:06:38,13:46:33
+ironman-fortaleza-20151008.csv,438,Luiz Henrique De Faria Leite,44,Other,BRA,01:10:11,06:04:22,04:14:35,00:04:37,00:06:47,11:40:32
+ironman-fortaleza-20151008.csv,439,Adailton Aguiar,44,Intl State,BRA,01:11:27,05:41:15,04:33:44,00:07:07,00:08:16,11:41:49
+ironman-fortaleza-20151008.csv,440,Orlando Anzoategui Jr.,---,---,BRA,01:26:55,06:15:47,04:11:13,00:03:49,00:06:42,12:04:26
+ironman-fortaleza-20151008.csv,441,Allan Emanuel Dos Santos Silva,---,---,BRA,01:20:13,06:09:17,04:46:08,00:04:48,00:05:58,12:26:24
+ironman-fortaleza-20151008.csv,443,Josemar Josemar,44,Intl State,BRA,01:15:38,05:33:00,03:40:39,00:03:49,00:02:45,10:35:51
+ironman-fortaleza-20151008.csv,444,Marcelo De Marchi,44,SP,BRA,01:10:36,05:49:13,05:12:18,00:04:01,00:04:51,12:20:59
+ironman-fortaleza-20151008.csv,445,Quintino Cordeiro,44,Intl State,PRT,01:14:38,05:57:00,04:53:00,00:03:01,00:04:33,12:12:12
+ironman-fortaleza-20151008.csv,446,Eduardo Morales,44,CHUBUT,ARG,---,---,---,---,---,DQ
+ironman-fortaleza-20151008.csv,447,Fernando Alfredo Luccas,44,são paulo,BRA,01:05:45,05:19:59,03:36:29,00:03:49,00:02:39,10:08:41
+ironman-fortaleza-20151008.csv,448,Rodolfo Lucarelli Granieri,44,---,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,449,Claudio Santos,44,---,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,450,Alexandre De Jesus Dias Dias,---,MT,BRA,01:34:28,06:00:03,04:30:23,00:05:25,00:03:48,12:14:07
+ironman-fortaleza-20151008.csv,451,Wilson Soares,43,Intl State,BRA,01:17:35,06:18:19,05:31:42,00:05:33,00:08:32,DNF
+ironman-fortaleza-20151008.csv,452,Carlos Henrique Falcao Freire,43,Intl State,BRA,---,05:32:08,03:40:48,01:07:18,00:02:28,10:22:42
+ironman-fortaleza-20151008.csv,453,Rinaldo Pereira,43,---,BRA,01:24:16,05:51:18,04:00:08,00:02:27,00:03:54,11:22:03
+ironman-fortaleza-20151008.csv,454,Emerson Da Costa Pereira Martins,43,Rio de janeiro,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,455,Denis Guerchon,43,São paulo,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,456,Gabriel Andres Perrotta,43,buenos aires,ARG,01:23:08,06:13:03,05:19:17,00:04:28,00:06:26,13:06:22
+ironman-fortaleza-20151008.csv,457,Fabiano De Araújo Paes,43,Alagoas,BRA,01:12:18,05:25:56,05:21:12,00:02:17,00:03:04,12:04:47
+ironman-fortaleza-20151008.csv,458,Luiz Eduardo Regadas Montezuma Montezuma,43,---,BRA,01:10:20,05:53:14,04:49:12,00:04:03,00:06:41,12:03:30
+ironman-fortaleza-20151008.csv,459,Andre Lira,---,CE,BRA,01:40:37,06:43:17,04:33:12,00:05:09,00:23:02,13:25:17
+ironman-fortaleza-20151008.csv,460,Juan Berrospi,43,SP,PER,01:22:05,06:04:08,05:05:04,00:03:46,00:05:19,12:40:22
+ironman-fortaleza-20151008.csv,461,Celio Bittencourt,---,Ri,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,462,Jorge Henrique Arbex,43,RJ,BRA,01:05:52,05:48:23,05:08:25,00:02:36,00:08:33,12:13:49
+ironman-fortaleza-20151008.csv,463,Diego Maurizi,43,Intl State,ARG,01:21:46,06:43:55,05:09:56,00:07:17,00:07:42,13:30:36
+ironman-fortaleza-20151008.csv,464,Nuno Bernardo,43,São Paulo,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,465,Marcelo Verderoce Vieira,43,---,BRA,01:09:33,05:44:24,03:49:24,00:03:20,00:04:23,10:51:04
+ironman-fortaleza-20151008.csv,466,Euclides Jose Leite Castelo,43,CE,BRA,00:59:19,05:44:06,03:45:27,00:02:58,00:03:19,10:35:09
+ironman-fortaleza-20151008.csv,467,Marcelo Felix Da Silva,---,MT,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,468,Victor Cesar Falcao Viana,---,---,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,469,Jose Azevedo,43,Intl State,BRA,01:23:34,06:24:09,04:29:32,00:08:18,00:10:09,12:35:42
+ironman-fortaleza-20151008.csv,470,Emerson Carara,42,parana,BRA,01:35:34,06:43:56,05:04:31,00:08:30,00:07:00,13:39:31
+ironman-fortaleza-20151008.csv,471,Mauro Fernando Dos Santos,---,SP,BRA,01:06:55,05:28:10,04:22:43,00:04:19,00:05:31,11:07:38
+ironman-fortaleza-20151008.csv,472,Andre Veras Braga,---,CE,BRA,01:09:57,05:57:50,04:24:08,00:04:58,00:05:30,11:42:23
+ironman-fortaleza-20151008.csv,473,Federico Campos,42,Córdoba ,ARG,01:11:59,---,---,09:40:50,---,DNF
+ironman-fortaleza-20151008.csv,474,Francisco Cavalcanti,42,---,BRA,01:04:20,05:56:44,---,00:01:23,00:11:17,DNF
+ironman-fortaleza-20151008.csv,475,Andre Mota,42,Ceará,BRA,01:41:11,06:15:40,05:34:07,00:04:48,00:09:15,13:45:01
+ironman-fortaleza-20151008.csv,476,Levy Rogerio  Scarpim,---,---,BRA,01:23:12,05:51:35,04:07:23,00:07:06,00:06:31,11:35:47
+ironman-fortaleza-20151008.csv,477,Pablo Amato,42,Sao Paulo,ARG,01:21:14,05:54:42,05:13:42,00:03:59,00:09:04,12:42:41
+ironman-fortaleza-20151008.csv,478,Andres German Nennhuber,42,Chubut,ARG,01:01:18,05:15:34,04:11:59,00:02:34,00:02:23,10:33:48
+ironman-fortaleza-20151008.csv,479,Marcelo Abdo,42,SP,BRA,00:53:57,05:34:28,03:50:24,00:02:51,00:03:14,10:24:54
+ironman-fortaleza-20151008.csv,480,Emerson Betta,42,RJ,BRA,01:14:59,06:17:56,04:55:31,00:05:45,00:06:17,12:40:28
+ironman-fortaleza-20151008.csv,482,Joao Jose Da Silva Junior,---,---,BRA,01:04:22,06:20:39,04:36:21,00:05:45,00:04:55,12:12:02
+ironman-fortaleza-20151008.csv,483,Sergio Carvalho,42,Distrito Federal,BRA,01:28:19,06:42:13,04:30:56,00:05:42,00:05:44,12:52:54
+ironman-fortaleza-20151008.csv,484,Heraldo Viana Barbosa De Sousa Viana,42,CE,BRA,01:10:11,05:33:21,03:59:18,00:02:44,00:02:52,10:48:26
+ironman-fortaleza-20151008.csv,485,Dimas Marchi,42,Sao Paulo,BRA,01:10:22,05:32:18,04:22:09,00:03:10,00:03:41,11:11:40
+ironman-fortaleza-20151008.csv,486,Iunys Praciano De Carvalho,---,CE,BRA,01:19:48,06:32:31,04:28:13,00:14:54,00:39:30,13:14:56
+ironman-fortaleza-20151008.csv,487,Antonio Aslan,42,FL,VEN,01:07:38,06:50:54,05:01:17,00:06:00,00:07:59,13:13:48
+ironman-fortaleza-20151008.csv,488,Rogerio Veras Rocha,---,CE,BRA,01:16:02,06:45:28,04:50:37,00:05:52,00:05:47,13:03:46
+ironman-fortaleza-20151008.csv,489,Paulo Giovani Militao De Alencar,42,---,BRA,01:13:38,05:51:05,03:53:59,00:06:47,00:07:32,11:13:01
+ironman-fortaleza-20151008.csv,490,Marcelo Rodrigues,42,AMAZONAS,BRA,01:23:44,06:54:23,05:31:46,00:08:58,00:09:56,14:08:47
+ironman-fortaleza-20151008.csv,491,Alexandre Rocha,42,Rio de Janeiro,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,492,Guillaume Calon,42,FR,FRA,01:17:13,06:34:00,06:59:35,00:06:38,00:11:45,15:09:11
+ironman-fortaleza-20151008.csv,493,Anderson Lira Dias,42,Ceará,BRA,01:16:32,06:09:49,06:12:36,00:02:53,00:05:46,13:47:36
+ironman-fortaleza-20151008.csv,494,Carla Guerra,---,AA,BRA,01:09:05,06:32:20,05:27:09,00:04:38,00:05:02,13:18:14
+ironman-fortaleza-20151008.csv,495,Jose Alexandre Goiana De Andrade,---,CE,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,496,Stefaan Devliegere,41,Other,BEL,01:12:19,05:29:45,04:00:22,00:01:34,00:02:23,10:46:23
+ironman-fortaleza-20151008.csv,497,Jessey Gutierrez,41,FL,VEN,01:39:28,06:34:30,04:53:10,00:08:40,00:18:39,13:34:27
+ironman-fortaleza-20151008.csv,498,Juan Francisco Horacio Aparicio,41,Tucuman,ARG,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,499,Timothy Kelsall,41,---,GBR,---,06:31:22,03:59:50,---,00:02:25,10:33:37
+ironman-fortaleza-20151008.csv,500,Miguel Lezaun,41,CABA,ARG,01:28:56,06:44:29,05:41:11,00:11:12,00:11:45,14:17:33
+ironman-fortaleza-20151008.csv,501,Fabio Passos,41,Intl State,BRA,01:05:31,---,---,00:02:49,---,DNF
+ironman-fortaleza-20151008.csv,502,Sergio Cedano,41,Intl State,BRA,01:26:14,06:27:05,03:34:23,00:03:57,00:06:26,11:38:05
+ironman-fortaleza-20151008.csv,503,Carlos Mazu,---,---,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,504,Pedro Adriano Teixeira,41,---,BRA,---,---,---,---,---,DQ
+ironman-fortaleza-20151008.csv,505,Ivan Roberto De Campos Albano Junior,41,São Paulo,BRA,00:59:03,04:55:04,03:36:15,00:02:27,00:02:16,09:35:05
+ironman-fortaleza-20151008.csv,506,Sergio Menezes,41,Ceará,BRA,01:18:38,06:11:13,05:11:06,00:07:56,00:05:11,12:54:04
+ironman-fortaleza-20151008.csv,507,Wander Ama,41,SP,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,508,Charles Pierre,41,Rio Grande do Sul,BRA,01:12:01,05:54:11,---,00:07:47,00:10:40,DNF
+ironman-fortaleza-20151008.csv,509,Naerton Gomes De Menezes,41,CEARÁ,BRA,01:21:33,06:52:06,05:57:56,00:06:50,00:06:38,14:25:03
+ironman-fortaleza-20151008.csv,510,Albert Banus Sado,41,ES,ESP,01:07:38,05:13:54,---,00:02:46,00:06:06,DNF
+ironman-fortaleza-20151008.csv,511,Rodrigo Guilherme De Jurema,---,AL,BRA,01:29:32,06:04:47,04:08:10,00:06:38,00:06:39,11:55:46
+ironman-fortaleza-20151008.csv,512,Andre Luis Lima Correia,---,CE,BRA,01:38:22,06:35:49,05:04:28,00:06:08,00:07:14,13:32:01
+ironman-fortaleza-20151008.csv,513,Milton Augusto Maciel De Sousa,41,RJ,BRA,01:12:12,05:33:28,03:54:28,00:02:26,00:03:54,10:46:28
+ironman-fortaleza-20151008.csv,514,Jose Luis Pirronitto,41,Intl State,ARG,01:03:19,05:48:54,05:12:54,00:02:29,00:04:51,12:12:27
+ironman-fortaleza-20151008.csv,515,Thor Quindere,41,ceara,BRA,00:58:22,06:58:25,05:37:06,00:22:39,00:09:59,14:06:31
+ironman-fortaleza-20151008.csv,517,BRUNO TEMPESTA,41,---,BRA,01:09:15,05:11:43,03:57:03,00:03:00,00:01:20,10:22:21
+ironman-fortaleza-20151008.csv,518,Daniel Cruz,41,PIAUI,BRA,01:07:13,05:36:48,04:14:51,00:03:22,00:04:04,11:06:18
+ironman-fortaleza-20151008.csv,520,Luciano Gomes,40,rio de janeiro,BRA,01:19:35,05:40:30,04:25:50,00:02:52,00:02:23,11:31:10
+ironman-fortaleza-20151008.csv,521,Luiz Eduardo Rodrigues Lopes,40,São Paulo,BRA,01:10:09,05:46:13,03:28:18,00:02:45,00:03:41,10:31:06
+ironman-fortaleza-20151008.csv,522,Oswaldo Henriquez,40,---,VEN,---,---,---,---,---,DQ
+ironman-fortaleza-20151008.csv,523,Jorge Falabella,40,Buenos Aires,ARG,01:10:35,06:22:07,05:00:04,00:05:00,00:06:27,12:44:13
+ironman-fortaleza-20151008.csv,524,Cruiff Emerson Pinto Da Silva,40,ceará,BRA,01:19:28,05:48:13,04:53:00,00:03:05,00:05:03,12:08:49
+ironman-fortaleza-20151008.csv,525,Adonis Santana,40,---,BRA,01:07:41,06:32:54,05:23:31,00:07:49,00:02:16,13:14:11
+ironman-fortaleza-20151008.csv,526,Alexander Kurgansky,40,Russia,RUS,01:27:18,---,---,00:10:46,---,DNF
+ironman-fortaleza-20151008.csv,527,Elano Barbosa Ribeiro,40,---,BRA,01:10:07,05:21:34,03:35:12,00:02:13,00:01:35,10:10:41
+ironman-fortaleza-20151008.csv,528,Pablo Dantas,40,ceara,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,529,Leonardo De Carvalho Starling,---,---,BRA,01:17:17,06:13:16,04:47:12,00:03:50,00:04:56,12:26:31
+ironman-fortaleza-20151008.csv,530,Luciano Focá,40,Intl State,BRA,---,05:40:28,04:01:57,01:06:20,00:02:47,10:51:32
+ironman-fortaleza-20151008.csv,531,Bergson Rodrigues Luciano,---,CE,BRA,01:26:24,07:30:19,08:10:18,00:09:41,00:14:36,DNF
+ironman-fortaleza-20151008.csv,532,Fernando Abras Porto,---,Sc,BRA,01:23:50,07:19:25,04:54:50,00:13:18,00:16:15,14:07:38
+ironman-fortaleza-20151008.csv,533,Glauber Lima,40,Intl State,BRA,01:15:34,05:45:41,04:06:56,00:02:39,00:03:25,11:14:15
+ironman-fortaleza-20151008.csv,534,Haroldo Gondim,40,---,BRA,01:11:12,06:05:48,---,00:06:49,00:08:20,DNF
+ironman-fortaleza-20151008.csv,535,Antonio Chagas Junior,40,Ceará,BRA,01:28:45,06:37:14,04:48:34,00:06:16,00:04:22,13:05:11
+ironman-fortaleza-20151008.csv,537,Glauber Fujita,40,PR,BRA,02:02:39,---,---,---,---,DNF
+ironman-fortaleza-20151008.csv,538,Nicolas Arballo,40,CORRIENTES,ARG,01:27:48,06:33:49,04:45:56,00:07:52,00:04:46,13:00:11
+ironman-fortaleza-20151008.csv,539,Eduardo Jurcevic,40,São Paulo,BRA,01:03:43,05:28:48,03:42:40,00:03:33,00:04:27,10:23:11
+ironman-fortaleza-20151008.csv,540,Fabio Gondim Ribeiro,40,---,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,541,Rogerio Dienes,40,SC,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,542,Fabricio Lima,40,Other,BRA,01:17:59,06:48:25,07:46:27,00:05:20,00:08:24,16:06:35
+ironman-fortaleza-20151008.csv,543,Andre Luis Vieira,40,Paraná,BRA,01:06:40,05:41:48,03:48:12,00:04:33,00:02:52,10:44:05
+ironman-fortaleza-20151008.csv,544,Carlo Cannavacciuolo Junior,39,Intl State,BRA,01:19:21,06:34:28,04:54:34,00:03:41,00:06:18,12:58:22
+ironman-fortaleza-20151008.csv,545,Felipe Matos,39,Distrito Federal,BRA,01:03:47,05:28:17,04:14:55,00:03:06,00:03:34,10:53:39
+ironman-fortaleza-20151008.csv,546,Regis Gomes,39,CE,BRA,01:21:45,06:59:08,05:42:31,00:10:50,00:12:48,14:27:02
+ironman-fortaleza-20151008.csv,547,Marcio Tavares,39,sao paulo,BRA,01:27:09,06:39:15,04:36:52,00:05:23,00:10:36,12:59:15
+ironman-fortaleza-20151008.csv,548,Alen Brandizzi,---,Es,BRA,01:31:35,07:30:20,05:53:48,00:09:13,00:12:02,15:16:58
+ironman-fortaleza-20151008.csv,549,Leonardo Magalhaes,39,Ceara,BRA,---,---,13:17:11,---,---,13:17:11
+ironman-fortaleza-20151008.csv,550,Rangel Rodrigues,39,São Paulo,BRA,01:06:07,05:21:28,04:07:28,00:03:42,00:03:07,10:41:52
+ironman-fortaleza-20151008.csv,551,Anderson Navi,39,Rio de Janeiro,BRA,01:13:25,06:16:28,04:03:59,00:05:38,00:05:04,11:44:34
+ironman-fortaleza-20151008.csv,552,Vander De Almeida,39,Distrito Federal,BRA,01:06:25,05:57:23,04:28:45,00:02:51,00:08:19,11:43:43
+ironman-fortaleza-20151008.csv,553,Alexander Zhukov,39,Moscow,RUS,01:36:56,06:09:21,03:50:16,00:01:52,00:02:59,11:41:24
+ironman-fortaleza-20151008.csv,554,Marcelo Golega,39,RJ,BRA,01:46:15,06:15:04,04:54:20,00:06:11,00:07:18,13:09:08
+ironman-fortaleza-20151008.csv,555,Rafael Andre Gesini,39,sao paulo,BRA,01:28:09,08:01:54,06:37:04,00:07:10,00:08:37,16:22:54
+ironman-fortaleza-20151008.csv,556,Adam Becker,49,FL,USA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,557,Maildo Barros Da Silva,---,---,BRA,01:49:22,06:53:39,05:04:10,00:04:42,00:06:17,13:58:10
+ironman-fortaleza-20151008.csv,558,Mark Schoonhoven,49,NL,NLD,01:30:54,06:15:13,05:17:21,00:02:54,00:02:34,13:08:56
+ironman-fortaleza-20151008.csv,559,Samuel Oliveira,49,sao paulo,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,560,Marcos Alexandre Da Silveira,49,Intl State,BRA,01:09:27,05:21:56,03:52:52,00:02:55,00:03:32,10:30:42
+ironman-fortaleza-20151008.csv,561,Julio Cesar Paterlini Julio Paterlini,49,sao paulo,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,562,Larry Oliveira,---,CE,BRA,01:38:06,06:50:00,05:08:58,00:04:09,00:09:00,13:50:13
+ironman-fortaleza-20151008.csv,563,Andreas Toferer,49,---,AUT,01:22:42,06:00:50,---,00:06:36,00:11:25,DNF
+ironman-fortaleza-20151008.csv,564,Luiz Renato Topan,48,Intl State,BRA,00:54:06,05:03:18,03:59:51,00:02:17,00:02:41,10:02:13
+ironman-fortaleza-20151008.csv,565,Robert White,48,OR,USA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,566,Eduardo Arroyo,48,Lima,CHL,02:18:46,06:12:11,04:32:41,00:08:36,00:12:43,13:24:57
+ironman-fortaleza-20151008.csv,567,Eduardo Diaz,48,CORDOBA,ARG,00:59:13,05:44:50,03:39:24,00:01:55,00:04:29,10:29:51
+ironman-fortaleza-20151008.csv,568,Gonzalo Garay,48,Eastern Cape,ARG,01:27:38,06:38:19,06:16:02,00:06:40,00:06:35,14:35:14
+ironman-fortaleza-20151008.csv,569,Ricardo Baer,48,Intl State,ARG,01:10:04,---,---,00:05:38,---,DNF
+ironman-fortaleza-20151008.csv,570,Joao Carlos Neto,48,Pernambuco,BRA,01:19:25,05:20:30,04:43:30,00:03:49,00:06:21,11:33:35
+ironman-fortaleza-20151008.csv,571,Pablo Casassas,48,---,CHL,01:20:01,07:32:24,03:44:33,00:04:44,00:06:34,12:48:16
+ironman-fortaleza-20151008.csv,572,Jose Alcon,48,Buenos Aires,ARG,01:11:22,06:00:21,05:45:30,00:04:57,00:07:31,13:09:41
+ironman-fortaleza-20151008.csv,573,Orleans Mendez,---,---,VEN,01:29:50,07:04:39,06:20:54,00:08:31,00:10:26,15:14:20
+ironman-fortaleza-20151008.csv,574,Roberto LEMOS,47,---,BRA,01:04:45,05:20:35,03:51:42,00:01:40,00:03:10,10:21:52
+ironman-fortaleza-20151008.csv,575,Pablo Veron,47,buenos aires,ARG,01:04:48,06:05:38,05:27:04,00:03:11,00:04:10,12:44:51
+ironman-fortaleza-20151008.csv,576,Sergio Bassichetto,47,NY,BRA,01:19:18,06:32:34,04:26:13,00:03:52,00:05:33,12:27:30
+ironman-fortaleza-20151008.csv,577,Lucio Marcelo Lima,---,DF,BRA,01:22:22,07:01:39,05:38:37,00:11:51,00:08:12,14:22:41
+ironman-fortaleza-20151008.csv,578,Claudio Ibiapina,---,CE,BRA,01:22:09,06:25:15,04:52:33,00:09:53,00:08:29,12:58:19
+ironman-fortaleza-20151008.csv,579,Hermeto Aguiar,---,CE,BRA,01:25:17,07:34:02,07:17:02,00:10:15,00:12:02,16:38:38
+ironman-fortaleza-20151008.csv,580,Nelson Figueiredo,47,---,BRA,01:25:23,05:47:03,---,00:02:55,00:07:24,DNF
+ironman-fortaleza-20151008.csv,581,Jorge Barrera,47,cordoba,ARG,01:41:28,06:01:05,04:28:27,00:05:49,00:05:21,12:22:10
+ironman-fortaleza-20151008.csv,582,Mair Gama,47,São Paulo,BRA,01:19:29,05:44:25,03:38:47,00:03:37,00:03:28,10:49:46
+ironman-fortaleza-20151008.csv,583,Felipe Rael,47,CA,USA,01:16:34,05:40:43,04:43:15,00:02:37,00:05:04,11:48:13
+ironman-fortaleza-20151008.csv,584,Paulo Ribeiro Cardoso,---,CE,BRA,01:47:50,06:28:25,06:14:47,00:14:13,00:19:37,15:04:52
+ironman-fortaleza-20151008.csv,585,Roger Weingartner,47,Intl State,BRA,01:26:47,06:40:41,04:33:26,00:07:43,00:08:43,12:57:20
+ironman-fortaleza-20151008.csv,586,Paulo Piza,47,Intl State,BRA,01:08:52,05:43:23,04:09:21,00:02:37,00:05:11,11:09:24
+ironman-fortaleza-20151008.csv,587,Beto Cavalcante,---,CE,BRA,01:16:12,06:33:11,06:06:10,00:06:28,00:08:41,14:10:42
+ironman-fortaleza-20151008.csv,588,Tadeu Dantas,47,---,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,589,Silvio Roberto  De Aquino Vasconcelos,---,CE,BRA,01:24:31,07:15:56,05:11:30,00:08:32,00:14:53,14:15:22
+ironman-fortaleza-20151008.csv,590,Salvatore Dioguardi,47,Monza brianza,ITA,01:30:21,07:42:00,05:16:40,00:07:29,00:07:10,14:43:40
+ironman-fortaleza-20151008.csv,591,Saulo Verde,47,Intl State,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,592,Hernando Castro,46,Intl State,VEN,01:15:25,05:53:58,04:40:50,00:05:17,00:05:25,12:00:55
+ironman-fortaleza-20151008.csv,593,Ralph Porto,46,RJ,BRA,01:09:19,05:40:59,03:32:39,00:02:51,00:06:16,10:32:04
+ironman-fortaleza-20151008.csv,594,José Gercione Pinheiro,46,CE,BRA,01:54:12,06:38:21,04:57:55,00:07:58,00:08:46,13:47:12
+ironman-fortaleza-20151008.csv,595,Siderlei Costa Lopes,---,SP,BRA,01:17:37,06:58:36,05:23:39,00:05:19,00:08:38,13:53:49
+ironman-fortaleza-20151008.csv,596,Fernando Carvalho,46,Intl State,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,597,Helcio Vaz,46,Alagoas,BRA,01:27:32,05:50:42,04:23:59,00:04:27,00:04:04,11:50:44
+ironman-fortaleza-20151008.csv,598,Sergio Ricardo Borejo,46,sp,BRA,01:06:56,05:27:43,03:55:14,00:04:39,00:03:50,10:38:22
+ironman-fortaleza-20151008.csv,599,Adrian Mercado,46,Cordoba,ARG,01:29:38,06:40:46,05:56:27,00:04:03,00:07:38,14:18:32
+ironman-fortaleza-20151008.csv,600,Tom Holland,46,CT,USA,01:21:27,06:29:01,05:01:55,00:06:49,00:07:17,13:06:29
+ironman-fortaleza-20151008.csv,601,Eugenio Furioso,---,DF,BRA,01:06:38,05:22:52,04:18:53,00:01:43,00:02:32,10:52:38
+ironman-fortaleza-20151008.csv,602,Felipe Tebez,46,Buenos Aires,ARG,01:24:05,06:42:41,05:20:44,00:05:23,00:10:12,13:43:05
+ironman-fortaleza-20151008.csv,603,Alejandro Ravinale,46,cordoba,ARG,01:21:03,06:49:23,05:56:26,00:05:11,00:06:30,14:18:33
+ironman-fortaleza-20151008.csv,604,Nivaldo Moura Filho,---,CE,BRA,01:43:41,06:25:36,05:09:05,00:05:57,00:11:42,13:36:01
+ironman-fortaleza-20151008.csv,605,Euler Ribeiro Filho,95,Other,BRA,01:21:34,07:20:10,05:23:37,00:09:11,00:11:57,14:26:29
+ironman-fortaleza-20151008.csv,606,Ricardo Ferla,46,SP,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,607,Pedro Cerize,46,SP,BRA,01:11:29,05:16:52,03:29:30,00:02:47,00:02:57,10:03:35
+ironman-fortaleza-20151008.csv,609,Guilherme Mesquita Chaves,45,Intl State,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,610,Luiz Antonio Barata,45,SAO PAULO,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,611,Gustavo Duarte,45,SP,BRA,01:07:33,06:01:33,04:54:21,00:06:07,00:10:18,12:19:52
+ironman-fortaleza-20151008.csv,612,Fernando Cembraneli,45,São Paulo,BRA,01:58:16,07:36:13,05:27:41,00:09:00,00:10:11,15:21:21
+ironman-fortaleza-20151008.csv,613,Frederico Barroso,---,CE,BRA,01:21:56,06:27:21,04:59:21,00:05:36,00:05:24,12:59:38
+ironman-fortaleza-20151008.csv,614,Mauricio Tadros,---,AM,BRA,01:15:41,07:26:24,06:07:47,00:06:42,00:14:21,15:10:55
+ironman-fortaleza-20151008.csv,615,Alfredo Ferreira Dos Santos Filho,---,CE,BRA,01:09:56,06:06:45,04:10:08,00:03:31,00:03:15,11:33:35
+ironman-fortaleza-20151008.csv,616,Ferdinand Erfe,45,SÃO PAULO,PHL,01:35:56,07:00:17,04:53:26,00:08:00,00:08:17,13:45:56
+ironman-fortaleza-20151008.csv,617,Bricio Galrao Neto,44,---,BRA,01:05:14,05:29:50,---,00:02:37,00:03:09,DNF
+ironman-fortaleza-20151008.csv,618,Márcio Pinhati,44,SAO PAULO,BRA,01:10:10,05:14:16,03:56:52,00:03:42,00:02:51,10:27:51
+ironman-fortaleza-20151008.csv,619,Paulo Adriano Dias Dos Santos,44,---,BRA,01:05:17,05:50:00,04:18:13,00:02:21,00:04:10,11:20:01
+ironman-fortaleza-20151008.csv,620,Jorge Moran,44,PR,BRA,01:13:59,06:40:18,04:13:49,00:04:10,00:06:03,12:18:19
+ironman-fortaleza-20151008.csv,621,Claudio Victor Bertonasco,54,Buenos Aires,ARG,01:34:52,07:08:56,05:30:54,00:10:40,00:05:27,14:30:49
+ironman-fortaleza-20151008.csv,622,Antonio Augusto Araujo,54,ceara,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,623,Miguel Lasalvia,54,RJ,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,624,Saussus Phil,54,---,BEL,01:22:39,05:56:10,04:32:23,00:02:37,00:05:28,11:59:17
+ironman-fortaleza-20151008.csv,625,Charles Ed Harrison,54,HI,USA,01:15:07,07:01:34,---,00:04:49,---,DNF
+ironman-fortaleza-20151008.csv,626,Thomas Dreher,54,---,DEU,01:24:58,06:11:28,06:09:43,00:04:03,00:05:44,13:55:56
+ironman-fortaleza-20151008.csv,627,Janko Zeleznikar,53,ACT,SVN,01:06:51,05:50:01,04:07:27,00:02:55,00:02:02,11:09:16
+ironman-fortaleza-20151008.csv,628,Hugo Brentani,53,BC,ITA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,629,Roberto Attianese,53,Buenos Aires,ARG,01:29:22,06:45:04,06:45:30,00:08:23,00:09:02,15:17:21
+ironman-fortaleza-20151008.csv,630,Rodrigo Surita,53,SP,BRA,01:18:28,06:43:33,05:18:29,00:06:40,00:07:30,13:34:40
+ironman-fortaleza-20151008.csv,631,Ricardo Vicente Pannunzio,53,Pilar,ARG,01:45:28,06:51:42,05:55:36,00:06:18,00:08:41,14:47:45
+ironman-fortaleza-20151008.csv,632,Charles Albani Dadam,53,SANTA CATARINA,BRA,01:13:47,05:54:13,05:04:37,00:03:55,00:05:02,12:21:34
+ironman-fortaleza-20151008.csv,633,Mario Petrelli Filho,52,---,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,634,Pedro Morganti,52,sao paulo,BRA,01:01:53,05:48:20,05:25:04,00:05:36,00:03:49,12:24:42
+ironman-fortaleza-20151008.csv,635,Philippe Gondre,52,Intl State,FRA,01:04:46,06:02:38,04:56:37,00:03:34,00:05:06,12:12:41
+ironman-fortaleza-20151008.csv,636,Johnny Baka,52,BE,BEL,01:20:04,06:41:24,05:41:39,00:07:01,00:07:01,13:57:09
+ironman-fortaleza-20151008.csv,637,Ulisses Pontes,52,ceará,BRA,01:20:16,06:04:18,04:12:42,00:03:54,00:06:18,11:47:28
+ironman-fortaleza-20151008.csv,638,Joaquim Jose Cavalcanti De Alencar,52,---,BRA,01:49:46,06:23:30,04:42:07,00:10:36,00:07:12,13:13:11
+ironman-fortaleza-20151008.csv,639,Pedro Angelo Bastos De Oliveira Lessa Lessa,52,CEARA,BRA,01:09:12,05:57:32,04:42:15,00:03:19,00:04:57,11:57:15
+ironman-fortaleza-20151008.csv,640,Lorrain Raphael Auguste Paul,52,---,FRA,01:08:36,05:38:06,04:04:37,00:03:04,00:04:12,10:58:35
+ironman-fortaleza-20151008.csv,641,Francisco Carvalhinho Junior,51,Intl State,BRA,01:13:58,05:43:23,04:05:38,00:02:12,00:03:46,11:08:57
+ironman-fortaleza-20151008.csv,642,Massao T. Uechi,51,sao paulo,BRA,01:41:45,06:42:31,05:18:41,00:05:37,00:08:21,13:56:55
+ironman-fortaleza-20151008.csv,643,Fernando Aparecido Galdino,51,SP,BRA,01:49:46,07:25:28,---,00:07:17,---,DNF
+ironman-fortaleza-20151008.csv,644,Francisco Lucidio De Queiroz Junior,51,---,BRA,01:14:17,05:50:38,04:49:13,00:06:19,00:05:07,12:05:34
+ironman-fortaleza-20151008.csv,645,Ricardo Nestor Catalan,51,Cubut,ARG,01:16:49,07:47:57,06:48:08,00:02:57,00:24:19,16:20:10
+ironman-fortaleza-20151008.csv,646,Raul Torres De Sa,51,HI,USA,01:04:54,06:02:07,04:59:22,00:02:43,00:07:29,12:16:35
+ironman-fortaleza-20151008.csv,647,Carlos Paiva Lameirinhas Conceicao,51,---,BRA,01:12:17,06:49:10,---,00:02:29,00:22:09,DNF
+ironman-fortaleza-20151008.csv,648,John Toohey,51,VIC,AUS,01:27:44,07:26:20,05:12:07,00:05:00,00:09:00,14:20:11
+ironman-fortaleza-20151008.csv,649,Henrique Araujo,50,CE,BRA,01:47:19,06:06:10,04:36:57,00:05:51,00:06:21,12:42:38
+ironman-fortaleza-20151008.csv,650,Benesio Peixoto,50,---,BRA,01:38:56,06:28:38,04:58:16,00:08:33,00:07:18,13:21:41
+ironman-fortaleza-20151008.csv,651,Marcel Almeida,50,Mato grosso,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,652,Daniel Afoa,50,SAMOA,WSM,01:46:24,07:52:11,06:42:04,00:05:26,00:08:40,16:34:45
+ironman-fortaleza-20151008.csv,653,Oscar Galvao,50,Cascais - Areia,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,654,Gilson Pinto,50,São Paulo,BRA,01:59:27,08:00:02,06:13:05,00:10:49,00:07:49,16:31:12
+ironman-fortaleza-20151008.csv,655,Joey Hinton,50,CA,USA,00:59:21,05:29:14,04:25:48,00:04:42,00:05:12,11:04:17
+ironman-fortaleza-20151008.csv,656,Moacir Yoshida,50,Paraná,BRA,01:27:10,06:06:42,05:36:13,00:04:31,00:03:43,13:18:19
+ironman-fortaleza-20151008.csv,657,Mario Oliveira,50,São Paulo,BRA,01:26:28,06:17:40,04:52:12,00:05:09,00:05:32,12:47:01
+ironman-fortaleza-20151008.csv,658,Eduardo Francisco Fernandes De Miranda,---,---,BRA,01:13:50,06:46:24,05:52:10,00:10:30,00:25:53,14:28:47
+ironman-fortaleza-20151008.csv,659,Plínio Ribeiro Maciel,50,Distrito Federal,BRA,01:07:52,06:14:43,04:09:21,00:04:30,00:07:52,11:44:18
+ironman-fortaleza-20151008.csv,660,Marcelo Eduardo Gonzalez,50,Cordoba,ARG,01:13:48,06:04:58,05:19:54,00:06:50,00:06:24,12:51:54
+ironman-fortaleza-20151008.csv,661,Elizeu Ubaldino De Oliveira Junior Ubaldino,---,CE,BRA,01:39:41,08:13:24,04:57:09,00:14:22,00:12:40,15:17:16
+ironman-fortaleza-20151008.csv,662,Sergio Lobo,59,sao paulo,BRA,01:28:24,05:53:54,04:52:11,00:08:08,00:06:22,12:28:59
+ironman-fortaleza-20151008.csv,663,Jose Antonio Da Silva Neto,59,SAO PAULO,BRA,02:03:13,07:15:13,04:53:00,00:14:12,00:10:46,14:36:24
+ironman-fortaleza-20151008.csv,664,Rodriguez Guillermo Luis,---,BA,ARG,01:42:50,06:57:11,---,00:05:20,00:48:10,DNF
+ironman-fortaleza-20151008.csv,665,Orival Andries Junior,58,São Paulo,BRA,01:05:01,06:21:54,05:05:09,00:03:19,00:06:38,12:42:01
+ironman-fortaleza-20151008.csv,666,Mirko Tuš,58,slovenija,SVN,01:12:35,06:13:18,05:31:41,00:03:17,00:03:06,13:03:57
+ironman-fortaleza-20151008.csv,667,Paulo Alves Araujo,57,Ceará,BRA,01:30:47,08:04:50,04:52:32,00:03:11,00:05:11,14:36:31
+ironman-fortaleza-20151008.csv,668,Luiz Carlos Cassemiro,57,DF,BRA,01:27:07,06:16:54,05:17:40,00:13:26,00:06:58,13:22:05
+ironman-fortaleza-20151008.csv,669,Jose Luiz Da Silva  Junior,---,AL,BRA,01:27:42,06:22:59,04:26:31,00:08:34,00:12:16,12:38:02
+ironman-fortaleza-20151008.csv,670,Alejandro Rodriguez Comas,57,Intl State,BRA,01:23:11,06:59:53,---,00:05:28,00:06:07,DNF
+ironman-fortaleza-20151008.csv,672,Luiz Gracioso,56,---,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,673,Diego Ciani,55,Intl State,ARG,01:34:28,06:06:28,04:33:12,00:04:57,00:04:43,12:23:48
+ironman-fortaleza-20151008.csv,674,Peter Gruber,55,Intl State,AUT,01:15:18,06:26:10,04:11:43,00:04:02,00:06:54,12:04:07
+ironman-fortaleza-20151008.csv,675,Ramon Alfonso Monterroso,55,São Paulo,BRA,01:18:50,06:26:05,04:57:57,00:04:13,00:03:24,12:50:29
+ironman-fortaleza-20151008.csv,676,Hugo Omar Truncellito,55,Georgia,ARG,01:13:40,06:19:03,05:31:35,00:03:18,00:05:15,13:12:51
+ironman-fortaleza-20151008.csv,677,Juan Carlos Galindo Villegas,55,Other,ESP,01:29:40,05:36:51,04:12:46,00:04:15,00:03:16,11:26:48
+ironman-fortaleza-20151008.csv,678,Claudio S T Flores,---,---,BRA,01:07:06,06:02:03,04:44:58,00:04:26,00:03:07,12:01:40
+ironman-fortaleza-20151008.csv,679,Maurice Inzirillo,54,---,CHE,01:29:59,05:35:51,03:41:39,00:03:44,00:02:58,10:54:11
+ironman-fortaleza-20151008.csv,680,Jose De Almeida Pimentel Junior,64,---,BRA,01:55:30,07:09:50,06:05:06,00:04:27,00:06:05,15:20:58
+ironman-fortaleza-20151008.csv,681,Miguel Newton Arraes,---,---,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,682,Joel Kriger,61,Parana,BRA,00:59:07,07:30:24,04:54:55,00:10:35,00:05:32,13:40:33
+ironman-fortaleza-20151008.csv,683,Piasentini Edgardo,61,Intl State,ARG,01:46:00,07:10:55,---,00:03:46,00:05:08,DNF
+ironman-fortaleza-20151008.csv,684,John Harris,60,HI,USA,02:01:39,07:34:19,05:17:07,00:09:51,00:14:59,15:17:55
+ironman-fortaleza-20151008.csv,685,Oscar Ramon Discaciati,60,Other,ARG,02:06:14,06:45:34,06:11:22,00:05:25,00:05:01,15:13:36
+ironman-fortaleza-20151008.csv,686,Marinaldo Brito,69,BAHIA,BRA,---,---,---,---,---,DNS
+ironman-fortaleza-20151008.csv,687,Benedito Machado Da Silva,69,---,BRA,01:54:50,07:16:48,05:54:02,00:13:02,00:08:21,15:27:03
+ironman-fortaleza-20151008.csv,688,Luis Mantegini,67,Mza,ARG,01:47:36,07:33:49,06:23:30,00:11:57,00:08:34,16:05:26
+ironman-fortaleza-20151008.csv,689,Daniel Marcondes,35,---,BRA,01:01:45,04:58:05,03:38:17,00:02:57,00:03:16,09:44:20
+ironman-fortaleza-20151008.csv,690,Arnaldo Laporte Junior,46,PR,BRA,01:03:16,05:25:35,03:21:54,00:05:52,00:05:49,10:02:26
+ironman-fortaleza-20151008.csv,691,Walter Arnold,63,FL,USA,01:10:43,06:23:05,05:08:02,00:06:27,00:06:16,12:54:33
+ironman-fortaleza-20151008.csv,692,Carolina Militão,27,CE,BRA,01:31:38,06:32:31,04:16:38,00:03:24,00:04:16,12:28:27
+ironman-fortaleza-20151008.csv,693,Marcelino De Miranda,34,Intl State,BRA,00:56:31,04:59:01,03:34:33,00:02:30,00:02:01,09:34:36
+ironman-fortaleza-20151008.csv,694,Cesar Dalquano,36,Paraná,BRA,00:59:11,05:16:25,03:19:55,00:03:14,00:03:17,09:42:02
+ironman-fortaleza-20151008.csv,695,Joao Peres Fuentes,---,SAO PAULO,BRA,01:32:16,05:51:07,04:55:06,00:05:24,00:17:33,12:41:26
+ironman-fortaleza-20151008.csv,697,Thiago Ferreira,35,Brasil,BRA,00:54:33,05:26:02,03:43:50,00:02:30,00:03:10,10:10:05
+ironman-fortaleza-20151008.csv,698,Ricardo Pichj Farina,50,Intl State,ARG,01:06:56,05:36:29,04:14:08,00:02:31,00:02:48,11:02:52
+ironman-fortaleza-20151008.csv,699,Otávio Romano Neto,42,São Paulo,BRA,01:06:57,05:46:02,04:23:15,00:04:33,00:06:16,11:27:03
+ironman-fortaleza-20151008.csv,700,Guilherme Garcia Cunha,27,Santa catarina,BRA,00:59:05,04:58:08,03:53:26,00:01:54,00:03:34,09:56:07
+ironman-fortaleza-20151008.csv,701,Rosecler Costa,37,Sao Paulo,BRA,01:05:14,05:31:40,04:02:35,00:02:40,00:03:01,10:45:10
+ironman-fortaleza-20151008.csv,702,Leandro Leao,31,SP,BRA,00:59:07,05:20:43,---,00:02:18,00:04:22,DNF
+ironman-fortaleza-20151008.csv,703,Carlos Washington Teixeira Lobao,---,DF,BRA,01:15:43,06:15:24,04:28:56,00:03:41,00:04:02,12:07:46
+ironman-fortaleza-20151008.csv,704,Hakanay Queiroz,35,Goias,BRA,---,05:24:35,03:28:28,01:08:30,00:04:24,10:05:57
+ironman-fortaleza-20151008.csv,705,Rafael Souza,32,Intl State,BRA,00:56:23,05:49:40,05:18:35,00:01:41,00:02:16,12:08:35
+ironman-fortaleza-20151008.csv,706,Raimundo Oliveira Menezes Menezes,---,CE,BRA,---,07:54:14,06:01:52,01:14:55,00:13:52,15:24:53
+ironman-fortaleza-20151008.csv,707,Flavia Orcas,39,PR,BRA,01:19:17,05:59:18,04:14:38,00:03:23,00:03:19,11:39:55
+ironman-fortaleza-20151008.csv,708,Arthur Alvim Faria Da Silva,37,---,BRA,01:12:21,05:05:59,03:46:30,00:02:31,00:02:52,10:10:13
+ironman-fortaleza-20151008.csv,709,Eduardo Sarhan,39,---,BRA,00:56:25,07:18:34,---,00:02:44,---,DNF
+ironman-fortaleza-20151008.csv,710,Nilton Jorge Cabral,43,SP,PRT,01:21:53,05:24:46,04:12:03,00:03:46,00:04:05,11:06:33
+ironman-fortaleza-20151008.csv,711,Thiago Mohana,31,Intl State,BRA,00:58:52,05:31:54,03:25:58,00:01:58,00:02:19,10:01:01
+ironman-fortaleza-20151008.csv,712,Reinhold Garnitschnig,57,---,AUT,01:13:44,05:30:55,04:15:32,00:02:35,00:04:49,11:07:35
+ironman-fortaleza-20151008.csv,713,Mariano Haymes,46,CABA,ARG,01:36:10,06:54:53,06:08:58,00:09:37,00:12:13,15:01:51
+ironman-fortaleza-20151008.csv,714,Anderson Goncalves,45,SP,BRA,01:05:02,06:08:58,04:32:43,00:05:50,00:06:52,11:59:25

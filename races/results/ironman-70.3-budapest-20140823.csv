@@ -1,0 +1,1520 @@
+#File=ironman-70.3-budapest-20140823.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-budapest-20140823.csv,1,Ronnie Schildknecht,34,---,CHE,00:23:55,02:09:39,01:14:36,00:01:29,00:01:45,03:51:24
+ironman-70.3-budapest-20140823.csv,2,Sean Donnelly,26,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,3,Alberto Casadei,28,Intl State,ITA,00:22:08,02:09:54,01:13:31,00:01:26,00:01:51,03:48:50
+ironman-70.3-budapest-20140823.csv,4,Maxim Kriat,29,FL,RUS,00:23:29,02:10:02,01:16:34,00:01:29,00:01:44,03:53:18
+ironman-70.3-budapest-20140823.csv,5,Jaroslav Kovacic,30,Slovenia,SVN,00:22:33,02:14:10,01:20:36,00:01:50,00:01:39,04:00:48
+ironman-70.3-budapest-20140823.csv,6,Rod De Kanel,33,---,FRA,00:24:01,02:20:41,01:28:47,00:01:53,00:02:06,04:17:28
+ironman-70.3-budapest-20140823.csv,7,Arturo Garza,37,Estado de Mexico,MEX,00:22:32,02:16:35,01:40:56,00:01:31,00:02:04,04:23:38
+ironman-70.3-budapest-20140823.csv,8,Gyula Kis,34,---,HUN,00:23:52,02:17:01,01:18:12,00:01:54,00:01:58,04:02:57
+ironman-70.3-budapest-20140823.csv,9,Simone Mantolini,32,Intl State,ITA,00:26:22,02:18:21,01:19:56,00:02:22,00:01:54,04:08:55
+ironman-70.3-budapest-20140823.csv,10,Christian Jais,35,---,DEU,00:25:42,02:15:12,01:23:12,00:01:43,00:01:45,04:07:34
+ironman-70.3-budapest-20140823.csv,11,Bruno Pais,32,Intl State,PRT,00:23:02,02:09:28,01:12:34,00:01:00,00:01:35,03:47:39
+ironman-70.3-budapest-20140823.csv,12,Martin Kleinl,33,Other,AUT,00:29:44,02:15:22,01:23:02,00:01:56,00:01:53,04:11:57
+ironman-70.3-budapest-20140823.csv,13,Attila Szabó,26,---,HUN,00:22:25,02:22:08,01:17:19,00:02:30,00:02:03,04:06:25
+ironman-70.3-budapest-20140823.csv,14,Tomas Mika,27,Intl State,CZE,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,15,Guillaume Doree,24,---,FRA,00:23:57,02:16:44,01:17:20,00:01:52,00:02:04,04:01:57
+ironman-70.3-budapest-20140823.csv,16,Andreas Thissen,31,DE,DEU,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,17,Guðmundur Joensen,30,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,18,Marek Nemcik,38,Intl State,SVK,00:32:14,02:34:45,01:37:44,00:02:14,00:03:00,04:49:57
+ironman-70.3-budapest-20140823.csv,19,Gergo Molnar,28,Intl State,HUN,00:23:06,02:18:36,01:21:09,00:01:00,00:02:08,04:05:59
+ironman-70.3-budapest-20140823.csv,20,Marton Cseik,21,Essex,HUN,00:26:49,02:18:13,01:15:40,00:02:02,00:01:59,04:04:43
+ironman-70.3-budapest-20140823.csv,21,Denis Sketako,25,SLOVENIA,SVN,00:28:17,02:20:21,01:21:12,00:01:58,00:01:43,04:13:31
+ironman-70.3-budapest-20140823.csv,22,Zoltan Benocs,30,---,HUN,00:23:56,02:16:53,01:26:53,00:01:55,00:02:16,04:11:53
+ironman-70.3-budapest-20140823.csv,23,Konstantin Seufert,23,---,DEU,00:25:41,02:11:54,01:20:54,00:01:48,00:02:19,04:02:36
+ironman-70.3-budapest-20140823.csv,24,Georg Swoboda,36,---,AUT,00:26:32,02:08:48,01:19:58,00:02:20,00:02:09,03:59:47
+ironman-70.3-budapest-20140823.csv,25,Audric Lucini,22,FR,FRA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,26,Zoltán Bíró,22,---,HUN,00:26:24,02:20:07,01:39:24,00:01:49,00:02:35,04:30:19
+ironman-70.3-budapest-20140823.csv,27,Dávid Bartos,24,---,HUN,00:25:23,02:25:18,01:25:35,00:02:58,00:02:23,04:21:37
+ironman-70.3-budapest-20140823.csv,28,Dávid Hankó,22,---,HUN,00:22:26,02:14:06,01:16:58,00:02:00,00:01:55,03:57:25
+ironman-70.3-budapest-20140823.csv,29,Péter Szilágyi,25,---,HUN,00:25:35,02:20:52,01:22:16,00:01:51,00:02:33,04:13:07
+ironman-70.3-budapest-20140823.csv,30,Ivan Jezko,36,Slovakia,SVK,00:28:14,02:23:11,01:21:23,00:02:11,00:01:52,04:16:51
+ironman-70.3-budapest-20140823.csv,31,Eric Watson,24,WA,BHR,00:22:14,02:27:15,01:13:22,00:02:00,00:01:48,04:06:39
+ironman-70.3-budapest-20140823.csv,32,Michael Murphy,25,---,BHR,00:22:16,---,---,00:01:35,---,DNF
+ironman-70.3-budapest-20140823.csv,33,László Tarnai,20,---,HUN,00:23:46,02:17:50,01:14:04,00:01:00,00:01:41,03:58:21
+ironman-70.3-budapest-20140823.csv,34,Tony Puglia,32,---,ITA,00:28:17,02:21:59,01:37:12,00:02:25,00:02:25,04:32:18
+ironman-70.3-budapest-20140823.csv,35,Martin Babusik,40,---,SVK,00:33:54,02:41:45,01:41:18,00:03:28,00:02:58,05:03:23
+ironman-70.3-budapest-20140823.csv,36,Zsombor Deak,25,NSW,ROU,00:26:26,02:18:45,01:20:38,00:01:56,00:02:09,04:09:54
+ironman-70.3-budapest-20140823.csv,37,Gergo Badar,24,---,HUN,00:27:38,02:17:30,01:18:55,00:01:57,00:01:43,04:07:43
+ironman-70.3-budapest-20140823.csv,38,Vincent Riess,28,AT,AUT,00:25:19,02:23:16,01:22:36,00:02:08,00:02:43,04:16:02
+ironman-70.3-budapest-20140823.csv,39,Benjamin Sanson,43,---,FRA,00:22:05,02:09:43,01:27:50,00:01:42,00:02:16,04:03:36
+ironman-70.3-budapest-20140823.csv,40,Johann Lindner,46,---,AUT,00:26:32,---,---,00:01:51,---,DNF
+ironman-70.3-budapest-20140823.csv,41,Markus Thomschke,30,---,DEU,00:24:20,02:10:08,01:17:16,00:01:48,00:01:45,03:55:17
+ironman-70.3-budapest-20140823.csv,42,Gergely Nagy,32,---,HUN,00:25:39,02:15:18,01:34:27,00:01:52,00:02:12,04:19:28
+ironman-70.3-budapest-20140823.csv,50,Erika Csomor,40,---,HUN,00:29:56,02:27:48,01:24:23,00:01:38,00:02:02,04:25:47
+ironman-70.3-budapest-20140823.csv,51,Michelle Vesterby,30,---,DNK,00:24:21,02:25:18,01:25:45,00:01:55,00:02:02,04:19:21
+ironman-70.3-budapest-20140823.csv,52,Anna Eberhardt,31,---,HUN,00:33:11,02:24:26,01:24:49,00:01:46,00:02:01,04:26:13
+ironman-70.3-budapest-20140823.csv,53,Kamila Polak,35,---,AUT,00:28:38,02:29:10,01:29:01,00:01:53,00:02:06,04:30:48
+ironman-70.3-budapest-20140823.csv,54,Zsuzsanna Harsanyi,38,---,HUN,00:29:52,02:41:23,01:37:36,00:02:00,00:02:04,04:52:55
+ironman-70.3-budapest-20140823.csv,55,Gabriella Zelinka,23,---,HUN,00:27:20,02:27:28,---,00:02:30,00:02:08,DNF
+ironman-70.3-budapest-20140823.csv,56,Juliane Straub,30,DE,DEU,00:26:36,02:36:14,01:27:07,00:01:35,00:02:12,04:33:44
+ironman-70.3-budapest-20140823.csv,57,Gréta Horváth,24,---,HUN,00:24:21,02:43:51,01:25:39,00:01:38,00:02:08,04:37:37
+ironman-70.3-budapest-20140823.csv,101,Holly Davis,23,---,GBR,00:35:07,03:07:32,02:06:45,00:04:02,00:04:21,05:57:47
+ironman-70.3-budapest-20140823.csv,102,Sabine Dettmar,23,---,DEU,00:29:28,02:38:43,01:40:17,00:01:39,00:01:59,04:52:06
+ironman-70.3-budapest-20140823.csv,103,Jelena Dumanovic,23,---,SRB,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,105,Aya Hallouda,22,sheikh zayed,EGY,00:36:58,03:24:06,02:09:40,00:03:52,00:03:53,06:18:29
+ironman-70.3-budapest-20140823.csv,106,Jana Stenzel,24,---,DEU,00:42:32,03:00:15,02:04:04,00:05:15,00:04:53,05:56:59
+ironman-70.3-budapest-20140823.csv,107,Judit Szántó,23,---,HUN,00:44:49,03:22:06,02:29:21,00:05:42,00:10:26,06:52:24
+ironman-70.3-budapest-20140823.csv,108,Orsolya Urbán,22,---,HUN,00:27:28,03:04:23,02:05:30,00:03:28,00:05:34,05:46:23
+ironman-70.3-budapest-20140823.csv,109,Jelena Vasiljevic,23,Dubai,SRB,00:30:19,02:53:35,01:54:28,00:02:36,00:03:31,05:24:29
+ironman-70.3-budapest-20140823.csv,110,Dione Wang,21,CA,SGP,00:41:32,03:01:00,02:23:09,00:04:42,00:03:35,06:13:58
+ironman-70.3-budapest-20140823.csv,111,Eszter Wirth,19,---,HUN,00:29:21,03:11:42,02:40:17,00:03:57,00:02:56,06:28:13
+ironman-70.3-budapest-20140823.csv,112,Haya Al Khaled,24,---,KWT,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,113,Samantha Allbrooke,26,West Midlands,GBR,00:43:47,03:02:44,02:11:05,00:04:20,00:07:14,06:09:10
+ironman-70.3-budapest-20140823.csv,114,Éva Ambrus,28,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,115,Zita Bíró,28,---,HUN,01:10:05,03:25:12,02:34:25,00:05:03,00:07:50,07:22:35
+ironman-70.3-budapest-20140823.csv,116,Barbara Fazekas,25,---,HUN,00:43:45,03:29:42,02:19:13,00:08:27,00:07:00,06:48:07
+ironman-70.3-budapest-20140823.csv,117,Brigitta Horvath,24,---,HUN,00:49:09,03:17:07,02:04:47,00:07:16,00:11:25,06:29:44
+ironman-70.3-budapest-20140823.csv,118,Hajnalka Jakab-Benke,29,---,ROU,00:32:29,02:55:32,01:52:30,00:02:51,00:02:53,05:26:15
+ironman-70.3-budapest-20140823.csv,119,Amy Kilpin,28,Herts,GBR,00:32:27,02:49:52,01:47:19,00:02:37,00:02:42,05:14:57
+ironman-70.3-budapest-20140823.csv,120,Dóra Kovács,28,---,HUN,00:40:27,03:15:25,02:16:56,00:03:20,00:04:40,06:20:48
+ironman-70.3-budapest-20140823.csv,121,Dora Kovats,28,---,HUN,00:44:47,03:08:58,02:11:26,00:05:09,00:04:17,06:14:37
+ironman-70.3-budapest-20140823.csv,122,Leila Kozma,28,---,HUN,00:38:14,02:56:53,02:01:52,00:03:19,00:04:18,05:44:36
+ironman-70.3-budapest-20140823.csv,123,Barbara Kruta,28,Dublin,SVK,00:42:14,02:42:29,01:52:11,00:07:45,00:03:56,05:28:35
+ironman-70.3-budapest-20140823.csv,124,Monika Luberadzka,26,---,POL,00:35:59,03:11:37,02:03:50,00:02:45,00:02:40,05:56:51
+ironman-70.3-budapest-20140823.csv,125,Anett Mészáros,29,---,HUN,00:47:12,03:39:25,02:26:28,00:10:12,00:16:33,07:19:50
+ironman-70.3-budapest-20140823.csv,126,Mirjam Muckenhuber,28,---,AUT,00:30:33,02:31:44,01:32:26,00:02:50,00:02:30,04:40:03
+ironman-70.3-budapest-20140823.csv,127,Sharon O'Hara,26,Co. Sligo,IRL,00:36:30,02:45:52,02:05:36,00:03:40,00:07:20,05:38:58
+ironman-70.3-budapest-20140823.csv,128,Daria Raadczuk,27,---,POL,00:27:51,02:37:07,01:34:28,00:01:46,00:02:34,04:43:46
+ironman-70.3-budapest-20140823.csv,129,Claire Rye,27,Cambridgeshire,NZL,00:31:18,02:46:58,01:40:25,00:03:10,00:03:36,05:05:27
+ironman-70.3-budapest-20140823.csv,130,Judit Sándor,26,---,HUN,00:42:31,03:21:43,02:47:39,00:09:29,00:10:42,07:12:04
+ironman-70.3-budapest-20140823.csv,131,Zuzana Slavotinkova,28,---,CZE,00:42:31,03:10:41,01:52:21,00:04:10,00:03:52,05:53:35
+ironman-70.3-budapest-20140823.csv,132,Katariina Soikkanen,27,uusimaa,FIN,00:36:23,02:39:08,01:39:09,00:02:20,00:02:28,04:59:28
+ironman-70.3-budapest-20140823.csv,133,Sarah Van Urk,29,---,NLD,00:51:58,03:31:40,03:01:59,00:05:17,00:05:19,07:36:13
+ironman-70.3-budapest-20140823.csv,134,Eszter Várszegi,29,---,HUN,00:48:37,03:08:50,01:56:18,00:08:30,00:07:42,06:09:57
+ironman-70.3-budapest-20140823.csv,135,Natalie Wofford,28,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,136,Eszter Árgyelán,32,---,HUN,00:52:34,03:41:28,02:43:49,00:10:17,00:09:30,07:37:38
+ironman-70.3-budapest-20140823.csv,137,Sabrina Bauer,30,---,DEU,00:38:37,03:13:49,02:44:47,00:04:15,00:04:07,06:45:35
+ironman-70.3-budapest-20140823.csv,138,Melanie Baumann,34,---,CHE,00:38:44,02:42:56,01:44:37,00:03:26,00:02:44,05:12:27
+ironman-70.3-budapest-20140823.csv,139,Jocelyn Bretherick,31,london,ZAF,00:30:54,02:45:30,01:46:16,00:03:18,00:02:21,05:08:19
+ironman-70.3-budapest-20140823.csv,140,Claire Compton,32,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,141,Erika Farkas,33,---,HUN,00:37:29,02:54:34,01:49:27,00:03:07,00:02:29,05:27:06
+ironman-70.3-budapest-20140823.csv,142,Bernadett Fodor,33,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,144,Gabriela Gennari,33,SAO PAULO,BRA,00:39:10,02:45:01,01:50:34,00:03:03,00:03:06,05:20:54
+ironman-70.3-budapest-20140823.csv,146,Larissa Gleede,34,---,DEU,00:34:00,03:02:34,02:07:28,00:04:34,00:05:51,05:54:27
+ironman-70.3-budapest-20140823.csv,147,Laura Gonzalez,32,HI,USA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,148,Jessica Hill,30,---,AUS,00:38:42,03:03:56,02:01:03,00:03:24,00:04:01,05:51:06
+ironman-70.3-budapest-20140823.csv,149,Eniko Horváth,32,---,HUN,00:50:58,03:31:13,02:08:50,00:07:44,00:09:43,06:48:28
+ironman-70.3-budapest-20140823.csv,150,Martina Ilijanic,30,Zagreb,HRV,00:32:04,02:42:25,01:39:15,00:02:18,00:02:08,04:58:10
+ironman-70.3-budapest-20140823.csv,151,Marta Ivanusic,33,Slovenia,SVN,00:33:40,02:48:01,01:35:25,00:04:44,00:02:56,05:04:46
+ironman-70.3-budapest-20140823.csv,152,Tamara Schober,30,---,AUT,00:36:36,02:44:04,01:44:18,00:04:23,00:02:56,05:12:17
+ironman-70.3-budapest-20140823.csv,153,Adrienn Konkoly,32,---,HUN,00:32:24,02:52:47,01:52:42,00:02:37,00:03:21,05:23:51
+ironman-70.3-budapest-20140823.csv,154,Judit Koronika,30,---,HUN,00:29:47,02:47:22,01:47:39,00:03:39,00:03:03,05:11:30
+ironman-70.3-budapest-20140823.csv,155,Katalin Kosa,34,---,HUN,00:57:15,03:34:21,02:37:42,00:05:43,00:06:46,07:21:47
+ironman-70.3-budapest-20140823.csv,156,Laura Lábodi,34,---,HUN,00:27:59,03:09:39,01:45:43,00:03:12,00:03:34,05:30:07
+ironman-70.3-budapest-20140823.csv,157,Fruzsina Lantos,31,---,HUN,00:37:40,02:52:36,01:47:16,00:04:46,00:04:21,05:26:39
+ironman-70.3-budapest-20140823.csv,158,Raisa Loivamaa,34,Finland,FIN,00:41:54,03:31:24,02:14:08,00:06:40,00:05:48,06:39:54
+ironman-70.3-budapest-20140823.csv,159,Eniko Merhay,34,Budapest,HUN,00:46:38,03:12:58,02:11:47,00:07:29,00:10:01,06:28:53
+ironman-70.3-budapest-20140823.csv,160,Camila Negri,30,---,BRA,00:35:38,02:48:04,01:37:09,00:02:56,00:02:50,05:06:37
+ironman-70.3-budapest-20140823.csv,161,Karen Oliver,32,---,VEN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,162,Yulia Peltinovich,31,Moscow,RUS,00:35:59,03:33:50,02:19:59,00:03:41,00:04:10,06:37:39
+ironman-70.3-budapest-20140823.csv,163,Caroline Rakowitz,32,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,164,Tereza Rydvanová,31,Czech Republic,CZE,00:46:10,03:07:30,01:55:54,00:05:54,00:04:07,05:59:35
+ironman-70.3-budapest-20140823.csv,165,Dennae Starkey,31,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,166,Audrey Syren,30,---,FRA,00:32:11,02:40:55,01:42:32,00:02:40,00:02:31,05:00:49
+ironman-70.3-budapest-20140823.csv,167,Timea Szabo,30,---,HUN,00:42:45,03:26:08,02:57:22,00:11:32,00:10:33,07:28:20
+ironman-70.3-budapest-20140823.csv,168,Szilvia Szereny,34,---,HUN,00:41:47,03:21:56,02:16:39,00:06:40,00:10:52,06:37:54
+ironman-70.3-budapest-20140823.csv,169,Renata Varga,30,PA,HUN,00:28:52,02:50:00,01:38:34,00:02:27,00:02:37,05:02:30
+ironman-70.3-budapest-20140823.csv,170,Nicola Wood,33,---,GBR,00:30:50,02:56:39,01:35:28,00:02:33,00:02:10,05:07:40
+ironman-70.3-budapest-20140823.csv,171,Gehan Abou-Ameira,35,London,EGY,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,172,Elisa Alonso Sanz,39,Luxembourg,ESP,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,173,Dora Bank,39,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,174,Stacey Banks,35,MO,USA,00:57:06,04:20:47,03:09:08,00:06:24,00:06:02,08:39:27
+ironman-70.3-budapest-20140823.csv,175,Daniela Dedek,35,---,AUT,00:46:03,03:21:06,01:57:18,00:06:12,00:06:01,06:16:40
+ironman-70.3-budapest-20140823.csv,176,Petra Dorr,35,---,AUT,00:32:31,02:55:54,02:03:35,00:03:55,00:06:08,05:42:03
+ironman-70.3-budapest-20140823.csv,177,Krisztina Egressy,38,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,178,Clemirt Flores,38,pe,CUB,00:57:04,03:21:20,02:03:24,00:04:22,00:05:19,06:31:29
+ironman-70.3-budapest-20140823.csv,179,Maria Gennari,35,Sao Paulo,BRA,00:41:24,02:52:57,01:49:42,00:03:33,00:02:56,05:30:32
+ironman-70.3-budapest-20140823.csv,180,Sabine Haller,38,AT,AUT,00:37:58,02:50:37,01:44:40,00:04:21,00:03:33,05:21:09
+ironman-70.3-budapest-20140823.csv,181,Sandra Henchoz,38,MN,CHE,00:52:06,03:00:06,02:01:30,00:05:31,00:04:58,06:04:11
+ironman-70.3-budapest-20140823.csv,182,Nathalie Huber,39,---,CHE,00:32:23,02:59:58,02:05:16,00:02:52,00:03:17,05:43:46
+ironman-70.3-budapest-20140823.csv,183,Petra Jirankova,37,Prague,CZE,00:33:53,02:37:53,01:39:17,00:02:27,00:02:47,04:56:17
+ironman-70.3-budapest-20140823.csv,184,Maria Kamisaki,37,---,GRC,00:31:24,02:54:03,01:52:41,00:03:55,00:04:18,05:26:21
+ironman-70.3-budapest-20140823.csv,185,Fie Kemplar,39,---,DNK,00:35:24,02:50:15,01:55:12,00:05:35,00:04:06,05:30:32
+ironman-70.3-budapest-20140823.csv,186,Szilvia Lengyel,39,---,HUN,00:42:25,03:29:04,02:22:17,00:11:59,00:14:23,07:00:08
+ironman-70.3-budapest-20140823.csv,187,Szofi Malatinszky,34,---,HUN,00:31:13,02:49:13,01:38:02,00:03:53,00:03:19,05:05:40
+ironman-70.3-budapest-20140823.csv,188,Erin Mark,38,NY,USA,00:36:14,03:22:03,02:28:09,00:04:15,00:05:32,06:36:13
+ironman-70.3-budapest-20140823.csv,189,Ladislava Markova,35,Pardubicky kraj,CZE,00:34:21,02:51:31,01:50:08,00:02:34,00:02:50,05:21:24
+ironman-70.3-budapest-20140823.csv,190,Luiz Eduardo Medici,37,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,191,Susan Nagy,36,NZ,HUN,00:46:48,03:12:22,02:20:19,00:10:22,00:15:05,06:44:56
+ironman-70.3-budapest-20140823.csv,192,Shannon Pearce,34,---,GBR,00:32:26,03:19:04,01:41:15,00:04:04,00:03:12,05:40:01
+ironman-70.3-budapest-20140823.csv,193,Barbara Pliessnig,37,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,194,Johanna Priglinger,38,---,AUT,00:30:55,02:42:54,01:44:06,00:02:59,00:02:40,05:03:34
+ironman-70.3-budapest-20140823.csv,195,Sarka Sajner,36,---,CZE,00:39:46,03:00:01,01:59:55,00:04:12,00:07:18,05:51:12
+ironman-70.3-budapest-20140823.csv,196,Sonja Schnitzler,36,---,AUT,00:45:13,03:03:43,02:12:43,00:04:21,00:04:36,06:10:36
+ironman-70.3-budapest-20140823.csv,197,Stephanie Sherlock,38,NSW,AUS,00:39:40,02:55:22,02:16:14,00:03:10,00:03:58,05:58:24
+ironman-70.3-budapest-20140823.csv,198,Sezin Tacir,37,Istanbul,TUR,00:37:11,02:47:36,01:51:35,00:02:47,00:03:40,05:22:49
+ironman-70.3-budapest-20140823.csv,199,Daniela Torok,36,Timis,ROU,00:42:23,02:57:33,02:00:24,00:03:11,00:03:18,05:46:49
+ironman-70.3-budapest-20140823.csv,200,Nóra Vándor,39,---,HUN,00:40:50,02:43:31,01:47:30,00:02:53,00:03:01,05:17:45
+ironman-70.3-budapest-20140823.csv,201,Inka Wachter,37,---,DEU,00:39:16,03:09:01,02:44:36,00:04:30,00:04:42,06:42:05
+ironman-70.3-budapest-20140823.csv,202,Robyn Anderson,41,---,ZAF,00:32:25,02:48:09,01:47:15,00:02:43,00:04:21,05:14:53
+ironman-70.3-budapest-20140823.csv,203,Lorraine Baker,42,Hampshire,GBR,00:32:24,02:35:00,01:41:14,00:02:25,00:02:15,04:53:18
+ironman-70.3-budapest-20140823.csv,204,Gabriella Benke,40,---,HUN,00:42:16,03:30:57,01:55:35,00:09:26,00:09:55,06:28:09
+ironman-70.3-budapest-20140823.csv,205,Mania Bikof,43,Greece,GRC,00:32:18,03:24:37,02:05:34,00:03:36,00:03:27,06:09:32
+ironman-70.3-budapest-20140823.csv,206,Sylvie Brun,41,Aquitaine,FRA,00:32:04,02:42:42,01:48:24,00:03:18,00:02:49,05:09:17
+ironman-70.3-budapest-20140823.csv,207,Christiana Butter,41,---,AUT,00:35:57,02:40:40,01:46:44,00:02:43,00:02:31,05:08:35
+ironman-70.3-budapest-20140823.csv,208,Lauren Canty,43,WA,USA,00:47:22,03:44:36,02:54:52,00:08:09,00:08:14,07:43:13
+ironman-70.3-budapest-20140823.csv,209,Izabella Cesko,43,---,HUN,00:51:53,03:51:18,02:46:57,00:04:09,00:06:09,07:40:26
+ironman-70.3-budapest-20140823.csv,210,Dana Crkvova,42,Czech Republic,CZE,00:44:45,03:32:34,02:09:42,00:03:42,00:03:55,06:34:38
+ironman-70.3-budapest-20140823.csv,211,Petra Csizmadia,40,NC,USA,00:32:19,02:52:23,01:47:29,00:03:46,00:03:09,05:19:06
+ironman-70.3-budapest-20140823.csv,212,Belinda Dawson,41,Suffolk,GBR,00:50:45,03:31:16,02:48:31,00:05:43,00:06:23,07:22:38
+ironman-70.3-budapest-20140823.csv,213,Lucilla De Florio,43,DE,ITA,00:41:20,03:22:46,02:02:03,00:10:55,00:06:40,06:23:44
+ironman-70.3-budapest-20140823.csv,214,Shin Donlan,43,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,215,Beatrix Dvorak,42,---,AUT,00:41:19,02:44:12,01:44:24,00:03:00,00:02:52,05:15:47
+ironman-70.3-budapest-20140823.csv,216,Robyn Hamilton,40,AB,ZAF,00:38:03,03:42:29,01:56:29,00:07:50,00:05:40,06:30:31
+ironman-70.3-budapest-20140823.csv,217,Nóra Kelemen,42,---,HUN,00:38:21,03:05:10,01:52:05,00:04:25,00:04:23,05:44:24
+ironman-70.3-budapest-20140823.csv,218,Elisabeth Koglbauer,43,---,AUT,00:34:27,02:46:04,01:53:53,00:02:47,00:03:18,05:20:29
+ironman-70.3-budapest-20140823.csv,219,Erzsébet Kovács-Diószegi,42,---,HUN,00:42:33,03:30:01,02:03:36,00:07:34,00:06:38,06:30:22
+ironman-70.3-budapest-20140823.csv,220,Sasa Lavric,44,STAJERSKA,SVN,00:31:07,02:58:11,02:27:30,00:05:22,00:04:12,06:06:22
+ironman-70.3-budapest-20140823.csv,221,Krisztina Lipóth,44,---,HUN,00:44:45,03:24:11,01:56:05,00:07:05,00:07:27,06:19:33
+ironman-70.3-budapest-20140823.csv,222,Erin M Magrisi,39,AE,USA,00:37:36,02:59:00,01:47:24,00:05:20,00:06:29,05:35:49
+ironman-70.3-budapest-20140823.csv,223,Felicity Martini,41,---,CAN,00:42:41,02:59:45,02:21:04,00:04:07,00:04:06,06:11:43
+ironman-70.3-budapest-20140823.csv,224,Sarka Mikova,44,Praha,CZE,00:46:04,03:00:19,01:51:29,00:06:08,00:04:16,05:48:16
+ironman-70.3-budapest-20140823.csv,225,Gyongyi Nagy,40,---,HUN,00:37:17,03:13:24,01:51:05,00:06:43,00:07:27,05:55:56
+ironman-70.3-budapest-20140823.csv,226,Daniella Offer,42,---,GBR,00:53:19,03:14:27,02:15:56,00:09:22,00:09:37,06:42:41
+ironman-70.3-budapest-20140823.csv,227,Lívia Pálfi,41,---,HUN,01:00:16,03:47:37,02:15:32,00:08:31,00:06:04,07:18:00
+ironman-70.3-budapest-20140823.csv,228,Marketa Schusterova,39,ON,CZE,00:42:24,03:04:18,02:07:50,00:08:47,00:08:08,06:11:27
+ironman-70.3-budapest-20140823.csv,229,Cindy Stadelmann,39,---,DEU,00:43:09,02:57:41,01:51:23,00:04:57,00:03:35,05:40:45
+ironman-70.3-budapest-20140823.csv,230,Katalin Szabó,40,Jász-Nagykun-Szolnok,HUN,00:49:39,03:26:19,02:00:36,00:04:00,00:04:49,06:25:23
+ironman-70.3-budapest-20140823.csv,231,Bianca Thönnes,40,---,DEU,00:34:57,02:42:45,01:37:04,00:03:02,00:03:32,05:01:20
+ironman-70.3-budapest-20140823.csv,232,Maria Vella-Galea,41,Lija,MLT,00:46:01,03:39:21,03:01:01,00:03:37,00:04:50,07:34:50
+ironman-70.3-budapest-20140823.csv,233,Nicole Best,46,---,DEU,00:27:54,02:35:25,01:34:14,00:01:50,00:02:14,04:41:37
+ironman-70.3-budapest-20140823.csv,234,Donatelle Camilleri,45,---,MLT,00:32:27,02:47:17,01:58:04,00:03:03,00:02:55,05:23:46
+ironman-70.3-budapest-20140823.csv,235,Laurie Clayton,48,FL,USA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,236,Heather Dixon,48,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,237,Lori Dunbar-Smith,45,---,GBR,00:37:19,03:05:14,01:53:54,00:05:14,00:04:22,05:46:03
+ironman-70.3-budapest-20140823.csv,238,Eva Hackner,47,---,AUT,00:35:56,03:15:06,02:07:42,00:04:29,00:04:46,06:07:59
+ironman-70.3-budapest-20140823.csv,239,Sue Himes,45,AE,USA,00:36:10,02:48:35,01:44:34,00:04:25,00:02:52,05:16:36
+ironman-70.3-budapest-20140823.csv,240,Renate Klotzner,48,AT,AUT,00:38:23,03:04:34,02:07:47,00:05:34,00:05:15,06:01:33
+ironman-70.3-budapest-20140823.csv,241,Christine Krimmel,45,AT,AUT,00:46:52,03:24:01,02:09:01,00:05:16,00:04:20,06:29:30
+ironman-70.3-budapest-20140823.csv,242,Tatjana Kuhar,49,LJUBLJANA,SVN,00:39:03,03:08:23,02:38:11,00:04:21,00:03:40,06:33:38
+ironman-70.3-budapest-20140823.csv,243,Karin Kürner,47,---,AUT,00:46:13,03:11:17,01:58:18,00:04:15,00:03:25,06:03:28
+ironman-70.3-budapest-20140823.csv,244,Simone Lechner,47,---,DEU,00:32:49,02:46:54,01:52:18,00:03:03,00:03:09,05:18:13
+ironman-70.3-budapest-20140823.csv,245,Lisen Mcgladdery,46,NY,GBR,00:36:12,02:59:46,01:52:53,00:03:22,00:03:01,05:35:14
+ironman-70.3-budapest-20140823.csv,247,Beate Müller,45,---,DEU,00:53:23,03:16:44,02:14:43,00:00:50,00:04:44,06:30:24
+ironman-70.3-budapest-20140823.csv,248,Zsuzsanna Nagy,44,---,HUN,00:55:37,03:34:39,02:23:49,00:12:57,00:04:38,07:11:40
+ironman-70.3-budapest-20140823.csv,249,Nilhan Özpagada,48,arnavutköy,TUR,00:41:36,04:02:42,02:41:46,00:10:32,00:05:34,07:42:10
+ironman-70.3-budapest-20140823.csv,250,Marion Simsch,46,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,251,Christianne Stegmann,47,Intl State,BRA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,252,Edda Sterl-Klemm,48,---,AUT,00:33:41,02:48:21,01:42:05,00:03:23,00:03:09,05:10:39
+ironman-70.3-budapest-20140823.csv,253,Susanne Stoimaier,47,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,254,Polona Strnad Volkar,46,---,SVN,00:39:31,03:09:14,01:52:22,00:04:54,00:05:03,05:51:04
+ironman-70.3-budapest-20140823.csv,255,Marianna Tecsy,48,---,HUN,00:32:36,03:04:06,01:55:27,00:04:22,00:03:23,05:39:54
+ironman-70.3-budapest-20140823.csv,256,Rose van der Haven,45,---,NLD,00:33:08,02:44:54,01:57:45,00:03:01,00:02:59,05:21:47
+ironman-70.3-budapest-20140823.csv,257,Helena Van Wyk,45,---,ZAF,00:35:57,02:42:09,01:50:23,00:03:08,00:02:50,05:14:27
+ironman-70.3-budapest-20140823.csv,258,Miriam Wall,46,galway,IRL,00:37:33,03:10:33,01:49:09,00:02:15,00:03:51,05:43:21
+ironman-70.3-budapest-20140823.csv,259,Manuela Wally,45,---,AUT,00:35:18,03:05:56,---,00:03:05,00:03:50,DNF
+ironman-70.3-budapest-20140823.csv,260,Renate Weber,45,DE,DEU,00:40:25,02:51:18,01:38:27,00:03:34,00:03:09,05:16:53
+ironman-70.3-budapest-20140823.csv,261,Viera Böhler,50,---,DEU,00:49:38,03:12:48,01:52:24,00:08:00,00:04:50,06:07:40
+ironman-70.3-budapest-20140823.csv,262,Danielle Deley,50,---,BEL,00:31:57,02:52:03,01:39:36,00:02:41,00:02:55,05:09:12
+ironman-70.3-budapest-20140823.csv,264,Angela Murns,52,---,GBR,00:53:58,03:23:20,02:13:10,00:05:43,00:05:18,06:41:29
+ironman-70.3-budapest-20140823.csv,265,Durdica Orepic,50,Croatia,HRV,00:43:08,02:56:36,01:46:04,00:03:51,00:03:54,05:33:33
+ironman-70.3-budapest-20140823.csv,266,Barbara Rydel,50,AT,AUT,00:30:51,03:06:45,02:14:17,00:05:12,00:05:21,06:02:26
+ironman-70.3-budapest-20140823.csv,267,Valentina Salvatore,50,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,268,Bernadette Byrne,59,UK,GBR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,269,Nicoletta Di Giacomo,56,---,ITA,00:45:21,03:31:56,02:38:06,00:05:16,00:04:45,07:05:24
+ironman-70.3-budapest-20140823.csv,270,Riitta Knodt,54,---,FIN,00:35:27,03:02:06,01:50:31,00:04:10,00:03:57,05:36:11
+ironman-70.3-budapest-20140823.csv,271,Waltraud Ritter,54,---,AUT,00:35:35,02:42:47,02:00:14,00:03:00,00:03:17,05:24:53
+ironman-70.3-budapest-20140823.csv,272,Katrina Turner,57,---,GBR,00:49:10,03:53:34,02:39:40,00:05:25,00:05:25,07:33:14
+ironman-70.3-budapest-20140823.csv,273,Klara Tatai,62,---,AUT,00:57:15,03:12:48,03:11:41,00:09:19,00:08:17,07:39:20
+ironman-70.3-budapest-20140823.csv,274,Ágota Hanász,24,---,HUN,00:48:48,03:25:16,02:06:54,00:09:35,00:09:01,06:39:34
+ironman-70.3-budapest-20140823.csv,275,Ùjszàszi Edit,31,---,HUN,00:40:46,03:35:01,02:01:32,00:09:58,00:11:10,06:38:27
+ironman-70.3-budapest-20140823.csv,276,Dana Cihakova,37,---,CZE,00:42:30,03:14:38,02:08:36,00:05:03,00:04:31,06:15:18
+ironman-70.3-budapest-20140823.csv,277,Andrea Viniczai,38,---,HUN,00:42:58,03:15:39,02:01:11,00:08:40,00:07:58,06:16:26
+ironman-70.3-budapest-20140823.csv,278,Emoke Izer,42,---,HUN,00:49:39,03:35:15,02:07:16,00:15:32,00:08:46,06:56:28
+ironman-70.3-budapest-20140823.csv,279,Brianna Katz,37,AE,USA,00:41:02,03:39:15,02:10:50,00:06:31,00:04:55,06:42:33
+ironman-70.3-budapest-20140823.csv,280,Claudia Müller,43,---,AUT,00:31:27,02:51:02,02:13:02,00:02:37,00:03:14,05:41:22
+ironman-70.3-budapest-20140823.csv,281,Constance Mochar,37,---,AUT,00:32:30,02:34:36,01:38:03,00:02:46,00:02:10,04:50:05
+ironman-70.3-budapest-20140823.csv,282,Jitka Jirusova,40,---,CZE,00:36:20,03:05:35,01:50:42,00:04:06,00:04:06,05:40:49
+ironman-70.3-budapest-20140823.csv,283,Szegő Dorina,34,---,HUN,00:49:50,03:24:01,02:29:17,00:35:06,00:11:59,07:30:13
+ironman-70.3-budapest-20140823.csv,284,Anett Lehóczki,30,---,HUN,00:41:21,03:03:25,01:58:25,00:06:13,00:05:13,05:54:37
+ironman-70.3-budapest-20140823.csv,285,Cristina Bernardini,44,---,ITA,00:43:15,02:51:23,02:02:16,00:04:11,00:04:02,05:45:07
+ironman-70.3-budapest-20140823.csv,286,Christine Widmann,46,---,AUT,00:36:31,02:52:40,01:54:57,00:03:44,00:04:18,05:32:10
+ironman-70.3-budapest-20140823.csv,287,Anna Litavecz,49,---,HUN,00:45:25,03:30:13,02:37:07,00:05:11,00:06:17,07:04:13
+ironman-70.3-budapest-20140823.csv,288,Ágnes Juhász,31,---,HUN,00:34:24,02:48:50,01:48:28,00:03:42,00:03:13,05:18:37
+ironman-70.3-budapest-20140823.csv,289,Rachel Demartin,34,UT,USA,00:35:50,03:08:24,02:02:45,00:03:40,00:07:01,05:57:40
+ironman-70.3-budapest-20140823.csv,290,Gabriella Kali,35,---,HUN,00:49:19,---,---,00:10:12,---,DNF
+ironman-70.3-budapest-20140823.csv,291,Györgyi Németh,39,---,HUN,00:42:08,03:01:46,02:01:53,00:03:59,00:07:50,05:57:36
+ironman-70.3-budapest-20140823.csv,292,Orsolya Reich,33,---,HUN,00:49:39,03:06:52,02:08:33,00:06:25,00:06:51,06:18:20
+ironman-70.3-budapest-20140823.csv,293,Diána Bosznay,38,---,HUN,00:42:26,03:18:31,01:43:59,00:05:10,00:06:02,05:56:08
+ironman-70.3-budapest-20140823.csv,294,Elizabeth Gannon,54,Hants,GBR,00:36:44,02:44:08,01:43:44,00:03:22,00:03:46,05:11:44
+ironman-70.3-budapest-20140823.csv,295,Valentina Kukrus,40,Russia,RUS,00:29:32,02:39:20,01:33:47,00:02:26,00:02:19,04:47:24
+ironman-70.3-budapest-20140823.csv,301,Martin Behrens,23,---,DEU,00:37:26,02:41:05,01:49:51,00:03:51,00:02:37,05:14:50
+ironman-70.3-budapest-20140823.csv,302,Bence Böröcz,18,---,HUN,00:26:50,02:22:54,01:45:36,00:02:04,00:01:57,04:39:21
+ironman-70.3-budapest-20140823.csv,303,Bence Beták,21,---,HUN,00:41:07,02:52:39,01:30:42,00:06:33,00:03:18,05:14:19
+ironman-70.3-budapest-20140823.csv,304,Daniel Cirstoveanu,21,---,ROU,---,---,---,---,---,DQ
+ironman-70.3-budapest-20140823.csv,305,Charles Constant,18,---,FRA,00:35:34,02:30:51,01:47:42,00:05:42,00:03:50,05:03:39
+ironman-70.3-budapest-20140823.csv,306,Jamie Cousins,24,---,GBR,00:37:53,02:45:24,02:05:05,00:03:16,00:05:32,05:37:10
+ironman-70.3-budapest-20140823.csv,307,Gergely Dömok,22,---,HUN,00:43:02,02:49:22,02:05:02,00:10:21,00:06:54,05:54:41
+ironman-70.3-budapest-20140823.csv,308,Erkmen Erakkus,22,---,TUR,00:41:19,02:37:18,01:42:14,00:03:01,00:03:17,05:07:09
+ironman-70.3-budapest-20140823.csv,309,Jan Fischer,22,---,DEU,00:25:31,02:23:04,01:27:58,00:01:48,00:01:59,04:20:20
+ironman-70.3-budapest-20140823.csv,310,Pascal Gaar,23,---,AUT,00:32:09,02:29:42,01:37:16,00:02:16,00:02:35,04:43:58
+ironman-70.3-budapest-20140823.csv,311,Tamás Gábe,24,---,HUN,00:27:13,02:33:20,01:50:54,00:03:06,00:02:58,04:57:31
+ironman-70.3-budapest-20140823.csv,312,William Green,21,Wirral,GBR,00:39:48,02:51:47,01:49:44,00:03:50,00:02:34,05:27:43
+ironman-70.3-budapest-20140823.csv,313,Stefan Halasz,24,---,SVK,00:52:14,02:50:03,02:04:10,00:07:20,00:08:36,06:02:23
+ironman-70.3-budapest-20140823.csv,314,Róbert Havlík,22,---,SVK,00:29:43,02:31:45,01:33:40,00:02:26,00:01:52,04:39:26
+ironman-70.3-budapest-20140823.csv,315,Alexander Hoogeveen,23,---,NLD,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,316,Ivan Jakovac,20,---,HRV,00:27:38,02:34:43,01:31:11,00:01:56,00:02:32,04:38:00
+ironman-70.3-budapest-20140823.csv,317,Christian Jensen,19,---,DNK,00:38:07,03:04:46,02:19:05,00:06:55,00:03:45,06:12:38
+ironman-70.3-budapest-20140823.csv,318,Michal Kaszás,22,---,SVK,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,319,Norbert Katona,24,Pest,HUN,00:29:05,02:40:12,01:37:53,00:02:59,00:03:02,04:53:11
+ironman-70.3-budapest-20140823.csv,320,Petr Keclík,23,---,CZE,00:26:40,02:31:22,01:40:43,00:02:07,00:02:07,04:42:59
+ironman-70.3-budapest-20140823.csv,321,Dieter Kennes,23,BE,BEL,00:31:36,02:28:17,01:38:23,00:02:09,00:01:58,04:42:23
+ironman-70.3-budapest-20140823.csv,322,Eduard Kiyko,23,Moscow,RUS,00:45:57,03:05:14,01:55:19,00:05:30,00:05:35,05:57:35
+ironman-70.3-budapest-20140823.csv,323,Kristóf Kovács,23,---,HUN,00:31:45,02:48:31,01:56:14,00:03:49,00:04:23,05:24:42
+ironman-70.3-budapest-20140823.csv,324,Imre Kovács,21,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,325,András Kovács,23,---,HUN,00:31:39,02:43:28,02:18:20,00:05:13,00:05:33,05:44:13
+ironman-70.3-budapest-20140823.csv,326,Tom Leahy,21,Dublin,IRL,00:46:19,03:58:08,02:29:20,00:04:48,00:03:58,07:22:33
+ironman-70.3-budapest-20140823.csv,327,Alex Maidwell-Smith,21,---,GBR,00:40:35,03:03:47,01:37:58,00:04:32,00:03:53,05:30:45
+ironman-70.3-budapest-20140823.csv,328,Jakub Mészáros,23,---,SVK,00:35:43,02:24:37,01:24:45,00:02:45,00:02:25,04:30:15
+ironman-70.3-budapest-20140823.csv,329,Nikita Mileshkin,23,Moscow,RUS,00:30:48,02:30:56,01:42:22,00:02:34,00:02:24,04:49:04
+ironman-70.3-budapest-20140823.csv,330,Rauno Miljand,24,---,EST,00:27:18,02:22:25,01:35:42,00:01:58,00:02:04,04:29:27
+ironman-70.3-budapest-20140823.csv,331,Andrea Riva,22,---,ITA,00:26:38,02:28:11,01:19:52,00:02:18,00:01:58,04:18:57
+ironman-70.3-budapest-20140823.csv,332,Peter Schindler,21,---,HUN,00:37:46,03:28:51,01:45:05,00:05:19,00:02:46,05:59:47
+ironman-70.3-budapest-20140823.csv,333,Adam Schindler,19,---,HUN,00:27:34,02:45:41,02:15:08,00:03:12,00:02:58,05:34:33
+ironman-70.3-budapest-20140823.csv,334,Elias Schippeerges,24,---,DEU,00:25:55,02:20:43,01:28:14,00:01:53,00:02:09,04:18:54
+ironman-70.3-budapest-20140823.csv,335,Matthias Schreiner,23,AT,AUT,00:29:47,02:22:51,01:32:20,00:02:09,00:02:04,04:29:11
+ironman-70.3-budapest-20140823.csv,336,James Sedgwick,24,---,GBR,00:24:37,02:28:18,01:40:36,00:03:44,00:02:31,04:39:46
+ironman-70.3-budapest-20140823.csv,337,Alex Smith,24,Bucks,GBR,00:38:35,02:33:44,01:31:15,00:05:14,00:03:00,04:51:48
+ironman-70.3-budapest-20140823.csv,338,Giammarco Spinozzi,22,ITALIA,ITA,00:31:28,02:44:13,01:46:13,00:03:57,00:03:24,05:09:15
+ironman-70.3-budapest-20140823.csv,339,Chris Stone,24,Cheshire,GBR,---,---,---,---,---,DQ
+ironman-70.3-budapest-20140823.csv,340,Miroslav Stranovsky,20,Slovakia,SVK,00:29:03,02:39:51,01:31:26,00:02:52,00:02:58,04:46:10
+ironman-70.3-budapest-20140823.csv,341,Hassan Al Ajmi,26,---,BHR,00:42:11,03:04:14,02:22:52,00:04:34,00:04:45,06:18:36
+ironman-70.3-budapest-20140823.csv,342,Ahmed  Al Busmait,25,Other,BHR,00:35:59,02:44:47,01:56:33,00:03:20,00:03:58,05:24:37
+ironman-70.3-budapest-20140823.csv,343,Nawaf Aldhaen,27,Other,BHR,00:29:55,02:42:18,01:33:36,00:03:28,00:02:59,04:52:16
+ironman-70.3-budapest-20140823.csv,344,Hh Shaikh Nasser Bin Al Khalifa,27,Other,BHR,00:28:57,02:28:21,01:29:02,00:02:01,00:02:17,04:30:38
+ironman-70.3-budapest-20140823.csv,345,Khaled Al Khalifa,25,---,BHR,00:31:45,02:48:14,02:07:40,00:04:14,00:03:48,05:35:41
+ironman-70.3-budapest-20140823.csv,346,Mubarak Al Khalifa,27,Bahrain,BHR,00:37:45,03:32:47,02:11:33,00:03:42,00:04:14,06:30:01
+ironman-70.3-budapest-20140823.csv,347,Mohammed Isa,28,Other,BHR,00:35:50,02:29:55,01:24:59,00:03:27,00:02:22,04:36:33
+ironman-70.3-budapest-20140823.csv,348,Abdulla Alshamlan,26,Riffa,BHR,00:43:43,03:09:06,02:16:06,00:05:04,00:04:52,06:18:51
+ironman-70.3-budapest-20140823.csv,349,Alois Alter,25,AT,AUT,00:36:42,02:54:10,01:38:41,00:02:29,00:02:43,05:14:45
+ironman-70.3-budapest-20140823.csv,350,Norbert Bota,28,Budapest,HUN,00:34:25,03:06:33,02:04:03,00:08:53,00:07:27,06:01:21
+ironman-70.3-budapest-20140823.csv,351,Mark Capek,27,---,AUT,00:27:21,02:22:18,01:29:12,00:01:56,00:01:59,04:22:46
+ironman-70.3-budapest-20140823.csv,352,Claudio Caldarelli,27,---,ITA,00:34:39,02:57:36,01:56:16,00:04:24,00:03:45,05:36:40
+ironman-70.3-budapest-20140823.csv,353,Andrea Cirotti,27,---,ITA,00:32:57,02:51:35,01:53:23,00:04:10,00:03:40,05:25:45
+ironman-70.3-budapest-20140823.csv,354,Ryan Clatworthy,27,---,ZAF,00:35:02,02:27:54,01:39:33,00:03:43,00:02:32,04:48:44
+ironman-70.3-budapest-20140823.csv,355,Lukas Czerny,27,AT,AUT,00:33:19,02:25:43,01:42:31,00:03:04,00:02:47,04:47:24
+ironman-70.3-budapest-20140823.csv,356,Lorenzo Dicuonzo,27,roma,ITA,00:31:33,02:26:51,01:28:55,00:03:41,00:03:58,04:34:58
+ironman-70.3-budapest-20140823.csv,357,Aleksandr Ditiatev,28,---,RUS,00:37:49,03:04:49,01:56:53,00:06:08,00:05:23,05:51:02
+ironman-70.3-budapest-20140823.csv,358,Carlos Dorsman,26,---,NLD,00:37:25,02:57:49,02:39:24,00:08:40,00:06:38,06:29:56
+ironman-70.3-budapest-20140823.csv,359,Valery Dubchenko,28,---,RUS,00:32:35,02:52:55,02:03:57,00:05:00,00:03:32,05:37:59
+ironman-70.3-budapest-20140823.csv,360,Balazs Duhi,28,Luxembourg,HUN,00:37:08,03:24:37,02:20:06,00:09:45,00:10:04,06:41:40
+ironman-70.3-budapest-20140823.csv,361,Adam Farkas,27,---,HUN,00:31:04,02:43:27,01:34:41,00:04:25,00:02:34,04:56:11
+ironman-70.3-budapest-20140823.csv,362,Pal Farkas,28,---,HUN,00:35:39,02:39:13,01:46:08,00:03:47,00:03:07,05:07:54
+ironman-70.3-budapest-20140823.csv,363,Marton Flander,29,---,HUN,00:23:47,02:18:04,01:16:40,00:01:38,00:02:04,04:02:13
+ironman-70.3-budapest-20140823.csv,364,Brandon Frost,25,VA,USA,00:41:17,02:35:20,01:46:32,00:04:13,00:06:05,05:13:27
+ironman-70.3-budapest-20140823.csv,365,Gustav Hasund,28,NO,NOR,00:49:35,03:02:52,02:23:38,00:07:46,00:08:18,06:32:09
+ironman-70.3-budapest-20140823.csv,366,Paul Hofstätter,29,AT,AUT,00:34:44,02:33:06,01:40:19,00:03:30,00:02:27,04:54:06
+ironman-70.3-budapest-20140823.csv,367,Erik Holmberg,26,---,SWE,00:25:53,02:14:16,01:23:01,00:01:57,00:01:43,04:06:50
+ironman-70.3-budapest-20140823.csv,368,Marcus Holst,27,Dublin County,SWE,00:41:18,02:52:16,01:54:26,00:08:03,00:07:14,05:43:17
+ironman-70.3-budapest-20140823.csv,369,Gregor Horniak,28,Intl State,SVK,00:31:35,02:34:24,01:35:09,00:02:23,00:03:10,04:46:41
+ironman-70.3-budapest-20140823.csv,370,Bence Horvath,29,---,HUN,00:34:32,03:00:04,02:00:34,00:03:58,00:05:11,05:44:19
+ironman-70.3-budapest-20140823.csv,371,Levente Huszár,25,---,HUN,00:40:51,02:54:31,01:38:13,00:04:18,00:04:36,05:22:29
+ironman-70.3-budapest-20140823.csv,372,Ali Janahi,28,Other,BHR,00:42:45,02:51:48,02:00:30,00:05:46,00:05:22,05:46:11
+ironman-70.3-budapest-20140823.csv,373,Milán Jancsikin,25,---,HUN,00:52:11,03:20:44,02:27:42,00:07:09,00:06:39,06:54:25
+ironman-70.3-budapest-20140823.csv,374,Anwar Jawhar,28,---,KWT,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,375,Sebestyen Jozsa,27,---,HUN,00:27:22,02:36:35,02:08:25,00:03:06,00:03:35,05:19:03
+ironman-70.3-budapest-20140823.csv,376,Sergey Kalinin,28,Belgorod,RUS,00:41:23,02:50:33,02:09:51,00:04:13,00:04:20,05:50:20
+ironman-70.3-budapest-20140823.csv,377,Mirkó Kenesei,26,---,HUN,00:30:30,02:50:01,01:52:51,00:05:30,00:05:44,05:24:36
+ironman-70.3-budapest-20140823.csv,378,Martins Kengis,29,Garkalnes novads,LVA,00:36:45,02:31:39,01:45:04,00:04:21,00:02:45,05:00:34
+ironman-70.3-budapest-20140823.csv,379,Halil Kiliç,28,APO,TUR,00:31:17,02:34:33,01:41:54,00:04:14,00:02:51,04:54:49
+ironman-70.3-budapest-20140823.csv,380,Maksim Kolesnikov,27,---,RUS,00:38:37,02:57:04,02:03:18,00:04:46,00:04:11,05:47:56
+ironman-70.3-budapest-20140823.csv,381,Tamás Koncz,28,---,HUN,00:36:03,02:49:00,02:18:30,00:04:51,00:04:11,05:52:35
+ironman-70.3-budapest-20140823.csv,382,Hassan Elkordy,28,---,EGY,00:25:51,03:06:14,01:59:48,00:03:47,00:05:58,05:41:38
+ironman-70.3-budapest-20140823.csv,383,Mate Koroknai,29,---,HUN,---,---,---,---,---,DQ
+ironman-70.3-budapest-20140823.csv,384,Gabriel Kralik,29,---,SVK,00:33:10,02:53:18,01:52:51,00:07:06,00:05:43,05:32:08
+ironman-70.3-budapest-20140823.csv,385,Vojtech Kubek,25,Slovakia,SVK,00:36:42,02:39:22,01:40:47,00:03:19,00:05:06,05:05:16
+ironman-70.3-budapest-20140823.csv,386,Alexey Lankin,---,---,RUS,00:41:39,03:00:53,01:57:22,00:05:45,00:05:15,05:50:54
+ironman-70.3-budapest-20140823.csv,387,Zsolt Liska,28,---,HUN,00:37:17,02:46:09,01:48:03,00:03:29,00:04:56,05:19:54
+ironman-70.3-budapest-20140823.csv,388,Rory Macdonald,28,---,GBR,00:31:29,02:43:16,01:58:57,00:02:48,00:03:01,05:19:31
+ironman-70.3-budapest-20140823.csv,389,Rob Mackman,29,---,GBR,00:34:45,02:42:05,01:51:07,00:03:47,00:03:08,05:14:52
+ironman-70.3-budapest-20140823.csv,390,Naseeb Mahboob,27,---,BHR,01:14:32,03:31:08,02:48:52,00:04:19,00:04:49,07:43:40
+ironman-70.3-budapest-20140823.csv,391,Alexey Makoveev,26,---,RUS,00:35:14,03:00:23,01:57:22,00:04:10,00:03:00,05:40:09
+ironman-70.3-budapest-20140823.csv,392,Tamás Markót,28,---,HUN,00:40:55,02:49:16,01:28:49,00:06:21,00:03:37,05:08:58
+ironman-70.3-budapest-20140823.csv,393,Burak Mengü,28,Turkey,TUR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,394,Nicholas Micallef,27,Malta,MLT,00:38:49,02:32:00,01:35:22,00:04:41,00:04:42,04:55:34
+ironman-70.3-budapest-20140823.csv,395,Markus Molli,28,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,396,Viktor Montag,29,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,397,Balázs Nagy,28,---,HUN,00:48:15,03:17:28,02:15:06,00:08:07,00:05:06,06:34:02
+ironman-70.3-budapest-20140823.csv,398,Ádám Németh,29,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,399,Torsten Neufeld,28,---,DEU,00:27:28,02:21:05,01:32:32,00:02:08,00:02:09,04:25:22
+ironman-70.3-budapest-20140823.csv,400,Oliver Nilsson,27,Uusimaa,FIN,00:35:56,02:39:20,01:33:05,00:02:51,00:02:15,04:53:27
+ironman-70.3-budapest-20140823.csv,401,Gergely Oláh,29,---,HUN,00:41:42,03:09:18,02:10:46,00:06:31,00:06:30,06:14:47
+ironman-70.3-budapest-20140823.csv,402,GAETANO OLLA',27,---,ITA,00:29:26,02:44:41,01:41:36,00:04:11,00:02:23,05:02:17
+ironman-70.3-budapest-20140823.csv,403,Peter Ondreas,26,Slovakia,SVK,00:38:27,02:44:50,01:50:56,00:04:33,00:03:41,05:22:27
+ironman-70.3-budapest-20140823.csv,404,Jord Oostrom,27,---,NLD,00:40:58,03:02:35,02:28:51,00:05:16,00:06:32,06:24:12
+ironman-70.3-budapest-20140823.csv,405,Radovan Oravec,26,---,SVK,00:35:18,02:31:26,01:34:42,00:03:08,00:02:14,04:46:48
+ironman-70.3-budapest-20140823.csv,406,Donát Pájer,27,---,HUN,00:41:57,03:04:17,02:21:05,00:04:12,00:04:09,06:15:40
+ironman-70.3-budapest-20140823.csv,407,Grigori Paslari,27,---,MDA,00:32:16,02:58:54,01:48:38,00:05:57,00:03:41,05:29:26
+ironman-70.3-budapest-20140823.csv,408,Tobias Perl,27,DE,DEU,00:42:58,03:28:03,01:57:01,00:07:44,00:05:15,06:21:01
+ironman-70.3-budapest-20140823.csv,409,Tobias Pietzonka,28,---,DEU,00:31:31,02:30:37,01:44:19,00:02:00,00:02:44,04:51:11
+ironman-70.3-budapest-20140823.csv,410,Michael Pietzonka,25,---,DEU,00:24:35,02:17:53,01:24:29,00:01:47,00:01:58,04:10:42
+ironman-70.3-budapest-20140823.csv,411,Marco Pitotti,27,---,ITA,00:34:57,02:41:05,01:39:05,00:02:52,00:03:17,05:01:16
+ironman-70.3-budapest-20140823.csv,412,Wojciech Plawiak,29,---,POL,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,413,Alexander Polzlbauer,25,AT,AUT,00:35:46,02:22:36,01:35:09,00:02:26,00:02:22,04:38:19
+ironman-70.3-budapest-20140823.csv,414,Adam Przezdziek,28,---,POL,00:31:36,02:41:56,01:47:22,00:03:00,00:02:34,05:06:28
+ironman-70.3-budapest-20140823.csv,415,Bernhard Riegler,29,---,AUT,00:33:41,03:05:44,02:01:57,00:03:52,00:02:13,05:47:27
+ironman-70.3-budapest-20140823.csv,416,Michael Rieser,26,---,AUT,00:28:51,02:33:17,01:36:49,00:02:28,00:02:49,04:44:14
+ironman-70.3-budapest-20140823.csv,417,Jonas Ringstad,27,NO,NOR,00:50:08,02:54:23,02:22:47,00:07:12,00:05:23,06:19:53
+ironman-70.3-budapest-20140823.csv,418,Thomas Roche,26,Lincolnshire,GBR,00:31:02,02:35:46,01:32:46,00:02:23,00:02:50,04:44:47
+ironman-70.3-budapest-20140823.csv,419,Niels Ros,28,---,NLD,00:36:02,02:19:16,01:41:40,00:02:51,00:02:55,04:42:44
+ironman-70.3-budapest-20140823.csv,420,Sean Rosenberg,25,AE,USA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,421,Filip Rudakovic,27,---,SRB,00:32:23,02:41:45,01:27:45,00:04:26,00:02:41,04:49:00
+ironman-70.3-budapest-20140823.csv,422,Igor Rybalchenko,24,Rostov Region,RUS,00:46:03,02:52:32,01:48:01,00:05:27,00:03:31,05:35:34
+ironman-70.3-budapest-20140823.csv,423,Nikita Safonov,28,Moscow,RUS,00:43:23,03:07:59,02:00:39,00:03:53,00:04:12,06:00:06
+ironman-70.3-budapest-20140823.csv,424,Aleix Olive Sala,29,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,425,Christian Samuelson,26,NY,SWE,00:42:47,02:48:04,01:58:43,00:06:38,00:07:05,05:43:17
+ironman-70.3-budapest-20140823.csv,426,Juan Carlos Sanchez,27,---,MEX,00:44:22,03:33:19,02:06:12,00:04:16,00:03:16,06:31:25
+ironman-70.3-budapest-20140823.csv,427,Norbert Schmidt,29,---,HUN,00:36:51,02:38:28,01:47:20,00:05:43,00:05:11,05:13:33
+ironman-70.3-budapest-20140823.csv,428,Zoltan Schmidt,28,Somogy,HUN,00:40:41,03:01:13,02:06:56,00:03:05,00:04:05,05:56:00
+ironman-70.3-budapest-20140823.csv,429,Manuel Seyr,28,AT,AUT,00:43:17,02:42:18,01:42:36,00:03:17,00:06:16,05:17:44
+ironman-70.3-budapest-20140823.csv,430,Stuart Shevlin,29,---,GBR,00:39:30,02:49:00,01:48:46,00:05:11,00:04:02,05:26:29
+ironman-70.3-budapest-20140823.csv,431,Nicholas Short,29,---,GBR,00:35:55,03:05:06,02:08:44,00:06:02,00:05:09,06:00:56
+ironman-70.3-budapest-20140823.csv,432,Eduard Simonov,25,Moscow,RUS,00:38:36,03:08:53,01:53:29,00:03:48,00:04:24,05:49:10
+ironman-70.3-budapest-20140823.csv,433,Oliver Stammers,26,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,434,Fabricio Strelow,27,S&atilde;o Paulo,BRA,00:32:58,02:37:56,01:55:53,00:03:34,00:03:36,05:13:57
+ironman-70.3-budapest-20140823.csv,435,Wolfgang Stummer,27,---,AUT,00:35:06,02:57:25,02:04:12,00:06:11,00:05:22,05:48:16
+ironman-70.3-budapest-20140823.csv,436,Sandro Surwilo,28,---,POL,00:34:23,02:49:04,01:52:20,00:03:22,00:03:28,05:22:37
+ironman-70.3-budapest-20140823.csv,437,Bence Szabados,29,---,HUN,00:38:30,02:50:23,01:46:21,00:06:07,00:05:04,05:26:25
+ironman-70.3-budapest-20140823.csv,438,Richard Szamedli,29,---,HUN,00:39:10,02:45:37,01:34:54,00:04:29,00:02:47,05:06:57
+ironman-70.3-budapest-20140823.csv,439,Szilard Szanyi,26,---,HUN,00:47:02,03:31:42,02:59:29,00:12:54,00:10:50,07:41:57
+ironman-70.3-budapest-20140823.csv,440,Rok Tercelj,28,Primorska - Istra,SVN,00:30:00,02:26:25,01:26:45,00:02:55,00:03:45,04:29:50
+ironman-70.3-budapest-20140823.csv,441,Bouclier Thibault,26,ACT,FRA,00:36:21,02:49:31,02:12:06,00:03:34,00:05:05,05:46:37
+ironman-70.3-budapest-20140823.csv,442,Vlad Tislenko,25,---,UKR,00:38:27,02:55:54,01:36:33,00:03:53,00:04:02,05:18:49
+ironman-70.3-budapest-20140823.csv,443,Piotr Trzaska,27,Slask,POL,00:40:21,02:54:04,01:58:17,00:03:53,00:03:45,05:40:20
+ironman-70.3-budapest-20140823.csv,444,Tudorache Adrian-Emil,27,Bucharest,ROU,00:41:24,02:37:59,02:03:02,00:02:57,00:03:04,05:28:26
+ironman-70.3-budapest-20140823.csv,445,Rafal Tulwin,28,---,POL,00:28:02,02:29:13,01:32:43,00:02:29,00:02:01,04:34:28
+ironman-70.3-budapest-20140823.csv,446,Mikhail Ulyanov,28,---,RUS,00:32:42,02:40:18,01:42:07,00:05:29,00:02:53,05:03:29
+ironman-70.3-budapest-20140823.csv,447,Peter Vachtler,24,---,HUN,00:48:01,02:42:33,01:56:07,00:08:07,00:07:01,05:41:49
+ironman-70.3-budapest-20140823.csv,448,Richárd Virovecz,25,---,HUN,00:27:12,02:43:46,01:39:41,00:06:18,00:03:54,05:00:51
+ironman-70.3-budapest-20140823.csv,449,Vinko Vrebac,29,Zagreb,HRV,00:28:51,02:30:36,01:25:50,00:01:56,00:02:21,04:29:34
+ironman-70.3-budapest-20140823.csv,450,Jovan Vuletic,29,---,SRB,00:44:19,03:54:52,02:31:02,00:05:54,00:06:11,07:22:18
+ironman-70.3-budapest-20140823.csv,451,Richard Walkland,26,London,GBR,00:35:10,02:43:49,01:47:53,00:04:58,00:03:53,05:15:43
+ironman-70.3-budapest-20140823.csv,452,Roland Wallner,27,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,453,Christopher Weis,28,DE,DEU,00:38:16,02:56:24,02:11:07,00:05:28,00:04:07,05:55:22
+ironman-70.3-budapest-20140823.csv,454,Ryan Weston-Bennett,28,---,GBR,00:36:38,02:30:21,01:51:31,00:04:07,00:03:30,05:06:07
+ironman-70.3-budapest-20140823.csv,455,Zsolt Zalai,29,---,HUN,00:41:30,03:02:06,02:09:52,00:08:52,00:05:30,06:07:50
+ironman-70.3-budapest-20140823.csv,456,Christoph Zotter,29,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,457,Marc Ruhrberg,28,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,458,Mihaly Sagi,27,---,SRB,00:41:40,02:54:01,02:07:18,00:04:14,00:05:20,05:52:33
+ironman-70.3-budapest-20140823.csv,459,Dániel Erdélyi,26,---,HUN,00:31:40,02:47:29,01:43:22,00:04:50,00:03:13,05:10:34
+ironman-70.3-budapest-20140823.csv,460,Roland Faragó,25,---,HUN,00:58:47,03:32:34,01:51:14,00:16:23,00:08:27,06:47:25
+ironman-70.3-budapest-20140823.csv,461,Péter Harangozó,28,---,HUN,00:48:28,03:08:33,02:09:31,00:08:55,00:07:43,06:23:10
+ironman-70.3-budapest-20140823.csv,462,Ali Obaid,28,---,ARE,00:31:26,02:35:02,01:58:54,00:03:49,00:04:11,05:13:22
+ironman-70.3-budapest-20140823.csv,463,Abdullah Farhan,24,---,ARE,00:31:31,02:38:20,01:50:28,00:03:49,00:03:34,05:07:42
+ironman-70.3-budapest-20140823.csv,464,Dániel Izsó,23,---,HUN,00:34:47,02:55:50,01:47:23,00:04:00,00:03:26,05:25:26
+ironman-70.3-budapest-20140823.csv,465,Vincent Morizot,22,---,FRA,00:27:35,02:14:40,01:29:25,00:02:32,00:02:13,04:16:25
+ironman-70.3-budapest-20140823.csv,466,James Astbury,22,Hants,GBR,00:33:25,02:35:27,02:07:20,00:03:23,00:02:44,05:22:19
+ironman-70.3-budapest-20140823.csv,467,Stefano Amicone,40,PE,ITA,00:32:55,02:37:28,01:39:22,00:02:13,00:02:06,04:54:04
+ironman-70.3-budapest-20140823.csv,468,Tomas Kana,28,Slovakia,SVK,00:36:57,02:40:30,01:53:21,00:01:10,00:04:03,05:16:01
+ironman-70.3-budapest-20140823.csv,469,Andi Proko,28,---,ALB,00:41:21,02:40:10,01:56:22,00:02:21,00:02:33,05:22:47
+ironman-70.3-budapest-20140823.csv,470,Charlie Austin,23,---,GBR,00:30:40,02:38:21,01:27:47,00:02:17,00:02:47,04:41:52
+ironman-70.3-budapest-20140823.csv,471,Ben Homa,26,---,GBR,00:35:40,02:20:51,01:34:40,00:02:59,00:02:06,04:36:16
+ironman-70.3-budapest-20140823.csv,472,Carlo Maria Trotta,26,Intl State,ITA,00:32:00,02:41:23,01:33:02,00:03:57,00:03:48,04:54:10
+ironman-70.3-budapest-20140823.csv,473,Arkadiusz Lewicki,35,---,POL,00:26:46,02:37:12,01:32:40,00:03:06,00:02:22,04:42:06
+ironman-70.3-budapest-20140823.csv,474,Martin Urbán,20,---,HUN,00:53:45,03:43:00,02:10:48,00:21:35,00:09:26,07:18:34
+ironman-70.3-budapest-20140823.csv,475,Jesper Svane,24,---,DNK,00:27:40,02:26:53,01:18:07,00:02:55,00:03:41,04:19:16
+ironman-70.3-budapest-20140823.csv,476,Nandor Erdélyi,28,---,HUN,00:28:18,02:33:37,01:49:00,00:02:22,00:03:07,04:56:24
+ironman-70.3-budapest-20140823.csv,477,Peter Erdos,21,Other,HUN,00:25:26,02:23:52,01:23:08,00:02:20,00:01:52,04:16:38
+ironman-70.3-budapest-20140823.csv,478,Xabier Tijero,22,---,ESP,00:28:14,02:28:39,01:35:14,00:02:39,00:03:34,04:38:20
+ironman-70.3-budapest-20140823.csv,479,Gábor Major,27,---,HUN,00:55:53,03:28:17,02:20:35,00:14:46,00:14:27,07:13:58
+ironman-70.3-budapest-20140823.csv,480,Zakariás Nagy,20,---,HUN,00:34:41,02:43:52,01:51:28,00:05:02,00:03:33,05:18:36
+ironman-70.3-budapest-20140823.csv,481,Florian Fink,22,---,DEU,00:25:28,---,---,00:01:54,---,DNF
+ironman-70.3-budapest-20140823.csv,482,Mohamed Alansaari,28,---,ARE,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,483,Ádám Danis,29,---,HUN,00:47:25,03:13:41,02:33:27,00:07:54,00:06:53,06:49:20
+ironman-70.3-budapest-20140823.csv,484,Bem János,19,---,HUN,00:22:55,02:26:59,01:40:43,00:01:47,00:02:20,04:34:44
+ironman-70.3-budapest-20140823.csv,495,Janos Ardelean,29,---,HUN,00:28:21,02:34:11,01:40:21,00:04:21,00:03:49,04:51:03
+ironman-70.3-budapest-20140823.csv,496,Martin Matejka,32,---,CZE,00:42:09,02:46:30,01:52:44,00:03:57,00:04:53,05:30:13
+ironman-70.3-budapest-20140823.csv,497,Gabor Demeny,33,---,HUN,00:46:12,03:23:12,02:02:58,00:10:30,00:09:13,06:32:05
+ironman-70.3-budapest-20140823.csv,498,Balázs Pál,34,---,HUN,00:34:31,02:44:02,02:15:58,00:03:07,00:04:43,05:42:21
+ironman-70.3-budapest-20140823.csv,499,Zoltán Siegl,34,---,HUN,01:04:27,03:42:16,02:34:33,00:14:07,00:12:52,07:48:15
+ironman-70.3-budapest-20140823.csv,500,Peter Vrsansky,34,---,SVK,00:31:01,02:30:07,01:30:12,00:02:18,00:02:47,04:36:25
+ironman-70.3-budapest-20140823.csv,501,Dmitrii Akhromov,33,Moscow,RUS,00:43:28,03:39:07,02:45:12,00:05:25,00:07:21,07:20:33
+ironman-70.3-budapest-20140823.csv,502,Enis Akyüz,30,TC,TUR,00:47:13,02:57:51,02:15:24,00:03:54,00:03:45,06:08:07
+ironman-70.3-budapest-20140823.csv,503,Salem Aldosary,32,Other,BHR,00:35:52,02:37:20,01:35:46,00:03:48,00:04:17,04:57:03
+ironman-70.3-budapest-20140823.csv,504,Saqer Al-Khalifa,34,---,BHR,00:34:36,02:47:25,01:56:01,00:02:33,00:04:29,05:25:04
+ironman-70.3-budapest-20140823.csv,505,Darren Alcock,31,---,GBR,00:27:55,02:17:57,01:41:26,00:01:23,00:02:19,04:31:00
+ironman-70.3-budapest-20140823.csv,506,Artem Aleshkin,34,Moscow,RUS,00:30:50,02:50:38,01:42:52,00:04:29,00:04:15,05:13:04
+ironman-70.3-budapest-20140823.csv,507,Simon Altvater,29,---,DEU,00:40:41,02:43:37,01:50:22,00:03:24,00:03:13,05:21:17
+ironman-70.3-budapest-20140823.csv,508,Dmitry Antonov,30,Moscow,RUS,00:54:26,04:01:35,03:11:35,00:11:01,00:08:09,08:26:46
+ironman-70.3-budapest-20140823.csv,509,Can Aslan,30,Turkey,TUR,00:43:53,02:55:44,02:08:05,00:05:03,00:03:24,05:56:09
+ironman-70.3-budapest-20140823.csv,510,Bihari Szilárd Attila,34,---,ROU,00:29:34,02:43:09,01:39:13,00:02:59,00:03:18,04:58:13
+ironman-70.3-budapest-20140823.csv,511,Wander Azevedo,34,---,ITA,00:47:19,03:32:15,02:20:58,00:06:33,00:04:05,06:51:10
+ironman-70.3-budapest-20140823.csv,512,Albert Balázs,32,---,HUN,00:35:48,02:43:39,01:54:08,00:04:11,00:03:41,05:21:27
+ironman-70.3-budapest-20140823.csv,513,Barnabas Balczo,33,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,514,Lukasz Banas,31,---,POL,00:36:32,02:38:44,01:54:17,00:02:36,00:02:34,05:14:43
+ironman-70.3-budapest-20140823.csv,515,András Bányai,31,---,HUN,00:39:19,02:58:04,02:03:07,00:04:41,00:03:31,05:48:42
+ironman-70.3-budapest-20140823.csv,516,Andrey Basov,31,Krasnoyarskii krai,RUS,00:34:29,02:49:17,01:44:53,00:03:50,00:04:27,05:16:56
+ironman-70.3-budapest-20140823.csv,517,Gábor Bencsik,30,---,HUN,00:50:46,03:04:43,02:12:32,00:05:15,00:06:19,06:19:35
+ironman-70.3-budapest-20140823.csv,518,Luca Antonio Benincà,31,---,ITA,00:36:15,02:31:28,01:24:58,00:03:33,00:02:24,04:38:38
+ironman-70.3-budapest-20140823.csv,519,Karl Boehm,32,Greater London,AUS,00:31:07,02:29:15,01:29:05,00:03:09,00:04:18,04:36:54
+ironman-70.3-budapest-20140823.csv,520,Josef Bonavia,33,mosta,MLT,00:39:24,02:36:30,01:39:44,00:03:26,00:03:04,05:02:08
+ironman-70.3-budapest-20140823.csv,521,Ivan Boskovic,31,---,SVK,00:31:48,02:42:02,01:50:09,00:02:56,00:03:03,05:09:58
+ironman-70.3-budapest-20140823.csv,522,Bjørnar Botnen,30,NO,NOR,00:38:48,02:46:40,02:25:46,00:05:06,00:05:17,06:01:37
+ironman-70.3-budapest-20140823.csv,523,Marek Braun,31,Slovakia,SVK,00:44:17,02:39:47,01:54:43,00:03:26,00:04:06,05:26:19
+ironman-70.3-budapest-20140823.csv,524,Kerry Brisbane,33,---,GBR,00:34:50,02:45:41,01:44:03,00:04:44,00:03:36,05:12:54
+ironman-70.3-budapest-20140823.csv,525,Mark Bubno,32,---,HUN,00:41:56,02:35:13,01:34:45,00:04:04,00:03:16,04:59:14
+ironman-70.3-budapest-20140823.csv,526,Andras Bucsi,32,---,HUN,00:50:55,02:41:39,01:48:36,00:05:24,00:03:37,05:30:11
+ironman-70.3-budapest-20140823.csv,527,Attila Budacsik,30,---,HUN,00:37:51,02:47:32,01:46:55,00:04:36,00:04:15,05:21:09
+ironman-70.3-budapest-20140823.csv,528,Rolf Buhler,33,London,ZAF,00:37:34,02:52:45,02:16:13,00:03:42,00:04:34,05:54:48
+ironman-70.3-budapest-20140823.csv,529,Ken Bulthuis,33,AE,USA,00:47:06,02:57:09,02:02:44,00:04:52,00:04:16,05:56:07
+ironman-70.3-budapest-20140823.csv,530,Burján Jen?,31,---,HUN,00:34:03,02:30:04,01:34:50,00:03:09,00:03:07,04:45:13
+ironman-70.3-budapest-20140823.csv,531,Mikel Calahorra,30,RIFFA,BHR,00:26:24,02:20:55,01:22:57,00:01:41,00:02:09,04:14:06
+ironman-70.3-budapest-20140823.csv,532,James Campbell,30,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,533,Andrea Cavina,34,RA,ITA,00:29:52,02:41:10,01:43:04,00:03:02,00:02:57,05:00:05
+ironman-70.3-budapest-20140823.csv,534,Francois Chavet,33,---,FRA,00:35:11,02:31:40,01:30:13,00:03:11,00:06:37,04:46:52
+ironman-70.3-budapest-20140823.csv,535,Serjio Cherkasov,33,---,RUS,00:38:34,02:50:03,01:50:26,00:05:25,00:03:31,05:27:59
+ironman-70.3-budapest-20140823.csv,536,Federico Cian,31,TV,ITA,00:38:33,02:59:39,02:22:07,00:09:36,00:06:39,06:16:34
+ironman-70.3-budapest-20140823.csv,537,Cinar Goksen,32,Alabama,TUR,00:35:07,02:33:50,01:55:08,00:02:17,00:03:07,05:09:29
+ironman-70.3-budapest-20140823.csv,538,Xavier Cornelissen,30,BE,BEL,00:28:21,02:22:04,01:40:06,00:02:01,00:02:12,04:34:44
+ironman-70.3-budapest-20140823.csv,539,Simone Crespan,33,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,540,Péter Czencz,61,---,HUN,00:26:48,02:22:46,01:14:49,00:01:56,00:01:59,04:08:18
+ironman-70.3-budapest-20140823.csv,541,Jens Dahlman,34,Uusimaa,FIN,00:29:36,02:17:13,01:19:41,00:02:12,00:02:15,04:10:57
+ironman-70.3-budapest-20140823.csv,542,Sven De Cock,34,---,BEL,00:29:31,02:25:20,01:45:28,00:02:09,00:02:22,04:44:50
+ironman-70.3-budapest-20140823.csv,543,Guido De Massis,32,ITALIA,ITA,00:31:09,02:55:26,01:50:09,00:03:31,00:02:58,05:23:13
+ironman-70.3-budapest-20140823.csv,544,Thomas Dettmar,30,DE,DEU,00:28:14,02:40:01,01:42:19,00:03:12,00:02:58,04:56:44
+ironman-70.3-budapest-20140823.csv,545,Roberto Di Matteo,31,CA,ITA,00:36:51,02:42:29,02:13:30,00:04:24,00:04:40,05:41:54
+ironman-70.3-budapest-20140823.csv,546,Marius Dobrescu,33,---,ROU,00:45:00,02:54:32,01:45:50,00:05:10,00:03:22,05:33:54
+ironman-70.3-budapest-20140823.csv,547,Oleksandr Dovzhenko,30,Kharkivs'ka,UKR,00:35:30,02:38:50,01:34:55,00:04:45,00:02:43,04:56:43
+ironman-70.3-budapest-20140823.csv,548,Eamonn Dwane,33,---,IRL,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,549,Aleksandr Dynin,31,---,RUS,00:44:53,02:43:58,02:08:27,00:04:04,00:05:55,05:47:17
+ironman-70.3-budapest-20140823.csv,550,Claus Eckbo,34,Other,NOR,00:45:15,03:05:46,02:13:19,00:03:57,00:05:30,06:13:47
+ironman-70.3-budapest-20140823.csv,551,Daniel Enright,32,---,AUS,00:43:19,02:51:12,01:40:28,00:04:53,00:03:33,05:23:25
+ironman-70.3-budapest-20140823.csv,552,István Ferge,32,---,HUN,00:43:18,03:02:09,02:24:27,00:04:49,00:05:10,06:19:53
+ironman-70.3-budapest-20140823.csv,553,Zdenek Fik,31,---,CZE,00:37:55,02:51:43,02:35:49,00:04:37,00:06:25,06:16:29
+ironman-70.3-budapest-20140823.csv,554,Dávid Frei,31,---,HUN,00:31:28,02:27:09,01:39:59,00:03:31,00:02:52,04:44:59
+ironman-70.3-budapest-20140823.csv,555,Roscoe Friend,29,DXB,ZAF,00:33:06,02:51:16,02:09:25,00:03:50,00:05:13,05:42:50
+ironman-70.3-budapest-20140823.csv,556,Stefan Fuchs,31,---,AUT,00:38:51,02:52:19,02:04:10,00:04:39,00:03:38,05:43:37
+ironman-70.3-budapest-20140823.csv,557,Andrew Fudge,34,---,GBR,00:36:09,02:28:53,01:38:11,00:05:03,00:03:20,04:51:36
+ironman-70.3-budapest-20140823.csv,558,Roman Fuehrer,32,---,AUT,00:30:03,02:32:51,01:44:31,00:02:16,00:02:14,04:51:55
+ironman-70.3-budapest-20140823.csv,559,Oláh Gábor,31,---,HUN,00:35:14,03:00:15,01:53:25,00:07:12,00:04:49,05:40:55
+ironman-70.3-budapest-20140823.csv,560,Dmytro Garmash,30,61000,UKR,00:48:34,02:50:30,01:58:25,00:03:14,00:04:07,05:44:50
+ironman-70.3-budapest-20140823.csv,561,Ricardo Gato,31,CH,PRT,00:33:09,03:16:41,02:06:20,00:04:43,00:06:38,06:07:31
+ironman-70.3-budapest-20140823.csv,562,Hansi Giovanini,32,---,MEX,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,563,Dancho Gjorgjijevski,31,TN,MKD,00:35:55,02:50:39,02:05:26,00:04:55,00:05:16,05:42:11
+ironman-70.3-budapest-20140823.csv,564,Adam Gomez,32,IL,USA,00:36:47,03:05:32,01:57:03,00:03:18,00:03:48,05:46:28
+ironman-70.3-budapest-20140823.csv,565,Aleksandar Grah,33,ISTRIA,HRV,00:29:10,02:23:19,01:26:51,00:02:25,00:02:51,04:24:36
+ironman-70.3-budapest-20140823.csv,566,Ian Gray,33,---,ZAF,00:27:43,02:21:45,01:29:20,00:01:56,00:02:24,04:23:08
+ironman-70.3-budapest-20140823.csv,567,Janos Pal Grosz,31,---,HUN,00:33:18,02:29:24,01:40:42,00:03:54,00:02:40,04:49:58
+ironman-70.3-budapest-20140823.csv,568,Andreas Haberl,29,---,AUT,00:29:45,02:27:28,01:33:05,00:02:48,00:02:29,04:35:35
+ironman-70.3-budapest-20140823.csv,569,Christian Hajdú,34,---,DNK,00:44:04,02:28:32,01:42:13,00:02:25,00:03:06,05:00:20
+ironman-70.3-budapest-20140823.csv,570,Matthieu Hans,31,---,FRA,00:31:33,02:35:28,01:41:38,00:02:53,00:03:33,04:55:05
+ironman-70.3-budapest-20140823.csv,571,Tamas Harangozo,31,AUH,HUN,00:35:57,02:48:40,02:00:57,00:03:37,00:03:17,05:32:28
+ironman-70.3-budapest-20140823.csv,572,Luke Hardman,33,---,ZAF,00:36:58,02:54:20,01:56:03,00:07:11,00:05:33,05:40:05
+ironman-70.3-budapest-20140823.csv,573,Bálint Harsányi,30,---,HUN,00:33:39,02:43:39,01:50:57,00:02:59,00:02:35,05:13:49
+ironman-70.3-budapest-20140823.csv,574,Stephen Heary,30,Dublin,IRL,00:36:13,02:50:17,01:38:24,00:03:25,00:03:50,05:12:09
+ironman-70.3-budapest-20140823.csv,575,Maciej Hendler,29,Mazowieckie,POL,00:40:50,03:01:27,01:51:47,00:04:32,00:03:05,05:41:41
+ironman-70.3-budapest-20140823.csv,576,Ben Hennigs,33,---,DEU,00:30:08,02:26:11,01:29:28,00:02:06,00:02:08,04:30:01
+ironman-70.3-budapest-20140823.csv,577,Adam Herringer,33,---,ZAF,00:32:58,02:53:29,02:10:06,00:05:27,00:05:57,05:47:57
+ironman-70.3-budapest-20140823.csv,578,David Herringer,31,APO,ZAF,00:35:08,02:44:06,01:51:14,00:04:17,00:03:37,05:18:22
+ironman-70.3-budapest-20140823.csv,579,Thomas Herzog,32,---,CHE,00:36:28,02:56:03,02:05:35,00:03:04,00:03:30,05:44:40
+ironman-70.3-budapest-20140823.csv,580,Zsolt Hirling,30,---,HUN,00:40:16,02:28:12,01:42:03,00:02:45,00:02:36,04:55:52
+ironman-70.3-budapest-20140823.csv,581,Ross Hodges,30,---,USA,00:48:01,03:32:20,03:07:22,00:06:11,00:07:44,07:41:38
+ironman-70.3-budapest-20140823.csv,582,Nick Holden,31,VIC,AUS,00:35:02,02:35:41,01:38:00,00:05:16,00:02:53,04:56:52
+ironman-70.3-budapest-20140823.csv,583,László Homoki,32,---,HUN,00:54:47,03:30:52,02:11:34,00:10:54,00:07:39,06:55:46
+ironman-70.3-budapest-20140823.csv,584,Nicholas Horn,32,Tyne and Wear,GBR,00:31:16,02:56:21,01:48:09,00:03:24,00:03:32,05:22:42
+ironman-70.3-budapest-20140823.csv,585,Bence Horváth,33,---,HUN,00:44:51,02:55:34,02:06:00,00:09:56,00:08:10,06:04:31
+ironman-70.3-budapest-20140823.csv,586,Zoltán Imreh,33,---,HUN,00:36:42,02:46:14,01:45:48,00:03:14,00:05:06,05:17:04
+ironman-70.3-budapest-20140823.csv,587,Béla Ivancso,34,---,HUN,00:40:11,02:46:38,01:47:24,00:05:04,00:03:48,05:23:05
+ironman-70.3-budapest-20140823.csv,588,Didi Jaritz,33,AT,AUT,00:31:00,02:35:09,01:38:44,00:03:01,00:02:28,04:50:22
+ironman-70.3-budapest-20140823.csv,589,Jen  Csaba Kleiber,30,---,HUN,00:51:33,03:17:45,02:29:10,00:11:41,00:12:18,07:02:27
+ironman-70.3-budapest-20140823.csv,590,Jozsef Biro,34,---,HUN,00:32:22,02:47:06,01:59:08,00:04:12,00:03:55,05:26:43
+ironman-70.3-budapest-20140823.csv,591,Tomas Jurcik,32,Banskobystricky kraj,SVK,00:28:39,02:25:37,01:28:04,00:02:44,00:02:41,04:27:45
+ironman-70.3-budapest-20140823.csv,592,Artem Kalabin,33,Moscow,RUS,00:35:37,02:44:25,01:49:41,00:04:57,00:03:45,05:18:25
+ironman-70.3-budapest-20140823.csv,593,Dávid Kánya,31,---,HUN,00:42:38,03:13:57,02:10:36,00:04:18,00:04:29,06:15:58
+ironman-70.3-budapest-20140823.csv,594,Christian Karacsony,30,---,AUT,00:32:38,02:40:02,01:51:32,00:04:58,00:03:18,05:12:28
+ironman-70.3-budapest-20140823.csv,595,Anton Karpov,33,---,RUS,00:35:01,02:35:59,02:04:36,00:04:59,00:04:52,05:25:27
+ironman-70.3-budapest-20140823.csv,596,Péter Kasza,32,---,HUN,00:44:12,03:27:54,02:59:20,00:11:43,00:14:47,07:37:56
+ironman-70.3-budapest-20140823.csv,597,Richárd Katona,30,---,HUN,00:42:14,02:34:32,01:54:01,00:07:44,00:06:10,05:24:41
+ironman-70.3-budapest-20140823.csv,598,Carsten Kelbling,30,---,DEU,00:31:33,02:35:40,01:50:37,00:02:53,00:04:26,05:05:09
+ironman-70.3-budapest-20140823.csv,599,Ábel Kerekes,24,---,HUN,00:26:26,02:20:20,01:25:35,00:02:03,00:02:33,04:16:57
+ironman-70.3-budapest-20140823.csv,600,Tamás Kiss,31,---,HUN,00:45:39,02:51:34,02:16:44,00:06:22,00:06:07,06:06:26
+ironman-70.3-budapest-20140823.csv,601,Tomasz Klejszmit,32,---,POL,00:33:19,02:48:09,02:12:21,00:03:52,00:03:09,05:40:50
+ironman-70.3-budapest-20140823.csv,602,Daniel Bojanowski,36,---,POL,00:44:54,02:48:32,02:12:59,00:04:05,00:04:29,05:54:59
+ironman-70.3-budapest-20140823.csv,603,Evgeny Kortikov,31,---,RUS,00:36:07,02:46:48,01:46:33,00:04:49,00:02:34,05:16:51
+ironman-70.3-budapest-20140823.csv,604,András Kovács,34,---,HUN,00:43:05,02:50:32,01:55:36,00:09:06,00:07:20,05:45:39
+ironman-70.3-budapest-20140823.csv,605,Tamas Kovacs,29,---,HUN,00:30:09,02:48:47,01:52:47,00:02:59,00:05:37,05:20:19
+ironman-70.3-budapest-20140823.csv,606,Róbert Krausz,33,---,HUN,00:46:24,03:06:37,02:04:16,00:05:30,00:06:50,06:09:37
+ironman-70.3-budapest-20140823.csv,607,Klemens Krejci,32,AT,AUT,00:29:33,02:27:56,01:20:59,00:02:37,00:02:26,04:23:31
+ironman-70.3-budapest-20140823.csv,608,Tomas Kroupa,33,Plzensky kraj,CZE,00:31:13,02:32:00,01:48:45,00:03:22,00:02:42,04:58:02
+ironman-70.3-budapest-20140823.csv,609,Leonid Kurashov,30,---,RUS,00:40:44,02:34:50,01:55:11,00:04:21,00:02:57,05:18:03
+ironman-70.3-budapest-20140823.csv,610,Mario La Pergola,30,---,ITA,00:31:53,02:24:06,01:38:22,00:02:17,00:02:16,04:38:54
+ironman-70.3-budapest-20140823.csv,611,Guillaume Lafon,31,FR,FRA,00:30:03,02:31:08,01:39:34,00:02:57,00:03:00,04:46:42
+ironman-70.3-budapest-20140823.csv,612,Vladimir Larin,34,---,RUS,00:46:42,02:52:51,01:47:28,00:03:25,00:04:45,05:35:11
+ironman-70.3-budapest-20140823.csv,613,Nagy László,34,---,HUN,00:33:53,03:05:47,01:54:12,00:05:42,00:04:23,05:43:57
+ironman-70.3-budapest-20140823.csv,614,Marius Lazarescu,33,Bucharest,ROU,00:36:36,03:34:03,02:30:34,00:06:53,00:08:20,06:56:26
+ironman-70.3-budapest-20140823.csv,615,Jean-Noel Le Gall,32,FR,FRA,00:36:54,02:46:21,02:14:56,00:04:22,00:03:01,05:45:34
+ironman-70.3-budapest-20140823.csv,616,Matthew Lilley,30,---,GBR,00:36:27,02:59:16,01:51:33,00:06:29,00:06:02,05:39:47
+ironman-70.3-budapest-20140823.csv,617,Marcell Lipták,32,-,HUN,00:33:39,03:01:04,02:44:50,00:07:13,00:06:39,06:33:25
+ironman-70.3-budapest-20140823.csv,618,Tomas Lynn,30,---,IRL,00:29:03,02:53:27,02:34:26,00:02:28,00:04:23,06:03:47
+ironman-70.3-budapest-20140823.csv,619,Iain Macara,34,---,GBR,00:26:34,02:40:50,01:35:27,00:02:43,00:02:18,04:47:52
+ironman-70.3-budapest-20140823.csv,620,Diego Marcos Segura,32,CA,ESP,00:43:39,02:58:59,01:44:58,00:07:08,00:04:33,05:39:17
+ironman-70.3-budapest-20140823.csv,621,Danny Marko,30,APO,SVK,00:33:46,02:32:20,01:35:03,00:02:07,00:02:24,04:45:40
+ironman-70.3-budapest-20140823.csv,622,Andre Marques,34,---,PRT,00:29:57,02:38:22,01:38:11,00:02:56,00:02:59,04:52:25
+ironman-70.3-budapest-20140823.csv,623,Doug Mctavish,33,---,ZAF,00:31:16,02:38:30,---,00:05:48,00:04:49,DNF
+ironman-70.3-budapest-20140823.csv,624,Daniel Mereuta,---,---,ROU,01:00:51,03:35:49,02:36:03,00:09:00,00:05:51,07:27:34
+ironman-70.3-budapest-20140823.csv,625,Mark Millar,34,Lisburn,IRL,00:32:40,02:20:48,01:29:43,00:02:48,00:02:36,04:28:35
+ironman-70.3-budapest-20140823.csv,626,Vladimir Mlynek,33,APO,SVK,00:32:34,02:30:49,01:42:47,00:03:07,00:02:49,04:52:06
+ironman-70.3-budapest-20140823.csv,627,Laszlo Modos,34,---,HUN,00:25:50,02:32:27,01:19:23,00:02:05,00:02:34,04:22:19
+ironman-70.3-budapest-20140823.csv,628,István Molnár,33,---,HUN,00:39:32,02:43:51,02:01:50,00:04:12,00:03:50,05:33:15
+ironman-70.3-budapest-20140823.csv,629,Bence Zoltan Molnar,31,---,HUN,00:36:37,02:53:14,01:42:32,00:05:20,00:05:02,05:22:45
+ironman-70.3-budapest-20140823.csv,630,Attila Morovian,31,---,HUN,00:37:05,02:42:56,01:55:17,00:05:28,00:05:18,05:26:04
+ironman-70.3-budapest-20140823.csv,631,Attila Egon Dr. Nagy,33,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,632,Péter Németh,31,---,HUN,---,---,01:48:56,---,00:04:55,05:34:24
+ironman-70.3-budapest-20140823.csv,633,Morten Rudolph Olesen,32,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,634,Calvin O'shaughnessy,32,---,AUS,00:31:22,02:40:35,01:39:15,00:04:07,00:02:45,04:58:04
+ironman-70.3-budapest-20140823.csv,635,László Pál,34,---,HUN,00:28:42,02:47:53,01:39:32,00:03:25,00:03:37,05:03:09
+ironman-70.3-budapest-20140823.csv,636,Florian Pandur,32,---,AUT,00:40:12,02:31:25,01:26:08,00:02:27,00:01:43,04:41:55
+ironman-70.3-budapest-20140823.csv,637,Andras Patyi,29,London,HUN,00:35:58,03:00:31,01:49:44,00:04:44,00:04:19,05:35:16
+ironman-70.3-budapest-20140823.csv,638,Martin Peer,30,---,AUT,00:32:54,02:30:47,01:29:48,00:02:49,00:02:35,04:38:53
+ironman-70.3-budapest-20140823.csv,639,Anton Peinhaupt,30,AT,AUT,00:33:08,02:34:09,01:46:39,00:02:52,00:02:52,04:59:40
+ironman-70.3-budapest-20140823.csv,640,Philipp Pfarherr,32,BW,DEU,00:34:24,02:42:45,01:55:02,00:03:30,00:02:38,05:18:19
+ironman-70.3-budapest-20140823.csv,641,Vladimir Pimenov,31,Moscow Region,RUS,00:33:45,02:44:37,02:01:09,00:03:41,00:02:24,05:25:36
+ironman-70.3-budapest-20140823.csv,642,Marcin Pisarski,32,Warsaw,POL,00:37:53,02:40:27,01:45:43,00:03:08,00:03:32,05:10:43
+ironman-70.3-budapest-20140823.csv,643,Marcin Pondo,31,---,POL,00:41:34,03:28:53,01:43:09,00:03:33,00:03:33,06:00:42
+ironman-70.3-budapest-20140823.csv,644,Vladan Radanovic,33,---,SRB,00:54:47,03:13:50,02:14:35,00:06:36,00:04:56,06:34:44
+ironman-70.3-budapest-20140823.csv,645,Rafal Rakoczy,33,---,POL,00:42:40,02:46:12,01:39:09,00:03:25,00:03:17,05:14:43
+ironman-70.3-budapest-20140823.csv,646,Attila Reinelt,33,FR,FRA,00:34:38,02:39:01,02:09:13,00:03:27,00:03:36,05:29:55
+ironman-70.3-budapest-20140823.csv,647,Balazs Remport,30,---,HUN,00:32:30,02:43:52,01:53:37,00:04:17,00:03:53,05:18:09
+ironman-70.3-budapest-20140823.csv,648,Björn Richter,34,---,DEU,00:37:58,02:42:41,01:41:52,00:02:46,00:03:00,05:08:17
+ironman-70.3-budapest-20140823.csv,649,Martin Riedel,33,AT,AUT,00:33:19,02:50:14,01:50:09,00:03:43,00:04:16,05:21:41
+ironman-70.3-budapest-20140823.csv,650,Joseph Gerrard Rogan,32,---,IRL,00:33:48,02:37:46,01:44:03,00:02:50,00:02:28,05:00:55
+ironman-70.3-budapest-20140823.csv,651,Paul Rogowski,30,Moscow,DEU,00:42:58,02:44:57,01:45:24,00:04:06,00:02:37,05:20:02
+ironman-70.3-budapest-20140823.csv,652,Adrian Roman,33,Sector 6,ROU,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,653,Radu Ropota,34,Sector 1,ROU,00:44:53,02:53:52,01:52:27,00:04:23,00:03:36,05:39:11
+ironman-70.3-budapest-20140823.csv,654,Thorsten Roth,30,---,AUT,00:36:12,02:33:40,01:38:19,00:03:33,00:02:33,04:54:17
+ironman-70.3-budapest-20140823.csv,655,Bernhard Rubik,32,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,656,Dario Ruzic,33,---,BIH,00:46:56,03:18:32,02:24:36,00:07:40,00:05:33,06:43:17
+ironman-70.3-budapest-20140823.csv,657,David Sajner,33,Prague,CZE,00:30:00,02:19:14,01:23:33,00:02:03,00:02:23,04:17:13
+ironman-70.3-budapest-20140823.csv,658,Zsombor Sandor,33,---,HUN,00:31:13,02:33:55,01:34:03,00:03:58,00:02:30,04:45:39
+ironman-70.3-budapest-20140823.csv,659,Bálint Saródi,33,---,HUN,00:50:50,02:50:55,01:56:45,00:05:31,00:04:03,05:48:04
+ironman-70.3-budapest-20140823.csv,660,Paolo Scarano,30,---,ITA,00:36:04,02:47:15,01:46:44,00:05:59,00:05:48,05:21:50
+ironman-70.3-budapest-20140823.csv,661,David Schmidt,29,TX,AUS,00:27:38,02:35:39,02:06:01,00:02:29,00:04:46,05:16:33
+ironman-70.3-budapest-20140823.csv,662,Michael Schnitzler,33,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,663,Andreas Schober,34,---,AUT,00:33:58,02:27:26,01:37:41,00:03:44,00:03:04,04:45:53
+ironman-70.3-budapest-20140823.csv,664,Davor Šekoranja,30,Croatia,HRV,00:31:39,02:48:01,01:44:45,00:02:13,00:02:52,05:09:30
+ironman-70.3-budapest-20140823.csv,665,Tamás Selmeczi,32,---,HUN,00:35:28,02:54:30,01:41:33,00:05:23,00:04:43,05:21:37
+ironman-70.3-budapest-20140823.csv,666,Tamás Séra,34,---,HUN,00:31:11,02:41:11,01:34:25,00:04:59,00:03:11,04:54:57
+ironman-70.3-budapest-20140823.csv,667,Pedro Serrano Drozdowskyj,33,---,ESP,00:36:37,03:12:35,01:40:04,00:07:52,00:06:32,05:43:40
+ironman-70.3-budapest-20140823.csv,668,Manish Sethi,34,DXB,GBR,00:38:39,03:10:43,01:56:04,00:05:45,00:07:05,05:58:16
+ironman-70.3-budapest-20140823.csv,669,Christopher Sharpe,30,UK,GBR,00:47:03,03:04:54,02:31:32,00:06:17,00:05:57,06:35:43
+ironman-70.3-budapest-20140823.csv,670,Peter Simor,32,Budapest,HUN,00:35:22,03:22:58,02:46:59,00:05:31,00:07:22,06:58:12
+ironman-70.3-budapest-20140823.csv,671,Ádám Sipos,32,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,672,Nazary Skrypnik,31,Saint-Petersburg,RUS,00:46:48,03:29:47,02:21:09,00:06:01,00:04:39,06:48:24
+ironman-70.3-budapest-20140823.csv,673,Dániel Soós,30,---,HUN,00:37:04,02:42:58,01:20:27,00:04:35,00:04:57,04:50:01
+ironman-70.3-budapest-20140823.csv,674,Dean Sosic,32,Croatia,HRV,00:32:50,02:32:48,01:39:27,00:03:04,00:03:23,04:51:32
+ironman-70.3-budapest-20140823.csv,675,Michal Stasik,32,Slovakia,SVK,00:33:17,02:34:26,01:42:46,00:03:04,00:02:32,04:56:05
+ironman-70.3-budapest-20140823.csv,676,Martin Stefik,31,APO,SVK,00:43:07,03:35:04,02:04:52,00:06:30,00:06:11,06:35:44
+ironman-70.3-budapest-20140823.csv,677,Mário Stegmann,30,---,SVK,00:42:25,02:59:45,01:50:03,00:04:37,00:05:06,05:41:56
+ironman-70.3-budapest-20140823.csv,678,Michel Stevens,32,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,679,Grant Strachan,30,---,GBR,00:40:09,03:00:50,01:37:57,00:04:49,00:04:03,05:27:48
+ironman-70.3-budapest-20140823.csv,680,Jan Strachovsky,34,---,CZE,00:39:13,02:52:18,01:53:56,00:05:04,00:05:26,05:35:57
+ironman-70.3-budapest-20140823.csv,681,Eduard Štumpf,33,---,CZE,00:35:42,02:33:34,01:38:14,00:02:50,00:02:43,04:53:03
+ironman-70.3-budapest-20140823.csv,682,Saad Sultan,30,---,BHR,00:36:12,02:49:03,02:08:42,00:05:00,00:03:42,05:42:39
+ironman-70.3-budapest-20140823.csv,683,Zsolt Sverteczki,34,---,HUN,00:47:46,03:04:39,02:06:36,00:07:37,00:06:57,06:13:35
+ironman-70.3-budapest-20140823.csv,684,Tomasz Sydor,30,Pomorskie,POL,00:37:22,02:36:52,01:45:04,00:02:52,00:03:11,05:05:21
+ironman-70.3-budapest-20140823.csv,685,Juraj Szabo,33,---,SVK,00:41:36,03:08:11,01:54:16,00:05:37,00:03:52,05:53:32
+ironman-70.3-budapest-20140823.csv,686,Sándor Szabó,33,---,HUN,00:32:43,02:45:56,02:16:04,00:03:32,00:05:26,05:43:41
+ironman-70.3-budapest-20140823.csv,687,Gabor Szalay,33,---,HUN,00:41:50,03:09:40,02:28:19,00:05:42,00:07:08,06:32:39
+ironman-70.3-budapest-20140823.csv,688,Robert Szaniszlo,34,---,HUN,00:39:11,02:48:21,01:51:42,00:04:34,00:03:49,05:27:37
+ironman-70.3-budapest-20140823.csv,689,Balázs Szigethy,30,---,HUN,00:46:21,02:55:48,01:50:30,00:13:47,00:07:43,05:54:09
+ironman-70.3-budapest-20140823.csv,690,Gergely Szigeti,30,Hungary,HUN,00:31:28,02:36:51,01:47:36,00:04:11,00:02:57,05:03:03
+ironman-70.3-budapest-20140823.csv,691,Gábor Szilasi,34,---,HUN,00:40:00,03:48:05,02:20:00,00:12:41,00:14:27,07:15:13
+ironman-70.3-budapest-20140823.csv,692,Ciprian Talaba,34,---,ROU,00:56:47,02:55:31,02:19:21,00:05:32,00:06:42,06:23:53
+ironman-70.3-budapest-20140823.csv,694,András Tímár,33,---,HUN,00:33:35,02:41:26,01:40:09,00:05:57,00:04:20,05:05:27
+ironman-70.3-budapest-20140823.csv,695,Marko Tõll,34,Harjumaa,EST,00:35:29,02:47:17,01:54:29,00:03:41,00:02:28,05:23:24
+ironman-70.3-budapest-20140823.csv,696,András Tornai,33,---,HUN,00:30:09,02:25:38,01:33:58,00:04:07,00:03:02,04:36:54
+ironman-70.3-budapest-20140823.csv,697,Zoltán Tóth,33,---,HUN,00:46:35,03:13:40,02:00:57,00:14:08,00:13:12,06:28:32
+ironman-70.3-budapest-20140823.csv,698,Gergely Tóth-Császár,31,---,HUN,00:31:50,02:52:16,01:40:24,00:03:17,00:02:51,05:10:38
+ironman-70.3-budapest-20140823.csv,699,Balazs Tothfalussy,33,---,HUN,00:48:39,02:50:29,01:41:00,00:03:39,00:04:43,05:28:30
+ironman-70.3-budapest-20140823.csv,700,Robert Töscher,31,AT,AUT,00:41:03,02:42:44,02:03:32,00:03:57,00:04:17,05:35:33
+ironman-70.3-budapest-20140823.csv,701,Marton Trencseni,33,CA,HUN,00:40:57,02:49:43,01:58:51,00:03:27,00:03:32,05:36:30
+ironman-70.3-budapest-20140823.csv,702,Alexander Trofimov,33,Saint-Petersburg,RUS,00:35:11,02:59:25,01:43:27,00:07:55,00:06:11,05:32:09
+ironman-70.3-budapest-20140823.csv,703,Tamas Uracs,33,---,HUN,00:36:19,02:47:30,01:57:15,00:02:57,00:03:25,05:27:26
+ironman-70.3-budapest-20140823.csv,704,Krzysztof Urban,34,-,POL,00:31:51,02:41:57,01:44:49,00:02:05,00:02:20,05:03:02
+ironman-70.3-budapest-20140823.csv,705,Anton Ustyugov,30,---,RUS,00:33:36,02:45:58,01:41:22,00:03:37,00:03:36,05:08:09
+ironman-70.3-budapest-20140823.csv,706,Marat Valeyev,33,Bashkortostan,RUS,00:35:36,02:41:45,01:48:38,00:04:08,00:04:20,05:14:27
+ironman-70.3-budapest-20140823.csv,707,Slabbert Van Zyl,33,---,ZAF,00:42:06,03:15:29,02:09:07,00:07:15,00:06:07,06:20:04
+ironman-70.3-budapest-20140823.csv,708,Vázsony Váraljai,30,---,HUN,00:28:20,02:26:30,01:21:05,00:02:08,00:01:56,04:19:59
+ironman-70.3-budapest-20140823.csv,709,Csaba Vásárhelyi,30,---,HUN,00:37:16,02:50:13,02:01:57,00:05:47,00:06:53,05:42:06
+ironman-70.3-budapest-20140823.csv,710,Mihai Vigaru,30,BB,ROU,00:32:12,02:25:35,01:32:00,00:02:25,00:03:42,04:35:54
+ironman-70.3-budapest-20140823.csv,711,Egor Vinogradov,33,moscow,RUS,00:32:33,02:27:09,01:29:56,00:02:03,00:03:17,04:34:58
+ironman-70.3-budapest-20140823.csv,712,Vypala Ladislav,31,Bratislava,SVK,00:35:13,02:41:16,01:57:05,00:04:14,00:02:51,05:20:39
+ironman-70.3-budapest-20140823.csv,713,Ben Walton,32,DXB,GBR,00:31:59,02:41:55,01:32:10,00:01:56,00:02:27,04:50:27
+ironman-70.3-budapest-20140823.csv,714,David Weiner,31,---,HUN,00:37:59,02:54:05,01:59:03,00:05:19,00:03:15,05:39:41
+ironman-70.3-budapest-20140823.csv,715,Domonkos Dr. Wildner,32,---,HUN,00:31:27,02:34:55,01:46:43,00:03:42,00:04:39,05:01:26
+ironman-70.3-budapest-20140823.csv,716,Glen Zammit,32,Msida,MLT,00:33:04,02:37:31,01:30:34,00:03:44,00:03:02,04:47:55
+ironman-70.3-budapest-20140823.csv,717,Andreas Zissler,30,AT,AUT,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,718,Johannes Zsifkovits,30,AT,AUT,00:36:36,02:35:14,01:43:57,00:02:10,00:02:25,05:00:22
+ironman-70.3-budapest-20140823.csv,719,Peter Zsoldos,31,---,HUN,00:44:52,03:03:41,02:00:05,00:09:37,00:08:41,06:06:56
+ironman-70.3-budapest-20140823.csv,721,Szabolcs Fejos,33,---,HUN,00:38:52,02:34:57,01:51:44,00:05:19,00:03:49,05:14:41
+ironman-70.3-budapest-20140823.csv,722,Tamas Orban,29,---,HUN,00:35:59,03:37:25,02:08:27,00:09:39,00:10:04,06:41:34
+ironman-70.3-budapest-20140823.csv,723,Simon Mutch,34,Surrey,ZAF,00:33:41,02:54:41,01:36:23,00:04:43,00:02:56,05:12:24
+ironman-70.3-budapest-20140823.csv,724,Miklós Weisz,30,---,HUN,00:41:35,03:00:16,01:48:38,00:09:50,00:07:02,05:47:21
+ironman-70.3-budapest-20140823.csv,725,Manuel Manas Bolanos,29,---,MEX,00:37:51,02:58:45,01:48:54,00:02:54,00:02:07,05:30:31
+ironman-70.3-budapest-20140823.csv,726,Zoltan Komlosi,34,---,HUN,00:53:05,02:44:36,01:54:15,00:07:22,00:06:23,05:45:41
+ironman-70.3-budapest-20140823.csv,727,Mikhail Zakharov,32,Samarskaya oblast,RUS,00:35:29,03:01:29,02:18:55,00:04:43,00:05:47,06:06:23
+ironman-70.3-budapest-20140823.csv,728,Béla Koór,30,---,HUN,00:45:14,02:52:47,02:20:31,00:10:39,00:06:07,06:15:18
+ironman-70.3-budapest-20140823.csv,729,José Teixeira,33,MI,VEN,00:36:18,02:55:50,01:47:59,00:05:29,00:02:45,05:28:21
+ironman-70.3-budapest-20140823.csv,730,Andrii Holovko,30,---,UKR,00:38:38,02:48:06,01:50:29,00:02:52,00:04:40,05:24:45
+ironman-70.3-budapest-20140823.csv,731,Zsolt Horvath,32,---,HUN,00:29:59,02:33:14,01:31:55,00:02:18,00:02:33,04:39:59
+ironman-70.3-budapest-20140823.csv,732,Matteo Braschi,33,---,ITA,00:32:53,02:42:42,01:58:47,00:02:50,00:02:56,05:20:08
+ironman-70.3-budapest-20140823.csv,733,Michael Fölsner,31,AT,AUT,00:37:06,02:35:33,01:44:18,00:02:31,00:02:52,05:02:20
+ironman-70.3-budapest-20140823.csv,734,David Lövey,32,---,HUN,00:38:09,02:51:13,02:12:19,00:07:45,00:04:00,05:53:26
+ironman-70.3-budapest-20140823.csv,735,Gergely Szatmari,32,---,HUN,00:31:47,02:47:30,02:11:29,00:04:16,00:04:11,05:39:13
+ironman-70.3-budapest-20140823.csv,736,Szego Tamas,31,---,HUN,00:46:37,03:24:00,02:37:52,00:08:19,00:12:00,07:08:48
+ironman-70.3-budapest-20140823.csv,737,Péter Kalmár,32,---,HUN,00:54:10,03:42:40,02:49:20,00:05:24,00:07:44,07:39:18
+ironman-70.3-budapest-20140823.csv,738,Lukas Lachout,33,---,CZE,00:38:57,02:38:03,01:50:52,00:04:06,00:04:41,05:16:39
+ironman-70.3-budapest-20140823.csv,739,Alexander Spiridonov,30,Moscow,RUS,00:37:30,02:43:41,01:52:15,00:05:24,00:03:21,05:22:11
+ironman-70.3-budapest-20140823.csv,740,Viktor Gosi,31,---,HUN,00:41:30,02:49:34,02:24:45,00:04:36,00:03:17,06:03:42
+ironman-70.3-budapest-20140823.csv,741,Alex Pachschwöll,32,---,AUT,00:31:38,02:22:09,01:47:36,00:03:12,00:03:06,04:47:41
+ironman-70.3-budapest-20140823.csv,742,Andi Pachschwöll,30,---,AUT,00:42:48,---,---,00:04:49,---,DNF
+ironman-70.3-budapest-20140823.csv,743,Andrzej Swiderski,29,---,POL,00:31:46,02:30:16,01:37:10,00:02:43,00:02:41,04:44:36
+ironman-70.3-budapest-20140823.csv,744,Ilker Ikier,34,---,TUR,00:32:48,02:35:07,01:35:53,00:04:34,00:03:06,04:51:28
+ironman-70.3-budapest-20140823.csv,745,Robert Tredger,30,QLD,ZAF,00:31:23,02:56:13,01:48:41,00:02:51,00:03:10,05:22:18
+ironman-70.3-budapest-20140823.csv,746,Mark Booyens,32,Intl State,ZAF,00:31:10,02:38:53,01:35:07,00:03:08,00:02:58,04:51:16
+ironman-70.3-budapest-20140823.csv,747,Botond Beöthy,31,---,HUN,00:41:50,02:55:54,02:05:02,00:04:21,00:04:34,05:51:41
+ironman-70.3-budapest-20140823.csv,748,Jonathan Ciavattella,33,Intl State,ITA,00:23:28,02:11:12,01:14:17,00:01:56,00:02:06,03:52:59
+ironman-70.3-budapest-20140823.csv,749,Zoltán Nagygyörgy,34,---,HUN,00:40:32,02:41:16,01:50:51,00:04:32,00:04:34,05:21:45
+ironman-70.3-budapest-20140823.csv,750,Szabolcs Fodor,31,---,HUN,00:34:43,03:00:04,02:09:06,00:04:27,00:05:33,05:53:53
+ironman-70.3-budapest-20140823.csv,751,Ronald Akkermans,54,NL,NLD,00:35:50,02:50:33,01:50:35,00:05:28,00:04:20,05:26:46
+ironman-70.3-budapest-20140823.csv,752,Luigi Amato,51,---,ITA,00:27:38,02:44:42,01:57:28,00:03:59,00:03:02,05:16:49
+ironman-70.3-budapest-20140823.csv,753,Izzet Baruh,52,---,TUR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,754,Josef Baumgartner,49,---,AUT,00:35:39,02:47:10,01:51:39,00:04:58,00:04:18,05:23:44
+ironman-70.3-budapest-20140823.csv,755,Peter Bender,52,---,DEU,00:38:26,02:48:36,01:57:14,00:03:43,00:05:25,05:33:24
+ironman-70.3-budapest-20140823.csv,756,Massimo Bonato,50,Venezia,ITA,00:35:45,02:57:28,02:04:42,00:05:35,00:06:02,05:49:32
+ironman-70.3-budapest-20140823.csv,757,Bojan Breznik,52,Slovenia,SVN,00:35:14,02:55:48,01:47:06,00:06:38,00:05:18,05:30:04
+ironman-70.3-budapest-20140823.csv,758,Csaba Budai,49,---,HUN,00:35:47,02:50:23,01:51:38,00:04:47,00:03:23,05:25:58
+ironman-70.3-budapest-20140823.csv,759,Nicola Castiglione,51,Italia,ITA,00:36:01,02:46:48,01:42:55,00:03:49,00:04:10,05:13:43
+ironman-70.3-budapest-20140823.csv,760,Stefano Curreli,50,---,ITA,00:34:10,02:41:48,02:03:29,00:04:12,00:04:06,05:27:45
+ironman-70.3-budapest-20140823.csv,761,Marcio Soares Silva,51,---,BRA,00:39:29,03:00:47,01:54:10,00:08:39,00:04:50,05:47:55
+ironman-70.3-budapest-20140823.csv,762,Jean-Luc Di Maria,53,FR,FRA,00:29:30,02:28:59,01:34:29,00:02:49,00:02:05,04:37:52
+ironman-70.3-budapest-20140823.csv,763,Didier Roszak,52,kanto,FRA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,764,Norbert Disper,50,---,DEU,00:44:21,03:10:47,02:36:30,00:06:16,00:05:17,06:43:11
+ironman-70.3-budapest-20140823.csv,765,Piotr Dlugolecki,50,APO,POL,00:37:54,02:50:49,01:56:36,00:04:26,00:03:32,05:33:17
+ironman-70.3-budapest-20140823.csv,766,Thomas Dreher,53,---,DEU,00:35:53,02:37:17,01:52:11,00:03:26,00:03:28,05:12:15
+ironman-70.3-budapest-20140823.csv,767,Pascal Ecollan,52,FR,FRA,00:47:41,02:47:07,01:57:25,00:04:22,00:04:14,05:40:49
+ironman-70.3-budapest-20140823.csv,768,Ken Edmonds,50,Gloucestershire,GBR,00:34:11,02:54:39,02:02:50,00:05:53,00:05:01,05:42:34
+ironman-70.3-budapest-20140823.csv,769,Andreas Fichelscher,53,---,DEU,00:43:47,03:00:05,01:57:08,00:05:11,00:03:11,05:49:22
+ironman-70.3-budapest-20140823.csv,770,Thomas Geiger,52,---,DEU,00:30:57,02:23:51,01:36:39,00:02:33,00:02:19,04:36:19
+ironman-70.3-budapest-20140823.csv,771,Luca Gonfiotti,49,---,ITA,00:38:18,02:40:58,01:28:10,00:04:44,00:03:56,04:56:06
+ironman-70.3-budapest-20140823.csv,772,Bob Gordon,51,---,GBR,00:36:09,02:48:36,02:11:16,00:05:39,00:04:09,05:45:49
+ironman-70.3-budapest-20140823.csv,773,Xavier Goszka,54,---,FRA,00:35:38,03:00:08,02:46:20,00:06:04,00:06:07,06:34:17
+ironman-70.3-budapest-20140823.csv,774,Imre Hanyecz,51,---,HUN,00:35:48,02:49:54,02:08:14,00:05:47,00:04:59,05:44:42
+ironman-70.3-budapest-20140823.csv,775,Mark Holowesko,54,---,---,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,776,Martin Homer,52,Czech rep.,CZE,00:27:30,02:44:41,01:49:36,00:04:27,00:03:37,05:09:51
+ironman-70.3-budapest-20140823.csv,777,James Howard,50,---,GBR,00:37:29,02:45:08,01:47:22,00:05:19,00:04:25,05:19:43
+ironman-70.3-budapest-20140823.csv,778,Mark Jackson,50,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,779,David Robert Jaques,50,---,GBR,00:39:45,02:48:32,01:46:44,00:04:12,00:03:40,05:22:53
+ironman-70.3-budapest-20140823.csv,780,Jean Jacques Lafitte,50,---,FRA,00:37:28,02:46:38,02:26:00,00:05:16,00:04:38,06:00:00
+ironman-70.3-budapest-20140823.csv,781,Miklós Juhász,54,---,HUN,00:41:14,02:30:46,01:42:06,00:03:13,00:02:57,05:00:16
+ironman-70.3-budapest-20140823.csv,782,Stephen Kemp,52,---,GBR,00:36:50,02:39:44,01:45:03,00:04:24,00:03:03,05:09:04
+ironman-70.3-budapest-20140823.csv,783,Mauricio Keppen,53,SANTA CATARINA,BRA,00:37:45,02:50:44,02:09:55,00:03:33,00:04:01,05:45:58
+ironman-70.3-budapest-20140823.csv,784,Balázs Marik,45,---,HUN,00:30:23,02:27:17,01:43:00,00:03:20,00:05:02,04:49:02
+ironman-70.3-budapest-20140823.csv,785,Ed Kramer,50,---,AUT,00:38:24,03:00:21,02:05:49,00:06:54,00:07:36,05:59:04
+ironman-70.3-budapest-20140823.csv,786,Rocco Kürschner,50,---,DEU,00:37:39,02:31:36,01:54:44,00:02:39,00:02:47,05:09:25
+ironman-70.3-budapest-20140823.csv,787,Much Liebenberger,51,AT,AUT,00:33:56,02:32:46,01:40:09,00:02:44,00:03:06,04:52:41
+ironman-70.3-budapest-20140823.csv,788,János Lukics,53,---,HUN,00:45:43,03:30:37,02:51:55,00:06:04,00:06:46,07:21:05
+ironman-70.3-budapest-20140823.csv,789,Ugo Mariani,49,Padova,ITA,00:37:24,02:57:33,02:12:33,00:08:01,00:06:22,06:01:53
+ironman-70.3-budapest-20140823.csv,790,Jozef Marko,53,---,SVK,00:37:43,02:49:13,01:57:10,00:06:10,00:04:31,05:34:47
+ironman-70.3-budapest-20140823.csv,791,János Mendel,49,---,HUN,00:39:54,02:56:55,01:52:19,00:05:17,00:03:39,05:38:04
+ironman-70.3-budapest-20140823.csv,792,Anton Mihaylov,52,---,BGR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,793,Vincenzo Misuraca,52,---,ITA,00:40:52,03:54:55,02:28:57,00:06:17,00:05:17,07:16:18
+ironman-70.3-budapest-20140823.csv,794,Istvan Navratil,53,---,HUN,00:31:42,02:48:32,01:53:04,00:07:40,00:07:04,05:28:02
+ironman-70.3-budapest-20140823.csv,795,Filippo Nettuno,52,italia,ITA,00:30:19,02:33:11,01:35:30,00:02:26,00:02:48,04:44:14
+ironman-70.3-budapest-20140823.csv,796,Ludek Novotny,51,CZ,CZE,00:40:55,02:39:05,01:47:12,00:03:14,00:02:53,05:13:19
+ironman-70.3-budapest-20140823.csv,797,Korkut Omur,52,Monaco,TUR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,798,Miroslav Ondruš,51,---,SVK,00:41:38,03:21:13,02:15:26,00:04:03,00:04:34,06:26:54
+ironman-70.3-budapest-20140823.csv,799,Thomas Papavassiliou,53,---,GRC,00:42:09,02:55:21,01:46:31,00:05:19,00:06:00,05:35:20
+ironman-70.3-budapest-20140823.csv,800,Richard Payne,50,Gauteng,ZAF,00:35:30,02:34:13,01:46:50,00:03:49,00:03:06,05:03:28
+ironman-70.3-budapest-20140823.csv,801,Jens Petersen-Dreyer,54,---,DEU,00:39:43,02:53:47,01:46:43,00:04:08,00:03:38,05:27:59
+ironman-70.3-budapest-20140823.csv,802,Antonio Procaccini,52,ITALY,ITA,00:39:44,02:43:23,02:14:33,00:04:59,00:03:51,05:46:30
+ironman-70.3-budapest-20140823.csv,803,Adrian Pugh,52,Herts,GBR,00:35:51,03:09:44,02:17:45,00:04:23,00:03:59,06:11:42
+ironman-70.3-budapest-20140823.csv,804,Michael Reisinger,---,---,AUT,00:36:24,02:36:13,01:57:20,00:02:47,00:04:33,05:17:17
+ironman-70.3-budapest-20140823.csv,805,István Sáthy,51,---,HUN,00:26:52,02:40:39,01:38:31,00:02:47,00:04:19,04:53:08
+ironman-70.3-budapest-20140823.csv,806,Saussus Phil,53,---,BEL,00:35:41,02:31:42,01:40:56,00:03:42,00:03:11,04:55:12
+ironman-70.3-budapest-20140823.csv,807,Reinhold Schiessl,54,AT,AUT,00:37:09,02:21:45,01:44:59,00:05:10,00:02:47,04:51:50
+ironman-70.3-budapest-20140823.csv,808,Petr Simanek,54,Praha,CZE,00:29:29,02:36:56,02:01:36,00:02:18,00:02:45,05:13:04
+ironman-70.3-budapest-20140823.csv,809,Petr Smatera,52,CZECH,CZE,00:39:30,02:39:13,02:06:51,00:04:28,00:03:29,05:33:31
+ironman-70.3-budapest-20140823.csv,810,Robert Stalzer,50,AT,AUT,00:35:34,02:34:18,01:46:18,00:02:54,00:02:54,05:01:58
+ironman-70.3-budapest-20140823.csv,811,Gunter Tim Stecher,51,---,DEU,00:27:23,02:30:57,01:39:33,00:03:49,00:02:36,04:44:18
+ironman-70.3-budapest-20140823.csv,812,Andreas Steiner,54,---,AUT,00:34:10,02:42:12,01:48:42,00:03:14,00:03:06,05:11:24
+ironman-70.3-budapest-20140823.csv,813,Ty Stewart,52,CA,USA,00:40:20,03:20:00,01:59:03,00:09:32,00:06:25,06:15:20
+ironman-70.3-budapest-20140823.csv,814,Armand Surwilo,53,---,POL,00:30:23,02:31:09,01:34:52,00:02:43,00:02:26,04:41:33
+ironman-70.3-budapest-20140823.csv,815,Attila Szabolcsi,53,Baranya,HUN,00:38:38,03:19:48,01:47:32,00:04:25,00:04:15,05:54:38
+ironman-70.3-budapest-20140823.csv,816,Jerome Teisson,54,---,FRA,00:43:56,02:39:29,01:57:12,00:05:54,00:04:54,05:31:25
+ironman-70.3-budapest-20140823.csv,817,Rocco Thierfelder,50,---,CHE,00:38:31,02:51:36,02:10:05,00:03:59,00:04:50,05:49:01
+ironman-70.3-budapest-20140823.csv,818,Vladimir Tsaplin,52,Moscow reg.,RUS,00:34:32,02:44:04,01:53:37,00:03:04,00:03:24,05:18:41
+ironman-70.3-budapest-20140823.csv,819,Michael Turner,53,---,GBR,00:38:19,02:48:18,02:08:18,00:03:11,00:02:59,05:41:05
+ironman-70.3-budapest-20140823.csv,820,Thilo Vogler,50,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,821,Alberto Denis Tombolato,50,padova,ITA,00:37:18,03:09:04,02:01:11,00:04:43,00:04:24,05:56:40
+ironman-70.3-budapest-20140823.csv,822,Emilio Lomi,50,MI,ITA,00:35:34,02:28:19,01:27:00,00:02:49,00:02:47,04:36:29
+ironman-70.3-budapest-20140823.csv,823,Tamás Ács,49,---,HUN,00:27:19,02:50:26,02:06:43,00:04:38,00:08:01,05:37:07
+ironman-70.3-budapest-20140823.csv,824,Iurie Ostasin,53,APO,MDA,00:35:29,02:27:06,01:45:59,00:03:11,00:02:50,04:54:35
+ironman-70.3-budapest-20140823.csv,825,Janko Zeleznikar,52,ACT,SVN,00:30:10,02:32:09,01:31:34,00:01:59,00:02:22,04:38:14
+ironman-70.3-budapest-20140823.csv,826,Adrian Nanulescu,50,Romania,ROU,00:37:15,02:43:06,01:52:08,00:03:20,00:03:42,05:19:31
+ironman-70.3-budapest-20140823.csv,827,Julius Vincze,51,AT,AUT,00:40:12,02:42:52,01:45:53,00:03:48,00:03:56,05:16:41
+ironman-70.3-budapest-20140823.csv,828,Tünde Berencsi,34,---,HUN,00:50:04,03:04:18,02:09:56,00:14:21,00:16:01,06:34:40
+ironman-70.3-budapest-20140823.csv,829,József Kárpáti,52,---,HUN,00:44:30,02:58:44,02:19:38,00:06:11,00:04:07,06:13:10
+ironman-70.3-budapest-20140823.csv,830,Danilo Bergaglio,55,Novara,ITA,00:39:38,02:41:09,01:57:28,00:03:14,00:03:07,05:24:36
+ironman-70.3-budapest-20140823.csv,831,István Bors,59,---,HUN,00:38:03,02:53:38,02:00:29,00:05:34,00:04:40,05:42:24
+ironman-70.3-budapest-20140823.csv,832,Waldemar Gabold,58,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,833,Stanislaw Gierasimczyk,54,---,POL,00:38:06,02:42:18,01:37:34,00:02:56,00:02:46,05:03:40
+ironman-70.3-budapest-20140823.csv,834,Pete Hughes,55,---,GBR,00:36:14,02:46:24,02:13:14,00:03:46,00:03:38,05:43:16
+ironman-70.3-budapest-20140823.csv,835,Wolfgang Kaiser,62,AT,AUT,00:51:41,02:35:22,02:03:35,00:04:34,00:07:47,05:42:59
+ironman-70.3-budapest-20140823.csv,836,György Kovács,59,---,HUN,00:41:00,03:49:02,01:50:28,00:09:27,00:04:27,06:34:24
+ironman-70.3-budapest-20140823.csv,837,Robert Lindqvist,55,Jönköping,SWE,00:43:50,03:05:52,02:01:39,00:04:06,00:04:59,06:00:26
+ironman-70.3-budapest-20140823.csv,838,Mark Lueders,59,---,USA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,839,Premysl Novotny,55,Czech republic,CZE,00:51:48,03:08:02,02:26:17,00:03:13,00:04:35,06:33:55
+ironman-70.3-budapest-20140823.csv,840,Umit Ozturk,54,---,TUR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,841,Mehmet Ozpagda,57,TX,TUR,00:43:16,03:00:28,02:46:19,00:05:32,00:05:55,06:41:30
+ironman-70.3-budapest-20140823.csv,842,József Pál,56,---,HUN,00:32:18,02:34:11,01:58:21,00:03:05,00:05:18,05:13:13
+ironman-70.3-budapest-20140823.csv,843,Simon Puttock,56,---,GBR,00:35:43,02:46:27,01:44:10,00:03:38,00:02:45,05:12:43
+ironman-70.3-budapest-20140823.csv,844,Günther Resch,56,---,AUT,00:33:19,02:42:52,01:47:59,00:04:00,00:03:09,05:11:19
+ironman-70.3-budapest-20140823.csv,845,Ireneusz Tarasiewicz,55,---,POL,00:40:00,02:42:06,01:42:25,00:04:31,00:04:32,05:13:34
+ironman-70.3-budapest-20140823.csv,846,Rudolf Töscher,59,AT,AUT,00:40:08,02:42:36,01:47:46,00:05:11,00:05:22,05:21:03
+ironman-70.3-budapest-20140823.csv,847,Dick Van Doorn,57,---,NLD,00:52:26,03:03:24,02:15:56,00:08:20,00:05:00,06:25:06
+ironman-70.3-budapest-20140823.csv,848,Gary Walker,56,---,GBR,00:54:22,03:34:12,02:55:46,00:07:34,00:07:14,07:39:08
+ironman-70.3-budapest-20140823.csv,849,Ryszard Biernat,60,---,POL,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,850,Reinhard Hans-Werner Drogla,64,---,DEU,00:37:03,02:42:26,02:06:48,00:03:41,00:03:57,05:33:55
+ironman-70.3-budapest-20140823.csv,851,Frank Endt,60,---,DEU,00:51:11,03:33:05,03:08:30,00:06:25,00:06:21,07:45:32
+ironman-70.3-budapest-20140823.csv,852,Kevin Flynn,62,---,CAN,00:43:41,03:09:42,02:13:23,00:07:49,00:06:49,06:21:24
+ironman-70.3-budapest-20140823.csv,853,Derick Czesney Marcisz,59,Gauteng,ZAF,00:33:31,02:45:16,01:50:52,00:04:57,00:04:08,05:18:44
+ironman-70.3-budapest-20140823.csv,854,John Redwood,63,BE,BEL,00:37:03,02:32:58,01:44:12,00:03:18,00:02:48,05:00:19
+ironman-70.3-budapest-20140823.csv,855,Marti Robert,64,---,FRA,00:50:07,02:40:51,01:55:45,00:06:25,00:04:00,05:37:08
+ironman-70.3-budapest-20140823.csv,856,Mike Robertson,60,TX,USA,00:48:48,02:47:07,02:11:34,00:09:13,00:04:31,06:01:13
+ironman-70.3-budapest-20140823.csv,857,Lucano Sošic,62,APO,HRV,00:44:39,02:51:06,01:55:52,00:06:35,00:04:45,05:42:57
+ironman-70.3-budapest-20140823.csv,858,Steve Wood,60,TX,USA,00:44:03,03:18:45,02:15:58,00:07:20,00:07:05,06:33:11
+ironman-70.3-budapest-20140823.csv,859,József Berács,64,Hungary,HUN,01:04:50,03:18:59,02:14:55,00:11:30,00:05:03,06:55:17
+ironman-70.3-budapest-20140823.csv,860,Ed Bosanac,66,CA,USA,00:38:28,02:58:55,02:31:59,00:06:01,00:05:35,06:20:58
+ironman-70.3-budapest-20140823.csv,861,Yüksel Kiliç,65,APO,TUR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,862,Pavel Podesva,65,Czech Republic,CZE,00:38:18,02:40:15,01:45:59,00:03:09,00:03:40,05:11:21
+ironman-70.3-budapest-20140823.csv,863,Henrik Fröhlich,70,---,HUN,00:55:36,03:18:03,02:19:14,00:12:32,00:06:13,06:51:38
+ironman-70.3-budapest-20140823.csv,864,Elisius Iwens,73,---,BEL,00:37:01,02:52:34,02:01:37,00:04:08,00:06:57,05:42:17
+ironman-70.3-budapest-20140823.csv,865,Endre Szebeni,70,HUNGARY,HUN,00:51:42,03:31:32,02:26:23,00:07:00,00:07:53,07:04:30
+ironman-70.3-budapest-20140823.csv,866,Roland Limberg,55,---,DEU,00:52:00,03:36:06,02:44:59,00:08:48,00:06:26,07:28:19
+ironman-70.3-budapest-20140823.csv,867,Péter Czencz,61,---,HUN,00:38:17,03:09:42,01:54:24,00:03:39,00:04:02,05:50:04
+ironman-70.3-budapest-20140823.csv,868,Sándor Molnár,68,---,HUN,00:51:46,03:09:20,02:23:07,00:07:04,00:06:37,06:37:54
+ironman-70.3-budapest-20140823.csv,869,Miklos Krabacz,54,---,HUN,00:39:40,02:49:23,01:57:33,00:06:22,00:07:16,05:40:14
+ironman-70.3-budapest-20140823.csv,870,Edi Kunz,50,---,DEU,00:31:42,02:30:59,01:22:33,00:03:13,00:02:54,04:31:21
+ironman-70.3-budapest-20140823.csv,871,Martin Gannon,57,---,GBR,00:33:37,02:31:45,01:37:12,00:03:04,00:02:30,04:48:08
+ironman-70.3-budapest-20140823.csv,872,György Bartos,54,---,HUN,00:34:12,02:48:02,02:00:24,00:04:28,00:07:47,05:34:53
+ironman-70.3-budapest-20140823.csv,873,Vincent Bauduin,53,FR,FRA,00:35:54,02:45:11,02:11:07,00:05:34,00:04:58,05:42:44
+ironman-70.3-budapest-20140823.csv,874,Cristian Sartini,38,BERGAMO,ITA,00:33:08,02:24:08,01:36:11,00:02:48,00:02:31,04:38:46
+ironman-70.3-budapest-20140823.csv,875,Mich Stradiotto,35,---,ZAF,00:33:29,02:26:00,01:37:32,00:03:31,00:02:40,04:43:12
+ironman-70.3-budapest-20140823.csv,876,George Beecher,37,CA,ZAF,00:25:07,02:25:50,01:25:26,00:02:12,00:02:42,04:21:17
+ironman-70.3-budapest-20140823.csv,877,Steven Zietsman,37,---,GBR,00:33:20,02:44:57,02:20:29,00:06:22,00:03:47,05:48:55
+ironman-70.3-budapest-20140823.csv,878,Róbert Csomor,37,---,HUN,00:31:04,02:40:19,01:50:05,00:03:03,00:05:09,05:09:40
+ironman-70.3-budapest-20140823.csv,879,Joergen Eriksen,37,Other,CHE,00:34:40,02:39:32,01:54:55,00:01:44,00:02:23,05:13:14
+ironman-70.3-budapest-20140823.csv,880,Tomas Arendas,35,SK,SVK,00:34:17,02:43:11,01:47:19,00:02:19,00:02:48,05:09:54
+ironman-70.3-budapest-20140823.csv,881,Mahmoud Abdel Hakim,35,sheikh zayed,EGY,00:37:07,02:50:08,01:49:06,00:03:27,00:03:22,05:23:10
+ironman-70.3-budapest-20140823.csv,882,Emad Al Doseri,36,---,BHR,00:39:55,02:53:01,02:24:16,00:05:50,00:03:39,06:06:41
+ironman-70.3-budapest-20140823.csv,883,Mohamed Almuhairi,36,DXB,ARE,00:38:12,02:46:24,02:07:02,00:03:25,00:03:54,05:38:57
+ironman-70.3-budapest-20140823.csv,884,Carlo Almeida,37,montijo,PRT,00:35:54,02:44:38,01:43:27,00:04:10,00:03:55,05:12:04
+ironman-70.3-budapest-20140823.csv,885,Ferenc Andrási,36,---,HUN,00:35:16,02:40:51,01:41:14,00:03:44,00:05:32,05:06:37
+ironman-70.3-budapest-20140823.csv,886,Jozsef Arnoth,37,---,HUN,00:37:57,02:49:38,01:38:47,00:02:46,00:02:17,05:11:25
+ironman-70.3-budapest-20140823.csv,887,Razvan Avramescu,37,---,ROU,00:37:44,02:59:41,02:00:53,00:05:17,00:04:45,05:48:20
+ironman-70.3-budapest-20140823.csv,888,Bertalan Bakos,37,---,HUN,00:47:10,03:31:11,02:17:01,00:07:57,00:04:08,06:47:27
+ironman-70.3-budapest-20140823.csv,889,Robert Ioan Balan,38,Arad,ROU,00:44:26,02:51:17,01:48:33,00:04:45,00:05:27,05:34:28
+ironman-70.3-budapest-20140823.csv,890,Mark Balastyai,39,---,HUN,00:45:44,02:43:06,02:05:34,00:03:58,00:04:47,05:43:09
+ironman-70.3-budapest-20140823.csv,891,Mátyás Bálint,35,---,HUN,00:31:08,02:53:29,02:11:09,00:03:18,00:03:15,05:42:19
+ironman-70.3-budapest-20140823.csv,892,Csaba Balogh,38,---,HUN,00:34:37,02:37:51,01:45:51,00:03:48,00:03:15,05:05:22
+ironman-70.3-budapest-20140823.csv,893,Glenn Barber,36,---,AUS,00:44:39,03:10:59,02:03:47,00:05:01,00:05:25,06:09:51
+ironman-70.3-budapest-20140823.csv,894,Bernd Barounig,37,---,AUT,00:30:14,02:18:39,01:27:48,00:02:19,00:02:40,04:21:40
+ironman-70.3-budapest-20140823.csv,895,Tomasz Bartnik,38,---,POL,00:33:41,02:39:59,01:41:19,00:02:35,00:02:34,05:00:08
+ironman-70.3-budapest-20140823.csv,896,Christopher Beirne,36,Antrim,IRL,00:43:46,03:02:26,02:23:40,00:06:43,00:05:36,06:22:11
+ironman-70.3-budapest-20140823.csv,897,Oliver Beric,38,DE,DEU,00:33:30,02:57:51,02:08:22,00:04:20,00:04:15,05:48:18
+ironman-70.3-budapest-20140823.csv,898,Rodrigo Betti Marques,37,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,899,Tamás Biacsi,36,---,HUN,00:32:24,02:57:46,02:00:01,00:05:17,00:04:05,05:39:33
+ironman-70.3-budapest-20140823.csv,900,Janos Bognar,36,---,HUN,00:30:17,02:28:05,01:31:48,00:03:11,00:03:05,04:36:26
+ironman-70.3-budapest-20140823.csv,901,Evgenii Boiarskikh,34,---,RUS,00:39:51,02:53:47,01:52:59,00:06:02,00:03:29,05:36:08
+ironman-70.3-budapest-20140823.csv,902,Tamás Bokker,35,---,HUN,00:39:51,02:57:55,01:59:01,00:07:50,00:05:12,05:49:49
+ironman-70.3-budapest-20140823.csv,903,Michiel Borst,35,Northern Governant,NLD,00:40:31,02:58:51,02:24:55,00:04:03,00:04:08,06:12:28
+ironman-70.3-budapest-20140823.csv,904,Bosmans Maarten,38,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,905,Gábor Brandstätter,35,---,HUN,00:37:08,02:54:01,02:00:04,00:07:27,00:07:27,05:46:07
+ironman-70.3-budapest-20140823.csv,906,Joseph Bruhl,36,AE,USA,00:37:31,02:58:59,01:57:55,00:04:20,00:03:41,05:42:26
+ironman-70.3-budapest-20140823.csv,907,Paul Bryant,37,---,GBR,00:39:19,02:59:38,02:04:18,00:06:32,00:04:22,05:54:09
+ironman-70.3-budapest-20140823.csv,908,Marco Bucci,36,CH,ITA,00:31:01,02:26:06,01:28:30,00:02:59,00:02:45,04:31:21
+ironman-70.3-budapest-20140823.csv,909,Guntis Buks,38,---,LVA,00:39:36,02:52:28,02:27:22,00:07:13,00:06:41,06:13:20
+ironman-70.3-budapest-20140823.csv,910,Patrik Busch,37,---,AUT,00:38:26,02:46:56,02:20:01,00:03:43,00:03:54,05:53:00
+ironman-70.3-budapest-20140823.csv,911,Thomas Butter,38,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,912,Brian Cain,37,CA,USA,00:37:01,02:46:02,01:54:53,00:03:40,00:03:44,05:25:20
+ironman-70.3-budapest-20140823.csv,913,Dissica Calderaro,37,FL,BRA,00:40:51,03:00:18,02:57:56,00:08:00,00:11:52,06:58:57
+ironman-70.3-budapest-20140823.csv,914,Matteo Cantieri,37,Bologna,ITA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,915,Alberto Canziani,39,Milano,ITA,00:40:26,02:38:10,01:32:11,00:05:29,00:05:11,05:01:27
+ironman-70.3-budapest-20140823.csv,916,Barbara Supikova,28,---,POL,00:33:34,---,---,00:02:29,---,DNF
+ironman-70.3-budapest-20140823.csv,917,stavros christof,17,---,GRC,00:33:33,02:31:05,01:35:36,00:02:33,00:02:40,04:45:27
+ironman-70.3-budapest-20140823.csv,918,Petr Cibulka,38,---,CZE,00:33:29,02:36:44,01:49:08,00:05:39,00:05:27,05:10:27
+ironman-70.3-budapest-20140823.csv,919,Daniel Cohen,38,Herts,GBR,00:34:29,03:01:02,01:57:21,00:04:54,00:07:19,05:45:05
+ironman-70.3-budapest-20140823.csv,920,Guy Cotter,37,---,ZAF,00:33:30,02:36:16,01:32:29,00:02:53,00:02:49,04:47:57
+ironman-70.3-budapest-20140823.csv,921,Róbert Csákvári,36,Hungary,HUN,00:41:16,02:58:23,01:47:57,00:04:05,00:05:53,05:37:34
+ironman-70.3-budapest-20140823.csv,922,Dave Degain,37,---,BEL,00:29:43,02:17:53,01:26:55,00:03:14,00:03:00,04:20:45
+ironman-70.3-budapest-20140823.csv,923,Volodymyr Degtiarov,34,---,UKR,00:34:39,02:48:52,01:31:27,00:02:30,00:02:37,05:00:05
+ironman-70.3-budapest-20140823.csv,924,Ozan Demirel,35,Gokturk,TUR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,925,Pasinato Diego,35,---,ITA,00:43:43,02:46:40,02:16:53,00:04:44,00:03:53,05:55:53
+ironman-70.3-budapest-20140823.csv,926,Jonathan Dorse,34,---,GBR,00:32:45,02:40:01,01:38:23,00:04:46,00:04:16,05:00:11
+ironman-70.3-budapest-20140823.csv,927,Dan Duma,37,---,ROU,00:43:18,02:50:44,01:44:43,00:06:58,00:06:30,05:32:13
+ironman-70.3-budapest-20140823.csv,928,Philippe Dutilleul Francoeur,39,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,929,Vladimir Eckert,36,Slovakia,SVK,00:33:18,02:44:00,01:40:10,00:03:49,00:02:21,05:03:38
+ironman-70.3-budapest-20140823.csv,930,Andy Edwards,39,DXB,GBR,00:28:04,01:24:11,01:26:58,00:02:58,00:17:20,DNF
+ironman-70.3-budapest-20140823.csv,931,Markus Erkinger,35,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,933,László Fajtai,35,---,HUN,00:36:25,02:51:44,01:54:32,00:05:35,00:06:22,05:34:38
+ironman-70.3-budapest-20140823.csv,934,Matyas Fekete,34,---,HUN,00:29:08,02:43:59,01:40:22,00:03:36,00:03:10,05:00:15
+ironman-70.3-budapest-20140823.csv,935,Kornel Ferenci,35,---,HUN,00:31:56,02:26:48,01:28:33,00:02:45,00:02:17,04:32:19
+ironman-70.3-budapest-20140823.csv,936,Roberto Ferraiuolo,39,Italia,ITA,00:32:03,02:28:41,01:43:10,00:02:36,00:02:57,04:49:27
+ironman-70.3-budapest-20140823.csv,937,Dmitrii Filippov,39,---,RUS,00:37:54,02:54:26,02:00:53,00:06:02,00:08:23,05:47:38
+ironman-70.3-budapest-20140823.csv,938,Richard Follett,34,---,GBR,00:27:59,02:20:49,01:29:49,00:02:15,00:02:27,04:23:19
+ironman-70.3-budapest-20140823.csv,939,Gabor Franko,35,Oxfordshire,HUN,00:53:29,03:11:06,01:41:13,00:11:09,00:05:41,06:02:38
+ironman-70.3-budapest-20140823.csv,940,Alberto Frisiero,35,AT,ITA,00:43:26,02:55:04,01:47:28,00:03:27,00:04:04,05:33:29
+ironman-70.3-budapest-20140823.csv,941,Balázs Fritz,39,---,HUN,00:38:56,02:41:05,01:48:00,00:04:15,00:04:52,05:17:08
+ironman-70.3-budapest-20140823.csv,942,Gábor Gálfi,37,---,HUN,00:45:47,03:11:37,02:31:26,00:13:02,00:10:18,06:52:10
+ironman-70.3-budapest-20140823.csv,943,Attila Garas,35,---,HUN,00:36:19,02:41:42,01:53:24,00:04:03,00:03:11,05:18:39
+ironman-70.3-budapest-20140823.csv,944,Jon Geller,37,Intl State,GBR,00:36:31,02:42:33,01:46:26,00:03:45,00:04:31,05:13:46
+ironman-70.3-budapest-20140823.csv,945,Gustavo Gennari,38,São Paulo,BRA,00:32:51,02:31:36,01:30:08,00:02:32,00:02:42,04:39:49
+ironman-70.3-budapest-20140823.csv,946,Claudio Gentile,37,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,947,Luca Gentili,37,Italia,ITA,00:27:52,02:19:23,01:22:53,00:03:27,00:02:40,04:16:15
+ironman-70.3-budapest-20140823.csv,948,Tomasz Glod,35,---,POL,00:34:24,02:26:54,01:29:12,00:03:06,00:02:42,04:36:18
+ironman-70.3-budapest-20140823.csv,949,Pavel Gotsev,39,---,RUS,00:34:20,02:33:04,01:46:47,00:03:40,00:03:32,05:01:23
+ironman-70.3-budapest-20140823.csv,950,József Görög,35,---,HUN,00:57:07,02:55:01,02:10:35,00:07:32,00:05:32,06:15:47
+ironman-70.3-budapest-20140823.csv,951,Oliver Gulyas,36,---,HUN,00:40:14,02:49:59,02:08:22,00:07:27,00:07:48,05:53:50
+ironman-70.3-budapest-20140823.csv,952,Peter Gusztos,38,---,HUN,00:44:48,03:04:06,01:51:48,00:09:11,00:05:57,05:55:50
+ironman-70.3-budapest-20140823.csv,953,Robert Hampl,35,Hungary,HUN,00:46:44,03:01:24,01:54:30,00:06:06,00:07:36,05:56:20
+ironman-70.3-budapest-20140823.csv,954,Jack Handcock,37,---,ZAF,00:30:53,02:35:33,02:00:08,00:03:48,00:02:26,05:12:48
+ironman-70.3-budapest-20140823.csv,955,Martin Hanisch,35,---,AUT,00:30:47,02:22:28,01:24:35,00:02:03,00:02:11,04:22:04
+ironman-70.3-budapest-20140823.csv,956,György Hans,34,---,HUN,00:40:37,02:39:28,01:39:56,00:04:28,00:04:17,05:08:46
+ironman-70.3-budapest-20140823.csv,957,Philipp Hansen,38,Bayern,DEU,00:34:55,02:44:13,01:36:20,00:03:33,00:02:58,05:01:59
+ironman-70.3-budapest-20140823.csv,958,Peter Harnold,36,---,SVN,00:27:14,02:25:58,01:24:09,00:01:51,00:02:29,04:21:41
+ironman-70.3-budapest-20140823.csv,959,Paul Harvey,34,Leicestershire,GBR,00:37:09,03:03:45,02:11:24,00:05:25,00:03:46,06:01:29
+ironman-70.3-budapest-20140823.csv,960,Tamás Hati,35,---,HUN,00:44:51,02:52:13,01:54:09,00:06:33,00:06:15,05:44:01
+ironman-70.3-budapest-20140823.csv,961,Zoltán Heindl,37,---,HUN,00:58:03,02:48:48,01:57:40,00:04:49,00:04:24,05:53:44
+ironman-70.3-budapest-20140823.csv,962,Stephane Henchoz,39,MN,CHE,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,963,Jean Louis Hernandez,38,FR,FRA,00:42:31,03:07:18,02:07:39,00:03:48,00:06:49,06:08:05
+ironman-70.3-budapest-20140823.csv,964,Gyula Hóbor,39,---,HUN,00:30:39,02:44:27,01:44:14,00:03:53,00:05:15,05:08:28
+ironman-70.3-budapest-20140823.csv,965,Tomas Hockicko,36,---,SVK,00:27:58,02:39:03,01:45:11,00:04:16,00:06:24,05:02:52
+ironman-70.3-budapest-20140823.csv,966,Peter Hody,35,---,HUN,00:43:32,02:46:07,02:05:14,00:05:19,00:02:58,05:43:10
+ironman-70.3-budapest-20140823.csv,967,Philipp Hofer,35,AT,AUT,00:48:50,02:48:43,02:30:27,00:05:14,00:06:40,06:19:54
+ironman-70.3-budapest-20140823.csv,968,Joseph Hogan,39,---,GBR,00:50:23,03:23:59,02:01:32,00:04:03,00:06:49,06:26:46
+ironman-70.3-budapest-20140823.csv,969,Jonathan Hooper,35,---,GBR,00:41:11,03:11:59,01:56:11,00:04:41,00:06:02,06:00:04
+ironman-70.3-budapest-20140823.csv,970,Peter Horvai-Hillenbrand,35,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,971,Gregor Hrovat,37,SLOVENIA,SVN,00:38:36,02:44:02,01:59:46,00:04:21,00:04:30,05:31:15
+ironman-70.3-budapest-20140823.csv,972,Tamás Hrustinszky,38,---,HUN,00:46:19,03:23:59,02:08:12,00:07:54,00:09:04,06:35:28
+ironman-70.3-budapest-20140823.csv,973,Nicola Intini,38,BA,ITA,00:40:54,02:45:37,01:40:46,00:04:06,00:03:12,05:14:35
+ironman-70.3-budapest-20140823.csv,974,Hrvoje Jagetic,38,Pozesko-slavonska,HRV,00:34:04,02:47:06,01:52:35,00:04:44,00:04:37,05:23:06
+ironman-70.3-budapest-20140823.csv,975,Zsolt Jakab,37,---,HUN,00:35:58,02:46:13,02:12:17,00:05:49,00:07:58,05:48:15
+ironman-70.3-budapest-20140823.csv,976,Balázs Jánosi,38,---,HUN,00:49:48,02:55:23,02:01:46,00:04:13,00:05:51,05:57:01
+ironman-70.3-budapest-20140823.csv,977,Juris Jansons,39,RIGA,LVA,00:38:04,02:32:46,01:32:52,00:02:55,00:03:03,04:49:40
+ironman-70.3-budapest-20140823.csv,978,Ahmed Jbar,37,Other,BHR,00:30:53,02:36:36,01:28:32,00:03:39,00:02:49,04:42:29
+ironman-70.3-budapest-20140823.csv,979,Janos Jenei,36,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,980,Károly Józsa,37,Pest,HUN,00:39:42,02:56:50,01:59:19,00:05:28,00:03:32,05:44:51
+ironman-70.3-budapest-20140823.csv,981,Zoltán Kalmár,36,---,HUN,00:40:53,02:57:09,01:53:39,00:05:37,00:05:18,05:42:36
+ironman-70.3-budapest-20140823.csv,982,Franz Kaltenecker,36,---,AUT,00:33:10,02:25:47,01:38:10,00:02:25,00:02:47,04:42:19
+ironman-70.3-budapest-20140823.csv,983,Ivars Kassalis,37,Latvia,LVA,00:29:28,02:35:11,01:30:30,00:03:56,00:03:04,04:42:09
+ironman-70.3-budapest-20140823.csv,984,Jussi Kauppinen,38,Uusimaa,FIN,00:35:19,02:45:24,02:00:59,00:03:28,00:03:25,05:28:35
+ironman-70.3-budapest-20140823.csv,985,Yury Kazakov,37,---,RUS,00:34:24,02:34:20,01:28:15,00:04:27,00:02:52,04:44:18
+ironman-70.3-budapest-20140823.csv,986,Keijo Keränen,37,Tuusula,FIN,00:44:32,02:59:53,02:01:42,00:05:53,00:04:48,05:56:48
+ironman-70.3-budapest-20140823.csv,987,Janos Keszei,35,---,HUN,00:39:19,02:46:52,01:52:11,00:08:55,00:05:50,05:33:07
+ironman-70.3-budapest-20140823.csv,988,Krisztián Kiss,38,---,HUN,00:47:02,02:41:09,02:02:09,00:05:47,00:03:59,05:40:06
+ironman-70.3-budapest-20140823.csv,989,Mariusz Klatka,35,---,POL,00:34:36,02:34:18,01:36:03,00:02:16,00:02:17,04:49:30
+ironman-70.3-budapest-20140823.csv,990,Jürgen Knoll,39,AT,AUT,00:31:48,02:23:45,01:37:21,00:01:52,00:02:40,04:37:26
+ironman-70.3-budapest-20140823.csv,991,Gernot Koch,37,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,992,Kornii Korniienko,35,KYIV,UKR,00:38:54,03:02:19,01:56:01,00:07:27,00:06:29,05:51:10
+ironman-70.3-budapest-20140823.csv,993,Rego Kozma,37,---,HUN,00:27:09,02:53:41,01:55:26,00:04:15,00:03:42,05:24:13
+ironman-70.3-budapest-20140823.csv,994,Sandor Korozsi,38,---,HUN,00:39:52,02:59:30,02:09:00,00:08:12,00:10:10,06:06:44
+ironman-70.3-budapest-20140823.csv,995,Balazs Kover,38,---,HUN,00:37:52,02:52:41,01:42:34,00:03:13,00:03:16,05:19:36
+ironman-70.3-budapest-20140823.csv,996,Stefan Krueger,36,Middlesex,DEU,00:36:47,02:30:50,01:42:39,00:03:24,00:03:23,04:57:03
+ironman-70.3-budapest-20140823.csv,997,Karoly Laczi,38,---,HUN,00:37:28,03:00:53,02:18:42,00:05:28,00:04:24,06:06:55
+ironman-70.3-budapest-20140823.csv,998,Márton Lányi,37,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,999,Róbert Lapos,38,Pest,HUN,00:37:19,02:51:06,01:50:43,00:05:12,00:06:02,05:30:22
+ironman-70.3-budapest-20140823.csv,1000,Grant Lapping,38,---,ZAF,00:30:52,02:29:39,01:34:44,00:03:20,00:02:53,04:41:28
+ironman-70.3-budapest-20140823.csv,1001,Iker Lasuen Olabe,34,ES,ESP,00:30:55,02:24:21,01:40:28,00:03:14,00:03:39,04:42:37
+ironman-70.3-budapest-20140823.csv,1002,Imre László,38,---,HUN,00:47:27,02:55:56,02:16:32,00:05:40,00:05:17,06:10:52
+ironman-70.3-budapest-20140823.csv,1003,Matej Leban,34,GO,SVN,00:30:49,02:25:59,01:34:04,00:03:27,00:02:57,04:37:16
+ironman-70.3-budapest-20140823.csv,1004,Gabor Lengyel,39,DE,DEU,00:31:02,02:24:48,01:28:09,00:02:22,00:02:13,04:28:34
+ironman-70.3-budapest-20140823.csv,1005,Edgardo Liberman,37,---,ARG,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1006,Michele Lopetuso,38,---,ITA,00:44:38,02:44:52,02:01:52,00:03:10,00:04:03,05:38:35
+ironman-70.3-budapest-20140823.csv,1007,István Löki,37,---,HUN,00:35:53,02:45:58,01:34:11,00:03:22,00:02:49,05:02:13
+ironman-70.3-budapest-20140823.csv,1008,Kostiantyn Magaletskyi,35,---,UKR,00:47:02,02:52:24,01:57:14,00:04:24,00:04:36,05:45:40
+ironman-70.3-budapest-20140823.csv,1009,Dmitrii Maleikovich,35,---,RUS,00:41:15,03:30:07,02:26:00,00:04:36,00:05:40,06:47:38
+ironman-70.3-budapest-20140823.csv,1010,Tamás Máltesics,36,---,HUN,00:38:46,02:45:57,01:47:59,00:07:36,00:08:13,05:28:31
+ironman-70.3-budapest-20140823.csv,1011,Jakub Marek,37,---,CZE,00:41:19,02:55:19,02:20:34,00:03:05,00:04:17,06:04:34
+ironman-70.3-budapest-20140823.csv,1012,Laszlo Marta,36,---,HUN,00:26:50,02:39:53,02:12:50,00:02:17,00:03:41,05:25:31
+ironman-70.3-budapest-20140823.csv,1013,Fernando Martins,35,Intl State,BRA,00:31:53,02:37:09,01:56:06,00:03:01,00:03:51,05:12:00
+ironman-70.3-budapest-20140823.csv,1014,Zoltan Masa,36,B-A-Z megye,HUN,00:39:09,02:37:22,01:48:05,00:05:13,00:03:50,05:13:39
+ironman-70.3-budapest-20140823.csv,1015,Alexey Maslov,35,---,RUS,00:41:09,02:34:39,01:40:58,00:04:40,00:04:16,05:05:42
+ironman-70.3-budapest-20140823.csv,1016,Sergey Matveev,37,---,RUS,00:40:16,02:51:40,01:47:14,00:04:28,00:03:29,05:27:07
+ironman-70.3-budapest-20140823.csv,1017,Tamás Mátyus,39,---,HUN,00:33:22,02:59:20,02:50:12,00:05:43,00:06:03,06:34:40
+ironman-70.3-budapest-20140823.csv,1018,Lars Mayer,38,---,DEU,00:30:56,02:24:26,01:39:38,00:02:43,00:02:22,04:40:05
+ironman-70.3-budapest-20140823.csv,1019,Mark Mc Mahon,39,---,IRL,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1020,Daniele Meazzi,39,---,ITA,00:40:12,03:11:20,02:13:13,00:04:47,00:03:58,06:13:30
+ironman-70.3-budapest-20140823.csv,1021,Martin Mekyna,35,AT,AUT,00:29:03,02:20:10,01:31:35,00:01:55,00:02:13,04:24:56
+ironman-70.3-budapest-20140823.csv,1022,István Mezei,35,---,HUN,00:32:50,02:46:01,01:32:05,00:02:34,00:02:38,04:56:08
+ironman-70.3-budapest-20140823.csv,1023,Puskar Michal,38,---,SVK,00:34:30,02:57:03,02:00:06,00:02:59,00:03:51,05:38:29
+ironman-70.3-budapest-20140823.csv,1024,Matthew Millhollin,37,VA,USA,00:39:23,02:50:56,01:51:55,00:03:53,00:02:32,05:28:39
+ironman-70.3-budapest-20140823.csv,1025,Attila Mohácsi,35,---,HUN,00:53:26,03:20:36,02:23:09,00:08:23,00:06:37,06:52:11
+ironman-70.3-budapest-20140823.csv,1026,Eddy Moreau,35,---,FRA,00:31:46,02:32:35,01:48:27,00:03:17,00:04:08,05:00:13
+ironman-70.3-budapest-20140823.csv,1027,Stuart Muirhead,36,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1028,Sebastian Mularczyk,37,---,POL,00:41:33,02:48:09,01:57:11,00:03:09,00:02:41,05:32:43
+ironman-70.3-budapest-20140823.csv,1029,Rodrigo Muraro,39,Intl State,BRA,00:40:30,02:54:07,02:29:54,00:04:25,00:07:31,06:16:27
+ironman-70.3-budapest-20140823.csv,1030,Warren Muscat,35,---,MLT,00:44:40,02:49:48,02:21:01,00:05:09,00:04:42,06:05:20
+ironman-70.3-budapest-20140823.csv,1031,Maik Müller,38,---,DEU,00:28:46,02:26:14,01:35:20,00:02:09,00:02:28,04:34:57
+ironman-70.3-budapest-20140823.csv,1032,Richárd György Nagy,38,---,HUN,00:36:23,02:51:22,01:52:56,00:04:14,00:05:52,05:30:47
+ironman-70.3-budapest-20140823.csv,1033,György Nagy,38,---,HUN,00:50:05,03:31:21,02:50:22,00:10:35,00:10:02,07:32:25
+ironman-70.3-budapest-20140823.csv,1034,Roger Naranjo,38,FL,USA,00:47:09,02:51:21,02:23:27,00:05:01,00:06:13,06:13:11
+ironman-70.3-budapest-20140823.csv,1035,Janos-Michael Nehez,37,Veszprem,HUN,00:34:54,02:36:22,02:27:54,00:04:12,00:04:35,05:47:57
+ironman-70.3-budapest-20140823.csv,1036,Aleksandr Nesgovorov,34,Sverdlovskay,RUS,00:36:05,02:51:15,01:42:57,00:04:15,00:03:37,05:18:09
+ironman-70.3-budapest-20140823.csv,1037,Czumbil Norbert,36,---,HUN,00:39:02,02:43:44,01:51:49,00:04:56,00:04:10,05:23:41
+ironman-70.3-budapest-20140823.csv,1038,Alex Norman,36,Surrey,GBR,00:35:58,02:35:29,01:41:09,00:03:25,00:03:36,04:59:37
+ironman-70.3-budapest-20140823.csv,1039,Márk Nyikos,34,---,HUN,00:29:36,02:51:20,02:00:50,00:05:20,00:04:42,05:31:48
+ironman-70.3-budapest-20140823.csv,1040,József Nyíri,36,---,HUN,00:46:00,03:09:35,02:12:39,00:05:34,00:05:25,06:19:13
+ironman-70.3-budapest-20140823.csv,1041,Gábor Palatinus,37,---,HUN,00:39:11,02:42:09,01:46:36,00:07:05,00:05:30,05:20:31
+ironman-70.3-budapest-20140823.csv,1042,Andrej Palinský,37,SVK,SVK,00:31:58,02:23:59,01:35:12,00:04:04,00:03:01,04:38:14
+ironman-70.3-budapest-20140823.csv,1043,Davide Parise,39,AT,ITA,00:35:29,02:49:45,01:48:55,00:05:00,00:03:56,05:23:05
+ironman-70.3-budapest-20140823.csv,1044,Miroslav Patek,37,---,CZE,00:28:45,02:26:52,01:31:17,00:02:32,00:02:30,04:31:56
+ironman-70.3-budapest-20140823.csv,1045,Mariusz Paw Owski,35,APO,POL,00:39:14,02:48:27,02:00:44,00:03:55,00:03:30,05:35:50
+ironman-70.3-budapest-20140823.csv,1046,Jens-Peter Pedersen,35,---,DNK,00:36:03,02:40:55,01:49:57,00:02:39,00:03:58,05:13:32
+ironman-70.3-budapest-20140823.csv,1047,Carsten Pedersen,36,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1048,Bostjan Perc,38,Slovenia,SVN,00:35:24,02:53:21,02:20:26,00:04:05,00:03:16,05:56:32
+ironman-70.3-budapest-20140823.csv,1049,Peter Kofler,34,---,HUN,00:35:14,02:36:23,01:51:27,00:05:09,00:05:30,05:13:43
+ironman-70.3-budapest-20140823.csv,1050,Attila Petheo,35,---,HUN,---,---,---,---,---,DQ
+ironman-70.3-budapest-20140823.csv,1051,Stefan Petz,36,---,AUT,00:33:24,02:47:11,01:52:54,00:04:40,00:04:38,05:22:47
+ironman-70.3-budapest-20140823.csv,1052,Danilo Pinto,38,italia,ITA,00:39:31,03:00:35,01:47:42,00:06:17,00:04:34,05:38:39
+ironman-70.3-budapest-20140823.csv,1053,Sash Pistotnik,38,Slovenia,SVN,00:38:07,02:31:06,01:36:04,00:03:52,00:03:26,04:52:35
+ironman-70.3-budapest-20140823.csv,1054,Mirko Piva,36,italy,ITA,00:33:16,02:44:25,01:46:43,00:06:06,00:05:57,05:16:27
+ironman-70.3-budapest-20140823.csv,1055,Botond Plesz,37,---,HUN,00:28:00,02:34:41,01:19:24,00:03:03,00:03:22,04:28:30
+ironman-70.3-budapest-20140823.csv,1056,Szilárd Polgárdy,39,---,HUN,00:43:33,02:53:29,01:45:20,00:06:55,00:04:57,05:34:14
+ironman-70.3-budapest-20140823.csv,1057,Yury Popov,38,Moscow,RUS,00:39:10,02:51:03,01:47:04,00:04:33,00:04:36,05:26:26
+ironman-70.3-budapest-20140823.csv,1058,Péter Posch,38,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1059,Olivier Pourteyron,38,---,FRA,00:27:46,02:21:18,01:24:30,00:02:05,00:02:13,04:17:52
+ironman-70.3-budapest-20140823.csv,1060,Gábor Rácz,39,---,HUN,00:40:13,03:00:08,02:27:11,00:13:11,00:11:23,06:32:06
+ironman-70.3-budapest-20140823.csv,1061,Peter Rago,35,---,HUN,00:35:42,02:39:19,01:41:35,00:03:29,00:04:41,05:04:46
+ironman-70.3-budapest-20140823.csv,1062,Christoph Resler,37,---,AUT,00:38:10,02:49:34,02:01:56,00:03:55,00:03:43,05:37:18
+ironman-70.3-budapest-20140823.csv,1063,Piers Richardson,35,Hants,GBR,00:42:23,03:03:48,02:13:14,00:08:39,00:09:31,06:17:35
+ironman-70.3-budapest-20140823.csv,1064,Christophe Roux,36,DXB,FRA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1065,Maris Rudens,37,Marupes nov,LVA,00:39:49,02:31:28,01:30:48,00:03:09,00:03:30,04:48:44
+ironman-70.3-budapest-20140823.csv,1066,Ger Ryan,38,Kildare,IRL,00:36:31,02:31:07,01:49:13,00:03:25,00:02:31,05:02:47
+ironman-70.3-budapest-20140823.csv,1067,James Rye,36,Cambridgeshire,NZL,00:29:32,02:25:59,01:51:01,00:02:12,00:03:16,04:52:00
+ironman-70.3-budapest-20140823.csv,1068,Norbert Sándor,36,Veszprém,HUN,00:35:25,02:39:10,01:36:57,00:04:02,00:02:59,04:58:33
+ironman-70.3-budapest-20140823.csv,1069,Gergo Sandor,34,---,HUN,00:31:15,02:26:09,01:34:50,00:02:53,00:02:36,04:37:43
+ironman-70.3-budapest-20140823.csv,1070,Sándor Budai,35,---,HUN,00:39:22,02:39:12,01:52:01,00:07:11,00:06:12,05:23:58
+ironman-70.3-budapest-20140823.csv,1071,Giuseppe Sardei,38,AT,ITA,00:44:57,02:40:54,01:48:53,00:02:14,00:03:17,05:20:15
+ironman-70.3-budapest-20140823.csv,1072,Wolfgang Schenk,38,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1073,Marco Schmiedlechner,36,---,AUT,00:50:37,02:44:49,01:59:50,00:04:37,00:03:01,05:42:54
+ironman-70.3-budapest-20140823.csv,1074,Gernot Schrei,37,---,AUT,00:33:34,02:33:35,01:40:29,00:03:35,00:02:42,04:53:55
+ironman-70.3-budapest-20140823.csv,1075,Klaus-M. Schremser,---,AT,AUT,00:38:01,02:57:45,01:54:37,00:04:01,00:04:22,05:38:46
+ironman-70.3-budapest-20140823.csv,1076,Christopher Sellar,36,Other,GBR,00:29:22,02:28:36,01:26:11,00:02:12,00:03:00,04:29:21
+ironman-70.3-budapest-20140823.csv,1077,Sergey Shakirov,35,moscow oblast,RUS,00:31:03,03:12:20,02:19:56,00:05:00,00:05:08,06:13:27
+ironman-70.3-budapest-20140823.csv,1078,Christian Simon,36,---,DEU,00:31:36,02:36:15,01:45:42,00:04:14,00:02:43,05:00:30
+ironman-70.3-budapest-20140823.csv,1079,Maurizio Simone,37,BT,ITA,00:37:59,02:53:56,01:49:06,00:04:23,00:02:26,05:27:50
+ironman-70.3-budapest-20140823.csv,1080,Jakub Sobolewski,37,---,POL,00:33:02,02:28:28,01:28:07,00:02:56,00:02:20,04:34:53
+ironman-70.3-budapest-20140823.csv,1081,Donatas Stanionis,36,Intl State,LTU,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1082,Quintin Starkey,35,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1083,Hota Stelian,37,---,ROU,00:36:43,02:46:50,02:04:01,00:05:46,00:04:58,05:38:18
+ironman-70.3-budapest-20140823.csv,1084,Volodymyr Stepovyk,37,---,UKR,00:44:44,02:49:10,01:41:02,00:03:55,00:06:59,05:25:50
+ironman-70.3-budapest-20140823.csv,1085,Zoltán Susztár,36,---,HUN,00:43:32,---,---,00:07:06,---,DNF
+ironman-70.3-budapest-20140823.csv,1086,Zoltan Szabo,36,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1087,Albert Manassé Szabó,38,Jász-Nagykun-Szolnok,HUN,00:51:54,03:01:14,01:50:50,00:02:50,00:04:26,05:51:14
+ironman-70.3-budapest-20140823.csv,1088,Gáspár Szálka,37,---,HUN,00:29:36,02:38:15,01:37:30,00:03:42,00:03:41,04:52:44
+ironman-70.3-budapest-20140823.csv,1089,Dénes Száraz,35,---,HUN,00:33:15,02:35:26,01:52:35,00:02:41,00:03:08,05:07:05
+ironman-70.3-budapest-20140823.csv,1090,Viktor Szász,38,---,HUN,00:34:33,02:38:27,02:04:14,00:05:01,00:02:40,05:24:55
+ironman-70.3-budapest-20140823.csv,1091,Attila Szasz,38,---,ROU,00:36:37,02:42:18,01:42:20,00:03:17,00:02:46,05:07:18
+ironman-70.3-budapest-20140823.csv,1092,Peter Szedlacek,37,---,AUT,00:36:13,02:48:46,02:03:54,00:05:12,00:04:10,05:38:15
+ironman-70.3-budapest-20140823.csv,1093,Norbert Szekeres,36,---,HUN,00:28:04,02:41:09,01:32:24,00:02:22,00:02:39,04:46:38
+ironman-70.3-budapest-20140823.csv,1094,Péter Szente,37,---,HUN,00:37:16,02:57:57,02:18:28,00:06:11,00:05:46,06:05:38
+ironman-70.3-budapest-20140823.csv,1095,Attila Takacs,36,Slovakia,SVK,00:38:57,02:52:01,02:25:09,00:04:39,00:05:32,06:06:18
+ironman-70.3-budapest-20140823.csv,1096,Ruslan Tarakanov,38,---,RUS,00:38:29,02:55:45,01:58:44,00:04:18,00:04:38,05:41:54
+ironman-70.3-budapest-20140823.csv,1097,Bence Tarnai,35,---,HUN,00:28:30,02:33:52,01:37:13,00:02:55,00:03:40,04:46:10
+ironman-70.3-budapest-20140823.csv,1098,Gregor Taschwer,37,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1099,Denis Terrapon,35,---,CHE,00:31:01,02:23:45,01:29:19,00:02:37,00:02:00,04:28:42
+ironman-70.3-budapest-20140823.csv,1100,Brett Thake,35,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1101,Roman Thuerauer,36,AT,AUT,00:28:43,02:16:43,01:18:33,00:02:30,00:02:39,04:09:08
+ironman-70.3-budapest-20140823.csv,1102,Tamas Till,---,---,HUN,00:31:38,02:35:13,01:56:29,00:03:32,00:03:05,05:09:57
+ironman-70.3-budapest-20140823.csv,1103,László Tóth,36,---,HUN,00:47:30,02:50:01,01:44:04,00:07:22,00:07:01,05:35:58
+ironman-70.3-budapest-20140823.csv,1104,István Tóth,36,---,HUN,00:39:57,03:25:59,02:08:49,00:07:35,00:06:23,06:28:43
+ironman-70.3-budapest-20140823.csv,1105,Didier Toussaint,36,---,BEL,00:39:37,03:10:49,02:01:56,00:05:56,00:07:13,06:05:31
+ironman-70.3-budapest-20140823.csv,1106,Andreas Trimmel,34,---,AUT,00:27:10,02:21:45,01:16:37,00:01:54,00:02:12,04:09:38
+ironman-70.3-budapest-20140823.csv,1107,Stefan Tudose,36,Timis,ROU,00:40:02,02:42:44,01:45:21,00:02:39,00:03:36,05:14:22
+ironman-70.3-budapest-20140823.csv,1108,Joseph Turcsanyi,36,CT,USA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1109,Stevan Tutoric,35,---,SRB,00:52:35,03:22:04,02:40:13,00:07:22,00:06:23,07:08:37
+ironman-70.3-budapest-20140823.csv,1110,Tamás Ujhelyi,36,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1111,Gábor Váczi,39,---,HUN,00:46:56,02:41:14,02:00:43,00:06:25,00:07:22,05:42:40
+ironman-70.3-budapest-20140823.csv,1112,Zsolt Vajda,36,---,HUN,00:31:33,02:44:16,01:36:52,00:03:55,00:05:08,05:01:44
+ironman-70.3-budapest-20140823.csv,1113,Alex Valentine,38,AUH,AUS,00:41:24,02:58:23,02:31:17,00:09:57,00:06:28,06:27:29
+ironman-70.3-budapest-20140823.csv,1114,Christian Van Zijl,37,---,ZAF,00:40:01,02:49:56,02:05:26,00:05:11,00:05:15,05:45:49
+ironman-70.3-budapest-20140823.csv,1115,Balázs Varga,38,---,HUN,00:30:47,02:34:40,01:41:24,00:04:10,00:04:56,04:55:57
+ironman-70.3-budapest-20140823.csv,1116,Ruslan Verevskyi,35,Kievskay,UKR,00:34:30,03:01:36,01:59:13,00:06:02,00:04:14,05:45:35
+ironman-70.3-budapest-20140823.csv,1117,Palo Vesely,36,SVK,SVK,00:37:48,02:56:40,02:05:55,00:06:28,00:08:24,05:55:15
+ironman-70.3-budapest-20140823.csv,1118,Peter Vizsy,36,State,HUN,00:41:38,02:42:41,01:33:15,00:04:34,00:03:30,05:05:38
+ironman-70.3-budapest-20140823.csv,1119,Franck Vuaillat,37,---,FRA,00:37:12,02:38:41,01:35:59,00:03:23,00:02:22,04:57:37
+ironman-70.3-budapest-20140823.csv,1120,Klaus  Walcher,38,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1121,John Williams,35,Hertfordshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1122,Peter Winkler,36,---,HUN,00:38:52,02:58:09,02:39:22,00:04:59,00:04:41,06:26:03
+ironman-70.3-budapest-20140823.csv,1123,Stuart Wood,39,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1124,Simon Wood,35,DXB,AUS,00:33:09,02:42:10,02:02:22,00:03:15,00:03:25,05:24:21
+ironman-70.3-budapest-20140823.csv,1125,Oleksiy Yefimov,36,---,UKR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1126,Michal Zrzelski,37,---,POL,00:31:36,02:35:40,01:42:26,00:02:34,00:03:00,04:55:16
+ironman-70.3-budapest-20140823.csv,1127,Szabolcs Zsigri,38,---,HUN,00:40:55,02:57:05,02:32:48,00:09:13,00:06:50,06:26:51
+ironman-70.3-budapest-20140823.csv,1128,Peter Uplaznik,38,Savinjska,SVN,00:33:03,02:34:28,01:44:44,00:03:14,00:03:03,04:58:32
+ironman-70.3-budapest-20140823.csv,1129,Fabrizio Politi,36,italy,ITA,00:32:37,02:24:24,01:31:34,00:03:03,00:02:30,04:34:08
+ironman-70.3-budapest-20140823.csv,1130,Matej Paradiz,35,Intl State,SVN,00:27:25,02:21:25,01:28:49,00:02:25,00:02:53,04:22:57
+ironman-70.3-budapest-20140823.csv,1131,Danijel Hrvat,35,Slovenia,SVN,00:29:25,02:28:04,01:27:05,00:02:43,00:02:44,04:30:01
+ironman-70.3-budapest-20140823.csv,1132,Georg Kumpfmüller,37,AT,AUT,00:32:57,02:34:51,01:43:00,00:03:28,00:02:31,04:56:47
+ironman-70.3-budapest-20140823.csv,1133,Zakarias Karasz,36,---,HUN,00:39:20,02:59:27,01:32:12,00:07:39,00:03:44,05:22:22
+ironman-70.3-budapest-20140823.csv,1134,Tudor Georgian,34,---,ROU,00:35:51,03:13:16,02:19:03,00:09:08,00:07:56,06:25:14
+ironman-70.3-budapest-20140823.csv,1135,Máté Arany,36,---,HUN,00:35:13,02:43:50,01:35:03,00:03:06,00:02:47,04:59:59
+ironman-70.3-budapest-20140823.csv,1136,Carlo De Massis,36,ITALIA,ITA,00:58:49,02:33:16,02:16:10,00:06:18,00:03:42,05:58:15
+ironman-70.3-budapest-20140823.csv,1137,Aleksandr Chistyakov,37,---,RUS,00:39:32,03:05:44,01:53:19,00:04:32,00:06:25,05:49:32
+ironman-70.3-budapest-20140823.csv,1138,Geza Herbst,38,---,AUT,00:34:39,02:33:38,01:32:26,00:02:48,00:02:33,04:46:04
+ironman-70.3-budapest-20140823.csv,1139,Szabolcs Bartis,35,---,ROU,00:35:15,02:42:54,01:53:16,00:02:51,00:03:11,05:17:27
+ironman-70.3-budapest-20140823.csv,1140,Vladimir Nikolaev,38,none,UKR,00:25:07,02:23:59,01:36:47,00:01:49,00:02:34,04:30:16
+ironman-70.3-budapest-20140823.csv,1141,Daniele Falloni,37,BE,ITA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1142,Péter Móricz,38,---,HUN,00:41:00,02:40:04,02:09:25,00:05:30,00:04:44,05:40:43
+ironman-70.3-budapest-20140823.csv,1143,Andrea Giuglar,38,italia,ITA,00:30:10,02:25:58,01:36:27,00:04:08,00:02:09,04:38:52
+ironman-70.3-budapest-20140823.csv,1144,John Lydic,37,AE,USA,00:43:35,03:00:41,01:51:55,00:06:51,00:06:02,05:49:04
+ironman-70.3-budapest-20140823.csv,1145,Martin Poprocky,38,---,SVK,00:35:38,02:43:20,01:34:12,00:05:24,00:04:50,05:03:24
+ironman-70.3-budapest-20140823.csv,1146,Alessandro Sciarrone,39,Italia,ITA,00:28:07,02:28:09,01:25:55,00:01:53,00:02:08,04:26:12
+ironman-70.3-budapest-20140823.csv,1147,Geza Kiss-Lorincz,36,---,ROU,00:37:49,02:29:39,01:40:51,00:02:50,00:02:40,04:53:49
+ironman-70.3-budapest-20140823.csv,1148,Zsolt Kuti,35,Hungary,HUN,00:57:01,03:10:44,02:13:42,00:08:02,00:06:53,06:36:22
+ironman-70.3-budapest-20140823.csv,1149,Jan Trampuž,36,Divača,SVN,00:33:29,02:32:30,01:39:37,00:05:10,00:02:23,04:53:09
+ironman-70.3-budapest-20140823.csv,1150,Aron Rozgonyi,36,---,HUN,00:33:00,03:02:38,01:58:29,00:04:48,00:03:15,05:42:10
+ironman-70.3-budapest-20140823.csv,1151,Bouzeboudja Abdel-Ali,40,---,FRA,00:33:15,02:27:58,01:25:21,00:02:45,00:02:46,04:32:05
+ironman-70.3-budapest-20140823.csv,1152,Joel Allen,42,PA,USA,00:32:45,03:15:59,01:48:09,00:03:58,00:03:33,05:44:24
+ironman-70.3-budapest-20140823.csv,1153,Sven Altorfer,41,---,CHE,00:33:43,02:22:21,01:48:52,00:02:46,00:03:09,04:50:51
+ironman-70.3-budapest-20140823.csv,1154,Antonello Carboni,43,italia,ITA,00:33:36,02:35:33,01:38:32,00:03:54,00:03:52,04:55:27
+ironman-70.3-budapest-20140823.csv,1155,Vandecasteele Arnaud,39,---,FRA,00:28:24,02:35:36,01:52:21,00:03:51,00:04:10,05:04:22
+ironman-70.3-budapest-20140823.csv,1156,Luis Arosemena,40,---,PER,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1157,Dean Badenhorst,44,Gauteng,ZAF,00:34:45,02:33:21,01:36:40,00:03:18,00:02:45,04:50:49
+ironman-70.3-budapest-20140823.csv,1158,Thomas Bagge,40,---,DNK,00:41:09,02:38:43,01:58:34,00:03:32,00:04:48,05:26:46
+ironman-70.3-budapest-20140823.csv,1159,Attila Balla,40,Budapest,HUN,00:45:12,03:04:54,02:10:41,00:08:31,00:04:52,06:14:10
+ironman-70.3-budapest-20140823.csv,1160,Alan Ballard,43,Essex,GBR,00:36:13,02:45:08,01:59:41,00:06:53,00:04:18,05:32:13
+ironman-70.3-budapest-20140823.csv,1161,Peter Balogh,42,---,HUN,00:47:55,03:01:03,01:59:33,00:07:54,00:04:00,06:00:25
+ironman-70.3-budapest-20140823.csv,1162,Franck Barath,40,---,FRA,00:33:21,02:23:28,01:53:06,00:02:11,00:02:28,04:54:34
+ironman-70.3-budapest-20140823.csv,1163,Attila Bárdi,40,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1164,Simon Beames,44,---,GBR,00:34:10,02:35:04,02:05:24,00:04:27,00:06:08,05:25:13
+ironman-70.3-budapest-20140823.csv,1165,Yuri Belonoschenko,40,---,RUS,00:39:07,02:37:04,01:44:26,00:03:16,00:04:45,05:08:38
+ironman-70.3-budapest-20140823.csv,1166,Gábor Benedek,41,---,HUN,00:37:29,03:12:30,02:06:02,00:07:15,00:06:42,06:09:58
+ironman-70.3-budapest-20140823.csv,1167,Gábor Bérces,39,---,HUN,00:46:30,02:47:42,01:43:36,00:08:37,00:08:15,05:34:40
+ironman-70.3-budapest-20140823.csv,1168,Holger R. Beuchler,39,DE,DEU,00:44:17,02:42:48,02:01:54,00:06:04,00:04:17,05:39:20
+ironman-70.3-budapest-20140823.csv,1169,Pawel Boniecki,43,---,POL,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1170,Tibor Bottyan,43,---,HUN,00:37:10,02:37:59,01:41:49,00:02:51,00:03:45,05:03:34
+ironman-70.3-budapest-20140823.csv,1171,Szabolcs Böröck,39,---,HUN,00:43:11,02:45:14,02:18:55,00:04:55,00:05:05,05:57:20
+ironman-70.3-budapest-20140823.csv,1172,Gábor Brandhuber,40,---,HUN,00:44:53,02:57:48,01:52:27,00:04:00,00:06:34,05:45:42
+ironman-70.3-budapest-20140823.csv,1173,Alexander Brechalov,40,Moscow,RUS,00:33:58,02:54:57,02:16:06,00:02:51,00:03:41,05:51:33
+ironman-70.3-budapest-20140823.csv,1174,Botond Bubcsó,42,---,HUN,00:41:58,02:53:19,02:48:34,00:06:29,00:08:56,06:39:16
+ironman-70.3-budapest-20140823.csv,1175,Radoslav Bujdos,40,Košice,SVK,00:33:51,02:39:27,01:43:32,00:02:48,00:02:51,05:02:29
+ironman-70.3-budapest-20140823.csv,1176,Massimo Butera,42,Intl State,ITA,00:44:20,02:49:00,01:58:47,00:03:41,00:04:00,05:39:48
+ironman-70.3-budapest-20140823.csv,1177,Guillaume Calon,40,FR,FRA,00:32:42,02:46:59,02:19:54,00:04:30,00:04:26,05:48:31
+ironman-70.3-budapest-20140823.csv,1178,Mirek Capoušek,44,Czech republic,CZE,00:29:15,02:20:50,01:39:40,00:02:24,00:03:28,04:35:37
+ironman-70.3-budapest-20140823.csv,1179,Graham Carr,43,West Midlands,GBR,00:38:09,02:48:35,02:31:52,00:04:29,00:04:29,06:07:34
+ironman-70.3-budapest-20140823.csv,1180,Giuseppe Castellaneta,40,---,ITA,00:27:27,02:30:33,01:38:25,00:02:28,00:02:39,04:41:32
+ironman-70.3-budapest-20140823.csv,1181,Scott Coey,42,---,AUS,00:31:18,02:28:44,01:35:14,00:03:35,00:02:36,04:41:27
+ironman-70.3-budapest-20140823.csv,1182,Tom Conlon,42,Roscommon,IRL,00:37:33,02:41:21,01:42:17,00:03:03,00:03:13,05:07:27
+ironman-70.3-budapest-20140823.csv,1183,Frantisek Crkva,42,Praha zapad,CZE,00:37:35,02:36:48,02:04:34,00:03:01,00:03:16,05:25:14
+ironman-70.3-budapest-20140823.csv,1184,Chris Cutbush,41,Kent,GBR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1185,Bela Csati,40,---,HUN,00:58:30,03:42:38,01:59:07,00:12:13,00:11:23,07:03:51
+ironman-70.3-budapest-20140823.csv,1186,Istvan Csendes,43,FL,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1187,Balazs Csepregi,41,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1188,Christian Dam,39,AT,AUT,00:35:04,02:26:00,01:35:19,00:02:47,00:02:26,04:41:36
+ironman-70.3-budapest-20140823.csv,1189,Krisztián Damsits,40,---,HUN,00:33:22,02:41:29,01:45:27,00:03:44,00:03:56,05:07:58
+ironman-70.3-budapest-20140823.csv,1190,Paul Davies,40,---,GBR,00:32:24,02:36:27,01:42:45,00:03:53,00:03:41,04:59:10
+ironman-70.3-budapest-20140823.csv,1191,Liam Dawson,42,---,GBR,00:36:20,02:47:09,01:44:39,00:03:25,00:03:16,05:14:49
+ironman-70.3-budapest-20140823.csv,1192,Frank Del Castello,42,Gauteng,ZAF,00:27:17,02:34:54,01:49:15,00:03:31,00:05:44,05:00:41
+ironman-70.3-budapest-20140823.csv,1193,Csaba Demendi,42,Budapest,HUN,00:42:44,03:13:41,02:34:24,00:05:16,00:05:31,06:41:36
+ironman-70.3-budapest-20140823.csv,1194,Gábor Demeter,44,---,HUN,00:41:56,02:40:54,01:50:30,00:03:18,00:05:01,05:21:39
+ironman-70.3-budapest-20140823.csv,1195,Dmytro Dotsenko,41,Donetskaya,UKR,00:42:05,02:49:33,01:46:59,00:04:46,00:04:07,05:27:30
+ironman-70.3-budapest-20140823.csv,1196,Gunnar Dörr,44,---,AUT,00:39:37,02:58:00,01:44:05,00:04:47,00:05:48,05:32:17
+ironman-70.3-budapest-20140823.csv,1197,Károly Gál Dr.,44,Somogy,HUN,00:30:38,02:37:38,01:48:03,00:06:16,00:05:58,05:08:33
+ironman-70.3-budapest-20140823.csv,1198,Dr Dre Dreher,44,Hamburg,CHE,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1199,László Dvorcsák,40,---,HUN,00:52:53,03:11:33,01:57:52,00:05:09,00:05:20,06:12:47
+ironman-70.3-budapest-20140823.csv,1200,Ralf Eberhardt,41,---,CHE,00:29:02,02:20:45,01:26:13,00:02:41,00:02:15,04:20:56
+ironman-70.3-budapest-20140823.csv,1201,Oleksiy Efremov,42,---,UKR,00:35:08,02:50:30,02:06:42,00:05:25,00:04:11,05:41:56
+ironman-70.3-budapest-20140823.csv,1202,Enrico Busatto,41,Other,ITA,00:33:46,02:21:55,01:29:24,00:02:56,00:02:12,04:30:13
+ironman-70.3-budapest-20140823.csv,1203,Tamás Erdos,41,---,HUN,00:43:53,02:41:09,01:45:45,00:04:26,00:05:50,05:21:03
+ironman-70.3-budapest-20140823.csv,1204,Martin Esslinger,40,Hessen,DEU,00:33:59,02:29:11,01:56:14,00:03:12,00:02:54,05:05:30
+ironman-70.3-budapest-20140823.csv,1205,Zoltán Eszenyi,40,---,HUN,00:38:06,03:07:59,01:50:47,00:06:33,00:04:36,05:48:01
+ironman-70.3-budapest-20140823.csv,1206,Ferenc Faber Szabo,40,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1207,Oliver Felber,40,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1208,István Ferencz,40,---,HUN,00:37:51,02:58:23,02:09:04,00:03:57,00:03:38,05:52:53
+ironman-70.3-budapest-20140823.csv,1209,Brett Flynn,39,WA,AUS,00:31:33,02:32:19,01:47:08,00:03:39,00:03:25,04:58:04
+ironman-70.3-budapest-20140823.csv,1210,Attila Folberth,43,---,HUN,00:47:20,02:55:19,02:47:10,00:09:16,00:13:33,06:52:38
+ironman-70.3-budapest-20140823.csv,1211,Andrzej Folga,42,---,POL,00:42:07,02:52:22,02:07:02,00:03:24,00:03:39,05:48:34
+ironman-70.3-budapest-20140823.csv,1212,Zsolt Füredi,41,---,HUN,00:41:54,03:28:00,02:09:34,00:07:55,00:08:36,06:35:59
+ironman-70.3-budapest-20140823.csv,1213,Ferenc Gaitz,40,Pest,HUN,00:29:51,02:54:41,01:44:54,00:05:57,00:04:10,05:19:33
+ironman-70.3-budapest-20140823.csv,1214,Dragos Galos,40,Romania,ROU,00:42:21,02:54:49,02:07:15,00:06:21,00:05:35,05:56:21
+ironman-70.3-budapest-20140823.csv,1215,Balázs Garancsy,41,---,HUN,---,---,---,---,---,DQ
+ironman-70.3-budapest-20140823.csv,1216,Christian Gebert-Binder,41,AT,AUT,00:32:37,02:17:52,01:25:49,00:02:51,00:02:11,04:21:20
+ironman-70.3-budapest-20140823.csv,1217,Giuliano Gentile,43,Italia,ITA,00:32:00,02:47:30,02:16:46,00:05:52,00:04:38,05:46:46
+ironman-70.3-budapest-20140823.csv,1218,Ioannis Giannelis,40,asdf,GRC,00:40:42,02:56:26,01:55:12,00:04:56,00:02:44,05:40:00
+ironman-70.3-budapest-20140823.csv,1219,Mitja Gjura,44,Slovenia,SVN,00:38:30,03:03:20,01:49:44,00:06:03,00:03:37,05:41:14
+ironman-70.3-budapest-20140823.csv,1220,Gergo Gozony,40,---,HUN,00:44:57,02:50:47,01:51:31,00:05:26,00:04:32,05:37:13
+ironman-70.3-budapest-20140823.csv,1221,Dan Green,41,---,GBR,00:43:50,02:42:30,02:08:22,00:04:16,00:04:32,05:43:30
+ironman-70.3-budapest-20140823.csv,1222,Charles Griffin,41,---,IRL,00:34:33,03:04:11,01:58:01,00:11:30,00:07:55,05:56:10
+ironman-70.3-budapest-20140823.csv,1223,Greg Guntharp,43,AE,USA,00:34:46,03:05:43,01:48:48,00:06:32,00:05:11,05:41:00
+ironman-70.3-budapest-20140823.csv,1224,Gottfried Haber,41,---,AUT,00:39:22,02:42:46,01:44:37,00:05:14,00:03:43,05:15:42
+ironman-70.3-budapest-20140823.csv,1225,Mark Halton,42,---,GBR,00:34:56,02:33:17,01:40:57,00:04:11,00:04:01,04:57:22
+ironman-70.3-budapest-20140823.csv,1226,Aidan Hanley,43,---,IRL,00:35:42,02:39:03,01:43:03,00:02:39,00:03:07,05:03:34
+ironman-70.3-budapest-20140823.csv,1227,Lorã¡nd Hegyi,40,---,HUN,00:31:26,02:26:01,01:33:09,00:03:29,00:03:15,04:37:20
+ironman-70.3-budapest-20140823.csv,1228,Peer Hellwig,42,---,DEU,00:42:07,03:10:44,02:28:40,00:03:01,00:05:04,06:29:36
+ironman-70.3-budapest-20140823.csv,1229,Knud Hillers,43,NO,NOR,00:38:21,02:34:28,01:31:16,00:04:15,00:02:47,04:51:07
+ironman-70.3-budapest-20140823.csv,1230,David Homer,42,CZE,CZE,00:30:39,02:38:16,01:43:45,00:04:44,00:03:40,05:01:04
+ironman-70.3-budapest-20140823.csv,1231,Przemyslaw Hopfer,40,---,POL,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1232,Szabolcs Horváth,39,---,HUN,00:37:06,02:38:47,01:51:14,00:05:45,00:03:16,05:16:08
+ironman-70.3-budapest-20140823.csv,1233,Csaba Horváth,40,---,HUN,00:40:51,02:47:36,02:03:42,00:05:18,00:05:04,05:42:31
+ironman-70.3-budapest-20140823.csv,1234,Laurent Imbert,43,dubai,FRA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1235,Daniel Ionescu,42,---,ROU,00:43:35,02:59:13,01:59:23,00:07:01,00:07:33,05:56:45
+ironman-70.3-budapest-20140823.csv,1236,Sean James,43,Intl State,GBR,00:32:25,02:28:21,---,00:02:52,---,DNF
+ironman-70.3-budapest-20140823.csv,1237,Dariusz Janczewski,44,---,POL,00:39:16,02:49:33,01:49:02,00:04:09,00:03:59,05:25:59
+ironman-70.3-budapest-20140823.csv,1238,Istvan Jankov,40,---,HUN,00:34:49,02:41:12,01:39:56,00:03:37,00:03:38,05:03:12
+ironman-70.3-budapest-20140823.csv,1239,Harald Jarnig,41,---,AUT,00:41:39,02:41:15,01:49:33,00:03:24,00:02:50,05:18:41
+ironman-70.3-budapest-20140823.csv,1240,Gábor Józsa,40,---,HUN,00:28:53,02:29:01,01:34:24,00:02:53,00:03:00,04:38:11
+ironman-70.3-budapest-20140823.csv,1241,Hannu Junkkaala,40,Uusimaa,FIN,00:33:46,02:28:43,01:33:20,00:02:42,00:03:31,04:42:02
+ironman-70.3-budapest-20140823.csv,1242,László Kalmár-Nagy,40,---,HUN,00:47:15,03:08:16,01:36:35,00:09:36,00:08:29,05:50:11
+ironman-70.3-budapest-20140823.csv,1243,Andreas Karner,42,---,AUT,00:32:28,02:33:31,01:39:35,00:03:03,00:03:07,04:51:44
+ironman-70.3-budapest-20140823.csv,1244,Attila Kárpáti,43,Pest megye,HUN,00:37:57,02:38:57,02:05:25,00:03:17,00:04:13,05:29:49
+ironman-70.3-budapest-20140823.csv,1245,Sascha Kaschewsky,44,---,DEU,00:33:22,02:28:44,01:27:32,00:03:26,00:02:09,04:35:13
+ironman-70.3-budapest-20140823.csv,1246,Attila Kelemen,43,GYSM,HUN,00:39:08,02:33:45,01:34:41,00:04:03,00:05:25,04:57:02
+ironman-70.3-budapest-20140823.csv,1247,András Kemény,41,---,HUN,00:38:21,02:31:52,01:50:59,00:03:20,00:02:41,05:07:13
+ironman-70.3-budapest-20140823.csv,1248,Gwenael Kerboas,43,---,FRA,00:32:42,02:30:42,02:00:25,00:03:26,00:02:19,05:09:34
+ironman-70.3-budapest-20140823.csv,1249,Zsolt Kerecsen,40,---,HUN,00:40:06,02:43:17,02:08:43,00:06:58,00:09:40,05:48:44
+ironman-70.3-budapest-20140823.csv,1250,Norbert-Spiki Kis,42,---,HUN,00:48:41,02:46:56,01:50:15,00:09:53,00:08:25,05:44:10
+ironman-70.3-budapest-20140823.csv,1251,Attila Kiss,40,---,HUN,00:29:56,02:36:42,01:51:22,00:04:28,00:03:56,05:06:24
+ironman-70.3-budapest-20140823.csv,1252,István Kiss,40,---,HUN,00:45:45,02:49:03,02:08:08,00:08:14,00:08:59,06:00:09
+ironman-70.3-budapest-20140823.csv,1253,Johannes Kjellgren,42,Novi Banovci,SWE,00:37:36,02:41:34,01:54:13,00:03:25,00:02:54,05:19:42
+ironman-70.3-budapest-20140823.csv,1254,Peter Klosz,44,---,ROU,00:45:07,03:36:56,02:16:32,00:04:32,00:03:28,06:46:35
+ironman-70.3-budapest-20140823.csv,1255,Kornel Kolossvary,42,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1256,Georg Kovacs,43,---,HUN,00:44:04,03:06:22,02:28:57,00:06:31,00:05:23,06:31:17
+ironman-70.3-budapest-20140823.csv,1257,Róbert Kozma,39,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1258,Ruslan Kraskov,39,Zaporizska,UKR,00:43:33,03:02:54,02:03:12,00:04:52,00:06:06,06:00:37
+ironman-70.3-budapest-20140823.csv,1259,Andriy Kravtsov,43,---,UKR,00:43:55,03:05:32,02:19:17,00:07:25,00:08:03,06:24:12
+ironman-70.3-budapest-20140823.csv,1260,Kurpé László,44,---,HUN,00:37:02,02:43:48,01:47:27,00:04:01,00:02:54,05:15:12
+ironman-70.3-budapest-20140823.csv,1261,Paolo La Placa,40,ITA,ITA,00:32:13,02:23:30,01:25:30,00:02:53,00:02:31,04:26:37
+ironman-70.3-budapest-20140823.csv,1262,Luca La Scala,41,---,ITA,00:30:22,02:20:21,01:32:18,00:03:22,00:02:47,04:29:10
+ironman-70.3-budapest-20140823.csv,1263,Roman Lacko,40,---,GBR,00:38:08,02:26:13,01:45:23,00:03:06,00:02:52,04:55:42
+ironman-70.3-budapest-20140823.csv,1264,Ovidio Lairana,44,BE,BOL,00:39:25,03:11:19,02:15:39,00:05:02,00:06:53,06:18:18
+ironman-70.3-budapest-20140823.csv,1265,David Lehoczky,40,---,HUN,00:39:34,02:56:54,01:48:32,00:05:49,00:03:55,05:34:44
+ironman-70.3-budapest-20140823.csv,1266,Niksa Lemo,41,---,HRV,00:31:41,02:49:32,02:16:13,00:03:43,00:04:06,05:45:15
+ironman-70.3-budapest-20140823.csv,1267,Sandor Lengyel,42,---,HUN,00:34:50,02:55:19,02:00:18,00:04:33,00:03:43,05:38:43
+ironman-70.3-budapest-20140823.csv,1268,Bradley Leviton,42,Herts ,GBR,00:35:10,03:35:23,01:52:57,00:06:08,00:06:02,06:15:40
+ironman-70.3-budapest-20140823.csv,1269,Kurt Lichtkoppler,43,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1270,Stéphane Lillo,41,---,FRA,00:34:03,02:40:44,01:51:16,00:04:13,00:02:35,05:12:51
+ironman-70.3-budapest-20140823.csv,1271,Stefan Lind,41,---,AUT,00:35:15,02:32:04,01:39:31,00:04:43,00:05:05,04:56:38
+ironman-70.3-budapest-20140823.csv,1272,Tomas Liska,40,---,SVK,00:35:09,02:59:54,02:20:40,00:03:46,00:03:47,06:03:16
+ironman-70.3-budapest-20140823.csv,1273,Gary Loberg,43,AE,USA,00:32:32,02:52:21,02:17:44,00:03:50,00:03:17,05:49:44
+ironman-70.3-budapest-20140823.csv,1274,Nick Lopez-Jenkins,44,FL,USA,00:49:13,03:24:17,02:22:15,00:07:26,00:08:12,06:51:23
+ironman-70.3-budapest-20140823.csv,1275,Jacek Luczak,44,---,POL,00:39:00,02:46:36,01:46:18,00:05:18,00:03:37,05:20:49
+ironman-70.3-budapest-20140823.csv,1276,Ákos Lukács,41,---,HUN,00:39:56,02:40:40,01:44:51,00:05:49,00:06:20,05:17:36
+ironman-70.3-budapest-20140823.csv,1277,Roman Malivanek,41,Bohemia,CZE,00:29:13,02:20:55,01:28:01,00:02:18,00:02:49,04:23:16
+ironman-70.3-budapest-20140823.csv,1278,Zoltan Maltesics,39,---,HUN,00:30:36,02:45:19,02:10:20,00:05:29,00:05:15,05:36:59
+ironman-70.3-budapest-20140823.csv,1279,Sandor Maracsko,43,Pest,HUN,00:38:31,02:47:29,01:41:47,00:04:34,00:03:49,05:16:10
+ironman-70.3-budapest-20140823.csv,1280,Peter Marschall,41,---,HUN,00:45:06,03:30:02,02:42:22,00:11:13,00:08:09,07:16:52
+ironman-70.3-budapest-20140823.csv,1281,Christian Maschek,42,---,AUT,00:32:18,02:30:29,01:38:31,00:02:28,00:02:37,04:46:23
+ironman-70.3-budapest-20140823.csv,1282,Gergely Medgyessy,43,---,HUN,00:39:13,02:49:47,01:53:06,00:05:40,00:05:53,05:33:39
+ironman-70.3-budapest-20140823.csv,1283,András Megyes,44,---,HUN,00:41:27,02:50:14,01:54:10,00:08:47,00:06:31,05:41:09
+ironman-70.3-budapest-20140823.csv,1284,Berry Melmoux,44,---,BEL,00:39:24,02:41:51,01:54:59,00:03:18,00:03:05,05:22:37
+ironman-70.3-budapest-20140823.csv,1285,Ruslan Melnykov,40,Kiev,UKR,00:39:32,02:36:40,01:49:52,00:04:35,00:05:36,05:16:15
+ironman-70.3-budapest-20140823.csv,1286,Gilberto Mendoza,43,---,VEN,00:39:05,02:51:42,02:36:50,00:05:31,00:05:44,06:18:52
+ironman-70.3-budapest-20140823.csv,1287,Miguel Angel Merino Fernández,44,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1288,Attila Metál,41,---,HUN,00:49:04,03:42:48,03:06:47,00:10:14,00:06:18,07:55:11
+ironman-70.3-budapest-20140823.csv,1289,Magnus Mill,40,---,GBR,00:41:44,02:29:32,01:38:47,00:02:30,00:02:58,04:55:31
+ironman-70.3-budapest-20140823.csv,1290,Petr Minarik,42,Strasnice,CZE,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1291,Fred Monachelli,41,AE,USA,00:40:34,02:57:51,02:56:25,00:04:51,00:04:33,06:44:14
+ironman-70.3-budapest-20140823.csv,1292,Paul Monk,43,NSW,GBR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1293,Thomas Moore,43,Londonderry,IRL,00:30:06,02:34:50,01:37:54,00:02:19,00:02:11,04:47:20
+ironman-70.3-budapest-20140823.csv,1294,Federico Morbiato,41,ITALIA,ITA,00:38:15,02:22:31,01:48:07,00:04:31,00:04:21,04:57:45
+ironman-70.3-budapest-20140823.csv,1295,Péter Mozga,44,---,HUN,00:48:21,03:12:42,02:39:11,00:06:07,00:06:09,06:52:30
+ironman-70.3-budapest-20140823.csv,1296,Tibor Nemes,43,NJ,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1297,Balázs Németh,41,AT,HUN,00:41:23,02:56:38,01:46:47,00:05:17,00:04:36,05:34:41
+ironman-70.3-budapest-20140823.csv,1298,Gábor Németh,39,---,HUN,00:40:34,02:55:35,02:00:59,00:04:45,00:04:07,05:46:00
+ironman-70.3-budapest-20140823.csv,1299,Sandi Novak,40,Slovenia,SVN,00:40:38,02:55:11,01:54:37,00:07:20,00:05:13,05:42:59
+ironman-70.3-budapest-20140823.csv,1300,László Nyári,41,Budapest,HUN,00:34:59,02:42:08,02:17:16,00:03:18,00:04:03,05:41:44
+ironman-70.3-budapest-20140823.csv,1301,Paul - Valentin Oancea,40,---,ROU,00:42:48,02:50:12,02:13:57,00:09:37,00:07:47,06:04:21
+ironman-70.3-budapest-20140823.csv,1302,Nicholas Osborn,40,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1303,Fredrik Mikael Ottosson,42,---,SWE,00:37:35,02:24:47,01:30:17,00:02:52,00:03:26,04:38:57
+ironman-70.3-budapest-20140823.csv,1304,László Oze,41,---,HUN,00:40:35,02:57:20,02:07:45,00:04:44,00:05:10,05:55:34
+ironman-70.3-budapest-20140823.csv,1305,Alexey Panfilov,39,"Krasnogorsk
+",RUS,00:39:36,02:28:18,01:50:37,00:02:46,00:03:01,05:04:18
+ironman-70.3-budapest-20140823.csv,1306,Tibor Pécskövi,40,---,HUN,00:27:26,02:27:08,02:36:10,00:02:03,00:01:59,05:34:46
+ironman-70.3-budapest-20140823.csv,1307,Owen Percy,41,---,IRL,00:32:15,02:46:19,02:17:45,00:03:42,00:04:18,05:44:19
+ironman-70.3-budapest-20140823.csv,1308,Ivan Petrov,44,---,HUN,00:33:04,02:32:18,01:42:03,00:02:54,00:02:42,04:53:01
+ironman-70.3-budapest-20140823.csv,1309,Massimo Plaino,43,---,ITA,00:35:48,02:33:30,01:42:19,00:07:14,00:10:28,05:09:19
+ironman-70.3-budapest-20140823.csv,1310,Stefano Plaino,40,---,ITA,00:37:53,02:41:11,01:58:40,00:05:08,00:02:48,05:25:40
+ironman-70.3-budapest-20140823.csv,1311,András Potó,40,---,HUN,00:36:04,03:00:18,01:41:47,00:04:35,00:02:50,05:25:34
+ironman-70.3-budapest-20140823.csv,1312,Peter Pototschnig,43,---,AUT,00:35:05,02:42:03,01:46:03,00:04:01,00:03:55,05:11:07
+ironman-70.3-budapest-20140823.csv,1313,Thomas Priglinger,43,---,AUT,00:28:56,02:16:51,01:22:20,00:02:06,00:02:12,04:12:25
+ironman-70.3-budapest-20140823.csv,1314,Jindrich Radisch,43,Praha 7,CZE,00:39:28,02:40:08,01:45:33,00:05:19,00:04:02,05:14:30
+ironman-70.3-budapest-20140823.csv,1315,Mattias Ribbing,41,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1316,Richard Fabre,43,---,BHR,00:48:05,02:35:27,01:43:01,00:03:25,00:02:27,05:12:25
+ironman-70.3-budapest-20140823.csv,1317,Robert Riddell,40,---,GBR,00:35:37,02:25:46,01:40:11,00:02:21,00:02:46,04:46:41
+ironman-70.3-budapest-20140823.csv,1318,Sébastien Riehl,41,---,FRA,00:42:04,02:54:04,01:56:13,00:07:15,00:04:51,05:44:27
+ironman-70.3-budapest-20140823.csv,1319,Markus Ritter,42,---,AUT,00:34:50,02:24:54,01:33:29,00:02:04,00:02:33,04:37:50
+ironman-70.3-budapest-20140823.csv,1320,Chris Rohde,43,VA,USA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1321,Nino Rosenlund,42,---,DNK,00:40:26,02:44:56,02:20:05,00:03:05,00:03:15,05:51:47
+ironman-70.3-budapest-20140823.csv,1322,Robbie Ryan,43,Uk,GBR,00:30:16,02:25:40,01:48:25,00:03:31,00:03:02,04:50:54
+ironman-70.3-budapest-20140823.csv,1323,László Sabján,44,Pest,HUN,00:33:38,02:52:31,02:11:14,00:08:06,00:07:36,05:53:05
+ironman-70.3-budapest-20140823.csv,1324,Leif Sager,42,---,SWE,00:41:25,02:45:15,01:52:27,00:04:05,00:03:43,05:26:55
+ironman-70.3-budapest-20140823.csv,1325,Gábor Salamon,40,---,HUN,00:47:16,03:05:54,02:34:09,00:05:32,00:04:34,06:37:25
+ironman-70.3-budapest-20140823.csv,1326,F Schannen,39,---,HUN,00:43:01,02:53:32,01:53:23,00:08:04,00:06:52,05:44:52
+ironman-70.3-budapest-20140823.csv,1327,Michael Schiessler,40,---,AUT,00:36:02,02:55:36,02:11:27,00:04:17,00:04:46,05:52:08
+ironman-70.3-budapest-20140823.csv,1328,Christian Schlembach,41,---,AUT,00:30:09,02:28:17,01:39:08,00:02:24,00:03:26,04:43:24
+ironman-70.3-budapest-20140823.csv,1329,Bernhard Schmidt,41,AT,AUT,00:32:35,02:41:22,02:03:33,00:03:17,00:03:20,05:24:07
+ironman-70.3-budapest-20140823.csv,1330,Brian Scullion,43,Intl State,IRL,00:39:14,02:33:36,01:43:56,00:02:24,00:03:24,05:02:34
+ironman-70.3-budapest-20140823.csv,1331,Emil Segatto Dr.,44,---,HUN,00:41:04,02:42:32,02:21:36,00:06:42,00:05:49,05:57:43
+ironman-70.3-budapest-20140823.csv,1332,Scott Sendmeyer,42,AE,USA,00:34:53,02:45:56,01:54:38,00:03:45,00:03:35,05:22:47
+ironman-70.3-budapest-20140823.csv,1333,Philippe Simon,43,---,FRA,00:38:35,02:37:04,01:36:05,00:03:27,00:04:23,04:59:34
+ironman-70.3-budapest-20140823.csv,1334,Daniele Sinosich,41,ita,ITA,00:43:53,02:56:57,02:04:56,00:07:57,00:04:19,05:58:02
+ironman-70.3-budapest-20140823.csv,1335,Matteo Sironi,41,---,ITA,00:33:08,02:39:20,01:32:54,00:03:37,00:03:31,04:52:30
+ironman-70.3-budapest-20140823.csv,1336,Davide Soliani,42,MI,ITA,---,---,---,---,---,DQ
+ironman-70.3-budapest-20140823.csv,1337,Radim Stefan,40,---,CZE,00:35:26,02:50:03,01:52:52,00:04:23,00:03:49,05:26:33
+ironman-70.3-budapest-20140823.csv,1338,Christian Stoimaier,41,---,AUT,00:32:42,02:17:47,01:30:13,00:02:47,00:02:10,04:25:39
+ironman-70.3-budapest-20140823.csv,1339,Alejandro Suarez,39,---,ESP,00:30:33,02:43:14,01:49:05,00:02:48,00:04:31,05:10:11
+ironman-70.3-budapest-20140823.csv,1340,Balázs Sumi,40,---,HUN,00:45:55,03:24:34,01:55:47,00:07:56,00:05:17,06:19:29
+ironman-70.3-budapest-20140823.csv,1341,Zoltan Syposs,43,Other,HUN,00:47:14,02:51:58,02:27:51,00:03:23,00:03:34,06:14:00
+ironman-70.3-budapest-20140823.csv,1342,Balazs Szabo,41,---,HUN,00:51:48,03:17:15,02:35:59,00:06:05,00:04:02,06:55:09
+ironman-70.3-budapest-20140823.csv,1343,Tamás Szabó,39,---,HUN,00:40:38,02:45:46,01:38:29,00:04:42,00:03:48,05:13:23
+ironman-70.3-budapest-20140823.csv,1344,Zoltán Szalai,43,---,HUN,00:44:49,03:04:15,02:01:00,00:06:51,00:05:13,06:02:08
+ironman-70.3-budapest-20140823.csv,1345,Béla Szalai,39,---,HUN,00:29:23,02:28:46,01:42:01,00:03:48,00:03:20,04:47:18
+ironman-70.3-budapest-20140823.csv,1346,Zoltán Szikszay,40,---,HUN,00:42:53,02:59:54,01:53:06,00:09:12,00:05:28,05:50:33
+ironman-70.3-budapest-20140823.csv,1347,Péter Szilágyi,44,---,HUN,00:36:31,03:07:49,02:07:12,00:04:38,00:04:30,06:00:40
+ironman-70.3-budapest-20140823.csv,1348,Marcell Szlávy,39,---,HUN,00:45:28,02:58:44,02:00:15,00:06:03,00:03:49,05:54:19
+ironman-70.3-budapest-20140823.csv,1349,Tamás Szuharda,39,---,HUN,00:42:36,02:59:49,02:15:45,00:03:20,00:04:09,06:05:39
+ironman-70.3-budapest-20140823.csv,1350,Emre Tacir,41,Intl State,TUR,00:39:53,02:39:31,01:41:42,00:05:24,00:03:11,05:09:41
+ironman-70.3-budapest-20140823.csv,1351,Tamás Tájmel,41,---,HUN,00:49:50,02:56:49,02:20:18,00:06:26,00:03:58,06:17:21
+ironman-70.3-budapest-20140823.csv,1352,Krisztián Tamási,44,---,HUN,00:51:04,03:37:26,03:04:08,00:10:39,00:11:51,07:55:08
+ironman-70.3-budapest-20140823.csv,1353,Istvan Kovacs,44,---,HUN,00:43:17,02:49:00,01:46:12,00:05:12,00:03:54,05:27:35
+ironman-70.3-budapest-20140823.csv,1354,Marcus Teles,40,---,BRA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1355,Johann Terblanche,40,Eastern Cape,ZAF,00:25:58,02:29:13,01:50:20,00:04:05,00:03:57,04:53:33
+ironman-70.3-budapest-20140823.csv,1356,Daniel Torp,42,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1357,Craig Truter,43,AB,ZAF,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1358,Miklós Tunyogi-Csapó,41,---,HUN,00:33:19,02:38:28,01:46:41,00:03:46,00:04:57,05:07:11
+ironman-70.3-budapest-20140823.csv,1359,Balázs Tüske,41,---,HUN,00:33:22,02:39:29,02:07:00,00:05:52,00:04:24,05:30:07
+ironman-70.3-budapest-20140823.csv,1360,Reinhard Unger,44,AT,AUT,00:41:14,02:36:10,01:49:59,00:02:45,00:04:58,05:15:06
+ironman-70.3-budapest-20140823.csv,1361,Imre Urbán,40,---,HUN,00:40:26,03:11:03,02:21:23,00:07:25,00:08:50,06:29:07
+ironman-70.3-budapest-20140823.csv,1362,Alessandro Valenti,41,PN,ITA,00:28:28,02:33:02,01:30:04,00:03:27,00:02:14,04:37:15
+ironman-70.3-budapest-20140823.csv,1363,Csaba Varga,41,---,HUN,00:36:43,02:53:56,02:09:33,00:08:00,00:05:49,05:54:01
+ironman-70.3-budapest-20140823.csv,1364,Zoltán Varga,44,---,HUN,00:36:51,02:33:36,01:36:55,00:04:46,00:02:51,04:54:59
+ironman-70.3-budapest-20140823.csv,1365,Péter Vass,41,---,HUN,00:43:19,03:11:28,02:35:09,00:07:54,00:12:01,06:49:51
+ironman-70.3-budapest-20140823.csv,1366,Arturs Veispals,43,Riga,LVA,00:38:28,02:38:25,02:07:11,00:03:14,00:03:59,05:31:17
+ironman-70.3-budapest-20140823.csv,1367,John Venable,43,AE,USA,00:29:33,02:27:48,01:46:16,00:03:00,00:02:42,04:49:19
+ironman-70.3-budapest-20140823.csv,1368,Lorenzo Vercesi,39,pv,ITA,00:42:08,02:40:04,01:39:08,00:03:58,00:02:53,05:08:11
+ironman-70.3-budapest-20140823.csv,1369,Cyril Vidal,41,---,GBR,00:30:54,02:25:06,01:35:36,00:05:18,00:03:12,04:40:06
+ironman-70.3-budapest-20140823.csv,1370,Franck Vincent,41,---,FRA,00:40:18,02:59:44,02:44:45,00:04:31,00:05:02,06:34:20
+ironman-70.3-budapest-20140823.csv,1371,Gyula Vollár,42,---,HUN,00:47:28,03:09:13,02:05:46,00:05:22,00:04:58,06:12:47
+ironman-70.3-budapest-20140823.csv,1372,Ernesto Zafra,43,NL,NLD,00:42:18,02:41:30,02:01:58,00:04:06,00:03:43,05:33:35
+ironman-70.3-budapest-20140823.csv,1373,Petr Zajicek,39,Other,CZE,00:32:39,02:27:18,01:40:38,00:03:00,00:02:40,04:46:15
+ironman-70.3-budapest-20140823.csv,1374,Rafal Zakrzewski,42,---,POL,00:35:25,02:35:24,01:40:27,00:02:07,00:03:05,04:56:28
+ironman-70.3-budapest-20140823.csv,1375,Andreas Zanat,42,---,AUT,00:35:03,02:49:13,02:01:24,00:04:22,00:03:09,05:33:11
+ironman-70.3-budapest-20140823.csv,1376,Luca Zilberstein,41,---,FRA,00:38:06,02:36:19,01:54:45,00:03:11,00:02:54,05:15:15
+ironman-70.3-budapest-20140823.csv,1377,Endre Dr. Zima,39,---,HUN,00:42:08,03:23:18,02:09:47,00:10:39,00:11:42,06:37:34
+ironman-70.3-budapest-20140823.csv,1378,Andras Zsilák-Makra,41,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1379,Francesco Riccioni,39,Pistoia,ITA,00:35:02,02:25:50,01:45:17,00:02:53,00:06:07,04:55:09
+ironman-70.3-budapest-20140823.csv,1380,Gabor Csaba,41,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1381,Alexis Athanasopoulos,42,---,GRC,00:32:52,02:28:01,01:45:44,00:03:27,00:03:11,04:53:15
+ironman-70.3-budapest-20140823.csv,1382,Imre Gémes,39,---,HUN,00:30:24,03:00:26,01:49:27,00:03:41,00:03:29,05:27:27
+ironman-70.3-budapest-20140823.csv,1383,Benjamin Skok,40,DIVACA,SVN,00:33:10,02:30:46,01:28:40,00:03:46,00:03:04,04:39:26
+ironman-70.3-budapest-20140823.csv,1384,Alexandr Mileev,43,Sam obl,RUS,---,---,---,---,---,DQ
+ironman-70.3-budapest-20140823.csv,1385,Csaba Orbán,42,---,HUN,00:47:01,02:37:17,01:43:45,00:06:14,00:03:54,05:18:11
+ironman-70.3-budapest-20140823.csv,1386,Gyula Szabo,42,Pest,HUN,00:29:46,02:29:41,01:39:35,00:02:11,00:03:03,04:44:16
+ironman-70.3-budapest-20140823.csv,1387,Dermot Hickey,43,wicklow,IRL,00:30:08,02:38:16,02:40:37,00:05:50,00:05:22,06:00:13
+ironman-70.3-budapest-20140823.csv,1388,Frantisek Stefanicka,41,---,SVK,00:40:17,02:44:29,01:57:17,00:05:48,00:05:39,05:33:30
+ironman-70.3-budapest-20140823.csv,1389,Hakan Berberler,43,marmara,TUR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1390,Peter Reichenpfader,43,Österreich,AUT,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1391,Frank Janssen,43,---,BEL,00:36:13,02:31:41,01:40:44,00:03:01,00:02:45,04:54:24
+ironman-70.3-budapest-20140823.csv,1392,Erick Buculei,40,BUCURESTI,ROU,00:32:10,02:53:20,01:51:37,00:03:50,00:05:34,05:26:31
+ironman-70.3-budapest-20140823.csv,1393,Markus Jaegermueller,44,AT,AUT,00:33:39,02:52:12,02:30:17,00:03:20,00:03:45,06:03:13
+ironman-70.3-budapest-20140823.csv,1394,Matthias Weber,41,---,CHE,00:33:49,02:36:07,01:46:41,00:03:46,00:04:20,05:04:43
+ironman-70.3-budapest-20140823.csv,1395,Vladimir Pesek,44,---,CZE,00:37:43,02:42:44,01:56:46,00:03:36,00:03:40,05:24:29
+ironman-70.3-budapest-20140823.csv,1396,Glen Osmond,42,---,USA,00:30:01,02:27:03,01:41:24,00:02:02,00:02:16,04:42:46
+ironman-70.3-budapest-20140823.csv,1397,Péter Bajkay,40,---,HUN,00:41:24,03:01:36,02:32:55,00:09:32,00:12:40,06:38:07
+ironman-70.3-budapest-20140823.csv,1398,Balázs Illa,40,Hungary,HUN,00:31:49,02:24:12,01:44:11,00:03:01,00:03:08,04:46:21
+ironman-70.3-budapest-20140823.csv,1399,Géza Szakter,42,---,HUN,00:29:20,02:40:37,01:30:20,00:02:32,00:02:50,04:45:39
+ironman-70.3-budapest-20140823.csv,1400,Mario Endrizzi,43,bolzano,ITA,00:32:45,02:43:49,02:11:09,00:03:57,00:03:18,05:34:58
+ironman-70.3-budapest-20140823.csv,1401,Micke Ajax,44,---,SWE,00:41:41,02:35:30,01:44:28,00:05:39,00:03:08,05:10:26
+ironman-70.3-budapest-20140823.csv,1402,Hamad Muraisi,45,Other,BHR,00:47:45,02:41:46,01:52:48,00:04:20,00:03:54,05:30:33
+ironman-70.3-budapest-20140823.csv,1403,László Antal,47,---,HUN,00:28:51,02:34:35,01:43:38,00:03:21,00:03:32,04:53:57
+ironman-70.3-budapest-20140823.csv,1404,Murat Aroyo,46,TEL AVIV,ISR,00:36:08,03:07:27,02:19:31,00:05:00,00:04:58,06:13:04
+ironman-70.3-budapest-20140823.csv,1405,László Bagossy,47,---,HUN,00:47:50,03:14:00,01:54:57,00:13:34,00:08:17,06:18:38
+ironman-70.3-budapest-20140823.csv,1406,Kjetil Bakketun,46,---,NOR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1407,Ted Bank,44,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1408,Béla Bátorfi,46,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1409,Péter Belso,44,---,HUN,00:40:03,03:40:33,02:27:14,00:07:15,00:07:55,07:03:00
+ironman-70.3-budapest-20140823.csv,1410,Jürgen Bender,47,---,DEU,00:34:58,02:48:54,02:02:55,00:03:52,00:05:14,05:35:53
+ironman-70.3-budapest-20140823.csv,1411,Andrea Bergamini,48,ve,ITA,00:31:13,02:31:55,01:44:23,00:03:13,00:03:30,04:54:14
+ironman-70.3-budapest-20140823.csv,1412,Gabor Borenich,47,---,HUN,00:35:53,02:34:34,01:48:21,00:03:22,00:02:44,05:04:54
+ironman-70.3-budapest-20140823.csv,1413,Zoltan Bozso,45,---,HUN,00:27:08,02:18:03,01:31:05,00:02:19,00:02:20,04:20:55
+ironman-70.3-budapest-20140823.csv,1414,Jason Bridgen,44,---,GBR,00:39:47,02:37:07,01:46:40,00:03:18,00:03:04,05:09:56
+ironman-70.3-budapest-20140823.csv,1415,Micheal Brogan,45,---,IRL,00:37:59,02:45:29,01:54:07,00:02:22,00:02:58,05:22:55
+ironman-70.3-budapest-20140823.csv,1416,Alan Carrington,47,Gauteng,ZAF,00:32:33,02:35:02,01:52:08,00:04:17,00:03:16,05:07:16
+ironman-70.3-budapest-20140823.csv,1417,Christophe Chaubard-Willm,49,---,FRA,00:38:24,02:43:30,02:27:50,00:05:42,00:06:24,06:01:50
+ironman-70.3-budapest-20140823.csv,1418,Patrick Chouviat,46,Aquitaine,FRA,00:36:50,02:55:04,02:35:20,00:05:07,00:07:05,06:19:26
+ironman-70.3-budapest-20140823.csv,1419,Claudio Ciceri,44,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1420,Fabio Cicogna,46,italia,ITA,00:40:07,02:53:43,01:55:32,00:04:52,00:03:19,05:37:33
+ironman-70.3-budapest-20140823.csv,1421,Carlos Leon Cordero,48,---,ESP,00:36:19,02:47:59,01:40:03,00:03:14,00:03:39,05:11:14
+ironman-70.3-budapest-20140823.csv,1422,Armando Corral,45,AE,USA,00:42:45,03:04:25,02:08:21,00:05:41,00:05:07,06:06:19
+ironman-70.3-budapest-20140823.csv,1423,Rafael Cuevas,46,---,PHL,00:40:03,03:08:22,02:11:11,00:04:47,00:03:03,06:07:26
+ironman-70.3-budapest-20140823.csv,1424,Martin Cullen,47,---,GBR,00:42:18,03:02:02,02:03:21,00:04:07,00:04:32,05:56:20
+ironman-70.3-budapest-20140823.csv,1425,Andrey Danilov,44,Moscow,RUS,00:40:03,02:59:34,02:31:14,00:04:32,00:06:13,06:21:36
+ironman-70.3-budapest-20140823.csv,1426,Michael Davis,49,Somerset,GBR,00:39:10,02:49:44,02:05:07,00:04:43,00:03:23,05:42:07
+ironman-70.3-budapest-20140823.csv,1427,Mats Didriksson,49,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1428,Axel Dinse,46,AT,AUT,00:34:00,02:24:20,01:31:41,00:02:10,00:02:39,04:34:50
+ironman-70.3-budapest-20140823.csv,1429,Imre Doma,46,---,HUN,00:33:35,02:38:47,01:52:54,00:03:32,00:04:05,05:12:53
+ironman-70.3-budapest-20140823.csv,1430,Paul Doyle,47,Kildare,IRL,00:32:43,02:30:49,01:48:56,00:03:05,00:02:34,04:58:07
+ironman-70.3-budapest-20140823.csv,1431,Eric Duchemin,46,KANTO,FRA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1432,Ivan Dulic,44,---,SRB,00:39:25,02:46:04,01:48:01,00:05:42,00:03:25,05:22:37
+ironman-70.3-budapest-20140823.csv,1433,Christophe Duval-Kieffer,45,London,FRA,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1434,Imre Farkas,45,Gyor-Moson-Sopron,HUN,00:35:44,02:59:30,01:59:39,00:05:17,00:03:33,05:43:43
+ironman-70.3-budapest-20140823.csv,1435,Valerii Fazlutdinov,46,---,RUS,00:32:38,02:25:26,01:33:15,00:02:22,00:02:30,04:36:11
+ironman-70.3-budapest-20140823.csv,1436,Daniel Feraru,45,---,ROU,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1437,Claudio Filiberti,45,ITALIA,ITA,00:43:24,03:05:02,02:04:09,00:06:06,00:07:47,06:06:28
+ironman-70.3-budapest-20140823.csv,1438,Ivan Fomichev,46,---,UKR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1439,Andreas Fuchs,49,---,AUT,00:37:36,02:22:27,01:34:59,00:02:13,00:02:47,04:40:02
+ironman-70.3-budapest-20140823.csv,1440,Adrian Garvey,45,Co Down,IRL,00:40:52,02:45:23,01:39:49,00:03:22,00:03:48,05:13:14
+ironman-70.3-budapest-20140823.csv,1441,Dennis Goodland,49,Avon,GBR,00:47:43,02:58:08,02:46:03,00:06:58,00:07:57,06:46:49
+ironman-70.3-budapest-20140823.csv,1442,Benoit Gueneau,46,---,FRA,00:35:00,02:37:37,03:06:36,00:03:28,00:06:10,06:28:51
+ironman-70.3-budapest-20140823.csv,1443,Steffen Haack,48,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1444,Wolfgang Haas,45,---,AUT,00:34:47,02:43:17,01:47:53,00:03:51,00:03:56,05:13:44
+ironman-70.3-budapest-20140823.csv,1445,Thomas Hackner,49,---,AUT,00:27:31,02:17:36,01:28:36,00:02:25,00:02:27,04:18:35
+ironman-70.3-budapest-20140823.csv,1446,Zsolt Haraszti,46,---,HUN,00:37:59,02:46:06,01:36:52,00:03:26,00:02:27,05:06:50
+ironman-70.3-budapest-20140823.csv,1447,Robert Harb,49,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1448,Bernhard Hausmanninger,49,DE,DEU,00:33:52,02:44:20,02:02:13,00:04:42,00:03:22,05:28:29
+ironman-70.3-budapest-20140823.csv,1449,Zbynek Heger,48,CZ,CZE,00:45:23,02:53:53,02:19:38,00:06:21,00:04:14,06:09:29
+ironman-70.3-budapest-20140823.csv,1450,Attila Hegyi,46,---,HUN,00:32:54,02:59:25,02:44:34,00:04:52,00:05:30,06:27:15
+ironman-70.3-budapest-20140823.csv,1451,Matthys Heyns,46,---,ZAF,00:35:54,03:05:28,02:31:06,00:04:32,00:07:05,06:24:05
+ironman-70.3-budapest-20140823.csv,1452,István Hollós,44,---,HUN,00:36:01,02:51:52,01:51:26,00:03:15,00:04:20,05:26:54
+ironman-70.3-budapest-20140823.csv,1453,Tor-Eirik Holt,45,---,NOR,00:32:19,02:22:00,01:36:48,00:03:44,00:04:25,04:39:16
+ironman-70.3-budapest-20140823.csv,1454,Gyula Horvath,46,---,HUN,00:41:23,02:43:34,01:50:14,00:05:13,00:03:35,05:23:59
+ironman-70.3-budapest-20140823.csv,1455,Günter Huber,49,AT,AUT,00:41:05,02:46:45,02:09:39,00:04:56,00:03:55,05:46:20
+ironman-70.3-budapest-20140823.csv,1456,Jaroslav Hyzl,45,Czech republik,CZE,00:26:44,02:18:25,01:30:39,00:02:52,00:02:53,04:21:33
+ironman-70.3-budapest-20140823.csv,1457,Gregor Istenic,44,APO,SVN,00:40:27,02:40:37,01:48:49,00:00:56,00:03:56,05:14:45
+ironman-70.3-budapest-20140823.csv,1458,Lajos Izsó,48,---,HUN,00:33:02,02:32:43,01:57:01,00:03:41,00:04:05,05:10:32
+ironman-70.3-budapest-20140823.csv,1459,Gábor Izsó,47,---,HUN,00:44:31,03:23:21,02:20:12,00:08:52,00:07:16,06:44:12
+ironman-70.3-budapest-20140823.csv,1460,Egbert Jakobs,49,---,DEU,00:43:43,03:13:47,02:22:50,00:05:54,00:04:51,06:31:05
+ironman-70.3-budapest-20140823.csv,1461,Asker Jeukendrup,45,Worcestershire,GBR,00:35:30,02:22:43,01:41:29,00:03:18,00:02:16,04:45:16
+ironman-70.3-budapest-20140823.csv,1462,Péter Juhász,48,---,HUN,00:39:29,02:24:44,01:41:54,00:02:57,00:02:53,04:51:57
+ironman-70.3-budapest-20140823.csv,1463,Hakan Kanca,45,Istanbul,TUR,00:36:18,02:52:11,02:05:42,00:04:57,00:03:11,05:42:19
+ironman-70.3-budapest-20140823.csv,1464,Jürgen Karl,45,---,DEU,00:36:01,03:00:32,02:11:29,00:04:55,00:04:43,05:57:40
+ironman-70.3-budapest-20140823.csv,1465,Bernhard Keller,45,Intl State,AUT,00:27:38,02:15:38,---,00:02:00,00:02:04,DNF
+ironman-70.3-budapest-20140823.csv,1466,Lukas Keller,45,---,AUT,00:39:35,02:43:16,01:57:00,00:04:38,00:03:38,05:28:07
+ironman-70.3-budapest-20140823.csv,1467,Sándor Király,47,---,HUN,00:29:22,02:48:43,01:35:27,00:04:23,00:02:50,05:00:45
+ironman-70.3-budapest-20140823.csv,1468,Stefan Klade,49,CH,CHE,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1469,Vlastimil Kokeš,48,---,CZE,00:38:26,02:33:51,01:42:56,00:05:31,00:03:00,05:03:44
+ironman-70.3-budapest-20140823.csv,1470,Yuri Kolobov,48,Moscow,RUS,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1471,Bostjan Komac,46,---,SVN,00:35:47,02:36:28,01:56:06,00:03:35,00:03:19,05:15:15
+ironman-70.3-budapest-20140823.csv,1472,Bela Kovacs,46,---,HUN,00:45:40,02:44:28,02:01:44,00:05:40,00:05:10,05:42:42
+ironman-70.3-budapest-20140823.csv,1473,Maxim Kozin,45,moscow,RUS,00:33:20,02:47:46,01:57:23,00:03:14,00:03:39,05:25:22
+ironman-70.3-budapest-20140823.csv,1474,Peter Kralik,45,Bratislava,SVK,00:40:55,02:48:50,01:40:44,00:04:28,00:03:35,05:18:32
+ironman-70.3-budapest-20140823.csv,1475,Oleg Krivoguzov,48,---,RUS,00:40:17,03:46:15,02:00:28,00:06:07,00:04:42,06:37:49
+ironman-70.3-budapest-20140823.csv,1476,Guenter Lach,44,---,DEU,00:46:40,02:58:02,02:18:03,00:05:05,00:03:45,06:11:35
+ironman-70.3-budapest-20140823.csv,1477,Tamás Laczó,49,Pest,HUN,00:38:25,02:51:42,01:49:49,00:06:15,00:04:43,05:30:54
+ironman-70.3-budapest-20140823.csv,1478,Roman Langer,46,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1479,András Lányi,44,---,HUN,00:39:28,02:59:57,02:23:07,00:04:15,00:04:54,06:11:41
+ironman-70.3-budapest-20140823.csv,1480,Tamás Lányi,49,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1481,Paul Lechner,48,---,DEU,00:32:45,02:43:10,02:11:28,00:03:01,00:03:11,05:33:35
+ironman-70.3-budapest-20140823.csv,1482,Greg Magrath,48,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1483,Marcus Manke,47,---,DEU,00:32:52,02:44:14,02:22:18,00:05:11,00:04:28,05:49:03
+ironman-70.3-budapest-20140823.csv,1484,Geoff Mcfarland,46,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1485,Michael Mcgowan,47,---,GBR,00:36:27,02:50:12,01:52:28,00:04:26,00:03:02,05:26:35
+ironman-70.3-budapest-20140823.csv,1486,Clive Mcmullen,49,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1487,Paul Miciak,46,---,AUT,00:39:51,02:31:51,01:50:28,00:03:25,00:03:35,05:09:10
+ironman-70.3-budapest-20140823.csv,1488,Gareth Morgan,45,Dublin,IRL,00:37:36,02:34:40,01:50:24,00:03:09,00:03:59,05:09:48
+ironman-70.3-budapest-20140823.csv,1489,Andy Munroe,45,---,GBR,00:47:14,03:01:49,01:53:22,00:05:05,00:03:06,05:50:36
+ironman-70.3-budapest-20140823.csv,1490,Nick Murns,45,Cornwall,GBR,00:36:47,02:42:23,01:47:54,00:12:56,00:04:02,05:24:02
+ironman-70.3-budapest-20140823.csv,1491,Ferenc Orbán,47,---,HUN,00:34:25,02:41:12,01:41:08,00:05:00,00:03:52,05:05:37
+ironman-70.3-budapest-20140823.csv,1492,Nicola Pasquini,46,ita venezia,ITA,00:34:21,02:41:32,01:49:44,00:04:18,00:03:49,05:13:44
+ironman-70.3-budapest-20140823.csv,1493,Márton Pekli,45,---,HUN,00:46:15,03:21:12,02:27:21,00:04:56,00:05:25,06:45:09
+ironman-70.3-budapest-20140823.csv,1494,Wolfgang Pflamitzer,45,---,AUT,00:33:29,02:33:26,01:45:34,00:02:24,00:02:54,04:57:47
+ironman-70.3-budapest-20140823.csv,1495,Szilard Polgar,46,---,HUN,00:36:40,02:48:28,01:39:10,00:05:28,00:03:43,05:13:29
+ironman-70.3-budapest-20140823.csv,1496,Vlatko Primorac,45,IL,USA,00:36:37,03:04:23,02:12:53,00:05:13,00:06:34,06:05:40
+ironman-70.3-budapest-20140823.csv,1497,Ruslan Radjapov,44,---,RUS,00:35:28,02:44:41,01:45:50,00:02:21,00:03:09,05:11:29
+ironman-70.3-budapest-20140823.csv,1498,Petr Rasocha,49,Czech Rep,CZE,00:29:08,02:40:15,01:59:11,00:03:45,00:03:50,05:16:09
+ironman-70.3-budapest-20140823.csv,1499,Zoltán Rendek,46,---,HUN,00:35:40,02:49:31,01:54:57,00:06:03,00:05:09,05:31:20
+ironman-70.3-budapest-20140823.csv,1500,Jan Repa,46,CZ - Tschechische Rep.,CZE,00:36:16,02:45:05,02:00:33,00:03:40,00:04:55,05:30:29
+ironman-70.3-budapest-20140823.csv,1501,Zoltán Retek,45,---,HUN,00:38:52,02:54:49,01:46:33,00:03:11,00:04:17,05:27:42
+ironman-70.3-budapest-20140823.csv,1502,Glenn Robbins,46,---,USA,00:40:51,02:40:22,01:47:01,00:03:39,00:03:10,05:15:03
+ironman-70.3-budapest-20140823.csv,1503,Nuno Santos,45,Intl State,PRT,00:37:43,02:38:18,01:59:59,00:03:16,00:02:55,05:22:11
+ironman-70.3-budapest-20140823.csv,1504,Mark Schofield,44,Devon,GBR,00:34:17,02:36:01,01:33:01,00:03:35,00:02:34,04:49:28
+ironman-70.3-budapest-20140823.csv,1505,Johnny Schwarz,45,AT,AUT,00:37:24,02:42:50,01:55:09,00:04:29,00:04:08,05:24:00
+ironman-70.3-budapest-20140823.csv,1506,Thomas Seltmann,48,---,DEU,00:29:19,02:27:38,01:38:04,00:02:10,00:02:47,04:39:58
+ironman-70.3-budapest-20140823.csv,1507,Dmitrijs Semendjajevs,47,---,LVA,00:45:32,02:52:53,02:00:16,00:03:18,00:04:31,05:46:30
+ironman-70.3-budapest-20140823.csv,1508,Stefan Silfvergren,48,SE,SWE,00:50:20,02:58:37,01:50:16,00:09:36,00:06:19,05:55:08
+ironman-70.3-budapest-20140823.csv,1509,Christoph Simsch,47,---,DEU,00:28:58,02:34:23,01:45:36,00:02:15,00:02:19,04:53:31
+ironman-70.3-budapest-20140823.csv,1510,Darko Skevin,49,APO,HRV,00:26:37,02:29:51,01:52:00,00:02:36,00:02:31,04:53:35
+ironman-70.3-budapest-20140823.csv,1511,Zsolt Skotnyár,48,---,HUN,00:45:38,03:00:22,01:45:02,00:09:41,00:10:53,05:51:36
+ironman-70.3-budapest-20140823.csv,1512,Tomas Strnad,44,Pardubice,CZE,00:37:50,02:32:11,01:39:05,00:02:08,00:02:19,04:53:33
+ironman-70.3-budapest-20140823.csv,1513,Endre Szabó,46,---,HUN,00:39:27,02:39:25,01:52:28,00:05:44,00:03:25,05:20:29
+ironman-70.3-budapest-20140823.csv,1514,Lajos Szalo,---,---,AUT,00:34:41,02:33:11,01:55:31,00:03:19,00:04:51,05:11:33
+ironman-70.3-budapest-20140823.csv,1515,Mózes Székely,47,---,HUN,00:40:10,02:43:41,01:54:52,00:03:22,00:04:14,05:26:19
+ironman-70.3-budapest-20140823.csv,1516,Wojtek Szeliga,45,---,POL,00:34:30,02:31:17,01:52:16,00:02:52,00:03:19,05:04:14
+ironman-70.3-budapest-20140823.csv,1517,Zsolt Szilágyi,47,---,HUN,00:38:47,02:43:45,02:00:26,00:05:02,00:03:23,05:31:23
+ironman-70.3-budapest-20140823.csv,1518,József Szilágyi,44,---,HUN,00:47:15,03:21:02,02:02:12,00:10:30,00:07:32,06:28:31
+ironman-70.3-budapest-20140823.csv,1519,Gábor Szögi,47,---,HUN,00:37:44,02:43:36,01:39:15,00:03:31,00:02:17,05:06:23
+ironman-70.3-budapest-20140823.csv,1520,Roger Taylor,46,Lancashire,GBR,00:33:07,02:36:09,01:38:02,00:02:27,00:02:48,04:52:33
+ironman-70.3-budapest-20140823.csv,1521,David Taylor,46,Other,BHR,00:37:32,02:32:48,02:19:55,00:02:30,00:03:55,05:36:40
+ironman-70.3-budapest-20140823.csv,1522,Viktor Tóth,45,---,HUN,00:31:09,02:48:09,---,00:04:13,---,DNF
+ironman-70.3-budapest-20140823.csv,1523,Jonathan Van Wyk,45,---,ZAF,00:32:49,02:30:19,02:04:31,00:04:09,00:04:03,05:15:51
+ironman-70.3-budapest-20140823.csv,1524,Gábor Veres,45,---,HUN,00:31:01,02:53:44,02:07:07,00:03:29,00:03:16,05:38:37
+ironman-70.3-budapest-20140823.csv,1525,Axel Weichel,47,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1526,Nicholas Allen Richard Welch,49,Cheshire,GBR,00:37:22,02:47:45,01:42:04,00:03:12,00:02:34,05:12:57
+ironman-70.3-budapest-20140823.csv,1527,Dmitry Iakovlev,45,RF,RUS,00:41:10,02:40:15,01:59:31,00:03:13,00:03:27,05:27:36
+ironman-70.3-budapest-20140823.csv,1528,Paolo Zancanaro,46,Vicenza,ITA,00:36:47,02:43:00,02:04:38,00:03:40,00:04:30,05:32:35
+ironman-70.3-budapest-20140823.csv,1529,Gyula Zilahy,45,---,HUN,00:33:46,02:48:40,02:30:14,00:03:01,00:03:42,05:59:23
+ironman-70.3-budapest-20140823.csv,1530,Josip Mladin Zivkovic,47,Grad Zagreb,HRV,00:29:02,02:23:20,01:36:03,00:02:23,00:02:30,04:33:18
+ironman-70.3-budapest-20140823.csv,1531,Ferenc Zsigri,46,---,HUN,00:36:11,02:45:05,02:04:51,00:05:11,00:03:48,05:35:06
+ironman-70.3-budapest-20140823.csv,1532,Alberto Massimi,44,italy,ITA,00:31:45,02:25:44,01:30:27,00:02:55,00:03:44,04:34:35
+ironman-70.3-budapest-20140823.csv,1533,Vladimir Riabushkin,45,Samarskaya oblast,RUS,00:33:11,02:35:49,01:58:36,00:05:26,00:03:42,05:16:44
+ironman-70.3-budapest-20140823.csv,1534,Eduard Kiyko,46,APO,RUS,00:41:19,03:11:42,02:28:23,00:04:34,00:03:54,06:29:52
+ironman-70.3-budapest-20140823.csv,1535,József Varga,47,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1536,Antonio Galloso,46,Free State,ITA,00:39:03,02:40:24,01:41:03,00:03:45,00:03:29,05:07:44
+ironman-70.3-budapest-20140823.csv,1537,Manuel Narvaez,47,---,ESP,---,---,---,---,---,DQ
+ironman-70.3-budapest-20140823.csv,1538,Stefano Rossi,45,italia,ITA,00:27:12,02:18:12,01:25:03,00:02:30,00:02:37,04:15:34
+ironman-70.3-budapest-20140823.csv,1539,Sándor Töreky,47,---,HUN,00:28:59,02:37:55,01:41:22,00:03:18,00:03:59,04:55:33
+ironman-70.3-budapest-20140823.csv,1540,Luca Sarti,46,Bolzano,ITA,00:30:57,02:31:51,01:42:59,00:03:25,00:03:16,04:52:28
+ironman-70.3-budapest-20140823.csv,1541,Szilárd Csörgo,44,---,HUN,00:32:47,02:49:30,01:51:40,00:03:54,00:04:05,05:21:56
+ironman-70.3-budapest-20140823.csv,1542,Norbert Kappaun,49,---,AUT,00:34:05,02:36:18,01:45:31,00:02:42,00:03:16,05:01:52
+ironman-70.3-budapest-20140823.csv,1543,Gerhard Miklautz,44,AT,AUT,00:52:43,02:37:56,02:08:13,00:03:58,00:03:22,05:46:12
+ironman-70.3-budapest-20140823.csv,1544,József Hadnagy,45,---,HUN,00:39:37,02:59:48,02:17:31,00:07:17,00:07:36,06:11:49
+ironman-70.3-budapest-20140823.csv,1545,Tamas Schenek,46,---,HUN,00:29:31,02:44:05,01:50:12,00:04:50,00:05:41,05:14:19
+ironman-70.3-budapest-20140823.csv,1546,Milan Jurcina,48,Slovakia,SVK,00:44:05,02:46:00,01:45:27,00:03:53,00:03:19,05:22:44
+ironman-70.3-budapest-20140823.csv,1547,Gábor Dózsa,49,---,HUN,00:46:36,02:48:21,02:01:24,00:06:40,00:05:14,05:48:15
+ironman-70.3-budapest-20140823.csv,1548,József Gedei,47,---,HUN,00:40:13,02:48:09,01:39:32,00:04:56,00:05:14,05:18:04
+ironman-70.3-budapest-20140823.csv,1549,Balázs Sólyom,45,---,HUN,00:38:39,03:15:06,02:10:32,00:08:04,00:11:26,06:23:47
+ironman-70.3-budapest-20140823.csv,1550,Haypál Balázs,46,---,HUN,00:40:34,02:47:18,01:49:08,00:03:53,00:03:31,05:24:24
+ironman-70.3-budapest-20140823.csv,1551,Gábor Fokvári,48,---,HUN,00:34:14,02:48:14,01:59:21,00:03:59,00:03:27,05:29:15
+ironman-70.3-budapest-20140823.csv,1552,Slobodan Mirosavljev,47,---,SRB,00:44:30,03:09:49,01:45:58,00:07:07,00:04:50,05:52:14
+ironman-70.3-budapest-20140823.csv,1553,Gabor Kindl,44,---,HUN,00:29:21,02:27:21,01:28:08,00:03:33,00:03:13,04:31:36
+ironman-70.3-budapest-20140823.csv,1554,Zsolt Molnár,47,---,HUN,00:31:13,02:35:44,02:14:19,00:04:15,00:02:48,05:28:19
+ironman-70.3-budapest-20140823.csv,1555,Zoltán Király,44,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1556,Gabor Boros,46,---,HUN,00:32:21,02:49:34,01:59:46,00:03:41,00:04:36,05:29:58
+ironman-70.3-budapest-20140823.csv,1557,Angelo Pellegrini,47,BG,ITA,00:38:03,03:11:01,02:06:16,00:05:21,00:05:13,06:05:54
+ironman-70.3-budapest-20140823.csv,1559,Lubomir Filo,41,Sllovak Republic ,SVK,00:41:35,02:54:21,01:59:15,00:05:32,00:02:42,05:43:25
+ironman-70.3-budapest-20140823.csv,1560,Attila Várai,43,---,HUN,00:29:06,02:38:51,02:24:26,00:06:41,00:05:06,05:44:10
+ironman-70.3-budapest-20140823.csv,1561,Rajmund Szucs,40,---,HUN,00:26:36,02:25:30,01:32:20,00:02:41,00:02:33,04:29:40
+ironman-70.3-budapest-20140823.csv,1562,Tamas Zsolt Szabo,40,---,HUN,00:45:56,03:34:03,01:49:06,00:06:52,00:04:47,06:20:44
+ironman-70.3-budapest-20140823.csv,1563,Andrei Terentev,40,---,RUS,00:43:13,03:02:08,01:35:59,00:06:14,00:03:49,05:31:23
+ironman-70.3-budapest-20140823.csv,1564,Salvatore Guagliano,40,---,DEU,00:36:19,02:23:38,01:44:38,00:02:58,00:02:35,04:50:08
+ironman-70.3-budapest-20140823.csv,1565,Rolf Friedrich,44,---,DEU,00:33:06,02:23:39,01:49:44,00:03:18,00:03:01,04:52:48
+ironman-70.3-budapest-20140823.csv,1566,Csaba Liptak,42,---,HUN,00:33:16,02:34:16,01:44:37,00:03:32,00:04:38,05:00:19
+ironman-70.3-budapest-20140823.csv,1567,Gabor Szabó,43,---,HUN,00:40:23,03:00:56,02:21:11,00:05:26,00:04:31,06:12:27
+ironman-70.3-budapest-20140823.csv,1568,József Mihály,44,---,HUN,00:38:27,02:34:35,01:48:58,00:10:22,00:08:26,05:20:48
+ironman-70.3-budapest-20140823.csv,1569,Matija Savnik,39,---,SVN,00:42:27,02:44:17,01:58:58,00:04:43,00:05:20,05:35:45
+ironman-70.3-budapest-20140823.csv,1570,Richárd Puszti,41,---,HUN,00:39:05,03:06:54,01:46:47,00:12:12,00:06:39,05:51:37
+ironman-70.3-budapest-20140823.csv,1571,Vladimir Alkhutov,43,---,RUS,00:35:08,03:03:12,02:01:17,00:07:10,00:05:54,05:52:41
+ironman-70.3-budapest-20140823.csv,1572,Tibor Szíj,42,---,HUN,00:45:50,03:22:52,02:01:30,00:07:31,00:08:38,06:26:21
+ironman-70.3-budapest-20140823.csv,1573,Richárd Mészáros,---,---,HUN,00:44:58,03:11:26,02:19:53,00:12:15,00:11:34,06:40:06
+ironman-70.3-budapest-20140823.csv,1574,Robert Malecki,40,---,POL,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1575,Antal Szalkai,39,---,HUN,00:58:30,03:35:48,02:03:40,00:04:13,00:07:10,06:49:21
+ironman-70.3-budapest-20140823.csv,1576,Péter Dr. Hidvégi,40,---,HUN,00:30:15,02:41:37,01:55:13,00:03:24,00:03:28,05:13:57
+ironman-70.3-budapest-20140823.csv,1577,Markus Nursey-Bray,44,---,NOR,00:35:07,02:56:05,02:22:18,00:04:22,00:05:01,06:02:53
+ironman-70.3-budapest-20140823.csv,1578,András Fürtös,42,---,HUN,00:48:40,02:46:31,01:55:21,00:04:19,00:02:37,05:37:28
+ironman-70.3-budapest-20140823.csv,1579,Matjaz Strnad Volkar,39,---,SVN,00:34:27,02:37:30,01:59:58,00:04:06,00:04:48,05:20:49
+ironman-70.3-budapest-20140823.csv,1580,Péter Szego,42,---,HUN,00:43:28,03:03:07,02:03:17,00:03:28,00:06:00,05:59:20
+ironman-70.3-budapest-20140823.csv,1581,Ahmed Iraky,38,Cairo,EGY,00:38:57,02:55:59,02:03:44,00:04:17,00:03:45,05:46:42
+ironman-70.3-budapest-20140823.csv,1582,Andrea Paoletti,39,Italia,ITA,00:29:22,02:45:45,01:39:38,00:03:31,00:03:27,05:01:43
+ironman-70.3-budapest-20140823.csv,1583,Andrey Glushchenko,---,---,UKR,00:23:58,02:17:50,01:23:35,00:01:47,00:02:25,04:09:35
+ironman-70.3-budapest-20140823.csv,1584,Aleksandar Vucicevic,38,---,SRB,00:38:43,02:30:38,01:51:07,00:05:32,00:05:16,05:11:16
+ironman-70.3-budapest-20140823.csv,1585,Maslaev Andrei,36,---,ROU,00:40:45,03:09:57,02:08:09,00:07:16,00:04:12,06:10:19
+ironman-70.3-budapest-20140823.csv,1586,Tibor Pozsgai,38,---,HUN,00:29:40,02:26:05,01:30:21,00:02:40,00:02:20,04:31:06
+ironman-70.3-budapest-20140823.csv,1587,Maksim Nikulin,34,---,RUS,00:42:02,02:37:50,01:41:12,00:03:27,00:03:16,05:07:47
+ironman-70.3-budapest-20140823.csv,1588,Gabor Zoltan,38,---,HUN,00:38:34,02:38:18,01:34:41,00:04:50,00:02:47,04:59:10
+ironman-70.3-budapest-20140823.csv,1589,Róbert Vági,37,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-budapest-20140823.csv,1590,Patrick Tierney,37,Ireland,IRL,00:27:36,02:20:45,01:40:43,00:02:44,00:02:52,04:34:40
+ironman-70.3-budapest-20140823.csv,1591,Zoltán Fejes,37,---,HUN,00:34:53,02:36:54,01:42:37,00:03:51,00:03:06,05:01:21

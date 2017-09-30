@@ -1,0 +1,1543 @@
+#File=ironman-70.3-singapore-20110320.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-singapore-20110320.csv,1,James Cunnama,27,---,ZAF,00:30:26,02:03:49,01:14:24,00:02:30,00:00:36,03:51:45
+ironman-70.3-singapore-20110320.csv,2,Faris Al-Sultan,33,DE,DEU,00:27:57,02:06:42,01:18:13,00:02:17,00:01:04,03:56:13
+ironman-70.3-singapore-20110320.csv,3,Patrick Vernay,37,---,FRA,00:29:14,02:04:58,01:18:22,00:02:30,00:00:46,03:55:50
+ironman-70.3-singapore-20110320.csv,4,Pete Jacobs,29,QLD,AUS,00:27:51,02:06:27,01:16:59,00:02:25,00:00:43,03:54:25
+ironman-70.3-singapore-20110320.csv,5,Courtney Ogden,38,WA,AUS,00:30:25,02:06:48,01:41:09,00:02:30,00:01:13,04:22:05
+ironman-70.3-singapore-20110320.csv,6,Chris Kemp,30,---,AUS,00:27:50,02:06:27,01:19:31,00:02:25,00:00:47,03:57:00
+ironman-70.3-singapore-20110320.csv,7,Scott Neyedli,32,TX,GBR,00:30:27,02:03:52,01:20:58,00:02:20,00:00:48,03:58:25
+ironman-70.3-singapore-20110320.csv,8,Frederik Croneborg,30,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,9,Guy Crawford,31,ID,NZL,00:30:25,02:03:45,01:32:29,00:02:30,00:00:47,04:09:56
+ironman-70.3-singapore-20110320.csv,10,Hiroyuki Nishiuchi,35,Hyogo,JPN,00:28:12,02:14:13,01:27:20,00:02:30,00:00:54,04:13:09
+ironman-70.3-singapore-20110320.csv,11,Kris Gemmell,33,---,NZL,00:27:44,02:06:30,01:13:40,00:02:26,00:00:36,03:50:56
+ironman-70.3-singapore-20110320.csv,12,Hideo Fukui,33,---,JPN,00:28:09,02:06:04,01:18:59,00:02:31,00:00:49,03:56:32
+ironman-70.3-singapore-20110320.csv,13,Daniel Halksworth,25,Intl State,GBR,00:27:48,02:06:28,01:26:26,00:02:32,00:00:52,04:04:06
+ironman-70.3-singapore-20110320.csv,14,Markus Ressler,35,Intl State,AUT,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,15,Daiki Masuda,31,KANAGAWA,JPN,00:32:47,02:13:17,01:32:04,00:02:00,00:01:01,04:21:09
+ironman-70.3-singapore-20110320.csv,16,Brandon Marsh,36,TX,USA,00:27:59,02:06:15,01:38:58,00:02:31,00:00:51,04:16:34
+ironman-70.3-singapore-20110320.csv,17,Sandi Ivancic,28,---,SVN,00:32:49,02:24:09,---,00:02:30,00:01:05,DNF
+ironman-70.3-singapore-20110320.csv,18,Nick Murray,24,---,AUS,00:32:44,02:15:15,01:28:10,00:02:30,00:00:44,04:19:23
+ironman-70.3-singapore-20110320.csv,19,Balazs Csoke,27,TX,HUN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,20,Ueli Bieler,30,---,CHE,00:37:43,02:10:50,01:24:39,00:02:24,00:01:10,04:16:46
+ironman-70.3-singapore-20110320.csv,21,Jemani Francis,26,---,AUS,00:29:14,02:05:03,---,00:02:30,00:00:52,DNF
+ironman-70.3-singapore-20110320.csv,22,Jodie Ann Swallow,29,essex,GBR,---,---,---,02:48:11,---,DNF
+ironman-70.3-singapore-20110320.csv,24,Michelle Wu,28,Other,AUS,00:34:08,02:19:04,01:28:46,00:02:30,00:01:03,04:25:31
+ironman-70.3-singapore-20110320.csv,26,Kirsten Molloy,31,---,AUS,00:31:48,02:23:27,01:39:01,00:02:30,00:01:02,04:37:48
+ironman-70.3-singapore-20110320.csv,27,Maki Nishiuchi,35,Intl State,JPN,00:31:47,02:16:35,01:39:35,00:02:30,00:00:44,04:31:11
+ironman-70.3-singapore-20110320.csv,28,Megumi Shigaki,37,---,JPN,00:35:51,02:27:22,01:38:27,00:02:26,00:01:09,04:45:15
+ironman-70.3-singapore-20110320.csv,29,Rachael Paxton,26,QLD,AUS,00:36:50,02:20:33,01:36:36,00:02:07,00:00:46,04:36:52
+ironman-70.3-singapore-20110320.csv,30,Mary Beth Ellis,33,MA,USA,00:30:07,02:19:02,01:28:10,00:02:20,00:01:27,04:21:06
+ironman-70.3-singapore-20110320.csv,31,Emi Shiono,30,---,JPN,00:42:27,02:24:15,01:37:10,00:02:25,00:01:19,04:47:36
+ironman-70.3-singapore-20110320.csv,32,Emma Ruth Smith,29,---,GBR,00:37:51,02:29:31,01:33:05,00:02:23,00:01:06,04:43:56
+ironman-70.3-singapore-20110320.csv,33,Rachael Smith,35,---,NZL,00:38:55,02:23:13,01:35:41,00:02:26,00:01:02,04:41:17
+ironman-70.3-singapore-20110320.csv,35,Jasmine Lim,22,---,SGP,00:55:52,03:15:10,02:16:25,00:03:44,00:02:36,06:33:47
+ironman-70.3-singapore-20110320.csv,36,Sara Ng,19,---,SGP,00:53:18,03:03:26,02:20:52,00:03:42,00:02:04,06:23:22
+ironman-70.3-singapore-20110320.csv,37,Veronica Tang,22,---,SGP,00:47:50,03:00:52,02:00:05,00:05:25,00:02:34,05:56:46
+ironman-70.3-singapore-20110320.csv,38,Choo Ling Er,23,---,SGP,00:44:08,02:26:28,01:53:30,00:03:13,00:01:07,05:08:26
+ironman-70.3-singapore-20110320.csv,39,Caitlin Bridgland,24,---,AUS,00:34:03,02:30:39,01:54:22,00:03:01,00:00:54,05:02:59
+ironman-70.3-singapore-20110320.csv,40,Stephanie Glass,27,WA,AUS,00:44:33,03:06:12,02:05:34,00:03:45,00:01:41,06:01:45
+ironman-70.3-singapore-20110320.csv,41,Leela Hancox,29,QLD,AUS,00:41:54,02:36:28,02:01:16,00:02:46,00:01:25,05:23:49
+ironman-70.3-singapore-20110320.csv,42,Kylie Scholz,29,NT,AUS,00:45:05,02:40:13,02:01:20,00:02:58,00:01:02,05:30:38
+ironman-70.3-singapore-20110320.csv,43,Valeria Poltronieri,28,---,ITA,00:46:04,02:54:57,01:53:04,00:03:21,00:01:39,05:39:05
+ironman-70.3-singapore-20110320.csv,44,Ayako Murata,26,---,JPN,00:49:41,03:06:00,02:40:34,00:03:23,00:02:18,06:41:56
+ironman-70.3-singapore-20110320.csv,45,Vanessa Koh,---,Selangor,MYS,01:03:48,03:01:26,02:17:28,00:02:52,00:01:50,06:27:24
+ironman-70.3-singapore-20110320.csv,46,Joni Pilar Lopez,---,Metro Manila,PHL,01:07:30,02:52:38,02:25:24,00:04:01,00:03:23,06:32:56
+ironman-70.3-singapore-20110320.csv,47,Adrienne Low,28,---,SGP,00:56:17,02:46:48,02:06:47,00:03:39,00:01:28,05:54:59
+ironman-70.3-singapore-20110320.csv,48,Sharon Khoo,28,---,SGP,00:53:38,03:09:28,02:46:10,00:04:36,00:03:36,06:57:28
+ironman-70.3-singapore-20110320.csv,49,Hwee Li Tay,28,---,SGP,00:56:16,02:58:37,02:12:54,00:03:48,00:01:36,06:13:11
+ironman-70.3-singapore-20110320.csv,50,Jessica Silva,28,---,PHL,01:02:46,02:52:21,02:31:34,00:04:05,00:02:17,06:33:03
+ironman-70.3-singapore-20110320.csv,51,Puishan Chen,25,---,SGP,00:51:26,03:00:04,02:10:08,00:04:11,00:02:15,06:08:04
+ironman-70.3-singapore-20110320.csv,52,Jaslyn Choong,29,---,SGP,00:51:02,02:58:11,02:42:01,00:05:14,00:03:10,06:39:38
+ironman-70.3-singapore-20110320.csv,53,Yolanda Mace,25,---,AUS,00:56:32,02:45:47,02:08:33,00:04:15,00:02:10,05:57:17
+ironman-70.3-singapore-20110320.csv,54,Adeline Lu,28,---,SGP,01:03:47,02:51:06,02:14:40,00:05:09,00:02:01,06:16:43
+ironman-70.3-singapore-20110320.csv,55,Vanessa Tang,25,---,SGP,00:49:53,02:53:57,02:01:27,00:05:15,00:02:26,05:52:58
+ironman-70.3-singapore-20110320.csv,56,Chermaine Fung,26,---,SGP,00:41:49,02:55:08,02:27:32,00:04:17,00:02:38,06:11:24
+ironman-70.3-singapore-20110320.csv,57,Samantha Anderson,27,---,GBR,00:39:14,02:53:51,01:57:59,00:02:57,00:01:33,05:35:34
+ironman-70.3-singapore-20110320.csv,58,Kelly Nagy,---,Hawaii,USA,00:56:11,02:59:22,02:21:19,00:04:15,00:02:02,06:23:09
+ironman-70.3-singapore-20110320.csv,59,Rebecca Corson,26,AP,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,60,Cariandra Hall,27,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,61,Chris Williams,34,---,GBR,00:52:13,02:51:33,02:00:14,00:02:46,00:01:14,05:48:00
+ironman-70.3-singapore-20110320.csv,62,Rebecca Finlayson,33,VIC,AUS,00:43:49,02:51:44,02:20:48,00:03:27,00:02:43,06:02:31
+ironman-70.3-singapore-20110320.csv,63,Kelly Mccombie,31,WA,AUS,00:40:18,---,01:46:06,---,03:11:31,04:57:37
+ironman-70.3-singapore-20110320.csv,64,Robyn Hartley,32,WA,AUS,00:45:05,02:36:38,01:59:36,00:03:07,00:01:21,05:25:47
+ironman-70.3-singapore-20110320.csv,65,Nicola Valentine,29,---,NZL,00:44:07,02:34:38,01:56:54,00:02:51,00:01:01,05:19:31
+ironman-70.3-singapore-20110320.csv,66,Amanda Edelhart,32,Seoul,USA,00:58:21,03:09:05,02:30:48,00:04:56,00:02:58,06:46:08
+ironman-70.3-singapore-20110320.csv,67,Luke Fletcher,33,IL,GBR,00:46:31,02:52:46,02:05:37,00:03:15,00:01:57,05:50:06
+ironman-70.3-singapore-20110320.csv,68,Hoi-Yin Liu,34,---,CAN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,69,Dandan Zhu,30,---,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,70,Deborah Lauren Hanley,31,---,GBR,00:45:01,02:51:38,02:18:42,00:04:46,00:02:26,06:02:33
+ironman-70.3-singapore-20110320.csv,71,Catherine Sen,34,---,GBR,00:41:50,02:44:43,02:15:58,00:05:07,00:03:01,05:50:39
+ironman-70.3-singapore-20110320.csv,72,Julia Stanton,31,---,GBR,00:50:10,03:15:10,02:19:04,00:05:41,00:08:27,06:38:32
+ironman-70.3-singapore-20110320.csv,73,Nerida Rigg,33,---,AUS,00:45:54,02:44:27,02:10:13,00:02:46,00:02:34,05:45:54
+ironman-70.3-singapore-20110320.csv,74,Shilpa Garg,31,NY,IND,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,75,Linda Dabley,34,---,AUS,00:44:03,03:13:42,02:41:50,00:04:20,00:03:16,06:47:11
+ironman-70.3-singapore-20110320.csv,76,Natasha Buckley,---,Auckland,NZL,00:47:34,02:35:43,01:43:28,00:02:53,00:01:27,05:11:05
+ironman-70.3-singapore-20110320.csv,77,Jennifer Gibbons,---,---,NZL,00:45:03,---,---,---,---,DNF
+ironman-70.3-singapore-20110320.csv,78,Cinderella Dermawan,34,---,IDN,01:09:44,02:59:51,02:27:52,00:05:03,00:03:01,06:45:31
+ironman-70.3-singapore-20110320.csv,79,Jane Loo,30,---,SGP,00:56:53,03:03:38,02:32:15,00:04:34,00:03:02,06:40:22
+ironman-70.3-singapore-20110320.csv,80,Deirdre Sim,30,---,SGP,01:00:56,03:02:34,02:42:10,00:04:09,00:01:50,06:51:39
+ironman-70.3-singapore-20110320.csv,81,Nicole Wee,34,---,SGP,00:54:50,02:56:50,02:23:25,00:05:41,00:02:41,06:23:27
+ironman-70.3-singapore-20110320.csv,82,Meihan Boey,33,---,SGP,01:14:19,03:43:11,02:55:57,00:05:58,00:03:47,08:03:12
+ironman-70.3-singapore-20110320.csv,83,Desiree Koh,33,---,SGP,01:21:56,03:11:14,02:10:44,00:05:39,00:06:10,06:55:43
+ironman-70.3-singapore-20110320.csv,84,Gia Yee Chau,30,---,SGP,00:51:34,03:01:16,02:11:36,00:04:04,00:02:39,06:11:09
+ironman-70.3-singapore-20110320.csv,85,Kirsten Koh,31,---,SGP,01:00:24,02:50:35,02:19:14,00:03:38,00:02:18,06:16:09
+ironman-70.3-singapore-20110320.csv,86,Orla Gilmore,32,---,GBR,00:44:58,02:50:40,02:05:17,00:03:51,00:01:29,05:46:15
+ironman-70.3-singapore-20110320.csv,87,Rebecca Round,30,---,AUS,00:34:07,02:55:54,02:04:06,00:03:30,00:01:41,05:39:18
+ironman-70.3-singapore-20110320.csv,88,Esther Chua,34,---,SGP,01:14:27,03:17:34,03:24:45,00:06:42,00:05:44,08:09:12
+ironman-70.3-singapore-20110320.csv,89,Lindsay Lanham,34,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,90,Caroline Chok,33,---,SGP,00:56:46,03:21:41,03:13:19,00:04:19,00:03:21,07:39:26
+ironman-70.3-singapore-20110320.csv,91,Angeline Tan,32,---,MYS,01:06:58,03:01:16,02:21:46,00:05:12,00:02:57,06:38:09
+ironman-70.3-singapore-20110320.csv,92,Jeneane Paxson,34,---,USA,00:55:59,02:51:17,02:15:13,00:03:46,00:01:52,06:08:07
+ironman-70.3-singapore-20110320.csv,93,Silvana Gomez,29,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,94,Jocelyn Kok,31,---,SGP,01:00:04,03:35:01,03:07:16,00:04:42,00:02:36,07:49:39
+ironman-70.3-singapore-20110320.csv,95,June Tan,31,---,SGP,00:48:17,02:51:12,01:59:43,00:03:34,00:01:39,05:44:25
+ironman-70.3-singapore-20110320.csv,96,Shi Yin Chin,33,---,MYS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,97,Aileen Tan,33,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,98,Annabel Siow,30,---,SGP,01:08:38,03:34:20,02:28:55,00:07:45,00:03:38,07:23:16
+ironman-70.3-singapore-20110320.csv,99,Teodora Ilieva,32,---,BGR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,100,Anne Golden,29,FL,USA,01:10:10,03:28:40,02:56:20,00:06:00,00:05:10,07:46:20
+ironman-70.3-singapore-20110320.csv,101,Emma Morris,32,---,GBR,00:50:42,02:48:10,02:03:11,00:04:14,00:02:33,05:48:50
+ironman-70.3-singapore-20110320.csv,102,Amy Yeoman,37,---,NZL,00:46:34,02:59:15,02:02:48,00:04:02,00:02:13,05:54:52
+ironman-70.3-singapore-20110320.csv,103,Georgia Bamber,37,NSW,AUS,00:43:24,02:53:58,01:57:55,00:03:49,00:01:40,05:40:46
+ironman-70.3-singapore-20110320.csv,104,Julie Kenny,38,---,AUS,01:01:28,03:03:25,02:58:09,00:06:19,00:02:54,07:12:15
+ironman-70.3-singapore-20110320.csv,105,Michael Backshall,51,WA,AUS,00:42:04,02:45:28,---,00:03:34,---,DNF
+ironman-70.3-singapore-20110320.csv,106,Ryoko Jones,34,---,JPN,00:45:46,02:49:11,01:52:27,00:03:00,00:01:52,05:32:16
+ironman-70.3-singapore-20110320.csv,107,Kathy Mckay,37,---,AUS,00:45:48,02:51:44,02:09:46,00:03:14,00:02:16,05:52:48
+ironman-70.3-singapore-20110320.csv,108,Jennifer Armstrong,-1,---,AUS,00:57:37,02:58:49,02:17:49,00:04:30,00:02:42,06:21:27
+ironman-70.3-singapore-20110320.csv,109,Fleur Marinkovich,---,Queensland,AUS,00:40:51,02:53:53,02:34:39,00:03:44,00:03:06,06:16:13
+ironman-70.3-singapore-20110320.csv,110,Rachel Russell,36,WA,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,111,Stephanie Condon,35,---,AUS,00:45:47,02:41:42,01:51:00,00:03:34,00:02:58,05:25:01
+ironman-70.3-singapore-20110320.csv,112,Magali Josselin,36,Bangkok,FRA,00:58:42,03:04:03,01:59:35,00:03:53,00:03:08,06:09:21
+ironman-70.3-singapore-20110320.csv,113,Regina Brenner,38,---,DEU,01:09:00,02:50:13,02:12:13,00:05:14,00:03:17,06:19:57
+ironman-70.3-singapore-20110320.csv,114,Lisa Jones,38,---,GBR,00:45:57,02:36:55,01:48:46,00:02:47,00:01:06,05:15:31
+ironman-70.3-singapore-20110320.csv,115,Julie Shelley,34,NSW,USA,00:40:38,02:28:22,01:48:33,00:02:57,00:01:07,05:01:37
+ironman-70.3-singapore-20110320.csv,116,Nora Senn,34,---,CHE,00:48:24,02:32:19,02:00:19,00:04:24,00:01:38,05:27:04
+ironman-70.3-singapore-20110320.csv,117,Claudia Soldati,38,---,CHE,00:42:14,02:25:48,02:02:19,00:03:27,00:01:34,05:15:22
+ironman-70.3-singapore-20110320.csv,118,Beatrice Desseigne,37,---,FRA,00:49:51,02:47:32,02:03:52,00:04:01,00:01:32,05:46:48
+ironman-70.3-singapore-20110320.csv,119,Chihro Endo,---,IBARAKI,JPN,00:44:05,02:54:50,01:44:11,00:05:05,00:02:20,05:30:31
+ironman-70.3-singapore-20110320.csv,120,Kana Matsumoto,37,---,JPN,00:38:56,02:43:08,01:39:49,00:02:08,00:01:06,05:05:07
+ironman-70.3-singapore-20110320.csv,121,Chiaki Shigaki,37,---,JPN,00:40:57,02:44:04,01:39:38,00:02:51,00:02:02,05:09:32
+ironman-70.3-singapore-20110320.csv,122,Naoko Enatsu,---,Japan,JPN,00:43:08,02:43:22,01:55:05,00:04:01,00:03:25,05:29:01
+ironman-70.3-singapore-20110320.csv,123,Maki Iokibe,35,東京都,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,124,Amanda Carpo,36,CA,PHL,00:53:27,02:26:41,01:48:56,00:03:29,00:01:11,05:13:44
+ironman-70.3-singapore-20110320.csv,126,Donna Distant,39,---,SGP,01:03:23,02:54:29,02:31:12,00:04:30,00:02:06,06:35:40
+ironman-70.3-singapore-20110320.csv,127,Angela Locke,36,---,CAN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,128,Ali Fowler,37,---,GBR,00:48:05,03:05:17,---,00:03:26,00:02:20,DNF
+ironman-70.3-singapore-20110320.csv,129,Amy Long,37,---,CAN,00:53:37,03:25:40,03:00:25,00:06:55,00:05:22,07:31:59
+ironman-70.3-singapore-20110320.csv,130,Viviana Rimoldi,38,---,ITA,00:48:05,03:01:20,02:21:17,00:05:08,00:02:21,06:18:11
+ironman-70.3-singapore-20110320.csv,131,Joanne Pizel,36,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,132,Chris Voo,38,---,SGP,01:10:24,03:01:19,02:42:05,00:05:27,00:05:56,07:05:11
+ironman-70.3-singapore-20110320.csv,133,Megan Kinder,38,---,AUS,00:54:13,02:31:51,02:09:16,00:04:24,00:01:23,05:41:07
+ironman-70.3-singapore-20110320.csv,134,Viviana Nicolini,36,---,PER,00:53:16,03:04:47,02:15:48,00:05:49,00:02:21,06:22:01
+ironman-70.3-singapore-20110320.csv,135,Lisa Kilday,35,DC,USA,00:54:28,03:00:28,---,00:03:26,00:03:36,DNF
+ironman-70.3-singapore-20110320.csv,136,Cheng Yin Tan,35,---,SGP,00:52:34,02:29:02,01:58:01,00:03:50,00:01:45,DNF
+ironman-70.3-singapore-20110320.csv,137,Janine Denning,37,---,AUS,00:47:57,02:44:04,01:52:16,00:03:10,00:01:32,05:28:59
+ironman-70.3-singapore-20110320.csv,138,Lisa Akeroyd,35,---,THA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,139,Mayuree Maidaeng,35,---,THA,00:46:51,02:34:20,---,00:02:37,00:01:22,DNF
+ironman-70.3-singapore-20110320.csv,140,Ami Angell,36,OR,USA,00:52:42,02:59:53,02:13:40,00:04:21,00:03:16,06:13:52
+ironman-70.3-singapore-20110320.csv,141,Caroline Clark,40,WA,AUS,00:53:35,02:49:17,02:13:10,00:03:39,00:03:05,06:02:46
+ironman-70.3-singapore-20110320.csv,142,Ursula Muhsfeldt,42,---,AUS,01:17:11,01:20:38,---,00:05:09,00:01:12,DNF
+ironman-70.3-singapore-20110320.csv,143,Emma Gillard,---,Western Australia,AUS,00:49:41,02:32:06,01:42:58,00:02:21,00:01:45,05:08:51
+ironman-70.3-singapore-20110320.csv,144,Rachael Cloros,42,---,AUS,00:48:24,02:43:06,01:54:40,00:03:56,00:01:18,05:31:24
+ironman-70.3-singapore-20110320.csv,145,Audrey Schroeder,43,---,USA,00:59:12,03:12:18,02:32:47,00:05:59,00:05:12,06:55:28
+ironman-70.3-singapore-20110320.csv,146,Wendy Radtke,41,---,USA,00:52:36,03:03:53,02:06:40,00:04:19,00:02:15,06:09:43
+ironman-70.3-singapore-20110320.csv,147,Elsebeth Spangsberg,41,Other,DNK,00:43:51,02:38:11,01:48:31,00:02:59,00:01:40,05:15:12
+ironman-70.3-singapore-20110320.csv,148,Astrid Starck,41,---,DEU,00:48:20,02:53:19,02:25:46,00:03:50,00:01:42,06:12:57
+ironman-70.3-singapore-20110320.csv,149,Rebecca Kynaston,---,Lantau Island,GBR,00:41:22,02:33:16,01:52:06,00:03:20,00:01:51,05:11:55
+ironman-70.3-singapore-20110320.csv,150,Karen Fairley,40,---,ZAF,00:40:54,02:42:40,01:57:27,00:04:05,00:02:24,05:27:30
+ironman-70.3-singapore-20110320.csv,151,Suma Rao,42,---,IND,01:12:11,03:17:42,02:53:13,00:07:45,00:05:56,07:36:47
+ironman-70.3-singapore-20110320.csv,152,Hiroe Taniai,42,---,JPN,00:45:28,02:54:13,02:31:20,00:03:39,00:02:43,06:17:23
+ironman-70.3-singapore-20110320.csv,153,Chiaki Takahashi,40,Intl State,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,154,Yokoyama Shiho,42,Tokyo,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,155,Doris Shum Seward,41,WA,USA,00:56:43,02:44:59,02:26:36,00:04:05,00:01:54,06:14:17
+ironman-70.3-singapore-20110320.csv,156,Kerri Small,41,NSW,NZL,00:44:19,02:54:53,02:38:22,00:04:14,00:02:09,06:23:57
+ironman-70.3-singapore-20110320.csv,158,Wendy Yap,39,---,SGP,00:55:06,02:44:47,04:20:06,00:04:13,00:02:57,DNF
+ironman-70.3-singapore-20110320.csv,159,Beatrice Joliot,41,---,FRA,00:56:45,02:37:16,02:10:29,00:03:40,00:01:43,05:49:53
+ironman-70.3-singapore-20110320.csv,160,Masami Noro Bell,39,---,FRA,00:52:38,02:41:30,02:17:10,00:03:36,00:01:38,05:56:32
+ironman-70.3-singapore-20110320.csv,161,Helen Owain,40,---,SGP,00:49:57,02:55:32,02:33:53,00:05:55,00:02:11,06:27:28
+ironman-70.3-singapore-20110320.csv,162,Sara Wallin,39,---,SWE,00:57:34,03:18:12,02:30:22,00:08:54,00:06:39,07:01:41
+ironman-70.3-singapore-20110320.csv,163,Nathalie Leger,40,---,FRA,00:54:02,02:55:20,02:00:26,00:03:32,00:01:32,05:54:52
+ironman-70.3-singapore-20110320.csv,164,Stephanie Barry,40,---,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,165,Jodie Mcleod,45,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,166,Angelika Hannon,49,QLD,AUS,00:46:02,03:05:47,02:29:29,00:04:06,00:02:57,06:28:21
+ironman-70.3-singapore-20110320.csv,167,Debra Clements,---,New South Wales,AUS,00:45:57,02:51:09,02:46:30,00:04:32,00:02:49,06:30:57
+ironman-70.3-singapore-20110320.csv,168,Michelle Cochrane,47,---,AUS,00:45:53,02:40:48,02:08:06,00:03:20,00:01:34,05:39:41
+ironman-70.3-singapore-20110320.csv,169,Kathy Mctaggart,48,---,AUS,00:42:37,02:44:34,02:22:54,00:03:54,00:03:25,05:57:24
+ironman-70.3-singapore-20110320.csv,170,Sonia D'Angelo-Vibert,48,NS,CAN,01:01:53,03:19:07,02:48:22,00:04:42,00:04:35,07:18:39
+ironman-70.3-singapore-20110320.csv,171,Tracy Quin,45,QLD,AUS,00:48:35,02:48:38,01:59:43,00:02:45,00:01:09,05:40:50
+ironman-70.3-singapore-20110320.csv,172,Anne-Sophie Wurtz,44,---,FRA,00:40:39,02:42:42,02:06:02,00:02:31,00:01:14,05:33:08
+ironman-70.3-singapore-20110320.csv,173,Joey-Lynn Musselman,44,BC,CAN,00:44:35,02:39:38,01:47:28,00:03:07,00:01:07,05:15:55
+ironman-70.3-singapore-20110320.csv,174,Laura Walsh,46,AB,CAN,00:44:01,02:27:01,01:46:15,00:02:54,00:01:12,05:01:23
+ironman-70.3-singapore-20110320.csv,175,Lindsey Coen-Fernandez,46,---,USA,00:55:53,03:07:23,02:43:37,00:04:56,00:04:13,06:56:02
+ironman-70.3-singapore-20110320.csv,176,Sian Abate,45,---,GBR,00:54:23,02:38:06,01:44:04,00:03:01,00:01:26,05:21:00
+ironman-70.3-singapore-20110320.csv,177,Lisa Johnson,47,---,USA,00:42:17,03:20:29,02:28:58,00:06:12,00:04:52,06:42:48
+ironman-70.3-singapore-20110320.csv,178,Noriko Kojima,45,愛知県,JPN,00:50:04,03:00:07,01:57:48,00:04:24,00:01:52,05:54:15
+ironman-70.3-singapore-20110320.csv,179,Yoshimi Kumazaki,45,Intl State,JPN,00:59:17,02:35:07,02:27:04,00:03:44,00:02:19,06:07:31
+ironman-70.3-singapore-20110320.csv,180,Atsuko Tsukamoto,46,Chiba,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,181,Lay Keong Tan,45,---,SGP,00:55:43,02:58:18,02:06:56,00:03:51,00:02:42,06:07:30
+ironman-70.3-singapore-20110320.csv,182,Ruth Stubbs,45,---,AUS,00:48:40,02:38:39,02:12:45,00:03:32,00:01:57,05:45:33
+ironman-70.3-singapore-20110320.csv,183,Belinda Foo,46,---,SGP,01:03:37,02:58:23,02:28:20,00:05:08,00:05:19,06:40:47
+ironman-70.3-singapore-20110320.csv,184,Lisze Lee,47,---,SGP,00:56:14,02:58:15,03:22:08,00:06:35,00:05:10,07:28:22
+ironman-70.3-singapore-20110320.csv,185,Elizabeth Mcdougall,49,BC,CAN,00:49:39,03:04:25,02:52:02,00:03:45,00:03:03,06:52:54
+ironman-70.3-singapore-20110320.csv,186,Yen-Yen Tan,45,---,SGP,01:16:04,02:59:17,02:29:53,00:05:15,00:03:41,06:54:10
+ironman-70.3-singapore-20110320.csv,187,Mika Kume,49,---,---,00:56:53,02:40:42,01:52:55,00:04:02,00:02:07,05:36:39
+ironman-70.3-singapore-20110320.csv,188,Tanya Lee-Parker,45,Hanoi,NZL,00:35:21,02:33:58,01:53:18,00:02:09,00:01:23,05:06:09
+ironman-70.3-singapore-20110320.csv,189,Jessica Tang,44,---,TWN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,190,Manida Zinmerman,44,CA,THA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,191,Sue Thornley,---,PHUKET,AUS,00:44:35,02:52:57,02:10:21,00:02:55,00:01:19,05:52:07
+ironman-70.3-singapore-20110320.csv,192,Barb Wood,52,WA,AUS,00:46:04,02:45:24,01:48:07,00:03:32,00:01:33,05:24:40
+ironman-70.3-singapore-20110320.csv,193,Kim Foster,52,---,AUS,00:48:41,02:50:50,02:11:51,00:03:57,00:02:08,05:57:27
+ironman-70.3-singapore-20110320.csv,194,Gloria Stewart,50,WA,AUS,00:46:02,02:45:07,02:12:55,00:03:51,00:02:09,05:50:04
+ironman-70.3-singapore-20110320.csv,195,Susanna Webber,50,Other,AUS,00:44:11,02:42:00,01:56:56,00:03:03,00:01:46,05:27:56
+ironman-70.3-singapore-20110320.csv,196,Andrea Gardiner,---,New South Wales,AUS,00:46:33,02:35:49,02:33:15,00:03:13,00:03:07,06:01:57
+ironman-70.3-singapore-20110320.csv,197,Masako Sasaki,51,kanagawa,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,198,Wendy-Natalie Wilcox,---,Singapore,GBR,00:54:18,02:34:59,01:52:15,00:02:41,00:01:18,05:25:31
+ironman-70.3-singapore-20110320.csv,199,Pauline Yong,50,---,GBR,00:59:05,02:55:37,02:35:47,00:03:29,00:03:47,06:37:45
+ironman-70.3-singapore-20110320.csv,200,Evelyn Janik,49,CH,DEU,00:49:45,02:37:39,02:18:29,00:03:28,00:02:26,05:51:47
+ironman-70.3-singapore-20110320.csv,201,Jacqueline Saffery,50,---,GBR,00:56:21,02:41:19,02:02:15,00:03:51,00:01:21,05:45:07
+ironman-70.3-singapore-20110320.csv,202,Robyn Stanley,---,QLD,AUS,00:49:50,03:07:35,02:34:36,00:03:44,00:01:54,06:37:39
+ironman-70.3-singapore-20110320.csv,203,Pamela Williams,58,WA,AUS,00:47:13,02:59:31,02:27:55,00:05:10,00:02:32,06:22:21
+ironman-70.3-singapore-20110320.csv,204,Mariko Kirihara,59,Okinawa,JPN,00:50:56,03:32:54,---,00:06:59,00:08:33,DNF
+ironman-70.3-singapore-20110320.csv,205,Swee Lan Ong,54,---,SGP,01:00:31,03:41:36,02:46:57,00:04:55,00:01:49,07:35:48
+ironman-70.3-singapore-20110320.csv,206,Lenore Mclaughlin,---,Singapore,USA,01:21:34,03:21:23,02:53:29,00:06:44,00:04:07,07:47:17
+ironman-70.3-singapore-20110320.csv,207,Scott Pontague,21,WA,AUS,00:36:01,02:23:54,---,00:02:28,00:00:59,DNF
+ironman-70.3-singapore-20110320.csv,208,Andrew Tyack,21,---,AUS,00:33:42,02:12:49,01:40:38,00:01:59,00:00:45,04:29:53
+ironman-70.3-singapore-20110320.csv,209,Amos Gollach,21,WA,AUS,00:42:38,02:22:55,01:48:32,00:02:50,00:01:18,04:58:13
+ironman-70.3-singapore-20110320.csv,210,Matthew Burton,---,Western Australia,AUS,00:33:54,02:10:12,01:32:39,00:02:14,00:00:42,04:19:41
+ironman-70.3-singapore-20110320.csv,211,Mark Luckin,21,---,AUS,00:35:25,02:24:49,01:31:34,00:02:01,00:00:51,04:34:40
+ironman-70.3-singapore-20110320.csv,212,Marc Sim,---,Western Australia,AUS,00:43:00,02:36:42,02:49:10,00:03:38,00:05:41,06:18:11
+ironman-70.3-singapore-20110320.csv,213,David Schilling,24,---,DEU,00:54:27,03:02:13,01:56:22,00:06:58,00:03:46,06:03:46
+ironman-70.3-singapore-20110320.csv,214,Stephanus Sulimro,23,---,IDN,01:01:56,---,---,00:07:56,---,DNF
+ironman-70.3-singapore-20110320.csv,215,Yusuke Matsuki,23,---,JPN,00:58:25,03:16:26,02:44:28,00:07:42,00:02:17,07:09:18
+ironman-70.3-singapore-20110320.csv,216,Junki Iwata,19,---,JPN,00:42:55,02:35:21,01:59:14,00:02:46,00:01:26,05:21:42
+ironman-70.3-singapore-20110320.csv,217,Joel Quek,21,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,218,Benjamin Lau,22,---,SGP,00:43:29,02:29:19,01:54:47,00:02:37,00:01:35,05:11:47
+ironman-70.3-singapore-20110320.csv,219,Yanming Huang,23,---,SGP,00:43:32,02:27:51,02:07:42,00:02:34,00:01:14,05:22:53
+ironman-70.3-singapore-20110320.csv,220,Derrick Lim,23,---,SGP,01:11:37,02:57:45,02:55:11,00:04:01,00:04:25,07:12:59
+ironman-70.3-singapore-20110320.csv,221,Ryan Tan,20,---,SGP,00:39:25,---,---,00:05:24,---,DNF
+ironman-70.3-singapore-20110320.csv,222,Joel Kho,21,---,SGP,00:59:53,02:33:01,02:34:28,00:04:11,00:03:04,06:14:37
+ironman-70.3-singapore-20110320.csv,223,Sky Kwah,21,---,SGP,01:00:09,---,---,00:04:55,---,DNF
+ironman-70.3-singapore-20110320.csv,224,Clement Chow,22,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,225,Hanxiang Yu,22,---,SGP,00:53:12,02:34:56,02:19:56,00:03:09,00:01:33,05:52:46
+ironman-70.3-singapore-20110320.csv,226,Mark Lim Jian Wei,23,---,SGP,00:46:35,02:49:01,02:00:54,00:04:02,00:02:03,05:42:35
+ironman-70.3-singapore-20110320.csv,227,Wai Pang Kenneth Taw,23,---,SGP,00:57:29,02:34:03,02:14:19,00:04:55,00:02:30,05:53:16
+ironman-70.3-singapore-20110320.csv,228,Jeremy Chow,18,---,SGP,01:03:49,03:01:22,02:34:39,00:03:53,00:01:56,06:45:39
+ironman-70.3-singapore-20110320.csv,229,Arnold Ng,23,---,SGP,00:49:30,03:02:23,02:50:17,00:04:06,00:04:05,06:50:21
+ironman-70.3-singapore-20110320.csv,230,Jing Zhi Chua,20,---,SGP,00:42:41,02:29:32,01:52:49,00:03:18,00:01:45,05:10:05
+ironman-70.3-singapore-20110320.csv,231,Kai Xiang Lim,21,---,SGP,00:52:56,03:03:58,02:55:44,00:04:04,00:04:29,07:01:11
+ironman-70.3-singapore-20110320.csv,232,Danson Cheong,21,---,SGP,00:49:52,02:30:26,02:43:07,00:03:22,00:03:20,06:10:07
+ironman-70.3-singapore-20110320.csv,233,Chen Wei Poh,22,---,SGP,00:48:21,02:43:36,02:42:05,00:03:53,00:01:26,06:19:21
+ironman-70.3-singapore-20110320.csv,234,Reave Ng,22,---,SGP,00:53:03,02:36:24,02:29:28,00:05:59,00:07:36,06:12:30
+ironman-70.3-singapore-20110320.csv,235,Augustine Tan Chengfu,19,SG,MYS,01:03:37,03:02:43,02:02:13,00:04:56,00:03:04,06:16:33
+ironman-70.3-singapore-20110320.csv,236,Daniel Lee,22,---,SGP,01:03:36,02:50:30,02:42:59,00:03:52,00:03:40,06:44:37
+ironman-70.3-singapore-20110320.csv,237,Tee Wei Teo,23,---,SGP,00:57:00,02:33:17,02:32:25,00:05:33,00:01:52,06:10:07
+ironman-70.3-singapore-20110320.csv,238,John Chew,22,---,SGP,01:03:06,02:35:16,01:42:09,00:04:18,00:01:39,05:26:28
+ironman-70.3-singapore-20110320.csv,239,Xin Wei Chan,24,---,SGP,00:57:21,02:48:34,02:44:42,00:05:06,00:03:51,06:39:34
+ironman-70.3-singapore-20110320.csv,240,Victor Mah,22,---,SGP,00:58:53,02:47:49,02:28:55,00:03:34,00:02:55,06:22:06
+ironman-70.3-singapore-20110320.csv,241,Dex Cheong,22,---,SGP,00:42:20,02:27:09,01:37:32,00:02:58,00:01:22,04:51:21
+ironman-70.3-singapore-20110320.csv,242,Kai Xiang Yong,21,---,SGP,01:10:57,02:50:33,02:54:54,00:04:01,00:03:58,07:04:23
+ironman-70.3-singapore-20110320.csv,243,Wai Kit Lam,21,---,SGP,00:51:11,02:51:26,01:30:45,00:03:25,00:01:33,05:18:20
+ironman-70.3-singapore-20110320.csv,244,Thomas De Silva,18,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,245,Eugene Lim Jia Jun Eugene,---,Singapore,SGP,00:43:09,02:39:01,02:02:19,00:02:58,00:01:50,05:29:17
+ironman-70.3-singapore-20110320.csv,246,Amir Yusof,20,---,SGP,01:04:07,02:52:24,02:10:30,00:03:33,00:01:08,06:11:42
+ironman-70.3-singapore-20110320.csv,247,Jia Jie Lim,23,---,SGP,00:39:59,02:20:52,02:33:27,00:03:45,00:02:05,05:40:08
+ironman-70.3-singapore-20110320.csv,248,Benedict Ho,20,VIC,SGP,00:41:15,03:06:02,02:18:28,00:03:31,00:02:36,06:11:52
+ironman-70.3-singapore-20110320.csv,249,Yiheng Hong,24,---,SGP,00:55:55,03:04:16,02:38:42,00:02:57,00:02:51,06:44:41
+ironman-70.3-singapore-20110320.csv,250,Brendan Lee,22,---,SGP,00:53:43,02:28:46,01:58:43,00:02:57,00:02:06,05:26:15
+ironman-70.3-singapore-20110320.csv,251,Alvin Quek,23,FL,SGP,00:59:05,02:44:51,02:41:59,00:04:21,00:04:34,06:34:50
+ironman-70.3-singapore-20110320.csv,252,Alvin Lee,---,Singapore,SGP,01:04:23,02:27:43,01:48:49,00:03:24,00:00:59,05:25:18
+ironman-70.3-singapore-20110320.csv,253,Iztok Fister,21,Stajerska,SVN,00:44:48,02:15:51,01:42:44,00:03:06,00:01:03,04:47:32
+ironman-70.3-singapore-20110320.csv,254,Grant Preddy,24,ACT,AUS,00:34:41,02:22:04,01:34:26,00:02:14,00:00:49,04:34:14
+ironman-70.3-singapore-20110320.csv,255,Justin Tranter,26,NT,AUS,00:42:27,02:23:39,02:14:43,00:02:40,00:01:04,05:24:33
+ironman-70.3-singapore-20110320.csv,256,David Smith,---,New South Wales,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,257,Thomas Bakowski,30,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,258,Nick Foster,27,NSW,AUS,00:58:39,02:43:09,03:02:25,00:06:20,00:04:58,06:55:31
+ironman-70.3-singapore-20110320.csv,259,Simon Rate,29,WA,AUS,00:38:26,02:21:56,03:00:07,00:03:10,00:01:27,06:05:06
+ironman-70.3-singapore-20110320.csv,260,Md Ismael Md Samid,---,---,BRN,00:48:22,02:32:00,02:03:23,00:03:43,00:02:33,05:30:01
+ironman-70.3-singapore-20110320.csv,261,Zaeidi Haji Berudin,28,NA,BRN,01:29:36,02:30:56,02:26:52,00:02:57,00:03:18,DNF
+ironman-70.3-singapore-20110320.csv,262,Michael Pamaputera,26,ON,CAN,01:04:57,03:32:50,02:44:20,00:04:14,00:01:29,07:27:50
+ironman-70.3-singapore-20110320.csv,263,Bastian D Hling,---,Hesse,DEU,00:50:36,02:22:18,01:36:47,00:02:14,00:01:10,04:53:05
+ironman-70.3-singapore-20110320.csv,264,Zhen Hao Wan,25,---,HKG,00:38:27,02:19:22,01:47:27,00:02:07,00:00:49,04:48:12
+ironman-70.3-singapore-20110320.csv,265,Scott Hooper,27,---,GBR,01:06:29,02:43:41,01:48:51,00:05:26,00:02:40,05:47:07
+ironman-70.3-singapore-20110320.csv,266,Scott Stanton,27,---,GBR,00:37:46,02:23:52,01:43:40,00:02:33,00:01:42,04:49:33
+ironman-70.3-singapore-20110320.csv,267,Jason Blejwas,29,NC,USA,00:52:37,02:44:09,02:08:38,00:06:29,00:03:48,05:55:41
+ironman-70.3-singapore-20110320.csv,268,Tejvansh Thakral,25,---,IND,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,269,Sachin Venkateshaiah,27,---,IND,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,270,Joseph Situwali,27,---,IDN,01:03:24,03:33:53,---,00:04:44,00:03:03,DNF
+ironman-70.3-singapore-20110320.csv,271,Alexander Tanti,29,---,GRC,00:38:03,02:26:17,01:54:25,00:03:25,00:01:59,05:04:09
+ironman-70.3-singapore-20110320.csv,272,Yoshinori Ko,---,Tokyo,JPN,00:38:34,02:31:43,01:41:18,00:02:52,00:01:00,04:55:27
+ironman-70.3-singapore-20110320.csv,273,Toby Parkinson,29,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,274,Naofumi Aoshima,24,---,JPN,00:48:22,02:38:30,02:19:12,00:03:14,00:01:50,05:51:08
+ironman-70.3-singapore-20110320.csv,275,Takuya Hishinuma,25,Tokyo,JPN,00:49:30,02:49:19,02:52:30,00:02:40,00:01:19,06:35:18
+ironman-70.3-singapore-20110320.csv,276,Reza Kunimoto,26,Discovery Bay,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,277,Kevin Siah,27,QLD,MYS,00:39:51,02:34:09,01:42:49,00:02:50,00:01:09,05:00:48
+ironman-70.3-singapore-20110320.csv,278,Xeng Tjun Mong,---,Kuala Lumpur,MYS,01:01:49,02:59:44,03:23:26,00:05:00,00:03:14,07:33:13
+ironman-70.3-singapore-20110320.csv,279,Chee Siong Yue,26,---,MYS,00:57:27,03:07:01,02:48:33,00:06:37,00:04:32,07:04:10
+ironman-70.3-singapore-20110320.csv,280,Bryan Ng,27,selangor ,MYS,01:05:29,02:46:54,02:42:26,00:05:02,00:08:01,06:47:52
+ironman-70.3-singapore-20110320.csv,281,Ariestides Rosales,28,---,PHL,01:25:16,02:31:31,03:15:10,00:06:38,00:08:58,DNF
+ironman-70.3-singapore-20110320.csv,282,Rossini Francisco,27,---,PHL,00:46:02,02:58:07,02:37:16,00:04:17,00:02:25,06:28:07
+ironman-70.3-singapore-20110320.csv,283,Joseph Ramirez,---,Metro Manila,PHL,00:50:45,02:23:41,01:59:31,00:05:02,00:01:48,05:20:47
+ironman-70.3-singapore-20110320.csv,284,Felipe Sajulga,29,Bukidnon,PHL,00:49:23,02:26:57,01:42:52,00:03:19,00:01:44,05:04:15
+ironman-70.3-singapore-20110320.csv,285,Erick Andrew Olonan,29,Intl State,PHL,03:54:24,02:52:28,02:24:31,---,00:03:08,05:54:11
+ironman-70.3-singapore-20110320.csv,286,Kurt Gutierrez,28,---,PHL,01:04:07,02:50:35,02:22:40,00:05:07,00:03:05,06:25:34
+ironman-70.3-singapore-20110320.csv,287,Jeremy David,28,Pampanga,PHL,01:12:02,02:38:36,02:21:10,00:03:22,00:04:17,06:19:27
+ironman-70.3-singapore-20110320.csv,288,Rio Elijah Chua,26,---,SGP,00:53:22,02:39:11,02:43:21,00:03:23,00:01:27,06:20:44
+ironman-70.3-singapore-20110320.csv,289,Ashley Liew,24,---,SGP,00:45:37,02:26:16,01:33:55,00:02:45,00:01:07,04:49:40
+ironman-70.3-singapore-20110320.csv,290,Chee Tiong Chua,40,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,291,Kimson Choo,27,---,SGP,01:04:38,03:13:30,02:33:48,00:03:55,00:03:03,06:58:54
+ironman-70.3-singapore-20110320.csv,292,Mingcheng Lim,27,---,SGP,00:57:16,02:41:21,01:54:29,00:05:43,00:03:35,05:42:24
+ironman-70.3-singapore-20110320.csv,293,Joshua Guam,27,---,SGP,01:09:08,02:50:46,02:07:29,00:03:54,00:02:31,06:13:48
+ironman-70.3-singapore-20110320.csv,294,Boon Yaw Ang,---,Singapore,SGP,00:52:24,02:39:42,03:15:45,00:03:25,00:02:11,06:53:27
+ironman-70.3-singapore-20110320.csv,295,Jonathan Lim,27,SG,SGP,00:55:57,02:52:57,02:51:26,00:04:22,00:01:27,06:46:09
+ironman-70.3-singapore-20110320.csv,296,Sean Magness,26,---,SGP,00:48:29,03:21:35,02:07:10,00:04:35,00:01:11,06:23:00
+ironman-70.3-singapore-20110320.csv,297,Kang Xiang Sng,26,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,298,Vish Subramanian,25,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,299,Hariharan Sri,27,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,300,Chian Chai,28,---,SGP,00:52:26,02:46:20,02:36:51,00:05:44,00:04:19,06:25:40
+ironman-70.3-singapore-20110320.csv,301,Ken Mun Wong,26,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,302,Jerry Jiayi Toh,26,---,SGP,00:49:31,02:58:18,02:25:07,00:03:58,00:01:37,06:18:31
+ironman-70.3-singapore-20110320.csv,303,Andy Lordianto,24,"Jakarta
+Jakarta",IDN,00:41:54,02:29:31,01:33:50,00:03:27,00:01:09,04:49:51
+ironman-70.3-singapore-20110320.csv,304,Derek Koh,28,---,SGP,00:47:25,02:43:47,02:34:58,00:05:02,00:04:58,06:16:10
+ironman-70.3-singapore-20110320.csv,305,Shi'An Derek Li,28,---,SGP,00:38:35,02:27:27,01:30:13,00:02:43,00:00:59,04:39:57
+ironman-70.3-singapore-20110320.csv,306,Jonathan Robinson,27,Seef,NZL,00:52:56,02:50:39,03:20:50,00:03:23,00:03:25,07:11:13
+ironman-70.3-singapore-20110320.csv,307,Christopher Brook,27,---,GBR,00:50:18,03:03:50,02:52:30,00:05:08,00:03:54,06:55:40
+ironman-70.3-singapore-20110320.csv,308,Toshihiro Mori,28,---,SGP,01:08:46,02:51:35,01:59:40,00:04:56,00:02:27,06:07:24
+ironman-70.3-singapore-20110320.csv,309,Dennis Goh,29,---,SGP,00:54:54,02:41:13,02:45:00,00:04:26,00:03:48,06:29:21
+ironman-70.3-singapore-20110320.csv,310,Heiko Aydt,29,---,DEU,00:45:48,03:05:33,02:20:58,00:05:56,00:03:52,06:22:07
+ironman-70.3-singapore-20110320.csv,311,Terence Chong,26,---,SGP,00:58:38,03:22:30,03:18:35,00:04:31,00:02:36,07:46:50
+ironman-70.3-singapore-20110320.csv,312,Chris Colahan,29,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,313,Mohammad Dzarrin Alidin,27,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,314,Alfeo Sinogaya,---,Singapore,PHL,01:10:22,02:54:30,02:56:21,00:04:00,00:02:09,07:07:22
+ironman-70.3-singapore-20110320.csv,315,Marc Gurman,28,Londkn,GBR,01:00:52,02:54:07,02:22:50,00:05:17,00:02:09,06:25:15
+ironman-70.3-singapore-20110320.csv,316,Hengwei Kiew,26,---,SGP,00:50:25,02:49:08,03:02:34,00:04:33,00:02:23,06:49:03
+ironman-70.3-singapore-20110320.csv,317,Darwin Ponnusamy,27,---,IND,00:50:02,02:49:37,02:48:37,00:03:25,00:03:22,06:35:03
+ironman-70.3-singapore-20110320.csv,318,Jensen  Toh,27,---,SGP,00:47:37,02:43:34,02:00:09,00:04:00,00:04:53,05:40:13
+ironman-70.3-singapore-20110320.csv,319,Ben Mok,27,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,320,Zhi Yuan Lim,24,---,SGP,01:02:21,02:48:21,02:44:54,00:04:38,00:02:22,06:42:36
+ironman-70.3-singapore-20110320.csv,321,Ren Hua Ho,28,---,SGP,00:47:30,02:40:07,02:09:20,00:03:41,00:01:28,05:42:06
+ironman-70.3-singapore-20110320.csv,322,Justin Lee,25,---,SGP,00:55:50,02:53:01,02:27:02,00:03:29,00:02:38,06:22:00
+ironman-70.3-singapore-20110320.csv,323,Vincent Liew,25,---,SGP,00:50:27,02:49:27,02:34:59,00:03:30,00:03:18,06:21:41
+ironman-70.3-singapore-20110320.csv,324,James Collis,26,---,SGP,00:45:04,02:48:07,02:40:05,00:04:00,00:02:27,06:19:43
+ironman-70.3-singapore-20110320.csv,325,Jia Yong Leong,25,---,SGP,00:57:33,03:02:07,02:36:45,00:07:40,00:03:00,06:47:05
+ironman-70.3-singapore-20110320.csv,326,Terence Pan,29,---,SGP,00:53:11,02:37:15,02:28:00,00:06:04,00:02:14,06:06:44
+ironman-70.3-singapore-20110320.csv,327,Ming Yang Low,25,---,SGP,01:02:20,02:49:12,03:35:51,00:08:06,00:06:53,DNF
+ironman-70.3-singapore-20110320.csv,328,Matthew Law,27,---,GBR,00:54:32,02:30:45,02:05:51,00:03:24,00:02:23,05:36:55
+ironman-70.3-singapore-20110320.csv,329,Chan Chan,---,Singapore,SGP,00:57:01,03:42:19,01:09:26,00:06:48,00:01:55,DNF
+ironman-70.3-singapore-20110320.csv,330,Quek Hock Leong,27,SG,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,331,Denesh Thulasidharan,26,---,SGP,00:46:09,02:37:19,02:15:35,00:03:03,00:02:27,05:44:33
+ironman-70.3-singapore-20110320.csv,332,Pui Chuan Wong,30,---,SGP,00:56:32,03:00:45,02:49:54,00:04:16,00:03:37,06:55:04
+ironman-70.3-singapore-20110320.csv,333,Melvin Tezon,27,---,PHL,00:58:49,02:45:27,03:30:26,00:06:33,00:03:48,07:25:03
+ironman-70.3-singapore-20110320.csv,334,Wenjun Poh,27,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,335,Nicholas Liu,27,---,SGP,00:52:20,03:24:19,02:43:51,00:05:17,00:03:24,07:09:11
+ironman-70.3-singapore-20110320.csv,336,Ken Ng,---,Singapore,SGP,00:53:58,02:35:51,01:55:34,00:05:43,00:02:32,05:33:38
+ironman-70.3-singapore-20110320.csv,337,Alan Kwek,26,---,MYS,00:55:42,02:51:55,02:10:51,00:04:16,00:02:43,06:05:27
+ironman-70.3-singapore-20110320.csv,338,Danny Poh,29,---,SGP,00:58:22,02:50:55,02:12:38,00:03:56,00:02:57,06:08:48
+ironman-70.3-singapore-20110320.csv,339,Hock Poh Koh,29,---,SGP,01:04:49,04:02:21,02:07:04,00:04:59,00:02:17,07:21:30
+ironman-70.3-singapore-20110320.csv,340,Gabriel Wong Wong,27,---,SGP,00:52:53,02:43:55,02:04:44,00:03:27,00:02:12,05:47:11
+ironman-70.3-singapore-20110320.csv,341,Wei Han See Toh,26,---,SGP,01:01:58,03:27:54,02:50:03,00:06:53,00:03:44,07:30:32
+ironman-70.3-singapore-20110320.csv,342,Bharadwaj Krishnan,25,---,IND,01:14:55,03:19:26,02:37:16,00:04:56,00:03:32,07:20:05
+ironman-70.3-singapore-20110320.csv,343,Alvin Yap,25,SG,SGP,00:48:43,02:55:15,02:26:10,00:03:54,00:06:41,06:20:43
+ironman-70.3-singapore-20110320.csv,344,Shahafashah Selamat,27,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,345,Alvin Low,25,SG,SGP,00:57:50,02:46:02,02:30:09,00:05:57,00:04:07,06:24:05
+ironman-70.3-singapore-20110320.csv,346,Carlo Riveral,---,Singapore,PHL,01:09:17,02:51:44,02:36:46,00:06:37,00:03:26,06:47:50
+ironman-70.3-singapore-20110320.csv,347,Ray-Ryan Garduque,27,---,PHL,01:13:19,02:57:16,02:49:04,00:04:42,00:02:29,07:06:50
+ironman-70.3-singapore-20110320.csv,348,Marcus Liew,25,---,SGP,00:41:00,03:06:34,02:23:06,00:05:22,00:04:45,06:20:47
+ironman-70.3-singapore-20110320.csv,349,Roderick Eng,25,---,SGP,00:38:41,02:58:32,03:04:34,00:04:25,00:02:45,06:48:57
+ironman-70.3-singapore-20110320.csv,350,Bernard Tay,25,---,SGP,00:40:02,02:27:35,01:51:59,00:03:33,00:00:52,05:04:01
+ironman-70.3-singapore-20110320.csv,351,Danny Lee,28,---,SGP,00:54:11,02:44:10,02:15:38,00:05:27,00:02:20,06:01:46
+ironman-70.3-singapore-20110320.csv,352,Noel Lean,27,---,SGP,01:04:24,03:18:48,02:48:55,00:04:30,00:02:03,07:18:40
+ironman-70.3-singapore-20110320.csv,353,Qi Hui Jonathan  Foo,27,---,SGP,01:02:22,03:17:16,02:15:11,00:05:15,00:01:36,06:41:40
+ironman-70.3-singapore-20110320.csv,354,Wille Loo,28,---,SGP,00:32:53,02:20:20,01:27:36,00:02:13,00:01:06,04:24:08
+ironman-70.3-singapore-20110320.csv,355,Farron Blanc,28,---,CAN,00:54:03,02:44:41,02:09:18,00:04:17,00:02:47,05:55:06
+ironman-70.3-singapore-20110320.csv,356,Ze Bin Soh,25,---,SGP,00:48:28,02:52:52,01:50:33,00:03:28,00:01:52,05:37:13
+ironman-70.3-singapore-20110320.csv,357,Michael Krones,28,---,DEU,00:41:27,02:23:57,01:47:33,00:03:36,00:01:52,04:58:25
+ironman-70.3-singapore-20110320.csv,358,Hsieh Shen Yen Sam,26,---,TWN,00:29:44,02:20:06,01:59:15,00:02:04,00:00:49,04:51:58
+ironman-70.3-singapore-20110320.csv,359,Richard Cohen,29,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,360,Timothee Arnaud,29,---,FRA,00:56:03,02:43:11,02:00:04,00:03:25,00:01:55,05:44:38
+ironman-70.3-singapore-20110320.csv,361,Nick Cowell,28,---,GBR,01:00:09,02:31:56,02:01:27,00:04:13,00:02:07,05:39:52
+ironman-70.3-singapore-20110320.csv,362,Chris Evans,28,---,GBR,00:49:42,02:44:21,02:49:57,00:03:33,00:01:41,DNF
+ironman-70.3-singapore-20110320.csv,363,Lindsey Dymond,28,HI,USA,00:52:36,02:35:16,02:01:23,00:03:03,00:01:33,05:33:51
+ironman-70.3-singapore-20110320.csv,364,Brad Williams,25,AP,USA,00:39:16,02:16:05,01:35:44,00:02:45,00:00:59,04:34:49
+ironman-70.3-singapore-20110320.csv,365,Edgar Salmeron,29,CA,USA,00:47:53,02:39:05,02:14:32,00:04:19,00:02:19,05:48:08
+ironman-70.3-singapore-20110320.csv,366,Nick Seeto,32,---,AUS,00:37:34,02:14:30,01:34:25,00:02:22,00:01:08,04:29:59
+ironman-70.3-singapore-20110320.csv,367,Tim Knight,29,---,GBR,00:38:18,02:15:21,01:46:35,00:02:43,00:01:03,04:44:00
+ironman-70.3-singapore-20110320.csv,368,Campbell Hanson,34,NSW,NZL,00:33:47,02:19:03,01:35:45,00:03:12,00:01:12,04:32:59
+ironman-70.3-singapore-20110320.csv,369,Clive Bingwa,34,WA,AUS,00:42:09,02:20:38,02:00:43,00:02:35,00:01:01,05:07:06
+ironman-70.3-singapore-20110320.csv,370,Steve Goat,---,Northern Territory,GBR,00:39:43,02:27:23,02:01:37,00:02:21,00:01:19,05:12:23
+ironman-70.3-singapore-20110320.csv,371,Alexander Larson,30,---,AUS,00:38:25,02:21:48,01:41:20,00:03:00,00:01:41,04:46:14
+ironman-70.3-singapore-20110320.csv,372,Russell Peacock,31,---,AUS,00:36:46,02:17:31,02:30:23,00:03:08,00:01:23,05:29:11
+ironman-70.3-singapore-20110320.csv,373,Richard Yeo,33,---,AUS,00:35:42,02:23:00,02:13:43,00:02:26,00:02:19,05:17:10
+ironman-70.3-singapore-20110320.csv,374,Tim Valentine,29,---,NZL,00:41:38,02:11:58,01:37:10,00:02:43,00:00:57,04:34:26
+ironman-70.3-singapore-20110320.csv,375,Gary Rolston,30,---,AUS,00:43:07,02:38:48,01:58:42,00:04:16,00:01:46,05:26:39
+ironman-70.3-singapore-20110320.csv,376,Jarrod Owen,29,QLD,AUS,00:36:26,02:14:30,01:22:04,00:02:16,00:00:50,04:16:06
+ironman-70.3-singapore-20110320.csv,377,Alexander Coghlan,31,WA,AUS,00:42:18,02:30:58,02:25:15,00:06:54,00:03:23,05:48:48
+ironman-70.3-singapore-20110320.csv,378,Bradley Spencer,33,NSW,AUS,00:49:39,---,02:35:52,00:09:16,---,DNF
+ironman-70.3-singapore-20110320.csv,379,Jeremy Round,32,---,AUS,00:42:56,02:24:51,02:02:36,00:04:39,00:02:03,05:17:05
+ironman-70.3-singapore-20110320.csv,380,Tim Carpenter,32,---,AUS,00:39:03,02:19:05,01:56:29,00:02:52,00:01:16,04:58:45
+ironman-70.3-singapore-20110320.csv,381,Jonathan Nichol,33,---,GBR,00:37:03,02:15:18,---,00:02:08,00:00:57,DNF
+ironman-70.3-singapore-20110320.csv,382,Jeremy Fleming,33,---,AUS,00:44:44,02:57:19,02:24:58,00:04:21,00:02:29,06:13:51
+ironman-70.3-singapore-20110320.csv,383,James Marsden,30,---,AUS,00:33:19,02:27:25,01:34:26,00:02:12,00:00:57,04:38:19
+ironman-70.3-singapore-20110320.csv,384,Roman Widlak,31,---,AUT,00:40:00,02:15:52,01:58:23,00:03:20,00:01:10,04:58:45
+ironman-70.3-singapore-20110320.csv,385,Hamsul Sulaiman,32,Muara,BRN,00:59:54,02:47:01,02:40:18,00:03:56,00:02:04,06:33:13
+ironman-70.3-singapore-20110320.csv,386,Sascha Abazari,31,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,387,Andrew Padovano,34,---,USA,00:53:42,02:46:53,03:05:23,00:04:53,00:02:52,06:53:43
+ironman-70.3-singapore-20110320.csv,388,Adam Weeks,29,NC,USA,00:44:41,02:15:36,01:25:21,00:03:06,00:01:15,04:29:59
+ironman-70.3-singapore-20110320.csv,389,Pierre Nollet,34,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,390,Thom Arkestal,32,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,391,Frank Klaiber,34,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,392,Sebastien Stoffel,33,---,FRA,00:41:20,02:26:23,01:51:13,00:03:26,00:01:40,05:04:02
+ironman-70.3-singapore-20110320.csv,393,Edward Cosgrove,30,---,IRL,00:40:12,02:28:38,02:48:14,00:04:06,00:02:59,06:04:09
+ironman-70.3-singapore-20110320.csv,394,Jarek Barc,30,CO,USA,00:48:18,02:36:28,02:07:06,00:03:23,00:01:32,05:36:47
+ironman-70.3-singapore-20110320.csv,395,Liam Cohen-Ruhle,34,---,AUS,00:41:56,02:28:33,01:54:03,00:03:29,00:01:48,05:09:49
+ironman-70.3-singapore-20110320.csv,396,James Piachaud,34,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,397,Derek Wong,---,NEW TERRITORIES,HKG,00:48:37,02:30:26,01:42:37,00:02:53,00:01:10,05:05:43
+ironman-70.3-singapore-20110320.csv,398,Stuart Elliott,33,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,399,Nicholas Longcroft,35,---,GBR,00:47:06,02:33:20,01:57:01,00:05:13,00:02:36,05:25:16
+ironman-70.3-singapore-20110320.csv,400,Ashley Bell,33,---,AUS,00:41:53,02:39:22,02:27:58,00:04:47,00:02:18,05:56:18
+ironman-70.3-singapore-20110320.csv,401,Shunsuke Tanaka,33,---,JPN,00:40:04,02:22:59,01:51:31,00:03:24,00:02:08,05:00:06
+ironman-70.3-singapore-20110320.csv,402,Barry Day,31,HKG,CAN,00:41:28,02:35:35,01:55:52,00:03:05,00:01:08,05:17:08
+ironman-70.3-singapore-20110320.csv,403,Ming Wai Lau,30,---,GBR,00:59:30,03:13:01,02:26:57,00:05:19,00:03:12,06:47:59
+ironman-70.3-singapore-20110320.csv,404,Douglas Woo,32,---,HKG,00:36:25,03:07:47,02:07:34,00:04:07,00:03:14,05:59:07
+ironman-70.3-singapore-20110320.csv,405,Rob Mcvie,33,---,GBR,00:53:40,02:44:58,02:19:45,00:04:03,00:01:32,06:03:58
+ironman-70.3-singapore-20110320.csv,406,Jess Knebel,33,---,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,407,Neil Horton,33,---,GBR,04:05:18,02:54:58,02:29:33,---,00:03:52,DNF
+ironman-70.3-singapore-20110320.csv,408,Trevor White,32,---,IRL,00:56:29,---,---,00:05:11,---,DNF
+ironman-70.3-singapore-20110320.csv,409,Dane Cantwell,31,Pok Fu Lam,NZL,00:33:55,02:19:18,01:35:42,00:02:32,00:00:51,04:32:18
+ironman-70.3-singapore-20110320.csv,410,Joseph Frasier,---,Hong Kong,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,411,Santhakumar Baranidharan,32,---,IND,00:56:18,03:09:47,02:47:30,00:07:25,00:04:44,07:05:44
+ironman-70.3-singapore-20110320.csv,412,Teharmin Teharmin,34,Intl State,IDN,01:03:29,03:13:02,02:27:11,00:06:32,00:05:20,06:55:34
+ironman-70.3-singapore-20110320.csv,413,Christophe Owens,34,WA,FRA,00:48:37,02:19:37,02:12:53,00:03:59,00:01:57,05:27:03
+ironman-70.3-singapore-20110320.csv,414,Ian Doherty,---,Dublin,IRL,00:50:37,02:38:48,01:44:31,00:03:10,00:01:08,05:18:14
+ironman-70.3-singapore-20110320.csv,415,Matthia Schianchi,31,PR,ITA,00:56:58,02:32:43,02:02:01,00:03:47,00:01:25,05:36:54
+ironman-70.3-singapore-20110320.csv,416,Richard Bleackley,32,---,GBR,00:44:40,03:00:33,02:29:45,00:04:27,00:04:22,06:23:47
+ironman-70.3-singapore-20110320.csv,417,Tsumugi Akiba,33,---,JPN,00:44:23,02:23:16,01:49:33,00:03:44,00:01:14,05:02:10
+ironman-70.3-singapore-20110320.csv,418,Yuichi Kimura,33,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,419,Tetsuya Watanabe,30,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,420,Yasuyuki Okada,0,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,421,Alexander Poulis,32,England,GRC,00:44:11,02:23:43,01:41:51,00:02:38,00:00:59,04:53:22
+ironman-70.3-singapore-20110320.csv,422,Kenko Hamaguchi,30,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,423,Masayuki Iida,32,神奈川県,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,424,Daigo Kizuka,32,---,JPN,00:40:40,02:46:22,02:21:08,00:05:15,00:02:06,05:55:31
+ironman-70.3-singapore-20110320.csv,425,Tadasuke Sato,29,---,JPN,00:42:48,02:21:16,01:58:51,00:04:16,00:01:40,05:08:51
+ironman-70.3-singapore-20110320.csv,426,Makoto Yamada,33,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,427,Toshihiro Nakae,32,---,JPN,00:59:19,02:51:45,01:56:41,00:04:53,00:01:21,05:53:59
+ironman-70.3-singapore-20110320.csv,428,Yasuhito Yokota,30,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,429,Yu Yumoto,32,CA,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,430,Naoki Tottori,30,---,JPN,00:49:57,02:19:38,01:47:10,00:03:14,00:01:13,05:01:12
+ironman-70.3-singapore-20110320.csv,431,Seiji Uchida,31,Tokyo,JPN,00:54:06,03:04:10,02:29:40,00:05:22,00:04:11,06:37:29
+ironman-70.3-singapore-20110320.csv,432,Yak Guan Lai,33,INTL,MYS,01:01:35,02:53:26,02:46:23,00:06:25,00:05:17,06:53:06
+ironman-70.3-singapore-20110320.csv,433,James Housego,32,---,CAN,01:05:27,02:48:18,02:24:47,00:04:55,00:03:46,06:27:13
+ironman-70.3-singapore-20110320.csv,434,Dean Metcalfe,33,---,GBR,01:00:13,02:51:09,02:12:44,00:03:50,00:01:07,06:09:03
+ironman-70.3-singapore-20110320.csv,435,Ellya Masriq,30,Putrajaya,MYS,00:58:51,02:59:40,02:47:35,00:07:02,00:04:01,06:57:09
+ironman-70.3-singapore-20110320.csv,436,Juan Martitegui,30,---,ARG,00:49:52,03:08:04,03:01:44,00:11:36,00:05:56,07:17:12
+ironman-70.3-singapore-20110320.csv,437,Vance Choy See How,33,Singapore,MYS,00:51:58,02:30:01,02:05:07,00:04:59,00:01:57,05:34:02
+ironman-70.3-singapore-20110320.csv,438,Kok-Hoong(Nicolas) Lee,---,Selangor,MYS,00:57:15,02:48:28,01:57:19,00:04:39,00:01:28,05:49:09
+ironman-70.3-singapore-20110320.csv,439,Mohd Faisal Abdullah,32,---,MYS,01:01:02,02:47:42,02:19:59,00:04:58,00:03:05,06:16:46
+ironman-70.3-singapore-20110320.csv,440,Led Ye Lim,33,Selangor,MYS,01:23:36,03:06:31,02:58:32,00:05:04,00:05:41,07:39:24
+ironman-70.3-singapore-20110320.csv,441,Juan Du Plessis,34,WP,ZAF,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,442,Steven Jordan,33,---,GBR,00:53:50,02:25:41,02:16:07,00:03:49,00:01:49,05:41:16
+ironman-70.3-singapore-20110320.csv,443,Luis Barocio,---,Distrito Federal,MEX,00:47:26,02:45:57,02:10:28,00:03:45,00:02:19,05:49:55
+ironman-70.3-singapore-20110320.csv,444,Glen Hazelton,34,---,NZL,00:44:16,02:49:24,02:33:21,00:03:44,00:02:38,06:13:23
+ironman-70.3-singapore-20110320.csv,445,Jean Pierre Gamboa,34,---,PHL,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,446,Ferdinand Louis Mila Catabian Ii,32,"Calamba, Laguna",PHL,00:37:16,02:27:24,01:39:55,00:03:16,00:01:36,04:49:27
+ironman-70.3-singapore-20110320.csv,447,Jeffrey Tan,32,---,PHL,01:00:42,02:59:43,02:24:07,00:05:28,00:04:40,06:34:40
+ironman-70.3-singapore-20110320.csv,448,Michael Benedicto,30,Negros occidental,PHL,00:52:56,02:43:46,02:14:15,00:06:38,00:02:34,06:00:09
+ironman-70.3-singapore-20110320.csv,449,Raymund Reel Bontol,32,---,PHL,00:50:33,02:38:16,02:04:21,00:04:57,00:02:32,05:40:39
+ironman-70.3-singapore-20110320.csv,450,Rondee Aquino,31,Intl State,PHL,01:03:29,02:31:29,02:06:01,00:04:19,00:02:21,05:47:39
+ironman-70.3-singapore-20110320.csv,451,John Tomes,33,DXB,GBR,00:58:06,03:01:12,02:22:51,00:09:33,00:06:09,06:37:51
+ironman-70.3-singapore-20110320.csv,452,Alex Xu,---,Singapore,SGP,00:54:30,02:49:21,02:55:36,00:05:08,00:04:27,06:49:02
+ironman-70.3-singapore-20110320.csv,453,Kyle Hegarty,34,---,USA,00:45:15,02:39:19,02:06:19,00:04:34,00:03:55,05:39:22
+ironman-70.3-singapore-20110320.csv,454,Yu Xiang Eugene Sin,---,Singapore,SGP,01:00:56,03:20:00,02:20:28,00:06:38,00:02:28,06:50:30
+ironman-70.3-singapore-20110320.csv,455,Chee Kien Yong,32,---,SGP,00:56:11,02:45:36,02:35:59,00:06:04,00:01:55,06:25:45
+ironman-70.3-singapore-20110320.csv,456,Eddie Kyim Hiong Tan,33,---,SGP,00:54:33,02:59:57,02:11:25,00:09:29,00:04:45,06:20:09
+ironman-70.3-singapore-20110320.csv,457,Kum Woh Leong,33,---,SGP,00:57:17,02:48:34,02:24:24,00:04:14,00:01:30,06:15:59
+ironman-70.3-singapore-20110320.csv,458,Mark Britt,34,---,AUS,00:52:40,02:51:38,02:19:12,00:06:03,00:05:16,06:14:49
+ironman-70.3-singapore-20110320.csv,459,Raj Jeyaraj,31,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,460,Joey Tan,30,---,SGP,00:58:29,03:24:38,02:40:32,00:05:30,00:08:05,07:17:14
+ironman-70.3-singapore-20110320.csv,461,Choon Wah Koh,31,---,SGP,01:00:18,02:59:37,02:32:19,00:05:03,00:01:44,06:39:01
+ironman-70.3-singapore-20110320.csv,462,Kah Gin Fee,28,---,SGP,00:55:35,02:47:23,02:12:34,00:03:28,00:03:10,06:02:10
+ironman-70.3-singapore-20110320.csv,463,Chiew Chuan Lim,32,---,SGP,00:56:27,02:51:09,01:56:10,00:05:45,00:02:23,05:51:54
+ironman-70.3-singapore-20110320.csv,464,Kelly Chew,32,---,SGP,00:57:38,03:25:26,03:02:52,00:05:43,00:03:57,07:35:36
+ironman-70.3-singapore-20110320.csv,465,Yong Chee Alvin Lee,31,---,SGP,00:48:28,03:17:28,02:20:34,00:04:36,00:02:52,06:33:58
+ironman-70.3-singapore-20110320.csv,466,Choon Wei Poh,32,---,SGP,00:57:23,02:48:28,02:29:23,00:05:46,00:03:37,06:24:37
+ironman-70.3-singapore-20110320.csv,467,Alphonsus Ong,31,---,SGP,00:48:40,02:36:42,02:10:46,00:04:13,00:01:42,05:42:03
+ironman-70.3-singapore-20110320.csv,468,Danny Chan,32,---,SGP,00:50:22,02:48:22,02:26:04,00:05:57,00:03:30,06:14:15
+ironman-70.3-singapore-20110320.csv,469,Kok Kiang Lee,33,---,SGP,00:57:22,03:18:29,03:01:10,00:04:24,00:07:41,07:29:06
+ironman-70.3-singapore-20110320.csv,470,Desmond Toh,33,---,SGP,00:54:11,02:45:09,02:32:29,00:04:57,00:03:10,06:19:56
+ironman-70.3-singapore-20110320.csv,471,James Hong,33,---,SGP,01:05:20,02:50:00,02:38:58,00:05:04,00:02:35,06:41:57
+ironman-70.3-singapore-20110320.csv,472,Gim Hoe Soh,32,---,SGP,00:53:57,02:31:05,02:00:04,00:03:23,00:02:03,05:30:32
+ironman-70.3-singapore-20110320.csv,473,Kian Chuan Sze,33,---,SGP,00:59:00,03:06:51,02:24:10,00:05:58,00:03:54,06:39:53
+ironman-70.3-singapore-20110320.csv,474,Yong Wee Ho,32,SG,SGP,00:59:06,02:54:57,03:03:51,00:04:36,00:02:03,07:04:33
+ironman-70.3-singapore-20110320.csv,475,Fabian Hui,30,Intl State,SGP,01:01:39,03:24:46,03:30:32,00:05:18,00:05:29,08:07:44
+ironman-70.3-singapore-20110320.csv,476,Benjamin Yong,34,---,SGP,01:02:42,03:15:15,02:28:54,00:05:37,00:03:51,06:56:19
+ironman-70.3-singapore-20110320.csv,477,Masahiro Obata,31,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,478,Yasuhito Imaizumi,33,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,479,Han Yong Lim,32,---,SGP,00:58:08,03:09:31,03:17:41,00:05:24,00:03:55,07:34:39
+ironman-70.3-singapore-20110320.csv,480,Siok Huan Yeo,29,---,SGP,00:55:06,03:02:32,01:54:10,00:05:08,00:05:20,06:02:16
+ironman-70.3-singapore-20110320.csv,481,Stewart Relph,34,---,NZL,00:40:29,02:29:42,01:50:03,00:02:56,00:01:20,05:04:30
+ironman-70.3-singapore-20110320.csv,482,Tse Han Loong,34,---,MYS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,483,David Henson,31,---,GBR,01:01:29,03:08:58,02:38:48,00:04:47,00:03:02,06:57:04
+ironman-70.3-singapore-20110320.csv,484,Swee Khiang Goh,33,SG,SGP,00:52:52,03:15:34,02:35:07,00:05:20,00:04:03,06:52:56
+ironman-70.3-singapore-20110320.csv,485,Mun Fai Mak,29,---,SGP,01:00:10,03:19:54,02:35:34,00:05:09,00:04:18,07:05:05
+ironman-70.3-singapore-20110320.csv,486,Leonn Ho,30,---,MYS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,487,Dave Lommen,34,---,NLD,00:44:39,02:30:07,01:45:40,00:02:49,00:01:18,05:04:33
+ironman-70.3-singapore-20110320.csv,488,Ruey Feng Peh,30,---,SGP,01:05:48,02:57:29,02:15:04,00:05:11,00:05:01,06:28:33
+ironman-70.3-singapore-20110320.csv,489,Ansley Ng,32,---,SGP,01:02:35,02:52:24,02:11:45,00:04:53,00:04:14,06:15:51
+ironman-70.3-singapore-20110320.csv,490,Leonard Leonard,---,Singapore,SGP,00:44:45,02:34:32,01:55:03,00:02:57,00:01:15,05:18:32
+ironman-70.3-singapore-20110320.csv,491,Kiang Wee Lim,34,---,SGP,00:56:31,02:41:09,01:55:45,00:03:49,00:01:57,05:39:11
+ironman-70.3-singapore-20110320.csv,492,Michal Naglowski,33,---,POL,00:57:07,02:49:10,02:29:11,00:15:39,00:02:13,06:33:20
+ironman-70.3-singapore-20110320.csv,493,Robert Dahlberg,34,---,NZL,00:40:39,02:14:05,02:13:36,00:03:04,00:01:13,DNF
+ironman-70.3-singapore-20110320.csv,494,Scott Bales,31,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,495,Thye Long Lee,33,---,SGP,00:59:29,02:28:48,03:12:06,00:06:40,01:30:04,08:17:07
+ironman-70.3-singapore-20110320.csv,496,Keith Scofield,33,---,GBR,00:53:49,02:26:11,01:45:11,00:03:26,00:01:14,05:09:51
+ironman-70.3-singapore-20110320.csv,497,Jean-Philippe Lionnet,31,---,FRA,00:59:45,03:12:52,02:48:57,00:06:34,00:05:17,07:13:25
+ironman-70.3-singapore-20110320.csv,498,Dan Honour,33,---,GBR,00:53:54,02:41:40,01:53:14,00:09:52,00:02:35,05:41:15
+ironman-70.3-singapore-20110320.csv,499,Frederic Le Carnec,---,Singapore,FRA,00:46:30,02:33:50,01:55:15,00:04:44,00:03:29,05:23:48
+ironman-70.3-singapore-20110320.csv,500,Simon Street,31,---,AUS,00:46:50,02:33:10,01:56:53,00:04:18,00:02:31,05:23:42
+ironman-70.3-singapore-20110320.csv,501,Aloysius Ho Boon Ching,34,---,SGP,01:04:38,02:56:48,02:29:03,00:05:08,00:03:53,06:39:30
+ironman-70.3-singapore-20110320.csv,502,Yee Po Ng,32,---,SGP,00:59:01,03:03:39,02:44:08,00:07:22,00:05:15,06:59:25
+ironman-70.3-singapore-20110320.csv,503,Yigit Saricinar,29,---,TUR,00:51:48,02:42:27,02:18:59,00:04:20,00:02:37,06:00:11
+ironman-70.3-singapore-20110320.csv,504,Tor Halvorsen,33,---,NOR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,505,Matthew Pinkston,34,---,SGP,00:49:51,02:23:48,02:07:20,00:04:52,00:01:27,05:27:18
+ironman-70.3-singapore-20110320.csv,506,Florian Hoppe,32,---,DEU,00:53:33,02:35:53,02:25:47,00:04:45,00:02:29,06:02:27
+ironman-70.3-singapore-20110320.csv,507,Philip Russell,32,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,508,Ronald Heng,31,---,SGP,01:04:12,03:31:04,02:37:46,00:05:39,00:02:18,07:20:59
+ironman-70.3-singapore-20110320.csv,509,Shigemitsu Kikuchi,31,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,510,Ian Hall,29,---,USA,00:44:37,02:42:07,---,00:02:53,00:01:05,DNF
+ironman-70.3-singapore-20110320.csv,511,Nick Froude,34,---,GBR,00:32:28,01:48:47,---,00:02:34,01:15:27,DNF
+ironman-70.3-singapore-20110320.csv,512,Si Jiun Queck,30,---,SGP,00:44:34,02:19:42,02:16:50,00:04:04,00:01:55,05:27:05
+ironman-70.3-singapore-20110320.csv,513,James Foulsham,32,---,AUS,01:03:34,03:30:51,02:48:13,00:06:26,00:04:46,07:33:50
+ironman-70.3-singapore-20110320.csv,514,Chris Dite,33,---,GBR,00:51:27,02:53:06,03:02:06,00:07:00,00:05:05,06:58:44
+ironman-70.3-singapore-20110320.csv,515,Philip Stransky,31,CT,FRA,00:38:27,02:36:04,02:26:13,00:03:15,00:01:31,05:45:30
+ironman-70.3-singapore-20110320.csv,516,Daniel Ng,---,Singapore,SGP,01:00:30,02:46:29,02:26:19,00:03:30,00:02:27,06:19:15
+ironman-70.3-singapore-20110320.csv,517,Say Hian Ng,32,---,SGP,00:53:27,02:30:55,02:07:01,00:04:37,00:02:17,05:38:17
+ironman-70.3-singapore-20110320.csv,518,Jason Baran,31,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,519,Johnny Melia,33,---,IRL,00:56:24,02:13:17,02:10:41,00:02:58,00:01:49,05:25:09
+ironman-70.3-singapore-20110320.csv,520,Luke Mace,31,---,AUS,00:53:14,02:37:35,02:13:09,00:05:09,00:01:53,05:51:00
+ironman-70.3-singapore-20110320.csv,521,Guan Tat Pek,34,SG,SGP,01:06:05,03:19:33,03:11:29,00:05:46,00:04:44,07:47:37
+ironman-70.3-singapore-20110320.csv,522,Caleb Koh,31,---,SGP,01:01:07,03:25:12,02:55:43,00:05:17,00:03:37,07:30:56
+ironman-70.3-singapore-20110320.csv,523,Gerald Koh,32,---,SGP,00:33:08,02:41:38,02:10:39,00:03:16,00:02:08,05:30:49
+ironman-70.3-singapore-20110320.csv,524,Adrian Chin,30,---,MYS,00:51:46,02:56:01,02:17:47,00:04:55,00:03:07,06:13:36
+ironman-70.3-singapore-20110320.csv,525,Julien Pescheux,---,Singapore,FRA,00:52:34,02:45:34,02:36:15,00:05:23,00:02:03,06:21:49
+ironman-70.3-singapore-20110320.csv,526,Daniel Chandler,31,---,GBR,00:46:53,02:35:10,02:44:06,00:02:57,00:02:17,06:11:23
+ironman-70.3-singapore-20110320.csv,527,Brian Tan,31,---,SGP,00:57:15,02:32:47,02:24:49,00:03:31,00:01:16,05:59:38
+ironman-70.3-singapore-20110320.csv,528,Alexandru Gomoiu,34,---,FRA,00:48:06,02:45:43,02:23:53,00:05:23,00:02:38,06:05:43
+ironman-70.3-singapore-20110320.csv,529,"Chun Yong, Andrew Ngo",32,SG,SGP,00:52:41,02:28:39,01:43:15,00:03:49,00:02:03,05:10:27
+ironman-70.3-singapore-20110320.csv,530,Ewin Teo,29,---,SGP,00:44:36,02:24:32,01:40:12,00:03:04,00:01:02,04:53:26
+ironman-70.3-singapore-20110320.csv,531,Dylan Tan,31,---,SGP,00:57:40,02:49:18,02:32:57,00:05:14,00:02:50,06:27:59
+ironman-70.3-singapore-20110320.csv,532,Tuffli Nguyen,32,TX,USA,00:57:35,02:33:55,02:37:46,00:04:24,00:01:58,06:15:38
+ironman-70.3-singapore-20110320.csv,533,Wouter Jan Kleinlugtenbelt,31,---,NLD,00:42:10,02:27:13,02:26:05,00:03:57,00:01:27,05:40:52
+ironman-70.3-singapore-20110320.csv,534,James Chong,34,---,SGP,01:04:40,02:33:12,01:59:44,00:04:11,00:01:38,05:43:25
+ironman-70.3-singapore-20110320.csv,535,Hamish Langford,34,---,NZL,00:40:53,02:53:37,02:47:38,00:04:48,00:02:54,06:29:50
+ironman-70.3-singapore-20110320.csv,536,Ian Lee,30,---,SGP,00:54:05,02:46:36,02:03:36,00:04:05,00:02:19,05:50:41
+ironman-70.3-singapore-20110320.csv,537,Zhi Qian Kelvin Tham,---,Singapore,SGP,00:54:35,02:25:16,01:56:16,00:04:12,00:01:30,05:21:49
+ironman-70.3-singapore-20110320.csv,538,Jack Ang,30,---,SGP,00:45:56,02:45:30,02:13:09,00:04:16,00:03:02,05:51:53
+ironman-70.3-singapore-20110320.csv,539,Clement Ahiekpor,33,"
+Bali",FRA,01:04:43,03:19:50,03:09:25,00:07:46,00:09:33,07:51:17
+ironman-70.3-singapore-20110320.csv,540,Ben Vella,34,---,AUS,00:48:54,02:37:08,02:19:24,00:04:28,00:02:18,05:52:12
+ironman-70.3-singapore-20110320.csv,541,Dean Yik,31,---,SGP,00:56:35,02:55:21,02:09:10,00:05:50,00:03:26,06:10:22
+ironman-70.3-singapore-20110320.csv,542,Matthias Ferrieres,33,---,FRA,00:48:58,02:52:38,02:39:11,00:07:04,00:02:57,06:30:48
+ironman-70.3-singapore-20110320.csv,543,Louis Fel,34,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,544,Andrew Gillan,33,---,GBR,00:55:10,02:54:59,02:23:58,00:04:53,00:02:23,06:21:23
+ironman-70.3-singapore-20110320.csv,545,Winston Wong,34,---,SGP,00:59:32,02:54:43,02:46:54,00:07:10,00:02:33,06:50:52
+ironman-70.3-singapore-20110320.csv,546,Andrew Ward Curran,33,---,AUS,00:42:16,02:33:37,02:03:34,00:04:14,00:02:27,05:26:08
+ironman-70.3-singapore-20110320.csv,547,Henry Tan,---,Singapore,SGP,00:56:51,03:06:30,02:48:41,00:04:53,00:02:14,06:59:09
+ironman-70.3-singapore-20110320.csv,548,Wilson Koh,34,---,SGP,01:00:51,03:27:11,01:22:05,00:06:02,00:03:16,DNF
+ironman-70.3-singapore-20110320.csv,549,Courteney Wild,33,---,AUS,00:44:02,02:57:43,02:33:12,00:07:04,00:03:58,06:25:59
+ironman-70.3-singapore-20110320.csv,550,Lawrence Ng,34,---,SGP,00:43:25,02:21:40,02:14:47,00:02:55,00:01:37,05:24:24
+ironman-70.3-singapore-20110320.csv,551,Adrian Lim,33,---,SGP,00:56:09,02:35:12,02:05:57,00:04:18,00:03:31,05:45:07
+ironman-70.3-singapore-20110320.csv,552,Joe Kwan,---,Singapore,SGP,01:04:11,03:17:55,02:18:31,00:04:55,00:02:18,06:47:50
+ironman-70.3-singapore-20110320.csv,553,Leon Quah,30,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,554,Muhammed Othman,33,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,555,Bartlomiej Bieniek,32,---,POL,00:54:54,02:53:41,02:57:05,00:04:59,00:02:39,06:53:18
+ironman-70.3-singapore-20110320.csv,556,Gavin Hackland,---,Singapore,ZAF,00:43:18,04:01:35,01:53:28,00:02:54,00:01:50,06:43:05
+ironman-70.3-singapore-20110320.csv,557,Aaron Macgregor,32,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,558,Liang Fua,---,Singapore,SGP,00:56:33,03:27:29,02:16:07,00:04:49,00:02:06,06:47:04
+ironman-70.3-singapore-20110320.csv,559,Florent Kirchhoff,31,---,FRA,00:59:30,02:50:25,02:23:13,00:07:00,00:04:37,06:24:45
+ironman-70.3-singapore-20110320.csv,560,Hwee Lian Khoo,31,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,561,Dennis Hammer,34,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,562,Artur Piasecki,33,---,POL,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,563,James Mclauchlan,29,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,564,Michal Bucek,30,Slovakia,SVK,00:33:56,02:19:21,01:43:24,00:02:27,00:00:57,04:40:05
+ironman-70.3-singapore-20110320.csv,565,Michael Dhulst,31,---,BEL,00:37:41,02:16:43,---,00:03:21,00:01:07,DNF
+ironman-70.3-singapore-20110320.csv,566,David Szu,31,---,CAN,00:52:20,02:31:51,---,00:03:44,00:01:17,DNF
+ironman-70.3-singapore-20110320.csv,567,William Lyon,---,Taipei,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,568,David Mayes,33,---,USA,00:52:40,03:20:08,02:12:32,00:05:05,00:01:27,06:31:52
+ironman-70.3-singapore-20110320.csv,569,Sean Chapman,34,---,USA,00:45:57,02:58:19,02:51:42,00:04:31,00:03:07,06:43:36
+ironman-70.3-singapore-20110320.csv,570,Paul Walby,34,Powys,GBR,01:01:51,02:45:48,01:47:31,00:04:22,00:02:56,05:42:28
+ironman-70.3-singapore-20110320.csv,571,Jaray Jearanai,---,PHUKET,THA,00:45:35,02:21:19,01:38:44,00:02:34,00:01:10,04:49:22
+ironman-70.3-singapore-20110320.csv,572,Scott Gerrie,31,---,NZL,00:44:44,02:35:00,02:22:20,00:03:05,00:02:18,05:47:27
+ironman-70.3-singapore-20110320.csv,573,Matthias Berger,33,---,AUT,00:53:59,02:41:48,02:23:29,00:06:12,00:03:07,06:08:35
+ironman-70.3-singapore-20110320.csv,574,Erik B Hm,---,Bangkok,NLD,00:50:39,02:48:56,02:06:02,00:03:24,00:02:39,05:51:40
+ironman-70.3-singapore-20110320.csv,575,Masato Takeuchi,30,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,576,Jacques De T Serclaes,31,---,BEL,00:56:29,03:04:29,02:20:07,00:05:32,00:02:54,06:29:31
+ironman-70.3-singapore-20110320.csv,577,Alexander Williams,31,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,578,Simon Kershaw Yates,33,---,GBR,00:37:59,02:29:36,01:48:02,00:03:38,00:01:24,05:00:39
+ironman-70.3-singapore-20110320.csv,579,Nick Morgan,30,---,GBR,00:43:46,02:38:10,02:06:08,00:04:09,00:02:58,05:35:11
+ironman-70.3-singapore-20110320.csv,580,Jamie Meyer,---,---,GBR,00:50:18,02:30:39,02:03:30,00:04:45,00:01:22,05:30:34
+ironman-70.3-singapore-20110320.csv,581,Ian Jones,30,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,582,Michael Longley,33,---,GBR,01:02:25,03:17:42,02:13:14,00:08:42,00:04:54,06:46:57
+ironman-70.3-singapore-20110320.csv,583,Thomas Laffont,34,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,584,Lee Leach,31,AP,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,585,Jeff Adams,33,VA,USA,00:56:05,02:36:16,01:49:12,00:05:38,00:03:11,05:30:22
+ironman-70.3-singapore-20110320.csv,586,Chad Debolt,31,NY,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,587,Jeff Cohen,33,CA,USA,00:54:17,02:32:48,01:45:10,00:05:04,00:02:06,05:19:25
+ironman-70.3-singapore-20110320.csv,588,Max Gunn,31,---,AUS,00:42:12,02:38:32,02:14:14,00:03:38,00:01:13,05:39:49
+ironman-70.3-singapore-20110320.csv,589,Daniel Hatfield,32,---,GBR,00:41:25,02:40:13,02:21:54,00:04:10,00:02:18,05:50:00
+ironman-70.3-singapore-20110320.csv,590,Jonathan Gueudinot,33,---,AUS,00:47:28,02:43:55,02:09:29,00:03:47,00:01:18,05:45:57
+ironman-70.3-singapore-20110320.csv,591,Matthew Redmond,36,---,NZL,00:45:32,02:31:32,02:20:10,00:03:08,00:02:13,05:42:35
+ironman-70.3-singapore-20110320.csv,592,Jay Mueller,38,VIC,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,593,John Petty,39,GA,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,594,Gareth Flynn,39,VIC,AUS,00:45:40,02:30:36,01:52:43,00:04:21,00:01:25,05:14:45
+ironman-70.3-singapore-20110320.csv,595,Nathan Briggs,37,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,596,Graeme Gonzales,39,VIC,AUS,00:59:03,02:59:05,02:24:22,00:04:35,00:03:12,06:30:17
+ironman-70.3-singapore-20110320.csv,597,Phillip Walsh,39,VIC,AUS,00:38:26,02:22:50,01:43:56,00:03:24,00:01:23,04:49:59
+ironman-70.3-singapore-20110320.csv,598,Jamie Morgan,37,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,599,Christian Klettner,39,---,AUS,00:44:57,02:35:22,01:42:01,00:03:22,00:01:09,05:06:51
+ironman-70.3-singapore-20110320.csv,600,Ian Norton,38,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,601,Damien Brown,39,VI,AUS,00:41:08,02:30:46,01:57:12,00:03:12,00:02:25,05:14:43
+ironman-70.3-singapore-20110320.csv,602,Shaun Sleep,36,---,AUS,00:39:48,02:14:25,01:30:38,00:03:08,00:01:06,04:29:05
+ironman-70.3-singapore-20110320.csv,603,Glen Kenny,38,---,AUS,00:49:08,02:15:15,01:53:58,00:04:57,00:01:33,05:04:51
+ironman-70.3-singapore-20110320.csv,604,Mathew Lock,36,---,AUS,00:47:24,02:36:26,01:55:35,00:03:01,00:02:10,05:24:36
+ironman-70.3-singapore-20110320.csv,605,Scott Hill,35,---,AUS,00:47:02,02:37:55,02:21:28,00:02:41,00:01:32,05:50:38
+ironman-70.3-singapore-20110320.csv,606,Daniel Barron,---,Tasmania,AUS,01:00:40,02:40:27,02:00:43,00:06:25,00:04:12,05:52:27
+ironman-70.3-singapore-20110320.csv,607,Dale Berk,38,NT,AUS,00:47:59,02:29:47,02:14:28,00:03:13,00:01:37,05:37:04
+ironman-70.3-singapore-20110320.csv,608,Anthony Parker,37,NSW,AUS,00:31:30,02:14:46,01:33:26,00:02:22,00:01:08,04:23:12
+ironman-70.3-singapore-20110320.csv,609,Chris Hanrahan,39,NSW,AUS,00:41:08,02:36:42,01:50:21,00:02:47,00:01:31,05:12:29
+ironman-70.3-singapore-20110320.csv,610,Yannick Biegun,38,---,FRA,00:43:44,02:24:11,02:11:35,00:03:19,00:01:31,05:24:20
+ironman-70.3-singapore-20110320.csv,611,Justin Jamieson,37,SA,AUS,00:51:31,02:45:36,02:23:59,00:04:34,00:02:10,06:07:50
+ironman-70.3-singapore-20110320.csv,612,Deiter Mcdonald,37,---,AUS,00:36:02,02:13:18,01:34:14,00:02:28,00:01:02,04:27:04
+ironman-70.3-singapore-20110320.csv,613,Adam Harry,36,---,AUS,00:42:52,02:21:39,01:45:17,00:03:18,00:01:21,04:54:27
+ironman-70.3-singapore-20110320.csv,614,Duncan Semmens,37,---,AUS,00:45:21,02:31:00,01:57:43,00:02:53,00:01:32,05:18:29
+ironman-70.3-singapore-20110320.csv,615,Albie Firley,37,QLD,AUS,00:37:57,02:17:26,01:39:30,00:02:07,00:00:45,04:37:45
+ironman-70.3-singapore-20110320.csv,616,David Doyle,37,QLD,AUS,00:39:56,02:20:34,01:55:35,00:02:45,00:01:41,05:00:31
+ironman-70.3-singapore-20110320.csv,617,Ibrahim Sharif,36,Brunei Muara,BRN,00:51:37,02:35:35,02:22:44,00:03:45,00:03:10,05:56:51
+ironman-70.3-singapore-20110320.csv,618,Pengiran Azizul Pg Hj Md Yussof,36,---,BRN,00:58:28,02:27:21,02:37:24,00:03:57,00:03:17,06:10:27
+ironman-70.3-singapore-20110320.csv,619,Baharudin Nordin,36,Bandar Seri Begawan,BRN,01:09:40,02:56:55,02:19:15,00:05:21,00:02:12,06:33:23
+ironman-70.3-singapore-20110320.csv,620,Bernhard Hustedt,38,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,621,Myles Harrison,38,QLD,GBR,00:54:18,02:55:21,02:29:16,00:05:33,00:02:30,06:26:58
+ironman-70.3-singapore-20110320.csv,622,Mike Cabigon,37,AB,CAN,00:40:42,02:13:53,01:35:11,00:02:35,00:01:07,04:33:28
+ironman-70.3-singapore-20110320.csv,623,Qiang Huang,37,Beijing,CHN,00:54:56,02:34:31,02:17:00,00:04:04,00:01:58,05:52:29
+ironman-70.3-singapore-20110320.csv,624,Mauricio Ramirez,37,---,CHL,01:13:48,02:52:44,02:26:00,00:03:32,00:05:46,06:41:50
+ironman-70.3-singapore-20110320.csv,625,Fernando Spada,38,FL,MEX,00:41:30,02:41:00,02:32:58,00:05:36,00:02:45,06:03:49
+ironman-70.3-singapore-20110320.csv,626,Aaron Schapper,37,NE,USA,00:56:57,03:02:30,02:31:09,00:05:18,00:03:23,06:39:17
+ironman-70.3-singapore-20110320.csv,627,Philippe Chomienne,38,---,FRA,00:49:35,02:54:06,02:06:57,00:06:02,00:04:29,06:01:09
+ironman-70.3-singapore-20110320.csv,628,Gilles Daumas,38,---,FRA,00:45:33,02:25:18,01:41:01,00:02:35,00:01:04,04:55:31
+ironman-70.3-singapore-20110320.csv,629,Fabrice Lassalle,37,---,FRA,00:53:49,02:42:18,02:20:30,00:08:28,00:07:07,06:12:12
+ironman-70.3-singapore-20110320.csv,630,Mark Lueddecke,37,Germany,DEU,00:53:37,02:31:52,02:37:06,00:05:00,00:02:28,06:10:03
+ironman-70.3-singapore-20110320.csv,631,Joerg Thuemmel,37,---,DEU,00:55:18,02:47:15,02:52:01,00:08:00,00:05:25,06:47:59
+ironman-70.3-singapore-20110320.csv,632,Gbur Andreas,38,Berlin,DEU,00:43:40,02:20:37,02:03:34,00:03:35,00:01:16,05:12:42
+ironman-70.3-singapore-20110320.csv,633,Torsten Richter,---,Hesse,DEU,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,634,J Rg Vetter,---,Hessen,DEU,00:44:25,02:22:02,01:58:29,00:04:51,00:01:05,05:10:52
+ironman-70.3-singapore-20110320.csv,635,Clinton Leong,38,---,AUS,00:40:44,02:10:34,01:39:50,00:02:33,00:03:11,DNF
+ironman-70.3-singapore-20110320.csv,636,Joel Labelle,---,Hong Kong,USA,01:03:18,02:52:49,02:02:37,00:03:57,00:02:28,06:05:09
+ironman-70.3-singapore-20110320.csv,637,Daniel Mcfee,38,---,USA,00:53:09,02:33:34,02:12:36,00:03:52,00:02:13,05:45:24
+ironman-70.3-singapore-20110320.csv,638,Luke Millar,37,NJ,GBR,01:02:11,02:46:35,02:33:15,00:04:04,00:02:57,06:29:02
+ironman-70.3-singapore-20110320.csv,639,Leo Chan,36,---,HKG,00:45:05,02:39:05,01:58:54,00:03:04,00:01:21,05:27:29
+ironman-70.3-singapore-20110320.csv,640,Luke Fletcher,37,IL,GBR,00:45:13,02:30:39,01:54:29,00:02:48,00:01:28,05:14:37
+ironman-70.3-singapore-20110320.csv,641,Hyun Chang Chung,37,---,KOR,01:11:05,02:43:25,01:53:27,00:05:01,00:02:52,05:55:50
+ironman-70.3-singapore-20110320.csv,642,John Pesci,39,---,ITA,00:40:48,02:18:39,01:47:50,00:03:10,00:01:08,04:51:35
+ironman-70.3-singapore-20110320.csv,643,Nicolas Sordet,35,---,FRA,00:44:08,02:31:54,02:09:11,00:04:25,00:03:03,05:32:41
+ironman-70.3-singapore-20110320.csv,644,Mark Te Riele,38,---,NLD,00:39:47,02:28:06,02:05:22,00:02:51,00:01:42,05:17:48
+ironman-70.3-singapore-20110320.csv,645,Micky Busby,38,---,GBR,00:43:55,02:31:08,01:59:59,00:03:39,00:01:36,05:20:17
+ironman-70.3-singapore-20110320.csv,646,Robin Harris,37,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,647,Mark Davis,39,---,AUS,01:03:06,02:50:24,02:10:49,00:04:51,00:03:42,06:12:52
+ironman-70.3-singapore-20110320.csv,648,Jon Adair,39,---,GBR,00:50:20,02:25:05,---,00:03:18,00:02:19,DNF
+ironman-70.3-singapore-20110320.csv,649,Brian Lee,37,Intl State,HKG,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,650,Kent Wong,37,---,HKG,00:53:22,02:32:58,01:55:42,00:03:40,00:00:52,05:26:34
+ironman-70.3-singapore-20110320.csv,651,Chris Kitching,36,---,CAN,00:50:58,02:29:24,01:58:57,00:03:19,00:02:23,05:25:01
+ironman-70.3-singapore-20110320.csv,652,Justin Meyers,39,---,AUS,00:41:53,02:48:41,02:05:03,00:04:48,00:02:28,05:42:53
+ironman-70.3-singapore-20110320.csv,653,Justin Keyes,36,---,CAN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,654,Tom Hardman,34,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,655,Gareth Bridges,34,---,GBR,00:53:26,02:24:59,01:57:27,00:03:55,00:02:08,05:21:55
+ironman-70.3-singapore-20110320.csv,656,Ramesh Palani,38,---,IND,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,658,Praveen Hebbagodi,35,---,IND,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,659,Daniel Douglas,35,---,NZL,00:42:12,02:24:51,02:01:08,00:05:19,00:02:06,05:15:36
+ironman-70.3-singapore-20110320.csv,660,Kazuhisa Saito,36,---,JPN,01:03:02,03:00:17,02:31:18,00:06:02,00:02:49,06:43:28
+ironman-70.3-singapore-20110320.csv,661,Colin Ly,36,---,AUS,00:53:21,02:50:17,02:35:54,00:05:37,00:05:53,06:31:02
+ironman-70.3-singapore-20110320.csv,662,David O'Rahilly,35,LImerick,IRL,00:37:48,02:22:38,02:10:01,00:02:52,00:01:13,05:14:32
+ironman-70.3-singapore-20110320.csv,663,Michio Nakagami,39,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,664,Kiyoshi Takahashi,35,ISH,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,665,Nobuhiro Goto,34,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,666,Akihiko Takahashi,39,---,JPN,00:39:25,02:16:28,01:49:58,00:02:39,00:01:12,04:49:42
+ironman-70.3-singapore-20110320.csv,667,Yukiatsu Ishikawa,38,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,668,James Slaymaker,35,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,669,Katsunari Iwaki,37,---,JPN,00:48:48,02:54:51,02:50:39,00:05:41,00:03:20,06:43:19
+ironman-70.3-singapore-20110320.csv,670,Adam York,37,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,671,Masato Izumi,36,AL,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,672,Hideo Okitsu,38,---,JPN,00:49:43,03:08:13,02:42:50,00:04:21,00:02:50,06:47:57
+ironman-70.3-singapore-20110320.csv,673,Hiroaki Ine,38,ISH,JPN,00:43:42,02:21:01,01:39:15,00:02:57,00:01:04,04:47:59
+ironman-70.3-singapore-20110320.csv,674,Kazuhiro Ono,39,Intl State,JPN,00:39:09,02:20:56,01:53:25,00:03:14,00:01:51,04:58:35
+ironman-70.3-singapore-20110320.csv,675,Fujiwara Mitsuru,36,千葉県,JPN,00:54:17,02:55:39,02:45:42,00:05:04,00:05:16,06:45:58
+ironman-70.3-singapore-20110320.csv,676,Takenobu Kobayashi,35,SAITAMAKEN,JPN,00:44:00,02:28:52,01:33:18,00:03:08,00:01:08,04:50:26
+ironman-70.3-singapore-20110320.csv,677,Ayumu Kasai,35,Tokyo,JPN,00:59:37,02:40:21,01:53:08,00:04:35,00:02:19,05:40:00
+ironman-70.3-singapore-20110320.csv,678,Frederic Ruesche,39,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,679,Nicolas Sondaz,36,antioquia,FRA,00:47:24,02:40:08,01:50:55,00:03:39,00:01:16,05:23:22
+ironman-70.3-singapore-20110320.csv,680,Barend Blom,39,---,ZAF,00:46:06,02:40:25,02:15:27,00:04:07,00:03:07,05:49:12
+ironman-70.3-singapore-20110320.csv,681,Jarand Fjeld,36,---,NOR,00:54:22,02:30:46,02:21:36,00:05:26,00:03:21,05:55:31
+ironman-70.3-singapore-20110320.csv,682,Mohamad Allie Helmy Sabtu,29,Melaka,MYS,00:50:42,02:59:02,02:56:50,00:06:10,00:06:27,06:59:11
+ironman-70.3-singapore-20110320.csv,683,Miroslav Blanarik,36,---,SVK,00:52:23,02:22:16,01:57:42,00:03:48,00:01:45,05:17:54
+ironman-70.3-singapore-20110320.csv,684,Kevin Mcwilliam,37,---,GBR,01:02:41,02:54:29,02:15:38,00:04:45,00:02:15,06:19:48
+ironman-70.3-singapore-20110320.csv,685,Danny Liaw,36,LGW,MYS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,686,Cheng Seong Wei,36,---,MYS,00:59:55,02:33:57,02:29:02,00:05:42,00:03:22,06:11:58
+ironman-70.3-singapore-20110320.csv,687,Robin Edgecliffe-Johnson,---,Kuala Lumpur,GBR,00:47:31,02:50:35,02:01:43,00:05:15,00:01:55,05:46:59
+ironman-70.3-singapore-20110320.csv,688,zairin zainudin,36,APO,MYS,01:08:03,03:11:25,---,00:05:31,00:05:16,DNF
+ironman-70.3-singapore-20110320.csv,689,Boyd Doherty,36,---,AUS,00:42:52,02:21:31,01:55:24,00:02:48,00:01:38,05:04:13
+ironman-70.3-singapore-20110320.csv,690,Anthony Yeap Jin Ghee,35,---,MYS,00:41:39,02:25:29,01:56:57,00:02:59,00:01:18,05:08:22
+ironman-70.3-singapore-20110320.csv,691,Damian Trewern,35,---,NZL,00:39:27,02:29:29,01:51:12,00:02:48,00:01:25,05:04:21
+ironman-70.3-singapore-20110320.csv,692,Alastair Stuart,39,---,GBR,00:50:22,02:30:54,02:08:40,00:04:28,00:02:04,05:36:28
+ironman-70.3-singapore-20110320.csv,693,Anders Stendebakken,38,---,NOR,00:54:12,02:39:50,01:48:45,00:05:48,00:03:02,05:31:37
+ironman-70.3-singapore-20110320.csv,694,Elmer Santiago,34,---,PHL,00:54:57,02:55:38,02:39:13,00:05:07,00:02:22,06:37:17
+ironman-70.3-singapore-20110320.csv,695,Robert Yu,34,---,PHL,00:51:21,02:31:47,02:53:49,00:04:20,00:02:46,06:24:03
+ironman-70.3-singapore-20110320.csv,696,Jose Mari Javier,39,---,PHL,00:53:47,02:27:38,01:48:00,00:03:53,00:02:07,05:15:25
+ironman-70.3-singapore-20110320.csv,697,Gregie Pamakid,35,Bukidnon,PHL,01:02:52,02:29:12,02:20:35,00:04:06,00:02:00,05:58:45
+ironman-70.3-singapore-20110320.csv,698,Samuel Lapena,38,Cavite,PHL,00:51:26,02:52:10,02:13:13,00:05:55,00:02:57,06:05:41
+ironman-70.3-singapore-20110320.csv,699,Christophe Doll,38,---,FRA,00:41:42,02:27:01,02:22:05,00:02:39,00:02:15,05:35:42
+ironman-70.3-singapore-20110320.csv,700,Siegfried Venot,37,---,FRA,00:43:08,02:26:47,01:43:38,00:03:30,00:01:30,04:58:33
+ironman-70.3-singapore-20110320.csv,701,Daryl Tam,38,Intl State,SGP,01:00:06,02:56:23,02:45:47,00:05:44,00:05:11,06:53:11
+ironman-70.3-singapore-20110320.csv,702,Choonmoon Jeon,34,---,KOR,00:55:52,03:02:17,02:14:46,00:08:26,00:05:11,06:26:32
+ironman-70.3-singapore-20110320.csv,703,Yeok Lim,---,Singapore,SGP,00:57:49,02:59:46,02:39:04,00:04:52,00:04:35,06:46:06
+ironman-70.3-singapore-20110320.csv,704,Wayne Goh,35,---,SGP,00:53:40,02:28:28,02:30:38,00:05:00,00:02:10,05:59:56
+ironman-70.3-singapore-20110320.csv,705,Dax Ong,35,---,SGP,01:06:17,03:20:20,03:13:23,00:03:55,00:05:22,07:49:17
+ironman-70.3-singapore-20110320.csv,706,Shi Yong Jeremy Tan,34,---,SGP,00:57:10,02:56:41,02:40:26,00:04:27,00:02:55,06:41:39
+ironman-70.3-singapore-20110320.csv,707,Derek Wong,---,Singapore,SGP,00:59:53,03:31:30,03:13:19,00:06:34,00:03:31,07:54:47
+ironman-70.3-singapore-20110320.csv,708,Teck Tang,38,---,MYS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,709,Felix Felix Teo Chin Hee,---,Singapore,SGP,01:00:09,03:39:57,03:03:21,00:06:30,00:05:17,07:55:14
+ironman-70.3-singapore-20110320.csv,710,Terence Ho,38,---,SGP,00:51:01,03:00:35,02:41:09,00:06:22,00:04:05,06:43:12
+ironman-70.3-singapore-20110320.csv,711,Hui Koon Teo,37,---,SGP,00:48:56,02:30:25,01:58:56,00:03:33,00:01:45,05:23:35
+ironman-70.3-singapore-20110320.csv,712,Kok Pin Tan,37,---,SGP,00:53:51,02:56:43,02:32:50,00:05:36,00:03:04,06:32:04
+ironman-70.3-singapore-20110320.csv,713,Jason Chan,36,---,SGP,01:01:27,03:01:27,02:13:01,00:04:43,00:03:05,06:23:43
+ironman-70.3-singapore-20110320.csv,714,Wee Li Ang,39,---,SGP,00:48:46,02:38:44,02:08:16,00:05:21,00:01:55,05:43:02
+ironman-70.3-singapore-20110320.csv,715,Lee Keong Tan,36,---,SGP,00:55:55,02:47:31,02:03:56,00:05:31,00:02:33,05:55:26
+ironman-70.3-singapore-20110320.csv,716,Meng Loh,39,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,717,Chek Siang Foo,---,Singapore,SGP,00:52:25,03:06:22,02:19:52,00:04:51,00:04:14,06:27:44
+ironman-70.3-singapore-20110320.csv,718,Mark Graham,37,JP,AUS,00:57:59,03:17:23,03:10:26,00:10:29,00:07:37,07:43:54
+ironman-70.3-singapore-20110320.csv,719,Paul Simkiss,36,---,GBR,00:53:23,03:09:05,02:11:38,00:06:13,00:03:03,06:23:22
+ironman-70.3-singapore-20110320.csv,720,Andrew Melvyn Sim,---,Singapore,SGP,01:01:29,03:04:52,02:22:14,00:04:31,00:02:16,06:35:22
+ironman-70.3-singapore-20110320.csv,721,Yong Hwee Liow,35,---,SGP,00:45:17,02:49:24,02:11:17,00:07:32,00:06:09,05:59:39
+ironman-70.3-singapore-20110320.csv,722,Daniel Cheng,38,---,SGP,01:03:20,03:04:05,03:38:36,00:07:38,00:03:43,07:57:22
+ironman-70.3-singapore-20110320.csv,723,Brett Verschoor,35,---,AUS,00:48:15,02:26:49,01:39:37,00:03:25,00:01:14,04:59:20
+ironman-70.3-singapore-20110320.csv,724,Kenneth Tong,36,---,SGP,00:51:19,02:32:10,02:05:01,00:04:05,00:01:53,05:34:28
+ironman-70.3-singapore-20110320.csv,725,Shah Drummer Abd Razak,36,---,SGP,01:13:13,03:06:52,02:48:07,00:05:10,00:04:40,07:18:02
+ironman-70.3-singapore-20110320.csv,726,Choon Kiang Phua,36,---,SGP,00:59:45,03:00:30,01:56:37,00:05:58,00:04:23,06:07:13
+ironman-70.3-singapore-20110320.csv,727,Glenn Ong,36,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,728,Larivin Sevilleja,37,---,SGP,00:50:11,02:35:48,02:44:32,00:04:03,00:01:53,06:16:27
+ironman-70.3-singapore-20110320.csv,729,Goh Chun Kiat Goh,38,---,SGP,01:11:36,02:44:30,02:07:46,00:04:20,00:03:29,06:11:41
+ironman-70.3-singapore-20110320.csv,730,Szer Khee Lim,36,---,SGP,00:52:20,03:02:48,02:19:53,00:06:21,00:04:15,06:25:37
+ironman-70.3-singapore-20110320.csv,731,Chun Chong,---,Singapore,SGP,00:56:32,02:58:57,02:26:19,00:07:50,00:05:20,06:34:58
+ironman-70.3-singapore-20110320.csv,732,Lap Huan Ng,37,SG,MYS,00:58:58,02:59:39,02:26:08,00:04:45,00:04:46,06:34:16
+ironman-70.3-singapore-20110320.csv,733,Desmond Chow,38,---,SGP,00:58:30,03:00:47,02:43:22,00:04:35,00:04:17,06:51:31
+ironman-70.3-singapore-20110320.csv,734,Aaron Simmons,39,---,USA,01:01:44,03:34:11,02:08:35,00:06:10,00:02:49,06:53:29
+ironman-70.3-singapore-20110320.csv,735,Alexander Hascher,39,---,DEU,00:40:09,02:29:57,01:56:17,00:03:32,00:01:12,05:11:07
+ironman-70.3-singapore-20110320.csv,736,Adrian Chan Cm,35,---,SGP,00:50:43,02:40:32,02:25:28,00:03:52,00:03:05,06:03:40
+ironman-70.3-singapore-20110320.csv,737,Julian Hudson,39,---,GBR,00:45:04,02:25:17,02:05:42,00:03:50,00:01:55,05:21:48
+ironman-70.3-singapore-20110320.csv,738,Grégoire Sauvé,35,FR,FRA,00:49:41,02:18:36,01:41:05,00:02:44,00:01:25,04:53:31
+ironman-70.3-singapore-20110320.csv,739,Melvyn Teo,35,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,740,Christopher Colman,38,---,GBR,00:50:39,02:57:36,02:48:53,00:06:03,00:03:36,06:46:47
+ironman-70.3-singapore-20110320.csv,741,Friedhelm Hopfer,39,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,742,Svein Grande,35,---,NOR,00:58:32,02:37:22,01:45:54,00:03:45,00:02:28,05:28:01
+ironman-70.3-singapore-20110320.csv,743,Phill Hall,35,---,GBR,00:49:02,02:59:42,02:26:00,00:05:08,00:02:43,06:22:35
+ironman-70.3-singapore-20110320.csv,744,Andrew Reeve,38,---,AUS,00:50:44,02:43:39,02:00:25,00:04:15,00:01:50,05:40:53
+ironman-70.3-singapore-20110320.csv,745,Per Cato Roeed,35,---,NOR,00:38:23,02:20:56,01:49:28,00:03:59,00:01:01,04:53:47
+ironman-70.3-singapore-20110320.csv,746,Tiam Kee Soh,34,---,SGP,01:06:55,03:07:52,02:35:42,00:04:54,00:04:07,06:59:30
+ironman-70.3-singapore-20110320.csv,747,Joe Oh,---,Singapore,SGP,00:48:27,02:36:56,01:57:21,00:03:29,00:02:03,05:28:16
+ironman-70.3-singapore-20110320.csv,748,Chris Teo,34,---,SGP,00:49:38,03:24:42,---,00:05:53,00:08:33,DNF
+ironman-70.3-singapore-20110320.csv,749,Eng Hong Soh,38,---,SGP,01:06:21,03:27:03,03:15:08,00:06:29,00:04:20,07:59:21
+ironman-70.3-singapore-20110320.csv,750,Yen Hun Kang,39,SG,SGP,00:56:20,02:45:56,02:15:10,00:04:44,00:03:16,06:05:26
+ironman-70.3-singapore-20110320.csv,751,Eng Koon Lim,39,---,SGP,01:04:29,02:49:35,02:23:00,00:04:25,00:02:36,06:24:05
+ironman-70.3-singapore-20110320.csv,752,Choong Yong Teo,37,---,SGP,00:59:27,03:18:15,02:48:12,00:05:43,00:04:18,07:15:55
+ironman-70.3-singapore-20110320.csv,753,Michael Pizel,37,---,AUS,00:57:55,02:41:05,01:57:30,00:03:39,00:02:13,05:42:22
+ironman-70.3-singapore-20110320.csv,754,John Lim,---,Singapore,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,755,Mark Wei Seng Mu,34,---,SGP,01:00:20,03:32:11,02:33:56,00:05:09,00:03:42,07:15:18
+ironman-70.3-singapore-20110320.csv,756,Jarno Lamsa,36,SG,FIN,00:51:00,02:41:29,01:53:34,00:06:14,00:01:46,05:34:03
+ironman-70.3-singapore-20110320.csv,757,Nicolas Faquet,37,---,FRA,00:43:32,02:31:19,02:32:30,00:03:43,00:01:43,05:52:47
+ironman-70.3-singapore-20110320.csv,758,Cedric Beltrame,35,---,FRA,00:43:28,02:27:51,02:23:19,00:03:54,00:02:53,05:41:25
+ironman-70.3-singapore-20110320.csv,759,Adrian Curic,34,---,ROU,01:06:09,03:20:32,02:40:12,00:03:57,00:03:31,07:14:21
+ironman-70.3-singapore-20110320.csv,760,Andreas Behrens,37,---,DEU,00:47:44,02:47:21,02:18:59,00:05:18,00:03:14,06:02:36
+ironman-70.3-singapore-20110320.csv,761,Benjamin Kartono,37,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,762,Tim Jones,35,---,GBR,01:02:21,03:00:42,02:50:31,00:04:58,00:03:08,07:01:40
+ironman-70.3-singapore-20110320.csv,763,Jensen Hjorth,35,---,AUS,00:44:24,02:35:47,02:10:42,00:04:12,00:02:08,05:37:13
+ironman-70.3-singapore-20110320.csv,764,Tuomas Kanervala,35,---,FIN,01:02:53,03:10:09,02:00:57,00:06:15,00:03:33,06:23:47
+ironman-70.3-singapore-20110320.csv,765,Stuart Walker,38,---,AUS,00:54:48,03:00:37,02:48:55,00:04:53,00:04:09,06:53:22
+ironman-70.3-singapore-20110320.csv,766,Israel Galan Ferragut,---,Singapore,ESP,00:38:56,02:21:21,02:15:26,00:02:56,00:02:00,05:20:39
+ironman-70.3-singapore-20110320.csv,767,Yeang Chow,39,---,MYS,00:43:12,03:01:48,02:56:46,00:05:16,00:03:24,06:50:26
+ironman-70.3-singapore-20110320.csv,768,Shian Hui Yah,37,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,769,Carlo Piani,39,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,770,Ken Wong,38,---,SGP,01:04:27,03:17:29,02:51:04,00:06:04,00:04:25,07:23:29
+ironman-70.3-singapore-20110320.csv,771,Serge Handjian,35,---,FRA,00:45:12,02:24:02,02:22:46,00:03:55,00:02:05,05:38:00
+ironman-70.3-singapore-20110320.csv,772,Jun Nakajima,39,---,JPN,01:00:33,03:15:00,02:11:12,00:06:14,00:04:14,06:37:13
+ironman-70.3-singapore-20110320.csv,773,Martijn Van Eldik,37,---,NLD,00:48:48,02:44:19,02:07:50,00:04:17,00:02:53,05:48:07
+ironman-70.3-singapore-20110320.csv,774,Justin Hotton,38,---,AUS,00:53:54,02:47:29,02:05:32,00:05:22,00:02:27,05:54:44
+ironman-70.3-singapore-20110320.csv,775,Miquel Pallares,36,---,ESP,00:54:18,03:06:06,02:47:28,00:06:41,00:05:29,07:00:02
+ironman-70.3-singapore-20110320.csv,776,Cameron Pitt,38,---,AUS,00:47:23,02:45:54,02:50:57,00:03:23,00:03:48,06:31:25
+ironman-70.3-singapore-20110320.csv,777,Bert Stegink,34,---,NLD,00:48:49,02:20:02,02:28:06,00:03:51,00:02:00,05:42:48
+ironman-70.3-singapore-20110320.csv,778,Varian Tan,36,---,SGP,01:02:04,02:57:29,02:03:56,00:04:31,00:03:01,06:11:01
+ironman-70.3-singapore-20110320.csv,779,Hsin-Ping Wu,---,Singapore,TWN,00:55:29,02:46:59,02:07:42,00:03:26,00:02:02,05:55:38
+ironman-70.3-singapore-20110320.csv,780,Benjamin Goi,36,---,SGP,00:44:05,02:41:46,02:42:50,00:03:40,00:03:08,06:15:29
+ironman-70.3-singapore-20110320.csv,781,Patrick Jelfs,40,---,IRL,00:47:10,02:29:13,02:39:26,00:07:28,00:03:27,06:06:44
+ironman-70.3-singapore-20110320.csv,782,Richard Jones,35,NSW,AUS,00:38:37,02:42:05,---,00:02:46,00:02:34,DNF
+ironman-70.3-singapore-20110320.csv,783,Lachlan Mckelvie,37,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,784,Jeffrey Yeo,39,---,SGP,01:02:20,02:51:59,02:32:42,00:04:13,00:04:27,06:35:41
+ironman-70.3-singapore-20110320.csv,785,Pierre Vignaud,37,---,FRA,00:53:51,02:44:53,02:06:10,00:03:39,00:01:24,05:49:57
+ironman-70.3-singapore-20110320.csv,786,Lee Hon Kee,35,---,SGP,00:57:35,02:52:19,02:20:16,00:05:34,00:03:39,06:19:23
+ironman-70.3-singapore-20110320.csv,787,Bernard Sechaud,38,SG,CHE,00:46:57,02:33:56,01:53:22,00:04:51,00:02:19,05:21:25
+ironman-70.3-singapore-20110320.csv,788,Chung Kiat Poon,37,---,SGP,00:49:50,02:26:07,01:49:26,00:03:42,00:02:22,05:11:27
+ironman-70.3-singapore-20110320.csv,789,Keng Hong Matthew Wong,---,Singapore,SGP,00:46:05,02:44:37,02:31:47,00:03:07,00:01:57,06:07:33
+ironman-70.3-singapore-20110320.csv,790,Alex Albergaria,37,---,PRT,00:50:57,02:29:17,01:56:13,00:04:54,00:02:04,05:23:25
+ironman-70.3-singapore-20110320.csv,791,Choon Meng Ang,38,SG,SGP,01:13:55,03:11:44,02:41:14,00:05:44,00:03:26,07:16:03
+ironman-70.3-singapore-20110320.csv,792,Saul Alvarez Lago,---,Singapore,ESP,00:57:39,02:42:38,02:52:37,00:04:14,00:02:32,06:39:40
+ironman-70.3-singapore-20110320.csv,793,Max Hartvigsen,37,---,NOR,00:56:40,02:53:23,02:38:18,00:04:13,00:03:17,06:35:51
+ironman-70.3-singapore-20110320.csv,794,Ben Wark,36,NSW,AUS,00:46:31,02:27:51,01:56:02,00:03:28,00:01:37,05:15:29
+ironman-70.3-singapore-20110320.csv,795,Ramon Zabarte,38,Surrey,AUS,01:03:00,02:48:09,03:03:26,00:06:05,00:03:00,07:03:40
+ironman-70.3-singapore-20110320.csv,796,Jean Marie Martineau,36,---,FRA,00:54:06,02:45:30,02:06:45,00:03:05,00:01:31,05:50:57
+ironman-70.3-singapore-20110320.csv,797,Neil Davey,37,Stockholm,GBR,00:48:55,02:27:14,02:40:13,00:02:50,00:01:45,06:00:57
+ironman-70.3-singapore-20110320.csv,798,Ohmarkely Ambrosio,37,---,PHL,00:54:34,02:46:38,02:29:28,00:03:42,00:02:05,06:16:27
+ironman-70.3-singapore-20110320.csv,799,Kay Kiat Lim,38,---,SGP,00:53:25,02:35:23,02:31:30,00:03:39,00:03:01,06:06:58
+ironman-70.3-singapore-20110320.csv,800,Andrew Kwok,38,---,AUS,01:00:30,02:48:23,02:02:33,00:04:10,00:02:03,05:57:39
+ironman-70.3-singapore-20110320.csv,801,Steve Knabl,38,---,CHE,00:49:32,02:32:54,02:48:44,00:03:31,00:02:22,06:17:03
+ironman-70.3-singapore-20110320.csv,802,Matt Tench,38,---,GBR,00:43:02,02:32:41,02:13:48,00:03:12,00:02:03,05:34:46
+ironman-70.3-singapore-20110320.csv,803,Wayne Love,39,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,804,Marcus Tan,---,Singapore,SGP,00:49:26,02:51:38,02:08:28,00:03:05,00:01:46,05:54:23
+ironman-70.3-singapore-20110320.csv,805,Simon Ang,39,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,806,Ngin Ping,---,Singapore,SGP,00:59:21,03:03:06,02:36:49,00:06:37,00:04:14,06:50:07
+ironman-70.3-singapore-20110320.csv,807,Andrew Ong,35,---,SGP,00:54:09,02:56:25,02:37:17,00:06:08,00:04:58,06:38:57
+ironman-70.3-singapore-20110320.csv,808,James Stewart,-1,---,GBR,00:37:39,02:36:50,02:13:50,00:03:44,00:02:25,05:34:28
+ironman-70.3-singapore-20110320.csv,809,Etienne Faure,36,Other,GBR,00:47:26,02:31:58,01:44:04,00:03:36,00:01:21,05:08:25
+ironman-70.3-singapore-20110320.csv,810,Kah Chuan Ong,37,---,SGP,00:57:11,02:40:48,02:09:41,00:04:08,00:02:05,05:53:53
+ironman-70.3-singapore-20110320.csv,811,Stephen Pennell,39,---,GBR,01:02:07,02:31:46,02:00:00,00:03:55,00:03:01,05:40:49
+ironman-70.3-singapore-20110320.csv,812,Luis Arosemena,36,---,PER,00:49:20,02:37:27,01:38:47,00:03:46,00:01:19,05:10:39
+ironman-70.3-singapore-20110320.csv,813,Assad Attamimi,35,---,AUS,00:37:33,---,---,00:02:27,---,DNF
+ironman-70.3-singapore-20110320.csv,814,Lim Lim Ming Yong,---,Singapore,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,815,Noah Lim,38,---,MYS,00:48:21,02:57:13,02:53:26,00:05:39,00:05:17,06:49:56
+ironman-70.3-singapore-20110320.csv,816,David Bell,39,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,817,Eric Aubry,38,---,FRA,00:44:41,02:35:48,02:03:38,00:06:00,00:03:22,05:33:29
+ironman-70.3-singapore-20110320.csv,818,Geoff Pollard,38,---,AUS,01:04:12,02:42:09,02:44:58,00:06:34,00:03:26,06:41:19
+ironman-70.3-singapore-20110320.csv,819,Dror Feldheim,37,---,DEU,00:53:16,03:16:04,02:03:24,00:06:02,00:04:23,06:23:09
+ironman-70.3-singapore-20110320.csv,820,Robert Chan,---,Singapore,SGP,00:51:38,03:21:11,02:01:38,00:05:28,00:04:48,06:24:43
+ironman-70.3-singapore-20110320.csv,821,Vincent Wong,38,---,MYS,00:59:36,02:51:23,02:46:19,00:05:02,00:02:28,06:44:48
+ironman-70.3-singapore-20110320.csv,822,Andrew Ngiam,39,---,SGP,01:04:41,03:21:27,03:09:39,00:05:31,00:05:00,07:46:18
+ironman-70.3-singapore-20110320.csv,823,Keith Neo,37,---,SGP,00:54:16,02:35:00,02:49:29,00:05:46,00:04:48,06:29:19
+ironman-70.3-singapore-20110320.csv,824,Norhazry Johari,38,---,SGP,00:57:33,03:16:33,02:59:11,00:04:29,00:05:07,07:22:53
+ironman-70.3-singapore-20110320.csv,825,Martin Koh,35,---,SGP,00:52:25,03:29:40,02:18:10,00:06:58,00:05:59,06:53:12
+ironman-70.3-singapore-20110320.csv,826,Joseph Wong,39,---,SGP,00:49:16,02:38:03,02:01:48,00:03:51,00:01:39,05:34:37
+ironman-70.3-singapore-20110320.csv,827,Wai Mun Kok,39,---,SGP,01:11:01,02:29:44,02:02:42,00:03:33,00:02:20,05:49:20
+ironman-70.3-singapore-20110320.csv,828,Sam Mcgoun,---,Singapore,USA,00:51:22,02:59:27,02:24:31,00:06:24,00:05:00,06:26:44
+ironman-70.3-singapore-20110320.csv,829,Alan Ler,36,---,SGP,01:12:29,02:44:01,02:39:43,00:06:24,00:05:00,06:47:37
+ironman-70.3-singapore-20110320.csv,830,Desmond Kao,34,---,SGP,00:48:01,02:34:00,01:55:49,00:03:21,00:01:28,05:22:39
+ironman-70.3-singapore-20110320.csv,831,Dave Wee,37,---,SGP,00:51:59,02:44:48,02:17:11,00:05:34,00:01:57,06:01:29
+ironman-70.3-singapore-20110320.csv,832,Brandon Blau,39,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,833,Mike Liberatore,35,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,834,Anthony Bowyer,37,---,AUS,00:48:01,02:52:23,02:44:01,00:07:49,00:03:31,06:35:45
+ironman-70.3-singapore-20110320.csv,835,Roy Tan,38,---,SGP,00:51:56,02:40:40,02:38:19,00:07:35,00:06:44,06:25:14
+ironman-70.3-singapore-20110320.csv,836,Spencer Yan,37,---,SGP,00:49:09,03:04:55,02:53:28,00:06:55,00:03:06,06:57:33
+ironman-70.3-singapore-20110320.csv,837,Mac Teo,35,---,SGP,00:43:35,02:31:07,02:57:33,00:05:25,00:03:50,06:21:30
+ironman-70.3-singapore-20110320.csv,838,Derrick Ho,38,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,839,Chad Giardina,35,TX,USA,01:17:01,03:09:35,02:37:56,00:05:34,00:02:37,07:12:43
+ironman-70.3-singapore-20110320.csv,840,John Ng,35,Intl State,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,841,Steven Kaiser,39,---,USA,01:05:24,00:58:57,---,00:10:45,00:01:15,DNF
+ironman-70.3-singapore-20110320.csv,842,Nam Hin Terence Chen,---,Singapore,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,843,Andrew Peng Joo Lee,37,---,SGP,00:55:41,03:17:36,02:43:15,00:03:41,00:02:56,07:03:09
+ironman-70.3-singapore-20110320.csv,844,Rob Hart,38,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,845,Phil Wallace,37,Singapore,AUS,00:42:11,02:28:28,01:59:37,00:03:10,00:01:59,05:15:25
+ironman-70.3-singapore-20110320.csv,846,Max Tan,35,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,847,Makoto Shimamoto,---,Singapore,JPN,00:48:03,02:32:26,02:02:16,00:04:45,00:01:45,05:29:15
+ironman-70.3-singapore-20110320.csv,848,Firdaus Wahid,---,SG,SGP,01:10:36,03:04:34,03:06:53,00:07:03,00:04:52,07:33:58
+ironman-70.3-singapore-20110320.csv,849,Eric Foo,36,---,SGP,01:06:25,03:14:29,02:27:24,00:07:27,00:05:14,07:00:59
+ironman-70.3-singapore-20110320.csv,850,Roger Dean Mcgregor Grant,37,---,NZL,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,851,Kavin Chia,38,---,SGP,00:58:00,02:58:34,02:30:58,00:04:53,00:03:51,06:36:16
+ironman-70.3-singapore-20110320.csv,852,Matthew De Plater,37,---,AUS,00:53:43,03:01:47,02:26:04,00:06:24,00:03:55,06:31:53
+ironman-70.3-singapore-20110320.csv,853,Lau Hee Teck,36,---,SGP,00:48:55,02:45:12,02:14:16,00:04:42,00:02:30,05:55:35
+ironman-70.3-singapore-20110320.csv,854,Steven Baxter,38,---,AUS,00:53:50,02:42:56,02:48:10,00:07:18,00:04:50,06:37:04
+ironman-70.3-singapore-20110320.csv,855,Tan Wee Ching Tan,36,---,SGP,00:56:45,02:39:50,02:07:58,00:07:52,00:04:32,05:56:57
+ironman-70.3-singapore-20110320.csv,856,Jordi Costa Torre,---,Lanzarote,ESP,00:48:54,02:37:23,02:10:48,00:03:46,00:01:50,05:42:41
+ironman-70.3-singapore-20110320.csv,857,Antonio Codinach,37,---,ESP,00:51:25,02:46:12,02:42:02,00:07:04,00:03:21,06:30:04
+ironman-70.3-singapore-20110320.csv,858,Juan Paredes,36,---,ESP,00:47:58,02:18:06,01:30:45,00:04:55,00:01:29,04:43:13
+ironman-70.3-singapore-20110320.csv,859,Tim Scheffmann,36,---,DEU,01:01:21,03:10:37,03:16:01,00:06:55,00:07:19,07:42:13
+ironman-70.3-singapore-20110320.csv,860,Philip Tiffin,36,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,861,Jason York,39,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,862,Gary Sampson,35,OR,USA,00:56:25,03:13:50,02:22:37,00:05:08,00:02:58,06:40:58
+ironman-70.3-singapore-20110320.csv,863,Fredrik Ohrn,37,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,864,Benjamin Neve,36,Prachuap Khiri khan,GBR,00:43:51,02:56:12,02:11:58,00:04:59,00:04:06,06:01:06
+ironman-70.3-singapore-20110320.csv,865,Farn Sritrairatana,39,Intl State,THA,00:57:54,03:03:44,02:17:36,00:05:33,00:02:47,06:27:34
+ironman-70.3-singapore-20110320.csv,866,Geoffrey Adamson,38,---,CAN,00:45:16,02:55:50,02:27:20,00:04:26,00:04:31,06:17:23
+ironman-70.3-singapore-20110320.csv,867,Anthony Callaghan,35,---,AUS,00:46:49,02:49:10,02:02:12,00:04:22,00:01:35,05:44:08
+ironman-70.3-singapore-20110320.csv,868,Fergal Harris,---,Abu Dhabi,IRL,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,869,Pedro Sanchez,35,DXB,MEX,00:52:27,02:33:20,01:53:03,00:04:37,00:02:20,05:25:47
+ironman-70.3-singapore-20110320.csv,870,James Veall,36,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,871,Sean Burns,39,---,IRL,00:48:02,02:34:23,02:24:57,00:03:55,00:02:31,05:53:48
+ironman-70.3-singapore-20110320.csv,872,Christian Loos,38,DXB,AUS,00:48:45,02:55:53,---,00:07:24,00:02:58,DNF
+ironman-70.3-singapore-20110320.csv,873,Mark Jurgens,38,NY,GBR,00:57:08,03:14:00,02:19:40,00:04:51,00:04:16,06:39:55
+ironman-70.3-singapore-20110320.csv,874,Lee Buckerfield,36,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,875,Michael Lott,35,---,GBR,00:59:37,---,---,00:07:47,---,DNF
+ironman-70.3-singapore-20110320.csv,876,David Carr,---,---,GBR,00:48:26,02:46:04,02:01:58,00:04:11,00:01:58,05:42:37
+ironman-70.3-singapore-20110320.csv,877,Gregory Mcfaul,38,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,878,Gregory Lachas,37,---,FRA,00:54:15,02:52:37,02:14:29,00:07:17,00:05:19,06:13:57
+ironman-70.3-singapore-20110320.csv,879,Sven Maier,35,---,DEU,00:47:27,02:25:03,01:43:26,00:03:53,00:01:10,05:00:59
+ironman-70.3-singapore-20110320.csv,880,Wayne Richardson,37,---,GBR,00:52:14,02:28:10,01:50:59,00:03:51,00:01:29,05:16:43
+ironman-70.3-singapore-20110320.csv,881,Richard Williams,36,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,882,Graham Dolan,38,---,GBR,00:48:55,02:15:56,01:43:30,00:04:30,00:01:26,04:54:17
+ironman-70.3-singapore-20110320.csv,883,Tze Hou Tai,---,Alabama,SGP,00:58:48,02:51:45,02:28:56,00:04:18,00:01:37,06:25:24
+ironman-70.3-singapore-20110320.csv,884,Matthew Wayne,39,TX,BLR,00:43:26,02:22:33,02:10:58,00:07:26,00:04:05,05:28:28
+ironman-70.3-singapore-20110320.csv,885,Randy Schwemmin,37,MI,USA,01:13:29,03:25:52,01:32:00,00:08:54,00:05:16,DNF
+ironman-70.3-singapore-20110320.csv,886,Jonathon Partin,39,AP,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,887,zennon kapron,34,Other,USA,00:41:20,02:24:30,02:04:48,00:02:54,00:01:26,05:14:58
+ironman-70.3-singapore-20110320.csv,888,Matthew Gibbons,38,GA,USA,00:48:10,02:35:46,02:36:45,00:03:55,00:03:31,06:08:07
+ironman-70.3-singapore-20110320.csv,889,Daniel Conroy,36,CT,IRL,00:45:19,02:24:07,01:48:35,00:02:52,00:01:31,05:02:24
+ironman-70.3-singapore-20110320.csv,890,Thanh Hong,38,---,DEU,01:08:55,02:38:27,02:23:14,00:05:00,00:02:01,06:17:37
+ironman-70.3-singapore-20110320.csv,891,Todd Gilmore,39,Ho Chi Minh City,CAN,00:46:34,02:23:13,01:48:03,00:03:17,00:01:42,05:02:49
+ironman-70.3-singapore-20110320.csv,892,Brian Marshall,43,QLD,NZL,00:49:35,02:48:23,02:45:12,00:05:38,00:02:39,06:31:27
+ironman-70.3-singapore-20110320.csv,893,Darren King,42,---,AUS,00:47:24,02:50:21,02:01:09,00:05:33,00:02:23,05:46:50
+ironman-70.3-singapore-20110320.csv,894,David Mcleod,42,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,895,Christopher Brown,42,VIC,AUS,00:46:03,02:44:26,02:24:19,00:04:29,00:02:46,06:02:03
+ironman-70.3-singapore-20110320.csv,896,Jamie Irving,40,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,897,Brett Reed,41,---,AUS,00:38:12,02:34:51,02:58:41,00:03:00,00:01:33,06:16:17
+ironman-70.3-singapore-20110320.csv,898,Paul Goldman,41,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,899,Nathan Agnew,41,VIC,AUS,00:42:58,02:30:02,01:37:54,00:03:15,00:01:15,04:55:24
+ironman-70.3-singapore-20110320.csv,900,Paul Bethell,42,---,NZL,00:33:31,02:26:11,01:42:25,00:02:45,00:01:26,04:46:18
+ironman-70.3-singapore-20110320.csv,901,Martin Smart,43,---,AUS,00:48:00,02:30:14,01:56:37,00:03:43,00:01:53,05:20:27
+ironman-70.3-singapore-20110320.csv,902,Rob Suriano,41,---,AUS,00:39:35,02:26:05,01:49:52,00:02:32,00:01:34,04:59:38
+ironman-70.3-singapore-20110320.csv,903,Christian Beeson,---,Western Australia,AUS,00:54:39,02:37:30,02:49:20,00:04:36,00:03:36,06:29:41
+ironman-70.3-singapore-20110320.csv,904,Mark Firth,40,NSW,AUS,00:46:10,02:13:34,01:37:30,00:02:51,00:01:10,04:41:15
+ironman-70.3-singapore-20110320.csv,905,Peter Clark,43,WA,AUS,00:41:14,02:25:49,02:03:38,00:02:52,00:02:06,05:15:39
+ironman-70.3-singapore-20110320.csv,906,Mark Blayney,42,WA,AUS,00:49:37,02:50:36,02:59:09,00:06:12,00:04:31,06:50:05
+ironman-70.3-singapore-20110320.csv,907,David Croser,40,---,AUS,00:48:41,02:38:42,01:41:50,00:03:36,00:01:50,05:14:39
+ironman-70.3-singapore-20110320.csv,908,Peter Dennis,42,QLD,AUS,00:36:09,02:25:43,02:31:47,00:03:09,00:01:47,05:38:35
+ironman-70.3-singapore-20110320.csv,909,Ian Donlan,40,---,AUS,00:48:27,02:46:05,03:07:55,00:03:57,00:02:01,06:48:25
+ironman-70.3-singapore-20110320.csv,910,Andrew Morris,41,---,AUS,00:46:09,02:17:56,01:38:02,00:03:35,00:01:23,04:47:05
+ironman-70.3-singapore-20110320.csv,911,Tim Mccormick,43,MA,NZL,00:48:09,02:45:35,02:36:08,00:04:33,00:01:54,06:16:19
+ironman-70.3-singapore-20110320.csv,912,Angus John Wippell,44,---,AUS,00:38:35,02:26:40,02:07:23,00:05:07,00:01:26,05:19:11
+ironman-70.3-singapore-20110320.csv,913,Phillip Brownscombe,43,---,AUS,00:46:26,02:21:12,02:10:34,00:03:14,00:01:36,05:23:02
+ironman-70.3-singapore-20110320.csv,914,Kun Chow,---,Victoria,AUS,01:18:03,03:29:05,03:17:28,00:03:56,00:02:13,08:10:45
+ironman-70.3-singapore-20110320.csv,915,Nigel Goddard,41,Vientiane,GBR,00:53:52,03:11:58,02:09:08,00:08:41,00:04:49,06:28:28
+ironman-70.3-singapore-20110320.csv,916,Etienne Lefort,43,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,917,Owen Belman,41,Intl State,USA,00:46:30,02:37:19,01:50:35,00:04:23,00:02:16,05:21:03
+ironman-70.3-singapore-20110320.csv,918,Steven Dwan,---,Shanghai,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,919,Erik Paulson,43,---,USA,01:06:13,03:17:57,02:20:50,00:07:38,00:03:37,06:56:15
+ironman-70.3-singapore-20110320.csv,920,Nicolas Delagiroday,39,---,FRA,00:48:12,02:46:40,02:09:24,00:05:37,00:03:21,05:53:14
+ironman-70.3-singapore-20110320.csv,921,Stephen Radtke,42,---,USA,00:52:10,02:52:39,02:19:08,00:03:58,00:02:49,06:10:44
+ironman-70.3-singapore-20110320.csv,922,Michael Rouse,41,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,923,Andrei Tyoschin,---,Macau,CAN,00:47:27,02:36:22,02:04:42,00:04:00,00:05:16,05:37:47
+ironman-70.3-singapore-20110320.csv,924,Jan Zastera,43,---,CZE,00:47:36,02:24:26,02:03:37,00:03:36,00:01:11,05:20:26
+ironman-70.3-singapore-20110320.csv,925,Kenneth Lykke,42,DK,DNK,00:52:45,02:27:37,01:50:50,00:05:05,00:03:51,05:20:08
+ironman-70.3-singapore-20110320.csv,926,Laurent Opportune,---,New Caledonia,FRA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,927,Patrick Le Cue,43,---,FRA,01:04:12,03:02:30,02:17:17,00:04:31,00:03:02,06:31:32
+ironman-70.3-singapore-20110320.csv,928,Franck Millereux,41,---,FRA,01:04:02,02:47:30,02:21:04,00:04:28,00:02:19,06:19:23
+ironman-70.3-singapore-20110320.csv,929,Andr  Quet,---,Moorea,FRA,00:45:16,02:36:13,02:25:42,00:03:10,00:01:25,05:51:46
+ironman-70.3-singapore-20110320.csv,930,Harald Weinbrecht,43,---,DEU,00:54:08,02:47:44,01:47:11,00:03:30,00:03:02,05:35:35
+ironman-70.3-singapore-20110320.csv,931,Hans Guenther,42,OR,DEU,00:50:04,02:48:32,02:27:57,00:06:24,00:03:57,06:16:54
+ironman-70.3-singapore-20110320.csv,932,Georg Starck,40,---,DEU,00:52:22,02:36:35,01:55:11,00:03:49,00:02:21,05:30:18
+ironman-70.3-singapore-20110320.csv,933,Swen Maikranz,43,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,934,Matthew Emsley,---,Hong Kong,GBR,00:50:14,02:29:10,01:51:27,00:02:58,00:01:42,05:15:31
+ironman-70.3-singapore-20110320.csv,935,Ee Woon John Koh,---,NEW TERRITORIES,SGP,00:46:52,03:27:16,02:59:54,00:05:17,00:03:07,07:22:26
+ironman-70.3-singapore-20110320.csv,936,Mark Glossoti,39,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,937,Paul Schram,41,---,NLD,00:48:46,02:23:11,02:02:44,00:04:37,00:01:55,05:21:13
+ironman-70.3-singapore-20110320.csv,938,Rudolf Fleischmann,39,Intl State,DEU,00:55:21,02:38:39,01:51:09,00:03:24,00:01:39,05:30:12
+ironman-70.3-singapore-20110320.csv,939,Vincent Ypersiel,41,---,BEL,00:47:27,02:42:04,02:24:09,00:05:22,00:02:48,06:01:50
+ironman-70.3-singapore-20110320.csv,940,Eduard-Jan Wehry,42,---,NLD,00:54:16,02:30:23,02:03:35,00:04:05,00:01:40,05:33:59
+ironman-70.3-singapore-20110320.csv,941,Anders Kind,40,---,SWE,00:59:03,02:33:43,01:50:00,00:04:40,00:01:40,05:29:06
+ironman-70.3-singapore-20110320.csv,942,Bernard Poon,43,Intl State,HKG,01:00:07,02:53:51,02:20:12,00:04:37,00:03:16,06:22:03
+ironman-70.3-singapore-20110320.csv,943,Richard Holloway,42,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,944,Steve Willmott,40,---,GBR,00:53:49,02:35:48,02:03:25,00:03:30,00:02:27,05:38:59
+ironman-70.3-singapore-20110320.csv,945,Mark Stanley,44,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,946,Peter Steinhauer,44,---,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,947,Alejandro Tripodoro,41,---,ARG,00:45:43,02:36:14,02:05:10,00:03:56,00:02:12,05:33:15
+ironman-70.3-singapore-20110320.csv,948,Rob De Pinto,---,Hong Kong,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,949,Volker Trede,41,---,DEU,01:03:00,02:31:05,02:08:47,00:04:52,00:02:28,05:50:12
+ironman-70.3-singapore-20110320.csv,950,Chris Pollard,---,Hong Kong,GBR,00:46:43,02:22:42,01:48:08,00:03:37,00:01:52,05:03:02
+ironman-70.3-singapore-20110320.csv,951,Martin Lee,43,Wyoming,AUS,01:00:00,03:12:31,02:41:20,00:05:36,00:03:48,07:03:15
+ironman-70.3-singapore-20110320.csv,952,Kevin Ying Wai Lam,42,HKG,CHN,00:51:27,03:01:16,02:12:57,00:03:19,00:02:55,06:11:54
+ironman-70.3-singapore-20110320.csv,953,Garrett Quigley,41,Hong Kong,IRL,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,954,Daryl Albury,43,---,AUS,00:50:38,02:40:55,02:04:17,00:03:51,00:02:48,05:42:29
+ironman-70.3-singapore-20110320.csv,955,Peter Prickett,40,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,956,Jason Keg,40,---,AUS,00:42:54,02:18:11,01:50:45,00:03:21,00:01:38,04:56:49
+ironman-70.3-singapore-20110320.csv,957,Olivier Baillet,40,---,FRA,00:36:08,02:19:12,01:44:14,00:02:39,00:01:09,04:43:22
+ironman-70.3-singapore-20110320.csv,958,Hector Torres,39,---,MEX,01:03:08,03:21:35,02:29:52,00:04:56,00:04:31,07:04:02
+ironman-70.3-singapore-20110320.csv,959,John Liptak,---,Hong Kong,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,960,Claus Schuermann,44,---,DEU,00:55:07,02:45:07,02:21:36,00:04:54,00:06:20,06:13:04
+ironman-70.3-singapore-20110320.csv,961,Bruce Pye,41,---,HKG,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,962,Andrew Seiz,40,---,AUS,01:01:11,03:01:08,02:12:41,00:05:42,00:01:17,06:21:59
+ironman-70.3-singapore-20110320.csv,963,Gary Ong,42,---,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,964,Frank Harley,39,---,CAN,00:52:09,02:33:22,02:10:48,00:05:47,00:05:14,05:47:20
+ironman-70.3-singapore-20110320.csv,965,Richard Thornton,42,APO,GBR,00:47:57,02:40:51,---,00:03:42,00:02:26,DNF
+ironman-70.3-singapore-20110320.csv,966,Stephen Kanuch,43,MT,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,967,Alexander Schrantz,---,Hong Kong,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,968,Paul Dingley,41,---,ZAF,00:38:40,02:21:44,02:09:21,00:02:26,00:00:58,05:13:09
+ironman-70.3-singapore-20110320.csv,969,Ashley Dyer,40,HK,GBR,00:38:06,02:21:21,01:35:18,00:02:49,00:01:46,04:39:20
+ironman-70.3-singapore-20110320.csv,970,Arvind Bhateja,41,---,IND,01:06:38,03:08:28,02:31:42,00:03:52,00:02:38,06:53:18
+ironman-70.3-singapore-20110320.csv,971,Shashi Kumar S,---,India,IND,01:17:37,04:05:09,00:04:52,00:06:28,---,DNF
+ironman-70.3-singapore-20110320.csv,972,Timo Franciscus,40,"Jawa Barat
+Depok",IDN,00:52:33,02:52:36,02:16:12,00:05:58,00:04:16,06:11:35
+ironman-70.3-singapore-20110320.csv,973,Bob Calabritto,---,Java,USA,00:45:42,02:24:19,02:11:23,00:03:17,00:01:25,05:26:06
+ironman-70.3-singapore-20110320.csv,974,Naoki Fujimoto,42,---,JPN,00:57:06,02:55:53,02:26:38,00:03:57,00:03:49,06:27:23
+ironman-70.3-singapore-20110320.csv,975,Stephen Denton,43,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,976,Paraic Mcgrath,44,---,IRL,00:51:25,02:55:20,02:29:12,00:04:41,00:02:42,DNF
+ironman-70.3-singapore-20110320.csv,977,Bill Mccormack,42,---,IRL,00:52:37,02:24:00,01:38:08,00:03:59,00:01:34,05:00:18
+ironman-70.3-singapore-20110320.csv,978,Giuseppe  Baldelli,42,---,ITA,00:36:20,02:12:26,01:38:45,00:03:20,00:00:50,04:31:41
+ironman-70.3-singapore-20110320.csv,979,Takayuki Suzuki,40,---,JPN,01:00:31,02:51:51,02:36:47,00:04:38,00:05:01,06:38:48
+ironman-70.3-singapore-20110320.csv,980,Jean-Marc Morange,43,Tokyo,FRA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,981,Tomoki Hatoko,40,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,982,Hiroyuki Iida,42,Aichi,JPN,00:39:05,02:23:27,02:32:24,00:02:54,00:02:49,05:40:39
+ironman-70.3-singapore-20110320.csv,983,Shinichiro Ishikawa,42,Tokyo,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,984,Masatoshi Uematsu,42,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,985,Christopher Couch,41,MI,USA,00:47:47,02:27:50,02:14:59,00:04:55,00:03:34,05:39:05
+ironman-70.3-singapore-20110320.csv,986,Nobuaki Ito,41,TOKYO,JPN,00:54:42,02:38:43,02:22:03,00:03:25,00:01:55,06:00:48
+ironman-70.3-singapore-20110320.csv,987,Hirofumi Uchiyama,---,Tokyo,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,988,Hiroshi Hirano,41,Hyogo,JPN,00:43:52,02:32:37,02:00:55,00:05:12,00:01:36,05:24:12
+ironman-70.3-singapore-20110320.csv,989,David Sims,40,Tokyo,AUS,00:40:27,02:19:56,02:11:02,00:03:17,00:01:11,05:15:53
+ironman-70.3-singapore-20110320.csv,990,Seiji Fukuoka,42,---,JPN,00:59:42,03:26:26,03:14:53,00:05:59,00:04:35,07:51:35
+ironman-70.3-singapore-20110320.csv,991,Dr Dre Dreher,40,Hamburg,DEU,01:01:37,03:05:29,03:03:27,00:06:26,00:02:43,07:19:42
+ironman-70.3-singapore-20110320.csv,992,Andrew Hoppe,42,---,AUS,00:43:48,02:42:20,02:01:29,00:05:39,00:03:10,05:36:26
+ironman-70.3-singapore-20110320.csv,993,Shinji Isayama,42,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,994,Yoshiki Hiraku,42,Intl State,JPN,00:58:44,03:26:25,03:15:03,00:07:00,00:04:34,07:51:46
+ironman-70.3-singapore-20110320.csv,995,Per-Fredrik Hagermark,41,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,996,Derek Sands,42,---,AUS,00:51:11,02:26:49,---,00:04:13,00:02:41,DNF
+ironman-70.3-singapore-20110320.csv,997,Richard Tang,39,selangor,MYS,00:53:36,02:35:02,01:46:57,00:03:47,00:01:28,05:20:50
+ironman-70.3-singapore-20110320.csv,998,Gunananthan Nithyanantham,42,---,MYS,01:03:44,02:52:06,02:42:44,00:06:25,00:04:08,06:49:07
+ironman-70.3-singapore-20110320.csv,999,Damian Baynes,41,SA,AUS,00:45:46,02:13:20,01:54:56,00:03:30,00:01:45,04:59:17
+ironman-70.3-singapore-20110320.csv,1000,Guillaume Laffont De Colonges,42,---,FRA,01:08:14,03:00:00,02:48:48,00:05:54,00:04:03,07:06:59
+ironman-70.3-singapore-20110320.csv,1001,Jean Philippe Race,41,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1002,Terence Gallagher,41,---,AUS,00:46:24,02:25:01,02:13:17,00:02:27,00:01:00,05:28:09
+ironman-70.3-singapore-20110320.csv,1003,Michael Dolan,43,IA,USA,00:59:05,02:49:45,02:12:55,00:04:19,00:02:19,06:08:23
+ironman-70.3-singapore-20110320.csv,1004,Hussain Haleem,---,---,MDV,00:40:41,03:00:17,01:57:05,00:03:55,00:01:48,05:43:46
+ironman-70.3-singapore-20110320.csv,1005,Ricky Simonsen,42,NTL,NZL,00:37:48,02:11:46,01:41:02,00:02:41,00:01:21,04:34:38
+ironman-70.3-singapore-20110320.csv,1006,Javier De La Flor,40,---,PER,00:41:56,02:29:25,02:01:52,00:03:44,00:01:51,05:18:48
+ironman-70.3-singapore-20110320.csv,1007,Vlad Hufana,40,---,PHL,01:07:59,03:03:03,02:42:02,00:04:12,00:02:53,07:00:09
+ironman-70.3-singapore-20110320.csv,1008,Soriano Yu,44,---,PHL,00:55:58,02:39:31,02:08:03,00:06:15,00:02:13,05:52:00
+ironman-70.3-singapore-20110320.csv,1009,Ariel Arriola,40,Intl State,PHL,01:05:11,02:55:08,02:24:24,00:06:08,00:04:47,06:35:38
+ironman-70.3-singapore-20110320.csv,1010,john villanueva,43,Intl State,PHL,00:52:18,02:33:29,02:10:17,00:04:21,00:02:28,05:42:53
+ironman-70.3-singapore-20110320.csv,1011,Arnold Roy Jimenez,---,NCR,PHL,00:54:39,02:47:54,02:37:48,00:05:08,00:05:50,06:31:19
+ironman-70.3-singapore-20110320.csv,1012,Tenggoy Colmenares,44,---,PHL,00:54:08,02:51:22,02:13:49,00:04:16,00:02:57,06:06:32
+ironman-70.3-singapore-20110320.csv,1013,Malcolm Geluk,41,---,NZL,00:37:59,02:21:21,01:58:51,00:03:04,00:01:43,05:02:58
+ironman-70.3-singapore-20110320.csv,1014,Thorsten Bals,42,---,DEU,00:41:55,02:39:56,02:16:42,00:03:17,00:02:11,05:44:01
+ironman-70.3-singapore-20110320.csv,1015,Ma Chi Ming Brian,41,---,HKG,01:14:25,00:59:47,---,00:09:37,---,DNF
+ironman-70.3-singapore-20110320.csv,1016,Sunari Kateni,44,---,SGP,01:04:30,02:51:40,02:38:06,00:04:42,00:03:31,06:42:29
+ironman-70.3-singapore-20110320.csv,1017,Peter Newing,43,---,GBR,00:50:59,02:41:09,---,00:04:19,00:01:36,DNF
+ironman-70.3-singapore-20110320.csv,1018,Chwee Ann Lim,43,---,SGP,00:50:00,02:45:21,02:45:15,00:04:50,00:03:45,06:29:11
+ironman-70.3-singapore-20110320.csv,1019,James Brodie,41,---,GBR,00:52:31,02:22:42,02:11:29,00:04:12,00:01:50,05:32:44
+ironman-70.3-singapore-20110320.csv,1020,Chin Eng Neo,44,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1021,Kevin Mcgregor,42,Kent,GBR,00:45:13,02:21:22,02:07:45,00:04:13,00:01:16,05:19:49
+ironman-70.3-singapore-20110320.csv,1022,Richard Duggan,42,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1023,Jit Khoon Tan,43,---,SGP,00:45:20,02:52:13,02:16:07,00:05:57,00:02:15,06:01:52
+ironman-70.3-singapore-20110320.csv,1024,Swee Ann Kang,43,---,SGP,01:03:11,02:54:53,02:11:10,00:05:10,00:02:39,06:17:03
+ironman-70.3-singapore-20110320.csv,1025,Lawrence Teh,41,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1026,Seng Hoe Tan,-1,---,SGP,00:52:21,02:41:29,02:19:49,00:03:39,00:02:26,05:59:44
+ironman-70.3-singapore-20110320.csv,1027,Puay Wee Leo,40,---,SGP,01:00:02,03:06:29,02:43:49,00:06:42,00:04:19,07:01:21
+ironman-70.3-singapore-20110320.csv,1028,David Lim,43,---,SGP,00:41:44,02:38:03,01:56:56,00:02:50,00:01:11,05:20:44
+ironman-70.3-singapore-20110320.csv,1029,Samuel Wee,43,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1030,Andrew Lloyd,41,---,SGP,01:06:19,02:15:00,02:21:57,00:06:35,00:04:05,DNF
+ironman-70.3-singapore-20110320.csv,1031,Stephen Ames,---,Singapore,GBR,00:48:27,02:21:17,02:16:07,00:03:47,00:01:49,05:31:27
+ironman-70.3-singapore-20110320.csv,1032,Ng Kok Wei Ng,42,---,SGP,00:46:10,03:07:17,02:35:02,00:04:33,00:01:58,06:35:00
+ironman-70.3-singapore-20110320.csv,1033,David Cook,41,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1034,Bob Wong,44,NSW,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1035,Lee Hock James Tan,43,---,SGP,01:06:53,03:08:34,03:47:40,00:09:10,00:04:31,08:16:48
+ironman-70.3-singapore-20110320.csv,1036,Mark Kearney,---,Singapore,IRL,00:53:09,02:34:52,02:06:01,00:04:40,00:02:41,05:41:23
+ironman-70.3-singapore-20110320.csv,1037,Christopher Lim,42,---,AUS,01:02:43,02:48:42,02:35:29,00:06:59,00:04:59,06:38:52
+ironman-70.3-singapore-20110320.csv,1038,Andrew Thomson,42,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1039,Andreas Goros,42,---,GRC,00:41:14,02:31:27,01:51:24,00:03:16,00:02:03,05:09:24
+ironman-70.3-singapore-20110320.csv,1040,David Chua Eng Kee,---,Singapore,SGP,01:04:48,02:38:39,02:15:11,00:05:30,00:02:55,06:07:03
+ironman-70.3-singapore-20110320.csv,1041,Takeshi Sayama,42,---,JPN,00:46:48,03:39:57,02:27:15,00:07:20,00:04:30,07:05:50
+ironman-70.3-singapore-20110320.csv,1042,Jin Loy,41,---,SGP,01:05:57,03:03:10,01:59:56,00:05:00,00:04:00,06:18:03
+ironman-70.3-singapore-20110320.csv,1043,Patrick Chiang,44,---,SGP,01:01:13,02:46:39,02:48:10,00:06:53,00:03:27,06:46:22
+ironman-70.3-singapore-20110320.csv,1044,Raymond Teo,42,---,SGP,00:59:02,02:55:37,02:24:39,00:03:39,00:02:40,06:25:37
+ironman-70.3-singapore-20110320.csv,1045,Hashimoto Tomohiro,39,---,JPN,00:52:41,02:22:30,01:47:42,00:04:10,00:01:36,05:08:39
+ironman-70.3-singapore-20110320.csv,1046,Steve Chia,40,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1047,Alex Yeong,42,---,SGP,00:52:18,02:40:05,02:09:55,00:05:24,00:02:35,05:50:17
+ironman-70.3-singapore-20110320.csv,1048,Siew Keong Mah,---,Singapore,SGP,00:56:51,02:48:07,02:09:48,00:04:15,00:02:43,06:01:44
+ironman-70.3-singapore-20110320.csv,1049,Martijn Van Koten,41,---,NLD,00:55:22,02:29:58,01:59:46,00:04:11,00:01:40,05:30:57
+ironman-70.3-singapore-20110320.csv,1050,Paul Cheung-Glassman,44,---,SGP,00:57:30,02:54:44,02:49:38,00:04:34,00:05:07,06:51:33
+ironman-70.3-singapore-20110320.csv,1051,John Boo,44,---,SGP,00:57:52,02:52:45,02:39:23,00:11:34,00:04:35,06:46:09
+ironman-70.3-singapore-20110320.csv,1052,Chee Meng Chan,42,---,SGP,01:00:03,02:38:17,02:05:41,00:05:56,00:02:57,05:52:54
+ironman-70.3-singapore-20110320.csv,1053,Nelson Quek,43,---,SGP,01:08:01,02:58:17,02:44:12,00:05:46,00:03:29,06:59:45
+ironman-70.3-singapore-20110320.csv,1054,Malcolm Harrow,44,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1055,Yee Keong Lam,43,---,SGP,00:50:22,02:49:22,02:15:14,00:07:10,00:03:49,06:05:57
+ironman-70.3-singapore-20110320.csv,1056,Conrad Yeo,41,---,SGP,00:58:35,02:45:38,02:19:17,00:04:33,00:02:37,06:10:40
+ironman-70.3-singapore-20110320.csv,1057,Giles Poppleton,40,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1058,Limjeremy@ymail.Com Lim,41,---,SGP,01:09:02,03:21:15,02:27:58,00:04:07,00:02:26,07:04:48
+ironman-70.3-singapore-20110320.csv,1059,Kelvin Phua,41,---,SGP,01:09:15,03:04:22,02:45:32,00:05:26,00:05:09,07:09:44
+ironman-70.3-singapore-20110320.csv,1060,Hai Kian Loh,---,Singapore,SGP,01:11:13,03:41:09,02:59:16,00:06:08,00:03:06,08:00:52
+ironman-70.3-singapore-20110320.csv,1061,Francis Sim,40,---,SGP,01:02:00,03:08:54,02:06:42,00:06:46,00:03:25,06:27:47
+ironman-70.3-singapore-20110320.csv,1062,Wai Mun Toh,42,SG,SGP,00:51:56,02:42:38,02:34:21,00:05:56,00:02:46,06:17:37
+ironman-70.3-singapore-20110320.csv,1063,Thong San Soh,41,---,SGP,01:03:58,02:39:50,02:00:41,00:06:51,00:04:00,05:55:20
+ironman-70.3-singapore-20110320.csv,1064,Graeme Lees,44,---,GBR,00:55:50,02:34:24,02:41:54,00:04:46,00:02:02,06:18:56
+ironman-70.3-singapore-20110320.csv,1065,Swee Hiang Chung,41,---,SGP,01:01:14,03:05:59,02:24:16,00:04:50,00:02:18,06:38:37
+ironman-70.3-singapore-20110320.csv,1066,Stuart Mort,40,NSW,GBR,00:47:39,02:41:27,02:43:02,00:03:47,00:02:28,06:18:23
+ironman-70.3-singapore-20110320.csv,1067,Dean Pearce,40,---,GBR,00:48:55,02:30:09,01:47:12,00:03:41,00:01:03,05:11:00
+ironman-70.3-singapore-20110320.csv,1068,Ned Phillips,43,---,GBR,00:44:55,02:20:09,01:37:07,00:03:02,00:01:00,04:46:13
+ironman-70.3-singapore-20110320.csv,1069,Sante Scartozzi,43,---,AUS,00:57:07,02:45:29,02:01:15,00:03:45,00:02:53,05:50:29
+ironman-70.3-singapore-20110320.csv,1070,Yeong Phang Lim,43,---,SGP,00:58:48,02:51:22,02:32:12,00:07:00,00:04:03,06:33:25
+ironman-70.3-singapore-20110320.csv,1071,Rodrigo Gonzalez,43,---,CHL,00:43:58,02:18:12,01:44:27,00:03:48,00:02:28,04:52:53
+ironman-70.3-singapore-20110320.csv,1072,Han Chee Lim,42,---,SGP,01:11:37,03:18:01,02:10:12,00:05:32,00:05:14,06:50:36
+ironman-70.3-singapore-20110320.csv,1073,James Mudie,42,---,AUS,00:47:45,02:42:44,01:59:56,00:04:48,00:03:04,05:38:17
+ironman-70.3-singapore-20110320.csv,1074,John Mccann,40,---,GBR,00:45:59,02:28:38,---,00:04:05,00:02:52,DNF
+ironman-70.3-singapore-20110320.csv,1075,Benny Lim,40,---,SGP,00:52:26,02:51:33,02:20:47,00:04:24,00:02:22,06:11:32
+ironman-70.3-singapore-20110320.csv,1076,Arjan Roukema,40,---,ANT,00:43:41,02:45:04,02:26:51,00:05:52,00:01:44,06:03:12
+ironman-70.3-singapore-20110320.csv,1077,Paul Sakrzewski,43,---,AUS,00:43:12,02:24:04,01:53:49,00:03:04,00:01:36,05:05:45
+ironman-70.3-singapore-20110320.csv,1078,Ron Lim,42,SG,SGP,01:06:21,02:59:15,02:40:53,00:03:59,00:03:05,06:53:33
+ironman-70.3-singapore-20110320.csv,1079,Gary Mcquain,45,SG,USA,01:07:18,03:04:31,02:53:15,00:05:55,00:05:04,07:16:03
+ironman-70.3-singapore-20110320.csv,1080,Tan David Tan Puay Meng,41,---,SGP,01:01:23,02:55:00,02:16:08,00:04:34,00:02:10,DNF
+ironman-70.3-singapore-20110320.csv,1081,Wee Han,41,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1082,Ahmed Al-Awa,42,---,GBR,00:50:52,02:23:19,01:42:59,00:03:34,00:02:20,05:03:04
+ironman-70.3-singapore-20110320.csv,1083,Chris Foo,43,---,SGP,01:04:49,02:57:14,02:36:44,00:04:41,00:02:49,06:46:17
+ironman-70.3-singapore-20110320.csv,1084,Hoewai Cheng,---,Singapore,SGP,01:04:50,03:00:18,02:24:20,00:08:23,00:04:09,06:42:00
+ironman-70.3-singapore-20110320.csv,1085,Sirieix Laurent,40,Shanghai,FRA,00:52:24,02:38:59,02:23:10,00:07:15,00:02:38,06:04:26
+ironman-70.3-singapore-20110320.csv,1086,Daniel Ho,42,---,SGP,00:52:29,02:55:09,02:26:57,00:06:18,00:04:18,06:25:11
+ironman-70.3-singapore-20110320.csv,1087,Andrew Pereira,39,SG,SGP,01:03:33,02:56:53,02:44:31,00:07:38,00:03:32,06:56:07
+ironman-70.3-singapore-20110320.csv,1088,Boon Wee Quah,40,---,SGP,00:53:02,02:48:04,02:01:26,00:06:15,00:03:32,05:52:19
+ironman-70.3-singapore-20110320.csv,1089,Desmond Chong,40,---,SGP,01:04:36,02:47:22,02:49:06,00:06:36,00:03:56,06:51:36
+ironman-70.3-singapore-20110320.csv,1090,Neil Jones,44,---,AUS,00:52:16,02:42:27,02:20:13,00:08:37,00:08:13,06:11:46
+ironman-70.3-singapore-20110320.csv,1091,Andy Paddock,---,Singapore,GBR,00:49:47,02:49:31,02:21:47,00:04:32,00:03:07,06:08:44
+ironman-70.3-singapore-20110320.csv,1092,Guek Fah Ng,41,---,SGP,00:50:46,02:29:47,02:15:56,00:04:23,00:02:08,05:43:00
+ironman-70.3-singapore-20110320.csv,1093,Kevin Hill,39,DXB,NZL,00:39:12,02:17:14,02:09:21,00:02:50,00:02:09,05:10:46
+ironman-70.3-singapore-20110320.csv,1094,Sebastian Giebel,40,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1095,Ole Jacob Irgens,41,---,NOR,00:37:07,02:42:43,---,00:03:30,00:04:59,DNF
+ironman-70.3-singapore-20110320.csv,1096,Maurice Humphries,43,Vietnam,GBR,01:12:13,03:19:06,02:28:59,00:05:10,00:03:03,07:08:31
+ironman-70.3-singapore-20110320.csv,1097,Patrick Tan,41,---,SGP,01:10:28,02:24:46,02:39:02,00:06:13,00:02:33,DNF
+ironman-70.3-singapore-20110320.csv,1098,Christophe Maisonnave,42,SG,FRA,00:51:15,02:40:13,02:16:35,00:06:28,00:04:23,05:58:54
+ironman-70.3-singapore-20110320.csv,1099,Lin Koon Tan,43,---,SGP,01:03:58,03:24:30,03:00:39,00:05:06,00:03:43,07:37:56
+ironman-70.3-singapore-20110320.csv,1100,Teck Sing Kee,41,---,SGP,00:58:03,02:54:27,02:26:32,00:05:56,00:03:29,06:28:27
+ironman-70.3-singapore-20110320.csv,1101,Aswira A'sat,41,---,SGP,01:12:54,02:03:49,02:34:59,00:05:32,00:02:23,DNF
+ironman-70.3-singapore-20110320.csv,1103,Allan Norton,42,---,AUS,00:43:02,02:26:59,01:44:30,00:03:18,00:01:06,04:58:55
+ironman-70.3-singapore-20110320.csv,1104,Anthony Fesche,41,---,NZL,00:43:11,02:25:46,01:52:29,00:03:28,00:08:03,05:12:57
+ironman-70.3-singapore-20110320.csv,1105,Anthony Warner,41,Kent,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1106,Jay Lim,42,---,SGP,01:11:17,03:10:25,02:25:44,00:04:17,00:02:21,06:54:04
+ironman-70.3-singapore-20110320.csv,1107,Irwan Tomin,---,Singapore,SGP,00:53:48,02:40:25,02:32:38,00:05:20,00:02:07,06:14:18
+ironman-70.3-singapore-20110320.csv,1108,Juergen Doerr,43,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1109,Melvyn Lee,39,---,SGP,00:48:02,02:51:02,02:24:53,00:05:55,00:04:50,06:14:42
+ironman-70.3-singapore-20110320.csv,1110,Juan Falck,40,SG,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1111,Michael Flynn,40,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1112,Seek Onn Yit,43,---,SGP,01:11:09,02:29:25,02:28:23,00:05:30,00:02:39,DNF
+ironman-70.3-singapore-20110320.csv,1113,Wee Khoon Yeo,42,---,SGP,00:52:02,02:44:25,02:23:31,00:04:40,00:05:39,06:10:17
+ironman-70.3-singapore-20110320.csv,1114,Dave Timm,41,VIC,GBR,01:00:30,03:00:34,03:02:10,00:06:26,00:04:38,07:14:18
+ironman-70.3-singapore-20110320.csv,1115,Jason Humphries,41,---,GBR,00:50:54,02:41:24,02:06:30,00:03:22,00:02:53,05:45:03
+ironman-70.3-singapore-20110320.csv,1116,Christopher Lee,45,---,SGP,01:03:22,03:11:00,02:30:10,00:05:08,00:02:51,06:52:31
+ironman-70.3-singapore-20110320.csv,1117,Sky Tung,41,SG,SGP,00:57:45,03:15:01,03:13:42,00:07:04,00:06:06,07:39:38
+ironman-70.3-singapore-20110320.csv,1118,Jeremy Seah,40,---,SGP,00:55:53,02:44:36,02:28:27,00:03:32,00:01:55,06:14:23
+ironman-70.3-singapore-20110320.csv,1119,Peter Maccallum,40,---,GBR,00:56:28,03:03:52,03:01:50,00:10:48,00:05:33,07:18:31
+ironman-70.3-singapore-20110320.csv,1120,Lawrence Wong,42,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1121,Kenneth Michie,42,Kent,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1122,Richard Howell,40,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1123,Rick Bower,40,---,AUS,00:59:16,03:33:13,03:04:59,00:06:14,00:03:31,07:47:13
+ironman-70.3-singapore-20110320.csv,1124,Bobby Bostic,42,CA,KOR,00:44:51,02:16:53,02:12:54,00:03:01,00:01:26,05:19:05
+ironman-70.3-singapore-20110320.csv,1125,Steven  tucker,43,---,USA,00:44:52,02:28:01,02:17:28,00:05:28,00:02:39,05:38:28
+ironman-70.3-singapore-20110320.csv,1126,John Paul Vinco,39,---,PHL,01:01:14,02:45:37,02:05:59,00:04:48,00:01:29,05:59:07
+ironman-70.3-singapore-20110320.csv,1127,Mohd Redzwa Mat Nor,41,---,SGP,01:02:55,03:06:56,03:14:04,00:05:12,00:03:47,07:32:54
+ironman-70.3-singapore-20110320.csv,1128,Kahwai Pow,41,---,SGP,00:46:46,03:04:40,02:40:57,00:08:49,00:03:48,06:45:00
+ironman-70.3-singapore-20110320.csv,1129,Mark Laming,40,---,AUS,01:01:52,03:05:59,02:28:52,00:05:17,00:03:08,06:45:08
+ironman-70.3-singapore-20110320.csv,1130,Patrick Ong Choon Hua,42,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1131,Joo Huat Lau,40,---,SGP,00:56:57,03:00:19,03:35:12,00:05:42,00:02:40,07:40:50
+ironman-70.3-singapore-20110320.csv,1132,Graham Ross,44,NY,AUS,00:44:35,02:38:41,02:19:06,00:03:58,00:01:55,05:48:15
+ironman-70.3-singapore-20110320.csv,1133,Heejoon Wakabayashi,40,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1134,Christopher Knott,42,---,AUS,00:58:47,02:44:20,02:07:07,00:06:13,00:05:23,06:01:50
+ironman-70.3-singapore-20110320.csv,1135,Yow Wee Siu,41,---,SGP,01:05:42,03:13:00,03:03:01,00:05:32,00:04:19,07:31:34
+ironman-70.3-singapore-20110320.csv,1136,Michael Chia,41,---,SGP,01:10:12,02:57:29,02:35:19,00:04:31,00:02:03,06:49:34
+ironman-70.3-singapore-20110320.csv,1137,Geoff Sawyer,42,---,GBR,00:45:11,02:36:02,01:53:53,00:04:02,00:01:48,05:20:56
+ironman-70.3-singapore-20110320.csv,1138,Colin Dailey,42,---,USA,00:50:33,02:41:13,02:44:07,00:06:53,00:04:49,06:27:35
+ironman-70.3-singapore-20110320.csv,1139,Mark Lampard,41,---,CAN,00:39:51,02:19:14,01:57:16,00:03:43,00:01:55,05:01:59
+ironman-70.3-singapore-20110320.csv,1140,Kanagarajah Nadarajah,42,---,SGP,01:05:45,02:40:44,02:10:58,00:04:15,00:02:26,06:04:08
+ironman-70.3-singapore-20110320.csv,1141,Stephen Langdown,40,HARYANA,GBR,00:48:21,02:55:36,02:27:57,00:06:38,00:05:35,06:24:07
+ironman-70.3-singapore-20110320.csv,1142,Simon Kandel,41,---,DEU,00:46:14,02:45:18,02:23:48,00:04:21,00:01:50,06:01:31
+ironman-70.3-singapore-20110320.csv,1143,Rick Laner,42,TX,AUS,00:45:19,02:46:11,02:08:19,00:04:43,00:02:30,05:47:02
+ironman-70.3-singapore-20110320.csv,1144,Richard Waddington,42,---,CHE,00:58:26,02:18:25,---,00:03:03,00:02:05,DNF
+ironman-70.3-singapore-20110320.csv,1145,Paul Andersen,40,---,NZL,00:46:36,02:56:53,02:38:42,00:08:35,00:04:54,06:35:40
+ironman-70.3-singapore-20110320.csv,1146,Robert Lee,44,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1147,Benjamin Arnott,40,---,GBR,00:52:46,02:24:00,01:44:14,00:05:15,00:03:02,05:09:17
+ironman-70.3-singapore-20110320.csv,1148,Thomas Konrad,44,---,DEU,01:00:57,02:43:01,02:14:08,00:06:16,00:03:01,06:07:23
+ironman-70.3-singapore-20110320.csv,1149,Greg Unsworth,41,Other,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1150,Jean Eichaker,40,---,FRA,00:42:41,02:47:01,01:40:39,00:04:10,00:01:32,05:16:03
+ironman-70.3-singapore-20110320.csv,1151,Gene Kam,40,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1152,Fook Weng Chee,40,---,SGP,00:59:05,03:03:23,02:47:37,00:03:43,00:03:19,06:57:07
+ironman-70.3-singapore-20110320.csv,1153,Richard Thevenon,41,---,GBR,00:40:37,02:22:08,01:40:12,00:03:26,00:03:00,04:49:23
+ironman-70.3-singapore-20110320.csv,1154,Richard Nicholas,43,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1155,Steffen Wolf,41,SG,DEU,00:50:26,02:25:28,02:08:07,00:03:33,00:02:27,05:30:01
+ironman-70.3-singapore-20110320.csv,1156,Alex Poon,43,---,SGP,00:58:49,03:00:38,02:21:59,00:05:01,00:02:43,06:29:10
+ironman-70.3-singapore-20110320.csv,1157,Adrian Johnston,40,QLD,AUS,00:41:40,02:28:57,02:09:16,00:03:44,00:01:59,05:25:36
+ironman-70.3-singapore-20110320.csv,1158,Boon Kiat Kenneth Tan,40,---,SGP,01:02:05,03:05:52,02:35:41,00:05:32,00:04:36,06:53:46
+ironman-70.3-singapore-20110320.csv,1159,Andrew Martin,43,---,AUS,00:41:11,02:30:07,01:50:57,00:03:05,00:01:36,05:06:56
+ironman-70.3-singapore-20110320.csv,1160,Marco Dittrich,42,---,DEU,00:43:18,02:48:32,02:12:00,00:03:05,00:01:51,05:48:46
+ironman-70.3-singapore-20110320.csv,1161,Hyung Joo Kim,---,Singapore,USA,00:54:33,03:00:01,02:20:47,00:04:44,00:02:56,06:23:01
+ironman-70.3-singapore-20110320.csv,1162,Peng Chuah Lee,---,Singapore,SGP,00:45:38,02:47:28,02:34:21,00:04:06,00:03:10,06:14:43
+ironman-70.3-singapore-20110320.csv,1163,Martin Reynolds,43,---,GBR,00:43:59,02:25:56,01:43:49,00:03:57,00:01:04,04:58:45
+ironman-70.3-singapore-20110320.csv,1164,Yik Tan,41,---,SGP,01:00:22,02:49:30,02:41:02,00:05:51,00:04:31,06:41:16
+ironman-70.3-singapore-20110320.csv,1165,Eugene Quass,43,---,AUS,00:46:27,02:21:07,---,00:03:52,00:02:31,DNF
+ironman-70.3-singapore-20110320.csv,1166,Lucius Norris,41,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1167,Richard Lau,40,---,SGP,00:58:39,02:37:35,02:09:59,00:03:20,00:02:07,05:51:40
+ironman-70.3-singapore-20110320.csv,1168,Jonathan Gabler,39,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1169,Bernard Reeves,39,Intl State,CAN,00:43:09,02:34:31,01:49:58,00:03:57,00:02:01,05:13:36
+ironman-70.3-singapore-20110320.csv,1170,Mohamad Husainy,---,Singapore,SGP,01:02:54,02:46:25,02:39:37,00:04:28,00:03:10,06:36:34
+ironman-70.3-singapore-20110320.csv,1171,A Muzzamir Ismail,---,Singapore,SGP,01:15:26,02:04:36,03:01:10,00:03:28,00:01:39,DNF
+ironman-70.3-singapore-20110320.csv,1172,Peter Bennett,41,---,GBR,01:04:59,02:32:00,02:10:31,00:04:41,00:01:58,05:54:09
+ironman-70.3-singapore-20110320.csv,1173,Christopher Marshall,39,---,USA,01:09:01,02:52:35,02:18:42,00:04:06,00:04:55,06:29:19
+ironman-70.3-singapore-20110320.csv,1174,Khai Hon Ow Yeong,41,---,SGP,01:01:40,02:59:34,02:42:12,00:04:37,00:04:38,DNF
+ironman-70.3-singapore-20110320.csv,1175,Derek Tay,41,CA,SGP,00:48:35,02:29:26,01:48:48,00:04:08,00:01:38,05:12:35
+ironman-70.3-singapore-20110320.csv,1176,Tsuyoshi Minami,40,---,JPN,00:50:27,02:31:27,02:20:16,00:03:38,00:01:58,05:47:46
+ironman-70.3-singapore-20110320.csv,1177,Collin Tan,43,SG,SGP,00:50:58,03:10:34,02:56:04,00:12:54,00:05:48,07:16:18
+ironman-70.3-singapore-20110320.csv,1178,Muhamad Hamim Bin Abdul Rahim,---,Singapore,SGP,01:01:36,02:37:49,02:41:01,00:04:24,00:01:41,06:26:31
+ironman-70.3-singapore-20110320.csv,1179,Colin Macfarlan,43,---,AUS,01:07:34,02:49:42,02:51:38,00:04:26,00:04:14,06:57:34
+ironman-70.3-singapore-20110320.csv,1180,Lee Yee Mun,42,---,SGP,01:05:14,02:59:41,02:13:02,00:04:01,00:02:15,06:24:13
+ironman-70.3-singapore-20110320.csv,1181,Hisashi Miyagawa,40,---,JPN,00:50:40,02:31:11,02:02:36,00:03:40,00:02:02,05:30:09
+ironman-70.3-singapore-20110320.csv,1182,Yen Khiong Lawrence Kwok,42,---,SGP,00:55:58,03:08:17,02:15:25,00:05:57,00:03:59,06:29:36
+ironman-70.3-singapore-20110320.csv,1183,Hock Lin Sng,41,---,SGP,01:14:40,03:07:02,02:43:14,00:04:22,00:02:41,07:11:59
+ironman-70.3-singapore-20110320.csv,1184,Joris Beerda,---,Singapore,NLD,00:48:28,02:44:52,02:25:31,00:05:16,00:04:52,06:08:59
+ironman-70.3-singapore-20110320.csv,1185,Tze Chung Cheng,41,---,SGP,00:50:03,02:29:23,02:09:26,00:03:10,00:01:20,05:33:22
+ironman-70.3-singapore-20110320.csv,1186,Daniel Geary,41,---,IRL,00:41:21,02:34:36,02:11:04,00:04:29,00:02:39,05:34:09
+ironman-70.3-singapore-20110320.csv,1187,Desmond Yew,40,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1188,Ernest Heng,43,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1189,Arnaud Selukov,42,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1190,Alexander Knox,---,Singapore,GBR,00:53:39,02:36:32,01:30:09,00:04:38,00:05:31,DNF
+ironman-70.3-singapore-20110320.csv,1191,Boon Tiong Oh,41,---,SGP,00:54:21,03:01:34,02:26:49,00:04:29,00:02:41,06:29:54
+ironman-70.3-singapore-20110320.csv,1192,Boon Hwa Sim,44,---,SGP,04:36:04,03:01:53,02:18:17,---,00:03:12,06:31:43
+ironman-70.3-singapore-20110320.csv,1193,Boon Wah Tan,41,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1194,Chee Meng Kwek,43,---,SGP,01:01:55,02:53:19,02:35:11,00:05:13,00:04:32,06:40:10
+ironman-70.3-singapore-20110320.csv,1195,Keok Kee Pwoh,41,---,SGP,00:57:05,03:07:33,02:34:00,00:05:26,00:03:21,06:47:25
+ironman-70.3-singapore-20110320.csv,1196,Richard Finlayson,41,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1197,Glenn Corrie,39,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1198,James Middleditch,40,---,GBR,00:45:38,02:15:29,01:33:21,00:03:12,00:01:13,04:38:53
+ironman-70.3-singapore-20110320.csv,1199,Dughall Aitken,42,---,GBR,00:38:43,02:17:42,---,00:03:06,00:01:24,DNF
+ironman-70.3-singapore-20110320.csv,1200,Paul Dalton,41,---,AUS,00:51:05,02:51:12,02:40:01,00:04:40,00:03:32,06:30:30
+ironman-70.3-singapore-20110320.csv,1201,Chang Kien,40,---,SGP,01:02:36,02:57:35,01:56:47,00:10:20,00:03:13,06:10:31
+ironman-70.3-singapore-20110320.csv,1202,Jenns Hofmann,42,---,DEU,00:52:57,02:33:32,02:33:42,00:06:06,00:02:50,06:09:07
+ironman-70.3-singapore-20110320.csv,1203,Gary Ortega,39,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1204,Abdul Malik,41,---,SGP,01:07:05,03:25:49,03:23:58,00:06:45,00:06:11,08:09:48
+ironman-70.3-singapore-20110320.csv,1205,Reto Kaufmann,41,---,CHE,00:59:48,02:39:23,02:04:58,00:04:08,00:02:20,05:50:37
+ironman-70.3-singapore-20110320.csv,1206,Kelvin Blacklock,42,---,GBR,00:51:44,02:32:05,02:01:28,00:05:00,00:02:47,05:33:04
+ironman-70.3-singapore-20110320.csv,1207,Bruno Lebeda,42,---,FRA,00:46:07,02:18:40,02:00:03,00:03:34,00:01:26,DNF
+ironman-70.3-singapore-20110320.csv,1208,Peter Khoo,41,---,MYS,00:57:42,02:51:36,01:48:28,00:04:27,00:03:21,05:45:34
+ironman-70.3-singapore-20110320.csv,1209,Liam Winston,41,---,IRL,00:44:46,02:16:53,02:05:55,00:04:12,00:01:46,05:13:32
+ironman-70.3-singapore-20110320.csv,1210,William Ledbetter,43,---,USA,01:02:31,03:34:18,03:07:04,00:10:26,00:12:12,08:06:31
+ironman-70.3-singapore-20110320.csv,1211,Jacob Lieu,43,---,SGP,01:00:58,03:09:23,01:50:42,00:05:39,00:01:57,06:08:39
+ironman-70.3-singapore-20110320.csv,1212,Patrick Poetzsch,40,---,DEU,00:38:47,02:18:06,01:35:50,00:02:30,00:01:14,04:36:27
+ironman-70.3-singapore-20110320.csv,1213,Mohamad Zulkifli Hanafi,40,---,SGP,01:07:22,03:22:22,02:40:57,00:04:17,00:01:35,07:16:33
+ironman-70.3-singapore-20110320.csv,1214,Thomas Chevrier,39,Intl State,FRA,00:48:35,02:50:05,02:30:10,00:04:34,00:02:43,06:16:07
+ironman-70.3-singapore-20110320.csv,1215,Alejandro  Arboleda,41,---,USA,00:51:31,02:48:15,02:50:53,00:06:21,00:02:34,06:39:34
+ironman-70.3-singapore-20110320.csv,1216,Herbin Chia,---,Singapore,SGP,00:35:30,03:11:16,03:02:50,00:04:58,00:04:06,06:58:40
+ironman-70.3-singapore-20110320.csv,1217,Thomas Yee,42,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1218,Robert Schleich,44,CH,CHE,00:55:14,02:46:24,02:02:28,00:04:37,00:03:16,05:51:59
+ironman-70.3-singapore-20110320.csv,1219,Kung-Ku Chen,44,---,TWN,01:10:33,02:45:37,02:27:13,00:04:18,00:02:15,06:29:56
+ironman-70.3-singapore-20110320.csv,1220,henry lin,43,---,USA,00:52:42,03:08:46,02:49:19,00:05:12,00:04:02,07:00:01
+ironman-70.3-singapore-20110320.csv,1221,Jerome Pelletan,41,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1222,Jesse Chuang,43,---,TWN,01:04:29,02:46:30,02:12:04,00:04:36,00:02:14,06:09:53
+ironman-70.3-singapore-20110320.csv,1223,Stephane Bringer,40,---,FRA,00:38:36,02:21:28,01:52:41,00:02:46,00:01:22,04:56:53
+ironman-70.3-singapore-20110320.csv,1224,Remi Delpuech,42,---,FRA,00:46:09,02:34:02,02:01:19,00:05:05,00:02:30,05:29:05
+ironman-70.3-singapore-20110320.csv,1225,Simon Randall,44,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1226,Stephane De Baets,41,---,BEL,00:43:08,02:33:56,02:35:30,00:04:09,00:03:07,05:59:50
+ironman-70.3-singapore-20110320.csv,1227,Pittet Siegfried,44,TX,FRA,00:44:37,02:32:45,01:54:25,00:03:40,00:01:45,05:17:12
+ironman-70.3-singapore-20110320.csv,1228,Leger Christophe,43,---,FRA,00:48:35,02:31:09,02:05:54,00:03:12,00:02:02,05:30:52
+ironman-70.3-singapore-20110320.csv,1229,Stuart Daniels,39,bangkok,GBR,00:53:23,02:35:49,01:46:28,00:03:24,00:02:27,05:21:31
+ironman-70.3-singapore-20110320.csv,1230,Mark Horn,42,Busan,THA,00:39:50,02:35:28,02:04:21,00:04:19,00:02:49,05:26:47
+ironman-70.3-singapore-20110320.csv,1231,Craig Williams,42,---,GBR,00:57:05,02:51:29,02:27:46,00:04:26,00:02:30,06:23:16
+ironman-70.3-singapore-20110320.csv,1232,Rudy Van Bork,43,Quang Nam,NLD,00:41:25,02:17:37,01:59:03,00:03:49,00:02:14,05:04:08
+ironman-70.3-singapore-20110320.csv,1233,Anton Vrakking,---,WA,NLD,00:50:48,02:46:53,02:30:43,00:05:30,00:04:17,06:18:11
+ironman-70.3-singapore-20110320.csv,1234,Tony Leeuwen,---,Noord Holland,NLD,00:44:40,02:24:30,01:46:18,00:03:20,00:01:37,05:00:25
+ironman-70.3-singapore-20110320.csv,1235,Ibrahim Budakoglu,44,---,TUR,01:12:52,03:18:53,03:00:38,00:05:54,00:03:37,07:41:54
+ironman-70.3-singapore-20110320.csv,1236,Adam Gordon,40,Gauteng,GBR,00:52:53,02:26:29,02:08:50,00:03:21,00:02:02,05:33:35
+ironman-70.3-singapore-20110320.csv,1237,Henrik Kjellberg,40,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1238,Kevin Donaldson,40,Surrey,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1239,Stuart Klein,42,---,GBR,00:39:59,03:07:03,01:41:00,00:04:22,00:02:11,05:34:35
+ironman-70.3-singapore-20110320.csv,1240,Richard Powell,42,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1241,Brian Thistlethwaite,43,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1242,Angus Milgate,42,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1243,Philippe Villepontoux,43,---,FRA,00:52:09,02:37:43,01:56:33,00:05:09,00:04:50,05:36:24
+ironman-70.3-singapore-20110320.csv,1244,James Braithwaite,---,---,GBR,00:42:06,02:46:03,01:35:51,00:05:30,00:03:44,DNF
+ironman-70.3-singapore-20110320.csv,1245,Joe Phua,44,AZ,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1246,Venkatesh Krishnamurthi,43,OH,USA,00:54:03,02:55:37,02:09:50,00:11:49,00:04:28,06:15:47
+ironman-70.3-singapore-20110320.csv,1247,Vincent Wood,44,AP,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1248,Scott Stephenson,42,VA,USA,01:01:42,02:43:57,02:47:08,00:05:45,00:04:28,06:43:00
+ironman-70.3-singapore-20110320.csv,1249,Tony Kotas,41,HI,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1250,Arturo Ramirez,41,---,USA,00:55:35,02:52:06,02:13:00,00:06:51,00:03:33,06:11:05
+ironman-70.3-singapore-20110320.csv,1251,Dan Foehner,42,TX,USA,00:45:44,02:23:05,01:59:20,00:02:45,00:01:10,05:12:04
+ironman-70.3-singapore-20110320.csv,1252,Charles Settles,43,AZ,USA,00:39:19,02:25:38,01:57:18,00:03:20,00:01:26,05:07:01
+ironman-70.3-singapore-20110320.csv,1253,Edward Dilatush,43,IL,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1254,Douglas Mclaughlin,40,NJ,USA,00:56:49,02:56:18,02:44:39,00:05:13,00:04:11,06:47:10
+ironman-70.3-singapore-20110320.csv,1255,Matt Wa;Lker,---,Vietnam,GBR,00:51:23,02:27:08,01:52:54,00:03:49,00:01:43,05:16:57
+ironman-70.3-singapore-20110320.csv,1256,Marcel Lennartz,40,Ho Chi Minh City,NLD,01:03:49,03:23:57,03:10:20,00:07:18,00:03:44,07:49:08
+ironman-70.3-singapore-20110320.csv,1257,Vincent Gilly,44,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1258,Robert Brooks,---,Northern Territory,AUS,00:40:58,---,01:56:10,---,03:11:55,05:08:05
+ironman-70.3-singapore-20110320.csv,1259,Joe Pilat,46,QLD,AUS,00:40:05,02:26:34,02:05:15,00:03:44,00:01:26,05:17:04
+ironman-70.3-singapore-20110320.csv,1260,Gareth Gratton,49,QLD,AUS,00:44:01,02:44:58,02:10:38,00:04:02,00:02:28,05:46:07
+ironman-70.3-singapore-20110320.csv,1261,tony Foss,45,VIC,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1262,David Le Page,48,---,AUS,00:50:42,02:50:15,02:34:37,00:03:01,00:05:51,06:24:26
+ironman-70.3-singapore-20110320.csv,1263,Greg Smith,46,WA,AUS,00:40:33,02:35:08,02:11:29,00:03:01,00:01:42,05:31:53
+ironman-70.3-singapore-20110320.csv,1264,Ian Seymour,47,WA,AUS,00:53:54,02:54:48,02:37:37,00:05:42,00:02:56,06:34:57
+ironman-70.3-singapore-20110320.csv,1265,Chris Gibbons,47,WA,AUS,00:44:31,02:26:44,02:06:09,00:03:35,00:01:26,05:22:25
+ironman-70.3-singapore-20110320.csv,1266,Nick Glozier,44,---,GBR,00:42:51,02:16:45,01:58:51,00:03:12,00:01:25,05:03:04
+ironman-70.3-singapore-20110320.csv,1267,Mark Leavy,47,WA,AUS,00:39:03,02:36:30,02:02:29,00:02:45,00:01:30,05:22:17
+ironman-70.3-singapore-20110320.csv,1268,Phil Prosser,48,WA,AUS,00:48:46,02:28:38,01:50:42,00:02:47,00:01:16,05:12:09
+ironman-70.3-singapore-20110320.csv,1269,Paul Sargeant,44,QLD,AUS,00:44:54,02:47:36,02:12:26,00:03:25,00:01:58,05:50:19
+ironman-70.3-singapore-20110320.csv,1270,Alan Anderson,47,---,AUS,00:58:54,02:27:16,01:48:48,00:03:41,00:01:24,05:20:03
+ironman-70.3-singapore-20110320.csv,1271,Georges Hombert,46,WA,AUS,01:03:50,02:21:19,02:07:51,00:04:57,00:02:25,05:40:22
+ironman-70.3-singapore-20110320.csv,1272,Michael Jr Gilbert,46,Western Australia,NZL,00:43:21,02:23:59,01:48:03,00:02:40,00:01:13,04:59:16
+ironman-70.3-singapore-20110320.csv,1273,David Forward,---,Queensland,AUS,00:51:17,02:36:51,01:48:48,00:03:36,00:02:04,05:22:36
+ironman-70.3-singapore-20110320.csv,1274,Matthew Quin,45,---,AUS,00:45:17,02:22:17,---,00:02:34,00:01:13,DNF
+ironman-70.3-singapore-20110320.csv,1275,Simon Cruickshank,45,---,NZL,00:45:22,02:22:00,01:57:32,00:02:35,00:01:13,05:08:42
+ironman-70.3-singapore-20110320.csv,1276,Clayton Gunning,45,WA,AUS,00:53:59,02:42:25,03:01:39,00:04:40,00:04:00,06:46:43
+ironman-70.3-singapore-20110320.csv,1277,Johannes Schiphof,---,New South Wales,AUS,00:50:28,02:36:27,02:21:36,00:03:39,00:01:32,05:53:42
+ironman-70.3-singapore-20110320.csv,1278,Jan Lefevere,49,---,BEL,00:52:10,02:35:21,02:20:15,00:04:25,00:02:41,05:54:52
+ironman-70.3-singapore-20110320.csv,1279,Joachim Dirks,47,---,DEU,01:12:21,02:39:08,01:49:56,00:04:26,00:01:59,05:47:50
+ironman-70.3-singapore-20110320.csv,1280,Daniel Fadling,47,---,USA,00:56:49,02:30:05,02:49:11,00:03:57,00:01:36,06:21:38
+ironman-70.3-singapore-20110320.csv,1281,Ronald Loges,47,---,DEU,00:54:49,02:40:14,02:09:26,00:04:37,00:02:21,05:51:27
+ironman-70.3-singapore-20110320.csv,1282,Christiaan Straatemeier,47,---,AUS,00:43:03,02:24:12,02:18:38,00:02:52,00:02:12,05:30:57
+ironman-70.3-singapore-20110320.csv,1283,Rudolf Gildemeister,45,---,CHE,00:51:57,02:37:05,01:56:53,00:03:40,00:01:33,05:31:08
+ironman-70.3-singapore-20110320.csv,1284,Richard Bamber,46,---,GBR,00:48:21,02:45:12,02:14:32,00:03:51,00:02:01,05:53:57
+ironman-70.3-singapore-20110320.csv,1285,Giles Scott,47,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1286,Martin Wray,46,---,CAN,00:33:11,02:33:48,02:24:41,00:03:30,00:02:34,05:37:44
+ironman-70.3-singapore-20110320.csv,1287,David Bulbeck,0,---,HKG,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1288,Neil Galliford,45,---,GBR,00:56:38,02:41:52,02:42:51,00:04:48,00:02:54,06:29:03
+ironman-70.3-singapore-20110320.csv,1289,Paul Thompson,45,---,AUS,00:38:48,02:19:23,02:00:28,00:02:32,00:01:22,05:02:33
+ironman-70.3-singapore-20110320.csv,1290,Nicholas Dargan,---,Hong Kong,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1291,Tony Flynn,---,NEW TERRITORIES,GBR,00:52:14,02:32:50,01:53:04,00:03:21,00:01:40,05:23:09
+ironman-70.3-singapore-20110320.csv,1292,Otis Edwards,46,---,USA,00:56:46,03:00:30,---,00:04:46,00:04:33,DNF
+ironman-70.3-singapore-20110320.csv,1293,Nagaraja Devoji Rao,47,Karnataka,IND,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1294,Sanjay Dalal,47,Maharashtra,IND,01:04:31,03:37:57,02:28:52,00:08:11,00:05:42,07:25:13
+ironman-70.3-singapore-20110320.csv,1295,John Simon Moynihan,---,Java,IRL,00:49:45,02:32:18,02:57:37,00:04:12,00:02:59,06:26:51
+ironman-70.3-singapore-20110320.csv,1296,Christian Maxwell Sanderson,44,"
+Bali",GBR,00:43:24,02:28:48,02:07:50,00:03:10,00:01:57,05:25:09
+ironman-70.3-singapore-20110320.csv,1297,Craig Ross,48,---,AUS,00:55:32,03:15:37,02:06:12,00:03:46,00:03:40,06:24:47
+ironman-70.3-singapore-20110320.csv,1298,Stig Andersen,46,---,DNK,00:47:54,02:26:46,02:22:13,00:04:26,00:02:14,05:43:33
+ironman-70.3-singapore-20110320.csv,1299,Mark Cross,47,---,GBR,00:46:59,02:40:53,02:35:54,00:04:13,00:02:19,06:10:18
+ironman-70.3-singapore-20110320.csv,1300,Peter Kilner,48,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1301,Yoshiro Nagata,46,Tokyo,JPN,00:50:11,02:53:37,02:19:35,00:06:05,00:04:50,06:14:18
+ironman-70.3-singapore-20110320.csv,1302,Masayuki Yamakawa,46,japan,JPN,00:55:16,02:34:19,02:35:05,00:03:05,00:02:13,06:09:58
+ironman-70.3-singapore-20110320.csv,1303,Kayaki Yokoyama,45,---,JPN,00:52:11,02:41:24,02:57:53,00:06:07,00:02:37,06:40:12
+ironman-70.3-singapore-20110320.csv,1304,Koji Muroya,48,Shiga,JPN,00:41:47,02:15:54,01:36:53,00:03:00,00:01:19,04:38:53
+ironman-70.3-singapore-20110320.csv,1305,Katsuyoshi Seki,46,---,JPN,00:47:16,02:42:33,---,00:03:17,00:02:23,DNF
+ironman-70.3-singapore-20110320.csv,1306,Takatoshi Iwata,48,---,JPN,00:44:30,02:22:36,01:36:35,00:03:00,00:01:15,04:47:56
+ironman-70.3-singapore-20110320.csv,1307,Hideharu Okamura,46,TOCHIGI-Prefecture,JPN,00:50:24,02:32:19,01:56:51,00:03:42,00:02:05,05:25:21
+ironman-70.3-singapore-20110320.csv,1308,Yoshiaki Kondo,48,兵庫県　日本,JPN,01:04:34,02:46:18,01:57:21,00:05:22,00:03:52,05:57:27
+ironman-70.3-singapore-20110320.csv,1309,Tatsuo Shimizu,45,Nara Prefecture,JPN,00:49:25,---,---,00:03:45,---,DNF
+ironman-70.3-singapore-20110320.csv,1310,Katsuya Watanabe,44,---,JPN,00:59:48,02:55:51,02:03:16,00:05:48,00:03:02,06:07:45
+ironman-70.3-singapore-20110320.csv,1311,Taro Shirato,45,Intl State,JPN,00:34:44,02:18:33,01:34:42,00:02:10,00:01:10,04:31:19
+ironman-70.3-singapore-20110320.csv,1312,Takeshi Sato,47,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1313,Renaud Massenet,48,Intl State,FRA,00:49:55,02:33:54,02:21:50,00:04:40,00:02:55,05:53:14
+ironman-70.3-singapore-20110320.csv,1314,Cyril Dupre,45,---,FRA,01:05:41,03:09:13,02:36:00,00:05:26,00:02:28,06:58:48
+ironman-70.3-singapore-20110320.csv,1315,Tay Lai Eng,46,---,MYS,01:06:01,03:15:52,03:14:44,00:06:10,00:04:51,07:47:38
+ironman-70.3-singapore-20110320.csv,1316,Valentin Alvarez,---,Selangor,UMI,00:48:10,02:38:54,02:58:54,00:05:42,00:02:26,06:34:06
+ironman-70.3-singapore-20110320.csv,1317,Juswil Adriani,46,---,MYS,01:08:52,03:16:13,02:36:54,00:05:35,00:02:54,07:10:28
+ironman-70.3-singapore-20110320.csv,1318,Simon Cross,45,Malaysia,GBR,00:44:55,02:13:54,01:37:45,00:02:39,00:01:15,04:40:28
+ironman-70.3-singapore-20110320.csv,1319,Kenneth Garcia,45,---,PHL,00:54:31,02:47:09,02:08:35,00:04:02,00:02:31,05:56:48
+ironman-70.3-singapore-20110320.csv,1320,Rune Stroem,49,Metro Manila,NOR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1321,Joselito Lontok,46,---,PHL,00:59:06,03:13:06,03:13:40,00:06:52,00:04:03,07:36:47
+ironman-70.3-singapore-20110320.csv,1322,Arthur Chu,46,---,PHL,00:57:32,03:01:17,02:31:48,00:07:14,00:05:45,06:43:36
+ironman-70.3-singapore-20110320.csv,1323,Roberto Sery,46,---,FRA,00:47:23,02:45:38,02:31:19,00:03:30,00:03:05,06:10:55
+ironman-70.3-singapore-20110320.csv,1324,Fabrizio Carrettin,46,---,AUS,00:57:41,02:31:02,01:50:22,00:03:28,00:01:41,05:24:14
+ironman-70.3-singapore-20110320.csv,1325,Eric Pesik,45,---,USA,00:52:30,02:40:00,02:45:09,00:05:12,00:03:21,06:26:12
+ironman-70.3-singapore-20110320.csv,1326,Yohei Murase,49,---,JPN,00:55:59,02:28:25,02:26:45,00:04:56,00:02:12,DNF
+ironman-70.3-singapore-20110320.csv,1327,Robin Speculand,45,---,GBR,01:07:01,03:14:57,03:01:21,00:06:11,00:03:53,07:33:23
+ironman-70.3-singapore-20110320.csv,1328,James Woo,49,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1329,Lindsay Marsh,45,---,GBR,00:57:46,02:41:05,02:14:06,00:05:24,00:03:50,06:02:11
+ironman-70.3-singapore-20110320.csv,1330,Akmal Al Hamawi,47,---,AUS,01:04:14,02:49:03,02:24:42,00:07:00,00:02:55,06:27:54
+ironman-70.3-singapore-20110320.csv,1331,Dirk Nicolay,45,---,DEU,00:42:02,02:30:36,01:34:42,00:02:46,00:01:29,04:51:35
+ironman-70.3-singapore-20110320.csv,1332,Peter Wong,47,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1333,Clarence Chan,46,---,SGP,00:59:24,03:48:57,02:27:16,00:06:09,00:03:29,07:25:15
+ironman-70.3-singapore-20110320.csv,1334,William Ang,45,---,SGP,01:12:22,03:00:07,03:10:09,00:03:41,00:04:17,07:30:36
+ironman-70.3-singapore-20110320.csv,1335,Tsan Wai Wong,46,---,HKG,00:52:21,02:40:48,02:03:39,00:05:31,00:03:46,05:46:05
+ironman-70.3-singapore-20110320.csv,1336,Boon Beng Tan,46,SG,MYS,00:55:40,02:38:06,02:44:23,00:05:09,00:03:38,06:26:56
+ironman-70.3-singapore-20110320.csv,1337,Simon Sie,47,---,SGP,01:05:30,03:13:26,03:08:50,00:04:06,00:04:41,07:36:33
+ironman-70.3-singapore-20110320.csv,1338,Hisao Yamanaka,48,---,JPN,01:03:08,03:10:46,02:20:11,00:04:46,00:01:52,06:40:43
+ironman-70.3-singapore-20110320.csv,1339,Gerard Chua,48,---,SGP,00:54:45,02:46:31,02:37:26,00:05:45,00:02:51,06:27:18
+ironman-70.3-singapore-20110320.csv,1340,Henry Kian Leong Lim,---,Singapore,SGP,01:04:53,02:57:38,03:08:31,00:04:06,00:03:46,07:18:54
+ironman-70.3-singapore-20110320.csv,1341,Chris Chang,47,---,SGP,01:09:56,04:31:06,00:03:51,00:06:18,---,DNF
+ironman-70.3-singapore-20110320.csv,1342,Meng Hong Lee,45,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1343,Jimmy Sim,---,Singapore,SGP,01:10:23,02:44:00,02:07:45,00:04:10,00:03:28,06:09:46
+ironman-70.3-singapore-20110320.csv,1344,Ying Whye Stephen Choy,45,---,SGP,01:15:35,02:41:37,02:20:04,00:03:06,00:02:49,06:23:11
+ironman-70.3-singapore-20110320.csv,1345,Christophe Le Yoanc,46,---,FRA,00:57:42,02:56:33,01:51:48,00:04:33,00:03:53,05:54:29
+ironman-70.3-singapore-20110320.csv,1346,Carlos Monterde Millan,---,Singapore,ESP,01:00:01,02:44:31,02:23:41,00:04:26,00:03:11,06:15:50
+ironman-70.3-singapore-20110320.csv,1347,Michel Borst,44,---,NLD,00:54:52,02:45:18,02:19:02,00:05:47,00:05:33,06:10:32
+ironman-70.3-singapore-20110320.csv,1348,Fritz Kistler,44,---,CHE,00:43:24,02:18:26,---,00:02:58,00:01:58,DNF
+ironman-70.3-singapore-20110320.csv,1349,Kenneth Kerr,---,Singapore,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1350,Ricky Field,47,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1351,Loon Huang,45,---,MYS,01:07:16,02:53:51,03:40:14,00:04:48,00:05:25,07:51:34
+ironman-70.3-singapore-20110320.csv,1352,Ck Leow,45,---,SGP,00:54:58,03:17:29,02:30:04,00:08:10,00:08:41,06:59:22
+ironman-70.3-singapore-20110320.csv,1353,Sean Chong,44,---,SGP,01:02:14,02:56:36,02:52:15,00:05:24,00:04:26,07:00:55
+ironman-70.3-singapore-20110320.csv,1354,Patrick Lee,44,---,SGP,01:16:51,02:53:46,02:30:19,00:04:48,00:02:05,06:47:49
+ironman-70.3-singapore-20110320.csv,1355,Winston Koh,48,---,SGP,01:06:05,03:24:45,03:10:26,00:06:58,00:04:46,07:53:00
+ironman-70.3-singapore-20110320.csv,1356,Ed Sadler,48,---,USA,01:03:25,02:37:41,02:15:59,00:04:10,00:02:06,06:03:21
+ironman-70.3-singapore-20110320.csv,1357,Robert Thibeault,47,SG,CAN,01:22:25,02:52:28,02:08:02,00:04:31,00:01:45,06:29:11
+ironman-70.3-singapore-20110320.csv,1358,Carl Chan,45,SG,SGP,00:37:40,02:29:20,02:13:48,00:03:20,00:01:52,05:26:00
+ironman-70.3-singapore-20110320.csv,1359,Glenn De Buf,48,---,BEL,00:49:15,02:39:04,---,00:05:11,00:01:39,DNF
+ironman-70.3-singapore-20110320.csv,1360,Christoph Kaeser,46,---,CHE,00:50:01,02:42:10,02:38:21,00:03:43,00:01:55,06:16:10
+ironman-70.3-singapore-20110320.csv,1361,Ian Bellhouse,46,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1362,Gregory Lanham,46,---,USA,00:59:53,02:47:26,---,00:04:55,00:03:33,DNF
+ironman-70.3-singapore-20110320.csv,1363,Helmut Kurzboeck,47,---,DEU,01:02:00,03:19:52,02:38:10,00:07:39,00:05:52,07:13:33
+ironman-70.3-singapore-20110320.csv,1364,Peter Drolet,47,---,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1365,Ivan Ng,44,---,SGP,01:03:32,02:55:52,02:16:45,00:05:29,00:03:50,06:25:28
+ironman-70.3-singapore-20110320.csv,1366,John Sullivan,49,---,NZL,01:06:28,02:32:32,---,00:04:18,00:02:38,DNF
+ironman-70.3-singapore-20110320.csv,1367,James Skinner,46,---,USA,00:54:04,02:04:57,---,00:05:29,00:07:02,DNF
+ironman-70.3-singapore-20110320.csv,1368,Desmond Carbery,45,---,IRL,00:48:11,02:43:02,01:52:49,00:04:52,00:02:27,05:31:21
+ironman-70.3-singapore-20110320.csv,1369,Bernard Maughan,45,---,AUS,00:45:36,02:35:45,02:42:24,00:03:31,00:03:53,06:11:09
+ironman-70.3-singapore-20110320.csv,1370,Stephen Keane,48,---,IRL,00:54:38,02:56:55,02:25:18,00:03:22,00:01:03,06:21:16
+ironman-70.3-singapore-20110320.csv,1371,Thiam Chai Gan,45,---,MYS,01:18:39,02:58:07,03:09:00,00:07:55,00:04:53,07:38:34
+ironman-70.3-singapore-20110320.csv,1372,Jerome Steele,47,---,GBR,00:47:55,02:23:08,01:57:25,00:03:52,00:02:17,05:14:37
+ironman-70.3-singapore-20110320.csv,1373,Geoff Thomas,46,NSW,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1374,Mike Pear,45,---,CAN,00:50:20,02:32:33,02:56:25,00:03:49,00:02:29,06:25:36
+ironman-70.3-singapore-20110320.csv,1375,Dennis Mark,47,---,SGP,01:00:11,03:16:22,02:23:31,00:07:53,00:08:08,06:56:05
+ironman-70.3-singapore-20110320.csv,1376,Chan Sian Leng,46,---,SGP,01:10:44,02:59:26,02:29:51,00:06:33,00:06:55,06:53:29
+ironman-70.3-singapore-20110320.csv,1377,Eugene Seah,46,---,SGP,01:02:34,02:52:56,03:33:59,00:08:01,00:05:09,07:42:39
+ironman-70.3-singapore-20110320.csv,1378,Enrico Constantine Varella,45,---,SGP,01:02:40,02:42:16,01:55:51,00:03:35,00:02:53,05:47:15
+ironman-70.3-singapore-20110320.csv,1379,Richard Schroeter,46,---,DEU,00:53:56,02:37:58,02:42:48,00:05:19,00:03:26,06:23:27
+ironman-70.3-singapore-20110320.csv,1380,Robert Meek,44,---,GBR,00:42:30,02:27:54,02:44:52,00:02:35,00:01:52,05:59:43
+ironman-70.3-singapore-20110320.csv,1381,Alan Heng,47,---,SGP,00:48:03,02:40:31,02:17:30,00:03:29,00:02:24,05:51:57
+ironman-70.3-singapore-20110320.csv,1382,Steve Joyce,48,Kanta Hame,NZL,00:47:03,02:30:02,02:05:03,00:02:37,00:01:42,05:26:27
+ironman-70.3-singapore-20110320.csv,1383,Stephen Duerden,48,---,AUS,00:41:37,02:25:50,02:02:00,00:03:14,00:02:26,05:15:07
+ironman-70.3-singapore-20110320.csv,1384,Derek Raper,49,Singapore,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1385,Weng Yew Chan,46,---,SGP,00:53:53,02:48:43,02:22:45,00:04:47,00:03:48,06:13:56
+ironman-70.3-singapore-20110320.csv,1386,Neo Sze Liang,49,---,SGP,01:01:43,03:20:34,02:50:54,00:09:44,00:06:37,07:29:32
+ironman-70.3-singapore-20110320.csv,1387,Paul Kwee,46,---,SGP,00:55:27,02:35:55,01:57:07,00:03:31,00:01:53,05:33:53
+ironman-70.3-singapore-20110320.csv,1388,Munther Jadallah,46,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1389,Sek Tim Tan,48,---,SGP,00:51:13,02:51:46,02:32:27,00:05:30,00:03:37,06:24:33
+ironman-70.3-singapore-20110320.csv,1390,Hogi Hyun,47,---,USA,00:49:29,02:34:34,01:54:07,00:04:13,00:02:18,05:24:41
+ironman-70.3-singapore-20110320.csv,1391,Peter Harvey,47,---,CAN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1392,Choon Guan Tan,46,---,SGP,01:06:08,03:03:02,02:42:11,00:06:23,00:03:22,07:01:06
+ironman-70.3-singapore-20110320.csv,1393,Nai Heong Ng,48,---,SGP,00:57:07,02:44:06,02:26:35,00:03:28,00:02:00,06:13:16
+ironman-70.3-singapore-20110320.csv,1394,Kok Aun Koh,45,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1395,Gek Kwang Chua,45,---,SGP,01:02:01,02:43:19,02:50:25,00:10:32,00:06:03,06:52:20
+ironman-70.3-singapore-20110320.csv,1396,Liem Cheong Leong,45,---,SGP,00:54:44,---,---,00:06:57,---,DNF
+ironman-70.3-singapore-20110320.csv,1397,Mark Chang,49,---,SGP,01:01:32,03:21:41,02:44:32,00:07:10,00:04:13,07:19:08
+ironman-70.3-singapore-20110320.csv,1398,Kum Cheong Aw,48,---,SGP,01:01:47,02:58:46,02:28:03,00:08:50,00:04:41,06:42:07
+ironman-70.3-singapore-20110320.csv,1399,John Cooke,47,WA,SGP,00:57:48,02:31:54,01:58:46,00:03:32,00:01:35,05:33:35
+ironman-70.3-singapore-20110320.csv,1400,David Ennes,47,---,GBR,00:42:29,02:40:23,02:25:49,00:05:03,00:02:33,05:56:17
+ironman-70.3-singapore-20110320.csv,1401,Hsiao Soo,---,Singapore,SGP,01:11:56,02:19:59,---,00:07:28,---,DNF
+ironman-70.3-singapore-20110320.csv,1402,Shung Seng Dunn,44,---,SGP,00:58:02,03:30:06,03:11:17,00:05:32,00:02:02,07:46:59
+ironman-70.3-singapore-20110320.csv,1403,Lu Cher Hiam,46,---,SGP,01:04:38,03:07:07,03:08:39,00:06:02,00:04:48,07:31:14
+ironman-70.3-singapore-20110320.csv,1404,Michael Nahon,48,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1405,Quini Gonz Lez,---,Lanzarote,ESP,01:00:53,01:53:20,---,00:05:15,---,DNF
+ironman-70.3-singapore-20110320.csv,1406,Olivier Fleurot,45,---,CHE,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1407,Peter Zumsteg,46,---,CHE,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1408,Michael Schwan,46,---,DEU,00:48:46,02:23:48,01:48:48,00:05:18,00:03:04,05:09:44
+ironman-70.3-singapore-20110320.csv,1409,Paul Preen,44,---,GBR,00:57:02,02:53:15,02:16:44,00:05:36,00:02:44,06:15:21
+ironman-70.3-singapore-20110320.csv,1410,Ian Pascoe,44,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1411,Pao Chu Yu,46,---,TWN,01:03:24,02:34:00,02:26:35,00:04:45,00:02:00,06:10:44
+ironman-70.3-singapore-20110320.csv,1412,Mizukusa Koji,48,愛知県,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1413,Jurgen Swinckels,46,---,NLD,00:51:24,02:24:17,02:17:47,00:03:16,00:02:03,05:38:47
+ironman-70.3-singapore-20110320.csv,1414,Daniel Hyams,47,VIC,AUS,00:44:45,02:29:54,02:20:10,00:03:30,00:01:55,05:40:14
+ironman-70.3-singapore-20110320.csv,1415,Craig Jordan,48,DXB,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1416,Paul Duffy,45,SG,GBR,00:44:29,02:22:40,02:03:21,00:02:59,00:02:20,05:15:49
+ironman-70.3-singapore-20110320.csv,1417,Stephen Carr,46,---,GBR,00:50:21,02:54:17,02:25:06,00:03:58,00:02:47,06:16:29
+ironman-70.3-singapore-20110320.csv,1418,David Ruffle,48,---,GBR,00:55:34,03:05:41,02:26:04,00:04:51,00:02:20,06:34:30
+ironman-70.3-singapore-20110320.csv,1419,Terrance Cole,---,Ohio,USA,00:48:44,02:39:33,01:52:35,00:04:22,00:03:25,05:28:39
+ironman-70.3-singapore-20110320.csv,1420,Derek Lau,45,---,SGP,04:21:42,03:01:38,02:19:39,---,00:03:29,06:15:41
+ironman-70.3-singapore-20110320.csv,1421,Paul Mason,44,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1422,Bradley Segal,---,Vietnam,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1423,Blue Watt,53,NT,AUS,00:42:00,02:31:32,01:39:05,00:04:31,00:01:31,04:58:39
+ironman-70.3-singapore-20110320.csv,1424,John Nolan,51,WA,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1425,Richard Kelso-Marsh,49,WA,AUS,00:45:13,02:35:21,02:24:10,00:03:27,00:01:54,05:50:05
+ironman-70.3-singapore-20110320.csv,1426,Colin Luff,54,WA,AUS,00:53:20,02:33:54,02:11:57,00:09:15,00:01:38,05:50:04
+ironman-70.3-singapore-20110320.csv,1427,Ricky May,50,Tokyo,AUS,00:57:01,03:15:38,02:29:30,00:04:53,00:03:11,06:50:13
+ironman-70.3-singapore-20110320.csv,1428,Brian Hannon,51,---,AUS,00:47:28,03:04:18,03:17:46,00:04:48,00:02:10,07:16:30
+ironman-70.3-singapore-20110320.csv,1429,Glenn Cochrane,52,---,AUS,00:48:29,02:30:20,02:11:17,00:05:12,00:02:22,05:37:40
+ironman-70.3-singapore-20110320.csv,1430,Michael Backshall,51,WA,AUS,00:50:31,---,---,00:04:14,---,DNF
+ironman-70.3-singapore-20110320.csv,1431,Alan Nicholls,53,WA,AUS,00:43:48,02:18:42,02:00:12,00:03:28,00:02:09,05:08:19
+ironman-70.3-singapore-20110320.csv,1432,Mark Batten,52,WA,AUS,00:35:44,02:23:01,---,00:02:47,00:01:17,DNF
+ironman-70.3-singapore-20110320.csv,1433,Doug Robertson,51,WA,AUS,00:47:20,02:25:16,01:48:27,00:03:23,00:01:23,05:05:49
+ironman-70.3-singapore-20110320.csv,1434,Scott Jarvis,52,CA,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1435,Harold Roberts,52,---,GBR,00:56:11,02:45:53,02:06:55,00:05:15,00:02:24,05:56:38
+ironman-70.3-singapore-20110320.csv,1436,David Young,50,---,AUS,01:01:05,02:51:59,02:40:43,00:05:21,00:03:07,06:42:15
+ironman-70.3-singapore-20110320.csv,1437,Johan Diderichsen,---,Sunds,DNK,00:57:17,02:37:37,01:50:27,00:05:20,00:04:18,05:34:59
+ironman-70.3-singapore-20110320.csv,1438,Francis Alcacer,53,---,FRA,00:54:12,---,---,00:03:34,---,DNF
+ironman-70.3-singapore-20110320.csv,1439,Miss Volker,51,HCMC,DEU,00:57:17,02:50:25,02:27:27,00:05:04,00:03:05,06:23:18
+ironman-70.3-singapore-20110320.csv,1440,Lawrence Mills,49,---,CAN,01:18:25,02:54:56,02:58:01,00:05:02,00:04:48,07:21:12
+ironman-70.3-singapore-20110320.csv,1441,Andrew Patrick,50,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1442,Jeremy Bartlett,52,---,NZL,00:47:12,02:39:28,02:13:10,00:04:14,00:01:47,05:45:51
+ironman-70.3-singapore-20110320.csv,1443,Gawain Barnard,51,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1444,Frank Marriott,50,Intl State,GBR,00:49:02,02:33:26,01:59:44,00:03:15,00:01:11,05:26:38
+ironman-70.3-singapore-20110320.csv,1445,Sergio Fernandez,50,---,USA,01:05:08,02:58:48,02:28:45,00:05:09,00:02:05,06:39:55
+ironman-70.3-singapore-20110320.csv,1446,Andrew Vosper,---,Java,GBR,00:57:56,02:53:04,02:01:50,00:03:08,00:01:58,05:57:56
+ironman-70.3-singapore-20110320.csv,1447,Yasunori Shinmura,51,---,JPN,00:57:52,02:48:31,02:28:08,00:04:06,00:03:24,06:22:01
+ironman-70.3-singapore-20110320.csv,1448,Akihiro Ito,51,---,JPN,01:11:16,03:29:48,---,00:06:44,00:05:28,DNF
+ironman-70.3-singapore-20110320.csv,1449,Yuji Kirihara,54,Japan,JPN,00:47:54,02:42:54,02:09:53,00:05:25,00:02:31,05:48:37
+ironman-70.3-singapore-20110320.csv,1450,Hiroshi Tsukamura,52,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1451,Rolf Kambli,50,---,CHE,00:53:29,02:45:43,02:00:00,00:03:40,00:02:31,05:45:23
+ironman-70.3-singapore-20110320.csv,1452,Yoshimi Imamura,51,SHIGA,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1453,Chris Milton,53,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1454,Patrick Dumont,50,---,FRA,01:18:56,03:13:58,02:47:16,00:06:53,00:05:30,07:32:33
+ironman-70.3-singapore-20110320.csv,1455,Robert Coetzee,49,---,ANT,00:47:07,02:30:38,02:19:38,00:03:56,00:01:22,05:42:41
+ironman-70.3-singapore-20110320.csv,1456,Sverre Samdal,53,---,NOR,00:42:37,02:28:10,02:13:21,00:04:10,00:02:32,05:30:50
+ironman-70.3-singapore-20110320.csv,1457,Christopher Cheng,53,---,SGP,00:53:55,02:49:37,02:10:17,00:05:40,00:02:26,06:01:55
+ironman-70.3-singapore-20110320.csv,1458,Seow Eng Ong,50,---,SGP,01:00:59,02:52:15,02:44:34,00:04:52,00:02:19,06:44:59
+ironman-70.3-singapore-20110320.csv,1459,Tick Hock Tan,53,---,SGP,01:08:38,03:47:35,03:05:33,00:05:55,00:03:33,08:11:14
+ironman-70.3-singapore-20110320.csv,1460,Chris Werner,52,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1461,Gianfranco Matteucci,49,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1462,Richard Ho,53,---,SGP,00:58:29,03:05:47,02:17:41,00:08:51,00:03:46,06:34:34
+ironman-70.3-singapore-20110320.csv,1463,Wan Khim Lee,50,---,SGP,01:10:47,03:11:41,02:29:18,00:07:42,00:04:35,07:04:03
+ironman-70.3-singapore-20110320.csv,1464,Ryan Padgett,52,---,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1465,Colin Alexander,53,---,GBR,01:03:14,03:26:56,---,00:05:20,---,DNF
+ironman-70.3-singapore-20110320.csv,1466,Rob Delnoij,49,---,NLD,00:49:15,02:47:14,02:12:34,00:04:30,00:01:43,05:55:16
+ironman-70.3-singapore-20110320.csv,1467,Bernard Chan,52,---,SGP,01:04:50,03:10:10,02:29:59,00:06:00,00:02:41,06:53:40
+ironman-70.3-singapore-20110320.csv,1468,Michael Lyons,52,---,NZL,00:42:32,01:47:02,02:06:17,00:09:49,00:01:40,DNF
+ironman-70.3-singapore-20110320.csv,1469,Pete Crowther,50,NSW,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1470,Geoffrey Brown,50,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1471,Mike Davies,---,Singapore,GBR,00:50:03,02:54:48,02:54:11,00:03:53,00:02:40,06:45:35
+ironman-70.3-singapore-20110320.csv,1472,Mike Battersby,53,---,GBR,01:04:59,02:45:50,02:56:17,00:06:27,00:02:57,06:56:30
+ironman-70.3-singapore-20110320.csv,1473,Gary Lee,52,---,SGP,01:04:23,02:59:37,02:42:07,00:06:55,00:03:13,06:56:15
+ironman-70.3-singapore-20110320.csv,1474,Ranjith Wijayaratna,50,---,SGP,00:58:06,02:39:34,02:35:15,00:05:56,00:03:09,06:22:00
+ironman-70.3-singapore-20110320.csv,1475,Jeremy Snoad,50,---,GBR,00:57:43,02:30:44,02:00:15,00:07:10,00:02:53,05:38:45
+ironman-70.3-singapore-20110320.csv,1476,Philip Koh,49,---,SGP,01:04:36,03:00:50,03:00:04,00:05:04,00:04:15,07:14:49
+ironman-70.3-singapore-20110320.csv,1477,Craig Tucker,49,GA,USA,00:48:29,02:56:20,02:33:30,00:03:56,00:02:55,06:25:10
+ironman-70.3-singapore-20110320.csv,1478,David Marren,49,WA,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1480,Jonathan Howes,52,---,GBR,00:54:07,02:55:19,02:10:43,00:03:59,00:02:31,06:06:39
+ironman-70.3-singapore-20110320.csv,1481,Ching Hong Koh,52,---,SGP,01:09:35,02:44:33,02:09:53,00:07:14,00:03:01,06:14:16
+ironman-70.3-singapore-20110320.csv,1482,Swee Beng Soh,52,---,SGP,01:07:06,03:02:44,03:17:09,00:05:00,00:03:47,07:35:46
+ironman-70.3-singapore-20110320.csv,1483,Charles La Fratta,52,---,USA,01:01:26,03:08:18,02:42:54,00:10:07,00:07:16,07:10:01
+ironman-70.3-singapore-20110320.csv,1484,Graeme Baillie,54,---,NZL,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1485,Henry Tan,---,Singapore,SGP,01:00:41,03:24:58,02:34:29,00:06:41,00:03:07,07:09:56
+ironman-70.3-singapore-20110320.csv,1486,Stephan Volschenk,49,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1487,Sandro Angelastri,53,---,CHE,00:40:12,02:17:05,01:47:23,00:02:25,00:01:06,04:48:11
+ironman-70.3-singapore-20110320.csv,1488,Niwat Jirawitchaya,50,---,THA,01:22:01,02:57:05,02:23:15,00:07:26,00:03:25,06:53:12
+ironman-70.3-singapore-20110320.csv,1489,Philip Jones,51,---,GBR,01:25:10,03:25:48,02:26:06,00:08:14,00:04:34,07:29:52
+ironman-70.3-singapore-20110320.csv,1490,Mark Nelson,50,bangkok,GBR,00:43:53,03:03:50,03:31:10,00:03:47,00:02:16,07:24:56
+ironman-70.3-singapore-20110320.csv,1491,Mark Hodson,50,---,GBR,00:50:18,02:39:27,01:53:49,00:03:54,00:01:38,05:29:06
+ironman-70.3-singapore-20110320.csv,1492,Tim Mickleborough,51,IN,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1493,Paul Deering,52,Buckinghamshire,GBR,00:49:17,02:30:00,01:45:15,00:03:57,00:03:12,05:11:41
+ironman-70.3-singapore-20110320.csv,1494,Paul Barner,49,NY,USA,01:04:41,03:08:17,02:39:32,00:06:06,00:03:27,07:02:03
+ironman-70.3-singapore-20110320.csv,1495,Eugene Vivino,52,CA,USA,01:01:23,03:25:39,02:55:32,00:05:16,00:04:45,07:32:35
+ironman-70.3-singapore-20110320.csv,1496,Lance Williams,56,CT,AUS,00:51:43,03:02:42,02:51:46,00:05:40,00:03:09,06:55:00
+ironman-70.3-singapore-20110320.csv,1497,Tomas Valena,58,QLD,AUS,00:52:03,02:25:08,01:55:39,00:03:21,00:01:57,05:18:08
+ironman-70.3-singapore-20110320.csv,1498,Russell Wedd,55,---,AUS,00:41:28,03:13:47,02:18:14,00:03:44,00:03:08,06:20:21
+ironman-70.3-singapore-20110320.csv,1499,Philip George,54,MI,USA,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1500,Mike O'Neill,55,---,AUS,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1501,Tatsuro Yasukawa,---,Kanagawa,JPN,00:55:00,02:38:03,01:51:44,00:04:49,00:02:15,05:31:51
+ironman-70.3-singapore-20110320.csv,1502,Hideki Ishii,69,Shizuoka,JPN,01:01:32,03:18:13,01:38:31,00:09:27,00:07:44,DNF
+ironman-70.3-singapore-20110320.csv,1503,Nobuyuki Yanoshiro,49,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1504,Niels Have,54,---,NLD,00:54:27,01:00:51,---,00:06:20,00:01:47,DNF
+ironman-70.3-singapore-20110320.csv,1505,Eric Ravier,55,---,FRA,00:49:24,01:41:59,---,00:03:30,---,DNF
+ironman-70.3-singapore-20110320.csv,1506,Victor Chan Yoke Weng Chan,---,Singapore,SGP,00:53:40,02:33:36,01:48:25,00:04:04,00:02:33,05:22:18
+ironman-70.3-singapore-20110320.csv,1507,Hans Bock,58,---,DEU,00:55:43,03:02:43,02:35:29,00:04:29,00:02:42,06:41:06
+ironman-70.3-singapore-20110320.csv,1508,Heinz Iten,55,---,CHE,01:04:54,02:50:23,02:55:25,00:05:53,00:04:26,07:01:01
+ironman-70.3-singapore-20110320.csv,1509,Matthew O'Neill,---,Singapore,NZL,00:48:08,02:22:54,02:23:28,00:03:34,00:01:54,05:39:58
+ironman-70.3-singapore-20110320.csv,1510,Daniel Snyder,56,---,USA,00:58:33,02:55:42,02:27:51,00:06:49,00:04:09,06:33:04
+ironman-70.3-singapore-20110320.csv,1511,John Douma,55,---,AUS,00:44:25,02:32:59,01:52:56,00:03:01,00:01:08,05:14:29
+ironman-70.3-singapore-20110320.csv,1512,Daryl Stanley,62,---,AUS,00:46:06,02:41:50,02:02:57,00:02:44,00:01:29,05:35:06
+ironman-70.3-singapore-20110320.csv,1513,Peter Leafe,61,WA,AUS,00:49:12,02:30:47,02:07:44,00:04:25,00:02:16,05:34:24
+ironman-70.3-singapore-20110320.csv,1514,Graeme Parsons,61,NT,AUS,00:43:52,03:01:11,03:04:57,00:03:37,00:02:08,06:55:45
+ironman-70.3-singapore-20110320.csv,1515,Steve Brown,62,WA,AUS,00:52:29,02:33:33,02:23:28,00:03:17,00:02:29,05:55:16
+ironman-70.3-singapore-20110320.csv,1516,Alan Collins,60,---,AUS,01:09:50,02:58:04,02:29:16,00:05:07,00:02:50,06:45:07
+ironman-70.3-singapore-20110320.csv,1517,Fumio Ota,61,---,JPN,01:04:30,03:35:01,02:51:47,00:08:42,00:05:11,07:45:11
+ironman-70.3-singapore-20110320.csv,1518,Isamu Onoda,61,"Wakayama,",JPN,00:57:08,02:49:45,03:08:36,00:11:00,00:02:40,07:09:09
+ironman-70.3-singapore-20110320.csv,1519,Nobuyuki Saito,63,KANAGAWA,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1520,Masaaki Okayama,61,---,JPN,00:58:49,03:27:15,01:59:46,00:06:52,00:01:54,06:34:36
+ironman-70.3-singapore-20110320.csv,1521,Seiji Muto,61,---,JPN,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1522,Peter Hopkins,61,---,GBR,01:01:51,02:45:37,02:42:33,00:05:17,00:03:17,06:38:35
+ironman-70.3-singapore-20110320.csv,1523,Joseph Ong,62,---,SGP,00:52:52,02:36:29,02:14:21,00:04:50,00:02:26,05:50:58
+ironman-70.3-singapore-20110320.csv,1524,Jin Seng Ong,---,Singapore,SGP,01:19:50,03:04:55,03:13:43,00:05:32,00:04:22,07:48:22
+ironman-70.3-singapore-20110320.csv,1525,Tan Ban Seng Robert,61,---,SGP,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1526,Robert Scott,64,---,AUS,01:02:17,02:37:16,01:58:27,00:04:56,00:01:37,05:44:33
+ironman-70.3-singapore-20110320.csv,1527,Leslie Mcgrath,---,Victoria,AUS,00:45:52,02:25:53,02:42:58,00:03:37,00:01:27,05:59:47
+ironman-70.3-singapore-20110320.csv,1528,Leonard Endicott,65,---,GBR,01:03:26,02:10:55,---,00:04:27,00:08:30,DNF
+ironman-70.3-singapore-20110320.csv,1529,Guy Vernay,64,SUD,FRA,00:44:47,02:27:46,02:21:26,00:03:44,00:01:28,05:39:11
+ironman-70.3-singapore-20110320.csv,1530,Pang-Wen Chang,65,---,TWN,01:00:37,02:50:36,02:01:02,00:04:35,00:02:00,05:58:50
+ironman-70.3-singapore-20110320.csv,1531,Christopher Illidge,---,Bangkok,GBR,---,---,---,---,---,DNS
+ironman-70.3-singapore-20110320.csv,1532,Anthony Nixon,65,---,AUS,00:50:35,02:44:43,02:36:35,00:02:46,00:02:35,06:17:14
+ironman-70.3-singapore-20110320.csv,1533,Klaus Hebben,65,---,DEU,00:59:13,02:45:21,02:37:51,00:06:29,00:04:52,06:33:46
+ironman-70.3-singapore-20110320.csv,1534,Bob Gay,69,NSW,AUS,01:11:57,03:11:05,03:03:32,00:05:54,00:03:34,07:36:02
+ironman-70.3-singapore-20110320.csv,1535,Sze Mun Yee,73,Select a State,MYS,01:03:09,03:08:33,02:44:29,00:05:04,00:03:18,07:04:33
+ironman-70.3-singapore-20110320.csv,1536,Tsujii Kazuharu,74,"Wakayama,",JPN,00:59:12,03:17:11,02:24:38,00:08:28,00:04:22,06:53:51
+ironman-70.3-singapore-20110320.csv,1537,David Dellow,31,QLD,AUS,00:27:47,02:06:26,01:22:48,00:02:30,00:00:37,04:00:08
+ironman-70.3-singapore-20110320.csv,1551,Amy Marsh,33,TX,AUS,00:29:54,02:18:28,01:30:48,00:02:31,00:00:51,04:22:32
+ironman-70.3-singapore-20110320.csv,1561,Lydia Shenh Ai Tan,---,Singapore,MYS,00:53:31,02:46:26,03:56:24,00:03:04,00:01:39,07:41:04
+ironman-70.3-singapore-20110320.csv,1562,Manjula Sridhar,35,---,IND,01:47:37,03:21:41,03:04:24,00:04:28,00:02:10,08:20:20
+ironman-70.3-singapore-20110320.csv,1581,Fraser Morrison,---,Singapore,GBR,00:45:41,02:25:11,02:22:18,00:03:01,00:01:33,05:37:44
+ironman-70.3-singapore-20110320.csv,1582,David Spence,---,Singapore,GBR,00:48:22,02:34:40,01:55:28,00:02:30,00:01:44,05:22:44
+ironman-70.3-singapore-20110320.csv,1583,Christopher Mcfaul,40,---,GBR,01:05:46,03:02:38,02:03:47,00:06:24,00:04:36,06:23:11
+ironman-70.3-singapore-20110320.csv,1584,Ebbie Baghaie,---,Singapore,SGP,00:59:19,02:59:35,02:36:40,00:04:12,00:02:48,06:42:34
+ironman-70.3-singapore-20110320.csv,1585,Paul Anderson,---,---,GBR,00:36:07,02:12:16,---,00:02:52,00:08:09,DNF

@@ -1,0 +1,722 @@
+#File=ironman-70.3-panama-20140216.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-panama-20140216.csv,1,Oscar Galindez,42,Intl State,ARG,00:17:14,02:05:09,01:23:37,00:02:53,00:01:39,03:50:32
+ironman-70.3-panama-20140216.csv,2,Bevan Docherty,36,CA,NZL,00:16:48,02:05:14,---,00:02:45,00:01:19,DNF
+ironman-70.3-panama-20140216.csv,3,Richie Cunningham,40,CO,AUS,00:16:59,02:05:23,01:19:15,00:02:44,00:01:21,03:45:42
+ironman-70.3-panama-20140216.csv,4,Igor Amorelli,29,Santa Catarina,BRA,00:17:16,---,---,00:02:41,---,DNF
+ironman-70.3-panama-20140216.csv,5,Alessandro Degasperi,33,Intl State,ITA,00:17:33,---,---,00:02:51,---,DNF
+ironman-70.3-panama-20140216.csv,7,Matt Reed,38,CA,USA,00:17:10,---,---,00:02:43,---,DNF
+ironman-70.3-panama-20140216.csv,9,Axel Zeebroek,35,---,BEL,00:16:31,02:05:28,01:25:15,00:02:46,00:01:24,03:51:24
+ironman-70.3-panama-20140216.csv,10,Trevor Wurtele,34,BC,CAN,00:18:05,02:06:12,01:19:21,00:02:59,00:01:29,03:48:06
+ironman-70.3-panama-20140216.csv,11,Tim Don,36,Intl State,GBR,---,---,---,---,---,DNS
+ironman-70.3-panama-20140216.csv,12,Felipe Aguayo,24,CL,CHE,00:19:12,02:22:59,01:45:24,00:03:03,00:01:44,04:32:22
+ironman-70.3-panama-20140216.csv,13,Bertrand Billard,26,---,FRA,00:17:22,02:04:04,01:17:57,00:02:36,00:01:25,03:43:24
+ironman-70.3-panama-20140216.csv,14,Matt Chrabot,30,CO,USA,00:16:59,02:04:51,01:16:29,00:02:21,00:01:32,03:42:12
+ironman-70.3-panama-20140216.csv,15,Gregory Close,30,NY,USA,00:19:48,02:20:47,01:27:02,00:03:34,00:01:39,04:12:50
+ironman-70.3-panama-20140216.csv,17,Nathan Dressel,29,UT,USA,00:18:21,02:23:27,01:50:16,00:03:31,00:01:58,04:37:33
+ironman-70.3-panama-20140216.csv,18,Javier Gomez,30,---,ESP,00:16:29,02:06:08,01:11:59,00:02:31,00:01:21,03:38:28
+ironman-70.3-panama-20140216.csv,19,Billy Gordon,24,Intl State,PAN,00:18:11,02:19:08,01:35:01,00:02:36,00:01:25,04:16:21
+ironman-70.3-panama-20140216.csv,20,Humblet Francois Isabelle E,25,BE,BEL,00:18:22,02:20:22,01:26:05,00:03:02,00:01:36,04:09:27
+ironman-70.3-panama-20140216.csv,21,Manuel Kueng,26,---,CHE,00:16:58,02:11:35,01:22:51,00:03:02,00:01:33,03:55:59
+ironman-70.3-panama-20140216.csv,22,Frederic Limousin,33,---,FRA,00:18:22,02:12:11,01:24:52,00:03:09,00:01:29,04:00:03
+ironman-70.3-panama-20140216.csv,23,Mikolaj Luft,28,---,POL,00:17:39,02:12:21,---,00:02:55,00:01:42,DNF
+ironman-70.3-panama-20140216.csv,24,Rodrigo Sepulveda,22,---,CHE,00:18:10,---,---,00:03:01,---,DNF
+ironman-70.3-panama-20140216.csv,26,Jan Van Berkel,27,---,CHE,00:17:12,02:12:38,01:24:42,00:03:05,00:01:16,03:58:53
+ironman-70.3-panama-20140216.csv,27,Ciro Violin,33,Intl State,BRA,00:17:31,02:13:13,01:31:24,00:03:00,00:01:58,04:07:06
+ironman-70.3-panama-20140216.csv,28,Andrew Starykowicz,31,IL,USA,00:16:58,02:02:25,01:22:36,00:02:53,00:01:34,03:46:26
+ironman-70.3-panama-20140216.csv,30,Ezequiel Morales,40,Rio de Janeiro,ARG,00:18:18,02:12:32,01:19:55,00:03:00,00:01:44,03:55:29
+ironman-70.3-panama-20140216.csv,35,Heather Wurtele,34,BC,CHN,00:18:35,02:18:35,---,00:03:14,00:01:37,DNF
+ironman-70.3-panama-20140216.csv,37,Angela Naeth,31,BC,CAN,00:19:24,02:15:04,01:25:53,00:03:03,00:01:34,04:04:58
+ironman-70.3-panama-20140216.csv,38,Margie Shapiro,37,VA,USA,00:18:32,02:21:38,01:30:28,00:03:07,00:01:26,04:15:11
+ironman-70.3-panama-20140216.csv,39,Catriona Morrison,37,Intl State,GBR,00:18:42,02:18:37,01:24:01,00:03:09,00:01:47,04:06:16
+ironman-70.3-panama-20140216.csv,40,Mary Beth Ellis,36,MA,USA,00:17:36,02:22:18,01:37:32,00:03:10,00:01:57,04:22:33
+ironman-70.3-panama-20140216.csv,42,Heather Jackson,29,OR,USA,00:19:40,02:18:32,01:30:34,00:03:06,00:01:32,04:13:24
+ironman-70.3-panama-20140216.csv,43,Svenja Bazlen,29,Intl State,DEU,00:18:10,02:18:49,01:26:34,00:03:02,00:01:37,04:08:12
+ironman-70.3-panama-20140216.csv,45,Natascha Badmann,47,Other,CHE,00:20:27,02:23:42,01:33:32,00:03:25,00:02:14,04:23:20
+ironman-70.3-panama-20140216.csv,46,Lauren Barnett,29,KS,USA,---,---,---,---,---,DNS
+ironman-70.3-panama-20140216.csv,48,Ruth Brennan Morrey,38,MN,USA,00:21:11,02:26:41,01:21:31,00:03:20,00:01:39,04:14:22
+ironman-70.3-panama-20140216.csv,49,Darbi Roberts,29,NH,USA,00:18:10,02:34:05,01:57:41,00:03:50,00:02:28,04:56:14
+ironman-70.3-panama-20140216.csv,51,Erika Erickson,27,CA,USA,00:18:38,02:29:07,01:36:42,00:03:05,00:01:34,04:29:06
+ironman-70.3-panama-20140216.csv,55,Ariane Monticeli,31,Intl State,BRA,00:20:38,---,---,00:03:41,---,DNF
+ironman-70.3-panama-20140216.csv,56,Molly Roohi,32,VA,USA,00:21:22,02:28:53,01:34:10,00:03:18,00:02:29,04:30:12
+ironman-70.3-panama-20140216.csv,57,Allison Rumboll,27,KY,USA,00:20:41,02:33:49,01:43:55,00:03:40,00:01:39,04:43:44
+ironman-70.3-panama-20140216.csv,58,Rebeccah Wassner,38,NY,USA,00:17:46,02:29:47,---,00:03:09,00:02:44,DNF
+ironman-70.3-panama-20140216.csv,59,Laurel Wassner,38,CA,USA,00:17:49,02:24:05,01:53:01,00:03:08,00:02:02,04:40:05
+ironman-70.3-panama-20140216.csv,60,Ricarda Lisk,33,---,DEU,00:18:30,02:32:18,01:30:16,00:03:09,00:02:05,04:26:18
+ironman-70.3-panama-20140216.csv,61,Ana Borba,29,Intl State,BRA,00:19:13,---,---,00:03:23,---,DNF
+ironman-70.3-panama-20140216.csv,91,Enmanuel Giron,26,francisco morazan,HND,00:29:19,02:51:25,02:18:15,00:04:25,00:03:49,05:47:13
+ironman-70.3-panama-20140216.csv,92,Josue Gomez,28,HEREDIA,CRI,00:26:56,02:29:33,01:39:35,00:03:35,00:02:24,04:42:03
+ironman-70.3-panama-20140216.csv,93,Julio Gonzalez,25,---,PAN,00:27:51,02:51:32,02:02:41,00:03:48,00:02:11,05:28:03
+ironman-70.3-panama-20140216.csv,94,Gonzalo Jop,28,---,CRI,00:23:09,02:36:07,01:47:58,00:05:10,00:02:34,04:54:58
+ironman-70.3-panama-20140216.csv,95,Danilo Parra,28,Pichincha,ECU,00:20:48,02:31:33,01:33:03,00:03:42,00:02:12,04:31:18
+ironman-70.3-panama-20140216.csv,96,Andres Felipe Rodriguez Rueda,26,SANTANDER,COL,00:19:16,02:26:51,01:38:55,00:03:38,00:01:56,04:30:36
+ironman-70.3-panama-20140216.csv,101,Janice Addison,53,SC,USA,00:24:48,02:54:58,02:27:25,00:05:39,00:03:41,05:56:31
+ironman-70.3-panama-20140216.csv,102,Analisa Albert,49,CA,USA,00:26:42,03:20:50,02:30:43,00:05:29,00:05:07,06:28:51
+ironman-70.3-panama-20140216.csv,103,Teresa Dewitt,51,VA,USA,00:26:37,03:04:54,02:11:14,00:06:09,00:03:20,05:52:14
+ironman-70.3-panama-20140216.csv,104,Valeria Rosati,49,Intl State,BRA,00:20:53,02:45:07,01:49:47,00:03:38,00:02:18,05:01:43
+ironman-70.3-panama-20140216.csv,105,Susan  Nace,55,TX,USA,00:26:44,03:30:53,03:40:44,00:12:28,00:20:39,08:11:28
+ironman-70.3-panama-20140216.csv,106,Cathy Tibbetts,59,NM,USA,00:23:42,02:57:59,02:33:23,00:09:49,00:08:29,06:13:22
+ironman-70.3-panama-20140216.csv,107,Roberto Alfonzo-Larrain,50,panama,VEN,00:24:58,02:33:41,01:58:38,00:04:36,00:02:35,05:04:28
+ironman-70.3-panama-20140216.csv,108,Jorge Corvaia,50,carabobo,VEN,00:25:54,02:32:52,01:54:07,00:04:17,00:02:13,04:59:23
+ironman-70.3-panama-20140216.csv,109,Marcio Soares Silva,50,---,BRA,00:24:51,02:53:35,01:54:24,00:06:18,00:04:17,05:23:25
+ironman-70.3-panama-20140216.csv,110,Thomas Dreher,52,---,DEU,00:23:39,02:46:41,02:07:49,00:05:30,00:03:22,05:27:01
+ironman-70.3-panama-20140216.csv,111,Michael Dudas,51,AP,USA,00:26:04,02:46:11,01:53:06,00:05:22,00:03:42,05:14:25
+ironman-70.3-panama-20140216.csv,112,Jim Escobar,50,FL,USA,00:26:29,02:32:56,02:11:53,00:05:04,00:04:27,05:20:49
+ironman-70.3-panama-20140216.csv,114,Chip Grizzard,51,GA,USA,00:20:30,02:40:01,02:05:51,00:05:37,00:03:32,05:15:31
+ironman-70.3-panama-20140216.csv,115,Martin Hall,53,CA,USA,00:26:51,02:43:34,02:02:56,00:05:44,00:04:22,05:23:27
+ironman-70.3-panama-20140216.csv,116,David Hamilton,53,ON,CAN,00:26:52,02:49:38,02:15:57,00:06:26,00:04:31,05:43:24
+ironman-70.3-panama-20140216.csv,117,CARLOS ENRIQUE HERNANDEZ,49,Venezuela,VEN,00:22:48,02:46:05,01:52:56,00:04:22,00:02:21,05:08:32
+ironman-70.3-panama-20140216.csv,118,Tarq Inman,49,CA,USA,00:28:53,03:27:28,02:10:51,00:07:33,00:04:06,06:18:51
+ironman-70.3-panama-20140216.csv,119,Gustavo Iriarte,52,Jujuy,ARG,00:22:49,02:35:41,01:53:11,00:04:47,00:03:33,05:00:01
+ironman-70.3-panama-20140216.csv,122,Francisco Carvalhinho Junior,50,Intl State,BRA,00:21:38,02:31:47,01:56:07,00:04:26,00:02:31,04:56:29
+ironman-70.3-panama-20140216.csv,123,Josef Katzgraber,49,AT,AUT,00:27:38,03:03:26,02:24:45,00:05:14,00:04:44,06:05:47
+ironman-70.3-panama-20140216.csv,124,Mauricio Keppen,52,SANTA CATARINA,BRA,00:22:49,02:45:37,---,00:04:15,---,DNF
+ironman-70.3-panama-20140216.csv,125,Eduardo Luna,49,Distrito Federal,MEX,00:22:59,02:47:52,02:23:00,00:05:30,00:03:47,05:43:08
+ironman-70.3-panama-20140216.csv,127,Marioalberto Mendez,51,ACT,ECU,00:26:31,02:55:18,01:59:16,00:04:39,00:03:40,05:29:24
+ironman-70.3-panama-20140216.csv,128,Eduardo Miranda,49,Alajuela,CRI,00:25:00,02:48:27,01:56:12,00:04:56,00:03:46,05:18:21
+ironman-70.3-panama-20140216.csv,129,Michael Ochstein,53,TX,USA,00:20:39,02:43:20,02:06:34,00:05:11,00:02:58,05:18:42
+ironman-70.3-panama-20140216.csv,130,John Phillips,51,TX,USA,00:28:46,03:28:31,03:00:31,00:11:21,00:10:34,07:19:43
+ironman-70.3-panama-20140216.csv,131,Antonio Picon,49,NY,VEN,00:21:36,02:53:49,02:20:26,00:06:06,00:03:49,05:45:46
+ironman-70.3-panama-20140216.csv,132,Gerardo Rincon,51,Venezuela,VEN,00:22:46,02:42:21,02:15:36,00:04:50,00:02:39,05:28:12
+ironman-70.3-panama-20140216.csv,133,Simon Roberts,50,ON,CAN,00:24:41,02:30:35,02:29:48,00:05:27,00:03:54,05:34:25
+ironman-70.3-panama-20140216.csv,134,Jose Samayoa,51,La Libertad,SLV,00:22:33,02:37:16,01:51:16,00:04:59,00:04:39,05:00:43
+ironman-70.3-panama-20140216.csv,135,Alejandro Sambad,51,Other,ARG,00:23:24,02:30:54,01:47:53,00:03:40,00:02:27,04:48:18
+ironman-70.3-panama-20140216.csv,136,Ricardo Sanchez,49,FL,USA,00:25:56,02:55:07,02:55:15,00:07:48,00:05:10,06:29:16
+ironman-70.3-panama-20140216.csv,137,Rodolfo Sanchez,53,Intl State,VEN,00:25:41,02:34:09,01:53:08,00:05:13,00:04:26,05:02:37
+ironman-70.3-panama-20140216.csv,139,Eric Schneider,49,CA,USA,00:22:56,03:04:32,02:09:37,00:04:54,00:05:33,05:47:32
+ironman-70.3-panama-20140216.csv,140,Carlos Vargas,52,FL,COL,00:27:03,02:57:02,02:13:28,00:06:27,00:04:32,05:48:32
+ironman-70.3-panama-20140216.csv,142,Francis Alcacer,56,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-panama-20140216.csv,143,Wilbert Golden Batista,55,DISTRITO FEDERAL,BRA,00:25:14,---,---,00:04:30,---,DNF
+ironman-70.3-panama-20140216.csv,144,Mario Alberto Cruz,55,---,MEX,00:27:12,02:53:32,02:36:58,00:05:47,00:04:33,06:08:02
+ironman-70.3-panama-20140216.csv,145,Paulo Alfredo Farina Junior,55,São Paulo,BRA,00:25:10,03:03:56,02:04:01,00:05:49,00:03:21,05:42:17
+ironman-70.3-panama-20140216.csv,147,Scott Mackay,54,ON,CAN,00:26:49,03:00:27,02:10:12,00:05:40,00:03:46,05:46:54
+ironman-70.3-panama-20140216.csv,148,Jorge Mayerle,59,SANTA CATARINA,BRA,00:20:34,02:57:39,02:26:23,00:07:59,00:04:41,05:57:16
+ironman-70.3-panama-20140216.csv,151,Michael Rusin,58,IL,USA,00:28:18,02:49:45,02:10:15,00:05:25,00:04:10,05:37:53
+ironman-70.3-panama-20140216.csv,154,Curridori Valerio,61,italy,ITA,00:23:58,02:36:12,01:45:11,00:04:13,00:02:05,04:51:39
+ironman-70.3-panama-20140216.csv,155,Jorge Eduardo Motta,60,Bogotá D.C,COL,00:30:37,02:48:24,03:01:29,00:08:45,00:04:13,06:33:28
+ironman-70.3-panama-20140216.csv,156,Esteban Rojas Herrera,63,Costa Rica,CRI,00:27:19,03:01:07,02:20:00,00:04:43,00:03:55,05:57:04
+ironman-70.3-panama-20140216.csv,157,Osvaldo Zamora,59,BA,ARG,00:26:47,02:51:15,02:22:49,00:05:10,00:03:33,05:49:34
+ironman-70.3-panama-20140216.csv,158,Lucas Verzbolovskis,66,---,PAN,00:31:30,03:26:18,02:28:30,00:09:45,00:06:33,06:42:36
+ironman-70.3-panama-20140216.csv,159,Charles Vick,64,FL,USA,00:30:35,03:08:34,02:32:30,00:05:33,00:05:46,06:22:58
+ironman-70.3-panama-20140216.csv,160,Robert Diday,70,NJ,USA,00:30:23,03:47:35,03:16:41,00:09:16,00:08:49,07:52:44
+ironman-70.3-panama-20140216.csv,161,Roger Little,73,---,USA,00:26:28,03:02:16,02:11:02,00:06:22,00:03:50,05:49:58
+ironman-70.3-panama-20140216.csv,162,Marcela Alvarez,37,distrito federal,MEX,00:22:49,02:49:27,01:57:18,00:04:06,00:02:45,05:16:25
+ironman-70.3-panama-20140216.csv,163,Marianela Badilla,38,Intl State,CRI,00:27:40,03:04:50,01:59:24,00:05:17,00:05:01,05:42:12
+ironman-70.3-panama-20140216.csv,164,Augusta Barrios,34,Lima,PER,00:22:19,02:35:52,01:46:59,00:04:37,00:02:01,04:51:48
+ironman-70.3-panama-20140216.csv,165,Jessica Blanco,36,Intl State,CRI,---,---,---,---,---,DNS
+ironman-70.3-panama-20140216.csv,167,Paloma Corona,34,Intl State,MEX,00:31:21,03:15:03,02:21:31,00:09:20,00:06:06,06:23:21
+ironman-70.3-panama-20140216.csv,169,Isabel Erne Morales,38,panama,PAN,00:30:58,03:01:18,02:03:25,00:06:16,00:04:21,05:46:18
+ironman-70.3-panama-20140216.csv,170,Kenny Estrella,38,CL,ECU,00:28:49,03:19:31,01:57:27,00:04:55,00:03:24,05:54:06
+ironman-70.3-panama-20140216.csv,173,Maria Teresa Guerrero Guerrero,36,GUAYAS,ECU,00:24:35,02:44:54,01:49:18,00:04:16,00:02:06,05:05:09
+ironman-70.3-panama-20140216.csv,175,Cristina Cardoze,38,Intl State,PAN,00:24:22,02:51:04,01:47:24,00:05:42,00:02:37,05:11:09
+ironman-70.3-panama-20140216.csv,176,Dayna Kucy,36,AB,CAN,00:23:34,03:25:09,02:58:36,00:05:52,00:13:20,07:06:31
+ironman-70.3-panama-20140216.csv,177,Aline Machado,36,Minas Gerais,BRA,00:28:11,03:09:29,02:28:18,00:05:48,00:05:01,06:16:47
+ironman-70.3-panama-20140216.csv,178,Michela Menegon,36,Italy,ITA,00:18:10,02:37:28,01:45:33,00:03:32,00:02:15,04:46:58
+ironman-70.3-panama-20140216.csv,180,Mayela Polanco Caceres,35,chiapas,MEX,00:30:11,03:34:47,02:57:00,00:07:30,00:06:58,07:16:26
+ironman-70.3-panama-20140216.csv,181,Adriana Prieto,36,Panama,VEN,00:25:21,02:33:29,01:50:07,00:04:08,00:03:12,04:56:17
+ironman-70.3-panama-20140216.csv,182,Patricia Quijano,35,Panama,PAN,00:25:12,03:07:26,02:06:35,00:04:37,00:02:39,05:46:29
+ironman-70.3-panama-20140216.csv,184,Rosa Laura Saggese Elbooz,38,FL,FIN,00:25:21,02:45:13,02:05:25,00:04:40,00:03:25,05:24:04
+ironman-70.3-panama-20140216.csv,185,Kathie Sanderson,38,Other,CAN,00:23:15,02:54:57,02:17:07,00:07:59,00:05:06,05:48:24
+ironman-70.3-panama-20140216.csv,187,Damaris Dias,35,Sao Paulo,BRA,00:29:02,03:32:12,02:24:11,00:07:26,00:05:26,06:38:17
+ironman-70.3-panama-20140216.csv,188,Tracey Choroco,34,FL,USA,00:29:15,03:57:51,03:32:25,00:17:05,00:06:28,08:23:04
+ironman-70.3-panama-20140216.csv,191,Virginia Vasconcelos,38,GO,BRA,00:24:59,02:35:44,01:49:00,00:04:02,00:02:00,04:55:45
+ironman-70.3-panama-20140216.csv,192,Fer Vela,37,Pichincha,ECU,00:29:51,03:25:55,02:32:23,00:06:12,00:06:47,06:41:08
+ironman-70.3-panama-20140216.csv,194,Shelley Wagner,38,GA,USA,00:23:58,03:09:37,02:28:09,00:06:24,00:06:22,06:14:30
+ironman-70.3-panama-20140216.csv,196,Yamile Abouzaid,39,Intl State,MEX,00:28:33,02:50:41,01:52:54,00:04:37,00:02:25,05:19:10
+ironman-70.3-panama-20140216.csv,197,Sophie Beaufils-Ledee,43,---,GLP,00:27:21,03:15:21,02:49:50,00:06:34,00:06:36,06:45:42
+ironman-70.3-panama-20140216.csv,198,MARIA YOLANDA BORJA,42,PICHINCHA,ECU,00:36:19,02:51:26,01:59:07,00:05:56,00:03:24,05:36:12
+ironman-70.3-panama-20140216.csv,200,Maryline Chailleux,40,---,FRA,00:28:46,03:21:57,02:32:00,00:06:49,00:05:48,06:35:20
+ironman-70.3-panama-20140216.csv,201,Wendy Clague,42,AB,CAN,00:28:28,---,---,00:09:44,---,DNF
+ironman-70.3-panama-20140216.csv,202,Katharine De Simone,42,Intl State,GBR,00:23:12,03:07:45,02:07:37,00:07:29,00:06:17,05:52:20
+ironman-70.3-panama-20140216.csv,203,Julie Globus,44,NY,USA,00:28:27,03:29:27,03:00:52,00:08:20,00:08:39,07:15:45
+ironman-70.3-panama-20140216.csv,204,Zaira Gomez,43,---,MEX,00:26:33,02:55:29,01:56:09,00:05:21,00:04:10,05:27:42
+ironman-70.3-panama-20140216.csv,205,Veronica Gustafson,39,FL,USA,00:27:04,03:07:37,02:03:47,00:04:33,00:04:03,05:47:04
+ironman-70.3-panama-20140216.csv,207,Lori Haws,43,ON,CAN,00:22:38,03:11:14,02:43:28,00:05:31,00:05:27,06:28:18
+ironman-70.3-panama-20140216.csv,209,Deysiris Hernandez,40,Panama,PAN,00:26:21,03:00:32,02:14:15,00:04:15,00:03:58,05:49:21
+ironman-70.3-panama-20140216.csv,210,Lisa Isom,41,Miranda,VNM,00:22:21,02:37:07,02:01:44,00:04:37,00:02:38,05:08:27
+ironman-70.3-panama-20140216.csv,214,Sofia Montoya,40,CUND,COL,00:22:24,02:46:09,01:48:43,00:04:06,00:03:04,05:04:26
+ironman-70.3-panama-20140216.csv,217,Renata Ribeiro Dias,40,Panama,PAN,00:22:50,03:11:25,02:11:48,00:05:25,00:03:00,05:54:28
+ironman-70.3-panama-20140216.csv,218,Andrea Rudser-Rusin,41,IL,USA,00:21:47,03:01:58,02:24:14,00:05:01,00:05:29,05:58:29
+ironman-70.3-panama-20140216.csv,222,Monica Maria Acevedo,48,---,COL,00:25:55,02:59:47,02:22:43,00:04:32,00:03:04,05:56:01
+ironman-70.3-panama-20140216.csv,224,Rossy Arauz,47,Panamá,PAN,---,---,---,---,---,DQ
+ironman-70.3-panama-20140216.csv,225,Andrea Paula Cardoso,44,Sao paulo,BLZ,00:26:41,02:50:35,02:05:36,00:06:03,00:03:55,05:32:50
+ironman-70.3-panama-20140216.csv,226,Leigh Dietz,45,GA,USA,00:27:42,03:23:52,03:31:44,00:09:29,00:11:36,07:44:23
+ironman-70.3-panama-20140216.csv,227,Lori Gladstone,45,CA,USA,00:26:29,02:58:48,02:06:13,00:04:58,00:04:31,05:40:59
+ironman-70.3-panama-20140216.csv,228,Linda Johnson,47,WA,USA,00:23:42,02:50:53,02:02:14,00:04:34,00:02:49,05:24:12
+ironman-70.3-panama-20140216.csv,230,Joanne Roberts,48,ON,CAN,00:25:09,02:50:45,02:23:02,00:05:08,00:05:29,05:49:33
+ironman-70.3-panama-20140216.csv,231,Amanda Alvarado,23,panama,PAN,00:24:28,03:10:35,02:33:48,00:05:09,00:05:06,06:19:06
+ironman-70.3-panama-20140216.csv,232,Liz Chavez,23,FL,VEN,00:26:45,02:58:16,02:15:10,00:04:23,00:03:12,05:47:46
+ironman-70.3-panama-20140216.csv,233,Shelley Harper,23,NC,USA,00:17:26,02:43:03,01:56:55,00:04:02,00:03:28,05:04:54
+ironman-70.3-panama-20140216.csv,234,Daniela Montiel,22,zulia,VEN,00:21:15,02:40:26,01:51:05,00:03:35,00:01:55,04:58:16
+ironman-70.3-panama-20140216.csv,235,Tania Sapoznik Sanchez,21,---,PRY,00:20:58,02:47:21,01:51:44,00:03:59,00:02:06,05:06:08
+ironman-70.3-panama-20140216.csv,236,Silvia Elizabeth Waterman Rios,21,Panamá,PAN,00:23:50,03:07:45,02:23:00,00:05:26,00:03:10,06:03:11
+ironman-70.3-panama-20140216.csv,237,Antonella Alessandria,27,Panama,PAN,00:27:11,03:16:57,02:26:14,00:05:33,00:06:29,06:22:24
+ironman-70.3-panama-20140216.csv,239,Mathilde Batailler,27,NSW,FRA,00:23:40,02:39:28,01:48:44,00:03:52,00:02:20,04:58:04
+ironman-70.3-panama-20140216.csv,240,Marelissa Him,24,Panama,PAN,---,---,---,---,---,DNS
+ironman-70.3-panama-20140216.csv,242,Jenni Button,24,AB,CAN,00:20:55,03:27:30,02:33:34,00:06:24,00:03:59,06:32:22
+ironman-70.3-panama-20140216.csv,243,Tatiana Carvajal Kravchuk,26,PANAMA,PAN,00:28:26,02:58:05,02:12:25,00:04:05,00:02:45,05:45:46
+ironman-70.3-panama-20140216.csv,244,Wendy Farrens,29,MT,USA,00:21:43,03:01:31,02:11:29,00:04:41,00:03:20,05:42:44
+ironman-70.3-panama-20140216.csv,245,Flor De Maria Hernandez Rodriguez,27,PUEBLA,MEX,00:23:02,03:13:41,02:13:32,00:06:30,00:04:29,06:01:14
+ironman-70.3-panama-20140216.csv,247,Meryl Makinson,25,AB,CAN,00:24:34,02:50:57,02:00:34,00:08:18,00:06:46,05:31:09
+ironman-70.3-panama-20140216.csv,248,Julie Mellon,25,AB,CAN,00:25:44,03:00:58,02:09:56,00:04:35,00:03:16,05:44:29
+ironman-70.3-panama-20140216.csv,250,Nicole Ortiz,28,Panama,PAN,00:26:27,02:55:09,01:59:59,00:04:57,00:03:34,05:30:06
+ironman-70.3-panama-20140216.csv,251,Iliana Rios,29,Panama,PAN,00:25:41,02:56:55,02:33:39,00:05:42,00:04:39,06:06:36
+ironman-70.3-panama-20140216.csv,252,Michelle Sanchez,25,Intl State,PAN,00:21:45,03:14:05,02:15:37,00:04:21,00:04:07,05:59:55
+ironman-70.3-panama-20140216.csv,253,Teryn Warnke,28,AB,CAN,00:26:17,03:02:50,02:01:32,00:04:36,00:02:09,05:37:24
+ironman-70.3-panama-20140216.csv,254,Esteban Arcila,29,ANTIOQUIA,COL,00:36:45,02:42:58,02:06:29,00:04:37,00:02:35,05:33:24
+ironman-70.3-panama-20140216.csv,256,Johanna Avila,30,Heredia,CRI,00:23:17,02:49:18,02:16:36,00:04:47,00:02:39,05:36:37
+ironman-70.3-panama-20140216.csv,257,Valeria Sofia Candanedo Deneken,29,panama,PAN,00:29:08,03:41:48,02:52:43,00:06:34,00:03:55,07:14:08
+ironman-70.3-panama-20140216.csv,258,Amanda Chu,29,Panama,PAN,00:27:45,03:28:53,03:51:22,00:06:41,00:06:59,08:01:40
+ironman-70.3-panama-20140216.csv,259,Francia Contreras,33,Nayarit,MEX,00:25:48,02:55:04,01:52:58,00:04:25,00:02:51,05:21:06
+ironman-70.3-panama-20140216.csv,261,Nikolett Demeter,30,---,HUN,00:20:47,02:41:19,02:31:31,00:04:41,00:03:01,05:41:19
+ironman-70.3-panama-20140216.csv,262,Maruquel Donado,31,Intl State,PAN,00:26:21,03:13:54,02:13:41,00:04:54,00:05:58,06:04:48
+ironman-70.3-panama-20140216.csv,263,Glendy Escalona,33,Intl State,VEN,00:22:57,02:54:36,02:14:13,00:04:11,00:03:15,05:39:12
+ironman-70.3-panama-20140216.csv,264,Laura Garcia,29,panama,VEN,00:24:27,03:06:28,02:06:06,00:04:39,00:03:54,05:45:34
+ironman-70.3-panama-20140216.csv,266,Maybelline Gonzalez,33,Panama,PAN,00:22:43,03:16:36,02:05:49,00:10:28,00:12:09,06:07:45
+ironman-70.3-panama-20140216.csv,267,Jillian Heddaeus,30,FL,PAN,00:23:25,02:52:53,01:57:27,00:04:30,00:03:16,05:21:31
+ironman-70.3-panama-20140216.csv,268,Sofia Catalina Howell Vargas,31,San Jose,CRI,00:28:56,02:49:56,01:50:44,00:04:54,00:03:21,05:17:51
+ironman-70.3-panama-20140216.csv,269,Paloma Ivonne Islas Gonzalez,32,jalisco,MEX,00:26:17,03:24:46,02:12:37,00:04:59,00:04:38,06:13:17
+ironman-70.3-panama-20140216.csv,270,Debbie Jeffries,33,FL,USA,00:26:26,03:22:00,03:15:45,00:06:37,00:05:18,07:16:06
+ironman-70.3-panama-20140216.csv,271,Maria Jose Jerez,29,Panamá,VEN,---,---,---,---,---,DNS
+ironman-70.3-panama-20140216.csv,272,Flavia Lopez,29,Veraguas,NIC,00:30:14,03:18:43,02:06:10,00:06:46,00:05:04,06:06:57
+ironman-70.3-panama-20140216.csv,274,Flor Maria Mendoza Davila,32,Manabi,ECU,00:26:32,02:45:05,02:17:11,00:06:25,00:06:06,05:41:19
+ironman-70.3-panama-20140216.csv,275,Leidy Yuliana Munera Mesa,31,antioquia,COL,00:27:36,03:32:06,02:25:38,00:06:36,00:04:37,06:36:33
+ironman-70.3-panama-20140216.csv,276,Karen Oliver,31,---,VEN,00:22:38,02:49:21,---,00:04:53,---,DNF
+ironman-70.3-panama-20140216.csv,277,Kathryn Svenson,32,BC,USA,00:22:49,03:21:50,02:31:54,00:05:53,00:05:54,06:28:20
+ironman-70.3-panama-20140216.csv,278,Katherine Tobin,32,DC,USA,00:21:04,02:50:38,01:52:34,00:04:45,00:02:20,05:11:21
+ironman-70.3-panama-20140216.csv,279,Lorena Velasquez,33,Guatemala,GTM,00:28:57,03:19:57,02:29:55,00:06:03,00:04:47,06:29:39
+ironman-70.3-panama-20140216.csv,280,Carlos Baldion,19,---,PAN,00:22:53,02:44:31,02:19:40,00:05:30,00:04:11,05:36:45
+ironman-70.3-panama-20140216.csv,281,Andres Chirinos,22,Lima Lima Lima,PER,00:19:54,02:27:22,01:45:07,00:04:20,00:02:13,04:38:56
+ironman-70.3-panama-20140216.csv,282,Alfonso Espinoza Navarro,22,Costa Rica,CRI,00:22:29,02:42:26,02:00:52,00:03:39,00:02:10,05:11:36
+ironman-70.3-panama-20140216.csv,283,Paulo Alfredo Farina Neto,21,São Paulo,BRA,00:21:25,02:34:05,01:57:33,00:04:27,00:02:02,04:59:32
+ironman-70.3-panama-20140216.csv,284,Jose Ignacio Fernandez Telleria,21,Estado de Mexico,MEX,00:23:52,02:48:35,02:02:20,00:03:45,00:05:17,05:23:49
+ironman-70.3-panama-20140216.csv,286,Gabriel Galil,20,Minas Gerais,BRA,00:22:51,02:44:27,02:05:16,00:06:26,00:03:00,05:22:00
+ironman-70.3-panama-20140216.csv,287,Jorge Fernando Godoy,21,Guatemala,GTM,00:26:21,02:51:53,03:04:51,00:07:03,00:06:26,06:36:34
+ironman-70.3-panama-20140216.csv,288,Steven Gomez Osorio,22,risaralda,COL,00:20:29,02:26:53,01:51:38,00:04:15,00:02:08,04:45:23
+ironman-70.3-panama-20140216.csv,290,Gilberto Loyo Villarreal,21,miguel hidalgo,MEX,00:25:30,03:10:34,02:40:38,00:05:19,00:05:36,06:27:37
+ironman-70.3-panama-20140216.csv,291,Ignacio Menendez-Pidal,20,---,ESP,00:24:22,03:00:31,01:42:27,00:05:55,00:04:06,05:17:21
+ironman-70.3-panama-20140216.csv,292,Andres Mora,23,MEXICO,MEX,00:25:42,03:01:56,02:04:55,00:04:44,00:02:50,05:40:07
+ironman-70.3-panama-20140216.csv,293,Aaron Moreno,21,---,PAN,00:21:16,02:42:15,01:54:55,00:03:21,00:02:02,05:03:49
+ironman-70.3-panama-20140216.csv,294,Mat  As Ram  Rez,20,PARAGUAY,PRY,00:22:41,02:26:21,01:53:36,00:04:20,00:01:48,04:48:46
+ironman-70.3-panama-20140216.csv,295,Jeff Abernathy,48,GA,USA,00:23:04,03:16:06,03:07:44,00:07:16,00:06:14,07:00:24
+ironman-70.3-panama-20140216.csv,296,Mark Adams,48,CO,GBR,00:24:16,02:34:34,01:53:12,00:05:58,00:02:08,05:00:08
+ironman-70.3-panama-20140216.csv,298,Mario Alcala,45,ATLANTICO,COL,00:24:19,02:46:38,02:15:30,00:07:11,00:07:47,05:41:25
+ironman-70.3-panama-20140216.csv,299,Juan Alonso,44,Cundinamarca,COL,00:23:32,02:38:36,02:03:41,00:05:04,00:02:46,05:13:39
+ironman-70.3-panama-20140216.csv,300,Ruben Armendaris,47,GUAYAS,ECU,00:26:16,03:05:37,03:26:29,00:07:56,00:09:33,07:15:51
+ironman-70.3-panama-20140216.csv,301,Ricky Arriola,45,FL,USA,00:25:24,02:45:43,02:19:36,00:05:57,00:03:01,05:39:41
+ironman-70.3-panama-20140216.csv,302,Aldo Ayala,44,CA,MEX,00:27:16,03:17:37,02:45:16,00:09:05,00:07:54,06:47:08
+ironman-70.3-panama-20140216.csv,303,Kerry Chace,48,IL,USA,00:26:20,03:11:04,02:49:04,00:06:45,00:08:26,06:41:39
+ironman-70.3-panama-20140216.csv,305,Rodrigo Cruz,48,Intl State,CRI,00:26:05,02:45:43,01:54:03,00:04:16,00:03:28,05:13:35
+ironman-70.3-panama-20140216.csv,307,Andrew Duggan,45,CA,USA,00:24:35,02:41:04,01:50:22,00:05:11,00:03:29,05:04:41
+ironman-70.3-panama-20140216.csv,308,Cesar  Augusto Echeverry Orduz,46,Cundinamarca,COL,00:25:48,03:02:24,02:25:13,00:05:24,00:03:35,06:02:24
+ironman-70.3-panama-20140216.csv,309,Carlos Hernandez Prieto,45,Intl State,ECU,---,---,---,---,---,DQ
+ironman-70.3-panama-20140216.csv,310,Armando Espinoza,45,HI,USA,00:23:21,02:20:41,01:38:43,00:03:37,00:02:14,04:28:36
+ironman-70.3-panama-20140216.csv,311,Avelino Estevez,44,Intl State,PAN,00:21:37,02:56:18,02:39:00,00:05:28,00:05:50,06:08:13
+ironman-70.3-panama-20140216.csv,312,Jose Luis Garcia,46,CA,MEX,00:26:07,02:46:52,01:54:06,00:07:41,00:04:34,05:19:20
+ironman-70.3-panama-20140216.csv,313,Harvey Gayer,45,GA,USA,00:24:11,02:21:22,01:46:05,00:04:16,00:02:33,04:38:27
+ironman-70.3-panama-20140216.csv,314,Livio Gazzini,47,FL,ITA,00:26:33,02:30:44,01:58:59,00:04:41,00:03:24,05:04:21
+ironman-70.3-panama-20140216.csv,316,Alberto Grajales,45,OI,PAN,00:24:57,03:37:18,02:50:54,00:07:28,00:05:34,07:06:11
+ironman-70.3-panama-20140216.csv,317,Alexander Guaraco,44,Intl State,VEN,00:23:44,02:52:10,02:44:15,00:04:11,00:03:38,06:07:58
+ironman-70.3-panama-20140216.csv,318,Pierre Harris,44,Intl State,FRA,00:23:58,02:36:26,01:41:05,00:03:14,00:02:04,04:46:47
+ironman-70.3-panama-20140216.csv,319,Joost Hauwert,46,---,NLD,00:23:49,02:46:20,02:13:54,00:04:43,00:03:30,05:32:16
+ironman-70.3-panama-20140216.csv,320,Esteban Rafael Hernandez Garcia,44,Edo. de Mexico,MEX,00:29:11,03:04:00,02:10:36,00:15:10,00:15:08,06:14:05
+ironman-70.3-panama-20140216.csv,321,Ubeimar Herrera,47,ANTIOQUIA,COL,00:21:22,02:31:18,01:50:23,00:03:40,00:03:12,04:49:55
+ironman-70.3-panama-20140216.csv,322,Fernando Infante,45,---,COL,00:25:15,02:41:15,02:29:54,00:05:44,00:07:58,05:50:06
+ironman-70.3-panama-20140216.csv,324,Juan M Jaramillo,46,TX,COL,00:25:09,02:50:02,02:15:36,00:05:39,00:05:10,05:41:36
+ironman-70.3-panama-20140216.csv,326,William Juhala,45,OR,USA,00:21:58,03:01:51,02:51:23,00:04:51,00:04:06,06:24:09
+ironman-70.3-panama-20140216.csv,327,Cesar Kiamco,46,FL,PAN,00:23:45,03:16:44,01:42:26,00:04:11,00:03:24,05:30:30
+ironman-70.3-panama-20140216.csv,328,Joel Landrum,44,GA,USA,00:20:57,03:00:26,02:29:10,00:05:31,00:05:11,06:01:15
+ironman-70.3-panama-20140216.csv,329,Tomas Latorre,47,---,ESP,00:22:15,02:37:06,01:42:29,00:04:52,00:03:09,04:49:51
+ironman-70.3-panama-20140216.csv,330,Simon Lewis,44,---,GBR,00:22:54,02:34:49,02:03:08,00:03:53,00:02:34,05:07:18
+ironman-70.3-panama-20140216.csv,331,Gustavo Alfonso Lezama,47,PUEBLA,MEX,00:22:30,02:29:23,01:43:51,00:04:01,00:02:18,04:42:03
+ironman-70.3-panama-20140216.csv,333,Victor Saborio,49,Cortes,HND,00:26:04,03:02:05,02:27:26,00:06:59,00:04:19,06:06:53
+ironman-70.3-panama-20140216.csv,334,Brad Marshall,44,CA,USA,00:21:47,02:20:20,01:43:17,00:04:14,00:02:57,04:32:35
+ironman-70.3-panama-20140216.csv,335,Andres Martinez,47,BUENOS AIRES,ARG,---,---,---,---,---,DQ
+ironman-70.3-panama-20140216.csv,337,Walter Molina,47,---,ARG,00:25:29,02:43:47,01:47:08,00:05:15,00:03:25,05:05:04
+ironman-70.3-panama-20140216.csv,338,Mario Cesar Nunez,48,DF,MEX,00:27:55,03:07:34,02:21:21,00:06:03,00:05:34,06:08:27
+ironman-70.3-panama-20140216.csv,339,Jean Marc Outil,44,---,FRA,00:18:46,02:46:20,02:13:09,00:03:51,00:02:37,05:24:43
+ironman-70.3-panama-20140216.csv,340,Alejandro Palm,44,---,PAN,---,---,02:36:57,---,03:44:21,06:21:18
+ironman-70.3-panama-20140216.csv,341,Julio Cesar Paterlini Julio Paterlini,47,sao paulo,BRA,00:22:03,02:27:36,02:04:19,00:04:35,00:03:40,05:02:13
+ironman-70.3-panama-20140216.csv,342,Juan Carlos Penas,46,Cundinamarca,COL,00:25:05,02:35:11,02:05:57,00:04:49,00:03:40,05:14:42
+ironman-70.3-panama-20140216.csv,343,Boris Edgardo Perez Apolayo,45,Panamá,PAN,00:25:34,02:55:18,02:21:13,00:04:11,00:03:28,05:49:44
+ironman-70.3-panama-20140216.csv,344,Luis Perez Guerra,44,ES,VEN,00:20:38,02:32:07,02:01:23,00:04:29,00:02:51,05:01:28
+ironman-70.3-panama-20140216.csv,345,Gustavo Perez Seib,46,FL,ARG,00:22:23,02:37:12,01:46:40,00:04:21,00:01:58,04:52:34
+ironman-70.3-panama-20140216.csv,346,Gustavo Perri,46,buenos aires,ARG,00:20:27,02:31:15,01:37:20,00:04:08,00:02:20,04:35:30
+ironman-70.3-panama-20140216.csv,347,Euclides Wicar De Castro Pessoa Pessoa,48,DF,BRA,00:23:38,---,---,00:06:41,---,DNF
+ironman-70.3-panama-20140216.csv,348,Leonardo Poncinelli,44,MG,BRA,00:23:10,---,---,00:06:32,---,DNF
+ironman-70.3-panama-20140216.csv,350,Jorge Robert,44,Intl State,PAN,00:30:14,03:13:51,02:44:26,00:07:30,00:05:49,06:41:50
+ironman-70.3-panama-20140216.csv,351,Jorge Adrian Rodriguez Velez,47,Panama,PAN,00:26:08,02:48:24,02:03:45,00:06:16,00:02:53,05:27:26
+ironman-70.3-panama-20140216.csv,353,Juan Samudio,48,Panamá,PAN,00:24:26,03:01:10,02:32:12,00:05:44,00:03:48,06:07:20
+ironman-70.3-panama-20140216.csv,354,Nelson San Miguel,46,Pichincha,ECU,00:28:08,03:32:28,02:55:05,00:07:35,00:06:24,07:09:40
+ironman-70.3-panama-20140216.csv,355,Reynaldo Sanchez,46,FL,USA,00:25:37,02:43:41,02:26:09,00:07:25,00:04:21,05:47:13
+ironman-70.3-panama-20140216.csv,357,Rodrigo Lamego Soares,45,Intl State,BRA,00:23:50,02:45:20,02:27:17,00:06:21,00:04:32,05:47:20
+ironman-70.3-panama-20140216.csv,358,Michael Stow,48,FL,PAN,00:26:13,02:49:59,04:05:50,00:05:37,00:05:18,07:32:57
+ironman-70.3-panama-20140216.csv,359,Rene Van Hoorde,44,FL,FIN,00:23:52,02:47:49,01:56:50,00:05:49,00:03:28,05:17:48
+ironman-70.3-panama-20140216.csv,360,Valery Vaudran,46,Martinique,MTQ,00:20:00,02:36:14,01:59:52,00:04:13,00:02:49,05:03:08
+ironman-70.3-panama-20140216.csv,361,Jaime Antonio Villacis,47,Buenos Aires,ECU,---,---,---,---,---,DNS
+ironman-70.3-panama-20140216.csv,363,Marco Vargas Aguilar,44,Intl State,CRI,00:23:40,03:03:47,02:20:38,00:06:43,00:04:22,05:59:10
+ironman-70.3-panama-20140216.csv,364,Evelio Francisco Alvarado,40,Intl State,GTM,00:26:21,02:53:35,02:08:58,00:07:31,00:04:22,05:40:47
+ironman-70.3-panama-20140216.csv,366,Osvaldo Alvarado,43,Panama,PAN,00:26:38,03:16:09,02:20:18,00:07:21,00:04:37,06:15:03
+ironman-70.3-panama-20140216.csv,367,Tony Alvarado,40,Panama,SPM,00:28:33,03:04:10,02:15:07,00:06:08,00:05:04,05:59:02
+ironman-70.3-panama-20140216.csv,368,Luis Fernando Alvarez,43,---,COL,00:24:50,02:57:29,02:46:30,00:06:18,00:08:00,06:23:07
+ironman-70.3-panama-20140216.csv,369,Uriel Alvarez,43,antioquia,COL,00:26:30,02:36:30,02:09:23,00:06:21,00:02:46,05:21:30
+ironman-70.3-panama-20140216.csv,370,Marcelo Apolo,40,Guayas,ECU,00:28:52,03:00:24,02:18:52,00:06:28,00:04:43,05:59:19
+ironman-70.3-panama-20140216.csv,372,Gustavo Arias Gallardo,42,PA,PAN,00:24:20,02:58:52,02:21:44,00:04:39,00:03:56,05:53:31
+ironman-70.3-panama-20140216.csv,373,Jose Azevedo,41,Intl State,BRA,00:23:44,02:48:12,01:52:12,00:05:48,00:02:52,05:12:48
+ironman-70.3-panama-20140216.csv,374,Jean Baddoura,40,QC,CAN,00:32:18,03:10:18,02:25:11,00:04:49,00:02:22,06:14:58
+ironman-70.3-panama-20140216.csv,375,Redfield Baum,41,AZ,USA,00:21:05,02:38:28,01:43:36,00:03:51,00:01:57,04:48:57
+ironman-70.3-panama-20140216.csv,376,Luis Bellido,39,---,PAN,---,---,---,---,---,DNS
+ironman-70.3-panama-20140216.csv,377,Carlos Benitez Sanchez,41,---,ESP,00:23:01,02:49:39,01:52:58,00:05:56,00:03:11,05:14:45
+ironman-70.3-panama-20140216.csv,378,Juan Jos Bonilla,41,---,COL,00:25:39,02:59:35,02:04:26,00:04:47,00:02:58,05:37:25
+ironman-70.3-panama-20140216.csv,380,Jaime Boter,43,Panama,ESP,00:27:15,02:42:38,01:59:28,00:06:40,00:04:53,05:20:54
+ironman-70.3-panama-20140216.csv,383,Julio Calvo,39,Intl State,PAN,00:24:33,03:11:42,02:30:50,00:05:56,00:04:44,06:17:45
+ironman-70.3-panama-20140216.csv,384,Irving Centella,40,Intl State,PAN,00:24:22,02:50:56,01:58:47,00:04:38,00:03:28,05:22:11
+ironman-70.3-panama-20140216.csv,385,Adviel Centeno,39,Panama ,PAN,00:27:29,03:08:29,02:44:14,00:06:34,00:05:24,06:32:10
+ironman-70.3-panama-20140216.csv,386,Paul Chalem,43,FL,PAN,00:23:52,02:53:42,---,00:05:01,00:04:08,DNF
+ironman-70.3-panama-20140216.csv,387,Denis Chavez,39,---,CRI,00:22:06,---,---,00:07:05,---,DNF
+ironman-70.3-panama-20140216.csv,388,Aristides Chiriatti,42,Intl State,SLE,00:25:12,02:42:42,01:54:34,00:05:36,00:02:47,05:10:51
+ironman-70.3-panama-20140216.csv,389,Walter Choroco,41,FL,USA,00:29:05,03:57:53,03:32:25,00:08:13,00:06:28,08:14:04
+ironman-70.3-panama-20140216.csv,390,Kevin Clague,42,AB,CAN,00:23:33,02:52:53,01:59:21,00:06:44,00:06:48,05:29:19
+ironman-70.3-panama-20140216.csv,391,Roman Codrington,40,Panama,PAN,00:21:55,02:37:53,02:42:26,00:04:09,00:02:53,05:49:16
+ironman-70.3-panama-20140216.csv,392,Andres Coto,42,Central,CRI,00:25:47,02:42:09,02:25:07,00:06:17,00:04:43,05:44:03
+ironman-70.3-panama-20140216.csv,393,Carlos Cruz,42,Pichincha,ECU,00:25:50,02:54:53,02:16:22,00:06:35,00:03:29,05:47:09
+ironman-70.3-panama-20140216.csv,394,Norberto Daluz,40,VA,USA,00:23:36,03:14:31,02:30:22,00:05:56,00:04:44,06:19:09
+ironman-70.3-panama-20140216.csv,395,RAFAEL DE LA BARREDA,40,NY,ESP,00:26:05,03:04:23,02:13:21,00:08:29,00:05:27,05:57:45
+ironman-70.3-panama-20140216.csv,396,Gustavo De Luca Quesada,40,Intl State,PAN,00:24:51,02:41:16,02:09:49,00:05:58,00:04:47,05:26:41
+ironman-70.3-panama-20140216.csv,397,Flavio De Simone,43,Intl State,MEX,00:25:12,02:46:29,01:39:28,00:05:33,00:02:14,04:58:56
+ironman-70.3-panama-20140216.csv,398,Javier Del Valle,42,ARGENTINA,ARG,00:21:43,02:38:22,02:17:02,00:03:59,00:02:31,05:23:37
+ironman-70.3-panama-20140216.csv,400,Pedro Diaz,40,La Libertad,SLV,00:24:17,02:58:01,02:19:46,00:07:42,00:04:04,05:53:50
+ironman-70.3-panama-20140216.csv,401,Samuel Diaz,43,Venezuela,VEN,00:23:50,02:41:01,01:47:27,00:04:46,00:03:14,05:00:18
+ironman-70.3-panama-20140216.csv,402,YURIY DUKIN,41,---,RUS,00:27:32,03:09:53,02:27:31,00:07:00,00:08:06,06:20:02
+ironman-70.3-panama-20140216.csv,403,Byron Eraso Cisneros,40,Pichincha,ECU,00:30:59,03:21:41,02:51:19,00:06:06,00:06:34,06:56:39
+ironman-70.3-panama-20140216.csv,404,Douglas Fonseca,42,---,VEN,00:22:32,02:35:50,01:54:33,00:03:43,00:02:13,04:58:51
+ironman-70.3-panama-20140216.csv,405,Ray Frigola,39,NC,USA,00:24:00,03:02:22,02:39:35,00:05:16,00:03:55,06:15:08
+ironman-70.3-panama-20140216.csv,406,Jaime Andres Frnaco Norena,42,---,COL,00:21:57,02:40:36,02:37:49,00:04:53,00:02:25,05:47:40
+ironman-70.3-panama-20140216.csv,407,Richard Garcia,39,IL,CRI,---,---,---,---,---,DNS
+ironman-70.3-panama-20140216.csv,408,Juan Giraldo,40,Intl State,COL,00:24:51,02:53:44,02:26:12,00:04:09,00:02:21,05:51:17
+ironman-70.3-panama-20140216.csv,409,Tonatiuh Gonzalez Oses,40,Df,MEX,00:27:04,02:58:50,02:43:44,00:06:15,00:04:48,06:20:41
+ironman-70.3-panama-20140216.csv,410,Eduardo Guerrero Cervantes,40,44660,MEX,00:26:13,02:49:11,02:02:09,00:07:01,00:03:47,05:28:21
+ironman-70.3-panama-20140216.csv,411,Miguel Angel Henriquez,42,Panama,PAN,00:28:02,02:49:28,02:08:36,00:06:10,00:04:49,05:37:05
+ironman-70.3-panama-20140216.csv,412,Juan Ramon Hincapie,40,Panama,PAN,00:23:58,03:06:50,02:47:22,00:04:58,00:04:26,06:27:34
+ironman-70.3-panama-20140216.csv,413,Edward Jane,41,Lima,PER,00:24:43,02:45:01,02:13:33,00:06:00,00:05:11,05:34:28
+ironman-70.3-panama-20140216.csv,414,Jorge I. Jaramillo,42,---,PAN,00:25:54,03:06:18,02:52:10,00:08:30,00:15:19,06:48:11
+ironman-70.3-panama-20140216.csv,415,Luis Jimenez,41,---,MEX,00:25:06,02:36:33,01:52:23,00:04:01,00:01:56,04:59:59
+ironman-70.3-panama-20140216.csv,418,Ruben Lasso,43,Panama,PAN,00:26:10,---,---,00:04:54,---,DNF
+ironman-70.3-panama-20140216.csv,419,Emilio Lazo,40,Intl State,SLV,00:26:25,02:52:29,01:57:52,00:04:29,00:03:00,05:24:15
+ironman-70.3-panama-20140216.csv,420,Jose Leal Vergara,42,---,VEN,00:20:43,02:40:05,02:13:43,00:05:33,00:03:31,05:23:35
+ironman-70.3-panama-20140216.csv,422,Alejandro Lindgren,39,Intl State,PRY,00:25:00,02:34:33,02:13:23,00:04:21,00:02:27,05:19:44
+ironman-70.3-panama-20140216.csv,423,Pablo Marcos,44,chubut,ARG,00:21:30,02:45:48,02:07:16,00:04:19,00:02:25,05:21:18
+ironman-70.3-panama-20140216.csv,424,Felipe Matos,38,Distrito Federal,BRA,00:22:55,02:30:58,01:41:32,00:04:45,00:02:25,04:42:35
+ironman-70.3-panama-20140216.csv,425,Enrique Mazas,39,TX,VEN,00:24:45,02:50:12,02:01:56,00:04:10,00:02:50,05:23:53
+ironman-70.3-panama-20140216.csv,428,Diogo Menegaz,42,rio de janeiro,BLZ,00:20:58,02:31:41,01:54:37,00:04:22,00:02:15,04:53:53
+ironman-70.3-panama-20140216.csv,429,Gerson Monge,40,---,CRI,00:23:41,02:48:56,01:50:55,00:04:14,00:02:10,05:09:56
+ironman-70.3-panama-20140216.csv,430,Juan Diego Mora Oviedo,42,---,COL,00:23:50,02:33:13,02:07:27,00:04:00,00:03:34,05:12:04
+ironman-70.3-panama-20140216.csv,431,Andres Munoz,39,Panamá,PAN,00:29:49,03:10:22,02:04:12,00:06:49,00:04:17,05:55:29
+ironman-70.3-panama-20140216.csv,432,Andres German Nennhuber,41,Chubut,ARG,00:21:00,02:26:23,01:52:01,00:03:49,00:03:04,04:46:17
+ironman-70.3-panama-20140216.csv,433,Alexander Ortega,40,PANAMA,PAN,00:27:24,02:27:52,01:52:22,00:04:06,00:02:11,04:53:55
+ironman-70.3-panama-20140216.csv,435,Fabricio Roberto Pereira,42,Brasil,BRA,00:22:27,02:55:16,01:59:16,00:12:29,00:11:25,05:40:53
+ironman-70.3-panama-20140216.csv,436,Sandro Pereira,42,SP,BRA,00:23:54,02:41:08,01:52:44,00:04:23,00:03:22,05:05:31
+ironman-70.3-panama-20140216.csv,437,Diego Martin Perona,42,Montevideo,URY,00:27:26,02:44:44,01:49:04,00:04:52,00:02:01,05:08:07
+ironman-70.3-panama-20140216.csv,438,Adrian Pineda,40,mexico city,MEX,00:25:26,02:40:54,01:42:51,00:03:59,00:02:43,04:55:53
+ironman-70.3-panama-20140216.csv,439,Miguel Angel Puerta Chicon,41,---,ESP,00:21:27,02:43:40,02:07:07,00:03:54,00:04:13,05:20:21
+ironman-70.3-panama-20140216.csv,440,Juan Quesada,41,Panamá,MEX,00:30:17,03:01:46,02:26:38,00:06:26,00:04:41,06:09:48
+ironman-70.3-panama-20140216.csv,442,Carlos Rodriguez,39,---,COL,00:23:44,02:40:24,02:34:58,00:05:08,00:02:41,05:46:55
+ironman-70.3-panama-20140216.csv,443,Mauricio Rodriguez,39,Intl State,ECU,00:23:22,02:33:53,01:46:53,00:04:02,00:02:25,04:50:35
+ironman-70.3-panama-20140216.csv,444,Alberto Romero,39,Venezuela,VEN,00:23:20,03:10:03,03:15:07,00:05:42,00:05:31,06:59:43
+ironman-70.3-panama-20140216.csv,445,Cyril Russel-Harris,40,TX,USA,00:25:24,02:51:40,02:52:36,00:06:02,00:05:07,06:20:49
+ironman-70.3-panama-20140216.csv,447,Alexander Salazar,43,Pichincha,ECU,00:25:48,02:33:40,01:54:31,00:04:21,00:02:21,05:00:41
+ironman-70.3-panama-20140216.csv,448,Alberto Sanchez,39,Intl State,VEN,00:21:46,02:34:13,01:48:57,00:03:40,00:01:55,04:50:31
+ironman-70.3-panama-20140216.csv,449,Arnoldo Sanchez,43,Guanacaste,CRI,00:26:53,03:06:00,02:55:42,00:08:33,00:06:50,06:43:58
+ironman-70.3-panama-20140216.csv,450,Juan Pablo Sarmiento,39,Pichincha,ECU,00:26:17,02:38:06,01:51:18,00:05:54,00:04:00,05:05:35
+ironman-70.3-panama-20140216.csv,452,Jeconias Rosendo Da Silva Junior,42,DF,BRA,00:22:02,02:52:06,02:01:09,00:06:36,00:04:58,05:26:51
+ironman-70.3-panama-20140216.csv,453,Ricardo Silvestre Da Silva,42,---,ARM,00:21:51,02:49:09,02:04:12,00:04:47,00:03:24,05:23:23
+ironman-70.3-panama-20140216.csv,455,Martin Soubelet,40,Intl State,ARG,00:24:42,02:37:50,02:13:35,00:04:40,00:04:02,05:24:49
+ironman-70.3-panama-20140216.csv,456,Ryan Spradlin,40,GA,USA,00:27:57,03:02:59,01:55:29,00:06:38,00:07:21,05:40:24
+ironman-70.3-panama-20140216.csv,458,Luiz Antonio Barata,43,SAO PAULO,BRA,00:21:36,02:34:50,01:42:46,00:04:18,00:02:29,04:45:59
+ironman-70.3-panama-20140216.csv,459,Carlos Tapia,41,Panama,PAN,00:25:24,02:42:54,01:58:16,00:05:32,00:04:58,05:17:04
+ironman-70.3-panama-20140216.csv,460,Dan Tegart,39,AB,CAN,00:19:56,02:49:13,02:14:23,00:07:48,00:06:17,05:37:37
+ironman-70.3-panama-20140216.csv,461,Rodolfo Tejada,41,Panama,PAN,00:32:22,03:27:32,03:46:47,00:06:26,00:07:11,08:00:18
+ironman-70.3-panama-20140216.csv,462,Richard Toledano Jr.,42,Panama,PAN,00:26:24,03:14:11,01:59:37,00:06:37,00:04:38,05:51:27
+ironman-70.3-panama-20140216.csv,464,Oliver Trujillo,40,FL,VEN,00:24:14,02:47:55,02:17:58,00:05:50,00:04:43,05:40:40
+ironman-70.3-panama-20140216.csv,465,Erick Turner Bejarano,43,Panama,ECU,00:25:15,02:59:56,02:22:35,00:05:59,00:04:14,05:57:59
+ironman-70.3-panama-20140216.csv,466,Dennis Vargas,42,San José,CRI,00:22:12,02:26:28,01:41:32,00:03:44,00:01:38,04:35:34
+ironman-70.3-panama-20140216.csv,467,Luz Estella Vargas,43,antioquia,COL,00:27:08,03:22:18,02:33:19,00:06:40,00:08:01,06:37:26
+ironman-70.3-panama-20140216.csv,468,Antonio Vele,41,MIRANDA,VEN,00:23:04,02:23:53,01:39:09,00:03:35,00:02:07,04:31:48
+ironman-70.3-panama-20140216.csv,469,Felipe Vergara,42,RM,CHE,00:24:40,02:55:21,02:05:31,00:05:58,00:03:53,05:35:23
+ironman-70.3-panama-20140216.csv,471,Roberto Constancio Vieira Neto,42,NY,BRA,00:23:45,02:42:42,01:53:12,00:06:28,00:03:18,05:09:25
+ironman-70.3-panama-20140216.csv,472,Elmer Villegas T,43,Antioquia,COL,00:26:28,02:27:31,01:50:23,00:04:21,00:02:18,04:51:01
+ironman-70.3-panama-20140216.csv,474,Daniel Adrian,36,Panama,VEN,00:24:30,03:01:02,02:32:11,00:05:38,00:05:49,06:09:10
+ironman-70.3-panama-20140216.csv,475,Hector Manuel Alain Abrego,36,PANAMA,PAN,00:30:01,02:53:24,01:44:00,00:04:45,00:03:02,05:15:12
+ironman-70.3-panama-20140216.csv,478,Jose Patricio Alvarez Hernandez,36,Chiapas,MEX,00:26:23,03:27:25,02:57:05,00:06:42,00:06:56,07:04:31
+ironman-70.3-panama-20140216.csv,480,Carlos Ardila,35,antioquia,COL,00:24:55,02:47:14,02:18:30,00:04:21,00:02:09,05:37:09
+ironman-70.3-panama-20140216.csv,481,Erick Armas,---,Guatemala,GTM,00:30:45,02:43:44,02:07:17,00:07:14,00:02:48,05:31:48
+ironman-70.3-panama-20140216.csv,482,Julio Arosemena,38,FL,PAN,00:23:53,02:43:18,02:08:21,00:04:23,00:02:32,05:22:27
+ironman-70.3-panama-20140216.csv,484,Rodrigo Barsallo Palm,38,Panama,PAN,00:31:42,02:41:15,02:00:20,00:05:31,00:02:13,05:21:01
+ironman-70.3-panama-20140216.csv,485,Orlando Baso Cisneros,35,Panama,SPM,00:25:23,02:48:15,02:40:36,00:04:56,00:07:33,06:06:43
+ironman-70.3-panama-20140216.csv,486,Jason Bodwell,37,GA,USA,00:24:47,02:54:20,02:36:27,00:06:35,00:05:40,06:07:49
+ironman-70.3-panama-20140216.csv,487,Hector Boet,35,Panama,PAN,00:22:56,02:36:42,01:55:23,00:04:25,00:02:16,05:01:42
+ironman-70.3-panama-20140216.csv,489,Jean Paul Brichaux Rosal,38,Santa Catarina Pinula,GTM,00:28:01,02:49:46,03:15:12,00:07:41,00:05:05,06:45:45
+ironman-70.3-panama-20140216.csv,491,Dissica Calderaro,36,FL,BRA,00:25:38,---,---,00:08:16,---,DNF
+ironman-70.3-panama-20140216.csv,492,Daniel  Oliveira,36,PANAMA,PAN,00:18:56,02:51:18,02:18:35,00:06:00,00:04:24,05:39:13
+ironman-70.3-panama-20140216.csv,493,Luis Cardenas,37,HEREDIA,CRI,00:23:51,02:41:12,02:07:05,00:05:26,00:04:50,05:22:24
+ironman-70.3-panama-20140216.csv,494,Marco Casagrande,37,Intl State,ITA,00:24:25,02:44:30,02:01:09,00:05:13,00:03:10,05:18:27
+ironman-70.3-panama-20140216.csv,496,Matthew Christensen,37,AZ,USA,00:29:55,03:23:51,02:54:29,00:08:47,00:07:31,07:04:33
+ironman-70.3-panama-20140216.csv,497,Alex Contreras,35,CDMX,MEX,00:31:51,02:57:23,02:47:59,00:05:11,00:04:11,06:26:35
+ironman-70.3-panama-20140216.csv,498,Jose Luis Contreras,35,Intl State,MEX,00:33:51,03:13:05,02:46:57,00:05:22,00:04:41,06:43:56
+ironman-70.3-panama-20140216.csv,499,Pedro Cordovez,38,Intl State,PAN,---,---,---,---,---,DNS
+ironman-70.3-panama-20140216.csv,500,Luis Pedro Coronado,36,APO,GTM,00:24:21,02:42:29,02:27:35,00:05:08,00:03:37,05:43:10
+ironman-70.3-panama-20140216.csv,501,Pepe Cuesta,36,Pichincha,ECU,00:25:04,03:07:00,02:02:34,00:06:57,00:07:07,05:48:42
+ironman-70.3-panama-20140216.csv,503,Kleyber De Araujo,38,Paraíba,BRA,00:27:55,03:27:57,---,00:09:08,00:07:49,DNF
+ironman-70.3-panama-20140216.csv,504,Mathieu Destrooper,34,Intl State,BEL,00:22:31,02:20:19,01:35:30,00:03:51,00:01:36,04:23:47
+ironman-70.3-panama-20140216.csv,506,Victor Doronin,34,Moscow,RUS,00:22:59,02:38:13,01:35:12,00:04:05,00:02:06,04:42:35
+ironman-70.3-panama-20140216.csv,509,Santiago Egas,35,Lima,ECU,00:23:47,03:07:44,02:22:25,00:05:32,00:05:47,06:05:15
+ironman-70.3-panama-20140216.csv,510,Ian Elm,36,AB,CAN,00:20:51,02:25:20,01:45:15,00:03:42,00:01:44,04:36:52
+ironman-70.3-panama-20140216.csv,511,Alfredo Esquivel,36,Costa Rica,CRI,00:24:13,02:41:03,02:05:56,00:04:45,00:03:38,05:19:35
+ironman-70.3-panama-20140216.csv,512,Guillermo Estrada,38,---,GTM,00:25:18,03:02:06,02:47:44,00:07:32,00:06:49,06:29:29
+ironman-70.3-panama-20140216.csv,513,marco favero,35,São Paulo,BRA,00:20:01,02:30:13,01:33:11,00:04:08,00:02:07,04:29:40
+ironman-70.3-panama-20140216.csv,514,Thiago Fernandes,39,sergipe,BRA,00:23:26,02:50:55,02:08:08,00:04:44,00:03:15,05:30:28
+ironman-70.3-panama-20140216.csv,515,Ante Fistonic,38,chiriqui,PAN,00:30:09,02:44:23,02:02:52,00:07:09,00:03:38,05:28:11
+ironman-70.3-panama-20140216.csv,516,Clinton Fuller,36,IL,USA,00:19:56,02:31:22,02:13:32,00:04:49,00:02:43,05:12:22
+ironman-70.3-panama-20140216.csv,517,Manuel Alejandro Gainza Rivero,34,---,VEN,00:23:00,02:48:46,02:22:55,00:05:04,00:10:23,05:50:08
+ironman-70.3-panama-20140216.csv,518,Moises Alejandro Gainza Rivero,36,herrera,VEN,00:22:20,02:44:07,02:55:56,00:05:27,00:02:58,06:10:48
+ironman-70.3-panama-20140216.csv,519,Gerardo Garcia,37,La Libertad,SLV,00:25:58,02:37:21,01:52:49,00:05:08,00:03:36,05:04:52
+ironman-70.3-panama-20140216.csv,522,Efrain Gonzalez,35,PR,PRI,00:22:52,02:57:30,02:10:55,00:05:27,00:02:25,05:39:09
+ironman-70.3-panama-20140216.csv,523,Jose Rigoberto Gonzalez Gonzalez,38,---,VEN,00:35:52,03:21:41,01:51:18,00:05:45,00:04:15,05:58:51
+ironman-70.3-panama-20140216.csv,525,John Mauricio Goyes Vallejos,34,cundinamarca,COL,00:21:42,02:33:45,01:55:14,00:04:01,00:03:30,04:58:12
+ironman-70.3-panama-20140216.csv,526,Javier Guerrero Velasquez,38,GATOMANTA,ECU,00:24:35,02:37:03,01:46:04,00:06:19,00:04:09,04:58:10
+ironman-70.3-panama-20140216.csv,529,Alejandro Hernandez,35,Heredia,CRI,00:29:14,02:44:04,02:01:35,00:04:30,00:03:07,05:22:30
+ironman-70.3-panama-20140216.csv,530,Henrique Hernandez,35,FL,VEN,00:26:04,02:38:20,01:56:07,00:05:43,00:04:15,05:10:29
+ironman-70.3-panama-20140216.csv,531,Manuel Hernandez,35,San Jose,CRI,00:21:52,02:32:05,01:43:13,00:04:02,00:03:01,04:44:13
+ironman-70.3-panama-20140216.csv,532,Victor Hernandez,37,Intl State,CRI,00:24:28,03:16:17,02:08:49,00:04:41,00:05:04,05:59:19
+ironman-70.3-panama-20140216.csv,533,Luis Felipe Herrera,37,Panama,PAN,00:22:51,02:39:24,02:02:26,00:04:27,00:02:45,05:11:53
+ironman-70.3-panama-20140216.csv,534,Franz Hinojosa,35,NY,BOL,00:27:05,03:09:48,02:35:30,00:06:57,00:04:04,06:23:24
+ironman-70.3-panama-20140216.csv,536,Rodrigo Jauregui,35,MA,GTM,00:29:43,03:03:52,02:18:36,00:07:27,00:06:06,06:05:44
+ironman-70.3-panama-20140216.csv,537,Mikkel Jensen,35,TX,DNK,00:24:43,03:03:19,03:03:19,00:10:35,00:08:49,06:50:45
+ironman-70.3-panama-20140216.csv,539,Johnny Larrosa,36,---,ECU,00:26:02,02:56:42,02:18:09,00:07:45,00:05:16,05:53:54
+ironman-70.3-panama-20140216.csv,540,Pedro Leao,37,FL,BRA,00:18:47,02:32:49,01:58:23,00:03:48,00:03:10,04:56:57
+ironman-70.3-panama-20140216.csv,541,Luis Lesizza,35,Panama,VEN,00:26:19,02:55:09,02:22:19,00:06:28,00:06:45,05:57:00
+ironman-70.3-panama-20140216.csv,542,Tiago Lessa,34,Rio de Janeiro,BRA,00:22:55,02:27:13,01:41:18,00:05:07,00:02:21,04:38:54
+ironman-70.3-panama-20140216.csv,543,Fabricio Lima,38,Other,ARM,00:25:42,03:11:00,02:42:14,00:07:43,00:04:56,06:31:35
+ironman-70.3-panama-20140216.csv,544,Alejandro Lopez Rios,36,Costa Rica,CRI,00:32:34,02:35:44,01:59:49,00:04:06,00:02:25,05:14:38
+ironman-70.3-panama-20140216.csv,545,Abraham Luna,36,---,MEX,00:24:43,02:54:42,02:36:53,00:08:50,00:06:13,06:11:21
+ironman-70.3-panama-20140216.csv,546,Ricardo Macedo Lino,34,Intl State,BRA,00:19:41,02:26:59,01:44:19,00:04:24,00:02:29,04:37:52
+ironman-70.3-panama-20140216.csv,548,Mario Machado,35,sergipe,BRA,00:28:16,02:50:31,02:24:13,00:05:25,00:05:17,05:53:42
+ironman-70.3-panama-20140216.csv,549,Joe Macias,39,---,PAN,00:26:18,03:09:30,02:27:14,00:05:12,00:03:29,06:11:43
+ironman-70.3-panama-20140216.csv,550,Hector Manjarrez Dominguez,35,MANABI,ECU,00:30:20,03:05:27,01:49:13,00:07:37,00:05:34,05:38:11
+ironman-70.3-panama-20140216.csv,551,Mario Manso Sanchez,38,---,ESP,00:24:33,02:48:26,02:25:52,00:05:03,00:03:45,05:47:39
+ironman-70.3-panama-20140216.csv,552,Marcos Hallack,34,PA,BLZ,00:18:13,02:29:56,01:35:58,00:03:41,00:02:30,04:30:18
+ironman-70.3-panama-20140216.csv,553,Geronimo Martinez,36,Mexico,VEN,00:24:36,02:48:23,02:05:25,00:07:31,00:02:44,05:28:39
+ironman-70.3-panama-20140216.csv,554,Jean Martinez,36,FL,VEN,00:22:52,02:57:31,02:17:37,00:05:00,00:04:45,05:47:45
+ironman-70.3-panama-20140216.csv,555,Leonardo Martinez,37,Intl State,COL,00:27:05,02:48:33,02:11:13,00:04:10,00:02:29,05:33:30
+ironman-70.3-panama-20140216.csv,556,Raul Martinez,36,FL,VEN,00:24:35,02:46:17,01:40:45,00:04:15,00:02:36,04:58:28
+ironman-70.3-panama-20140216.csv,557,Mario Martinez Gonzalez,35,Panama,VEN,00:28:44,03:07:39,02:17:02,00:06:43,00:06:36,06:06:44
+ironman-70.3-panama-20140216.csv,558,Ricardo Martini,38,---,BRA,00:20:39,02:20:07,01:29:02,00:03:39,00:02:38,04:16:05
+ironman-70.3-panama-20140216.csv,559,Denis Martins,34,DF,BRA,00:21:06,02:20:06,01:35:09,00:03:58,00:01:52,04:22:11
+ironman-70.3-panama-20140216.csv,560,Ricardo Medina,38,Intl State,VEN,00:24:07,02:42:42,01:59:07,00:04:36,00:04:09,05:14:41
+ironman-70.3-panama-20140216.csv,561,Francisco Mejia,37,PICHINCHA,ECU,00:30:59,03:10:01,02:34:43,00:07:18,00:04:16,06:27:17
+ironman-70.3-panama-20140216.csv,562,Guilherme Prestes De Melo,34,São Paulo ,BRA,00:22:05,02:33:19,01:57:48,00:04:37,00:04:26,05:02:15
+ironman-70.3-panama-20140216.csv,563,Thiago De Camargo Penteado Mendes,38,Sao Paulo,BRA,00:23:39,02:44:27,01:59:42,00:05:08,00:04:14,05:17:10
+ironman-70.3-panama-20140216.csv,564,Esteban Mendez,35,Alajuela,CRI,00:24:21,02:47:24,02:12:48,00:05:44,00:04:13,05:34:30
+ironman-70.3-panama-20140216.csv,566,Jonathan Mizrachi,38,---,PAN,00:22:31,02:16:45,01:59:30,00:04:08,00:01:59,04:44:53
+ironman-70.3-panama-20140216.csv,567,Marcio Mollica,36,---,BLZ,00:23:09,03:08:36,01:50:18,00:03:52,00:03:03,05:28:58
+ironman-70.3-panama-20140216.csv,568,Luis Moncayo,35,Intl State,ECU,00:23:15,02:36:24,01:44:51,00:05:00,00:03:44,04:53:14
+ironman-70.3-panama-20140216.csv,569,Carlos Montagne,37,Panama,PAN,00:26:27,03:00:57,02:31:33,00:06:13,00:03:22,06:08:32
+ironman-70.3-panama-20140216.csv,570,Asdrubal Mora,35,---,CRI,00:25:08,02:40:39,01:53:58,00:04:47,00:02:57,05:07:29
+ironman-70.3-panama-20140216.csv,571,Lucio Mora,35,Intl State,SLV,00:24:34,02:46:27,01:43:41,00:04:31,00:02:37,05:01:50
+ironman-70.3-panama-20140216.csv,572,Juan Antonio Moreno Urrutia,37,Intl State,MEX,00:19:36,02:22:12,01:38:51,00:03:52,00:01:49,04:26:20
+ironman-70.3-panama-20140216.csv,573,Manuel Munoz,36,Intl State,COL,00:26:37,02:42:34,02:08:29,00:04:48,00:04:39,05:27:07
+ironman-70.3-panama-20140216.csv,574,Carlos Navarro,35,San José,CRI,00:22:49,02:42:22,01:48:41,00:04:31,00:02:29,05:00:52
+ironman-70.3-panama-20140216.csv,575,Breck Nielsen,34,UT,USA,00:31:30,03:44:21,03:03:51,00:11:45,00:05:16,07:36:43
+ironman-70.3-panama-20140216.csv,576,Oscar Ariel Núñez González,36,Veraguas,PAN,00:25:12,02:50:48,01:57:51,00:04:27,00:05:44,05:24:02
+ironman-70.3-panama-20140216.csv,577,Mauricio Olivera,36,Buenos Aires,ARG,00:22:21,03:09:53,02:16:32,00:05:24,00:03:34,05:57:44
+ironman-70.3-panama-20140216.csv,578,Victor Ortiz,34,---,PAN,00:22:42,02:32:07,01:55:49,00:04:38,00:03:05,04:58:21
+ironman-70.3-panama-20140216.csv,579,Maximiliano Passadore,35,Buenos Aires,ARG,---,---,---,---,---,DQ
+ironman-70.3-panama-20140216.csv,580,Milton Perilla,37,Cundinamarca,COL,00:29:11,02:56:14,02:20:47,00:05:11,00:04:01,05:55:24
+ironman-70.3-panama-20140216.csv,581,Patrick Pescod,37,PANAMA,PAN,00:26:28,03:02:01,02:10:34,00:05:04,00:03:42,05:47:49
+ironman-70.3-panama-20140216.csv,582,Andres Pineda,35,FL,SLV,00:24:21,02:33:25,01:59:21,00:04:14,00:02:54,05:04:15
+ironman-70.3-panama-20140216.csv,583,Jose Pinel,34,Francisco Morazán,HND,00:26:40,02:34:50,01:49:49,00:04:41,00:02:49,04:58:49
+ironman-70.3-panama-20140216.csv,584,Mario Queiros,35,---,BRA,00:22:49,02:42:58,02:09:14,00:05:40,00:02:50,05:23:31
+ironman-70.3-panama-20140216.csv,585,Alvaro Quesada,34,Intl State,CRI,00:24:41,02:47:28,02:04:05,00:05:29,00:03:03,05:24:46
+ironman-70.3-panama-20140216.csv,586,Axel Ramirez,38,Intl State,GTM,00:24:16,02:40:01,02:18:31,00:05:04,00:05:55,05:33:47
+ironman-70.3-panama-20140216.csv,587,Harrym Ramirez,35,cundinamarca,COL,00:24:56,02:54:30,01:58:02,00:06:15,00:04:53,05:28:36
+ironman-70.3-panama-20140216.csv,588,Reinaldo Rangel,38,FL,VEN,00:30:35,02:54:40,02:13:58,00:07:18,00:07:16,05:53:47
+ironman-70.3-panama-20140216.csv,590,Angel Miguel Rivera Rivera,34,PR,PRI,00:27:38,03:12:22,03:00:21,00:04:58,00:04:39,06:49:58
+ironman-70.3-panama-20140216.csv,591,Sirhan Rivera,36,La Libertad,SLV,00:33:42,03:42:37,02:40:58,00:05:39,00:04:43,07:07:39
+ironman-70.3-panama-20140216.csv,592,Felix Rodriguez,35,FLORIDA,VEN,00:26:51,02:49:57,01:57:44,00:05:46,00:04:51,05:25:09
+ironman-70.3-panama-20140216.csv,593,Miguel Rodriguez,35,Panamá,PAN,00:28:42,02:55:17,02:07:47,00:04:58,00:02:18,05:39:02
+ironman-70.3-panama-20140216.csv,594,Hector Rodriguez,35,Panama,VEN,00:26:08,02:35:40,01:50:32,00:06:04,00:03:26,05:01:50
+ironman-70.3-panama-20140216.csv,595,Karim Samara,34,panama,PAN,00:25:56,02:46:51,01:55:10,00:04:48,00:02:40,05:15:25
+ironman-70.3-panama-20140216.csv,596,Fabiano Santos,36,Other,BRA,00:18:12,02:21:44,01:36:42,00:03:45,00:02:09,04:22:32
+ironman-70.3-panama-20140216.csv,597,Fernando Saravia,34,Guatemala,GTM,00:25:21,03:01:57,02:50:02,00:06:30,00:05:40,06:29:30
+ironman-70.3-panama-20140216.csv,598,Gustavo Schneidewind,37,Santa fe,ARG,00:22:18,02:45:56,02:11:30,00:03:45,00:02:50,05:26:19
+ironman-70.3-panama-20140216.csv,599,Enrique Schwartz,34,Aguascalientes,ISR,00:24:07,02:36:35,02:03:35,00:06:06,00:03:23,05:13:46
+ironman-70.3-panama-20140216.csv,600,Lenoir Stephane,38,guadeloupe,GLP,00:25:01,02:25:03,01:51:41,00:03:56,00:02:30,04:48:11
+ironman-70.3-panama-20140216.csv,601,Joshua Strozeski,36,VA,USA,00:23:29,02:36:45,01:48:18,00:05:46,00:03:19,04:57:37
+ironman-70.3-panama-20140216.csv,602,Andre Sturm,37,DF,BRA,00:24:12,03:02:24,02:31:36,00:07:25,00:05:20,06:10:57
+ironman-70.3-panama-20140216.csv,603,Ryan Tarantino,37,NY,USA,00:28:20,03:07:55,02:17:04,00:06:13,00:04:59,06:04:31
+ironman-70.3-panama-20140216.csv,604,James Tedman,35,Intl State,PAN,00:27:00,02:40:42,02:15:12,00:06:12,00:03:59,05:33:05
+ironman-70.3-panama-20140216.csv,605,Andre Derosso Teixeira,34,São Paulo,BRA,00:22:02,02:26:11,01:34:50,00:04:15,00:01:57,04:29:15
+ironman-70.3-panama-20140216.csv,606,Esmaldo Trochez,35,Francisco morazan,HND,00:24:32,02:56:12,02:50:52,00:08:30,00:04:14,06:24:20
+ironman-70.3-panama-20140216.csv,607,Roberto Tumbaco,37,Guayas,ECU,00:26:56,02:58:36,02:10:44,00:08:02,00:05:57,05:50:15
+ironman-70.3-panama-20140216.csv,608,Ricardo Umpierrez,38,Intl State,ECU,---,---,---,---,---,DNS
+ironman-70.3-panama-20140216.csv,609,Jorge Urrutia,34,NY,ESP,00:23:39,03:00:05,02:18:11,00:06:02,00:05:34,05:53:31
+ironman-70.3-panama-20140216.csv,611,Alexis J. Vieto Mirones,36,Panamá,PAN,00:30:39,02:57:41,02:12:37,00:09:00,00:06:11,05:56:08
+ironman-70.3-panama-20140216.csv,612,Jose Antonio Vila Varela,37,Venezuela,VEN,00:24:05,03:11:51,02:45:49,00:07:09,00:06:45,06:35:39
+ironman-70.3-panama-20140216.csv,613,Juan David Villa Jaramillo,35,---,COL,00:24:37,02:46:40,02:14:31,00:05:17,00:03:33,05:34:38
+ironman-70.3-panama-20140216.csv,614,Michael Vollmer,35,NC,USA,00:24:50,02:36:27,02:29:00,00:05:51,00:05:14,05:41:22
+ironman-70.3-panama-20140216.csv,615,Jay Wagner,38,GA,USA,00:22:57,02:38:46,02:03:13,00:05:27,00:03:27,05:13:50
+ironman-70.3-panama-20140216.csv,616,Ademar Amalfi White,37,chubut,ARG,00:22:53,02:20:00,01:29:51,00:03:52,00:01:41,04:18:17
+ironman-70.3-panama-20140216.csv,618,Rodrigo Silva Zaneti,34,Intl State,BRA,00:20:07,02:21:47,01:47:45,00:04:00,00:02:07,04:35:46
+ironman-70.3-panama-20140216.csv,619,Jorge Zavaleta,37,CO,SLV,00:26:22,03:09:13,02:40:00,00:07:04,00:05:50,06:28:29
+ironman-70.3-panama-20140216.csv,620,Sebastian Alfaro,32,FL,CRI,00:26:10,02:44:11,01:47:00,00:05:11,00:02:39,05:05:11
+ironman-70.3-panama-20140216.csv,621,Daniel Alpizar,33,San Jose,CRI,00:22:20,02:36:43,01:41:20,00:04:25,00:02:15,04:47:03
+ironman-70.3-panama-20140216.csv,622,Walter Alvarado,29,Intl State,CRI,00:30:05,02:44:24,02:05:54,00:07:02,00:04:07,05:31:32
+ironman-70.3-panama-20140216.csv,624,Carlos Alves,30,DF,BRA,00:24:20,02:31:21,02:21:04,00:04:22,00:02:59,05:24:06
+ironman-70.3-panama-20140216.csv,625,Irving Amador,34,Intl State,CRI,00:26:14,02:37:52,01:56:42,00:03:48,00:02:17,05:06:53
+ironman-70.3-panama-20140216.csv,627,Jose Antonio Arciniega Ramos,32,Mexico City,MEX,00:23:39,02:56:37,02:34:18,00:04:02,00:04:50,06:03:26
+ironman-70.3-panama-20140216.csv,629,David Barreto,33,---,BRA,00:23:39,02:35:19,01:49:38,00:05:41,00:03:04,04:57:21
+ironman-70.3-panama-20140216.csv,630,Gabriel Barria,33,---,PRI,00:25:50,03:19:16,02:41:59,00:07:39,00:05:42,06:40:26
+ironman-70.3-panama-20140216.csv,631,Miguel Blanco,32,San Jose,CRI,00:23:16,02:30:31,02:20:51,00:05:28,00:02:33,05:22:39
+ironman-70.3-panama-20140216.csv,632,Isaac Boza,32,San Jose,CRI,00:22:30,02:37:50,01:53:11,00:03:34,00:02:35,04:59:40
+ironman-70.3-panama-20140216.csv,633,Luis Broce,29,Panamá,PAN,00:23:09,02:57:14,01:42:37,00:03:39,00:02:02,05:08:41
+ironman-70.3-panama-20140216.csv,634,Andres Bruna,30,FL,CRI,00:21:22,02:35:44,01:48:59,00:04:29,00:02:59,04:53:33
+ironman-70.3-panama-20140216.csv,635,Victor Caicedo,33,Colombia,COL,00:27:26,02:53:43,02:14:30,00:06:01,00:05:16,05:46:56
+ironman-70.3-panama-20140216.csv,637,Michele Chena,32,---,PAN,00:26:22,03:00:52,02:06:23,00:04:57,00:04:14,05:42:48
+ironman-70.3-panama-20140216.csv,638,Bonieck Clemente,31,SE,BRA,00:19:23,02:18:18,01:41:19,00:03:10,00:01:47,04:23:57
+ironman-70.3-panama-20140216.csv,639,Santos Cordon,31,CA,USA,00:25:49,---,02:40:25,---,03:36:27,06:16:52
+ironman-70.3-panama-20140216.csv,640,Pablo De Dominicis,29,Panamá,VEN,00:24:53,02:56:18,02:16:27,00:05:59,00:06:38,05:50:15
+ironman-70.3-panama-20140216.csv,642,David Escobar,33,Intl State,ESP,00:28:17,02:58:07,02:17:39,00:04:56,00:03:27,05:52:26
+ironman-70.3-panama-20140216.csv,643,Italo Esselin Filho,32,GOIAS,BRA,00:19:21,02:18:41,01:36:29,00:03:15,00:02:17,04:20:03
+ironman-70.3-panama-20140216.csv,644,Chase Farrens,30,AL,USA,00:23:25,03:08:45,02:48:21,00:05:22,00:03:46,06:29:39
+ironman-70.3-panama-20140216.csv,645,Juan Fereira,29,FL,VEN,00:22:39,02:41:18,03:14:45,00:04:44,00:03:18,06:26:44
+ironman-70.3-panama-20140216.csv,646,Pedro Ivo Ferreira Goncavlves,29,Minas Gerais,BRA,00:25:53,02:51:35,02:02:51,00:07:08,00:05:28,05:32:55
+ironman-70.3-panama-20140216.csv,647,Luar Enrique Figuera Jimenez,31,Miranda,VEN,00:25:31,02:38:54,02:03:58,00:05:04,00:03:02,05:16:29
+ironman-70.3-panama-20140216.csv,648,Mauricio Flores,32,Merida,VEN,00:21:46,03:07:20,02:13:44,00:05:25,00:03:49,05:52:04
+ironman-70.3-panama-20140216.csv,649,Alfonso Fontes,33,---,ESP,00:27:56,03:01:22,02:18:35,00:05:37,00:04:12,05:57:42
+ironman-70.3-panama-20140216.csv,650,Flavio Franca,32,Sergipe,BRA,00:25:02,02:51:53,02:12:14,00:04:17,00:03:21,05:36:47
+ironman-70.3-panama-20140216.csv,651,Miguel Gabriel,30,Intl State,PAN,00:25:06,02:46:50,01:55:28,00:03:51,00:02:34,05:13:49
+ironman-70.3-panama-20140216.csv,652,Joaquin Gonzalez,32,Bolivar,VEN,00:23:34,02:35:36,02:00:28,00:04:28,00:03:11,05:07:17
+ironman-70.3-panama-20140216.csv,653,Manuel Gonzalez,30,---,MEX,00:32:35,---,---,---,---,DNF
+ironman-70.3-panama-20140216.csv,654,Richard Gonzalez,31,Intl State,PAN,00:20:50,02:33:11,01:40:58,00:03:10,00:02:27,04:40:36
+ironman-70.3-panama-20140216.csv,655,Josh Guderian,29,TX,USA,00:25:14,02:37:18,01:52:54,00:03:46,00:03:18,05:02:30
+ironman-70.3-panama-20140216.csv,656,Daniel Guimaraes,32,santa catarina,BRA,00:20:34,02:23:20,01:42:25,00:07:28,00:02:57,04:36:44
+ironman-70.3-panama-20140216.csv,657,Andres Gutierrez,32,San Jose,CRI,00:21:24,02:27:09,01:31:45,00:05:16,00:02:21,04:27:55
+ironman-70.3-panama-20140216.csv,658,Julio Cesar Hernandez Rodriguez,29,Tehuacan,MEX,00:25:59,03:03:20,02:31:26,00:05:32,00:03:02,06:09:19
+ironman-70.3-panama-20140216.csv,659,Omar Herrera,32,Intl State,PAN,---,---,---,---,---,DNS
+ironman-70.3-panama-20140216.csv,660,Reinaldo Herrera,31,Venezuela,VEN,00:29:11,03:53:05,03:33:09,00:06:48,00:05:15,08:07:28
+ironman-70.3-panama-20140216.csv,661,Robert Huerbsch,33,FL,PAN,00:23:33,02:36:49,01:47:58,00:04:40,00:03:44,04:56:44
+ironman-70.3-panama-20140216.csv,662,Milton Icaza,29,---,NIC,00:25:41,02:44:30,01:43:17,00:05:30,00:03:34,05:02:32
+ironman-70.3-panama-20140216.csv,663,Bustos Ignacio,33,---,CHL,00:21:51,02:46:17,01:40:17,00:04:31,00:02:09,04:55:05
+ironman-70.3-panama-20140216.csv,664,Luis Enrique Lopez Albarran,32,México,MEX,00:26:09,02:52:23,01:57:11,00:05:03,00:04:17,05:25:03
+ironman-70.3-panama-20140216.csv,665,Bret Loughridge,31,NV,USA,00:26:05,03:01:41,02:10:13,00:06:31,00:06:26,05:50:56
+ironman-70.3-panama-20140216.csv,667,John Lynn,34,Other,USA,00:32:11,03:23:08,02:50:50,00:09:18,00:09:28,07:04:55
+ironman-70.3-panama-20140216.csv,668,Luis Enrique Machado,32,Intl State,VEN,00:22:35,02:40:42,02:13:16,00:04:08,00:02:47,05:23:28
+ironman-70.3-panama-20140216.csv,669,Javier Macias,31,Jalisco,MEX,00:28:56,03:09:58,02:34:57,00:06:11,00:03:36,06:23:38
+ironman-70.3-panama-20140216.csv,670,Roberto Madrigal,32,FL,CRI,00:25:40,02:57:34,02:01:20,00:05:18,00:04:52,05:34:44
+ironman-70.3-panama-20140216.csv,671,Marcos Manzur Fuentes,32,Panama,PAN,00:25:57,02:49:00,02:59:57,00:06:06,00:05:08,06:26:08
+ironman-70.3-panama-20140216.csv,672,Dan Mark,31,AA,USA,00:26:24,03:01:28,01:55:11,00:05:39,00:05:22,05:34:04
+ironman-70.3-panama-20140216.csv,673,Adrian Martinez,30,CAPITAL FEDERAL,ARG,00:27:34,02:18:26,02:33:21,00:04:57,00:03:20,05:27:38
+ironman-70.3-panama-20140216.csv,674,Juan Martinez,30,---,VEN,00:25:48,02:52:11,02:45:45,00:04:26,00:04:45,06:12:55
+ironman-70.3-panama-20140216.csv,675,Santiago Martinez Devia,32,---,SCG,00:25:46,02:53:06,02:13:01,00:05:10,00:03:43,05:40:46
+ironman-70.3-panama-20140216.csv,676,Jose Mendez,31,Panama,PAN,00:30:01,02:58:47,02:12:39,00:07:28,00:04:31,05:53:26
+ironman-70.3-panama-20140216.csv,677,Diego Macie Menezes Silva,32,DF ,BRA,00:24:27,02:22:18,02:05:34,00:04:40,00:13:17,05:10:16
+ironman-70.3-panama-20140216.csv,678,Kenned Mitomari,31,Intl State,BRA,00:22:35,02:35:23,02:11:52,00:06:43,00:03:47,05:20:20
+ironman-70.3-panama-20140216.csv,679,Carlos Moncada,30,San ,CRI,00:18:35,02:22:27,01:30:44,00:04:05,00:02:18,04:18:09
+ironman-70.3-panama-20140216.csv,680,Gianmarco Mosto,32,ES,PER,00:17:56,02:38:26,01:54:39,00:05:26,00:02:09,04:58:36
+ironman-70.3-panama-20140216.csv,681,Isaac Nigrin,33,Intl State,GTM,00:29:28,02:59:13,02:16:02,00:06:33,00:03:50,05:55:06
+ironman-70.3-panama-20140216.csv,682,Pedro Nuques,31,---,ECU,00:23:15,02:29:50,01:46:35,00:04:10,00:02:41,04:46:31
+ironman-70.3-panama-20140216.csv,684,Michael Olshan,31,NY,USA,00:25:51,03:01:31,02:20:48,00:05:26,00:05:43,05:59:19
+ironman-70.3-panama-20140216.csv,685,Flavio Orozco,33,guadalajara,MEX,00:25:35,02:55:16,01:50:59,00:05:50,00:03:11,05:20:51
+ironman-70.3-panama-20140216.csv,687,Marcos Pachas Macuar,30,carabobo,VEN,00:25:56,02:44:11,02:00:09,00:04:16,00:03:11,05:17:43
+ironman-70.3-panama-20140216.csv,688,Raul Pazos,29,Intl State,PAN,00:29:36,02:54:04,02:01:29,00:05:47,00:05:18,05:36:14
+ironman-70.3-panama-20140216.csv,689,Fernando Daniel Perez,33,Intl State,PRY,00:24:44,02:35:19,02:06:18,00:04:30,00:02:54,05:13:45
+ironman-70.3-panama-20140216.csv,690,Jose Roberto Pimentel Gutierrez,30,San Salvador,ESP,00:29:23,03:18:02,02:58:43,00:06:58,00:04:53,06:57:59
+ironman-70.3-panama-20140216.csv,691,Rodrigo Pinto,34,Intl State,BRA,00:27:12,03:13:15,02:47:53,00:08:10,00:05:27,06:41:57
+ironman-70.3-panama-20140216.csv,692,Carlos Horacio Poggi B.,30,Manabi,ECU,00:25:26,---,01:55:35,---,03:14:29,05:10:04
+ironman-70.3-panama-20140216.csv,693,Jose Alberto Porras Alvarez,30,alajuela,CRI,00:26:50,02:31:41,02:00:02,00:04:38,00:02:27,05:05:38
+ironman-70.3-panama-20140216.csv,694,Eduardo Procopovich,33,---,VNM,00:21:20,02:28:34,01:49:05,00:04:28,00:03:07,04:46:34
+ironman-70.3-panama-20140216.csv,695,Thomas Quijano,29,---,CRI,00:23:35,02:54:34,01:58:47,00:03:46,00:02:29,05:23:11
+ironman-70.3-panama-20140216.csv,696,Rene Quiros,30,Panama,PAN,00:28:20,02:28:01,02:06:32,00:06:42,00:03:42,05:13:17
+ironman-70.3-panama-20140216.csv,697,Andres Rada,33,VALLE,COL,00:29:33,02:56:31,02:07:46,00:04:30,00:04:18,05:42:38
+ironman-70.3-panama-20140216.csv,699,Ramiro Rivera,32,Panama,SPM,00:26:52,03:15:06,02:52:09,00:11:50,00:05:05,06:51:02
+ironman-70.3-panama-20140216.csv,700,Carlos Roberto Robles,31,San Jose,CRI,00:21:20,02:39:38,01:47:55,00:04:43,00:03:09,04:56:45
+ironman-70.3-panama-20140216.csv,701,Conrad Rodas,32,CO,GTM,00:18:35,02:27:05,01:35:11,00:03:50,00:02:03,04:26:44
+ironman-70.3-panama-20140216.csv,702,Antonio Rodriguez,31,Panama,VEN,00:25:34,02:54:05,02:14:59,00:04:42,00:03:24,05:42:44
+ironman-70.3-panama-20140216.csv,703,Gustavo Rodriguez,33,Panama,VEN,00:23:26,03:03:51,02:25:09,00:07:49,00:14:51,06:15:06
+ironman-70.3-panama-20140216.csv,704,Gabriel Rojas,30,Merida,VEN,00:18:30,02:42:24,01:28:54,00:03:36,00:02:11,04:35:35
+ironman-70.3-panama-20140216.csv,705,Nef S,29,oaxaca,MEX,00:26:13,02:52:10,03:07:37,00:05:08,00:04:00,06:35:08
+ironman-70.3-panama-20140216.csv,706,Jose Guillermo Saavedra Roman,33,---,MEX,00:28:28,02:51:30,02:05:46,00:07:34,00:05:39,05:38:57
+ironman-70.3-panama-20140216.csv,707,Olaf Sanchez,33,Intl State,MEX,00:27:30,03:08:59,02:08:01,00:05:51,00:06:27,05:56:48
+ironman-70.3-panama-20140216.csv,708,Leonardo Augusto Miranda Dos Santos,31,Vicente Pires,BRA,00:22:33,02:16:41,01:38:18,00:03:51,00:02:07,04:23:30
+ironman-70.3-panama-20140216.csv,709,Hernan Segurado,30,Other,HND,00:23:53,02:53:36,02:25:55,00:06:16,00:04:41,05:54:21
+ironman-70.3-panama-20140216.csv,710,William Silva,31,---,BRA,---,---,---,---,---,DQ
+ironman-70.3-panama-20140216.csv,711,Ilya Slepov,32,Moscow,RUS,00:20:29,02:21:47,01:29:42,00:03:29,00:02:19,04:17:46
+ironman-70.3-panama-20140216.csv,713,Brian Smith,32,CA,USA,00:24:43,03:14:35,02:30:23,00:06:46,00:05:18,06:21:45
+ironman-70.3-panama-20140216.csv,714,Rafael Stambassi Bastos,29,Minas Gerais,BRA,00:23:51,02:43:52,02:31:44,00:05:21,00:03:23,05:48:11
+ironman-70.3-panama-20140216.csv,715,John Sturgis,30,TN,USA,00:29:41,03:15:32,03:13:18,00:07:46,00:05:07,07:11:24
+ironman-70.3-panama-20140216.csv,717,Jose Washington Tapia Flor,33,Manabi,ECU,00:25:10,02:45:11,01:58:46,00:04:38,00:03:32,05:17:17
+ironman-70.3-panama-20140216.csv,718,Angelo Tarricone Vegas,33,caracas,VEN,00:18:39,02:50:14,02:09:08,00:04:36,00:02:54,05:25:31
+ironman-70.3-panama-20140216.csv,719,Alejandro Taylor,33,---,CRI,00:25:08,02:32:09,02:13:07,00:04:39,00:04:02,05:19:05
+ironman-70.3-panama-20140216.csv,720,Danny Taylor,32,Panama,CRI,00:21:56,02:35:30,01:45:35,00:04:31,00:02:58,04:50:30
+ironman-70.3-panama-20140216.csv,721,Salvador Tello,33,D.F.,MEX,---,---,---,---,---,DNS
+ironman-70.3-panama-20140216.csv,722,Bernardo Tillmann,31,Intl State,BRA,00:20:36,02:24:26,01:36:15,00:03:47,00:01:40,04:26:44
+ironman-70.3-panama-20140216.csv,723,Nelson Trujillo,32,---,VEN,---,---,---,---,---,DNS
+ironman-70.3-panama-20140216.csv,725,David Valriberas Serrano,32,---,ESP,00:23:15,02:37:53,02:16:06,00:04:42,00:04:35,05:26:31
+ironman-70.3-panama-20140216.csv,726,Pablo Vanegas,30,Antioquia,COL,00:25:08,02:52:04,02:24:03,00:05:21,00:03:51,05:50:27
+ironman-70.3-panama-20140216.csv,727,Mois‚s Vargas,30,Intl State,PAN,00:29:45,02:43:18,02:32:57,00:06:44,00:04:19,05:57:03
+ironman-70.3-panama-20140216.csv,728,Jose Victoria,31,Panama,PAN,00:26:35,03:21:32,02:59:17,00:11:26,00:07:08,07:05:58
+ironman-70.3-panama-20140216.csv,729,Arthur Vieira,33,Intl State,BRA,00:23:30,02:45:41,02:19:40,00:07:21,00:03:58,05:40:10
+ironman-70.3-panama-20140216.csv,730,Ovidio Villatoro,32,san salvador,SLV,00:24:31,02:43:16,01:52:14,00:04:59,00:03:13,05:08:13
+ironman-70.3-panama-20140216.csv,731,Jacob Villegas,---,Heredia,CRI,00:28:09,02:57:36,02:07:29,00:05:44,00:03:55,05:42:53
+ironman-70.3-panama-20140216.csv,732,Cole Walton,31,TX,USA,00:20:37,02:30:10,01:48:59,00:04:10,00:02:08,04:46:04
+ironman-70.3-panama-20140216.csv,733,Jota Zabala,34,GUATEMALA,GTM,00:27:24,03:06:37,02:02:07,00:06:30,00:09:43,05:52:21
+ironman-70.3-panama-20140216.csv,734,Carlos Zamora,33,Pichincha,ECU,00:27:29,02:52:44,02:40:09,00:06:54,00:04:06,06:11:22
+ironman-70.3-panama-20140216.csv,735,Ghandy Aboul,28,zulia,VEN,00:27:48,02:46:37,02:09:16,00:04:07,00:03:30,05:31:18
+ironman-70.3-panama-20140216.csv,736,Francisco Javier Almeida Iturralde,26,Intl State,ECU,00:22:11,02:40:56,01:54:12,00:04:56,00:02:36,05:04:51
+ironman-70.3-panama-20140216.csv,737,DIEGO ALEJANDRO ALTAMIRANO MONTERO,28,oaxaca,MEX,00:26:24,02:57:06,02:48:41,00:06:47,00:04:08,06:23:06
+ironman-70.3-panama-20140216.csv,738,Gabriel Arango,25,Panama,PAN,00:25:43,03:01:28,02:14:17,00:06:19,00:03:36,05:51:23
+ironman-70.3-panama-20140216.csv,739,Carlos Angel Ballestin,28,Argentina,ARG,00:20:32,02:28:22,02:09:54,00:03:45,00:01:55,05:04:28
+ironman-70.3-panama-20140216.csv,740,David Barnosell Morera,27,---,ESP,00:24:04,02:53:20,02:13:38,00:07:20,00:04:18,05:42:40
+ironman-70.3-panama-20140216.csv,741,Felipe Barrios,26,Intl State,MEX,00:24:41,02:35:45,01:55:21,00:03:58,00:02:22,05:02:07
+ironman-70.3-panama-20140216.csv,743,Arnoldo Broutin Echandi,29,Intl State,CRI,00:25:03,02:45:31,02:04:02,00:05:48,00:03:37,05:24:01
+ironman-70.3-panama-20140216.csv,744,Joaquin Canals,27,---,ESP,00:25:47,03:05:55,02:20:29,00:05:03,00:06:08,06:03:22
+ironman-70.3-panama-20140216.csv,746,Ricardo Carreon,25,COAHUILA,MEX,00:19:16,02:31:06,01:45:33,00:03:30,00:01:59,04:41:24
+ironman-70.3-panama-20140216.csv,747,Nestor Castillero,27,Intl State,PAN,00:34:57,03:29:41,03:04:26,00:06:47,00:06:14,07:22:05
+ironman-70.3-panama-20140216.csv,748,Christian Chena,27,panama,PAN,00:24:58,02:37:13,01:44:37,00:03:47,00:03:22,04:53:57
+ironman-70.3-panama-20140216.csv,749,Eduardo Chong Avendano,26,Oaxaca,MEX,00:20:43,02:25:37,01:32:09,00:03:34,00:02:41,04:24:44
+ironman-70.3-panama-20140216.csv,750,Lucas Dallegrave,27,Rio Grande do Sul,BRA,00:27:20,03:14:43,02:16:46,00:06:17,00:04:44,06:09:50
+ironman-70.3-panama-20140216.csv,752,Andres Gomez,26,---,COL,00:21:39,02:31:44,01:56:47,00:04:19,00:02:38,04:57:07
+ironman-70.3-panama-20140216.csv,753,Fernando Gonzalez Soto,26,alajuela,CRI,00:27:54,02:54:03,02:47:26,00:04:17,00:04:04,06:17:44
+ironman-70.3-panama-20140216.csv,754,Jonathan Gresl,28,AB,CAN,00:22:46,02:54:43,02:47:50,00:06:04,00:05:59,06:17:22
+ironman-70.3-panama-20140216.csv,755,Luis Carlos Guevara,28,Intl State,CRI,00:30:17,03:08:51,02:26:01,00:05:08,00:04:45,06:15:02
+ironman-70.3-panama-20140216.csv,756,Ramon Hernandez,25,panama,VEN,00:19:02,02:16:43,01:29:23,00:02:51,00:01:46,04:09:45
+ironman-70.3-panama-20140216.csv,757,Javier Ibanez Sanz,28,---,ESP,00:26:04,02:52:19,02:06:45,00:05:06,00:04:11,05:34:25
+ironman-70.3-panama-20140216.csv,759,Juan Jose Jaramillo Jaramillo,26,GUAYAS,ECU,00:23:34,02:49:35,01:59:17,00:05:32,00:01:53,05:19:51
+ironman-70.3-panama-20140216.csv,761,Loïc Lapeze,26,Intl State,GRL,00:20:53,02:17:31,01:31:08,00:03:05,00:02:09,04:14:46
+ironman-70.3-panama-20140216.csv,763,Francisco Malek,27,---,PCN,00:28:01,02:36:29,02:02:07,00:04:21,00:03:21,05:14:19
+ironman-70.3-panama-20140216.csv,764,Inigo Martinez Gil,26,Naucalpan,MEX,00:25:36,02:48:30,01:56:28,00:04:26,00:02:39,05:17:39
+ironman-70.3-panama-20140216.csv,765,Jeff Mitchell,24,NS,CAN,00:22:02,02:49:33,01:58:51,00:04:52,00:03:21,05:18:39
+ironman-70.3-panama-20140216.csv,766,Carlos Andres Murillo Gallego,28,Colombia,COL,00:22:03,02:38:00,01:51:27,00:04:34,00:02:35,04:58:39
+ironman-70.3-panama-20140216.csv,767,Juan Murillo Herrera,28,Alajuela,CRI,00:25:27,02:56:54,01:47:44,00:04:18,00:02:32,05:16:55
+ironman-70.3-panama-20140216.csv,768,Danillo Vieira Nunes,28,GOIÁS,BRA,00:22:44,02:22:14,01:44:05,00:04:33,00:02:04,04:35:40
+ironman-70.3-panama-20140216.csv,769,Alejandro Ordonez Fontes,27,Madrid,ESP,00:25:21,03:00:08,02:33:13,00:05:52,00:04:46,06:09:20
+ironman-70.3-panama-20140216.csv,770,Daniel Ortega,29,Nariño,COL,00:30:52,03:07:28,03:20:33,00:07:43,00:09:00,07:15:36
+ironman-70.3-panama-20140216.csv,771,German Peralta,26,NY,COL,00:22:55,02:50:48,01:46:18,00:05:06,00:04:56,05:10:03
+ironman-70.3-panama-20140216.csv,772,Bruno Pestana,28,Rio de Janeiro,BRA,00:21:57,02:52:17,02:14:54,00:05:12,00:02:06,05:36:26
+ironman-70.3-panama-20140216.csv,773,Fabricio Strelow,26,S&atilde;o Paulo,BRA,00:22:18,02:35:49,02:16:13,00:04:44,00:03:06,05:22:10
+ironman-70.3-panama-20140216.csv,774,Antonio Quadrini,25,mexico city,MEX,00:22:37,03:17:33,02:12:19,00:06:53,00:04:35,06:03:57
+ironman-70.3-panama-20140216.csv,775,Jorge Quesada Rojas,28,---,CRI,00:25:34,03:00:03,01:57:47,00:04:29,00:03:04,05:30:57
+ironman-70.3-panama-20140216.csv,776,Tiago Souza Raupp,27,Rio de Janeiro,BRA,00:19:28,02:43:45,02:01:22,00:05:26,00:02:23,05:12:24
+ironman-70.3-panama-20140216.csv,777,Alfredo Rondon,25,miranda,VEN,00:29:08,03:05:36,02:05:24,00:05:13,00:05:52,05:51:13
+ironman-70.3-panama-20140216.csv,778,Felipe Salvadori,26,SP,BLZ,00:26:32,02:51:56,02:08:30,00:06:29,00:06:19,05:39:46
+ironman-70.3-panama-20140216.csv,779,Kahlil Samara,28,---,PAN,00:27:40,03:03:06,02:28:02,00:05:23,00:05:09,06:09:20
+ironman-70.3-panama-20140216.csv,781,Reynaldo E Sanchez,25,CUNDINAMARCA,VEN,00:27:47,03:13:35,02:51:32,00:08:08,00:07:37,06:48:39
+ironman-70.3-panama-20140216.csv,782,Luis Diego Sancho Morera,26,Alajuela,CRI,00:26:01,02:39:41,01:57:31,00:04:48,00:03:34,05:11:35
+ironman-70.3-panama-20140216.csv,783,Kellan Scheiris,26,AB,CAN,00:23:15,02:44:51,01:45:34,00:03:55,00:02:19,04:59:54
+ironman-70.3-panama-20140216.csv,785,Michael Townshend,29,Intl State,PAN,00:22:53,03:12:45,03:02:17,00:04:39,00:07:57,06:50:31
+ironman-70.3-panama-20140216.csv,786,Ben Trickett,25,Cumbria,GBR,---,---,---,---,---,DNS
+ironman-70.3-panama-20140216.csv,787,Daniel Valriberas,28,---,ESP,00:24:31,02:33:42,01:36:47,00:03:54,00:02:06,04:41:00
+ironman-70.3-panama-20140216.csv,789,Juan Daniel Zambrano Hernandez,27,Bolìvar,VNM,00:22:33,02:37:46,02:06:04,00:05:25,00:03:46,05:15:34
+ironman-70.3-panama-20140216.csv,791,Ronald Zuniga,28,Panama,PAN,00:27:17,03:10:09,03:05:49,00:05:41,00:08:09,06:57:05
+ironman-70.3-panama-20140216.csv,792,Daniel Zurek-Toton,28,NY,USA,00:27:28,02:50:07,02:04:24,00:08:57,00:05:24,05:36:20
+ironman-70.3-panama-20140216.csv,794,Ana Guadalupe Morales Vazquez,49,Mexico,MEX,00:30:49,04:19:52,02:50:07,00:09:41,00:08:15,07:58:44
+ironman-70.3-panama-20140216.csv,795,Fernanda Simoes,51,Miranda,VEN,00:31:38,03:08:35,01:51:59,00:05:06,00:03:50,05:41:08
+ironman-70.3-panama-20140216.csv,797,Scott Binder,52,CO,USA,00:20:19,02:37:55,01:52:56,00:03:56,00:05:11,05:00:17
+ironman-70.3-panama-20140216.csv,798,Rodolfo Paredes,51,FL,PAN,00:23:32,02:35:01,02:04:14,00:04:52,00:02:24,05:10:03
+ironman-70.3-panama-20140216.csv,799,Robert Souter,50,Intl State,PAN,00:27:31,03:10:52,02:26:38,00:07:32,00:04:57,06:17:30
+ironman-70.3-panama-20140216.csv,800,Guillermo Umana,49,Colombia,COL,00:20:21,02:49:48,02:27:45,00:05:14,00:05:24,05:48:32
+ironman-70.3-panama-20140216.csv,801,Esteban Vissuetti,49,Intl State,PAN,00:30:06,03:22:20,02:52:49,00:06:09,00:07:10,06:58:34
+ironman-70.3-panama-20140216.csv,802,Pedro Vizcaya,58,Intl State,COL,00:28:15,02:50:30,02:01:47,00:04:52,00:02:56,05:28:20
+ironman-70.3-panama-20140216.csv,803,Roberto Brenes-P Rez,67,Intl State,PAN,00:26:38,03:12:35,02:39:09,00:07:13,00:05:29,06:31:04
+ironman-70.3-panama-20140216.csv,805,Katherine Rivera,35,FL,PRI,00:24:29,02:46:49,01:55:37,00:03:55,00:02:16,05:13:06
+ironman-70.3-panama-20140216.csv,806,Carmen Salas Paez,37,Pichincha,ECU,00:31:39,02:52:09,02:19:34,00:07:22,00:06:37,05:57:21
+ironman-70.3-panama-20140216.csv,807,Carmen Salaverria,35,---,ESP,00:27:17,03:06:50,02:02:36,00:09:07,00:07:18,05:53:08
+ironman-70.3-panama-20140216.csv,808,Zeneida Chavez,42,---,CRI,00:26:26,03:39:49,02:17:36,00:05:58,00:04:12,06:34:01
+ironman-70.3-panama-20140216.csv,809,Erika Segale,41,guayas,ECU,00:25:59,03:02:53,02:06:31,00:06:00,00:04:10,05:45:33
+ironman-70.3-panama-20140216.csv,810,Diana Montemayor,44,Intl State,PAN,00:26:38,02:57:17,01:49:57,00:04:08,00:03:22,05:21:22
+ironman-70.3-panama-20140216.csv,811,Meudys Gutierrez,23,Intl State,VEN,00:26:43,02:56:49,02:24:46,00:07:02,00:04:07,05:59:27
+ironman-70.3-panama-20140216.csv,812,Nataly Arevalo,26,Pichincha,ECU,00:21:08,02:36:52,01:42:50,00:03:20,00:02:30,04:46:40
+ironman-70.3-panama-20140216.csv,813,Janet Cano Andrade,33,campeche,MEX,00:26:26,02:58:43,01:52:49,00:05:13,00:04:09,05:27:20
+ironman-70.3-panama-20140216.csv,814,Maria Florenza Fraga,33,PANAMA,PAN,00:21:51,02:32:10,01:36:16,00:03:20,00:01:56,04:35:33
+ironman-70.3-panama-20140216.csv,815,Joann Symonette,30,WA,PAN,00:24:15,02:53:15,02:07:51,00:04:43,00:02:48,05:32:52
+ironman-70.3-panama-20140216.csv,816,Rodolfo Ayarza,19,---,PAN,00:27:58,02:33:16,01:53:58,00:03:43,00:02:16,05:01:11
+ironman-70.3-panama-20140216.csv,817,Brandt Champion,23,CA,USA,00:19:35,02:28:34,01:41:09,00:03:12,00:02:08,04:34:38
+ironman-70.3-panama-20140216.csv,818,Andres Mercado,21,Intl State,COL,00:23:22,02:29:39,02:09:59,00:03:36,00:02:09,05:08:45
+ironman-70.3-panama-20140216.csv,819,Jean Pierre Rodriguez Guzman,20,Guayas,ECU,00:25:59,03:50:35,01:40:37,00:08:22,00:08:26,06:13:59
+ironman-70.3-panama-20140216.csv,820,Rogelio Alba,44,Panama,PAN,00:22:49,02:23:54,01:45:18,00:03:43,00:02:16,04:38:00
+ironman-70.3-panama-20140216.csv,821,Marc Bisseck,44,GA,USA,00:22:21,02:40:38,02:56:20,00:05:10,00:03:41,06:08:10
+ironman-70.3-panama-20140216.csv,822,Mario Calderon Ramos,48,---,CRI,00:28:41,03:05:31,02:08:01,00:06:47,00:09:08,05:58:08
+ironman-70.3-panama-20140216.csv,823,Hector Cardenas Villarreal,44,Los Santos,PAN,00:27:08,03:12:32,02:26:47,00:07:10,00:03:13,06:16:50
+ironman-70.3-panama-20140216.csv,824,Wilson Eloy Pimenta Junior,46,Goias,BRA,00:24:53,02:30:35,01:56:57,00:05:50,00:02:31,05:00:46
+ironman-70.3-panama-20140216.csv,825,Alex Guevara,44,Panama,PAN,00:26:38,03:13:39,02:50:48,00:06:19,00:04:45,06:42:09
+ironman-70.3-panama-20140216.csv,826,Janos Kapitany,47,DC,COL,00:22:16,02:39:33,01:52:50,00:04:48,00:03:03,05:02:30
+ironman-70.3-panama-20140216.csv,827,Sean Keeney,47,FL,USA,00:22:36,---,02:05:37,00:04:57,02:58:53,05:04:30
+ironman-70.3-panama-20140216.csv,828,Michael Kiral,46,FL,USA,00:24:44,03:09:55,03:12:17,00:08:42,00:06:50,07:02:28
+ironman-70.3-panama-20140216.csv,829,Stephen Kukta,48,CA,USA,00:21:51,02:28:46,01:54:58,00:04:12,00:02:26,04:52:13
+ironman-70.3-panama-20140216.csv,830,Luis Fernando Maya Benavides,44,CARCHI,ECU,00:33:49,03:18:08,02:21:17,00:06:17,00:06:15,06:25:46
+ironman-70.3-panama-20140216.csv,831,Webb Tanner,46,FL,USA,00:26:02,03:32:55,02:56:04,---,00:11:25,07:06:26
+ironman-70.3-panama-20140216.csv,832,Sergio De Vasconcellos Machado,48,Intl State,BRA,00:20:23,02:36:06,02:23:59,00:03:45,00:04:12,05:28:25
+ironman-70.3-panama-20140216.csv,833,Carlos Eduardo Calderon Gomez,41,RISARALDA,COL,00:22:23,02:41:06,02:11:20,00:05:39,00:03:32,05:24:00
+ironman-70.3-panama-20140216.csv,834,Eduardo Campoy,40,AZ,USA,00:22:54,02:58:24,02:40:53,00:05:01,00:05:39,06:12:51
+ironman-70.3-panama-20140216.csv,835,José Ramón Chiari López,40,panama,PAN,00:30:53,02:54:09,02:02:55,00:04:30,00:04:29,05:36:56
+ironman-70.3-panama-20140216.csv,836,Gerardo De Eguiluz,42,Costa deal este,MEX,00:23:26,02:55:47,02:08:10,00:06:33,00:03:27,05:37:23
+ironman-70.3-panama-20140216.csv,837,Jesus Diaz,41,Intl State,MEX,00:34:45,03:30:32,03:05:15,00:08:01,00:06:22,07:24:55
+ironman-70.3-panama-20140216.csv,838,Lucio Herrera,---,---,MEX,00:26:35,03:03:58,02:24:22,00:07:11,00:06:32,06:08:38
+ironman-70.3-panama-20140216.csv,839,Mauricio Melgar,37,Jalisco,MEX,00:26:50,03:01:48,02:24:21,00:06:05,00:06:34,06:05:38
+ironman-70.3-panama-20140216.csv,840,Alexander Fernandez,41,Intl State,DOM,00:20:02,02:23:11,01:40:14,00:04:30,00:02:24,04:30:21
+ironman-70.3-panama-20140216.csv,841,Juan Pablo Galvez S,42,San Salvador,SLV,00:23:58,02:54:28,02:10:13,00:06:44,00:06:13,05:41:36
+ironman-70.3-panama-20140216.csv,842,Carlos Gonzalez,43,Pichincha,ECU,00:25:29,03:16:07,02:19:11,00:06:15,00:05:19,06:12:21
+ironman-70.3-panama-20140216.csv,843,karim hamaoui,41,CA,USA,00:25:16,03:25:11,02:42:59,00:07:22,00:06:45,06:47:33
+ironman-70.3-panama-20140216.csv,845,Juan Loaiza Hernández,44,---,ESP,---,---,---,---,---,DNS
+ironman-70.3-panama-20140216.csv,846,Gilberto Mendoza,43,---,VEN,00:23:32,02:45:12,02:35:40,00:06:17,00:05:26,05:56:07
+ironman-70.3-panama-20140216.csv,847,Dale Moomaw,42,TX,USA,00:28:09,03:17:54,02:26:47,00:05:11,00:04:27,06:22:28
+ironman-70.3-panama-20140216.csv,848,Da Cunha Neto Dias Antonio,43,---,BRA,00:27:22,02:48:59,02:33:28,00:05:39,00:03:17,05:58:45
+ironman-70.3-panama-20140216.csv,849,Julio Orellanes,42,panama,PAN,00:28:44,02:50:29,02:02:11,00:04:55,00:02:51,05:29:10
+ironman-70.3-panama-20140216.csv,850,Victor Hugo Pena Grisales,39,santander,COL,00:19:24,02:14:05,01:48:15,00:05:00,00:02:51,04:29:35
+ironman-70.3-panama-20140216.csv,852,Matt Waters,44,GA,USA,00:23:44,02:37:17,02:37:04,00:05:04,00:04:42,05:47:51
+ironman-70.3-panama-20140216.csv,853,Guillermo Zaldivar,42,n/a,PAN,00:27:44,02:48:31,02:17:55,00:05:56,00:03:31,05:43:37
+ironman-70.3-panama-20140216.csv,854,Guilherme Zugliani,40,Rio de Janeiro,BRA,00:22:43,03:20:35,02:26:03,00:06:04,00:05:24,06:20:49
+ironman-70.3-panama-20140216.csv,855,Carlos Zurita,42,Pichincha,ECU,00:31:23,03:08:53,02:05:12,00:06:12,00:04:26,05:56:06
+ironman-70.3-panama-20140216.csv,856,Omar Biaggini,36,Táchira,VEN,00:23:18,02:38:26,01:42:24,00:04:40,00:03:33,04:52:21
+ironman-70.3-panama-20140216.csv,857,Dalton Cabral,38,AM,BRA,00:21:29,02:38:37,01:52:06,00:04:55,00:03:00,05:00:07
+ironman-70.3-panama-20140216.csv,858,James Colteryahn,38,FL,PAN,00:30:57,03:36:34,02:53:54,00:05:28,00:04:10,07:11:03
+ironman-70.3-panama-20140216.csv,860,Jesus Delgado Guerrero,36,PANAMA,PAN,00:27:05,03:27:47,02:44:08,00:07:44,00:10:46,06:57:30
+ironman-70.3-panama-20140216.csv,861,Franco Gomez,34,San Jose,CRI,00:26:01,02:52:37,02:13:57,00:08:08,00:02:46,05:43:29
+ironman-70.3-panama-20140216.csv,862,Ivan Grain,37,guayas,ECU,00:21:49,03:00:51,02:28:31,00:05:39,00:07:19,06:04:09
+ironman-70.3-panama-20140216.csv,863,Ramon Guerra,36,Panama,PAN,00:24:49,02:46:49,02:17:02,00:05:22,00:04:48,05:38:50
+ironman-70.3-panama-20140216.csv,864,Mauricio Guizar Arellano,38,---,MEX,00:34:32,03:09:15,02:38:22,00:07:59,00:07:54,06:38:02
+ironman-70.3-panama-20140216.csv,865,Germ N Jim Nez Tabares,37,Risaralda,COL,00:23:54,02:24:27,02:14:23,00:04:14,00:02:45,05:09:43
+ironman-70.3-panama-20140216.csv,866,Paulo Henrique Manzini,36,Sao Paulo,BRA,00:23:08,02:29:25,01:58:34,00:04:30,00:02:38,04:58:15
+ironman-70.3-panama-20140216.csv,867,Joan Pedret,37,---,ESP,00:21:26,02:40:07,01:34:50,00:03:47,00:01:52,04:42:02
+ironman-70.3-panama-20140216.csv,868,Ian Pena,35,DN,DOM,00:27:12,02:58:14,02:15:51,00:05:19,00:06:12,05:52:48
+ironman-70.3-panama-20140216.csv,869,Eligio Rodriguez,34,FL,DOM,00:26:58,02:52:27,01:55:27,00:04:59,00:02:32,05:22:23
+ironman-70.3-panama-20140216.csv,870,Mauricio Rodriguez,34,PANAMA,COL,00:25:24,02:36:50,01:37:58,00:04:06,00:03:53,04:48:11
+ironman-70.3-panama-20140216.csv,871,Marcial Rosales,34,Campeche,MEX,00:25:54,02:52:13,01:47:54,00:04:29,00:02:58,05:13:28
+ironman-70.3-panama-20140216.csv,872,Zeky Sabagh,36,atlantico,COL,00:25:05,02:55:11,02:16:16,00:05:46,00:05:52,05:48:10
+ironman-70.3-panama-20140216.csv,873,Jeferson De Souza Salvaya,38,Rio de Janeiro,BRA,00:23:28,02:28:50,01:53:50,00:04:26,00:03:01,04:53:35
+ironman-70.3-panama-20140216.csv,874,Sebastian Sanchez,37,Castries,ARG,00:22:13,02:19:44,---,00:03:20,00:01:51,DNF
+ironman-70.3-panama-20140216.csv,875,Geraldo Vieira,36,---,KGZ,00:25:28,02:33:04,02:05:11,00:04:47,00:03:38,05:12:08
+ironman-70.3-panama-20140216.csv,876,Elmer Zapata,34,Lima,PER,00:25:23,02:49:57,02:15:36,00:06:17,00:03:43,05:40:56
+ironman-70.3-panama-20140216.csv,877,Christian Zuñiga,37,Cartago,CRI,00:25:16,02:39:30,02:00:25,00:05:18,00:03:47,05:14:16
+ironman-70.3-panama-20140216.csv,878,Thiago Aguiar,32,---,BRA,00:24:03,03:19:08,02:54:02,00:06:36,00:04:34,06:48:23
+ironman-70.3-panama-20140216.csv,879,Felipe Arango,31,antioquia,COL,00:27:00,02:58:05,02:47:21,00:05:33,00:05:03,06:23:02
+ironman-70.3-panama-20140216.csv,880,Romie Bordanea,33,---,PAN,00:26:24,02:52:07,01:46:42,00:06:20,00:04:58,05:16:31
+ironman-70.3-panama-20140216.csv,881,Leonardo Brenes Arroyo,33,San jose,CRI,00:27:59,02:40:20,02:09:12,00:04:53,00:03:22,05:25:46
+ironman-70.3-panama-20140216.csv,882,Franco Casalvolone,33,San José,CRI,00:21:03,02:41:03,02:00:33,00:05:26,00:03:34,05:11:39
+ironman-70.3-panama-20140216.csv,883,Julio Manuel Centeno Guerrero,33,Intl State,PAN,00:28:05,03:05:11,02:41:58,00:04:49,00:03:43,06:23:46
+ironman-70.3-panama-20140216.csv,884,Rafael Falsarella,32,Intl State,BRA,00:20:45,02:12:42,01:38:58,00:03:14,00:01:44,04:17:23
+ironman-70.3-panama-20140216.csv,885,Alejandro Fiatt,29,---,CRI,00:23:36,02:29:34,02:17:03,00:04:01,00:03:01,05:17:15
+ironman-70.3-panama-20140216.csv,887,Diego Garcia,34,Intl State,GTM,00:22:27,03:14:00,02:30:16,00:06:11,00:09:24,06:22:18
+ironman-70.3-panama-20140216.csv,888,Kyle Hummel,33,CA,USA,00:19:10,02:12:00,01:35:53,00:03:21,00:01:39,04:12:03
+ironman-70.3-panama-20140216.csv,889,Luis Li,34,San Jose,CRI,00:25:03,02:46:58,01:54:03,00:04:52,00:04:13,05:15:09
+ironman-70.3-panama-20140216.csv,890,Sebastian Mejia,33,Antioquia,COL,00:31:50,02:42:49,02:11:23,00:05:25,00:04:59,05:36:26
+ironman-70.3-panama-20140216.csv,891,Gary E Mullen,34,AB,IRL,00:23:22,02:37:12,01:58:14,00:04:25,00:03:36,05:06:49
+ironman-70.3-panama-20140216.csv,892,Andres Ovalle,32,Guatemala,GTM,00:28:26,03:25:22,02:18:31,00:05:38,00:04:43,06:22:40
+ironman-70.3-panama-20140216.csv,893,Sergio Rodriguez Carvajal,29,---,ESP,00:26:47,02:57:07,01:59:19,00:06:43,00:02:04,05:32:00
+ironman-70.3-panama-20140216.csv,894,Pedro Saenz,32,San Rafael,CRI,00:24:59,02:35:02,01:46:18,00:04:49,00:02:10,04:53:18
+ironman-70.3-panama-20140216.csv,895,Jorge Sagastume,33,Guatemala,GTM,00:26:10,03:00:16,02:15:26,00:05:27,00:06:14,05:53:33
+ironman-70.3-panama-20140216.csv,896,Jose Sanchez,32,Panama,VEN,00:25:58,02:45:36,02:08:32,00:04:24,00:03:28,05:27:58
+ironman-70.3-panama-20140216.csv,897,Jan Michael Schmidt,32,DN,DOM,00:23:11,02:32:53,01:51:20,00:06:12,00:02:40,04:56:16
+ironman-70.3-panama-20140216.csv,898,Mauro Tacconelli,30,FL,VEN,00:21:45,02:30:09,01:43:09,00:03:49,00:02:11,04:41:03
+ironman-70.3-panama-20140216.csv,899,Alejandro Zambrano Ojeda,30,NUEVA ESPARTA,VEN,00:27:16,02:59:42,02:27:47,00:03:59,00:03:19,06:02:03
+ironman-70.3-panama-20140216.csv,900,Luis Benitez,27,Intl State,PAN,00:21:45,02:28:27,01:39:34,00:03:35,00:03:27,04:36:48
