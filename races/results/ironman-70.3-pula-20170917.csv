@@ -1,0 +1,1221 @@
+#File=ironman-70.3-pula-20170917.csv
+race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
+ironman-70.3-pula-20170917.csv,1,Alex Zanardi,50,PD,ITA,---,02:41:07,01:14:20,---,00:02:19,03:57:46
+ironman-70.3-pula-20170917.csv,2,Claudia Harcus,39,---,ZAF,00:00:41,02:49:07,01:49:49,00:01:09,00:02:19,04:43:05
+ironman-70.3-pula-20170917.csv,3,Hilary Clare Walker,64,---,GBR,00:01:15,03:14:25,02:29:08,00:02:33,00:02:57,05:50:18
+ironman-70.3-pula-20170917.csv,4,Francesco Lavalle,27,Italia,ITA,00:00:41,02:43:11,---,00:00:57,00:02:02,DNF
+ironman-70.3-pula-20170917.csv,5,Gianmaria Tiozzo,27,Italia ,ITA,00:00:45,02:37:38,01:20:36,00:00:57,00:01:38,04:01:34
+ironman-70.3-pula-20170917.csv,6,Sebastian Gaugl,29,---,AUT,00:00:40,02:28:28,01:38:01,00:00:53,00:01:40,04:09:42
+ironman-70.3-pula-20170917.csv,7,Andrii Onyshchenko,28,---,UKR,00:00:32,02:31:56,01:23:30,00:00:57,00:02:02,03:58:57
+ironman-70.3-pula-20170917.csv,8,René Pfaffner,33,---,DEU,00:00:34,02:27:35,01:27:31,00:00:50,00:01:14,03:57:44
+ironman-70.3-pula-20170917.csv,9,Brice Venturini,31,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,10,Marcu Andria Le Mao,32,---,FRA,00:00:43,02:37:29,01:34:52,00:01:26,00:01:38,04:16:08
+ironman-70.3-pula-20170917.csv,11,Lars Mayer,41,---,DEU,00:00:43,02:48:15,01:55:03,00:01:33,00:02:23,04:47:57
+ironman-70.3-pula-20170917.csv,12,Jakub Weimann,44,Czech Republic,CZE,00:00:46,02:43:48,01:34:23,00:01:47,00:02:27,04:23:11
+ironman-70.3-pula-20170917.csv,13,Roman Lengwiler,41,---,CHE,00:00:43,02:39:05,01:41:20,00:01:00,00:01:56,04:24:04
+ironman-70.3-pula-20170917.csv,14,Ralf Preissl,41,---,DEU,00:00:35,02:25:45,01:23:29,00:00:45,00:01:15,03:51:49
+ironman-70.3-pula-20170917.csv,15,Peter Havas,44,---,HUN,00:00:46,02:29:35,01:51:00,00:01:15,00:03:11,04:25:47
+ironman-70.3-pula-20170917.csv,16,Alessandro Tomaiuolo,43,italy,ITA,00:00:39,02:30:03,01:22:53,00:00:57,00:01:32,03:56:04
+ironman-70.3-pula-20170917.csv,17,Klaus Marcel,40,---,CHE,00:00:42,02:22:38,01:33:00,00:00:51,00:02:24,03:59:35
+ironman-70.3-pula-20170917.csv,18,Thomas Oberli,47,---,CHE,00:00:35,02:26:40,01:41:48,00:00:53,00:01:54,04:11:50
+ironman-70.3-pula-20170917.csv,19,Matija Romsak,53,Slovenia,SVN,00:00:45,02:38:57,01:33:52,00:01:19,00:02:24,04:17:17
+ironman-70.3-pula-20170917.csv,20,Chris Knight,51,DXB,GBR,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,21,Anton Bernhard,52,---,AUT,00:00:41,02:23:34,01:37:22,00:01:16,00:02:07,04:05:00
+ironman-70.3-pula-20170917.csv,22,Emilio Lomi,53,MI,ITA,00:00:57,02:41:45,01:39:21,00:01:18,00:02:14,04:25:35
+ironman-70.3-pula-20170917.csv,23,Pascal Hagenbach,56,---,FRA,00:00:49,02:39:27,02:05:48,00:01:38,00:03:06,04:50:48
+ironman-70.3-pula-20170917.csv,24,Sabine Greipel,53,---,AUT,00:00:53,02:53:45,01:54:00,00:01:09,00:02:12,04:51:59
+ironman-70.3-pula-20170917.csv,25,Gabriele Mansuino,30,FIRENZE,ITA,00:00:33,02:42:02,01:19:09,00:01:00,00:01:45,04:04:29
+ironman-70.3-pula-20170917.csv,26,Alessandro Clivio,50,ITALIA,ITA,00:00:40,02:37:21,01:41:41,00:01:37,00:02:06,04:23:25
+ironman-70.3-pula-20170917.csv,27,Guido Pasqualini,51,Bologna,ITA,00:00:43,02:36:49,01:31:07,00:01:03,00:02:18,04:12:00
+ironman-70.3-pula-20170917.csv,28,Jana Stenzel,27,---,DEU,00:00:49,03:04:12,02:11:12,00:01:38,00:01:58,05:19:49
+ironman-70.3-pula-20170917.csv,29,Janien Lubben,32,---,NLD,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,30,Silvia Weishäupl,38,---,DEU,00:00:46,02:43:31,01:35:22,00:00:59,00:01:41,04:22:19
+ironman-70.3-pula-20170917.csv,31,Tine Vogt,44,---,DEU,00:00:42,02:54:05,01:49:07,00:01:16,00:02:37,04:47:47
+ironman-70.3-pula-20170917.csv,32,Helena Van Wyk,48,---,ZAF,00:00:46,02:57:04,01:51:08,00:01:10,00:01:55,04:52:03
+ironman-70.3-pula-20170917.csv,33,Lia Bessone,46,buenos aires,ARG,00:00:59,03:08:07,01:58:17,00:01:49,00:03:31,05:12:43
+ironman-70.3-pula-20170917.csv,34,Maureen Mossop,51,---,ZAF,00:00:53,03:14:26,02:24:25,00:01:24,00:04:15,05:45:23
+ironman-70.3-pula-20170917.csv,35,Domagoj Paukovic,27,APO,HRV,00:00:36,02:38:10,01:52:53,00:01:05,00:01:56,04:34:40
+ironman-70.3-pula-20170917.csv,36,Pierrick Avrillon,26,---,FRA,00:00:43,02:25:59,01:45:31,00:01:21,00:01:49,04:15:23
+ironman-70.3-pula-20170917.csv,37,Hannes Schell,28,---,AUT,00:00:40,02:27:13,01:26:12,00:00:53,00:01:54,03:56:52
+ironman-70.3-pula-20170917.csv,38,Roland Winkler,28,---,AUT,00:00:42,02:36:24,01:49:48,00:01:27,00:01:45,04:30:06
+ironman-70.3-pula-20170917.csv,39,Elias Schippeerges,27,---,DEU,00:00:41,02:21:34,01:25:09,00:00:54,00:01:48,03:50:06
+ironman-70.3-pula-20170917.csv,40,Michele Masetti,28,Italia,ITA,00:00:44,02:52:57,02:06:13,00:01:30,00:03:40,05:05:04
+ironman-70.3-pula-20170917.csv,41,Marcin Fabiszewski,33,---,POL,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,42,Daniele Corradini,33,Italy,ITA,00:00:51,02:44:17,01:40:01,00:01:12,00:01:53,04:28:14
+ironman-70.3-pula-20170917.csv,43,Michal Lisienski,30,---,POL,00:00:36,02:28:42,01:27:02,00:00:49,00:01:49,03:58:58
+ironman-70.3-pula-20170917.csv,44,Matteo Venzi,31,pistoia,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,45,Laurenz Pötzelsberger,30,---,AUT,00:00:33,02:40:07,01:41:53,00:01:20,00:02:52,04:26:45
+ironman-70.3-pula-20170917.csv,46,Thibaud Friess,32,---,CHE,00:00:41,02:22:40,01:31:34,00:00:58,00:01:36,03:57:29
+ironman-70.3-pula-20170917.csv,47,Jan Eckhardt,29,---,DEU,00:00:44,02:31:08,01:45:30,00:00:53,00:02:19,04:20:34
+ironman-70.3-pula-20170917.csv,48,Carlo Giuseppe Johan Muhr,31,imperia,ITA,00:00:38,02:40:10,01:45:21,00:00:50,00:01:56,04:28:55
+ironman-70.3-pula-20170917.csv,49,Janek Scholz,38,---,DEU,00:00:41,02:41:01,01:47:35,00:01:19,00:01:53,04:32:29
+ironman-70.3-pula-20170917.csv,50,Markus Theis,---,---,DEU,00:00:39,02:37:36,01:53:40,00:00:56,00:01:51,04:34:42
+ironman-70.3-pula-20170917.csv,51,Mario Ruta,38,Italia,ITA,00:00:43,02:48:48,01:47:40,00:01:39,00:02:18,04:41:08
+ironman-70.3-pula-20170917.csv,52,Michele Salmoiraghi,37,Italy,ITA,00:00:42,02:42:52,01:37:29,00:01:00,00:01:53,04:23:56
+ironman-70.3-pula-20170917.csv,53,Francesco Sigillo,35,---,CHE,00:00:42,02:40:48,01:57:24,00:01:11,00:02:47,04:42:52
+ironman-70.3-pula-20170917.csv,54,Markus Scheickl,39,---,AUT,00:00:38,02:52:48,01:43:58,00:01:53,00:02:53,04:42:10
+ironman-70.3-pula-20170917.csv,55,Alessio Piccioni,35,Italia,ITA,00:00:45,02:30:37,01:32:48,00:01:04,00:02:17,04:07:31
+ironman-70.3-pula-20170917.csv,56,Dariusz Lesniak,42,---,POL,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,57,Alexej Pokorny,43,---,AUT,00:00:47,02:39:37,01:47:19,00:01:17,00:03:37,04:32:37
+ironman-70.3-pula-20170917.csv,58,Tobias Graessli,40,---,CHE,00:00:43,02:39:45,01:35:00,00:01:04,00:01:42,04:18:14
+ironman-70.3-pula-20170917.csv,59,Slaven Maligec,44,---,SAU,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,60,Manfred Buxbaum,43,---,AUT,00:00:42,02:44:33,01:54:10,00:00:55,00:02:05,04:42:25
+ironman-70.3-pula-20170917.csv,61,Markus Haag,44,---,AUT,00:00:41,02:59:03,01:58:20,00:02:35,00:03:18,05:03:57
+ironman-70.3-pula-20170917.csv,62,Georg Berger,43,---,AUT,00:00:43,02:35:50,01:43:37,00:01:39,00:02:26,04:24:15
+ironman-70.3-pula-20170917.csv,63,Marek Kilarski,42,---,POL,00:00:38,02:44:25,01:50:58,00:01:05,00:01:50,04:38:56
+ironman-70.3-pula-20170917.csv,64,Stefano Amicone,43,PE,ITA,00:00:43,02:49:54,01:48:09,00:01:37,00:04:14,04:44:37
+ironman-70.3-pula-20170917.csv,65,Jonathan Van Wyk,48,---,ZAF,00:00:45,02:38:16,02:01:26,00:01:12,00:03:19,04:44:58
+ironman-70.3-pula-20170917.csv,66,Pascal Fumeaux,49,---,CHE,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,67,Chris Punter,45,---,NLD,00:00:55,02:44:49,02:07:55,00:02:10,00:02:51,04:58:40
+ironman-70.3-pula-20170917.csv,68,Davide Baggio,49,PD,ITA,00:00:59,02:50:26,01:55:43,00:01:13,00:03:40,04:52:01
+ironman-70.3-pula-20170917.csv,69,Matthias Scheffer,49,---,DEU,00:00:48,02:41:26,01:45:01,00:01:17,00:03:08,04:31:40
+ironman-70.3-pula-20170917.csv,70,Michael Zarth,49,---,DEU,00:00:44,02:36:09,01:46:10,00:01:09,00:02:36,04:26:48
+ironman-70.3-pula-20170917.csv,71,Mário Partl,47,APO,SVK,00:00:50,02:47:52,02:10:17,00:01:52,00:04:26,05:05:17
+ironman-70.3-pula-20170917.csv,72,Olivier Dr.Zilcher,45,---,DEU,00:00:41,02:29:54,01:36:29,00:01:23,00:02:11,04:10:38
+ironman-70.3-pula-20170917.csv,73,Philippe Petit,45,---,FRA,00:00:39,02:36:02,01:46:12,00:01:09,00:01:50,04:25:52
+ironman-70.3-pula-20170917.csv,74,Bruno Glaser,47,Intl State,SVN,00:00:37,02:35:06,01:35:38,00:01:00,00:01:59,04:14:20
+ironman-70.3-pula-20170917.csv,75,Marek Svoboda,46,Czech republic,CZE,00:00:42,02:37:46,01:29:13,00:01:11,00:01:52,04:10:44
+ironman-70.3-pula-20170917.csv,76,Brandon Harcus,45,---,ZAF,00:00:44,02:45:08,02:11:42,00:01:26,00:03:58,05:02:58
+ironman-70.3-pula-20170917.csv,77,Salvatore Alioto,46,Italy,ITA,00:00:38,03:04:03,01:45:51,00:01:32,00:02:44,04:54:48
+ironman-70.3-pula-20170917.csv,78,Massimo Butera,45,Intl State,ITA,00:00:51,03:11:01,---,00:02:07,00:02:36,DNF
+ironman-70.3-pula-20170917.csv,79,Rudolf Zeller,49,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,80,Pavel Novak,51,Czech republic,CZE,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,81,Kristian Röhl,50,---,DNK,00:00:54,02:57:06,02:06:57,00:02:33,00:02:45,05:10:15
+ironman-70.3-pula-20170917.csv,82,Arthur Goldberg,49,---,GBR,00:00:47,02:48:40,02:10:03,00:01:39,00:02:54,05:04:03
+ironman-70.3-pula-20170917.csv,83,Thomas Hackner,52,---,AUT,00:00:41,02:34:44,01:34:01,00:00:53,00:01:51,04:12:10
+ironman-70.3-pula-20170917.csv,84,Keith Ashworth,52,---,GBR,00:00:44,02:49:29,02:01:58,00:01:20,00:02:46,04:56:17
+ironman-70.3-pula-20170917.csv,85,Peter Clark,50,WA,AUS,00:00:48,02:56:17,02:16:11,00:01:39,00:03:39,05:18:34
+ironman-70.3-pula-20170917.csv,86,Lylian Grand,49,---,FRA,00:00:51,02:36:12,01:55:29,00:01:33,00:02:43,04:36:48
+ironman-70.3-pula-20170917.csv,87,Gerwyn Davies,56,United kingdom,GBR,00:01:03,02:53:25,01:54:55,00:01:24,00:02:53,04:53:40
+ironman-70.3-pula-20170917.csv,88,Christian Andreas,56,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,89,Frank Albat,55,---,DEU,00:00:45,02:44:40,02:06:50,00:01:07,00:02:36,04:55:58
+ironman-70.3-pula-20170917.csv,90,Ales Rotar,57,Ljubljana,SVN,00:00:49,02:57:42,02:16:05,00:01:10,00:02:26,05:18:12
+ironman-70.3-pula-20170917.csv,91,Yves De Burbure De Wesembeek,61,---,BEL,00:00:47,02:42:26,01:46:22,00:01:25,00:03:10,04:34:10
+ironman-70.3-pula-20170917.csv,92,Raffaele Avigliano,60,Ascoli Piceno,ITA,00:01:09,03:01:03,01:56:41,00:01:46,00:05:04,05:05:43
+ironman-70.3-pula-20170917.csv,93,Jurrie Van Waeyenberghe,33,---,BEL,00:00:37,02:30:40,01:26:21,00:01:05,00:01:31,04:00:14
+ironman-70.3-pula-20170917.csv,94,Baris Devir,31,ALSANCAK,TUR,00:00:50,02:58:18,02:12:44,00:01:34,00:02:34,05:16:00
+ironman-70.3-pula-20170917.csv,95,Adam Kupiec,38,Bratislava,POL,00:00:44,02:46:07,01:46:08,00:02:03,00:04:24,04:39:26
+ironman-70.3-pula-20170917.csv,96,Pieter Jonas,39,---,ZAF,00:00:51,02:45:52,01:43:23,00:01:30,00:02:19,04:33:55
+ironman-70.3-pula-20170917.csv,97,Luca Valerio,46,Italy,ITA,00:00:40,02:55:08,01:43:20,00:00:52,00:02:25,04:42:25
+ironman-70.3-pula-20170917.csv,98,Aldo Macherelli,49,italia,ITA,00:00:47,02:38:32,01:40:05,00:01:31,00:01:39,04:22:34
+ironman-70.3-pula-20170917.csv,99,Anna Przybilla,28,---,AUT,00:00:34,02:33:00,01:28:26,00:00:50,00:01:51,04:04:41
+ironman-70.3-pula-20170917.csv,100,Cara Wright,36,AE,USA,00:00:58,03:28:22,02:18:39,00:02:40,00:05:09,05:55:48
+ironman-70.3-pula-20170917.csv,101,Emma Malmberg,38,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,102,Melanie Junker,42,---,DEU,00:00:53,03:06:06,02:38:40,00:02:11,00:04:54,05:52:44
+ironman-70.3-pula-20170917.csv,103,Anna Pasquini,43,NY,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,104,Maria Möller,47,---,DEU,00:00:48,03:11:09,01:55:06,00:01:44,00:02:42,05:11:29
+ironman-70.3-pula-20170917.csv,105,Eva Hackner,50,---,AUT,00:01:00,03:31:15,02:05:34,00:02:15,00:02:58,05:43:02
+ironman-70.3-pula-20170917.csv,106,Frahnert Heike,55,---,DEU,00:00:53,02:56:16,01:59:30,00:01:28,00:03:23,05:01:30
+ironman-70.3-pula-20170917.csv,107,Herbert Enzinger,23,---,DEU,00:00:35,02:26:44,01:21:28,00:00:47,00:01:35,03:51:09
+ironman-70.3-pula-20170917.csv,108,Alex Petersen,21,Essex,GBR,00:00:45,02:59:09,02:10:02,00:01:10,00:02:03,05:13:09
+ironman-70.3-pula-20170917.csv,109,Nicolas Rosello,29,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,110,Thierry Mathissart,26,---,FRA,00:00:31,02:24:39,01:29:03,00:00:42,00:01:42,03:56:37
+ironman-70.3-pula-20170917.csv,111,Luca Inzirillo,28,---,CHE,00:00:47,02:32:37,01:56:08,00:01:16,00:02:49,04:33:37
+ironman-70.3-pula-20170917.csv,112,Matthieu Pascal,26,---,FRA,00:00:39,02:42:27,01:44:41,00:01:01,00:03:14,04:32:02
+ironman-70.3-pula-20170917.csv,113,Goran Markuš,30,Leopardstown,HRV,00:00:35,03:14:27,02:04:11,00:01:28,00:01:58,05:22:39
+ironman-70.3-pula-20170917.csv,114,Guillaume Grüber,34,---,FRA,00:00:48,02:54:36,02:39:20,00:01:27,00:01:50,05:38:01
+ironman-70.3-pula-20170917.csv,115,Ivan Karacic,30,Grad Zagreb,HUN,00:00:45,02:42:52,01:47:48,00:01:02,00:01:40,04:34:07
+ironman-70.3-pula-20170917.csv,116,Martin Denda,33,---,AUT,00:00:51,02:48:35,01:39:10,00:02:34,00:04:20,04:35:30
+ironman-70.3-pula-20170917.csv,117,Alessandro Fumaneri,37,Verona,ITA,00:00:54,02:57:32,02:23:40,00:01:29,00:03:36,05:27:11
+ironman-70.3-pula-20170917.csv,118,Joao Diogo,35,---,PRT,00:00:39,02:52:23,01:48:02,00:01:04,00:02:38,04:44:46
+ironman-70.3-pula-20170917.csv,119,Gabor Pajor,35,---,HUN,00:00:35,02:33:32,01:30:33,00:00:53,00:02:27,04:08:00
+ironman-70.3-pula-20170917.csv,120,Marcin Mitrus,---,---,POL,---,---,---,---,---,DQ
+ironman-70.3-pula-20170917.csv,121,Dean Sosic,35,Croatia,HRV,00:00:37,02:38:33,02:07:52,00:00:48,00:02:04,04:49:54
+ironman-70.3-pula-20170917.csv,122,Andrey Tsyganok,35,---,RUS,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,123,Tommaso Poletto,35,Milano,ITA,00:00:50,02:45:51,01:42:09,00:01:50,00:03:07,04:33:47
+ironman-70.3-pula-20170917.csv,124,Rafal Poniewierski,39,---,POL,00:00:54,02:38:02,01:55:22,00:01:22,00:02:30,04:38:10
+ironman-70.3-pula-20170917.csv,125,Thomas Shaw,37,---,ZAF,00:00:34,02:42:25,01:36:01,00:01:28,00:03:04,04:23:32
+ironman-70.3-pula-20170917.csv,126,Michael Karner,41,---,AUT,00:00:41,02:39:38,01:44:57,00:00:59,00:02:35,04:28:50
+ironman-70.3-pula-20170917.csv,127,Patrice Denniel,44,---,CHE,00:00:53,02:40:43,01:46:35,00:01:18,00:03:24,04:32:53
+ironman-70.3-pula-20170917.csv,128,David Schütz,43,---,CHE,00:00:52,02:47:01,02:22:40,00:01:12,00:02:17,05:14:02
+ironman-70.3-pula-20170917.csv,129,Michael Heinisch,44,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,130,Winfried Wende,41,---,DEU,00:00:49,02:58:07,01:43:24,00:01:09,00:02:11,04:45:40
+ironman-70.3-pula-20170917.csv,131,Andrea Passuello,42,Vicenza,ITA,00:00:52,02:39:54,02:00:52,00:02:22,00:03:01,04:47:01
+ironman-70.3-pula-20170917.csv,132,Jan Coufal,41,Prague,CZE,00:00:53,03:03:01,02:08:50,00:01:38,00:04:06,05:18:28
+ironman-70.3-pula-20170917.csv,133,Alexis Maizel,42,---,DEU,00:00:43,02:51:13,02:04:02,00:00:58,00:01:48,04:58:44
+ironman-70.3-pula-20170917.csv,134,Alessandro Ortolan,43,Italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,135,Darko Lukic,44,Serbia,SRB,00:00:58,03:12:16,01:56:02,00:03:00,00:07:39,05:19:55
+ironman-70.3-pula-20170917.csv,136,Vasilii Mishchenko,41,Moscow,RUS,00:00:42,04:03:50,01:42:00,00:00:58,00:02:07,05:49:37
+ironman-70.3-pula-20170917.csv,137,Juan Pablo Richard,48,Intl State,ARG,00:00:51,02:48:01,01:47:49,00:01:23,00:02:20,04:40:24
+ironman-70.3-pula-20170917.csv,138,Martin Prihoda,46,---,AUT,00:00:49,03:05:10,02:26:07,00:01:26,00:04:17,05:37:49
+ironman-70.3-pula-20170917.csv,139,Vladimir Mitterpach,45,Slovakia,SVK,00:00:50,02:47:12,01:54:27,00:01:34,00:02:34,04:46:37
+ironman-70.3-pula-20170917.csv,140,Dirk Heise,48,---,DEU,00:00:36,02:32:45,01:36:12,00:01:08,00:01:47,04:12:28
+ironman-70.3-pula-20170917.csv,141,Grzegorz Buchal,47,---,POL,00:00:51,02:58:17,02:00:24,00:01:27,00:03:25,05:04:24
+ironman-70.3-pula-20170917.csv,142,Kevin Hutcheon,46,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,143,Mario Hernández Riveiro,45,Guatemala/Guatemala/Guatemala,GTM,00:00:36,03:58:14,01:58:44,00:00:53,00:04:28,06:02:55
+ironman-70.3-pula-20170917.csv,144,Jon Land,49,---,NOR,00:00:57,02:52:58,02:02:26,00:02:03,00:02:47,05:01:11
+ironman-70.3-pula-20170917.csv,145,Agostino Marcon,46,Italia,ITA,00:01:02,03:06:03,02:33:59,00:02:02,00:03:50,05:46:56
+ironman-70.3-pula-20170917.csv,146,Wolfgang Rausch,44,---,AUT,00:00:56,02:40:14,01:45:45,00:01:07,00:02:26,04:30:28
+ironman-70.3-pula-20170917.csv,147,Roger Kobel,48,---,CHE,00:00:47,02:47:00,01:53:24,00:01:07,00:02:09,04:44:27
+ironman-70.3-pula-20170917.csv,148,Mauro Andrea Belotti,51,Italy,ITA,00:00:52,03:15:05,01:55:54,00:01:27,00:03:08,05:16:26
+ironman-70.3-pula-20170917.csv,149,Peter Ratkovsky,50,Slovakia,SVK,00:01:04,03:03:06,01:59:24,00:01:22,00:05:14,05:10:10
+ironman-70.3-pula-20170917.csv,150,Alexander Zakharov,57,Russia,RUS,00:00:57,03:08:27,02:35:03,00:02:22,00:06:21,05:53:10
+ironman-70.3-pula-20170917.csv,151,Simon Willis,58,Highland,GBR,00:00:52,04:42:33,---,00:01:34,---,DNF
+ironman-70.3-pula-20170917.csv,152,Mark Finlay,56,---,GBR,00:00:49,02:54:30,02:13:17,00:01:38,00:05:16,05:15:30
+ironman-70.3-pula-20170917.csv,153,Jean-Yves Gautier,68,---,FRA,00:00:52,03:05:18,01:54:23,00:01:35,00:02:38,05:04:46
+ironman-70.3-pula-20170917.csv,154,Andrej Bucar,68,---,SVN,00:01:08,02:56:28,02:35:16,00:02:54,00:06:32,05:42:18
+ironman-70.3-pula-20170917.csv,155,Hermann Aschwer,70,---,DEU,00:00:57,02:56:20,01:57:53,00:02:21,00:04:34,05:02:05
+ironman-70.3-pula-20170917.csv,156,Eva Schwarzmayer,52,---,AUT,00:00:52,03:07:47,02:15:19,00:01:44,00:03:12,05:28:54
+ironman-70.3-pula-20170917.csv,157,Christian Härtel,35,---,DEU,00:00:41,02:34:49,01:46:00,00:01:05,00:03:58,04:26:33
+ironman-70.3-pula-20170917.csv,158,Andreas Krolop,34,---,DEU,00:00:40,02:44:30,01:56:22,00:01:03,00:03:10,04:45:45
+ironman-70.3-pula-20170917.csv,159,Davide Locatelli,48,Como,ITA,---,---,---,---,---,DQ
+ironman-70.3-pula-20170917.csv,160,Roberto Locatelli,51,Milano,ITA,00:01:02,02:55:27,01:43:02,00:02:30,00:03:45,04:45:46
+ironman-70.3-pula-20170917.csv,161,Jens Traunsberger,52,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,162,Bruno Grand,39,---,FRA,00:00:40,02:35:28,01:37:16,00:01:01,00:02:11,04:16:36
+ironman-70.3-pula-20170917.csv,163,Robert Kathan,38,---,AUT,00:00:46,02:30:03,---,00:01:37,00:03:30,DNF
+ironman-70.3-pula-20170917.csv,164,Gessica Sarti,44,ravenna,ITA,00:00:52,03:01:24,01:49:49,00:01:36,00:03:32,04:57:13
+ironman-70.3-pula-20170917.csv,165,Martin Desmyttere,60,---,DEU,00:00:42,03:04:46,01:50:17,00:01:24,00:04:55,05:02:04
+ironman-70.3-pula-20170917.csv,166,Florian Riemer,40,---,AUT,00:00:53,02:48:17,---,00:01:11,00:02:46,DNF
+ironman-70.3-pula-20170917.csv,167,Christoph Von Felten,48,---,CHE,00:00:52,02:48:48,01:40:01,00:01:19,00:01:55,04:32:55
+ironman-70.3-pula-20170917.csv,168,Susanna Rickenbach,47,---,CHE,00:00:59,03:00:32,01:58:10,00:01:38,00:05:04,05:06:23
+ironman-70.3-pula-20170917.csv,169,Jaroslav Hyzl,48,Czech republik,CZE,00:00:49,02:33:14,01:34:20,00:01:10,00:02:16,04:11:49
+ironman-70.3-pula-20170917.csv,170,Alessandro Rigo,39,Verona,ITA,00:00:43,02:35:45,01:46:24,00:00:54,00:01:49,04:25:35
+ironman-70.3-pula-20170917.csv,171,Flo Brungraber,32,---,AUT,---,03:12:20,01:09:10,---,00:01:21,04:22:51
+ironman-70.3-pula-20170917.csv,172,Jan Kundrát,30,Valašské Meziříčí,CZE,00:00:39,02:29:02,01:34:03,00:00:58,00:01:47,04:06:29
+ironman-70.3-pula-20170917.csv,173,Gerhard Maynhardt,52,---,AUT,00:00:41,03:06:00,02:13:50,00:02:31,00:03:13,05:26:15
+ironman-70.3-pula-20170917.csv,174,Dmitry Nemkov,34,ME,RUS,00:00:44,02:45:33,01:40:29,00:01:58,00:02:43,04:31:27
+ironman-70.3-pula-20170917.csv,175,Margarethe Schieder,52,---,AUT,00:00:46,03:16:40,01:51:54,00:01:21,00:02:28,05:13:09
+ironman-70.3-pula-20170917.csv,176,Kurt Lichtkoppler,46,---,AUT,00:00:45,02:35:13,01:25:42,00:01:04,00:02:11,04:04:55
+ironman-70.3-pula-20170917.csv,177,Uwe Fritz,53,---,DEU,00:00:53,02:38:45,01:41:19,00:01:27,00:02:32,04:24:56
+ironman-70.3-pula-20170917.csv,178,Massimo Giacopuzzi,36,VERONA,ITA,00:00:37,02:32:20,01:28:15,00:01:01,00:02:00,04:04:13
+ironman-70.3-pula-20170917.csv,179,Stefano Ciarleglio,51,trento,ITA,00:00:52,02:54:15,01:43:38,00:01:41,00:02:43,04:43:09
+ironman-70.3-pula-20170917.csv,180,Alessandro Soprano,42,Italia,ITA,00:00:41,02:46:00,02:00:28,00:01:03,00:02:14,04:50:26
+ironman-70.3-pula-20170917.csv,181,Ghislain Revillard,37,---,FRA,00:00:35,02:42:24,02:01:00,00:00:52,00:02:32,04:47:23
+ironman-70.3-pula-20170917.csv,182,Olivier Dubuis,50,---,CHE,00:00:48,02:38:20,01:57:20,00:01:40,00:02:47,04:40:55
+ironman-70.3-pula-20170917.csv,183,Vladimir Constantin,49,---,CHE,00:00:49,03:11:43,02:21:30,00:01:38,00:02:27,05:38:07
+ironman-70.3-pula-20170917.csv,184,Gregorio Bonadio,34,---,CHE,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,185,Laure Langlacé,31,---,FRA,00:00:43,03:01:42,01:58:20,00:01:03,00:03:09,05:04:57
+ironman-70.3-pula-20170917.csv,186,Michel Mooser,60,---,CHE,00:00:51,03:15:09,02:20:38,00:02:12,00:04:29,05:43:19
+ironman-70.3-pula-20170917.csv,187,Olivier Kilchenmann,37,---,CHE,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,188,Andreas Kurbatfinski,38,---,DEU,00:00:55,03:14:06,02:33:00,00:03:12,00:04:59,05:56:12
+ironman-70.3-pula-20170917.csv,189,Dennis Schüdel,39,---,DEU,00:00:47,02:50:40,02:22:02,00:01:30,00:02:58,05:17:57
+ironman-70.3-pula-20170917.csv,190,Ole Jacobsen,48,---,DEU,00:00:44,02:37:38,01:37:42,00:00:54,00:01:55,04:18:53
+ironman-70.3-pula-20170917.csv,191,Riccardo Bertolotti,39,---,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,192,Andreas Gaubatz,37,---,DEU,00:00:43,02:43:14,01:34:27,00:00:58,00:02:35,04:21:57
+ironman-70.3-pula-20170917.csv,193,Miroslav Jircik,41,Czech,CZE,00:00:43,02:49:09,02:12:21,00:01:24,00:02:56,05:06:33
+ironman-70.3-pula-20170917.csv,194,Tomas Strnad,47,Pardubice,CZE,00:00:40,02:56:38,01:50:32,00:01:07,00:01:45,04:50:42
+ironman-70.3-pula-20170917.csv,195,Ludek Novotny,54,CZ,CZE,00:00:49,02:51:22,02:06:40,00:01:30,00:03:06,05:03:27
+ironman-70.3-pula-20170917.csv,196,Mirek Capoušek,47,Czech republic,CZE,00:00:48,02:36:10,01:53:57,00:01:00,00:02:43,04:34:38
+ironman-70.3-pula-20170917.csv,197,Ondrej Wiedermann,28,Pardubický,CZE,00:00:41,02:43:06,01:48:34,00:01:05,00:02:08,04:35:34
+ironman-70.3-pula-20170917.csv,198,Zbynek Heger,51,CZ,CZE,00:00:49,03:01:57,02:07:25,00:01:48,00:04:54,05:16:53
+ironman-70.3-pula-20170917.csv,199,Viliam Faber,55,Czech Republic,CZE,00:00:50,03:06:03,02:16:57,00:01:37,00:02:20,05:27:47
+ironman-70.3-pula-20170917.csv,200,Fabrizio Di Sabatino,47,GIULIANOVA,ITA,00:00:56,02:55:14,02:31:20,00:01:49,00:03:56,05:33:15
+ironman-70.3-pula-20170917.csv,201,Mattia Gaglioti,26,ITA,ITA,00:00:38,02:45:29,01:58:57,00:01:01,00:02:24,04:48:29
+ironman-70.3-pula-20170917.csv,202,Giovanni Brunetti,45,Udine italia,ITA,00:00:58,02:56:24,02:04:29,00:01:57,00:04:00,05:07:48
+ironman-70.3-pula-20170917.csv,203,Guiseppe Albertini,50,Ascoli Piceno,ITA,00:00:54,03:08:49,02:16:46,00:02:01,00:03:15,05:31:45
+ironman-70.3-pula-20170917.csv,204,Tobias Kleeli,31,---,CHE,00:00:53,02:33:57,01:53:43,00:01:05,00:02:07,04:31:45
+ironman-70.3-pula-20170917.csv,205,Roberto Coronato,51,RM,ITA,00:00:55,03:17:21,02:15:32,00:02:01,00:04:36,05:40:25
+ironman-70.3-pula-20170917.csv,206,Christian Rosenzopf,31,---,AUT,00:00:46,02:58:00,02:03:44,00:02:07,00:04:58,05:09:35
+ironman-70.3-pula-20170917.csv,207,Michael Schacherhofer,37,---,AUT,00:00:54,02:59:29,02:17:56,00:02:51,00:02:49,05:23:59
+ironman-70.3-pula-20170917.csv,208,Lars Alenius,58,---,SWE,00:00:45,02:58:13,02:36:40,00:01:04,00:02:45,05:39:27
+ironman-70.3-pula-20170917.csv,209,Lena Isgren,56,---,SWE,00:00:53,02:56:04,02:09:43,00:01:28,00:02:38,05:10:46
+ironman-70.3-pula-20170917.csv,210,Sara Hart,40,DXB,DEU,00:00:58,03:01:15,02:36:16,00:01:46,00:04:20,05:44:35
+ironman-70.3-pula-20170917.csv,211,Christopher Jay Hart,42,DXB,USA,00:00:51,03:19:10,02:17:03,00:01:53,00:06:20,05:45:17
+ironman-70.3-pula-20170917.csv,212,Erdni Kuskiev,29,---,RUS,00:00:41,03:07:52,02:23:30,00:01:33,00:03:34,05:37:10
+ironman-70.3-pula-20170917.csv,213,Pavel Simakhov,34,Moscow,RUS,00:00:42,03:05:09,03:09:36,00:02:25,00:05:29,06:23:21
+ironman-70.3-pula-20170917.csv,214,Arseniy Eliseev,30,Moscow,RUS,00:00:46,02:41:06,01:28:00,00:01:00,00:02:53,04:13:45
+ironman-70.3-pula-20170917.csv,215,Sandra Richter,49,---,DEU,00:00:54,03:03:02,02:17:29,00:01:50,00:02:21,05:25:36
+ironman-70.3-pula-20170917.csv,216,Mark Sexton,55,NSW,AUS,00:00:53,03:37:17,02:45:00,00:01:25,00:05:27,06:30:02
+ironman-70.3-pula-20170917.csv,217,Beverley Woods,54,NSW,AUS,00:01:01,03:53:16,02:31:04,00:01:54,00:03:56,06:31:11
+ironman-70.3-pula-20170917.csv,218,Tim Sanker,52,IL,USA,00:00:53,03:46:26,03:17:13,00:03:15,00:06:56,07:14:43
+ironman-70.3-pula-20170917.csv,219,Anne Statton,53,IL,USA,00:01:30,03:50:39,03:30:25,00:02:56,00:05:13,07:30:43
+ironman-70.3-pula-20170917.csv,220,Natalie Mort,58,NSW,AUS,00:00:57,03:21:39,01:54:30,00:02:34,00:04:04,05:23:44
+ironman-70.3-pula-20170917.csv,221,Dragoljub Nesic,47,---,SWE,00:00:49,03:09:51,01:49:57,00:01:12,00:06:17,05:08:06
+ironman-70.3-pula-20170917.csv,222,Stephan Kröller,29,---,DEU,00:00:35,02:30:10,01:47:27,00:01:03,00:02:37,04:21:52
+ironman-70.3-pula-20170917.csv,223,Matthias Danzmayr,30,---,AUT,00:00:42,02:47:40,01:40:15,00:01:03,00:01:52,04:31:32
+ironman-70.3-pula-20170917.csv,224,Christian Schmid,28,---,DEU,00:00:41,02:47:03,01:40:17,00:01:26,00:02:24,04:31:51
+ironman-70.3-pula-20170917.csv,225,Roberto Fabbri,48,RA,ITA,00:00:54,02:44:52,01:41:34,00:01:54,00:02:31,04:31:45
+ironman-70.3-pula-20170917.csv,226,Luca Dalla Pria,37,Vicenza,ITA,00:01:04,03:17:49,02:17:23,00:02:20,00:07:55,05:46:31
+ironman-70.3-pula-20170917.csv,227,Michele Brussa,40,Italia,ITA,00:00:46,02:50:38,02:14:59,00:01:06,00:03:51,05:11:20
+ironman-70.3-pula-20170917.csv,228,Mirjana Frankovic,44,Ljubljana,SVN,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,229,Klemen Šuligoj,23,Slovenija,SVN,00:00:54,03:00:39,01:28:26,00:02:20,00:03:03,04:35:22
+ironman-70.3-pula-20170917.csv,230,Lovro Kink,50,Slovenija,SVN,00:00:55,03:01:25,02:04:31,00:02:34,00:02:22,05:11:47
+ironman-70.3-pula-20170917.csv,231,Gregor Zemljaric,34,/,SVN,00:01:07,03:24:18,02:34:48,00:02:50,00:05:33,06:08:36
+ironman-70.3-pula-20170917.csv,232,Helena Šuligoj,49,Slovenija,SVN,00:00:55,03:33:51,02:10:04,00:02:36,00:03:23,05:50:49
+ironman-70.3-pula-20170917.csv,233,Valerio Niccolai,29,SP,ITA,00:00:41,02:46:02,01:53:45,00:01:19,00:03:44,04:45:31
+ironman-70.3-pula-20170917.csv,234,Claudio Giannini,39,La Spezia,ITA,00:00:55,03:05:12,02:19:07,00:03:03,00:02:42,05:30:59
+ironman-70.3-pula-20170917.csv,235,Claudia Bertoloni,41,Massa carrara,ITA,00:00:42,02:59:16,02:00:41,00:01:30,00:02:34,05:04:43
+ironman-70.3-pula-20170917.csv,236,Diego Rossi,31,Italia,ITA,00:00:43,02:45:27,01:55:00,00:01:12,00:02:26,04:44:48
+ironman-70.3-pula-20170917.csv,237,Michele Guastini,44,la spezia,ITA,00:00:42,02:34:42,01:50:22,00:01:15,00:03:44,04:30:45
+ironman-70.3-pula-20170917.csv,238,marco toracca,47,SP,ITA,00:00:54,03:17:54,02:24:39,00:03:09,00:03:41,05:50:17
+ironman-70.3-pula-20170917.csv,239,Jason Ensor,39,---,ZAF,00:00:50,03:12:04,02:04:38,00:01:33,00:04:40,05:23:45
+ironman-70.3-pula-20170917.csv,240,Claudio Palada,50,ITALIA,ITA,00:00:43,03:07:19,02:24:10,00:01:00,00:03:32,05:36:44
+ironman-70.3-pula-20170917.csv,241,Davide Renzi,40,LC,ITA,00:00:44,02:53:02,01:48:05,00:01:35,00:06:42,04:50:08
+ironman-70.3-pula-20170917.csv,242,Carmen Veruette,49,London,PAN,00:00:54,04:30:42,---,00:04:22,---,DNF
+ironman-70.3-pula-20170917.csv,243,Alfred Kochanowski,48,---,AUT,00:00:50,02:51:12,01:43:14,00:01:28,00:02:07,04:38:51
+ironman-70.3-pula-20170917.csv,244,Vicente Carvalho,32,sao paulo,BRA,00:00:59,03:22:18,02:38:09,00:02:13,00:04:47,06:08:26
+ironman-70.3-pula-20170917.csv,245,Ronaldo Alves Ferreira Filho,---,---,BRA,00:01:01,03:32:28,02:29:40,00:02:13,00:03:07,06:08:29
+ironman-70.3-pula-20170917.csv,246,Marko Femc,43,Slovenija,SVN,00:00:53,03:30:44,02:18:57,00:02:29,00:04:13,05:57:16
+ironman-70.3-pula-20170917.csv,247,Line Høyheim,47,---,NOR,00:00:47,02:55:43,02:04:30,00:01:25,00:02:49,05:05:14
+ironman-70.3-pula-20170917.csv,248,Thomas Kruse,44,---,NOR,00:00:51,03:07:38,02:55:21,00:01:57,00:07:12,06:12:59
+ironman-70.3-pula-20170917.csv,249,Caroline Rakowitz,35,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,250,Bernd Barounig,40,---,AUT,00:00:43,02:32:46,01:35:22,00:01:11,00:02:54,04:12:56
+ironman-70.3-pula-20170917.csv,251,Stefano Rovida,46,Milano,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,252,Matteo Fornasati,41,pavia,ITA,00:00:58,02:55:52,01:47:27,00:01:25,00:03:01,04:48:43
+ironman-70.3-pula-20170917.csv,253,Marco Migliavacca,30,MI,ITA,00:00:54,02:58:26,02:09:16,00:02:05,00:02:05,05:12:46
+ironman-70.3-pula-20170917.csv,254,Emanuele Tulli,41,ITalia,ITA,00:00:53,02:45:07,01:52:04,00:01:22,00:01:42,04:41:08
+ironman-70.3-pula-20170917.csv,255,Andrea Re,53,PAVIA,ITA,00:00:58,02:45:10,01:44:53,00:01:12,00:01:55,04:34:08
+ironman-70.3-pula-20170917.csv,256,Brendan Mcsweeney,49,WA,AUS,00:00:49,02:47:16,02:04:30,00:02:36,00:05:16,05:00:27
+ironman-70.3-pula-20170917.csv,257,Sascha Piroutz,27,---,AUT,00:00:41,02:38:00,01:51:15,00:01:24,00:02:47,04:34:07
+ironman-70.3-pula-20170917.csv,258,Klaus Kogler,54,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,259,Johannes Hierner,35,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,260,Jochen Fischer,45,---,AUT,00:00:49,---,---,00:01:39,---,DNF
+ironman-70.3-pula-20170917.csv,261,Günther Greck,39,---,AUT,00:00:39,02:38:12,01:37:07,00:01:03,00:02:19,04:19:20
+ironman-70.3-pula-20170917.csv,262,Dirk Wessollek,40,---,AUT,00:00:48,03:07:17,02:50:46,00:01:38,00:03:28,06:03:57
+ironman-70.3-pula-20170917.csv,263,David Koster,27,---,CHE,00:00:31,02:34:18,01:39:45,00:01:21,00:01:41,04:17:36
+ironman-70.3-pula-20170917.csv,264,David Catela,37,---,SWE,00:00:45,02:52:36,02:06:49,00:01:32,00:03:05,05:04:47
+ironman-70.3-pula-20170917.csv,265,Ernst Kratky,49,---,AUT,00:00:54,02:51:20,02:07:15,00:01:10,00:02:31,05:03:10
+ironman-70.3-pula-20170917.csv,266,Marlena Polec,30,---,POL,00:00:51,02:56:58,01:49:01,00:01:34,00:02:39,04:51:03
+ironman-70.3-pula-20170917.csv,267,Carla Botha,34,AUH,USA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,268,Simone Perasso,44,CR,ITA,00:00:55,03:07:31,01:56:40,00:01:37,00:03:50,05:10:33
+ironman-70.3-pula-20170917.csv,269,Neven Babin,38,PGŽ,HRV,00:00:51,03:06:29,02:47:59,00:02:32,00:04:43,06:02:34
+ironman-70.3-pula-20170917.csv,270,Bruce Halladay,50,na,CAN,00:00:48,03:11:02,02:23:05,00:01:42,00:02:51,05:39:28
+ironman-70.3-pula-20170917.csv,271,Manfred Scheikl,48,---,AUT,00:00:34,02:36:10,01:47:29,00:01:44,00:02:56,04:28:53
+ironman-70.3-pula-20170917.csv,272,Tamas Pocza,34,---,HUN,00:00:42,02:38:06,01:49:10,00:01:04,00:03:42,04:32:44
+ironman-70.3-pula-20170917.csv,273,Paul Adams,54,Dorset,GBR,00:00:56,02:44:50,01:48:33,00:01:26,00:02:15,04:38:00
+ironman-70.3-pula-20170917.csv,274,Christian Hofer,42,---,AUT,00:00:52,02:53:21,01:56:59,00:01:25,00:02:26,04:55:03
+ironman-70.3-pula-20170917.csv,275,Aleksandra Andreeva,29,---,RUS,00:00:54,04:15:41,02:47:07,00:01:58,00:05:51,07:11:31
+ironman-70.3-pula-20170917.csv,276,Milos Tazky,32,Slovakia,SVK,00:00:48,02:47:56,02:07:02,00:01:26,00:02:41,04:59:53
+ironman-70.3-pula-20170917.csv,277,Alexei Kiselev,46,Moscow,RUS,00:00:44,03:05:13,03:09:37,00:02:27,00:05:28,06:23:29
+ironman-70.3-pula-20170917.csv,278,Shellie Heggenberger,45,OR,USA,00:01:01,03:34:24,02:31:35,00:02:54,00:06:43,06:16:37
+ironman-70.3-pula-20170917.csv,279,Timo Heggenberger,54,---,USA,00:01:03,03:34:24,02:31:34,00:02:51,00:06:45,06:16:37
+ironman-70.3-pula-20170917.csv,280,Cristian Carini,37,Brescia,ITA,00:00:55,02:54:43,02:11:35,00:01:42,00:03:22,05:12:17
+ironman-70.3-pula-20170917.csv,281,Lisa Watschinger,25,Bozen,ITA,00:00:42,02:51:49,01:44:45,00:01:04,00:01:35,04:39:55
+ironman-70.3-pula-20170917.csv,282,John Mckelvie,54,WA,AUS,00:00:50,02:46:08,01:44:37,00:01:57,00:02:57,04:36:29
+ironman-70.3-pula-20170917.csv,283,Andrea Gelli,44,firenze,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,284,Wolfango Poggi,41,FI,ITA,00:00:52,03:08:05,01:58:40,00:01:48,00:02:47,05:12:12
+ironman-70.3-pula-20170917.csv,285,Mauro Ghinfanti,52,Italia,ITA,00:00:44,03:12:35,01:56:09,00:01:04,00:02:57,05:13:29
+ironman-70.3-pula-20170917.csv,286,Ronald Galik,48,Slovakia,SVK,00:00:47,03:06:53,02:27:31,00:01:37,00:04:39,05:41:27
+ironman-70.3-pula-20170917.csv,287,Michal Maliarik,41,Slovakia,SVK,00:00:53,02:58:00,02:09:50,00:01:52,00:03:14,05:13:49
+ironman-70.3-pula-20170917.csv,288,Ivan Gálik,25,Trnavský Kraj,SVK,00:00:50,02:44:39,01:50:38,00:01:47,00:02:26,04:40:20
+ironman-70.3-pula-20170917.csv,289,Jakub Hollósy,31,Slovak Republic,SVK,00:00:41,03:22:35,02:04:49,00:01:30,00:07:44,05:37:19
+ironman-70.3-pula-20170917.csv,290,Branislav Lányi,24,Slovakia,SVK,00:00:45,02:49:29,01:51:50,00:01:53,00:03:14,04:47:11
+ironman-70.3-pula-20170917.csv,291,Lore Timmermans,29,---,BEL,00:00:59,03:15:32,02:12:12,00:01:41,00:03:09,05:33:33
+ironman-70.3-pula-20170917.csv,292,Axel Peeters,28,---,BEL,00:00:44,03:06:49,02:22:48,00:02:47,00:03:26,05:36:34
+ironman-70.3-pula-20170917.csv,293,Dany Giorgetta,59,---,FRA,00:00:57,03:07:38,02:09:46,00:01:53,00:02:13,05:22:27
+ironman-70.3-pula-20170917.csv,294,Thomas Dietel,41,---,AUT,00:00:38,02:53:29,02:15:27,00:01:29,00:03:10,05:14:13
+ironman-70.3-pula-20170917.csv,295,Bastian Diebald,36,---,AUT,00:00:51,02:55:21,02:12:02,00:01:49,00:03:17,05:13:20
+ironman-70.3-pula-20170917.csv,296,Stuart Scott,25,Down,GBR,00:00:46,03:08:38,02:30:06,00:01:54,00:03:58,05:45:22
+ironman-70.3-pula-20170917.csv,297,Agnese Casu,51,Cagliari,ITA,00:00:46,03:26:08,02:32:24,00:02:08,00:05:13,06:06:39
+ironman-70.3-pula-20170917.csv,298,Iena Noviello,52,italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,299,Francesco Faella,49,BO,ITA,00:00:55,03:25:34,01:56:50,00:01:58,00:06:50,05:32:07
+ironman-70.3-pula-20170917.csv,300,Oleg Solovey,44,---,UKR,00:00:39,03:18:49,02:07:12,00:02:07,00:05:24,05:34:11
+ironman-70.3-pula-20170917.csv,301,Claudio Barchitta,54,Venezia,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,302,Ashley Jackson,30,Somerset,GBR,00:00:39,02:29:56,01:35:39,00:00:59,00:01:39,04:08:52
+ironman-70.3-pula-20170917.csv,303,Tina Rogers,33,ON,CAN,00:00:46,03:05:04,01:54:51,00:01:20,00:02:17,05:04:18
+ironman-70.3-pula-20170917.csv,304,Giorgio Campanella,30,pe,ITA,00:00:49,02:53:02,02:14:12,00:02:04,00:03:01,05:13:08
+ironman-70.3-pula-20170917.csv,305,Lindsay Griffiths,33,Cheshire,GBR,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,306,Aleksandr Kugaevskiy,36,---,RUS,00:00:41,03:12:53,02:19:03,00:02:03,00:03:17,05:37:57
+ironman-70.3-pula-20170917.csv,307,Reinhard Hornig,54,---,AUT,00:00:44,02:50:00,02:05:06,00:01:14,00:02:51,04:59:55
+ironman-70.3-pula-20170917.csv,308,Thomas Fedinger,36,---,DEU,00:00:33,02:35:58,01:38:43,00:00:59,00:01:48,04:18:01
+ironman-70.3-pula-20170917.csv,309,Paul Günther,38,---,DEU,00:00:28,02:33:10,01:27:58,00:00:59,00:01:26,04:04:01
+ironman-70.3-pula-20170917.csv,310,Daniele Mazzola,53,---,CHE,00:00:44,02:54:25,02:09:18,00:01:46,00:03:48,05:10:01
+ironman-70.3-pula-20170917.csv,311,Gerald Pietsch,56,---,DEU,00:00:55,03:09:02,02:18:44,00:01:27,00:02:50,05:32:58
+ironman-70.3-pula-20170917.csv,312,Kirsten Beßmann-Wernke,53,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,313,Bettina Zarth,52,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,314,Mladen Mestrovic,48,Intl State,HRV,00:00:40,03:06:19,01:43:59,00:01:37,00:02:37,04:55:12
+ironman-70.3-pula-20170917.csv,315,Marcin Maslowski,41,---,POL,00:00:50,03:11:23,02:07:38,00:02:50,00:03:04,05:25:45
+ironman-70.3-pula-20170917.csv,316,Thomas Galda,35,---,AUT,00:00:46,02:47:10,01:47:13,00:01:37,00:02:21,04:39:07
+ironman-70.3-pula-20170917.csv,317,Franz Wrulich,50,---,AUT,00:00:41,02:43:41,01:44:35,00:01:14,00:02:00,04:32:11
+ironman-70.3-pula-20170917.csv,318,Anton Skrlep,68,ljubljana,SVN,00:01:07,03:00:41,02:25:32,00:01:55,00:03:16,05:32:31
+ironman-70.3-pula-20170917.csv,319,Cedric Bouchage,39,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,320,Etienne Wirz,35,---,CHE,00:00:46,02:34:32,01:39:02,00:01:06,00:01:29,04:16:55
+ironman-70.3-pula-20170917.csv,321,Guillaume De Cock,32,---,CHE,00:00:39,02:43:36,01:41:42,00:01:03,00:02:09,04:29:09
+ironman-70.3-pula-20170917.csv,322,Jakub Krysiak,22,---,POL,00:00:50,02:58:59,02:23:01,00:01:01,00:02:20,05:26:11
+ironman-70.3-pula-20170917.csv,323,Marcin Dziamski,34,---,POL,00:00:47,03:11:39,02:26:36,00:01:15,00:02:45,05:43:02
+ironman-70.3-pula-20170917.csv,324,Marcin Dwojewski,38,---,POL,00:00:56,02:55:16,01:24:57,00:01:32,00:01:58,04:24:39
+ironman-70.3-pula-20170917.csv,325,Marco Göckus,48,---,DEU,00:00:36,02:29:54,01:32:39,00:00:50,00:01:54,04:05:53
+ironman-70.3-pula-20170917.csv,326,Marcus Kancz,32,---,AUT,00:00:38,02:40:53,01:43:39,00:01:11,00:02:28,04:28:49
+ironman-70.3-pula-20170917.csv,327,Matthew Glynn,39,AUH,CAN,00:00:40,02:48:21,01:59:55,00:01:04,00:02:10,04:52:10
+ironman-70.3-pula-20170917.csv,328,Sofoklis Kokkinis,36,APO,GRC,00:01:00,03:16:40,02:17:31,00:02:32,00:06:45,05:44:28
+ironman-70.3-pula-20170917.csv,329,Derry O'Neill,50,---,GBR,00:01:04,03:52:58,02:47:41,00:02:26,00:05:19,06:49:28
+ironman-70.3-pula-20170917.csv,330,Dieter Lüscher,54,---,CHE,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,331,Gerald Krumholz,55,---,AUT,00:00:53,02:52:11,01:55:18,00:01:12,00:02:16,04:51:50
+ironman-70.3-pula-20170917.csv,332,Goran Jakovac,54,Grad Zagreb,HRV,00:00:59,02:47:20,01:46:41,00:01:58,00:04:26,04:41:24
+ironman-70.3-pula-20170917.csv,333,Peter Grilc,56,Province,SVN,00:00:42,02:36:57,01:36:47,00:01:42,00:04:17,04:20:25
+ironman-70.3-pula-20170917.csv,334,Kurt Burger,53,---,AUT,00:00:47,02:55:08,02:04:04,00:01:20,00:03:22,05:04:41
+ironman-70.3-pula-20170917.csv,335,Maksim Shulga,45,---,RUS,00:00:52,02:59:41,02:14:47,00:01:18,00:03:45,05:20:23
+ironman-70.3-pula-20170917.csv,336,Marcus Petroni,43,---,CHE,00:00:43,02:44:14,02:20:12,00:01:16,00:02:59,05:09:24
+ironman-70.3-pula-20170917.csv,337,Zdravko Hanak,61,---,HRV,00:00:55,03:30:08,01:57:04,00:02:00,00:04:19,05:34:26
+ironman-70.3-pula-20170917.csv,338,Daniele De Paz,43,Bologna,ITA,00:00:47,02:45:24,02:06:51,00:01:40,00:02:29,04:57:11
+ironman-70.3-pula-20170917.csv,339,Kristof La Heyne,40,---,BEL,00:00:46,02:40:03,01:42:29,00:01:31,00:03:46,04:28:35
+ironman-70.3-pula-20170917.csv,341,Amber Gallaway,24,MN,USA,00:00:52,03:27:19,02:38:13,00:01:45,00:06:33,06:14:42
+ironman-70.3-pula-20170917.csv,342,Julie Gonzalez,23,---,FRA,00:00:48,03:04:15,02:03:57,00:01:09,00:02:39,05:12:48
+ironman-70.3-pula-20170917.csv,343,Tjaša Kmet,23,Zasavje,SVN,00:00:40,03:13:42,01:58:17,00:01:34,00:03:22,05:17:35
+ironman-70.3-pula-20170917.csv,344,Neža Patricija Kurnik,18,APO,SVN,00:00:40,03:26:58,02:09:35,00:01:28,00:02:57,05:41:38
+ironman-70.3-pula-20170917.csv,345,Anna Selnikova,23,Moravskoslezský kraj,CZE,00:00:48,03:06:38,02:01:03,00:01:24,00:03:03,05:12:56
+ironman-70.3-pula-20170917.csv,346,Xiaoyan Bian,29,NY,CHN,00:00:54,03:25:40,02:38:56,00:02:09,00:06:19,06:13:58
+ironman-70.3-pula-20170917.csv,347,Brigid Calhoun,28,AE,USA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,348,Kelsey Clark,26,---,ZAF,00:00:49,04:26:33,02:31:58,00:02:04,00:05:03,07:06:27
+ironman-70.3-pula-20170917.csv,349,Talisa Dauz,29,AE,USA,00:00:40,03:11:12,02:09:47,00:01:39,00:03:49,05:27:07
+ironman-70.3-pula-20170917.csv,350,Nadia Jannet Davel,28,---,---,00:00:46,03:55:02,02:19:57,00:01:25,00:03:26,06:20:36
+ironman-70.3-pula-20170917.csv,351,Ekaterina Dronova,28,"
+Moscow",RUS,00:00:59,03:45:04,02:30:12,00:01:44,00:03:22,06:21:21
+ironman-70.3-pula-20170917.csv,352,Anne Englebert-Jung,26,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,353,Enrica Fontana,28,Treviso,ITA,00:00:50,03:21:54,01:57:47,00:01:29,00:02:32,05:24:32
+ironman-70.3-pula-20170917.csv,354,Dominique Fournier,28,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,355,Jennifer Lee Gunthrie,24,TX,USA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,356,Melanie Gurney,25,---,GBR,00:00:49,03:17:57,01:57:22,00:01:33,00:02:25,05:20:06
+ironman-70.3-pula-20170917.csv,357,Kathrin Karnicar,26,---,AUT,00:00:50,03:17:21,02:06:05,00:01:51,00:02:58,05:29:05
+ironman-70.3-pula-20170917.csv,358,Šárka Mazálková,29,Czechia,CZE,00:00:50,03:08:00,02:01:54,00:01:21,00:03:35,05:15:40
+ironman-70.3-pula-20170917.csv,359,Dana Molnarova,26,Bratislava,SVK,00:01:03,03:02:20,01:53:30,00:01:46,00:03:03,05:01:42
+ironman-70.3-pula-20170917.csv,360,Brae Mort,27,Dublin,AUS,00:00:48,03:32:13,01:57:14,00:01:29,00:03:28,05:35:12
+ironman-70.3-pula-20170917.csv,361,Tina Petric,26,Slovenia,SVN,00:00:45,03:20:53,02:19:50,00:01:54,00:03:20,05:46:42
+ironman-70.3-pula-20170917.csv,362,Nahyeli Pizio,27,Bergamo,ITA,00:00:52,03:22:54,02:17:37,00:01:41,00:05:24,05:48:28
+ironman-70.3-pula-20170917.csv,363,Anna Russkikh,26,---,RUS,00:00:36,03:11:05,01:42:21,00:02:01,00:01:39,04:57:42
+ironman-70.3-pula-20170917.csv,364,Katrin Semmelrock,28,---,AUT,00:00:40,02:47:32,01:54:57,00:01:01,00:02:12,04:46:22
+ironman-70.3-pula-20170917.csv,365,Olga Siruk,28,---,RUS,00:00:53,03:45:51,---,00:01:47,00:06:20,DNF
+ironman-70.3-pula-20170917.csv,366,Julia Sydow,28,---,DEU,00:00:41,02:47:49,01:41:56,00:01:08,00:02:22,04:33:56
+ironman-70.3-pula-20170917.csv,367,Ali Wheeler,28,AE,USA,00:00:53,03:23:29,02:12:08,00:01:43,00:07:37,05:45:50
+ironman-70.3-pula-20170917.csv,368,Chiara Ciuffini,31,Italia,ITA,00:00:50,02:40:08,01:52:37,00:01:47,00:02:58,04:38:20
+ironman-70.3-pula-20170917.csv,369,Michela Conti,33,Verona,ITA,00:01:00,03:56:45,02:40:47,00:02:57,00:07:19,06:48:48
+ironman-70.3-pula-20170917.csv,370,Andrea Eugster,31,---,CHE,00:00:43,02:49:11,01:39:03,00:01:07,00:02:14,04:32:18
+ironman-70.3-pula-20170917.csv,371,Kristyna Hajkova,32,Praha,CZE,00:00:48,02:56:18,01:42:56,00:01:28,00:01:53,04:43:23
+ironman-70.3-pula-20170917.csv,372,Gemma Horner,31,North Yorkshire ,GBR,00:00:51,04:14:34,02:46:45,00:01:11,00:03:04,07:06:25
+ironman-70.3-pula-20170917.csv,373,Lea Huggenberger,29,---,CHE,00:00:45,02:49:39,01:56:53,00:01:12,00:03:49,04:52:18
+ironman-70.3-pula-20170917.csv,374,Roman Gawroński,36,---,POL,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,375,Corinna Kaussen,33,---,DEU,00:00:42,03:02:20,02:25:22,00:02:02,00:02:30,05:32:56
+ironman-70.3-pula-20170917.csv,376,Helen Kock,34,---,ZAF,00:00:55,03:29:26,02:22:38,00:04:54,00:10:16,06:08:09
+ironman-70.3-pula-20170917.csv,377,Emma Lambert,32,---,GBR,00:01:03,03:30:22,02:58:27,00:01:57,00:05:46,06:37:35
+ironman-70.3-pula-20170917.csv,378,Urszula Lapawa,33,---,POL,00:00:51,03:45:02,02:25:48,00:02:07,00:06:56,06:20:44
+ironman-70.3-pula-20170917.csv,379,Marize Maritz,31,---,ZAF,00:00:54,03:35:22,02:14:51,00:02:46,00:04:25,05:58:18
+ironman-70.3-pula-20170917.csv,380,Kimberley Maxwell,31,AE,USA,00:00:48,03:21:10,02:24:09,00:01:42,00:04:10,05:51:59
+ironman-70.3-pula-20170917.csv,381,Monika Mazur,31,---,POL,00:00:55,03:44:33,01:34:21,00:02:20,00:06:22,05:28:31
+ironman-70.3-pula-20170917.csv,382,Giulia Nonis Falconi,33,PN,ITA,00:01:09,03:48:59,02:33:01,00:02:24,00:05:49,06:31:22
+ironman-70.3-pula-20170917.csv,383,Jaqueline Pacher,33,---,AUT,00:00:45,03:08:05,02:00:01,00:01:29,00:01:59,05:12:19
+ironman-70.3-pula-20170917.csv,384,Mirjam Pack,34,---,AUT,00:00:45,03:15:10,02:13:22,00:02:04,00:02:52,05:34:13
+ironman-70.3-pula-20170917.csv,385,Alessandra Perin,31,tv,ITA,00:00:50,03:09:36,01:49:33,00:01:32,00:02:21,05:03:52
+ironman-70.3-pula-20170917.csv,386,Irena Schmid,34,---,HRV,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,387,Nadia Späni,32,---,CHE,00:00:46,03:03:25,02:02:28,00:01:28,00:04:25,05:12:32
+ironman-70.3-pula-20170917.csv,388,Lauren Stretch,32,---,ZAF,00:00:58,03:55:08,02:46:23,00:02:00,00:05:02,06:49:31
+ironman-70.3-pula-20170917.csv,389,Siobhan Thatcher,32,---,ZAF,00:00:52,03:37:51,02:54:24,00:02:09,00:05:19,06:40:35
+ironman-70.3-pula-20170917.csv,390,Annette Trippe,32,---,DEU,00:00:49,03:15:02,02:18:09,00:01:37,00:07:25,05:43:02
+ironman-70.3-pula-20170917.csv,391,Heather Vague,29,AE,USA,00:01:03,03:44:23,02:36:41,00:02:16,00:05:57,06:30:20
+ironman-70.3-pula-20170917.csv,392,Sonja Voboril,32,---,CHE,00:00:52,03:13:28,01:52:22,00:01:05,00:02:40,05:10:27
+ironman-70.3-pula-20170917.csv,393,Nina Werdonig,30,Maribor,SVN,00:01:01,03:33:30,02:49:03,00:02:39,00:08:29,06:34:42
+ironman-70.3-pula-20170917.csv,394,Joanna Witkiewicz,34,---,POL,00:00:51,03:47:15,02:50:13,00:01:18,00:04:15,06:43:52
+ironman-70.3-pula-20170917.csv,395,Dorothea Apicella,35,---,CHE,00:00:52,03:13:30,02:26:41,00:02:00,00:03:23,05:46:26
+ironman-70.3-pula-20170917.csv,396,Olivia Bolzer-Stanko,39,---,AUT,00:00:47,03:25:38,02:24:04,00:01:28,00:02:26,05:54:23
+ironman-70.3-pula-20170917.csv,397,Esthea De Villiers,38,---,ZAF,00:00:46,03:15:12,02:02:46,00:01:18,00:04:43,05:24:45
+ironman-70.3-pula-20170917.csv,398,Christine Dr. Kinzinger,39,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,399,Dani Dworzak,38,---,AUT,00:00:48,03:01:17,02:16:46,00:01:25,00:02:56,05:23:12
+ironman-70.3-pula-20170917.csv,400,Wendy Hendrikx,38,---,BEL,00:00:50,03:36:37,02:48:52,00:02:01,00:03:33,06:31:53
+ironman-70.3-pula-20170917.csv,401,Ola Mikolajczak,36,---,POL,00:00:55,03:37:29,02:30:38,00:01:53,00:04:09,06:15:04
+ironman-70.3-pula-20170917.csv,402,Kelly-Rae Mortimer,35,---,ZAF,00:00:58,03:49:47,02:37:03,00:02:22,00:05:51,06:36:01
+ironman-70.3-pula-20170917.csv,403,Francesca Nassini,38,AR,ITA,00:00:49,03:30:55,02:07:04,00:01:33,00:03:49,05:44:10
+ironman-70.3-pula-20170917.csv,404,Petra Ropret,36,Gorenjska,SVN,00:00:54,03:23:06,02:07:35,00:02:28,00:04:37,05:38:40
+ironman-70.3-pula-20170917.csv,405,Sanna Saksala,37,Uusimaa,FIN,00:00:47,03:07:13,02:22:46,00:02:24,00:03:37,05:36:47
+ironman-70.3-pula-20170917.csv,406,Birgit Schröttner,38,---,AUT,00:00:49,03:02:16,02:05:48,00:01:44,00:03:42,05:14:19
+ironman-70.3-pula-20170917.csv,407,Cornelia Schwaiger,34,---,AUT,00:00:50,03:07:07,02:12:09,00:01:44,00:02:39,05:24:29
+ironman-70.3-pula-20170917.csv,408,Barbara Somoskoi,37,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,409,Michelle Tristain,38,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,410,Monika Tschudi,34,---,CHE,00:00:43,02:42:45,01:35:26,00:01:00,00:01:45,04:21:39
+ironman-70.3-pula-20170917.csv,411,Petra Visnjic,36,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,412,Cristina Zanotti,39,Italia,ITA,00:00:54,03:23:44,02:02:58,00:01:14,00:02:17,05:31:07
+ironman-70.3-pula-20170917.csv,413,Susan Barrie,42,---,GBR,00:01:04,03:29:29,02:28:55,00:03:31,00:05:31,06:08:30
+ironman-70.3-pula-20170917.csv,414,Etreshia Coetzee,42,Eastern Cape,---,00:01:00,03:36:43,02:24:34,00:02:05,00:03:20,06:07:42
+ironman-70.3-pula-20170917.csv,415,Wendy Dal Zotto,40,Italia,ITA,00:00:53,03:31:00,02:16:33,00:02:23,00:03:43,05:54:32
+ironman-70.3-pula-20170917.csv,416,Helena Devetak,42,APO,SVN,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,417,Michela Dicintio,40,Italy,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,418,Sam Edwards,41,---,GBR,00:00:58,03:22:28,02:18:59,00:01:45,00:03:38,05:47:48
+ironman-70.3-pula-20170917.csv,419,Georgina Everett,41,---,GBR,00:00:48,03:10:02,02:00:31,00:01:19,00:02:42,05:15:22
+ironman-70.3-pula-20170917.csv,420,Ana Felicijan,42,Slovenia,SVN,00:00:53,02:55:34,01:49:57,00:01:42,00:03:52,04:51:58
+ironman-70.3-pula-20170917.csv,421,Marek Hejna,40,---,POL,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,422,Victoria Lodge,39,APO,GBR,00:00:45,03:03:10,01:56:27,00:01:49,00:02:35,05:04:46
+ironman-70.3-pula-20170917.csv,423,Angelika Möller,44,---,DEU,00:00:49,03:11:14,02:03:24,00:01:31,00:02:15,05:19:13
+ironman-70.3-pula-20170917.csv,424,Gina Monica Morales,44,italia,ITA,00:00:43,03:14:49,02:09:16,00:02:01,00:04:28,05:31:17
+ironman-70.3-pula-20170917.csv,425,Christine Ruckhofer,40,---,AUT,00:00:46,04:53:06,---,00:01:06,---,DNF
+ironman-70.3-pula-20170917.csv,426,Lisa Rushton,40,Worcestershire,GBR,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,427,Manuela Scharf,43,---,DEU,00:01:06,03:10:03,01:51:31,00:02:21,00:02:48,05:07:49
+ironman-70.3-pula-20170917.csv,428,Shannon Speights,43,AE,USA,00:00:48,03:20:30,02:06:17,00:02:05,00:04:32,05:34:12
+ironman-70.3-pula-20170917.csv,429,Resia Swart,44,---,ZAF,00:00:56,03:26:15,02:02:15,00:04:02,00:05:02,05:38:30
+ironman-70.3-pula-20170917.csv,430,Marie Vanova,40,Czech Rep.,CZE,00:00:54,03:06:55,02:11:13,00:01:35,00:02:41,05:23:18
+ironman-70.3-pula-20170917.csv,431,Nicole Zahradnicek,40,---,AUT,00:00:48,03:09:04,02:04:07,00:01:40,00:03:11,05:18:50
+ironman-70.3-pula-20170917.csv,432,Melanie Abromowitz,45,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,433,Klavdija Grum,45,Slovenia,SVN,00:00:52,02:59:44,02:09:07,00:02:09,00:04:42,05:16:34
+ironman-70.3-pula-20170917.csv,434,Heike Hartenberger,48,---,DEU,00:00:44,03:08:32,02:05:13,00:01:46,00:03:05,05:19:20
+ironman-70.3-pula-20170917.csv,435,Ilaria Iazzi,46,CREMONA,ITA,00:00:56,03:27:27,02:05:04,00:01:31,00:03:39,05:38:37
+ironman-70.3-pula-20170917.csv,436,Rika Ishida,46,Tokyo,---,00:00:51,03:42:23,02:16:37,00:02:13,00:06:51,06:08:55
+ironman-70.3-pula-20170917.csv,437,Janita Kallioinen,48,Kuopio,FIN,00:00:52,02:46:32,01:48:37,00:01:17,00:02:07,04:39:25
+ironman-70.3-pula-20170917.csv,438,Christina Kuehl,46,---,DEU,00:00:54,03:13:19,02:19:37,00:01:40,00:03:20,05:38:50
+ironman-70.3-pula-20170917.csv,439,Isabella Lazzarini,47,TV,ITA,00:01:01,03:27:18,02:18:27,00:02:20,00:04:17,05:53:23
+ironman-70.3-pula-20170917.csv,440,Irena Lukac,45,DC,SVN,00:00:50,03:13:02,02:08:26,00:01:41,00:04:33,05:28:32
+ironman-70.3-pula-20170917.csv,441,Mirna Marovic,45,Grad Zagreb,HRV,00:00:51,03:28:30,01:54:54,00:01:40,00:04:02,05:29:57
+ironman-70.3-pula-20170917.csv,442,Ksenija Oletic,45,Slovenia,SVN,00:00:59,03:34:49,02:15:56,00:02:14,00:06:48,06:00:46
+ironman-70.3-pula-20170917.csv,443,Elena Pollacchi,45,Ve,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,444,Leonie Rijk,44,---,NLD,00:00:49,02:59:11,02:34:31,00:01:23,00:04:18,05:40:12
+ironman-70.3-pula-20170917.csv,445,Judith Schober-Auferbauer,47,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,446,Geisler Sonja,48,---,DEU,00:00:53,03:23:06,02:00:57,00:01:42,00:03:45,05:30:23
+ironman-70.3-pula-20170917.csv,447,Angela Tamagnini,49,Italia,ITA,00:00:49,03:14:47,02:08:04,00:01:09,00:04:41,05:29:30
+ironman-70.3-pula-20170917.csv,448,Susanne Trageser,49,---,DEU,00:01:06,03:23:57,02:09:31,00:02:09,00:04:30,05:41:13
+ironman-70.3-pula-20170917.csv,449,Tracy Urquhart,46,ON,CAN,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,450,Glaucia Vargens,45,RJ,BRA,00:00:56,04:07:13,02:23:16,00:01:49,00:08:11,06:41:25
+ironman-70.3-pula-20170917.csv,451,Maja Volk,47,Slovenia,SVN,00:00:54,03:07:43,02:04:04,00:01:44,00:05:10,05:19:35
+ironman-70.3-pula-20170917.csv,452,Anelle Vorster,45,Gauteng,ZAF,00:01:03,03:28:01,01:56:05,00:01:55,00:03:00,05:30:04
+ironman-70.3-pula-20170917.csv,453,Roberta Biotto,50,Venezia,ITA,00:00:58,03:10:50,02:01:52,00:01:46,00:03:02,05:18:28
+ironman-70.3-pula-20170917.csv,454,Ursula Bircheneder,51,---,DEU,00:00:54,02:50:44,01:54:46,00:01:21,00:03:24,04:51:09
+ironman-70.3-pula-20170917.csv,455,Miyuki Ebara,51,Tokyo,---,00:00:49,03:31:05,02:17:45,00:02:02,00:09:38,06:01:19
+ironman-70.3-pula-20170917.csv,456,Elaine Mccormack,53,Co Meath,IRL,00:00:56,03:47:58,02:32:55,00:02:35,00:07:52,06:32:16
+ironman-70.3-pula-20170917.csv,457,Sabrina Peretto,52,Padova,ITA,00:00:55,03:03:29,02:01:55,00:01:54,00:04:05,05:12:18
+ironman-70.3-pula-20170917.csv,458,Gabi Scherer,52,---,DEU,00:00:46,03:12:32,02:11:48,00:02:23,00:05:05,05:32:34
+ironman-70.3-pula-20170917.csv,459,Isabella Cuder,58,---,AUT,00:00:58,03:09:38,02:10:32,00:01:20,00:04:21,05:26:49
+ironman-70.3-pula-20170917.csv,460,Barbara Heinrich,56,---,DEU,00:01:06,03:46:36,02:26:45,00:01:48,00:05:24,06:21:39
+ironman-70.3-pula-20170917.csv,461,Uschi Scherberich,56,---,DEU,00:01:03,03:23:55,02:53:39,00:02:20,00:04:35,06:25:32
+ironman-70.3-pula-20170917.csv,462,Moira Player,62,---,GBR,00:01:01,03:13:48,02:11:35,00:03:00,00:06:07,05:35:31
+ironman-70.3-pula-20170917.csv,463,Tereza Veselá,25,Ceska republika,CZE,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,464,Tanja Spielberger,26,---,DEU,00:00:48,02:51:26,01:48:18,00:01:07,00:01:47,04:43:26
+ironman-70.3-pula-20170917.csv,465,Katharina Feuchtner,33,---,AUT,00:00:42,02:54:47,01:57:28,00:00:52,00:02:02,04:55:51
+ironman-70.3-pula-20170917.csv,466,Cecilie Linn Jønholt,41,---,NOR,00:00:53,03:50:24,03:04:28,00:01:57,00:04:53,07:02:35
+ironman-70.3-pula-20170917.csv,467,Isolde Schoenfeldt,53,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,468,Lívia Mónus,51,---,HUN,00:01:03,04:01:58,02:24:25,00:04:42,00:07:24,06:39:32
+ironman-70.3-pula-20170917.csv,469,Caroline Krassnitzer,58,---,AUT,00:00:52,02:51:03,02:23:46,00:01:06,00:02:58,05:19:45
+ironman-70.3-pula-20170917.csv,470,Emil Robert Book Bratbak,18,---,NOR,00:00:40,02:49:27,01:47:18,00:01:25,00:01:50,04:40:40
+ironman-70.3-pula-20170917.csv,471,Samuel Dessimoz,21,---,CHE,00:00:34,02:31:54,01:42:08,00:00:54,00:02:52,04:18:22
+ironman-70.3-pula-20170917.csv,472,Edoardo Ercole,19,Venezia,ITA,00:00:37,02:55:43,02:37:34,00:01:44,00:04:22,05:40:00
+ironman-70.3-pula-20170917.csv,473,Leone Gambardella,20,Bolzano,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,474,Tim Gosnjak,23,APO,SVN,00:00:40,02:35:09,01:33:31,00:01:10,00:01:54,04:12:24
+ironman-70.3-pula-20170917.csv,475,Stefan Haubner,22,---,DEU,00:00:34,02:23:03,01:20:33,00:00:56,00:01:27,03:46:33
+ironman-70.3-pula-20170917.csv,476,Nejc Jamšcek,24,Slovenia,SVN,00:00:48,02:55:40,01:46:53,00:01:11,00:01:55,04:46:27
+ironman-70.3-pula-20170917.csv,477,Federico Parma,24,TS,ITA,00:00:41,03:04:39,01:41:56,00:01:37,00:03:44,04:52:37
+ironman-70.3-pula-20170917.csv,478,Dominik Pikorski,24,---,POL,00:00:39,02:32:04,01:32:09,00:00:51,00:01:46,04:07:29
+ironman-70.3-pula-20170917.csv,479,Stefan Roganovic,21,Vojvodina,SRB,00:00:44,04:00:31,02:26:29,00:03:42,00:06:59,06:38:25
+ironman-70.3-pula-20170917.csv,480,Vadim Safiullin,21,Almaty Province,KAZ,00:00:38,---,---,00:00:59,---,DNF
+ironman-70.3-pula-20170917.csv,481,Nils Von Münster-Kistner,24,---,DEU,00:00:38,02:25:55,01:30:40,00:00:51,00:01:21,03:59:25
+ironman-70.3-pula-20170917.csv,482,Christoph Willger,24,---,DEU,00:00:49,02:40:10,01:59:39,00:01:10,00:03:34,04:45:22
+ironman-70.3-pula-20170917.csv,483,Sebastian Winther,22,---,DNK,00:00:45,03:11:42,02:28:25,00:01:17,00:05:34,05:47:43
+ironman-70.3-pula-20170917.csv,484,Manuel Bachmann,27,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,485,Giorgio Barile,29,savona,ITA,00:00:50,02:42:03,01:28:04,00:01:44,00:03:05,04:15:46
+ironman-70.3-pula-20170917.csv,486,Benjy Barkes,27,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,487,Emeric Belville,27,---,FRA,00:00:41,02:46:30,02:07:35,00:00:59,00:03:33,04:59:18
+ironman-70.3-pula-20170917.csv,488,Daniele Bonini,26,La Spezia,ITA,00:00:44,02:55:03,01:53:36,00:01:35,00:02:59,04:53:57
+ironman-70.3-pula-20170917.csv,489,George Brown,28,---,GBR,00:00:49,03:06:54,01:46:59,00:02:14,00:02:55,04:59:51
+ironman-70.3-pula-20170917.csv,490,Valerio Calandra,27,Milano,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,491,Matteo Carli,26,Vicenza,ITA,00:00:47,02:54:29,02:03:06,00:02:12,00:03:59,05:04:33
+ironman-70.3-pula-20170917.csv,492,Lukasz Chwalisz,27,---,POL,00:00:46,02:54:01,01:57:33,00:00:58,00:03:23,04:56:41
+ironman-70.3-pula-20170917.csv,493,Dino Dejak,28,Istria,HRV,00:00:46,02:59:06,01:47:25,00:01:31,00:03:16,04:52:04
+ironman-70.3-pula-20170917.csv,494,Gregorio Delco,25,---,CHE,00:00:45,02:31:41,01:34:32,00:00:53,00:01:57,04:09:48
+ironman-70.3-pula-20170917.csv,495,Blaž Draksler,27,Ljubljana,SVN,00:00:41,03:02:01,02:25:53,00:01:44,00:03:55,05:34:14
+ironman-70.3-pula-20170917.csv,496,Ibrahim Emkic,26,---,AUT,00:00:42,02:55:11,02:35:49,00:01:38,00:03:24,05:36:44
+ironman-70.3-pula-20170917.csv,497,Ivan Filkovic,29,Grad Zagreb,HRV,00:00:40,02:39:24,02:00:58,00:01:01,00:03:08,04:45:11
+ironman-70.3-pula-20170917.csv,498,Francesco Giannecchini,25,Lucca,ITA,00:00:50,02:35:42,01:30:07,00:01:10,00:01:42,04:09:31
+ironman-70.3-pula-20170917.csv,499,Roman Gilmanov,25,"APO
+",RUS,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,500,Markus Gübler,28,---,AUT,00:00:37,02:43:12,01:34:06,00:00:50,00:02:47,04:21:32
+ironman-70.3-pula-20170917.csv,501,Devon Harrison,27,---,ZAF,00:00:53,04:05:57,---,00:02:10,00:05:20,DNF
+ironman-70.3-pula-20170917.csv,502,Daniel Heckman,27,GA,USA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,503,James Heywood,24,Berks,GBR,00:00:42,02:51:54,02:09:40,00:01:09,00:01:49,05:05:14
+ironman-70.3-pula-20170917.csv,504,Daniel Hörner,27,---,DEU,00:00:35,02:40:50,01:48:22,00:01:26,00:01:49,04:33:02
+ironman-70.3-pula-20170917.csv,505,Nicholas Horowitz,28,---,GBR,00:00:48,02:50:25,01:41:06,00:01:25,00:01:34,04:35:18
+ironman-70.3-pula-20170917.csv,506,Saša Ivelic,27,Republika Srpska,---,00:00:58,03:17:12,02:42:37,00:03:19,00:03:38,06:07:44
+ironman-70.3-pula-20170917.csv,507,Graeme Jackson,27,United Kingdom,GBR,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,508,Mario Janach,27,---,AUT,00:00:42,02:42:28,01:34:43,00:01:12,00:02:10,04:21:15
+ironman-70.3-pula-20170917.csv,509,Vasyl Khmarenko,25,APO,UKR,00:00:43,02:56:23,02:02:06,00:01:33,00:01:38,05:02:23
+ironman-70.3-pula-20170917.csv,510,Klemen Kocjan,29,Slovenija,SVN,00:00:45,02:26:58,01:32:52,00:01:22,00:02:11,04:04:08
+ironman-70.3-pula-20170917.csv,511,Michael Kohlhofer,28,---,AUT,00:00:52,02:59:14,01:47:39,00:01:47,00:02:27,04:51:59
+ironman-70.3-pula-20170917.csv,512,Kirill Kostin,28,---,RUS,00:00:46,03:15:47,02:03:15,00:02:13,00:03:55,05:25:56
+ironman-70.3-pula-20170917.csv,513,Martin Kridla,27,BRATISLAVA,SVK,00:00:45,03:27:03,02:14:51,00:01:19,00:05:38,05:49:36
+ironman-70.3-pula-20170917.csv,514,Sultan Kunadilov,25,Almaty Province,KAZ,00:00:47,02:55:09,01:51:34,00:01:17,00:03:27,04:52:14
+ironman-70.3-pula-20170917.csv,515,Oleksandr Maiko,26,Ivano-Frankivsk,UKR,00:00:43,02:43:19,01:31:58,00:01:38,00:01:47,04:19:25
+ironman-70.3-pula-20170917.csv,516,Sam Martin,28,London,GBR,00:00:46,03:10:47,02:03:22,00:03:49,00:07:15,05:25:59
+ironman-70.3-pula-20170917.csv,517,Callum Mccall,28,---,GBR,00:00:46,02:48:58,01:59:36,00:02:27,00:02:08,04:53:55
+ironman-70.3-pula-20170917.csv,518,Stefan Mcloughlin,26,---,GBR,00:00:48,02:42:33,01:52:38,00:01:10,00:02:08,04:39:17
+ironman-70.3-pula-20170917.csv,519,Dušan Nedic,27,Beograd,SRB,00:00:45,03:10:31,02:04:58,00:02:41,00:03:09,05:22:04
+ironman-70.3-pula-20170917.csv,520,Scott Oplinger,28,AE,USA,00:00:44,03:03:47,01:57:11,00:01:43,00:05:06,05:08:31
+ironman-70.3-pula-20170917.csv,521,Dragutin Oreški,26,Croatia,HRV,00:00:40,02:53:48,01:42:08,00:01:23,00:02:08,04:40:07
+ironman-70.3-pula-20170917.csv,522,Davide Peris,28,TV,ITA,00:00:44,02:50:08,01:50:22,00:01:33,00:02:27,04:45:14
+ironman-70.3-pula-20170917.csv,523,Elias Pfannenstill,26,---,AUT,00:00:38,02:57:11,02:02:19,00:01:14,00:02:49,05:04:11
+ironman-70.3-pula-20170917.csv,524,Anze Pretnar,28,Zgornje Gorje,SVN,00:00:35,02:32:32,01:35:27,00:00:48,00:01:23,04:10:45
+ironman-70.3-pula-20170917.csv,525,Richard Rink,28,---,DEU,00:00:42,02:37:35,02:15:03,00:00:54,00:03:09,04:57:23
+ironman-70.3-pula-20170917.csv,526,Raimund Anthony Roberts,29,APO,ZAF,00:00:50,03:13:53,02:06:06,00:01:52,00:05:17,05:27:58
+ironman-70.3-pula-20170917.csv,527,Mateo Sanchez,24,AE,USA,00:00:42,02:49:15,02:05:31,00:01:46,00:03:59,05:01:13
+ironman-70.3-pula-20170917.csv,528,Vincent Schipperges,25,---,DEU,00:00:41,02:35:19,01:34:36,00:00:53,00:02:39,04:14:08
+ironman-70.3-pula-20170917.csv,529,Leander Smet,24,---,BEL,00:00:44,02:38:01,01:37:46,00:01:29,00:03:05,04:21:05
+ironman-70.3-pula-20170917.csv,530,Alasdair Stevens,27,Fife,GBR,00:00:44,03:01:22,01:41:58,00:01:28,00:03:20,04:48:52
+ironman-70.3-pula-20170917.csv,531,Gašper Štih,27,SVN,SVN,00:00:41,03:03:28,01:58:53,00:01:29,00:02:47,05:07:18
+ironman-70.3-pula-20170917.csv,532,Thomas Stockley,28,---,GBR,00:00:49,02:58:01,02:11:28,00:01:45,00:04:09,05:16:12
+ironman-70.3-pula-20170917.csv,533,Michael Straube,26,---,AUT,00:00:38,03:07:51,02:38:31,00:01:35,00:03:26,05:52:01
+ironman-70.3-pula-20170917.csv,534,Arno Symons,27,---,BEL,00:00:45,02:52:45,01:57:26,00:01:27,00:03:17,04:55:40
+ironman-70.3-pula-20170917.csv,535,Chris Thomas,28,Essex,GBR,00:00:42,02:40:57,01:50:45,00:01:13,00:01:24,04:35:01
+ironman-70.3-pula-20170917.csv,536,Thomas Tietz,26,---,DEU,00:00:40,02:23:51,01:25:27,00:00:59,00:02:29,03:53:26
+ironman-70.3-pula-20170917.csv,537,Pierre Henri Van De Vyver,29,---,FRA,00:00:47,02:53:57,02:06:38,00:01:33,00:02:13,05:05:08
+ironman-70.3-pula-20170917.csv,538,Vincent Van De Walle,27,---,BEL,00:00:30,02:24:56,01:21:49,00:00:44,00:01:43,03:49:42
+ironman-70.3-pula-20170917.csv,539,Lukas Vanecek,26,Praha,CZE,00:00:53,03:04:11,02:17:01,00:02:06,00:07:57,05:32:08
+ironman-70.3-pula-20170917.csv,540,Tomas Vavrik,28,Slovakia,SVK,00:00:40,02:39:32,01:46:35,00:01:21,00:02:10,04:30:18
+ironman-70.3-pula-20170917.csv,541,Anthony Vernagallo,27,---,FRA,00:00:32,02:23:22,01:23:22,00:01:16,00:01:18,03:49:50
+ironman-70.3-pula-20170917.csv,542,Massimo Zuccato,27,PORDENONE,ITA,00:01:08,02:59:41,02:00:57,00:01:29,00:05:47,05:09:02
+ironman-70.3-pula-20170917.csv,543,Ilyas Abdrakhmanov,29,Astana,KAZ,00:00:43,03:22:50,02:31:12,00:01:47,00:02:58,05:59:30
+ironman-70.3-pula-20170917.csv,544,Kanat Abeuov,32,Almaty,KAZ,00:00:45,03:53:25,02:14:53,00:02:28,00:08:51,06:20:22
+ironman-70.3-pula-20170917.csv,545,Federico Alvino,30,Siena,ITA,00:00:42,02:45:03,01:32:25,00:00:55,00:01:49,04:20:54
+ironman-70.3-pula-20170917.csv,546,Tomislav Anzulovic,31,APO,HRV,00:00:46,02:45:45,01:48:14,00:02:23,00:03:37,04:40:45
+ironman-70.3-pula-20170917.csv,547,Tim Baas,33,---,NLD,00:00:48,02:48:28,01:53:45,00:01:27,00:03:02,04:47:30
+ironman-70.3-pula-20170917.csv,548,Pavel Belokhonov,32,---,RUS,00:00:51,03:04:05,02:10:31,00:01:30,00:03:15,05:20:12
+ironman-70.3-pula-20170917.csv,549,Fabian Bensemann,32,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,550,Florian Besnard,30,---,FRA,00:00:44,02:56:41,01:54:25,00:02:33,00:03:21,04:57:44
+ironman-70.3-pula-20170917.csv,551,Timothy Biddle,32,Berkshire,GBR,00:00:45,03:32:15,02:09:07,00:01:30,00:03:16,05:46:53
+ironman-70.3-pula-20170917.csv,552,Jonathan Biddle,32,Staffordshire,GBR,00:00:41,03:11:49,01:47:51,00:01:11,00:03:12,05:04:44
+ironman-70.3-pula-20170917.csv,553,Ben Bonham,32,---,GBR,00:01:01,02:51:50,02:12:08,00:01:15,00:02:51,05:09:05
+ironman-70.3-pula-20170917.csv,554,Michael Botting,32,Kent,GBR,00:00:44,02:56:30,02:01:15,00:01:01,00:01:54,05:01:24
+ironman-70.3-pula-20170917.csv,555,Xavier Bremont,31,---,FRA,00:00:36,03:02:01,02:05:35,00:01:24,00:03:17,05:12:53
+ironman-70.3-pula-20170917.csv,556,Rémi Bresson Auba,32,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,557,Tomasz Broda,30,---,POL,00:00:41,02:42:10,01:37:36,00:01:15,00:02:06,04:23:48
+ironman-70.3-pula-20170917.csv,558,Andrew J Brunton,33,Norfolk,GBR,00:01:02,03:11:11,02:04:10,00:02:17,00:03:43,05:22:23
+ironman-70.3-pula-20170917.csv,559,Niccolo Brussa,31,Trento,ITA,00:00:45,03:01:00,01:49:14,00:00:54,00:02:03,04:53:56
+ironman-70.3-pula-20170917.csv,560,Florent Cahagne,30,---,FRA,00:00:47,03:07:18,02:00:36,00:01:39,00:05:06,05:15:26
+ironman-70.3-pula-20170917.csv,561,Diego Calandra,33,Milano,ITA,00:00:58,03:15:20,02:34:17,00:01:31,00:03:58,05:56:04
+ironman-70.3-pula-20170917.csv,562,Dmytro Cherniak,29,---,UKR,00:00:45,03:00:07,02:01:24,00:01:41,00:05:03,05:09:00
+ironman-70.3-pula-20170917.csv,563,Michele Chiarini,31,AR,ITA,00:00:48,02:59:26,01:51:37,00:01:43,00:02:29,04:56:03
+ironman-70.3-pula-20170917.csv,564,Mathieu Choulet,30,---,FRA,00:00:39,02:33:32,01:44:04,00:00:55,00:03:00,04:22:10
+ironman-70.3-pula-20170917.csv,565,Luka Cirjak,34,APO,HRV,00:00:48,02:58:08,02:21:20,00:01:59,00:04:20,05:26:35
+ironman-70.3-pula-20170917.csv,566,Fabrizio Cuscini,33,Milano,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,567,Zbyszek Czelny,34,---,POL,00:00:45,02:46:22,01:56:00,00:02:02,00:04:22,04:49:31
+ironman-70.3-pula-20170917.csv,568,Daniel Daester,34,---,CHE,00:00:41,02:34:37,01:44:19,00:01:17,00:03:23,04:24:17
+ironman-70.3-pula-20170917.csv,569,Terence De Beer,31,CA,ZAF,00:00:47,03:23:53,02:22:37,00:01:38,00:05:26,05:54:21
+ironman-70.3-pula-20170917.csv,570,Francesco De Cillis,34,BS,ITA,00:00:41,02:52:32,01:42:56,00:00:49,00:02:45,04:39:43
+ironman-70.3-pula-20170917.csv,571,Raoul De Villiers,34,---,ZAF,00:00:56,03:29:12,02:34:03,00:02:04,00:06:41,06:12:56
+ironman-70.3-pula-20170917.csv,572,Konstantin Demishev,33,N/A,UKR,00:00:39,02:53:44,01:54:08,00:01:37,00:02:27,04:52:35
+ironman-70.3-pula-20170917.csv,573,Giovambattista Dimaggio,33,bologna,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,574,Loïc Donnart,30,---,FRA,00:00:44,02:36:44,01:48:05,00:01:17,00:03:36,04:30:26
+ironman-70.3-pula-20170917.csv,575,Zvonimir Dujmovic,30,Grad Zagreb,HRV,00:00:57,03:29:41,02:10:02,00:02:11,00:09:33,05:52:24
+ironman-70.3-pula-20170917.csv,576,Sergio Enguix,33,---,CHE,00:00:38,03:09:58,02:01:29,00:01:18,00:03:50,05:17:13
+ironman-70.3-pula-20170917.csv,577,Haris Fazlic,31,Kanton Sarajevo,---,00:00:47,03:23:36,02:23:48,00:01:55,00:03:22,05:53:28
+ironman-70.3-pula-20170917.csv,578,Lukas Fogas,30,Liptovsky Mikulas,SVK,00:00:45,02:48:49,01:56:46,00:02:08,00:03:13,04:51:41
+ironman-70.3-pula-20170917.csv,579,Tomek Fratczak,31,---,POL,00:00:51,03:23:41,02:33:54,00:01:44,00:03:56,06:04:06
+ironman-70.3-pula-20170917.csv,580,Peter Fuchs,31,---,AUT,00:00:55,02:42:41,01:41:30,00:01:21,00:02:02,04:28:29
+ironman-70.3-pula-20170917.csv,581,Marco Ganassin,34,ITALIA,ITA,00:00:41,02:46:48,02:06:41,00:02:51,00:03:42,05:00:43
+ironman-70.3-pula-20170917.csv,582,Anthony Gaydon,31,Surrey,ZAF,00:00:50,04:00:22,02:32:11,00:01:01,00:05:41,06:40:05
+ironman-70.3-pula-20170917.csv,583,Simone Gazzotti,32,bologna,ITA,00:00:53,03:12:42,02:17:10,00:02:00,00:05:55,05:38:40
+ironman-70.3-pula-20170917.csv,584,Christian Gell,30,---,AUT,00:00:43,02:39:25,01:51:02,00:01:08,00:01:56,04:34:14
+ironman-70.3-pula-20170917.csv,585,Josip Gelo,31,Hrvatska / Slavonije / Osijek,HRV,00:00:47,02:53:59,02:04:43,00:01:59,00:07:05,05:08:33
+ironman-70.3-pula-20170917.csv,586,Mauro Giannaccini,31,Lucca,ITA,00:00:44,02:42:06,01:34:10,00:00:58,00:03:15,04:21:13
+ironman-70.3-pula-20170917.csv,587,Giovanni Giovannetti,34,Italia,ITA,00:00:49,03:08:05,02:03:29,00:02:03,00:03:32,05:17:58
+ironman-70.3-pula-20170917.csv,588,Alexander Gloel,34,---,DEU,00:00:34,02:38:24,01:54:15,00:00:52,00:03:35,04:37:40
+ironman-70.3-pula-20170917.csv,589,Claudiu Gorgan,33,cluj,ROU,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,590,Alexandr Gostev,32,---,UKR,00:00:51,03:01:29,01:57:40,00:01:21,00:02:37,05:03:58
+ironman-70.3-pula-20170917.csv,591,Joshua Grant,34,AE,USA,00:00:41,02:33:06,01:49:17,00:00:53,00:01:46,04:25:43
+ironman-70.3-pula-20170917.csv,592,Imanuel Grasser,32,---,AUT,00:00:47,02:53:55,01:30:09,00:01:08,00:01:52,04:27:51
+ironman-70.3-pula-20170917.csv,593,Mattia Graziola,30,Trento,ITA,00:00:40,02:32:10,01:34:17,00:01:10,00:02:57,04:11:14
+ironman-70.3-pula-20170917.csv,594,Markus Guggi,31,---,AUT,00:00:47,02:35:51,01:50:31,00:00:59,00:03:25,04:31:33
+ironman-70.3-pula-20170917.csv,595,Bartosz Hadas,33,---,POL,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,596,Kostiantyn Havrylenko,32,---,UKR,00:00:45,02:57:11,02:08:27,00:01:31,00:03:55,05:11:49
+ironman-70.3-pula-20170917.csv,597,Conor Hayes,32,DUBLIN,IRL,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,598,Ruslan Homyshyn,30,lviv region,UKR,00:00:35,03:08:18,02:06:05,00:01:48,00:03:11,05:19:57
+ironman-70.3-pula-20170917.csv,599,Branislav Hybben,32,Bratislava,SVK,00:00:44,02:49:02,01:49:36,00:01:28,00:01:44,04:42:34
+ironman-70.3-pula-20170917.csv,600,Eduard Ihradsky,31,Banska Bystrica,SVK,00:00:47,03:00:10,02:04:37,00:01:28,00:03:02,05:10:04
+ironman-70.3-pula-20170917.csv,601,Tomas Jakubcik,30,Czech Republic,CZE,00:00:47,03:13:16,02:15:44,00:03:26,00:02:32,05:35:45
+ironman-70.3-pula-20170917.csv,602,Jurica Jazbec,31,Zagrebačka županija,HRV,00:00:44,03:21:22,02:10:00,00:01:55,00:17:51,05:51:52
+ironman-70.3-pula-20170917.csv,603,Filip Jerolimov,31,Zadar,HRV,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,604,Mateusz Kalwasinski,30,---,POL,00:00:35,02:41:52,01:51:10,00:00:52,00:01:56,04:36:25
+ironman-70.3-pula-20170917.csv,605,Markus Kluge,33,---,DEU,00:00:48,02:42:46,02:41:46,00:01:18,00:01:49,05:28:27
+ironman-70.3-pula-20170917.csv,606,Luka Kobler,33,Slovenija,SVN,00:00:45,02:56:40,02:15:07,00:01:38,00:04:30,05:18:40
+ironman-70.3-pula-20170917.csv,607,George Koklanakis,30,HANTS,GBR,00:01:02,03:09:01,02:11:33,00:02:03,00:04:40,05:28:19
+ironman-70.3-pula-20170917.csv,608,Aman Kopessov,30,Almaty,KAZ,00:00:44,02:48:06,01:54:20,00:01:31,00:03:25,04:48:06
+ironman-70.3-pula-20170917.csv,609,Andrey Kozlov,31,"Moscow
+",RUS,00:00:38,02:45:08,01:36:20,00:00:51,00:01:47,04:24:44
+ironman-70.3-pula-20170917.csv,610,Lukas Kucharcik,31,Slovakia,SVK,00:00:45,02:43:58,01:55:26,00:01:18,00:03:05,04:44:32
+ironman-70.3-pula-20170917.csv,611,Simon Lambert,33,---,GBR,00:01:03,03:14:33,02:35:09,00:01:14,00:03:14,05:55:13
+ironman-70.3-pula-20170917.csv,612,Dariusz Lapawa,33,---,POL,00:00:50,03:03:54,02:40:53,00:01:59,00:04:14,05:51:50
+ironman-70.3-pula-20170917.csv,613,Daniel Loncar,32,FL,HRV,00:00:42,03:23:54,02:15:05,00:01:52,00:03:25,05:44:58
+ironman-70.3-pula-20170917.csv,614,Vaclav Malecek,34,CR,CZE,00:00:48,02:48:40,01:50:43,00:02:24,00:02:13,04:44:48
+ironman-70.3-pula-20170917.csv,615,Antonio Manai,29,Brescia,ITA,00:00:53,02:56:35,02:02:51,00:01:38,00:03:35,05:05:32
+ironman-70.3-pula-20170917.csv,616,Michael Martin,34,---,IRL,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,617,Wojciech Mazur,32,---,POL,00:00:53,03:06:11,01:34:22,00:01:50,00:45:16,05:28:32
+ironman-70.3-pula-20170917.csv,618,Emmanuel Merlot,34,---,FRA,00:00:46,02:42:17,01:54:49,00:01:34,00:02:13,04:41:39
+ironman-70.3-pula-20170917.csv,619,Michael Mielach,31,---,DEU,00:01:13,02:43:27,01:47:00,00:01:43,00:02:40,04:36:03
+ironman-70.3-pula-20170917.csv,620,Rokas Mikalauskas,30,Vilnius,LTU,00:00:47,02:45:48,01:44:54,00:01:44,00:02:21,04:35:34
+ironman-70.3-pula-20170917.csv,621,Ivica Miše,33,APO,HRV,00:00:54,02:42:03,01:54:04,00:01:39,00:02:11,04:40:51
+ironman-70.3-pula-20170917.csv,622,Paolo Moscardo,30,Italia,ITA,00:00:43,02:51:51,01:52:04,00:00:58,00:07:36,04:53:12
+ironman-70.3-pula-20170917.csv,623,Alessandro Mucelli,34,Venezia,ITA,00:00:43,02:45:16,01:54:46,00:01:16,00:02:34,04:44:35
+ironman-70.3-pula-20170917.csv,624,Stefan Mück,34,---,DEU,00:00:38,02:41:47,01:47:34,00:01:03,00:02:01,04:33:03
+ironman-70.3-pula-20170917.csv,625,Matthijs Munnik,31,---,NLD,00:00:47,02:46:44,01:53:34,00:01:39,00:03:22,04:46:06
+ironman-70.3-pula-20170917.csv,626,Bozidar Nikolic,33,Serbia,SRB,00:00:51,03:36:57,02:31:11,00:02:17,00:05:41,06:16:57
+ironman-70.3-pula-20170917.csv,627,Horváth Norbert,31,---,HUN,00:00:40,03:09:49,02:26:55,00:01:25,00:03:32,05:42:21
+ironman-70.3-pula-20170917.csv,628,Jan Novak,30,prague,CZE,00:00:49,02:35:26,01:55:17,00:01:02,00:03:03,04:35:37
+ironman-70.3-pula-20170917.csv,629,Patrick Osswald,32,---,DEU,00:00:48,02:47:00,01:50:29,00:01:23,00:02:13,04:41:53
+ironman-70.3-pula-20170917.csv,630,Ross Oxenham,30,---,ZAF,00:00:41,03:18:28,02:17:23,00:01:30,00:02:46,05:40:48
+ironman-70.3-pula-20170917.csv,631,Thijs Pauwels,32,---,NLD,00:00:47,03:05:18,01:46:35,00:03:16,00:04:58,05:00:54
+ironman-70.3-pula-20170917.csv,632,Marcus Petzold,34,---,DEU,00:00:42,02:43:40,01:40:58,00:01:10,00:01:32,04:28:02
+ironman-70.3-pula-20170917.csv,633,Julien Plumer,34,---,FRA,00:00:39,02:22:24,01:29:37,00:01:35,00:02:04,03:56:19
+ironman-70.3-pula-20170917.csv,634,Alessandro Povoleri,31,vicenza,ITA,00:00:52,02:53:55,01:53:47,00:01:13,00:03:22,04:53:09
+ironman-70.3-pula-20170917.csv,635,Sebastian Ramirez,32,---,COL,00:00:41,02:39:28,01:34:15,00:00:54,00:02:58,04:18:16
+ironman-70.3-pula-20170917.csv,636,Andrea Ricardi,32,Modena,ITA,00:00:38,02:45:37,01:55:36,00:01:18,00:03:31,04:46:40
+ironman-70.3-pula-20170917.csv,637,Rocco Righetti,31,VE,ITA,00:00:48,02:54:19,02:02:40,00:00:57,00:02:20,05:01:04
+ironman-70.3-pula-20170917.csv,638,Daniyil Ryabov,30,Lviv,UKR,00:00:45,03:01:42,02:04:59,00:01:33,00:02:03,05:11:02
+ironman-70.3-pula-20170917.csv,639,Grzegorz Rycaj,31,---,POL,00:00:41,03:00:36,01:44:41,00:01:08,00:02:14,04:49:20
+ironman-70.3-pula-20170917.csv,640,Boris Sarabeev,30,"APO
+",BGR,00:00:56,03:46:09,02:43:36,00:03:37,00:06:09,06:40:27
+ironman-70.3-pula-20170917.csv,641,Thomas Schwarz,31,---,AUT,00:00:52,03:12:29,02:32:45,00:01:22,00:03:23,05:50:51
+ironman-70.3-pula-20170917.csv,642,Sjon Seuren,29,---,NLD,00:00:46,03:06:43,02:10:33,00:01:29,00:04:01,05:23:32
+ironman-70.3-pula-20170917.csv,643,Tariq Sheikh,29,DXB,MUS,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,644,Marthinus Gerhardus Slabber,33,APO,ZAF,00:00:52,03:09:36,02:42:20,00:01:47,00:03:55,05:58:30
+ironman-70.3-pula-20170917.csv,645,Tomas Smolik,32,Zlín,CZE,00:00:47,02:45:56,02:08:47,00:01:29,00:02:52,04:59:51
+ironman-70.3-pula-20170917.csv,646,Marko Stankovic,34,serbia,SRB,00:00:49,03:01:21,02:31:56,00:01:14,00:04:32,05:39:52
+ironman-70.3-pula-20170917.csv,647,Dragan Suvajac,31,Srbija,SRB,00:00:54,02:58:06,01:55:42,00:01:39,00:03:26,04:59:47
+ironman-70.3-pula-20170917.csv,648,Mateusz Tadeusz,32,---,POL,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,649,Marco Tarquini,32,Teramo,ITA,00:00:42,02:48:37,01:30:09,00:00:58,00:01:58,04:22:24
+ironman-70.3-pula-20170917.csv,650,Jörg Thaler,34,---,AUT,00:00:35,02:47:05,01:47:36,00:01:26,00:01:54,04:38:36
+ironman-70.3-pula-20170917.csv,651,Svetoslav Tochev,31,"APO
+",BGR,00:00:46,03:04:07,02:12:23,00:01:24,00:03:39,05:22:19
+ironman-70.3-pula-20170917.csv,652,Vedran Vedriš,30,Primorsko-goranska županija,HRV,00:00:48,03:00:57,01:50:23,00:01:15,00:04:05,04:57:28
+ironman-70.3-pula-20170917.csv,653,Luca Vettorel,33,Italia,ITA,00:00:47,02:50:12,01:50:19,00:01:27,00:02:25,04:45:10
+ironman-70.3-pula-20170917.csv,654,Stefano Vidotto,31,Venezia,ITA,00:00:41,02:32:06,01:31:12,00:01:09,00:02:55,04:08:03
+ironman-70.3-pula-20170917.csv,655,Martin Vlha,31,Bratislava,SVK,00:00:57,03:21:23,02:25:27,00:01:52,00:06:10,05:55:49
+ironman-70.3-pula-20170917.csv,656,Klemen Žbontar,30,Gorenjska,SVN,00:00:39,02:37:37,01:41:36,00:00:53,00:01:57,04:22:42
+ironman-70.3-pula-20170917.csv,657,Danel Zhulanov,30,APO,KAZ,00:00:38,03:28:11,02:20:14,00:01:57,00:03:17,05:54:17
+ironman-70.3-pula-20170917.csv,658,Michele Aglio,34,italia,ITA,00:00:39,02:35:29,01:33:52,00:01:17,00:01:46,04:13:03
+ironman-70.3-pula-20170917.csv,659,Andrea Albertoni,37,AR,ITA,00:00:41,02:53:14,01:46:46,00:01:20,00:01:56,04:43:57
+ironman-70.3-pula-20170917.csv,660,Mihail Alexandru Albu,34,Cremona,ITA,00:00:45,03:00:07,01:56:47,00:01:36,00:03:23,05:02:38
+ironman-70.3-pula-20170917.csv,661,Pablo Alvarez Casado,36,---,ESP,00:00:34,02:41:53,01:39:05,00:01:27,00:03:04,04:26:03
+ironman-70.3-pula-20170917.csv,662,Saverio Amoroso,38,Firenze,ITA,00:00:49,02:58:54,02:36:57,00:02:18,00:03:50,05:42:48
+ironman-70.3-pula-20170917.csv,663,Khalyapin Andrey,39,APO,KAZ,00:00:47,03:00:53,02:10:21,00:02:01,00:03:12,05:17:14
+ironman-70.3-pula-20170917.csv,664,Davide Arienti,35,Mb,ITA,00:00:50,03:18:15,02:34:32,00:02:40,00:05:25,06:01:42
+ironman-70.3-pula-20170917.csv,665,Pavel Artyushenko,39,Almaty,KAZ,00:00:53,03:00:55,02:00:42,00:01:34,00:04:28,05:08:32
+ironman-70.3-pula-20170917.csv,666,Hayden Ashfield,37,DXB,GBR,00:00:34,02:40:19,01:39:49,00:00:54,00:01:58,04:23:34
+ironman-70.3-pula-20170917.csv,667,Ivan Babichuk,38,---,UKR,00:00:50,02:47:41,01:41:33,00:02:09,00:04:18,04:36:31
+ironman-70.3-pula-20170917.csv,668,Lorenzo Basso,35,---,ITA,00:00:48,02:50:31,01:52:55,00:02:00,00:02:00,04:48:14
+ironman-70.3-pula-20170917.csv,669,Carmelo Bellanca,38,CALTANISSETTA (CL),ITA,00:00:46,02:54:12,01:49:28,00:01:38,00:02:33,04:48:37
+ironman-70.3-pula-20170917.csv,670,Mate Boban,35,---,HRV,00:00:40,02:48:33,01:42:14,00:01:57,00:03:18,04:36:42
+ironman-70.3-pula-20170917.csv,671,Ettore Ivan Bonvino,35,Treviso,ITA,00:00:42,03:32:57,02:11:52,00:01:23,00:04:10,05:51:04
+ironman-70.3-pula-20170917.csv,672,Daniel Boustani,38,---,DEU,00:00:53,02:52:46,02:13:56,00:01:07,00:03:01,05:11:43
+ironman-70.3-pula-20170917.csv,673,Alleyn Bowen,36,London,ZAF,00:01:01,03:20:24,02:24:56,00:03:53,00:08:38,05:58:52
+ironman-70.3-pula-20170917.csv,674,Giovanni Brattoli,36,pi,ITA,00:00:37,02:43:55,01:30:31,00:00:53,00:01:27,04:17:23
+ironman-70.3-pula-20170917.csv,675,Klaas Buyck,37,---,BEL,00:00:50,03:01:57,02:12:06,00:01:49,00:05:30,05:22:12
+ironman-70.3-pula-20170917.csv,676,Moldoveanu Catalin,37,FIRENZE,ROU,00:00:55,03:28:25,02:03:57,00:01:56,00:02:53,05:38:06
+ironman-70.3-pula-20170917.csv,677,Ricardo Cb,35,Mexico,MEX,00:01:03,03:58:17,03:04:32,00:06:27,00:05:23,07:15:42
+ironman-70.3-pula-20170917.csv,678,Jirí Cerný,39,Czech rep.,CZE,00:00:51,02:47:37,01:51:52,00:01:23,00:06:00,04:47:43
+ironman-70.3-pula-20170917.csv,679,Michele Chiaramida,39,Italia,ITA,00:00:40,02:42:24,01:51:26,00:00:56,00:02:28,04:37:54
+ironman-70.3-pula-20170917.csv,680,Paolo Colombo,39,bi,ITA,00:00:42,03:01:10,01:56:38,00:01:39,00:03:30,05:03:39
+ironman-70.3-pula-20170917.csv,681,Graham Collins,---,---,ZAF,00:00:43,03:01:42,02:15:08,00:01:57,00:02:37,05:22:07
+ironman-70.3-pula-20170917.csv,682,Rohan Crouse,38,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,683,Lukasz Dabrowski,34,---,POL,00:00:33,02:47:45,01:35:38,00:00:56,00:01:49,04:26:41
+ironman-70.3-pula-20170917.csv,684,Neall De Beer,35,MERTON,ZAF,00:00:49,03:30:17,02:19:12,00:00:55,00:03:09,05:54:22
+ironman-70.3-pula-20170917.csv,685,Antal Deakvari,35,---,HUN,00:01:00,02:52:59,01:56:12,00:01:29,00:03:37,04:55:17
+ironman-70.3-pula-20170917.csv,686,Roberto Diana,39,Italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,687,Dimitar Dimitrov,36,---,BGR,00:00:53,03:19:55,02:06:20,00:02:05,00:04:28,05:33:41
+ironman-70.3-pula-20170917.csv,688,Robin Donner,37,---,DEU,00:00:46,02:54:43,01:57:35,00:01:38,00:03:09,04:57:51
+ironman-70.3-pula-20170917.csv,689,Attila Dósa,35,---,HUN,00:00:55,03:47:32,02:25:19,00:02:47,00:06:20,06:22:53
+ironman-70.3-pula-20170917.csv,690,James Du Preez,36,England,ZAF,00:00:41,03:16:39,02:30:34,00:01:17,00:03:19,05:52:30
+ironman-70.3-pula-20170917.csv,691,Igor Dulyn,38,APO,UKR,00:00:43,02:55:58,01:48:38,00:01:27,00:02:33,04:49:19
+ironman-70.3-pula-20170917.csv,692,Guido Ebergenyi,35,AUH,MEX,00:00:53,02:52:27,02:19:46,00:03:10,00:07:00,05:23:16
+ironman-70.3-pula-20170917.csv,693,Thomas Enzo,37,VE,ITA,00:00:42,02:47:21,01:34:33,00:01:08,00:02:24,04:26:08
+ironman-70.3-pula-20170917.csv,694,Fabio Frallicciardi,35,Caserta,ITA,00:00:50,03:04:37,02:13:26,00:01:10,00:04:22,05:24:25
+ironman-70.3-pula-20170917.csv,695,Gabriele Galvani,36,Italia,ITA,00:00:38,02:51:33,02:17:08,00:00:58,00:05:29,05:15:46
+ironman-70.3-pula-20170917.csv,696,Andrew Gillman,36,CO,USA,00:01:10,02:54:25,---,00:01:54,---,DNF
+ironman-70.3-pula-20170917.csv,697,Georg Goldgruber,34,---,AUT,00:00:46,02:49:02,01:56:24,00:01:41,00:02:10,04:50:03
+ironman-70.3-pula-20170917.csv,698,Emil Gorlowski,38,---,POL,00:00:41,03:00:02,02:03:14,00:00:58,00:03:32,05:08:27
+ironman-70.3-pula-20170917.csv,699,Gerrit Gott,36,---,DEU,00:00:56,02:38:59,---,00:01:11,00:04:07,DNF
+ironman-70.3-pula-20170917.csv,700,Maxim Gourov,38,---,KAZ,00:00:50,03:01:05,02:11:27,00:01:36,00:06:22,05:21:20
+ironman-70.3-pula-20170917.csv,701,Christoph Grün,36,---,AUT,00:00:36,02:52:25,01:56:49,00:00:55,00:03:15,04:54:00
+ironman-70.3-pula-20170917.csv,702,Uroš Hafner,36,APO,SVN,00:00:39,03:06:01,02:41:50,00:01:19,00:02:51,05:52:40
+ironman-70.3-pula-20170917.csv,703,David Harvey,35,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,704,Christoph Hauser,38,---,AUT,00:00:59,03:37:14,02:22:47,00:03:33,00:05:55,06:10:28
+ironman-70.3-pula-20170917.csv,705,Frank Houtenbos,39,---,NLD,00:00:49,02:56:24,01:50:59,00:01:43,00:03:48,04:53:43
+ironman-70.3-pula-20170917.csv,706,Donovan Hutcheon,36,---,ZAF,00:00:41,02:53:01,01:51:10,00:01:44,00:02:40,04:49:16
+ironman-70.3-pula-20170917.csv,707,Grega Ilc,38,APO,SVN,00:01:00,03:05:12,02:13:35,00:04:06,00:03:01,05:26:54
+ironman-70.3-pula-20170917.csv,708,Zoltán Jáni,39,---,HUN,00:00:58,02:58:41,02:01:49,00:02:33,00:04:54,05:08:55
+ironman-70.3-pula-20170917.csv,709,Anders S Johansen,38,---,NOR,00:00:58,02:47:36,02:12:58,00:01:42,00:02:40,05:05:54
+ironman-70.3-pula-20170917.csv,710,Christoph Kaltenböck,38,---,AUT,00:00:46,02:44:27,01:57:20,00:01:58,00:03:08,04:47:39
+ironman-70.3-pula-20170917.csv,711,Mark Kensley,37,VIC,GBR,00:00:51,03:17:51,02:46:34,00:01:45,00:03:28,06:10:29
+ironman-70.3-pula-20170917.csv,712,Yury Klochko,36,"
+Moscow",RUS,00:00:50,03:23:08,02:09:57,00:01:10,00:02:20,05:37:25
+ironman-70.3-pula-20170917.csv,713,Miroslav Knez,38,APO,HRV,00:00:54,03:00:09,02:16:48,00:01:35,00:05:01,05:24:27
+ironman-70.3-pula-20170917.csv,714,Nicolaas Kock,35,---,ZAF,00:00:54,03:31:57,02:22:34,00:04:56,00:07:48,06:08:09
+ironman-70.3-pula-20170917.csv,715,Bruno Kolovrat,37,Zagreb,HRV,00:00:45,02:37:48,01:57:20,00:01:04,00:02:57,04:39:54
+ironman-70.3-pula-20170917.csv,716,Philipp Koppermann,35,---,DEU,00:00:53,03:12:36,02:14:03,00:01:50,00:05:34,05:34:56
+ironman-70.3-pula-20170917.csv,717,Ales Koren,36,Koroška ,SVN,00:00:46,03:06:53,02:26:51,00:01:21,00:03:31,05:39:22
+ironman-70.3-pula-20170917.csv,718,Luca Lepri,36,pesaro-urbino,ITA,00:00:46,02:40:10,01:37:48,00:01:26,00:02:12,04:22:22
+ironman-70.3-pula-20170917.csv,719,Emanuele Livieri,35,Italia,ITA,00:01:00,02:46:35,01:44:28,00:02:07,00:02:33,04:36:43
+ironman-70.3-pula-20170917.csv,720,Tiago Lobo,39,APO,PRT,00:00:36,02:35:20,01:29:28,00:01:10,00:01:45,04:08:19
+ironman-70.3-pula-20170917.csv,721,Ha Long,36,---,VNM,00:00:54,02:55:22,01:56:21,00:01:28,00:02:39,04:56:44
+ironman-70.3-pula-20170917.csv,722,Jose Lopez,38,Metepec,---,---,---,---,---,---,DQ
+ironman-70.3-pula-20170917.csv,723,Werner Konrad Luzny,39,Forlì-Cesena,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,724,Tomás Manzano Sanguinetti,38,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,725,Leo Markoci,35,APO,HRV,00:00:47,02:43:23,01:50:36,00:01:02,00:02:27,04:38:15
+ironman-70.3-pula-20170917.csv,726,Nariman Miftakhov,36,"Moscow
+",RUS,00:00:50,03:17:06,01:59:51,00:02:10,00:04:37,05:24:34
+ironman-70.3-pula-20170917.csv,727,Mario Mutak,34,APO,HRV,00:00:39,02:51:26,02:02:50,00:02:29,00:02:12,04:59:36
+ironman-70.3-pula-20170917.csv,728,Olivier Noel,37,DXB,BEL,00:00:36,02:42:54,02:02:38,00:00:51,00:02:21,04:49:20
+ironman-70.3-pula-20170917.csv,729,Dean Nolte,35,---,ZAF,00:00:45,03:15:24,02:06:10,00:02:24,00:07:40,05:32:23
+ironman-70.3-pula-20170917.csv,730,Danijel Nurkic,39,Cres,HRV,00:00:51,02:55:32,01:46:33,00:01:36,00:02:41,04:47:13
+ironman-70.3-pula-20170917.csv,731,Rene Oberlechner,39,---,AUT,00:00:41,02:49:47,02:31:47,00:02:30,00:04:23,05:29:08
+ironman-70.3-pula-20170917.csv,732,Matteo Orlandi,37,Mi,ITA,00:00:47,03:11:38,02:30:50,00:03:09,00:06:58,05:53:22
+ironman-70.3-pula-20170917.csv,733,Panos Pantazopoulos,35,glyfada,GRC,00:01:01,03:16:41,02:17:30,00:02:28,00:06:48,05:44:28
+ironman-70.3-pula-20170917.csv,734,Nikolay Patrakov,35,Intl State,RUS,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,735,Marc Perisa,37,---,DEU,00:01:00,03:16:47,03:13:29,00:01:38,00:06:51,06:39:45
+ironman-70.3-pula-20170917.csv,736,Alen Peruško,39,APO,HRV,00:00:35,02:52:39,02:12:34,00:00:49,00:03:33,05:10:10
+ironman-70.3-pula-20170917.csv,737,Iain Phillips,36,---,NZL,00:00:42,02:49:35,01:57:53,00:01:29,00:02:22,04:52:01
+ironman-70.3-pula-20170917.csv,738,Oryan Freeman,---,---,ZAF,00:00:41,02:57:46,02:15:08,00:01:33,00:06:33,05:21:41
+ironman-70.3-pula-20170917.csv,739,Andreas Pink,35,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,740,Riccardo Pintossi,37,Bs,ITA,00:00:59,03:03:27,02:11:25,00:01:58,00:04:32,05:22:21
+ironman-70.3-pula-20170917.csv,741,Hubert Piotrowicz,38,---,POL,00:00:47,02:49:06,01:54:15,00:01:57,00:01:46,04:47:51
+ironman-70.3-pula-20170917.csv,742,Hendrik Plantinga,36,---,NLD,00:00:45,02:46:20,02:00:18,00:01:45,00:02:42,04:51:50
+ironman-70.3-pula-20170917.csv,743,Pierpaolo Poggi,38,ravenna,ITA,00:00:47,03:17:55,02:30:45,00:03:15,00:05:02,05:57:44
+ironman-70.3-pula-20170917.csv,744,Guido Polcan,37,Treviso,ITA,00:00:56,03:05:53,02:46:17,00:01:57,00:03:39,05:58:42
+ironman-70.3-pula-20170917.csv,745,Jaco Potgieter,37,---,ZAF,00:00:52,03:12:14,02:24:42,00:02:18,00:05:01,05:45:07
+ironman-70.3-pula-20170917.csv,746,Petr Poupa,34,Prague,CZE,00:00:50,02:49:38,01:45:35,00:01:58,00:02:26,04:40:27
+ironman-70.3-pula-20170917.csv,747,Yves Prinsen,37,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,748,Andrea Rado,39,Pordenone,ITA,00:00:43,02:52:58,01:38:05,00:01:08,00:03:35,04:36:29
+ironman-70.3-pula-20170917.csv,749,Aleg Ragavenka,37,APO,BLR,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,750,Edo Rajcevic,35,Hrvaška / Croatia,HRV,00:01:49,02:47:20,01:39:53,00:01:15,00:02:37,04:32:54
+ironman-70.3-pula-20170917.csv,751,Gernot Rausch,37,---,AUT,00:00:56,02:59:27,02:15:47,00:01:08,00:03:25,05:20:43
+ironman-70.3-pula-20170917.csv,752,Igor Razumnyy,36,---,RUS,00:00:51,03:36:11,02:37:43,00:04:02,00:03:51,06:22:38
+ironman-70.3-pula-20170917.csv,753,Reinhold Reiter,38,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,754,Markus Reiter,35,---,AUT,00:00:48,02:56:11,01:51:19,00:01:39,00:01:58,04:51:55
+ironman-70.3-pula-20170917.csv,755,Emanuele Francesco Ricchi,36,Milan,ITA,00:00:58,03:31:45,02:47:05,00:02:40,00:05:39,06:28:07
+ironman-70.3-pula-20170917.csv,756,Andrew Ritter,39,MI,USA,00:00:47,02:58:21,01:53:32,00:01:42,00:05:00,04:59:22
+ironman-70.3-pula-20170917.csv,757,Samuele Roselli,39,TOSCANA,ITA,00:00:49,02:52:19,01:40:33,00:01:22,00:02:04,04:37:07
+ironman-70.3-pula-20170917.csv,758,Giuseppe Sarta,38,Como,ITA,00:00:48,03:10:48,02:02:51,00:01:13,00:02:13,05:17:53
+ironman-70.3-pula-20170917.csv,759,Vladimir Sarybekov,35,Almaty,KAZ,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,760,Nicola Scagnolari,36,VR,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,761,Ivan Schellens,36,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,762,René Schumann,36,---,DEU,00:00:44,02:34:22,01:43:39,00:01:00,00:01:33,04:21:18
+ironman-70.3-pula-20170917.csv,763,Aleš Seme,39,gorenjska,SVN,00:00:51,02:46:12,02:25:51,00:01:49,00:02:30,05:17:13
+ironman-70.3-pula-20170917.csv,764,Andrea Sonema,37,VE,ITA,00:00:47,03:18:58,02:16:45,00:02:14,00:03:33,05:42:17
+ironman-70.3-pula-20170917.csv,765,Jonas Spinoy,37,Rajasthan,BEL,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,766,William Stockley,37,London,GBR,00:00:46,02:57:25,02:02:01,00:02:51,00:01:39,05:04:42
+ironman-70.3-pula-20170917.csv,767,Ivan Sturma,36,Friuli,ITA,00:00:52,02:55:59,01:55:56,00:01:26,00:02:23,04:56:36
+ironman-70.3-pula-20170917.csv,768,Matus Sura,34,Banska Bystrica,SVK,00:00:53,03:06:14,02:20:13,00:01:40,00:02:50,05:31:50
+ironman-70.3-pula-20170917.csv,769,Akos Szabo,35,---,HUN,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,770,Wojciech Szczepaniak,39,---,POL,00:00:40,03:00:05,02:36:53,00:01:44,00:02:28,05:41:50
+ironman-70.3-pula-20170917.csv,771,Harald Tasch,37,---,DEU,00:00:52,---,---,00:05:57,---,DNF
+ironman-70.3-pula-20170917.csv,772,Valikhan Ten,38,Almaty Province,KAZ,00:00:50,03:14:36,02:14:01,00:01:41,00:04:48,05:35:56
+ironman-70.3-pula-20170917.csv,773,Donovan Thatcher,37,---,ZAF,00:00:55,04:09:26,---,00:03:18,---,DNF
+ironman-70.3-pula-20170917.csv,774,Alexandre Thomas,37,---,FRA,00:00:51,02:54:47,02:33:56,00:01:48,00:04:13,05:35:35
+ironman-70.3-pula-20170917.csv,775,Yerzhan Tsenov,35,Almaty,KAZ,00:00:48,03:03:53,02:30:22,00:01:42,00:02:44,05:39:29
+ironman-70.3-pula-20170917.csv,776,Rafal Urbanski,36,---,POL,00:00:44,02:49:56,01:43:35,00:01:07,00:03:50,04:39:12
+ironman-70.3-pula-20170917.csv,777,Tom Van De Wiele,34,---,BEL,00:00:41,02:27:53,01:40:57,00:00:50,00:01:52,04:12:13
+ironman-70.3-pula-20170917.csv,778,Grigor Varbanov,37,---,BGR,00:00:43,03:14:15,01:58:28,00:01:39,00:03:05,05:18:10
+ironman-70.3-pula-20170917.csv,779,Dalibor Vujevic,34,splitsko dalmatinska županija,HRV,00:00:42,02:28:56,01:27:12,00:00:56,00:01:57,03:59:43
+ironman-70.3-pula-20170917.csv,780,Philip Weinert,34,---,DEU,00:00:46,02:45:16,02:05:21,00:01:14,00:02:51,04:55:28
+ironman-70.3-pula-20170917.csv,781,Francesco Wesel,34,APO,DEU,00:00:56,02:53:30,01:46:20,00:01:34,00:06:07,04:48:27
+ironman-70.3-pula-20170917.csv,782,Chris Wilkinson,35,North Yorkshire,GBR,00:00:48,02:45:40,01:48:23,00:01:54,00:03:17,04:40:02
+ironman-70.3-pula-20170917.csv,783,Pascal Willaert,36,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,784,Galimzhan Yessenov,35,Almaty obl,KAZ,00:00:54,03:00:59,02:00:44,00:01:35,00:04:20,05:08:32
+ironman-70.3-pula-20170917.csv,785,Alberto Zangrando,36,Italia,ITA,00:00:48,03:08:16,01:53:54,00:04:33,00:04:26,05:11:57
+ironman-70.3-pula-20170917.csv,786,Pierre Agazzi,44,CREMONA,ITA,00:00:51,02:46:08,02:03:44,00:01:11,00:02:57,04:54:51
+ironman-70.3-pula-20170917.csv,787,Luca Andretta,43,Vicenza,ITA,00:00:45,02:42:30,01:38:38,00:01:01,00:02:15,04:25:09
+ironman-70.3-pula-20170917.csv,788,Luca Angeli,41,ITALIA,ITA,00:00:41,02:38:28,01:40:23,00:01:00,00:02:56,04:23:28
+ironman-70.3-pula-20170917.csv,789,Andrea Babici,42,Trieste,ITA,00:00:40,02:37:09,01:48:12,00:00:51,00:02:00,04:28:52
+ironman-70.3-pula-20170917.csv,790,Saulius Batavicius,44,Vilnius,LTU,00:00:49,02:41:10,01:30:01,00:01:03,00:02:00,04:15:03
+ironman-70.3-pula-20170917.csv,791,Guy Bellamy,44,London,GBR,00:00:50,02:54:55,01:42:33,00:01:41,00:03:25,04:43:24
+ironman-70.3-pula-20170917.csv,792,Davide Benetton,43,TV,ITA,00:00:44,02:58:16,01:36:31,00:02:01,00:03:24,04:40:56
+ironman-70.3-pula-20170917.csv,793,Matteo Bergamo,43,Italy,ITA,00:00:45,03:11:38,02:40:58,00:01:32,00:03:39,05:58:32
+ironman-70.3-pula-20170917.csv,794,Luca Bernacchia,39,AN,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,795,Nicola Bertoldi,41,Vi,ITA,00:00:53,03:00:16,02:21:17,00:01:05,00:02:20,05:25:51
+ironman-70.3-pula-20170917.csv,796,Francesco Bianchi,43,italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,797,Boris Bogdan,41,---,CHE,00:00:55,02:42:06,01:56:44,00:01:43,00:03:16,04:44:44
+ironman-70.3-pula-20170917.csv,798,Andreas Bolzer,41,---,AUT,00:00:43,02:42:07,01:47:19,00:01:23,00:02:29,04:34:01
+ironman-70.3-pula-20170917.csv,799,Raphael Boro,43,---,FRA,00:00:54,03:12:18,02:32:16,00:02:19,00:04:54,05:52:41
+ironman-70.3-pula-20170917.csv,800,Willem Botha,40,---,ZAF,00:00:51,02:46:13,02:04:10,00:00:58,00:04:09,04:56:21
+ironman-70.3-pula-20170917.csv,801,Peter Cammack,42,---,GBR,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,802,Sergio Candotti,42,UD,ITA,00:00:47,02:53:35,01:56:49,00:00:58,00:01:58,04:54:07
+ironman-70.3-pula-20170917.csv,803,Roberto Carna,43,Italia,ITA,00:00:51,02:55:03,02:09:51,00:01:39,00:04:59,05:12:23
+ironman-70.3-pula-20170917.csv,804,Lorenzo Carotti,44,Cremona,ITA,00:00:51,03:17:06,02:35:06,00:01:17,00:04:22,05:58:42
+ironman-70.3-pula-20170917.csv,805,Gaston Celaya,41,Buenos Aires,ARG,00:00:45,03:07:50,02:23:06,00:01:23,00:02:58,05:36:02
+ironman-70.3-pula-20170917.csv,806,Johan Coetzee,44,Eastern Cape,ZAF,00:00:59,03:52:46,02:41:59,00:03:15,00:08:44,06:47:43
+ironman-70.3-pula-20170917.csv,807,Philippe Corthésy,43,---,CHE,00:00:55,03:21:15,02:21:01,00:01:58,00:06:48,05:51:57
+ironman-70.3-pula-20170917.csv,808,Scott Crooks,41,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,809,Lorenzo Cuocolo,42,GE,ITA,00:00:44,03:04:57,01:43:40,00:02:51,00:07:33,04:59:45
+ironman-70.3-pula-20170917.csv,810,Dariusz Cwik,42,---,POL,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,811,Chris Dam,43,---,AUT,00:00:44,02:32:56,01:44:40,00:00:52,00:02:20,04:21:32
+ironman-70.3-pula-20170917.csv,812,Rodolfo De Franceschi,41,PN,ITA,00:00:48,02:53:50,02:01:23,00:01:37,00:03:12,05:00:50
+ironman-70.3-pula-20170917.csv,813,Filippo Deon,41,Venezia,ITA,00:00:48,02:58:39,01:58:12,00:02:55,00:02:31,05:03:05
+ironman-70.3-pula-20170917.csv,814,Tomislav Ðuricin,41,Varaždinska,HRV,00:00:50,02:55:40,01:56:10,00:01:26,00:02:55,04:57:01
+ironman-70.3-pula-20170917.csv,815,Massimiliano Durisotti,43,Udine,ITA,00:00:52,02:55:42,02:02:01,00:03:17,00:02:31,05:04:23
+ironman-70.3-pula-20170917.csv,816,Marcus Engelke,43,---,DEU,00:00:47,02:50:55,01:40:11,00:01:12,00:04:40,04:37:45
+ironman-70.3-pula-20170917.csv,817,Giacomo Feltre,42,VR,ITA,00:00:39,02:36:59,01:36:11,00:01:33,00:01:48,04:17:10
+ironman-70.3-pula-20170917.csv,818,Wilhelm Franc,41,---,CHE,00:00:37,03:00:04,02:24:06,00:01:37,00:03:12,05:29:36
+ironman-70.3-pula-20170917.csv,819,István Gál,42,---,HUN,00:00:58,03:02:32,02:14:42,00:01:58,00:04:30,05:24:40
+ironman-70.3-pula-20170917.csv,820,Jirí Geisler,40,Czech Republic,CZE,00:00:45,02:29:41,01:39:25,00:01:00,00:02:28,04:13:19
+ironman-70.3-pula-20170917.csv,821,Sebastjan Gergoric,39,Slovenia,SVN,00:00:42,02:31:39,01:27:20,00:00:50,00:02:24,04:02:55
+ironman-70.3-pula-20170917.csv,822,Luca Ghelli,43,Arezzo,ITA,00:00:43,02:49:48,01:39:12,00:01:30,00:02:51,04:34:04
+ironman-70.3-pula-20170917.csv,823,Jack Glezer,43,---,POL,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,824,Massimo Gregori,43,vicenza,ITA,00:00:50,02:58:11,01:57:25,00:01:37,00:02:37,05:00:40
+ironman-70.3-pula-20170917.csv,825,Bartosz Guss,42,---,POL,00:00:47,03:08:31,02:28:09,00:01:34,00:04:57,05:43:58
+ironman-70.3-pula-20170917.csv,826,Bob Hamerslag,42,---,NLD,00:01:32,03:50:03,02:42:31,00:01:54,00:06:42,06:42:42
+ironman-70.3-pula-20170917.csv,827,Tomáš Hovorka,41,CZE,CZE,00:00:56,03:13:06,02:49:47,00:01:45,00:04:08,06:09:42
+ironman-70.3-pula-20170917.csv,828,Mykhailo Iakotiuk,42,APO,UKR,00:00:55,03:14:23,02:04:33,00:01:57,00:02:25,05:24:13
+ironman-70.3-pula-20170917.csv,829,Vittorio Iantorno,43,CS,ITA,00:00:49,02:44:15,01:32:17,00:01:11,00:02:50,04:21:22
+ironman-70.3-pula-20170917.csv,830,Jose M. Ibarguren,40,---,ITA,00:00:43,03:05:52,02:02:44,00:01:32,00:04:11,05:15:02
+ironman-70.3-pula-20170917.csv,831,Dominik Issler,42,---,CHE,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,832,Alexander Janac,43,---,AUT,00:00:54,02:55:25,01:59:37,00:01:24,00:02:32,04:59:52
+ironman-70.3-pula-20170917.csv,833,Péter Jovián,44,---,HUN,00:00:56,03:03:48,02:28:56,00:02:30,00:09:33,05:45:43
+ironman-70.3-pula-20170917.csv,834,Miroslav Joza,44,Karlovy Vary,CZE,00:00:44,02:46:09,01:40:55,00:03:02,00:03:04,04:33:54
+ironman-70.3-pula-20170917.csv,835,Volodymyr Kashevko,39,---,UKR,00:00:45,03:05:08,02:19:16,00:00:55,00:03:12,05:29:16
+ironman-70.3-pula-20170917.csv,836,Michal Kazimierczak,41,---,POL,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,837,András Kemény,44,---,HUN,00:00:47,02:38:02,02:02:01,00:01:01,00:02:21,04:44:12
+ironman-70.3-pula-20170917.csv,838,Jakob Kisser,40,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,839,Akira Kitayama,43,TOKYO,JPN,00:00:57,03:21:28,01:36:49,00:01:55,00:05:38,05:06:47
+ironman-70.3-pula-20170917.csv,840,Andrija Kostelac,40,Grad Zagreb,HRV,00:00:45,03:12:07,02:20:27,00:01:45,00:05:02,05:40:06
+ironman-70.3-pula-20170917.csv,841,Remigiusz Kot,43,---,POL,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,842,Savo Kovacevic,41,Republic of Srpska,SRB,00:00:47,03:11:32,01:51:35,00:03:48,00:04:42,05:12:24
+ironman-70.3-pula-20170917.csv,843,Michal Kuzniarek,44,---,POL,00:00:51,03:18:27,02:41:13,00:02:18,00:03:22,06:06:11
+ironman-70.3-pula-20170917.csv,844,Lorenzo Lancellotti,41,Italy,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,845,Bartosz Lassak,40,---,POL,00:00:45,03:13:59,02:15:52,00:01:25,00:03:58,05:35:59
+ironman-70.3-pula-20170917.csv,846,Mario Leuchtenmueller,44,---,AUT,00:00:40,02:26:37,01:34:43,00:00:52,00:01:41,04:04:33
+ironman-70.3-pula-20170917.csv,847,Josef Lohninger,40,---,AUT,00:00:42,03:12:46,02:18:27,00:01:39,00:05:04,05:38:38
+ironman-70.3-pula-20170917.csv,848,Gernot Loibnegger,41,---,AUT,00:00:37,02:41:15,01:52:53,00:01:18,00:02:44,04:38:47
+ironman-70.3-pula-20170917.csv,849,Alex Lugt,44,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,850,D M,40,---,CHE,00:00:43,03:08:30,02:20:11,00:01:19,00:03:47,05:34:30
+ironman-70.3-pula-20170917.csv,851,Giovanni Mantovani,40,Italia,ITA,00:00:51,03:13:34,02:17:09,00:02:01,00:05:03,05:38:38
+ironman-70.3-pula-20170917.csv,852,Matteo Marton,42,Venezia,ITA,00:00:42,03:02:09,01:58:27,00:01:09,00:02:32,05:04:59
+ironman-70.3-pula-20170917.csv,853,Maurizio Mauro,44,venezia,ITA,00:00:43,02:46:49,01:49:30,00:01:09,00:03:38,04:41:49
+ironman-70.3-pula-20170917.csv,854,Leonardo Meier,42,---,CHE,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,855,Stefano Mitton,43,AL,ITA,00:00:52,03:10:32,02:15:10,00:01:52,00:06:15,05:34:41
+ironman-70.3-pula-20170917.csv,856,Bernd Mueller-Gerberding,41,---,DEU,00:00:38,02:45:10,01:47:15,00:01:06,00:05:07,04:39:16
+ironman-70.3-pula-20170917.csv,857,Luca Nadotti,41,Parma,ITA,00:00:35,02:52:02,01:45:59,00:02:50,00:04:55,04:46:21
+ironman-70.3-pula-20170917.csv,858,Hendrik Nel,42,London,GBR,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,859,Andrej Novljan,40,APO,SVN,00:00:51,03:06:51,02:04:37,00:02:50,00:04:49,05:19:58
+ironman-70.3-pula-20170917.csv,860,Fabio Orlando,41,BG,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,861,Claudio Pasini,44,Milano,ITA,---,---,---,---,---,DQ
+ironman-70.3-pula-20170917.csv,862,Libor Pavelka,40,Czech,CZE,00:00:43,02:37:16,01:31:04,00:01:16,00:01:34,04:11:53
+ironman-70.3-pula-20170917.csv,863,Ivan Pelizzari,40,modena,ITA,00:00:45,02:56:20,01:37:36,00:01:10,00:02:20,04:38:11
+ironman-70.3-pula-20170917.csv,864,Daniele Perina,40,VERONA,ITA,00:00:48,03:00:29,02:05:58,00:01:25,00:04:32,05:13:12
+ironman-70.3-pula-20170917.csv,865,Alessandro Pinciroli,41,MI,ITA,00:00:42,03:01:06,02:08:53,00:02:13,00:03:53,05:16:47
+ironman-70.3-pula-20170917.csv,866,Samo Pitamic,43,/,SVN,00:00:51,02:50:22,02:14:19,00:02:16,00:03:14,05:11:02
+ironman-70.3-pula-20170917.csv,867,Marcin Poltrok,---,---,POL,00:00:46,03:14:49,02:14:24,00:01:59,00:05:06,05:37:04
+ironman-70.3-pula-20170917.csv,868,Boris Predojevic,41,Istra,HRV,00:00:46,03:03:52,02:22:34,00:01:30,00:02:50,05:31:32
+ironman-70.3-pula-20170917.csv,869,James Ro,43,CO,USA,00:00:55,02:56:28,02:05:23,00:01:53,00:03:58,05:08:37
+ironman-70.3-pula-20170917.csv,870,Fabio Sala,41,Lecco,ITA,00:00:48,02:54:01,01:50:22,00:01:37,00:03:28,04:50:16
+ironman-70.3-pula-20170917.csv,871,Erdei Sándor,44,---,HUN,00:00:48,02:59:04,02:23:13,00:01:58,00:03:32,05:28:35
+ironman-70.3-pula-20170917.csv,872,Sandro Scalise,44,---,DEU,00:00:46,03:05:40,01:42:50,00:01:45,00:04:35,04:55:36
+ironman-70.3-pula-20170917.csv,873,Friedrich Schobert,42,---,DEU,00:00:49,02:50:31,01:50:06,00:00:59,00:02:39,04:45:04
+ironman-70.3-pula-20170917.csv,874,Markus Schoerg,43,---,AUT,00:00:53,02:48:01,02:23:04,00:01:51,00:03:47,05:17:36
+ironman-70.3-pula-20170917.csv,875,Martin Schoerkmaier,40,---,AUT,00:00:50,02:48:28,01:39:09,00:02:40,00:04:23,04:35:30
+ironman-70.3-pula-20170917.csv,876,Johannes Schorn,40,---,AUT,00:00:48,02:41:07,01:36:48,00:01:32,00:02:14,04:22:29
+ironman-70.3-pula-20170917.csv,877,Rob Shaw,44,GA,USA,00:00:51,03:04:52,02:25:20,00:01:51,00:04:03,05:36:57
+ironman-70.3-pula-20170917.csv,879,Jurica Šperanda,42,APO,HRV,00:00:53,03:07:49,01:58:32,00:01:59,00:04:51,05:14:04
+ironman-70.3-pula-20170917.csv,880,Jacek Stecko,43,---,POL,00:00:46,02:40:52,01:45:47,00:00:57,00:01:48,04:30:10
+ironman-70.3-pula-20170917.csv,881,Michael Stucki,44,---,CHE,00:00:45,02:44:12,01:32:39,00:01:20,00:02:10,04:21:06
+ironman-70.3-pula-20170917.csv,882,Dawid Stwora,40,---,POL,00:00:37,02:40:46,01:40:59,00:00:48,00:01:51,04:25:01
+ironman-70.3-pula-20170917.csv,883,Michael Thorpe,39,---,ZAF,---,---,---,---,---,DNF
+ironman-70.3-pula-20170917.csv,884,James Robert Trembath,40,---,GBR,00:00:46,02:45:25,01:50:27,00:01:31,00:03:26,04:41:35
+ironman-70.3-pula-20170917.csv,885,Jeffrey Turnbull,40,SC,USA,00:00:41,02:54:37,01:58:14,00:01:58,00:02:50,04:58:20
+ironman-70.3-pula-20170917.csv,886,Ugo Tutino,43,Italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,887,Tom Verbruggen,43,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,888,Emanuele Veronese,43,ITA,ITA,00:00:54,03:13:41,02:17:10,00:02:31,00:02:50,05:37:06
+ironman-70.3-pula-20170917.csv,889,Leonardo Vigni,43,siena,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,890,Marcin Wasik,40,---,POL,00:00:44,03:06:45,01:53:58,00:01:19,00:04:15,05:07:01
+ironman-70.3-pula-20170917.csv,891,Hans-Peter Wograndl,41,---,AUT,00:00:46,02:48:32,01:54:31,00:01:00,00:02:46,04:47:35
+ironman-70.3-pula-20170917.csv,892,Dawid Zagrabski,42,---,POL,00:00:48,03:02:09,02:23:55,00:01:19,00:03:53,05:32:04
+ironman-70.3-pula-20170917.csv,893,Christian Zahradnicek,44,---,AUT,00:00:49,03:19:46,02:05:59,00:01:50,00:03:24,05:31:48
+ironman-70.3-pula-20170917.csv,894,Giulio Zucal,40,TN,ITA,00:00:50,03:04:44,01:48:58,00:01:43,00:02:36,04:58:51
+ironman-70.3-pula-20170917.csv,895,Patrik Zupicic,43,slovenija,SVN,00:00:53,03:17:06,02:00:27,00:01:21,00:08:52,05:28:39
+ironman-70.3-pula-20170917.csv,896,Hrvoje Akmadžic,46,Zagreb,HRV,00:00:52,03:04:16,01:49:37,00:02:34,00:04:09,05:01:28
+ironman-70.3-pula-20170917.csv,897,Denis Ancion,49,---,BEL,00:01:08,03:05:04,02:22:07,00:03:17,00:07:03,05:38:39
+ironman-70.3-pula-20170917.csv,898,Sergio Antonini,46,Verona,ITA,00:00:50,02:59:07,02:32:52,00:02:16,00:03:15,05:38:20
+ironman-70.3-pula-20170917.csv,899,Christian Babich,45,Trieste,ITA,00:00:49,03:06:38,02:01:46,00:01:10,00:03:08,05:13:31
+ironman-70.3-pula-20170917.csv,900,Simone Baldi,45,Firenze,ITA,00:00:52,02:41:48,01:45:06,00:01:28,00:02:47,04:32:01
+ironman-70.3-pula-20170917.csv,901,Dmitry Balyabin,48,Russia,RUS,00:00:49,02:51:16,01:51:26,00:01:38,00:03:21,04:48:30
+ironman-70.3-pula-20170917.csv,902,Tomas Barazza,49,TV,ITA,00:01:00,03:06:12,02:08:04,00:01:52,00:03:58,05:21:06
+ironman-70.3-pula-20170917.csv,903,Alain Barbera,46,Savona,ITA,00:00:52,02:59:11,01:49:27,00:02:08,00:03:34,04:55:12
+ironman-70.3-pula-20170917.csv,904,Michele Bonati,48,Verona,ITA,00:01:26,03:24:01,03:13:06,00:01:53,00:07:43,06:48:09
+ironman-70.3-pula-20170917.csv,905,Roberto Bosisio,49,Lecco,ITA,00:00:45,02:56:42,02:02:54,00:01:28,00:04:09,05:05:58
+ironman-70.3-pula-20170917.csv,906,Krzysztof Branny,47,---,POL,00:01:04,03:27:09,02:15:45,00:02:10,00:06:30,05:52:38
+ironman-70.3-pula-20170917.csv,907,Pål Bratbak,47,---,NOR,00:00:58,02:56:52,01:49:53,00:01:41,00:03:25,04:52:49
+ironman-70.3-pula-20170917.csv,908,Werner Braun,47,---,AUT,00:00:51,04:11:53,---,00:01:39,00:03:53,DNF
+ironman-70.3-pula-20170917.csv,909,Roger Brescianini,47,BS,ITA,00:00:55,02:46:18,01:57:11,00:01:43,00:03:53,04:50:00
+ironman-70.3-pula-20170917.csv,910,Alvise Busetto,46,Ve,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,911,Emidio Cacciapuoti,46,MI,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,912,Gianluca Cacciatori,45,Verona,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,913,Federico Caleri,46,arezzo,ITA,00:00:50,03:02:48,01:49:16,00:02:01,00:02:27,04:57:22
+ironman-70.3-pula-20170917.csv,914,David Campos Pavon,46,---,ESP,00:00:53,03:23:27,02:06:34,00:01:52,00:04:29,05:37:15
+ironman-70.3-pula-20170917.csv,915,Luca Carrara,49,Bergamo,ITA,00:00:52,02:56:54,02:30:59,00:03:37,00:04:32,05:36:54
+ironman-70.3-pula-20170917.csv,916,Amit Chaturvedi,45,RAJASTHAN,IND,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,917,Carmelo Cinturrino,47,Udine,ITA,00:00:44,02:40:50,01:53:38,00:01:00,00:02:58,04:39:10
+ironman-70.3-pula-20170917.csv,918,Tom Cof,48,Slovenia,SVN,00:00:46,02:54:39,02:14:09,00:02:07,00:04:00,05:15:41
+ironman-70.3-pula-20170917.csv,919,Romeo Cremascoli,49,italia,ITA,---,---,---,---,---,DQ
+ironman-70.3-pula-20170917.csv,920,Miguel Crespo,46,SAN LUIS / SAN LUIS,ARG,00:00:52,03:00:22,02:15:19,00:02:11,00:04:54,05:23:38
+ironman-70.3-pula-20170917.csv,921,Ronan Curran,48,Co Meath,IRL,00:00:57,03:02:37,02:11:49,00:03:11,00:03:38,05:22:12
+ironman-70.3-pula-20170917.csv,922,Stefano Cutrupello,47,padova,ITA,00:00:56,03:09:37,02:32:49,00:02:26,00:08:50,05:54:38
+ironman-70.3-pula-20170917.csv,923,Deon De Lange,49,---,ZAF,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,924,Pk De Villiers,47,---,ZAF,00:00:40,02:52:14,01:54:57,00:00:49,00:03:03,04:51:43
+ironman-70.3-pula-20170917.csv,925,Rob Denekamp,46,---,NLD,00:00:52,02:56:54,02:49:05,00:01:43,00:02:55,05:51:29
+ironman-70.3-pula-20170917.csv,926,Paul Eager,49,IN,USA,00:00:50,03:05:47,02:09:55,00:01:52,00:04:11,05:22:35
+ironman-70.3-pula-20170917.csv,927,Peter Faber,47,---,DEU,00:00:56,02:46:08,01:51:13,00:01:38,00:03:19,04:43:14
+ironman-70.3-pula-20170917.csv,928,Roberto Faccio,49,Cuneo,ITA,00:00:52,02:57:48,01:53:45,00:01:52,00:03:48,04:58:05
+ironman-70.3-pula-20170917.csv,929,Dante Fagone,49,ITALY,ITA,00:00:53,03:10:21,01:54:51,00:02:50,00:04:20,05:13:15
+ironman-70.3-pula-20170917.csv,930,Loris Fanton,45,venezia,ITA,00:00:44,02:50:52,01:33:04,00:01:17,00:02:00,04:27:57
+ironman-70.3-pula-20170917.csv,931,Alex Favareto,45,---,BRA,00:47:49,02:50:24,02:00:42,00:02:32,00:02:45,05:44:12
+ironman-70.3-pula-20170917.csv,932,Maurizio Fegac,47,TRIESTE,ITA,00:00:53,03:04:21,02:03:45,00:01:52,00:02:47,05:13:38
+ironman-70.3-pula-20170917.csv,933,Dominique Fouda,46,---,FRA,00:00:54,03:08:06,02:07:31,00:02:34,00:05:30,05:24:35
+ironman-70.3-pula-20170917.csv,934,Garth Fox,46,---,GBR,00:00:43,02:47:42,01:50:43,00:01:25,00:02:41,04:43:14
+ironman-70.3-pula-20170917.csv,935,Ivan Frusconi,47,Cremona,ITA,00:01:54,03:08:50,02:21:37,00:03:22,00:05:15,05:40:58
+ironman-70.3-pula-20170917.csv,936,John Fullick,49,kent,GBR,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,937,Piergiovanni Furlanis,48,Ve,ITA,00:00:47,02:51:41,01:42:47,00:01:32,00:03:21,04:40:08
+ironman-70.3-pula-20170917.csv,938,Mauro Fusi,45,BS,ITA,00:00:44,03:02:03,01:58:15,00:01:38,00:03:23,05:06:03
+ironman-70.3-pula-20170917.csv,939,Marco Giacomuzzo,44,vicenza,ITA,00:00:39,02:48:22,02:07:43,00:01:21,00:05:13,05:03:18
+ironman-70.3-pula-20170917.csv,940,Milan Glavaski,47,---,HUN,00:00:49,03:14:23,---,00:02:09,00:05:02,DNF
+ironman-70.3-pula-20170917.csv,941,Emmanuel Goetz,48,---,FRA,00:00:51,03:09:19,01:52:03,00:01:39,00:02:52,05:06:44
+ironman-70.3-pula-20170917.csv,942,Michael Gruber,47,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,943,Michal Havlicek,46,Karlovy Vary,CZE,00:00:51,03:03:36,02:21:23,00:01:40,00:03:20,05:30:50
+ironman-70.3-pula-20170917.csv,944,Christophe Houdemer,46,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,945,Marko Järvinen,46,APO,FIN,00:00:38,02:28:45,01:36:12,00:01:00,00:01:49,04:08:24
+ironman-70.3-pula-20170917.csv,946,Iztok Juvan,47,APO,SVN,00:00:50,03:11:28,02:22:10,00:01:44,00:05:38,05:41:50
+ironman-70.3-pula-20170917.csv,947,Vladimir Kantchev,47,"Sofia
+",BGR,00:00:56,03:07:10,02:28:42,00:01:38,00:04:03,05:42:29
+ironman-70.3-pula-20170917.csv,948,Uros Kepic,48,Russia,SVN,00:00:46,02:44:26,01:46:42,00:01:00,00:02:11,04:35:05
+ironman-70.3-pula-20170917.csv,949,Olav Killingbergtro,46,---,NOR,00:01:00,03:02:09,02:08:07,00:01:45,00:03:45,05:16:46
+ironman-70.3-pula-20170917.csv,950,Igor Krajnc,45,Slovenia,SVN,00:01:06,03:10:40,02:34:43,00:01:51,00:04:00,05:52:20
+ironman-70.3-pula-20170917.csv,951,Stefano Landini,45,Imperia,ITA,00:01:01,03:06:04,01:49:55,00:02:16,00:03:44,05:03:00
+ironman-70.3-pula-20170917.csv,952,Matthias Linde,48,---,DEU,00:00:48,03:03:26,02:00:07,00:01:33,00:05:27,05:11:21
+ironman-70.3-pula-20170917.csv,953,Ronald Livius,48,---,NLD,00:00:55,02:53:59,02:04:52,00:02:22,00:04:15,05:06:23
+ironman-70.3-pula-20170917.csv,954,Marcel Makaloey,49,---,NLD,00:00:47,02:57:21,02:34:32,00:01:35,00:04:16,05:38:31
+ironman-70.3-pula-20170917.csv,955,Baldassare Mantova,45,APO,ITA,00:00:48,02:52:25,02:05:17,00:01:40,00:04:38,05:04:48
+ironman-70.3-pula-20170917.csv,956,michele martinello,48,venezia,ITA,00:01:31,03:32:09,03:07:09,00:03:12,00:04:22,06:48:23
+ironman-70.3-pula-20170917.csv,957,Daniel Marušic,45,DUBROVNIK,HRV,00:00:45,03:01:37,01:44:58,00:01:31,00:02:16,04:51:07
+ironman-70.3-pula-20170917.csv,958,Frederic Mato,46,---,FRA,00:00:54,03:03:54,02:06:04,00:03:24,00:06:12,05:20:28
+ironman-70.3-pula-20170917.csv,959,Neil Mcbain,48,---,GBR,00:01:03,03:16:07,01:47:03,00:02:52,00:06:41,05:13:46
+ironman-70.3-pula-20170917.csv,960,Lior Melnik,47,ISL,ISR,00:00:54,03:29:04,02:50:32,00:01:55,00:05:00,06:27:25
+ironman-70.3-pula-20170917.csv,961,Haris Memiševic,47,TK,---,00:00:42,03:08:15,02:37:46,00:01:47,00:05:11,05:53:41
+ironman-70.3-pula-20170917.csv,962,Dirk Mertens,49,---,BEL,00:00:37,02:32:08,01:36:22,00:00:59,00:01:48,04:11:54
+ironman-70.3-pula-20170917.csv,963,Carsten Michael,48,---,DEU,00:00:46,02:40:26,01:45:41,00:01:15,00:03:27,04:31:35
+ironman-70.3-pula-20170917.csv,964,Denis Monai,44,italia,ITA,00:00:49,02:50:49,02:02:40,00:01:37,00:02:06,04:58:01
+ironman-70.3-pula-20170917.csv,965,Cristian Moressa,46,Venezia,ITA,00:00:50,03:02:37,01:59:41,00:01:29,00:03:42,05:08:19
+ironman-70.3-pula-20170917.csv,966,Werner Moser,47,---,AUT,00:00:42,03:15:51,02:04:58,00:01:50,00:04:14,05:27:35
+ironman-70.3-pula-20170917.csv,967,Tamás Nagy,49,---,HUN,00:00:56,02:55:21,01:59:19,00:02:05,00:05:09,05:02:50
+ironman-70.3-pula-20170917.csv,968,Aleksandar Naumovic,46,APO,HRV,00:00:45,03:04:16,02:13:47,00:00:59,00:01:28,05:21:15
+ironman-70.3-pula-20170917.csv,969,Christian Nyberg,46,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,970,Sven Ollik,45,---,DEU,00:00:54,02:53:51,02:16:00,00:01:57,00:02:08,05:14:50
+ironman-70.3-pula-20170917.csv,971,Alen Osterman,45,Slovenia,SVN,00:00:44,02:56:10,02:17:04,00:02:38,00:02:38,05:19:14
+ironman-70.3-pula-20170917.csv,972,Mario Ignazio Palici Di Suni,48,Milano,ITA,00:01:05,03:01:18,01:42:27,00:03:03,00:03:23,04:51:16
+ironman-70.3-pula-20170917.csv,973,Christian Petutschnig,46,---,AUT,00:00:53,02:43:20,01:50:53,00:01:10,00:03:21,04:39:37
+ironman-70.3-pula-20170917.csv,974,Sinisa Pezelj,47,APO,HRV,00:00:51,02:56:26,02:04:46,00:01:41,00:02:33,05:06:17
+ironman-70.3-pula-20170917.csv,975,Stefano Pizzolato,45,VENEZIA,ITA,00:00:53,03:16:53,01:58:07,00:01:45,00:03:25,05:21:03
+ironman-70.3-pula-20170917.csv,976,Manfred Posch,48,---,AUT,00:00:52,02:58:08,01:55:50,00:02:27,00:04:03,05:01:20
+ironman-70.3-pula-20170917.csv,977,Holger Rackow,48,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,978,Ludovic Robert,45,---,FRA,00:00:44,02:53:30,01:37:01,00:01:10,00:02:18,04:34:43
+ironman-70.3-pula-20170917.csv,979,Hrvoje Sagrak,49,APO,HRV,00:00:47,02:56:50,01:50:08,00:02:00,00:04:32,04:54:17
+ironman-70.3-pula-20170917.csv,980,Denis Sartorello,46,treviso,ITA,00:01:00,02:57:53,01:48:34,00:03:49,00:02:37,04:53:53
+ironman-70.3-pula-20170917.csv,981,Andreas Schauer,49,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,982,Scott Sendmeyer,45,AE,USA,00:00:44,02:59:33,02:14:28,00:01:46,00:06:01,05:22:32
+ironman-70.3-pula-20170917.csv,983,Frank Siegrist,49,---,DEU,00:00:51,02:51:24,01:51:10,00:01:53,00:02:50,04:48:08
+ironman-70.3-pula-20170917.csv,984,Matteo Sironi,45,---,ITA,00:00:52,03:04:59,01:55:45,00:01:30,00:03:02,05:06:08
+ironman-70.3-pula-20170917.csv,985,Damir Španic,48,Splitsko-dalmatinska,HRV,00:00:55,03:40:29,02:29:49,00:02:46,00:06:49,06:20:48
+ironman-70.3-pula-20170917.csv,986,Harald Stainer,46,---,AUT,00:00:41,03:08:58,02:05:54,00:01:57,00:07:31,05:25:01
+ironman-70.3-pula-20170917.csv,987,Marko Šter,45,Ljubljana,SVN,00:00:56,02:46:34,02:22:40,00:01:23,00:04:46,05:16:19
+ironman-70.3-pula-20170917.csv,988,Gianluca Stevanella,48,Bolzano,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,989,Conrad Steyn,45,---,ZAF,00:00:47,02:58:18,02:05:49,00:02:50,00:05:15,05:12:59
+ironman-70.3-pula-20170917.csv,990,Alexander Straus,47,---,DEU,00:00:45,03:06:28,02:01:32,00:01:29,00:04:13,05:14:27
+ironman-70.3-pula-20170917.csv,991,Slobodan Suica,46,---,SRB,00:00:50,02:53:49,02:08:50,00:01:40,00:03:52,05:09:01
+ironman-70.3-pula-20170917.csv,992,Dominique Thomas,47,---,FRA,00:00:42,02:43:47,01:31:48,00:01:58,00:02:55,04:21:10
+ironman-70.3-pula-20170917.csv,993,Patrick Töpfer,47,---,DEU,00:00:54,02:48:52,02:18:03,00:01:04,00:02:49,05:11:42
+ironman-70.3-pula-20170917.csv,994,Andrea Tritarelli,48,APO,ITA,00:00:58,03:07:47,02:13:50,00:01:47,00:05:33,05:29:55
+ironman-70.3-pula-20170917.csv,995,Marco Turrini,44,CREMONA,ITA,00:00:54,03:19:54,02:26:15,00:02:01,00:04:18,05:53:22
+ironman-70.3-pula-20170917.csv,996,Jan Vanpraet,47,---,BEL,00:00:56,02:55:58,02:36:30,00:02:35,00:07:09,05:43:08
+ironman-70.3-pula-20170917.csv,997,István Varga,44,---,HUN,00:00:56,03:14:46,02:16:08,00:02:23,00:02:11,05:36:24
+ironman-70.3-pula-20170917.csv,998,Marcelo Vargens,46,Intl State,BRA,00:00:58,03:24:11,02:13:11,00:01:36,00:04:18,05:44:14
+ironman-70.3-pula-20170917.csv,999,Luca Vidor,49,TV,ITA,00:00:57,03:20:51,02:32:15,00:01:38,00:02:56,05:58:37
+ironman-70.3-pula-20170917.csv,1000,Mark Weinandt,46,AE,USA,00:00:56,03:51:17,02:55:49,00:02:28,00:08:05,06:58:35
+ironman-70.3-pula-20170917.csv,1001,Marcelo Weisselberger Araujo,47,---,CHL,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1002,Bernhard Westra,45,---,ZAF,00:00:47,02:46:54,01:52:35,00:01:28,00:04:23,04:46:07
+ironman-70.3-pula-20170917.csv,1003,Samiir Wheaton,47,rajasthan,IND,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1004,Nikolaj Winther,47,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1005,Alexander Wolf,49,---,DEU,00:00:39,02:31:11,01:34:51,00:01:14,00:02:00,04:09:55
+ironman-70.3-pula-20170917.csv,1006,Davide Zamengo,48,Italia,ITA,00:00:50,02:59:57,02:29:26,00:02:44,00:05:59,05:38:56
+ironman-70.3-pula-20170917.csv,1007,Rok Završnik,46,Slovenia,SVN,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1008,Mattheus Zevenbergen,47,---,NLD,00:00:52,02:55:15,02:43:45,00:03:15,00:05:15,05:48:22
+ironman-70.3-pula-20170917.csv,1009,Dusan Zezulka,45,Ceska republika,CZE,00:00:51,03:01:56,01:57:06,00:01:38,00:03:23,05:04:54
+ironman-70.3-pula-20170917.csv,1010,Marek Ziólkowski,45,---,POL,00:00:40,02:36:25,01:50:40,00:00:53,00:01:46,04:30:24
+ironman-70.3-pula-20170917.csv,1011,Tarcisio Alvarez-Rivero,53,NY,VEN,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1012,Laurent Antonioli,50,ITALIA,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1013,Silvio Baldan,53,venezia,ITA,00:00:44,03:21:18,02:15:16,00:01:25,00:02:43,05:41:26
+ironman-70.3-pula-20170917.csv,1014,Andrea Bandera,51,udine,ITA,00:01:03,03:14:08,01:59:52,00:03:06,00:04:37,05:22:46
+ironman-70.3-pula-20170917.csv,1015,Micke Bergman,50,Uusimaa,FIN,00:00:59,02:50:12,02:02:59,00:01:10,00:02:39,04:57:59
+ironman-70.3-pula-20170917.csv,1016,Gerald Binder,53,---,AUT,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1017,Falk Blechschmidt,52,---,DEU,00:00:46,02:44:10,01:57:09,00:01:07,00:02:55,04:46:07
+ironman-70.3-pula-20170917.csv,1018,Nicola Bragalli,50,Italia,ITA,00:00:53,03:02:25,01:52:45,00:02:22,00:05:07,05:03:32
+ironman-70.3-pula-20170917.csv,1019,Jacek Branny,52,---,POL,00:00:49,03:07:10,02:03:16,00:01:09,00:07:25,05:19:49
+ironman-70.3-pula-20170917.csv,1020,Iztok Brelih,50,Gorenjska,SVN,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1021,Robin Bresser,53,---,DEU,00:00:52,02:45:50,01:58:18,00:01:20,00:03:00,04:49:20
+ironman-70.3-pula-20170917.csv,1022,Gian Luca Bruzzone,50,Genova,ITA,00:00:50,03:35:30,02:23:36,00:01:36,00:03:50,06:05:22
+ironman-70.3-pula-20170917.csv,1023,Emanuele Caddeo,50,Lucca,ITA,00:00:46,02:59:02,01:57:24,00:01:18,00:03:14,05:01:44
+ironman-70.3-pula-20170917.csv,1024,Paolo Cappellini,50,FI,ITA,00:00:51,03:01:53,01:50:14,00:01:46,00:06:11,05:00:55
+ironman-70.3-pula-20170917.csv,1025,Angelo Casanova,52,---,CHE,00:00:48,02:45:06,01:49:39,00:01:41,00:02:54,04:40:08
+ironman-70.3-pula-20170917.csv,1026,Alberto Cirio,51,Italy,ITA,00:00:57,03:05:02,02:03:17,00:03:02,00:03:50,05:16:08
+ironman-70.3-pula-20170917.csv,1027,Enrico De Biasio,53,udine,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1028,Erwin Dr.Frey,54,---,AUT,00:00:56,03:02:22,02:24:33,00:01:24,00:04:31,05:33:46
+ironman-70.3-pula-20170917.csv,1029,Christof Federle,54,---,AUT,00:01:00,03:18:52,02:50:17,00:02:19,00:07:08,06:19:36
+ironman-70.3-pula-20170917.csv,1030,Günter Gaebert,52,---,DEU,00:00:58,02:58:14,02:07:52,00:01:34,00:03:15,05:11:53
+ironman-70.3-pula-20170917.csv,1031,Alfredo Gallistru,51,MI,ITA,00:00:58,03:45:00,02:19:38,00:01:47,00:03:30,06:10:53
+ironman-70.3-pula-20170917.csv,1032,Federico Ghitti,51,BS,ITA,00:01:00,03:31:37,03:14:49,00:03:36,00:10:22,07:01:24
+ironman-70.3-pula-20170917.csv,1033,Dino Giarchi,52,LUCCA,ITA,00:00:47,03:07:13,01:58:08,00:01:26,00:04:20,05:11:54
+ironman-70.3-pula-20170917.csv,1034,Jim Goodall,52,---,---,00:00:51,03:03:53,02:26:02,00:03:27,00:04:18,05:38:31
+ironman-70.3-pula-20170917.csv,1035,Dirk Griess,51,---,DEU,00:00:55,03:13:03,02:20:34,00:02:22,00:04:38,05:41:32
+ironman-70.3-pula-20170917.csv,1036,Lorenzo Guerrieri,49,Italia,ITA,00:01:06,02:51:36,01:44:45,00:02:10,00:03:03,04:42:40
+ironman-70.3-pula-20170917.csv,1037,Herbert Halvax,50,---,AUT,00:00:46,02:55:46,02:18:10,00:01:05,00:02:58,05:18:45
+ironman-70.3-pula-20170917.csv,1038,Mikko Heimonen,52,APO,FIN,00:00:43,02:39:14,01:42:05,00:00:55,00:02:08,04:25:05
+ironman-70.3-pula-20170917.csv,1039,Guy Jacobs,54,---,BEL,00:00:47,02:41:42,01:55:22,00:01:25,00:02:18,04:41:34
+ironman-70.3-pula-20170917.csv,1040,Twan Keijsers,52,---,NLD,00:00:48,03:03:14,02:13:10,00:02:03,00:03:30,05:22:45
+ironman-70.3-pula-20170917.csv,1041,Lars Knudsen,50,---,DNK,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1042,Tibor Korösi,53,---,HUN,00:00:48,02:57:52,02:45:08,00:01:42,00:03:34,05:49:04
+ironman-70.3-pula-20170917.csv,1043,Jurij Kutschma,54,---,AUT,00:00:49,03:14:57,02:09:45,00:02:00,00:05:53,05:33:24
+ironman-70.3-pula-20170917.csv,1044,Klaus Mäntysaari,50,APO,FIN,00:02:03,03:25:39,---,00:02:30,00:19:41,DNF
+ironman-70.3-pula-20170917.csv,1045,Steve Mifsud,50,Malta,MLT,00:00:49,02:49:50,02:16:31,00:03:05,00:03:48,05:14:03
+ironman-70.3-pula-20170917.csv,1046,Matjaž Mohoric,53,Slovenija,SVN,00:01:07,03:30:15,02:38:19,00:03:29,00:06:37,06:19:47
+ironman-70.3-pula-20170917.csv,1047,Massimo Pangrazzi,51,Trento,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1048,Piotr Pieniazek,51,---,POL,00:00:51,03:41:39,02:38:04,00:02:22,00:04:23,06:27:19
+ironman-70.3-pula-20170917.csv,1049,Vittorio Pisoni,50,italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1050,Paul Player,53,---,GBR,00:00:49,03:11:49,01:52:24,00:01:56,00:04:23,05:11:21
+ironman-70.3-pula-20170917.csv,1051,Giovanni Poli,54,CREMONA,ITA,00:00:57,03:31:15,02:35:04,00:02:41,00:08:15,06:18:12
+ironman-70.3-pula-20170917.csv,1052,Drazen Prodanic,50,---,HRV,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1053,Dario Riccobono,53,Italia,ITA,00:00:55,02:52:49,02:13:39,00:02:59,00:04:17,05:14:39
+ironman-70.3-pula-20170917.csv,1054,Michael Riedel,53,---,AUT,00:00:53,03:01:24,02:19:14,00:01:22,00:04:21,05:27:14
+ironman-70.3-pula-20170917.csv,1055,Bruno Roels,53,---,BEL,00:00:52,02:47:24,02:00:29,00:02:27,00:02:19,04:53:31
+ironman-70.3-pula-20170917.csv,1056,Lorenzo Sassi,50,FIRENZE,ITA,00:00:52,03:12:29,02:00:13,00:02:35,00:02:59,05:19:08
+ironman-70.3-pula-20170917.csv,1057,Harald Schober,50,---,AUT,00:00:50,02:56:04,01:59:33,00:01:00,00:02:39,05:00:06
+ironman-70.3-pula-20170917.csv,1058,Walter Schreiber,50,---,AUT,00:00:53,02:56:36,02:04:26,00:02:01,00:02:31,05:06:27
+ironman-70.3-pula-20170917.csv,1059,Marcus Siegle,51,---,DEU,00:00:45,02:42:59,02:26:58,00:02:52,00:03:46,05:17:20
+ironman-70.3-pula-20170917.csv,1060,Nino Strajher,53,HRVATSKA,HRV,00:00:59,03:39:50,02:27:36,00:02:35,00:08:11,06:19:11
+ironman-70.3-pula-20170917.csv,1061,Josef Suchodol,50,Czech rep,CZE,00:00:45,02:51:56,02:03:36,00:01:46,00:03:10,05:01:13
+ironman-70.3-pula-20170917.csv,1062,Takis Tolis,52,---,GRC,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1063,William Toomes,53,meath,IRL,00:00:58,03:21:59,02:06:41,00:02:37,00:05:41,05:37:56
+ironman-70.3-pula-20170917.csv,1064,Vladimir Vagner,52,Bratislava,SVK,00:01:04,02:52:04,02:02:32,00:02:34,00:03:26,05:01:40
+ironman-70.3-pula-20170917.csv,1065,Harald Wagner,52,---,DEU,00:00:49,02:54:31,02:53:27,00:02:21,00:04:14,05:55:22
+ironman-70.3-pula-20170917.csv,1066,Helmut Wenigwieser,50,---,AUT,00:00:42,02:51:26,01:53:10,00:02:03,00:01:24,04:48:45
+ironman-70.3-pula-20170917.csv,1067,Christian Wenzel,53,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1068,Andrey Yankin,54,"APO
+",RUS,00:00:51,03:01:04,02:17:51,00:02:02,00:04:22,05:26:10
+ironman-70.3-pula-20170917.csv,1069,Márhoffer Zsolt,50,---,HUN,00:00:59,03:18:18,02:44:36,00:07:25,00:08:10,06:19:28
+ironman-70.3-pula-20170917.csv,1070,Michael Backshall,57,WA,AUS,00:00:55,03:30:15,02:47:20,00:01:48,00:03:31,06:23:49
+ironman-70.3-pula-20170917.csv,1071,Claudio Boer,56,ITALIA,ITA,00:00:48,02:51:06,02:14:30,00:01:18,00:05:48,05:13:30
+ironman-70.3-pula-20170917.csv,1072,Andreas Böhm,56,---,DEU,00:00:58,03:11:58,02:12:18,00:02:42,00:04:45,05:32:41
+ironman-70.3-pula-20170917.csv,1073,Maurizio Bradaschia,55,Trieste,ITA,00:00:53,03:17:16,02:17:10,00:01:40,00:03:33,05:40:32
+ironman-70.3-pula-20170917.csv,1074,Felix Bydkiewski,58,---,DEU,00:00:57,02:40:08,01:48:19,00:01:18,00:02:47,04:33:29
+ironman-70.3-pula-20170917.csv,1075,Lieven Coelus,55,---,BEL,00:00:59,03:43:37,02:28:08,00:03:05,00:05:00,06:20:49
+ironman-70.3-pula-20170917.csv,1076,Vladimiro De Rossi,58,venezia,ITA,00:01:15,03:05:23,02:27:00,00:03:10,00:06:27,05:43:15
+ironman-70.3-pula-20170917.csv,1077,David Dean,58,---,GBR,00:00:53,03:05:23,02:11:26,00:02:32,00:04:50,05:25:04
+ironman-70.3-pula-20170917.csv,1078,Rodney Frost,55,Surrey,GBR,00:00:47,02:46:37,01:57:50,00:00:50,00:01:51,04:47:55
+ironman-70.3-pula-20170917.csv,1079,Stanislaw Gierasimczyk,57,---,POL,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1080,Lothar Haslinger,57,---,AUT,00:00:52,02:52:16,01:52:46,00:01:47,00:04:31,04:52:12
+ironman-70.3-pula-20170917.csv,1081,Kurt Hofer,55,bolzano,ITA,00:01:21,02:40:28,02:07:23,00:02:18,00:02:58,04:54:28
+ironman-70.3-pula-20170917.csv,1082,Heiko Märkert,54,---,DEU,00:00:43,02:41:27,01:46:41,00:01:05,00:01:58,04:31:54
+ironman-70.3-pula-20170917.csv,1083,Goran Maržic,55,Istria,HRV,00:00:51,03:07:33,02:03:48,00:01:58,00:05:52,05:20:02
+ironman-70.3-pula-20170917.csv,1084,Davide Mezzalira,57,Italy,ITA,00:00:54,03:14:24,02:47:35,00:02:30,00:04:42,06:10:05
+ironman-70.3-pula-20170917.csv,1085,Michael Moerz,55,---,DEU,00:00:45,02:55:03,02:04:46,00:01:28,00:03:41,05:05:43
+ironman-70.3-pula-20170917.csv,1086,Otto Pobatschnig,57,---,AUT,00:00:48,02:52:02,01:48:53,00:02:03,00:02:38,04:46:24
+ironman-70.3-pula-20170917.csv,1087,Frank Riedel,56,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1088,Bernhard Schröppl,58,---,DEU,00:00:54,02:51:35,01:48:45,00:01:02,00:03:11,04:45:27
+ironman-70.3-pula-20170917.csv,1089,Petr Simanek,57,Praha,CZE,00:00:54,02:38:36,02:08:21,00:01:07,00:02:10,04:51:08
+ironman-70.3-pula-20170917.csv,1090,Ireneusz Tarasiewicz,58,---,POL,00:00:50,02:54:14,01:50:33,00:01:28,00:03:27,04:50:32
+ironman-70.3-pula-20170917.csv,1091,Paul Thomas,55,Rhondda-Cynon-Taff,GBR,00:00:52,03:05:31,02:26:47,00:02:01,00:04:55,05:40:06
+ironman-70.3-pula-20170917.csv,1092,Radoica Todorovic,55,"Serbia,Sumadijski okrug",SRB,00:00:44,02:47:08,01:41:25,00:01:26,00:03:21,04:34:04
+ironman-70.3-pula-20170917.csv,1093,Massimo Totis,55,Brescia,ITA,00:00:55,02:59:18,01:53:04,00:02:01,00:04:26,04:59:44
+ironman-70.3-pula-20170917.csv,1094,Andreas Trautmann,54,---,DEU,00:00:51,03:04:15,02:59:37,00:01:47,00:03:48,06:10:18
+ironman-70.3-pula-20170917.csv,1095,Patrick Van De Walle,55,---,BEL,00:00:50,03:15:38,02:40:54,00:03:17,00:08:18,06:08:57
+ironman-70.3-pula-20170917.csv,1096,Etienne Van Wyk,56,---,ZAF,00:00:52,02:59:06,01:44:12,00:01:11,00:03:21,04:48:42
+ironman-70.3-pula-20170917.csv,1097,Peter Wahl,58,---,AUT,00:00:50,03:00:09,02:16:58,00:01:29,00:04:53,05:24:19
+ironman-70.3-pula-20170917.csv,1098,Nicholas Walker,56,---,GBR,00:00:51,03:02:14,02:29:21,00:01:49,00:07:10,05:41:25
+ironman-70.3-pula-20170917.csv,1099,Klemens Wolf,58,---,AUT,00:00:49,02:52:55,01:55:01,00:01:41,00:03:44,04:54:10
+ironman-70.3-pula-20170917.csv,1100,Boris Zmazek,54,Slovenia,SVN,00:00:50,02:47:56,02:00:47,00:01:51,00:03:32,04:54:56
+ironman-70.3-pula-20170917.csv,1101,Alessandro Camporese,60,TREVISO,ITA,00:00:57,03:35:53,02:28:03,00:02:26,00:04:50,06:12:09
+ironman-70.3-pula-20170917.csv,1102,Florian Dr. Betzler,60,---,DEU,00:01:19,03:34:01,03:10:17,00:03:48,00:04:45,06:54:10
+ironman-70.3-pula-20170917.csv,1103,Martin Hohr,60,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1104,François Meslin,64,---,FRA,00:00:53,03:09:50,01:59:07,00:01:13,00:03:23,05:14:26
+ironman-70.3-pula-20170917.csv,1105,Maurizio Olfi,61,VENEZIA,ITA,00:00:52,03:22:37,02:34:49,00:02:03,00:06:05,06:06:26
+ironman-70.3-pula-20170917.csv,1106,Richard Reinert,61,---,BEL,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1107,Peter Scheubert,64,---,DEU,00:01:01,03:05:42,02:53:16,00:01:42,00:05:23,06:07:04
+ironman-70.3-pula-20170917.csv,1108,Maurizio Scopa,64,milano,ITA,00:00:55,03:23:24,02:36:54,00:02:25,00:04:21,06:07:59
+ironman-70.3-pula-20170917.csv,1109,Jiri Slegr,62,cz,CZE,00:00:49,02:39:29,01:51:09,00:01:28,00:03:49,04:36:44
+ironman-70.3-pula-20170917.csv,1110,Peter Herrmann,65,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1111,Alfred Honermann,67,---,DEU,00:00:58,02:59:33,02:08:39,00:02:38,00:04:16,05:16:04
+ironman-70.3-pula-20170917.csv,1112,Stanislav Kermelj,65,APO,SVN,00:00:54,03:06:27,02:33:38,00:01:45,00:04:42,05:47:26
+ironman-70.3-pula-20170917.csv,1113,Ken Macewen,67,---,GBR,00:00:51,03:09:00,02:06:53,00:01:42,00:03:56,05:22:22
+ironman-70.3-pula-20170917.csv,1114,Janez Požar,68,APO,SVN,00:00:55,03:08:30,02:01:10,00:02:12,00:03:21,05:16:08
+ironman-70.3-pula-20170917.csv,1115,Goran Karacic,27,Grad Zagreb,HRV,00:00:50,03:49:21,02:28:42,00:01:23,00:05:08,06:25:24
+ironman-70.3-pula-20170917.csv,1116,Petras Gotautas,29,Kaunas,LTU,00:00:42,02:49:03,01:48:31,00:01:10,00:01:49,04:41:15
+ironman-70.3-pula-20170917.csv,1117,Kirill Filianin,27,Etelä-Karjala,FIN,00:00:48,03:16:57,02:02:08,00:01:26,00:02:38,05:23:57
+ironman-70.3-pula-20170917.csv,1118,Maciej Kozlowski,27,---,POL,00:00:39,03:16:52,02:35:15,00:01:38,00:04:36,05:59:00
+ironman-70.3-pula-20170917.csv,1119,Thibault Cosattini,26,---,FRA,00:00:53,03:01:50,02:02:37,00:01:25,00:04:01,05:10:46
+ironman-70.3-pula-20170917.csv,1120,Donatas Jurkevicius,30,---,LTU,00:00:42,03:19:29,02:14:35,00:01:23,00:02:48,05:38:57
+ironman-70.3-pula-20170917.csv,1121,Josip Valjan Harambašic,32,Grad Zagreb,HRV,00:00:47,03:38:03,02:23:52,00:01:52,00:03:46,06:08:20
+ironman-70.3-pula-20170917.csv,1122,Gregor Horniak,31,Intl State,SVK,00:00:51,02:45:22,01:44:29,00:01:03,00:02:39,04:34:24
+ironman-70.3-pula-20170917.csv,1123,Femia Davide,30,Varese,ITA,00:00:38,02:31:05,01:36:36,00:01:45,00:01:50,04:11:54
+ironman-70.3-pula-20170917.csv,1124,Andrea Latini,34,AP,ITA,00:00:46,02:47:28,01:47:18,00:01:07,00:03:54,04:40:33
+ironman-70.3-pula-20170917.csv,1125,Fabian Fehrenbach,30,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1126,Martin Krupicka,32,Czech republic,CZE,00:00:41,02:30:19,01:37:07,00:01:10,00:02:50,04:12:07
+ironman-70.3-pula-20170917.csv,1127,Bonczok Gabor,37,---,HUN,00:00:55,03:40:16,02:30:51,00:03:54,00:03:38,06:19:34
+ironman-70.3-pula-20170917.csv,1128,Patrick Alteneder,37,---,DEU,00:00:45,---,---,00:01:04,---,DNF
+ironman-70.3-pula-20170917.csv,1129,Viktor Zaitsev,37,"APO
+",RUS,00:00:51,03:09:41,01:56:17,00:01:53,00:03:45,05:12:27
+ironman-70.3-pula-20170917.csv,1130,Roberto Michele Guarino,36,CALTANISSETTA,ITA,00:00:52,03:09:23,02:00:10,00:01:59,00:03:21,05:15:45
+ironman-70.3-pula-20170917.csv,1131,Attila Szucs,38,---,HUN,00:01:02,03:36:14,02:42:10,00:03:16,00:05:43,06:28:25
+ironman-70.3-pula-20170917.csv,1132,Khramtsov Oleksandr,38,---,UKR,00:00:46,02:54:23,02:00:58,00:01:56,00:04:53,05:02:56
+ironman-70.3-pula-20170917.csv,1133,Duncan Thirlwell,36,Tokyo,JPN,00:00:47,03:32:51,02:37:32,00:02:18,00:08:26,06:21:54
+ironman-70.3-pula-20170917.csv,1134,Sandor Cziger,41,---,HUN,00:00:52,03:23:26,02:22:23,00:03:20,00:05:00,05:55:01
+ironman-70.3-pula-20170917.csv,1135,Sam Melnik,44,ISREAL,ISR,00:00:50,03:26:13,02:11:09,00:03:23,00:05:42,05:47:17
+ironman-70.3-pula-20170917.csv,1136,Marko Pavlovic,39,Sumadija,SRB,00:00:37,02:54:26,---,00:01:34,00:03:15,DNF
+ironman-70.3-pula-20170917.csv,1137,Jan Lepier,41,Czech republic,CZE,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1138,Rudi Smolej,40,Mengeš,SVN,00:00:39,02:58:32,02:20:49,00:01:59,00:03:58,05:25:57
+ironman-70.3-pula-20170917.csv,1139,Alberto Massimi,47,italy,ITA,00:00:48,02:37:25,01:33:16,00:01:20,00:02:31,04:15:20
+ironman-70.3-pula-20170917.csv,1140,Alessandro Trovati,46,Milano,ITA,00:01:00,02:55:15,01:48:06,00:02:21,00:04:39,04:51:21
+ironman-70.3-pula-20170917.csv,1141,Johannes Piller,49,---,AUT,00:00:42,02:32:48,01:32:37,00:00:57,00:02:06,04:09:10
+ironman-70.3-pula-20170917.csv,1142,Giampaolo Marchioro,47,venezia,ITA,00:00:47,02:55:10,02:03:27,00:01:28,00:03:11,05:04:03
+ironman-70.3-pula-20170917.csv,1143,Rolf Friedrich,47,---,DEU,00:00:52,02:36:29,01:58:40,00:01:40,00:03:13,04:40:54
+ironman-70.3-pula-20170917.csv,1144,Roman Sembera,50,APO,SVK,00:00:47,02:55:14,02:25:24,00:01:06,00:03:38,05:26:09
+ironman-70.3-pula-20170917.csv,1145,Wolfgang Liebald,52,---,DEU,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1146,Adrian Nanulescu,53,Romania,ROU,00:01:01,03:01:32,02:03:49,00:01:16,00:02:10,05:09:48
+ironman-70.3-pula-20170917.csv,1147,Thierry Lebeau,60,---,FRA,00:00:53,02:54:09,01:57:00,00:01:31,00:03:40,04:57:13
+ironman-70.3-pula-20170917.csv,1148,Jan Fajt,65,CZ,CZE,00:00:52,03:04:14,02:45:52,00:01:47,00:04:21,05:57:06
+ironman-70.3-pula-20170917.csv,1149,Dunja Gorup,33,Croatia,HRV,00:00:46,02:56:16,02:05:01,00:00:54,00:02:18,05:05:15
+ironman-70.3-pula-20170917.csv,1150,Nudzejma Softic,30,Sarajevski kanton,---,00:00:47,03:32:11,02:15:14,00:01:46,00:03:44,05:53:42
+ironman-70.3-pula-20170917.csv,1151,Vanja Svendsen,38,---,NOR,00:00:50,03:21:22,01:55:12,00:01:12,00:02:59,05:21:35
+ironman-70.3-pula-20170917.csv,1152,Johanna Priglinger,41,---,AUT,00:00:48,02:45:48,01:44:46,00:01:19,00:02:00,04:34:41
+ironman-70.3-pula-20170917.csv,1153,Sabrina Barlo,47,Veneto,ITA,00:01:01,03:37:31,02:06:43,00:02:24,00:05:25,05:53:04
+ironman-70.3-pula-20170917.csv,1154,Barbara Alber,51,---,DEU,00:00:50,02:46:58,01:47:17,00:01:03,00:02:21,04:38:29
+ironman-70.3-pula-20170917.csv,1155,Mollie Nohave,50,---,SWE,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1156,Frank Alber,23,---,DEU,00:00:55,02:53:58,02:03:32,00:01:01,00:03:07,05:02:33
+ironman-70.3-pula-20170917.csv,1157,Andrej Cosic,18,Brodsko Posavska županija,HRV,00:00:40,03:24:37,02:01:31,00:01:30,00:05:08,05:33:26
+ironman-70.3-pula-20170917.csv,1158,Manuel Bonardi,30,Como,ITA,00:00:35,02:40:12,01:52:14,00:01:32,00:02:10,04:36:43
+ironman-70.3-pula-20170917.csv,1159,Sandi Milohanic,33,HR,HRV,00:00:38,02:48:05,02:01:38,00:00:54,00:03:46,04:55:01
+ironman-70.3-pula-20170917.csv,1160,Jure Majdic,34,Slovenia,SVN,00:00:39,02:21:17,01:22:48,00:00:52,00:01:47,03:47:23
+ironman-70.3-pula-20170917.csv,1161,Branislav Jesny,39,Slovakia,SVK,00:00:51,02:41:42,01:42:00,00:01:29,00:02:24,04:28:26
+ironman-70.3-pula-20170917.csv,1162,Luis Estrella,37,AUH,MEX,00:00:43,02:56:20,02:17:19,00:01:29,00:03:39,05:19:30
+ironman-70.3-pula-20170917.csv,1163,Ionescu Danes,37,Rou,ROU,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1164,Fabrizio Iezzi,37,Chieti,ITA,00:00:56,02:51:03,01:56:46,00:02:04,00:04:20,04:55:09
+ironman-70.3-pula-20170917.csv,1165,Danijel Hrvat,38,Slovenia,SVN,00:00:49,02:28:09,01:27:41,00:01:11,00:02:10,04:00:00
+ironman-70.3-pula-20170917.csv,1166,Gerd Pichler,38,---,AUT,00:00:47,02:44:13,01:43:17,00:00:52,00:02:38,04:31:47
+ironman-70.3-pula-20170917.csv,1168,Georg Haslinger,43,---,AUT,00:00:54,02:53:35,01:50:33,00:01:11,00:01:54,04:48:07
+ironman-70.3-pula-20170917.csv,1169,Ales Kodat,44,Intl State,CZE,00:00:45,03:08:00,02:19:45,00:03:09,00:06:08,05:37:47
+ironman-70.3-pula-20170917.csv,1170,Andreas Pettinger,43,---,DEU,00:00:45,02:33:39,01:58:35,00:01:37,00:03:37,04:38:13
+ironman-70.3-pula-20170917.csv,1171,Thomas Stückler,41,---,AUT,00:00:51,02:43:08,01:53:44,00:01:29,00:03:11,04:42:23
+ironman-70.3-pula-20170917.csv,1172,Jesper Hansen,44,---,DNK,00:00:44,02:24:52,01:24:10,00:01:19,00:02:22,03:53:27
+ironman-70.3-pula-20170917.csv,1173,David De Paz,41,bo,ITA,00:00:55,03:00:27,02:20:58,00:02:17,00:03:23,05:28:00
+ironman-70.3-pula-20170917.csv,1174,Johann Schwarzott,45,---,AUT,00:00:55,02:53:44,01:43:40,00:01:02,00:02:28,04:41:49
+ironman-70.3-pula-20170917.csv,1175,Giovanni Marangon,46,Italia,ITA,00:00:43,02:46:44,01:40:34,00:01:02,00:02:07,04:31:10
+ironman-70.3-pula-20170917.csv,1176,Alessandro Surian,45,Gorizia,ITA,00:00:48,02:54:41,---,00:01:30,00:02:07,DNF
+ironman-70.3-pula-20170917.csv,1177,Thomas Priglinger,46,---,AUT,00:00:46,02:23:34,01:28:44,00:01:16,00:02:12,03:56:32
+ironman-70.3-pula-20170917.csv,1178,Reinhard Messner,44,---,AUT,00:00:40,02:45:28,02:06:17,00:00:59,00:03:44,04:57:08
+ironman-70.3-pula-20170917.csv,1179,Giovanni Giannoni,51,Pistoia,ITA,00:00:58,03:25:06,02:16:31,00:02:18,00:04:48,05:49:41
+ironman-70.3-pula-20170917.csv,1180,Luca Bellisomo,52,Italia,ITA,---,---,---,---,---,DQ
+ironman-70.3-pula-20170917.csv,1181,Stephan Pollert,54,---,DEU,00:00:39,02:36:59,01:43:27,00:00:55,00:02:29,04:24:29
+ironman-70.3-pula-20170917.csv,1182,Ivano Masiero,53,Vicenza,ITA,00:00:52,03:01:18,02:10:22,00:02:07,00:05:55,05:20:34
+ironman-70.3-pula-20170917.csv,1183,Antonello Bellin,51,VARESE,ITA,00:00:48,02:56:20,01:56:37,00:01:17,00:03:16,04:58:18
+ironman-70.3-pula-20170917.csv,1185,Mirko Tuš,60,slovenija,SVN,00:01:01,02:51:08,02:26:17,00:01:41,00:05:15,05:25:22
+ironman-70.3-pula-20170917.csv,1186,Claudio Panichi,67,Intl State,ITA,00:01:04,02:52:46,02:22:25,00:01:45,00:03:43,05:21:43
+ironman-70.3-pula-20170917.csv,1187,Stephanie Berger,35,---,CHE,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1188,Waltraud Ritter,57,---,AUT,00:00:55,03:00:18,02:09:39,00:01:31,00:03:35,05:15:58
+ironman-70.3-pula-20170917.csv,1189,Carmelo Pagliarisi,33,---,ITA,00:00:42,03:00:29,---,00:01:10,00:09:38,DNF
+ironman-70.3-pula-20170917.csv,1190,Andrea Bordoni,38,italia,ITA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1191,Luca Borreca,36,MI,ITA,00:00:52,02:50:35,---,00:01:36,00:02:39,DNF
+ironman-70.3-pula-20170917.csv,1192,Pierre Cayeux,35,---,FRA,---,---,---,---,---,DNS
+ironman-70.3-pula-20170917.csv,1193,Maxim Tsibulin,37,"APO
+",RUS,00:01:05,03:20:13,02:01:56,00:01:53,00:06:45,05:31:52
+ironman-70.3-pula-20170917.csv,1194,Piotr Spaczynski,40,---,POL,00:00:37,03:07:18,02:15:44,00:01:30,00:03:24,05:28:33
+ironman-70.3-pula-20170917.csv,1195,Ezio Amatucci,45,ITALIA,ITA,00:00:46,02:33:50,01:28:38,00:01:16,00:02:15,04:06:45
+ironman-70.3-pula-20170917.csv,1196,Johnnie Dario Maneiro Collazo,49,Treviso,VEN,00:00:40,02:58:17,02:29:27,00:01:59,00:03:57,05:34:20
+ironman-70.3-pula-20170917.csv,1197,Adem Balic,58,Tuzlanski kanton,---,00:00:48,03:26:49,02:47:23,00:01:59,00:04:32,06:21:31
+ironman-70.3-pula-20170917.csv,1198,Reinhold Garnitschnig,59,---,AUT,00:00:48,02:45:23,01:45:20,00:01:07,00:03:35,04:36:13
+ironman-70.3-pula-20170917.csv,1199,Mario Wölik,45,Free State,AUT,00:00:48,02:45:25,01:49:22,00:01:36,00:02:24,04:39:35
+ironman-70.3-pula-20170917.csv,1200,Mario Imbriani,38,pescara,ITA,00:00:49,03:06:53,01:59:55,00:03:11,00:03:57,05:14:45
+ironman-70.3-pula-20170917.csv,1201,Fabio Di Tieri,44,Italia,ITA,00:00:51,03:06:03,02:43:28,00:02:19,00:04:10,05:56:51
+ironman-70.3-pula-20170917.csv,1202,Mitja Mahoric,41,Slovenia,SVN,00:00:47,02:17:46,02:12:20,00:01:39,00:02:27,04:34:59
+ironman-70.3-pula-20170917.csv,1203,Georg Supp,34,---,AUT,00:00:36,02:41:01,01:45:06,00:00:52,00:02:28,04:30:03
+ironman-70.3-pula-20170917.csv,1204,Vedran Svonja,33,APO,HRV,00:00:49,03:10:50,02:22:10,00:01:36,00:05:35,05:41:00
+ironman-70.3-pula-20170917.csv,1205,Gianni Sartori,49,vicenza,ITA,00:00:39,02:40:07,---,00:01:12,00:03:17,DNF
+ironman-70.3-pula-20170917.csv,1206,Alexander Hefft,48,---,DEU,00:00:49,02:57:58,02:19:30,00:01:48,00:04:22,05:24:27
+ironman-70.3-pula-20170917.csv,1207,Roman Gawronski,36,---,POL,00:00:46,02:46:53,01:48:53,00:01:08,00:02:34,04:40:14
+ironman-70.3-pula-20170917.csv,1208,Alen Pecirep,38,ISTRA,HRV,00:00:45,03:11:19,02:32:47,00:02:02,00:05:20,05:52:13
+ironman-70.3-pula-20170917.csv,1209,Manuel Milosevic,35,HRVATSKA/ISTRA/PULA,HRV,00:00:43,02:44:02,02:17:41,00:02:23,00:05:21,05:10:10
+ironman-70.3-pula-20170917.csv,1210,Drago Bonas,47,Istarska županija,HRV,00:00:44,02:48:13,01:50:42,00:02:20,00:02:46,04:44:45
+ironman-70.3-pula-20170917.csv,1211,Vladimir Beljanski,---,---,SRB,00:00:54,03:02:45,01:54:54,00:01:34,00:05:14,05:05:21
+ironman-70.3-pula-20170917.csv,1212,Dejan Patrcevic,---,---,HRV,00:00:40,02:27:58,01:29:02,00:01:14,00:02:21,04:01:15

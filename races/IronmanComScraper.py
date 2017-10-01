@@ -277,6 +277,7 @@ def getResultsPages():
 
 import pickle
 
+#TODO-If max bib = 100 then skip any scrapping for empty raaces
 
 try: 
    result_page_urls = pickle.load( open( "result_page_urls.p", "rb" ) )
