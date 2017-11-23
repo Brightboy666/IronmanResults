@@ -2,7 +2,7 @@ import csv
 import os
 
 from fuzzywuzzy import fuzz
-from Results import Division
+from athletes.Results import Division
 
 import logging
 
@@ -13,12 +13,11 @@ logger = logging.getLogger(__name__)
 
 import pandas as pd
 
-def get_results_for_ag(div:Division):
+def get_results():
     resultsDir = 'races/results'
-    files = (x for x in os.listdir(resultsDir) if str(x).endswith(".csv"))# and ("70.3-b" in str(x) or "70.3-m" in str(x)))
+    files = (x for x in os.listdir(resultsDir) if (str(x).endswith(".csv")))# and ("70.3-a" in str(x))))
 
     master_df = None
-    #div_list = []
 
     for file in files:
 
@@ -37,20 +36,16 @@ def get_results_for_ag(div:Division):
                 continue
 
             enrich_dataframe(div_df, file)
-            div_df = filter_by_ag(div_df, div)
-            div_df = filter_to_fast(div_df)
-            master_df = div_df if master_df is None else pd.concat([master_df, div_df])
+
+            yield div_df
         except Exception as e:
             logger.exception("Had an issue with: {}".format(file))
             logger.exception(e)
 
-    return master_df
-
-
 def enrich_dataframe(tmp_df, file):
     #Setting times for these peeps as beng very slow
-    div_df.ix[div_df.overallTime.isin(['DNS', 'DNF', 'DQ', '---', pd.np.nan]), 'overallTime'] = "19:59:59"
-    div_df['overallTime'] = pd.to_timedelta(div_df['overallTime'])
+    tmp_df.ix[tmp_df.overallTime.isin(['DNS', 'DNF', 'DQ', '---', pd.np.nan]), 'overallTime'] = "19:59:59"
+    tmp_df['overallTime'] = pd.to_timedelta(tmp_df['overallTime'])
 
     #Changing values that aren't valid ages to 0 so they don't match
     #the following filter
@@ -89,29 +84,4 @@ def enrich_dataframe(tmp_df, file):
 
     #Getting rid of the index which is the file name (we don't need it anyway)
     tmp_df.reset_index(drop=True, inplace=True)
-
-
-def filter_to_fast(df:pd.DataFrame):
-    #We're removing athletes with slow times because we're not going to need to look at them
-    #for predicting who is worth watching at an upcoming race.
-    a = df.ix[((df['overallTime'] < pd.Timedelta('11:45:00')) & (df['overallTime'] > pd.Timedelta('07:20:00')) & (~df['raceName'].str.contains("70.3")))]
-    b = df.ix[((df['overallTime'] < pd.Timedelta('5:45:00')) & (df['overallTime'] > pd.Timedelta('3:20:00')) & (df['raceName'].str.contains("70.3")))]
-    
-    return pd.concat([a, b])
-
-def filter_by_ag(df:pd.DataFrame, div:Division):
-    #Filtering the age range
-    return df[df['currentAge'].between(div.lowAge, div.highAge)]
-
-def filter_by_name(df:pd.DataFrame, name:str):
-    return df
-
-
-if __name__ == "__main__":
-    logging.basicConfig(level=logging.DEBUG)
-
-    div = Division(male=True, lowAge=30, highAge=34)
-    matches = FindAthletes("athletes/upcoming_races/lp703.csv", div).find_matches()
-
-    print(matches[['name', 'overallTime', 'raceName', 'raceDate']])
-    print(matches[matches['name'].str.contains("Ele")])
+    tmp_df.fillna("MISSIING DATA", inplace=True)

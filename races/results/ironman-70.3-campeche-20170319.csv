@@ -1,7 +1,5 @@
 #File=ironman-70.3-campeche-20170319.csv
 race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
-#File=ironman-70.3-campeche-20170319.csv
-race,bib,name,age,state,country,swimTime,bikeTime,runTime,t1Time,t2time,overallTime
 ironman-70.3-campeche-20170319.csv,1,Mauricio Méndez Cruz,21,México,MEX,00:25:48,02:15:20,01:15:33,00:00:49,00:01:33,03:59:03
 ironman-70.3-campeche-20170319.csv,2,Tim Don,39,Intl State,GBR,00:25:52,02:07:04,01:17:05,00:00:53,00:01:33,03:52:27
 ironman-70.3-campeche-20170319.csv,3,Michael Weiss,36,---,AUT,00:28:17,---,---,00:01:24,---,DNF

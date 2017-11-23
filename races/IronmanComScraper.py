@@ -280,14 +280,16 @@ import pickle
 #TODO-If max bib = 100 then skip any scrapping for empty raaces
 
 try: 
-   result_page_urls = pickle.load( open( "result_page_urls.p", "rb" ) )
+    1+""
+    result_page_urls = pickle.load( open( "result_page_urls.p", "rb" ) )
 except:
     result_page_urls = getResultsPages()  
     pickle.dump(result_page_urls, open( "result_page_urls.p", "wb" ) )  
 print(result_page_urls)
 
 try: 
-   urls = pickle.load( open( "urls.p", "rb" ) )
+    1+""
+    urls = pickle.load( open( "urls.p", "rb" ) )
 except:
     urls = getResultUrls(result_page_urls)
     pickle.dump(urls, open( "urls.p", "wb" ) )  

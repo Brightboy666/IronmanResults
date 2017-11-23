@@ -2,7 +2,7 @@
 
 import pandas as pd
 from Reformatter import CSV2AthleteList
-import AthleteLoader
+import athletes.AthleteLoader as loader
 
 import os
 import logging
@@ -35,7 +35,7 @@ class FindAthletes(object):
         upcoming_athletes = upcoming_athletes[upcoming_athletes['Division'] == self.division.toAGStr()]
 
         print("Finding race results for {}".format(self.division.toAGStr()))
-        prev_results = AthleteLoader.get_results_for_ag(self.division)
+        prev_results = loader.get_results_for_ag(self.division)
 
         print("Finding matches")
         def fuzzy_match(x):
@@ -47,9 +47,7 @@ class FindAthletes(object):
 
             try:
                 smaller_list_athletes = prev_results[prev_results['name'].str.contains(re.compile(regex)).fillna(True)]
-
                 smaller_list_athletes = smaller_list_athletes[smaller_list_athletes['name'].notnull()]
-
                 m = process.extractOne(x['Full Name'], choices=smaller_list_athletes['name'], scorer=fuzz.ratio, score_cutoff=70)
 
                 if m is None:
@@ -68,8 +66,8 @@ class FindAthletes(object):
                 logging.exception(e)
 
         r = upcoming_athletes.apply(fuzzy_match, axis=1)
+        
         upcoming_athletes_with_old_results = r[(r['Score'].notnull()) & (r['Score']>80)] #80 appears to be a good cutoff to avoid having too many false matches
-
         matching_old_results = prev_results[prev_results['name'].isin(upcoming_athletes_with_old_results['Match Name'])]
 
         return matching_old_results
@@ -78,7 +76,9 @@ if __name__ == "__main__":
     logging.basicConfig(level=logging.DEBUG)
 
     div = Division(male=True, lowAge=30, highAge=34)
-    matches = FindAthletes("athletes/upcoming_races/lp703.csv", div).find_matches()
+    matches = FindAthletes("athletes/upcoming_races/im_phillipines_out_F2529.csv", div).find_matches()
 
+    pd.options.display.max_rows = 999
     print(matches[['name', 'overallTime', 'raceName', 'raceDate']])
-    print(matches[matches['name'].str.contains("Ele")])
+
+    matches[['name', 'overallTime', 'raceName', 'raceDate']].to_csv('athletes/upcoming_races/im_phil_to_watch_F2529.csv')
