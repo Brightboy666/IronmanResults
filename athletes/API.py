@@ -1,7 +1,7 @@
 from athletes.AthleteLoader import Results
 from athletes.Results import Division
 import pandas as pd
-
+import numpy as np
 
 all_results = Results()
 
@@ -40,9 +40,10 @@ def findResultsForAG(div:Division):
 def cross_ref_world_champ_ties():
     df = findFastResults()
 
-    non_worlds = df[~df['raceName'].str.contains("world")].head()
+    non_worlds = df[~df['raceName'].str.contains("world")]
 
     non_worlds['yearOfRace'] = pd.DatetimeIndex(non_worlds['raceDate']).year
+    non_worlds['yearOfRace'] = pd.DatetimeIndex(non_worlds['raceDate']).month
 
     print(non_worlds['yearOfRace'].head())
     
@@ -57,5 +58,18 @@ def test():
     print(findFastestResults(breach=20))    
 
 if __name__ == "__main__":
-    print(pd.DataFrame.from_csv("http://localhost:8080/fast/csv"))
+    df = pd.DataFrame.from_csv("http://localhost:8080/fast/csv")
+
+    non_worlds = df[(~df['raceName'].str.contains("world") & ~df['raceName'].str.contains("70.3") )]
+    non_worlds['raceDate'] = pd.to_datetime(non_worlds["raceDate"])
+    
+    non_worlds['konaNextYear'] = np.logical_or(non_worlds['raceDate'].dt.month > 8, np.logical_and(non_worlds['raceDate'].dt.month == 8, non_worlds['raceDate'].dt.day > 20))
+    
+    non_worlds['konaYear'] = non_worlds['raceDate'].dt.year
+
+    non_worlds.loc[non_worlds['konaNextYear'],'konaYear'] = non_worlds['konaNextYear']+1
+
+    print(non_worlds[non_worlds['konaNextYear'] == True].head())
+
+
     #cross_ref_world_champ_ties()
