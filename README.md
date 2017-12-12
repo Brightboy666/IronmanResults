@@ -8,13 +8,17 @@
 
 ⋅⋅* TODO: Deploy rest service to a couple cloud vendors
 
-⋅⋅* TODO: Create an R-server which allows processing of data from REST service
+⋅⋅* TODO: Label which athletes have been to Kona
 
-⋅⋅* TODO: Store all athletes info in Elastic Search and allow for easy searching
+⋅⋅* TODO: Play around with classification for predicting Kona qualifiers for upcoming races
+
+  * TODO: Play around with clustering to look for correlations for athletes
 
 ##Data sourcing:
 
-⋅⋅*TODO: Source live data from Ironman website (leverage Coach Cox's perl script?)
+  * TODO: Label pro results... As additional column
+
+  * TODO: Industrialize the scraping of participants of upcoming races
 
 ⋅⋅*TODO: Source results data from USAT website
 
@@ -28,4 +32,4 @@
 
 ##Rolldown:
 
-⋅⋅*TODO: Possible to capture 
+⋅⋅*TODO: Possible to capture? Via cross-referencing participants who have been to Kona.

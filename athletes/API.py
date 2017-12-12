@@ -37,10 +37,25 @@ def findResultsForAG(div:Division):
 
     return df
 
-if __name__ == "__main__":
+def cross_ref_world_champ_ties():
+    df = findFastResults()
+
+    non_worlds = df[~df['raceName'].str.contains("world")].head()
+
+    non_worlds['yearOfRace'] = pd.DatetimeIndex(non_worlds['raceDate']).year
+
+    print(non_worlds['yearOfRace'].head())
+    
+
+
+def test():
+    #TODO: Move into testing suite
     print(findAthleteResults("Erika.*Sampaio", is_regex=True))
     print("***************")
     print(findResultsForAG(Division(male=True, lowAge=35, highAge=39)))
     print("***************")
-    print(findFastestResults(breach=20))
-    
+    print(findFastestResults(breach=20))    
+
+if __name__ == "__main__":
+    print(pd.DataFrame.from_csv("http://localhost:8080/fast/csv"))
+    #cross_ref_world_champ_ties()
