@@ -21,7 +21,7 @@ class Results:
             tmp_cache.append(df)
         self.results_cache = pd.concat(tmp_cache)
 
-    def get_results(self):
+    def get_results(self) -> pd.DataFrame:
         return self.results_cache
 
     def __init_results__(self):
