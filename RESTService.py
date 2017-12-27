@@ -17,5 +17,14 @@ def fastest(format="html"):
     else:
         return API.findFastestResults().to_csv()
 
+
+@app.route('/all')
+def all(format="html"):
+    if format=="html":
+        return API.findAllResults().to_html()
+    else:
+        return API.findAllResults().to_csv()
+
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=8080, debug=False)

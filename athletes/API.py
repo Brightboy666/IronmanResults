@@ -5,6 +5,9 @@ import numpy as np
 
 all_results = Results()
 
+def findAllResults():
+    return all_results.get_results()
+
 def findAthleteResults(name:str, is_regex:bool = False):
     df = all_results.get_results()
     if is_regex:
@@ -58,18 +61,8 @@ def test():
     print(findFastestResults(breach=20))    
 
 if __name__ == "__main__":
-    df = pd.DataFrame.from_csv("http://localhost:8080/fast/csv")
+    df = pd.DataFrame.from_csv("http://localhost:8080/all")
 
-    non_worlds = df[(~df['raceName'].str.contains("world") & ~df['raceName'].str.contains("70.3") )]
-    non_worlds['raceDate'] = pd.to_datetime(non_worlds["raceDate"])
-    
-    non_worlds['konaNextYear'] = np.logical_or(non_worlds['raceDate'].dt.month > 8, np.logical_and(non_worlds['raceDate'].dt.month == 8, non_worlds['raceDate'].dt.day > 20))
-    
-    non_worlds['konaYear'] = non_worlds['raceDate'].dt.year
-
-    non_worlds.loc[non_worlds['konaNextYear'],'konaYear'] = non_worlds['konaNextYear']+1
-
-    print(non_worlds[non_worlds['konaNextYear'] == True].head())
-
+    print(df.head())
 
     #cross_ref_world_champ_ties()
